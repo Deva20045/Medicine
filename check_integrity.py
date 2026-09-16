@@ -24,6 +24,7 @@ LIVE_CHAPTERS = {
     2: ("Gross Anatomy of Kidney", 711, 716, 66, 11),
     3: ("Tubular Anatomy", 717, 725, 100, 13),
     4: ("Juxtaglomerular Apparatus", 726, 729, 50, 7),
+    5: ("Glomerulus - Anatomy", 730, 733, 56, 8),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain

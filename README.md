@@ -19,7 +19,8 @@ rest show a **Soon** badge.
 | Ch 2 · Gross Anatomy of Kidney (p711–716) — 11 units, 66 questions | ✅ built on this branch (merge held until Ch 6) |
 | Ch 3 · Tubular Anatomy (p717–725) — 13 units, 100 questions | ✅ built on this branch (merge held until Ch 6) |
 | Ch 4 · Juxtaglomerular Apparatus (p726–729) — 7 units, 50 questions | ✅ built on this branch (merge held until Ch 6) |
-| Ch 5–74 (Nephrology, Acid–Base, Endocrinology, Hepatology, Infectious Diseases) | 🚧 in progress |
+| Ch 5 · Glomerulus - Anatomy (p730–733) — 8 units, 56 questions | ✅ built on this branch (merge held until Ch 6) |
+| Ch 6–74 (Nephrology, Acid–Base, Endocrinology, Hepatology, Infectious Diseases) | 🚧 in progress |
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 74-chapter
 roadmap, data schema, per-chapter pipeline, and NEXT step.

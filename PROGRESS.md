@@ -157,13 +157,15 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 2 "Gross Anatomy of Kidney" (p711–716): 11 units, 66 questions — BUILT & VERIFIED (branch only; merge held until Ch 6)**
 - [x] **Ch 3 "Tubular Anatomy" (p717–725): 13 units, 100 questions — BUILT & VERIFIED (branch only; merge held until Ch 6)**
 - [x] **Ch 4 "Juxtaglomerular Apparatus" (p726–729): 7 units, 50 questions — BUILT & VERIFIED (branch only; merge held until Ch 6)**
-- [ ] Ch 5–74 (per pipeline above)
+- [x] **Ch 5 "Glomerulus - Anatomy" (p730–733): 8 units, 56 questions — BUILT & VERIFIED (branch only; merge held until Ch 6)**
+- [ ] Ch 6–74 (per pipeline above)
 
 ## NEXT
-**Ch 5 "Glomerulus - Anatomy" (p730–p733)** — render pages, read, author
-`data/ch05.json`, build, verify, commit. Boundary check: ch4 ends at p729 and ch5
-title page verified at p730; ch6 "Renal Physiology" starts at p734 —
-verify the exact p733/734 boundary by rendering both pages before closing Ch 5.
+**Ch 6 "Renal Physiology" (p734–p739)** — render pages, read, author
+`data/ch06.json`, build, verify, commit. Boundary check: ch5 ends at p733 and ch6
+title page verified at p734; ch7 "Urine Analysis" starts at p740 —
+verify the exact p739/740 boundary by rendering both pages before closing Ch 6.
+Once Ch 6 is green: open + merge the PR carrying Ch 2–6 to `main`.
 
 > **Merge policy for this run:** Chapters 2–6 are built and committed on
 > `arena/01a0a8cf-medicine` only. No merge to `main` / no GitHub Pages publish
