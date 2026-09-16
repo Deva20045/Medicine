@@ -159,13 +159,14 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 4 "Juxtaglomerular Apparatus" (p726–729): 7 units, 50 questions — BUILT & VERIFIED**
 - [x] **Ch 5 "Glomerulus - Anatomy" (p730–733): 8 units, 56 questions — BUILT & VERIFIED**
 - [x] **Ch 6 "Renal Physiology" (p734–739): 9 units, 69 questions — BUILT & VERIFIED**
-- [ ] Ch 7–74 (per pipeline above)
+- [x] **Ch 7 "Urine Analysis" (p740–747): 13 units, 94 questions — BUILT & VERIFIED**
+- [ ] Ch 8–74 (per pipeline above)
 
 ## NEXT
-**Ch 7 "Urine Analysis" (p740–p747)** — render pages, read, author
-`data/ch07.json`, build, verify, commit. Boundary check: ch6 ends at p739 and ch7
-title page verified at p740; ch8 starts at p748 — verify the exact p747/748
-boundary by rendering both pages before closing Ch 7.
+**Ch 8 "Basic Approach to Kidney Disease and Renal Artery Stenosis" (p748–p752)** —
+render pages, read, author `data/ch08.json`, build, verify, commit. Boundary check:
+ch7 ends at p747 and ch8 title page verified at p748; ch9 starts at p753 — verify the
+exact p752/753 boundary by rendering both pages before closing Ch 8.
 
 > **Merge policy for this run:** Chapters 2–6 stayed on `arena/01a0a8cf-medicine`
 > until Ch 6 went green; a single PR then carried Ch 2–6 to `main` (live at

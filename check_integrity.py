@@ -26,6 +26,7 @@ LIVE_CHAPTERS = {
     4: ("Juxtaglomerular Apparatus", 726, 729, 50, 7),
     5: ("Glomerulus - Anatomy", 730, 733, 56, 8),
     6: ("Renal Physiology", 734, 739, 69, 9),
+    7: ("Urine Analysis", 740, 747, 94, 13),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain
