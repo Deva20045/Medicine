@@ -20,7 +20,7 @@ TOTAL_ROADMAP_CHAPTERS = 74
 # Add a chapter here (title, first page, last page, expected question count,
 # expected unit count) when its data/chNN.json lands.
 LIVE_CHAPTERS = {
-    1: ("Development of Kidneys", 705, 710, 66, 9),
+    1: ("Development of Kidneys", 705, 710, 68, 9),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain

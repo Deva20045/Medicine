@@ -15,7 +15,7 @@ rest show a **Soon** badge.
 
 | Scope | Status |
 |---|---|
-| Ch 1 · Development of Kidneys (p705–710) — 9 units, 66 questions | ✅ live on this branch |
+| Ch 1 · Development of Kidneys (p705–710) — 9 units, 68 questions | ✅ live on this branch |
 | Ch 2–74 (Nephrology, Acid–Base, Endocrinology, Hepatology, Infectious Diseases) | 🚧 in progress |
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 74-chapter

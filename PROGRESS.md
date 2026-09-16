@@ -153,7 +153,7 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] PDFs moved to `uploads/` and committed
 - [x] App skeleton + index redirect (all 74 chapters listed, rest "Soon")
 - [x] Tooling adapted from the OBG template
-- [x] **Ch 1 "Development of Kidneys" (p705–710): 9 units, 66 questions — BUILT & VERIFIED**
+- [x] **Ch 1 "Development of Kidneys" (p705–710): 9 units, 68 questions — BUILT & VERIFIED**
 - [ ] Ch 2–74 (per pipeline above)
 
 ## NEXT
