@@ -31,6 +31,7 @@ LIVE_CHAPTERS = {
     9: ("Thrombotic Microangiopathy", 753, 755, 35, 5),
     10: ("Glomerular Disease - Patterns", 756, 761, 60, 9),
     11: ("Podocytopathies", 762, 769, 83, 8),
+    12: ("MPGN and IgA Nephropathy", 770, 774, 52, 6),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain

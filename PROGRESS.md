@@ -164,13 +164,12 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 9 "Thrombotic Microangiopathy" (p753–755): 5 units, 35 questions — BUILT & VERIFIED**
 - [x] **Ch 10 "Glomerular Disease - Patterns" (p756–761): 9 units, 60 questions — BUILT & VERIFIED**
 - [x] **Ch 11 "Podocytopathies" (p762–769): 8 units, 83 questions — BUILT & VERIFIED**
-- [ ] Ch 12–74 (per pipeline above)
+- [x] **Ch 12 "MPGN and IgA Nephropathy" (p770–774): 6 units, 52 questions — BUILT & VERIFIED**
+- [ ] Ch 13–74 (per pipeline above)
 
 ## NEXT
-**Ch 12 "MPGN and IgA Nephropathy" (p770–p774)** — render pages (Part 2 PDF 11-15),
-read, author `data/ch12.json`, build, verify, commit. Boundary check: ch11 ends at
-p769 and ch12 title page verified at p770; ch13 starts at p775 — verify the exact
-p774/775 boundary by rendering both pages before closing Ch 12.
+**Ch 7–12 COMPLETE.** All six nephrology chapters built, verified and ready to merge
+to main in a single PR. Ch 13+ continues the same pipeline when requested.
 
 > **Merge policy for this run:** Chapters 2–6 stayed on `arena/01a0a8cf-medicine`
 > until Ch 6 went green; a single PR then carried Ch 2–6 to `main` (live at
