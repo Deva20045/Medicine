@@ -162,13 +162,14 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 7 "Urine Analysis" (p740–747): 13 units, 94 questions — BUILT & VERIFIED**
 - [x] **Ch 8 "Basic Approach to Kidney Disease and Renal Artery Stenosis" (p748–752): 8 units, 56 questions — BUILT & VERIFIED**
 - [x] **Ch 9 "Thrombotic Microangiopathy" (p753–755): 5 units, 35 questions — BUILT & VERIFIED**
-- [ ] Ch 10–74 (per pipeline above)
+- [x] **Ch 10 "Glomerular Disease - Patterns" (p756–761): 9 units, 60 questions — BUILT & VERIFIED**
+- [ ] Ch 11–74 (per pipeline above)
 
 ## NEXT
-**Ch 10 "Glomerular Disease - Patterns" (p756–p761)** — render pages (Part 1 PDF
-64-67 + Part 2 PDF 1-2), read, author `data/ch10.json`, build, verify, commit.
-Boundary check: ch9 ends at p755 and ch10 title page verified at p756; ch11 starts at
-p762 — verify the exact p761/762 boundary by rendering both pages before closing Ch 10.
+**Ch 11 "Podocytopathies" (p762–p769)** — render pages (Part 2 PDF 3-10), read,
+author `data/ch11.json`, build, verify, commit. Boundary check: ch10 ends at p761 and
+ch11 title page verified at p762; ch12 starts at p770 — verify the exact p769/770
+boundary by rendering both pages before closing Ch 11.
 
 > **Merge policy for this run:** Chapters 2–6 stayed on `arena/01a0a8cf-medicine`
 > until Ch 6 went green; a single PR then carried Ch 2–6 to `main` (live at
