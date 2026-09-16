@@ -155,13 +155,14 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] Tooling adapted from the OBG template
 - [x] **Ch 1 "Development of Kidneys" (p705–710): 9 units, 68 questions — BUILT & VERIFIED**
 - [x] **Ch 2 "Gross Anatomy of Kidney" (p711–716): 11 units, 66 questions — BUILT & VERIFIED (branch only; merge held until Ch 6)**
-- [ ] Ch 3–74 (per pipeline above)
+- [x] **Ch 3 "Tubular Anatomy" (p717–725): 13 units, 100 questions — BUILT & VERIFIED (branch only; merge held until Ch 6)**
+- [ ] Ch 4–74 (per pipeline above)
 
 ## NEXT
-**Ch 3 "Tubular Anatomy" (p717–p725)** — render pages, read, author
-`data/ch03.json`, build, verify, commit. Boundary check: ch2 ends at p716 and ch3
-title page verified at p717; ch4 "Juxtaglomerular Apparatus" starts at p726 —
-verify the exact p725/726 boundary by rendering both pages before closing Ch 3.
+**Ch 4 "Juxtaglomerular Apparatus" (p726–p729)** — render pages, read, author
+`data/ch04.json`, build, verify, commit. Boundary check: ch3 ends at p725 and ch4
+title page verified at p726; ch5 "Glomerulus - Anatomy" starts at p730 —
+verify the exact p729/730 boundary by rendering both pages before closing Ch 4.
 
 > **Merge policy for this run:** Chapters 2–6 are built and committed on
 > `arena/01a0a8cf-medicine` only. No merge to `main` / no GitHub Pages publish
