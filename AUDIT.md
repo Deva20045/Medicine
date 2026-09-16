@@ -22,7 +22,7 @@ PREDICTABILITY SIGNALS (bank-wide means)
   answer is the only bracketed option : 4.5%
   question contains filler distractor : 0.0%
   answer term restated in the stem    : 0.0%
-  avg answer length / distractor      : 27.8 / 25.5
+  avg answer length / distractor      : 28.0 / 25.4
   repeated back-to-back stem templates: 0
   longest uninterrupted repeat run    : 2
   option sets reused across questions : 4
