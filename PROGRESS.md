@@ -38,12 +38,12 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 10 | Glomerular Disease - Patterns | p756 | SOON
 | 11 | Podocytopathies | p762 | SOON
 | 12 | MPGN and IgA Nephropathy | p770 | SOON
-| 13 | Post Streptococcal Glomerulonephritis | p775 | SOON
-| 14 | RPGN and Pulmonary Renal Syndrome | p778 | SOON
-| 15 | Familial Glomerular Syndromes | p783 | SOON
-| 16 | Ciliopathies | p786 | SOON
-| 17 | Chronic Tubulointerstitial Disease | p793 | SOON
-| 18 | Acute Kidney Injury | p796 | SOON
+| 13 | Post Streptococcal Glomerulonephritis | p775 | **LIVE**
+| 14 | RPGN and Pulmonary Renal Syndrome | p778 | **LIVE**
+| 15 | Familial Glomerular Syndromes | p783 | **LIVE**
+| 16 | Ciliopathies | p786 | **LIVE**
+| 17 | Chronic Tubulointerstitial Disease | p793 | **LIVE**
+| 18 | Acute Kidney Injury | p796 | **LIVE**
 | 19 | Chronic Kidney Disease | p805 | SOON
 | 20 | Anemia in Chronic Kidney Disease | p808 | SOON
 | 21 | CKD - Calciphylaxis and Cardiovascular changes | p811 | SOON
@@ -165,11 +165,16 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 10 "Glomerular Disease - Patterns" (p756–761): 9 units, 60 questions — BUILT & VERIFIED**
 - [x] **Ch 11 "Podocytopathies" (p762–769): 8 units, 83 questions — BUILT & VERIFIED**
 - [x] **Ch 12 "MPGN and IgA Nephropathy" (p770–774): 6 units, 52 questions — BUILT & VERIFIED**
-- [ ] Ch 13–74 (per pipeline above)
+- [x] **Ch 13 "Post Streptococcal Glomerulonephritis" (p775–777): 3 units, 12 questions — BUILT & VERIFIED**
+- [x] **Ch 14 "RPGN and Pulmonary Renal Syndrome" (p778–782): 5 units, 18 questions — BUILT & VERIFIED**
+- [x] **Ch 15 "Familial Glomerular Syndromes" (p783–785): 3 units, 11 questions — BUILT & VERIFIED**
+- [x] **Ch 16 "Ciliopathies" (p786–792): 7 units, 27 questions — BUILT & VERIFIED**
+- [x] **Ch 17 "Chronic Tubulointerstitial Disease" (p793–795): 3 units, 10 questions — BUILT & VERIFIED**
+- [x] **Ch 18 "Acute Kidney Injury" (p796–804): 9 units, 34 questions — BUILT & VERIFIED**
+- [ ] Ch 19–74 (per pipeline above)
 
 ## NEXT
-**Ch 7–12 COMPLETE.** All six nephrology chapters built, verified and ready to merge
-to main in a single PR. Ch 13+ continues the same pipeline when requested.
+**Ch 13–18 COMPLETE.** Six nephrology chapters built, verified and ready for the single PR to main.
 
 > **Merge policy for this run:** Chapters 2–6 stayed on `arena/01a0a8cf-medicine`
 > until Ch 6 went green; a single PR then carried Ch 2–6 to `main` (live at
