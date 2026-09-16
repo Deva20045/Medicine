@@ -17,10 +17,10 @@ FORMAT MIX (whole bank)
 --------------------------------------------------------------
   1   68     4    12      7     7     7    30.9%   0.0%      3
   2   66     3    11      7     7     9    18.2%   0.0%      0
-  3  100     0    25     17    10    17    28.0%   0.0%      7
+  3  100     0    25     17    10    17    27.0%   0.0%      2
 
 PREDICTABILITY SIGNALS (bank-wide means)
-  longest option is the answer        : 25.7%
+  longest option is the answer        : 25.4%
   answer is the only hedged option    : 0.0%
   answer is the only bracketed option : 4.0%
   question contains filler distractor : 0.0%
@@ -28,7 +28,7 @@ PREDICTABILITY SIGNALS (bank-wide means)
   avg answer length / distractor      : 23.9 / 21.4
   repeated back-to-back stem templates: 0
   longest uninterrupted repeat run    : 2
-  option sets reused across questions : 10
+  option sets reused across questions : 5
 
 MOST REPEATED STEM OPENERS
 

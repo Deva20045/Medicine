@@ -207,8 +207,8 @@
       "opts": [
         "1-B, 2-C, 3-A",
         "1-C, 2-B, 3-A",
-        "1-B, 2-A, 3-C",
-        "1-A, 2-C, 3-B"
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C"
       ],
       "ans": 0,
       "exp": "9 = connecting tubule (CT), 10 = cortical collecting duct, 11 = outer medullary collecting duct, 12 = inner medullary collecting duct. (Book p718)"
@@ -312,8 +312,8 @@
       "opts": [
         "1-B, 2-A, 3-C",
         "1-A, 2-B, 3-C",
-        "1-B, 2-C, 3-A",
-        "1-C, 2-A, 3-B"
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B"
       ],
       "ans": 0,
       "exp": "Non-CKD renal failure over hours to days = AKI; over days to weeks = rapidly progressive renal failure; CKD = falling number of functional nephrons. (Book p718)"
@@ -418,7 +418,7 @@
         "1-B, 2-A, 3-C",
         "1-A, 2-B, 3-C",
         "1-B, 2-C, 3-A",
-        "1-C, 2-A, 3-B"
+        "1-C, 2-B, 3-A"
       ],
       "ans": 0,
       "exp": "Symporters: amino acid transporter (AA), SGLT-2 (glucose), phosphate transporter type II (phosphate). (Book p719)"
@@ -627,8 +627,8 @@
       "opts": [
         "1-B, 2-C, 3-A",
         "1-C, 2-B, 3-A",
-        "1-B, 2-A, 3-C",
-        "1-A, 2-C, 3-B"
+        "1-A, 2-C, 3-B",
+        "1-C, 2-A, 3-B"
       ],
       "ans": 0,
       "exp": "Phosphorus loss → renal rickets; HCO3- loss → NAGMA; AA loss → wasting/growth retardation. (Book p720)"
@@ -912,8 +912,8 @@
       "opts": [
         "1-B, 2-A, 3-C",
         "1-A, 2-B, 3-C",
-        "1-B, 2-C, 3-A",
-        "1-C, 2-A, 3-B"
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B"
       ],
       "ans": 0,
       "exp": "Spironolactone/eplerenone block aldosterone receptors; amiloride/triamterene block ENaC; trimethoprim resembles triamterene. (Book p721)"
@@ -1181,9 +1181,9 @@
       "q": "Fill up: In the un-named cells of the CCD, the hormone acting is ADH and the channel protein is ______.",
       "opts": [
         "Aquaporin",
-        "Pendrin",
-        "ENaC",
-        "ROMK"
+        "Nephrin",
+        "Uromodulin",
+        "Podocin"
       ],
       "ans": 0,
       "exp": "Un-named cells: hormone ADH, channel protein aquaporin. (Book p723)"
@@ -1331,9 +1331,9 @@
       "q": "Match each Bartter type with its descriptor — 1) Type-I 2) Type-IV 3) Type-V … A) AD, Ca-sensing receptor defect with hypocalcemia B) m/c, children with maternal polyhydramnios C) Presents with SNHL",
       "opts": [
         "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
         "1-C, 2-B, 3-A",
-        "1-B, 2-A, 3-C",
-        "1-A, 2-C, 3-B"
+        "1-B, 2-A, 3-C"
       ],
       "ans": 0,
       "exp": "Type-I (m/c): children, maternal polyhydramnios; Type-IV: presents with SNHL; Type-V: AD, Ca-sensing receptor defect, hypocalcemia. (Book p724)"
