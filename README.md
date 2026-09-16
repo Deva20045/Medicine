@@ -21,7 +21,13 @@ rest show a **Soon** badge.
 | Ch 4 · Juxtaglomerular Apparatus (p726–729) — 7 units, 50 questions | ✅ live |
 | Ch 5 · Glomerulus - Anatomy (p730–733) — 8 units, 56 questions | ✅ live |
 | Ch 6 · Renal Physiology (p734–739) — 9 units, 69 questions | ✅ live |
-| Ch 7–74 (Nephrology, Acid–Base, Endocrinology, Hepatology, Infectious Diseases) | 🚧 in progress |
+| Ch 7 · Urine Analysis (p740–747) — 13 units, 94 questions | ✅ live on this branch |
+| Ch 8 · Basic Approach to Kidney Disease and Renal Artery Stenosis (p748–752) — 8 units, 56 questions | ✅ live on this branch |
+| Ch 9 · Thrombotic Microangiopathy (p753–755) — 5 units, 35 questions | ✅ live on this branch |
+| Ch 10 · Glomerular Disease - Patterns (p756–761) — 9 units, 60 questions | ✅ live on this branch |
+| Ch 11 · Podocytopathies (p762–769) — 8 units, 83 questions | ✅ live on this branch |
+| Ch 12 · MPGN and IgA Nephropathy (p770–774) — 6 units, 52 questions | ✅ live on this branch |
+| Ch 13–74 (Nephrology, Acid–Base, Endocrinology, Hepatology, Infectious Diseases) | 🚧 in progress |
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 74-chapter
 roadmap, data schema, per-chapter pipeline, and NEXT step.
