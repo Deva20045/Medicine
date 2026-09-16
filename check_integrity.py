@@ -28,6 +28,7 @@ LIVE_CHAPTERS = {
     6: ("Renal Physiology", 734, 739, 69, 9),
     7: ("Urine Analysis", 740, 747, 94, 13),
     8: ("Basic Approach to Kidney Disease and Renal Artery Stenosis", 748, 752, 56, 8),
+    9: ("Thrombotic Microangiopathy", 753, 755, 35, 5),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain
