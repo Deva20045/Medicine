@@ -154,13 +154,22 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] App skeleton + index redirect (all 74 chapters listed, rest "Soon")
 - [x] Tooling adapted from the OBG template
 - [x] **Ch 1 "Development of Kidneys" (p705–710): 9 units, 68 questions — BUILT & VERIFIED**
-- [ ] Ch 2–74 (per pipeline above)
+- [x] **Ch 2 "Gross Anatomy of Kidney" (p711–716): 11 units, 66 questions — BUILT & VERIFIED**
+- [x] **Ch 3 "Tubular Anatomy" (p717–725): 13 units, 100 questions — BUILT & VERIFIED**
+- [x] **Ch 4 "Juxtaglomerular Apparatus" (p726–729): 7 units, 50 questions — BUILT & VERIFIED**
+- [x] **Ch 5 "Glomerulus - Anatomy" (p730–733): 8 units, 56 questions — BUILT & VERIFIED**
+- [x] **Ch 6 "Renal Physiology" (p734–739): 9 units, 69 questions — BUILT & VERIFIED**
+- [ ] Ch 7–74 (per pipeline above)
 
 ## NEXT
-**Ch 2 "Gross Anatomy of Kidney" (p711–p716)** — render pages, read, author
-`data/ch02.json`, build, verify, commit. Boundary check: ch3 "Tubular Anatomy"
-starts at p717 (title page verified at p717) — re-verify the exact p716/717 boundary
-by rendering both pages before closing Ch 2.
+**Ch 7 "Urine Analysis" (p740–p747)** — render pages, read, author
+`data/ch07.json`, build, verify, commit. Boundary check: ch6 ends at p739 and ch7
+title page verified at p740; ch8 starts at p748 — verify the exact p747/748
+boundary by rendering both pages before closing Ch 7.
+
+> **Merge policy for this run:** Chapters 2–6 stayed on `arena/01a0a8cf-medicine`
+> until Ch 6 went green; a single PR then carried Ch 2–6 to `main` (live at
+> https://deva20045.github.io/Medicine/).
 
 ## Live
 - Preview: https://deva20045.github.io/Medicine/ (updates after merge to `main`)

@@ -21,6 +21,11 @@ TOTAL_ROADMAP_CHAPTERS = 74
 # expected unit count) when its data/chNN.json lands.
 LIVE_CHAPTERS = {
     1: ("Development of Kidneys", 705, 710, 68, 9),
+    2: ("Gross Anatomy of Kidney", 711, 716, 66, 11),
+    3: ("Tubular Anatomy", 717, 725, 100, 13),
+    4: ("Juxtaglomerular Apparatus", 726, 729, 50, 7),
+    5: ("Glomerulus - Anatomy", 730, 733, 56, 8),
+    6: ("Renal Physiology", 734, 739, 69, 9),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain
