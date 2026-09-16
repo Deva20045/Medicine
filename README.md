@@ -25,7 +25,8 @@ rest show a **Soon** badge.
 | Ch 8 · Basic Approach to Kidney Disease and Renal Artery Stenosis (p748–752) — 8 units, 56 questions | ✅ live on this branch |
 | Ch 9 · Thrombotic Microangiopathy (p753–755) — 5 units, 35 questions | ✅ live on this branch |
 | Ch 10 · Glomerular Disease - Patterns (p756–761) — 9 units, 60 questions | ✅ live on this branch |
-| Ch 11–74 (Nephrology, Acid–Base, Endocrinology, Hepatology, Infectious Diseases) | 🚧 in progress |
+| Ch 11 · Podocytopathies (p762–769) — 8 units, 83 questions | ✅ live on this branch |
+| Ch 12–74 (Nephrology, Acid–Base, Endocrinology, Hepatology, Infectious Diseases) | 🚧 in progress |
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 74-chapter
 roadmap, data schema, per-chapter pipeline, and NEXT step.
