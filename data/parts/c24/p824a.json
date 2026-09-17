@@ -1,0 +1,85 @@
+{
+ "page": 824,
+ "sec": "Henderson–Hasselbalch and renal handling of excess HCO₃⁻ · p824",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "The Henderson–Hasselbalch equation is printed in which form for the bicarbonate pair?",
+   "opts": [
+    "pH = pKa + log [HCO₃⁻] (A⁻) / [H₂CO₃] (HA)",
+    "pH = pKa − log [HCO₃⁻] (A⁻) / [H₂CO₃] (HA)",
+    "pH = pKa + log [H₂CO₃] (HA) / [HCO₃⁻] (A⁻)",
+    "pH = pKa × log [HCO₃⁻] (A⁻) / [H₂CO₃] (HA)"
+   ],
+   "ans": 0,
+   "exp": "pH = pKa + log [HCO₃⁻](A⁻)/[H₂CO₃](HA) = pKa + log [HCO₃⁻]/PaCO₂, since H₂CO₃ is in equilibrium with dissolved CO₂. (Book p824)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up (Henderson–Hasselbalch rearrangement): [H⁺] = 24 × ______.",
+   "opts": ["PaCO₂ / HCO₃⁻", "HCO₃⁻ / PaCO₂", "PaO₂ / HCO₃⁻", "PaCO₂ × HCO₃⁻"],
+   "ans": 0,
+   "exp": "[H⁺] = 24 × PaCO₂/HCO₃⁻ — the relation used throughout ABG interpretation. (Book p824)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the acid–base change to its respiratory consequence — 1) ↑HCO₃⁻/metabolic alkalosis  2) Respiratory response  3) Purpose of the change … A) To maintain H⁺ constant  B) Leads to ↑PaCO₂  C) Hypoventilation",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "↑HCO₃⁻/metabolic alkalosis leads to ↑PaCO₂ (labelled respiratory alkalosis on p824) to maintain H⁺ constant. (Book p824)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘Page 824 labels the ↑PaCO₂ response of metabolic alkalosis “respiratory alkalosis”, whereas the compensation table on p828 calls the same change “respiratory acidosis”.’",
+   "opts": [
+    "True — the two pages print different labels for the same hypoventilation response",
+    "False — both pages label the response respiratory acidosis",
+    "False — both pages label the response respiratory alkalosis",
+    "False — p828 states that metabolic alkalosis has no respiratory compensation"
+   ],
+   "ans": 0,
+   "exp": "p824 prints ‘↑PaCO₂/respiratory alkalosis (to maintain H⁺ constant)’ while the p828 compensation table pairs metabolic alkalosis with a respiratory acidosis compensation — the same ↑PaCO₂ change under two labels. (Book p824)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with persistent vomiting has a high bicarbonate. Which renal behaviour explains why the alkalosis persists?",
+   "opts": [
+    "The kidney fails to excrete the excess HCO₃⁻",
+    "The kidney excretes the excess HCO₃⁻ and conserves Cl⁻",
+    "The kidney converts HCO₃⁻ to H₂CO₃ and excretes CO₂",
+    "The kidney reabsorbs Cl⁻ in exchange for HCO₃⁻ excretion"
+   ],
+   "ans": 0,
+   "exp": "Excess HCO₃⁻ handled by the kidney gives two outcomes: excreted with Cl⁻ conserved → no metabolic alkalosis; failure to excrete → metabolic alkalosis. (Book p824)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the renal handling of excess HCO₃⁻ — 1) HCO₃⁻ excreted  2) HCO₃⁻ not excreted  3) Organ deciding the outcome … A) Metabolic alkalosis  B) No metabolic alkalosis  C) Kidney",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "If excess HCO₃⁻ is excreted and Cl⁻ conserved there is no metabolic alkalosis; failure to excrete produces metabolic alkalosis. (Book p824)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are printed in the excess-HCO₃⁻ flowchart. Which is the odd one out?",
+   "opts": [
+    "Lungs are the sole route of HCO₃⁻ disposal",
+    "The kidney is the deciding organ for excess HCO₃⁻",
+    "Excretion of HCO₃⁻ occurs with conservation of Cl⁻",
+    "Failure to excrete HCO₃⁻ causes metabolic alkalosis"
+   ],
+   "ans": 0,
+   "exp": "The flowchart routes excess HCO₃⁻ through the kidney: excretion with Cl⁻ conservation → no alkalosis; failure to excrete → metabolic alkalosis. (Book p824)"
+  }
+ ]
+}

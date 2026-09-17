@@ -1,0 +1,111 @@
+{
+ "page": 821,
+ "sec": "Respiratory and renal buffering systems · p821",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the respiratory buffering chain — 1) [H⁺] + HCO₃⁻  2) CO₂ drive out  3) Consequence … A) ↑ respiratory rate produces respiratory alkalosis  B) Forms H₂CO₃  C) ↓ PaCO₂",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Respiratory buffering: [H⁺] + HCO₃⁻ → H₂CO₃; CO₂ is driven out by ↑ respiratory rate (respiratory alkalosis), lowering PaCO₂. (Book p821)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which statement about the respiratory buffering system is printed?",
+   "opts": [
+    "CO₂ is driven out by an increased respiratory rate, causing respiratory alkalosis and ↓ PaCO₂",
+    "CO₂ is retained by a fall in respiratory rate, causing respiratory acidosis and ↑ PaCO₂",
+    "CO₂ is converted to HCO₃⁻ in the alveolus",
+    "CO₂ excretion is independent of respiratory rate"
+   ],
+   "ans": 0,
+   "exp": "In respiratory buffering, CO₂ drive out occurs with ↑ respiratory rate → respiratory alkalosis → ↓PaCO₂. (Book p821)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the acids produced by the kidney — 1) Non-volatile acids  2) Examples of non-volatile acids  3) Volatile acid  4) Elimination of the volatile acid … A) By respiration  B) Sulphuric acid and phosphoric acid  C) H₂CO₃ (carbonic acid) → H₂O + CO₂  D) Parent category",
+   "opts": [
+    "1-D, 2-B, 3-C, 4-A",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-B, 2-D, 3-A, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Kidney-produced acids: non-volatile acids (sulphuric acid, phosphoric acid) and the volatile H₂CO₃ which breaks to H₂O + CO₂ and is eliminated by respiration. (Book p821)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Renal excretion of non-volatile acid is stated as:",
+   "opts": ["1 mEq/kg/day (80 mEq/day)", "1 mEq/kg/hour (80 mEq/hour)", "80 mEq/kg/day (5600 mEq/day)", "40 mEq/day"],
+   "ans": 0,
+   "exp": "Excretion is 1 mEq/kg/day, i.e. about 80 mEq/day, excreted as titratable acid and ammonia. (Book p821)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The 80 mEq of daily acid load is excreted in which two forms?",
+   "opts": [
+    "Titratable acid and ammonia",
+    "Titratable acid and bicarbonate",
+    "Ammonia and free H⁺ only",
+    "Phosphate and sulphate salts"
+   ],
+   "ans": 0,
+   "exp": "Excretion 1 mEq/kg/day (80 mEq/day) as titratable acid and ammonia. (Book p821)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Filtered HCO₃⁻ per day is printed as 4330 mEq. How is that figure derived?",
+   "opts": [
+    "24 mEq/L × 180 L of glomerular filtrate",
+    "24 mEq/L × 100 L of glomerular filtrate",
+    "80 mEq/kg × 24 hours of collection",
+    "40 nmol/L × 180 L of glomerular filtrate"
+   ],
+   "ans": 0,
+   "exp": "HCO₃⁻ glomerular filtration = 4330 mEq, i.e. 24 mEq/L × 180 L/day. (Book p821)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Urine excretion of HCO₃⁻ is ______.",
+   "opts": ["nil", "4330 mEq/day", "80 mEq/day", "24 mEq/day"],
+   "ans": 0,
+   "exp": "Urine excretion of HCO₃⁻ is nil because reabsorption is 100% (4000 of the 4330 mEq in the PCT alone). (Book p821)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The reabsorption of filtered HCO₃⁻ is 100%, distributed in which printed order of magnitude?",
+   "opts": [
+    "PCT (approx 4000 mEq) > thick AL > DCT",
+    "Thick AL > PCT (approx 4000 mEq) > DCT",
+    "DCT > PCT (approx 4000 mEq) > thick AL",
+    "PCT (approx 4330 mEq) = thick AL > DCT"
+   ],
+   "ans": 0,
+   "exp": "Reabsorption is 100%: PCT (approx 4000 mEq) > thick AL > DCT; the rest of the filtered load is reclaimed more distally. (Book p821)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘About 4000 of the 4330 mEq of filtered bicarbonate is reabsorbed in the PCT, and the urine ultimately contains none.’",
+   "opts": [
+    "True — PCT ≈ 4000 mEq, overall reabsorption 100%, urine HCO₃⁻ nil",
+    "False — the PCT reabsorbs only about 400 mEq",
+    "False — urine normally contains 80 mEq/day of HCO₃⁻",
+    "True, but the distal nephron contributes the larger share"
+   ],
+   "ans": 0,
+   "exp": "Filtered HCO₃⁻ 4330 mEq/day is 100% reabsorbed — approximately 4000 mEq in the PCT, the rest in thick AL and DCT — so urine HCO₃⁻ excretion is nil. (Book p821)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these are printed under the renal buffering system. Which is the odd one out?",
+   "opts": ["80 mEq of volatile acid excreted daily", "4330 mEq of HCO₃⁻ filtered daily", "1 mEq/kg/day of acid excretion", "Urine HCO₃⁻ excretion nil"],
+   "ans": 0,
+   "exp": "The 80 mEq/day refers to *non-volatile* acid excretion; volatile H₂CO₃ is eliminated by respiration, not excreted in urine. (Book p821)"
+  }
+ ]
+}

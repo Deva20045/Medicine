@@ -1,0 +1,73 @@
+{
+ "page": 824,
+ "sec": "Saline-unresponsive alkalosis: ECF volume expansion · p824",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "ECF volume expansion causes metabolic alkalosis that is:",
+   "opts": [
+    "Saline unresponsive, with a normal urine Cl⁻ > 40 mEq/L",
+    "Saline responsive, with a urine Cl⁻ < 25 mEq/L",
+    "Saline unresponsive, with a urine Cl⁻ < 10 mEq/L",
+    "Saline responsive, with a high urine chloride"
+   ],
+   "ans": 0,
+   "exp": "ECF volume expansion = saline unresponsive metabolic alkalosis with a normal urine Cl⁻ (> 40 mEq/L). (Book p824)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the renin–aldosterone pattern to the major cause — 1) ↓Renin, ↑Aldosterone  2) ↑Renin, ↑Aldosterone  3) ↓Renin, ↓Aldosterone … A) Liddle syndrome — gain-of-function ENaC mutation  B) Primary hyperaldosteronism  C) Renal artery stenosis",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Major causes by pattern: ↓renin with ↑aldosterone = primary hyperaldosteronism (Conn's syndrome); ↑renin with ↑aldosterone = RAS and renin-secreting tumours; ↓renin with ↓aldosterone = Liddle syndrome. (Book p824)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Liddle syndrome is described as:",
+   "opts": [
+    "A gain-of-function mutation of ENaC with ↓renin and ↓aldosterone",
+    "A loss-of-function mutation of ENaC with ↑renin and ↑aldosterone",
+    "A cortisol excess state with ↓renin and ↑aldosterone",
+    "An ACTH-driven aldosterone excess with ↑renin"
+   ],
+   "ans": 0,
+   "exp": "Liddle syndrome = gain of function mutation of ENaC, giving ↓renin and ↓aldosterone with alkalosis. (Book p824)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A hypertensive patient has metabolic alkalosis, suppressed renin, high aldosterone and a normal urine chloride. Which printed cause fits?",
+   "opts": [
+    "Primary hyperaldosteronism (Conn's syndrome)",
+    "Liddle syndrome",
+    "Renin-secreting tumour of the juxtaglomerular apparatus",
+    "Post-hypercapnic alkalosis after chronic CO₂ retention"
+   ],
+   "ans": 0,
+   "exp": "The ↓renin/↑aldosterone box is labelled primary hyperaldosteronism (Conn's syndrome), a saline-unresponsive cause. (Book p824)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘Renal artery stenosis produces metabolic alkalosis with high renin and high aldosterone.’",
+   "opts": [
+    "True — ↑renin with ↑aldosterone is the printed RAS pattern",
+    "False — RAS produces low renin with high aldosterone",
+    "False — RAS produces low renin with low aldosterone",
+    "True, but only when the urine chloride is below 25 mEq/L"
+   ],
+   "ans": 0,
+   "exp": "The ↑renin/↑aldosterone column lists RAS and renin-secreting tumours among the major causes of saline-unresponsive alkalosis. (Book p824)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these are printed as major causes of saline-unresponsive metabolic alkalosis. Which is the odd one out?",
+   "opts": ["Vomiting with nasogastric aspiration with a urine Cl⁻ of 12 mEq/L", "Liddle syndrome", "Primary hyperaldosteronism (Conn's syndrome)", "Renin-secreting tumour"],
+   "ans": 0,
+   "exp": "Vomiting/NG aspiration cell is a *saline-responsive* cause (ECF volume contraction); the ECF-volume-expansion major causes are Conn's syndrome, RAS/renin-secreting tumours and Liddle syndrome. (Book p824)"
+  }
+ ]
+}

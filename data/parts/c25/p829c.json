@@ -1,0 +1,87 @@
+{
+ "page": 829,
+ "sec": "Osmolal gap · p829",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "The osmolal gap is defined as:",
+   "opts": [
+    "Measured osmolality (osmomoter) − calculated osmolality",
+    "Calculated osmolality − measured osmolality",
+    "Measured osmolality + calculated osmolality",
+    "Measured osmolality − serum sodium"
+   ],
+   "ans": 0,
+   "exp": "Osmolal gap = measured osmolality (osmomoter) − calculated osmolality. (Book p829)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Calculated osmolality = 2(Na) + BUN/2.8 + ______ + 1.25 × EtOH (in mmol/L).",
+   "opts": ["Glucose/18", "Glucose/2.8", "Glucose × 18", "Glucose/1.25"],
+   "ans": 0,
+   "exp": "Calculated osmolality: 2(Na) + BUN/2.8 + Glucose/18 + 1.25 × EtOH (in mmol/L). (Book p829)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the calculated-osmolality terms to their divisors — 1) BUN  2) Glucose  3) Ethanol … A) Multiplied by 1.25  B) Divided by 2.8  C) Divided by 18",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "2(Na) + BUN/2.8 + Glucose/18 + 1.25 × EtOH — BUN divided by 2.8, glucose by 18, ethanol multiplied by 1.25. (Book p829)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The normal value of the osmolal gap is:",
+   "opts": ["< 10 mOsm/kg", "< 20 mOsm/kg", "< 5 mOsm/kg", "< 2 mOsm/kg"],
+   "ans": 0,
+   "exp": "Normal osmolal gap < 10 mOsm/kg; a value ≥ 10 mOsm/kg indicates unmeasured osmotically active molecules. (Book p829)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "A value at or above which osmolal gap indicates unmeasured osmotically active molecules is:",
+   "opts": ["10 mOsm/kg", "20 mOsm/kg", "5 mOsm/kg", "12 mOsm/kg"],
+   "ans": 0,
+   "exp": "Value ≥ 10 mOsm/kg → presence of unmeasured osmotically active molecules, e.g. methanol or ethylene glycol. (Book p829)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with an unexplained high anion gap acidosis has an osmolal gap of 22 mOsm/kg. Which printed example fits?",
+   "opts": [
+    "Methanol or ethylene glycol ingestion",
+    "Diabetic ketoacidosis with a normal osmolal gap",
+    "Lactic acidosis from sepsis",
+    "Chronic kidney disease with urea retention"
+   ],
+   "ans": 0,
+   "exp": "A raised osmolal gap points to unmeasured osmotically active molecules, the printed examples being methanol and ethylene glycol — both HAGMA causes that also raise osmolality. (Book p829)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘The osmolal gap is calculated with the sodium term doubled and ethanol factored in.’",
+   "opts": [
+    "True — 2(Na) with 1.25 × EtOH in the calculated osmolality",
+    "False — sodium is not part of the calculated osmolality",
+    "False — ethanol is subtracted, not added",
+    "True, but only when BUN is omitted"
+   ],
+   "ans": 0,
+   "exp": "Calculated osmolality = 2(Na) + BUN/2.8 + Glucose/18 + 1.25 × EtOH (mmol/L), and it is subtracted from the measured value to give the gap. (Book p829)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these belong to the osmolal gap section. Which is the odd one out?",
+   "opts": [
+    "The calculated osmolality uses the chloride concentration",
+    "The gap compares measured (osmomoter) with calculated osmolality",
+    "A gap ≥ 10 mOsm/kg suggests unmeasured osmotically active molecules",
+    "Methanol and ethylene glycol are the printed examples"
+   ],
+   "ans": 0,
+   "exp": "The printed formula is 2(Na) + BUN/2.8 + Glucose/18 + 1.25 × EtOH — chloride is not part of it. (Book p829)"
+  }
+ ]
+}

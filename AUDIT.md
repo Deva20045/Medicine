@@ -1,17 +1,17 @@
 ==============================================================================
 PULSE Medicine — QUESTION VARIETY & PREDICTABILITY AUDIT
 ==============================================================================
-1720 questions · 164 units · 22 live chapter(s)
+2002 questions · 182 units · 25 live chapter(s)
 
 FORMAT MIX (whole bank)
-  recall         551   32.0%
-  match          240   14.0%
-  fillup         198   11.5%
-  numeric        194   11.3%
-  truefalse      184   10.7%
-  oddoneout      161    9.4%
-  scenario       149    8.7%
-  management      43    2.5%
+  recall         613   30.6%
+  match          302   15.1%
+  numeric        231   11.5%
+  truefalse      218   10.9%
+  fillup         216   10.8%
+  oddoneout      192    9.6%
+  scenario       187    9.3%
+  management      43    2.1%
 
  Ch   Qs  scen  fill  match   T/F   odd  longest   leak  reuse
 --------------------------------------------------------------
@@ -37,17 +37,20 @@ FORMAT MIX (whole bank)
  20   76     4     4      6     8     5    32.9%   0.0%      2
  21   93     4     2      6    11     6    36.6%   0.0%      2
  22   90     5     4      8    10     8    31.1%   1.1%      3
+ 23  137    15    10     30    14    12    22.6%   0.0%     18
+ 24   40     7     1      8     6     6    25.0%   0.0%      4
+ 25  105    16     7     24    14    13    24.8%   0.0%     17
 
 PREDICTABILITY SIGNALS (bank-wide means)
-  longest option is the answer        : 27.7%
+  longest option is the answer        : 27.2%
   answer is the only hedged option    : 0.3%
-  answer is the only bracketed option : 4.6%
+  answer is the only bracketed option : 4.5%
   question contains filler distractor : 0.0%
   answer term restated in the stem    : 0.1%
-  avg answer length / distractor      : 25.4 / 22.8
+  avg answer length / distractor      : 26.5 / 23.6
   repeated back-to-back stem templates: 0
   longest uninterrupted repeat run    : 2
-  option sets reused across questions : 70
+  option sets reused across questions : 109
 
 MOST REPEATED STEM OPENERS
 

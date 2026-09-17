@@ -1,0 +1,101 @@
+{
+ "page": 822,
+ "sec": "The α-intercalated cell and net acid secretion · p822",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "The cortical collecting system diagram is drawn for which cell type?",
+   "opts": ["α-intercalated cell", "β-intercalated cell", "Principal cell", "Proximal tubule cell"],
+   "ans": 0,
+   "exp": "The diagram is labelled ‘α intercalated cell’, the acid-secreting cell of the cortical collecting system. (Book p822)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the pumps on the α-intercalated cell — 1) Luminal H⁺ pump  2) Apical exchange pump  3) Which ion is exchanged … A) K⁺  B) H⁺-ATPase  C) H⁺,K⁺-ATPase",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Both an H⁺-ATPase and an H⁺,K⁺-ATPase are drawn on the luminal side of the α-intercalated cell, the latter exchanging H⁺ for K⁺. (Book p822)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "How many ATP-requiring pumps are labelled in the α-intercalated cell diagram?",
+   "opts": ["Two", "One", "Three", "None — secretion is passive"],
+   "ans": 0,
+   "exp": "The diagram labels two ATP-dependent transporters: the H⁺-ATPase and the H⁺,K⁺-ATPase. (Book p822)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Inside the α-intercalated cell, CO₂ + H₂O combine under the influence of ______ to form H₂CO₃.",
+   "opts": ["carbonic anhydrase II (CA II)", "carbonic anhydrase IV (CA IV)", "the H⁺-ATPase", "the Na⁺–HCO₃⁻ exchanger"],
+   "ans": 0,
+   "exp": "The α-intercalated cell uses CA II to make H₂CO₃ from CO₂ and H₂O; the H⁺ so generated is secreted into the lumen. (Book p822)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the urinary acid species — 1) HPO₄²⁻ → H₂PO₄⁻  2) NH₃ → NH₄⁺  3) Difference between them … A) Non-titratable acid  B) Titratable acid  C) Only the first appears on the titratable-acid line",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels HPO₄²⁻ → H₂PO₄⁻ as titratable acid and NH₃ → NH₄⁺ as non-titratable acid. (Book p822)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Net acid secretion = urine NH₄⁺ + ______ − urine HCO₃⁻.",
+   "opts": ["urine titratable acid", "urine phosphate", "urine creatinine", "serum HCO₃⁻"],
+   "ans": 0,
+   "exp": "Net acid secretion: urine NH₄⁺ + urine titratable acid − urine HCO₃⁻. (Book p822)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In the α-intercalated cell diagram, the K⁺ drawn on the luminal side moves:",
+   "opts": [
+    "Into the lumen, exchanged for H⁺ by the H⁺,K⁺-ATPase",
+    "Into the cell, exchanged for Na⁺",
+    "Into the lumen, pumped by the H⁺-ATPase",
+    "Nowhere — K⁺ is shown only intracellularly"
+   ],
+   "ans": 0,
+   "exp": "The H⁺,K⁺-ATPase exchanges H⁺ (secreted) for K⁺ (reabsorbed); K⁺ is also shown exiting to the lumen alongside H⁺ in the diagram. (Book p822)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘The urinary ammonium and phosphate species are both counted as titratable acid in the printed formula.’",
+   "opts": [
+    "False — NH₄⁺ is non-titratable acid; only the phosphate species is titratable acid",
+    "True — both are titratable acid by definition",
+    "False — HPO₄²⁻ is the non-titratable species",
+    "True, but only when urine HCO₃⁻ is zero"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels H₂PO₄⁻ (from HPO₄²⁻) as titratable acid and NH₄⁺ as non-titratable acid; the net acid formula adds both to urine NH₄⁺ and subtracts urine HCO₃⁻. (Book p822)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these are labelled on the α-intercalated cell diagram. Which is the odd one out?",
+   "opts": ["Na⁺–K⁺-ATPase on the luminal membrane", "CA II in the cytoplasm", "H⁺-ATPase on the luminal membrane", "H⁺,K⁺-ATPase on the luminal membrane"],
+   "ans": 0,
+   "exp": "The luminal membrane shows the H⁺-ATPase and the H⁺,K⁺-ATPase with CA II in the cytoplasm; no luminal Na⁺–K⁺-ATPase is drawn. (Book p822)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient's urine shows abundant NH₄⁺ and H₂PO₄⁻ but no HCO₃⁻. What is the net acid secretion according to the printed formula?",
+   "opts": [
+    "Urine NH₄⁺ + urine titratable acid (urine HCO₃⁻ contributes nothing)",
+    "Urine NH₄⁺ − urine titratable acid",
+    "Urine titratable acid − urine NH₄⁺",
+    "Zero, because urine HCO₃⁻ is nil"
+   ],
+   "ans": 0,
+   "exp": "Net acid secretion = urine NH₄⁺ + urine titratable acid − urine HCO₃⁻; with no urinary HCO₃⁻, the two acid species alone determine net acid secretion. (Book p822)"
+  }
+ ]
+}

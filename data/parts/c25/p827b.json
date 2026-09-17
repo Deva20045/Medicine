@@ -1,0 +1,85 @@
+{
+ "page": 827,
+ "sec": "The primary problems and the three reading methods · p827",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "The ‘primary problem’ tree of ABG interpretation ends in how many primary abnormalities?",
+   "opts": [
+    "Four — metabolic acidosis, metabolic alkalosis, respiratory acidosis, respiratory alkalosis",
+    "Two — metabolic and respiratory",
+    "Three — acidosis, alkalosis and mixed",
+    "Six — each of the four with acute and chronic forms"
+   ],
+   "ans": 0,
+   "exp": "The tree gives four primary problems: metabolic acidosis and metabolic alkalosis (bicarbonate arms) and respiratory acidosis and alkalosis (PaCO₂ arms). (Book p827)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the respiratory arms of the primary-problem tree — 1) Respiratory acidosis  2) Respiratory alkalosis  3) Each respiratory disorder is further labelled … A) Acute or chronic  B) ↑PaCO₂  C) ↓PaCO₂",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Respiratory acidosis ↑PaCO₂ and respiratory alkalosis ↓PaCO₂; both branches are further divided into acute and chronic forms. (Book p827)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘In the primary-problem tree, only the respiratory disorders are further divided into acute and chronic.’",
+   "opts": [
+    "True — the acute/chronic bracket sits under the two respiratory arms",
+    "False — the metabolic arms are also divided into acute and chronic",
+    "False — no arm is divided into acute and chronic",
+    "True, but the metabolic arms are divided into compensated and uncompensated instead"
+   ],
+   "ans": 0,
+   "exp": "The printed tree brackets the two respiratory arms together with ‘Acute’ and ‘Chronic’. (Book p827)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the ABG reading methods printed — 1) Boston  2) Copenhagen  3) Stewarts … A) Third-listed method  B) First-listed method  C) Second-listed method",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "ABG reading methods listed left to right: Boston, Copenhagen, Stewarts. (Book p827)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘On p827 the metabolic arms are drawn as “metabolic acidosis ↑HCO₃⁻” and “metabolic alkalosis ↓HCO₃⁻”, while the step-2 flowchart on p828 gives ↓HCO₃⁻ for metabolic acidosis and ↑HCO₃⁻ for metabolic alkalosis.’",
+   "opts": [
+    "True — the two pages place the metabolic arrows differently, and p828 carries the interpretation logic",
+    "False — both pages draw ↑HCO₃⁻ under metabolic acidosis",
+    "False — both pages draw ↓HCO₃⁻ under metabolic acidosis",
+    "False — the p828 flowchart never mentions HCO₃⁻"
+   ],
+   "ans": 0,
+   "exp": "The p827 primary-problem tree prints the bicarbonate arrows under the metabolic labels in the reverse sense, whereas the step-2 flowchart on p828 uses ↓HCO₃⁻ = metabolic acidosis and ↑HCO₃⁻ = metabolic alkalosis — the convention followed when interpreting a report. (Book p827)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are printed ABG reading methods. Which is the odd one out?",
+   "opts": ["Astrup–Siggard method", "Boston method", "Copenhagen method", "Stewarts method"],
+   "ans": 0,
+   "exp": "Only three reading methods are listed — Boston, Copenhagen and Stewarts. (Book p827)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An ABG report shows pH 7.30 with a high PaCO₂ and a high HCO₃⁻. Using the primary-problem tree, which arm is being reported?",
+   "opts": [
+    "Respiratory acidosis, to be labelled acute or chronic",
+    "Metabolic alkalosis with respiratory compensation",
+    "Respiratory alkalosis, to be labelled acute or chronic",
+    "Mixed metabolic acidosis and metabolic alkalosis"
+   ],
+   "ans": 0,
+   "exp": "A high PaCO₂ places the report on the respiratory-acidosis arm of the tree, which is then labelled acute or chronic. (Book p827)"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "page": 829,
+ "sec": "Anion gap parameters and the corrected anion gap · p829",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the anion gap derivation — 1) measured cation + unmeasured cation  2) mc − ma  3) Anion gap  4) Formula … A) = unmeasured anion − unmeasured cation  B) = measured anion + unmeasured anion  C) = uc − ua  D) = Na⁺ − (HCO₃⁻ + Cl⁻)",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-D, 2-C, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "measured cation + unmeasured cation = measured anion + unmeasured anion; rearranged as mc − ma = ua − uc, so anion gap = uc − ua = Na⁺ − (HCO₃⁻ + Cl⁻). (Book p829)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The normal anion gap is given as:",
+   "opts": ["12 ± 2 mEq/L", "8 ± 2 mEq/L", "24 ± 2 mEq/L", "16 ± 4 mEq/L"],
+   "ans": 0,
+   "exp": "AG = 12 ± 2 mEq/L. (Book p829)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Corrected AG (AGc) = AG + 2.5 × ______.",
+   "opts": ["(4.5 − S.albumin)", "(S.albumin − 4.5)", "(4.5 − S.globulin)", "(4.5 + S.albumin)"],
+   "ans": 0,
+   "exp": "AGc (corrected AG) = AG + 2.5 (4.5 − S.albumin). (Book p829)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient has an anion gap of 10 mEq/L and a serum albumin of 2.0 g/dL. Using the printed formula, what is the corrected anion gap?",
+   "opts": [
+    "16.25 mEq/L — AG + 2.5 (4.5 − 2.0)",
+    "12.5 mEq/L — AG + 2.5 (4.5 − 2.0) / 2",
+    "8.75 mEq/L — AG − 2.5 (4.5 − 2.0)",
+    "13.75 mEq/L — AG + 2.5 (4.5 − 2.0) + 2"
+   ],
+   "ans": 0,
+   "exp": "AGc = AG + 2.5 (4.5 − S.albumin) = 10 + 2.5 (4.5 − 2.0) = 10 + 6.25 = 16.25 mEq/L, unmasking a high anion gap. (Book p829)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which measured cation is used in the printed anion gap formula?",
+   "opts": ["Na⁺", "K⁺", "Ca²⁺", "Mg²⁺"],
+   "ans": 0,
+   "exp": "AG = Na⁺ − (HCO₃⁻ + Cl⁻) — potassium is not included in the printed formula. (Book p829)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘The corrected anion gap is used because albumin contributes to the measured/unmeasured charge balance.’",
+   "opts": [
+    "True — the correction AG + 2.5 (4.5 − S.albumin) adjusts for the albumin level",
+    "False — the correction adjusts only for phosphate",
+    "False — the correction adjusts for serum potassium",
+    "True, but the correction is applied only when albumin exceeds 4.5 g/dL"
+   ],
+   "ans": 0,
+   "exp": "AGc = AG + 2.5 (4.5 − S.albumin); a low albumin lowers the measured gap, so the corrected value unmasks a high anion gap. (Book p829)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these statements about the anion gap are printed on p829. Which is the odd one out?",
+   "opts": [
+    "Unmeasured anions raise the gap while unmeasured cations also raise it",
+    "AG = Na⁺ − (HCO₃⁻ + Cl⁻)",
+    "mc − ma = ua − uc provides the derivation",
+    "The normal anion gap is 12 ± 2 mEq/L"
+   ],
+   "ans": 0,
+   "exp": "The gap is unmeasured anion minus unmeasured cation, so unmeasured *cations* lower it — they do not raise it. (Book p829)"
+  }
+ ]
+}

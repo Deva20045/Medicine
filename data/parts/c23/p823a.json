@@ -1,0 +1,82 @@
+{
+ "page": 823,
+ "sec": "Distal (type 1) RTA · p823",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Distal RTA (type 1) is caused by a defect of:",
+   "opts": ["H⁺-ATPase / H⁺,K⁺-ATPase", "Na⁺–HCO₃⁻ exchanger", "Carbonic anhydrase II", "Na⁺–phosphate exchanger"],
+   "ans": 0,
+   "exp": "Distal RTA/type 1: defect of the H⁺-ATPase / H⁺,K⁺-ATPase of the distal tubule. (Book p823)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the consequences of the distal tubular defect — 1) Acid–base defect  2) Potassium  3) Urine pH … A) Alkaline  B) Severe NAGMA  C) Severe hypokalemia",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Distal tubular defect → severe NAGMA, severe hypokalemia and an alkaline urine pH, with no glycosuria. (Book p823)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘Glycosuria is a feature of distal RTA.’",
+   "opts": [
+    "False — the flowchart states ‘No glycosuria’ in distal RTA",
+    "True — the distal tubule normally reclaims glucose",
+    "True, but only in the acquired form",
+    "False — glycosuria occurs in distal RTA only with diabetes"
+   ],
+   "ans": 0,
+   "exp": "The distal RTA flowchart explicitly prints ‘No glycosuria’ (glycosuria belongs to proximal RTA). (Book p823)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the bone/stone arm of distal RTA — 1) Ca²⁺ resorption in bone  2) Result one  3) Result two … A) Kidney stones  B) ↑Ca²⁺ resorption in bone  C) Rickets-like change",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Increased Ca²⁺ resorption from bone in distal RTA produces rickets-like change and kidney stones. (Book p823)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 34-year-old woman has severe hypokalemia, a hyperchloremic acidosis with a normal anion gap, an alkaline urine and recurrent calcium stones. Which diagnosis fits?",
+   "opts": ["Distal (type 1) RTA", "Proximal (type 2) RTA", "Fanconi's syndrome with glycosuria", "Type 4 RTA"],
+   "ans": 0,
+   "exp": "Severe NAGMA with severe hypokalemia, alkaline urine, rickets-like change and kidney stones is the printed picture of distal RTA/type 1. (Book p823)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Salt and water wasting in distal RTA leads to:",
+   "opts": ["RANS activation", "Glycosuria", "Loss of phosphorus", "Alkaline urine"],
+   "ans": 0,
+   "exp": "The distal RTA flowchart: salt water wasting → RANS activation (the printed spelling alongside RAS). (Book p823)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these are features of distal RTA on the flowchart. Which is the odd one out?",
+   "opts": ["Glycosuria", "Alkaline urine pH", "Severe hypokalemia", "Severe NAGMA"],
+   "ans": 0,
+   "exp": "Distal RTA produces severe NAGMA, severe hypokalemia, salt wasting and an alkaline urine — the chart states ‘No glycosuria’. (Book p823)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘In distal RTA the acidosis and the hypokalemia are both described as severe, while in proximal RTA they are mild.’",
+   "opts": [
+    "True — the comparison table grades them severe in distal and mild in proximal RTA",
+    "False — both are severe in proximal RTA",
+    "True — but only the hypokalemia is severe in distal RTA",
+    "False — the table says NAGMA is mild in distal RTA"
+   ],
+   "ans": 0,
+   "exp": "The distal-vs-proximal table grades NAGMA with hypokalemia as severe in distal RTA and mild in proximal RTA. (Book p823)"
+  }
+ ]
+}
