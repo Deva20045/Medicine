@@ -1,0 +1,9 @@
+{
+ "page": 741,
+ "sec": "Physical Properties: odour table · p741",
+ "items": [
+  {"fmt": "truefalse", "q": "The odour table gives cabbage-like and rancid-butter odour as two separate rows sharing a single condition, tyrosinemia type I.", "opts": ["True — one condition is written across both rows", "False — cabbage-like marks tyrosinemia and rancid butter marks hawkinsinuria", "False — rancid butter is paired with methyl malonic acidemia", "True — and the same condition also explains the fish odour"], "ans": 0, "exp": "The table brackets 'Cabbage-like' and 'Rancid butter' against one entry: Tyrosinemia type I. Swimming pool is hawkinsinuria and fish urine is trimethylaminuria. (Book p741)"},
+  {"fmt": "match", "q": "Match each odour in the second half of the table with its condition — 1) Acid smell 2) Sulfurous 3) Sweet … A) Beta ketothiolase deficiency B) Methyl malonic acidemia (MMA) C) Cystinuria D) Multiple carboxylase deficiency", "opts": ["1-B, 2-C, 3-A", "1-C, 2-B, 3-A", "1-B, 2-A, 3-D", "1-D, 2-C, 3-B"], "ans": 0, "exp": "As printed: acid smell → methyl malonic acidemia (MMA), sulfurous → cystinuria, sweet → beta ketothiolase deficiency; the cat-urine odour belongs to multiple carboxylase deficiency. (Book p741)"},
+  {"fmt": "scenario", "q": "A mother brings an infant whose urine smells of boiled fish; the child is otherwise well and the dipstick is unremarkable. The table directs you to:", "opts": ["Trimethylaminuria", "Cystinuria", "Phenylketonuria", "Maple syrup urine disease"], "ans": 0, "exp": "'Fish urine' is the row for trimethylaminuria; cystinuria is the sulfurous row, PKU the musty/mousy row and MSUD the curry/maple-syrup row. (Book p741)"}
+ ]
+}

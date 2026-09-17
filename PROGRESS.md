@@ -27,17 +27,17 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | # | Chapter | Book start | Status |
 |---|---|---|---|
 | 1 | Development of Kidneys | p705 | **LIVE**
-| 2 | Gross Anatomy of Kidney | p711 | SOON
-| 3 | Tubular Anatomy | p717 | SOON
-| 4 | Juxtaglomerular Apparatus | p726 | SOON
-| 5 | Glomerulus - Anatomy | p730 | SOON
-| 6 | Renal Physiology | p734 | SOON
-| 7 | Urine Analysis | p740 | SOON
-| 8 | Basic Approach to Kidney Disease and Renal Artery Stenosis | p748 | SOON
-| 9 | Thrombotic Microangiopathy | p753 | SOON
-| 10 | Glomerular Disease - Patterns | p756 | SOON
-| 11 | Podocytopathies | p762 | SOON
-| 12 | MPGN and IgA Nephropathy | p770 | SOON
+| 2 | Gross Anatomy of Kidney | p711 | **LIVE**
+| 3 | Tubular Anatomy | p717 | **LIVE**
+| 4 | Juxtaglomerular Apparatus | p726 | **LIVE**
+| 5 | Glomerulus - Anatomy | p730 | **LIVE**
+| 6 | Renal Physiology | p734 | **LIVE (page-anchored re-audit)**
+| 7 | Urine Analysis | p740 | **LIVE (page-anchored re-audit)**
+| 8 | Basic Approach to Kidney Disease and Renal Artery Stenosis | p748 | **LIVE (page-anchored re-audit)**
+| 9 | Thrombotic Microangiopathy | p753 | **LIVE (page-anchored re-audit)**
+| 10 | Glomerular Disease - Patterns | p756 | **LIVE (page-anchored re-audit)**
+| 11 | Podocytopathies | p762 | **LIVE (page-anchored re-audit)**
+| 12 | MPGN and IgA Nephropathy | p770 | **LIVE (page-anchored re-audit)**
 | 13 | Post Streptococcal Glomerulonephritis | p775 | **LIVE (re-audited)**
 | 14 | RPGN and Pulmonary Renal Syndrome | p778 | **LIVE (re-audited)**
 | 15 | Familial Glomerular Syndromes | p783 | **LIVE (re-audited)**
@@ -148,6 +148,7 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 | `audit_variety.py` | Format mix + predictability signals (length bias, hedging, fillers, template runs, option reuse) |
 | `fix_audit2.py` | Second-pass rewrites for Ch 13–18 (55 items replaced, 1 relabelled, 1 deleted) |
 | `diversify_keys.py` | Permutes match key lists so correct-option key strings differ between items |
+| `patch_items.py` | Rewrite chosen items inside part files (format changes keep the page-cited explanation) |
 | `itemlab.py` | Add/edit questions in `data/` with renumbering + auto-rebuild (`map`, `flag`, `apply`, `stats`) |
 | `AUDIT.md` | Latest output of `audit_variety.py` |
 | `REPORT_CH23-25.md` | Build report for Ch 23–25 (Acid–Base), page-by-page coverage + metrics |
@@ -161,16 +162,16 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 3 "Tubular Anatomy" (p717–725): 13 units, 100 questions — BUILT & VERIFIED**
 - [x] **Ch 4 "Juxtaglomerular Apparatus" (p726–729): 7 units, 50 questions — BUILT & VERIFIED**
 - [x] **Ch 5 "Glomerulus - Anatomy" (p730–733): 8 units, 56 questions — BUILT & VERIFIED**
-- [x] **Ch 6 "Renal Physiology" (p734–739): 9 units, 69 questions — BUILT & VERIFIED**
-- [x] **Ch 7 "Urine Analysis" (p740–747): 13 units, 94 questions — BUILT & VERIFIED**
-- [x] **Ch 8 "Basic Approach to Kidney Disease and Renal Artery Stenosis" (p748–752): 8 units, 56 questions — BUILT & VERIFIED**
-- [x] **Ch 9 "Thrombotic Microangiopathy" (p753–755): 5 units, 35 questions — BUILT & VERIFIED**
-- [x] **Ch 10 "Glomerular Disease - Patterns" (p756–761): 9 units, 60 questions — BUILT & VERIFIED**
-- [x] **Ch 11 "Podocytopathies" (p762–769): 8 units, 83 questions — BUILT & VERIFIED**
-- [x] **Ch 12 "MPGN and IgA Nephropathy" (p770–774): 6 units, 52 questions — BUILT & VERIFIED**
-- [x] **Ch 13 "Post Streptococcal Glomerulonephritis" (p775–777): 3 units, 73 questions — RE-AUDITED ×2 (content + option quality)**
-- [x] **Ch 14 "RPGN and Pulmonary Renal Syndrome" (p778–782): 5 units, 82 questions — RE-AUDITED, rebuilt page-by-page**
-- [x] **Ch 15 "Familial Glomerular Syndromes" (p783–785): 4 units, 54 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 6 "Renal Physiology" (p734–739): 10 units, 133 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 7 "Urine Analysis" (p740–747): 10 units, 135 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 8 "Basic Approach to Kidney Disease and Renal Artery Stenosis" (p748–752): 8 units, 83 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 9 "Thrombotic Microangiopathy" (p753–755): 5 units, 52 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 10 "Glomerular Disease - Patterns" (p756–761): 9 units, 78 questions — RE-AUDITED, gap-filled page-by-page**
+- [x] **Ch 11 "Podocytopathies" (p762–769): 8 units, 88 questions — RE-AUDITED; 16 items re-formatted, p769 figures/treatment gap-filled**
+- [x] **Ch 12 "MPGN and IgA Nephropathy" (p770–774): 6 units, 52 questions — RE-AUDITED; 16 items re-formatted, length leak 51.9% → 26.9%**
+- [x] **Ch 13 "Post Streptococcal Glomerulonephritis" (p775–777): 3 units, 73 questions — RE-AUDITED ×2, re-verified in the Ch 6–15 pass**
+- [x] **Ch 14 "RPGN and Pulmonary Renal Syndrome" (p778–782): 5 units, 82 questions — RE-AUDITED, rebuilt page-by-page, re-verified**
+- [x] **Ch 15 "Familial Glomerular Syndromes" (p783–785): 4 units, 54 questions — RE-AUDITED, rebuilt page-by-page, re-verified (p785 covers every printed line)**
 - [x] **Ch 16 "Ciliopathies" (p786–792): 6 units, 139 questions — RE-AUDITED, rebuilt page-by-page**
 - [x] **Ch 17 "Chronic Tubulointerstitial Disease" (p793–795): 3 units, 52 questions — RE-AUDITED ×2 (content + option quality)**
 - [x] **Ch 18 "Acute Kidney Injury" (p796–804): 9 units, 181 questions — RE-AUDITED ×2 (content + option quality)**
@@ -184,7 +185,27 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [ ] Ch 26–74 (per pipeline above)
 
 ## NEXT
-**Ch 19–22 (p805–818, Nephrology) and Ch 23–25 (p819–829, Acid–Base) are both live.**
+**Ch 6–15 re-audited (Book p734–785) — see `REAUDIT_CH6-15.md`.** Ch 6–12 were taken
+through the page-anchored pipeline page by page (p734–774, 41 pages read from the scan,
+tables/flowcharts/figure captions included); Ch 13–15 were re-verified against every gate
+and left intact because they already met it. Ch 11 and Ch 12 additionally had 32 items
+re-authored into non-recall formats with `patch_items.py`, which keeps the existing
+`(Book pX)` explanation so a format change can never drift the fact, and Ch 12's
+longest-option leak was rebalanced from 51.9% to 26.9%.
+
+Counts now: Ch 6 133 · Ch 7 135 · Ch 8 83 · Ch 9 52 · Ch 10 78 · Ch 11 88 · Ch 12 52 ·
+Ch 13 73 · Ch 14 82 · Ch 15 54 = **830 questions in 68 units** for this window, with 70%
+of them in non-recall formats.
+
+Verification run (all green): `python3 assemble.py <ch>` per chapter →
+`build_content.py` → `check_integrity.py` (IDs, four-option structure, citations, book
+order, source↔app equality, JS syntax) → `node check_app_smoke.js` (full roadmap,
+live-ch paths, final questions render) → `python3 audit_variety.py > AUDIT.md`.
+
+Honest limits recorded in `REAUDIT_CH6-15.md`: Ch 10 p759–761 were reviewed as stems,
+not re-read from the scan this pass, and Ch 11–12 gained format variety rather than new
+facts (their page coverage came from the earlier pass; only p769 was newly read).
+
 
 *Ch 19–22 (built & re-audited page-by-page):* all 14 pages re-rendered and read line by
 line (tables, flowcharts, figures, graph axes, arrow labels), authored through the
@@ -204,8 +225,10 @@ taught explicitly: the p824 "respiratory alkalosis" label for the ↑PaCO₂ res
 (versus the p828 compensation table), and the reversed bicarbonate arrows in the p827
 primary-problem tree (versus the p828 step-2 flowchart). See **`REPORT_CH23-25.md`**.
 
-**Bank total: 2002 questions · 182 units · 25 live chapters**, all 125 in-scope pages
-p705–829 represented.
+**Bank total: 2174 questions · 180 units · 25 live chapters**, all 125 in-scope pages
+p705–829 represented (this batch alone took the bank from 1720 to 1892 before the
+Acid–Base merge).
+
 
 **Next: Ch 26 "Overview of Hormones" (p830) onward — Endocrinology (Ch 26–55).**
 

@@ -1,0 +1,54 @@
+{
+ "page": 754,
+ "sec": "Atypical HUS Genetics, Drugs & Investigations · p754",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "In the coagulation line of the blood investigation block, what is stated as normal?",
+   "opts": [
+    "PT/APTT",
+    "Bleeding time",
+    "Fibrinogen only",
+    "D-dimer"
+   ],
+   "ans": 0,
+   "exp": "The blood-investigation list runs: ↑LDH, -ve Coombs test, ↑indirect bilirubin, ↓haptoglobin level, Normal - PT/APTT — normal clotting helps distinguish TMA from DIC. (Book p754)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each sporadic drug-induced agent with the position of its listing — 1) Tacrolimus and cyclosporine 2) Ticlopidine and clopidogrel 3) Mitomycin … A) Grouped under calcineurin inhibitors B) Marked 'TTP also' C) The first bullet of the drug list D) Listed under immune-mediated HUS only",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-D, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "The sporadic block lists mitomycin first, then gemcitabine and bevacizumab, then 'Calcineurin inhibitors: tacrolimus, cyclosporine', then ticlopidine and clopidogrel bracketed 'TTP also', and cisplatin; quinine, gemcitabine, quetiapine and cotrimoxazole form the separate immune-mediated list. (Book p754)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Gemcitabine appears twice in the causes diagram — once as a sporadic drug-induced agent and once under immune-mediated HUS.",
+   "opts": [
+    "True — the same drug is printed in both lists",
+    "False — it appears only among calcineurin inhibitors",
+    "False — it appears only under immune-mediated HUS",
+    "True — and it is also the toxin of streptococcal neuraminidase"
+   ],
+   "ans": 0,
+   "exp": "Gemcitabine is the second bullet of 'Sporadic: Drug induced' and the second bullet of 'Immune mediated HUS' on the same page. (Book p754)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All of the following are printed under the sporadic drug-induced column EXCEPT:",
+   "opts": [
+    "Rituximab",
+    "Bevacizumab",
+    "Cisplatin",
+    "Cyclosporine"
+   ],
+   "ans": 0,
+   "exp": "The drug column lists mitomycin, gemcitabine, bevacizumab, calcineurin inhibitors (tacrolimus, cyclosporine), ticlopidine, clopidogrel and cisplatin; rituximab appears only as post-transplant therapy on p755. (Book p754)"
+  }
+ ]
+}

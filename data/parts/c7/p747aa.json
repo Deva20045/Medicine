@@ -1,0 +1,10 @@
+{
+ "page": 747,
+ "sec": "Crystals in urine — figure panels · p747",
+ "items": [
+  {"fmt": "recall", "q": "Which panel of this figure page names its crystal but prints no shape descriptor at all?", "opts": ["Cholesterol crystal", "Struvite", "Calcium phosphate", "Cystine"], "ans": 0, "exp": "Panel F is captioned simply 'Cholesterol crystal', while every other caption carries a shape: rhomboid, bipyramidal/envelope, dumb bell, star shaped, coffin lid and hexagonal. (Book p747)"},
+  {"fmt": "match", "q": "Match each figure letter with its printed caption — 1) D 2) E 3) F … A) Cholesterol crystal B) Calcium phosphate (in alkaline urine), star shaped C) Struvite (MgNH4PO4), coffin lid appearance D) Amoxicillin crystal, broom brush appearance", "opts": ["1-B, 2-C, 3-A", "1-A, 2-B, 3-C", "1-C, 2-B, 3-A", "1-D, 2-C, 3-B"], "ans": 0, "exp": "The second row of photographs runs D — calcium phosphate in alkaline urine (star shaped), E — struvite (MgNH4PO4, coffin lid), F — cholesterol; the broom-brush amoxicillin panel sits in the bottom row. (Book p747)"},
+  {"fmt": "oddoneout", "q": "Every crystal below is paired with the shape descriptor printed under its photograph EXCEPT:", "opts": ["Cholesterol — coffin-lid", "Uric acid — rhomboid", "Calcium phosphate — star shaped", "Cystine — hexagonal"], "ans": 0, "exp": "The coffin-lid appearance belongs to struvite; the cholesterol caption carries no shape at all. (Book p747)"},
+  {"fmt": "truefalse", "q": "Panels A, B and C form the top row of the figure and are captioned uric acid, calcium oxalate dihydrate and calcium oxalate monohydrate in that order.", "opts": ["True — that is the sequence of the three captions", "False — panel B is calcium oxalate monohydrate and C is dihydrate", "False — panel A is captioned calcium phosphate", "True — and all three are described as envelope shaped"], "ans": 0, "exp": "Top row: A uric acid (rhomboid), B calcium oxalate dihydrate (bipyramidal/envelope), C calcium oxalate monohydrate (dumb bell). (Book p747)"}
+ ]
+}

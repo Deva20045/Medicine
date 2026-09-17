@@ -1,0 +1,12 @@
+{
+ "page": 735,
+ "sec": "GFR equations · p735",
+ "items": [
+  {"fmt": "numeric", "q": "In the Cockcroft & Gault numerator, the patient's age is subtracted from:", "opts": ["140", "100", "120", "150"], "ans": 0, "exp": "Creatinine clearance = (140 − age) × body weight ÷ (72 × S.creatinine) in males. (Book p735)"},
+  {"fmt": "fillup", "q": "Fill up: The book labels the Cockcroft & Gault equation as a ______ formula, which explains why it is still used despite being obsolete.", "opts": ["Bed side", "Gold standard", "Research-only", "Pediatric"], "ans": 0, "exp": "Two lines appear under the formula: 'Bed side formula' and 'Not preferred now d/t disadvantages'. (Book p735)"},
+  {"fmt": "recall", "q": "MDRD, as the page expands the abbreviation, is the society for:", "opts": ["Modification of diet & renal diseases", "Management of diabetic & renal disease", "Measurement of drug dosing in renal disease", "Mapping of dysfunction in renal dialysis"], "ans": 0, "exp": "Entry 2 reads: MDRD equation — by society for modification of diet & renal diseases. (Book p735)"},
+  {"fmt": "numeric", "q": "The stated advantage of the CKD-EPI equation appears once the GFR is above:", "opts": ["60", "90", "30", "15"], "ans": 0, "exp": "CKD-EPI: Best (Advantage when GFR > 60). (Book p735)"},
+  {"fmt": "match", "q": "Match each equation with the label attached to it on this page — 1) Cockcroft & Gault 2) MDRD and CKD-EPI 3) CKD-EPI alone … A) Best when GFR is above 60 B) Obsolete, bed side formula C) Preferred now D) Used to estimate GFR in children", "opts": ["1-B, 2-C, 3-A", "1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-D, 2-C, 3-A"], "ans": 0, "exp": "Cockcroft & Gault = obsolete bed side formula; MDRD and CKD-EPI are bracketed as 'Preferred now'; CKD-EPI alone carries 'Best (Advantage when GFR > 60)'. Schwartz is the children's equation. (Book p735)"},
+  {"fmt": "truefalse", "q": "According to the table, the Cockcroft & Gault equation overestimates GFR because creatinine is filtered and also secreted.", "opts": ["True — clearance equals GFR plus tubular secretion", "False — the page says it underestimates GFR for the same reason", "True — because alkaline picrate assays under-read creatinine", "False — tubular secretion only affects IDMs-based assays"], "ans": 0, "exp": "The disadvantage column lists 'Cr is secreted → CrCl = GFR + Tubular secretion', alongside clearance = GFR + secretion or GFR − absorption, which is why the estimate over-reads true GFR. (Book p735)"}
+ ]
+}

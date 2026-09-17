@@ -1,0 +1,138 @@
+{
+ "page": 766,
+ "sec": "Biopsy & IF: MCD, IgM Nephropathy, FSGS",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "In MCD, biopsy (light microscopy, PAS) and immunofluorescence are both:",
+   "opts": [
+    "Normal",
+    "Showing mesangial expansion",
+    "Showing spikes",
+    "Showing crescents"
+   ],
+   "ans": 0,
+   "exp": "Biopsy: normal; IF: normal (light microscopy: normal glomerulus, PAS stain). (Book p766)"
+  },
+  {
+   "fmt": "recall",
+   "q": "IgM nephropathy, a variant of MCD, shows mesangial matrix expansion on biopsy, IgM +ve on IF and:",
+   "opts": [
+    "Poor prognosis compared to MCD",
+    "Better prognosis than MCD",
+    "Identical prognosis to MCD",
+    "Universal steroid resistance"
+   ],
+   "ans": 0,
+   "exp": "IgM nephropathy: variant of MCD; mesangial matrix expansion; IF IgM +ve; poor prognosis compared to MCD. (Book p766)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "With Apo L1 polymorphisms in FSGS, what proportion of patients develop CKD by 10 years?",
+   "opts": [
+    "70%",
+    "30%",
+    "10%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "Associated with Apo L1 polymorphisms; 70% develop CKD by 10 years. (Book p766)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In the biopsy definitions of FSGS, 'focal' means fewer than ______ percent of glomeruli are involved.",
+   "opts": [
+    "50",
+    "10",
+    "75",
+    "90"
+   ],
+   "ans": 0,
+   "exp": "Focal: <50% glomeruli involved; segmental: only a portion of glomeruli involved. (Book p766)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The sclerosis chain written for FSGS runs: podocyte lost in urine → podocytopenia → GBM synechiae with parietal epithelial cell →",
+   "opts": [
+    "Sclerosis",
+    "Crescent formation",
+    "Subepithelial deposits",
+    "Mesangial interposition"
+   ],
+   "ans": 0,
+   "exp": "Eosinophilic hyaline material obliterating glomeruli: podocyte lost in urine → podocytopenia → GBM synechiae with parietal epithelial cell → sclerosis. (Book p766)"
+  },
+  {
+   "fmt": "recall",
+   "q": "IF in FSGS shows focal IgM ± C3; in 2° FSGS the IF is:",
+   "opts": [
+    "Negative",
+    "Diffuse IgG",
+    "Full house",
+    "Linear IgG"
+   ],
+   "ans": 0,
+   "exp": "IF: focal IgM ± C3; 2° FSGS: IF negative. (Book p766)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The FSGS treatment ladder uses steroid 1 mg/kg/day for how long before declaring SRNS?",
+   "opts": [
+    "4 months",
+    "6 weeks",
+    "2 months",
+    "6 months"
+   ],
+   "ans": 0,
+   "exp": "Steroid (1 mg/kg/day) → 4 months → if no response: SRNS → CNI/MMF → CKD → transplant. (Book p766)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 12-year-old with steroid-resistant FSGS receives a living-related graft and develops nephrotic-range proteinuria on day 10. The warning printed on this biopsy page that fits is:",
+   "opts": [
+    "Transplant recurrence of FSGS, which can occur even after the kidney is replaced",
+    "Hyperacute rejection only, since recurrence is confined to minimal change disease",
+    "De-novo membranous nephropathy, the commonest lesion after transplantation",
+    "Recurrent IgA nephropathy with mesangial IgA deposits"
+   ],
+   "ans": 0,
+   "exp": "Even after transplant, recurrence can occur: transplant recurrence FSGS. (Book p766)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Which IF statement is TRUE as per this page?",
+   "opts": [
+    "2° FSGS is IF negative while primary FSGS shows focal IgM ± C3",
+    "2° FSGS shows full-house IF",
+    "MCD shows IgM +ve IF",
+    "FSGS IF is linear IgG along the GBM"
+   ],
+   "ans": 0,
+   "exp": "Focal IgM ± C3 in FSGS; 2° FSGS IF negative; MCD IF normal; IgM +ve belongs to IgM nephropathy. (Book p766)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each entity with its IF/biopsy signature — 1) MCD 2) IgM nephropathy 3) Primary FSGS … A) Focal IgM ± C3 B) Normal biopsy and IF C) Mesangial matrix expansion with IgM +ve",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "MCD normal; IgM nephropathy mesangial expansion + IgM; FSGS focal IgM ± C3. (Book p766)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "The light-microscopy figure labels on this page include normal glomerulus (PAS), IgM nephropathy and segmental sclerosis; the odd one out not labelled here is:",
+   "opts": [
+    "Spike formation",
+    "Normal glomerulus (PAS stain)",
+    "IgM nephropathy",
+    "Segmental sclerosis"
+   ],
+   "ans": 0,
+   "exp": "Labels: normal glomerulus (PAS), IgM nephropathy, FSGS with segmental sclerosis; spikes belong to the MN pages. (Book p766)"
+  }
+ ]
+}

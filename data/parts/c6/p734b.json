@@ -1,0 +1,54 @@
+{
+ "page": 734,
+ "sec": "Normal GFR & uses",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "Normal GFR as written in the book is:",
+   "opts": [
+    "125–150 ml/min",
+    "15–60 ml/min",
+    "90–125 ml/min",
+    "60–90 ml/min"
+   ],
+   "ans": 0,
+   "exp": "Normal GFR: 90–125 ml/min. (Book p734)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The principal use of GFR listed is that:",
+   "opts": [
+    "Chronic kidney disease is classified based on GFR",
+    "GFR stages acute kidney injury",
+    "GFR grades proteinuria",
+    "GFR selects the dialysis membrane"
+   ],
+   "ans": 0,
+   "exp": "Use: chronic kidney disease (CKD) is classified based on GFR. (Book p734)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: A GFR below 15 ml/min marks G5 / end-stage renal disease / the uremic phase, when ______ is required.",
+   "opts": [
+    "ACE inhibitor therapy",
+    "Fluid restriction only",
+    "Dialysis",
+    "Renal biopsy"
+   ],
+   "ans": 0,
+   "exp": "Eg: GFR <15 ml/min: G5/ESRD/uremic phase (dialysis required). (Book p734)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Which of the following statements about GFR staging is TRUE?",
+   "opts": [
+    "GFR <15 ml/min corresponds to G5/ESRD, the uremic phase needing dialysis",
+    "GFR <15 ml/min corresponds to G2 CKD",
+    "GFR <15 ml/min needs no replacement therapy",
+    "G5 begins below 60 ml/min"
+   ],
+   "ans": 0,
+   "exp": "GFR <15 ml/min = G5/ESRD/uremic phase, dialysis required. (Book p734)"
+  }
+ ]
+}
