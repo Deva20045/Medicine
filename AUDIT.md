@@ -1,17 +1,17 @@
 ==============================================================================
 PULSE Medicine — QUESTION VARIETY & PREDICTABILITY AUDIT
 ==============================================================================
-1825 questions · 162 units · 22 live chapter(s)
+1852 questions · 162 units · 22 live chapter(s)
 
 FORMAT MIX (whole bank)
-  recall         567   31.1%
-  match          248   13.6%
-  fillup         213   11.7%
-  truefalse      205   11.2%
-  numeric        205   11.2%
-  oddoneout      179    9.8%
-  scenario       164    9.0%
-  management      44    2.4%
+  recall         574   31.0%
+  match          249   13.4%
+  fillup         218   11.8%
+  truefalse      210   11.3%
+  numeric        207   11.2%
+  oddoneout      180    9.7%
+  scenario       169    9.1%
+  management      45    2.4%
 
  Ch   Qs  scen  fill  match   T/F   odd  longest   leak  reuse
 --------------------------------------------------------------
@@ -22,7 +22,7 @@ FORMAT MIX (whole bank)
   5   56     0    15      6     5     6    23.2%   0.0%      1
   6  133    11    30     11    21    15    21.1%   0.0%      4
   7  135    14    16     16    19    16    28.9%   0.0%      1
-  8   56     0     3      4     6     5    33.9%   0.0%      0
+  8   83     5     8      5    11     6    36.1%   0.0%      0
   9   35     0     2      5     2     2    34.3%   0.0%      0
  10   60     0     2      5     3     1    26.7%   0.0%      0
  11   83     0     2      8     4     5    32.5%   0.0%      0
@@ -39,12 +39,12 @@ FORMAT MIX (whole bank)
  22   90     5     4      8    10     8    31.1%   1.1%      3
 
 PREDICTABILITY SIGNALS (bank-wide means)
-  longest option is the answer        : 27.6%
+  longest option is the answer        : 27.7%
   answer is the only hedged option    : 0.3%
-  answer is the only bracketed option : 4.3%
+  answer is the only bracketed option : 4.2%
   question contains filler distractor : 0.0%
   answer term restated in the stem    : 0.1%
-  avg answer length / distractor      : 25.8 / 23.2
+  avg answer length / distractor      : 25.9 / 23.4
   repeated back-to-back stem templates: 0
   longest uninterrupted repeat run    : 2
   option sets reused across questions : 73

@@ -1,0 +1,42 @@
+{
+ "page": 751,
+ "sec": "Radiological investigation & unilateral treatment · p751",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "The pair of CT/MR angiogram images drawn to the right of the renal doppler picture carries which caption?",
+   "opts": [
+    "unilateral renal artery stenosis",
+    "bilateral renal artery stenosis",
+    "string of beads appearance",
+    "severe stenosis / good flow"
+   ],
+   "ans": 0,
+   "exp": "The two panels (A and B, each with a white arrow) are captioned 'unilateral renal artery stenosis'; the separate caption 'Bilateral renal artery stenosis' belongs to the aortogram lower on the page. (Book p751)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An 8 cm left kidney is normal and the right, stenosed kidney measures 6.5 cm; blood pressure is controlled on ramipril. Per the treatment block, angioplasty is:",
+   "opts": [
+    "Not offered, because PTRA is listed only if kidney size is greater than 8 cm",
+    "Offered at once, since the stenosis is unilateral",
+    "Offered only after a trial of diuretics",
+    "Not offered, because PTRA is reserved for bilateral disease"
+   ],
+   "ans": 0,
+   "exp": "The unilateral treatment block lists ACE inhibitors/ARBs (DOC) and PTRA '- Only if kidney size > 8 cm'; the 6.5 cm kidney fails that condition. (Book p751)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each drug class with where the page calls it the drug of choice — 1) ACE inhibitors/ARBs 2) Diuretics … A) Blood pressure in bilateral RAS B) Unilateral RAS C) Neither, both are contraindicated in RAS",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-C",
+    "1-C, 2-A"
+   ],
+   "ans": 0,
+   "exp": "ACE inhibitors/ARBs are DOC in unilateral RAS but contraindicated in bilateral RAS (they ↓GFR), where diuretics take over as the DOC for blood pressure. (Book p751)"
+  }
+ ]
+}

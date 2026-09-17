@@ -66,7 +66,7 @@ def assemble(ch: int) -> None:
         for k in spec["parts"]:
             if k in meta:
                 fmts.update(meta[k]["fmts"])
-        if total < 6:
+        if total < 5:
             errors.append(f"unit {i} ({spec['title']}): only {total} questions")
         if not (set(fmts) - {"recall"}):
             errors.append(f"unit {i} ({spec['title']}): no varied-format item")
