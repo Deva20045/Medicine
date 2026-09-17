@@ -1,0 +1,90 @@
+{
+ "page": 740,
+ "sec": "Urine Collection",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "For routine urine analysis, the recommended sample is:",
+   "opts": [
+    "First morning urine sample collected by midstream technique",
+    "Random afternoon sample collected by midstream technique",
+    "First morning urine sample drawn from the urobag",
+    "Evening sample collected after vigorous exercise"
+   ],
+   "ans": 0,
+   "exp": "Sample: 1st urine sample of morning → midstream technique. (Book p740)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Urine must be analysed within ______ hours at room temperature, while the pH should be checked immediately.",
+   "opts": [
+    "2-4",
+    "1-2",
+    "6-8",
+    "10-12"
+   ],
+   "ans": 0,
+   "exp": "Analysis: within 2-4 hours at room temperature (pH to be checked immediately). (Book p740)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Up to how long may a urine sample be stored at 2-8°C before analysis?",
+   "opts": [
+    "12 hours",
+    "6 hours",
+    "24 hours",
+    "48 hours"
+   ],
+   "ans": 0,
+   "exp": "Storage: 2-8°C upto 12 hours. (Book p740)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The preservatives listed for a urine sample are:",
+   "opts": [
+    "Formaldehyde and glutaraldehyde",
+    "Boric acid and thymol",
+    "Toluene and chloroform",
+    "Sodium fluoride and oxalate"
+   ],
+   "ans": 0,
+   "exp": "Preservation: Formaldehyde, Glutaraldehyde. (Book p740)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A marathon runner is scheduled for a routine urine check. To avoid false results from rhabdomyolysis, strenuous physical activity must be avoided for how long before collection?",
+   "opts": [
+    "72 hrs",
+    "24 hrs",
+    "12 hrs",
+    "1 week"
+   ],
+   "ans": 0,
+   "exp": "Strenuous physical activity 72 hrs prior to collection → false results due to rhabdomyolysis. (Book p740)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Which statement about urine collection is TRUE?",
+   "opts": [
+    "Collection during menstruation should be avoided",
+    "Urine may be collected from the urobag in catheterised patients",
+    "Strenuous exercise just before collection improves sample quality",
+    "pH can reliably be checked after a day at room temperature"
+   ],
+   "ans": 0,
+   "exp": "To avoid: strenuous activity 72 hrs prior and collection during menstruation; pH is checked immediately. (Book p740)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In catheterised patients, urine must always be collected ______ and never from the urobag.",
+   "opts": [
+    "Fresh",
+    "Warmed",
+    "Pooled over 6 hours",
+    "After a day of clamping"
+   ],
+   "ans": 0,
+   "exp": "Catheterised patients: always collect fresh urine; do not collect from urobag. (Book p740)"
+  }
+ ]
+}

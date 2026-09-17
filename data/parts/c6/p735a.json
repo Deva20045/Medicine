@@ -1,0 +1,78 @@
+{
+ "page": 735,
+ "sec": "Creatinine as a marker",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "The best marker to estimate GFR is:",
+   "opts": [
+    "Creatinine",
+    "Urea",
+    "Uric acid",
+    "Cystatin C only"
+   ],
+   "ans": 0,
+   "exp": "Creatinine: best marker to estimate GFR. (Book p735)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Creatinine is produced in muscle from ______.",
+   "opts": [
+    "Urea",
+    "Myoglobin",
+    "Creatine",
+    "Creatine kinase"
+   ],
+   "ans": 0,
+   "exp": "Produced in muscle from creatine; ↓ when muscle mass is reduced (eg: amputation). (Book p735)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Serum creatinine falls when muscle mass is reduced; the book's example is:",
+   "opts": [
+    "High-protein diet",
+    "Obesity",
+    "Amputation",
+    "Pregnancy"
+   ],
+   "ans": 0,
+   "exp": "↓ sed when muscle mass reduced (eg: amputation). (Book p735)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Which of the following statements about creatinine in pregnancy is TRUE?",
+   "opts": [
+    "Pregnancy raises the normal creatinine range to 1.5–2 mg/dL",
+    "Creatinine cannot be measured in pregnancy",
+    "Pregnancy is the only condition where high creatinine values are significant independently",
+    "Creatinine values lose all significance in pregnancy"
+   ],
+   "ans": 0,
+   "exp": "Pregnancy: only condition where high creatinine values are significant independently (normal 0.3–0.6 mg/dL). (Book p735)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The normal creatinine range quoted for pregnancy is:",
+   "opts": [
+    "1.0–1.5 mg/dL",
+    "0.1–0.2 mg/dL",
+    "0.3–0.6 mg/dL",
+    "0.6–1.0 mg/dL"
+   ],
+   "ans": 0,
+   "exp": "Normal in pregnancy: 0.3–0.6 mg/dL. (Book p735)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Creatinine is described as a molecule of:",
+   "opts": [
+    "113 kDa",
+    "13 kDa",
+    "68 kDa",
+    "1.13 kDa"
+   ],
+   "ans": 0,
+   "exp": "Creatinine = 113 kDa molecule (cystatin C is the 13 kDa protein). (Book p735)"
+  }
+ ]
+}

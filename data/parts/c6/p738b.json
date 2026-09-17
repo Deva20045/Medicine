@@ -1,0 +1,66 @@
+{
+ "page": 738,
+ "sec": "Filtration fraction & pressure natriuresis",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Renal plasma flow (700 ml) is estimated using para amino hippuric acid, abbreviated ______.",
+   "opts": [
+    "PAH",
+    "PRA",
+    "PHA",
+    "ANP"
+   ],
+   "ans": 0,
+   "exp": "RPF = 700 ml: estimated using para amino hippuric acid (PAH). (Book p738)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The filtration fraction computed as 125/700 equals:",
+   "opts": [
+    "0.5",
+    "0.01 to 0.02",
+    "0.1 to 0.2",
+    "0.3 to 0.4"
+   ],
+   "ans": 0,
+   "exp": "FF = GFR/RPF = 125/700 = 0.1 to 0.2. (Book p738)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: A raised filtration fraction increases peritubular capillary oncotic pressure, taking fluid from the interstitial space and lowering renal interstitial ______, which boosts PCT reabsorption.",
+   "opts": [
+    "Blood flow",
+    "Capsular tension",
+    "Hydrostatic pressure (RIHP)",
+    "Oncotic pressure"
+   ],
+   "ans": 0,
+   "exp": "↑ FF → ↑ peritubular capillary OP → taken-in fluid from interstitial space → ↓ renal interstitial HP (RIHP) → ↑ reabsorption from PCT. (Book p738)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Which of the following statements about pressure natriuresis is TRUE?",
+   "opts": [
+    "A raised cardiac output increases excretion of Na+ and H2O",
+    "A raised cardiac output decreases sodium excretion",
+    "Pressure natriuresis depends on ADH",
+    "Pressure natriuresis raises RIHP-independent reabsorption"
+   ],
+   "ans": 0,
+   "exp": "↑ CO leads to ↑ excretion of Na+ & H2O; therefore ↑ CO cannot produce sustained ↑ BP unless there is renal impairment. (Book p738)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The book's pressure-natriuresis caveat uses which blood-pressure identity?",
+   "opts": [
+    "BP = CO × PVR",
+    "BP = RBF × GFR",
+    "BP = FF × RPF",
+    "BP = RIHP × OP"
+   ],
+   "ans": 0,
+   "exp": "Therefore, ↑ CO cannot produce sustained ↑ in BP unless there is renal impairment (BP = CO × PVR). (Book p738)"
+  }
+ ]
+}

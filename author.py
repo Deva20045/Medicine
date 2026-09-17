@@ -23,6 +23,13 @@ PARTS = ROOT / "data" / "parts"
 UNITS = ROOT / "data" / "units"
 
 TITLES = {
+    6: ("Renal Physiology", "734-739", 734),
+    7: ("Urine Analysis", "740-747", 740),
+    8: ("Basic Approach to Kidney Disease and Renal Artery Stenosis", "748-752", 748),
+    9: ("Thrombotic Microangiopathy", "753-755", 753),
+    10: ("Glomerular Disease - Patterns", "756-761", 756),
+    11: ("Podocytopathies", "762-769", 762),
+    12: ("MPGN and IgA Nephropathy", "770-774", 770),
     13: ("Post Streptococcal Glomerulonephritis", "775-777", 775),
     14: ("RPGN and Pulmonary Renal Syndrome", "778-782", 778),
     15: ("Familial Glomerular Syndromes", "783-785", 783),
