@@ -26,7 +26,7 @@ LIVE_CHAPTERS = {
     4: ("Juxtaglomerular Apparatus", 726, 729, 50, 7),
     5: ("Glomerulus - Anatomy", 730, 733, 56, 8),
     6: ("Renal Physiology", 734, 739, 133, 10),
-    7: ("Urine Analysis", 740, 747, 94, 13),
+    7: ("Urine Analysis", 740, 747, 135, 10),
     8: ("Basic Approach to Kidney Disease and Renal Artery Stenosis", 748, 752, 56, 8),
     9: ("Thrombotic Microangiopathy", 753, 755, 35, 5),
     10: ("Glomerular Disease - Patterns", 756, 761, 60, 9),

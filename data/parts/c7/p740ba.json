@@ -1,0 +1,10 @@
+{
+ "page": 740,
+ "sec": "Physical Properties: appearance & odour · p740",
+ "items": [
+  {"fmt": "truefalse", "q": "In the appearance table, 'pale/white' urine is paired with increased water intake while 'light yellow' is labelled normal.", "opts": ["True — those are the first two rows of the table", "False — pale/white marks concentration, light yellow marks dilution", "True — and both rows are listed under pathological colours", "False — light yellow is paired with increased water intake"], "ans": 0, "exp": "Rows 1 and 2 of the APPEARANCE table: Light yellow → Normal; Pale/white → ↑ water intake (the photo beside the table is captioned 'Normal urine colour'). (Book p740)"},
+  {"fmt": "fillup", "q": "Fill up: Green urine in the appearance table is attributed to triamterene, which the page brackets as a ______ blocker.", "opts": ["ENaC", "NaCl cotransporter", "Mineralocorticoid", "AQP2"], "ans": 0, "exp": "The row reads 'Green — Triamterene (ENaC blocker)'. (Book p740)"},
+  {"fmt": "recall", "q": "Orange urine in the table is attributed to rifampicin together with:", "opts": ["Entacapone, a COMT inhibitor", "Imipenem, a carbapenem", "Nitrofurantoin, an antibiotic", "Desferrioxamine, an iron chelator"], "ans": 0, "exp": "Orange → Rifampicin, Entacapone (COMT inhibitor). Imipenem + cilastatin is the darkening-on-standing row, nitrofurantoin gives brown, desferrioxamine gives pink. (Book p740)"},
+  {"fmt": "scenario", "q": "A patient on anti-tuberculosis therapy complains that her urine has turned orange but the dipstick is negative for blood. The table's explanation is:", "opts": ["Rifampicin is a listed cause of orange urine", "Occult haematuria from rifampicin-induced cystitis", "Bilirubinuria, since orange equals obstructive jaundice", "Beetroot ingestion, always a false colour"], "ans": 0, "exp": "Rifampicin (with entacapone) is printed under 'Orange' in the colour table; a dipstick negative for blood excludes haematuria as the source of colour. (Book p740)"}
+ ]
+}

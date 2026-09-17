@@ -4,15 +4,15 @@
  "items": [
   {
    "fmt": "recall",
-   "q": "For routine urine analysis, the recommended sample is:",
+   "q": "For routine urine analysis, the sample the book recommends is:",
    "opts": [
-    "First morning urine sample collected by midstream technique",
-    "Random afternoon sample collected by midstream technique",
-    "First morning urine sample drawn from the urobag",
-    "Evening sample collected after vigorous exercise"
+    "The 2nd urine sample of the morning, by midstream technique",
+    "The first-voided morning sample, midstream",
+    "A random sample taken after vigorous exercise",
+    "Urine collected from the urobag of a catheterised patient"
    ],
    "ans": 0,
-   "exp": "Sample: 1st urine sample of morning → midstream technique. (Book p740)"
+   "exp": "The line reads: Sample — 2nd urine sample of morning → midstream technique. The first morning void is not what is printed, and catheterised patients must give fresh urine, never urobag urine. (Book p740)"
   },
   {
    "fmt": "fillup",
