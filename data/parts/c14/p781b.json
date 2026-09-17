@@ -1,0 +1,78 @@
+{
+ "page": 781,
+ "sec": "Dialysis disequilibrium syndrome · p781",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "The first session of dialysis should be kept shorter than:",
+   "opts": [
+    "1 hour",
+    "2 hours",
+    "4 hours",
+    "6 hours"
+   ],
+   "ans": 0,
+   "exp": "Dialysis disequilibrium syndrome: the first session of dialysis should be <1 hour, with subsequent sessions of 4 hours. (Book p781)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The duration of subsequent dialysis sessions recommended after the first short session is:",
+   "opts": [
+    "4 hours",
+    "1 hour",
+    "8 hours",
+    "30 minutes"
+   ],
+   "ans": 0,
+   "exp": "First session <1 hour; subsequent sessions 4 hours, to avoid dialysis disequilibrium syndrome. (Book p781)"
+  },
+  {
+   "fmt": "match",
+   "q": "Complete the dialysis disequilibrium flowchart — 1) Urea in the blood compartment  2) Effect on blood osmolality  3) Consequence in cells … A) Cerebral edema → seizure, death  B) Rapidly moves to the dialysate compartment  C) ↓ Osmolality",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Flowchart: urea rapidly moves from blood to dialysate → blood osmolality falls → water moves into cells → cerebral oedema → seizure and death. (Book p781)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Dialysis disequilibrium syndrome occurs because urea is removed so quickly that the osmolality of the blood compartment falls.",
+   "opts": [
+    "True",
+    "False — blood osmolality rises during dialysis",
+    "False — the syndrome is caused by water leaving the cells",
+    "True, but the fall in osmolality causes intracellular dehydration"
+   ],
+   "ans": 0,
+   "exp": "Urea moves rapidly into the dialysate, dropping blood osmolality; water then moves into cells, producing cerebral oedema with seizure and death if dialysis is continued beyond 2 hours. (Book p781)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A severely uraemic patient receives a 4-hour first dialysis session and develops headache, confusion and a seizure. The mechanism is:",
+   "opts": [
+    "Water movement into cells after a rapid fall in blood osmolality — cerebral edema",
+    "Rapid movement of water out of cells causing cerebral dehydration",
+    "Contrast-induced cerebral vasospasm",
+    "Uremic pericarditis with tamponade physiology"
+   ],
+   "ans": 0,
+   "exp": "Dialysis disequilibrium: rapid urea removal → ↓ blood osmolality → water moves into cells (including brain) → cerebral oedema, seizure and death. (Book p781)"
+  },
+  {
+   "fmt": "management",
+   "q": "Which statement correctly summarises the prevention of dialysis disequilibrium syndrome?",
+   "opts": [
+    "Limit the first dialysis session to less than 1 hour, with 4-hour subsequent sessions",
+    "Give the first session for 6 hours to clear urea completely",
+    "Avoid dialysis in uraemic patients altogether",
+    "Use only peritoneal dialysis in all uraemic patients"
+   ],
+   "ans": 0,
+   "exp": "Prevention: the first dialysis session should be <1 hour; subsequent sessions are 4 hours, because continuing beyond 2 hours risks cerebral oedema. (Book p781)"
+  }
+ ]
+}

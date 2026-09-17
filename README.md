@@ -27,12 +27,12 @@ rest show a **Soon** badge.
 | Ch 10 · Glomerular Disease - Patterns (p756–761) — 9 units, 60 questions | ✅ live on this branch |
 | Ch 11 · Podocytopathies (p762–769) — 8 units, 83 questions | ✅ live on this branch |
 | Ch 12 · MPGN and IgA Nephropathy (p770–774) — 6 units, 52 questions | ✅ live on this branch |
-| Ch 13 · Post Streptococcal Glomerulonephritis (p775–777) — 3 units, 12 questions | ✅ live on this branch |
-| Ch 14 · RPGN and Pulmonary Renal Syndrome (p778–782) — 5 units, 18 questions | ✅ live on this branch |
-| Ch 15 · Familial Glomerular Syndromes (p783–785) — 3 units, 11 questions | ✅ live on this branch |
-| Ch 16 · Ciliopathies (p786–792) — 7 units, 27 questions | ✅ live on this branch |
-| Ch 17 · Chronic Tubulointerstitial Disease (p793–795) — 3 units, 10 questions | ✅ live on this branch |
-| Ch 18 · Acute Kidney Injury (p796–804) — 9 units, 34 questions | ✅ live on this branch |
+| Ch 13 · Post Streptococcal Glomerulonephritis (p775–777) — 3 units, 73 questions | ✅ live (re-audited) |
+| Ch 14 · RPGN and Pulmonary Renal Syndrome (p778–782) — 5 units, 82 questions | ✅ live (re-audited) |
+| Ch 15 · Familial Glomerular Syndromes (p783–785) — 4 units, 54 questions | ✅ live (re-audited) |
+| Ch 16 · Ciliopathies (p786–792) — 6 units, 139 questions | ✅ live (re-audited) |
+| Ch 17 · Chronic Tubulointerstitial Disease (p793–795) — 3 units, 53 questions | ✅ live (re-audited) |
+| Ch 18 · Acute Kidney Injury (p796–804) — 9 units, 181 questions | ✅ live (re-audited) |
 | Ch 19–74 (Nephrology, Acid–Base, Endocrinology, Hepatology, Infectious Diseases) | 🚧 in progress |
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 74-chapter
@@ -50,6 +50,9 @@ roadmap, data schema, per-chapter pipeline, and NEXT step.
 | `audit_variety.py` | Format-mix + predictability audit (output saved to `AUDIT.md`) |
 | `itemlab.py` | Add/edit questions with renumbering + auto-rebuild |
 | `uploads/` | The 6 source book PDFs (Book p705–1070) |
+| `data/parts/cNN/…` | Ordered, page-anchored authoring parts (source of truth for Ch 13–18) |
+| `author.py` | Assembles `data/chNN.json` from the ordered parts, with quality gates |
+| `REAUDIT.md` | Re-audit report for Ch 13–18 (before → after, coverage, verification) |
 
 ## Run the checks (after any content change)
 ```bash

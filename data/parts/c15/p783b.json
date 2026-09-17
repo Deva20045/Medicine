@@ -1,0 +1,90 @@
+{
+ "page": 783,
+ "sec": "Alport inheritance table · p783",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the mode of inheritance with the affected chain in Alport syndrome — 1) X-linked (80%)  2) Autosomal recessive (15%)  3) Autosomal dominant (5%) … A) α3/α4  B) α5  C) α3/α4",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Inheritance table: X-linked (80%) affects the α5 chain; AR (15%) and AD (5%) both affect α3/α4. (Book p783)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The commonest mode of inheritance in Alport syndrome, X-linked, accounts for:",
+   "opts": [
+    "80%",
+    "15%",
+    "5%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "X-linked inheritance accounts for 80% of Alport syndrome, affecting the α5 chain, with ESRD by 30 years in males and females as carriers. (Book p783)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A man with X-linked Alport syndrome reaches end-stage renal disease. According to the table, ESRD occurs:",
+   "opts": [
+    "By 30 years of age",
+    "By 40 years of age",
+    "After 60 years of age",
+    "Only in the neonatal period"
+   ],
+   "ans": 0,
+   "exp": "X-linked (80%) Alport syndrome: ESRD by 30 years in males (♂), with females (♀) as carriers. (Book p783)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "In the AR form of Alport syndrome, ESRD occurs by 40 years and affects both females and males.",
+   "opts": [
+    "True",
+    "False — AR Alport causes ESRD only in males by 30 years",
+    "False — AR Alport never causes ESRD",
+    "True, but AR accounts for 80% of cases"
+   ],
+   "ans": 0,
+   "exp": "AR (15%) affects α3/α4 and causes ESRD by 40 years in both ♀ and ♂. (Book p783)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the inheritance pattern with its typical severity — 1) X-linked Alport  2) AD Alport … A) Mild disease in both females and males  B) ESRD by 30 years in males, females are carriers",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "Both cause ESRD by 30 years in females",
+    "Both are mild"
+   ],
+   "ans": 0,
+   "exp": "X-linked: ESRD by 30 years in males, females carriers. AD (5%): mild disease in ♀ and ♂. (Book p783)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Autosomal dominant Alport syndrome (5%) produces ______ disease in females and males.",
+   "opts": [
+    "mild",
+    "severe",
+    "rapidly progressive",
+    "neonatal"
+   ],
+   "ans": 0,
+   "exp": "AD (5%) Alport syndrome affects α3/α4 and produces mild disease in both females and males. (Book p783)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Autosomal recessive Alport syndrome accounts for what proportion of cases?",
+   "opts": [
+    "15%",
+    "80%",
+    "5%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "Alport inheritance: X-linked 80%, AR 15%, AD 5%. (Book p783)"
+  }
+ ]
+}

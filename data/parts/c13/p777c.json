@@ -1,0 +1,114 @@
+{
+ "page": 777,
+ "sec": "Nephrotic vs nephritic syndrome · p777",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the onset and oedema of the two syndromes — 1) Nephrotic syndrome  2) Nephritic syndrome … A) Abrupt onset with intravascular (++) oedema  B) Insidious onset with extravascular (+++) oedema",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "Both A",
+    "Both B"
+   ],
+   "ans": 0,
+   "exp": "Onset/oedema: nephrotic = insidious with extravascular (+++) oedema; nephritic = abrupt with intravascular (++) oedema. (Book p777)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the BP and JVP of the two syndromes — 1) Nephrotic syndrome  2) Nephritic syndrome … A) BP high, JVP raised  B) BP normal, JVP normal",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "Both A",
+    "Both B"
+   ],
+   "ans": 0,
+   "exp": "Nephrotic syndrome: BP normal, JVP normal. Nephritic syndrome: BP high, JVP raised. (Book p777)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the urine findings of the two syndromes — 1) Nephrotic syndrome  2) Nephritic syndrome … A) Proteinuria more, haematuria less, RBC casts absent  B) Proteinuria less, haematuria more, RBC casts present",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "Both B",
+    "Both A"
+   ],
+   "ans": 0,
+   "exp": "Nephrotic: proteinuria more, haematuria less, RBC casts absent. Nephritic: proteinuria less, haematuria more, RBC casts present. (Book p777)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 4-year-old has generalised pitting oedema, BP 95/60 mmHg, normal JVP and 4+ proteinuria with no RBC casts. Serum albumin is low. Which syndrome does this describe?",
+   "opts": [
+    "Nephrotic syndrome",
+    "Nephritic syndrome",
+    "Rapidly progressive GN",
+    "Nephrotic–nephritic overlap with raised JVP"
+   ],
+   "ans": 0,
+   "exp": "Nephrotic syndrome: insidious onset, extravascular (+++) oedema, normal BP and JVP, more proteinuria, less haematuria, absent RBC casts and low serum albumin. (Book p777)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 7-year-old presents with cola-coloured urine, BP 140/95 mmHg and raised JVP, with 1+ albuminuria and RBC casts; serum albumin is 3.9 g/dL. Which syndrome is this?",
+   "opts": [
+    "Nephritic syndrome",
+    "Nephrotic syndrome",
+    "Isolated asymptomatic proteinuria",
+    "Nephrotic syndrome with peritonitis"
+   ],
+   "ans": 0,
+   "exp": "Nephritic syndrome: abrupt onset, high BP, raised JVP (intravascular ++ oedema), less proteinuria, more haematuria, RBC casts present and normal or slightly low serum albumin. (Book p777)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which serum albumin finding belongs to nephrotic syndrome and NOT to nephritic syndrome?",
+   "opts": [
+    "Low serum albumin",
+    "Normal/slightly ↓ serum albumin",
+    "RBC casts present",
+    "Raised JVP"
+   ],
+   "ans": 0,
+   "exp": "Serum albumin is low in nephrotic syndrome, whereas in nephritic syndrome it is normal or only slightly decreased. (Book p777)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In the nephrotic vs nephritic table, the oedema of nephrotic syndrome is mainly ______.",
+   "opts": [
+    "extravascular",
+    "intravascular",
+    "interstitial only",
+    "pulmonary"
+   ],
+   "ans": 0,
+   "exp": "Oedema: nephrotic = extravascular (+++); nephritic = intravascular (++). (Book p777)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "RBC casts are a feature of the nephritic syndrome and are absent in nephrotic syndrome.",
+   "opts": [
+    "True",
+    "False — RBC casts are present in both",
+    "False — RBC casts are found only in nephrotic syndrome",
+    "True, but only after 8 weeks of illness"
+   ],
+   "ans": 0,
+   "exp": "The table lists RBC casts as absent (–) in nephrotic syndrome and present (+) in nephritic syndrome. (Book p777)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Comparing proteinuria and haematuria, the nephritic syndrome is characterised by:",
+   "opts": [
+    "Less proteinuria but more haematuria",
+    "More proteinuria but less haematuria",
+    "More of both",
+    "Less of both"
+   ],
+   "ans": 0,
+   "exp": "Nephritic: proteinuria less, haematuria more. Nephrotic: proteinuria more, haematuria less. (Book p777)"
+  }
+ ]
+}

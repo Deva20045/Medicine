@@ -1,0 +1,66 @@
+{
+ "page": 789,
+ "sec": "ARPKD: ultrasound findings · p789",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the ARPKD ultrasound signs — 1) Echogenicity of the medulla  2) Corticomedullary differentiation … A) Lost  B) Hyperechoic",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "Both increased",
+    "Both normal"
+   ],
+   "ans": 0,
+   "exp": "USG in ARPKD: hyperechoic medulla with loss of corticomedullary differentiation. (Book p789)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The two ultrasound findings described in ARPKD are:",
+   "opts": [
+    "Hyperechoic medulla and loss of corticomedullary differentiation",
+    "Hypoechoic medulla and preserved corticomedullary differentiation",
+    "Multiple cortical cysts with normal medulla",
+    "Medullary nephrocalcinosis with normal cortex"
+   ],
+   "ans": 0,
+   "exp": "Investigation in ARPKD (USG): hyperechoic medulla and loss of corticomedullary differentiation, consistent with small medullary cysts. (Book p789)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An antenatal ultrasound at 30 weeks shows bilaterally enlarged echogenic kidneys with small medullary cysts and no corticomedullary differentiation, plus oligohydramnios. Which diagnosis fits?",
+   "opts": [
+    "ARPKD",
+    "ADPKD",
+    "Medullary sponge kidney",
+    "Juvenile nephronophthisis"
+   ],
+   "ans": 0,
+   "exp": "ARPKD is autosomal recessive and can be diagnosed in utero with small cysts in the medulla; USG shows hyperechoic medulla with loss of corticomedullary differentiation. (Book p789)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "The cut section of the kidney in ARPKD shows small cysts in the medulla rather than the large cysts typical of ADPKD.",
+   "opts": [
+    "True",
+    "False — ARPKD shows large cortical cysts",
+    "False — ARPKD shows a single cyst",
+    "True, but only after adolescence"
+   ],
+   "ans": 0,
+   "exp": "ARPKD can be diagnosed in utero with small cysts in the medulla (figure 'ARPKD: cut section of kidney'), unlike ADPKD's multiple large cysts. (Book p789)"
+  },
+  {
+   "fmt": "management",
+   "q": "A neonate with ARPKD is in respiratory distress with a small chest. The underlying mechanism and outcome described are:",
+   "opts": [
+    "Pulmonary hypoplasia from oligohydramnios — 70% die within 1 year",
+    "Neonatal pneumonia — 30% die within 1 year",
+    "Pneumothorax from mechanical ventilation — usually survives",
+    "Bronchiolitis obliterans — ESRD follows immediately"
+   ],
+   "ans": 0,
+   "exp": "ARPKD with pulmonary hypoplasia: 70% succumb to death within 1 year, the major cause of death at birth. (Book p789)"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "page": 779,
+ "sec": "RPGN biopsy: light microscopy & IF patterns · p779",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "The light-microscopy hallmark of crescentic glomerulonephritis described here is:",
+   "opts": [
+    "Proliferation of parietal epithelial cells with fibrin, the number of crescents mattering",
+    "Segmental sclerosis with hyalinosis at the vascular pole",
+    "Basement membrane thinning with splitting of the lamina densa",
+    "Amyloid deposition within the mesangium"
+   ],
+   "ans": 0,
+   "exp": "LM shows crescentic GN due to proliferation of parietal epithelial cells with fibrin; the number of crescents is an important factor. (Book p779)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The crescents of crescentic glomerulonephritis are formed by proliferation of ______ epithelial cells with fibrin.",
+   "opts": [
+    "parietal",
+    "visceral",
+    "endothelial",
+    "mesangial"
+   ],
+   "ans": 0,
+   "exp": "Crescents arise from proliferation of parietal epithelial cells together with fibrin; their number matters prognostically. (Book p779)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each immunofluorescence pattern in the biopsy figure with its image label — 1) No deposits  2) Uniform bright linear staining along the capillary walls  3) Coarse granular staining of capillary loops and mesangium … A) Linear IF  B) Negative IF  C) Diffuse granular IF",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The figure panels are labelled: A. negative IF; B. diffuse granular IF; C. linear IF (with D. granular IF) — the linear pattern being the one written in text for type I RPGN. (Book p779)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Linear immunofluorescence in type I RPGN occurs because the antibodies are directed against a structural antigen of the glomerular basement membrane.",
+   "opts": [
+    "True — linear IF is the imprint of anti-GBM antibody binding",
+    "False — linear IF is typical of immune-complex disease",
+    "False — linear IF in RPGN is due to cellular crescents alone",
+    "True, but linear IF is seen only in type III disease"
+   ],
+   "ans": 0,
+   "exp": "Type I RPGN (Goodpasture syndrome) shows linear IgG ± C3 along the glomerular capillary wall, being anti-GBM antibody disease; the granular patterns of panels B/D arise from immune-complex deposition. (Book p779)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each IF pattern with its listed important association — 1) Linear IF  2) Granular IF … A) Immune-complex deposition, e.g. diabetes mellitus and light chain disease  B) Goodpasture disease",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "Both are associations of ANCA",
+    "Both indicate negative IF"
+   ],
+   "ans": 0,
+   "exp": "Important IF associations: linear IF → Goodpasture disease; granular IF → diabetes mellitus and light chain disease. (Book p779)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which condition is NOT listed among the important associations of the immunofluorescence patterns?",
+   "opts": [
+    "Post-streptococcal glomerulonephritis",
+    "Goodpasture disease, associated with linear IF",
+    "Diabetes mellitus, associated with granular IF",
+    "Light chain disease, associated with granular IF"
+   ],
+   "ans": 0,
+   "exp": "The associations printed are Goodpasture disease (linear), diabetes mellitus and light chain disease (granular); PSGN is not on that list. (Book p779)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A diabetic patient with nephrotic-range proteinuria and renal failure has a renal biopsy showing coarse granular immunofluorescence; the listed important association is:",
+   "opts": [
+    "Diabetes mellitus",
+    "Goodpasture disease",
+    "Wegener's granulomatosis",
+    "Microscopic polyangiitis"
+   ],
+   "ans": 0,
+   "exp": "Granular IF is importantly associated with diabetes mellitus and light chain disease; Goodpasture disease goes with linear IF. (Book p779)"
+  }
+ ]
+}

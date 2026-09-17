@@ -1,0 +1,54 @@
+{
+ "page": 779,
+ "sec": "When to biopsy vs dialyse first · p779",
+ "items": [
+  {
+   "fmt": "scenario",
+   "q": "A patient with RPGN has a very high serum creatinine. The book advises against immediate renal biopsy because:",
+   "opts": [
+    "It may cause uremic bleeding",
+    "It will not show crescents at this stage",
+    "The kidney is too small for a safe puncture",
+    "Immunofluorescence cannot be performed at high creatinine"
+   ],
+   "ans": 0,
+   "exp": "Note: biopsy should not be done if serum creatinine is markedly increased, as it may cause uremic bleeding. (Book p779)"
+  },
+  {
+   "fmt": "match",
+   "q": "Arrange the correct sequence when the serum creatinine is very high — 1) First step  2) Then  3) If the value decreases … A) Recheck serum creatinine  B) Dialysis  C) Biopsy",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "When the creatinine is very high: first step dialysis → recheck serum creatinine → if the value decreases, proceed to biopsy. (Book p779)"
+  },
+  {
+   "fmt": "management",
+   "q": "In the high-creatinine RPGN algorithm, biopsy is performed:",
+   "opts": [
+    "After dialysis, provided the rechecked serum creatinine decreases",
+    "Before dialysis in every case",
+    "Only when the creatinine exceeds 5.5 mg/dL",
+    "Simultaneously with the first dialysis session"
+   ],
+   "ans": 0,
+   "exp": "Algorithm: dialysis → recheck creatinine → biopsy if the value decreases (avoiding uremic bleeding from an immediate biopsy). (Book p779)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "According to the page, an immediately raised serum creatinine is an absolute contraindication to ever performing a renal biopsy.",
+   "opts": [
+    "False — dialysis is done first and biopsy follows once the creatinine falls",
+    "True — biopsy is never repeated in such patients",
+    "True — biopsy then has to be replaced by CT imaging",
+    "False — biopsy is performed before dialysis instead"
+   ],
+   "ans": 0,
+   "exp": "It is the immediate biopsy that is avoided (uremic bleeding risk); after dialysis, if the creatinine decreases, biopsy is performed. (Book p779)"
+  }
+ ]
+}

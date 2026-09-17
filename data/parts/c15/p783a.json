@@ -1,0 +1,78 @@
+{
+ "page": 783,
+ "sec": "Alport syndrome: collagen & type IV collagen table · p783",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Alport syndrome is also known as hereditary nephritis and is caused by a mutation in:",
+   "opts": [
+    "Collagen IV (COL4A5), most commonly a deletion",
+    "Collagen III (COL3A1), most commonly a point mutation",
+    "Fibrocystin (PKHD1), most commonly a deletion",
+    "Nephrin (NPHS1), most commonly a missense mutation"
+   ],
+   "ans": 0,
+   "exp": "Alport syndrome = hereditary nephritis; the mutation is in collagen IV (COL4A5), with deletion as the commonest type. (Book p783)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In Alport syndrome the commonest type of COL4A5 mutation is a ______.",
+   "opts": [
+    "deletion",
+    "duplication",
+    "insertion",
+    "splice-site substitution"
+   ],
+   "ans": 0,
+   "exp": "Mutation in collagen IV (COL4A5): the commonest is a deletion. (Book p783)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each type IV collagen heterotrimer with the basement membrane in which it is seen — 1) α1–α1–α2  2) α3–α4–α5  3) α5–α5–α6 … A) GBM, cochlea and ocular BM  B) Seen from birth  C) Skin basement membrane",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Type IV collagen table: α1-α1-α2 is seen from birth; α3-α4-α5 is found in the GBM, cochlea and ocular BM; α5-α5-α6 is found in skin basement membrane. (Book p783)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Alport syndrome damages the glomerular basement membrane, cochlea and ocular basement membrane but the skin basement membrane is spared in the classical form. Which collagen chain combination explains this distribution?",
+   "opts": [
+    "α3–α4–α5",
+    "α1–α1–α2",
+    "α5–α5–α6",
+    "α2–α3–α4"
+   ],
+   "ans": 0,
+   "exp": "The α3-α4-α5 heterotrimer is seen in the GBM, cochlea and ocular BM — the three sites involved in Alport syndrome. α5-α5-α6 marks skin basement membrane. (Book p783)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "The α1–α1–α2 collagen IV trimer is present in basement membranes from birth.",
+   "opts": [
+    "True — the table lists it under 'seen in: birth'",
+    "False — it appears only after 30 years of age",
+    "False — it is confined to the skin basement membrane",
+    "True, but only in patients with Alport syndrome"
+   ],
+   "ans": 0,
+   "exp": "The type IV collagen table lists α1-α1-α2 against 'birth'. (Book p783)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which site is NOT listed as a location of the α3–α4–α5 collagen IV network?",
+   "opts": [
+    "Skin basement membrane",
+    "Glomerular basement membrane",
+    "Cochlea",
+    "Ocular basement membrane"
+   ],
+   "ans": 0,
+   "exp": "α3-α4-α5 is seen in GBM, cochlea and ocular BM; skin basement membrane contains α5-α5-α6. (Book p783)"
+  }
+ ]
+}

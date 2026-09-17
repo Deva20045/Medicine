@@ -1,0 +1,102 @@
+{
+ "page": 793,
+ "sec": "Definition of CKD & the causes table · p793",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "Chronic kidney disease in this chapter is defined histologically by more than what percentage of interstitial fibrosis, tubular atrophy or glomerular sclerosis?",
+   "opts": [
+    "5%",
+    "50%",
+    "25%",
+    "1%"
+   ],
+   "ans": 0,
+   "exp": "CKD: >5% of interstitial fibrosis/tubular atrophy/glomerular sclerosis, with a decrease in the number of functional nephrons. (Book p793)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: CKD is characterised by a ______ in the number of functional nephrons.",
+   "opts": [
+    "decrease",
+    "increase",
+    "no change",
+    "fluctuation"
+   ],
+   "ans": 0,
+   "exp": "CKD definition: >5% interstitial fibrosis/tubular atrophy/glomerular sclerosis with ↓ number of functional nephrons. (Book p793)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each pathology with its associated condition in the causes table — 1) Vascular  2) Glomerular (diabetes)  3) Tubulo-interstitial fibrosis … A) Diabetic nephropathy  B) Ischemic nephropathy  C) CTID",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Causes table: vascular (RAS, TMA) → ischemic nephropathy; glomerular (diabetes) → diabetic nephropathy; tubulo-interstitial fibrosis (–) → CTID. (Book p793)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient has renal artery stenosis and biopsy shows ischaemic nephropathy. In the causes table, this belongs to which pathology group?",
+   "opts": [
+    "Vascular",
+    "Glomerular",
+    "Tubulo-interstitial fibrosis",
+    "Cystic"
+   ],
+   "ans": 0,
+   "exp": "Vascular pathology (RAS, TMA) leads to ischemic nephropathy, and together with the glomerular group it produces secondary tubulo-interstitial fibrosis. (Book p793)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which glomerular diseases are grouped together with IgA nephropathy to cause chronic glomerulonephritis (CGN)?",
+   "opts": [
+    "MPGN, FSGS and membranous nephropathy",
+    "RAS and TMA, producing ischaemic nephropathy",
+    "Diabetes mellitus and hypertension, causing diabetic nephropathy",
+    "Sarcoidosis and Sjögren's syndrome, causing interstitial infiltration"
+   ],
+   "ans": 0,
+   "exp": "Glomerular row of the causes table: IgA/MPGN/FSGS/membranous nephropathy → CGN (chronic glomerulonephritis). (Book p793)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each cause of CKD with its label in the table — 1) IgAN/MPGN/FSGS/membranous nephropathy  2) Diabetes  3) RAS/TMA … A) Diabetic nephropathy  B) CGN (chronic glomerulonephritis)  C) Ischemic nephropathy",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Table mapping: IgAN/MPGN/FSGS/membranous → CGN; diabetes → diabetic nephropathy; RAS/TMA → ischaemic nephropathy; primary tubulointerstitial fibrosis → CTID. (Book p793)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "In the causes table, vascular and glomerular pathology together are grouped as producing secondary tubulo-interstitial fibrosis.",
+   "opts": [
+    "True",
+    "False — only vascular disease produces tubulointerstitial fibrosis",
+    "False — the grouping is labelled primary fibrosis",
+    "True, but only when diabetes is absent"
+   ],
+   "ans": 0,
+   "exp": "The brace in the table labels the vascular and glomerular rows as 'secondary tubulo-interstitial fibrosis', leaving primary tubulo-interstitial fibrosis as CTID. (Book p793)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are listed as conditions associated with CKD in the causes table. Which is the odd one out?",
+   "opts": [
+    "Post-streptococcal glomerulonephritis",
+    "RAS and TMA",
+    "IgA nephropathy, MPGN, FSGS and membranous nephropathy",
+    "Diabetes mellitus"
+   ],
+   "ans": 0,
+   "exp": "The associated conditions listed are RAS/TMA, IgAN/MPGN/FSGS/membranous nephropathy and diabetes; PSGN is a self-limited disease not listed here. (Book p793)"
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "page": 798,
+ "sec": "Drugs causing AKI: four-column classification · p798",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match each drug class with its column in the drug-induced AKI chart — 1) NSAIDs  2) Vancomycin and aminoglycosides  3) Methotrexate and indinavir  4) PPIs and beta-lactams … A) AIN  B) Pre-renal failure  C) ATN  D) Intratubular obstruction (oliguric AKI)",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-A, 2-C, 3-D, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Drug chart: pre-renal failure — NSAIDs, drugs causing ↑Ca²⁺, ACEi/ARB, calcineurin inhibitors; ATN — vancomycin, aminoglycosides, amphotericin B, cisplatin, ethylene glycol, salicylates; intratubular obstruction (oliguric AKI) — methotrexate (increased dose), indinavir, triamterene, acyclovir, sulfonamides; AIN — PPIs, beta-lactams, rifampicin, allopurinol and anticonvulsants (also NSAIDs and diuretics). (Book p798)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following drugs cause ATN. Which is the odd one out?",
+   "opts": [
+    "Triamterene",
+    "Vancomycin",
+    "Amphotericin B",
+    "Cisplatin"
+   ],
+   "ans": 0,
+   "exp": "Triamterene is grouped under intratubular obstruction (oliguric AKI) along with methotrexate, indinavir, acyclovir and sulfonamides; vancomycin, aminoglycosides, amphotericin B and cisplatin belong to ATN. (Book p798)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the mnemonic letters in the ATN column — 1) V  2) A  3) C  4) E … A) Ethylene glycol (oxalate urine crystals)  B) Vancomycin  C) Aminoglycosides, adefovir, amphotericin B  D) Cisplatin, cyclophosphamide, cidofovir",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-C, 2-B, 3-A, 4-D"
+   ],
+   "ans": 0,
+   "exp": "ATN mnemonic: V — vancomycin; A — aminoglycosides, adefovir, amphotericin B; C — cisplatin, cyclophosphamide, cidofovir; E — ethylene glycol (oxalate urine crystals); S — salicylates. (Book p798)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with ethylene glycol poisoning has oxalate crystals in the urine. In the drug chart, ethylene glycol is classified under:",
+   "opts": [
+    "ATN",
+    "Pre-renal failure",
+    "Intratubular obstruction",
+    "AIN"
+   ],
+   "ans": 0,
+   "exp": "Ethylene glycol is listed in the ATN column with the annotation 'oxalate urine crystals'. (Book p798)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the mnemonic letters in the intratubular obstruction column — 1) m  2) I  3) T  4) A  5) S … A) Methotrexate (increased dose)  B) Indinavir  C) Triamterene  D) Acyclovir  E) Sulfonamides",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D, 5-E",
+    "1-B, 2-A, 3-C, 4-E, 5-D",
+    "1-A, 2-C, 3-B, 4-D, 5-E",
+    "1-D, 2-B, 3-C, 4-A, 5-E"
+   ],
+   "ans": 0,
+   "exp": "Intratubular obstruction (oliguric AKI) mnemonic: m — methotrexate (increased dose); I — indinavir; T — triamterene; A — acyclovir; S — sulfonamides. (Book p798)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the AIN column drugs — 1) PPIs  2) β lactams  3) Rifampicin  4) Allopurinol and anticonvulsants  5) NSAIDs and diuretics … A) All appear in the AIN column",
+   "opts": [
+    "All are listed in the AIN column",
+    "Only PPIs and beta-lactams are in the AIN column",
+    "Only allopurinol is in the AIN column",
+    "None is in the AIN column"
+   ],
+   "ans": 0,
+   "exp": "AIN column: PPIs; β lactams; rifampicin; allopurinol, anticonvulsants; and NSAIDs, diuretics — remembered by the mnemonic. (Book p798)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient started on indinavir for HIV develops oliguric AKI. The mechanism in the drug chart is:",
+   "opts": [
+    "Intratubular obstruction (oliguric AKI)",
+    "ATN",
+    "Pre-renal failure from vasoconstriction",
+    "AIN"
+   ],
+   "ans": 0,
+   "exp": "Indinavir is listed in the intratubular obstruction column, which is described as oliguric AKI. (Book p798)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "NSAIDs appear in the drug chart both as a pre-renal cause and in the AIN column.",
+   "opts": [
+    "True",
+    "False — NSAIDs appear only as a pre-renal cause",
+    "False — NSAIDs appear only under ATN",
+    "True, but only for ketorolac"
+   ],
+   "ans": 0,
+   "exp": "NSAIDs are listed under pre-renal failure and again in the AIN column (with diuretics), reflecting their dual mechanisms. (Book p798)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following drugs cause intratubular obstruction. Which is the odd one out?",
+   "opts": [
+    "Adefovir",
+    "Methotrexate",
+    "Acyclovir",
+    "Sulfonamides"
+   ],
+   "ans": 0,
+   "exp": "Adefovir is in the ATN column (with aminoglycosides and amphotericin B); methotrexate, acyclovir, sulfonamides and triamterene cause intratubular obstruction. (Book p798)"
+  },
+  {
+   "fmt": "management",
+   "q": "Which drug group is listed under pre-renal failure as causing ↑serum calcium in the drug chart?",
+   "opts": [
+    "Drugs causing ↑Ca²⁺",
+    "Aminoglycosides",
+    "Sulfonamides",
+    "Anticonvulsants"
+   ],
+   "ans": 0,
+   "exp": "Pre-renal failure column: NSAIDs; drugs causing ↑Ca²⁺ (hypercalcemia); ACEi/ARB; calcineurin inhibitors. (Book p798)"
+  }
+ ]
+}

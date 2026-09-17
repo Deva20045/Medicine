@@ -1,0 +1,186 @@
+{
+ "page": 786,
+ "sec": "ADPKD: features, genes, Ravinson's criteria · p786",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Regarding ADPKD, which statement is correct?",
+   "opts": [
+    "Autosomal dominant with variable expression, so few develop ESRD",
+    "Autosomal recessive, with ESRD in all patients by 40 years",
+    "Autosomal dominant with no spontaneous mutations",
+    "Autosomal recessive with only 5% of nephrons involved"
+   ],
+   "ans": 0,
+   "exp": "ADPKD: autosomal dominant with variable expression (few develop ESRD), 10% due to spontaneous mutation, multiple bilateral renal cysts as hallmark, and only 5% of nephrons involved. (Book p786)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What percentage of ADPKD is due to spontaneous (new) mutation?",
+   "opts": [
+    "10%",
+    "85%",
+    "50%",
+    "5%"
+   ],
+   "ans": 0,
+   "exp": "ADPKD: 10% is due to spontaneous mutation (no family history). (Book p786)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In ADPKD, only ______% of nephrons are involved, so renal function is preserved for long.",
+   "opts": [
+    "5",
+    "50",
+    "10",
+    "95"
+   ],
+   "ans": 0,
+   "exp": "ADPKD involves only 5% of nephrons — hence preserved renal function despite massive cystic kidneys. (Book p786)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Multiple bilateral renal cysts are the hallmark of ADPKD.",
+   "opts": [
+    "True",
+    "False — the hallmark is a single cyst per kidney",
+    "False — the hallmark is medullary nephrocalcinosis",
+    "True, but only in ARPKD"
+   ],
+   "ans": 0,
+   "exp": "Hallmark of ADPKD: multiple bilateral renal cysts; genes PKD1 (85%) and PKD2 (15%). (Book p786)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the ADPKD gene with its chromosome and product — 1) PKD1  2) PKD2 … A) Chr4q — polycystin 2, milder disease  B) Chr16p — polycystin 1, 85% of cases",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "Both on chromosome 16",
+    "Both produce fibrocystin"
+   ],
+   "ans": 0,
+   "exp": "Gene defect in ADPKD: PKD1 on Chr16p (85%) → polycystin 1; PKD2 on Chr4q (15%) → polycystin 2 (milder disease); PKD3 (GANA B). (Book p786)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "PKD1 on chromosome 16p accounts for what percentage of ADPKD?",
+   "opts": [
+    "85%",
+    "15%",
+    "5%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "PKD1 (Chr16p → polycystin 1) accounts for 85%; PKD2 (Chr4q → polycystin 2) accounts for 15% and causes milder disease. (Book p786)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with ADPKD has a PKD2 mutation. Compared with PKD1 disease, the expected course is:",
+   "opts": [
+    "Milder disease",
+    "More severe disease with earlier ESRD",
+    "Identical in all respects",
+    "Associated with congenital hepatic fibrosis"
+   ],
+   "ans": 0,
+   "exp": "PKD2 (Chr4q → polycystin 2) produces milder disease than PKD1, which accounts for 85% of cases. (Book p786)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Why is hypertension so common in ADPKD, even early in the disease?",
+   "opts": [
+    "Polycystin is also present in vascular smooth muscle",
+    "Renin secretion is switched off by the cysts",
+    "Sodium is lost in the urine because of tubular damage",
+    "Cardiac output is reduced by pericardial involvement"
+   ],
+   "ans": 0,
+   "exp": "The boxed note: polycystin is also present in vascular smooth muscle, and hence in ADPKD hypertension is present. (Book p786)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "The polycystin protein of ADPKD is expressed in vascular smooth muscle, which helps explain the hypertension of ADPKD.",
+   "opts": [
+    "True",
+    "False — polycystin is restricted to tubular epithelium",
+    "False — the hypertension of ADPKD is due to anaemia",
+    "True, but only in PKD2 disease"
+   ],
+   "ans": 0,
+   "exp": "Boxed note: polycystin is also present in vascular smooth muscle → in ADPKD, HTN is present. (Book p786)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the Ravinson's criteria age band with the number of cysts needed for diagnosis of ADPKD — 1) 15–39 years  2) 40–59 years  3) ≥60 years … A) ≥2 cysts bilaterally  B) ≥3 cysts (unilateral or bilateral)  C) ≥4 cysts bilaterally",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Ravinson's criteria (based on USG, the investigation of choice): 15–39 years — ≥3 cysts (u/l or b/l); 40–59 years — ≥2 cysts bilaterally; ≥60 years — ≥4 cysts bilaterally. (Book p786)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The diagnostic criteria for ADPKD (Ravinson's criteria) are based on ______, which is the investigation of choice.",
+   "opts": [
+    "USG",
+    "MRI",
+    "CT scan",
+    "excretory urography"
+   ],
+   "ans": 0,
+   "exp": "Ravinson's criteria for ADPKD diagnosis are based on USG, marked as the investigation of choice (IOC). (Book p786)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "A 45-year-old with a family history of ADPKD needs how many cysts on ultrasound to satisfy Ravinson's criteria?",
+   "opts": [
+    "≥2 cysts bilaterally",
+    "≥3 cysts unilaterally",
+    "≥4 cysts bilaterally",
+    "Only one cyst in either kidney"
+   ],
+   "ans": 0,
+   "exp": "For ages 40–59 years the criterion is ≥2 cysts bilaterally (≥3 cysts u/l or b/l applies at 15–39 years, and ≥4 bilaterally at ≥60 years). (Book p786)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 66-year-old woman with a family history of ADPKD has a renal ultrasound. How many cysts bilaterally are required by Ravinson's criteria?",
+   "opts": [
+    "≥4 cysts bilaterally",
+    "≥2 cysts bilaterally",
+    "≥3 cysts unilaterally or bilaterally",
+    "Any number of cysts"
+   ],
+   "ans": 0,
+   "exp": "For age ≥60 years, Ravinson's criteria require ≥4 cysts bilaterally. (Book p786)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are correct Ravinson's criteria pairings. Which is the odd one out?",
+   "opts": [
+    "15–39 years — ≥2 cysts bilaterally",
+    "15–39 years — ≥3 cysts unilaterally or bilaterally",
+    "40–59 years — ≥2 cysts bilaterally",
+    "≥60 years — ≥4 cysts bilaterally"
+   ],
+   "ans": 0,
+   "exp": "In the 15–39 year band the requirement is ≥3 cysts (unilateral or bilateral), not ≥2 bilaterally (which is the 40–59 year rule). (Book p786)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "The gross specimen figure labelled 'cysts in ADPKD' shows kidneys in which the external and cut surfaces demonstrate:",
+   "opts": [
+    "Multiple cysts of varying size replacing normal parenchyma",
+    "Uniformly small kidneys with cortical scarring",
+    "Dilated spongy medullary collecting ducts without macrocysts",
+    "Bilateral solid tumours with calcification"
+   ],
+   "ans": 0,
+   "exp": "The figure of ADPKD (external and cut surface) shows multiple cysts of varying size in both kidneys, the hallmark of the disease. (Book p786)"
+  }
+ ]
+}

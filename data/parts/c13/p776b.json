@@ -1,0 +1,126 @@
+{
+ "page": 776,
+ "sec": "PSGN treatment & biopsy images · p776",
+ "items": [
+  {
+   "fmt": "scenario",
+   "q": "A 7-year-old with PSGN has a BP of 150/100 mmHg. According to the treatment table, the drug of choice and its dose are:",
+   "opts": [
+    "A calcium channel blocker — amlodipine 2.5–5 mg, with hourly BP charting",
+    "An ACE inhibitor — ramipril 5 mg once daily",
+    "A thiazide — chlorothiazide 250 mg twice daily",
+    "A beta blocker — metoprolol 25 mg twice daily"
+   ],
+   "ans": 0,
+   "exp": "Hypertension in PSGN: calcium channel blockers (amlodipine 2.5–5 mg) with BP charting hourly. (Book p776)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The amlodipine dose printed in the PSGN treatment table is:",
+   "opts": [
+    "2.5–5 mg",
+    "0.5–2.5 mg",
+    "10–20 mg",
+    "25–50 mg"
+   ],
+   "ans": 0,
+   "exp": "Hypertension in PSGN is treated with the CCB amlodipine 2.5–5 mg, with BP charted hourly. (Book p776)"
+  },
+  {
+   "fmt": "management",
+   "q": "A child with acute PSGN develops pulmonary oedema. The table's treatment is:",
+   "opts": [
+    "Diuretics — torsemide 5–10 mg",
+    "Oral prednisolone 1 mg/kg",
+    "Plasma exchange",
+    "Fluid restriction alone with no diuretic"
+   ],
+   "ans": 0,
+   "exp": "Pulmonary oedema in PSGN: diuretics, such as torsemide 5–10 mg. (Book p776)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The listed dose of torsemide for pulmonary oedema in PSGN is:",
+   "opts": [
+    "5–10 mg",
+    "20–40 mg",
+    "0.5–1 mg",
+    "40–80 mg"
+   ],
+   "ans": 0,
+   "exp": "Pulmonary oedema in PSGN is treated with diuretics — torsemide 5–10 mg. (Book p776)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A child with PSGN has a serum potassium of 6.6 mEq/L. Per the treatment table, the monitoring that must accompany this is:",
+   "opts": [
+    "ECG monitoring to look for tall T waves, with regular serum K⁺ measurement",
+    "24-hour Holter monitoring only",
+    "Weekly serum potassium testing alone is sufficient",
+    "Echocardiography before any potassium-lowering therapy"
+   ],
+   "ans": 0,
+   "exp": "Hyperkalaemia (which can cause cardiac complications) in PSGN: ECG monitoring — check for tall T waves — and serum K⁺ checked regularly. (Book p776)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each sign in the PSGN treatment table with its prescription — 1) Hypertension  2) Pulmonary oedema  3) Hyperkalaemia … A) ECG monitoring and serial serum K⁺  B) Amlodipine 2.5–5 mg with hourly BP charting  C) Torsemide 5–10 mg",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Treatment table: hypertension → CCB amlodipine 2.5–5 mg + hourly BP charting; pulmonary oedema → diuretic torsemide 5–10 mg; hyperkalaemia → ECG monitoring (tall T waves) + regular serum K⁺. (Book p776)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "The ECG change specifically named for hyperkalaemia in the PSGN treatment table is the tall T wave.",
+   "opts": [
+    "True",
+    "False — the table names U waves",
+    "False — the table names a short PR interval",
+    "True, but only after dialysis"
+   ],
+   "ans": 0,
+   "exp": "Hyperkalaemia row: ECG monitoring (check for tall T waves) and serum K⁺ levels checked regularly. (Book p776)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The histopathology figure labelled 'DPGN histopathology' on this page illustrates:",
+   "opts": [
+    "A hypercellular glomerulus from diffuse proliferative glomerulonephritis",
+    "A glomerulus with segmental sclerosis and hyalinosis",
+    "A glomerulus with spikes along the subepithelial space",
+    "A normal glomerulus with thin basement membranes"
+   ],
+   "ans": 0,
+   "exp": "The figure shows a light-microscopy image of DPGN (diffuse proliferative GN) — the characteristic histopathology of PSGN. (Book p776)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An immunofluorescence image in a child with acute PSGN is reported as a 'starry sky pattern'. This corresponds to:",
+   "opts": [
+    "Granular IgG ± C3 in capillary walls, more than in the mesangium",
+    "Linear IgG along the glomerular basement membrane",
+    "Mesangial IgA with C3 in a garland pattern",
+    "Extensive crescent formation with fibrinogen staining"
+   ],
+   "ans": 0,
+   "exp": "Clinical-phase IF in PSGN: granular IgG ± C3 in capillary walls > mesangium, described as the starry sky pattern (figure 'IF: starry sky pattern'). (Book p776)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which immunofluorescence pattern is NOT part of the described PSGN findings?",
+   "opts": [
+    "Linear IgG along the GBM",
+    "Granular IgG ± C3 in capillary walls in the clinical phase",
+    "Only mesangial C3 in the recovery phase",
+    "Starry sky appearance"
+   ],
+   "ans": 0,
+   "exp": "Linear IgG along the GBM indicates anti-GBM (Goodpasture/RPGN type I) disease, not PSGN, whose IF is granular in the clinical phase and mesangial C3-only in recovery. (Book p776)"
+  }
+ ]
+}

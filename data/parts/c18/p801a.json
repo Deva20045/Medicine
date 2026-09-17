@@ -1,0 +1,126 @@
+{
+ "page": 801,
+ "sec": "Sepsis treatment ladder & the SAFE trial note · p801",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the treatment steps for sepsis-associated AKI — 1) First line  2) Second line  3) Third line  4) Fourth line … A) Dobutamine  B) Crystalloid  C) Cortisol  D) Vasopressor",
+   "opts": [
+    "1-B, 2-D, 3-A, 4-C",
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Treatment ladder for sepsis-AKI: crystalloid (1st line) → vasopressor (2nd line) with norepinephrine > dopamine → dobutamine → cortisol. (Book p801)"
+  },
+  {
+   "fmt": "management",
+   "q": "The first-line treatment for sepsis-associated AKI is:",
+   "opts": [
+    "Crystalloid",
+    "Norepinephrine",
+    "Dobutamine",
+    "Cortisol"
+   ],
+   "ans": 0,
+   "exp": "Treatment: crystalloid (1st line) → vasopressor (2nd line) → dobutamine → cortisol. (Book p801)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with septic shock remains hypotensive after adequate crystalloid. According to the ladder, the next agent is:",
+   "opts": [
+    "Norepinephrine, which is preferred over dopamine",
+    "Dobutamine, which is preferred over norepinephrine",
+    "Cortisol as the second-line agent",
+    "Diuretics to improve urine output"
+   ],
+   "ans": 0,
+   "exp": "Second line: vasopressor — norepinephrine > dopamine; then dobutamine; then cortisol. (Book p801)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "In sepsis-associated AKI, dopamine is preferred over norepinephrine as the vasopressor.",
+   "opts": [
+    "False — the ladder states norepinephrine > dopamine",
+    "True — dopamine is preferred for its renal dose effect",
+    "True, but only with concomitant dobutamine",
+    "False — vasopressors are not used in sepsis at all"
+   ],
+   "ans": 0,
+   "exp": "The treatment ladder reads: vasopressor (2nd line) — norepinephrine > dopamine. (Book p801)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The trial quoted to establish the efficacy of crystalloids and colloids in sepsis is:",
+   "opts": [
+    "SAFE trial — Saline versus Albumin Fluid Evaluation",
+    "SAFE trial — Sepsis and Antibiotics For Everyone",
+    "SOAP trial — Saline Or Albumin Protocol",
+    "ARISE trial — Albumin Resuscitation In Severe Endotoxaemia"
+   ],
+   "ans": 0,
+   "exp": "Note: efficacy of crystalloids & colloids established by the SAFE trial — Saline versus Albumin Fluid Evaluation. (Book p801)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Diuretics are not used in the prevention or treatment of AKI.",
+   "opts": [
+    "True",
+    "False — diuretics are first line in AKI",
+    "False — diuretics are used only in prevention",
+    "True, but only in pre-renal AKI"
+   ],
+   "ans": 0,
+   "exp": "Note: diuretics are not used in the prevention or treatment of AKI — they do not improve renal recovery. (Book p801)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A resident suggests furosemide to 'convert oliguric AKI to non-oliguric AKI and improve outcome'. The correct response based on the note is:",
+   "opts": [
+    "Diuretics are not used in prevention or treatment of AKI",
+    "Diuretics are the first-line treatment in AKI",
+    "Diuretics improve renal recovery if given early",
+    "Diuretics are indicated in all oliguric patients"
+   ],
+   "ans": 0,
+   "exp": "Note: diuretics not used in prevention or treatment of AKI. (Book p801)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "The ultrasound figure labelled IVC on this page is used to assess:",
+   "opts": [
+    "Volume status by measuring the IVC diameter — normal 2–2.5 cm",
+    "Renal size to exclude chronic kidney disease",
+    "Presence of renal calculi",
+    "Bladder residual volume"
+   ],
+   "ans": 0,
+   "exp": "The IVC ultrasound is shown to assess volume status; the normal IVC diameter is 2–2.5 cm and it determines the amount of fluid required. (Book p801)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "In the passive leg raising figure, fluid is transferred from the legs and abdominal compartments. The stated purpose is:",
+   "opts": [
+    "A test for fluid responsiveness (obsolete), with the VE 30 mL/kg challenge shown on the graph",
+    "A manoeuvre to increase renal perfusion permanently",
+    "A test for intra-abdominal hypertension",
+    "A test of cardiac ischaemia"
+   ],
+   "ans": 0,
+   "exp": "The PLR figure shows transfer of blood from the legs and abdominal compartments, labelled as a test for fluid responsiveness, with the 30 mL/kg VE (volume expansion) graph before and after. (Book p801)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following appear in the sepsis-AKI treatment ladder. Which is the odd one out?",
+   "opts": [
+    "Furosemide infusion",
+    "Crystalloid first line",
+    "Norepinephrine preferred over dopamine",
+    "Dobutamine"
+   ],
+   "ans": 0,
+   "exp": "The ladder is crystalloid → vasopressor (norepinephrine > dopamine) → dobutamine → cortisol; diuretics are explicitly not used in prevention or treatment of AKI. (Book p801)"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "page": 800,
+ "sec": "Sepsis management: investigations · p800",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "The normal IVC diameter used to determine the amount of fluid required is:",
+   "opts": [
+    "2–2.5 cm",
+    "0.5–1 cm",
+    "4–5 cm",
+    "6–8 cm"
+   ],
+   "ans": 0,
+   "exp": "Investigations in sepsis-AKI: IVC diameter 2–2.5 cm is normal and determines the amount of fluid required. (Book p800)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each serum lactate level with its interpretation — 1) >1 mmol/L  2) >4 mmol/L … A) Severe sepsis  B) Organ hypoperfusion",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "Both indicate severe sepsis",
+    "Both indicate normal perfusion"
+   ],
+   "ans": 0,
+   "exp": "Serum lactate: >1 mmol/L indicates organ hypoperfusion; >4 mmol/L indicates severe sepsis. (Book p800)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "A serum lactate above which value indicates severe sepsis?",
+   "opts": [
+    "4 mmol/L",
+    "1 mmol/L",
+    "2 mmol/L",
+    "10 mmol/L"
+   ],
+   "ans": 0,
+   "exp": "Serum lactate >4 mmol/L indicates severe sepsis, while >1 mmol/L denotes organ hypoperfusion. (Book p800)"
+  },
+  {
+   "fmt": "management",
+   "q": "The passive leg raising test (PLR) is described as:",
+   "opts": [
+    "A test for fluid responsiveness — now obsolete",
+    "The investigation of choice for volume status",
+    "A test for renal perfusion pressure",
+    "A test of capillary leak"
+   ],
+   "ans": 0,
+   "exp": "Passive leg raising test (PLR): a test for fluid responsiveness, marked obsolete in the book, illustrated by the graph with the 30 mL/kg VE fluid challenge. (Book p800)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each sepsis investigation with its purpose — 1) IVC diameter  2) S. Lactate  3) Passive leg raising test … A) Test for fluid responsiveness (obsolete)  B) Determines amount of fluid required  C) Assesses organ hypoperfusion/severe sepsis",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Sepsis investigations: IVC diameter (normal 2–2.5 cm) determines the amount of fluid required; serum lactate >1 mmol/L = organ hypoperfusion and >4 mmol/L = severe sepsis; PLR tests fluid responsiveness (obsolete). (Book p800)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient in the ICU has a lactate of 5 mmol/L. According to the book this indicates:",
+   "opts": [
+    "Severe sepsis",
+    "Organ hypoperfusion only",
+    "Normal lactate clearance",
+    "Anaerobic metabolism from seizure activity"
+   ],
+   "ans": 0,
+   "exp": "Serum lactate >4 mmol/L indicates severe sepsis (levels >1 mmol/L indicate organ hypoperfusion). (Book p800)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "The passive leg raising test as a test of fluid responsiveness is described as obsolete.",
+   "opts": [
+    "True",
+    "False — it is the investigation of choice",
+    "False — it is a test of renal perfusion",
+    "True, but only in children"
+   ],
+   "ans": 0,
+   "exp": "PLR is a test for fluid responsiveness, described as obsolete, while IVC diameter and serum lactate remain the listed investigations. (Book p800)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are listed among the investigations for sepsis-associated AKI. Which is the odd one out?",
+   "opts": [
+    "Renal biopsy",
+    "IVC diameter",
+    "Serum lactate",
+    "Passive leg raising test"
+   ],
+   "ans": 0,
+   "exp": "The listed investigations are IVC diameter (2–2.5 cm normal), serum lactate (>1 and >4 mmol/L thresholds) and the passive leg raising test. (Book p800)"
+  }
+ ]
+}

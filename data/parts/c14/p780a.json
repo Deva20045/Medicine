@@ -1,0 +1,78 @@
+{
+ "page": 780,
+ "sec": "RPGN treatment approach: check first · p780",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match each first-line assessment in the RPGN treatment approach with what is sought — 1) ECG  2) ABG  3) Volume status … A) Metabolic acidosis  B) Signs of hyperkalemia  C) Inferior vena cava diameter on USG",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Step 1 of the RPGN treatment approach: check ECG (signs of hyperkalaemia), ABG (metabolic acidosis) and volume status (IVC diameter on USG). (Book p780)"
+  },
+  {
+   "fmt": "management",
+   "q": "In the RPGN treatment algorithm, the ECG shows signs of hyperkalemia. The recommended treatment is:",
+   "opts": [
+    "Calcium gluconate IV 10 mL over 2–3 minutes",
+    "Oral potassium binder alone",
+    "Insulin infusion with 50% dextrose over 2–3 hours",
+    "Immediate haemodialysis without any drug"
+   ],
+   "ans": 0,
+   "exp": "ECG signs of hyperkalaemia in RPGN are treated with calcium gluconate IV 10 mL over 2–3 minutes. (Book p780)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Calcium gluconate in hyperkalaemic RPGN is given as 10 mL IV over:",
+   "opts": [
+    "2–3 minutes",
+    "10–15 minutes",
+    "30 minutes",
+    "1 hour"
+   ],
+   "ans": 0,
+   "exp": "Calcium gluconate 10 mL IV given over 2–3 minutes for ECG signs of hyperkalaemia. (Book p780)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with RPGN has an ABG showing metabolic acidosis. Which treatments are listed in the algorithm?",
+   "opts": [
+    "NaHCO₃ or dialysis",
+    "Calcium gluconate or insulin-dextrose",
+    "Diuretics alone",
+    "Oral alkali with potassium binders only"
+   ],
+   "ans": 0,
+   "exp": "ABG showing metabolic acidosis is treated with NaHCO₃ or dialysis. (Book p780)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the volume-status assessment with its treatment — 1) Assessment  2) Treatment … A) Diuretics  B) Check inferior vena cava diameter on USG",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "Both refer to dialysis",
+    "Both refer to NaHCO₃"
+   ],
+   "ans": 0,
+   "exp": "Volume status is assessed by the inferior vena cava diameter on USG, and diuretics are the treatment used for the volume problem. (Book p780)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "The first step in managing RPGN, before specific therapy, is to check the ECG, ABG and volume status.",
+   "opts": [
+    "True",
+    "False — ECG is checked only after dialysis",
+    "False — ABG is checked only after biopsy",
+    "True, but only in type I RPGN"
+   ],
+   "ans": 0,
+   "exp": "Treatment approach, step 1: check ECG for hyperkalaemia, ABG for metabolic acidosis and volume status by IVC diameter on USG. (Book p780)"
+  }
+ ]
+}

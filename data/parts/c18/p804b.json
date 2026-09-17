@@ -1,0 +1,138 @@
+{
+ "page": 804,
+ "sec": "Cardiorenal syndrome types & acute cortical necrosis · p804",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the CRS type with its name — 1) Type 1  2) Type 2  3) Type 3  4) Type 4  5) Type 5 … A) Chronic renocardiac  B) Acute cardiorenal  C) Secondary  D) Chronic cardiorenal  E) Acute renocardiac",
+   "opts": [
+    "1-B, 2-D, 3-E, 4-A, 5-C",
+    "1-D, 2-B, 3-E, 4-A, 5-C",
+    "1-B, 2-D, 3-A, 4-E, 5-C",
+    "1-C, 2-D, 3-E, 4-A, 5-B"
+   ],
+   "ans": 0,
+   "exp": "CRS types: 1 — acute cardiorenal; 2 — chronic cardiorenal; 3 — acute renocardiac; 4 — chronic renocardiac; 5 — secondary. (Book p804)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the CRS type with its description — 1) Type 1  2) Type 2  3) Type 3  4) Type 4  5) Type 5 … A) AKI leading to acute cardiac dysfunction  B) Chronic heart failure leading to renal dysfunction  C) Systemic condition causing cardiac and renal dysfunction  D) Chronic renal failure leading to cardiac dysfunction  E) Acute cardiac dysfunction leading to AKI",
+   "opts": [
+    "1-E, 2-B, 3-A, 4-D, 5-C",
+    "1-A, 2-B, 3-E, 4-D, 5-C",
+    "1-E, 2-D, 3-A, 4-B, 5-C",
+    "1-B, 2-E, 3-A, 4-D, 5-C"
+   ],
+   "ans": 0,
+   "exp": "Descriptions: type 1 — acute cardiac dysfunction leading to AKI; type 2 — chronic heart failure leading to renal dysfunction; type 3 — AKI leading to acute cardiac dysfunction; type 4 — chronic renal failure leading to cardiac dysfunction; type 5 — systemic condition causing cardiac and renal dysfunction. (Book p804)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with acute decompensated heart failure develops AKI. Which cardiorenal syndrome type is this?",
+   "opts": [
+    "Type 1 — acute cardiorenal",
+    "Type 2 — chronic cardiorenal",
+    "Type 3 — acute renocardiac",
+    "Type 5 — secondary"
+   ],
+   "ans": 0,
+   "exp": "CRS type 1 (acute cardiorenal): acute cardiac dysfunction leading to AKI. (Book p804)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with chronic kidney disease develops cardiac dysfunction in the absence of an acute cardiac event. Which CRS type is this?",
+   "opts": [
+    "Type 4 — chronic renocardiac",
+    "Type 1 — acute cardiorenal",
+    "Type 3 — acute renocardiac",
+    "Type 2 — chronic cardiorenal"
+   ],
+   "ans": 0,
+   "exp": "CRS type 4 (chronic renocardiac): chronic renal failure leading to cardiac dysfunction. (Book p804)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Cardiorenal syndrome type 3 is acute ______.",
+   "opts": [
+    "renocardiac",
+    "cardiorenal",
+    "secondary",
+    "chronic renocardiac"
+   ],
+   "ans": 0,
+   "exp": "CRS type 3 is acute renocardiac: acute kidney injury leading to acute cardiac dysfunction. (Book p804)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with sepsis has both cardiac and renal dysfunction from the systemic illness. Which CRS type is this?",
+   "opts": [
+    "Type 5 — secondary",
+    "Type 1 — acute cardiorenal",
+    "Type 3 — acute renocardiac",
+    "Type 4 — chronic renocardiac"
+   ],
+   "ans": 0,
+   "exp": "CRS type 5 (secondary): a systemic condition causing cardiac and renal dysfunction. (Book p804)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the note on acute cortical necrosis — 1) Causes  2) Definition  3) Consequence … A) Urine output failing to recover  B) Snake bite, placental abruption, pancreatitis  C) Can progress to CKD",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Note: snake bite, placental abruption and pancreatitis cause acute cortical necrosis (urine output failing to recover), which can progress to CKD. (Book p804)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Acute cortical necrosis is characterised by:",
+   "opts": [
+    "Urine output failing to recover, and can progress to CKD",
+    "Immediate full recovery of urine output",
+    "Nephrotic-range proteinuria",
+    "Isolated hypercalcemia"
+   ],
+   "ans": 0,
+   "exp": "Note: snake bite, placental abruption and pancreatitis → acute cortical necrosis (urine output failing to recover) → can progress to CKD. (Book p804)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A woman with placental abruption remains anuric for 3 weeks with a rising creatinine despite fluid therapy. The likely lesion and its consequence are:",
+   "opts": [
+    "Acute cortical necrosis — urine output failing to recover, which can progress to CKD",
+    "Pre-renal AKI — expected to recover within 48 hours",
+    "Acute interstitial nephritis — reversible with steroids",
+    "Contrast-induced AKI — normalising in 7–10 days"
+   ],
+   "ans": 0,
+   "exp": "Note: placental abruption (along with snake bite and pancreatitis) causes acute cortical necrosis with urine output failing to recover, progressing to CKD. (Book p804)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are correct pairing of cardiorenal syndrome types. Which is the odd one out?",
+   "opts": [
+    "Type 2 — AKI leading to acute cardiac dysfunction",
+    "Type 1 — acute cardiorenal",
+    "Type 3 — acute renocardiac",
+    "Type 4 — chronic renocardiac"
+   ],
+   "ans": 0,
+   "exp": "Type 2 is chronic cardiorenal (chronic heart failure leading to renal dysfunction); AKI leading to acute cardiac dysfunction is type 3. (Book p804)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Acute cortical necrosis in AKI can progress to chronic kidney disease.",
+   "opts": [
+    "True",
+    "False — it always resolves completely",
+    "False — it is a reversible form of AIN",
+    "True, but only in children"
+   ],
+   "ans": 0,
+   "exp": "The note states that acute cortical necrosis (urine output failing to recover) can progress to CKD. (Book p804)"
+  }
+ ]
+}
