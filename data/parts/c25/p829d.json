@@ -1,0 +1,87 @@
+{
+ "page": 829,
+ "sec": "Delta ratio · p829",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Delta (Δ) AG = measured AG − ______.",
+   "opts": ["normal AG", "ΔHCO₃⁻", "serum albumin", "urine anion gap"],
+   "ans": 0,
+   "exp": "Delta (Δ) AG = measured AG − normal AG. (Book p829)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Delta ratio = ______.",
+   "opts": ["ΔAG / ΔHCO₃⁻", "ΔHCO₃⁻ / ΔAG", "ΔAG × ΔHCO₃⁻", "ΔAG + ΔHCO₃⁻"],
+   "ans": 0,
+   "exp": "Delta ratio = ΔAG / ΔHCO₃⁻. (Book p829)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the delta ratio to its interpretation — 1) < 1  2) 1–2  3) > 2 … A) HAGMA + metabolic alkalosis  B) HAGMA + NAGMA  C) HAGMA alone",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Delta ratio < 1: HAGMA + NAGMA; 1–2: HAGMA; > 2: HAGMA + metabolic alkalosis. (Book p829)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient has a HAGMA with a delta ratio of 0.6. What does this suggest?",
+   "opts": [
+    "A coexisting normal anion gap metabolic acidosis",
+    "A coexisting metabolic alkalosis",
+    "A pure HAGMA requiring no further search",
+    "An osmolal gap that must be ignored"
+   ],
+   "ans": 0,
+   "exp": "A delta ratio below 1 indicates HAGMA plus NAGMA, i.e. a second, normal anion gap acidosis alongside the raised gap. (Book p829)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with a HAGMA has a delta ratio of 2.4. Which additional disorder does the printed table suggest?",
+   "opts": [
+    "Metabolic alkalosis in addition to the HAGMA",
+    "Normal anion gap metabolic acidosis in addition to the HAGMA",
+    "No additional disorder — this is a pure HAGMA",
+    "Respiratory acidosis with full compensation"
+   ],
+   "ans": 0,
+   "exp": "A delta ratio above 2 indicates HAGMA plus metabolic alkalosis. (Book p829)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Which delta ratio range corresponds to a pure high anion gap metabolic acidosis?",
+   "opts": ["1–2", "< 1", "> 2", "> 3"],
+   "ans": 0,
+   "exp": "Delta ratio 1–2 indicates HAGMA alone — values < 1 add NAGMA and values > 2 add metabolic alkalosis. (Book p829)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘The delta ratio uses the change in anion gap divided by the change in bicarbonate.’",
+   "opts": [
+    "True — Delta ratio = ΔAG/ΔHCO₃⁻, with ΔAG = measured AG − normal AG",
+    "False — the delta ratio divides ΔHCO₃⁻ by ΔAG",
+    "False — the delta ratio uses the osmolal gap instead of the anion gap",
+    "True, but ΔAG is measured AG + normal AG"
+   ],
+   "ans": 0,
+   "exp": "Delta (Δ) AG = measured AG − normal AG, and Delta ratio = ΔAG/ΔHCO₃⁻. (Book p829)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these delta ratio interpretations are printed. Which is the odd one out?",
+   "opts": [
+    "> 2 indicates HAGMA with a coexisting normal anion gap acidosis",
+    "< 1 indicates HAGMA with NAGMA",
+    "1–2 indicates HAGMA alone",
+    "> 2 indicates HAGMA with metabolic alkalosis"
+   ],
+   "ans": 0,
+   "exp": "A ratio > 2 means HAGMA plus metabolic alkalosis; the coexisting NAGMA belongs to the < 1 range. (Book p829)"
+  }
+ ]
+}

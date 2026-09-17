@@ -1,0 +1,78 @@
+{
+ "page": 828,
+ "sec": "Adequate and partial compensation · p828",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "The adequacy-of-compensation flowchart is built around which quantity?",
+   "opts": [
+    "The compensatory metabolite, compared with its expected and normal values",
+    "The pH alone, compared with 7.4",
+    "The anion gap, compared with 12 mEq/L",
+    "The base excess, compared with zero"
+   ],
+   "ans": 0,
+   "exp": "The flowchart tracks the compensatory metabolite, comparing it with the expected value and with the normal value. (Book p828)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the compensation verdicts for metabolic acidosis/respiratory alkalosis — 1) ≤ expected value  2) Between expected and normal value  3) Group of disorders this arm covers … A) Partial compensation  B) Metabolic acidosis and respiratory alkalosis  C) Adequate compensation",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "In metabolic acidosis/respiratory alkalosis, a compensatory metabolite ≤ expected value = adequate compensation, while a value between expected and normal = partial compensation. (Book p828)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the compensation verdicts for metabolic alkalosis/respiratory acidosis — 1) ≥ expected value  2) Between expected and normal value  3) Group of disorders this arm covers … A) Metabolic alkalosis and respiratory acidosis  B) Adequate compensation  C) Partial compensation",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "For metabolic alkalosis/respiratory acidosis the mirrored rule applies: ≥ expected value = adequate compensation, between expected and normal = partial compensation. (Book p828)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with metabolic acidosis has a compensatory metabolite that lies exactly between the expected value and the normal value. What does the flowchart call this?",
+   "opts": [
+    "Partial compensation",
+    "Adequate compensation",
+    "No compensation",
+    "Over-compensation"
+   ],
+   "ans": 0,
+   "exp": "A compensatory metabolite between the expected and normal values is labelled partial compensation in both arms of the flowchart. (Book p828)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘The two arms of the compensation flowchart are mirror images: ≤ expected value is adequate in one arm and ≥ expected value is adequate in the other.’",
+   "opts": [
+    "True — metabolic acidosis/respiratory alkalosis use ≤ and metabolic alkalosis/respiratory acidosis use ≥",
+    "False — both arms use ≤ expected value for adequate compensation",
+    "False — both arms use ≥ expected value for adequate compensation",
+    "True, except that partial compensation is defined differently in the two arms"
+   ],
+   "ans": 0,
+   "exp": "The flowchart is mirrored: ≤ expected value = adequate for metabolic acidosis/respiratory alkalosis, while ≥ expected value = adequate for metabolic alkalosis/respiratory acidosis; between expected and normal = partial in both. (Book p828)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these pairings of the two compensation arms are printed. Which is the odd one out?",
+   "opts": [
+    "Metabolic alkalosis and respiratory acidosis — adequate compensation when ≤ expected value",
+    "Metabolic acidosis and respiratory alkalosis — adequate compensation when ≤ expected value",
+    "Metabolic acidosis and respiratory alkalosis — partial compensation when between expected and normal",
+    "Metabolic alkalosis and respiratory acidosis — adequate compensation when ≥ expected value"
+   ],
+   "ans": 0,
+   "exp": "The ≥ expected value rule belongs to the metabolic alkalosis/respiratory acidosis arm; the ≤ rule belongs to the metabolic acidosis/respiratory alkalosis arm. (Book p828)"
+  }
+ ]
+}

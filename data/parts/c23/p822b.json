@@ -1,0 +1,99 @@
+{
+ "page": 822,
+ "sec": "Proximal (type 2) RTA: defect and causes · p822",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Renal tubular acidosis type 2 is defined as:",
+   "opts": [
+    "Generalised dysfunction of the PCT",
+    "Isolated failure of the distal H⁺-ATPase",
+    "Selective aldosterone deficiency",
+    "Failure of the collecting-duct H⁺,K⁺-ATPase"
+   ],
+   "ans": 0,
+   "exp": "RTA type 2 = generalised dysfunction of the PCT (proximal RTA). (Book p822)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the type 2 RTA defect — 1) Na⁺–HCO₃⁻ exchanger defect  2) Carbonic anhydrase defect  3) Overall description … A) Generalised dysfunction of the PCT  B) Enzyme defect  C) Exchanger defect",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "The defect in type 2 RTA is a Na⁺–HCO₃⁻ exchanger defect and/or a carbonic anhydrase defect. (Book p822)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In childhood, type 2 RTA is caused by Fanconi's syndrome. Which is the most common underlying cause?",
+   "opts": ["Cystinosis", "Lowe's disease", "Wilson disease", "Myeloma"],
+   "ans": 0,
+   "exp": "Childhood causes: Fanconi's syndrome — cystinosis (m/c), Lowe's disease, and Wilson disease in adolescence. (Book p822)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the childhood causes of type 2 RTA to their age label — 1) Cystinosis  2) Lowe's disease  3) Wilson disease … A) Labelled adolescence  B) Most common cause  C) Also listed under Fanconi's syndrome",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Cystinosis is the m/c childhood cause, Lowe's disease is listed alongside it, and Wilson disease is tagged as adolescence. (Book p822)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 16-year-old with tremor, Kayser–Fleischer rings and a proximal renal tubular acidosis — which printed cause fits best?",
+   "opts": ["Wilson disease", "Cystinosis", "Lowe's disease", "Outdated tetracycline"],
+   "ans": 0,
+   "exp": "Wilson disease appears under the childhood/Fanconi causes of type 2 RTA and is specifically tagged ‘adolescence’. (Book p822)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the adults' causes of type 2 RTA — 1) Haematological cause  2) Antiviral drug  3) Antibiotic … A) Gentamicin  B) Myeloma  C) Tenofovir",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Adult causes: myeloma and drugs — tenofovir, cyclophosphamide, outdated tetracycline and gentamicin. (Book p822)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which quartet of drugs is printed as a cause of adult type 2 RTA?",
+   "opts": [
+    "Tenofovir, cyclophosphamide, outdated tetracycline, gentamicin",
+    "Tenofovir, cisplatin, amoxicillin, gentamicin",
+    "Cyclophosphamide, lithium, gentamicin, rifampicin",
+    "Outdated tetracycline, NSAIDs, tenofovir, vancomycin"
+   ],
+   "ans": 0,
+   "exp": "Drugs causing type 2 RTA in adults: tenofovir, cyclophosphamide, outdated tetracycline and gentamicin. (Book p822)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘Type 2 RTA is an isolated defect of bicarbonate reabsorption with everything else in the PCT working normally.’",
+   "opts": [
+    "False — it is a generalised dysfunction of the PCT, so phosphate and glucose handling also fail",
+    "True — only the Na⁺–HCO₃⁻ exchanger is ever affected",
+    "True — that is why there is no glycosuria",
+    "False — type 2 RTA spares the PCT and affects the distal tubule only"
+   ],
+   "ans": 0,
+   "exp": "Type 2 RTA is a *generalised* PCT dysfunction: bicarbonate, phosphate and glucose handling all fail, hence rickets-like changes and glycosuria. (Book p822)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are listed causes of type 2 RTA. Which is the odd one out?",
+   "opts": ["Sjögren's syndrome", "Cystinosis", "Tenofovir", "Myeloma"],
+   "ans": 0,
+   "exp": "Sjögren's syndrome is the acquired cause of *distal* RTA; type 2 RTA's causes are Fanconi's syndrome (cystinosis m/c, Lowe's, Wilson) and myeloma/drugs (tenofovir, cyclophosphamide, outdated tetracycline, gentamicin). (Book p822)"
+  }
+ ]
+}

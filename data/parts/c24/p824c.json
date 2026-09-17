@@ -1,0 +1,68 @@
+{
+ "page": 824,
+ "sec": "Other causes: Cushing, apparent mineralocorticoid excess, GRA · p824",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the other causes of saline-unresponsive alkalosis to their immediate mechanism — 1) Cushing syndrome  2) Apparent mineralocorticoid excess  3) Glucocorticosteroid remediable aldosteronism … A) ACTH → aldosterone  B) Cortisol excess  C) Cortisol ✗→ cortisone block",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Other causes: Cushing syndrome → cortisol excess; apparent mineralocorticoid excess → the cortisol-to-cortisone step is blocked; glucocorticosteroid remediable aldosteronism → ACTH → aldosterone. (Book p824)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In all three ‘other causes’, the final common pathway printed is:",
+   "opts": ["Mineralocorticoid excess", "Renin excess", "Prostaglandin deficiency", "Chloride depletion"],
+   "ans": 0,
+   "exp": "Cushing syndrome gives cortisol excess → mineralocorticoid excess; the AME block also gives mineralocorticoid excess; GRA acts through ACTH → aldosterone. (Book p824)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In apparent mineralocorticoid excess, which enzymatic conversion is blocked?",
+   "opts": [
+    "Cortisol → cortisone",
+    "Cortisone → cortisol",
+    "Cholesterol → pregnenolone",
+    "Corticosterone → aldosterone"
+   ],
+   "ans": 0,
+   "exp": "The block shown is cortisol ✗→ cortisone, so cortisol accumulates and acts as a mineralocorticoid. (Book p824)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A young patient has hypertension, hypokalemic alkalosis, low renin, low aldosterone and a normal urine chloride; spirolactone works but the family history shows an autosomal dominant trait driven by ACTH. Which cause is printed?",
+   "opts": [
+    "Glucocorticosteroid remediable aldosteronism",
+    "Apparent mineralocorticoid excess with a blocked cortisol-to-cortisone step",
+    "Liddle syndrome with a gain-of-function ENaC mutation",
+    "Primary hyperaldosteronism with a unilateral adrenal adenoma"
+   ],
+   "ans": 0,
+   "exp": "Glucocorticosteroid remediable aldosteronism acts through ACTH → aldosterone and sits in the ‘other causes’ group of saline-unresponsive alkalosis. (Book p824)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘In Cushing syndrome the alkalosis is driven by cortisol excess producing mineralocorticoid excess.’",
+   "opts": [
+    "True — cortisol excess → mineralocorticoid excess",
+    "False — Cushing syndrome causes alkalosis through renin excess",
+    "False — Cushing syndrome causes a metabolic acidosis",
+    "True, but only when aldosterone is also high"
+   ],
+   "ans": 0,
+   "exp": "Cushing syndrome: cortisol excess → mineralocorticoid excess, one of the ‘other causes’ of saline-unresponsive metabolic alkalosis. (Book p824)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these belong to the ‘other causes’ group of the alkalosis flowchart. Which is the odd one out?",
+   "opts": ["Renin-secreting tumour", "Cushing syndrome", "Apparent mineralocorticoid excess", "Glucocorticosteroid remediable aldosteronism"],
+   "ans": 0,
+   "exp": "Renin-secreting tumours sit in the ↑renin/↑aldosterone ‘major causes’ column; the ‘other causes’ group contains Cushing syndrome, AME and GRA. (Book p824)"
+  }
+ ]
+}

@@ -38,6 +38,9 @@ LIVE_CHAPTERS = {
     16: ("Ciliopathies", 786, 792, 139, 6),
     17: ("Chronic Tubulointerstitial Disease", 793, 795, 52, 3),
     18: ("Acute Kidney Injury", 796, 804, 181, 9),
+    23: ("Introduction to Acid Base Analysis", 819, 823, 137, 9),
+    24: ("Metabolic Alkalosis", 824, 825, 40, 3),
+    25: ("Methodology and Interpretation of ABG Analysis", 826, 829, 105, 6),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain

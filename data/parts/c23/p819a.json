@@ -1,0 +1,147 @@
+{
+ "page": 819,
+ "sec": "Acid–base balance, H⁺ load and chemical buffering · p819",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Acid–base balance matters because four listed functions work well only across a narrow pH range. Which set?",
+   "opts": [
+    "Enzyme system, muscle and nerve, oxygenation and metabolic function",
+    "Clotting cascade, thermoregulation, gut motility and immune surveillance",
+    "Enzyme system, hormonal synthesis, bone turnover and drug metabolism",
+    "Oxygenation, oncotic pressure, cardiac conduction and vitamin activation"
+   ],
+   "ans": 0,
+   "exp": "Acid–base balance matters for the enzyme system, muscle and nerve, oxygenation and metabolic function — all of which function well only across a narrow pH range. (Book p819)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Per day H⁺ production, as quantified at the start of the chapter, is:",
+   "opts": ["7 crore nmol", "70 crore nmol", "7 lakh nmol", "40 crore nmol"],
+   "ans": 0,
+   "exp": "Per day H⁺ production is given as 7 crore nmol (= 70 mmol of fixed acid), while the blood H⁺ concentration at pH 7.4 is 40 nmol/L. (Book p819)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Blood H⁺ concentration at pH 7.4 is:",
+   "opts": ["40 nmol/L or 40 nanoEq/L", "24 nmol/L or 24 nanoEq/L", "80 nmol/L or 80 nanoEq/L", "63 nmol/L or 63 nanoEq/L"],
+   "ans": 0,
+   "exp": "Blood H⁺ concentration at pH 7.4 is 40 nmol/L; the daily acid load of 7 crore nmol is far larger, which is why buffering is needed. (Book p819)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the fate of excess H⁺ as printed — 1) Excess H⁺  2) Its cellular effect  3) Final outcome … A) Rendered safe by the buffering system  B) Alters cellular morphology  C) Cellulotoxic",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Excess H⁺ → cellulotoxic → alters cellular morphology → rendered safe by buffering system. (Book p819)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘Excess H⁺ is made harmless by altering cellular morphology, without any buffering.’",
+   "opts": [
+    "False — the buffering system renders the H⁺ safe; morphology change is the toxic step",
+    "True — morphological change is the neutralising step",
+    "True, as long as renal acid excretion is intact",
+    "False — H⁺ is removed only by alveolar ventilation"
+   ],
+   "ans": 0,
+   "exp": "The arrow is the other way round: excess H⁺ is cellulotoxic and alters cellular morphology, and is then rendered safe by the buffering system. (Book p819)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the buffering system to its printed response time — 1) Chemical  2) Respiratory  3) Renal … A) Slow response  B) Immediate response  C) Fast response",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Buffering system types: chemical = immediate response, respiratory = fast response, renal = slow response. (Book p819)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The most potent extracellular buffering system is ______.",
+   "opts": [
+    "H⁺ + HCO₃⁻ → H₂CO₃ (bicarbonate–carbonic acid)",
+    "H⁺ + HPO₄²⁻ → H₂PO₄⁻ (phosphate)",
+    "H⁺ + Hb → HHb (haemoglobin)",
+    "H⁺ + [A⁻] → HA (conjugate base)"
+   ],
+   "ans": 0,
+   "exp": "[H⁺] + [HCO₃⁻] → H₂CO₃ is labelled the most potent extracellular buffering system. (Book p819)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The general chemical buffering reaction is written as:",
+   "opts": [
+    "[H⁺] + [A⁻] (conjugate base) → HA (acid)",
+    "[H⁺] + [HA] (acid) → [A⁻] (conjugate base)",
+    "[HA] (acid) → [H⁺] + [A⁻] (conjugate base)",
+    "[A⁻] (conjugate base) → [H⁺] + [HA] (acid)"
+   ],
+   "ans": 0,
+   "exp": "Chemical buffering: [H⁺] + [A⁻] (conjugate base) → HA (acid); the particular case with A⁻ = HCO₃⁻ is the most potent extracellular buffer. (Book p819)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: pKa is the pH at which ______.",
+   "opts": [
+    "50% [A⁻] = 50% [HA]",
+    "100% [A⁻] = 0% [HA]",
+    "pH equals the PaCO₂ in mmHg",
+    "buffering capacity falls to zero"
+   ],
+   "ans": 0,
+   "exp": "pKa is the pH at which acid state is 50% [A⁻] = 50% [HA]. (Book p819)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The mechanism of chemical buffering is expressed by which equation?",
+   "opts": [
+    "pH = pKa + log [A⁻] (conjugate base) / [HA] (acid)",
+    "pH = pKa − log [A⁻] / [HA]",
+    "pH = pKa + log [HA] (acid) / [A⁻] (conjugate base)",
+    "pH = pKa × log [A⁻] / [HA]"
+   ],
+   "ans": 0,
+   "exp": "pH = pKa + log [A⁻] (conjugate base) / [HA] (acid) — the Henderson–Hasselbalch relation as printed under ‘mechanism’. (Book p819)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘A strong acid (pKa < 3) exists more in the HA form and is therefore not good for basic functions.’",
+   "opts": [
+    "True — existing mainly as HA makes strong acids poor buffers",
+    "False — strong acids exist mainly as A⁻ and are the best buffers",
+    "True — and weak acids also exist mainly as HA",
+    "False — pKa < 3 means the acid exists only as A⁻"
+   ],
+   "ans": 0,
+   "exp": "Strong acid (pKa < 3) exists more in [HA] form: not good for basic functions. (Book p819)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which acids are called the best buffer system, and why?",
+   "opts": [
+    "Weak acids — they exist more in the [A⁻] form",
+    "Strong acids — they exist more in the [HA] form",
+    "Weak acids — they exist more in the [HA] form",
+    "Strong acids — they exist more in the [A⁻] form"
+   ],
+   "ans": 0,
+   "exp": "Weak acids exist more in the [A⁻] form and are therefore the best buffer system, unlike strong acids (pKa < 3) which sit mainly as HA. (Book p819)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following chemical buffers are named in the Book. Which is the odd one out?",
+   "opts": ["Ammonium buffer (NH₄⁺/NH₃)", "Bicarbonate–carbonic acid system", "Phosphate buffer", "Haemoglobin buffer"],
+   "ans": 0,
+   "exp": "The three chemical buffers printed are the HCO₃⁻/H₂CO₃ system, the phosphate buffer and the haemoglobin buffer; an ammonium pair is not listed as a chemical buffer. (Book p819)"
+  }
+ ]
+}

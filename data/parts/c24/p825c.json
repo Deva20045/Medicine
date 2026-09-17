@@ -1,0 +1,61 @@
+{
+ "page": 825,
+ "sec": "Note: the causes of metabolic acidosis revisited · p825",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the second branch of metabolic acidosis — 1) Acid generation  2) Alkali loss  3) Alkali loss — GI causes  4) Alkali loss — renal causes … A) NAGMA with positive urine anion gap  B) High anion gap  C) NAGMA with negative urine anion gap  D) VIPoma",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-D, 3-C, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Note flowchart: acid generation → high anion gap; alkali loss → GI causes (VIPoma) with a negative urine anion gap, versus renal causes (RTA) with a positive urine anion gap. (Book p825)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In the note flowchart, metabolic acidosis from acid generation carries which anion gap?",
+   "opts": ["High anion gap", "Normal anion gap with a negative UAG", "Normal anion gap with a positive UAG", "A normal anion gap that cannot be calculated"],
+   "ans": 0,
+   "exp": "Acid generation → high anion gap; alkali loss → NAGMA, further split into GI (−ve UAG) and renal (+ve UAG). (Book p825)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with a VIPoma has a normal anion gap acidosis. What is the expected urine anion gap, and why?",
+   "opts": [
+    "Negative — GI alkali loss with the kidney responding normally",
+    "Positive — GI alkali loss with a tubular defect",
+    "Negative — because acid generation raises unmeasured anions",
+    "Positive — because VIPoma damages the distal tubule"
+   ],
+   "ans": 0,
+   "exp": "GI causes of NAGMA are marked (−ve) for the urine anion gap, with VIPoma as the printed example; renal causes (RTA) are (+ve). (Book p825)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘In the p825 note, both GI and renal causes of NAGMA are marked with a positive urine anion gap.’",
+   "opts": [
+    "False — GI causes are (−ve) and renal causes are (+ve) for the urine anion gap",
+    "True — the positive mark applies to both columns",
+    "False — both columns are marked negative",
+    "False — urine anion gap is marked only for the acid-generation branch"
+   ],
+   "ans": 0,
+   "exp": "The note marks GI causes NAGMA (−ve) with VIPoma as the example, and renal causes NAGMA (+ve) with RTA as the example. (Book p825)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these statements match the p825 note. Which is the odd one out?",
+   "opts": [
+    "RTA is the example of alkali loss with a negative urine anion gap",
+    "High anion gap acidosis belongs to the acid-generation branch",
+    "VIPoma is the example of a GI cause of NAGMA",
+    "Alkali loss splits into GI and renal columns"
+   ],
+   "ans": 0,
+   "exp": "RTA is the *positive* urine anion gap example under renal alkali loss; the negative marking belongs to the GI column, whose example is VIPoma. (Book p825)"
+  }
+ ]
+}

@@ -29,6 +29,9 @@ TITLES = {
     16: ("Ciliopathies", "786-792", 786),
     17: ("Chronic Tubulointerstitial Disease", "793-795", 793),
     18: ("Acute Kidney Injury", "796-804", 796),
+    23: ("Introduction to Acid Base Analysis", "819-823", 819),
+    24: ("Metabolic Alkalosis", "824-825", 824),
+    25: ("Methodology and Interpretation of ABG Analysis", "826-829", 826),
 }
 
 BANNED = [

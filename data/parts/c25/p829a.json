@@ -1,0 +1,82 @@
+{
+ "page": 829,
+ "sec": "Compensatory limits in acute and chronic respiratory disorders · p829",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the compensatory limits table — 1) Respiratory acidosis, acute  2) Respiratory acidosis, chronic  3) Respiratory alkalosis, acute  4) Respiratory alkalosis, chronic … A) ↓up to 12–14 mEq/L HCO₃⁻  B) ↑up to 30 mEq/L HCO₃⁻  C) ↓up to 20 mEq/L HCO₃⁻  D) ↑up to 45 mEq/L HCO₃⁻",
+   "opts": [
+    "1-B, 2-D, 3-C, 4-A",
+    "1-D, 2-B, 3-C, 4-A",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-C, 2-A, 3-B, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Compensatory limits: respiratory acidosis acute ↑up to 30 and chronic ↑up to 45 mEq/L HCO₃⁻; respiratory alkalosis acute ↓up to 20 and chronic ↓up to 12–14 mEq/L HCO₃⁻. (Book p829)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "In chronic respiratory acidosis, HCO₃⁻ compensates up to:",
+   "opts": ["45 mEq/L", "30 mEq/L", "20 mEq/L", "12–14 mEq/L"],
+   "ans": 0,
+   "exp": "Chronic respiratory acidosis: ↑up to 45 mEq/L HCO₃⁻ (acute: ↑up to 30 mEq/L). (Book p829)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "In acute respiratory acidosis, the HCO₃⁻ ceiling is:",
+   "opts": ["30 mEq/L", "45 mEq/L", "20 mEq/L", "12–14 mEq/L"],
+   "ans": 0,
+   "exp": "Acute respiratory acidosis: ↑up to 30 mEq/L HCO₃⁻. (Book p829)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "In acute respiratory alkalosis, HCO₃⁻ compensates down to a floor of:",
+   "opts": ["20 mEq/L", "12–14 mEq/L", "30 mEq/L", "45 mEq/L"],
+   "ans": 0,
+   "exp": "Acute respiratory alkalosis: ↓up to 20 mEq/L HCO₃⁻; the chronic state falls further. (Book p829)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The lowest printed HCO₃⁻ value in the compensatory limits table is:",
+   "opts": ["12–14 mEq/L", "20 mEq/L", "24 mEq/L", "30 mEq/L"],
+   "ans": 0,
+   "exp": "Chronic respiratory alkalosis: ↓up to 12–14 mEq/L HCO₃⁻ — the lowest value in the table. (Book p829)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with chronic respiratory alkalosis has an HCO₃⁻ of 11 mEq/L. How do you read this against the table?",
+   "opts": [
+    "It is below the printed chronic floor of 12–14 mEq/L, suggesting an additional metabolic acidosis",
+    "It is exactly at the acute limit of 20 mEq/L",
+    "It is within the chronic limit, so the picture is fully explained",
+    "It exceeds the chronic ceiling of 45 mEq/L"
+   ],
+   "ans": 0,
+   "exp": "Chronic respiratory alkalosis compensates only down to 12–14 mEq/L; a value of 11 mEq/L lies beyond that printed limit. (Book p829)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘Chronic respiratory acidosis allows a higher bicarbonate ceiling (45 mEq/L) than acute respiratory acidosis (30 mEq/L).’",
+   "opts": [
+    "True — the printed ceilings are 30 mEq/L acute and 45 mEq/L chronic",
+    "False — the acute ceiling is higher than the chronic ceiling",
+    "False — both states share a ceiling of 20 mEq/L",
+    "True, but the chronic ceiling is 12–14 mEq/L"
+   ],
+   "ans": 0,
+   "exp": "Table: respiratory acidosis ↑up to 30 mEq/L (acute) and ↑up to 45 mEq/L (chronic). (Book p829)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these row values of the compensatory limits table are correctly quoted. Which is the odd one out?",
+   "opts": [
+    "Chronic respiratory alkalosis — ↓up to 20 mEq/L HCO₃⁻",
+    "Acute respiratory acidosis — ↑up to 30 mEq/L HCO₃⁻",
+    "Chronic respiratory acidosis — ↑up to 45 mEq/L HCO₃⁻",
+    "Acute respiratory alkalosis — ↓up to 20 mEq/L HCO₃⁻"
+   ],
+   "ans": 0,
+   "exp": "The chronic respiratory alkalosis limit is ↓up to 12–14 mEq/L; the 20 mEq/L figure belongs to the acute row. (Book p829)"
+  }
+ ]
+}

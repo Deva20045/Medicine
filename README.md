@@ -33,7 +33,10 @@ rest show a **Soon** badge.
 | Ch 16 · Ciliopathies (p786–792) — 6 units, 139 questions | ✅ live (re-audited) |
 | Ch 17 · Chronic Tubulointerstitial Disease (p793–795) — 3 units, 52 questions | ✅ live (re-audited) |
 | Ch 18 · Acute Kidney Injury (p796–804) — 9 units, 181 questions | ✅ live (re-audited) |
-| Ch 19–74 (Nephrology, Acid–Base, Endocrinology, Hepatology, Infectious Diseases) | 🚧 in progress |
+| Ch 23 · Introduction to Acid Base Analysis (p819–823) — 9 units, 137 questions | ✅ live |
+| Ch 24 · Metabolic Alkalosis (p824–825) — 3 units, 40 questions | ✅ live |
+| Ch 25 · Methodology and Interpretation of ABG Analysis (p826–829) — 6 units, 105 questions | ✅ live |
+| Ch 19–22, 26–74 (Nephrology, Endocrinology, Hepatology, Infectious Diseases) | 🚧 in progress |
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 74-chapter
 roadmap, data schema, per-chapter pipeline, and NEXT step.
@@ -50,9 +53,10 @@ roadmap, data schema, per-chapter pipeline, and NEXT step.
 | `audit_variety.py` | Format-mix + predictability audit (output saved to `AUDIT.md`) |
 | `itemlab.py` | Add/edit questions with renumbering + auto-rebuild |
 | `uploads/` | The 6 source book PDFs (Book p705–1070) |
-| `data/parts/cNN/…` | Ordered, page-anchored authoring parts (source of truth for Ch 13–18) |
+| `data/parts/cNN/…` | Ordered, page-anchored authoring parts (source of truth for Ch 13–18, 23–25) |
 | `author.py` | Assembles `data/chNN.json` from the ordered parts, with quality gates |
 | `REAUDIT.md` | Re-audit report for Ch 13–18 (before → after, coverage, verification) |
+| `REPORT_CH23-25.md` | Build report for the Acid–Base chapters (coverage, metrics, verification) |
 
 ## Run the checks (after any content change)
 ```bash

@@ -1,0 +1,87 @@
+{
+ "page": 826,
+ "sec": "ABG methodology: equipment and prerequisites · p826",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the ABG equipment list — 1) 1 ml syringe with needle  2) Antiseptic  3) Personal protection … A) Gloves and cover roll  B) 0.5 ml heparinized, without excess heparin in the syringe  C) 70% alcohol wipe and gauze",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Equipment: ABG analyzer; 1 ml syringe with needle (0.5 ml heparinized — do not leave excess heparin within the syringe); 70% alcohol wipe and gauze; gloves and cover roll. (Book p826)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Regarding the heparin in the ABG syringe, the chapter instructs:",
+   "opts": [
+    "Use 0.5 ml heparinized syringe and do not leave excess heparin within it",
+    "Use a dry syringe and add heparin only after sampling",
+    "Fill the syringe completely with heparin before sampling",
+    "Use 2 ml of heparin and leave it in the syringe"
+   ],
+   "ans": 0,
+   "exp": "A 0.5 ml heparinized syringe is specified, with the instruction not to leave excess heparin within the syringe. (Book p826)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "For a valid sample, the syringe should contain more than what proportion of blood?",
+   "opts": ["50%", "75%", "90%", "25%"],
+   "ans": 0,
+   "exp": "Pre-requisite: the syringe should have > 50% of blood. (Book p826)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The syringe size recommended for ABG sampling is:",
+   "opts": ["3 ml or less", "5 ml or less", "10 ml or less", "Exactly 1 ml"],
+   "ans": 0,
+   "exp": "Pre-requisite: syringe should be 3 ml or less; it should also hold > 50% blood with no air bubbles. (Book p826)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the pre-requisites of ABG sampling — 1) Air bubbles  2) Their effect  3) Cold chain … A) Must be maintained during transport  B) Should not be present  C) ↑PO₂ and ↓PCO₂",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The sample should not contain air bubbles because they raise PO₂ and lower PCO₂, and the cold chain must be maintained. (Book p826)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘Air bubbles in an ABG syringe raise the PCO₂ and lower the PO₂ of the sample.’",
+   "opts": [
+    "False — air bubbles cause ↑PO₂ and ↓PCO₂",
+    "True — air bubbles cause ↑PCO₂ and ↓PO₂",
+    "False — air bubbles change only the pH",
+    "True, but only after 30 minutes of delay"
+   ],
+   "ans": 0,
+   "exp": "Air bubbles are listed as a pre-requisite violation because of ↑PO₂ and ↓PCO₂ in the sample. (Book p826)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A colleague collects an ABG into a 5 ml syringe filled to one-third, with visible bubbles. How many printed pre-requisites are broken?",
+   "opts": [
+    "Three — syringe size, > 50% blood and no air bubbles",
+    "Two — syringe size and air bubbles only",
+    "One — only the > 50% blood rule",
+    "None — all three parameters are acceptable"
+   ],
+   "ans": 0,
+   "exp": "The printed pre-requisites are: > 50% blood, syringe 3 ml or less, no air bubbles, and maintenance of the cold chain — so this sample breaks three of them. (Book p826)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are listed as ABG equipment. Which is the odd one out?",
+   "opts": ["Blood culture bottle", "ABG analyzer", "70% alcohol wipe and gauze", "Gloves and cover roll"],
+   "ans": 0,
+   "exp": "Equipment list: ABG analyzer, 1 ml heparinized syringe with needle (0.5 ml heparinized), 70% alcohol wipe and gauze, gloves and cover roll. (Book p826)"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "page": 828,
+ "sec": "Step 2 — the primary metabolic abnormality · p828",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Step 2 states that the primary diagnosis is indicated by HCO₃⁻ and PaCO₂ moving:",
+   "opts": [
+    "Along the line of the pH",
+    "Opposite to each other in every disorder",
+    "Independently of the measured pH",
+    "Only after the anion gap is calculated"
+   ],
+   "ans": 0,
+   "exp": "Step 2: HCO₃⁻ and PaCO₂ following along the line of pH indicates the primary diagnosis (the metabolic abnormality). (Book p828)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the step-2 flowchart when pH is DECREASED — 1) ↓HCO₃⁻  2) ↑PaCO₂  3) Direction of the pH branch … A) Decreased  B) Respiratory acidosis  C) Metabolic acidosis",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "With a decreased pH: ↓HCO₃⁻ = metabolic acidosis; ↑PaCO₂ = respiratory acidosis. (Book p828)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the step-2 flowchart when pH is INCREASED — 1) ↑HCO₃⁻  2) ↓PaCO₂  3) Direction of the pH branch … A) Increased  B) Respiratory alkalosis  C) Metabolic alkalosis",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "With an increased pH: ↑HCO₃⁻ = metabolic alkalosis; ↓PaCO₂ = respiratory alkalosis. (Book p828)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An ABG shows pH 7.28, HCO₃⁻ 16 mEq/L and PaCO₂ 36 mmHg. Applying step 2, what is the primary abnormality?",
+   "opts": [
+    "Metabolic acidosis — the low HCO₃⁻ follows the line of the low pH",
+    "Respiratory acidosis — the PaCO₂ is the driving variable",
+    "Metabolic alkalosis — the HCO₃⁻ has fallen away from 24 mEq/L",
+    "Mixed respiratory and metabolic alkalosis"
+   ],
+   "ans": 0,
+   "exp": "With a decreased pH, a fall in HCO₃⁻ gives metabolic acidosis on the step-2 flowchart. (Book p828)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An ABG shows pH 7.50, HCO₃⁻ 28 mEq/L and PaCO₂ 30 mmHg. Which two abnormalities are competing for the primary role?",
+   "opts": [
+    "Metabolic alkalosis (↑HCO₃⁻) versus respiratory alkalosis (↓PaCO₂)",
+    "Metabolic acidosis (↓HCO₃⁻) versus respiratory acidosis (↑PaCO₂)",
+    "Metabolic alkalosis versus respiratory acidosis",
+    "There is no acidosis or alkalosis at pH 7.50"
+   ],
+   "ans": 0,
+   "exp": "An increased pH branch splits into ↑HCO₃⁻ (metabolic alkalosis) and ↓PaCO₂ (respiratory alkalosis). (Book p828)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘In step 2, a rise in PaCO₂ with a decreased pH identifies a respiratory acidosis.’",
+   "opts": [
+    "True — the decreased-pH branch gives ↑PaCO₂ = respiratory acidosis",
+    "False — a rise in PaCO₂ with a decreased pH is metabolic acidosis",
+    "False — a rise in PaCO₂ with a decreased pH is metabolic alkalosis",
+    "True, but only if the HCO₃⁻ has also fallen"
+   ],
+   "ans": 0,
+   "exp": "Step-2 flowchart: decreased pH with ↑PaCO₂ = respiratory acidosis; decreased pH with ↓HCO₃⁻ = metabolic acidosis. (Book p828)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these pairings from the step-2 flowchart are correct. Which is the odd one out?",
+   "opts": [
+    "pH increased with ↓HCO₃⁻ — metabolic alkalosis",
+    "pH decreased with ↓HCO₃⁻ — metabolic acidosis",
+    "pH increased with ↑HCO₃⁻ — metabolic alkalosis",
+    "pH decreased with ↑PaCO₂ — respiratory acidosis"
+   ],
+   "ans": 0,
+   "exp": "A low HCO₃⁻ belongs to the *decreased* pH branch (metabolic acidosis); with an increased pH, the metabolic arm is ↑HCO₃⁻ = metabolic alkalosis. (Book p828)"
+  }
+ ]
+}

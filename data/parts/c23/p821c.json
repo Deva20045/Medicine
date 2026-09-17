@@ -1,0 +1,94 @@
+{
+ "page": 821,
+ "sec": "PCT bicarbonate reabsorption: the CA IV / CA II diagram · p821",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "In the PCT diagram, which transporter sits on the luminal membrane of the proximal tubule cell?",
+   "opts": ["Na⁺–H⁺ exchanger", "Na⁺–HCO₃⁻ exchanger", "H⁺-ATPase", "H⁺,K⁺-ATPase"],
+   "ans": 0,
+   "exp": "The luminal membrane carries the Na⁺–H⁺ exchanger; the basolateral membrane carries the Na⁺–HCO₃⁻ exchanger. (Book p821)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Step ① of the PCT diagram — the hydration/dehydration of carbonic acid in the lumen — is catalysed by:",
+   "opts": ["Carbonic anhydrase IV (luminal)", "Carbonic anhydrase II (cytoplasmic)", "Carbonic anhydrase I (cytosolic)", "No enzyme — the step is spontaneous"],
+   "ans": 0,
+   "exp": "Step ① is luminal carbonic anhydrase IV acting on HCO₃⁻ + H⁺ → H₂CO₃; step ③ is cytoplasmic CA II. (Book p821)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Step ③ inside the PCT cell, generating H₂CO₃ from CO₂ and H₂O, is catalysed by:",
+   "opts": ["Carbonic anhydrase II", "Carbonic anhydrase IV", "Carbonic anhydrase VI", "Alkaline phosphatase"],
+   "ans": 0,
+   "exp": "Cytoplasmic carbonic anhydrase II (CA II) hydrates CO₂ + H₂O → H₂CO₃ inside the cell; the luminal enzyme is CA IV. (Book p821)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the numbered PCT steps — 1) Step ①  2) Step ②  3) Step ③  4) Step ④ … A) Dissociation of H₂CO₃ into H⁺ and HCO₃⁻  B) CA IV acting on HCO₃⁻ and H⁺  C) CA II forming H₂CO₃ from CO₂ and H₂O  D) Splitting of H₂CO₃ into H₂O and CO₂",
+   "opts": [
+    "1-B, 2-D, 3-C, 4-A",
+    "1-D, 2-B, 3-C, 4-A",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Luminal CA IV forms H₂CO₃ (①), which splits to H₂O + CO₂ (②); CO₂ enters the cell and CA II rebuilds H₂CO₃ (③), which dissociates to H⁺ and HCO₃⁻ (④). (Book p821)"
+  },
+  {
+   "fmt": "recall",
+   "q": "How does the HCO₃⁻ formed inside the PCT cell leave for the blood side?",
+   "opts": [
+    "Via the basolateral Na⁺–HCO₃⁻ exchanger",
+    "Via the luminal Na⁺–H⁺ exchanger",
+    "Via the H⁺-ATPase pump",
+    "By simple diffusion across the luminal membrane"
+   ],
+   "ans": 0,
+   "exp": "The regenerated HCO₃⁻ exits across the basolateral membrane on the Na⁺–HCO₃⁻ exchanger, while H⁺ leaves apically on the Na⁺–H⁺ exchanger. (Book p821)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the arrows entering the PCT cell from the lumen — 1) H₂O  2) Na⁺  3) Ca²⁺ … A) Reabsorbed cation named third  B) Reabsorbed cation named second  C) Reabsorbed with the filtrate solvent",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows H₂O, Na⁺ and Ca²⁺ reabsorbed from lumen into the PCT cell along with CO₂. (Book p821)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In the PCT diagram, CA stands for ______.",
+   "opts": [
+    "carbonic anhydrase",
+    "carbonic acid",
+    "calcium-activated channel",
+    "carbamino adduct"
+   ],
+   "ans": 0,
+   "exp": "CA = carbonic anhydrase, the enzyme family catalysing the luminal (CA IV) and cytoplasmic (CA II) steps. (Book p821)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Acetazolamide inhibits carbonic anhydrase in the PCT. Predict the effect from the printed diagram.",
+   "opts": [
+    "Both the luminal CA IV and cytoplasmic CA II steps fail, so HCO₃⁻ reabsorption falls",
+    "Only the basolateral Na⁺–HCO₃⁻ exchanger is inhibited",
+    "HCO₃⁻ reabsorption increases because H₂CO₃ accumulates",
+    "Only the Na⁺–H⁺ exchanger is inhibited, sparing HCO₃⁻"
+   ],
+   "ans": 0,
+   "exp": "The diagram places CA IV luminally (step ①) and CA II in the cytoplasm (step ③); blocking carbonic anhydrase breaks both steps of HCO₃⁻ reabsorption. (Book p821)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these are shown moving across the luminal border of the PCT cell in the diagram. Which is the odd one out?",
+   "opts": ["HCO₃⁻ moving from blood into the lumen", "Na⁺ entering from the lumen", "CO₂ entering from the lumen", "H₂O entering from the lumen"],
+   "ans": 0,
+   "exp": "The diagram shows Na⁺, CO₂ and H₂O entering the cell and H⁺ leaving into the lumen; HCO₃⁻ movement is basolateral, into the blood. (Book p821)"
+  }
+ ]
+}
