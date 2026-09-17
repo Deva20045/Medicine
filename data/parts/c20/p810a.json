@@ -1,0 +1,114 @@
+{
+ "page": 810,
+ "sec": "Iron therapy · p810",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "Oral iron is listed as ferrous sulfate providing:",
+   "opts": [
+    "60 mg elemental iron",
+    "30 mg elemental iron",
+    "120 mg elemental iron",
+    "15 mg elemental iron"
+   ],
+   "ans": 0,
+   "exp": "Oral: ferrous sulfate: 60 mg elemental iron. (Book p810)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Oral iron on this page is:",
+   "opts": [
+    "Given in non-dialysable patients and less effective",
+    "First line for all dialysis patients",
+    "Reserved for ESA-resistant anemia",
+    "Given only with dialysis"
+   ],
+   "ans": 0,
+   "exp": "Oral: can be given in non-dialysable patients; less effective. (Book p810)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following IV iron to its dose detail — 1) Ferric carboxymaltose  2) Iron sucrose  3) Iron isomaltose … A) 200 mg  B) 1 gm  C) 1 gm in 100 ml NS over 10-15 min",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "IV: ferric carboxymaltose 1 gm in 100 ml NS over 10-15 min; iron sucrose 200 mg; iron isomaltose 1 gm. (Book p810)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Ferric carboxymaltose is infused over:",
+   "opts": [
+    "10-15 min",
+    "1-2 min",
+    "60 min",
+    "120 min"
+   ],
+   "ans": 0,
+   "exp": "1 gm in 100 ml NS over 10-15 min. (Book p810)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In the iron note, when serum ferritin is normal but anemia persists, the next step is to check:",
+   "opts": [
+    "TSAT",
+    "Reticulocyte count",
+    "Serum EPO",
+    "Bone marrow biopsy"
+   ],
+   "ans": 0,
+   "exp": "Note: s. ferritin — low → anemia; normal → anemia ± → TSAT = s. iron / TIBC × 100. (Book p810)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: TSAT = s. iron ÷ ______ × 100.",
+   "opts": [
+    "TIBC",
+    "Hb",
+    "MCHC",
+    "RDW"
+   ],
+   "ans": 0,
+   "exp": "TSAT = s. iron / TIBC × 100; TSAT: transferrin saturation; TIBC: total iron binding capacity. (Book p810)"
+  },
+  {
+   "fmt": "recall",
+   "q": "TIBC stands for:",
+   "opts": [
+    "Total iron binding capacity",
+    "Transferrin iron content",
+    "Tissue iron concentration",
+    "Total intracellular iron"
+   ],
+   "ans": 0,
+   "exp": "TIBC: total iron binding capacity. (Book p810)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "A fall in serum iron means a fall in TSAT.",
+   "opts": [
+    "True",
+    "False — TSAT rises when s. iron falls",
+    "False — TSAT is unchanged",
+    "True, but only in males"
+   ],
+   "ans": 0,
+   "exp": "S. iron ↓ = TSAT ↓ — confirms anemia. (Book p810)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one are the IV iron preparations named on this page. Which is the odd one out?",
+   "opts": [
+    "Ferrous fumarate",
+    "Ferric carboxymaltose",
+    "Iron sucrose",
+    "Iron isomaltose"
+   ],
+   "ans": 0,
+   "exp": "IV: ferric carboxymaltose, iron sucrose, iron isomaltose. (Book p810)"
+  }
+ ]
+}

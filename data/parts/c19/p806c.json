@@ -1,0 +1,138 @@
+{
+ "page": 806,
+ "sec": "CKD complications · p806",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The complications of CKD are captured by the mnemonic A, B, C, D and ______, with a separate U-line for uremic symptoms.",
+   "opts": [
+    "E",
+    "F",
+    "U",
+    "G"
+   ],
+   "ans": 0,
+   "exp": "COMPLICATIONS: mnemonic ABCDE (A anemia/acidosis/access, B BP/bone, C cardiac, D dry weight, E electrolyte) plus U uremic symptoms. (Book p806)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following complication letter to its content — 1) A  2) B  3) C  4) D … A) Dry weight  B) BP and bone mineral disease (renal osteodystrophy)  C) Cardiac — m/c cause of death  D) Anemia, acidosis and access for dialysis",
+   "opts": [
+    "1-D, 2-B, 3-C, 4-A",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-D, 2-B, 3-A, 4-C"
+   ],
+   "ans": 0,
+   "exp": "ABCDE: A — anemia (unfit for transplant; ↓ GFR independently), metabolic acidosis (↓ cardiac function), access for dialysis; B — BP, bone mineral disease (renal osteodystrophy); C — cardiac (m/c cause of death); D — dry weight. (Book p806)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Under A of the complications mnemonic, anemia is highlighted because it makes the patient:",
+   "opts": [
+    "Unfit for transplant",
+    "Prone to hypokalemia",
+    "Ineligible for ACE inhibitors",
+    "Unfit for biopsy"
+   ],
+   "ans": 0,
+   "exp": "A — anemia: unfit for transplant; ↓ GFR independently. (Book p806)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In the same A-line, metabolic acidosis acts by:",
+   "opts": [
+    "Lowering cardiac function",
+    "Raising GFR independently",
+    "Causing hyperkalemia only",
+    "Protecting the myocardium"
+   ],
+   "ans": 0,
+   "exp": "A — acidosis (metabolic) → ↓ cardiac function. (Book p806)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one sit under A of the ABCDE mnemonic. Which is the odd one out?",
+   "opts": [
+    "Bone mineral disease",
+    "Anemia",
+    "Metabolic acidosis",
+    "Access for dialysis"
+   ],
+   "ans": 0,
+   "exp": "A covers anemia, metabolic acidosis and access for dialysis; bone mineral disease is under B. (Book p806)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The cardiac (C) complication chain runs: left ventricular hypertrophy → ______.",
+   "opts": [
+    "Heart failure with preserved ejection fraction",
+    "Heart failure with reduced ejection fraction",
+    "Mitral stenosis",
+    "Atrial fibrillation"
+   ],
+   "ans": 0,
+   "exp": "C — cardiac (m/c cause of death): LVH → heart failure with preserved ejection fraction. (Book p806)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "In the C-line, calcification is listed as a reason the patient becomes unfit for transplant.",
+   "opts": [
+    "True",
+    "False — calcification sits under B",
+    "False — only anemia causes transplant unfitness",
+    "True, but only with GFR below 15"
+   ],
+   "ans": 0,
+   "exp": "C — cardiac: LVH → HFpEF; calcification → unfit for transplant. (Book p806)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The E-line of the mnemonic covers the electrolytes Ca²⁺, PO₄³⁻ and ______.",
+   "opts": [
+    "K⁺",
+    "Mg²⁺",
+    "Na⁺",
+    "Cl⁻"
+   ],
+   "ans": 0,
+   "exp": "E — electrolyte (Ca²⁺, PO₄³⁻, K⁺). (Book p806)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The D-line of the complications mnemonic stands for:",
+   "opts": [
+    "Dry weight",
+    "Diuretic requirement",
+    "Drug dosing",
+    "Dialysis dependence"
+   ],
+   "ans": 0,
+   "exp": "D — dry weight. (Book p806)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A CKD patient is admitted with dyspnea; the echocardiogram shows LVH with a preserved ejection fraction. Under which letter of the complications mnemonic is this recorded?",
+   "opts": [
+    "C — cardiac",
+    "A — anemia",
+    "B — bone mineral disease",
+    "E — electrolyte"
+   ],
+   "ans": 0,
+   "exp": "C — cardiac (m/c cause of death): LVH → heart failure with preserved ejection fraction. (Book p806)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The U-line of the complications list names:",
+   "opts": [
+    "Uremic symptoms",
+    "Urine output",
+    "Uric acid",
+    "Ulcers"
+   ],
+   "ans": 0,
+   "exp": "U — uremic symptoms. (Book p806)"
+  }
+ ]
+}

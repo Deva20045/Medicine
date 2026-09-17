@@ -44,10 +44,10 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 16 | Ciliopathies | p786 | **LIVE (re-audited)**
 | 17 | Chronic Tubulointerstitial Disease | p793 | **LIVE (re-audited)**
 | 18 | Acute Kidney Injury | p796 | **LIVE (re-audited)**
-| 19 | Chronic Kidney Disease | p805 | SOON
-| 20 | Anemia in Chronic Kidney Disease | p808 | SOON
-| 21 | CKD - Calciphylaxis and Cardiovascular changes | p811 | SOON
-| 22 | Diabetic Kidney Disease | p815 | SOON
+| 19 | Chronic Kidney Disease | p805 | **LIVE (re-audited)**
+| 20 | Anemia in Chronic Kidney Disease | p808 | **LIVE (re-audited)**
+| 21 | CKD - Calciphylaxis and Cardiovascular changes | p811 | **LIVE (re-audited)**
+| 22 | Diabetic Kidney Disease | p815 | **LIVE (re-audited)**
 | 23 | Introduction to Acid Base Analysis | p819 | SOON
 | 24 | Metabolic Alkalosis | p824 | SOON
 | 25 | Methodology and Interpretation of ABG Analysis | p826 | SOON
@@ -173,20 +173,37 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 16 "Ciliopathies" (p786–792): 6 units, 139 questions — RE-AUDITED, rebuilt page-by-page**
 - [x] **Ch 17 "Chronic Tubulointerstitial Disease" (p793–795): 3 units, 52 questions — RE-AUDITED ×2 (content + option quality)**
 - [x] **Ch 18 "Acute Kidney Injury" (p796–804): 9 units, 181 questions — RE-AUDITED ×2 (content + option quality)**
-- [ ] Ch 19–74 (per pipeline above)
+- [x] **Ch 19 "Chronic Kidney Disease" (p805–807): 8 units, 91 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 20 "Anemia in Chronic Kidney Disease" (p808–810): 7 units, 76 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 21 "CKD - Calciphylaxis and Cardiovascular changes" (p811–814): 6 units, 93 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 22 "Diabetic Kidney Disease" (p815–818): 7 units, 90 questions — RE-AUDITED, rebuilt page-by-page**
+- [ ] Ch 23–74 (per pipeline above)
 
 ## NEXT
-**Ch 13–18 RE-AUDITED TWICE.** Pass 1 replaced the too-thin first build (112
-questions, placeholder match stems, tables/figures/flowcharts unasked, length
-giveaways) with **582 page-anchored items** covering all 30 pages p775–804. Pass 2
-re-read every page again and checked every item: content was faithful, but 52 items
-still used shallow "Both A / Both B" or 2-row match option sets, one item quizzed
-the printed page, and every stored answer sat at option A. Those are fixed —
-**581 questions**, answer positions spread across A–D, **0** shallow 2-row matches,
-and the book's own C3 contradiction (p775 vs p777) now taught explicitly. See
-**`REAUDIT.md`** for both passes.
+**Ch 19–22 built & re-audited page-by-page (Book p805–818).** Every page was
+re-rendered and read line by line (tables, flowcharts, figures, graph axes and
+arrow labels included), then authored through the ordered, page-anchored pipeline
+(`data/parts/c19…c22/<page><section>.json` → `author.py` → `data/chNN.json`), so
+strict book order is enforced structurally. All 14 pages p805–818 are covered —
+**350 new exam-grade questions** (91 + 76 + 93 + 90) across **28 units**, in the
+same varied formats as Ch 13–18 (recall, fill-up, match, true/false, odd-one-out,
+numeric, clinical scenario), with answer positions spread A–D and no length
+giveaways. Bank total: 1370 → **1720 questions**, 164 units, **22 live chapters**.
 
-### Re-audit pipeline (used for Ch 13–18)
+Verification run (all green): `author.py 20` → `build_content.py` →
+`check_integrity.py` (1720 q / 164 units / 74 chapters, all 114 in-scope pages,
+order + source↔app equality + JS syntax) → `check_app_smoke.js` (full roadmap,
+live-ch paths, final questions render) → `audit_variety.py > AUDIT.md`.
+
+Re-audit caught one value error in the first pass and fixed it against the
+scan: the iron-store replenishment multiplier is **2.2** as printed on Book p809
+(`2.2 × BW × (Hb deficit) + 1000 mg`), NOT the common Ganzoni **2.4** — MED-C20-045
+now teaches the book's value and names the 2.4 trap explicitly. (The BP target on
+p807 was confirmed as **<120/80 mmHg** at 8× zoom, not 130/80.)
+
+**Next: Ch 23 "Introduction to Acid Base Analysis" (p819) onward.**
+
+### Re-audit pipeline (used for Ch 13–22)
 1. `_render` every book page to PNG and zoom into each unclear line/table/arrow.
 2. Author `data/parts/cNN/<page><section>.json` in strict book order, plus
    `data/units/cNN.json` (concept-named units) and `data/parts/cNN/_order.json`.

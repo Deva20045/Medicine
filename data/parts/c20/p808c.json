@@ -1,0 +1,90 @@
+{
+ "page": 808,
+ "sec": "Erythropoiesis · p808",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following erythropoiesis stage to its full name — 1) BFU-E  2) CFU  3) The final cell … A) Colony forming unit  B) Burst forming unit-erythroid  C) Erythrocyte (RBC)",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Erythropoiesis: hematopoietic stem cell → BFU-E (burst forming unit-erythroid) → CFU (colony forming unit) → erythroblast → reticulocyte → erythrocyte (RBC). (Book p808)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following erythropoiesis phase to its dependency — 1) Hematopoietic stem cell → BFU-E  2) BFU-E → CFU → erythroblast  3) Erythroblast → reticulocyte → RBC … A) Iron and erythropoietin dependent  B) Erythropoietin dependent  C) EPO independent",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "EPO independent: stem cell → BFU-E; erythropoietin dependent: BFU-E → CFU → erythroblast; iron and erythropoietin dependent: erythroblast → reticulocyte → RBC. (Book p808)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The erythropoietin-dependent span (BFU-E through erythroblast) is labelled as taking:",
+   "opts": [
+    "10-14 days",
+    "1-2 days",
+    "4 days",
+    "21 days"
+   ],
+   "ans": 0,
+   "exp": "10-14 days erythropoiesis labels the erythropoietin-dependent span. (Book p808)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Erythroblast maturation to reticulocyte takes:",
+   "opts": [
+    "4 days",
+    "1-2 days",
+    "10-14 days",
+    "7 days"
+   ],
+   "ans": 0,
+   "exp": "4 days: erythroblast → reticulocyte. (Book p808)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Reticulocyte to erythrocyte (RBC) takes:",
+   "opts": [
+    "1-2 days",
+    "4 days",
+    "10-14 days",
+    "6 days"
+   ],
+   "ans": 0,
+   "exp": "1-2 days: reticulocyte → erythrocyte (RBC). (Book p808)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The full sequence of erythropoiesis on the page is:",
+   "opts": [
+    "Stem cell → BFU-E → CFU → erythroblast → reticulocyte → RBC",
+    "Stem cell → CFU → BFU-E → reticulocyte → erythroblast → RBC",
+    "BFU-E → stem cell → CFU → erythroblast → RBC → reticulocyte",
+    "Stem cell → erythroblast → CFU → reticulocyte → BFU-E → RBC"
+   ],
+   "ans": 0,
+   "exp": "Sequence as drawn: hematopoietic stem cell → BFU-E → CFU → erythroblast → reticulocyte → erythrocyte (RBC). (Book p808)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one are named stages in the erythropoiesis diagram. Which is the odd one out?",
+   "opts": [
+    "Megakaryocyte",
+    "Erythroblast",
+    "Reticulocyte",
+    "Colony forming unit"
+   ],
+   "ans": 0,
+   "exp": "Named stages: hematopoietic stem cell, BFU-E, CFU, erythroblast, reticulocyte, erythrocyte (RBC). (Book p808)"
+  }
+ ]
+}

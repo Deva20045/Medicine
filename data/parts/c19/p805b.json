@@ -1,0 +1,42 @@
+{
+ "page": 805,
+ "sec": "CKD causes · p805",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "In the CAUSES line at the foot of the page, the order of the entities after DKD is:",
+   "opts": [
+    "CGN, then IN, then CTID, then ADPKD",
+    "IN, then CGN, then ADPKD, then CTID",
+    "CTID, then IN, then CGN, then ADPKD",
+    "ADPKD, then CTID, then IN, then CGN"
+   ],
+   "ans": 0,
+   "exp": "CAUSES: Diabetic Kidney Disease (DKD) > Chronic Glomerulonephritis (CGN) > Ischemic nephropathy (IN) > Chronic TubuloIntersticial Disease (CTID) > Adult polycystic kidney disease (ADPKD). (Book p805)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In the same CAUSES line, DKD carries the label m/c and ______.",
+   "opts": [
+    "Worst prognosis",
+    "Best prognosis",
+    "Most reversible",
+    "Least common"
+   ],
+   "ans": 0,
+   "exp": "DKD: m/c worst prognosis; CGN: (and m/c). (Book p805)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one appear in the CAUSES ranking line. Which is the odd one out?",
+   "opts": [
+    "Alport syndrome",
+    "Ischemic nephropathy",
+    "Chronic tubulointerstitial disease",
+    "Adult polycystic kidney disease"
+   ],
+   "ans": 0,
+   "exp": "The line lists DKD > CGN > IN > CTID > ADPKD; Alport syndrome is not on this line. (Book p805)"
+  }
+ ]
+}
