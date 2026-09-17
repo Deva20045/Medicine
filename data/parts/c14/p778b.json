@@ -4,12 +4,12 @@
  "items": [
   {
    "fmt": "match",
-   "q": "Match each urine feature of RPGN with its description — 1) Colour  2) Output  3) Urine analysis … A) Decreased output  B) Cola-coloured (RBC present)  C) Proteinuria +/– (trace to variable)",
+   "q": "Match each urine feature of RPGN with its description — 1) Colour  2) Output  3) Urine analysis … A) Cola-coloured (RBC present)  B) Decreased output  C) Proteinuria +/– (trace to variable)",
    "opts": [
-    "1-B, 2-A, 3-C",
     "1-A, 2-B, 3-C",
-    "1-B, 2-C, 3-A",
-    "1-C, 2-A, 3-B"
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
    "exp": "RPGN urine: cola-coloured with RBCs; decreased output; urine examination shows proteinuria +/–. (Book p778)"
@@ -76,12 +76,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match each RPGN investigation with its expected result — 1) CBC  2) Serum creatinine  3) Serum K⁺  4) ABG … A) Normal/raised  B) Normal  C) Normal/metabolic acidosis  D) Raised",
+   "q": "Match each RPGN investigation with its expected result — 1) CBC  2) Serum creatinine  3) Serum K⁺  4) ABG … A) Raised  B) Normal/raised  C) Normal  D) Normal/metabolic acidosis",
    "opts": [
-    "1-B, 2-D, 3-A, 4-C",
-    "1-D, 2-B, 3-A, 4-C",
-    "1-B, 2-D, 3-C, 4-A",
-    "1-A, 2-B, 3-D, 4-C"
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-B, 2-C, 3-A, 4-D"
    ],
    "ans": 0,
    "exp": "RPGN investigations: CBC normal; creatinine raised; serum K⁺ normal or raised; ABG normal or metabolic acidosis (serum urea also raised). (Book p778)"

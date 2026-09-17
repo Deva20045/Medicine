@@ -28,24 +28,24 @@
   },
   {
    "fmt": "match",
-   "q": "Complete the pathophysiology flowchart of uric acid nephropathy — 1) Leukemia/lymphoma  2) Tumour cells  3) Effect … A) Rapid multiplication  B) ↑Uric acid filtered by the glomerulus  C) Underlying malignancy",
+   "q": "Complete the pathophysiology flowchart of uric acid nephropathy — 1) Leukemia/lymphoma  2) Tumour cells  3) Effect … A) ↑Uric acid filtered by the glomerulus  B) Underlying malignancy  C) Rapid multiplication",
    "opts": [
-    "1-C, 2-A, 3-B",
-    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A",
     "1-C, 2-B, 3-A",
-    "1-B, 2-A, 3-C"
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
    "exp": "Flowchart: leukemia/lymphoma → rapid multiplication of tumour cells → ↑uric acid filtered by the glomerulus. (Book p801)"
   },
   {
    "fmt": "match",
-   "q": "Match the features of uric acid nephropathy — 1) Renal presentation  2) Serum uric acid  3) Other electrolytes  4) Serum calcium … A) ↑  B) Oliguric AKI  C) S.K⁺/S.PO₄³⁻/S.mg²⁺ ↑  D) ↓S.Ca²⁺",
+   "q": "Match the features of uric acid nephropathy — 1) Renal presentation  2) Serum uric acid  3) Other electrolytes  4) Serum calcium … A) ↑  B) Oliguric AKI  C) ↓S.Ca²⁺  D) S.K⁺/S.PO₄³⁻/S.mg²⁺ ↑",
    "opts": [
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-B, 2-C, 3-A, 4-D",
-    "1-D, 2-A, 3-C, 4-B"
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-C, 2-A, 3-D, 4-B"
    ],
    "ans": 0,
    "exp": "Features of uric acid nephropathy: oliguric AKI; S. uric acid ↑↑; S. K⁺/S. PO₄³⁻/S. mg²⁺ ↑; ↓S. Ca²⁺. (Book p801)"
@@ -75,16 +75,16 @@
    "exp": "Features: oliguric AKI, S. uric acid ↑↑, ↑S.K⁺/S.PO₄³⁻/S.mg²⁺ and ↓S.Ca²⁺. (Book p801)"
   },
   {
-   "fmt": "numeric",
-   "q": "The serum potassium, phosphate and magnesium changes in uric acid nephropathy are:",
+   "fmt": "fillup",
+   "q": "Fill up: In uric acid nephropathy the serum potassium, phosphate and magnesium are ______, while the serum calcium is ______.",
    "opts": [
-    "All raised",
-    "All reduced",
-    "Potassium raised with phosphate and magnesium reduced",
-    "Potassium reduced with phosphate raised"
+    "all raised; low",
+    "all low; raised",
+    "raised only for potassium; normal",
+    "normal; low"
    ],
    "ans": 0,
-   "exp": "In uric acid nephropathy, S. K⁺, S. PO₄³⁻ and S. mg²⁺ all rise (↑) while serum calcium falls. (Book p801)"
+   "exp": "Features of uric acid nephropathy (tumour lysis syndrome): oliguric AKI, markedly raised serum uric acid, raised S.K+/S.PO4(3-)/S.mg2+ and a low serum calcium. (Book p801)"
   },
   {
    "fmt": "oddoneout",

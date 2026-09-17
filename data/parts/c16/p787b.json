@@ -15,16 +15,16 @@
    "exp": "Complication: ESRD — only 60% develop ESRD by 60 years, reflecting the variable expression of ADPKD. (Book p787)"
   },
   {
-   "fmt": "match",
-   "q": "Match each indicator of bad prognosis in ADPKD with its description — 1) Black males  2) Diagnosis before 30 years  3) Hematuria at presentation  4) HTN <35 years … A) All are indicators of early ESRD  B) None affects prognosis",
+   "fmt": "scenario",
+   "q": "A 27-year-old black man with ADPKD has haematuria at presentation and a BP of 150/95 mmHg. Which statement best reflects the book's list of prognostic indicators?",
    "opts": [
-    "All four indicate ↑ chances of early ESRD",
-    "Only haematuria indicates early ESRD",
-    "Only hypertension indicates early ESRD",
-    "Only the age at diagnosis matters"
+    "Four listed indicators of early ESRD are present — black race, diagnosis before 30 years, haematuria at presentation and hypertension below 35 years",
+    "Only the haematuria matters; the other features do not affect renal prognosis once the creatinine is normal",
+    "None of these features affects prognosis, because only the MRI kidney and cyst volume predicts renal decline",
+    "These features indicate a PKD2 mutation, which is expected to give a milder course"
    ],
    "ans": 0,
-   "exp": "Indicators of bad prognosis/↑ chances of early ESRD in ADPKD: black males, diagnosis before 30 years, haematuria at presentation, HTN <35 years and PKD1 truncating mutation. (Book p787)"
+   "exp": "Indicators of bad prognosis/early ESRD: black males, diagnosis before 30 years, haematuria at presentation, HTN below 35 years and a PKD1 truncating mutation; kidney and cyst volume on MRI is the strongest predictor of renal function decline. (Book p787)"
   },
   {
    "fmt": "oddoneout",
@@ -64,12 +64,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the ADPKD complication with its description — 1) Cyst hemorrhage  2) Cyst infection  3) Renal stones  4) Cyst rupture … A) Can be caused by blunt trauma to the abdomen (rare)  B) Commonest organism E. coli  C) Uric acid > calcium oxalate  D) Can cause haematuria",
+   "q": "Match the ADPKD complication with its description — 1) Cyst hemorrhage  2) Cyst infection  3) Renal stones  4) Cyst rupture … A) Commonest organism E. coli  B) Can be caused by blunt trauma to the abdomen (rare)  C) Can cause haematuria  D) Uric acid > calcium oxalate",
    "opts": [
-    "1-D, 2-B, 3-C, 4-A",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-D, 2-C, 3-B, 4-A",
-    "1-B, 2-D, 3-A, 4-C"
+    "1-C, 2-A, 3-D, 4-B",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-A, 2-C, 3-B, 4-D"
    ],
    "ans": 0,
    "exp": "ADPKD complications: cyst haemorrhage can cause haematuria; cyst infection with E. coli as the commonest organism; renal stones uric acid > calcium oxalate; and cyst rupture (rare) from blunt abdominal trauma. (Book p787)"
@@ -111,16 +111,16 @@
    "exp": "Cyst rupture (rare) in ADPKD can be caused by blunt trauma to the abdomen. (Book p787)"
   },
   {
-   "fmt": "match",
-   "q": "Match the complications that present with abdominal pain — 1) Cyst hemorrhage and cyst infection  2) Renal stones and cyst rupture … A) All present with abdominal pain  B) None presents with abdominal pain",
+   "fmt": "recall",
+   "q": "Which group of ADPKD complications is bracketed in the book as presenting with abdominal pain?",
    "opts": [
-    "All four present with abdominal pain",
-    "Only cyst infection presents with pain",
-    "Only renal stones present with pain",
-    "None presents with abdominal pain"
+    "Cyst haemorrhage, cyst infection, renal stones and cyst rupture",
+    "Cyst haemorrhage, biventricular diastolic dysfunction, renal stones and hepatic cysts",
+    "Cyst infection, hepatic cysts, colonic diverticula and renal stones",
+    "Renal stones, cyst rupture, aortic root dilatation and mitral valve prolapse"
    ],
    "ans": 0,
-   "exp": "The brace in the book groups cyst haemorrhage, cyst infection, renal stones and cyst rupture together as presenting with abdominal pain. (Book p787)"
+   "exp": "The bracket 'presents with abdominal pain' covers cyst haemorrhage (can cause haematuria), cyst infection (m/c E. coli), renal stones (uric acid > calcium oxalate) and cyst rupture (rare, after blunt trauma). (Book p787)"
   },
   {
    "fmt": "scenario",
@@ -136,12 +136,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the commonest renal stone type with its setting — 1) General population  2) Renal tubular acidosis  3) ADPKD … A) Uric acid  B) Calcium oxalate  C) Calcium phosphate",
+   "q": "Match the commonest renal stone type with its setting — 1) General population  2) Renal tubular acidosis  3) ADPKD … A) Uric acid  B) Calcium phosphate  C) Calcium oxalate",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-A, 2-B, 3-C",
-    "1-B, 2-A, 3-C",
-    "1-C, 2-B, 3-A"
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
    ],
    "ans": 0,
    "exp": "Note on the commonest stone type in the kidney: generally calcium oxalate; in renal tubular acidosis calcium phosphate; in ADPKD uric acid. (Book p787)"

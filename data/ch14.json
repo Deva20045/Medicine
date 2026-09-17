@@ -8,12 +8,12 @@
    "sec": "Renal failure flowchart & RPRF causes · p778",
    "page": 778,
    "fmt": "match",
-   "q": "Complete the classification flowchart of renal failure — 1) CKD  2) Non-CKD presenting over hours–days  3) Non-CKD presenting over days–weeks … A) Acute kidney injury (AKI)  B) Rapidly progressive renal failure (RPRF)  C) Chronic kidney disease",
+   "q": "Complete the classification flowchart of renal failure — 1) CKD  2) Non-CKD presenting over hours–days  3) Non-CKD presenting over days–weeks … A) Rapidly progressive renal failure (RPRF)  B) Chronic kidney disease  C) Acute kidney injury (AKI)",
    "opts": [
+    "1-B, 2-C, 3-A",
     "1-C, 2-A, 3-B",
-    "1-A, 2-B, 3-C",
-    "1-C, 2-B, 3-A",
-    "1-B, 2-A, 3-C"
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
    "exp": "Flowchart: renal failure splits into CKD and non-CKD; non-CKD presenting over hours–days is AKI, and over days–weeks is rapidly progressive renal failure. (Book p778)"
@@ -25,12 +25,12 @@
    "fmt": "recall",
    "q": "Rapidly progressive renal failure (RPRF) is defined in the flowchart by a presentation over:",
    "opts": [
-    "Days–weeks",
-    "Hours–days",
     "1–2 years",
-    "6 months"
+    "6 months",
+    "Days–weeks",
+    "Hours–days"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "The flowchart timings: AKI = hours to days; RPRF = days to weeks. (Book p778)"
   },
   {
@@ -38,15 +38,15 @@
    "sec": "Renal failure flowchart & RPRF causes · p778",
    "page": 778,
    "fmt": "match",
-   "q": "Match each cause with its place in the flowchart — 1) Rapidly progressive glomerulonephritis  2) Hemolytic uremic syndrome  3) Severe acute interstitial nephritis  4) Atheroembolic renal disease … A) Causes of RPRF, some cases being atheroembolic",
+   "q": "Match each condition with its place in the renal-failure flowchart — 1) Acute tubular necrosis  2) Rapidly progressive GN  3) Hemolytic uremic syndrome  4) Atheroembolic renal disease … A) AKI (hours-days)  B) RPRF in some cases  C) RPRF due to glomerular pathology  D) RPRF",
    "opts": [
-    "All four are listed causes of RPRF",
-    "Only 1 and 2 are causes of RPRF",
-    "Only 3 is a cause of RPRF",
-    "All four are causes of AKI, not RPRF"
+    "1-A, 2-D, 3-C, 4-B",
+    "1-A, 2-C, 3-D, 4-B",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-A, 2-C, 3-B, 4-D"
    ],
-   "ans": 0,
-   "exp": "Causes of RPRF listed under the flowchart: RPGN (due to glomerular pathology), hemolytic uremic syndrome, severe acute interstitial nephritis (AIN), and atheroembolic renal disease (some cases). (Book p778)"
+   "ans": 1,
+   "exp": "The flowchart puts acute tubular necrosis on the AKI (hours-days) limb, then lists for RPRF: rapidly progressive glomerulonephritis (due to glomerular pathology), hemolytic uremic syndrome, severe acute interstitial nephritis and atheroembolic renal disease (some cases). (Book p778)"
   },
   {
    "id": "MED-C14-004",
@@ -55,12 +55,12 @@
    "fmt": "oddoneout",
    "q": "Which of these is NOT listed as a cause of rapidly progressive renal failure?",
    "opts": [
+    "Severe acute interstitial nephritis",
     "Acute tubular necrosis",
     "Rapidly progressive glomerulonephritis",
-    "Hemolytic uremic syndrome",
-    "Severe acute interstitial nephritis"
+    "Hemolytic uremic syndrome"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "ATN is the classic cause of AKI (hours–days), not of RPRF; RPRF causes listed are RPGN, HUS, severe AIN and atheroembolic renal disease. (Book p778)"
   },
   {
@@ -70,12 +70,12 @@
    "fmt": "truefalse",
    "q": "The flowchart attributes rapidly progressive renal failure chiefly to glomerular pathology.",
    "opts": [
-    "True — RPGN is listed first among RPRF causes and is due to glomerular pathology",
     "False — RPRF is due to tubular pathology",
     "True — it is due entirely to interstitial pathology",
-    "False — RPRF is defined by vascular pathology only"
+    "False — RPRF is defined by vascular pathology only",
+    "True — RPGN is listed first among RPRF causes and is due to glomerular pathology"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "Under RPRF the first listed cause is rapidly progressive glomerulonephritis (RPGN), annotated 'due to glomerular pathology'. (Book p778)"
   },
   {
@@ -98,14 +98,14 @@
    "sec": "RPGN features & investigations · p778",
    "page": 778,
    "fmt": "match",
-   "q": "Match each urine feature of RPGN with its description — 1) Colour  2) Output  3) Urine analysis … A) Decreased output  B) Cola-coloured (RBC present)  C) Proteinuria +/– (trace to variable)",
+   "q": "Match each urine feature of RPGN with its description — 1) Colour  2) Output  3) Urine analysis … A) Cola-coloured (RBC present)  B) Decreased output  C) Proteinuria +/– (trace to variable)",
    "opts": [
-    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
     "1-A, 2-B, 3-C",
-    "1-B, 2-C, 3-A",
-    "1-C, 2-A, 3-B"
+    "1-B, 2-A, 3-C"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "RPGN urine: cola-coloured with RBCs; decreased output; urine examination shows proteinuria +/–. (Book p778)"
   },
   {
@@ -115,12 +115,12 @@
    "fmt": "scenario",
    "q": "A 40-year-old man has a 3-week history of progressive puffiness around the eyes and legs, BP 160/100 mmHg, cola-coloured urine and reduced urine output. Which statement about these findings is correct?",
    "opts": [
-    "Periorbital puffiness with progressive oedema and a raised BP are listed features of RPGN",
-    "Periorbital puffiness with a normal BP is a feature unique to nephrotic syndrome",
     "The progressive oedema of RPGN accumulates in the intravascular compartment",
-    "Cola-coloured urine with reduced output indicates isolated post-renal obstruction"
+    "Cola-coloured urine with reduced output indicates isolated post-renal obstruction",
+    "Periorbital puffiness with progressive oedema and a raised BP are listed features of RPGN",
+    "Periorbital puffiness with a normal BP is a feature unique to nephrotic syndrome"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "RPGN features: periorbital puffiness, progressive oedema (extravascular compartment) and raised blood pressure, with cola-coloured urine and decreased output. (Book p778)"
   },
   {
@@ -130,12 +130,12 @@
    "fmt": "fillup",
    "q": "Fill up: In RPGN, progressive oedema accumulates in the ______ compartment.",
    "opts": [
+    "cerebrospinal",
     "extravascular",
     "intravascular",
-    "pericardial",
-    "cerebrospinal"
+    "pericardial"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "Features of RPGN: progressive oedema (extravascular compartment), periorbital puffiness and raised blood pressure. (Book p778)"
   },
   {
@@ -145,12 +145,12 @@
    "fmt": "truefalse",
    "q": "Raised blood pressure is a listed feature of RPGN along with periorbital puffiness.",
    "opts": [
-    "True",
-    "False — BP is normal in RPGN",
     "True, but only in type III disease",
-    "False — BP falls as creatinine rises"
+    "False — BP falls as creatinine rises",
+    "True",
+    "False — BP is normal in RPGN"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "RPGN features list ends with raised blood pressure. (Book p778)"
   },
   {
@@ -175,12 +175,12 @@
    "fmt": "recall",
    "q": "Which statement about blood investigations in RPGN is correct?",
    "opts": [
+    "Serum urea is reduced with a raised creatinine",
     "CBC is normal, while serum creatinine and urea are raised",
     "CBC shows marked leucocytosis, with normal creatinine",
-    "Serum creatinine is raised only if sepsis coexists",
-    "Serum urea is reduced with a raised creatinine"
+    "Serum creatinine is raised only if sepsis coexists"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "Blood investigations in RPGN: CBC normal; serum creatinine raised; serum urea raised; serum K⁺ normal or raised; ABG normal or metabolic acidosis. (Book p778)"
   },
   {
@@ -188,14 +188,14 @@
    "sec": "RPGN features & investigations · p778",
    "page": 778,
    "fmt": "match",
-   "q": "Match each RPGN investigation with its expected result — 1) CBC  2) Serum creatinine  3) Serum K⁺  4) ABG … A) Normal/raised  B) Normal  C) Normal/metabolic acidosis  D) Raised",
+   "q": "Match each RPGN investigation with its expected result — 1) CBC  2) Serum creatinine  3) Serum K⁺  4) ABG … A) Raised  B) Normal/raised  C) Normal  D) Normal/metabolic acidosis",
    "opts": [
-    "1-B, 2-D, 3-A, 4-C",
-    "1-D, 2-B, 3-A, 4-C",
-    "1-B, 2-D, 3-C, 4-A",
-    "1-A, 2-B, 3-D, 4-C"
+    "1-C, 2-A, 3-D, 4-B",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-B, 4-D"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "RPGN investigations: CBC normal; creatinine raised; serum K⁺ normal or raised; ABG normal or metabolic acidosis (serum urea also raised). (Book p778)"
   },
   {
@@ -205,12 +205,12 @@
    "fmt": "oddoneout",
    "q": "All but one of the following are typical laboratory findings in RPGN. Which is the odd one out?",
    "opts": [
+    "ABG showing normal pH or metabolic acidosis with normal or high K⁺",
     "Normocytic anaemia with a low haemoglobin on the CBC",
     "Raised serum creatinine together with a raised serum urea",
-    "Normal CBC with a raised serum creatinine and a raised urea",
-    "ABG showing normal pH or metabolic acidosis with normal or high K⁺"
+    "Normal CBC with a raised serum creatinine and a raised urea"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "The CBC is normal in RPGN; creatinine and urea are raised, serum K⁺ is normal or raised and the ABG is normal or shows metabolic acidosis. (Book p778)"
   },
   {
@@ -220,12 +220,12 @@
    "fmt": "recall",
    "q": "The light-microscopy hallmark of crescentic glomerulonephritis described here is:",
    "opts": [
-    "Proliferation of parietal epithelial cells with fibrin, the number of crescents mattering",
-    "Segmental sclerosis with hyalinosis at the vascular pole",
     "Basement membrane thinning with splitting of the lamina densa",
-    "Amyloid deposition within the mesangium"
+    "Amyloid deposition within the mesangium",
+    "Proliferation of parietal epithelial cells with fibrin, the number of crescents mattering",
+    "Segmental sclerosis with hyalinosis at the vascular pole"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "LM shows crescentic GN due to proliferation of parietal epithelial cells with fibrin; the number of crescents is an important factor. (Book p779)"
   },
   {
@@ -235,12 +235,12 @@
    "fmt": "fillup",
    "q": "Fill up: The crescents of crescentic glomerulonephritis are formed by proliferation of ______ epithelial cells with fibrin.",
    "opts": [
-    "parietal",
-    "visceral",
     "endothelial",
-    "mesangial"
+    "mesangial",
+    "parietal",
+    "visceral"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "Crescents arise from proliferation of parietal epithelial cells together with fibrin; their number matters prognostically. (Book p779)"
   },
   {
@@ -248,12 +248,12 @@
    "sec": "RPGN biopsy: light microscopy & IF patterns · p779",
    "page": 779,
    "fmt": "match",
-   "q": "Match each immunofluorescence pattern in the biopsy figure with its image label — 1) No deposits  2) Uniform bright linear staining along the capillary walls  3) Coarse granular staining of capillary loops and mesangium … A) Linear IF  B) Negative IF  C) Diffuse granular IF",
+   "q": "Match each immunofluorescence pattern in the biopsy figure with its image label — 1) No deposits  2) Uniform bright linear staining along the capillary walls  3) Coarse granular staining of capillary loops and mesangium … A) Diffuse granular IF  B) Linear IF  C) Negative IF",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
     "1-B, 2-C, 3-A",
-    "1-C, 2-A, 3-B"
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
    "exp": "The figure panels are labelled: A. negative IF; B. diffuse granular IF; C. linear IF (with D. granular IF) — the linear pattern being the one written in text for type I RPGN. (Book p779)"
@@ -278,15 +278,15 @@
    "sec": "RPGN biopsy: light microscopy & IF patterns · p779",
    "page": 779,
    "fmt": "match",
-   "q": "Match each IF pattern with its listed important association — 1) Linear IF  2) Granular IF … A) Immune-complex deposition, e.g. diabetes mellitus and light chain disease  B) Goodpasture disease",
+   "q": "Match each immunofluorescence finding with its important association as listed beside the biopsy panels — 1) Linear IF  2) Granular IF  3) Negative IF … A) No immune deposits (pauci-immune)  B) Diabetes mellitus and light chain disease  C) Goodpasture disease",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both are associations of ANCA",
-    "Both indicate negative IF"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A"
    ],
-   "ans": 0,
-   "exp": "Important IF associations: linear IF → Goodpasture disease; granular IF → diabetes mellitus and light chain disease. (Book p779)"
+   "ans": 3,
+   "exp": "The page lists Goodpasture disease (linear), diabetes mellitus and light chain disease (granular); panel A of the figure is a negative IF, which corresponds to pauci-immune type III RPGN. (Book p779)"
   },
   {
    "id": "MED-C14-020",
@@ -295,12 +295,12 @@
    "fmt": "oddoneout",
    "q": "Which condition is NOT listed among the important associations of the immunofluorescence patterns?",
    "opts": [
-    "Post-streptococcal glomerulonephritis",
     "Goodpasture disease, associated with linear IF",
     "Diabetes mellitus, associated with granular IF",
-    "Light chain disease, associated with granular IF"
+    "Light chain disease, associated with granular IF",
+    "Post-streptococcal glomerulonephritis"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "The associations printed are Goodpasture disease (linear), diabetes mellitus and light chain disease (granular); PSGN is not on that list. (Book p779)"
   },
   {
@@ -325,12 +325,12 @@
    "fmt": "scenario",
    "q": "A patient with RPGN has a very high serum creatinine. The book advises against immediate renal biopsy because:",
    "opts": [
+    "Immunofluorescence cannot be performed at high creatinine",
     "It may cause uremic bleeding",
     "It will not show crescents at this stage",
-    "The kidney is too small for a safe puncture",
-    "Immunofluorescence cannot be performed at high creatinine"
+    "The kidney is too small for a safe puncture"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "Note: biopsy should not be done if serum creatinine is markedly increased, as it may cause uremic bleeding. (Book p779)"
   },
   {
@@ -338,12 +338,12 @@
    "sec": "When to biopsy vs dialyse first · p779",
    "page": 779,
    "fmt": "match",
-   "q": "Arrange the correct sequence when the serum creatinine is very high — 1) First step  2) Then  3) If the value decreases … A) Recheck serum creatinine  B) Dialysis  C) Biopsy",
+   "q": "Arrange the correct sequence when the serum creatinine is very high — 1) First step  2) Then  3) If the value decreases … A) Dialysis  B) Biopsy  C) Recheck serum creatinine",
    "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
     "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
-    "1-C, 2-B, 3-A",
-    "1-B, 2-C, 3-A"
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
    "exp": "When the creatinine is very high: first step dialysis → recheck serum creatinine → if the value decreases, proceed to biopsy. (Book p779)"
@@ -370,12 +370,12 @@
    "fmt": "truefalse",
    "q": "According to the page, an immediately raised serum creatinine is an absolute contraindication to ever performing a renal biopsy.",
    "opts": [
-    "False — dialysis is done first and biopsy follows once the creatinine falls",
-    "True — biopsy is never repeated in such patients",
     "True — biopsy then has to be replaced by CT imaging",
-    "False — biopsy is performed before dialysis instead"
+    "False — biopsy is performed before dialysis instead",
+    "False — dialysis is done first and biopsy follows once the creatinine falls",
+    "True — biopsy is never repeated in such patients"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "It is the immediate biopsy that is avoided (uremic bleeding risk); after dialysis, if the creatinine decreases, biopsy is performed. (Book p779)"
   },
   {
@@ -383,12 +383,12 @@
    "sec": "RPGN treatment approach: check first · p780",
    "page": 780,
    "fmt": "match",
-   "q": "Match each first-line assessment in the RPGN treatment approach with what is sought — 1) ECG  2) ABG  3) Volume status … A) Metabolic acidosis  B) Signs of hyperkalemia  C) Inferior vena cava diameter on USG",
+   "q": "Match each first-line assessment in the RPGN treatment approach with what is sought — 1) ECG  2) ABG  3) Volume status … A) Signs of hyperkalemia  B) Inferior vena cava diameter on USG  C) Metabolic acidosis",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
     "1-C, 2-A, 3-B",
-    "1-B, 2-C, 3-A"
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
    "exp": "Step 1 of the RPGN treatment approach: check ECG (signs of hyperkalaemia), ABG (metabolic acidosis) and volume status (IVC diameter on USG). (Book p780)"
@@ -415,12 +415,12 @@
    "fmt": "numeric",
    "q": "Calcium gluconate in hyperkalaemic RPGN is given as 10 mL IV over:",
    "opts": [
-    "2–3 minutes",
-    "10–15 minutes",
     "30 minutes",
-    "1 hour"
+    "1 hour",
+    "2–3 minutes",
+    "10–15 minutes"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "Calcium gluconate 10 mL IV given over 2–3 minutes for ECG signs of hyperkalaemia. (Book p780)"
   },
   {
@@ -430,28 +430,28 @@
    "fmt": "scenario",
    "q": "A patient with RPGN has an ABG showing metabolic acidosis. Which treatments are listed in the algorithm?",
    "opts": [
-    "NaHCO₃ or dialysis",
     "Calcium gluconate or insulin-dextrose",
     "Diuretics alone",
-    "Oral alkali with potassium binders only"
+    "Oral alkali with potassium binders only",
+    "NaHCO₃ or dialysis"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "ABG showing metabolic acidosis is treated with NaHCO₃ or dialysis. (Book p780)"
   },
   {
    "id": "MED-C14-030",
    "sec": "RPGN treatment approach: check first · p780",
    "page": 780,
-   "fmt": "match",
-   "q": "Match the volume-status assessment with its treatment — 1) Assessment  2) Treatment … A) Diuretics  B) Check inferior vena cava diameter on USG",
+   "fmt": "fillup",
+   "q": "Fill up: In the RPGN treatment algorithm, volume status is assessed by the ______ diameter on ultrasound and treated with diuretics.",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both refer to dialysis",
-    "Both refer to NaHCO₃"
+    "abdominal aorta",
+    "portal vein",
+    "main renal artery",
+    "inferior vena cava"
    ],
-   "ans": 0,
-   "exp": "Volume status is assessed by the inferior vena cava diameter on USG, and diuretics are the treatment used for the volume problem. (Book p780)"
+   "ans": 3,
+   "exp": "Volume status: check the inferior vena cava diameter on USG, the treatment being diuretics (with calcium gluconate for ECG signs of hyperkalaemia and NaHCO3 or dialysis for metabolic acidosis). (Book p780)"
   },
   {
    "id": "MED-C14-031",
@@ -460,12 +460,12 @@
    "fmt": "truefalse",
    "q": "The first step in managing RPGN, before specific therapy, is to check the ECG, ABG and volume status.",
    "opts": [
-    "True",
     "False — ECG is checked only after dialysis",
     "False — ABG is checked only after biopsy",
-    "True, but only in type I RPGN"
+    "True, but only in type I RPGN",
+    "True"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "Treatment approach, step 1: check ECG for hyperkalaemia, ABG for metabolic acidosis and volume status by IVC diameter on USG. (Book p780)"
   },
   {
@@ -475,12 +475,12 @@
    "fmt": "oddoneout",
    "q": "All of the following are absolute (uremic) indications for dialysis EXCEPT:",
    "opts": [
+    "Uremic bleeding",
     "Volume overload",
     "Uremic pericarditis",
-    "Uremic encephalopathy",
-    "Uremic bleeding"
+    "Uremic encephalopathy"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "Absolute uremic indications: encephalopathy, halitosis, pruritis, pericarditis, bleeding and gastritis. Volume overload is a relative indication, along with hyperkalaemia and metabolic acidosis resistant to treatment. (Book p780)"
   },
   {
@@ -503,15 +503,15 @@
    "sec": "Dialysis indications & RPGN types · p780",
    "page": 780,
    "fmt": "match",
-   "q": "Match the indication type with its items — 1) Absolute indication  2) Relative indication … A) Volume overload, hyperkalemia, metabolic acidosis — when resistant to treatment  B) Uremic encephalopathy, pericarditis, bleeding",
+   "q": "Match the dialysis indications in RPGN with their category — 1) Absolute indication  2) Relative indication  3) Qualifier for the relative group … A) Resistant to treatment  B) Uremic encephalopathy, halitosis, pruritis, pericarditis, bleeding, gastritis  C) Volume overload, hyperkalemia, metabolic acidosis",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both are absolute",
-    "Both are relative"
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
    ],
-   "ans": 0,
-   "exp": "Absolute (uremic) indications: encephalopathy, halitosis, pruritis, pericarditis, bleeding, gastritis. Relative indications: volume overload, hyperkalaemia and metabolic acidosis that are resistant to treatment. (Book p780)"
+   "ans": 2,
+   "exp": "Absolute (uremic) indications: encephalopathy, halitosis, pruritis, pericarditis, bleeding and gastritis. Relative indications: volume overload, hyperkalemia and metabolic acidosis, all qualified as resistant to treatment. (Book p780)"
   },
   {
    "id": "MED-C14-035",
@@ -520,12 +520,12 @@
    "fmt": "truefalse",
    "q": "Hyperkalaemia in RPGN is an absolute indication for dialysis regardless of whether it responds to medical treatment.",
    "opts": [
-    "False — hyperkalaemia is a relative indication and must be resistant to treatment",
     "True — hyperkalaemia is always an absolute uremic indication",
     "True, but only if the ECG is normal",
-    "False — dialysis is never indicated for hyperkalaemia"
+    "False — dialysis is never indicated for hyperkalaemia",
+    "False — hyperkalaemia is a relative indication and must be resistant to treatment"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "Hyperkalaemia appears along with volume overload and metabolic acidosis under relative indications, qualified as resistant to treatment. (Book p780)"
   },
   {
@@ -535,12 +535,12 @@
    "fmt": "recall",
    "q": "On the basis of immunofluorescence, RPGN is classified into:",
    "opts": [
+    "Five types including double-positive and double-negative",
     "Three types — I, II and III",
     "Two types — granular and linear only",
-    "Four types — I, II, III and IV",
-    "Five types including double-positive and double-negative"
+    "Four types — I, II, III and IV"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "The TYPES flowchart of RPGN begins 'on the basis of immunofluorescence' and branches into type I (Goodpasture syndrome), type II (immune complex) and type III (pauci-immune). Types IV/V appear only inside the later double-positive vs double-negative table. (Book p780)"
   },
   {
@@ -550,12 +550,12 @@
    "fmt": "recall",
    "q": "Type I RPGN is also known as:",
    "opts": [
+    "Microscopic polyangiitis",
     "Goodpasture syndrome",
     "Henoch–Schönlein purpura",
-    "Wegener's granulomatosis",
-    "Microscopic polyangiitis"
+    "Wegener's granulomatosis"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "Type I / Goodpasture syndrome: IF shows linear IgG ± C3 in the capillary wall. (Book p780)"
   },
   {
@@ -578,15 +578,15 @@
    "sec": "Dialysis indications & RPGN types · p780",
    "page": 780,
    "fmt": "match",
-   "q": "Match the RPGN type with its mechanism — 1) Type II  2) Type III … A) Pauci-immune  B) Immune complex deposition",
+   "q": "Match each RPGN type with its label in the immunofluorescence flowchart — 1) Type II  2) Type III  3) Type II age note … A) Commonest below 20 years  B) Immune complex deposition  C) Pauci-immune, the commonest type",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both immune complex",
-    "Both pauci-immune"
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
    ],
-   "ans": 0,
-   "exp": "Type II RPGN = immune complex deposition (commonest below 20 years of age); type III RPGN = pauci-immune (the commonest overall type). (Book p780)"
+   "ans": 2,
+   "exp": "Type II = immune complex deposition (commonest in those below 20 years); type III = pauci-immune, marked m/c i.e. the commonest type overall. (Book p780)"
   },
   {
    "id": "MED-C14-040",
@@ -610,12 +610,12 @@
    "fmt": "scenario",
    "q": "A 16-year-old girl has RPGN with immune-complex deposition on biopsy. Which example fits the book's type II list best?",
    "opts": [
-    "Systemic lupus erythematosus",
     "Goodpasture syndrome",
     "ANCA vasculitis",
-    "Wegener's granulomatosis"
+    "Wegener's granulomatosis",
+    "Systemic lupus erythematosus"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "Type II (immune complex) examples: SLE — underlined as the most important cause — Henoch–Schönlein purpura, IPGN (IgA predominant) and membranoproliferative GN (10%). (Book p780)"
   },
   {
@@ -653,15 +653,15 @@
    "sec": "Dialysis indications & RPGN types · p780",
    "page": 780,
    "fmt": "match",
-   "q": "Match the type II examples with the bracketed note given beside them — 1) Henoch–Schönlein purpura and IPGN  2) Membranoproliferative GN … A) Listed as (10%)  B) Marked as the 'adult variety'",
+   "q": "Match each type II (immune-complex) RPGN example with the note printed beside it — 1) Systemic lupus erythematosus  2) Henoch-Schönlein purpura and IPGN  3) Membranoproliferative GN … A) Adult variety  B) 10%  C) Most important cause",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both marked 10%",
-    "Both marked adult variety"
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B"
    ],
-   "ans": 0,
-   "exp": "In the type II list, HSP and IPGN (IgA predominant) are bracketed together as the adult variety, while MPGN carries the figure 10%. (Book p780)"
+   "ans": 2,
+   "exp": "In the type II list SLE carries '(most important cause)', HSP with IPGN is bracketed as the adult variety, and MPGN is annotated 10%. (Book p780)"
   },
   {
    "id": "MED-C14-045",
@@ -670,12 +670,12 @@
    "fmt": "recall",
    "q": "Type III RPGN is described as:",
    "opts": [
+    "A disease seen only in children",
     "Pauci-immune disease — the commonest type",
     "Immune complex disease — commonest below 20 years",
-    "Anti-GBM disease — the commonest type",
-    "A disease seen only in children"
+    "Anti-GBM disease — the commonest type"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "Type III (pauci-immune) is marked m/c, i.e. the commonest type of RPGN, with examples ANCA vasculitis, Wegener's granulomatosis and microscopic polyangiitis. (Book p780)"
   },
   {
@@ -698,15 +698,15 @@
    "sec": "Dialysis indications & RPGN types · p780",
    "page": 780,
    "fmt": "match",
-   "q": "Match each RPGN type with its expected ANCA/anti-GBM serology from the double-positive vs double-negative table — 1) Type IV (double positive)  2) Type V (double negative) … A) Anti-GBM – and ANCA –  B) Anti-GBM + and ANCA +",
+   "q": "Match the serology with its type in the double-positive versus double-negative table — 1) Anti-GBM + and ANCA +  2) Anti-GBM - and ANCA -  3) Prognosis of the double-positive type … A) Type V  B) Type IV  C) Good",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both anti-GBM positive",
-    "Both ANCA positive"
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
-   "exp": "The table: type IV = double positive (anti-GBM antibody +, ANCA +); type V = double negative (anti-GBM antibody –, ANCA –). (Book p780)"
+   "exp": "Type IV is double positive (anti-GBM +, ANCA +) with a good prognosis; type V is double negative (anti-GBM -, ANCA -) with a poor prognosis. (Book p780)"
   },
   {
    "id": "MED-C14-048",
@@ -715,12 +715,12 @@
    "fmt": "truefalse",
    "q": "Prognosis is good in double-positive (type IV) RPGN and poor in double-negative (type V) RPGN.",
    "opts": [
-    "True",
-    "False — prognosis is poor in type IV and good in type V",
     "False — prognosis is identical in both",
-    "True, but only when C3 is low"
+    "True, but only when C3 is low",
+    "True",
+    "False — prognosis is poor in type IV and good in type V"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "The table's prognosis row reads good for type IV (double positive) and poor for type V (double negative). (Book p780)"
   },
   {
@@ -790,12 +790,12 @@
    "fmt": "management",
    "q": "According to the note, RPGN with diffuse alveolar haemorrhage and a non-specific antibody is:",
    "opts": [
-    "Anti-GBM disease",
     "ANCA-associated vasculitis",
     "SLE with class V lupus nephritis",
-    "Anti-phospholipid antibody syndrome"
+    "Anti-phospholipid antibody syndrome",
+    "Anti-GBM disease"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "Note: RPGN + DAH + antibody (non-specific) = anti-GBM disease; the antibody in question is anti-GBM. (Book p781)"
   },
   {
@@ -805,25 +805,25 @@
    "fmt": "fillup",
    "q": "Fill up: Goodpasture disease is RPGN + diffuse alveolar haemorrhage + antibody against the noncollagenous domain of the ______ chain of type-IV collagen.",
    "opts": [
-    "α3",
     "α1",
     "α2",
-    "α5"
+    "α5",
+    "α3"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "Goodpasture disease = RPGN + DAH + antibody against the noncollagenous domain of the α3 chain of type-IV collagen. (Book p781)"
   },
   {
    "id": "MED-C14-055",
    "sec": "Pulmonary renal syndrome & Goodpasture HLA · p781",
    "page": 781,
-   "fmt": "match",
-   "q": "Match the pulmonary trigger with its appearance in the Goodpasture disease notes — 1) Smoking  2) Hydrocarbon exposure  3) Fluid overload  4) Lung infection … A) All four are listed 2nd/trigger factors",
+   "fmt": "fillup",
+   "q": "Fill up: Besides smoking, hydrocarbon exposure and lung infection, the fourth 2nd/trigger factor listed for Goodpasture disease is ______.",
    "opts": [
-    "All four are listed triggers",
-    "Only smoking and lung infection are triggers",
-    "Only fluid overload is a trigger",
-    "None of these are triggers"
+    "fluid overload",
+    "streptococcal pharyngitis",
+    "hypercalcemia",
+    "contrast exposure"
    ],
    "ans": 0,
    "exp": "2nd/trigger factors for Goodpasture disease: smoking, hydrocarbon exposure, fluid overload and lung infection. (Book p781)"
@@ -835,27 +835,27 @@
    "fmt": "oddoneout",
    "q": "Which is NOT a listed trigger for Goodpasture disease?",
    "opts": [
+    "Lung infection",
     "Streptococcal sore throat",
     "Smoking",
-    "Hydrocarbon exposure",
-    "Lung infection"
+    "Hydrocarbon exposure"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "Listed triggers: smoking, hydrocarbon exposure, fluid overload and lung infection. A streptococcal sore throat relates to PSGN, not Goodpasture disease. (Book p781)"
   },
   {
    "id": "MED-C14-057",
    "sec": "Pulmonary renal syndrome & Goodpasture HLA · p781",
    "page": 781,
-   "fmt": "match",
-   "q": "Match the HLA group with its risk in Goodpasture disease — 1) High risk  2) Low risk … A) DR1, DR7  B) DR2/15, DR4",
+   "fmt": "recall",
+   "q": "Which HLA pair carries the highest risk in Goodpasture disease?",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both high risk",
-    "Both low risk"
+    "DR10 and DR11",
+    "DR2/15 and DR4",
+    "DR1 and DR7",
+    "DR3 and DR2"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "HLA association in Goodpasture disease: high risk DR2/15 and DR4; low risk DR1 and DR7. (Book p781)"
   },
   {
@@ -865,12 +865,12 @@
    "fmt": "scenario",
    "q": "A 25-year-old heavy smoker has haemoptysis, a fall in Hb and rapidly rising creatinine; anti-GBM antibody is positive. Which HLA type would be expected to increase his risk?",
    "opts": [
-    "HLA DR2/15",
     "HLA DR1",
     "HLA DR7",
-    "HLA B27"
+    "HLA B27",
+    "HLA DR2/15"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "High-risk HLA types in Goodpasture disease are DR2/15 and DR4; DR1 and DR7 are low risk. (Book p781)"
   },
   {
@@ -880,12 +880,12 @@
    "fmt": "oddoneout",
    "q": "Which HLA type is protective/low-risk in Goodpasture disease rather than high-risk?",
    "opts": [
+    "HLA DR15",
     "HLA DR7",
     "HLA DR2/15",
-    "HLA DR4",
-    "HLA DR15"
+    "HLA DR4"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "Low-risk HLA types: DR1 and DR7. High risk: DR2/15 and DR4. (Book p781)"
   },
   {
@@ -895,12 +895,12 @@
    "fmt": "numeric",
    "q": "The first session of dialysis should be kept shorter than:",
    "opts": [
-    "1 hour",
     "2 hours",
     "4 hours",
-    "6 hours"
+    "6 hours",
+    "1 hour"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "Dialysis disequilibrium syndrome: the first session of dialysis should be <1 hour, with subsequent sessions of 4 hours. (Book p781)"
   },
   {
@@ -910,12 +910,12 @@
    "fmt": "numeric",
    "q": "The duration of subsequent dialysis sessions recommended after the first short session is:",
    "opts": [
-    "4 hours",
-    "1 hour",
     "8 hours",
-    "30 minutes"
+    "30 minutes",
+    "4 hours",
+    "1 hour"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "First session <1 hour; subsequent sessions 4 hours, to avoid dialysis disequilibrium syndrome. (Book p781)"
   },
   {
@@ -923,14 +923,14 @@
    "sec": "Dialysis disequilibrium syndrome · p781",
    "page": 781,
    "fmt": "match",
-   "q": "Complete the dialysis disequilibrium flowchart — 1) Urea in the blood compartment  2) Effect on blood osmolality  3) Consequence in cells … A) Cerebral edema → seizure, death  B) Rapidly moves to the dialysate compartment  C) ↓ Osmolality",
+   "q": "Complete the dialysis disequilibrium flowchart — 1) Urea in the blood compartment  2) Effect on blood osmolality  3) Consequence in cells … A) Cerebral edema → seizure, death  B) ↓ Osmolality  C) Rapidly moves to the dialysate compartment",
    "opts": [
-    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
     "1-C, 2-B, 3-A",
-    "1-B, 2-A, 3-C",
-    "1-A, 2-C, 3-B"
+    "1-B, 2-C, 3-A"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "Flowchart: urea rapidly moves from blood to dialysate → blood osmolality falls → water moves into cells → cerebral oedema → seizure and death. (Book p781)"
   },
   {
@@ -955,12 +955,12 @@
    "fmt": "scenario",
    "q": "A severely uraemic patient receives a 4-hour first dialysis session and develops headache, confusion and a seizure. The mechanism is:",
    "opts": [
-    "Water movement into cells after a rapid fall in blood osmolality — cerebral edema",
-    "Rapid movement of water out of cells causing cerebral dehydration",
     "Contrast-induced cerebral vasospasm",
-    "Uremic pericarditis with tamponade physiology"
+    "Uremic pericarditis with tamponade physiology",
+    "Water movement into cells after a rapid fall in blood osmolality — cerebral edema",
+    "Rapid movement of water out of cells causing cerebral dehydration"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "Dialysis disequilibrium: rapid urea removal → ↓ blood osmolality → water moves into cells (including brain) → cerebral oedema, seizure and death. (Book p781)"
   },
   {
@@ -970,12 +970,12 @@
    "fmt": "management",
    "q": "Which statement correctly summarises the prevention of dialysis disequilibrium syndrome?",
    "opts": [
-    "Limit the first dialysis session to less than 1 hour, with 4-hour subsequent sessions",
     "Give the first session for 6 hours to clear urea completely",
     "Avoid dialysis in uraemic patients altogether",
-    "Use only peritoneal dialysis in all uraemic patients"
+    "Use only peritoneal dialysis in all uraemic patients",
+    "Limit the first dialysis session to less than 1 hour, with 4-hour subsequent sessions"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "Prevention: the first dialysis session should be <1 hour; subsequent sessions are 4 hours, because continuing beyond 2 hours risks cerebral oedema. (Book p781)"
   },
   {
@@ -985,12 +985,12 @@
    "fmt": "numeric",
    "q": "Lung involvement (as opposed to renal involvement) occurs in what proportion of Goodpasture patients?",
    "opts": [
-    "75%",
-    "25%",
     "50%",
-    "90%"
+    "90%",
+    "75%",
+    "25%"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "Presentation flowchart: lung involvement 75% versus renal involvement 'as %', with renal involvement indicating a poor prognosis. (Book p782)"
   },
   {
@@ -1000,12 +1000,12 @@
    "fmt": "truefalse",
    "q": "In Goodpasture syndrome, renal involvement is associated with a poor prognosis.",
    "opts": [
-    "True",
     "False — renal involvement improves prognosis",
     "False — only lung involvement affects prognosis",
-    "True only if the patient smokes"
+    "True only if the patient smokes",
+    "True"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "The flowchart places 'renal involvement (as %)' with the note poor prognosis. (Book p782)"
   },
   {
@@ -1015,12 +1015,12 @@
    "fmt": "scenario",
    "q": "A young man presents with 2 weeks of cough and haemoptysis. He has no fever and no comorbidity. Which listed feature supports the diagnosis of Goodpasture lung involvement?",
    "opts": [
+    "Clubbing with chronic bronchitis",
     "Haemoptysis with no fever or comorbidity, in a smoker",
     "High fever with purulent sputum",
-    "Pleuritic chest pain with a pleural rub",
-    "Clubbing with chronic bronchitis"
+    "Pleuritic chest pain with a pleural rub"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "Lung features: history of smoking, cough, haemoptysis, and no fever or comorbidity — the absence of fever is emphasised. (Book p782)"
   },
   {
@@ -1030,12 +1030,12 @@
    "fmt": "oddoneout",
    "q": "All but one of the following are listed lung features of Goodpasture syndrome. Which is the odd one out?",
    "opts": [
-    "High-grade fever",
-    "History of smoking",
     "Cough",
-    "Haemoptysis"
+    "Haemoptysis",
+    "High-grade fever",
+    "History of smoking"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "The book specifically notes 'no fever, comorbidity' among the lung features of Goodpasture syndrome. (Book p782)"
   },
   {
@@ -1043,14 +1043,14 @@
    "sec": "Goodpasture presentation & evaluation · p782",
    "page": 782,
    "fmt": "match",
-   "q": "Match the investigation with its stated result — 1) DLCO  2) X-ray chest  3) CT scan … A) B/L diffuse infiltrate  B) ↑ (increased)  C) Diffuse alveolar haemorrhage",
+   "q": "Match the investigation with its stated result — 1) DLCO  2) X-ray chest  3) CT scan … A) ↑ (increased)  B) Diffuse alveolar haemorrhage  C) B/L diffuse infiltrate",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
     "1-B, 2-C, 3-A",
-    "1-C, 2-A, 3-B"
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "Evaluation: DLCO is ↑ (increased); X-ray shows bilateral diffuse infiltrate; CT scan shows diffuse alveolar haemorrhage. (Book p782)"
   },
   {
@@ -1060,12 +1060,12 @@
    "fmt": "truefalse",
    "q": "The chest X-ray in Goodpasture syndrome shows a bilateral diffuse infiltrate, marked by an arrow in the figure.",
    "opts": [
+    "True, but only after renal transplantation",
     "True",
     "False — the X-ray is normal in Goodpasture syndrome",
-    "False — the X-ray shows a solitary cavitating lesion",
-    "True, but only after renal transplantation"
+    "False — the X-ray shows a solitary cavitating lesion"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "The chest X-ray figure is labelled 'B/L diffuse infiltrate' with an arrow pointing to it. (Book p782)"
   },
   {
@@ -1075,12 +1075,12 @@
    "fmt": "scenario",
    "q": "A patient with haemoptysis and RPGN has a CT chest showing bilateral ground-glass with dependent consolidation. The figure labels this:",
    "opts": [
-    "Diffuse alveolar haemorrhage",
-    "Pulmonary embolism",
     "Miliary tuberculosis",
-    "Cardiogenic pulmonary oedema"
+    "Cardiogenic pulmonary oedema",
+    "Diffuse alveolar haemorrhage",
+    "Pulmonary embolism"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "The two CT panels on the page are labelled 'diffuse alveolar haemorrhage'. (Book p782)"
   },
   {
@@ -1090,12 +1090,12 @@
    "fmt": "oddoneout",
    "q": "Which evaluation finding is NOT part of the Goodpasture work-up as printed?",
    "opts": [
+    "Diffuse alveolar haemorrhage on CT",
     "A reduced DLCO",
     "Bilateral diffuse infiltrate on X-ray",
-    "Increased DLCO",
-    "Diffuse alveolar haemorrhage on CT"
+    "Increased DLCO"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "The DLCO in Goodpasture syndrome is increased (↑), reflecting the presence of blood in the alveoli; X-ray shows B/L diffuse infiltrate and CT shows diffuse alveolar haemorrhage. (Book p782)"
   },
   {
@@ -1105,12 +1105,12 @@
    "fmt": "oddoneout",
    "q": "All of the following are conditions requiring active management in pulmonary renal syndrome EXCEPT:",
    "opts": [
-    "Positive ANCA serology with fibrous crescents only",
     "Ongoing pulmonary haemorrhage",
     "Sr. creatinine <5.5 mg/dL with normal urine output",
-    "Type IV RPGN"
+    "Type IV RPGN",
+    "Positive ANCA serology with fibrous crescents only"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "Conditions requiring active management: ongoing pulmonary haemorrhage; Sr. creatinine <5.5 mg/dL with normal urine output; new cellular (non-fibrous) crescent; and type IV RPGN. (Book p782)"
   },
   {
@@ -1135,12 +1135,12 @@
    "fmt": "truefalse",
    "q": "A new cellular crescent, as opposed to a fibrous crescent, is one of the conditions requiring active management.",
    "opts": [
-    "True",
     "False — only fibrous crescents warrant active management",
     "False — crescents are never an indication",
-    "True, but only in type V RPGN"
+    "True, but only in type V RPGN",
+    "True"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "Condition 3: a new cellular crescent (non-fibrous) requires active management, since fibrous crescents represent old, irreversible scarring. (Book p782)"
   },
   {
@@ -1150,12 +1150,12 @@
    "fmt": "management",
    "q": "The treatment listed for Goodpasture disease/pulmonary renal syndrome is:",
    "opts": [
+    "Antibiotics with supportive dialysis alone until the antibody disappears from serum",
     "Mainstay PLEX (plasma exchange therapy) plus steroid and cyclophosphamide for 3–6 months",
     "Mainstay steroids alone at high dose, continued for 3–6 months, without exchange",
-    "Rituximab monotherapy for 2 weeks followed by lifelong azathioprine maintenance",
-    "Antibiotics with supportive dialysis alone until the antibody disappears from serum"
+    "Rituximab monotherapy for 2 weeks followed by lifelong azathioprine maintenance"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "Treatment: mainstay PLEX (plasma exchange) + steroid and cyclophosphamide for 3–6 months. (Book p782)"
   },
   {
@@ -1165,12 +1165,12 @@
    "fmt": "numeric",
    "q": "The listed duration of steroid and cyclophosphamide treatment with plasma exchange is:",
    "opts": [
-    "3–6 months",
-    "2 weeks",
     "12–18 months",
-    "5 years"
+    "5 years",
+    "3–6 months",
+    "2 weeks"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "Mainstay PLEX + steroid and cyclophosphamide for 3–6 months. (Book p782)"
   },
   {
@@ -1180,12 +1180,12 @@
    "fmt": "scenario",
    "q": "A patient with Goodpasture syndrome has completed treatment and is anti-GBM antibody negative. He asks about definitive treatment. The book's answer is:",
    "opts": [
+    "Renal transplant after 2 weeks of antibody negativity",
     "Renal transplant — after antibody negativity for 6 months",
     "Renal transplant — immediately, since antibody status does not matter",
-    "Lifelong dialysis — transplantation is contraindicated",
-    "Renal transplant after 2 weeks of antibody negativity"
+    "Lifelong dialysis — transplantation is contraindicated"
    ],
-   "ans": 0,
+   "ans": 1,
    "exp": "Definitive treatment: renal transplant, performed after the antibody has been negative for 6 months. (Book p782)"
   },
   {
@@ -1210,12 +1210,12 @@
    "fmt": "scenario",
    "q": "A 22-year-old man with Alport syndrome received a renal transplant 6 months ago and now has haematuria, a rising creatinine and positive anti-GBM antibody. Which statement matches the book's note?",
    "opts": [
-    "The α3 chain defect of Alport syndrome gives a 5% chance of post-transplant Goodpasture syndrome",
     "This is expected recurrence of Alport syndrome in 50% of grafts",
     "Anti-GBM disease cannot occur after transplantation",
-    "This indicates a de-novo membranous nephropathy"
+    "This indicates a de-novo membranous nephropathy",
+    "The α3 chain defect of Alport syndrome gives a 5% chance of post-transplant Goodpasture syndrome"
    ],
-   "ans": 0,
+   "ans": 3,
    "exp": "Note: in Alport syndrome, due to the α3 (collagen) defect there is a 5% chance of Goodpasture syndrome after renal transplant — unlike Goodpasture syndrome itself, which does not recur post-transplant. (Book p782)"
   },
   {
@@ -1225,12 +1225,12 @@
    "fmt": "fillup",
    "q": "Fill up: In Alport syndrome, the post-transplant risk of Goodpasture syndrome is ______%.",
    "opts": [
-    "5",
-    "50",
     "25",
-    "1"
+    "1",
+    "5",
+    "50"
    ],
-   "ans": 0,
+   "ans": 2,
    "exp": "Alport syndrome carries a 5% chance of Goodpasture syndrome after renal transplant because of the α3 chain defect. (Book p782)"
   }
  ],

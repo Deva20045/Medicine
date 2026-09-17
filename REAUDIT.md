@@ -162,3 +162,59 @@ every unit — no unit is pure recall.
 5. Distractors carry the same amount of clinical detail as the answer, so length
    gives nothing away (verified by the audit above).
 6. Every explanation teaches the point and ends with the exact `(Book pX)`.
+
+---
+
+# Second-pass audit (answer-position and option-quality sweep)
+
+The first re-audit fixed *content* (thin page-summaries → 582 exam-grade items).
+A second pass then re-read **all 30 pages again** and checked every item against
+its page image, and audited the *item-writing* itself. Result: **zero content
+errors** (all 582 items were faithful to p775–p804), but four structural
+defects were found and fixed.
+
+| Defect found in the second pass | How many | Fix |
+|---|---|---|
+| Shallow "Both A / Both B" or 2-row match option sets whose distractors gave the answer away | **55 items** | Rewritten as 3-row matches with four real permutation keys, or as scenario / recall / fill-up items whose four options are all substantive medical statements |
+| Match stem with no keyed list and a mislabelled format | 1 item (MED-C18-008) | Format corrected to `recall` |
+| Item quizzing the printed page ("disease name printed beneath each figure") | 1 item (MED-C17-020) | Rewritten to test the pathology of the two histology panels |
+| Redundant item whose content duplicates a neighbouring item | 1 item (MED-C17-043) | Deleted; its content folded into the rewritten MED-C17-042 |
+
+Two further improvements were made at the **build** level:
+
+1. **Answer-position bias removed.** Every item had been authored with the
+   correct option at index 0 (the app shuffles at runtime, but the stored data
+   was biased and any export/PDF would have inherited it). `author.py` now
+   rotates each item's options deterministically (seeded by the stable question
+   id), giving Ch 13–18 a spread of **A 156 / B 132 / C 157 / D 136**.
+2. **Match-key diversification.** 119 match items had the correct option text
+   identical ("1-A, 2-B, 3-C"). A build step (later folded into the same sweep)
+   permutes each item's key list — still printed A) B) C) in order — so the
+   correct permutation differs from item to item; shallow 2-row matches = **0**.
+
+The book's own internal contradiction on C3 in PIGN/IRGN (p775 table prints
+"↑C3 in 60%", p777 text prints "Serum C3: low (60% patients)") is now explicitly
+taught in two items (MED-C13-013, MED-C13-059) so a learner is not misled by
+either page.
+
+### Verification after the second pass
+
+```
+python author.py 13..18     → 581 questions rebuilt from the page-anchored parts
+python build_content.py     → 1370 questions, 136 units, 18 live chapters embedded
+python check_integrity.py   → PASS (IDs, 4 options, citations, book order,
+                              per-page coverage, no length-giveaway, JS syntax)
+node check_app_smoke.js     → PASS (74-row roadmap, ch 13–18 paths, quiz starts)
+python audit_variety.py     → AUDIT.md
+```
+
+Ch 13–18 now hold **581 questions** (Ch 17: 53 → 52), every one of the 30 book
+pages p775–804 is cited, filler distractors remain 0.0%, and the longest-option
+signal is 13–27% per chapter (chance 25%).
+
+### Tools added
+
+| File | Purpose |
+|---|---|
+| `fix_audit2.py` | Applies the 55 item rewrites, 1 relabel and 1 deletion to `data/parts/c13…c18` |
+| `diversify_keys.py` | Permutes match key lists so correct-option key strings differ between items |

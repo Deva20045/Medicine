@@ -4,39 +4,39 @@
  "items": [
   {
    "fmt": "match",
-   "q": "Match the onset and oedema of the two syndromes — 1) Nephrotic syndrome  2) Nephritic syndrome … A) Abrupt onset with intravascular (++) oedema  B) Insidious onset with extravascular (+++) oedema",
+   "q": "Match the onset and oedema of the nephrotic versus nephritic table — 1) Nephrotic onset  2) Nephritic onset  3) Nephrotic oedema compartment … A) Extravascular (+++)  B) Insidious  C) Abrupt",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both A",
-    "Both B"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Onset/oedema: nephrotic = insidious with extravascular (+++) oedema; nephritic = abrupt with intravascular (++) oedema. (Book p777)"
+   "exp": "Table rows: onset is insidious in nephrotic and abrupt in nephritic syndrome; nephrotic oedema is extravascular (+++) whereas nephritic oedema is intravascular (++). (Book p777)"
   },
   {
    "fmt": "match",
-   "q": "Match the BP and JVP of the two syndromes — 1) Nephrotic syndrome  2) Nephritic syndrome … A) BP high, JVP raised  B) BP normal, JVP normal",
+   "q": "Match the BP and JVP entries of the nephrotic versus nephritic table — 1) Nephrotic BP  2) Nephritic BP  3) Nephritic JVP … A) Raised  B) Normal  C) High",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both A",
-    "Both B"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Nephrotic syndrome: BP normal, JVP normal. Nephritic syndrome: BP high, JVP raised. (Book p777)"
+   "exp": "In the table, nephrotic syndrome has a normal BP and normal JVP, while nephritic syndrome has a high BP with a raised JVP (intravascular volume expansion). (Book p777)"
   },
   {
-   "fmt": "match",
-   "q": "Match the urine findings of the two syndromes — 1) Nephrotic syndrome  2) Nephritic syndrome … A) Proteinuria more, haematuria less, RBC casts absent  B) Proteinuria less, haematuria more, RBC casts present",
+   "fmt": "recall",
+   "q": "Regarding proteinuria, haematuria and casts in the nephrotic versus nephritic table, which statement is correct?",
    "opts": [
-    "1-A, 2-B",
-    "1-B, 2-A",
-    "Both B",
-    "Both A"
+    "Proteinuria is greater and haematuria less in nephrotic syndrome, with RBC casts absent",
+    "Proteinuria and haematuria are both greater in nephrotic syndrome, with RBC casts present",
+    "Proteinuria is less in nephrotic syndrome, but RBC casts are still present",
+    "Haematuria is greater in nephrotic syndrome while RBC casts are absent"
    ],
    "ans": 0,
-   "exp": "Nephrotic: proteinuria more, haematuria less, RBC casts absent. Nephritic: proteinuria less, haematuria more, RBC casts present. (Book p777)"
+   "exp": "Table: proteinuria more, haematuria less and RBC casts absent in nephrotic syndrome; proteinuria less, haematuria more and RBC casts present in nephritic syndrome. (Book p777)"
   },
   {
    "fmt": "scenario",

@@ -4,24 +4,24 @@
  "items": [
   {
    "fmt": "match",
-   "q": "Match the CRS type with its name — 1) Type 1  2) Type 2  3) Type 3  4) Type 4  5) Type 5 … A) Chronic renocardiac  B) Acute cardiorenal  C) Secondary  D) Chronic cardiorenal  E) Acute renocardiac",
+   "q": "Match the CRS type with its name — 1) Type 1  2) Type 2  3) Type 3  4) Type 4  5) Type 5 … A) Acute renocardiac  B) Chronic renocardiac  C) Acute cardiorenal  D) Chronic cardiorenal  E) Secondary",
    "opts": [
-    "1-B, 2-D, 3-E, 4-A, 5-C",
-    "1-D, 2-B, 3-E, 4-A, 5-C",
-    "1-B, 2-D, 3-A, 4-E, 5-C",
-    "1-C, 2-D, 3-E, 4-A, 5-B"
+    "1-C, 2-D, 3-A, 4-B, 5-E",
+    "1-D, 2-C, 3-A, 4-B, 5-E",
+    "1-C, 2-D, 3-B, 4-A, 5-E",
+    "1-E, 2-D, 3-A, 4-B, 5-C"
    ],
    "ans": 0,
    "exp": "CRS types: 1 — acute cardiorenal; 2 — chronic cardiorenal; 3 — acute renocardiac; 4 — chronic renocardiac; 5 — secondary. (Book p804)"
   },
   {
    "fmt": "match",
-   "q": "Match the CRS type with its description — 1) Type 1  2) Type 2  3) Type 3  4) Type 4  5) Type 5 … A) AKI leading to acute cardiac dysfunction  B) Chronic heart failure leading to renal dysfunction  C) Systemic condition causing cardiac and renal dysfunction  D) Chronic renal failure leading to cardiac dysfunction  E) Acute cardiac dysfunction leading to AKI",
+   "q": "Match the CRS type with its description — 1) Type 1  2) Type 2  3) Type 3  4) Type 4  5) Type 5 … A) Acute cardiac dysfunction leading to AKI  B) Chronic renal failure leading to cardiac dysfunction  C) AKI leading to acute cardiac dysfunction  D) Chronic heart failure leading to renal dysfunction  E) Systemic condition causing cardiac and renal dysfunction",
    "opts": [
-    "1-E, 2-B, 3-A, 4-D, 5-C",
-    "1-A, 2-B, 3-E, 4-D, 5-C",
-    "1-E, 2-D, 3-A, 4-B, 5-C",
-    "1-B, 2-E, 3-A, 4-D, 5-C"
+    "1-A, 2-D, 3-C, 4-B, 5-E",
+    "1-C, 2-D, 3-A, 4-B, 5-E",
+    "1-A, 2-B, 3-C, 4-D, 5-E",
+    "1-D, 2-A, 3-C, 4-B, 5-E"
    ],
    "ans": 0,
    "exp": "Descriptions: type 1 — acute cardiac dysfunction leading to AKI; type 2 — chronic heart failure leading to renal dysfunction; type 3 — AKI leading to acute cardiac dysfunction; type 4 — chronic renal failure leading to cardiac dysfunction; type 5 — systemic condition causing cardiac and renal dysfunction. (Book p804)"
@@ -76,12 +76,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the note on acute cortical necrosis — 1) Causes  2) Definition  3) Consequence … A) Urine output failing to recover  B) Snake bite, placental abruption, pancreatitis  C) Can progress to CKD",
+   "q": "Match the note on acute cortical necrosis — 1) Causes  2) Definition  3) Consequence … A) Urine output failing to recover  B) Can progress to CKD  C) Snake bite, placental abruption, pancreatitis",
    "opts": [
-    "1-B, 2-A, 3-C",
     "1-C, 2-A, 3-B",
-    "1-B, 2-C, 3-A",
-    "1-A, 2-B, 3-C"
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
    "exp": "Note: snake bite, placental abruption and pancreatitis cause acute cortical necrosis (urine output failing to recover), which can progress to CKD. (Book p804)"

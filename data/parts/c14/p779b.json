@@ -16,12 +16,12 @@
   },
   {
    "fmt": "match",
-   "q": "Arrange the correct sequence when the serum creatinine is very high — 1) First step  2) Then  3) If the value decreases … A) Recheck serum creatinine  B) Dialysis  C) Biopsy",
+   "q": "Arrange the correct sequence when the serum creatinine is very high — 1) First step  2) Then  3) If the value decreases … A) Dialysis  B) Biopsy  C) Recheck serum creatinine",
    "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
     "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
-    "1-C, 2-B, 3-A",
-    "1-B, 2-C, 3-A"
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
    "exp": "When the creatinine is very high: first step dialysis → recheck serum creatinine → if the value decreases, proceed to biopsy. (Book p779)"

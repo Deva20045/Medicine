@@ -16,39 +16,39 @@
   },
   {
    "fmt": "match",
-   "q": "Match each MSK treatment with the abnormality it corrects — 1) Potassium citrate  2) Increased fluid intake … A) Hypocitraturia  B) Hypercalciuria",
+   "q": "Match each medullary sponge kidney treatment with the abnormality it corrects — 1) Potassium citrate  2) Increased fluid intake  3) The aim of both measures … A) Prevention of recurrent stones  B) Hypocitraturia  C) Hypercalciuria",
    "opts": [
-    "1-A, 2-B",
-    "1-B, 2-A",
-    "Both treat hyperuricaemia",
-    "Both treat cyst infection"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "MSK treatment: hypercalciuria and hypocitraturia are treated with potassium citrate and increased fluid intake. (Book p792)"
+   "exp": "Treatment of MSK: potassium citrate for hypocitraturia and increased fluid intake for hypercalciuria, together preventing recurrent stone formation. (Book p792)"
   },
   {
    "fmt": "match",
-   "q": "Match each cause of medullary nephrocalcinosis — 1) Distal RTA  2) Bartter syndrome  3) Sarcoid  4) MSK … A) MSK  B) Distal RTA  C) Bartter syndrome  D) Sarcoid",
+   "q": "Match each cause of medullary nephrocalcinosis — 1) Distal RTA  2) Bartter syndrome  3) Sarcoid  4) MSK … A) Sarcoid  B) Bartter syndrome  C) Distal RTA  D) MSK",
    "opts": [
-    "1-B, 2-C, 3-D, 4-A",
-    "1-A, 2-B, 3-C, 4-D",
     "1-C, 2-B, 3-A, 4-D",
-    "1-D, 2-C, 3-B, 4-A"
+    "1-D, 2-C, 3-B, 4-A",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-A, 2-B, 3-C, 4-D"
    ],
    "ans": 0,
    "exp": "Causes of medullary nephrocalcinosis: distal RTA, Bartter syndrome, sarcoid, MSK, and conditions with hypercalciuria. (Book p792)"
   },
   {
    "fmt": "match",
-   "q": "Match the causes of cortical nephrocalcinosis — 1) Infection  2) Transplant … A) Chronic graft rejection  B) Tuberculosis",
+   "q": "Match each type of nephrocalcinosis with its causes — 1) Medullary  2) Cortical  3) Both medullary and cortical … A) Oxalosis  B) Distal RTA, Bartter syndrome, sarcoid, MSK and conditions with hypercalciuria  C) Tuberculosis and chronic graft rejection",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both cause medullary nephrocalcinosis",
-    "Both are causes of oxalosis"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Causes of cortical nephrocalcinosis: tuberculosis and chronic graft rejection. (Book p792)"
+   "exp": "Medullary nephrocalcinosis: distal RTA, Bartter syndrome, sarcoid, MSK and hypercalciuric conditions. Cortical nephrocalcinosis: TB and chronic graft rejection. Oxalosis causes both. (Book p792)"
   },
   {
    "fmt": "scenario",

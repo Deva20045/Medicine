@@ -27,16 +27,16 @@
    "exp": "PIGN/IRGN biopsy: IgA-predominant ± C3, or C3-predominant deposits showing a garland/rope pattern. (Book p777)"
   },
   {
-   "fmt": "match",
-   "q": "Match the entity with its serum C3 finding — 1) PSGN  2) PIGN/IRGN … A) ↓C3 in 60%  B) ↓C3 in 90%",
+   "fmt": "scenario",
+   "q": "A 5-year-old with post-streptococcal GN has C3 measured at presentation, and his cousin with MRSA-related infection-associated GN is also tested. The expected results are:",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both A",
-    "Both B"
+    "↓C3 in 90% of PSGN versus ↓C3 in 60% of PIGN/IRGN (the p775 table printing ↑C3 in 60% for PIGN)",
+    "↓C3 in 60% of PSGN versus ↓C3 in 90% of PIGN/IRGN",
+    "Normal C3 in both conditions, since C3 falls only in RPGN",
+    "↑C3 in 90% of PSGN versus ↓C3 in 60% of PIGN/IRGN"
    ],
    "ans": 0,
-   "exp": "PSGN shows ↓C3 in 90% of patients; PIGN/IRGN shows ↓C3 in only 60%. (Book p777)"
+   "exp": "PSGN shows a low C3 in 90% of patients; for PIGN/IRGN the text states a low C3 in 60% of patients, while the p775 table prints '↑C3 (in 60%)' — learn both printings and note the discrepancy. (Book p777)"
   },
   {
    "fmt": "scenario",

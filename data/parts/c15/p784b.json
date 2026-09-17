@@ -16,12 +16,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match each Fabry feature with its description — 1) Angiokeratoma  2) Accumulation in vessels  3) Renal involvement … A) Heart, cerebrovascular and cornea verticillata  B) Appears in the 2nd decade  C) Asymptomatic microhaematuria + proteinuria, the earliest, with ESRD by the 4th–5th decade",
+   "q": "Match each Fabry feature with its description — 1) Angiokeratoma  2) Accumulation in vessels  3) Renal involvement … A) Appears in the 2nd decade  B) Asymptomatic microhaematuria + proteinuria, the earliest, with ESRD by the 4th–5th decade  C) Heart, cerebrovascular and cornea verticillata",
    "opts": [
-    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
     "1-A, 2-B, 3-C",
-    "1-B, 2-C, 3-A",
-    "1-C, 2-A, 3-B"
+    "1-B, 2-C, 3-A"
    ],
    "ans": 0,
    "exp": "Fabry features: acroparesthesia; angiokeratoma (2nd decade); accumulation in vessels of heart, cerebrovascular system and cornea verticillata; renal — asymptomatic microhaematuria + proteinuria (earliest) with ESRD by the 4th–5th decade. (Book p784)"
@@ -88,15 +88,15 @@
   },
   {
    "fmt": "match",
-   "q": "Match each Fabry investigation with its finding — 1) Urine  2) Renal biopsy … A) Vacuolation of podocytes  B) Maltese cross deposits under polarised light",
+   "q": "Match each Fabry disease finding with its investigation — 1) Maltese cross deposits  2) Vacuolation of podocytes  3) Angiokeratoma in the 2nd decade … A) Skin examination  B) Renal biopsy  C) Urine under polarised light",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both show cryoglobulins",
-    "Both are normal"
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
-   "exp": "Fabry disease: urine shows maltese cross deposits under polarised light; renal biopsy shows vacuolation of podocytes (figure 'Fabry's disease'). (Book p784)"
+   "exp": "Fabry investigations: maltese cross lipid deposits in urine under polarised light and vacuolation of podocytes on renal biopsy; angiokeratoma appears in the 2nd decade. (Book p784)"
   },
   {
    "fmt": "fillup",

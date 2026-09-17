@@ -3,28 +3,16 @@
  "sec": "CKDu theories flowchart, epidemiology & clinical features · p795",
  "items": [
   {
-   "fmt": "match",
-   "q": "Match each proposed CKDu factor with its place in the flowchart — 1) Heat stress  2) Agrochemicals  3) Fluoride in ground water … A) All arrow into CKDu interstitial fibrosis  B) None relates to CKDu",
+   "fmt": "recall",
+   "q": "In the CKDu theories flowchart, which set of factors is shown converging on 'CKDu interstitial fibrosis and tubular atrophy'?",
    "opts": [
-    "All three are proposed contributors to CKDu",
-    "Only heat stress contributes, the others being unrelated",
-    "Only agrochemicals contribute to the fibrosis and tubular atrophy",
-    "None of these three factors appears in the CKDu flowchart"
+    "Heat stress, agrochemicals, fluoride in ground water, heavy metals such as cadmium, and communicable disease",
+    "Diabetes, hypertension, obesity, smoking and dyslipidaemia",
+    "Heat stress, NSAIDs, lithium, contrast and aminoglycosides",
+    "Agrochemicals, fluoride, uric acid, lead and multiple myeloma"
    ],
    "ans": 0,
-   "exp": "Proposed theories for CKDu (→ interstitial fibrosis & tubular atrophy): heat stress, agrochemicals and fluoride in ground water, with heavy metals (cadmium) and communicable disease from the right. (Book p795)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the right-sided contributors to CKDu — 1) Heavy metals  2) Communicable disease … A) Example given is cadmium  B) Also listed as a proposed factor",
-   "opts": [
-    "1-A, 2-B",
-    "1-B, 2-A",
-    "Both are protective factors",
-    "Neither is listed for CKDu"
-   ],
-   "ans": 0,
-   "exp": "CKDu flowchart right side: heavy metals — e.g. cadmium — and communicable disease. (Book p795)"
+   "exp": "The flowchart places heat stress above, agrochemicals and fluoride in ground water on the left, and heavy metals (e.g. cadmium) and communicable disease on the right, all converging on CKDu interstitial fibrosis and tubular atrophy with ESRD as the outcome. (Book p795)"
   },
   {
    "fmt": "scenario",
@@ -76,12 +64,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match each CKDu box finding — 1) Proteinuria  2) Tubular biomarkers  3) Outcome … A) Elevated  B) Absent/mild  C) ESRF",
+   "q": "Match each CKDu box finding — 1) Proteinuria  2) Tubular biomarkers  3) Outcome … A) ESRF  B) Absent/mild  C) Elevated",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
     "1-B, 2-C, 3-A",
-    "1-C, 2-A, 3-B"
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
    "exp": "CKDu box: absent/mild proteinuria, elevated tubular biomarkers, and progression to ESRF. (Book p795)"

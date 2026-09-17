@@ -146,6 +146,8 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 | `check_integrity.py` | Structural checks: counts, IDs, options, citations, order, source↔app equality, JS syntax |
 | `check_app_smoke.js` | Runtime DOM-shim test: full 74-row roadmap, live-ch paths, quiz start |
 | `audit_variety.py` | Format mix + predictability signals (length bias, hedging, fillers, template runs, option reuse) |
+| `fix_audit2.py` | Second-pass rewrites for Ch 13–18 (55 items replaced, 1 relabelled, 1 deleted) |
+| `diversify_keys.py` | Permutes match key lists so correct-option key strings differ between items |
 | `itemlab.py` | Add/edit questions in `data/` with renumbering + auto-rebuild (`map`, `flag`, `apply`, `stats`) |
 | `AUDIT.md` | Latest output of `audit_variety.py` |
 
@@ -165,21 +167,24 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 10 "Glomerular Disease - Patterns" (p756–761): 9 units, 60 questions — BUILT & VERIFIED**
 - [x] **Ch 11 "Podocytopathies" (p762–769): 8 units, 83 questions — BUILT & VERIFIED**
 - [x] **Ch 12 "MPGN and IgA Nephropathy" (p770–774): 6 units, 52 questions — BUILT & VERIFIED**
-- [x] **Ch 13 "Post Streptococcal Glomerulonephritis" (p775–777): 3 units, 73 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 13 "Post Streptococcal Glomerulonephritis" (p775–777): 3 units, 73 questions — RE-AUDITED ×2 (content + option quality)**
 - [x] **Ch 14 "RPGN and Pulmonary Renal Syndrome" (p778–782): 5 units, 82 questions — RE-AUDITED, rebuilt page-by-page**
 - [x] **Ch 15 "Familial Glomerular Syndromes" (p783–785): 4 units, 54 questions — RE-AUDITED, rebuilt page-by-page**
 - [x] **Ch 16 "Ciliopathies" (p786–792): 6 units, 139 questions — RE-AUDITED, rebuilt page-by-page**
-- [x] **Ch 17 "Chronic Tubulointerstitial Disease" (p793–795): 3 units, 53 questions — RE-AUDITED, rebuilt page-by-page**
-- [x] **Ch 18 "Acute Kidney Injury" (p796–804): 9 units, 181 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 17 "Chronic Tubulointerstitial Disease" (p793–795): 3 units, 52 questions — RE-AUDITED ×2 (content + option quality)**
+- [x] **Ch 18 "Acute Kidney Injury" (p796–804): 9 units, 181 questions — RE-AUDITED ×2 (content + option quality)**
 - [ ] Ch 19–74 (per pipeline above)
 
 ## NEXT
-**Ch 13–18 RE-AUDITED.** The first pass over these six chapters was too thin (112
+**Ch 13–18 RE-AUDITED TWICE.** Pass 1 replaced the too-thin first build (112
 questions, placeholder match stems, tables/figures/flowcharts unasked, length
-giveaways). They have been re-rendered page by page and re-authored from scratch:
-**582 questions** (was 112), every one of the 30 book pages p775–804 cited, and the
-length-bias signal down to chance level. See **`REAUDIT.md`** for the before → after
-report and the per-chapter coverage list.
+giveaways) with **582 page-anchored items** covering all 30 pages p775–804. Pass 2
+re-read every page again and checked every item: content was faithful, but 52 items
+still used shallow "Both A / Both B" or 2-row match option sets, one item quizzed
+the printed page, and every stored answer sat at option A. Those are fixed —
+**581 questions**, answer positions spread across A–D, **0** shallow 2-row matches,
+and the book's own C3 contradiction (p775 vs p777) now taught explicitly. See
+**`REAUDIT.md`** for both passes.
 
 ### Re-audit pipeline (used for Ch 13–18)
 1. `_render` every book page to PNG and zoom into each unclear line/table/arrow.

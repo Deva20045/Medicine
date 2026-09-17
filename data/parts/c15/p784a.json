@@ -4,15 +4,15 @@
  "items": [
   {
    "fmt": "match",
-   "q": "Match each Alport investigation with its finding — 1) Light microscopy and immunofluorescence  2) Electron microscopy … A) Splitting + lamellation of lamina densa with alternating thick and thin foci  B) Normal",
+   "q": "Match each Alport syndrome finding with the investigation that shows it — 1) Splitting and lamellation of the lamina densa  2) No immune deposits  3) Normal glomerular architecture on routine staining … A) Immunofluorescence  B) Light microscopy  C) Electron microscopy",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both abnormal with immune deposits",
-    "Both normal"
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
    ],
    "ans": 0,
-   "exp": "In Alport syndrome, LM and IF are normal, while EM shows splitting + lamellation of the lamina densa with alternating thick and thin foci (basket-weave appearance). (Book p784)"
+   "exp": "In Alport syndrome light microscopy and immunofluorescence are normal, the diagnosis resting on electron microscopy, which shows splitting and lamellation of the lamina densa with alternating thick and thin foci and a basket-weave appearance. (Book p784)"
   },
   {
    "fmt": "recall",
@@ -88,12 +88,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match thin GBM disease features with their descriptions — 1) Clinical features  2) Light microscopy and IF  3) Electron microscopy … A) Normal  B) Microscopic haematuria (<5 years) with good prognosis  C) Uniformly thin (<200–300 nm)",
+   "q": "Match thin GBM disease features with their descriptions — 1) Clinical features  2) Light microscopy and IF  3) Electron microscopy … A) Uniformly thin (<200–300 nm)  B) Normal  C) Microscopic haematuria (<5 years) with good prognosis",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
     "1-B, 2-C, 3-A",
-    "1-C, 2-A, 3-B"
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
    "exp": "Thin GBM disease: microscopic haematuria (<5 years) with good prognosis; LM and IF normal; EM shows a uniformly thin GBM (<200–300 nm). (Book p784)"

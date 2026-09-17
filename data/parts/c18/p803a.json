@@ -28,15 +28,15 @@
   },
   {
    "fmt": "match",
-   "q": "Complete the aetiology of contrast-induced AKI — 1) Primary mechanism  2) Secondary mechanism … A) Tubular injury (beside medullary hypoxia)  B) Medullary hypoxia",
+   "q": "Complete the aetiology of contrast-induced AKI — 1) Primary mechanism  2) Secondary mechanism  3) Histology … A) Medullary hypoxia  B) Vacuolar degeneration  C) Tubular injury beside the medullary hypoxia",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both are immune complex deposition",
-    "Both are cortical necrosis"
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
    ],
    "ans": 0,
-   "exp": "Aetiology: medullary hypoxia >>> tubular injury (beside medullary hypoxia). (Book p803)"
+   "exp": "Contrast-induced AKI: medullary hypoxia is written as the primary mechanism (>>>) with tubular injury beside it, and the histology figure shows vacuolar degeneration. (Book p803)"
   },
   {
    "fmt": "numeric",
@@ -52,12 +52,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the creatinine timeline of contrast-induced AKI — 1) Rise  2) Peak  3) Normal … A) 3–5 days  B) 7–10 days  C) 24–48 hours",
+   "q": "Match the creatinine timeline of contrast-induced AKI — 1) Rise  2) Peak  3) Normal … A) 7–10 days  B) 3–5 days  C) 24–48 hours",
    "opts": [
-    "1-C, 2-A, 3-B",
-    "1-A, 2-C, 3-B",
     "1-C, 2-B, 3-A",
-    "1-B, 2-A, 3-C"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
    "exp": "Contrast-induced AKI: creatinine ↑ in 24–48 hours, peaks at 3–5 days, normal in 7–10 days. (Book p803)"

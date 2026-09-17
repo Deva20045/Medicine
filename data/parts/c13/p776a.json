@@ -4,12 +4,12 @@
  "items": [
   {
    "fmt": "match",
-   "q": "Complete the pathogenesis flowchart of hypertension and pulmonary oedema in PSGN — 1) NAPlr + plasmin  2) ENaC  3) Na⁺ and H₂O retention … A) Epithelial sodium channel that is activated  B) End result: hypertension and pulmonary oedema  C) Activates the channel",
+   "q": "Complete the pathogenesis flowchart of hypertension and pulmonary oedema in PSGN — 1) NAPlr + plasmin  2) ENaC  3) Na⁺ and H₂O retention … A) Activates the channel  B) End result: hypertension and pulmonary oedema  C) Epithelial sodium channel that is activated",
    "opts": [
-    "1-C, 2-A, 3-B",
     "1-A, 2-C, 3-B",
-    "1-C, 2-B, 3-A",
-    "1-B, 2-A, 3-C"
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
    ],
    "ans": 0,
    "exp": "Flowchart: NAPlr + plasmin → activates ENaC (epithelial Na⁺ channel) → retention of Na⁺ and H₂O → hypertension and pulmonary oedema. (Book p776)"
@@ -124,12 +124,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the immunopathology with its PSGN phase — 1) Clinical phase on immunofluorescence  2) Recovery phase on immunofluorescence  3) Electron microscopy … A) Subepithelial camel-hump deposits  B) Granular IgG ± C3 in capillary walls > mesangium  C) Only C3 in the mesangium",
+   "q": "Match the immunopathology with its PSGN phase — 1) Clinical phase on immunofluorescence  2) Recovery phase on immunofluorescence  3) Electron microscopy … A) Subepithelial camel-hump deposits  B) Only C3 in the mesangium  C) Granular IgG ± C3 in capillary walls > mesangium",
    "opts": [
-    "1-B, 2-C, 3-A",
     "1-C, 2-B, 3-A",
-    "1-B, 2-A, 3-C",
-    "1-A, 2-C, 3-B"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
    "exp": "IF: clinical phase = granular IgG ± C3 in capillary walls more than mesangium (starry sky); recovery phase = only C3 (mesangial). EM: subepithelial camel-hump (lumpy bumpy) deposits. (Book p776)"

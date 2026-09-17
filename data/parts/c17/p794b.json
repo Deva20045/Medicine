@@ -28,12 +28,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match each CTID investigation with its finding — 1) Urine protein  2) Urinary sediment  3) RFT  4) USG … A) B/L small kidneys  B) <2 g/day with β₂ microglobulin  C) Deranged  D) Inactive",
+   "q": "Match each CTID investigation with its finding — 1) Urine protein  2) Urinary sediment  3) RFT  4) USG … A) Inactive  B) B/L small kidneys  C) <2 g/day with β₂ microglobulin  D) Deranged",
    "opts": [
-    "1-B, 2-D, 3-C, 4-A",
-    "1-C, 2-D, 3-B, 4-A",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-D, 2-B, 3-C, 4-A"
+    "1-C, 2-A, 3-D, 4-B",
+    "1-D, 2-A, 3-C, 4-B",
+    "1-C, 2-B, 3-D, 4-A",
+    "1-A, 2-C, 3-D, 4-B"
    ],
    "ans": 0,
    "exp": "CTID investigations: urine — proteinuria <2 g/day (β₂ microglobulin) with inactive sediments; RFT deranged; USG — bilateral small kidneys. (Book p794)"

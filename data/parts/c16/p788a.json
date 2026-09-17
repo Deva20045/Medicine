@@ -28,12 +28,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match each ADPKD investigation with its purpose — 1) MRI  2) CT scan and CT urography  3) FDG PET scan … A) To find the source of infection (cyst infection)  B) To evaluate risk for ESRD  C) Renal stones",
+   "q": "Match each ADPKD investigation with its purpose — 1) MRI  2) CT scan and CT urography  3) FDG PET scan … A) To evaluate risk for ESRD  B) Renal stones  C) To find the source of infection (cyst infection)",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C",
     "1-B, 2-A, 3-C",
-    "1-A, 2-C, 3-B"
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
    "exp": "MRI evaluates risk for ESRD; CT scan and CT urography evaluate renal stones; FDG PET scan finds the source of infection in cyst infection. (Book p788)"
@@ -100,15 +100,15 @@
   },
   {
    "fmt": "match",
-   "q": "Match the drug category with the agent — 1) DOC for cyst growth  2) Novel therapies … A) Somatostatin analogues, everolimus  B) Tolvaptan",
+   "q": "Match each ADPKD therapy with its role — 1) Tolvaptan  2) Everolimus and somatostatin analogues  3) ACE inhibitor or ARB … A) Tight BP control  B) Oral V2 antagonist, 15 mg at night with LFT monitoring  C) Novel therapies",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both are ACE inhibitors",
-    "Both are ARBs"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Tolvaptan is the DOC; novel therapies are somatostatin analogues and everolimus. (Book p788)"
+   "exp": "Treatment: tolvaptan (oral V2 antagonist, 15 mg at night, monitor LFT) is the DOC for cyst growth; somatostatin analogues and everolimus are novel therapies; tight BP control (SBP 95-110/DBP 60-75 mmHg) uses an ACE inhibitor or ARB. (Book p788)"
   },
   {
    "fmt": "numeric",

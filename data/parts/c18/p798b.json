@@ -4,12 +4,12 @@
  "items": [
   {
    "fmt": "match",
-   "q": "Match the urine output and albumin in the pre-renal vs ATN table — 1) Pre-renal AKI urine output  2) Pre-renal urine albumin  3) ATN urine albumin … A) ↓  B) Normal  C) 1+  D) (–) absent",
+   "q": "Match the urine output and albumin in the pre-renal vs ATN table — 1) Pre-renal AKI urine output  2) Pre-renal urine albumin  3) ATN urine albumin … A) (–) absent  B) ↓  C) Normal  D) 1+",
    "opts": [
-    "1-B, 2-D, 3-C",
-    "1-A, 2-D, 3-C",
-    "1-B, 2-C, 3-D",
-    "1-A, 2-C, 3-D"
+    "1-C, 2-A, 3-D",
+    "1-B, 2-A, 3-D",
+    "1-C, 2-D, 3-A",
+    "1-B, 2-D, 3-A"
    ],
    "ans": 0,
    "exp": "Table: pre-renal — urine output normal, urine albumin absent (–); ATN — urine output ↓, urine albumin 1+. (Book p798)"
@@ -52,12 +52,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match urine creatinine and FeNa in the table — 1) Pre-renal urine creatinine  2) ATN urine creatinine  3) Pre-renal FeNa  4) ATN FeNa … A) >40  B) <20  C) <1%  D) >2%",
+   "q": "Match urine creatinine and FeNa in the table — 1) Pre-renal urine creatinine  2) ATN urine creatinine  3) Pre-renal FeNa  4) ATN FeNa … A) <1%  B) <20  C) >2%  D) >40",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-B, 3-D, 4-C",
-    "1-C, 2-D, 3-A, 4-B"
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-D, 2-B, 3-C, 4-A",
+    "1-A, 2-C, 3-D, 4-B"
    ],
    "ans": 0,
    "exp": "Table: urine creatinine >40 (pre-renal) versus <20 (ATN); FeNa <1% (pre-renal) versus >2% (ATN) — FeNa being marked as the best parameter. (Book p798)"
@@ -76,12 +76,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match urine osmolality, specific gravity and pH — 1) Pre-renal urine osmolality  2) ATN urine specific gravity  3) ATN urine pH … A) Normal  B) ↓  C) ↑",
+   "q": "Match urine osmolality, specific gravity and pH — 1) Pre-renal urine osmolality  2) ATN urine specific gravity  3) ATN urine pH … A) ↑  B) Normal  C) ↓",
    "opts": [
-    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
     "1-B, 2-A, 3-C",
-    "1-A, 2-C, 3-B",
-    "1-C, 2-B, 3-A"
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
    "exp": "Table: pre-renal — urine osmolality normal, specific gravity normal, pH normal; ATN — osmolality ↓, specific gravity ↓, pH ↑. (Book p798)"
@@ -135,16 +135,16 @@
    "exp": "↓FeNa in pre-renal failure occurs because Na⁺ reabsorption is increased (↓u.Na) and creatinine secretion is increased (↑u.Creatinine). (Book p798)"
   },
   {
-   "fmt": "match",
-   "q": "Match the three ATN conditions with FeNa <1% — 1) NSAIDs  2) Rhabdomyolysis  3) Contrast AKI … A) All three can show FeNa <1% because the pre-renal component predominates",
+   "fmt": "recall",
+   "q": "In which conditions can ATN show a FeNa below 1% because a pre-renal component predominates?",
    "opts": [
-    "All three are listed as ATN with FeNa <1%",
-    "Only NSAIDs can show FeNa <1%",
-    "Only contrast AKI can show FeNa <1%",
-    "None of them can show FeNa <1%"
+    "NSAIDs, rhabdomyolysis and contrast-induced AKI",
+    "Aminoglycosides, cisplatin and vancomycin",
+    "Ethylene glycol, salicylates and acyclovir",
+    "Sepsis, urinary obstruction and acute interstitial nephritis"
    ],
    "ans": 0,
-   "exp": "ATN with FeNa <1%: NSAIDs, rhabdomyolysis and contrast AKI — the pre-renal component is predominant in these. (Book p798)"
+   "exp": "ATN with FeNa <1: NSAIDs, rhabdomyolysis and contrast AKI, grouped because the pre-renal component is predominant. (Book p798)"
   },
   {
    "fmt": "oddoneout",

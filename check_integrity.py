@@ -36,7 +36,7 @@ LIVE_CHAPTERS = {
     14: ("RPGN and Pulmonary Renal Syndrome", 778, 782, 82, 5),
     15: ("Familial Glomerular Syndromes", 783, 785, 54, 4),
     16: ("Ciliopathies", 786, 792, 139, 6),
-    17: ("Chronic Tubulointerstitial Disease", 793, 795, 53, 3),
+    17: ("Chronic Tubulointerstitial Disease", 793, 795, 52, 3),
     18: ("Acute Kidney Injury", 796, 804, 181, 9),
 }
 

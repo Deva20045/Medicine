@@ -12,6 +12,7 @@ prints the resulting counts so check_integrity.py stays in sync.
 """
 from __future__ import annotations
 
+import hashlib
 import json
 import re
 import sys
@@ -75,6 +76,13 @@ def build(ch: int) -> None:
                 fail(f"{qid}: need 4 distinct non-empty options")
             if not 0 <= ans <= 3:
                 fail(f"{qid}: bad answer index")
+            # Anti-bias: items are authored with the correct option first for
+            # readable source files; rotate deterministically (seeded by the
+            # stable id) so the stored answer index is spread evenly across A-D.
+            shift = (int(hashlib.sha256(qid.encode()).hexdigest(), 16) % 4 - ans) % 4
+            if shift:
+                opts = opts[-shift:] + opts[:-shift]
+                ans = (ans + shift) % 4
             longest = max(len(o) for i, o in enumerate(opts) if i != ans)
             if len(opts[ans]) > max(longest, 1) * 3.0:
                 fail(f"{qid}: answer is {len(opts[ans]) / max(longest, 1):.1f}x the longest distractor")

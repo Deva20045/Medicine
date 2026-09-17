@@ -4,12 +4,12 @@
  "items": [
   {
    "fmt": "match",
-   "q": "Match the remaining extrarenal associations of ADPKD — 1) Cardiac valve  2) Aorta  3) Abdominal wall … A) Aortic root dilatation  B) Mitral valve prolapse  C) Inguinal hernia",
+   "q": "Match the remaining extrarenal associations of ADPKD — 1) Cardiac valve  2) Aorta  3) Abdominal wall … A) Aortic root dilatation  B) Inguinal hernia  C) Mitral valve prolapse",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
-    "1-B, 2-C, 3-A",
-    "1-C, 2-A, 3-B"
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
    ],
    "ans": 0,
    "exp": "Extrarenal associations continued: mitral valve prolapse (d), AR/aortic root dilatation (e), and abdominal wall/inguinal hernia (f). (Book p789)"
@@ -76,15 +76,15 @@
   },
   {
    "fmt": "match",
-   "q": "Complete the ARPKD flowchart showing which ducts are affected and the resulting lesions — 1) Collecting duct  2) Biliary duct … A) Congenital hepatic fibrosis/Caroli's syndrome/biliary ectasia  B) Medullary cyst",
+   "q": "Complete the ARPKD flowchart — 1) Collecting duct  2) Biliary duct  3) Gene on chromosome 6 … A) PKHD1 leading to the fibrocystin-polyductin complex  B) Congenital hepatic fibrosis/Caroli's syndrome/biliary ectasia  C) Medullary cyst",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both lead to medullary cysts",
-    "Both lead to hepatic fibrosis"
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
-   "exp": "ARPKD flowchart: defect of the fibrocystin-polyductin complex affects the cilia/centrosome complex, which is seen in the collecting duct (leading to medullary cyst) and biliary duct (leading to congenital hepatic fibrosis/Caroli's syndrome/biliary ectasia). (Book p789)"
+   "exp": "ARPKD flowchart: PKHD1 on chromosome 6 forms the fibrocystin-polyductin complex; a defect affecting the cilia/centrosome complex produces medullary cysts in the collecting duct and congenital hepatic fibrosis/Caroli's syndrome/biliary ectasia in the biliary duct. (Book p789)"
   },
   {
    "fmt": "scenario",
@@ -124,12 +124,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the ARPKD complication with the age of death and its cause — 1) Pulmonary hypoplasia  2) Portal hypertension (Caroli syndrome)  3) ESRD … A) Very rare; renal failure  B) 30% die at adolescence  C) 70% die within 1 year",
+   "q": "Match the ARPKD complication with the age of death and its cause — 1) Pulmonary hypoplasia  2) Portal hypertension (Caroli syndrome)  3) ESRD … A) 30% die at adolescence  B) Very rare; renal failure  C) 70% die within 1 year",
    "opts": [
-    "1-C, 2-B, 3-A",
-    "1-B, 2-C, 3-A",
     "1-C, 2-A, 3-B",
-    "1-A, 2-B, 3-C"
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
    ],
    "ans": 0,
    "exp": "ARPKD complications: pulmonary hypoplasia — 70% die within 1 year (major cause of death at birth); portal hypertension from Caroli syndrome — remaining 30% die at adolescence; ESRD is very rare but causes renal failure. (Book p789)"

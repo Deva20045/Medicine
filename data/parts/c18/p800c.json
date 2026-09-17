@@ -16,15 +16,15 @@
   },
   {
    "fmt": "match",
-   "q": "Match each serum lactate level with its interpretation — 1) >1 mmol/L  2) >4 mmol/L … A) Severe sepsis  B) Organ hypoperfusion",
+   "q": "Match each sepsis-AKI parameter with its interpretation — 1) S. lactate >1 mmol/L  2) S. lactate >4 mmol/L  3) IVC diameter 2-2.5 cm … A) Normal value, determining the amount of fluid required  B) Organ hypoperfusion  C) Severe sepsis",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both indicate severe sepsis",
-    "Both indicate normal perfusion"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Serum lactate: >1 mmol/L indicates organ hypoperfusion; >4 mmol/L indicates severe sepsis. (Book p800)"
+   "exp": "Investigations in sepsis-AKI: an IVC diameter of 2-2.5 cm is normal and determines the fluid requirement; lactate >1 mmol/L indicates organ hypoperfusion and >4 mmol/L severe sepsis. (Book p800)"
   },
   {
    "fmt": "numeric",
@@ -52,12 +52,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match each sepsis investigation with its purpose — 1) IVC diameter  2) S. Lactate  3) Passive leg raising test … A) Test for fluid responsiveness (obsolete)  B) Determines amount of fluid required  C) Assesses organ hypoperfusion/severe sepsis",
+   "q": "Match each sepsis investigation with its purpose — 1) IVC diameter  2) S. Lactate  3) Passive leg raising test … A) Assesses organ hypoperfusion/severe sepsis  B) Determines amount of fluid required  C) Test for fluid responsiveness (obsolete)",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-C, 2-B, 3-A",
     "1-B, 2-A, 3-C",
-    "1-A, 2-C, 3-B"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
    ],
    "ans": 0,
    "exp": "Sepsis investigations: IVC diameter (normal 2–2.5 cm) determines the amount of fluid required; serum lactate >1 mmol/L = organ hypoperfusion and >4 mmol/L = severe sepsis; PLR tests fluid responsiveness (obsolete). (Book p800)"

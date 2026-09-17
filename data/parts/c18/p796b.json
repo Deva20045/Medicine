@@ -16,12 +16,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match each pre-renal cause with its category — 1) Hemorrhage/blood loss  2) Cirrhosis  3) Cardiorenal syndrome  4) Sepsis … A) Widespread systemic vasodilation  B) ↓Cardiac output  C) Intravascular volume depletion  D) Reduced effective intravascular volume",
+   "q": "Match each pre-renal cause with its category — 1) Hemorrhage/blood loss  2) Cirrhosis  3) Cardiorenal syndrome  4) Sepsis … A) ↓Cardiac output  B) Widespread systemic vasodilation  C) Reduced effective intravascular volume  D) Intravascular volume depletion",
    "opts": [
-    "1-C, 2-D, 3-B, 4-A",
-    "1-D, 2-C, 3-B, 4-A",
-    "1-C, 2-B, 3-D, 4-A",
-    "1-A, 2-C, 3-B, 4-D"
+    "1-D, 2-C, 3-A, 4-B",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-C, 4-B",
+    "1-B, 2-D, 3-A, 4-C"
    ],
    "ans": 0,
    "exp": "Pre-renal causes: intravascular volume depletion (haemorrhage, upper GI bleeding, vomiting/diarrhoea, NG loss, diuretic overuse, diabetes insipidus); reduced effective intravascular volume (cirrhosis, cardiac failure, hypoalbuminemia/nephrotic syndrome, third-space sequestration); ↓cardiac output (cardiorenal syndrome); systemic vasodilation (sepsis). (Book p796)"
@@ -51,16 +51,16 @@
    "exp": "Pre-renal AKI group 2: reduced effective intravascular volume — cirrhosis (due to splanchnic vasodilation), cardiac failure and hypoalbuminemia/nephrotic syndrome. (Book p796)"
   },
   {
-   "fmt": "match",
-   "q": "Match the third-space sequestration causes — 1) Burns  2) Rhabdomyolysis  3) Acute pancreatitis … A) All are grouped as third-space sequestration",
+   "fmt": "fillup",
+   "q": "Fill up: In the pre-renal causes list, burns, rhabdomyolysis and acute pancreatitis are grouped under ______ sequestration.",
    "opts": [
-    "All three are grouped as third-space sequestration",
-    "Only burns cause third-space sequestration",
-    "Only acute pancreatitis causes it",
-    "None of them is a pre-renal cause"
+    "third-space",
+    "intravascular",
+    "intracellular",
+    "effective intravascular"
    ],
    "ans": 0,
-   "exp": "Third-space sequestration (under reduced effective intravascular volume): burns, rhabdomyolysis and acute pancreatitis. (Book p796)"
+   "exp": "Reduced effective intravascular volume from third-space sequestration is bracketed to list burns, rhabdomyolysis and acute pancreatitis. (Book p796)"
   },
   {
    "fmt": "scenario",
@@ -76,12 +76,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the renal vasoconstriction causes — 1) Hepatorenal syndrome  2) Hypercalcemia  3) Drugs … A) NSAIDs, calcineurin inhibitors, ACEi/ARBs  B) Hepatorenal syndrome  C) Hypercalcemia",
+   "q": "Match the renal vasoconstriction causes — 1) Hepatorenal syndrome  2) Hypercalcemia  3) Drugs … A) Hepatorenal syndrome  B) NSAIDs, calcineurin inhibitors, ACEi/ARBs  C) Hypercalcemia",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-A, 2-B, 3-C",
-    "1-C, 2-B, 3-A",
-    "1-B, 2-A, 3-C"
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
    "exp": "Renal vasoconstriction (pre-renal cause 5): hepatorenal syndrome, hypercalcemia and drugs — NSAIDs, calcineurin inhibitors and ACE inhibitors/ARBs. (Book p796)"

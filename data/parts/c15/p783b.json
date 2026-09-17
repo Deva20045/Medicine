@@ -4,12 +4,12 @@
  "items": [
   {
    "fmt": "match",
-   "q": "Match the mode of inheritance with the affected chain in Alport syndrome — 1) X-linked (80%)  2) Autosomal recessive (15%)  3) Autosomal dominant (5%) … A) α3/α4  B) α5  C) α3/α4",
+   "q": "Match the mode of inheritance with the affected chain in Alport syndrome — 1) X-linked (80%)  2) Autosomal recessive (15%)  3) Autosomal dominant (5%) … A) α3/α4  B) α3/α4  C) α5",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
     "1-B, 2-C, 3-A",
-    "1-C, 2-A, 3-B"
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
    "exp": "Inheritance table: X-linked (80%) affects the α5 chain; AR (15%) and AD (5%) both affect α3/α4. (Book p783)"
@@ -52,15 +52,15 @@
   },
   {
    "fmt": "match",
-   "q": "Match the inheritance pattern with its typical severity — 1) X-linked Alport  2) AD Alport … A) Mild disease in both females and males  B) ESRD by 30 years in males, females are carriers",
+   "q": "Match each Alport inheritance pattern with its features — 1) X-linked (80%)  2) Autosomal recessive (15%)  3) Autosomal dominant (5%) … A) ESRD by 30 years in males; females are carriers  B) Mild disease in females and males  C) ESRD by 40 years in females and males",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both cause ESRD by 30 years in females",
-    "Both are mild"
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
    ],
    "ans": 0,
-   "exp": "X-linked: ESRD by 30 years in males, females carriers. AD (5%): mild disease in ♀ and ♂. (Book p783)"
+   "exp": "Inheritance table: X-linked (80%, α5) gives ESRD by 30 years in males with females as carriers; AR (15%, α3/α4) gives ESRD by 40 years in both sexes; AD (5%, α3/α4) is mild in both sexes. (Book p783)"
   },
   {
    "fmt": "fillup",

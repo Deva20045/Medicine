@@ -52,15 +52,15 @@
   },
   {
    "fmt": "match",
-   "q": "Match the ADPKD gene with its chromosome and product — 1) PKD1  2) PKD2 … A) Chr4q — polycystin 2, milder disease  B) Chr16p — polycystin 1, 85% of cases",
+   "q": "Match each ADPKD gene with its chromosome and product — 1) PKD1  2) PKD2  3) PKD3 … A) Printed as GANA B  B) Chr16p - polycystin 1, 85% of cases  C) Chr4q - polycystin 2, milder disease",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both on chromosome 16",
-    "Both produce fibrocystin"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Gene defect in ADPKD: PKD1 on Chr16p (85%) → polycystin 1; PKD2 on Chr4q (15%) → polycystin 2 (milder disease); PKD3 (GANA B). (Book p786)"
+   "exp": "Gene defect: PKD1 on chr16p (85%) gives polycystin 1; PKD2 on chr4q (15%) gives polycystin 2 with milder disease; PKD3 is printed as GANA B. (Book p786)"
   },
   {
    "fmt": "numeric",
@@ -112,12 +112,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the Ravinson's criteria age band with the number of cysts needed for diagnosis of ADPKD — 1) 15–39 years  2) 40–59 years  3) ≥60 years … A) ≥2 cysts bilaterally  B) ≥3 cysts (unilateral or bilateral)  C) ≥4 cysts bilaterally",
+   "q": "Match the Ravinson's criteria age band with the number of cysts needed for diagnosis of ADPKD — 1) 15–39 years  2) 40–59 years  3) ≥60 years … A) ≥4 cysts bilaterally  B) ≥2 cysts bilaterally  C) ≥3 cysts (unilateral or bilateral)",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
     "1-B, 2-C, 3-A",
-    "1-C, 2-A, 3-B"
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
    "exp": "Ravinson's criteria (based on USG, the investigation of choice): 15–39 years — ≥3 cysts (u/l or b/l); 40–59 years — ≥2 cysts bilaterally; ≥60 years — ≥4 cysts bilaterally. (Book p786)"

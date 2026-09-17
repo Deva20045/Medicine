@@ -52,12 +52,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the investigation with its stated result — 1) DLCO  2) X-ray chest  3) CT scan … A) B/L diffuse infiltrate  B) ↑ (increased)  C) Diffuse alveolar haemorrhage",
+   "q": "Match the investigation with its stated result — 1) DLCO  2) X-ray chest  3) CT scan … A) ↑ (increased)  B) Diffuse alveolar haemorrhage  C) B/L diffuse infiltrate",
    "opts": [
-    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
     "1-A, 2-B, 3-C",
-    "1-B, 2-C, 3-A",
-    "1-C, 2-A, 3-B"
+    "1-B, 2-C, 3-A"
    ],
    "ans": 0,
    "exp": "Evaluation: DLCO is ↑ (increased); X-ray shows bilateral diffuse infiltrate; CT scan shows diffuse alveolar haemorrhage. (Book p782)"

@@ -4,15 +4,15 @@
  "items": [
   {
    "fmt": "match",
-   "q": "Match the treatment of uric acid nephropathy — 1) Drug  2) Renal replacement … A) Dialysis  B) IV Rasburicase",
+   "q": "Match each aspect of uric acid nephropathy management — 1) Drug treatment  2) Renal replacement  3) Prevention … A) Hydration with 5-6 L/day, alkalinisation and allopurinol  B) IV rasburicase  C) Dialysis",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both are dialysis",
-    "Both are rasburicase"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Treatment of uric acid nephropathy: (1) IV rasburicase, (2) dialysis. (Book p802)"
+   "exp": "Treatment of uric acid nephropathy: IV rasburicase and dialysis. Prevention before chemotherapy: adequate hydration (5-6 L/day), adequate alkalinisation and allopurinol. (Book p802)"
   },
   {
    "fmt": "management",
@@ -39,16 +39,16 @@
    "exp": "Prevention: adequate hydration (5–6 L/day) before chemotherapy, adequate alkalinization and allopurinol. (Book p802)"
   },
   {
-   "fmt": "match",
-   "q": "Match the three preventive measures for uric acid nephropathy — 1) Hydration (5–6 L/day)  2) Alkalinization  3) Allopurinol … A) All three are preventive measures before chemotherapy",
+   "fmt": "scenario",
+   "q": "A patient with Burkitt lymphoma is due to start chemotherapy. Which preventive plan matches the book?",
    "opts": [
-    "All three are preventive measures before chemotherapy",
-    "Only hydration prevents tumour lysis syndrome",
-    "Only allopurinol prevents it",
-    "All three are treatments given after AKI is established"
+    "Hydration with 5-6 L/day, adequate alkalinisation and allopurinol",
+    "IV rasburicase, dialysis and fluid restriction",
+    "Hydration with 1-2 L/day and acidification of the urine",
+    "Allopurinol plus rasburicase only, with free oral fluids"
    ],
    "ans": 0,
-   "exp": "Prevention of uric acid nephropathy: adequate hydration 5–6 L/day before chemotherapy, adequate alkalinization and allopurinol. (Book p802)"
+   "exp": "Prevention of uric acid nephropathy before chemotherapy: adequate hydration (5-6 L/day), adequate alkalinisation and allopurinol; rasburicase and dialysis belong to treatment. (Book p802)"
   },
   {
    "fmt": "oddoneout",

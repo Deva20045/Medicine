@@ -76,15 +76,15 @@
   },
   {
    "fmt": "match",
-   "q": "Match the ADPKD symptoms with their mechanisms — 1) Nocturia and polyuria  2) Anaemia … A) Less common because EPO production is preserved  B) Tubular involvement with impaired concentrating capacity",
+   "q": "Match each ADPKD feature with its explanation — 1) Nocturia and polyuria  2) Less anaemia than other CKD causes  3) Biventricular diastolic dysfunction … A) Systemic hypertension  B) Preserved EPO production  C) Tubular involvement with impaired concentrating capacity",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both due to EPO deficiency",
-    "Both due to hyperkalaemia"
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
-   "exp": "Nocturia and polyuria are due to tubular involvement → impaired concentrating capacity; anaemia is less common because EPO production is preserved. (Book p787)"
+   "exp": "Nocturia and polyuria come from tubular involvement with impaired concentrating capacity; anaemia is less common because EPO production is preserved (ADPKD has the least anaemia of the CKD causes); biventricular diastolic dysfunction is due to hypertension. (Book p787)"
   },
   {
    "fmt": "truefalse",

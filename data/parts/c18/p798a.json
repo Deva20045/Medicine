@@ -4,12 +4,12 @@
  "items": [
   {
    "fmt": "match",
-   "q": "Match each drug class with its column in the drug-induced AKI chart — 1) NSAIDs  2) Vancomycin and aminoglycosides  3) Methotrexate and indinavir  4) PPIs and beta-lactams … A) AIN  B) Pre-renal failure  C) ATN  D) Intratubular obstruction (oliguric AKI)",
+   "q": "Match each drug class with its column in the drug-induced AKI chart — 1) NSAIDs  2) Vancomycin and aminoglycosides  3) Methotrexate and indinavir  4) PPIs and beta-lactams … A) Pre-renal failure  B) AIN  C) Intratubular obstruction (oliguric AKI)  D) ATN",
    "opts": [
-    "1-B, 2-C, 3-D, 4-A",
-    "1-C, 2-B, 3-D, 4-A",
-    "1-B, 2-D, 3-C, 4-A",
-    "1-A, 2-C, 3-D, 4-B"
+    "1-A, 2-D, 3-C, 4-B",
+    "1-D, 2-A, 3-C, 4-B",
+    "1-A, 2-C, 3-D, 4-B",
+    "1-B, 2-D, 3-C, 4-A"
    ],
    "ans": 0,
    "exp": "Drug chart: pre-renal failure — NSAIDs, drugs causing ↑Ca²⁺, ACEi/ARB, calcineurin inhibitors; ATN — vancomycin, aminoglycosides, amphotericin B, cisplatin, ethylene glycol, salicylates; intratubular obstruction (oliguric AKI) — methotrexate (increased dose), indinavir, triamterene, acyclovir, sulfonamides; AIN — PPIs, beta-lactams, rifampicin, allopurinol and anticonvulsants (also NSAIDs and diuretics). (Book p798)"
@@ -28,12 +28,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the mnemonic letters in the ATN column — 1) V  2) A  3) C  4) E … A) Ethylene glycol (oxalate urine crystals)  B) Vancomycin  C) Aminoglycosides, adefovir, amphotericin B  D) Cisplatin, cyclophosphamide, cidofovir",
+   "q": "Match the mnemonic letters in the ATN column — 1) V  2) A  3) C  4) E … A) Vancomycin  B) Cisplatin, cyclophosphamide, cidofovir  C) Ethylene glycol (oxalate urine crystals)  D) Aminoglycosides, adefovir, amphotericin B",
    "opts": [
-    "1-B, 2-C, 3-D, 4-A",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-B, 2-D, 3-C, 4-A",
-    "1-C, 2-B, 3-A, 4-D"
+    "1-A, 2-D, 3-B, 4-C",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-D, 2-A, 3-C, 4-B"
    ],
    "ans": 0,
    "exp": "ATN mnemonic: V — vancomycin; A — aminoglycosides, adefovir, amphotericin B; C — cisplatin, cyclophosphamide, cidofovir; E — ethylene glycol (oxalate urine crystals); S — salicylates. (Book p798)"
@@ -52,27 +52,27 @@
   },
   {
    "fmt": "match",
-   "q": "Match the mnemonic letters in the intratubular obstruction column — 1) m  2) I  3) T  4) A  5) S … A) Methotrexate (increased dose)  B) Indinavir  C) Triamterene  D) Acyclovir  E) Sulfonamides",
+   "q": "Match the mnemonic letters in the intratubular obstruction column — 1) m  2) I  3) T  4) A  5) S … A) Methotrexate (increased dose)  B) Triamterene  C) Acyclovir  D) Sulfonamides  E) Indinavir",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D, 5-E",
-    "1-B, 2-A, 3-C, 4-E, 5-D",
-    "1-A, 2-C, 3-B, 4-D, 5-E",
-    "1-D, 2-B, 3-C, 4-A, 5-E"
+    "1-A, 2-E, 3-B, 4-C, 5-D",
+    "1-E, 2-A, 3-B, 4-D, 5-C",
+    "1-A, 2-B, 3-E, 4-C, 5-D",
+    "1-C, 2-E, 3-B, 4-A, 5-D"
    ],
    "ans": 0,
    "exp": "Intratubular obstruction (oliguric AKI) mnemonic: m — methotrexate (increased dose); I — indinavir; T — triamterene; A — acyclovir; S — sulfonamides. (Book p798)"
   },
   {
-   "fmt": "match",
-   "q": "Match the AIN column drugs — 1) PPIs  2) β lactams  3) Rifampicin  4) Allopurinol and anticonvulsants  5) NSAIDs and diuretics … A) All appear in the AIN column",
+   "fmt": "recall",
+   "q": "Which set lists the drugs appearing in the AIN column of the drug-induced AKI chart?",
    "opts": [
-    "All are listed in the AIN column",
-    "Only PPIs and beta-lactams are in the AIN column",
-    "Only allopurinol is in the AIN column",
-    "None is in the AIN column"
+    "PPIs, beta-lactams, rifampicin, allopurinol/anticonvulsants, NSAIDs, diuretics",
+    "Vancomycin, aminoglycosides, adefovir, amphotericin B, cisplatin, salicylates",
+    "Methotrexate, indinavir, triamterene, acyclovir, sulfonamides",
+    "NSAIDs, drugs causing raised calcium, ACE inhibitors/ARBs, calcineurin inhibitors"
    ],
    "ans": 0,
-   "exp": "AIN column: PPIs; β lactams; rifampicin; allopurinol, anticonvulsants; and NSAIDs, diuretics — remembered by the mnemonic. (Book p798)"
+   "exp": "The AIN column mnemonic is P-B-R-A-N-D: PPIs, beta-lactams, rifampicin, allopurinol with anticonvulsants, NSAIDs and diuretics. The other options are the ATN, intratubular-obstruction and pre-renal columns respectively. (Book p798)"
   },
   {
    "fmt": "scenario",

@@ -3,16 +3,16 @@
  "sec": "Rhabdomyolysis · p802",
  "items": [
   {
-   "fmt": "match",
-   "q": "Match the causes of rhabdomyolysis — 1) Electric shock  2) Seizures  3) Alcohol/cocaine/heroin  4) Statins/zidovudine … A) All are listed causes  B) None is a listed cause",
+   "fmt": "fillup",
+   "q": "Fill up: Besides electric shock, seizures, alcohol/cocaine/heroin, statins/zidovudine, hypothyroidism and polymyositis/dermatomyositis, the two electrolyte causes of rhabdomyolysis listed are ______ and hypophosphatemia.",
    "opts": [
-    "All four are listed causes of rhabdomyolysis",
-    "Only electric shock causes rhabdomyolysis",
-    "Only statins cause rhabdomyolysis",
-    "None is a listed cause"
+    "hypokalemia",
+    "hyperkalemia",
+    "hypercalcemia",
+    "hypernatremia"
    ],
    "ans": 0,
-   "exp": "Causes of rhabdomyolysis: electric shock, seizures, alcohol/cocaine/heroin, statins/zidovudine, ↓K⁺/↓PO₄³⁻, glycogen storage disease type 5 (McArdle disease), hypothyroidism and polymyositis/dermatomyositis. (Book p802)"
+   "exp": "Causes of rhabdomyolysis include decreased K+ and decreased PO4(3-); hyperkalemia is a consequence of rhabdomyolysis, not a cause. The list also includes glycogen storage disease type 5 (McArdle disease), hypothyroidism and polymyositis/dermatomyositis. (Book p802)"
   },
   {
    "fmt": "fillup",
@@ -40,12 +40,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the pathophysiology of rhabdomyolysis — 1) Tubular effect  2) Vascular effect  3) Obstructive effect … A) Cast formation decreasing tubular flow  B) Direct toxicity of myoglobin in tubular cells  C) Hypovolemia and decreased renal perfusion",
+   "q": "Match the pathophysiology of rhabdomyolysis — 1) Tubular effect  2) Vascular effect  3) Obstructive effect … A) Cast formation decreasing tubular flow  B) Hypovolemia and decreased renal perfusion  C) Direct toxicity of myoglobin in tubular cells",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-A, 2-B, 3-C",
-    "1-B, 2-A, 3-C",
-    "1-C, 2-B, 3-A"
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
    ],
    "ans": 0,
    "exp": "Rhabdomyolysis pathophysiology: PCT injury + vasoconstriction + tubular obstruction with uric acid; the diagram shows direct myoglobin toxicity, cast formation decreasing tubular flow, and hypovolemia with decreased renal perfusion — all leading to AKI. (Book p802)"
@@ -76,12 +76,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the rhabdomyolysis clinical features — 1) Muscles  2) Urine colour  3) Renal failure type  4) Urine sediment … A) Pigmented granular casts  B) Upper/lower-limb muscle cramps with high coloured urine  C) Non-oliguric AKI (pre-renal failure)  D) Proximal muscle swelling",
+   "q": "Match the rhabdomyolysis clinical features — 1) Muscles  2) Urine colour  3) Renal failure type  4) Urine sediment … A) Pigmented granular casts  B) Non-oliguric AKI (pre-renal failure)  C) Proximal muscle swelling  D) Upper/lower-limb muscle cramps with high coloured urine",
    "opts": [
-    "1-B, 2-D, 3-C, 4-A",
-    "1-D, 2-B, 3-A, 4-C",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-C, 2-B, 3-D, 4-A"
+    "1-D, 2-C, 3-B, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-B, 2-D, 3-C, 4-A"
    ],
    "ans": 0,
    "exp": "Clinical features: upper/lower-limb muscle cramps with high coloured urine (2); proximal muscle swelling (4); non-oliguric AKI — pre-renal failure (3); urine shows pigmented granular casts (1). (Book p802)"
@@ -100,15 +100,15 @@
   },
   {
    "fmt": "match",
-   "q": "Match the urine findings in rhabdomyolysis — 1) Benzidine test  2) Urine microscopy … A) 3+ with no RBCs; pigmented granular brown casts; renal tubular epithelial cell casts  B) Positive for blood",
+   "q": "Match the urine findings in rhabdomyolysis — 1) Benzidine test  2) Urine microscopy  3) FeNa … A) Pigmented granular brown casts and renal tubular epithelial cell casts, with no RBCs  B) Positive (3+) for blood  C) Less than 1",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both are negative",
-    "Both show RBC casts"
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
    ],
    "ans": 0,
-   "exp": "Rhabdomyolysis urine: benzidine test 3+ but no RBCs; microscopy shows pigmented granular brown casts and renal tubular epithelial cell casts. (Book p802)"
+   "exp": "In rhabdomyolysis the benzidine (dipstick) test is 3+ positive for blood while urine microscopy shows no RBCs but pigmented granular brown casts and renal tubular epithelial cell casts; FeNa is <1. (Book p802)"
   },
   {
    "fmt": "scenario",

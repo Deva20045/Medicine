@@ -28,12 +28,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the KDIGO stage with its urine-output criterion — 1) KDIGO 1  2) KDIGO 2  3) KDIGO 3 … A) <0.3 mL/kg/hr for ≥24 hrs or anuria (≤100 mL) for ≥12 hrs  B) <0.5 mL/kg/hr for ≥6 hrs  C) <0.5 mL/kg/hr for ≥12 hrs",
+   "q": "Match the KDIGO stage with its urine-output criterion — 1) KDIGO 1  2) KDIGO 2  3) KDIGO 3 … A) <0.5 mL/kg/hr for ≥12 hrs  B) <0.5 mL/kg/hr for ≥6 hrs  C) <0.3 mL/kg/hr for ≥24 hrs or anuria (≤100 mL) for ≥12 hrs",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-C, 2-B, 3-A",
     "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
    "exp": "KDIGO urine-output criteria: stage 1 — <0.5 mL/kg/hr for ≥6 hrs; stage 2 — <0.5 mL/kg/hr for ≥12 hrs; stage 3 — <0.3 mL/kg/hr for ≥24 hrs or anuria (≤100 mL) for ≥12 hrs. (Book p796)"
@@ -52,12 +52,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the KDIGO stage with its creatinine criterion — 1) KDIGO 1  2) KDIGO 2  3) KDIGO 3 … A) Raised by >3 times the baseline  B) Raised by >0.3 mg/dL or >50% in 7 days (1.5–1.9 times baseline)  C) Raised by >2 times the baseline",
+   "q": "Match the KDIGO stage with its creatinine criterion — 1) KDIGO 1  2) KDIGO 2  3) KDIGO 3 … A) Raised by >2 times the baseline  B) Raised by >0.3 mg/dL or >50% in 7 days (1.5–1.9 times baseline)  C) Raised by >3 times the baseline",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-C, 2-B, 3-A",
     "1-B, 2-A, 3-C",
-    "1-A, 2-C, 3-B"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
    ],
    "ans": 0,
    "exp": "KDIGO creatinine criteria: stage 1 — rise >0.3 mg/dL or >50% in 7 days (1.5–1.9 times baseline); stage 2 — >2 times baseline; stage 3 — >3 times baseline. (Book p796)"
@@ -87,7 +87,7 @@
    "exp": "KDIGO 3 urine criterion: <0.3 mL/kg/hr for ≥24 hrs OR anuria (≤100 mL) for ≥12 hrs. (Book p796)"
   },
   {
-   "fmt": "match",
+   "fmt": "recall",
    "q": "Which set lists only the newer markers of AKI given in the note?",
    "opts": [
     "NGAL, KIM-1, LFABP and IL-18",

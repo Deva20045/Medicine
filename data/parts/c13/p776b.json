@@ -64,12 +64,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match each sign in the PSGN treatment table with its prescription — 1) Hypertension  2) Pulmonary oedema  3) Hyperkalaemia … A) ECG monitoring and serial serum K⁺  B) Amlodipine 2.5–5 mg with hourly BP charting  C) Torsemide 5–10 mg",
+   "q": "Match each sign in the PSGN treatment table with its prescription — 1) Hypertension  2) Pulmonary oedema  3) Hyperkalaemia … A) Torsemide 5–10 mg  B) ECG monitoring and serial serum K⁺  C) Amlodipine 2.5–5 mg with hourly BP charting",
    "opts": [
-    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
     "1-C, 2-B, 3-A",
-    "1-B, 2-A, 3-C",
-    "1-A, 2-C, 3-B"
+    "1-B, 2-A, 3-C"
    ],
    "ans": 0,
    "exp": "Treatment table: hypertension → CCB amlodipine 2.5–5 mg + hourly BP charting; pulmonary oedema → diuretic torsemide 5–10 mg; hyperkalaemia → ECG monitoring (tall T waves) + regular serum K⁺. (Book p776)"

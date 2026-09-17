@@ -4,12 +4,12 @@
  "items": [
   {
    "fmt": "match",
-   "q": "Match each first-line assessment in the RPGN treatment approach with what is sought — 1) ECG  2) ABG  3) Volume status … A) Metabolic acidosis  B) Signs of hyperkalemia  C) Inferior vena cava diameter on USG",
+   "q": "Match each first-line assessment in the RPGN treatment approach with what is sought — 1) ECG  2) ABG  3) Volume status … A) Signs of hyperkalemia  B) Inferior vena cava diameter on USG  C) Metabolic acidosis",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
     "1-C, 2-A, 3-B",
-    "1-B, 2-C, 3-A"
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
    "exp": "Step 1 of the RPGN treatment approach: check ECG (signs of hyperkalaemia), ABG (metabolic acidosis) and volume status (IVC diameter on USG). (Book p780)"
@@ -51,16 +51,16 @@
    "exp": "ABG showing metabolic acidosis is treated with NaHCO₃ or dialysis. (Book p780)"
   },
   {
-   "fmt": "match",
-   "q": "Match the volume-status assessment with its treatment — 1) Assessment  2) Treatment … A) Diuretics  B) Check inferior vena cava diameter on USG",
+   "fmt": "fillup",
+   "q": "Fill up: In the RPGN treatment algorithm, volume status is assessed by the ______ diameter on ultrasound and treated with diuretics.",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both refer to dialysis",
-    "Both refer to NaHCO₃"
+    "inferior vena cava",
+    "abdominal aorta",
+    "portal vein",
+    "main renal artery"
    ],
    "ans": 0,
-   "exp": "Volume status is assessed by the inferior vena cava diameter on USG, and diuretics are the treatment used for the volume problem. (Book p780)"
+   "exp": "Volume status: check the inferior vena cava diameter on USG, the treatment being diuretics (with calcium gluconate for ECG signs of hyperkalaemia and NaHCO3 or dialysis for metabolic acidosis). (Book p780)"
   },
   {
    "fmt": "truefalse",

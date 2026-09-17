@@ -3,16 +3,16 @@
  "sec": "Autoimmune etiology, features & clinical-features table · p794",
  "items": [
   {
-   "fmt": "match",
-   "q": "Match the autoimmune causes of CTID — 1) Sarcoidosis  2) Sjögren's  3) IgG4 disease … A) All three are autoimmune causes listed  B) None is a cause",
+   "fmt": "fillup",
+   "q": "Fill up: The three autoimmune causes of chronic tubulointerstitial disease listed are sarcoidosis, Sjögren's syndrome and ______ disease.",
    "opts": [
-    "All three are listed autoimmune causes",
-    "Only sarcoidosis is a cause",
-    "Only Sjögren's is a cause",
-    "Only IgG4 disease is a cause"
+    "IgG4",
+    "anti-GBM",
+    "Goodpasture",
+    "lupus"
    ],
    "ans": 0,
-   "exp": "Autoimmune causes of CTID: sarcoidosis, Sjögren's and IgG4 disease (the last shown in the histology figure). (Book p794)"
+   "exp": "Etiology item 7 (autoimmune): sarcoidosis, Sjögren's and IgG4 disease, followed by item 8, CKD of unknown etiology (CKDu). (Book p794)"
   },
   {
    "fmt": "fillup",
@@ -64,12 +64,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the tubular lesion with the resulting syndrome in the table — 1) Cortical collecting duct fibrosis  2) β cell fibrosis  3) α intercalated cell fibrosis … A) RTA I  B) Nephrogenic DI (↓ADH action)  C) RTA IV/pseudohypoaldosteronism (↓Aldosterone action)",
+   "q": "Match the tubular lesion with the resulting syndrome in the table — 1) Cortical collecting duct fibrosis  2) β cell fibrosis  3) α intercalated cell fibrosis … A) RTA I  B) RTA IV/pseudohypoaldosteronism (↓Aldosterone action)  C) Nephrogenic DI (↓ADH action)",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-A, 2-B, 3-C",
-    "1-B, 2-A, 3-C",
-    "1-C, 2-B, 3-A"
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
    ],
    "ans": 0,
    "exp": "Clinical-features table: cortical collecting duct fibrosis → ↓ADH action = nephrogenic DI; β cell fibrosis → ↓aldosterone action = RTA IV (pseudohypoaldosteronism); α intercalated cell fibrosis → RTA I. (Book p794)"
@@ -112,15 +112,15 @@
   },
   {
    "fmt": "match",
-   "q": "Match the anaemia severity with the CKD condition — 1) Maximum anaemia  2) Minimum anaemia … A) AD-PKD  B) CTID",
+   "q": "Match each CKD condition with its anaemia severity in the book's note — 1) CTID  2) ADPKD  3) Reason ADPKD has the least anaemia … A) EPO production is preserved  B) Minimum anaemia  C) Maximum anaemia",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both maximum in CTID",
-    "Both minimum in AD-PKD"
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
-   "exp": "Note: anaemia in CKD is maximum in CTID and minimum in AD-PKD (EPO production preserved in ADPKD). (Book p794)"
+   "exp": "Note on anaemia in CKD: maximum in CTID and minimum in ADPKD, because EPO production is preserved in ADPKD. (Book p794)"
   },
   {
    "fmt": "truefalse",

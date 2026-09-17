@@ -3,16 +3,16 @@
  "sec": "Pre-renal vs ATN exceptions & pathophysiology · p797",
  "items": [
   {
-   "fmt": "match",
-   "q": "Match the three conditions bracketed together as 'pre-renal >> ATN' in drug/insult-induced AKI — 1) NSAIDs  2) Rhabdomyolysis  3) Polyuria (contrast-induced AKI) … A) Pre-renal component predominates over ATN",
+   "fmt": "recall",
+   "q": "The three conditions bracketed together as 'pre-renal >> ATN' in insult/drug-induced AKI are:",
    "opts": [
-    "All three have a pre-renal component predominant over ATN",
-    "Only NSAIDs behave this way",
-    "Only rhabdomyolysis behaves this way",
-    "None of them has a pre-renal component"
+    "NSAIDs, rhabdomyolysis and polyuria (contrast-induced AKI)",
+    "NSAIDs, aminoglycosides and contrast",
+    "Sepsis, cirrhosis and cardiorenal syndrome",
+    "Vancomycin, cisplatin and ethylene glycol"
    ],
    "ans": 0,
-   "exp": "NSAIDs, rhabdomyolysis and polyuria (contrast-induced AKI) are bracketed together as 'pre-renal >> ATN', i.e. the pre-renal component predominates. (Book p797)"
+   "exp": "The bracket 'pre-renal >> ATN' covers NSAIDs, rhabdomyolysis and polyuria (contrast-induced AKI) — in these the pre-renal component predominates over tubular necrosis. (Book p797)"
   },
   {
    "fmt": "recall",
@@ -40,15 +40,15 @@
   },
   {
    "fmt": "match",
-   "q": "Complete the flowchart of long-standing profound pre-renal failure — 1) Resulting tubular lesion  2) Feedback mechanism  3) Consequences … A) Tubuloglomerular feedback by macula densa → ↓GFR → ↓urine output  B) Ischemic ATN",
+   "q": "Complete the flowchart of long-standing profound pre-renal failure — 1) Tubular lesion  2) Feedback mediator  3) Result … A) Fall in GFR with decreased urine output  B) Ischemic ATN  C) Tubuloglomerular feedback by the macula densa",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both refer to post-renal AKI",
-    "Both refer to AIN"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Flowchart: long-standing profound pre-renal failure → ischemic ATN → tubuloglomerular feedback by macula densa → ↓GFR → ↓urine output. (Book p797)"
+   "exp": "Flowchart: long-standing profound pre-renal failure produces ischemic ATN; tubuloglomerular feedback by the macula densa then lowers GFR and urine output. (Book p797)"
   },
   {
    "fmt": "fillup",
@@ -76,12 +76,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match each endogenous toxin with its source — 1) Hemoglobin  2) Myoglobin  3) Uric acid  4) Light chains … A) Multiple myeloma  B) Hemolysis  C) Rhabdomyolysis  D) Uric acid nephropathy",
+   "q": "Match each endogenous toxin with its source — 1) Hemoglobin  2) Myoglobin  3) Uric acid  4) Light chains … A) Rhabdomyolysis  B) Hemolysis  C) Uric acid nephropathy  D) Multiple myeloma",
    "opts": [
-    "1-B, 2-C, 3-D, 4-A",
-    "1-C, 2-B, 3-D, 4-A",
-    "1-B, 2-C, 3-A, 4-D",
-    "1-D, 2-C, 3-B, 4-A"
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-A, 3-B, 4-D"
    ],
    "ans": 0,
    "exp": "Endogenous toxins causing ATN: hemoglobin (hemolysis), myoglobin (rhabdomyolysis), uric acid (uric acid nephropathy) and light chains (multiple myeloma). (Book p797)"
@@ -136,15 +136,15 @@
   },
   {
    "fmt": "match",
-   "q": "Match the AIN subgroups — 1) Infections  2) Infiltration … A) Lymphoma and sarcoidosis  B) Leptospirosis and scrub typhus",
+   "q": "Match each AIN cause with its AIN subgroup — 1) Leptospirosis and scrub typhus  2) Lymphoma and sarcoidosis  3) Beta-lactams and PPIs … A) Infections  B) Drugs  C) Infiltration",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both refer to drugs",
-    "Both refer to endogenous toxins"
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
    ],
    "ans": 0,
-   "exp": "AIN causes: drugs; infections — leptospirosis, scrub typhus; infiltration — lymphoma, sarcoidosis. (Book p797)"
+   "exp": "AIN is a hypersensitivity reaction to drugs, to infections (leptospirosis, scrub typhus) or to infiltration (lymphoma, sarcoidosis). (Book p797)"
   },
   {
    "fmt": "oddoneout",

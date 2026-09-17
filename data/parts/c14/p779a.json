@@ -28,12 +28,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match each immunofluorescence pattern in the biopsy figure with its image label — 1) No deposits  2) Uniform bright linear staining along the capillary walls  3) Coarse granular staining of capillary loops and mesangium … A) Linear IF  B) Negative IF  C) Diffuse granular IF",
+   "q": "Match each immunofluorescence pattern in the biopsy figure with its image label — 1) No deposits  2) Uniform bright linear staining along the capillary walls  3) Coarse granular staining of capillary loops and mesangium … A) Diffuse granular IF  B) Linear IF  C) Negative IF",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
     "1-B, 2-C, 3-A",
-    "1-C, 2-A, 3-B"
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
    "exp": "The figure panels are labelled: A. negative IF; B. diffuse granular IF; C. linear IF (with D. granular IF) — the linear pattern being the one written in text for type I RPGN. (Book p779)"
@@ -52,15 +52,15 @@
   },
   {
    "fmt": "match",
-   "q": "Match each IF pattern with its listed important association — 1) Linear IF  2) Granular IF … A) Immune-complex deposition, e.g. diabetes mellitus and light chain disease  B) Goodpasture disease",
+   "q": "Match each immunofluorescence finding with its important association as listed beside the biopsy panels — 1) Linear IF  2) Granular IF  3) Negative IF … A) No immune deposits (pauci-immune)  B) Diabetes mellitus and light chain disease  C) Goodpasture disease",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both are associations of ANCA",
-    "Both indicate negative IF"
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
-   "exp": "Important IF associations: linear IF → Goodpasture disease; granular IF → diabetes mellitus and light chain disease. (Book p779)"
+   "exp": "The page lists Goodpasture disease (linear), diabetes mellitus and light chain disease (granular); panel A of the figure is a negative IF, which corresponds to pauci-immune type III RPGN. (Book p779)"
   },
   {
    "fmt": "oddoneout",

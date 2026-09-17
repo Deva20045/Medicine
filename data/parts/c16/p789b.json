@@ -4,15 +4,15 @@
  "items": [
   {
    "fmt": "match",
-   "q": "Match the ARPKD ultrasound signs — 1) Echogenicity of the medulla  2) Corticomedullary differentiation … A) Lost  B) Hyperechoic",
+   "q": "Match each ARPKD ultrasound sign with its description — 1) Medulla  2) Corticomedullary differentiation  3) Kidney size … A) Bilaterally enlarged with small medullary cysts  B) Hyperechoic  C) Lost",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both increased",
-    "Both normal"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "USG in ARPKD: hyperechoic medulla with loss of corticomedullary differentiation. (Book p789)"
+   "exp": "ARPKD ultrasound: hyperechoic medulla and loss of corticomedullary differentiation in bilaterally enlarged kidneys with small medullary cysts, often with oligohydramnios. (Book p789)"
   },
   {
    "fmt": "recall",

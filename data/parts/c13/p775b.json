@@ -40,12 +40,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match each PSGN marker with its description — 1) NAPlr  2) SPEB  3) Anti-DNAase B … A) Streptococcal pyogenic exotoxin  B) Nephritis-associated plasmin type A receptor  C) Antibody appearing after a preceding skin infection",
+   "q": "Match each PSGN marker with its description — 1) NAPlr  2) SPEB  3) Anti-DNAase B … A) Nephritis-associated plasmin type A receptor  B) Antibody appearing after a preceding skin infection  C) Streptococcal pyogenic exotoxin",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
     "1-C, 2-A, 3-B",
-    "1-B, 2-C, 3-A"
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
    "exp": "NAPlr = nephritis-associated plasmin type A receptor; SPEB = streptococcal pyogenic exotoxin B; anti-DNAase B is the antibody raised after a preceding skin infection. (Book p775)"
@@ -76,12 +76,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the PSGN triad of the triangle diagram with its parenthetical meaning — 1) Cola-coloured urine  2) Hypertension  3) Oliguria … A) RFT impairment  B) Haematuria  C) Raised blood pressure",
+   "q": "Match the PSGN triad of the triangle diagram with its parenthetical meaning — 1) Cola-coloured urine  2) Hypertension  3) Oliguria … A) Raised blood pressure  B) Haematuria  C) RFT impairment",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-A, 2-B, 3-C",
-    "1-C, 2-A, 3-B",
-    "1-B, 2-A, 3-C"
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A"
    ],
    "ans": 0,
    "exp": "The PSGN triad is cola-coloured urine (haematuria), hypertension and oliguria (RFT impairment). (Book p775)"

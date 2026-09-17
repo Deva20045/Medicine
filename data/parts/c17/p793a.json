@@ -28,12 +28,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match each pathology with its associated condition in the causes table — 1) Vascular  2) Glomerular (diabetes)  3) Tubulo-interstitial fibrosis … A) Diabetic nephropathy  B) Ischemic nephropathy  C) CTID",
+   "q": "Match each pathology with its associated condition in the causes table — 1) Vascular  2) Glomerular (diabetes)  3) Tubulo-interstitial fibrosis … A) Diabetic nephropathy  B) CTID  C) Ischemic nephropathy",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
     "1-C, 2-A, 3-B",
-    "1-B, 2-C, 3-A"
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
    "exp": "Causes table: vascular (RAS, TMA) → ischemic nephropathy; glomerular (diabetes) → diabetic nephropathy; tubulo-interstitial fibrosis (–) → CTID. (Book p793)"
@@ -64,12 +64,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match each cause of CKD with its label in the table — 1) IgAN/MPGN/FSGS/membranous nephropathy  2) Diabetes  3) RAS/TMA … A) Diabetic nephropathy  B) CGN (chronic glomerulonephritis)  C) Ischemic nephropathy",
+   "q": "Match each cause of CKD with its label in the table — 1) IgAN/MPGN/FSGS/membranous nephropathy  2) Diabetes  3) RAS/TMA … A) Diabetic nephropathy  B) Ischemic nephropathy  C) CGN (chronic glomerulonephritis)",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
     "1-C, 2-A, 3-B",
-    "1-B, 2-C, 3-A"
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
    "exp": "Table mapping: IgAN/MPGN/FSGS/membranous → CGN; diabetes → diabetic nephropathy; RAS/TMA → ischaemic nephropathy; primary tubulointerstitial fibrosis → CTID. (Book p793)"

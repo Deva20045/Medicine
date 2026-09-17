@@ -28,12 +28,12 @@
   },
   {
    "fmt": "match",
-   "q": "Complete the dialysis disequilibrium flowchart — 1) Urea in the blood compartment  2) Effect on blood osmolality  3) Consequence in cells … A) Cerebral edema → seizure, death  B) Rapidly moves to the dialysate compartment  C) ↓ Osmolality",
+   "q": "Complete the dialysis disequilibrium flowchart — 1) Urea in the blood compartment  2) Effect on blood osmolality  3) Consequence in cells … A) Cerebral edema → seizure, death  B) ↓ Osmolality  C) Rapidly moves to the dialysate compartment",
    "opts": [
-    "1-B, 2-C, 3-A",
     "1-C, 2-B, 3-A",
-    "1-B, 2-A, 3-C",
-    "1-A, 2-C, 3-B"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
    "exp": "Flowchart: urea rapidly moves from blood to dialysate → blood osmolality falls → water moves into cells → cerebral oedema → seizure and death. (Book p781)"

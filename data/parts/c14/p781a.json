@@ -63,13 +63,13 @@
    "exp": "Goodpasture disease = RPGN + DAH + antibody against the noncollagenous domain of the α3 chain of type-IV collagen. (Book p781)"
   },
   {
-   "fmt": "match",
-   "q": "Match the pulmonary trigger with its appearance in the Goodpasture disease notes — 1) Smoking  2) Hydrocarbon exposure  3) Fluid overload  4) Lung infection … A) All four are listed 2nd/trigger factors",
+   "fmt": "fillup",
+   "q": "Fill up: Besides smoking, hydrocarbon exposure and lung infection, the fourth 2nd/trigger factor listed for Goodpasture disease is ______.",
    "opts": [
-    "All four are listed triggers",
-    "Only smoking and lung infection are triggers",
-    "Only fluid overload is a trigger",
-    "None of these are triggers"
+    "fluid overload",
+    "streptococcal pharyngitis",
+    "hypercalcemia",
+    "contrast exposure"
    ],
    "ans": 0,
    "exp": "2nd/trigger factors for Goodpasture disease: smoking, hydrocarbon exposure, fluid overload and lung infection. (Book p781)"
@@ -87,13 +87,13 @@
    "exp": "Listed triggers: smoking, hydrocarbon exposure, fluid overload and lung infection. A streptococcal sore throat relates to PSGN, not Goodpasture disease. (Book p781)"
   },
   {
-   "fmt": "match",
-   "q": "Match the HLA group with its risk in Goodpasture disease — 1) High risk  2) Low risk … A) DR1, DR7  B) DR2/15, DR4",
+   "fmt": "recall",
+   "q": "Which HLA pair carries the highest risk in Goodpasture disease?",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both high risk",
-    "Both low risk"
+    "DR2/15 and DR4",
+    "DR1 and DR7",
+    "DR3 and DR2",
+    "DR10 and DR11"
    ],
    "ans": 0,
    "exp": "HLA association in Goodpasture disease: high risk DR2/15 and DR4; low risk DR1 and DR7. (Book p781)"

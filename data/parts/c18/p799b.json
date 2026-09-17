@@ -4,12 +4,12 @@
  "items": [
   {
    "fmt": "match",
-   "q": "Complete the NSAID pathophysiology flowchart — 1) NSAIDs act on PGE₂/PGI₂  2) Effect on RAAS  3) Final step … A) ↑K⁺ excretion via aldosterone  B) (–) inhibition  C) Stimulation of RAAS",
+   "q": "Complete the NSAID pathophysiology flowchart — 1) NSAIDs act on PGE₂/PGI₂  2) Effect on RAAS  3) Final step … A) Stimulation of RAAS  B) ↑K⁺ excretion via aldosterone  C) (–) inhibition",
    "opts": [
-    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
     "1-C, 2-B, 3-A",
-    "1-B, 2-A, 3-C",
-    "1-A, 2-C, 3-B"
+    "1-B, 2-A, 3-C"
    ],
    "ans": 0,
    "exp": "NSAID flowchart: NSAIDs (–) PGE₂/PGI₂ → stimulates RAAS → aldosterone → ↑K⁺ excretion. (Book p799)"
@@ -40,12 +40,12 @@
   },
   {
    "fmt": "match",
-   "q": "Complete the aminoglycoside pathophysiology flowchart — 1) Cationic amino groups on the drug  2) Target  3) Intracellular effect … A) Binds anionic megalin in the brush border of the PCT  B) Accumulates in lysosomes after endocytosis causing oxidative stress  C) Anionic megalin",
+   "q": "Complete the aminoglycoside pathophysiology flowchart — 1) Cationic amino groups on the drug  2) Target  3) Intracellular effect … A) Anionic megalin  B) Accumulates in lysosomes after endocytosis causing oxidative stress  C) Binds anionic megalin in the brush border of the PCT",
    "opts": [
-    "1-C, 2-A, 3-B",
     "1-A, 2-C, 3-B",
-    "1-C, 2-B, 3-A",
-    "1-B, 2-A, 3-C"
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
    ],
    "ans": 0,
    "exp": "Aminoglycoside flowchart: cationic amino groups on the drug bind anionic megalin in the brush border of the PCT; after endocytosis the drug accumulates in lysosomes causing oxidative stress. (Book p799)"

@@ -4,12 +4,12 @@
  "items": [
   {
    "fmt": "match",
-   "q": "Match the age of presentation — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) 4–6 years  B) Young adult > perinatal  C) Perinatal",
+   "q": "Match the age of presentation — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) Young adult > perinatal  B) Perinatal  C) 4–6 years",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C",
     "1-B, 2-A, 3-C",
-    "1-A, 2-C, 3-B"
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
    "exp": "Age of presentation: ADPKD — young adult > perinatal; ARPKD — perinatal; juvenile nephronophthisis — 4–6 years. (Book p791)"
@@ -28,12 +28,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the kidney size and number of cysts — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) Enlarged kidneys with few cysts  B) Enlarged kidneys with multiple cysts  C) Enlarged kidneys with multiple cysts",
+   "q": "Match the kidney size and number of cysts — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) Enlarged kidneys with multiple cysts  B) Enlarged kidneys with multiple cysts  C) Enlarged kidneys with few cysts",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
     "1-C, 2-B, 3-A",
-    "1-B, 2-A, 3-C"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
    ],
    "ans": 0,
    "exp": "Table: ADPKD — enlarged kidneys with multiple cysts; ARPKD — enlarged kidneys with multiple cysts; juvenile nephronophthisis — (kidney size not enlarged) with few cysts. (Book p791)"
@@ -52,12 +52,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the blood pressure finding — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) N/low due to tubular loss  B) High  C) High",
+   "q": "Match the blood pressure finding — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) High  B) N/low due to tubular loss  C) High",
    "opts": [
+    "1-C, 2-A, 3-B",
     "1-B, 2-C, 3-A",
-    "1-A, 2-B, 3-C",
-    "1-B, 2-A, 3-C",
-    "1-C, 2-B, 3-A"
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
    "exp": "BP row: ADPKD — high; ARPKD — high; juvenile nephronophthisis — normal/low due to tubular loss. (Book p791)"
@@ -76,12 +76,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match the nephrocalcinosis finding — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) No nephrocalcinosis  B) ++  C) 25%",
+   "q": "Match the nephrocalcinosis finding — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) ++  B) 25%  C) No nephrocalcinosis",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C",
     "1-B, 2-A, 3-C",
-    "1-A, 2-C, 3-B"
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
    "exp": "Nephrocalcinosis row: ADPKD ++; ARPKD 25%; juvenile nephronophthisis no nephrocalcinosis. (Book p791)"
@@ -100,36 +100,36 @@
   },
   {
    "fmt": "match",
-   "q": "Match the CNS manifestation — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) Joubert's (cerebellar aplasia)  B) Aneurysm  C) None",
+   "q": "Match the CNS manifestation — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) Joubert's (cerebellar aplasia)  B) None  C) Aneurysm",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-A, 2-B, 3-C",
-    "1-B, 2-A, 3-C",
-    "1-C, 2-B, 3-A"
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
    ],
    "ans": 0,
    "exp": "CNS manifestations: ADPKD — aneurysm; ARPKD — none; juvenile nephronophthisis — Joubert's (cerebellar aplasia). (Book p791)"
   },
   {
    "fmt": "match",
-   "q": "Match the liver manifestation — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) None  B) Cyst  C) Portal hypertension",
+   "q": "Match the liver manifestation — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) Cyst  B) Portal hypertension  C) None",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C",
     "1-B, 2-A, 3-C",
-    "1-A, 2-C, 3-B"
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
    "exp": "Liver manifestations: ADPKD — cyst; ARPKD — portal hypertension (congenital hepatic fibrosis/Caroli); juvenile nephronophthisis — none. (Book p791)"
   },
   {
    "fmt": "match",
-   "q": "Match the chromosome involved — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) 2  B) 16/4  C) 6",
+   "q": "Match the chromosome involved — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) 16/4  B) 6  C) 2",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C",
     "1-B, 2-A, 3-C",
-    "1-A, 2-C, 3-B"
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
    "exp": "Chromosome row: ADPKD 16/4 (PKD1 16p, PKD2 4q); ARPKD 6 (PKHD1); juvenile nephronophthisis 2 (NPHP1). (Book p791)"

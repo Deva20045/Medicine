@@ -27,25 +27,25 @@
    "exp": "Athero-embolic renal disease occurs in patients with extensive aortic atherosclerosis after endovascular intervention — angiography, anticoagulation, thrombolysis, surgery — or spontaneously. (Book p803)"
   },
   {
-   "fmt": "match",
-   "q": "Match the triggers of athero-embolism — 1) Angiography  2) Anticoagulation  3) Thrombolysis  4) Surgery … A) All are listed triggers  B) None is a listed trigger",
+   "fmt": "fillup",
+   "q": "Fill up: Besides angiography, anticoagulation, thrombolysis and surgery, athero-embolic renal disease can also occur ______.",
    "opts": [
-    "All four are listed triggers, along with spontaneous occurrence",
-    "Only angiography triggers embolisation",
-    "Only surgery triggers embolisation",
-    "None triggers embolisation"
+    "spontaneously",
+    "only after renal biopsy",
+    "only with bacterial endocarditis",
+    "only in patients already on dialysis"
    ],
    "ans": 0,
-   "exp": "Triggers (after endovascular intervention): angiography, anticoagulation, thrombolysis, surgery — or spontaneous. (Book p803)"
+   "exp": "Athero-embolism is seen in patients with extensive aortic atherosclerosis after endovascular intervention (angiography, anticoagulation, thrombolysis, surgery) and can also occur spontaneously. (Book p803)"
   },
   {
    "fmt": "match",
-   "q": "Complete the pathophysiology of athero-embolic renal disease — 1) Atherosclerotic plaque  2) Consequence  3) Vessel calibre affected … A) Multiple small vessel occlusion (no large vessel occlusion)  B) Breaks off  C) Embolize distally",
+   "q": "Complete the pathophysiology of athero-embolic renal disease — 1) Atherosclerotic plaque  2) Consequence  3) Vessel calibre affected … A) Breaks off  B) Embolize distally  C) Multiple small vessel occlusion (no large vessel occlusion)",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C",
     "1-B, 2-A, 3-C",
-    "1-A, 2-C, 3-B"
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
    "exp": "Pathophysiology: atherosclerotic plaque breaks off → embolizes distally → multiple small vessel occlusion (no large vessel occlusion). (Book p803)"
@@ -88,12 +88,12 @@
   },
   {
    "fmt": "match",
-   "q": "Match each clinical sign of athero-embolism with its site — 1) Skin  2) Retina  3) Gut … A) Hollenhorst plaque  B) Blue toe syndrome and livedo reticularis  C) Mesenteric ischemia",
+   "q": "Match each clinical sign of athero-embolism with its site — 1) Skin  2) Retina  3) Gut … A) Mesenteric ischemia  B) Blue toe syndrome and livedo reticularis  C) Hollenhorst plaque",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
     "1-B, 2-C, 3-A",
-    "1-C, 2-A, 3-B"
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
    "exp": "Clinical features: skin — blue toe syndrome and livedo reticularis; retina — Hollenhorst plaque; and mesenteric ischemia. (Book p803)"

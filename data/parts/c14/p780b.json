@@ -28,15 +28,15 @@
   },
   {
    "fmt": "match",
-   "q": "Match the indication type with its items — 1) Absolute indication  2) Relative indication … A) Volume overload, hyperkalemia, metabolic acidosis — when resistant to treatment  B) Uremic encephalopathy, pericarditis, bleeding",
+   "q": "Match the dialysis indications in RPGN with their category — 1) Absolute indication  2) Relative indication  3) Qualifier for the relative group … A) Resistant to treatment  B) Uremic encephalopathy, halitosis, pruritis, pericarditis, bleeding, gastritis  C) Volume overload, hyperkalemia, metabolic acidosis",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both are absolute",
-    "Both are relative"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C"
    ],
    "ans": 0,
-   "exp": "Absolute (uremic) indications: encephalopathy, halitosis, pruritis, pericarditis, bleeding, gastritis. Relative indications: volume overload, hyperkalaemia and metabolic acidosis that are resistant to treatment. (Book p780)"
+   "exp": "Absolute (uremic) indications: encephalopathy, halitosis, pruritis, pericarditis, bleeding and gastritis. Relative indications: volume overload, hyperkalemia and metabolic acidosis, all qualified as resistant to treatment. (Book p780)"
   },
   {
    "fmt": "truefalse",
@@ -88,15 +88,15 @@
   },
   {
    "fmt": "match",
-   "q": "Match the RPGN type with its mechanism — 1) Type II  2) Type III … A) Pauci-immune  B) Immune complex deposition",
+   "q": "Match each RPGN type with its label in the immunofluorescence flowchart — 1) Type II  2) Type III  3) Type II age note … A) Commonest below 20 years  B) Immune complex deposition  C) Pauci-immune, the commonest type",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both immune complex",
-    "Both pauci-immune"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Type II RPGN = immune complex deposition (commonest below 20 years of age); type III RPGN = pauci-immune (the commonest overall type). (Book p780)"
+   "exp": "Type II = immune complex deposition (commonest in those below 20 years); type III = pauci-immune, marked m/c i.e. the commonest type overall. (Book p780)"
   },
   {
    "fmt": "numeric",
@@ -148,15 +148,15 @@
   },
   {
    "fmt": "match",
-   "q": "Match the type II examples with the bracketed note given beside them — 1) Henoch–Schönlein purpura and IPGN  2) Membranoproliferative GN … A) Listed as (10%)  B) Marked as the 'adult variety'",
+   "q": "Match each type II (immune-complex) RPGN example with the note printed beside it — 1) Systemic lupus erythematosus  2) Henoch-Schönlein purpura and IPGN  3) Membranoproliferative GN … A) Adult variety  B) 10%  C) Most important cause",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both marked 10%",
-    "Both marked adult variety"
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
    ],
    "ans": 0,
-   "exp": "In the type II list, HSP and IPGN (IgA predominant) are bracketed together as the adult variety, while MPGN carries the figure 10%. (Book p780)"
+   "exp": "In the type II list SLE carries '(most important cause)', HSP with IPGN is bracketed as the adult variety, and MPGN is annotated 10%. (Book p780)"
   },
   {
    "fmt": "recall",
@@ -184,15 +184,15 @@
   },
   {
    "fmt": "match",
-   "q": "Match each RPGN type with its expected ANCA/anti-GBM serology from the double-positive vs double-negative table — 1) Type IV (double positive)  2) Type V (double negative) … A) Anti-GBM – and ANCA –  B) Anti-GBM + and ANCA +",
+   "q": "Match the serology with its type in the double-positive versus double-negative table — 1) Anti-GBM + and ANCA +  2) Anti-GBM - and ANCA -  3) Prognosis of the double-positive type … A) Type V  B) Type IV  C) Good",
    "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both anti-GBM positive",
-    "Both ANCA positive"
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
-   "exp": "The table: type IV = double positive (anti-GBM antibody +, ANCA +); type V = double negative (anti-GBM antibody –, ANCA –). (Book p780)"
+   "exp": "Type IV is double positive (anti-GBM +, ANCA +) with a good prognosis; type V is double negative (anti-GBM -, ANCA -) with a poor prognosis. (Book p780)"
   },
   {
    "fmt": "truefalse",
