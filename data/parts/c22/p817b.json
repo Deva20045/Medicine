@@ -1,0 +1,234 @@
+{
+ "page": 817,
+ "sec": "DKD management · p817",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The target glucose in DKD management is set above ______ mg/dl to avoid the risk of hypoglycemia (as printed on the page).",
+   "opts": [
+    "7",
+    "70",
+    "100",
+    "140"
+   ],
+   "ans": 0,
+   "exp": "Target glucose: >7 mg/dl (to avoid risk of hypoglycemia) — printed exactly as such on the page. (Book p817)"
+  },
+  {
+   "fmt": "recall",
+   "q": "For DM control and weight loss, the DOC is:",
+   "opts": [
+    "Metformin (if GFR >30 ml/min)",
+    "Insulin as the preferred DOC (early in disease)",
+    "Glibenclamide for most patients",
+    "Glipizide as the DOC for CKD"
+   ],
+   "ans": 0,
+   "exp": "DM control and weight loss: lifestyle modification; DOC: metformin if GFR >30 ml/min. (Book p817)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Metformin is the DOC when GFR exceeds:",
+   "opts": [
+    "30 ml/min",
+    "15 ml/min",
+    "45 ml/min",
+    "60 ml/min"
+   ],
+   "ans": 0,
+   "exp": "DOC: metformin if GFR >30 ml/min. (Book p817)"
+  },
+  {
+   "fmt": "recall",
+   "q": "For macrovascular complications (CKD/ASCVD), the DOC class is:",
+   "opts": [
+    "SGLT2 inhibitors",
+    "Sulfonylureas",
+    "DPP-4 inhibitors",
+    "TZDs"
+   ],
+   "ans": 0,
+   "exp": "Macrovascular complications (CKD/ASCVD): DOC — SGLT2 (-). (Book p817)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The four SGLT2 inhibitors named are:",
+   "opts": [
+    "Canagliflozin, dapagliflozin, empagliflozin, ertugliflozin",
+    "Linagliptin, sitagliptin, vildagliptin, saxagliptin",
+    "Liraglutide, semaglutide, dulaglutide, exenatide",
+    "Metformin, gliclazide, glipizide, insulin"
+   ],
+   "ans": 0,
+   "exp": "Canagliflozin, dapagliflozin, empagliflozin, ertugliflozin; initiated at GFR >30 ml/min. (Book p817)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one are SGLT2 inhibitors on the macrovascular list. Which is the odd one out?",
+   "opts": [
+    "Ipragliflozin",
+    "Canagliflozin",
+    "Dapagliflozin",
+    "Empagliflozin"
+   ],
+   "ans": 0,
+   "exp": "Listed: canagliflozin, dapagliflozin, empagliflozin, ertugliflozin. (Book p817)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "SGLT2 inhibitors for macrovascular complications are initiated when GFR exceeds:",
+   "opts": [
+    "30 ml/min",
+    "15 ml/min",
+    "45 ml/min",
+    "60 ml/min"
+   ],
+   "ans": 0,
+   "exp": "Initiated: GFR >30 ml/min. (Book p817)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In the diabetes-control table, metformin's effect on CKD progression is:",
+   "opts": [
+    "Neutral",
+    "Benefit",
+    "Risk",
+    "Increased risk"
+   ],
+   "ans": 0,
+   "exp": "Metformin row: progression of CKD — neutral; ASCVD/HF potential benefit; glucose-lowering high; hypoglycemia low; weight neutral. (Book p817)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In the table, which drug class shows benefit across CKD progression, ASCVD and heart failure?",
+   "opts": [
+    "SGLT2 inhibitors",
+    "Metformin",
+    "Sulfonylureas",
+    "α-Glucosidase inhibitors"
+   ],
+   "ans": 0,
+   "exp": "SGLT2 inhibitors row: benefit / benefit / benefit; intermediate glucose-lowering; low hypoglycemia; weight loss. (Book p817)"
+  },
+  {
+   "fmt": "recall",
+   "q": "GLP-1 receptor agonists in the table show:",
+   "opts": [
+    "Benefit for progression and ASCVD; potential benefit for HF; weight loss",
+    "Neutral for progression, with weight gain and low glucose-lowering",
+    "Increased HF risk, with weight gain and high glucose-lowering",
+    "Benefit for all three, with weight gain and highest glucose-lowering"
+   ],
+   "ans": 0,
+   "exp": "GLP-1 RA row: benefit, benefit, potential benefit, high, low, loss. (Book p817)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The DPP-4 inhibitor entry carries which heart-failure caution?",
+   "opts": [
+    "Potential risk (saxagliptin)",
+    "Increased risk (pioglitazone)",
+    "No cardiac signal",
+    "Definite benefit"
+   ],
+   "ans": 0,
+   "exp": "DPP-4 row: heart failure — potential risk (saxagliptin); progression/ASCVD neutral. (Book p817)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Thiazolidinediones show an increased heart-failure risk in the table.",
+   "opts": [
+    "True",
+    "False — they show benefit",
+    "False — they are neutral for HF",
+    "True, but only with metformin"
+   ],
+   "ans": 0,
+   "exp": "TZD row: heart failure — increased risk; ASCVD — potential benefit (pioglitazone). (Book p817)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The ASCVD nuance in the TZD row is:",
+   "opts": [
+    "Potential benefit (pioglitazone)",
+    "Potential risk (saxagliptin)",
+    "Neutral",
+    "Contraindicated"
+   ],
+   "ans": 0,
+   "exp": "TZD: ASCVD — potential benefit (pioglitazone). (Book p817)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which two classes show weight gain with a high hypoglycemia risk in the table?",
+   "opts": [
+    "Insulin and sulfonylureas",
+    "Metformin and SGLT2i",
+    "GLP-1 RA and DPP-4",
+    "SGLT2i and TZDs"
+   ],
+   "ans": 0,
+   "exp": "Insulin: hypoglycemia high, weight gain; sulfonylureas: high, gain. (Book p817)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following drug class to its weight effect in the table — 1) Metformin  2) SGLT2 inhibitors  3) Insulin  4) TZDs … A) Loss  B) Gain  C) Neutral",
+   "opts": [
+    "1-C, 2-A, 3-B, 4-B",
+    "1-C, 2-B, 3-A, 4-B",
+    "1-A, 2-C, 3-B, 4-B",
+    "1-C, 2-A, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Weight: metformin neutral; SGLT2i loss; insulin gain; TZD gain. (Book p817)"
+  },
+  {
+   "fmt": "recall",
+   "q": "First-line proteinuria control in DKD is:",
+   "opts": [
+    "SGLT2 inhibitors + ACE inhibitors",
+    "Finerenone + spironolactone",
+    "Loop diuretics + thiazides",
+    "Calcium channel blockers + aliskiren"
+   ],
+   "ans": 0,
+   "exp": "Proteinuria control: 1st line — SGLT2 (-), ACE (-). (Book p817)"
+  },
+  {
+   "fmt": "recall",
+   "q": "If proteinuria is uncontrolled with 1st line therapy, the 2nd line drug is:",
+   "opts": [
+    "Finerenone — a non-steroidal mineralocorticoid receptor antagonist",
+    "Spironolactone — a steroidal MRA of the same class",
+    "Eplerenone — a selective steroidal MRA",
+    "Amiloride — a potassium-sparing diuretic"
+   ],
+   "ans": 0,
+   "exp": "2nd line uncontrolled with 1st line: finerenone — non-steroidal mineralocorticoid receptor antagonist. (Book p817)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "With finerenone, serum potassium must be monitored because of hyperkalemia risk.",
+   "opts": [
+    "True",
+    "False — it is potassium-safe",
+    "False — hypokalemia is the risk",
+    "True, but only in type 1"
+   ],
+   "ans": 0,
+   "exp": "Monitor s. K⁺ (hyperkalemia risk). (Book p817)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A diabetic CKD patient on SGLT2i + ACEi still has heavy proteinuria. The next agent per the page is:",
+   "opts": [
+    "Finerenone, with K⁺ monitoring",
+    "Add an ARB to the ACE inhibitor",
+    "Add a loop diuretic for the edema",
+    "Add a DPP-4 inhibitor for glucose"
+   ],
+   "ans": 0,
+   "exp": "2nd line (uncontrolled with 1st line): finerenone; monitor s. K⁺ (hyperkalemia risk). (Book p817)"
+  }
+ ]
+}

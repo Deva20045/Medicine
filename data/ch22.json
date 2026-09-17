@@ -1,0 +1,1519 @@
+{
+ "chapter": 22,
+ "title": "Diabetic Kidney Disease",
+ "pageRange": "815-818",
+ "questions": [
+  {
+   "id": "MED-C22-001",
+   "sec": "DKD risk & screening · p815",
+   "page": 815,
+   "fmt": "numeric",
+   "q": "DKD develops in what share of diabetic patients?",
+   "opts": [
+    "5-10%",
+    "80-90%",
+    "15-20%",
+    "50-60%"
+   ],
+   "ans": 3,
+   "exp": "RISK: 50-60% of diabetic patients; ↑ with age. (Book p815)"
+  },
+  {
+   "id": "MED-C22-002",
+   "sec": "DKD risk & screening · p815",
+   "page": 815,
+   "fmt": "truefalse",
+   "q": "The risk of DKD rises with age.",
+   "opts": [
+    "False — it falls with age",
+    "False — age is irrelevant",
+    "True, but only in type 1",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "↑ with age. (Book p815)"
+  },
+  {
+   "id": "MED-C22-003",
+   "sec": "DKD risk & screening · p815",
+   "page": 815,
+   "fmt": "match",
+   "q": "Match the following diabetes type to its screening timing — 1) Type 1 DM  2) Type 2 DM  3) The screening test … A) At diagnosis  B) Screen 5 yearly  C) Check for albuminuria",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 2,
+   "exp": "T1 DM (type 1 diabetes mellitus) — screen 5 yearly; T2 DM — screen at diagnosis; screening = check for albuminuria. (Book p815)"
+  },
+  {
+   "id": "MED-C22-004",
+   "sec": "DKD risk & screening · p815",
+   "page": 815,
+   "fmt": "numeric",
+   "q": "Albuminuria screening is repeated every:",
+   "opts": [
+    "2-3 years",
+    "3-6 months",
+    "1-2 weeks",
+    "12 months"
+   ],
+   "ans": 1,
+   "exp": "Check for albuminuria (3-6 months). (Book p815)"
+  },
+  {
+   "id": "MED-C22-005",
+   "sec": "DKD risk & screening · p815",
+   "page": 815,
+   "fmt": "recall",
+   "q": "The 'superior, but cumbersome' screening test is:",
+   "opts": [
+    "Spot urine dipstick",
+    "Serum creatinine",
+    "24-hr urine protein",
+    "First-morning ACR"
+   ],
+   "ans": 2,
+   "exp": "24 urine protein (superior, but cumbersome). (Book p815)"
+  },
+  {
+   "id": "MED-C22-006",
+   "sec": "DKD risk & screening · p815",
+   "page": 815,
+   "fmt": "recall",
+   "q": "The routine screening test named is:",
+   "opts": [
+    "Serum cystatin C at each visit",
+    "Renal biopsy for histology",
+    "Early morning albumin:creatinine (ACR)",
+    "24-hr urine protein collection (superior test)"
+   ],
+   "ans": 2,
+   "exp": "Early morning albumin: creatinine (ACR). (Book p815)"
+  },
+  {
+   "id": "MED-C22-007",
+   "sec": "DKD risk & screening · p815",
+   "page": 815,
+   "fmt": "match",
+   "q": "Match the following ACR level to its label — 1) <30 mg/g  2) 30-300 mg/g  3) >300 mg/g … A) Albuminuria  B) Normal  C) Microalbuminuria",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 2,
+   "exp": "Levels: <30 normal; 30-300 microalbuminuria (endothelial injury): ↑ risk for thrombosis; >300 albuminuria. (Book p815)"
+  },
+  {
+   "id": "MED-C22-008",
+   "sec": "DKD risk & screening · p815",
+   "page": 815,
+   "fmt": "numeric",
+   "q": "The microalbuminuria band runs from 30 mg/g to:",
+   "opts": [
+    "500 mg/g",
+    "1000 mg/g",
+    "300 mg/g",
+    "150 mg/g"
+   ],
+   "ans": 2,
+   "exp": "30-300 mg/g: microalbuminuria. (Book p815)"
+  },
+  {
+   "id": "MED-C22-009",
+   "sec": "DKD risk & screening · p815",
+   "page": 815,
+   "fmt": "truefalse",
+   "q": "Microalbuminuria marks endothelial injury with a raised thrombosis risk.",
+   "opts": [
+    "False — it marks tubular injury",
+    "False — thrombosis risk is unchanged",
+    "True, but only in type 1",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "Microalbuminuria (endothelial injury): ↑ risk for thrombosis. (Book p815)"
+  },
+  {
+   "id": "MED-C22-010",
+   "sec": "DKD risk & screening · p815",
+   "page": 815,
+   "fmt": "scenario",
+   "q": "A newly diagnosed type 2 diabetic patient is booked for DKD screening. When should the first check happen?",
+   "opts": [
+    "Only if proteinuria is suspected",
+    "At diagnosis",
+    "5 years after diagnosis",
+    "After ESRD develops"
+   ],
+   "ans": 1,
+   "exp": "T2 DM: screen at diagnosis. (Book p815)"
+  },
+  {
+   "id": "MED-C22-011",
+   "sec": "DKD pathogenesis · p815",
+   "page": 815,
+   "fmt": "recall",
+   "q": "The first pathogenic step of DKD is:",
+   "opts": [
+    "Tubular atrophy with secondary interstitial scarring",
+    "Afferent arterial vasodilation + efferent arterial vasoconstriction",
+    "Efferent arteriolar vasodilation alone, without afferent change",
+    "Glomerular ischemia with low filtration pressure"
+   ],
+   "ans": 1,
+   "exp": "Pathogenesis: afferent arterial vasodilation + efferent arterial vasoconstriction → glomerular hyperfiltration → intraglomerular hypertension. (Book p815)"
+  },
+  {
+   "id": "MED-C22-012",
+   "sec": "DKD pathogenesis · p815",
+   "page": 815,
+   "fmt": "match",
+   "q": "Match the following factor to the arteriolar tone it drives — 1) NO bioavailability  2) Prostaglandins  3) Angiotensin II  4) Thromboxane A2 … A) Net ↓ afferent arteriolar resistance  B) Net ↑ efferent arteriolar resistance",
+   "opts": [
+    "1-A, 2-B, 3-A, 4-B",
+    "1-A, 2-A, 3-A, 4-B",
+    "1-A, 2-A, 3-B, 4-B",
+    "1-B, 2-B, 3-A, 4-A"
+   ],
+   "ans": 2,
+   "exp": "Net ↓ afferent resistance: NO bioavailability, prostaglandins, kallikrein-kinins, atrial natriuretic factor, angiotensin (↓). Net ↑ efferent resistance: angiotensin II, thromboxane A2, endothelin-1 (ETA receptor). (Book p815)"
+  },
+  {
+   "id": "MED-C22-013",
+   "sec": "DKD pathogenesis · p815",
+   "page": 815,
+   "fmt": "oddoneout",
+   "q": "All but one are listed as causing a net reduction of afferent arteriolar resistance. Which is the odd one out?",
+   "opts": [
+    "NO bioavailability",
+    "Prostaglandins",
+    "Kallikrein-kinins",
+    "Thromboxane A2"
+   ],
+   "ans": 3,
+   "exp": "Afferent list: NO bioavailability, prostaglandins, kallikrein-kinins, atrial natriuretic factor, angiotensin (↓); thromboxane A2 is on the efferent list. (Book p815)"
+  },
+  {
+   "id": "MED-C22-014",
+   "sec": "DKD pathogenesis · p815",
+   "page": 815,
+   "fmt": "recall",
+   "q": "The factors causing a net increase of efferent arteriolar resistance are:",
+   "opts": [
+    "Angiotensin II, thromboxane A2, endothelin-1 (ETA)",
+    "NO (bioavailability), prostaglandins, ANF, kallikrein-kinins",
+    "Kallikrein-kinins, NO and bradykinin",
+    "Aldosterone, vasopressin and histamine"
+   ],
+   "ans": 0,
+   "exp": "Efferent list: angiotensin II, thromboxane A2, endothelin-1 (ETA receptor). (Book p815)"
+  },
+  {
+   "id": "MED-C22-015",
+   "sec": "DKD pathogenesis · p815",
+   "page": 815,
+   "fmt": "truefalse",
+   "q": "Endothelin-1 drives efferent arteriolar resistance through the ETA receptor.",
+   "opts": [
+    "False — it acts via the ETB receptor",
+    "False — it acts on the macula densa",
+    "True, but only in type 1 DM",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "Endothelin-1 (ETA receptor) is on the efferent list. (Book p815)"
+  },
+  {
+   "id": "MED-C22-016",
+   "sec": "DKD pathogenesis · p815",
+   "page": 815,
+   "fmt": "recall",
+   "q": "The net result of the tone changes in DKD is:",
+   "opts": [
+    "Tubular hyperperfusion without hypertension",
+    "Glomerular hyperfiltration → intraglomerular hypertension",
+    "Hypofiltration with low systemic pressure",
+    "Normal GFR with low-grade proteinuria"
+   ],
+   "ans": 1,
+   "exp": "… → glomerular hyperfiltration → intraglomerular hypertension. (Book p815)"
+  },
+  {
+   "id": "MED-C22-017",
+   "sec": "DKD pathogenesis · p815",
+   "page": 815,
+   "fmt": "recall",
+   "q": "In normal physiology (panel A), the afferent tone is:",
+   "opts": [
+    "Fixed, with no TGF at all",
+    "Appropriate, with normal TGF and normal GFR",
+    "Dilated, with impaired tubuloglomerular feedback",
+    "Constricted, with restored feedback tone"
+   ],
+   "ans": 1,
+   "exp": "A — normal physiology: normal TGF, normal GFR, appropriate afferent arterial tone. (Book p815)"
+  },
+  {
+   "id": "MED-C22-018",
+   "sec": "DKD pathogenesis · p815",
+   "page": 815,
+   "fmt": "recall",
+   "q": "In early diabetic nephropathy (panel B), the defect is:",
+   "opts": [
+    "Glomerular basement membrane thinning",
+    "Afferent vasodilation + increased Na/glucose reabsorption → ↓ Na delivery to macula densa",
+    "Efferent dilation with increased Na delivery to the macula densa",
+    "Macula densa hyperplasia with fixed TGF"
+   ],
+   "ans": 1,
+   "exp": "B — hyperfiltration in early stages: afferent arterial vasodilation, increased Na/glucose reabsorption, decreased Na⁺ delivery to macula densa → impaired TGF, elevated GFR. (Book p815)"
+  },
+  {
+   "id": "MED-C22-019",
+   "sec": "DKD pathogenesis · p815",
+   "page": 815,
+   "fmt": "recall",
+   "q": "SGLT2 inhibition (panel C) restores the TGF because it:",
+   "opts": [
+    "Lowers Na⁺ delivery to the macula densa via enhanced reabsorption",
+    "Dilates the afferent arteriole directly",
+    "Blocks the macula densa sensing entirely",
+    "Raises Na⁺ delivery to the macula densa via reduced proximal reabsorption"
+   ],
+   "ans": 3,
+   "exp": "C — SGLT-2 inhibition in proximal tubule → increased Na⁺ delivery to macula densa → afferent arterial constriction → normalization of GFR; glucosuria. (Book p815)"
+  },
+  {
+   "id": "MED-C22-020",
+   "sec": "DKD pathogenesis · p815",
+   "page": 815,
+   "fmt": "fillup",
+   "q": "Fill up: SGLT2 inhibitors raise Na⁺ entry to the ______, constricting the afferent arteriole.",
+   "opts": [
+    "distal tubule",
+    "macula densa",
+    "juxtaglomerular cell",
+    "glomerulus"
+   ],
+   "ans": 1,
+   "exp": "↑ Na⁺ entry to macula densa → afferent arteriole constriction → ↓ GFR → ↓ hyperfiltration injury. (Book p815)"
+  },
+  {
+   "id": "MED-C22-021",
+   "sec": "DKD pathogenesis · p815",
+   "page": 815,
+   "fmt": "truefalse",
+   "q": "SGLT2 inhibitors are the 1st line management for hyperfiltration injury.",
+   "opts": [
+    "False — they are for hypertension only",
+    "True, but only in type 1 DM",
+    "True",
+    "False — they are second line"
+   ],
+   "ans": 2,
+   "exp": "SGLT2 (-): 1st line management. (Book p815)"
+  },
+  {
+   "id": "MED-C22-022",
+   "sec": "DKD pathogenesis · p815",
+   "page": 815,
+   "fmt": "scenario",
+   "q": "A diabetic with early nephropathy has an elevated GFR from afferent vasodilation. The mechanism by which an SGLT2 inhibitor normalizes the GFR is:",
+   "opts": [
+    "Suppression of renin release alone, without TGF",
+    "Osmotic diuresis from the induced glucosuria",
+    "Increased Na⁺ delivery to the macula densa → afferent constriction",
+    "Direct dilation of the efferent arteriole, with no TGF change"
+   ],
+   "ans": 2,
+   "exp": "SGLT-2 inhibition → increased Na⁺ delivery to macula densa → afferent arteriole constriction → normalization of GFR. (Book p815)"
+  },
+  {
+   "id": "MED-C22-023",
+   "sec": "DKD pathogenesis · p815",
+   "page": 815,
+   "fmt": "oddoneout",
+   "q": "All but one are labelled structures in the hyperfiltration diagram. Which is the odd one out?",
+   "opts": [
+    "Afferent arteriole",
+    "Macula densa",
+    "Juxtaglomerular cells",
+    "Bowman's capsule"
+   ],
+   "ans": 3,
+   "exp": "Diagram labels: afferent arteriole, efferent arteriole, macula densa, juxtaglomerular cells, podocyte, proximal tubule. (Book p815)"
+  },
+  {
+   "id": "MED-C22-024",
+   "sec": "Mogensen staging · p816",
+   "page": 816,
+   "fmt": "recall",
+   "q": "Mogensen staging is built on the model of:",
+   "opts": [
+    "LADA",
+    "Type 1 DM",
+    "Type 2 DM",
+    "Gestational DM"
+   ],
+   "ans": 1,
+   "exp": "Mogensen staging: on the model of T1 DM. (Book p816)"
+  },
+  {
+   "id": "MED-C22-025",
+   "sec": "Mogensen staging · p816",
+   "page": 816,
+   "fmt": "truefalse",
+   "q": "Mogensen staging is very accurate for type 2 diabetes.",
+   "opts": [
+    "False — it is not very accurate for T2 DM",
+    "True",
+    "False — it applies only to children",
+    "True, since 2024"
+   ],
+   "ans": 0,
+   "exp": "Not very accurate for T2 DM. (Book p816)"
+  },
+  {
+   "id": "MED-C22-026",
+   "sec": "Mogensen staging · p816",
+   "page": 816,
+   "fmt": "recall",
+   "q": "Mogensen stage V is:",
+   "opts": [
+    "Microalbuminuria with normal GFR",
+    "Hyperfiltration (GFR elevated) with normal BP",
+    "Macroalbuminuria with falling GFR",
+    "ESRD (end stage renal disease)"
+   ],
+   "ans": 3,
+   "exp": "Stage V: ESRD (end stage renal disease). (Book p816)"
+  },
+  {
+   "id": "MED-C22-027",
+   "sec": "Mogensen staging · p816",
+   "page": 816,
+   "fmt": "match",
+   "q": "Match the following Mogensen stage to its GFR change — 1) I — hyperfiltration  2) II — silent/microalbuminuria  3) III — macroalbuminuria  4) IV — renal impairment … A) ↓  B) =/↓  C) ↑  D) ↓/↑",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-C, 2-D, 3-B, 4-A",
+    "1-C, 2-B, 3-D, 4-A",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 1,
+   "exp": "Mogensen table: stage I GFR ↑; II ↓/↑; III =/↓; IV ↓. (Book p816)"
+  },
+  {
+   "id": "MED-C22-028",
+   "sec": "Mogensen staging · p816",
+   "page": 816,
+   "fmt": "recall",
+   "q": "Stage II of Mogensen comprises which pair?",
+   "opts": [
+    "Silent and microalbuminuria",
+    "Hyperfiltration and ESRD",
+    "Macroalbuminuria and renal impairment",
+    "Nephrosis and hypertrophy"
+   ],
+   "ans": 0,
+   "exp": "Stage II: silent; microalbuminuria. (Book p816)"
+  },
+  {
+   "id": "MED-C22-029",
+   "sec": "Mogensen staging · p816",
+   "page": 816,
+   "fmt": "oddoneout",
+   "q": "All but one are stage II BP findings on 24-hr ambulatory monitoring. Which is the odd one out?",
+   "opts": [
+    "Wide pulse pressure",
+    "Raised 24-hr BP",
+    "Narrow pulse pressure",
+    "Absence of nocturnal dipping"
+   ],
+   "ans": 2,
+   "exp": "Stage II BP: ↑ on 24-hr ambulatory monitoring; absence of nocturnal dipping; wide pulse pressure. (Book p816)"
+  },
+  {
+   "id": "MED-C22-030",
+   "sec": "Mogensen staging · p816",
+   "page": 816,
+   "fmt": "recall",
+   "q": "The BP progression across Mogensen stages I → IV is:",
+   "opts": [
+    "=/↑ → ↑ → ↑↑ → ↑↑↑",
+    "↓ → ↓↓ → ↓ → normal",
+    "Normal throughout",
+    "↑↑↑ → ↑ → =/↑ → ↓"
+   ],
+   "ans": 0,
+   "exp": "BP: I =/↑; II ↑; III ↑↑; IV ↑↑↑. (Book p816)"
+  },
+  {
+   "id": "MED-C22-031",
+   "sec": "Mogensen staging · p816",
+   "page": 816,
+   "fmt": "scenario",
+   "q": "A type 1 diabetic with 15 years of disease has a GFR of 55 ml/min and a spot ACR of 180 mg/g. The Mogensen stage is:",
+   "opts": [
+    "III — macroalbuminuria",
+    "IV — renal impairment",
+    "II — microalbuminuria",
+    "I — hyperfiltration"
+   ],
+   "ans": 2,
+   "exp": "Stage II: silent/microalbuminuria (GFR ↓/↑). (Book p816)"
+  },
+  {
+   "id": "MED-C22-032",
+   "sec": "Traver & nodular diseases · p816",
+   "page": 816,
+   "fmt": "recall",
+   "q": "The Traver et al classification is a:",
+   "opts": [
+    "Radiological map of the kidney",
+    "Histological classification",
+    "Clinical staging based on symptoms",
+    "Biochemical grading of the GFR"
+   ],
+   "ans": 1,
+   "exp": "Traver et al classification: histological classification. (Book p816)"
+  },
+  {
+   "id": "MED-C22-033",
+   "sec": "Traver & nodular diseases · p816",
+   "page": 816,
+   "fmt": "recall",
+   "q": "Its characteristic pattern is:",
+   "opts": [
+    "Membranous thickening",
+    "Nodular glomerulosclerosis",
+    "Diffuse mesangial expansion",
+    "Crescent formation"
+   ],
+   "ans": 1,
+   "exp": "Characteristic pattern: nodular glomerulosclerosis. (Book p816)"
+  },
+  {
+   "id": "MED-C22-034",
+   "sec": "Traver & nodular diseases · p816",
+   "page": 816,
+   "fmt": "match",
+   "q": "Match the following Traver class to its feature — 1) I  2) II  3) III  4) IV … A) Nodular sclerosis (KW lesions)  B) Advanced diabetic glomerulosclerosis  C) GBM thickening (earliest finding)  D) Mesangial expansion (m/c)",
+   "opts": [
+    "1-C, 2-A, 3-D, 4-B",
+    "1-D, 2-C, 3-A, 4-B",
+    "1-C, 2-D, 3-B, 4-A",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 3,
+   "exp": "I: GBM thickening (earliest); II: mesangial expansion (m/c 90%; afferent & efferent hyalinosis); III: nodular sclerosis (KW lesions, 50% pts, most specific); IV: advanced diabetic glomerulosclerosis. (Book p816)"
+  },
+  {
+   "id": "MED-C22-035",
+   "sec": "Traver & nodular diseases · p816",
+   "page": 816,
+   "fmt": "numeric",
+   "q": "Mesangial expansion (class II) is the m/c pattern in what share?",
+   "opts": [
+    "50%",
+    "10%",
+    "70%",
+    "90%"
+   ],
+   "ans": 3,
+   "exp": "Class II: mesangial expansion (m/c 90%). (Book p816)"
+  },
+  {
+   "id": "MED-C22-036",
+   "sec": "Traver & nodular diseases · p816",
+   "page": 816,
+   "fmt": "numeric",
+   "q": "KW lesions (class III) appear in only what share of patients, and are the most specific?",
+   "opts": [
+    "50% — most specific",
+    "90% — most common",
+    "10% — rarest",
+    "75% — most specific"
+   ],
+   "ans": 0,
+   "exp": "Class III: nodular sclerosis (KW lesions - Kimmelstiel wilson) only 50% pts, most specific. (Book p816)"
+  },
+  {
+   "id": "MED-C22-037",
+   "sec": "Traver & nodular diseases · p816",
+   "page": 816,
+   "fmt": "fillup",
+   "q": "Fill up: The KW lesions of class III are named after Kimmelstiel and ______.",
+   "opts": [
+    "Glomerular",
+    "Nodular",
+    "Traver",
+    "Wilson"
+   ],
+   "ans": 3,
+   "exp": "KW lesions - Kimmelstiel wilson. (Book p816)"
+  },
+  {
+   "id": "MED-C22-038",
+   "sec": "Traver & nodular diseases · p816",
+   "page": 816,
+   "fmt": "oddoneout",
+   "q": "All but one are Traver classes. Which is the odd one out?",
+   "opts": [
+    "Crescentic GN",
+    "GBM thickening",
+    "Mesangial expansion",
+    "Advanced diabetic glomerulosclerosis"
+   ],
+   "ans": 0,
+   "exp": "Traver classes I-IV: GBM thickening, mesangial expansion, nodular sclerosis (KW), advanced diabetic glomerulosclerosis. (Book p816)"
+  },
+  {
+   "id": "MED-C22-039",
+   "sec": "Traver & nodular diseases · p816",
+   "page": 816,
+   "fmt": "recall",
+   "q": "Class II also includes which arteriolar change?",
+   "opts": [
+    "Afferent and efferent hyalinosis",
+    "Intimal fibrosis of the vessel wall",
+    "Medial calcification of the tunica",
+    "Aneurysm formation along the course"
+   ],
+   "ans": 0,
+   "exp": "Class II: mesangial expansion (m/c 90%) (afferent & efferent hyalinosis). (Book p816)"
+  },
+  {
+   "id": "MED-C22-040",
+   "sec": "Traver & nodular diseases · p816",
+   "page": 816,
+   "fmt": "recall",
+   "q": "The nodular kidney diseases in the note are:",
+   "opts": [
+    "Amyloidosis alone, without other nodular causes",
+    "Diabetes (KW nodules), MPGN, lichen deposition diseases, amyloidosis, smokers",
+    "IgA nephropathy, FSGS (proliferative type), lupus nephritis, transplant",
+    "Alport, thin basement membrane, minimal change disease"
+   ],
+   "ans": 1,
+   "exp": "Nodular kidney diseases: diabetes (KW nodules); MPGN (membrano proliferative glomerulonephritis); lichen deposition diseases; amyloidosis; smokers. (Book p816)"
+  },
+  {
+   "id": "MED-C22-041",
+   "sec": "Traver & nodular diseases · p816",
+   "page": 816,
+   "fmt": "oddoneout",
+   "q": "All but one are nodular kidney diseases on the note. Which is the odd one out?",
+   "opts": [
+    "MPGN",
+    "Amyloidosis",
+    "IgA nephropathy",
+    "Diabetes"
+   ],
+   "ans": 2,
+   "exp": "Note list: diabetes, MPGN, lichen deposition diseases, amyloidosis, smokers. (Book p816)"
+  },
+  {
+   "id": "MED-C22-042",
+   "sec": "Traver & nodular diseases · p816",
+   "page": 816,
+   "fmt": "recall",
+   "q": "Diabetic nephropathy is also known as:",
+   "opts": [
+    "Albuminuric DKD",
+    "Non-albuminuric DKD",
+    "Nodular DKD",
+    "Ischemic DKD"
+   ],
+   "ans": 0,
+   "exp": "Diabetic nephropathy: AKA albuminuric DKD. (Book p816)"
+  },
+  {
+   "id": "MED-C22-043",
+   "sec": "Traver & nodular diseases · p816",
+   "page": 816,
+   "fmt": "recall",
+   "q": "The first criterion for diabetic nephropathy is:",
+   "opts": [
+    "Proteinuria (albuminuria) — nephrotic range without syndrome",
+    "Microscopic hematuria with RBC casts on microscopy",
+    "Oliguria with rising creatinine over days (AKI pattern)",
+    "Hyperkalemia with metabolic acidosis and hyperphosphatemia"
+   ],
+   "ans": 0,
+   "exp": "Criteria all of: proteinuria (albuminuria): nephrotic range without syndrome. (Book p816)"
+  },
+  {
+   "id": "MED-C22-044",
+   "sec": "Traver & nodular diseases · p816",
+   "page": 816,
+   "fmt": "truefalse",
+   "q": "Diabetic nephropathy criteria include micro- or macro-hematuria.",
+   "opts": [
+    "True, but only in children and adolescents",
+    "True — microhematuria is the hallmark",
+    "False — the criteria state no micro/macro hematuria",
+    "False — hematuria is required for the diagnosis"
+   ],
+   "ans": 2,
+   "exp": "No micro / macro hematuria. (Book p816)"
+  },
+  {
+   "id": "MED-C22-045",
+   "sec": "DN criteria & non-diabetic RPD · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "On this page the all-of criteria for diabetic nephropathy continue with:",
+   "opts": [
+    "Oliguria",
+    "Hypernatremia",
+    "Hypertension",
+    "Hematuria"
+   ],
+   "ans": 2,
+   "exp": "Criteria (all of) continue: hypertension. (Book p817)"
+  },
+  {
+   "id": "MED-C22-046",
+   "sec": "DN criteria & non-diabetic RPD · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "The edema of diabetic nephropathy is described as:",
+   "opts": [
+    "Intravascular > extra, due to low albumin in the blood",
+    "Pure interstitial edema without plasma shift",
+    "Pitting edema of the legs only, dependent parts",
+    "Extra > intravascular, due to Na⁺ and glucose transporters"
+   ],
+   "ans": 3,
+   "exp": "Edema (extra > intravascular): d/t Na⁺, glucose transporters. (Book p817)"
+  },
+  {
+   "id": "MED-C22-047",
+   "sec": "DN criteria & non-diabetic RPD · p817",
+   "page": 817,
+   "fmt": "numeric",
+   "q": "Retinopathy concordance in T1 DM is seen in:",
+   "opts": [
+    "65% of patients",
+    "50% of patients",
+    "25% of patients",
+    "100% of patients"
+   ],
+   "ans": 3,
+   "exp": "Retinopathy concordance: T1 DM — 100% patients; T2 DM — 65% patients. (Book p817)"
+  },
+  {
+   "id": "MED-C22-048",
+   "sec": "DN criteria & non-diabetic RPD · p817",
+   "page": 817,
+   "fmt": "numeric",
+   "q": "Retinopathy concordance in T2 DM is seen in:",
+   "opts": [
+    "35% of patients",
+    "90% of patients",
+    "65% of patients",
+    "100% of patients"
+   ],
+   "ans": 2,
+   "exp": "T2 DM: 65% patients. (Book p817)"
+  },
+  {
+   "id": "MED-C22-049",
+   "sec": "DN criteria & non-diabetic RPD · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "If any criterion of diabetic nephropathy is absent, the step is:",
+   "opts": [
+    "Repeat ACR in 6 months",
+    "Start insulin",
+    "Refer for transplant",
+    "Biopsy"
+   ],
+   "ans": 3,
+   "exp": "If any is absent: biopsy. (Book p817)"
+  },
+  {
+   "id": "MED-C22-050",
+   "sec": "DN criteria & non-diabetic RPD · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "Non-albuminuric DKD is associated with:",
+   "opts": [
+    "Tubulointerstitial and vascular damage",
+    "Pure glomerular disease without tubules",
+    "Isolated podocytopathy of the tuft",
+    "Nodular sclerosis of the capillaries"
+   ],
+   "ans": 0,
+   "exp": "Non albuminuric DKD: associated with tubulointerstitial and vascular damage. (Book p817)"
+  },
+  {
+   "id": "MED-C22-051",
+   "sec": "DN criteria & non-diabetic RPD · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "A diabetic patient with non-diabetic renal disease — which onset timing is a red flag?",
+   "opts": [
+    "Only after ESRD has developed",
+    "Renal dysfunction onset <10 years of DM (T1 DM > T2 DM)",
+    "Onset more than 20 years after diagnosis",
+    "At age 50 regardless of DM duration (chronic phase)"
+   ],
+   "ans": 1,
+   "exp": "Causes: renal dysfunction onset <10y of DM; T1 DM > T2 DM. (Book p817)"
+  },
+  {
+   "id": "MED-C22-052",
+   "sec": "DN criteria & non-diabetic RPD · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "Absent nephropathy is more suggestive of non-diabetic disease in:",
+   "opts": [
+    "Neither",
+    "T1 DM > T2 DM",
+    "T2 DM > T1 DM",
+    "Both equally"
+   ],
+   "ans": 1,
+   "exp": "Absent nephropathy: T1 DM > T2 DM. (Book p817)"
+  },
+  {
+   "id": "MED-C22-053",
+   "sec": "DN criteria & non-diabetic RPD · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "The extra-renal clues for non-diabetic renal disease are:",
+   "opts": [
+    "Gout and asthma",
+    "Thyroiditis and celiac",
+    "Psoriasis and IBD",
+    "Vasculitis and myeloma"
+   ],
+   "ans": 3,
+   "exp": "Extra renal: vasculitis, myeloma. (Book p817)"
+  },
+  {
+   "id": "MED-C22-054",
+   "sec": "DN criteria & non-diabetic RPD · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "The nephrotic and renal markers listed for non-diabetic renal disease include:",
+   "opts": [
+    "Polycystic kidneys with stone formation and pain",
+    "Nephrotic syndrome, hematuria/RBC casts and rapidly progressive renal failure",
+    "Oliguria with hypokalemia and a rising GFR over time",
+    "Isolated microscopic hematuria, sediment otherwise inactive"
+   ],
+   "ans": 1,
+   "exp": "Nephrotic syndrome; hematuria/RBC casts in urine; rapidly progressive renal failure (RPRF). (Book p817)"
+  },
+  {
+   "id": "MED-C22-055",
+   "sec": "DN criteria & non-diabetic RPD · p817",
+   "page": 817,
+   "fmt": "oddoneout",
+   "q": "All but one are red flags for non-diabetic renal disease in a diabetic. Which is the odd one out?",
+   "opts": [
+    "Nephrotic syndrome",
+    "RBC casts",
+    "Rapidly progressive renal failure",
+    "Isolated microalbuminuria"
+   ],
+   "ans": 3,
+   "exp": "Red flags: nephrotic syndrome; onset <10y of DM; absent nephropathy; hematuria/RBC casts; vasculitis/myeloma; RPRF. (Book p817)"
+  },
+  {
+   "id": "MED-C22-056",
+   "sec": "DN criteria & non-diabetic RPD · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "The management named when non-diabetic renal disease is suspected is:",
+   "opts": [
+    "Biopsy",
+    "ACE inhibitor only",
+    "Dialysis",
+    "Transplant work-up"
+   ],
+   "ans": 0,
+   "exp": "Mx: biopsy. (Book p817)"
+  },
+  {
+   "id": "MED-C22-057",
+   "sec": "DN criteria & non-diabetic RPD · p817",
+   "page": 817,
+   "fmt": "match",
+   "q": "Match the following box to its place in the hypertension-in-DKD diagram — 1) Exogenous + genetic factors  2) Insulin resistance / hyperleptinemia  3) Angiotensin II … A) Sympathetic activation  B) Obesity ↔ type 2 diabetes  C) Hypertension",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 2,
+   "exp": "Hypertension in DKD: exogenous/genetic factors → obesity ↔ type 2 diabetes → insulin resistance/hyperleptinemia, hyperglycemia, dyslipidemia → sympathetic activation, microvasculopathy, macrovasculopathy → angiotensin II → hypertension. (Book p817)"
+  },
+  {
+   "id": "MED-C22-058",
+   "sec": "DN criteria & non-diabetic RPD · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "The terminal step of the hypertension-in-DKD diagram is:",
+   "opts": [
+    "Sympathetic activation",
+    "Hyperleptinemia",
+    "Dyslipidemia",
+    "Angiotensin II → hypertension"
+   ],
+   "ans": 3,
+   "exp": "Angiotensin II → hypertension. (Book p817)"
+  },
+  {
+   "id": "MED-C22-059",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "fillup",
+   "q": "Fill up: The target glucose in DKD management is set above ______ mg/dl to avoid the risk of hypoglycemia (as printed on the page).",
+   "opts": [
+    "140",
+    "7",
+    "70",
+    "100"
+   ],
+   "ans": 1,
+   "exp": "Target glucose: >7 mg/dl (to avoid risk of hypoglycemia) — printed exactly as such on the page. (Book p817)"
+  },
+  {
+   "id": "MED-C22-060",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "For DM control and weight loss, the DOC is:",
+   "opts": [
+    "Insulin as the preferred DOC (early in disease)",
+    "Glibenclamide for most patients",
+    "Glipizide as the DOC for CKD",
+    "Metformin (if GFR >30 ml/min)"
+   ],
+   "ans": 3,
+   "exp": "DM control and weight loss: lifestyle modification; DOC: metformin if GFR >30 ml/min. (Book p817)"
+  },
+  {
+   "id": "MED-C22-061",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "numeric",
+   "q": "Metformin is the DOC when GFR exceeds:",
+   "opts": [
+    "60 ml/min",
+    "30 ml/min",
+    "15 ml/min",
+    "45 ml/min"
+   ],
+   "ans": 1,
+   "exp": "DOC: metformin if GFR >30 ml/min. (Book p817)"
+  },
+  {
+   "id": "MED-C22-062",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "For macrovascular complications (CKD/ASCVD), the DOC class is:",
+   "opts": [
+    "DPP-4 inhibitors",
+    "TZDs",
+    "SGLT2 inhibitors",
+    "Sulfonylureas"
+   ],
+   "ans": 2,
+   "exp": "Macrovascular complications (CKD/ASCVD): DOC — SGLT2 (-). (Book p817)"
+  },
+  {
+   "id": "MED-C22-063",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "The four SGLT2 inhibitors named are:",
+   "opts": [
+    "Canagliflozin, dapagliflozin, empagliflozin, ertugliflozin",
+    "Linagliptin, sitagliptin, vildagliptin, saxagliptin",
+    "Liraglutide, semaglutide, dulaglutide, exenatide",
+    "Metformin, gliclazide, glipizide, insulin"
+   ],
+   "ans": 0,
+   "exp": "Canagliflozin, dapagliflozin, empagliflozin, ertugliflozin; initiated at GFR >30 ml/min. (Book p817)"
+  },
+  {
+   "id": "MED-C22-064",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "oddoneout",
+   "q": "All but one are SGLT2 inhibitors on the macrovascular list. Which is the odd one out?",
+   "opts": [
+    "Ipragliflozin",
+    "Canagliflozin",
+    "Dapagliflozin",
+    "Empagliflozin"
+   ],
+   "ans": 0,
+   "exp": "Listed: canagliflozin, dapagliflozin, empagliflozin, ertugliflozin. (Book p817)"
+  },
+  {
+   "id": "MED-C22-065",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "numeric",
+   "q": "SGLT2 inhibitors for macrovascular complications are initiated when GFR exceeds:",
+   "opts": [
+    "15 ml/min",
+    "45 ml/min",
+    "60 ml/min",
+    "30 ml/min"
+   ],
+   "ans": 3,
+   "exp": "Initiated: GFR >30 ml/min. (Book p817)"
+  },
+  {
+   "id": "MED-C22-066",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "In the diabetes-control table, metformin's effect on CKD progression is:",
+   "opts": [
+    "Risk",
+    "Increased risk",
+    "Neutral",
+    "Benefit"
+   ],
+   "ans": 2,
+   "exp": "Metformin row: progression of CKD — neutral; ASCVD/HF potential benefit; glucose-lowering high; hypoglycemia low; weight neutral. (Book p817)"
+  },
+  {
+   "id": "MED-C22-067",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "In the table, which drug class shows benefit across CKD progression, ASCVD and heart failure?",
+   "opts": [
+    "SGLT2 inhibitors",
+    "Metformin",
+    "Sulfonylureas",
+    "α-Glucosidase inhibitors"
+   ],
+   "ans": 0,
+   "exp": "SGLT2 inhibitors row: benefit / benefit / benefit; intermediate glucose-lowering; low hypoglycemia; weight loss. (Book p817)"
+  },
+  {
+   "id": "MED-C22-068",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "GLP-1 receptor agonists in the table show:",
+   "opts": [
+    "Increased HF risk, with weight gain and high glucose-lowering",
+    "Benefit for all three, with weight gain and highest glucose-lowering",
+    "Benefit for progression and ASCVD; potential benefit for HF; weight loss",
+    "Neutral for progression, with weight gain and low glucose-lowering"
+   ],
+   "ans": 2,
+   "exp": "GLP-1 RA row: benefit, benefit, potential benefit, high, low, loss. (Book p817)"
+  },
+  {
+   "id": "MED-C22-069",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "The DPP-4 inhibitor entry carries which heart-failure caution?",
+   "opts": [
+    "Definite benefit",
+    "Potential risk (saxagliptin)",
+    "Increased risk (pioglitazone)",
+    "No cardiac signal"
+   ],
+   "ans": 1,
+   "exp": "DPP-4 row: heart failure — potential risk (saxagliptin); progression/ASCVD neutral. (Book p817)"
+  },
+  {
+   "id": "MED-C22-070",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "truefalse",
+   "q": "Thiazolidinediones show an increased heart-failure risk in the table.",
+   "opts": [
+    "False — they are neutral for HF",
+    "True, but only with metformin",
+    "True",
+    "False — they show benefit"
+   ],
+   "ans": 2,
+   "exp": "TZD row: heart failure — increased risk; ASCVD — potential benefit (pioglitazone). (Book p817)"
+  },
+  {
+   "id": "MED-C22-071",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "The ASCVD nuance in the TZD row is:",
+   "opts": [
+    "Potential risk (saxagliptin)",
+    "Neutral",
+    "Contraindicated",
+    "Potential benefit (pioglitazone)"
+   ],
+   "ans": 3,
+   "exp": "TZD: ASCVD — potential benefit (pioglitazone). (Book p817)"
+  },
+  {
+   "id": "MED-C22-072",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "Which two classes show weight gain with a high hypoglycemia risk in the table?",
+   "opts": [
+    "Insulin and sulfonylureas",
+    "Metformin and SGLT2i",
+    "GLP-1 RA and DPP-4",
+    "SGLT2i and TZDs"
+   ],
+   "ans": 0,
+   "exp": "Insulin: hypoglycemia high, weight gain; sulfonylureas: high, gain. (Book p817)"
+  },
+  {
+   "id": "MED-C22-073",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "match",
+   "q": "Match the following drug class to its weight effect in the table — 1) Metformin  2) SGLT2 inhibitors  3) Insulin  4) TZDs … A) Loss  B) Gain  C) Neutral",
+   "opts": [
+    "1-C, 2-A, 3-B, 4-B",
+    "1-C, 2-B, 3-A, 4-B",
+    "1-A, 2-C, 3-B, 4-B",
+    "1-C, 2-A, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Weight: metformin neutral; SGLT2i loss; insulin gain; TZD gain. (Book p817)"
+  },
+  {
+   "id": "MED-C22-074",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "First-line proteinuria control in DKD is:",
+   "opts": [
+    "Calcium channel blockers + aliskiren",
+    "SGLT2 inhibitors + ACE inhibitors",
+    "Finerenone + spironolactone",
+    "Loop diuretics + thiazides"
+   ],
+   "ans": 1,
+   "exp": "Proteinuria control: 1st line — SGLT2 (-), ACE (-). (Book p817)"
+  },
+  {
+   "id": "MED-C22-075",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "recall",
+   "q": "If proteinuria is uncontrolled with 1st line therapy, the 2nd line drug is:",
+   "opts": [
+    "Spironolactone — a steroidal MRA of the same class",
+    "Eplerenone — a selective steroidal MRA",
+    "Amiloride — a potassium-sparing diuretic",
+    "Finerenone — a non-steroidal mineralocorticoid receptor antagonist"
+   ],
+   "ans": 3,
+   "exp": "2nd line uncontrolled with 1st line: finerenone — non-steroidal mineralocorticoid receptor antagonist. (Book p817)"
+  },
+  {
+   "id": "MED-C22-076",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "truefalse",
+   "q": "With finerenone, serum potassium must be monitored because of hyperkalemia risk.",
+   "opts": [
+    "False — it is potassium-safe",
+    "False — hypokalemia is the risk",
+    "True, but only in type 1",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "Monitor s. K⁺ (hyperkalemia risk). (Book p817)"
+  },
+  {
+   "id": "MED-C22-077",
+   "sec": "DKD management · p817",
+   "page": 817,
+   "fmt": "scenario",
+   "q": "A diabetic CKD patient on SGLT2i + ACEi still has heavy proteinuria. The next agent per the page is:",
+   "opts": [
+    "Add a loop diuretic for the edema",
+    "Add a DPP-4 inhibitor for glucose",
+    "Finerenone, with K⁺ monitoring",
+    "Add an ARB to the ACE inhibitor"
+   ],
+   "ans": 2,
+   "exp": "2nd line (uncontrolled with 1st line): finerenone; monitor s. K⁺ (hyperkalemia risk). (Book p817)"
+  },
+  {
+   "id": "MED-C22-078",
+   "sec": "Other DM drugs in CKD · p818",
+   "page": 818,
+   "fmt": "recall",
+   "q": "The most preferred GLP-1 receptor agonist named is:",
+   "opts": [
+    "Semaglutide",
+    "Dulaglutide",
+    "Exenatide",
+    "Liraglutide"
+   ],
+   "ans": 3,
+   "exp": "GLP-1 RA: most preferred liraglutide. (Book p818)"
+  },
+  {
+   "id": "MED-C22-079",
+   "sec": "Other DM drugs in CKD · p818",
+   "page": 818,
+   "fmt": "recall",
+   "q": "The oral GLP-1 receptor agonist named is:",
+   "opts": [
+    "Lixisenatide",
+    "Albiglutide",
+    "Semaglutide",
+    "Liraglutide"
+   ],
+   "ans": 2,
+   "exp": "Oral: semaglutide. (Book p818)"
+  },
+  {
+   "id": "MED-C22-080",
+   "sec": "Other DM drugs in CKD · p818",
+   "page": 818,
+   "fmt": "truefalse",
+   "q": "GLP-1 receptor agonists need dose adjustment in CKD.",
+   "opts": [
+    "True",
+    "False — only liraglutide is exempt",
+    "True, below GFR 30",
+    "False — no dose adjustment required"
+   ],
+   "ans": 3,
+   "exp": "No dose adjustment required. (Book p818)"
+  },
+  {
+   "id": "MED-C22-081",
+   "sec": "Other DM drugs in CKD · p818",
+   "page": 818,
+   "fmt": "recall",
+   "q": "The most preferred DPP-4 inhibitor in CKD is:",
+   "opts": [
+    "Saxagliptin",
+    "Vildagliptin",
+    "Linagliptin",
+    "Sitagliptin"
+   ],
+   "ans": 2,
+   "exp": "DPP-4: most preferred linagliptin (no dose adjustment). (Book p818)"
+  },
+  {
+   "id": "MED-C22-082",
+   "sec": "Other DM drugs in CKD · p818",
+   "page": 818,
+   "fmt": "truefalse",
+   "q": "All DPP-4 inhibitors need dose adjustment in CKD.",
+   "opts": [
+    "True — every DPP-4 inhibitor needs adjustment",
+    "False — none need adjustment in CKD",
+    "True, except for saxagliptin alone",
+    "False — linagliptin needs none; others require adjustment"
+   ],
+   "ans": 3,
+   "exp": "Linagliptin (no dose adjustment); others require dose adjustment. (Book p818)"
+  },
+  {
+   "id": "MED-C22-083",
+   "sec": "Other DM drugs in CKD · p818",
+   "page": 818,
+   "fmt": "recall",
+   "q": "Sulfonylureas in CKD are:",
+   "opts": [
+    "Reserved for ESRD",
+    "Not preferred",
+    "First choice",
+    "The safest class"
+   ],
+   "ans": 1,
+   "exp": "Sulfonylureas: not preferred. (Book p818)"
+  },
+  {
+   "id": "MED-C22-084",
+   "sec": "Other DM drugs in CKD · p818",
+   "page": 818,
+   "fmt": "recall",
+   "q": "The renal-safe sulfonylureas named are:",
+   "opts": [
+    "Glipizide and gliclazide",
+    "Glibenclamide and glimepiride",
+    "Glicazide alone",
+    "Chlorpropamide and tolbutamide"
+   ],
+   "ans": 0,
+   "exp": "Renal safe: glipizide, gliclazide. (Book p818)"
+  },
+  {
+   "id": "MED-C22-085",
+   "sec": "Other DM drugs in CKD · p818",
+   "page": 818,
+   "fmt": "oddoneout",
+   "q": "All but one are the renal-safe sulfonylureas or eGFRD-safe drugs on this page. Which is the odd one out?",
+   "opts": [
+    "Glibenclamide",
+    "Glipizide",
+    "Gliclazide",
+    "Imeglimin"
+   ],
+   "ans": 0,
+   "exp": "Renal safe: glipizide, gliclazide; drugs safe in eGFRD include imeglimin. (Book p818)"
+  },
+  {
+   "id": "MED-C22-086",
+   "sec": "Other DM drugs in CKD · p818",
+   "page": 818,
+   "fmt": "recall",
+   "q": "The drugs listed as safe in eGFRD are:",
+   "opts": [
+    "Metformin, SGLT2i, finerenone",
+    "Linagliptin alone",
+    "Liraglutide, semaglutide, insulin",
+    "Insulin, glipizide, gliclazide and imeglimin"
+   ],
+   "ans": 3,
+   "exp": "Drugs safe in eGFRD: insulin; glipizide, gliclazide; imeglimin (CKD). (Book p818)"
+  },
+  {
+   "id": "MED-C22-087",
+   "sec": "Other DM drugs in CKD · p818",
+   "page": 818,
+   "fmt": "fillup",
+   "q": "Fill up: Imeglimin is an oxidative ______ blocker, listed for CKD.",
+   "opts": [
+    "transport",
+    "phosphorylation",
+    "glycosylation",
+    "degradation"
+   ],
+   "ans": 1,
+   "exp": "Imeglimin (CKD) = oxidative phosphorylation blocker. (Book p818)"
+  },
+  {
+   "id": "MED-C22-088",
+   "sec": "Other DM drugs in CKD · p818",
+   "page": 818,
+   "fmt": "match",
+   "q": "Match the following class to its preferred or renal-safe agent — 1) GLP-1 RA  2) DPP-4  3) Sulfonylureas … A) Linagliptin  B) Liraglutide  C) Glipizide / gliclazide",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 2,
+   "exp": "GLP-1 — liraglutide; DPP-4 — linagliptin; sulfonylureas — glipizide/gliclazide. (Book p818)"
+  },
+  {
+   "id": "MED-C22-089",
+   "sec": "Other DM drugs in CKD · p818",
+   "page": 818,
+   "fmt": "scenario",
+   "q": "A CKD patient on a sulfonylurea for glucose control needs a renal-safe swap. The named options are:",
+   "opts": [
+    "Glipizide or gliclazide",
+    "Glibenclamide",
+    "Chlorpropamide",
+    "Keep the current agent"
+   ],
+   "ans": 0,
+   "exp": "Renal safe: glipizide, gliclazide. (Book p818)"
+  },
+  {
+   "id": "MED-C22-090",
+   "sec": "Other DM drugs in CKD · p818",
+   "page": 818,
+   "fmt": "recall",
+   "q": "Imeglimin's listed role in CKD is as a:",
+   "opts": [
+    "SGLT2 inhibitor",
+    "DPP-4 inhibitor",
+    "Insulin secretagogue only",
+    "Oxidative phosphorylation blocker"
+   ],
+   "ans": 3,
+   "exp": "Imeglimin (CKD) = oxidative phosphorylation blocker. (Book p818)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U22-1",
+   "ch": 22,
+   "n": 1,
+   "title": "Risk and albuminuria screening",
+   "sec": "DKD risk & screening · p815",
+   "guide": "RISK: 50-60% of diabetic patients, ↑ with age; T1 DM screen 5 yearly, T2 DM at diagnosis. Screening: check for albuminuria every 3-6 months — 24-hr urine protein (superior, but cumbersome) or early morning albumin:creatinine (ACR). Levels: <30 normal; 30-300 microalbuminuria (endothelial injury, ↑ thrombosis risk); >300 albuminuria.",
+   "qs": [
+    "MED-C22-001",
+    "MED-C22-002",
+    "MED-C22-003",
+    "MED-C22-004",
+    "MED-C22-005",
+    "MED-C22-006",
+    "MED-C22-007",
+    "MED-C22-008",
+    "MED-C22-009",
+    "MED-C22-010"
+   ]
+  },
+  {
+   "id": "MED-U22-2",
+   "ch": 22,
+   "n": 2,
+   "title": "Hyperfiltration pathogenesis and the SGLT2i mechanism",
+   "sec": "DKD pathogenesis · p815",
+   "guide": "Afferent vasodilation + efferent vasoconstriction → glomerular hyperfiltration → intraglomerular hypertension. Net ↓ afferent resistance: NO bioavailability, prostaglandins, kallikrein-kinins, ANF, angiotensin (↓); net ↑ efferent resistance: angiotensin II, thromboxane A2, endothelin-1 (ETA). Panels: A normal (appropriate tone, normal TGF/GFR); B early DN (afferent vasodilation + ↑ Na/glucose reabsorption → ↓ Na delivery to macula densa → impaired TGF); C SGLT2i (proximal Na reabsorption ↓ → ↑ Na to macula densa → afferent constriction → GFR normalized; glucosuria). SGLT2i: 1st line for hyperfiltration injury.",
+   "qs": [
+    "MED-C22-011",
+    "MED-C22-012",
+    "MED-C22-013",
+    "MED-C22-014",
+    "MED-C22-015",
+    "MED-C22-016",
+    "MED-C22-017",
+    "MED-C22-018",
+    "MED-C22-019",
+    "MED-C22-020",
+    "MED-C22-021",
+    "MED-C22-022",
+    "MED-C22-023"
+   ]
+  },
+  {
+   "id": "MED-U22-3",
+   "ch": 22,
+   "n": 3,
+   "title": "Mogensen staging (T1 DM model)",
+   "sec": "Mogensen staging · p816",
+   "guide": "Mogensen: on the model of T1 DM; not very accurate for T2 DM; stage V = ESRD. Table: I hyperfiltration (GFR ↑, BP =/↑); II silent + microalbuminuria (GFR ↓/↑, BP ↑ — 24-hr ambulatory monitoring: absence of nocturnal dipping, wide pulse pressure); III macroalbuminuria (GFR =/↓, BP ↑↑); IV renal impairment (GFR ↓, BP ↑↑↑).",
+   "qs": [
+    "MED-C22-024",
+    "MED-C22-025",
+    "MED-C22-026",
+    "MED-C22-027",
+    "MED-C22-028",
+    "MED-C22-029",
+    "MED-C22-030",
+    "MED-C22-031"
+   ]
+  },
+  {
+   "id": "MED-U22-4",
+   "ch": 22,
+   "n": 4,
+   "title": "Traver histology, nodular diseases and DN criteria",
+   "sec": "Traver & nodular diseases · p816",
+   "guide": "Traver et al: histological; characteristic pattern nodular glomerulosclerosis. I GBM thickening (earliest); II mesangial expansion (m/c 90%; afferent & efferent hyalinosis); III nodular sclerosis — KW lesions (Kimmelstiel wilson), only 50% pts, most specific; IV advanced diabetic glomerulosclerosis. Nodular kidney diseases: diabetes (KW nodules), MPGN, lichen deposition diseases, amyloidosis, smokers. Diabetic nephropathy = albuminuric DKD; criteria (all of): proteinuria (albuminuria) nephrotic range without syndrome; no micro/macro hematuria.",
+   "qs": [
+    "MED-C22-032",
+    "MED-C22-033",
+    "MED-C22-034",
+    "MED-C22-035",
+    "MED-C22-036",
+    "MED-C22-037",
+    "MED-C22-038",
+    "MED-C22-039",
+    "MED-C22-040",
+    "MED-C22-041",
+    "MED-C22-042",
+    "MED-C22-043",
+    "MED-C22-044"
+   ]
+  },
+  {
+   "id": "MED-U22-5",
+   "ch": 22,
+   "n": 5,
+   "title": "DN criteria continued, non-albuminuric DKD and NDRD red flags",
+   "sec": "DN criteria & non-diabetic RPD · p817",
+   "guide": "Criteria continue: hypertension; edema extra > intravascular d/t Na⁺, glucose transporters; retinopathy concordance T1 100%, T2 65%; if any absent → biopsy. Non-albuminuric DKD: tubulointerstitial & vascular damage. Non-diabetic RPD: nephrotic syndrome; renal dysfunction onset <10y of DM (T1 > T2); absent nephropathy (T1 > T2); mx biopsy; hematuria/RBC casts; extra-renal vasculitis, myeloma; RPRF. Hypertension in DKD diagram: exogenous + genetic → obesity ↔ T2DM → insulin resistance/hyperleptinemia, hyperglycemia, dyslipidemia → sympathetic activation, micro/macrovasculopathy → angiotensin II → hypertension.",
+   "qs": [
+    "MED-C22-045",
+    "MED-C22-046",
+    "MED-C22-047",
+    "MED-C22-048",
+    "MED-C22-049",
+    "MED-C22-050",
+    "MED-C22-051",
+    "MED-C22-052",
+    "MED-C22-053",
+    "MED-C22-054",
+    "MED-C22-055",
+    "MED-C22-056",
+    "MED-C22-057",
+    "MED-C22-058"
+   ]
+  },
+  {
+   "id": "MED-U22-6",
+   "ch": 22,
+   "n": 6,
+   "title": "Management: glucose target, DM drug table, proteinuria control",
+   "sec": "DKD management · p817",
+   "guide": "Target glucose >7 mg/dl as printed (to avoid hypoglycemia). DM control & weight loss: lifestyle; DOC metformin if GFR >30 ml/min. Macrovascular (CKD/ASCVD): DOC SGLT2i — canagliflozin, dapagliflozin, empagliflozin, ertugliflozin; initiated GFR >30. Table: metformin neutral/neutral-potential benefit/high/low/neutral; SGLT2i benefit/benefit/benefit/intermediate/low/loss; GLP-1 benefit/benefit/potential benefit/high/low/loss; DPP-4 neutral/neutral/potential risk (saxagliptin)/intermediate/low/neutral; insulin neutral/neutral/neutral/highest/high/gain; sulfonylureas neutral/high/high/gain; TZD neutral/potential benefit (pioglitazone)/increased risk/high/low/gain; α-glucosidase inhibitors neutral/neutral/neutral/intermediate/low/neutral. Proteinuria: 1st line SGLT2i + ACEi; 2nd line finerenone (non-steroidal MRA) — monitor s. K⁺ (hyperkalemia risk).",
+   "qs": [
+    "MED-C22-059",
+    "MED-C22-060",
+    "MED-C22-061",
+    "MED-C22-062",
+    "MED-C22-063",
+    "MED-C22-064",
+    "MED-C22-065",
+    "MED-C22-066",
+    "MED-C22-067",
+    "MED-C22-068",
+    "MED-C22-069",
+    "MED-C22-070",
+    "MED-C22-071",
+    "MED-C22-072",
+    "MED-C22-073",
+    "MED-C22-074",
+    "MED-C22-075",
+    "MED-C22-076",
+    "MED-C22-077"
+   ]
+  },
+  {
+   "id": "MED-U22-7",
+   "ch": 22,
+   "n": 7,
+   "title": "Other DM drugs in CKD: preferred agents and eGFRD-safe list",
+   "sec": "Other DM drugs in CKD · p818",
+   "guide": "GLP-1 RA: most preferred liraglutide; oral semaglutide; no dose adjustment. DPP-4: most preferred linagliptin (no dose adjustment); others require adjustment. Sulfonylureas: not preferred; renal safe glipizide, gliclazide. Drugs safe in eGFRD: insulin; glipizide, gliclazide; imeglimin (CKD) = oxidative phosphorylation blocker.",
+   "qs": [
+    "MED-C22-078",
+    "MED-C22-079",
+    "MED-C22-080",
+    "MED-C22-081",
+    "MED-C22-082",
+    "MED-C22-083",
+    "MED-C22-084",
+    "MED-C22-085",
+    "MED-C22-086",
+    "MED-C22-087",
+    "MED-C22-088",
+    "MED-C22-089",
+    "MED-C22-090"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "page": 807,
+ "sec": "Dialysis indications & access · p807",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "If a patient is fit for dialysis, the definitive indication listed is:",
+   "opts": [
+    "Uremic symptoms",
+    "Volume overload",
+    "Hyperkalemia",
+    "Metabolic acidosis"
+   ],
+   "ans": 0,
+   "exp": "Indications: uremic symptoms (definitive); volume, K⁺, acidosis (relative). (Book p807)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one are the relative indications bracketed in red. Which is the odd one out?",
+   "opts": [
+    "Uremic symptoms",
+    "Volume",
+    "K⁺",
+    "Acidosis"
+   ],
+   "ans": 0,
+   "exp": "Relative indications: volume, K⁺, acidosis; uremic symptoms are the definitive indication. (Book p807)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: To create access, the named vessel connection is an AV ______ (6 weeks to mature).",
+   "opts": [
+    "fistula",
+    "graft",
+    "catheter",
+    "shunt"
+   ],
+   "ans": 0,
+   "exp": "Create access: AV fistula (6 weeks to mature). (Book p807)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The AV fistula needs how long to mature?",
+   "opts": [
+    "6 weeks",
+    "2 weeks",
+    "12 weeks",
+    "24 weeks"
+   ],
+   "ans": 0,
+   "exp": "AV fistula: 6 weeks to mature. (Book p807)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A CKD patient has volume overload and serum potassium 6.4 mmol/L but no uremic symptoms. These indications are classified as:",
+   "opts": [
+    "Relative — volume and K⁺",
+    "Definitive — uremic symptoms",
+    "Contraindications to dialysis",
+    "Too early to start dialysis"
+   ],
+   "ans": 0,
+   "exp": "Indications: uremic symptoms (definitive); volume, K⁺, acidosis (relative). (Book p807)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Uremic symptoms are listed as a relative indication for dialysis.",
+   "opts": [
+    "False — uremic symptoms are the definitive indication",
+    "True",
+    "False — uremic symptoms contraindicate dialysis",
+    "True, but only after a week"
+   ],
+   "ans": 0,
+   "exp": "Uremic symptoms (definitive); volume, K⁺, acidosis (relative). (Book p807)"
+  }
+ ]
+}

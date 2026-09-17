@@ -1,0 +1,102 @@
+{
+ "page": 807,
+ "sec": "CKD protocol: transplant & mortality · p807",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "The protocol on this page begins with:",
+   "opts": [
+    "Confirming the diagnosis of CKD",
+    "Starting dialysis",
+    "Listing for transplant",
+    "Measuring dry weight"
+   ],
+   "ans": 0,
+   "exp": "Protocol: confirm diagnosis of CKD. (Book p807)"
+  },
+  {
+   "fmt": "recall",
+   "q": "For a patient fit for transplant, the hurdle listed on the page is:",
+   "opts": [
+    "Vascular complications — medial calcifications",
+    "Nephrotic-range anemia",
+    "Autonomous hyperparathyroidism",
+    "Uncontrolled hypertension"
+   ],
+   "ans": 0,
+   "exp": "If patient fit for transplant: hurdles — vascular complications (medial calcifications) → ↓ chance of success. (Book p807)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Vascular complications with medial calcifications improve the chance of a successful transplant.",
+   "opts": [
+    "False — they lower the chance of success",
+    "True",
+    "False — they are irrelevant to transplant",
+    "True, but only after dialysis"
+   ],
+   "ans": 0,
+   "exp": "Hurdles for transplant: vascular complications — medial calcifications → ↓ chance of success. (Book p807)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The transplant-success ranking written on the page is:",
+   "opts": [
+    "CGN, CTID > DKD, IN",
+    "DKD, IN > CGN, CTID",
+    "ADPKD > DKD > CGN",
+    "IN > DKD > CTID > CGN"
+   ],
+   "ans": 0,
+   "exp": "Success: CGN, CTID > DKD, IN. (Book p807)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A CKD patient with chronic glomerulonephritis is being compared with one with diabetic kidney disease for transplant. Per the page, the better expected transplant success belongs to:",
+   "opts": [
+    "The CGN patient",
+    "The DKD patient",
+    "An IN patient",
+    "An ADPKD patient"
+   ],
+   "ans": 0,
+   "exp": "Success: CGN, CTID > DKD, IN. (Book p807)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The dialysis-mortality co-relation graph plots mortality rate against:",
+   "opts": [
+    "Days after the start of dialysis",
+    "Serum creatinine at the same time point",
+    "The GFR measured at the time of admission",
+    "Urine albumin excretion over the same period"
+   ],
+   "ans": 0,
+   "exp": "Graph: mortality rate* vs days after the start of dialysis (0-360). (Book p807)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "On that graph, the mortality-rate curves sit at their highest during which window?",
+   "opts": [
+    "The first 30 days",
+    "Days 180-210",
+    "Days 300-330",
+    "After day 360"
+   ],
+   "ans": 0,
+   "exp": "Mortality rate peaks early (≈34% at day 15-50 in age >65; ≈22-23% all patients) and falls over the 360-day course. (Book p807)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which curve sits lowest on the dialysis-mortality graph throughout the 360 days?",
+   "opts": [
+    "Age <65 years",
+    "Age >65 years",
+    "All patients",
+    "Dialysis-dependent"
+   ],
+   "ans": 0,
+   "exp": "The age <65 curve runs lowest (≈6-7% early, ≈2% by day 350); age >65 runs highest (≈34% early). (Book p807)"
+  }
+ ]
+}

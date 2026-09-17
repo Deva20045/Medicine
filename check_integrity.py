@@ -38,6 +38,10 @@ LIVE_CHAPTERS = {
     16: ("Ciliopathies", 786, 792, 139, 6),
     17: ("Chronic Tubulointerstitial Disease", 793, 795, 52, 3),
     18: ("Acute Kidney Injury", 796, 804, 181, 9),
+    19: ("Chronic Kidney Disease", 805, 807, 91, 8),
+    20: ("Anemia in Chronic Kidney Disease", 808, 810, 76, 7),
+    21: ("CKD - Calciphylaxis and Cardiovascular changes", 811, 814, 93, 6),
+    22: ("Diabetic Kidney Disease", 815, 818, 90, 7),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain

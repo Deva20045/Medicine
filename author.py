@@ -29,6 +29,10 @@ TITLES = {
     16: ("Ciliopathies", "786-792", 786),
     17: ("Chronic Tubulointerstitial Disease", "793-795", 793),
     18: ("Acute Kidney Injury", "796-804", 796),
+    19: ("Chronic Kidney Disease", "805-807", 805),
+    20: ("Anemia in Chronic Kidney Disease", "808-810", 808),
+    21: ("CKD - Calciphylaxis and Cardiovascular changes", "811-814", 811),
+    22: ("Diabetic Kidney Disease", "815-818", 815),
 }
 
 BANNED = [

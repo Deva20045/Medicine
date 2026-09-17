@@ -1,0 +1,54 @@
+{
+ "page": 809,
+ "sec": "Management step 1 · p809",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Management STEP 1 is to:",
+   "opts": [
+    "Replenish iron store",
+    "Start ESA",
+    "Transfuse RBCs",
+    "Give EPO"
+   ],
+   "ans": 0,
+   "exp": "STEP 1: replenish iron store. (Book p809)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Replenish iron store = 2.2 × BW × (Hb deficit) + ______.",
+   "opts": [
+    "1000 mg",
+    "500 mg",
+    "2000 mg",
+    "250 mg"
+   ],
+   "ans": 0,
+   "exp": "Formula as printed: 2.2 × BW × (Hb deficit) + 1000 mg; BW = body weight. (Book p809)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The multiplier in the iron-store replenishment formula, as printed on the page, is:",
+   "opts": [
+    "2.2",
+    "2.4",
+    "1.2",
+    "0.24"
+   ],
+   "ans": 0,
+   "exp": "The page prints 2.2 × BW × (Hb deficit) + 1000 mg — note the common Ganzoni 2.4 is NOT the value listed here. (Book p809)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The fixed add-on in the iron formula is:",
+   "opts": [
+    "1000 mg",
+    "500 mg",
+    "2000 mg",
+    "100 mg"
+   ],
+   "ans": 0,
+   "exp": "… + 1000 mg. (Book p809)"
+  }
+ ]
+}

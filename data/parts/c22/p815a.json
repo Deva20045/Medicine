@@ -1,0 +1,126 @@
+{
+ "page": 815,
+ "sec": "DKD risk & screening · p815",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "DKD develops in what share of diabetic patients?",
+   "opts": [
+    "50-60%",
+    "5-10%",
+    "80-90%",
+    "15-20%"
+   ],
+   "ans": 0,
+   "exp": "RISK: 50-60% of diabetic patients; ↑ with age. (Book p815)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "The risk of DKD rises with age.",
+   "opts": [
+    "True",
+    "False — it falls with age",
+    "False — age is irrelevant",
+    "True, but only in type 1"
+   ],
+   "ans": 0,
+   "exp": "↑ with age. (Book p815)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following diabetes type to its screening timing — 1) Type 1 DM  2) Type 2 DM  3) The screening test … A) At diagnosis  B) Screen 5 yearly  C) Check for albuminuria",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "T1 DM (type 1 diabetes mellitus) — screen 5 yearly; T2 DM — screen at diagnosis; screening = check for albuminuria. (Book p815)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Albuminuria screening is repeated every:",
+   "opts": [
+    "3-6 months",
+    "1-2 weeks",
+    "12 months",
+    "2-3 years"
+   ],
+   "ans": 0,
+   "exp": "Check for albuminuria (3-6 months). (Book p815)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The 'superior, but cumbersome' screening test is:",
+   "opts": [
+    "24-hr urine protein",
+    "First-morning ACR",
+    "Spot urine dipstick",
+    "Serum creatinine"
+   ],
+   "ans": 0,
+   "exp": "24 urine protein (superior, but cumbersome). (Book p815)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The routine screening test named is:",
+   "opts": [
+    "Early morning albumin:creatinine (ACR)",
+    "24-hr urine protein collection (superior test)",
+    "Serum cystatin C at each visit",
+    "Renal biopsy for histology"
+   ],
+   "ans": 0,
+   "exp": "Early morning albumin: creatinine (ACR). (Book p815)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following ACR level to its label — 1) <30 mg/g  2) 30-300 mg/g  3) >300 mg/g … A) Albuminuria  B) Normal  C) Microalbuminuria",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Levels: <30 normal; 30-300 microalbuminuria (endothelial injury): ↑ risk for thrombosis; >300 albuminuria. (Book p815)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The microalbuminuria band runs from 30 mg/g to:",
+   "opts": [
+    "300 mg/g",
+    "150 mg/g",
+    "500 mg/g",
+    "1000 mg/g"
+   ],
+   "ans": 0,
+   "exp": "30-300 mg/g: microalbuminuria. (Book p815)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Microalbuminuria marks endothelial injury with a raised thrombosis risk.",
+   "opts": [
+    "True",
+    "False — it marks tubular injury",
+    "False — thrombosis risk is unchanged",
+    "True, but only in type 1"
+   ],
+   "ans": 0,
+   "exp": "Microalbuminuria (endothelial injury): ↑ risk for thrombosis. (Book p815)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A newly diagnosed type 2 diabetic patient is booked for DKD screening. When should the first check happen?",
+   "opts": [
+    "At diagnosis",
+    "5 years after diagnosis",
+    "After ESRD develops",
+    "Only if proteinuria is suspected"
+   ],
+   "ans": 0,
+   "exp": "T2 DM: screen at diagnosis. (Book p815)"
+  }
+ ]
+}
