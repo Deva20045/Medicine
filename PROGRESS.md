@@ -48,9 +48,9 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 20 | Anemia in Chronic Kidney Disease | p808 | **LIVE (re-audited)**
 | 21 | CKD - Calciphylaxis and Cardiovascular changes | p811 | **LIVE (re-audited)**
 | 22 | Diabetic Kidney Disease | p815 | **LIVE (re-audited)**
-| 23 | Introduction to Acid Base Analysis | p819 | SOON
-| 24 | Metabolic Alkalosis | p824 | SOON
-| 25 | Methodology and Interpretation of ABG Analysis | p826 | SOON
+| 23 | Introduction to Acid Base Analysis | p819 | **LIVE**
+| 24 | Metabolic Alkalosis | p824 | **LIVE**
+| 25 | Methodology and Interpretation of ABG Analysis | p826 | **LIVE**
 | 26 | Overview of Hormones | p830 | SOON
 | 27 | Physiology of Adrenal Cortex | p837 | SOON
 | 28 | Conn's Syndrome | p841 | SOON
@@ -100,7 +100,7 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 72 | Infective Endocarditis | p1047 | SOON
 | 73 | Tropical Infections: Synopsis | p1053 | SOON
 | 74 | HIV | p1061 | SOON
-*(Status column: Ch 1 = **LIVE**; every other chapter = **SOON** — rendered in the app
+*(Status column: Ch 1–18 and 23–25 = **LIVE**; the rest = **SOON** — rendered in the app
 as a locked "Soon" row. Update this table as chapters go live.)*
 
 ### Section spans
@@ -133,7 +133,7 @@ as a locked "Soon" row. Update this table as chapters go live.)*
    no-length-giveaway answers) + `node check_app_smoke.js` (runtime roadmap + quiz)
    + `python audit_variety.py` (format mix, predictability signals) → regenerate
    `AUDIT.md`.
-5. **Commit + push** `arena/01a0a851-medicine`, update this file (status, NEXT).
+5. **Commit + push** the session branch (`arena/…-medicine`), update this file (status, NEXT).
 6. **User quality-checks**, then merges to `main` → chapter goes live at
    https://deva20045.github.io/Medicine/
 
@@ -151,6 +151,7 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 | `patch_items.py` | Rewrite chosen items inside part files (format changes keep the page-cited explanation) |
 | `itemlab.py` | Add/edit questions in `data/` with renumbering + auto-rebuild (`map`, `flag`, `apply`, `stats`) |
 | `AUDIT.md` | Latest output of `audit_variety.py` |
+| `REPORT_CH23-25.md` | Build report for Ch 23–25 (Acid–Base), page-by-page coverage + metrics |
 
 ## Status
 - [x] PDFs moved to `uploads/` and committed
@@ -178,7 +179,10 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 20 "Anemia in Chronic Kidney Disease" (p808–810): 7 units, 76 questions — RE-AUDITED, rebuilt page-by-page**
 - [x] **Ch 21 "CKD - Calciphylaxis and Cardiovascular changes" (p811–814): 6 units, 93 questions — RE-AUDITED, rebuilt page-by-page**
 - [x] **Ch 22 "Diabetic Kidney Disease" (p815–818): 7 units, 90 questions — RE-AUDITED, rebuilt page-by-page**
-- [ ] Ch 23–74 (per pipeline above)
+- [x] **Ch 23 "Introduction to Acid Base Analysis" (p819–823): 9 units, 137 questions — BUILT & VERIFIED**
+- [x] **Ch 24 "Metabolic Alkalosis" (p824–825): 3 units, 40 questions — BUILT & VERIFIED**
+- [x] **Ch 25 "Methodology and Interpretation of ABG Analysis" (p826–829): 6 units, 105 questions — BUILT & VERIFIED**
+- [ ] Ch 26–74 (per pipeline above)
 
 ## NEXT
 **Ch 6–15 re-audited (Book p734–785) — see `REAUDIT_CH6-15.md`.** Ch 6–12 were taken
@@ -190,23 +194,45 @@ re-authored into non-recall formats with `patch_items.py`, which keeps the exist
 longest-option leak was rebalanced from 51.9% to 26.9%.
 
 Counts now: Ch 6 133 · Ch 7 135 · Ch 8 83 · Ch 9 52 · Ch 10 78 · Ch 11 88 · Ch 12 52 ·
-Ch 13 73 · Ch 14 82 · Ch 15 54 = **830 questions in 68 units** for this window.
-Bank total: 1720 → **1892 questions**, 162 units, **22 live chapters**, all 114 in-scope
-pages cited. 70% of the questions in Ch 6–15 are non-recall formats.
+Ch 13 73 · Ch 14 82 · Ch 15 54 = **830 questions in 68 units** for this window, with 70%
+of them in non-recall formats.
 
 Verification run (all green): `python3 assemble.py <ch>` per chapter →
-`build_content.py` → `check_integrity.py` (1892 q / 162 units / 74 chapters, IDs,
-four-option structure, citations, book order, source↔app equality, JS syntax) →
-`node check_app_smoke.js` (full roadmap, live-ch paths, final questions render) →
-`python3 audit_variety.py > AUDIT.md`.
+`build_content.py` → `check_integrity.py` (IDs, four-option structure, citations, book
+order, source↔app equality, JS syntax) → `node check_app_smoke.js` (full roadmap,
+live-ch paths, final questions render) → `python3 audit_variety.py > AUDIT.md`.
 
 Honest limits recorded in `REAUDIT_CH6-15.md`: Ch 10 p759–761 were reviewed as stems,
 not re-read from the scan this pass, and Ch 11–12 gained format variety rather than new
 facts (their page coverage came from the earlier pass; only p769 was newly read).
 
-**Next: Ch 23 "Introduction to Acid Base Analysis" (p819) onward.**
 
-### Re-audit pipeline (used for Ch 13–22)
+*Ch 19–22 (built & re-audited page-by-page):* all 14 pages re-rendered and read line by
+line (tables, flowcharts, figures, graph axes, arrow labels), authored through the
+ordered pipeline — **350 exam-grade questions** (91 + 76 + 93 + 90) across 28 units.
+The re-audit caught one value error and fixed it against the scan: the iron-store
+replenishment multiplier is **2.2** as printed on Book p809
+(`2.2 × BW × (Hb deficit) + 1000 mg`), NOT the common Ganzoni **2.4** — MED-C20-045 now
+teaches the book's value and names the 2.4 trap explicitly. (The BP target on p807 was
+confirmed as **<120/80 mmHg** at 8× zoom, not 130/80.)
+
+*Ch 23–25 (Acid–Base section):* 282 questions over 11 pages authored the same way —
+Ch 23 (9 units, 137 q), Ch 24 (3 units, 40 q), Ch 25 (6 units, 105 q). Every table,
+flowchart, cytosolic diagram, nomogram zone and figure label is questioned; per-chapter
+longest-option rates are 22.6%, 25.0% and 24.8% (chance 25%), with 0.0% answer-leak,
+zero shallow 2-row matches and zero filler distractors. Two book contradictions are
+taught explicitly: the p824 "respiratory alkalosis" label for the ↑PaCO₂ response
+(versus the p828 compensation table), and the reversed bicarbonate arrows in the p827
+primary-problem tree (versus the p828 step-2 flowchart). See **`REPORT_CH23-25.md`**.
+
+**Bank total: 2174 questions · 180 units · 25 live chapters**, all 125 in-scope pages
+p705–829 represented (this batch alone took the bank from 1720 to 1892 before the
+Acid–Base merge).
+
+
+**Next: Ch 26 "Overview of Hormones" (p830) onward — Endocrinology (Ch 26–55).**
+
+### Re-audit pipeline (used for Ch 13–25)
 1. `_render` every book page to PNG and zoom into each unclear line/table/arrow.
 2. Author `data/parts/cNN/<page><section>.json` in strict book order, plus
    `data/units/cNN.json` (concept-named units) and `data/parts/cNN/_order.json`.

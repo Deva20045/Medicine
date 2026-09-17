@@ -1,0 +1,104 @@
+{
+ "page": 823,
+ "sec": "Urine anion gap and ammonia formation · p823",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Urine anion gap = urinary Na⁺ + urinary K⁺ − ______.",
+   "opts": ["urinary Cl⁻", "urinary HCO₃⁻", "urinary NH₄⁺", "serum Cl⁻"],
+   "ans": 0,
+   "exp": "UAG = urinary Na⁺ + urinary K⁺ − urinary Cl⁻ = unmeasured anion − unmeasured cation. (Book p823)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The urine anion gap is best described as:",
+   "opts": [
+    "Slightly negative, being unmeasured anion − unmeasured cation",
+    "Strongly positive, being unmeasured cation − unmeasured anion",
+    "Always zero because urine is electroneutral",
+    "Equal to the serum anion gap"
+   ],
+   "ans": 0,
+   "exp": "The urine anion gap (urinary Na⁺ + K⁺ − Cl⁻ = unmeasured anion − unmeasured cation) is slightly negative normally. (Book p823)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the urine anion gap result to its significance — 1) Positive UAG  2) Negative UAG  3) Normal UAG … A) Slightly negative  B) GI loss  C) RTA",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "UAG significance: positive → RTA; negative → GI loss. (Book p823)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with a normal anion gap acidosis has a negative urine anion gap. Where is the bicarbonate being lost?",
+   "opts": [
+    "Through the gut",
+    "Through the renal tubules",
+    "Through the skin",
+    "Through the lungs"
+   ],
+   "ans": 0,
+   "exp": "A negative urine anion gap points to GI loss; a positive gap points to renal tubular acidosis. (Book p823)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘Ammonia formation occurs predominantly in the proximal tubules.’",
+   "opts": [
+    "True — the note states formation of ammonia is predominantly in the proximal tubules",
+    "False — ammonia is made mainly in the distal tubule",
+    "False — ammonia is made mainly in the collecting duct",
+    "True, but only during metabolic alkalosis"
+   ],
+   "ans": 0,
+   "exp": "Note: formation of ammonia is predominantly in the proximal tubules; the reaction chain is glutamine → glutamate → α-keto glutarate. (Book p823)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the ammonia-forming pathway — 1) Starting amino acid  2) First product  3) Second product … A) Glutamine  B) α-keto glutarate  C) Glutamate",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Glutamine → glutamate → α-keto glutarate, with NH₃ released at each step. (Book p823)"
+  },
+  {
+   "fmt": "recall",
+   "q": "How many NH₃ molecules are shown being released along the printed pathway?",
+   "opts": ["Two — one from glutamine and one from glutamate", "One — only from glutamine", "Three — one per carbon skeleton", "None — NH₃ is released only in the distal tubule"],
+   "ans": 0,
+   "exp": "The pathway glutamine → glutamate → α-keto glutarate shows an NH₃ released at each of the two steps. (Book p823)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with diarrhoea has a normal anion gap acidosis. Which urine anion gap and ammonia pattern do you expect?",
+   "opts": [
+    "Negative UAG with a brisk proximal ammonia response",
+    "Positive UAG with a blunted ammonia response",
+    "Negative UAG with a blunted ammonia response",
+    "Positive UAG with a brisk proximal ammonia response"
+   ],
+   "ans": 0,
+   "exp": "GI loss gives a negative urine anion gap and, unlike RTA, the proximal tubules respond by making more ammonia from glutamine. (Book p823)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these are printed in the urine anion gap section. Which is the odd one out?",
+   "opts": [
+    "A positive UAG indicates gastrointestinal loss of bicarbonate",
+    "UAG = urinary Na⁺ + urinary K⁺ − urinary Cl⁻",
+    "UAG is normally slightly negative",
+    "Ammonia formation occurs predominantly in the proximal tubules"
+   ],
+   "ans": 0,
+   "exp": "A positive UAG indicates RTA; it is the *negative* UAG that indicates GI loss. (Book p823)"
+  }
+ ]
+}

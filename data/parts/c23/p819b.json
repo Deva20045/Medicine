@@ -1,0 +1,91 @@
+{
+ "page": 819,
+ "sec": "Siggaard–Andersen nomogram: axes and regions · p819",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "On the Siggaard–Andersen nomogram, the horizontal (x) axis is:",
+   "opts": ["Arterial blood pH from 7.0 to 7.8", "Arterial plasma HCO₃⁻ from 0 to 60 mmol/L", "Arterial blood [H⁺] from 100 to 20 nmol/L", "PaCO₂ from 10 to 120 mmHg"],
+   "ans": 0,
+   "exp": "The nomogram's x-axis is arterial blood pH (7.0–7.8); the y-axis is arterial plasma HCO₃⁻ (0–60 mmol/L). (Book p819)"
+  },
+  {
+   "fmt": "recall",
+   "q": "On the same nomogram, the vertical (y) axis is:",
+   "opts": ["Arterial plasma HCO₃⁻ 0–60 mmol/L", "Arterial blood pH 7.0–7.8", "Arterial blood [H⁺] 20–100 nmol/L", "Base excess from −30 to +30"],
+   "ans": 0,
+   "exp": "The y-axis reads arterial plasma HCO₃⁻ in mmol/L, scaled 0–60. (Book p819)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The right-hand vertical scale of the nomogram (arterial blood [H⁺]) runs:",
+   "opts": ["100 down to 20 nmol/L", "60 down to 0 nmol/L", "7.8 down to 7.0 nmol/L", "120 down to 10 nmol/L"],
+   "ans": 0,
+   "exp": "The right-hand scale is arterial blood [H⁺]: 100 nmol/L at pH 7.0 down to 20 nmol/L at pH 7.8. (Book p819)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The diagonal lines crossing the nomogram are labelled with pCO₂ from:",
+   "opts": ["120 down to 10 mmHg", "100 down to 20 mmHg", "60 down to 40 mmHg", "40 down to 5 mmHg"],
+   "ans": 0,
+   "exp": "The labelled isobars run 120, 110, 100, 90, 80, 70, 60, 50, 40, 35, 30, 25, 20, 15 and 10 mmHg. (Book p819)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An ABG shows pH 7.2, HCO₃⁻ 10 mmol/L and pCO₂ 25 mmHg. On the nomogram, this point lies in which labelled zone?",
+   "opts": ["Metabolic acidosis", "Acute respiratory acidosis", "Chronic respiratory alkalosis", "Metabolic alkalosis"],
+   "ans": 0,
+   "exp": "Low pH with a low HCO₃⁻ and a low pCO₂ is the printed ‘Metabolic acidosis’ zone of the nomogram. (Book p819)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An ABG shows pH 7.52, HCO₃⁻ 44 mmol/L and pCO₂ 55 mmHg. Which nomogram zone is printed for this pattern?",
+   "opts": ["Metabolic alkalosis", "Chronic respiratory acidosis", "Metabolic acidosis", "Acute respiratory alkalosis"],
+   "ans": 0,
+   "exp": "The high-pH/high-HCO₃⁻ corner of the nomogram is labelled ‘Metabolic alkalosis’ (metabolic acidosis sits at low pH with low HCO₃⁻). (Book p819)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each printed nomogram zone to its pH/bicarbonate pattern — 1) Metabolic acidosis  2) Metabolic alkalosis  3) Chronic respiratory acidosis  4) Acute respiratory alkalosis … A) ↑pH with low HCO₃⁻  B) ↓pH with low HCO₃⁻  C) ↓pH with the greatest HCO₃⁻ rise  D) ↑pH with high HCO₃⁻",
+   "opts": [
+    "1-B, 2-D, 3-C, 4-A",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-D, 2-B, 3-A, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Nomogram zones: metabolic acidosis = low pH/low HCO₃⁻; metabolic alkalosis = high pH/high HCO₃⁻; chronic respiratory acidosis = the largest HCO₃⁻ rise for a near-normal pH; acute respiratory alkalosis = high pH with a low HCO₃⁻. (Book p819)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘On the nomogram the “Normal” zone sits at pH 7.4 with HCO₃⁻ 24 mEq/L and pCO₂ 40 mmHg.’",
+   "opts": [
+    "True — exactly the 7.4 / 24 / 40 intersection",
+    "False — the normal zone sits at pH 7.36 with HCO₃⁻ 40 mEq/L",
+    "False — the nomogram has no normal zone marked",
+    "True, but only when pCO₂ is 25 mmHg"
+   ],
+   "ans": 0,
+   "exp": "The central ‘Normal’ box of the Siggaard–Andersen nomogram is the pH 7.4, HCO₃⁻ 24, pCO₂ 40 intersection. (Book p819)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The arrow diagram beside the chapter title tells us that pH 7.36–7.44 is:",
+   "opts": [
+    "Normal pH — acidosis lies to its left and alkalosis to its right",
+    "The range of uncompensated acidosis only",
+    "The range at which buffering stops working",
+    "The range of normal PaCO₂ in mmHg"
+   ],
+   "ans": 0,
+   "exp": "Acidosis → Normal pH (7.36–7.44) → Alkalosis, i.e. pH 7.36–7.44 is the normal band with acidosis below and alkalosis above. (Book p819)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these zones are actually printed on the Siggaard–Andersen nomogram. Which is the odd one out?",
+   "opts": ["Mixed high-anion-gap band", "Chronic respiratory acidosis", "Metabolic acidosis", "Chronic respiratory alkalosis"],
+   "ans": 0,
+   "exp": "Printed zones are normal, acute/chronic respiratory acidosis, acute/chronic respiratory alkalosis and metabolic acidosis/alkalosis — there is no mixed high-anion-gap band. (Book p819)"
+  }
+ ]
+}

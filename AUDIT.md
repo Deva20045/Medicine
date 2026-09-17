@@ -1,17 +1,17 @@
 ==============================================================================
 PULSE Medicine — QUESTION VARIETY & PREDICTABILITY AUDIT
 ==============================================================================
-1892 questions · 162 units · 22 live chapter(s)
+2174 questions · 180 units · 25 live chapter(s)
 
 FORMAT MIX (whole bank)
-  recall         549   29.0%
-  match          254   13.4%
-  fillup         230   12.2%
-  truefalse      229   12.1%
-  numeric        214   11.3%
-  oddoneout      190   10.0%
-  scenario       181    9.6%
-  management      45    2.4%
+  recall         611   28.1%
+  match          316   14.5%
+  truefalse      263   12.1%
+  numeric        251   11.5%
+  fillup         248   11.4%
+  oddoneout      221   10.2%
+  scenario       219   10.1%
+  management      45    2.1%
 
  Ch   Qs  scen  fill  match   T/F   odd  longest   leak  reuse
 --------------------------------------------------------------
@@ -37,17 +37,20 @@ FORMAT MIX (whole bank)
  20   76     4     4      6     8     5    32.9%   0.0%      2
  21   93     4     2      6    11     6    36.6%   0.0%      2
  22   90     5     4      8    10     8    31.1%   1.1%      3
+ 23  137    15    10     30    14    12    22.6%   0.0%     18
+ 24   40     7     1      8     6     6    25.0%   0.0%      4
+ 25  105    16     7     24    14    13    24.8%   0.0%     17
 
 PREDICTABILITY SIGNALS (bank-wide means)
-  longest option is the answer        : 26.9%
+  longest option is the answer        : 26.6%
   answer is the only hedged option    : 0.3%
   answer is the only bracketed option : 3.6%
   question contains filler distractor : 0.0%
   answer term restated in the stem    : 0.1%
-  avg answer length / distractor      : 26.4 / 24.2
+  avg answer length / distractor      : 27.4 / 24.8
   repeated back-to-back stem templates: 0
   longest uninterrupted repeat run    : 2
-  option sets reused across questions : 74
+  option sets reused across questions : 113
 
 MOST REPEATED STEM OPENERS
 

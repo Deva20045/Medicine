@@ -1,0 +1,94 @@
+{
+ "page": 827,
+ "sec": "Boston method: normal values, valid ABG and step 1 · p827",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the Boston method normal values — 1) pH  2) pCO₂  3) HCO₃⁻ … A) 40 mmHg  B) 24 mEq/L  C) 7.4",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Boston normal values: pH 7.4, pCO₂ 40 mmHg and HCO₃⁻ 24 mEq/L. (Book p827)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: [H⁺] = 24 × ______.",
+   "opts": ["PaCO₂ / HCO₃⁻", "HCO₃⁻ / PaCO₂", "PaCO₂ × HCO₃⁻", "PaO₂ / HCO₃⁻"],
+   "ans": 0,
+   "exp": "The Boston method uses [H⁺] = 24 × PaCO₂/HCO₃⁻, rearranged as [HCO₃⁻] = 24 × PaCO₂/H⁺. (Book p827)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: [HCO₃⁻] = 24 × ______.",
+   "opts": ["PaCO₂ / H⁺", "H⁺ / PaCO₂", "PaCO₂ × H⁺", "PaCO₂ / pO₂"],
+   "ans": 0,
+   "exp": "The second printed form of the Boston relation is [HCO₃⁻] = 24 × PaCO₂/H⁺. (Book p827)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "To be a valid ABG, the calculated [HCO₃⁻] should match the venous blood [HCO₃⁻] within:",
+   "opts": ["±2 mEq", "±5 mEq", "±1 mEq", "±4 mEq"],
+   "ans": 0,
+   "exp": "Valid ABG: calculated [HCO₃⁻] = ±2 mEq of [HCO₃⁻] in a venous blood sample. (Book p827)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An ABG reports a calculated HCO₃⁻ of 24 mEq/L while the venous sample gives 28 mEq/L. Is the gas valid?",
+   "opts": [
+    "No — the difference of 4 mEq/L exceeds the accepted ±2 mEq limit",
+    "Yes — any difference under 5 mEq/L is acceptable",
+    "Yes — the venous sample is the less reliable of the two",
+    "No — a valid ABG requires identical values in both samples"
+   ],
+   "ans": 0,
+   "exp": "Validity requires the calculated [HCO₃⁻] to be within ±2 mEq of the venous blood [HCO₃⁻]. (Book p827)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match step 1 of interpretation — 1) pH < 7.4  2) pH > 7.4  3) Normal pH of the Boston method … A) 7.4  B) Alkalosis  C) Acidosis",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Step 1: a pH below 7.4 is acidosis and a pH above 7.4 is alkalosis. (Book p827)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "According to step 1 of the Boston method, the pH cut-off used to separate acidosis from alkalosis is:",
+   "opts": ["7.4", "7.36", "7.44", "7.35"],
+   "ans": 0,
+   "exp": "Step 1 uses 7.4 as the cut-off (< 7.4 acidosis, > 7.4 alkalosis), the Boston method's normal pH. (Book p827)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these belong to the Boston method's normal values and validity rules. Which is the odd one out?",
+   "opts": [
+    "A valid ABG requires arterial blood only, with no venous comparison",
+    "pCO₂ 40 mmHg",
+    "HCO₃⁻ 24 mEq/L",
+    "Calculated HCO₃⁻ within ±2 mEq of the venous sample"
+   ],
+   "ans": 0,
+   "exp": "Validity is defined by comparing the calculated [HCO₃⁻] with the [HCO₃⁻] of a venous blood sample (±2 mEq), so a venous comparison is explicitly required. (Book p827)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘Step 1 of the Boston method uses pH to decide whether the primary problem is an acidosis or an alkalosis.’",
+   "opts": [
+    "True — pH < 7.4 is acidosis and pH > 7.4 is alkalosis",
+    "False — step 1 uses PaCO₂ to decide the primary problem",
+    "False — step 1 uses the anion gap to decide the primary problem",
+    "True, but the cut-off for step 1 is pH 7.36"
+   ],
+   "ans": 0,
+   "exp": "Step 1 — pH: < 7.4 acidosis, > 7.4 alkalosis. (Book p827)"
+  }
+ ]
+}

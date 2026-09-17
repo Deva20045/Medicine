@@ -1,0 +1,80 @@
+{
+ "page": 822,
+ "sec": "Consequences of the PCT defect in type 2 RTA · p822",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the three arms of the PCT-defect flowchart — 1) HCO₃⁻ not reabsorbed  2) Na⁺–phosphorus exchange defect  3) Na⁺–glucose transporter inactive … A) Glycosuria  B) NAGMA  C) Loss of phosphorus",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Three arms: HCO₃⁻ not reabsorbed → NAGMA; Na⁺–phosphorus exchange defect → loss of phosphorus → rickets-like changes; Na⁺–glucose transporter inactive → glycosuria. (Book p822)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the cascade that follows failed HCO₃⁻ reabsorption — 1) First step  2) Next  3) Then  4) End … A) Hypokalemia  B) NAGMA  C) RAS activation  D) RTA-II: salt water wasting",
+   "opts": [
+    "1-B, 2-D, 3-C, 4-A",
+    "1-D, 2-B, 3-C, 4-A",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-C, 2-D, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "HCO₃⁻ not reabsorbed → NAGMA → RTA-II with salt water wasting → defective arteriolar volume → RAS activation → hypokalemia. (Book p822)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Loss of phosphorus in type 2 RTA produces:",
+   "opts": ["Rickets-like changes", "Kidney stones", "Glycosuria", "Nephrogenic diabetes insipidus"],
+   "ans": 0,
+   "exp": "Na⁺–phosphorus exchange defect → loss of phosphorus → rickets-like changes. (Book p822)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Glycosuria in type 2 RTA results from:",
+   "opts": [
+    "The Na⁺–glucose transporter being inactive",
+    "Hyperglycaemia exceeding the transport maximum",
+    "Secondary hyperaldosteronism",
+    "Loss of phosphorus from the PCT"
+   ],
+   "ans": 0,
+   "exp": "Na⁺–glucose transporter inactive → glycosuria (in the presence of a generalised PCT defect). (Book p822)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A child with proximal RTA has polyuria, salt craving, low blood pressure and hypokalemia on the ABG. What sequence explains it?",
+   "opts": [
+    "Salt water wasting → defective arteriolar volume → RAS activation → hypokalemia",
+    "Phosphaturia → rickets → secondary hyperparathyroidism → hypokalemia",
+    "Glycosuria → osmotic diuresis → hyperaldosteronism → hypokalemia",
+    "NAGMA → respiratory compensation → hypokalemia"
+   ],
+   "ans": 0,
+   "exp": "The printed cascade for RTA-II is salt water wasting → defective arteriolar volume → RAS activation → hypokalemia. (Book p822)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘Salt wasting in type 2 RTA leads to RAS activation, and the resulting aldosterone effect is hypokalemia.’",
+   "opts": [
+    "True — defective arteriolar volume drives RAS activation and hence hypokalemia",
+    "False — RAS activation causes hyperkalemia",
+    "True, but the hypokalemia comes from the phosphate leak",
+    "False — salt wasting is seen only in distal RTA"
+   ],
+   "ans": 0,
+   "exp": "Defective arteriolar volume activates the RAS, and the endpoint printed in the flowchart is hypokalemia. (Book p822)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these are consequences of the generalised PCT defect. Which is the odd one out?",
+   "opts": ["Alkaline urine pH", "Loss of phosphorus with rickets-like changes", "Glycosuria", "NAGMA with salt and water wasting"],
+   "ans": 0,
+   "exp": "An alkaline urine pH belongs to distal RTA; in proximal RTA the urine pH is normal, and the printed consequences are NAGMA, phosphaturia and glycosuria. (Book p822)"
+  }
+ ]
+}

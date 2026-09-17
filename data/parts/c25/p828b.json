@@ -1,0 +1,125 @@
+{
+ "page": 828,
+ "sec": "Step 3 — compensatory changes, both tables · p828",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the metabolic abnormalities to their compensation — 1) Metabolic acidosis  2) Metabolic alkalosis  3) Compensation for metabolic acidosis  4) Compensation for metabolic alkalosis … A) Respiratory acidosis  B) ↓HCO₃⁻ with ↓PaCO₂  C) Respiratory alkalosis  D) ↑HCO₃⁻ with ↑PaCO₂",
+   "opts": [
+    "1-B, 2-D, 3-C, 4-A",
+    "1-D, 2-B, 3-C, 4-A",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-C, 2-A, 3-B, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Metabolic acidosis (↓HCO₃⁻, ↓PaCO₂) is compensated by respiratory alkalosis, and metabolic alkalosis (↑HCO₃⁻, ↑PaCO₂) by respiratory acidosis. (Book p828)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In metabolic acidosis, the direction of the compensatory PaCO₂ change is:",
+   "opts": ["Falls — respiratory alkalosis", "Rises — respiratory acidosis", "Unchanged — no respiratory response", "Rises then falls — biphasic"],
+   "ans": 0,
+   "exp": "Metabolic acidosis table row: HCO₃⁻ ↓, PaCO₂ ↓, compensation = respiratory alkalosis. (Book p828)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "For every 1 mEq/L fall in HCO₃⁻, the expected fall in PaCO₂ is:",
+   "opts": ["1.2 mmHg", "0.7 mmHg", "2 mmHg", "4 mmHg"],
+   "ans": 0,
+   "exp": "For ↓1 mEq/L HCO₃⁻ → ↓1.2 mmHg pCO₂; for ↑1 mEq/L HCO₃⁻ → ↑0.7 mmHg pCO₂. (Book p828)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "For every 1 mEq/L rise in HCO₃⁻, the expected rise in PaCO₂ is:",
+   "opts": ["0.7 mmHg", "1.2 mmHg", "2 mmHg", "4 mmHg"],
+   "ans": 0,
+   "exp": "For ↑1 mEq/L HCO₃⁻ → ↑0.7 mmHg pCO₂ (the metabolic alkalosis compensation rule). (Book p828)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient's HCO₃⁻ falls by 10 mEq/L from normal. Using the printed rule, what PaCO₂ change do you expect?",
+   "opts": [
+    "A fall of about 12 mmHg",
+    "A fall of about 7 mmHg",
+    "A rise of about 12 mmHg",
+    "A rise of about 7 mmHg"
+   ],
+   "ans": 0,
+   "exp": "Using ↓1.2 mmHg pCO₂ per 1 mEq/L fall in HCO₃⁻, a 10 mEq/L fall predicts a 12 mmHg fall in PaCO₂. (Book p828)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the respiratory abnormalities to their compensation — 1) Respiratory acidosis  2) Respiratory alkalosis  3) Compensation for respiratory acidosis  4) Compensation for respiratory alkalosis … A) Metabolic alkalosis  B) ↑PaCO₂ with ↑HCO₃⁻  C) Metabolic acidosis  D) ↓PaCO₂ with ↓HCO₃⁻",
+   "opts": [
+    "1-B, 2-D, 3-A, 4-C",
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-A, 2-C, 3-B, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Respiratory acidosis (↑PaCO₂, ↑HCO₃⁻) is compensated by metabolic alkalosis; respiratory alkalosis (↓PaCO₂, ↓HCO₃⁻) by metabolic acidosis. (Book p828)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "For an ACUTE rise in PaCO₂ of 10 mmHg, the expected HCO₃⁻ change is:",
+   "opts": ["↑1 mEq/L", "↑4 mEq/L", "↓2 mEq/L", "↓4 mEq/L"],
+   "ans": 0,
+   "exp": "↑10 mmHg PaCO₂ → ↑1 mEq/L HCO₃⁻ (acute) or ↑4 mEq/L HCO₃⁻ (chronic). (Book p828)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "For a CHRONIC rise in PaCO₂ of 10 mmHg, the expected HCO₃⁻ change is:",
+   "opts": ["↑4 mEq/L", "↑1 mEq/L", "↓2 mEq/L", "↓4 mEq/L"],
+   "ans": 0,
+   "exp": "↑10 mmHg PaCO₂ → ↑4 mEq/L HCO₃⁻ in the chronic state (versus ↑1 mEq/L acutely). (Book p828)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the fall in PaCO₂ to its HCO₃⁻ change — 1) ↓10 mmHg acute  2) ↓10 mmHg chronic  3) Difference between them … A) ↓2 mEq/L  B) The chronic state compensates more  C) ↓4 mEq/L",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "↓10 mmHg PaCO₂ → ↓2 mEq/L HCO₃⁻ acutely and ↓4 mEq/L chronically, i.e. the chronic state compensates more. (Book p828)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with chronic obstructive lung disease has a PaCO₂ 10 mmHg above normal with an HCO₃⁻ 4 mEq/L above normal. What does the table call this?",
+   "opts": [
+    "Chronic respiratory acidosis with renal compensation",
+    "Acute respiratory acidosis with minimal compensation",
+    "Acute respiratory alkalosis with an acute fall in HCO₃⁻",
+    "Metabolic alkalosis with respiratory compensation"
+   ],
+   "ans": 0,
+   "exp": "A 10 mmHg PaCO₂ rise producing a 4 mEq/L HCO₃⁻ rise matches the chronic row; the acute row would give only 1 mEq/L. (Book p828)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘For a fall in PaCO₂ the acute change in HCO₃⁻ (2 mEq/L per 10 mmHg) is larger than the chronic change.’",
+   "opts": [
+    "False — the chronic fall is larger (4 mEq/L per 10 mmHg) than the acute fall (2 mEq/L)",
+    "True — 2 mEq/L acute exceeds the 4 mEq/L chronic change",
+    "False — an acute fall in PaCO₂ changes HCO₃⁻ by 1 mEq/L",
+    "True, and the same is true for a rise in PaCO₂"
+   ],
+   "ans": 0,
+   "exp": "The table prints ↓10 mmHg PaCO₂ → ↓2 mEq/L HCO₃⁻ (acute) and ↓4 mEq/L (chronic): chronic compensation is greater. (Book p828)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these step-3 compensation rules are printed. Which is the odd one out?",
+   "opts": [
+    "↑10 mmHg PaCO₂ raises HCO₃⁻ by 4 mEq/L acutely and 1 mEq/L chronically",
+    "↓1 mEq/L HCO₃⁻ lowers PaCO₂ by 1.2 mmHg",
+    "↑1 mEq/L HCO₃⁻ raises PaCO₂ by 0.7 mmHg",
+    "↓10 mmHg PaCO₂ lowers HCO₃⁻ by 2 mEq/L acutely"
+   ],
+   "ans": 0,
+   "exp": "The acute value is 1 mEq/L and the chronic value 4 mEq/L — the option reverses them. (Book p828)"
+  }
+ ]
+}

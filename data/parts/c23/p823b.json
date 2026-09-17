@@ -1,0 +1,138 @@
+{
+ "page": 823,
+ "sec": "Distal vs proximal RTA table, row by row · p823",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the two RTA columns to the table rows — 1) Kidney stones  2) Urine pH  3) Glycosuria … A) Absent (proximal RTA)  B) Present (distal RTA)  C) Alkaline (distal RTA)",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Distal RTA: kidney stones present, urine pH alkaline, glycosuria absent. Proximal RTA reverses all three. (Book p823)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In proximal RTA the urine pH is best described as:",
+   "opts": [
+    "Normal, because the distal acidification machinery is intact",
+    "Alkaline, because bicarbonate leaks distally",
+    "Fixed at 5.0 whatever the systemic pH",
+    "Excluded from the comparison table"
+   ],
+   "ans": 0,
+   "exp": "Proximal RTA has a normal urine pH whereas distal RTA has an alkaline urine pH. (Book p823)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Rickets in distal RTA is due to ______, while in proximal RTA it is due to ______.",
+   "opts": [
+    "Ca²⁺ resorption; loss of phosphorus",
+    "loss of phosphorus; Ca²⁺ resorption",
+    "loss of phosphorus; loss of phosphorus",
+    "hypercalciuria; hypocalciuria"
+   ],
+   "ans": 0,
+   "exp": "Table row ‘Rickets’: distal RTA — due to (D/t) Ca²⁺ resorption; proximal RTA — due to loss of phosphorus. (Book p823)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with RTA has rickets and NO kidney stones but does pass glucose in urine with normal blood sugar. Which column of the table is this?",
+   "opts": [
+    "Proximal RTA — glycosuria present, stones absent",
+    "Distal RTA — glycosuria present, stones absent",
+    "Proximal RTA — glycosuria absent, stones present",
+    "Distal RTA — glycosuria absent, stones absent"
+   ],
+   "ans": 0,
+   "exp": "Glycosuria with absent kidney stones identifies the proximal RTA column of the table. (Book p823)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the inherited causes row — 1) Distal RTA  2) Proximal RTA  3) Mode of distal inheritance … A) Fanconi's syndrome  B) Autosomal recessive  C) H⁺ ATPase / H⁺ K⁺ ATPase defect",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Inherited row: distal RTA — autosomal recessive H⁺ ATPase / H⁺ K⁺ ATPase defect; proximal RTA — Fanconi's syndrome. (Book p823)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The acquired cause listed for distal RTA is ______ and for proximal RTA is ______.",
+   "opts": [
+    "Sjögren's syndrome; myeloma",
+    "myeloma; Sjögren's syndrome",
+    "Sjögren's syndrome; Sjögren's syndrome",
+    "myeloma; tenofovir only"
+   ],
+   "ans": 0,
+   "exp": "Acquired row of the table: distal RTA — Sjögren's syndrome; proximal RTA — myeloma. (Book p823)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each item to the RTA type it belongs to — 1) Sjögren's syndrome  2) Myeloma  3) Fanconi's syndrome  4) Autosomal recessive H⁺ ATPase defect … A) Proximal RTA acquired  B) Distal RTA inherited  C) Distal RTA acquired  D) Proximal RTA inherited",
+   "opts": [
+    "1-C, 2-A, 3-D, 4-B",
+    "1-A, 2-C, 3-D, 4-B",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Sjögren's = distal acquired; myeloma = proximal acquired; Fanconi's syndrome = proximal inherited; AR H⁺ ATPase/H⁺ K⁺ ATPase defect = distal inherited. (Book p823)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘Kidney stones are present in distal RTA but absent in proximal RTA, while glycosuria behaves the opposite way.’",
+   "opts": [
+    "True — stones present/absent and glycosuria absent/present respectively",
+    "False — stones are present in both types",
+    "False — glycosuria is present in both types",
+    "True, except that stones are also present in proximal RTA"
+   ],
+   "ans": 0,
+   "exp": "The table prints stones Present (distal) / Absent (proximal) and glycosuria Absent (distal) / Present (proximal). (Book p823)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Two patients both have NAGMA. One has severe hypokalemia with an alkaline urine; the other has mild hypokalemia with a normal urine pH. Which is which?",
+   "opts": [
+    "First is distal RTA, second is proximal RTA",
+    "First is proximal RTA, second is distal RTA",
+    "Both are distal RTA, differing only in severity",
+    "Both are proximal RTA; urine pH is unrelated"
+   ],
+   "ans": 0,
+   "exp": "Severe NAGMA with hypokalemia and an alkaline urine = distal RTA; mild NAGMA with hypokalemia and a normal urine pH = proximal RTA. (Book p823)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these are correctly paired in the distal vs proximal RTA table. Which is the odd one out?",
+   "opts": [
+    "Kidney stones — absent in distal RTA",
+    "Urine pH — alkaline in distal RTA",
+    "NAGMA with hypokalemia — severe in distal RTA",
+    "Glycosuria — absent in distal RTA"
+   ],
+   "ans": 0,
+   "exp": "Kidney stones are *present* in distal RTA and absent in proximal RTA; the other three pairings are as printed. (Book p823)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which single table row best separates distal from proximal RTA at the bedside?",
+   "opts": [
+    "Urine pH — alkaline in distal RTA versus normal in proximal RTA",
+    "Serum potassium — always normal in distal RTA",
+    "Serum bicarbonate — always normal in proximal RTA",
+    "Anion gap — raised in distal RTA only"
+   ],
+   "ans": 0,
+   "exp": "Both types show NAGMA, so the discriminating rows are urine pH (alkaline vs normal), stones (present vs absent) and glycosuria (absent vs present). (Book p823)"
+  }
+ ]
+}

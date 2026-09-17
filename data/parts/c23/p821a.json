@@ -1,0 +1,96 @@
+{
+ "page": 821,
+ "sec": "Basic terminology and H⁺ estimation from pH · p821",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "Acidemia is defined as blood pH:",
+   "opts": ["< 7.36", "> 7.44", "< 7.4", "< 7.24"],
+   "ans": 0,
+   "exp": "Acidemia: blood pH < 7.36; alkalemia: blood pH > 7.44. (Book p821)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Alkalemia is defined as blood pH:",
+   "opts": ["> 7.44", "< 7.36", "> 7.4", "> 7.6"],
+   "ans": 0,
+   "exp": "Alkalemia: blood pH > 7.44 (acidemia is < 7.36). (Book p821)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the terminology box — 1) Acidemia  2) Acidosis  3) Alkalemia  4) Alkalosis … A) If alkalemia left unopposed  B) Blood pH < 7.36  C) If acidemia left unopposed  D) Blood pH > 7.44",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Acidemia = pH < 7.36; acidosis = if acidemia left unopposed. Alkalemia = pH > 7.44; alkalosis = if alkalemia left unopposed. (Book p821)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘Acidemia and acidosis mean exactly the same thing, and so do alkalemia and alkalosis.’",
+   "opts": [
+    "False — acidemia/alkalemia are the pH findings; acidosis/alkalosis are those states left unopposed",
+    "True — the terms are used interchangeably in the chapter",
+    "False — acidosis refers only to a raised PaCO₂",
+    "True, but only for respiratory disorders"
+   ],
+   "ans": 0,
+   "exp": "The distinction is printed: acidemia = pH < 7.36 and acidosis = if acidemia is left unopposed; likewise for alkalemia/alkalosis. (Book p821)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "At pH 7.4 the H⁺ concentration is 40 nmol/L. Using the printed multipliers, H⁺ at pH 7.3 is:",
+   "opts": ["50 nmol/L", "63 nmol/L", "32 nmol/L", "25 nmol/L"],
+   "ans": 0,
+   "exp": "Moving 0.1 pH below 7.4 multiplies H⁺ by 1.25: 40 × 1.25 = 50 nmol/L. (Book p821)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Using the same multipliers, H⁺ at pH 7.2 is:",
+   "opts": ["63 nmol/L", "50 nmol/L", "40 nmol/L", "80 nmol/L"],
+   "ans": 0,
+   "exp": "Two 0.1-pH steps below 7.4: 40 × 1.25 × 1.25 = 63 nmol/L (the printed value at pH 7.2). (Book p821)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Moving 0.1 pH above 7.4, the printed multiplier is ×0.8 — so H⁺ at pH 7.5 is:",
+   "opts": ["32 nmol/L", "25 nmol/L", "35 nmol/L", "50 nmol/L"],
+   "ans": 0,
+   "exp": "× 0.8 per 0.1 pH rise: 40 × 0.8 = 32 nmol/L at pH 7.5. (Book p821)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "H⁺ concentration printed at pH 7.6 is:",
+   "opts": ["25 nmol/L", "32 nmol/L", "20 nmol/L", "24 nmol/L"],
+   "ans": 0,
+   "exp": "The printed ladder is pH 7.2 = 63, 7.3 = 50, 7.4 = 40, 7.5 = 32 and 7.6 = 25 nmol/L. (Book p821)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the pH and H⁺ pairs printed in the H⁺ ion estimation diagram — 1) pH 7.2  2) pH 7.3  3) pH 7.5  4) pH 7.6 … A) 25 nmol/L  B) 63 nmol/L  C) 32 nmol/L  D) 50 nmol/L",
+   "opts": [
+    "1-B, 2-D, 3-C, 4-A",
+    "1-D, 2-B, 3-C, 4-A",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-A, 2-D, 3-C, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Printed pairs: pH 7.2 → 63, pH 7.3 → 50, pH 7.4 → 40, pH 7.5 → 32, pH 7.6 → 25 nmol/L. (Book p821)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A resident estimates H⁺ as 40 nmol/L and notes the patient's pH is 7.3. Would you correct the resident?",
+   "opts": [
+    "Yes — at pH 7.3 H⁺ should be 50 nmol/L (×1.25 per 0.1 pH fall)",
+    "No — 40 nmol/L holds for any pH between 7.2 and 7.6",
+    "Yes — at pH 7.3 H⁺ should be 63 nmol/L",
+    "No — the estimate is valid because pH and H⁺ are unrelated"
+   ],
+   "ans": 0,
+   "exp": "40 nmol/L is the value at pH 7.4; each 0.1 pH fall multiplies H⁺ by 1.25, giving 50 nmol/L at pH 7.3. (Book p821)"
+  }
+ ]
+}

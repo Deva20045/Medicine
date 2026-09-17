@@ -1,0 +1,92 @@
+{
+ "page": 825,
+ "sec": "The urine chloride ladder · p825",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "In the urine chloride ladder, ‘low’ urine chloride is defined as:",
+   "opts": ["< 25 mEq/L", "< 40 mEq/L", "< 10 mEq/L", "> 40 mEq/L"],
+   "ans": 0,
+   "exp": "Urine chloride < 25 mEq/L is the ‘low’ band; > 40 mEq/L is the ‘normal’ band of the ladder. (Book p825)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the urine-chloride band to its meaning — 1) Low (< 25 mEq/L)  2) Normal (> 40 mEq/L)  3) High … A) ECF volume expansion  B) GI loss, post hypercapnia, cystic fibrosis, late diuretics  C) Renal loss — diuretics (early phase), Bartter, Gitelman",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Low urine Cl⁻ (< 25 mEq/L): GI loss, post hypercapnia, cystic fibrosis and diuretics in the late phase. Normal (> 40 mEq/L): ECF volume expansion. High: renal loss — diuretics in the early phase, Bartter syndrome, Gitelman syndrome. (Book p825)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which conditions appear in the LOW urine-chloride band of the ladder?",
+   "opts": [
+    "GI loss, post hypercapnia, cystic fibrosis, diuretics (late phase)",
+    "GI loss, cystic fibrosis, diuretics (early phase), Bartter syndrome",
+    "ECF volume expansion plus Bartter and Gitelman syndrome",
+    "Renal loss from diuretics (early phase) and cystic fibrosis only"
+   ],
+   "ans": 0,
+   "exp": "Low urine chloride: GI loss, post hypercapnia, cystic fibrosis and diuretics in the late phase. (Book p825)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient is on diuretics and has an alkalosis. Why does the urine chloride differ between the early and late phase of diuretic use?",
+   "opts": [
+    "Early diuretic use lies in the high-chloride renal-loss band, while late-phase use falls into the low-chloride band",
+    "Early diuretic use lies in the low-chloride band, while late-phase use lies in the high band",
+    "Both phases always fall in the low-chloride band",
+    "Urine chloride is uninterpretable once diuretics are started"
+   ],
+   "ans": 0,
+   "exp": "The ladder prints diuretics under the high urine chloride (early phase) renal-loss column but also under the low band as diuretics (late phase). (Book p825)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which two tubulopathies are printed in the HIGH urine-chloride column of renal loss?",
+   "opts": [
+    "Bartter syndrome and Gitelman syndrome",
+    "Liddle syndrome and Gitelman syndrome",
+    "Bartter syndrome and Liddle syndrome",
+    "Cystic fibrosis and Bartter syndrome"
+   ],
+   "ans": 0,
+   "exp": "High urine chloride renal loss: diuretics (early phase), Bartter syndrome and Gitelman syndrome. (Book p825)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘In the urine chloride ladder, a normal urine chloride (> 40 mEq/L) points to ECF volume expansion.’",
+   "opts": [
+    "True — that band is labelled ECF volume expansion",
+    "False — the normal band is labelled renal loss",
+    "False — the normal band is labelled GI loss",
+    "True, but only in the presence of hypertension"
+   ],
+   "ans": 0,
+   "exp": "Normal urine chloride: > 40 mEq/L — ECF volume expansion, i.e. the saline-unresponsive group. (Book p825)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these are printed in the LOW urine chloride band. Which is the odd one out?",
+   "opts": ["Bartter syndrome", "GI loss", "Post hypercapnia", "Cystic fibrosis"],
+   "ans": 0,
+   "exp": "Bartter syndrome belongs to the high urine-chloride renal-loss column with Gitelman syndrome and early-phase diuretics. (Book p825)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with metabolic alkalosis has a urine chloride of 12 mEq/L. Which pair of explanations is printed for this band?",
+   "opts": [
+    "GI loss or diuretics in the late phase",
+    "ECF volume expansion or Bartter syndrome",
+    "Renal loss or Gitelman syndrome",
+    "Diuretics in the early phase or cystic fibrosis"
+   ],
+   "ans": 0,
+   "exp": "A urine chloride < 25 mEq/L sits in the low band: GI loss, post hypercapnia, cystic fibrosis and diuretics (late phase). (Book p825)"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "page": 827,
+ "sec": "Contraindications, puncture sites and measured vs derived parameters · p827",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the contraindications for ABG puncture — 1) Vascular test  2) Local factor  3) Systemic vascular disease  4) Vasospastic disorder … A) Active Raynaud's syndrome  B) Abnormal Allen's test  C) Severe peripheral vascular artery disease  D) Local infection or distorted anatomy at the puncture site",
+   "opts": [
+    "1-B, 2-D, 3-C, 4-A",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-D, 2-B, 3-A, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Contraindications: abnormal Allen's test; local infection or distorted anatomy at the puncture site; severe peripheral vascular artery disease; active Raynaud's syndrome. (Book p827)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient's Allen's test is abnormal but the radial pulse is easily felt. What does the chapter advise?",
+   "opts": [
+    "Avoid the puncture — an abnormal Allen's test is a listed contraindication",
+    "Proceed with a 90° puncture for a quicker sample",
+    "Proceed but use a larger 5 ml syringe instead",
+    "Proceed and ignore the test if the ulnar pulse is palpable"
+   ],
+   "ans": 0,
+   "exp": "An abnormal Allen's test is the first printed contraindication to ABG puncture. (Book p827)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the puncture sites printed — 1) First-listed site  2) Thigh-level site  3) Arm sites  4) Foot site … A) Dorsalis pedis  B) Radial artery  C) Brachial and axillary arteries  D) Femoral artery",
+   "opts": [
+    "1-B, 2-D, 3-C, 4-A",
+    "1-D, 2-B, 3-C, 4-A",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-A, 2-D, 3-C, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Site of puncture list: radial artery, femoral artery, brachial artery, axillary artery and dorsalis pedis. (Book p827)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which site of puncture is listed first in the chapter?",
+   "opts": ["Radial artery", "Femoral artery", "Brachial artery", "Dorsalis pedis"],
+   "ans": 0,
+   "exp": "The list begins with the radial artery, followed by femoral, brachial, axillary and dorsalis pedis. (Book p827)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the ABG parameters — 1) Measured parameters  2) Derived parameters  3) Example of a derived parameter set … A) HCO₃⁻, anion gap and base excess  B) pH, pCO₂, pO₂, cCa²⁺, cCl⁻, cK⁺, cNa⁺, cGlucose and hematocrit  C) HCO₃⁻ only",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Measured: pH, pCO₂, pO₂, cCa²⁺, cCl⁻, cK⁺, cNa⁺, cGlucose and hematocrit. Derived: HCO₃⁻, anion gap and base excess. (Book p827)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these are listed as MEASURED (not derived) ABG parameters. Which is the odd one out?",
+   "opts": ["Base excess", "cCa²⁺", "cGlucose", "Hematocrit"],
+   "ans": 0,
+   "exp": "Base excess belongs to the derived group with HCO₃⁻ and the anion gap; cCa²⁺, cGlucose and hematocrit are all measured directly. (Book p827)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘HCO₃⁻ is a measured parameter on the blood gas analyzer, whereas pH is derived from it.’",
+   "opts": [
+    "False — HCO₃⁻ is derived, while pH is measured",
+    "True — HCO₃⁻ is measured and pH is derived",
+    "False — both HCO₃⁻ and pH are derived",
+    "True, but only when base excess is also reported"
+   ],
+   "ans": 0,
+   "exp": "The arrow runs from measured (pH, pCO₂, pO₂, electrolytes, glucose, hematocrit) to derived (HCO₃⁻, anion gap, base excess). (Book p827)"
+  }
+ ]
+}

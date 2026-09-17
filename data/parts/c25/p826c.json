@@ -1,0 +1,99 @@
+{
+ "page": 826,
+ "sec": "Precautions and the delay table · p826",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the heparin precaution chain — 1) Syringe flushed with 2) Solution used  3) Effect of excess heparin … A) ↓HCO₃⁻ and ↓PCO₂  B) 0.5 ml of 1 : 1000 heparin  C) Emptied before sampling",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Precaution: the syringe should be flushed with 0.5 ml (1 : 1000 heparin) solution and emptied; excess heparin gives a dilutional effect with ↓HCO₃⁻ and ↓PCO₂. (Book p826)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Excess heparin in the ABG syringe produces which changes?",
+   "opts": [
+    "↑Dilutional effect with ↓HCO₃⁻ and ↓PCO₂",
+    "↑Dilutional effect with ↑HCO₃⁻ and ↑PCO₂",
+    "No change because heparin is chemically inert",
+    "↓pH with ↑HCO₃⁻ and normal PCO₂"
+   ],
+   "ans": 0,
+   "exp": "Excess heparin → ↑ dilutional effect → ↓HCO₃⁻ and ↓PCO₂. (Book p826)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The sample must be transported earliest via ______.",
+   "opts": ["cold chain", "warm chain", "room-temperature chain", "dry ice only"],
+   "ans": 0,
+   "exp": "The sample must be transported earliest via the cold chain, since delay changes the measured values. (Book p826)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the change in value per 10 minutes of delay — 1) pH  2) pCO₂  3) pO₂ … A) 1 mmHg un-iced vs 0.1 mmHg iced  B) 0.01 un-iced vs 0.001 iced  C) 0.1% un-iced vs 0.01% iced",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Delay table (per 10 minutes): pH 0.01 un-iced at 37°C versus 0.001 iced at 4°C; pCO₂ 1 mmHg versus 0.1 mmHg; pO₂ 0.1% versus 0.01%. (Book p826)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "How much does pH change every 10 minutes in an un-iced sample kept at 37°C?",
+   "opts": ["0.01", "0.001", "0.1", "1.0"],
+   "ans": 0,
+   "exp": "Un-iced sample at 37°C: pH changes by 0.01 every 10 minutes, versus 0.001 in an iced sample at 4°C. (Book p826)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "In an iced sample at 4°C, the change in pH per 10 minutes is:",
+   "opts": ["0.001", "0.01", "0.1", "0.0001"],
+   "ans": 0,
+   "exp": "Iced samples slow the change tenfold: pH 0.001, pCO₂ 0.1 mmHg and pO₂ 0.01% per 10 minutes. (Book p826)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An ABG is left at room temperature for 20 minutes and pH values are compared. What does the printed table predict?",
+   "opts": [
+    "pH falls by about 0.02, along with a pCO₂ rise of about 2 mmHg",
+    "pH rises by about 0.02, along with a pCO₂ fall of about 2 mmHg",
+    "pH is unchanged because delay affects only pO₂",
+    "pH falls by 0.1 with a pO₂ rise of 1%"
+   ],
+   "ans": 0,
+   "exp": "At 37°C the change is 0.01 pH per 10 minutes (so ~0.02 over 20 minutes) and 1 mmHg pCO₂ per 10 minutes (~2 mmHg); the pO₂ change is 0.1% per 10 minutes. (Book p826)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘Icing the sample at 4°C reduces the per-10-minute change in pCO₂ to 0.1 mmHg.’",
+   "opts": [
+    "True — 0.1 mmHg iced versus 1 mmHg un-iced",
+    "False — icing has no effect on pCO₂ drift",
+    "True — the iced change is 1 mmHg and the un-iced 0.1 mmHg",
+    "False — icing reduces only the pO₂ change"
+   ],
+   "ans": 0,
+   "exp": "Delay table: pCO₂ changes 1 mmHg per 10 minutes un-iced at 37°C but only 0.1 mmHg iced at 4°C. (Book p826)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are printed precautions for ABG sampling. Which is the odd one out?",
+   "opts": [
+    "Store the sample at body temperature until analysis",
+    "Flush the syringe with 0.5 ml of 1 : 1000 heparin solution and empty it",
+    "Transport the sample earliest via the cold chain",
+    "Avoid excess heparin within the syringe"
+   ],
+   "ans": 0,
+   "exp": "The printed precautions are heparin flushing and emptying (0.5 ml of 1 : 1000), earliest transport via the cold chain, and awareness of delay-induced changes — keeping the sample at body temperature is not advised. (Book p826)"
+  }
+ ]
+}

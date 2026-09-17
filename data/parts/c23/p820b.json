@@ -1,0 +1,154 @@
+{
+ "page": 820,
+ "sec": "Metabolic acidosis, the anion gap and NAGMA/HAGMA · p820",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the causes of metabolic acidosis — 1) Acid generation  2) Exogenous acid  3) Endogenous acid  4) Alkali loss … A) GI and renal loss  B) Methanol  C) Ketoacids  D) Parent category",
+   "opts": [
+    "1-D, 2-B, 3-C, 4-A",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-B, 2-D, 3-A, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Metabolic acidosis arises from acid generation (exogenous, e.g. methanol; endogenous, e.g. ketoacids) and from alkali loss (GI and renal). (Book p820)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The printed example of an exogenous acid causing metabolic acidosis is ______.",
+   "opts": ["methanol", "ketoacids", "lactic acid", "sulphuric acid"],
+   "ans": 0,
+   "exp": "Acid generation is split into exogenous acid (methanol) and endogenous acid (ketoacids). (Book p820)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which of the following is given as the endogenous acid example?",
+   "opts": ["Ketoacids", "Methanol", "Ethylene glycol", "Salicylates"],
+   "ans": 0,
+   "exp": "Endogenous acid: ketoacids; exogenous acid: methanol. (Book p820)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the steps of the anion gap derivation — 1) Total cation vs total anion  2) Adding unmeasured species  3) Measured cation − measured anions … A) = unmeasured anion − unmeasured cation  B) Are equal  C) measured cation + unmeasured cation = measured anion + unmeasured anion",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Total cation = total anion; measured cation + unmeasured cation = measured anion + unmeasured anion; hence measured cation − measured anions = unmeasured anion − unmeasured cation. (Book p820)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The anion gap is defined as which difference, and equals which formula?",
+   "opts": [
+    "Unmeasured anion − unmeasured cation; = Na⁺ − (Cl⁻ + HCO₃⁻)",
+    "Unmeasured cation − unmeasured anion; = Na⁺ − (Cl⁻ + HCO₃⁻)",
+    "Measured anion − measured cation; = (Cl⁻ + HCO₃⁻) − Na⁺",
+    "Unmeasured anion − unmeasured cation; = (Na⁺ + K⁺) − (Cl⁻ + HCO₃⁻)"
+   ],
+   "ans": 0,
+   "exp": "Anion gap = unmeasured anion − unmeasured cation = Na⁺ − (Cl⁻ + HCO₃⁻). (Book p820)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Normal anion gap metabolic acidosis (NAGMA) is also called:",
+   "opts": [
+    "Hyperchloremic acidosis, because HCO₃⁻ is compensated by Cl⁻",
+    "Hypernatremic acidosis, because Na⁺ rises to replace H⁺",
+    "Lactic acidosis, because lactate replaces HCO₃⁻",
+    "Ketoacidosis, because ketones replace Cl⁻"
+   ],
+   "ans": 0,
+   "exp": "In NAGMA, HCO₃⁻ is compensated by Cl⁻, hence the alternative name hyperchloremic acidosis. (Book p820)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the NAGMA causes shown in the flowchart — 1) GI loss  2) GI example  3) Renal loss … A) RTA  B) VIPoma  C) Ureterosigmoidostomy",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "NAGMA causes: GI loss (VIPoma and ureterosigmoidostomy) and renal loss (RTA). (Book p820)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with a VIPoma and chronic watery diarrhoea has a normal anion gap acidosis. This fits which printed category?",
+   "opts": [
+    "NAGMA from GI loss of alkali",
+    "HAGMA from unmeasured anions",
+    "NAGMA from renal loss of alkali",
+    "Metabolic alkalosis with chloride loss"
+   ],
+   "ans": 0,
+   "exp": "VIPoma is printed under NAGMA – GI loss, whereas RTA is the renal loss cause. (Book p820)"
+  },
+  {
+   "fmt": "recall",
+   "q": "High anion gap metabolic acidosis (HAGMA) is characterised by:",
+   "opts": [
+    "↑ in unmeasured anions",
+    "↑ in unmeasured cations",
+    "↑ in measured chloride",
+    "↓ in unmeasured anions"
+   ],
+   "ans": 0,
+   "exp": "HAGMA: ↑ in unmeasured anions — the unmeasured anion − unmeasured cation difference widens. (Book p820)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The mnemonic given for the causes of high anion gap metabolic acidosis is ______.",
+   "opts": ["KUSMAL", "MUDPILES", "KULT", "SMACK"],
+   "ans": 0,
+   "exp": "HAGMA causes are remembered by KUSMAL — ketoacidosis, uremia, salicylates/paraldehyde, methanol, ethylene glycol (alcohol) and lactic acidosis. (Book p820)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the KUSMAL letters to their causes — 1) K  2) U  3) S  4) L … A) Lactic acidosis  B) Ketoacidosis  C) Salicylates/Paraldehyde  D) Uremia",
+   "opts": [
+    "1-B, 2-D, 3-C, 4-A",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-D, 2-B, 3-C, 4-A",
+    "1-A, 2-D, 3-C, 4-B"
+   ],
+   "ans": 0,
+   "exp": "KUSMAL: K = ketoacidosis, U = uremia, S = salicylates/paraldehyde, M = methanol, A = ethylene glycol (alcohol), L = lactic acidosis. (Book p820)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Under ‘K’ of the KUSMAL mnemonic, the three printed ketoacidosis subtypes are:",
+   "opts": [
+    "DKA, starvation and alcoholic",
+    "DKA, lactic and alcoholic",
+    "Starvation, uremic and alcoholic",
+    "DKA, salicylate and starvation"
+   ],
+   "ans": 0,
+   "exp": "Ketoacidosis (i) DKA (ii) starvation (iii) alcoholic. (Book p820)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient swallows antifreeze and develops a metabolic acidosis with a raised anion gap and an osmolal gap. Which KUSMAL entry explains it?",
+   "opts": [
+    "A — ethylene glycol (alcohol)",
+    "M — methanol",
+    "S — salicylates",
+    "L — lactic acidosis"
+   ],
+   "ans": 0,
+   "exp": "Antifreeze (ethylene glycol) is printed as ‘Ethylene glycol (Alcohol)’ under KUSMAL and produces HAGMA. (Book p820)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following belong to the KUSMAL list of HAGMA causes. Which is the odd one out?",
+   "opts": ["Paracetamol overdose", "Uremia", "Salicylates/Paraldehyde", "Methanol"],
+   "ans": 0,
+   "exp": "KUSMAL lists ketoacidosis, uremia, salicylates/paraldehyde, methanol, ethylene glycol and lactic acidosis — paracetamol is not part of it. (Book p820)"
+  }
+ ]
+}

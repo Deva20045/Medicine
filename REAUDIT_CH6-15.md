@@ -30,9 +30,10 @@ the giveaway-longest option, options shuffled at runtime).
 | 14 | 778–782 | 82 | 5 | 89% | verified against the gates, no change needed |
 | 15 | 783–785 | 54 | 4 | 85% | verified; p785 holds 9 items that cover every printed line |
 
-Ch 6–15 now carry **830 questions in 68 units**; the whole bank is
-**1892 questions / 162 units / 22 live chapters**, and all **114 in-scope Book pages**
-are represented.
+Ch 6–15 now carry **830 questions in 68 units**. This batch took the bank from 1720 to
+**1892 questions / 162 units / 22 live chapters**; merged with the Acid–Base batch (Ch
+23–25) the published bank is **2174 questions / 180 units / 25 live chapters**, with all
+**125 in-scope Book pages** p705–829 represented.
 
 ## Format mix (this window)
 
@@ -112,11 +113,12 @@ same level of clinical detail). Bank-wide mean is 28.1%.
 ## Verification (all green)
 
 ```
-python3 build_content.py    → Embedded 1892 questions and 162 units across 22 live chapter(s) of 74 roadmap chapters
-python3 check_integrity.py  → PASS: 22 live chapters; 1892 questions; 162 units; all 114 in-scope Book pages
+python3 build_content.py    → Embedded 2174 questions and 180 units across 25 live chapter(s) of 74 roadmap chapters
+                              (1892 / 162 / 22 before the Acid–Base merge)
+python3 check_integrity.py  → PASS: 25 live chapters; 2174 questions; 180 units; all 125 in-scope Book pages
                               represented; IDs, four-option structure, citations, order, source artifacts,
                               UI hooks and JavaScript syntax verified
-node check_app_smoke.js     → PASS: roadmap of 74 chapters (22 live, rest "Soon"), Chapter 1–22 path data,
+node check_app_smoke.js     → PASS: roadmap of 74 chapters (25 live, rest "Soon"), Chapter 1–22 path data,
                               quiz starts and final questions render at runtime
 python3 audit_variety.py    → AUDIT.md regenerated (format mix + predictability signals)
 ```

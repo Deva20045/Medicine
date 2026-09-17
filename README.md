@@ -37,12 +37,15 @@ rest show a **Soon** badge.
 | Ch 20 · Anemia in Chronic Kidney Disease (p808–810) — 7 units, 76 questions | ✅ live (re-audited) |
 | Ch 21 · CKD - Calciphylaxis and Cardiovascular changes (p811–814) — 6 units, 93 questions | ✅ live (re-audited) |
 | Ch 22 · Diabetic Kidney Disease (p815–818) — 7 units, 90 questions | ✅ live (re-audited) |
-| Ch 23–74 (Nephrology, Acid–Base, Endocrinology, Hepatology, Infectious Diseases) | 🚧 in progress |
+| Ch 23 · Introduction to Acid Base Analysis (p819–823) — 9 units, 137 questions | ✅ live |
+| Ch 24 · Metabolic Alkalosis (p824–825) — 3 units, 40 questions | ✅ live |
+| Ch 25 · Methodology and Interpretation of ABG Analysis (p826–829) — 6 units, 105 questions | ✅ live |
+| Ch 26–74 (Endocrinology, Hepatology, Infectious Diseases) | 🚧 in progress |
 
-**Bank total: 1892 questions · 162 units · 22 live chapters of the 74-chapter roadmap**
-(Ch 6–15: 830 questions in 68 units, 70% of them in non-recall formats — fill-ups,
+**Bank total: 2174 questions · 180 units · 25 live chapters of the 74-chapter roadmap**
+(Ch 6–15 alone: 830 questions in 68 units, 70% of them in non-recall formats — fill-ups,
 match-the-following, true/false, odd-one-out, numeric and clinical scenarios; see
-`REAUDIT_CH6-15.md` and `AUDIT.md`).
+`REAUDIT_CH6-15.md`, `REPORT_CH23-25.md` and `AUDIT.md`).
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 74-chapter
 roadmap, data schema, per-chapter pipeline, and NEXT step.
@@ -59,9 +62,10 @@ roadmap, data schema, per-chapter pipeline, and NEXT step.
 | `audit_variety.py` | Format-mix + predictability audit (output saved to `AUDIT.md`) |
 | `itemlab.py` | Add/edit questions with renumbering + auto-rebuild |
 | `uploads/` | The 6 source book PDFs (Book p705–1070) |
-| `data/parts/cNN/…` | Ordered, page-anchored authoring parts (source of truth for Ch 13–18) |
+| `data/parts/cNN/…` | Ordered, page-anchored authoring parts (source of truth for Ch 13–18, 23–25) |
 | `author.py` | Assembles `data/chNN.json` from the ordered parts, with quality gates |
 | `REAUDIT.md` | Re-audit report for Ch 13–18 (before → after, coverage, verification) |
+| `REPORT_CH23-25.md` | Build report for the Acid–Base chapters (coverage, metrics, verification) |
 
 ## Run the checks (after any content change)
 ```bash

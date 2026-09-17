@@ -1,0 +1,108 @@
+{
+ "page": 820,
+ "sec": "The three chemical buffers: bicarbonate, phosphate, haemoglobin · p820",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "The HCO₃⁻/H₂CO₃ system is described as the first compensation in which disorder?",
+   "opts": ["Metabolic acidosis", "Respiratory acidosis", "Metabolic alkalosis", "Respiratory alkalosis"],
+   "ans": 0,
+   "exp": "The HCO₃⁻/H₂CO₃ system works as the 1st compensation in metabolic acidosis: [H⁺] + HCO₃⁻. (Book p820)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the fate of carbonic acid in the bicarbonate system — 1) Carbonic acid  2) CO₂ limb  3) H₂O limb … A) Eliminated as water  B) Split into CO₂ and H₂O  C) Exhalation",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "H₂CO₃ splits into CO₂ (exhalation) and H₂O; the CO₂ limb drives the respiratory compensation. (Book p820)"
+  },
+  {
+   "fmt": "recall",
+   "q": "After the HCO₃⁻/H₂CO₃ buffering step, the fall in PaCO₂ produced by exhalation is called:",
+   "opts": ["2nd compensation — respiratory alkalosis", "1st compensation — respiratory acidosis", "1st compensation — renal alkalosis", "3rd compensation — renal acidosis"],
+   "ans": 0,
+   "exp": "↓PaCO₂ from exhalation is labelled respiratory alkalosis and is the 2nd compensation, following the 1st compensation by HCO₃⁻. (Book p820)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The pKa of the phosphate buffer is printed as:",
+   "opts": ["6.8", "7.3", "7.4", "8.6"],
+   "ans": 0,
+   "exp": "Phosphate buffer pKa = 6.8, close to the physiological pH; the haemoglobin buffer pKa is 7.3. (Book p820)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The phosphate buffer is ranked as:",
+   "opts": [
+    "2nd most effective, and intracellularly more effective",
+    "2nd most effective, and extracellularly more effective",
+    "most effective overall, and equally effective in both compartments",
+    "least effective of the three chemical buffers"
+   ],
+   "ans": 0,
+   "exp": "Phosphate buffer: pKa 6.8, 2nd most effective, and more effective intracellularly. (Book p820)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The phosphate buffer reaction is [H⁺] + [HPO₄²⁻] → ______.",
+   "opts": ["H₂PO₄⁻", "H₂CO₃", "H₂O + CO₂", "HHb"],
+   "ans": 0,
+   "exp": "Phosphate buffering: [H⁺] + [HPO₄²⁻] → H₂PO₄⁻. (Book p820)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The pKa of the haemoglobin buffer is:",
+   "opts": ["7.3", "6.8", "6.1", "7.4"],
+   "ans": 0,
+   "exp": "Haemoglobin buffer: pKa 7.3, most effective intracellular buffering, H⁺ + Hb → HHb. (Book p820)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which buffer is called the most effective for intracellular buffering?",
+   "opts": ["Haemoglobin buffer", "Phosphate buffer", "Bicarbonate–carbonic acid system", "Plasma protein buffer"],
+   "ans": 0,
+   "exp": "Haemoglobin buffer (pKa 7.3) is the most effective intracellular buffering system, reacting H⁺ + Hb → HHb. (Book p820)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each buffer to its pKa and rank — 1) Bicarbonate system  2) Phosphate buffer  3) Haemoglobin buffer … A) pKa 7.3, most effective intracellular buffer  B) pKa 6.8, 2nd most effective buffer  C) Most potent extracellular buffer",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Bicarbonate system = most potent extracellular buffer; phosphate = pKa 6.8, 2nd most effective (better intracellularly); haemoglobin = pKa 7.3, most effective intracellular buffer. (Book p820)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these statements about the three chemical buffers are printed in the Book. Which is the odd one out?",
+   "opts": [
+    "The bicarbonate system is the most effective intracellular buffer",
+    "Phosphate buffer has a pKa of 6.8",
+    "Haemoglobin buffer reacts H⁺ + Hb → HHb",
+    "Bicarbonate buffering in metabolic acidosis is called the 1st compensation"
+   ],
+   "ans": 0,
+   "exp": "Intracellular supremacy belongs to haemoglobin (pKa 7.3); the bicarbonate system is the most potent *extracellular* buffer. (Book p820)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘Phosphate buffer is more effective inside the cell than outside it.’",
+   "opts": [
+    "True — it is described as intracellularly more effective",
+    "False — it acts only in plasma",
+    "False — haemoglobin is the only intracellular buffer",
+    "True — but only when pKa rises above 7.4"
+   ],
+   "ans": 0,
+   "exp": "Phosphate buffer (pKa 6.8) is the 2nd most effective and acts intracellularly more effectively. (Book p820)"
+  }
+ ]
+}
