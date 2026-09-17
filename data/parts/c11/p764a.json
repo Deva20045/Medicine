@@ -51,13 +51,13 @@
    "exp": "Infections: HBV, syphilis, schistosomiasis. (Book p764)"
   },
   {
-   "fmt": "recall",
-   "q": "In rheumatoid arthritis, the m/c glomerular manifestations ranked in the book are:",
+   "fmt": "truefalse",
+   "q": "For rheumatoid arthritis, the ranking of glomerular lesions printed on this page puts secondary amyloidosis ahead of membranous nephropathy.",
    "opts": [
-    "2° amyloidosis > MN",
-    "MN > 2° amyloidosis",
-    "FSGS > MN",
-    "MCD > amyloidosis"
+    "True — the line reads secondary amyloidosis ahead of membranous nephropathy",
+    "False — membranous nephropathy is ranked ahead of secondary amyloidosis",
+    "False — only membranous nephropathy is listed for rheumatoid arthritis",
+    "True — and sarcoidosis is ranked in the same order"
    ],
    "ans": 0,
    "exp": "Rheumatoid arthritis: m/c glomerular manifestations: 2° amyloidosis > MN. (Book p764)"
@@ -111,13 +111,13 @@
    "exp": "70/30 rule; maximum risk of thrombosis. (Book p764)"
   },
   {
-   "fmt": "recall",
-   "q": "Diseases associated with d-penicillamine in the note are Wilson's disease, aplastic anemia, myasthenia gravis and:",
+   "fmt": "truefalse",
+   "q": "The note on this page lists membranous nephropathy among the diseases associated with d-penicillamine, beside Wilson's disease, aplastic anemia and myasthenia gravis.",
    "opts": [
-    "MN",
-    "MCD",
-    "FSGS",
-    "IgA nephropathy"
+    "True — membranous nephropathy is the fourth disease of that note",
+    "False — the fourth disease is minimal change disease",
+    "False — the note ties d-penicillamine to FSGS",
+    "True — and gold is named in the same note as the drug for Wilson's disease"
    ],
    "ans": 0,
    "exp": "d-penicillamine: Wilson's disease, aplastic anemia, myasthenia gravis, MN. (Book p764)"

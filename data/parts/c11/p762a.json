@@ -3,13 +3,13 @@
  "sec": "Podocytopathy Types & MCD Causes",
  "items": [
   {
-   "fmt": "recall",
-   "q": "Podocytopathies are defined as glomerular diseases that primarily affect:",
+   "fmt": "truefalse",
+   "q": "The definition of a podocytopathy on this page places the primary injury on the podocyte.",
    "opts": [
-    "Podocytes",
-    "Mesangial cells",
-    "Endothelial cells",
-    "Parietal epithelial cells"
+    "True — the podocyte is named as the primary target, not the mesangium or the endothelium",
+    "False — podocytopathies are defined by primary mesangial cell injury",
+    "False — the term is reserved for diseases of the glomerular basement membrane",
+    "True — and every disease in the group carries the same risk of chronic kidney disease"
    ],
    "ans": 0,
    "exp": "Glomerular diseases that primarily affect podocytes. (Book p762)"
@@ -39,13 +39,13 @@
    "exp": "Without podocytopenia: MCD (no CKD risk); with podocytopenia: FSGS >2/3rd → CKD even with Rx; MN 1/3rd → CKD if not treated. (Book p762)"
   },
   {
-   "fmt": "recall",
-   "q": "Besides FSGS and MN, the podocytopenia (CKD-risk) branch also lists:",
+   "fmt": "oddoneout",
+   "q": "The with-podocytopenia branch (the CKD-risk branch) names FSGS, membranous nephropathy and diabetic nephropathy; the entity NOT placed on that branch is:",
    "opts": [
-    "Diabetic nephropathy (DN)",
-    "IgA nephropathy",
-    "Post-streptococcal GN",
-    "Hypertensive nephrosclerosis"
+    "Minimal change disease",
+    "FSGS",
+    "Membranous nephropathy",
+    "Diabetic nephropathy"
    ],
    "ans": 0,
    "exp": "With podocytopenia: FSGS, MN, diabetic nephropathy (DN). (Book p762)"
@@ -75,13 +75,13 @@
    "exp": "Allergy: atopic rhinitis, atopic dermatitis, asthma, post-immunization. (Book p762)"
   },
   {
-   "fmt": "recall",
-   "q": "Sezary syndrome, bracketed to MCD malignancies, is a:",
+   "fmt": "truefalse",
+   "q": "Sezary syndrome, bracketed inside the malignancy line for minimal change disease, is described as a cutaneous T cell lymphoma.",
    "opts": [
-    "Cutaneous T cell lymphoma",
-    "B-cell leukemia",
-    "Plasma cell dyscrasia",
-    "Medullary thyroid carcinoma"
+    "True — the bracket reads cutaneous T cell lymphoma",
+    "False — Sezary syndrome is the B-cell leukemia of that line",
+    "False — the bracket identifies it as a plasma cell dyscrasia",
+    "True — and Hodgkin's disease carries the same bracket"
    ],
    "ans": 0,
    "exp": "Malignancy: Hodgkin's disease; Sezary syndrome (cutaneous T cell lymphoma); CLL. (Book p762)"

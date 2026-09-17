@@ -27,25 +27,25 @@
    "exp": "IgM nephropathy: variant of MCD; mesangial matrix expansion; IF IgM +ve; poor prognosis compared to MCD. (Book p766)"
   },
   {
-   "fmt": "recall",
-   "q": "FSGS is associated with Apo L1 polymorphisms; the CKD figure written is:",
+   "fmt": "numeric",
+   "q": "With Apo L1 polymorphisms in FSGS, what proportion of patients develop CKD by 10 years?",
    "opts": [
-    "70% develop CKD by 10 years",
-    "30% develop CKD by 10 years",
-    "70% develop CKD by 1 year",
-    "10% develop CKD by 10 years"
+    "70%",
+    "30%",
+    "10%",
+    "90%"
    ],
    "ans": 0,
    "exp": "Associated with Apo L1 polymorphisms; 70% develop CKD by 10 years. (Book p766)"
   },
   {
-   "fmt": "recall",
-   "q": "On the FSGS biopsy page, focal means <50% glomeruli involved, while segmental means:",
+   "fmt": "fillup",
+   "q": "Fill up: In the biopsy definitions of FSGS, 'focal' means fewer than ______ percent of glomeruli are involved.",
    "opts": [
-    "Only a portion of glomeruli involved",
-    "All glomeruli partially involved",
-    "Only the tubules involved",
-    "Whole glomerulus in every case"
+    "50",
+    "10",
+    "75",
+    "90"
    ],
    "ans": 0,
    "exp": "Focal: <50% glomeruli involved; segmental: only a portion of glomeruli involved. (Book p766)"
@@ -87,13 +87,13 @@
    "exp": "Steroid (1 mg/kg/day) → 4 months → if no response: SRNS → CNI/MMF → CKD → transplant. (Book p766)"
   },
   {
-   "fmt": "recall",
-   "q": "Even after the kidney is replaced, the book warns that the disease can come back as:",
+   "fmt": "scenario",
+   "q": "A 12-year-old with steroid-resistant FSGS receives a living-related graft and develops nephrotic-range proteinuria on day 10. The warning printed on this biopsy page that fits is:",
    "opts": [
-    "Transplant recurrence FSGS",
-    "De-novo membranous nephropathy",
-    "Acute antibody-mediated rejection",
-    "Recurrent MCD only"
+    "Transplant recurrence of FSGS, which can occur even after the kidney is replaced",
+    "Hyperacute rejection only, since recurrence is confined to minimal change disease",
+    "De-novo membranous nephropathy, the commonest lesion after transplantation",
+    "Recurrent IgA nephropathy with mesangial IgA deposits"
    ],
    "ans": 0,
    "exp": "Even after transplant, recurrence can occur: transplant recurrence FSGS. (Book p766)"

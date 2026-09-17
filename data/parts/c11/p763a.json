@@ -3,13 +3,13 @@
  "sec": "FSGS Causes & Circulating Factors",
  "items": [
   {
-   "fmt": "recall",
-   "q": "The drug list of 2° FSGS includes pamidronate, anabolic steroids, heroin, sirolimus, IFN α and the tyrosine kinase inhibitor:",
+   "fmt": "oddoneout",
+   "q": "Every one of these drugs appears in the drug line for secondary FSGS EXCEPT:",
    "opts": [
-    "Dasatinib",
-    "Imatinib",
-    "Sunitinib",
-    "Erlotinib"
+    "Rifampicin",
+    "Pamidronate",
+    "Anabolic steroids",
+    "Dasatinib"
    ],
    "ans": 0,
    "exp": "Dasatinib (tyrosine kinase inhibitor (TKI)) among 2° FSGS drugs. (Book p763)"
@@ -27,37 +27,37 @@
    "exp": "Gold belongs to the MN/MCD drug lists; FSGS drugs are pamidronate, anabolic steroids, heroin, sirolimus, dasatinib, IFN α. (Book p763)"
   },
   {
-   "fmt": "recall",
-   "q": "The infection causes of 2° FSGS are HIV-associated nephropathy (HIVAN), parvo B19, EBV and:",
+   "fmt": "scenario",
+   "q": "A 28-year-old with HIV develops nephrotic-range proteinuria and a rising creatinine; the infection line of the secondary FSGS list is read. Which diseases sit on that line?",
    "opts": [
-    "Cytomegalovirus (CMV)",
-    "Hepatitis B virus",
-    "Schistosomiasis",
-    "Syphilis"
+    "HIV-associated nephropathy, parvovirus B19, EBV and CMV",
+    "Hepatitis B, syphilis and schistosomiasis",
+    "Hepatitis C with cryoglobulinemia",
+    "Plasmodium malariae and leprosy"
    ],
    "ans": 0,
    "exp": "Infections: HIVAN, parvo B19, EBV, CMV. (Book p763)"
   },
   {
-   "fmt": "recall",
-   "q": "The miscellaneous 2° FSGS causes are sickle cell anemia, obesity and:",
+   "fmt": "oddoneout",
+   "q": "The miscellaneous causes of secondary FSGS include all of the following EXCEPT:",
    "opts": [
-    "Congenital cyanotic heart disease",
     "Atrial septal defect",
-    "Coarctation of the aorta",
-    "Ebstein anomaly"
+    "Sickle cell anemia",
+    "Obesity",
+    "Congenital cyanotic heart disease"
    ],
    "ans": 0,
    "exp": "Miscellaneous: sickle cell anemia, obesity, congenital cyanotic heart disease. (Book p763)"
   },
   {
-   "fmt": "recall",
-   "q": "1° FSGS is antigen-associated: soluble urokinase plasminogen activator receptor (suPAR) and cardiotrophin-like cytokine 1 (CLC-1) together act as:",
+   "fmt": "fillup",
+   "q": "Fill up: In primary FSGS, soluble urokinase plasminogen activator receptor and cardiotrophin-like cytokine 1 are bracketed together as a circulating ______ factor.",
    "opts": [
-    "Circulating permeability factor",
-    "Podocyte transcription factors",
-    "Complement regulatory proteins",
-    "Basement membrane antigens"
+    "permeability",
+    "coagulation",
+    "transcription",
+    "complement-inhibiting"
    ],
    "ans": 0,
    "exp": "suPAR + CLC-1 bracketed as circulating permeability factor. (Book p763)"
@@ -99,13 +99,13 @@
    "exp": "Resistant to immunosuppression therapy; only Rx: transplantation. (Book p763)"
   },
   {
-   "fmt": "recall",
-   "q": "2° perihilar FSGS follows removal of a pathological kidney because the remaining nephrons/other kidney undergo:",
+   "fmt": "truefalse",
+   "q": "Secondary perihilar FSGS after removal of a pathological kidney is attributed on this page to hyperfiltration injury with glomerular hypertrophy.",
    "opts": [
-    "Hyperfiltration injury with glomerular hypertrophy",
-    "Ischemic atrophy",
-    "Complement-mediated lysis",
-    "Obstructive dilatation"
+    "True — the printed chain is removal of the kidney, hyperfiltration with glomerular hypertrophy, then perihilar FSGS",
+    "False — the page blames recurrence of the circulating permeability factor",
+    "False — it is classified among the antigen-associated primary forms",
+    "True — and this form is managed with immunosuppression rather than ACE blockade"
    ],
    "ans": 0,
    "exp": "Removal of pathological kidney → remaining nephrons undergo hyperfiltration injury (glomerular hypertrophy) → 2° perihilar FSGS. (Book p763)"

@@ -19,9 +19,9 @@
    "q": "The >50% presentation cluster of IgA nephropathy is adolescents with synpharyngitic, episodic macrohematuria plus:",
    "opts": [
     "Intervening microhematuria + proteinuria",
-    "Continuous macrohematuria",
-    "Isolated oliguria",
-    "Nephrotic-range proteinuria"
+    "Continuous macrohematuria without any intervals",
+    "Isolated oliguria with a normal urine sediment",
+    "Nephrotic-range proteinuria from the outset"
    ],
    "ans": 0,
    "exp": "Adolescents, synpharyngitic, episodic macrohematuria, intervening microhematuria + proteinuria. (Book p773)"
@@ -51,16 +51,16 @@
    "exp": "1% patients: RPGN (adult HSP); 5% nephrotic; 5% directly as CKD. (Book p773)"
   },
   {
-   "fmt": "recall",
-   "q": "The 5% who directly present as CKD show HTN, proteinuria, ↑ S. creatinine and on USG:",
+   "fmt": "scenario",
+   "q": "A 30-year-old has BP 160/100, proteinuria, creatinine 3.2 mg/dL and bilaterally contracted kidneys; biopsy shows mesangial IgA. Which printed arm of IgA nephropathy is this?",
    "opts": [
-    "Contracted kidney",
-    "Enlarged echogenic kidneys",
-    "Hydronephrosis",
-    "Renal stones"
+    "The 5% straight-to-CKD arm with a contracted kidney",
+    "The >50% adolescent cluster with intervening microhematuria and proteinuria",
+    "The 1% RPGN arm annotated as adult Henoch-Schonlein purpura",
+    "The 30–40% asymptomatic urinary-abnormality arm"
    ],
    "ans": 0,
-   "exp": "Directly present as CKD: HTN, proteinuria, ↑ S. creatinine, USG: contracted kidney. (Book p773)"
+   "exp": "As printed, the presentation list puts 5% directly into chronic kidney disease with hypertension, proteinuria, rising serum creatinine and a contracted kidney; the adolescent cluster with intervening microhematuria and proteinuria is the >50% arm, and crescentic disease is the 1% adult-HSP arm. (Book p773)"
   },
   {
    "fmt": "recall",
@@ -79,21 +79,21 @@
    "q": "In the MEST-C discussion, mesangial IgA alone carries normal features; the bad-prognosis indicators are IgA deposits outside mesangium (eg. capillary loops), any proliferation other than mesangial and:",
    "opts": [
     "Non IgA deposits (IgG, IgM)",
-    "Isolated C3 deposits",
-    "Subepithelial humps",
-    "Tamm-Horsford casts"
+    "Subepithelial humps of post-infectious disease",
+    "Tamm-Horsford protein casts within the tubules",
+    "Isolated C3 staining along the capillary loops"
    ],
    "ans": 0,
    "exp": "Bad prognosis: IgA outside mesangium; any non-mesangial proliferation; non IgA deposits (IgG, IgM). (Book p773)"
   },
   {
-   "fmt": "recall",
-   "q": "Endocapillary hypercellularity marks active disease and segmental sclerosis with tubular atrophy leads to CKD; crescents (RPGN) signify:",
+   "fmt": "truefalse",
+   "q": "In the prognostic list on this page, crescents (the RPGN lesion) sit with the bad-prognosis findings.",
    "opts": [
-    "Bad prognosis",
-    "Good prognosis",
-    "Stable course",
-    "No prognostic value"
+    "True — crescents are grouped with the bad-prognosis entries",
+    "False — crescents are given no prognostic value at all",
+    "False — endocapillary hypercellularity is called chronic and inactive",
+    "True — and gross hematuria is listed alongside them as a bad sign"
    ],
    "ans": 0,
    "exp": "Endocapillary hypercellularity → bad prognosis (active disease); segmental sclerosis + tubular atrophy → CKD → bad prognosis; crescents (RPGN) → bad prognosis. (Book p773)"
@@ -111,13 +111,13 @@
    "exp": "Macrohematuria: early diagnosis → good prognosis. (Book p773)"
   },
   {
-   "fmt": "recall",
-   "q": "The two circulating markers written as having no value in IgA nephropathy are:",
+   "fmt": "truefalse",
+   "q": "Both serum complement levels and serum IgA are marked on this page as having no value in IgA nephropathy.",
    "opts": [
-    "Serum C3/C4 and serum IgA",
-    "Serum creatinine and urea",
-    "Serum albumin and cholesterol",
-    "ASO titre and anti DNAse B"
+    "True — serum C3/C4 and serum IgA are each followed by 'no value'",
+    "False — serum IgA is the recommended screening test",
+    "False — a low C3 must be shown before biopsy is considered",
+    "True — but the note applies only to children"
    ],
    "ans": 0,
    "exp": "Serum C3/C4 → no value; serum IgA → no value. (Book p773)"

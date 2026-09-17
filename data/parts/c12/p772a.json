@@ -3,13 +3,13 @@
  "sec": "IgA Secondary Causes & Mechanism",
  "items": [
   {
-   "fmt": "recall",
-   "q": "The mucosal-injury list of IgA secondary causes includes coeliac disease, Whipple disease, tropical sprue, Crohns disease and:",
+   "fmt": "oddoneout",
+   "q": "The mucosal-injury causes of secondary IgA nephropathy include all of these EXCEPT:",
    "opts": [
-    "Ulcerative colitis",
-    "Irritable bowel syndrome",
     "Giardiasis",
-    "Amyloidosis"
+    "Coeliac disease",
+    "Whipple disease",
+    "Tropical sprue"
    ],
    "ans": 0,
    "exp": "Mucosal injury: coeliac, Whipple, tropical sprue, Crohns, ulcerative colitis, HIV. (Book p772)"
@@ -27,13 +27,13 @@
    "exp": "HIV (m/c collapsing FSGS) in the mucosal injury list; the liver-disease table pairs HIV with collapsing FSGS. (Book p772)"
   },
   {
-   "fmt": "recall",
-   "q": "Cirrhosis causes IgA nephropathy because:",
+   "fmt": "truefalse",
+   "q": "Cirrhosis appears as a secondary cause of IgA nephropathy because the damaged liver cannot clear immune complexes.",
    "opts": [
-    "Liver cannot clear immune complex",
-    "Liver overproduces IgA",
-    "Portal hypertension damages glomeruli",
-    "Alcohol injures podocytes directly"
+    "True — the bracket reads 'liver cannot clear immune complex'",
+    "False — the bracket reads 'liver overproduces IgA'",
+    "False — cirrhosis is listed because portal hypertension damages glomeruli",
+    "True — and the identical reason is printed against hepatitis B"
    ],
    "ans": 0,
    "exp": "Cirrhosis: (liver cannot clear immune complex). (Book p772)"
@@ -63,13 +63,13 @@
    "exp": "Anti glycan antibodies formed against pIgA → large immune complex. (Book p772)"
   },
   {
-   "fmt": "recall",
-   "q": "The large immune complex cannot cross sinusoids to enter liver parenchyma; it enters hepatic vein, inferior vena cava, is filtered at glomerulus and finally:",
+   "fmt": "truefalse",
+   "q": "In the innocent bystander mechanism, the large IgA complex cannot cross the sinusoids into the liver parenchyma and is finally deposited in the mesangium.",
    "opts": [
-    "Deposited in mesangium",
-    "Deposited subepithelially",
-    "Excreted unchanged",
-    "Deposited in tubules"
+    "True — hepatic vein, inferior vena cava, misdirected filtration at the glomerulus, mesangial deposit",
+    "False — Kupffer cells digest the complex before it reaches the inferior vena cava",
+    "False — the complex is deposited subepithelially rather than in the mesangium",
+    "True — and the page adds that the misdirected filtration is into Bowman's space"
    ],
    "ans": 0,
    "exp": "Filtered at glomerulus (aqueous misdirected filtration) → deposited in mesangium. (Book p772)"
@@ -99,13 +99,13 @@
    "exp": "HIV → collapsing FSGS; cirrhosis → IgA nephropathy; hepatitis C → MPGN. (Book p772)"
   },
   {
-   "fmt": "recall",
-   "q": "In the liver-disease table, hepatitis B pairs with:",
+   "fmt": "match",
+   "q": "Match each condition with the glomerular lesion printed against it in the liver-disease block — 1) Hepatitis B 2) Hepatitis C 3) Cirrhosis … A) Membranous nephropathy B) MPGN pattern C) IgA nephropathy D) Minimal change disease",
    "opts": [
-    "Membranous (the adult-NS m/c lesion)",
-    "MPGN (the HCV-linked lesion)",
-    "IgA nephropathy (the cirrhosis-linked lesion)",
-    "Collapsing FSGS (the HIV-linked lesion)"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
    "exp": "Hepatitis B → membranous nephropathy. (Book p772)"
@@ -114,10 +114,10 @@
    "fmt": "truefalse",
    "q": "Which pairing statement is TRUE per the m/c-associated-disease table?",
    "opts": [
-    "Cirrhosis (alcoholic & non alcoholic) is associated with IgA nephropathy",
-    "HIV is associated with membranous nephropathy",
-    "Hepatitis C is associated with collapsing FSGS",
-    "Hepatitis B is associated with MPGN"
+    "Cirrhosis, alcoholic and non-alcoholic, pairs with IgA nephropathy",
+    "HIV is paired with membranous nephropathy in the same table",
+    "Hepatitis C is the infection paired with collapsing FSGS",
+    "Hepatitis B is the virus listed beside an MPGN pattern"
    ],
    "ans": 0,
    "exp": "Cirrhosis → IgA nephropathy; HIV → collapsing FSGS; HBV → MN; HCV → MPGN. (Book p772)"

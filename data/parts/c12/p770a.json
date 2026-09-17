@@ -3,13 +3,13 @@
  "sec": "MPGN Classification & Etiology",
  "items": [
   {
-   "fmt": "recall",
-   "q": "Membranoproliferative glomerulonephritis (MPGN) is also known as:",
+   "fmt": "truefalse",
+   "q": "This page treats membranoproliferative glomerulonephritis and mesangiocapillary glomerulonephritis as names for the same entity.",
    "opts": [
-    "Mesangiocapillary glomerulonephritis",
-    "Membranous nephropathy",
-    "Minimal change disease",
-    "Crescentic glomerulonephritis"
+    "True — the eponym line reads 'a.k.a. mesangiocapillary glomerulonephritis' for MPGN",
+    "False — mesangiocapillary GN is the older term for IgA nephropathy",
+    "False — the two are separated by which complement pathway is involved",
+    "True — and the page notes that the entity is common in children"
    ],
    "ans": 0,
    "exp": "a.k.a mesangiocapillary glomerulonephritis; rare disease. (Book p770)"
@@ -27,13 +27,13 @@
    "exp": "Type I IF: IgG + IgM ± C3; Type II (C3 GN): C3 ± IgG/M; Type II post transplant: 100% recurrence. (Book p770)"
   },
   {
-   "fmt": "recall",
-   "q": "Type II MPGN is also labelled as:",
+   "fmt": "truefalse",
+   "q": "C3 glomerulonephritis is the label this page attaches to type II MPGN.",
    "opts": [
-    "C3 GN",
-    "C4 GN",
-    "Classical MPGN",
-    "Dense tubular disease"
+    "True — type II is labelled C3 GN",
+    "False — C3 GN is the label written against type I MPGN",
+    "False — the page prints C4 GN beside type II MPGN",
+    "True — and the same label is applied to post-infectious GN"
    ],
    "ans": 0,
    "exp": "Type II: C3 GN. (Book p770)"
@@ -51,13 +51,13 @@
    "exp": "Type I 80% recurrence; Type II 100% recurrence. (Book p770)"
   },
   {
-   "fmt": "recall",
-   "q": "The secondary-cause banner of the MPGN table states that what proportion of cases are secondary to systemic causes?",
+   "fmt": "scenario",
+   "q": "A resident wants to know whether a search for systemic causes can be skipped in a biopsy-proven MPGN. The banner over the secondary-cause block of the table states:",
    "opts": [
-    "All (100%)",
-    "Most (80%)",
-    "Half (50%)",
-    "A fifth (20%)"
+    "All (100%), as the banner of that block reads",
+    "Only the type I subset, which is about half of cases",
+    "None — MPGN is always treated as a primary disease",
+    "A fifth of cases, and only when an infection is found"
    ],
    "ans": 0,
    "exp": "Secondary causes (100% cases are secondary to systemic causes). (Book p770)"
@@ -67,21 +67,21 @@
    "q": "The monoclonal (malignancies) row of MPGN secondary causes lists plasma cell dyscrasias and:",
    "opts": [
     "Chronic lymphoid leukemia (CLL)",
-    "Acute myeloid leukemia",
-    "Multiple myeloma only",
-    "Hodgkin lymphoma"
+    "Hodgkin lymphoma with Reed-Sternberg cells",
+    "Acute myeloid leukemia with circulating blasts",
+    "Multiple myeloma as the only listed entity"
    ],
    "ans": 0,
    "exp": "Monoclonal: plasma cell dyscrasias; chronic lymphoid leukemia (CLL). (Book p770)"
   },
   {
-   "fmt": "recall",
-   "q": "The polyclonal infection causes under Type I MPGN are hepatitis C virus, infective endocarditis, leprosy and:",
+   "fmt": "scenario",
+   "q": "A child returns from a malarious region with nephritic features and low C3; the infection line of the type I table is read. Which organisms and diseases appear on that line?",
    "opts": [
-    "Plasmodium malariae (Quartan malarial nephropathy)",
-    "Plasmodium falciparum",
-    "Hepatitis B virus",
-    "HIV"
+    "Hepatitis C, infective endocarditis, leprosy and P. malariae",
+    "Plasmodium falciparum with cerebral involvement, not quartan malaria",
+    "Hepatitis B with schistosomiasis, the pair seen in membranous disease",
+    "HIV and parvovirus B19, the pair listed under secondary FSGS"
    ],
    "ans": 0,
    "exp": "Infections: HCV, infective endocarditis, leprosy, Plasmodium malariae (Quartan malarial nephropathy). (Book p770)"
@@ -123,13 +123,13 @@
    "exp": "Type I: train track/double contour; subendothelial + mesangial. Type II: intramembranous + mesangial. (Book p770)"
   },
   {
-   "fmt": "recall",
-   "q": "Type II MPGN carries the additional eponym:",
+   "fmt": "truefalse",
+   "q": "Type II MPGN carries the eponym intramembranous dense deposit disease.",
    "opts": [
-    "Intramembranous dense deposit disease",
-    "Subendothelial dense deposit disease",
-    "Thin basement membrane disease",
-    "Fibrillary glomerulonephritis"
+    "True — intramembranous dense deposit disease is the eponym",
+    "False — dense deposit disease is the eponym reserved for type I MPGN",
+    "False — the eponym printed for type II is type III MPGN",
+    "True — and both labels imply that complement studies are normal"
    ],
    "ans": 0,
    "exp": "AKA intramembranous dense deposit disease. (Book p770)"

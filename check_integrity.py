@@ -30,7 +30,7 @@ LIVE_CHAPTERS = {
     8: ("Basic Approach to Kidney Disease and Renal Artery Stenosis", 748, 752, 83, 8),
     9: ("Thrombotic Microangiopathy", 753, 755, 52, 5),
     10: ("Glomerular Disease - Patterns", 756, 761, 78, 9),
-    11: ("Podocytopathies", 762, 769, 83, 8),
+    11: ("Podocytopathies", 762, 769, 88, 8),
     12: ("MPGN and IgA Nephropathy", 770, 774, 52, 6),
     13: ("Post Streptococcal Glomerulonephritis", 775, 777, 73, 3),
     14: ("RPGN and Pulmonary Renal Syndrome", 778, 782, 82, 5),

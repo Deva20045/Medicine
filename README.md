@@ -20,13 +20,13 @@ rest show a **Soon** badge.
 | Ch 3 · Tubular Anatomy (p717–725) — 13 units, 100 questions | ✅ live |
 | Ch 4 · Juxtaglomerular Apparatus (p726–729) — 7 units, 50 questions | ✅ live |
 | Ch 5 · Glomerulus - Anatomy (p730–733) — 8 units, 56 questions | ✅ live |
-| Ch 6 · Renal Physiology (p734–739) — 9 units, 69 questions | ✅ live |
-| Ch 7 · Urine Analysis (p740–747) — 13 units, 94 questions | ✅ live on this branch |
-| Ch 8 · Basic Approach to Kidney Disease and Renal Artery Stenosis (p748–752) — 8 units, 56 questions | ✅ live on this branch |
-| Ch 9 · Thrombotic Microangiopathy (p753–755) — 5 units, 35 questions | ✅ live on this branch |
-| Ch 10 · Glomerular Disease - Patterns (p756–761) — 9 units, 60 questions | ✅ live on this branch |
-| Ch 11 · Podocytopathies (p762–769) — 8 units, 83 questions | ✅ live on this branch |
-| Ch 12 · MPGN and IgA Nephropathy (p770–774) — 6 units, 52 questions | ✅ live on this branch |
+| Ch 6 · Renal Physiology (p734–739) — 10 units, 133 questions | ✅ live (page-anchored re-audit) |
+| Ch 7 · Urine Analysis (p740–747) — 10 units, 135 questions | ✅ live (page-anchored re-audit) |
+| Ch 8 · Basic Approach to Kidney Disease and Renal Artery Stenosis (p748–752) — 8 units, 83 questions | ✅ live (page-anchored re-audit) |
+| Ch 9 · Thrombotic Microangiopathy (p753–755) — 5 units, 52 questions | ✅ live (page-anchored re-audit) |
+| Ch 10 · Glomerular Disease - Patterns (p756–761) — 9 units, 78 questions | ✅ live (page-anchored re-audit) |
+| Ch 11 · Podocytopathies (p762–769) — 8 units, 88 questions | ✅ live (page-anchored re-audit) |
+| Ch 12 · MPGN and IgA Nephropathy (p770–774) — 6 units, 52 questions | ✅ live (page-anchored re-audit) |
 | Ch 13 · Post Streptococcal Glomerulonephritis (p775–777) — 3 units, 73 questions | ✅ live (re-audited) |
 | Ch 14 · RPGN and Pulmonary Renal Syndrome (p778–782) — 5 units, 82 questions | ✅ live (re-audited) |
 | Ch 15 · Familial Glomerular Syndromes (p783–785) — 4 units, 54 questions | ✅ live (re-audited) |
@@ -38,6 +38,11 @@ rest show a **Soon** badge.
 | Ch 21 · CKD - Calciphylaxis and Cardiovascular changes (p811–814) — 6 units, 93 questions | ✅ live (re-audited) |
 | Ch 22 · Diabetic Kidney Disease (p815–818) — 7 units, 90 questions | ✅ live (re-audited) |
 | Ch 23–74 (Nephrology, Acid–Base, Endocrinology, Hepatology, Infectious Diseases) | 🚧 in progress |
+
+**Bank total: 1892 questions · 162 units · 22 live chapters of the 74-chapter roadmap**
+(Ch 6–15: 830 questions in 68 units, 70% of them in non-recall formats — fill-ups,
+match-the-following, true/false, odd-one-out, numeric and clinical scenarios; see
+`REAUDIT_CH6-15.md` and `AUDIT.md`).
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 74-chapter
 roadmap, data schema, per-chapter pipeline, and NEXT step.

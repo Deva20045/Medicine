@@ -54,22 +54,22 @@
    "fmt": "truefalse",
    "q": "Which steroid-indication statement is TRUE as per this page?",
    "opts": [
-    "A high E score (endocapillary cellularity) is a steroid indication, but GFR ≤30/sclerosis/atrophy means no steroids",
-    "GFR ≤30 is a steroid indication",
-    "Proteinuria >1 g/day at first visit mandates steroids immediately",
-    "Steroids are given lifelong in IgA nephropathy"
+    "A high E score is an indication; GFR ≤30 or sclerosis/atrophy is not",
+    "Proteinuria >1 g/day at the first visit mandates steroids immediately",
+    "Steroids are continued lifelong once started in IgA nephropathy",
+    "A GFR of 30 or below is itself a steroid indication"
    ],
    "ans": 0,
    "exp": "High E score (endocapillary cellularity) indicates steroid; GFR ≤30/sclerosis/atrophy → no steroids; proteinuria >1 g/day only after 6 months conservative. (Book p774)"
   },
   {
-   "fmt": "recall",
-   "q": "For proteinuria control in conservative management of IgA nephropathy, the drug classes written are:",
+   "fmt": "fillup",
+   "q": "Fill up: In the conservative management of IgA nephropathy, proteinuria is controlled with ______ inhibitor/ARBs.",
    "opts": [
-    "ACE inhibitor/ARBs",
-    "Statins",
-    "Calcium channel blockers",
-    "Beta blockers"
+    "ACE",
+    "Renin",
+    "Neprilysin",
+    "SGLT2"
    ],
    "ans": 0,
    "exp": "ACE inhibitor/ARBs for proteinuria control. (Book p774)"
