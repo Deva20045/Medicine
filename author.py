@@ -32,6 +32,10 @@ TITLES = {
     23: ("Introduction to Acid Base Analysis", "819-823", 819),
     24: ("Metabolic Alkalosis", "824-825", 824),
     25: ("Methodology and Interpretation of ABG Analysis", "826-829", 826),
+    19: ("Chronic Kidney Disease", "805-807", 805),
+    20: ("Anemia in Chronic Kidney Disease", "808-810", 808),
+    21: ("CKD - Calciphylaxis and Cardiovascular changes", "811-814", 811),
+    22: ("Diabetic Kidney Disease", "815-818", 815),
 }
 
 BANNED = [

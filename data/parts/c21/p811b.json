@@ -1,0 +1,66 @@
+{
+ "page": 811,
+ "sec": "Low bone turnover & triad · p811",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "The low bone turnover entity is:",
+   "opts": [
+    "Adynamic bone disease",
+    "Osteitis fibrosa cystica",
+    "Osteoporosis",
+    "Osteomalacia"
+   ],
+   "ans": 0,
+   "exp": "Low bone turnover: adynamic bone disease. (Book p811)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Adynamic bone disease favours which group?",
+   "opts": [
+    "Middle to elderly aged female, DM and obese",
+    "Young athletic males with high muscle mass",
+    "Children with rickets and low vitamin D",
+    "Only long-term dialysis patients of either sex"
+   ],
+   "ans": 0,
+   "exp": "Adynamic bone disease: middle to elderly aged female, DM, obese; prone for calcification. (Book p811)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one are listed under low bone turnover (adynamic). Which is the odd one out?",
+   "opts": [
+    "Young male",
+    "Middle to elderly aged female",
+    "DM",
+    "Obese"
+   ],
+   "ans": 0,
+   "exp": "Low bone turnover: middle to elderly aged female, DM, obese; prone for calcification. (Book p811)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following Venn-circle element to its label — 1) Top circle  2) Right circle  3) Left circle … A) Bone abnormality  B) Biochemical changes  C) Calcification (vascular + soft tissue)",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Venn diagram: biochemical changes, bone abnormality, calcification (vascular + soft tissue). (Book p811)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "In the CKD-MBD Venn diagram, calcification is limited to the vascular bed.",
+   "opts": [
+    "False — it covers vascular + soft tissue",
+    "True — the soft tissue is spared",
+    "False — it covers bone only",
+    "True, plus bone mineralization"
+   ],
+   "ans": 0,
+   "exp": "Calcification circle: vascular + soft tissue. (Book p811)"
+  }
+ ]
+}

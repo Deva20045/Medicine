@@ -1,0 +1,102 @@
+{
+ "page": 816,
+ "sec": "Mogensen staging · p816",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Mogensen staging is built on the model of:",
+   "opts": [
+    "Type 1 DM",
+    "Type 2 DM",
+    "Gestational DM",
+    "LADA"
+   ],
+   "ans": 0,
+   "exp": "Mogensen staging: on the model of T1 DM. (Book p816)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Mogensen staging is very accurate for type 2 diabetes.",
+   "opts": [
+    "False — it is not very accurate for T2 DM",
+    "True",
+    "False — it applies only to children",
+    "True, since 2024"
+   ],
+   "ans": 0,
+   "exp": "Not very accurate for T2 DM. (Book p816)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Mogensen stage V is:",
+   "opts": [
+    "ESRD (end stage renal disease)",
+    "Microalbuminuria with normal GFR",
+    "Hyperfiltration (GFR elevated) with normal BP",
+    "Macroalbuminuria with falling GFR"
+   ],
+   "ans": 0,
+   "exp": "Stage V: ESRD (end stage renal disease). (Book p816)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following Mogensen stage to its GFR change — 1) I — hyperfiltration  2) II — silent/microalbuminuria  3) III — macroalbuminuria  4) IV — renal impairment … A) ↓  B) =/↓  C) ↑  D) ↓/↑",
+   "opts": [
+    "1-C, 2-D, 3-B, 4-A",
+    "1-C, 2-B, 3-D, 4-A",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Mogensen table: stage I GFR ↑; II ↓/↑; III =/↓; IV ↓. (Book p816)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Stage II of Mogensen comprises which pair?",
+   "opts": [
+    "Silent and microalbuminuria",
+    "Hyperfiltration and ESRD",
+    "Macroalbuminuria and renal impairment",
+    "Nephrosis and hypertrophy"
+   ],
+   "ans": 0,
+   "exp": "Stage II: silent; microalbuminuria. (Book p816)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one are stage II BP findings on 24-hr ambulatory monitoring. Which is the odd one out?",
+   "opts": [
+    "Narrow pulse pressure",
+    "Absence of nocturnal dipping",
+    "Wide pulse pressure",
+    "Raised 24-hr BP"
+   ],
+   "ans": 0,
+   "exp": "Stage II BP: ↑ on 24-hr ambulatory monitoring; absence of nocturnal dipping; wide pulse pressure. (Book p816)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The BP progression across Mogensen stages I → IV is:",
+   "opts": [
+    "=/↑ → ↑ → ↑↑ → ↑↑↑",
+    "↓ → ↓↓ → ↓ → normal",
+    "Normal throughout",
+    "↑↑↑ → ↑ → =/↑ → ↓"
+   ],
+   "ans": 0,
+   "exp": "BP: I =/↑; II ↑; III ↑↑; IV ↑↑↑. (Book p816)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A type 1 diabetic with 15 years of disease has a GFR of 55 ml/min and a spot ACR of 180 mg/g. The Mogensen stage is:",
+   "opts": [
+    "II — microalbuminuria",
+    "I — hyperfiltration",
+    "III — macroalbuminuria",
+    "IV — renal impairment"
+   ],
+   "ans": 0,
+   "exp": "Stage II: silent/microalbuminuria (GFR ↓/↑). (Book p816)"
+  }
+ ]
+}

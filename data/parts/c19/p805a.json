@@ -1,0 +1,162 @@
+{
+ "page": 805,
+ "sec": "CKD definition & pathogenesis · p805",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "The definition of chronic kidney disease on this page describes the net consequence of a fall in viable nephrons. What intraglomerular hypertension ultimately results in?",
+   "opts": [
+    "Proteinuria",
+    "Urinary tract infection",
+    "Afferent arteriolar dilation",
+    "Tubular potassium secretion"
+   ],
+   "ans": 0,
+   "exp": "Definition: net consequence of the ↓ in no. of viable nephrons leading to intraglomerular hypertension resulting in proteinuria. (Book p805)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: GFR = viable no. of nephrons × single nephron (sn) ______.",
+   "opts": [
+    "GFR",
+    "CVR",
+    "FENa",
+    "UOP"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis: GFR = viable no. of nephrons × single nephron (sn) GFR. (Book p805)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Viable nephrons can be regenerated or replaced after birth.",
+   "opts": [
+    "False — they are fixed according to birth weight",
+    "True",
+    "True, but only in children",
+    "False — nephrons regenerate after age 5"
+   ],
+   "ans": 0,
+   "exp": "Viable nephrons: fixed according to birth weight; not regenerated/replaced. (Book p805)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The number of viable nephrons in a person is fixed according to:",
+   "opts": [
+    "Birth weight",
+    "Serum creatinine",
+    "Glomerular filtration rate",
+    "Single nephron GFR"
+   ],
+   "ans": 0,
+   "exp": "Viable nephrons: fixed according to birth weight; not regenerated/replaced. (Book p805)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following pathogenesis step to its consequence — 1) ↓ no. of nephrons  2) Glomerular hyperfiltration  3) Mechanical stretching … A) Intraglomerular hypertension  B) ↑↑ sn GFR to maintain GFR  C) Capillary, podocyte and mesangial cell injury",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "↓ no. of nephrons → ↑↑ sn GFR to maintain GFR → glomerular hyperfiltration → intraglomerular hypertension → mechanical stretching of capillary, podocyte and mesangial cell. (Book p805)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following stretched glomerular cell to its response — 1) Capillary  2) Podocyte  3) Mesangial cell … A) Proliferation → glomerular sclerosis (GS)  B) ↓ nephrin expression via local RAAS activation through AT-II  C) ↑ capillary pore diameter → proteinuria (tubulotoxic)",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Mechanical stretching: capillary → ↑ capillary pore diameter → proteinuria (tubulotoxic); podocyte → local RAAS activation via AT-II → ↓ nephrin expression; mesangial cell → proliferation → glomerular sclerosis (GS). (Book p805)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one are components of the red-letter mnemonic written beneath the flowchart. Which is the odd one out?",
+   "opts": [
+    "Mesangial proliferation",
+    "Interstitial fibrosis",
+    "Tubular atrophy",
+    "Glomerular sclerosis"
+   ],
+   "ans": 0,
+   "exp": "Mnemonic: IF TA GS — interstitial fibrosis, tubular atrophy, glomerular sclerosis. (Book p805)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Tubulotoxic proteinuria triggers interstitial inflammation, which releases ______ to drive interstitial fibrosis and tubular atrophy.",
+   "opts": [
+    "TGF-β",
+    "IL-6",
+    "VEGF",
+    "Endothelin-1"
+   ],
+   "ans": 0,
+   "exp": "Proteinuria is tubulotoxic → interstitial inflammation releases TGF-β → interstitial fibrosis (IF) + tubular atrophy (TA). (Book p805)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The tubulointerstitium, the determinant of renal function decline, makes up what share of the kidney?",
+   "opts": [
+    "85-90%",
+    "10-15%",
+    "30-40%",
+    "50-60%"
+   ],
+   "ans": 0,
+   "exp": "Determinant of renal function decline: tubulointerstitium (85-90% of kidney is tubulointerstitium). (Book p805)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The tendency to progress independently of etiology sets in after what fraction of nephrons are destroyed?",
+   "opts": [
+    "50%",
+    "25%",
+    "75%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "Tendency to progress independent of etiology: after 50% nephrons are destroyed. (Book p805)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient who has one kidney removed at birth retains fewer viable nephrons. To keep total GFR stable, each surviving nephron must:",
+   "opts": [
+    "Raise its single-nephron GFR",
+    "Stop producing renin",
+    "Dilate the afferent arteriole only",
+    "Halve its filtration fraction"
+   ],
+   "ans": 0,
+   "exp": "↓ no. of nephrons → ↑↑ sn GFR to maintain GFR (compensation of surviving nephrons). (Book p805)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "In the flowchart, the podocyte responds to mechanical stretching with local RAAS activation via AT-II.",
+   "opts": [
+    "True",
+    "False — podocytes release TGF-β",
+    "False — podocytes proliferate into GS",
+    "True, but only after 90% nephron loss"
+   ],
+   "ans": 0,
+   "exp": "Podocyte → local RAAS activation via AT-II → ↓ nephrin expression. (Book p805)"
+  },
+  {
+   "fmt": "recall",
+   "q": "According to the page, the determinant of renal function decline in CKD is the:",
+   "opts": [
+    "Tubulointerstitium",
+    "Glomerulus",
+    "Juxtaglomerular apparatus",
+    "Afferent arteriole"
+   ],
+   "ans": 0,
+   "exp": "Determinant of renal function decline: tubulointerstitium (85-90% of kidney is tubulointerstitium). (Book p805)"
+  }
+ ]
+}

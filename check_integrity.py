@@ -41,6 +41,10 @@ LIVE_CHAPTERS = {
     23: ("Introduction to Acid Base Analysis", 819, 823, 137, 9),
     24: ("Metabolic Alkalosis", 824, 825, 40, 3),
     25: ("Methodology and Interpretation of ABG Analysis", 826, 829, 105, 6),
+    19: ("Chronic Kidney Disease", 805, 807, 91, 8),
+    20: ("Anemia in Chronic Kidney Disease", 808, 810, 76, 7),
+    21: ("CKD - Calciphylaxis and Cardiovascular changes", 811, 814, 93, 6),
+    22: ("Diabetic Kidney Disease", 815, 818, 90, 7),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain

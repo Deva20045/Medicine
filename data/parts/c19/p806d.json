@@ -1,0 +1,102 @@
+{
+ "page": 806,
+ "sec": "CKD management · p806",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "In the diagnosis block, which kidney morphology is listed for a CKD work-up?",
+   "opts": [
+    "Bilateral contracted kidney",
+    "Unilateral enlarged kidney",
+    "Normal-sized kidney with cysts",
+    "Bilateral hydronephrosis"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis: B/L contracted kidney. (Book p806)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one are in the 'all of' set written for diabetic nephropathy. Which is the odd one out?",
+   "opts": [
+    "Hematuria",
+    "Proteinuria",
+    "Edema",
+    "Hypertension"
+   ],
+   "ans": 0,
+   "exp": "Diabetic nephropathy — all of: proteinuria, edema, hypertension, retinopathy. (Book p806)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The diagnosis block closes with a biopsy line looking for IF, TA and ______.",
+   "opts": [
+    "GS",
+    "HUS",
+    "FSGS",
+    "MPGN"
+   ],
+   "ans": 0,
+   "exp": "Biopsy: IF/TA/GS. (Book p806)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The five numbered reversible causes to address include obstruction and ______.",
+   "opts": [
+    "Drugs / toxins / alternate medicines",
+    "Nephrolithiasis with staghorn calculi",
+    "Polycystic disease of the kidneys",
+    "Amyloidosis with nephrotic syndrome"
+   ],
+   "ans": 0,
+   "exp": "Address reversible causes: 1. obstruction; 2. drugs/toxins/alternate medicines; 3. uncontrolled hypertension; 4. ECF volume ↓; 5. hypercalcemia. (Book p806)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Uncontrolled hypertension is numbered which item in the reversible-causes list?",
+   "opts": [
+    "3",
+    "1",
+    "4",
+    "5"
+   ],
+   "ans": 0,
+   "exp": "Numbered list: 1 obstruction, 2 drugs/toxins/alternate medicines, 3 uncontrolled hypertension, 4 ECF volume ↓, 5 hypercalcemia. (Book p806)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following reversible cause to its detail — 1) ECF volume ↓  2) Hypercalcemia  3) Drugs … A) Nephrogenic diabetes insipidus + afferent arteriole vasoconstriction  B) Diuretic excess / ↓ albumin  C) Toxins and alternate medicines",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Reversible causes: ECF volume ↓ d/t diuretic excess, ↓ albumin; hypercalcemia → nephrogenic diabetes insipidus, afferent arteriole vasoconstriction; drugs/toxins/alternate medicines. (Book p806)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A CKD patient on aggressive diuretics with hypoalbuminemia develops worsening renal function. The reversible mechanism named in the list is:",
+   "opts": [
+    "ECF volume ↓ from diuretic excess and ↓ albumin",
+    "Hypercalcemic vasoconstriction",
+    "Direct drug toxicity",
+    "Uncontrolled hypertension"
+   ],
+   "ans": 0,
+   "exp": "Reversible cause 4: ECF volume ↓ d/t diuretic excess / ↓ albumin. (Book p806)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Hypercalcemia is listed as a reversible cause because it drives nephrogenic diabetes insipidus and afferent arteriole vasoconstriction.",
+   "opts": [
+    "True",
+    "False — it drives efferent vasodilation",
+    "False — hypercalcemia is not reversible",
+    "True, but only in dialysis patients"
+   ],
+   "ans": 0,
+   "exp": "Reversible cause 5: hypercalcemia → nephrogenic diabetes insipidus, afferent arteriole vasoconstriction. (Book p806)"
+  }
+ ]
+}

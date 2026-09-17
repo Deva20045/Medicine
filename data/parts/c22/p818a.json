@@ -1,0 +1,162 @@
+{
+ "page": 818,
+ "sec": "Other DM drugs in CKD · p818",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "The most preferred GLP-1 receptor agonist named is:",
+   "opts": [
+    "Liraglutide",
+    "Semaglutide",
+    "Dulaglutide",
+    "Exenatide"
+   ],
+   "ans": 0,
+   "exp": "GLP-1 RA: most preferred liraglutide. (Book p818)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The oral GLP-1 receptor agonist named is:",
+   "opts": [
+    "Semaglutide",
+    "Liraglutide",
+    "Lixisenatide",
+    "Albiglutide"
+   ],
+   "ans": 0,
+   "exp": "Oral: semaglutide. (Book p818)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "GLP-1 receptor agonists need dose adjustment in CKD.",
+   "opts": [
+    "False — no dose adjustment required",
+    "True",
+    "False — only liraglutide is exempt",
+    "True, below GFR 30"
+   ],
+   "ans": 0,
+   "exp": "No dose adjustment required. (Book p818)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The most preferred DPP-4 inhibitor in CKD is:",
+   "opts": [
+    "Linagliptin",
+    "Sitagliptin",
+    "Saxagliptin",
+    "Vildagliptin"
+   ],
+   "ans": 0,
+   "exp": "DPP-4: most preferred linagliptin (no dose adjustment). (Book p818)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "All DPP-4 inhibitors need dose adjustment in CKD.",
+   "opts": [
+    "False — linagliptin needs none; others require adjustment",
+    "True — every DPP-4 inhibitor needs adjustment",
+    "False — none need adjustment in CKD",
+    "True, except for saxagliptin alone"
+   ],
+   "ans": 0,
+   "exp": "Linagliptin (no dose adjustment); others require dose adjustment. (Book p818)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Sulfonylureas in CKD are:",
+   "opts": [
+    "Not preferred",
+    "First choice",
+    "The safest class",
+    "Reserved for ESRD"
+   ],
+   "ans": 0,
+   "exp": "Sulfonylureas: not preferred. (Book p818)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The renal-safe sulfonylureas named are:",
+   "opts": [
+    "Glipizide and gliclazide",
+    "Glibenclamide and glimepiride",
+    "Glicazide alone",
+    "Chlorpropamide and tolbutamide"
+   ],
+   "ans": 0,
+   "exp": "Renal safe: glipizide, gliclazide. (Book p818)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one are the renal-safe sulfonylureas or eGFRD-safe drugs on this page. Which is the odd one out?",
+   "opts": [
+    "Glibenclamide",
+    "Glipizide",
+    "Gliclazide",
+    "Imeglimin"
+   ],
+   "ans": 0,
+   "exp": "Renal safe: glipizide, gliclazide; drugs safe in eGFRD include imeglimin. (Book p818)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The drugs listed as safe in eGFRD are:",
+   "opts": [
+    "Insulin, glipizide, gliclazide and imeglimin",
+    "Metformin, SGLT2i, finerenone",
+    "Linagliptin alone",
+    "Liraglutide, semaglutide, insulin"
+   ],
+   "ans": 0,
+   "exp": "Drugs safe in eGFRD: insulin; glipizide, gliclazide; imeglimin (CKD). (Book p818)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Imeglimin is an oxidative ______ blocker, listed for CKD.",
+   "opts": [
+    "phosphorylation",
+    "glycosylation",
+    "degradation",
+    "transport"
+   ],
+   "ans": 0,
+   "exp": "Imeglimin (CKD) = oxidative phosphorylation blocker. (Book p818)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following class to its preferred or renal-safe agent — 1) GLP-1 RA  2) DPP-4  3) Sulfonylureas … A) Linagliptin  B) Liraglutide  C) Glipizide / gliclazide",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "GLP-1 — liraglutide; DPP-4 — linagliptin; sulfonylureas — glipizide/gliclazide. (Book p818)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A CKD patient on a sulfonylurea for glucose control needs a renal-safe swap. The named options are:",
+   "opts": [
+    "Glipizide or gliclazide",
+    "Glibenclamide",
+    "Chlorpropamide",
+    "Keep the current agent"
+   ],
+   "ans": 0,
+   "exp": "Renal safe: glipizide, gliclazide. (Book p818)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Imeglimin's listed role in CKD is as a:",
+   "opts": [
+    "Oxidative phosphorylation blocker",
+    "SGLT2 inhibitor",
+    "DPP-4 inhibitor",
+    "Insulin secretagogue only"
+   ],
+   "ans": 0,
+   "exp": "Imeglimin (CKD) = oxidative phosphorylation blocker. (Book p818)"
+  }
+ ]
+}

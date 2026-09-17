@@ -33,10 +33,14 @@ rest show a **Soon** badge.
 | Ch 16 · Ciliopathies (p786–792) — 6 units, 139 questions | ✅ live (re-audited) |
 | Ch 17 · Chronic Tubulointerstitial Disease (p793–795) — 3 units, 52 questions | ✅ live (re-audited) |
 | Ch 18 · Acute Kidney Injury (p796–804) — 9 units, 181 questions | ✅ live (re-audited) |
+| Ch 19 · Chronic Kidney Disease (p805–807) — 8 units, 91 questions | ✅ live (re-audited) |
+| Ch 20 · Anemia in Chronic Kidney Disease (p808–810) — 7 units, 76 questions | ✅ live (re-audited) |
+| Ch 21 · CKD - Calciphylaxis and Cardiovascular changes (p811–814) — 6 units, 93 questions | ✅ live (re-audited) |
+| Ch 22 · Diabetic Kidney Disease (p815–818) — 7 units, 90 questions | ✅ live (re-audited) |
 | Ch 23 · Introduction to Acid Base Analysis (p819–823) — 9 units, 137 questions | ✅ live |
 | Ch 24 · Metabolic Alkalosis (p824–825) — 3 units, 40 questions | ✅ live |
 | Ch 25 · Methodology and Interpretation of ABG Analysis (p826–829) — 6 units, 105 questions | ✅ live |
-| Ch 19–22, 26–74 (Nephrology, Endocrinology, Hepatology, Infectious Diseases) | 🚧 in progress |
+| Ch 26–74 (Endocrinology, Hepatology, Infectious Diseases) | 🚧 in progress |
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 74-chapter
 roadmap, data schema, per-chapter pipeline, and NEXT step.

@@ -1,0 +1,126 @@
+{
+ "page": 806,
+ "sec": "CKD classification · p806",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following G stage with its GFR (ml/min) — 1) G1  2) G3a  3) G4  4) G5 … A) <15  B) ≥90  C) 15-29  D) 45-59",
+   "opts": [
+    "1-B, 2-D, 3-C, 4-A",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-D, 2-B, 3-C, 4-A",
+    "1-B, 2-D, 3-A, 4-C"
+   ],
+   "ans": 0,
+   "exp": "G (GFR): G1 ≥90; G2 60-89; G3a 45-59; G3b 30-44; G4 15-29; G5 <15. (Book p806)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The GFR range for stage G2 is:",
+   "opts": [
+    "60-89 ml/min",
+    "45-59 ml/min",
+    "30-44 ml/min",
+    "≥90 ml/min"
+   ],
+   "ans": 0,
+   "exp": "G2: 60-89 ml/min. (Book p806)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The GFR range for stage G3b is:",
+   "opts": [
+    "30-44 ml/min",
+    "45-59 ml/min",
+    "15-29 ml/min",
+    "60-89 ml/min"
+   ],
+   "ans": 0,
+   "exp": "G3b: 30-44 ml/min. (Book p806)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In the G table, stage G1 (GFR ≥90) qualifies only when ______ / biochemical / histological evidence is positive.",
+   "opts": [
+    "Radiological",
+    "Clinical",
+    "Microscopic",
+    "Genetic"
+   ],
+   "ans": 0,
+   "exp": "G1: ≥90 ml/min → radiological / biochemical / histological evidence (+). (Book p806)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In the G table, stage G5 (GFR <15) is labelled as:",
+   "opts": [
+    "ESRD (uremic phase) with mx: dialysis",
+    "AKI requiring dialysis",
+    "Nephritic syndrome",
+    "Reversible hyperfiltration"
+   ],
+   "ans": 0,
+   "exp": "G5: <15 ml/min → ESRD (uremic phase); mx: dialysis. (Book p806)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following A stage with its urine albumin-creatinine ratio — 1) A1  2) A2  3) A3 … A) >300 mg/g — severely ↑↑  B) ≤30 mg/g — normal  C) 30-300 mg/g — moderately ↑",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "A - ACR: A1 ≤30 mg/g normal; A2 30-300 mg/g moderately ↑; A3 >300 mg/g severely ↑↑. (Book p806)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The upper limit of the A2 albuminuria band is:",
+   "opts": [
+    "300 mg/g",
+    "30 mg/g",
+    "3000 mg/g",
+    "150 mg/g"
+   ],
+   "ans": 0,
+   "exp": "A2: 30-300 mg/g (moderately ↑). (Book p806)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "A3 corresponds to an ACR above 300 mg/g and is described as severely raised.",
+   "opts": [
+    "True",
+    "False — A3 is 30-300 mg/g",
+    "False — A3 is ≤30 mg/g",
+    "True, but only with GFR below 15"
+   ],
+   "ans": 0,
+   "exp": "A3: >300 mg/g — severely ↑↑. (Book p806)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A CKD patient has a GFR of 22 ml/min and an ACR of 450 mg/g. The staging is:",
+   "opts": [
+    "G4 A3",
+    "G3b A2",
+    "G5 A3",
+    "G4 A2"
+   ],
+   "ans": 0,
+   "exp": "G4 = 15-29 ml/min; A3 = >300 mg/g. (Book p806)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The A category of the classification is built on which ratio (ACR)?",
+   "opts": [
+    "Urine albumin:creatinine",
+    "Urine protein:creatinine",
+    "Serum sodium:potassium",
+    "Urine calcium:creatinine"
+   ],
+   "ans": 0,
+   "exp": "A - ACR (urine albumin creatine ratio) as printed on the page. (Book p806)"
+  }
+ ]
+}

@@ -9,8 +9,9 @@ Scope: **Book p819–p829** (Marrow Ed 8, Medicine Vol 3), the whole Acid–Base
 | 25 | Methodology and Interpretation of ABG Analysis | p826–829 | 6 | **105** |
 | **Total** | | **11 pages** | **18** | **282** |
 
-Bank total after this build: **1652 questions · 154 units · 21 live chapters**, with all
-**111 in-scope Book pages** (p705–p829) represented.
+Bank total after this build (Ch 19–22 having merged to `main` in parallel):
+**2002 questions · 182 units · 25 live chapters**, with all **125 in-scope Book pages**
+(p705–p829) represented.
 
 Every page was **rendered from the scan and read line by line** before authoring —
 tables, flowcharts, cytosolic diagrams, figure labels and arrow directions included —
@@ -117,10 +118,10 @@ order is enforced structurally rather than by hand.
 ## Quality gates (all green)
 
 ```
-python build_content.py      → 1652 questions, 154 units, 21 live chapters embedded
+python build_content.py      → 2002 questions, 182 units, 25 live chapters embedded
 python check_integrity.py    → PASS (IDs, 4-option structure, citations, book order,
                                per-page coverage, no length-giveaway, JS syntax)
-node check_app_smoke.js      → PASS (74-row roadmap, 21 live paths, quiz starts,
+node check_app_smoke.js      → PASS (74-row roadmap, 25 live paths, quiz starts,
                                first/last question page of every chapter)
 python audit_variety.py      → AUDIT.md
 ```

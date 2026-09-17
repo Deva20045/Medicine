@@ -1,0 +1,90 @@
+{
+ "page": 806,
+ "sec": "CKD causes table · p806",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following cause of CKD with its rate of fall of GFR (ml/min/year) — 1) DKD  2) CGN  3) IN  4) CTID … A) 4-6  B) 8-10  C) 2-4  D) 6-8",
+   "opts": [
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Table: rate of fall of GFR (ml/min/year) — DKD 8-10; CGN 6-8; IN 4-6; CTID 2-4. (Book p806)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The rate of fall of GFR listed for diabetic kidney disease (DKD) is:",
+   "opts": [
+    "8-10 ml/min/year",
+    "4-6 ml/min/year",
+    "2-4 ml/min/year",
+    "10-12 ml/min/year"
+   ],
+   "ans": 0,
+   "exp": "Table: DKD 8-10 ml/min/year. (Book p806)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The rate of fall of GFR listed for ischemic nephropathy (IN) is:",
+   "opts": [
+    "4-6 ml/min/year",
+    "8-10 ml/min/year",
+    "6-8 ml/min/year",
+    "2-4 ml/min/year"
+   ],
+   "ans": 0,
+   "exp": "Table: IN 4-6 ml/min/year. (Book p806)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In the complications row of the causes table, which two columns carry the ↑↑ marks?",
+   "opts": [
+    "DKD — vascular; IN — macrovascular",
+    "CGN and CTID are marked '-'",
+    "DKD and CGN both",
+    "IN and CTID both"
+   ],
+   "ans": 0,
+   "exp": "Complications row: DKD — ↑↑ vascular complications; IN — ↑↑ macrovascular complications; CGN and CTID are marked '-'. (Book p806)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "CGN shows ↑↑ macrovascular complications in the causes table.",
+   "opts": [
+    "False — the CGN column is marked '-'; macrovascular is under IN",
+    "True",
+    "False — CGN shows nephrotic syndrome",
+    "True, but only in children"
+   ],
+   "ans": 0,
+   "exp": "Complications row: CGN '-', IN ↑↑ macrovascular complications. (Book p806)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A CKD patient with a long history of atheromatous vascular disease is losing GFR at about 5 ml/min/year. Which causes-column fits best?",
+   "opts": [
+    "IN — 4-6 ml/min/year with ↑↑ macrovascular complications",
+    "DKD — 8-10 ml/min/year with ↑↑ vascular complications",
+    "CTID — 2-4 ml/min/year, no complications listed",
+    "CGN — 6-8 ml/min/year, no complications listed"
+   ],
+   "ans": 0,
+   "exp": "IN column: rate 4-6 ml/min/year and ↑↑ macrovascular complications. (Book p806)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The slowest rate of fall of GFR in the causes table, 2-4 ml/min/year, belongs to:",
+   "opts": [
+    "CTID",
+    "DKD",
+    "CGN",
+    "IN"
+   ],
+   "ans": 0,
+   "exp": "CTID: 2-4 ml/min/year. (Book p806)"
+  }
+ ]
+}

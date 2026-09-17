@@ -44,10 +44,10 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 16 | Ciliopathies | p786 | **LIVE (re-audited)**
 | 17 | Chronic Tubulointerstitial Disease | p793 | **LIVE (re-audited)**
 | 18 | Acute Kidney Injury | p796 | **LIVE (re-audited)**
-| 19 | Chronic Kidney Disease | p805 | SOON
-| 20 | Anemia in Chronic Kidney Disease | p808 | SOON
-| 21 | CKD - Calciphylaxis and Cardiovascular changes | p811 | SOON
-| 22 | Diabetic Kidney Disease | p815 | SOON
+| 19 | Chronic Kidney Disease | p805 | **LIVE (re-audited)**
+| 20 | Anemia in Chronic Kidney Disease | p808 | **LIVE (re-audited)**
+| 21 | CKD - Calciphylaxis and Cardiovascular changes | p811 | **LIVE (re-audited)**
+| 22 | Diabetic Kidney Disease | p815 | **LIVE (re-audited)**
 | 23 | Introduction to Acid Base Analysis | p819 | **LIVE**
 | 24 | Metabolic Alkalosis | p824 | **LIVE**
 | 25 | Methodology and Interpretation of ABG Analysis | p826 | **LIVE**
@@ -174,29 +174,42 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 16 "Ciliopathies" (p786–792): 6 units, 139 questions — RE-AUDITED, rebuilt page-by-page**
 - [x] **Ch 17 "Chronic Tubulointerstitial Disease" (p793–795): 3 units, 52 questions — RE-AUDITED ×2 (content + option quality)**
 - [x] **Ch 18 "Acute Kidney Injury" (p796–804): 9 units, 181 questions — RE-AUDITED ×2 (content + option quality)**
+- [x] **Ch 19 "Chronic Kidney Disease" (p805–807): 8 units, 91 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 20 "Anemia in Chronic Kidney Disease" (p808–810): 7 units, 76 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 21 "CKD - Calciphylaxis and Cardiovascular changes" (p811–814): 6 units, 93 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 22 "Diabetic Kidney Disease" (p815–818): 7 units, 90 questions — RE-AUDITED, rebuilt page-by-page**
 - [x] **Ch 23 "Introduction to Acid Base Analysis" (p819–823): 9 units, 137 questions — BUILT & VERIFIED**
 - [x] **Ch 24 "Metabolic Alkalosis" (p824–825): 3 units, 40 questions — BUILT & VERIFIED**
 - [x] **Ch 25 "Methodology and Interpretation of ABG Analysis" (p826–829): 6 units, 105 questions — BUILT & VERIFIED**
-- [ ] Ch 19–22, 26–74 (per pipeline above)
+- [ ] Ch 26–74 (per pipeline above)
 
 ## NEXT
-**Acid–Base section (Ch 23–25) BUILT.** 282 new questions over **11 pages (p819–829)**
-were rendered page-by-page and authored through the ordered pipeline: Ch 23 (9 units,
-137 q), Ch 24 (3 units, 40 q) and Ch 25 (6 units, 105 q). Bank total is now
-**1652 questions · 154 units · 21 live chapters**, all 111 in-scope pages p705–829
-cited, with per-chapter longest-option rates of 22.6%, 25.0% and 24.8% (chance 25%),
-0.0% answer-leak, zero shallow 2-row matches and zero filler distractors. Two book
-contradictions are taught explicitly: the p824 "respiratory alkalosis" label for the
-↑PaCO₂ response (versus the p828 compensation table), and the reversed bicarbonate
-arrows in the p827 primary-problem tree (versus the p828 step-2 flowchart). See
-**`REPORT_CH23-25.md`**.
+**Ch 19–22 (p805–818, Nephrology) and Ch 23–25 (p819–829, Acid–Base) are both live.**
 
-Next up: **Ch 19–22** (CKD, Anaemia in CKD, Calciphylaxis/CVS changes, Diabetic Kidney
-Disease, p805–818) to close the Nephrology section, or **Ch 26+** (Endocrinology).
-Note a separate session already has an open PR #7 carrying Ch 19–22 data — check
-whether it has merged before authoring p805–818, to avoid duplicate work.
+*Ch 19–22 (built & re-audited page-by-page):* all 14 pages re-rendered and read line by
+line (tables, flowcharts, figures, graph axes, arrow labels), authored through the
+ordered pipeline — **350 exam-grade questions** (91 + 76 + 93 + 90) across 28 units.
+The re-audit caught one value error and fixed it against the scan: the iron-store
+replenishment multiplier is **2.2** as printed on Book p809
+(`2.2 × BW × (Hb deficit) + 1000 mg`), NOT the common Ganzoni **2.4** — MED-C20-045 now
+teaches the book's value and names the 2.4 trap explicitly. (The BP target on p807 was
+confirmed as **<120/80 mmHg** at 8× zoom, not 130/80.)
 
-### Re-audit pipeline (used for Ch 13–18 and Ch 23–25)
+*Ch 23–25 (Acid–Base section):* 282 questions over 11 pages authored the same way —
+Ch 23 (9 units, 137 q), Ch 24 (3 units, 40 q), Ch 25 (6 units, 105 q). Every table,
+flowchart, cytosolic diagram, nomogram zone and figure label is questioned; per-chapter
+longest-option rates are 22.6%, 25.0% and 24.8% (chance 25%), with 0.0% answer-leak,
+zero shallow 2-row matches and zero filler distractors. Two book contradictions are
+taught explicitly: the p824 "respiratory alkalosis" label for the ↑PaCO₂ response
+(versus the p828 compensation table), and the reversed bicarbonate arrows in the p827
+primary-problem tree (versus the p828 step-2 flowchart). See **`REPORT_CH23-25.md`**.
+
+**Bank total: 2002 questions · 182 units · 25 live chapters**, all 125 in-scope pages
+p705–829 represented.
+
+**Next: Ch 26 "Overview of Hormones" (p830) onward — Endocrinology (Ch 26–55).**
+
+### Re-audit pipeline (used for Ch 13–25)
 1. `_render` every book page to PNG and zoom into each unclear line/table/arrow.
 2. Author `data/parts/cNN/<page><section>.json` in strict book order, plus
    `data/units/cNN.json` (concept-named units) and `data/parts/cNN/_order.json`.
