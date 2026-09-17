@@ -31,7 +31,7 @@ rest show a **Soon** badge.
 | Ch 14 · RPGN and Pulmonary Renal Syndrome (p778–782) — 5 units, 82 questions | ✅ live (re-audited) |
 | Ch 15 · Familial Glomerular Syndromes (p783–785) — 4 units, 54 questions | ✅ live (re-audited) |
 | Ch 16 · Ciliopathies (p786–792) — 6 units, 139 questions | ✅ live (re-audited) |
-| Ch 17 · Chronic Tubulointerstitial Disease (p793–795) — 3 units, 53 questions | ✅ live (re-audited) |
+| Ch 17 · Chronic Tubulointerstitial Disease (p793–795) — 3 units, 52 questions | ✅ live (re-audited) |
 | Ch 18 · Acute Kidney Injury (p796–804) — 9 units, 181 questions | ✅ live (re-audited) |
 | Ch 19–74 (Nephrology, Acid–Base, Endocrinology, Hepatology, Infectious Diseases) | 🚧 in progress |
 
