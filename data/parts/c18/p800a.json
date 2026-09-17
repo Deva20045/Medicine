@@ -1,0 +1,102 @@
+{
+ "page": 800,
+ "sec": "ATN phases and the hypercalcemia/hypernatremia note · p800",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the three phases of ATN described — 1) Phase 1 tubular injury  2) Phase 2 tubuloglomerular feedback  3) Phase 3 … A) ↓GFR from adenosine-mediated afferent arteriolar vasoconstriction  B) Recovery  C) Loss of solutes and water",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "ATN phases: 1 — tubular injury with loss of solutes and water; 2 — tubuloglomerular feedback → ↓GFR; 3 — recovery. (Book p800)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In ATN, the fall in urine output is mediated by:",
+   "opts": [
+    "Adenosine-mediated afferent arteriolar vasoconstriction",
+    "Efferent arteriolar dilatation",
+    "Aldosterone excess",
+    "Increased ADH secretion only"
+   ],
+   "ans": 0,
+   "exp": "ATN phase 2: ↓urine output from adenosine-mediated afferent arteriolar vasoconstriction, with ↑S. phosphorus, ↓S. Ca²⁺, ↑mg²⁺ and hyponatremia all reducing GFR. (Book p800)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each ATN electrolyte acid-base change — 1) Serum phosphorus  2) Serum calcium  3) Serum magnesium  4) Serum sodium … A) ↓ (hyponatremia)  B) ↑  C) ↓  D) ↑",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-A, 2-C, 3-B, 4-D"
+   ],
+   "ans": 0,
+   "exp": "ATN phase 2: ↑S. phosphorus, ↓S. Ca²⁺, ↑mg²⁺ and hyponatremia, all grouped with the fall in GFR. (Book p800)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the complications of ATN — 1) Uremia  2) Volume overload  3) Acidosis  4) Potassium … A) ↑K⁺  B) Present  C) NAGMA  D) Present",
+   "opts": [
+    "1-B, 2-D, 3-C, 4-A",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-C, 2-B, 3-D, 4-A"
+   ],
+   "ans": 0,
+   "exp": "ATN complications: uremia, volume overload, acidosis (NAGMA — normal anion gap metabolic acidosis) and ↑K⁺. (Book p800)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The acidosis of ATN is described as ______.",
+   "opts": [
+    "NAGMA (normal anion gap metabolic acidosis)",
+    "HAGMA (high anion gap metabolic acidosis)",
+    "metabolic alkalosis",
+    "respiratory acidosis"
+   ],
+   "ans": 0,
+   "exp": "ATN complications include acidosis (NAGMA) and ↑K⁺ along with uremia and volume overload. (Book p800)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Hypercalcemia and hypernatremia are not seen in AKI.",
+   "opts": [
+    "True",
+    "False — both are typical of AKI",
+    "False — hypercalcemia is typical but hypernatremia is not",
+    "True, but only for stage 3 AKI"
+   ],
+   "ans": 0,
+   "exp": "Note: hypercalcemia and hypernatremia are not seen in AKI (indeed calcium falls and hyponatremia occurs), whereas hyperkalaemia and acidosis are characteristic. (Book p800)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with ATN is in the recovery phase. Which phase number and description apply?",
+   "opts": [
+    "Phase 3 — recovery",
+    "Phase 1 — tubular injury with loss of solutes and water",
+    "Phase 2 — tubuloglomerular feedback",
+    "There is no recovery phase in ATN"
+   ],
+   "ans": 0,
+   "exp": "ATN phases are 1 — tubular injury, 2 — tubuloglomerular feedback with ↓GFR, 3 — recovery. (Book p800)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following biochemical changes are seen in ATN. Which is the odd one out?",
+   "opts": [
+    "↑Serum calcium",
+    "↑Serum phosphorus",
+    "↑Serum magnesium",
+    "Hyponatremia"
+   ],
+   "ans": 0,
+   "exp": "In ATN, S. Ca²⁺ falls (↓); phosphorus, magnesium and uric acid rise with hyponatremia. (Book p800)"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "page": 794,
+ "sec": "CTID investigations & CKDu concept · p794",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "The proteinuria of chronic tubulointerstitial disease is typically:",
+   "opts": [
+    "Less than 2 g/day, with β₂ microglobulin in the urine",
+    "More than 3.5 g/day, in the nephrotic range, with oedema",
+    "Between 2 and 3 g/day, with RBC casts in the sediment",
+    "Absent in all cases, despite significant tubular damage"
+   ],
+   "ans": 0,
+   "exp": "Urine in CTID: proteinuria <2 g/day (β₂ microglobulin) — a tubular pattern, not nephrotic range. (Book p794)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The urinary sediment in CTID is described as:",
+   "opts": [
+    "Inactive",
+    "Active with RBC casts",
+    "Sterile pyuria with eosinophils",
+    "Full of oval fat bodies"
+   ],
+   "ans": 0,
+   "exp": "Urine in CTID: proteinuria <2 g/day (β₂ microglobulin) and inactive urinary sediments. (Book p794)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each CTID investigation with its finding — 1) Urine protein  2) Urinary sediment  3) RFT  4) USG … A) Inactive  B) B/L small kidneys  C) <2 g/day with β₂ microglobulin  D) Deranged",
+   "opts": [
+    "1-C, 2-A, 3-D, 4-B",
+    "1-D, 2-A, 3-C, 4-B",
+    "1-C, 2-B, 3-D, 4-A",
+    "1-A, 2-C, 3-D, 4-B"
+   ],
+   "ans": 0,
+   "exp": "CTID investigations: urine — proteinuria <2 g/day (β₂ microglobulin) with inactive sediments; RFT deranged; USG — bilateral small kidneys. (Book p794)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An ultrasound in a patient with CTID typically shows:",
+   "opts": [
+    "Bilateral small kidneys",
+    "Bilateral enlarged cystic kidneys",
+    "A single enlarged kidney",
+    "Normal-sized kidneys with stones"
+   ],
+   "ans": 0,
+   "exp": "USG in CTID: B/L small kidneys — the shrunken kidney of chronic tubulointerstitial fibrosis. (Book p794)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The tubular protein marker raised in the urine of CTID is ______ microglobulin.",
+   "opts": [
+    "β₂",
+    "α₁",
+    "β₁",
+    "γ"
+   ],
+   "ans": 0,
+   "exp": "Urine in CTID: proteinuria <2 g/day with β₂ microglobulin, indicating tubular proteinuria. (Book p794)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Regarding the pathophysiology of CKDu (CKD of unknown etiology), the book states:",
+   "opts": [
+    "It is unknown, with theories proposed and no precipitating disease",
+    "It is caused by diabetes mellitus in all cases, with diabetic retinopathy",
+    "It is an inherited ciliopathy with multiple bilateral renal cysts on imaging",
+    "It is due to recurrent urinary tract infection with chronic pyelonephritis"
+   ],
+   "ans": 0,
+   "exp": "CKDu pathophysiology: unknown, theories proposed, and no precipitating disease. (Book p794)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "CKDu is defined by the presence of a clear precipitating disease such as diabetes or hypertension.",
+   "opts": [
+    "False — by definition no precipitating disease is present",
+    "True — diabetic nephropathy is the usual precipitant",
+    "True — it follows recurrent pyelonephritis",
+    "False — CKDu always follows lithium therapy"
+   ],
+   "ans": 0,
+   "exp": "CKDu: pathophysiology unknown, theories proposed, and no precipitating disease. (Book p794)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are stated about CTID. Which is the odd one out?",
+   "opts": [
+    "Nephrotic-range proteinuria with active urinary sediment",
+    "Proteinuria <2 g/day with β₂ microglobulin",
+    "Inactive urinary sediments",
+    "Bilateral small kidneys on USG"
+   ],
+   "ans": 0,
+   "exp": "CTID has subnephrotic proteinuria (<2 g/day) with inactive sediments and small kidneys. Nephrotic-range proteinuria with an active sediment indicates glomerular disease. (Book p794)"
+  }
+ ]
+}

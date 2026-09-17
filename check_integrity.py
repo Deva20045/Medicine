@@ -32,12 +32,12 @@ LIVE_CHAPTERS = {
     10: ("Glomerular Disease - Patterns", 756, 761, 60, 9),
     11: ("Podocytopathies", 762, 769, 83, 8),
     12: ("MPGN and IgA Nephropathy", 770, 774, 52, 6),
-    13: ("Post Streptococcal Glomerulonephritis", 775, 777, 12, 3),
-    14: ("RPGN and Pulmonary Renal Syndrome", 778, 782, 18, 5),
-    15: ("Familial Glomerular Syndromes", 783, 785, 11, 3),
-    16: ("Ciliopathies", 786, 792, 27, 7),
-    17: ("Chronic Tubulointerstitial Disease", 793, 795, 10, 3),
-    18: ("Acute Kidney Injury", 796, 804, 34, 9),
+    13: ("Post Streptococcal Glomerulonephritis", 775, 777, 73, 3),
+    14: ("RPGN and Pulmonary Renal Syndrome", 778, 782, 82, 5),
+    15: ("Familial Glomerular Syndromes", 783, 785, 54, 4),
+    16: ("Ciliopathies", 786, 792, 139, 6),
+    17: ("Chronic Tubulointerstitial Disease", 793, 795, 52, 3),
+    18: ("Acute Kidney Injury", 796, 804, 181, 9),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain

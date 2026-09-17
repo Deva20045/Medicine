@@ -1,0 +1,126 @@
+{
+ "page": 796,
+ "sec": "AKI definition & KDIGO classification · p796",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Acute kidney injury is defined as an abrupt decrease in renal function over hours to days resulting in:",
+   "opts": [
+    "ECF volume expansion, uremia, hyperkalemia and acidosis",
+    "ECF volume depletion with hyponatremia and alkalosis",
+    "Nephrotic-range proteinuria with hypoalbuminemia",
+    "Polyuria with hypernatremia and hypercalcemia"
+   ],
+   "ans": 0,
+   "exp": "AKI: abrupt decrease in renal function over hours to days resulting in (a) ECF volume expansion, (b) uremia, (c) hyperkalemia and (d) acidosis. (Book p796)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The four consequences of AKI listed are ECF volume expansion, uremia, hyperkalemia and ______.",
+   "opts": [
+    "acidosis",
+    "alkalosis",
+    "hypokalemia",
+    "hypernatremia"
+   ],
+   "ans": 0,
+   "exp": "AKI results in ECF volume expansion, uremia, hyperkalemia and acidosis. (Book p796)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the KDIGO stage with its urine-output criterion — 1) KDIGO 1  2) KDIGO 2  3) KDIGO 3 … A) <0.5 mL/kg/hr for ≥12 hrs  B) <0.5 mL/kg/hr for ≥6 hrs  C) <0.3 mL/kg/hr for ≥24 hrs or anuria (≤100 mL) for ≥12 hrs",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "KDIGO urine-output criteria: stage 1 — <0.5 mL/kg/hr for ≥6 hrs; stage 2 — <0.5 mL/kg/hr for ≥12 hrs; stage 3 — <0.3 mL/kg/hr for ≥24 hrs or anuria (≤100 mL) for ≥12 hrs. (Book p796)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "KDIGO stage 1 is met by a urine output of less than 0.5 mL/kg/hr for at least:",
+   "opts": [
+    "6 hours",
+    "12 hours",
+    "24 hours",
+    "48 hours"
+   ],
+   "ans": 0,
+   "exp": "KDIGO 1: urine output <0.5 mL/kg/hr for ≥6 hrs. (Book p796)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the KDIGO stage with its creatinine criterion — 1) KDIGO 1  2) KDIGO 2  3) KDIGO 3 … A) Raised by >2 times the baseline  B) Raised by >0.3 mg/dL or >50% in 7 days (1.5–1.9 times baseline)  C) Raised by >3 times the baseline",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "KDIGO creatinine criteria: stage 1 — rise >0.3 mg/dL or >50% in 7 days (1.5–1.9 times baseline); stage 2 — >2 times baseline; stage 3 — >3 times baseline. (Book p796)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient's creatinine rises from 1.0 to 2.3 mg/dL over 3 days with urine output of 0.4 mL/kg/hr for 14 hours. The KDIGO stage is:",
+   "opts": [
+    "KDIGO 2 — creatinine >2 times baseline and urine output <0.5 mL/kg/hr for ≥12 hrs",
+    "KDIGO 1 — creatinine only >50% above baseline",
+    "KDIGO 3 — creatinine >3 times baseline",
+    "Not AKI — the creatinine rise is physiological"
+   ],
+   "ans": 0,
+   "exp": "Creatinine >2 times baseline (stage 2 creatinine) with urine output <0.5 mL/kg/hr for ≥12 hrs (stage 2 urine criterion) = KDIGO 2. (Book p796)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A man with creatinine 1.2 mg/dL develops anuria with 90 mL of urine over the last 14 hours. KDIGO stage is:",
+   "opts": [
+    "KDIGO 3 — anuria (≤100 mL) for ≥12 hrs",
+    "KDIGO 1",
+    "KDIGO 2",
+    "AKI cannot be staged without a creatinine rise"
+   ],
+   "ans": 0,
+   "exp": "KDIGO 3 urine criterion: <0.3 mL/kg/hr for ≥24 hrs OR anuria (≤100 mL) for ≥12 hrs. (Book p796)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which set lists only the newer markers of AKI given in the note?",
+   "opts": [
+    "NGAL, KIM-1, LFABP and IL-18",
+    "NGAL, KIM-1, cystatin C and β₂ microglobulin",
+    "KIM-1, IL-18, troponin and brain natriuretic peptide",
+    "LFABP, IL-18, C-reactive protein and procalcitonin"
+   ],
+   "ans": 0,
+   "exp": "Note: the newer markers in AKI are NGAL, KIM-1, LFABP and IL-18. (Book p796)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are listed as newer markers of AKI. Which is the odd one out?",
+   "opts": [
+    "Cystatin C",
+    "NGAL",
+    "KIM-1",
+    "IL-18"
+   ],
+   "ans": 0,
+   "exp": "Newer AKI markers listed: NGAL, KIM-1, LFABP and IL-18. (Book p796)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In the CAUSES flowchart, the renal causes of AKI are:",
+   "opts": [
+    "Acute tubular necrosis and acute interstitial nephritis",
+    "Pre-renal azotemia and post-renal obstruction",
+    "Cardiorenal and hepatorenal syndromes only",
+    "Rapidly progressive glomerulonephritis and HUS only"
+   ],
+   "ans": 0,
+   "exp": "The CAUSES flowchart divides AKI into pre-renal, renal and post-renal; the renal branch names acute tubular necrosis (ATN) and acute interstitial nephritis (AIN). (Book p796)"
+  }
+ ]
+}

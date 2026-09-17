@@ -1,0 +1,78 @@
+{
+ "page": 778,
+ "sec": "Renal failure flowchart & RPRF causes · p778",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Complete the classification flowchart of renal failure — 1) CKD  2) Non-CKD presenting over hours–days  3) Non-CKD presenting over days–weeks … A) Rapidly progressive renal failure (RPRF)  B) Chronic kidney disease  C) Acute kidney injury (AKI)",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Flowchart: renal failure splits into CKD and non-CKD; non-CKD presenting over hours–days is AKI, and over days–weeks is rapidly progressive renal failure. (Book p778)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Rapidly progressive renal failure (RPRF) is defined in the flowchart by a presentation over:",
+   "opts": [
+    "Days–weeks",
+    "Hours–days",
+    "1–2 years",
+    "6 months"
+   ],
+   "ans": 0,
+   "exp": "The flowchart timings: AKI = hours to days; RPRF = days to weeks. (Book p778)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each condition with its place in the renal-failure flowchart — 1) Acute tubular necrosis  2) Rapidly progressive GN  3) Hemolytic uremic syndrome  4) Atheroembolic renal disease … A) AKI (hours-days)  B) RPRF in some cases  C) RPRF due to glomerular pathology  D) RPRF",
+   "opts": [
+    "1-A, 2-C, 3-D, 4-B",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-A, 2-D, 3-C, 4-B"
+   ],
+   "ans": 0,
+   "exp": "The flowchart puts acute tubular necrosis on the AKI (hours-days) limb, then lists for RPRF: rapidly progressive glomerulonephritis (due to glomerular pathology), hemolytic uremic syndrome, severe acute interstitial nephritis and atheroembolic renal disease (some cases). (Book p778)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of these is NOT listed as a cause of rapidly progressive renal failure?",
+   "opts": [
+    "Acute tubular necrosis",
+    "Rapidly progressive glomerulonephritis",
+    "Hemolytic uremic syndrome",
+    "Severe acute interstitial nephritis"
+   ],
+   "ans": 0,
+   "exp": "ATN is the classic cause of AKI (hours–days), not of RPRF; RPRF causes listed are RPGN, HUS, severe AIN and atheroembolic renal disease. (Book p778)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "The flowchart attributes rapidly progressive renal failure chiefly to glomerular pathology.",
+   "opts": [
+    "True — RPGN is listed first among RPRF causes and is due to glomerular pathology",
+    "False — RPRF is due to tubular pathology",
+    "True — it is due entirely to interstitial pathology",
+    "False — RPRF is defined by vascular pathology only"
+   ],
+   "ans": 0,
+   "exp": "Under RPRF the first listed cause is rapidly progressive glomerulonephritis (RPGN), annotated 'due to glomerular pathology'. (Book p778)"
+  },
+  {
+   "fmt": "recall",
+   "q": "RPGN is defined as RPRF plus:",
+   "opts": [
+    "Diffuse proliferative glomerulonephritis with crescents on light microscopy",
+    "Diffuse mesangial IgA deposition with normal light microscopy",
+    "Acute tubular necrosis with muddy brown casts",
+    "Thrombotic microangiopathy with fragmented RBCs"
+   ],
+   "ans": 0,
+   "exp": "RPGN = RPRF + diffuse proliferative glomerulonephritis with crescents (an HPE/light-microscopy feature). (Book p778)"
+  }
+ ]
+}

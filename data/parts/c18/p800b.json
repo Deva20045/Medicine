@@ -1,0 +1,114 @@
+{
+ "page": 800,
+ "sec": "Sepsis: pathophysiology, causes and clinical features · p800",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Complete the sepsis pathophysiology flowchart — 1) Pre-renal component  2) Macrovascular change  3) Microvascular change … A) Predominant over ATN  B) Microthrombi + endothelial leak  C) Widespread systemic vasodilation",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Sepsis flowchart: pre-renal (predominant) >> ATN; widespread systemic vasodilation (macrovascular) + microthrombi + endothelial leak (microvascular) → ↓↓ kidney perfusion. (Book p800)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "In sepsis, the pre-renal component predominates over ATN, and microthrombi with endothelial leak cause ↓↓ kidney perfusion.",
+   "opts": [
+    "True",
+    "False — ATN predominates from the outset",
+    "False — there is no pre-renal component in sepsis",
+    "True, but only in fungal sepsis"
+   ],
+   "ans": 0,
+   "exp": "Sepsis flowchart: pre-renal (predominant) >> ATN, with vasodilation plus microthrombi and endothelial leak reducing kidney perfusion. (Book p800)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the sepsis ATN pathway — 1) ↑PAMPs, DAMPs  2) Next step  3) Result … A) Inflammatory cascade  B) Released in ATN  C) Oxidative stress",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "ATN arm of the sepsis flowchart: ↑PAMPs, DAMPs → inflammatory cascade → oxidative stress. (Book p800)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the causes of sepsis-associated AKI — 1) Urosepsis  2) CRBSI  3) Diabetic nephropathy with soft tissue infection (cellulitis) … A) Urosepsis  B) Catheter related bloodstream infection  C) Cellulitis",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Causes of sepsis in this section: urosepsis; CRBSI (catheter related blood stream infection); DM nephropathy with soft tissue infection (cellulitis); also renal allograft recipients, UTI and post-operative patients. (Book p800)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The sepsis causes listed besides urosepsis, CRBSI and cellulitis are:",
+   "opts": [
+    "Renal allograft recipients, UTI and post-operative state",
+    "Pneumonia, meningitis and endocarditis",
+    "Burns, trauma and pancreatitis",
+    "Cirrhosis, nephrotic syndrome and heart failure"
+   ],
+   "ans": 0,
+   "exp": "Causes list: urosepsis, CRBSI, DM nephropathy with soft tissue infection (cellulitis), renal allograft recipients, UTI and post-operative. (Book p800)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "In early sepsis, why may the skin feel warm despite poor end-organ perfusion?",
+   "opts": [
+    "Because blood flow is redirected, so the skin is warm in the early phase (cool skin later)",
+    "Because the patient is febrile from the infection only",
+    "Because vasoconstriction increases skin temperature",
+    "Because oedema warms the skin"
+   ],
+   "ans": 0,
+   "exp": "Signs of poor end-organ perfusion: HR >90/min, cool skin (redirection of blood flow) — warm in the early phase — with ↓urine output and restlessness. (Book p800)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each sign of poor end-organ perfusion in sepsis — 1) Heart rate  2) Skin  3) Urine output  4) Sensorium … A) ↓  B) Restlessness  C) >90/min  D) Cool skin (warm early)",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-A, 4-B",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-B, 2-D, 3-A, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Sepsis clinical features (signs of poor end-organ perfusion): HR >90/min; cool skin (redirection of blood flow), warm in the early phase; ↓urine output; restlessness. (Book p800)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The heart-rate threshold given among the signs of poor end-organ perfusion in sepsis is:",
+   "opts": [
+    ">90/min",
+    ">60/min",
+    ">120/min",
+    ">150/min"
+   ],
+   "ans": 0,
+   "exp": "Signs of poor end-organ perfusion: HR >90/min, plus cool skin, ↓urine output and restlessness. (Book p800)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are listed as causes of sepsis-related AKI. Which is the odd one out?",
+   "opts": [
+    "Cholecystitis with empyema",
+    "Urosepsis",
+    "CRBSI",
+    "Post-operative state"
+   ],
+   "ans": 0,
+   "exp": "Listed causes: urosepsis, CRBSI, DM nephropathy with soft tissue infection (cellulitis), renal allograft recipients, UTI and post-operative state. (Book p800)"
+  }
+ ]
+}

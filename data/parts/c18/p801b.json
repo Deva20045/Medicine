@@ -1,0 +1,102 @@
+{
+ "page": 801,
+ "sec": "Uric acid nephropathy (tumour lysis syndrome) · p801",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Uric acid nephropathy is also known as:",
+   "opts": [
+    "Tumour lysis syndrome",
+    "Rhabdomyolysis",
+    "Atheroembolic renal disease",
+    "Contrast nephropathy"
+   ],
+   "ans": 0,
+   "exp": "Uric acid nephropathy AKA tumour lysis syndrome — a renal cause of AKI. (Book p801)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Uric acid nephropathy occurs in:",
+   "opts": [
+    "Hematological malignancies within a few days of the onset of treatment",
+    "Solid tumours several years after chemotherapy",
+    "Chronic kidney disease after contrast exposure",
+    "Rhabdomyolysis after seizures"
+   ],
+   "ans": 0,
+   "exp": "Cause: hematological malignancies within a few days of onset of Rx (chemotherapy). (Book p801)"
+  },
+  {
+   "fmt": "match",
+   "q": "Complete the pathophysiology flowchart of uric acid nephropathy — 1) Leukemia/lymphoma  2) Tumour cells  3) Effect … A) ↑Uric acid filtered by the glomerulus  B) Underlying malignancy  C) Rapid multiplication",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Flowchart: leukemia/lymphoma → rapid multiplication of tumour cells → ↑uric acid filtered by the glomerulus. (Book p801)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the features of uric acid nephropathy — 1) Renal presentation  2) Serum uric acid  3) Other electrolytes  4) Serum calcium … A) ↑  B) Oliguric AKI  C) ↓S.Ca²⁺  D) S.K⁺/S.PO₄³⁻/S.mg²⁺ ↑",
+   "opts": [
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-C, 2-A, 3-D, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Features of uric acid nephropathy: oliguric AKI; S. uric acid ↑↑; S. K⁺/S. PO₄³⁻/S. mg²⁺ ↑; ↓S. Ca²⁺. (Book p801)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 24-year-old with Burkitt lymphoma develops oliguric AKI 3 days after starting chemotherapy, with a uric acid of 14 mg/dL, K⁺ 6.2, PO₄³⁻ 7 mg/dL and Ca²⁺ 7.4 mg/dL. The diagnosis is:",
+   "opts": [
+    "Uric acid nephropathy (tumour lysis syndrome)",
+    "Rhabdomyolysis from tumour infiltration",
+    "Contrast-induced AKI from CT staging",
+    "Atheroembolic renal disease"
+   ],
+   "ans": 0,
+   "exp": "Uric acid nephropathy (TLS): oliguric AKI with ↑↑uric acid, ↑K⁺/PO₄³⁻/mg²⁺ and ↓Ca²⁺, occurring within days of starting treatment of a haematological malignancy. (Book p801)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Hypocalcemia is a described feature of uric acid nephropathy.",
+   "opts": [
+    "True — ↓S. Ca²⁺ is listed",
+    "False — calcium always rises in tumour lysis syndrome",
+    "False — calcium is normal in uric acid nephropathy",
+    "True, but only after dialysis"
+   ],
+   "ans": 0,
+   "exp": "Features: oliguric AKI, S. uric acid ↑↑, ↑S.K⁺/S.PO₄³⁻/S.mg²⁺ and ↓S.Ca²⁺. (Book p801)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In uric acid nephropathy the serum potassium, phosphate and magnesium are ______, while the serum calcium is ______.",
+   "opts": [
+    "all raised; low",
+    "all low; raised",
+    "raised only for potassium; normal",
+    "normal; low"
+   ],
+   "ans": 0,
+   "exp": "Features of uric acid nephropathy (tumour lysis syndrome): oliguric AKI, markedly raised serum uric acid, raised S.K+/S.PO4(3-)/S.mg2+ and a low serum calcium. (Book p801)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are features of uric acid nephropathy. Which is the odd one out?",
+   "opts": [
+    "Hypercalcemia",
+    "Oliguric AKI",
+    "Markedly raised serum uric acid",
+    "Hypocalcemia"
+   ],
+   "ans": 0,
+   "exp": "Uric acid nephropathy: oliguric AKI with ↑↑uric acid, ↑K⁺/PO₄/mg²⁺ and ↓Ca²⁺ — calcium falls, so hypercalcemia is not a feature. (Book p801)"
+  }
+ ]
+}

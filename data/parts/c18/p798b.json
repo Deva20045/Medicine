@@ -1,0 +1,162 @@
+{
+ "page": 798,
+ "sec": "Pre-renal vs ATN table & FeNa · p798",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the urine output and albumin in the pre-renal vs ATN table — 1) Pre-renal AKI urine output  2) Pre-renal urine albumin  3) ATN urine albumin … A) (–) absent  B) ↓  C) Normal  D) 1+",
+   "opts": [
+    "1-C, 2-A, 3-D",
+    "1-B, 2-A, 3-D",
+    "1-C, 2-D, 3-A",
+    "1-B, 2-D, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Table: pre-renal — urine output normal, urine albumin absent (–); ATN — urine output ↓, urine albumin 1+. (Book p798)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Urine microscopy shows muddy brown epithelial casts. According to the table this finding belongs to:",
+   "opts": [
+    "ATN",
+    "Pre-renal AKI",
+    "Post-renal AKI",
+    "Acute interstitial nephritis"
+   ],
+   "ans": 0,
+   "exp": "Table: urine microscopy is (–) in pre-renal AKI and shows muddy brown epithelial casts in ATN. (Book p798)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The BUN/creatinine ratio in pre-renal AKI is:",
+   "opts": [
+    ">20",
+    "<10",
+    "10–15",
+    "Always <5"
+   ],
+   "ans": 0,
+   "exp": "Table: BUN/creatinine ratio >20 in pre-renal AKI and <10 in ATN. (Book p798)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "In the pre-renal vs ATN table, the urine sodium in ATN is:",
+   "opts": [
+    ">40 mEq/L",
+    "<20 mEq/L",
+    "<10 mEq/L",
+    "Exactly 20 mEq/L"
+   ],
+   "ans": 0,
+   "exp": "Table: urine Na⁺ <20 mEq/L in pre-renal AKI and >40 mEq/L in ATN. (Book p798)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match urine creatinine and FeNa in the table — 1) Pre-renal urine creatinine  2) ATN urine creatinine  3) Pre-renal FeNa  4) ATN FeNa … A) <1%  B) <20  C) >2%  D) >40",
+   "opts": [
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-D, 2-B, 3-C, 4-A",
+    "1-A, 2-C, 3-D, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Table: urine creatinine >40 (pre-renal) versus <20 (ATN); FeNa <1% (pre-renal) versus >2% (ATN) — FeNa being marked as the best parameter. (Book p798)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "The table marks FeNa as the best discriminator between pre-renal AKI and ATN.",
+   "opts": [
+    "True",
+    "False — urine sodium is marked as best",
+    "False — the BUN/creatinine ratio is marked as best",
+    "False — no single parameter is marked"
+   ],
+   "ans": 0,
+   "exp": "In the table, FeNa carries the annotation '(Best)' — urine osmolality and specific gravity are normal in pre-renal AKI and ↓ in ATN, while urine pH is normal in pre-renal and rises in ATN. (Book p798)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match urine osmolality, specific gravity and pH — 1) Pre-renal urine osmolality  2) ATN urine specific gravity  3) ATN urine pH … A) ↑  B) Normal  C) ↓",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Table: pre-renal — urine osmolality normal, specific gravity normal, pH normal; ATN — osmolality ↓, specific gravity ↓, pH ↑. (Book p798)"
+  },
+  {
+   "fmt": "management",
+   "q": "The treatment row of the pre-renal versus ATN table is:",
+   "opts": [
+    "Fluids for pre-renal AKI and treatment of the cause for ATN",
+    "Dialysis for pre-renal AKI and fluids for ATN",
+    "Steroids for pre-renal AKI and diuretics for ATN",
+    "Antibiotics for both"
+   ],
+   "ans": 0,
+   "exp": "Rx row: fluids for pre-renal AKI; Rx of cause for ATN. (Book p798)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The formula for fractional excretion of sodium (FeNa) is (u.Na/u.Creatinine) × (______/S.Na).",
+   "opts": [
+    "S. Creatinine",
+    "S. Urea",
+    "S. Potassium",
+    "S. Osmolality"
+   ],
+   "ans": 0,
+   "exp": "FeNa = (u. Na / u. Creatinine) × (S. Creatinine / S. Na); normal is 1–2%. (Book p798)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The normal value of FeNa is:",
+   "opts": [
+    "1–2%",
+    "5–10%",
+    "0.1–0.5%",
+    "20–30%"
+   ],
+   "ans": 0,
+   "exp": "Normal FeNa: 1–2%. (Book p798)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Why is FeNa reduced in pre-renal failure?",
+   "opts": [
+    "Sodium reabsorption is increased (↓ urine Na) and creatinine secretion is increased (↑ urine creatinine)",
+    "Sodium reabsorption falls (↑ urine Na), while urine creatinine also falls",
+    "Both urine Na and urine creatinine fall, so the calculated ratio is unchanged",
+    "Aldosterone secretion is suppressed, so both urine Na and creatinine rise"
+   ],
+   "ans": 0,
+   "exp": "↓FeNa in pre-renal failure occurs because Na⁺ reabsorption is increased (↓u.Na) and creatinine secretion is increased (↑u.Creatinine). (Book p798)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In which conditions can ATN show a FeNa below 1% because a pre-renal component predominates?",
+   "opts": [
+    "NSAIDs, rhabdomyolysis and contrast-induced AKI",
+    "Aminoglycosides, cisplatin and vancomycin",
+    "Ethylene glycol, salicylates and acyclovir",
+    "Sepsis, urinary obstruction and acute interstitial nephritis"
+   ],
+   "ans": 0,
+   "exp": "ATN with FeNa <1: NSAIDs, rhabdomyolysis and contrast AKI, grouped because the pre-renal component is predominant. (Book p798)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following favour ATN over pre-renal AKI. Which is the odd one out?",
+   "opts": [
+    "Urine sodium <20 mEq/L",
+    "Muddy brown epithelial casts",
+    "BUN/creatinine ratio <10",
+    "FeNa >2%"
+   ],
+   "ans": 0,
+   "exp": "Urine Na⁺ <20 mEq/L favours pre-renal AKI; muddy brown casts, BUN/creatinine <10 and FeNa >2% all favour ATN. (Book p798)"
+  }
+ ]
+}

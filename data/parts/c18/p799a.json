@@ -1,0 +1,138 @@
+{
+ "page": 799,
+ "sec": "Acute interstitial nephritis · p799",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Acute interstitial nephritis is:",
+   "opts": [
+    "A hypersensitivity reaction (T₄ mediated) causing reversible AKI",
+    "A cytotoxic antibody-mediated irreversible AKI",
+    "An ischemic injury of the proximal tubule",
+    "A cholesterol embolic disease"
+   ],
+   "ans": 0,
+   "exp": "AIN: hypersensitivity reaction (T₄ mediated), causing reversible AKI. (Book p799)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: AIN is a ______ reaction, T₄ mediated, causing reversible AKI.",
+   "opts": [
+    "hypersensitivity",
+    "autoimmune cytotoxic",
+    "type II",
+    "type III"
+   ],
+   "ans": 0,
+   "exp": "AIN is a hypersensitivity reaction that is T₄ mediated and produces reversible AKI. (Book p799)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the AIN clinical features — 1) Rash, eosinophilia  2) Renal failure  3) Edema and hypertension  4) Flank pain, haematuria, pyuria … A) Asymptomatic  B) Rare  C) Absent  D) Present with eosinophilia",
+   "opts": [
+    "1-D, 2-A, 3-C, 4-B",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-D, 2-C, 3-A, 4-B",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "AIN clinical features: rash and eosinophilia; renal failure may be asymptomatic; no edema or HTN; flank pain, haematuria and pyuria are rare. (Book p799)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Edema and hypertension are characteristically absent in acute interstitial nephritis.",
+   "opts": [
+    "True — AIN presents with neither oedema nor HTN",
+    "False — oedema is the rule in AIN",
+    "False — hypertension is the earliest sign of AIN",
+    "True, but only in children"
+   ],
+   "ans": 0,
+   "exp": "AIN clinical features: no edema, no HTN (in contrast with glomerular and volume-overload AKI). (Book p799)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient started on an antibiotic 10 days ago now has a maculopapular rash, eosinophilia and a rising creatinine with no oedema or hypertension. Which diagnosis fits?",
+   "opts": [
+    "Acute interstitial nephritis (hypersensitivity, reversible AKI)",
+    "Acute tubular necrosis from ischemia",
+    "Pre-renal AKI from volume depletion",
+    "Post-streptococcal glomerulonephritis"
+   ],
+   "ans": 0,
+   "exp": "AIN: hypersensitivity reaction with rash and eosinophilia, asymptomatic renal failure without oedema/HTN (maculopapular rash figure). (Book p799)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the AIN investigations — 1) RFT  2) Urinalysis  3) Renal biopsy … A) Mild proteinuria with occasional WBC casts  B) Interstitial infiltrates with a normal glomerulus  C) Impaired",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "AIN investigations: impaired RFT; urinalysis — mild proteinuria with occasional WBC casts; renal biopsy — interstitial infiltrates with a normal glomerulus. (Book p799)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The renal biopsy finding in acute interstitial nephritis is:",
+   "opts": [
+    "Interstitial infiltrates with a normal glomerulus",
+    "Crescentic proliferation of parietal epithelial cells",
+    "Subepithelial camel-hump deposits",
+    "Mesangial IgA with C3"
+   ],
+   "ans": 0,
+   "exp": "Renal biopsy in AIN: interstitial infiltrates + normal glomerulus. (Book p799)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The urinalysis in AIN shows mild proteinuria and occasional ______ casts.",
+   "opts": [
+    "WBC",
+    "RBC",
+    "muddy brown",
+    "hyaline"
+   ],
+   "ans": 0,
+   "exp": "Urinalysis in AIN: mild proteinuria with occasional WBC casts (not RBC or muddy brown casts). (Book p799)"
+  },
+  {
+   "fmt": "management",
+   "q": "The treatment of acute interstitial nephritis consists of:",
+   "opts": [
+    "Stop the insult, then steroids (the mainstay) after 1 week",
+    "Continue the drug with high-dose diuretics",
+    "Immediate dialysis in every case",
+    "Plasma exchange followed by cyclophosphamide"
+   ],
+   "ans": 0,
+   "exp": "Treatment of AIN: stop the insult; after 1 week, steroids (mainstay). (Book p799)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "In the treatment of AIN, steroids are started after:",
+   "opts": [
+    "1 week",
+    "24 hours",
+    "1 month",
+    "6 weeks"
+   ],
+   "ans": 0,
+   "exp": "AIN treatment: stop the insult, and after 1 week steroids are the mainstay — the delay allows spontaneous recovery from the hypersensitivity. (Book p799)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are features of AIN. Which is the odd one out?",
+   "opts": [
+    "Hypertension with oedema",
+    "Rash with eosinophilia",
+    "Occasional WBC casts in urine",
+    "Interstitial infiltrates with normal glomeruli on biopsy"
+   ],
+   "ans": 0,
+   "exp": "AIN is characterised by the absence of oedema and HTN; rash, eosinophilia, WBC casts and interstitial infiltrates with normal glomeruli all belong to AIN. (Book p799)"
+  }
+ ]
+}

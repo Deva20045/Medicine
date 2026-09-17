@@ -1,199 +1,871 @@
 {
-  "chapter": 17,
-  "title": "Chronic Tubulointerstitial Disease",
-  "pageRange": "793-795",
-  "questions": [
-    {
-      "id": "MED-C17-001",
-      "sec": "Nephrology · p793",
-      "page": 793,
-      "fmt": "numeric",
-      "q": "Chronic kidney disease in the CTID section is characterized by more than ______% interstitial fibrosis, tubular atrophy or glomerular sclerosis.",
-      "opts": [
-        ">75",
-        "10",
-        "25",
-        "50"
-      ],
-      "ans": 0,
-      "exp": ">75. (Book p793)"
-    },
-    {
-      "id": "MED-C17-002",
-      "sec": "Nephrology · p793",
-      "page": 793,
-      "fmt": "fillup",
-      "q": "Fill up: Lithium causes microcystic changes in the ______ tubules without interstitial inflammation.",
-      "opts": [
-        "distal",
-        "proximal",
-        "collecting",
-        "glomerular"
-      ],
-      "ans": 0,
-      "exp": "distal. (Book p793)"
-    },
-    {
-      "id": "MED-C17-003",
-      "sec": "Nephrology · p793",
-      "page": 793,
-      "fmt": "oddoneout",
-      "q": "The toxin associated with saturnine gout and hyperuricaemia is:",
-      "opts": [
-        "Lead",
-        "Cadmium",
-        "Fluoride",
-        "Mercury"
-      ],
-      "ans": 0,
-      "exp": "Lead. (Book p793)"
-    },
-    {
-      "id": "MED-C17-004",
-      "sec": "Nephrology · p793",
-      "page": 793,
-      "fmt": "match",
-      "q": "Match the following — 1) first item 2) second item 3) third item … A) PCT to DCT B) Glomerulus to PCT C) Loop of Henle only",
-      "opts": [
-        "PCT to DCT",
-        "Glomerulus to PCT",
-        "Loop of Henle only",
-        "Collecting duct to ureter"
-      ],
-      "ans": 0,
-      "exp": "PCT to DCT. (Book p793)"
-    },
-    {
-      "id": "MED-C17-005",
-      "sec": "Nephrology · p794",
-      "page": 794,
-      "fmt": "recall",
-      "q": "The typical proteinuria in chronic tubulointerstitial disease is:",
-      "opts": [
-        "Less than 2 g/day with β2-microglobulin",
-        "More than 10 g/day with albumin",
-        "Nephrotic-range albumin only",
-        "Absent in every case"
-      ],
-      "ans": 0,
-      "exp": "Less than 2 g/day with β2-microglobulin. (Book p794)"
-    },
-    {
-      "id": "MED-C17-006",
-      "sec": "Nephrology · p794",
-      "page": 794,
-      "fmt": "numeric",
-      "q": "Fill up: The maximum anaemia among the listed CKD patterns is seen in ______.",
-      "opts": [
-        "CTID",
-        "ADPKD",
-        "PSGN",
-        "Minimal change disease"
-      ],
-      "ans": 0,
-      "exp": "CTID. (Book p794)"
-    },
-    {
-      "id": "MED-C17-007",
-      "sec": "Nephrology · p794",
-      "page": 794,
-      "fmt": "management",
-      "q": "Nephrogenic diabetes insipidus in CKD is linked to:",
-      "opts": [
-        "Cortical collecting-duct fibrosis with reduced ADH action",
-        "Medullary hyperplasia with excess ADH",
-        "Glomerular IgA deposition",
-        "Increased aldosterone action"
-      ],
-      "ans": 0,
-      "exp": "Cortical collecting-duct fibrosis with reduced ADH action. (Book p794)"
-    },
-    {
-      "id": "MED-C17-008",
-      "sec": "Nephrology · p795",
-      "page": 795,
-      "fmt": "recall",
-      "q": "CKDu is commonly reported on the:",
-      "opts": [
-        "Eastern coast of India",
-        "Northern Europe",
-        "Western Canada",
-        "Central Africa only"
-      ],
-      "ans": 0,
-      "exp": "Eastern coast of India. (Book p795)"
-    },
-    {
-      "id": "MED-C17-009",
-      "sec": "Nephrology · p795",
-      "page": 795,
-      "fmt": "fillup",
-      "q": "Fill up: CKDu is often asymptomatic until ______.",
-      "opts": [
-        "ESRF",
-        "nephrotic syndrome",
-        "gross haematuria",
-        "hypertensive emergency"
-      ],
-      "ans": 0,
-      "exp": "ESRF. (Book p795)"
-    },
-    {
-      "id": "MED-C17-010",
-      "sec": "Nephrology · p795",
-      "page": 795,
-      "fmt": "match",
-      "q": "Match the following — 1) first item 2) second item 3) third item … A) Interstitial fibrosis and tubular atrophy B) Crescentic GN and pulmonary haemorrhage C) Glomerular amyloid only",
-      "opts": [
-        "Interstitial fibrosis and tubular atrophy",
-        "Crescentic GN and pulmonary haemorrhage",
-        "Glomerular amyloid only",
-        "Renal artery thrombosis"
-      ],
-      "ans": 0,
-      "exp": "Interstitial fibrosis and tubular atrophy. (Book p795)"
-    }
-  ],
-  "units": [
-    {
-      "id": "MED-U17-1",
-      "ch": 17,
-      "n": 1,
-      "title": "Book p793: Chronic Tubulointerstitial Disease",
-      "sec": "Nephrology · p793",
-      "guide": "Read and master the chronic tubulointerstitial disease findings, tables and management on Book p793.",
-      "qs": [
-        "MED-C17-001",
-        "MED-C17-002",
-        "MED-C17-003",
-        "MED-C17-004"
-      ]
-    },
-    {
-      "id": "MED-U17-2",
-      "ch": 17,
-      "n": 2,
-      "title": "Book p794: Chronic Tubulointerstitial Disease",
-      "sec": "Nephrology · p794",
-      "guide": "Read and master the chronic tubulointerstitial disease findings, tables and management on Book p794.",
-      "qs": [
-        "MED-C17-005",
-        "MED-C17-006",
-        "MED-C17-007"
-      ]
-    },
-    {
-      "id": "MED-U17-3",
-      "ch": 17,
-      "n": 3,
-      "title": "Book p795: Chronic Tubulointerstitial Disease",
-      "sec": "Nephrology · p795",
-      "guide": "Read and master the chronic tubulointerstitial disease findings, tables and management on Book p795.",
-      "qs": [
-        "MED-C17-008",
-        "MED-C17-009",
-        "MED-C17-010"
-      ]
-    }
-  ]
+ "chapter": 17,
+ "title": "Chronic Tubulointerstitial Disease",
+ "pageRange": "793-795",
+ "questions": [
+  {
+   "id": "MED-C17-001",
+   "sec": "Definition of CKD & the causes table · p793",
+   "page": 793,
+   "fmt": "numeric",
+   "q": "Chronic kidney disease in this chapter is defined histologically by more than what percentage of interstitial fibrosis, tubular atrophy or glomerular sclerosis?",
+   "opts": [
+    "1%",
+    "5%",
+    "50%",
+    "25%"
+   ],
+   "ans": 1,
+   "exp": "CKD: >5% of interstitial fibrosis/tubular atrophy/glomerular sclerosis, with a decrease in the number of functional nephrons. (Book p793)"
+  },
+  {
+   "id": "MED-C17-002",
+   "sec": "Definition of CKD & the causes table · p793",
+   "page": 793,
+   "fmt": "fillup",
+   "q": "Fill up: CKD is characterised by a ______ in the number of functional nephrons.",
+   "opts": [
+    "increase",
+    "no change",
+    "fluctuation",
+    "decrease"
+   ],
+   "ans": 3,
+   "exp": "CKD definition: >5% interstitial fibrosis/tubular atrophy/glomerular sclerosis with ↓ number of functional nephrons. (Book p793)"
+  },
+  {
+   "id": "MED-C17-003",
+   "sec": "Definition of CKD & the causes table · p793",
+   "page": 793,
+   "fmt": "match",
+   "q": "Match each pathology with its associated condition in the causes table — 1) Vascular  2) Glomerular (diabetes)  3) Tubulo-interstitial fibrosis … A) Diabetic nephropathy  B) CTID  C) Ischemic nephropathy",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 3,
+   "exp": "Causes table: vascular (RAS, TMA) → ischemic nephropathy; glomerular (diabetes) → diabetic nephropathy; tubulo-interstitial fibrosis (–) → CTID. (Book p793)"
+  },
+  {
+   "id": "MED-C17-004",
+   "sec": "Definition of CKD & the causes table · p793",
+   "page": 793,
+   "fmt": "scenario",
+   "q": "A patient has renal artery stenosis and biopsy shows ischaemic nephropathy. In the causes table, this belongs to which pathology group?",
+   "opts": [
+    "Glomerular",
+    "Tubulo-interstitial fibrosis",
+    "Cystic",
+    "Vascular"
+   ],
+   "ans": 3,
+   "exp": "Vascular pathology (RAS, TMA) leads to ischemic nephropathy, and together with the glomerular group it produces secondary tubulo-interstitial fibrosis. (Book p793)"
+  },
+  {
+   "id": "MED-C17-005",
+   "sec": "Definition of CKD & the causes table · p793",
+   "page": 793,
+   "fmt": "recall",
+   "q": "Which glomerular diseases are grouped together with IgA nephropathy to cause chronic glomerulonephritis (CGN)?",
+   "opts": [
+    "MPGN, FSGS and membranous nephropathy",
+    "RAS and TMA, producing ischaemic nephropathy",
+    "Diabetes mellitus and hypertension, causing diabetic nephropathy",
+    "Sarcoidosis and Sjögren's syndrome, causing interstitial infiltration"
+   ],
+   "ans": 0,
+   "exp": "Glomerular row of the causes table: IgA/MPGN/FSGS/membranous nephropathy → CGN (chronic glomerulonephritis). (Book p793)"
+  },
+  {
+   "id": "MED-C17-006",
+   "sec": "Definition of CKD & the causes table · p793",
+   "page": 793,
+   "fmt": "match",
+   "q": "Match each cause of CKD with its label in the table — 1) IgAN/MPGN/FSGS/membranous nephropathy  2) Diabetes  3) RAS/TMA … A) Diabetic nephropathy  B) Ischemic nephropathy  C) CGN (chronic glomerulonephritis)",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 3,
+   "exp": "Table mapping: IgAN/MPGN/FSGS/membranous → CGN; diabetes → diabetic nephropathy; RAS/TMA → ischaemic nephropathy; primary tubulointerstitial fibrosis → CTID. (Book p793)"
+  },
+  {
+   "id": "MED-C17-007",
+   "sec": "Definition of CKD & the causes table · p793",
+   "page": 793,
+   "fmt": "truefalse",
+   "q": "In the causes table, vascular and glomerular pathology together are grouped as producing secondary tubulo-interstitial fibrosis.",
+   "opts": [
+    "False — the grouping is labelled primary fibrosis",
+    "True, but only when diabetes is absent",
+    "True",
+    "False — only vascular disease produces tubulointerstitial fibrosis"
+   ],
+   "ans": 2,
+   "exp": "The brace in the table labels the vascular and glomerular rows as 'secondary tubulo-interstitial fibrosis', leaving primary tubulo-interstitial fibrosis as CTID. (Book p793)"
+  },
+  {
+   "id": "MED-C17-008",
+   "sec": "Definition of CKD & the causes table · p793",
+   "page": 793,
+   "fmt": "oddoneout",
+   "q": "All but one of the following are listed as conditions associated with CKD in the causes table. Which is the odd one out?",
+   "opts": [
+    "RAS and TMA",
+    "IgA nephropathy, MPGN, FSGS and membranous nephropathy",
+    "Diabetes mellitus",
+    "Post-streptococcal glomerulonephritis"
+   ],
+   "ans": 3,
+   "exp": "The associated conditions listed are RAS/TMA, IgAN/MPGN/FSGS/membranous nephropathy and diabetes; PSGN is a self-limited disease not listed here. (Book p793)"
+  },
+  {
+   "id": "MED-C17-009",
+   "sec": "CTID pathology & etiology (ciliopathies to metabolic) · p793",
+   "page": 793,
+   "fmt": "recall",
+   "q": "The pathology of chronic tubulointerstitial disease is:",
+   "opts": [
+    "Amyloid deposition in the mesangium",
+    "Segmental sclerosis of the glomerular tuft only",
+    "Scarring with tubulointerstitial fibrosis and atrophy of more than 5%",
+    "Diffuse proliferative glomerulonephritis with crescents"
+   ],
+   "ans": 2,
+   "exp": "Pathology of CTID: scarring + tubulointerstitial fibrosis & atrophy (>5%), illustrated by the histopathology figure. (Book p793)"
+  },
+  {
+   "id": "MED-C17-010",
+   "sec": "CTID pathology & etiology (ciliopathies to metabolic) · p793",
+   "page": 793,
+   "fmt": "recall",
+   "q": "Which of the following is the first listed etiology of chronic tubulointerstitial disease?",
+   "opts": [
+    "Reflux nephropathy",
+    "Obstructive nephropathy",
+    "Drugs",
+    "Ciliopathies"
+   ],
+   "ans": 3,
+   "exp": "The etiology list begins with ciliopathies, followed by reflux nephropathy (VUR), obstructive nephropathy, drugs, toxins and metabolic causes. (Book p793)"
+  },
+  {
+   "id": "MED-C17-011",
+   "sec": "CTID pathology & etiology (ciliopathies to metabolic) · p793",
+   "page": 793,
+   "fmt": "fillup",
+   "q": "Fill up: Reflux nephropathy, listed second among the etiologies, is due to ______.",
+   "opts": [
+    "pelviureteric junction obstruction",
+    "neurogenic bladder",
+    "VUR (vesicoureteric reflux)",
+    "posterior urethral valve"
+   ],
+   "ans": 2,
+   "exp": "Etiology 2 of CTID: reflux nephropathy (VUR — vesicoureteric reflux). (Book p793)"
+  },
+  {
+   "id": "MED-C17-012",
+   "sec": "CTID pathology & etiology (ciliopathies to metabolic) · p793",
+   "page": 793,
+   "fmt": "match",
+   "q": "Match each drug with its characteristic CTID lesion — 1) Lithium  2) Calcineurin inhibitors  3) Proton pump inhibitors … A) Microcystic changes in distal tubules without interstitial inflammation  B) Listed as a drug causing CTID  C) Striped pattern with afferent arteriolar hyalinosis",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Drugs in CTID: lithium — microcystic changes in distal tubules without interstitial inflammation; calcineurin inhibitors — striped pattern, afferent arteriolar hyalinosis; PPIs also listed. (Book p793)"
+  },
+  {
+   "id": "MED-C17-013",
+   "sec": "CTID pathology & etiology (ciliopathies to metabolic) · p793",
+   "page": 793,
+   "fmt": "scenario",
+   "q": "A patient on long-term lithium develops renal impairment. The biopsy is expected to show:",
+   "opts": [
+    "Striped pattern of fibrosis with afferent arteriolar hyalinosis",
+    "Diffuse mesangial IgA deposits",
+    "Subepithelial camel-hump deposits",
+    "Microcystic changes in distal tubules without interstitial inflammation"
+   ],
+   "ans": 3,
+   "exp": "Lithium: microcystic changes in distal tubules without interstitial inflammation. The striped pattern with afferent arteriolar hyalinosis is a calcineurin-inhibitor effect. (Book p793)"
+  },
+  {
+   "id": "MED-C17-014",
+   "sec": "CTID pathology & etiology (ciliopathies to metabolic) · p793",
+   "page": 793,
+   "fmt": "scenario",
+   "q": "A renal transplant recipient on tacrolimus has progressive renal dysfunction. The characteristic histological pattern is:",
+   "opts": [
+    "Striped pattern with afferent arteriolar hyalinosis",
+    "Microcystic change in distal tubules without inflammation",
+    "Crescentic glomerulonephritis",
+    "Moth-eaten appearance on electron microscopy"
+   ],
+   "ans": 0,
+   "exp": "Calcineurin inhibitors (–) produce a striped pattern with afferent arteriolar hyalinosis. (Book p793)"
+  },
+  {
+   "id": "MED-C17-015",
+   "sec": "CTID pathology & etiology (ciliopathies to metabolic) · p793",
+   "page": 793,
+   "fmt": "match",
+   "q": "Match each toxin with its CTID picture — 1) Lead  2) Cadmium  3) Lithium … A) Ouch ouch nephropathy  B) Microcystic changes in distal tubules without interstitial inflammation  C) Saturnine gout with hyperuricemia",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 3,
+   "exp": "Toxins in CTID: lead gives saturnine gout with hyperuricemia, cadmium the ouch ouch nephropathy, and lithium microcystic changes in distal tubules without interstitial inflammation. (Book p793)"
+  },
+  {
+   "id": "MED-C17-016",
+   "sec": "CTID pathology & etiology (ciliopathies to metabolic) · p793",
+   "page": 793,
+   "fmt": "fillup",
+   "q": "Fill up: Cadmium toxicity causes the so-called ______ nephropathy.",
+   "opts": [
+    "ouch ouch",
+    "satur nine",
+    "muddy brown",
+    "myeloma kidney"
+   ],
+   "ans": 0,
+   "exp": "Toxins in CTID: lead — saturnine gout/hyperuricemia; cadmium — 'ouch ouch nephropathy'. (Book p793)"
+  },
+  {
+   "id": "MED-C17-017",
+   "sec": "CTID pathology & etiology (ciliopathies to metabolic) · p793",
+   "page": 793,
+   "fmt": "scenario",
+   "q": "A battery-recycling worker has gout with hyperuricemia and renal impairment. Which toxin is implicated?",
+   "opts": [
+    "Cadmium — ouch ouch nephropathy",
+    "Lithium",
+    "Calcineurin inhibitors",
+    "Lead — saturnine gout"
+   ],
+   "ans": 3,
+   "exp": "Lead causes saturnine gout with hyperuricemia; cadmium causes ouch ouch nephropathy. (Book p793)"
+  },
+  {
+   "id": "MED-C17-018",
+   "sec": "CTID pathology & etiology (ciliopathies to metabolic) · p793",
+   "page": 793,
+   "fmt": "match",
+   "q": "Match each CTID cause with its mechanism — 1) Hyperuricemia  2) Hypokalemia  3) Ciliopathies … A) Hereditary cystic disorders (the first-listed etiology)  B) Urate nephropathy  C) Vacuolization of PCT more than DCT",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "Metabolic causes of CTID include hyperuricemia (urate nephropathy), hypercalcemia, hyperoxaluria and hypokalemia (vacuolization of PCT more than DCT); ciliopathies head the etiology list. (Book p793)"
+  },
+  {
+   "id": "MED-C17-019",
+   "sec": "CTID pathology & etiology (ciliopathies to metabolic) · p793",
+   "page": 793,
+   "fmt": "truefalse",
+   "q": "Hypokalemia in CTID produces vacuolization of the proximal convoluted tubule more than the distal convoluted tubule.",
+   "opts": [
+    "False — hypokalemia causes no tubular change",
+    "True, but only when hypercalcemia coexists",
+    "True",
+    "False — vacuolization affects the DCT more than the PCT"
+   ],
+   "ans": 2,
+   "exp": "Metabolic etiology list: hypokalemia — vacuolization of PCT > DCT. (Book p793)"
+  },
+  {
+   "id": "MED-C17-020",
+   "sec": "CTID pathology & etiology (ciliopathies to metabolic) · p793",
+   "page": 793,
+   "fmt": "recall",
+   "q": "The histology panels for urate nephropathy and IgG4 disease in this section are both marked by an arrow labelled 'fibrosis'. Which statement about the two entities is correct?",
+   "opts": [
+    "IgG4 disease is a metabolic cause and urate nephropathy an autoimmune cause of CTID",
+    "The fibrosis in urate nephropathy actually indicates acute tubular necrosis rather than CTID",
+    "Both cause chronic tubulointerstitial disease with interstitial fibrosis, but only urate nephropathy belongs to the metabolic group of the etiology list",
+    "Both are glomerular diseases in which the fibrosis is confined to the mesangium"
+   ],
+   "ans": 2,
+   "exp": "Both figures show interstitial fibrosis, the histological hallmark of chronic tubulointerstitial disease; urate nephropathy sits in the metabolic group of the etiology list while IgG4 disease is one of the autoimmune causes (sarcoidosis, Sjögren's, IgG4 disease). (Book p793)"
+  },
+  {
+   "id": "MED-C17-021",
+   "sec": "CTID pathology & etiology (ciliopathies to metabolic) · p793",
+   "page": 793,
+   "fmt": "oddoneout",
+   "q": "All but one of the following are listed causes of chronic tubulointerstitial disease. Which is the odd one out?",
+   "opts": [
+    "Obstructive nephropathy",
+    "Post-infectious glomerulonephritis",
+    "Ciliopathies",
+    "Reflux nephropathy"
+   ],
+   "ans": 1,
+   "exp": "Listed etiologies: ciliopathies, reflux nephropathy (VUR), obstructive nephropathy, drugs, toxins and metabolic causes plus autoimmune diseases. (Book p793)"
+  },
+  {
+   "id": "MED-C17-022",
+   "sec": "Autoimmune etiology, features & clinical-features table · p794",
+   "page": 794,
+   "fmt": "fillup",
+   "q": "Fill up: The three autoimmune causes of chronic tubulointerstitial disease listed are sarcoidosis, Sjögren's syndrome and ______ disease.",
+   "opts": [
+    "IgG4",
+    "anti-GBM",
+    "Goodpasture",
+    "lupus"
+   ],
+   "ans": 0,
+   "exp": "Etiology item 7 (autoimmune): sarcoidosis, Sjögren's and IgG4 disease, followed by item 8, CKD of unknown etiology (CKDu). (Book p794)"
+  },
+  {
+   "id": "MED-C17-023",
+   "sec": "Autoimmune etiology, features & clinical-features table · p794",
+   "page": 794,
+   "fmt": "fillup",
+   "q": "Fill up: The last entry in the etiology list of CTID is CKDu, which stands for CKD of ______.",
+   "opts": [
+    "urate aetiology",
+    "unknown aetiology",
+    "unusual aetiology",
+    "urban aetiology"
+   ],
+   "ans": 1,
+   "exp": "Etiology 8: CKD u (unknown) — CKD of unknown cause, discussed later as CKDu. (Book p794)"
+  },
+  {
+   "id": "MED-C17-024",
+   "sec": "Autoimmune etiology, features & clinical-features table · p794",
+   "page": 794,
+   "fmt": "recall",
+   "q": "CTID is described as having which onset?",
+   "opts": [
+    "Relapsing with nephrotic flares",
+    "Asymptomatic with an insidious onset",
+    "Abrupt with oliguria",
+    "Acute with fever and rash"
+   ],
+   "ans": 1,
+   "exp": "Features of CTID: asymptomatic, insidious onset — hence patients often present late. (Book p794)"
+  },
+  {
+   "id": "MED-C17-025",
+   "sec": "Autoimmune etiology, features & clinical-features table · p794",
+   "page": 794,
+   "fmt": "scenario",
+   "q": "A patient with CTID has polyuria and nocturia. The table explains this by:",
+   "opts": [
+    "Glomerular hyperfiltration",
+    "Excess aldosterone action",
+    "A defect in concentration capacity",
+    "Excess ADH action"
+   ],
+   "ans": 2,
+   "exp": "Clinical-features table: polyuria and nocturia arise from a defect in concentration capacity. (Book p794)"
+  },
+  {
+   "id": "MED-C17-026",
+   "sec": "Autoimmune etiology, features & clinical-features table · p794",
+   "page": 794,
+   "fmt": "recall",
+   "q": "Anaemia in chronic tubulointerstitial disease is caused by damage to:",
+   "opts": [
+    "Erythropoietin produced by the glomerular mesangium",
+    "Erythropoietin produced by the proximal tubular brush border",
+    "Iron absorption in the duodenum",
+    "Erythropoietin produced from peritubular interstitial fibroblasts"
+   ],
+   "ans": 3,
+   "exp": "Anaemia row of the table: erythropoietin is produced from peritubular interstitial fibroblasts, which are damaged in CTID. (Book p794)"
+  },
+  {
+   "id": "MED-C17-027",
+   "sec": "Autoimmune etiology, features & clinical-features table · p794",
+   "page": 794,
+   "fmt": "match",
+   "q": "Match the tubular lesion with the resulting syndrome in the table — 1) Cortical collecting duct fibrosis  2) β cell fibrosis  3) α intercalated cell fibrosis … A) RTA I  B) RTA IV/pseudohypoaldosteronism (↓Aldosterone action)  C) Nephrogenic DI (↓ADH action)",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Clinical-features table: cortical collecting duct fibrosis → ↓ADH action = nephrogenic DI; β cell fibrosis → ↓aldosterone action = RTA IV (pseudohypoaldosteronism); α intercalated cell fibrosis → RTA I. (Book p794)"
+  },
+  {
+   "id": "MED-C17-028",
+   "sec": "Autoimmune etiology, features & clinical-features table · p794",
+   "page": 794,
+   "fmt": "scenario",
+   "q": "A patient with CTID has hyperkalemia, metabolic acidosis and low aldosterone effect, and is labelled as pseudohypoaldosteronism. Which lesion and type of RTA is this?",
+   "opts": [
+    "Cortical collecting duct fibrosis causing nephrogenic DI",
+    "PCT vacuolization causing Fanconi syndrome",
+    "β cell fibrosis causing RTA IV",
+    "α intercalated cell fibrosis causing RTA I"
+   ],
+   "ans": 2,
+   "exp": "RTA IV (pseudohypoaldosteronism) results from β cell fibrosis with ↓aldosterone action; RTA I results from α intercalated cell fibrosis. (Book p794)"
+  },
+  {
+   "id": "MED-C17-029",
+   "sec": "Autoimmune etiology, features & clinical-features table · p794",
+   "page": 794,
+   "fmt": "truefalse",
+   "q": "Nephrogenic diabetes insipidus in CTID is due to fibrosis of the cortical collecting duct reducing ADH action.",
+   "opts": [
+    "True",
+    "False — it is due to central ADH deficiency",
+    "False — it is due to α intercalated cell fibrosis",
+    "True, but only in children"
+   ],
+   "ans": 0,
+   "exp": "Table: nephrogenic DI — cortical collecting duct fibrosis → ↓ADH action. (Book p794)"
+  },
+  {
+   "id": "MED-C17-030",
+   "sec": "Autoimmune etiology, features & clinical-features table · p794",
+   "page": 794,
+   "fmt": "scenario",
+   "q": "A child with CTID has severe rickets. The table attributes this to:",
+   "opts": [
+    "Loss of phosphate (PO₄³⁻)",
+    "Loss of calcium only",
+    "Excess PTH secretion",
+    "Vitamin D excess"
+   ],
+   "ans": 0,
+   "exp": "Children with CTID develop severe ricketic features due to loss of PO₄³⁻. (Book p794)"
+  },
+  {
+   "id": "MED-C17-031",
+   "sec": "Autoimmune etiology, features & clinical-features table · p794",
+   "page": 794,
+   "fmt": "match",
+   "q": "Match each CKD condition with its anaemia severity in the book's note — 1) CTID  2) ADPKD  3) Reason ADPKD has the least anaemia … A) EPO production is preserved  B) Minimum anaemia  C) Maximum anaemia",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 1,
+   "exp": "Note on anaemia in CKD: maximum in CTID and minimum in ADPKD, because EPO production is preserved in ADPKD. (Book p794)"
+  },
+  {
+   "id": "MED-C17-032",
+   "sec": "Autoimmune etiology, features & clinical-features table · p794",
+   "page": 794,
+   "fmt": "truefalse",
+   "q": "Among the causes of CKD, CTID is associated with the maximum anaemia and ADPKD with the minimum.",
+   "opts": [
+    "True",
+    "False — ADPKD has the maximum anaemia",
+    "False — anaemia is equal in all causes",
+    "True, but only after dialysis starts"
+   ],
+   "ans": 0,
+   "exp": "Note: anaemia in CKD — maximum in CTID, minimum in AD-PKD. (Book p794)"
+  },
+  {
+   "id": "MED-C17-033",
+   "sec": "Autoimmune etiology, features & clinical-features table · p794",
+   "page": 794,
+   "fmt": "oddoneout",
+   "q": "All but one of the following are listed autoimmune causes of CTID. Which is the odd one out?",
+   "opts": [
+    "IgG4 disease",
+    "Anti-GBM disease",
+    "Sarcoidosis",
+    "Sjögren's syndrome"
+   ],
+   "ans": 1,
+   "exp": "Autoimmune list for CTID: sarcoidosis, Sjögren's and IgG4 disease; anti-GBM disease causes RPGN. (Book p794)"
+  },
+  {
+   "id": "MED-C17-034",
+   "sec": "CTID investigations & CKDu concept · p794",
+   "page": 794,
+   "fmt": "numeric",
+   "q": "The proteinuria of chronic tubulointerstitial disease is typically:",
+   "opts": [
+    "Between 2 and 3 g/day, with RBC casts in the sediment",
+    "Absent in all cases, despite significant tubular damage",
+    "Less than 2 g/day, with β₂ microglobulin in the urine",
+    "More than 3.5 g/day, in the nephrotic range, with oedema"
+   ],
+   "ans": 2,
+   "exp": "Urine in CTID: proteinuria <2 g/day (β₂ microglobulin) — a tubular pattern, not nephrotic range. (Book p794)"
+  },
+  {
+   "id": "MED-C17-035",
+   "sec": "CTID investigations & CKDu concept · p794",
+   "page": 794,
+   "fmt": "recall",
+   "q": "The urinary sediment in CTID is described as:",
+   "opts": [
+    "Active with RBC casts",
+    "Sterile pyuria with eosinophils",
+    "Full of oval fat bodies",
+    "Inactive"
+   ],
+   "ans": 3,
+   "exp": "Urine in CTID: proteinuria <2 g/day (β₂ microglobulin) and inactive urinary sediments. (Book p794)"
+  },
+  {
+   "id": "MED-C17-036",
+   "sec": "CTID investigations & CKDu concept · p794",
+   "page": 794,
+   "fmt": "match",
+   "q": "Match each CTID investigation with its finding — 1) Urine protein  2) Urinary sediment  3) RFT  4) USG … A) Inactive  B) B/L small kidneys  C) <2 g/day with β₂ microglobulin  D) Deranged",
+   "opts": [
+    "1-C, 2-B, 3-D, 4-A",
+    "1-A, 2-C, 3-D, 4-B",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-D, 2-A, 3-C, 4-B"
+   ],
+   "ans": 2,
+   "exp": "CTID investigations: urine — proteinuria <2 g/day (β₂ microglobulin) with inactive sediments; RFT deranged; USG — bilateral small kidneys. (Book p794)"
+  },
+  {
+   "id": "MED-C17-037",
+   "sec": "CTID investigations & CKDu concept · p794",
+   "page": 794,
+   "fmt": "scenario",
+   "q": "An ultrasound in a patient with CTID typically shows:",
+   "opts": [
+    "Bilateral small kidneys",
+    "Bilateral enlarged cystic kidneys",
+    "A single enlarged kidney",
+    "Normal-sized kidneys with stones"
+   ],
+   "ans": 0,
+   "exp": "USG in CTID: B/L small kidneys — the shrunken kidney of chronic tubulointerstitial fibrosis. (Book p794)"
+  },
+  {
+   "id": "MED-C17-038",
+   "sec": "CTID investigations & CKDu concept · p794",
+   "page": 794,
+   "fmt": "fillup",
+   "q": "Fill up: The tubular protein marker raised in the urine of CTID is ______ microglobulin.",
+   "opts": [
+    "γ",
+    "β₂",
+    "α₁",
+    "β₁"
+   ],
+   "ans": 1,
+   "exp": "Urine in CTID: proteinuria <2 g/day with β₂ microglobulin, indicating tubular proteinuria. (Book p794)"
+  },
+  {
+   "id": "MED-C17-039",
+   "sec": "CTID investigations & CKDu concept · p794",
+   "page": 794,
+   "fmt": "recall",
+   "q": "Regarding the pathophysiology of CKDu (CKD of unknown etiology), the book states:",
+   "opts": [
+    "It is an inherited ciliopathy with multiple bilateral renal cysts on imaging",
+    "It is due to recurrent urinary tract infection with chronic pyelonephritis",
+    "It is unknown, with theories proposed and no precipitating disease",
+    "It is caused by diabetes mellitus in all cases, with diabetic retinopathy"
+   ],
+   "ans": 2,
+   "exp": "CKDu pathophysiology: unknown, theories proposed, and no precipitating disease. (Book p794)"
+  },
+  {
+   "id": "MED-C17-040",
+   "sec": "CTID investigations & CKDu concept · p794",
+   "page": 794,
+   "fmt": "truefalse",
+   "q": "CKDu is defined by the presence of a clear precipitating disease such as diabetes or hypertension.",
+   "opts": [
+    "True — diabetic nephropathy is the usual precipitant",
+    "True — it follows recurrent pyelonephritis",
+    "False — CKDu always follows lithium therapy",
+    "False — by definition no precipitating disease is present"
+   ],
+   "ans": 3,
+   "exp": "CKDu: pathophysiology unknown, theories proposed, and no precipitating disease. (Book p794)"
+  },
+  {
+   "id": "MED-C17-041",
+   "sec": "CTID investigations & CKDu concept · p794",
+   "page": 794,
+   "fmt": "oddoneout",
+   "q": "All but one of the following are stated about CTID. Which is the odd one out?",
+   "opts": [
+    "Bilateral small kidneys on USG",
+    "Nephrotic-range proteinuria with active urinary sediment",
+    "Proteinuria <2 g/day with β₂ microglobulin",
+    "Inactive urinary sediments"
+   ],
+   "ans": 1,
+   "exp": "CTID has subnephrotic proteinuria (<2 g/day) with inactive sediments and small kidneys. Nephrotic-range proteinuria with an active sediment indicates glomerular disease. (Book p794)"
+  },
+  {
+   "id": "MED-C17-042",
+   "sec": "CKDu theories flowchart, epidemiology & clinical features · p795",
+   "page": 795,
+   "fmt": "recall",
+   "q": "In the CKDu theories flowchart, which set of factors is shown converging on 'CKDu interstitial fibrosis and tubular atrophy'?",
+   "opts": [
+    "Diabetes, hypertension, obesity, smoking and dyslipidaemia",
+    "Heat stress, NSAIDs, lithium, contrast and aminoglycosides",
+    "Agrochemicals, fluoride, uric acid, lead and multiple myeloma",
+    "Heat stress, agrochemicals, fluoride in ground water, heavy metals such as cadmium, and communicable disease"
+   ],
+   "ans": 3,
+   "exp": "The flowchart places heat stress above, agrochemicals and fluoride in ground water on the left, and heavy metals (e.g. cadmium) and communicable disease on the right, all converging on CKDu interstitial fibrosis and tubular atrophy with ESRD as the outcome. (Book p795)"
+  },
+  {
+   "id": "MED-C17-043",
+   "sec": "CKDu theories flowchart, epidemiology & clinical features · p795",
+   "page": 795,
+   "fmt": "scenario",
+   "q": "A middle-aged man from the eastern coast of India, working as a farmer in the heat, presents with renal failure without diabetes or hypertension. Which entity fits?",
+   "opts": [
+    "CKDu — CKD of unknown etiology, reported on the eastern coast of India in middle-aged men",
+    "Diabetic kidney disease, presenting with heavy proteinuria and diabetic retinopathy",
+    "Autosomal dominant polycystic kidney disease with bilateral enlarged cystic kidneys",
+    "Medullary sponge kidney presenting with recurrent stones and nephrocalcinosis"
+   ],
+   "ans": 0,
+   "exp": "CKDu epidemiology: eastern coast of India, middle-aged men, with no precipitating disease. (Book p795)"
+  },
+  {
+   "id": "MED-C17-044",
+   "sec": "CKDu theories flowchart, epidemiology & clinical features · p795",
+   "page": 795,
+   "fmt": "fillup",
+   "q": "Fill up: CKDu is reported on the ______ coast of India and in middle-aged men.",
+   "opts": [
+    "southern",
+    "northern",
+    "eastern",
+    "western"
+   ],
+   "ans": 2,
+   "exp": "Epidemiology of CKDu: eastern coast of India, middle-aged men. (Book p795)"
+  },
+  {
+   "id": "MED-C17-045",
+   "sec": "CKDu theories flowchart, epidemiology & clinical features · p795",
+   "page": 795,
+   "fmt": "recall",
+   "q": "CKDu is described as asymptomatic until:",
+   "opts": [
+    "The first appearance of hypertension",
+    "The serum creatinine value has doubled",
+    "ESRF (end-stage renal failure)",
+    "The first appearance of proteinuria"
+   ],
+   "ans": 2,
+   "exp": "CKDu box: asymptomatic until ESRF — edema and hypertension are late features, proteinuria is absent or mild. (Book p795)"
+  },
+  {
+   "id": "MED-C17-046",
+   "sec": "CKDu theories flowchart, epidemiology & clinical features · p795",
+   "page": 795,
+   "fmt": "truefalse",
+   "q": "In CKDu, oedema and hypertension are late features rather than early ones.",
+   "opts": [
+    "False — oedema never occurs in CKDu",
+    "True, but only in women",
+    "True",
+    "False — oedema and hypertension are the earliest features"
+   ],
+   "ans": 2,
+   "exp": "CKDu box: asymptomatic until ESRF, with oedema and hypertension as late features. (Book p795)"
+  },
+  {
+   "id": "MED-C17-047",
+   "sec": "CKDu theories flowchart, epidemiology & clinical features · p795",
+   "page": 795,
+   "fmt": "match",
+   "q": "Match each CKDu box finding — 1) Proteinuria  2) Tubular biomarkers  3) Outcome … A) ESRF  B) Absent/mild  C) Elevated",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "CKDu box: absent/mild proteinuria, elevated tubular biomarkers, and progression to ESRF. (Book p795)"
+  },
+  {
+   "id": "MED-C17-048",
+   "sec": "CKDu theories flowchart, epidemiology & clinical features · p795",
+   "page": 795,
+   "fmt": "scenario",
+   "q": "A patient from an endemic CKDu area has a normal urine dipstick for protein but a raised tubular biomarker. Which statement from the flowchart explains this?",
+   "opts": [
+    "CKDu causes absent/mild proteinuria with elevated tubular biomarkers",
+    "CKDu always causes nephrotic-range proteinuria with generalised oedema",
+    "Tubular biomarkers fall early while proteinuria appears later in CKDu",
+    "Proteinuria is the first manifestation, appearing long before renal failure"
+   ],
+   "ans": 0,
+   "exp": "CKDu box: absent/mild proteinuria, elevated tubular biomarkers, and progression to ESRF. (Book p795)"
+  },
+  {
+   "id": "MED-C17-049",
+   "sec": "CKDu theories flowchart, epidemiology & clinical features · p795",
+   "page": 795,
+   "fmt": "oddoneout",
+   "q": "All but one of the following are proposed in the CKDu theories flowchart. Which is the odd one out?",
+   "opts": [
+    "Chronic use of NSAIDs",
+    "Heat stress",
+    "Fluoride in ground water",
+    "Heavy metals such as cadmium"
+   ],
+   "ans": 0,
+   "exp": "CKDu theories: heat stress, agrochemicals, fluoride in ground water, heavy metals (cadmium) and communicable disease; NSAIDs are not in this flowchart. (Book p795)"
+  },
+  {
+   "id": "MED-C17-050",
+   "sec": "CKDu theories flowchart, epidemiology & clinical features · p795",
+   "page": 795,
+   "fmt": "recall",
+   "q": "The clinical features of CKDu given in the box are:",
+   "opts": [
+    "Nephrotic syndrome",
+    "Recurrent stones and UTIs",
+    "Anemia with proteinuria",
+    "Haematuria with hypertension only"
+   ],
+   "ans": 2,
+   "exp": "Clinical features of CKDu: anemia + proteinuria. (Book p795)"
+  },
+  {
+   "id": "MED-C17-051",
+   "sec": "CKDu theories flowchart, epidemiology & clinical features · p795",
+   "page": 795,
+   "fmt": "fillup",
+   "q": "Fill up: The clinical features of CKDu listed are anemia and ______.",
+   "opts": [
+    "haematuria",
+    "pyuria",
+    "glycosuria",
+    "proteinuria"
+   ],
+   "ans": 3,
+   "exp": "CKDu clinical features: anemia + proteinuria, illustrating that tubular-interstitial damage produces anaemia early. (Book p795)"
+  },
+  {
+   "id": "MED-C17-052",
+   "sec": "CKDu theories flowchart, epidemiology & clinical features · p795",
+   "page": 795,
+   "fmt": "scenario",
+   "q": "A 45-year-old farmer from the eastern coast of India is found to have ESRF with only mild proteinuria and no diabetes or hypertension. Which statement is most consistent with CKDu?",
+   "opts": [
+    "The disease is a hereditary ciliopathy with multiple bilateral renal cysts",
+    "The disease always begins in childhood with rickets and growth failure",
+    "The disease is asymptomatic until ESRF, with oedema and hypertension as late features",
+    "The disease presents early with nephrotic-range proteinuria and generalised oedema"
+   ],
+   "ans": 2,
+   "exp": "CKDu: no precipitating disease, asymptomatic until ESRF, with oedema/hypertension as late features and absent or mild proteinuria. (Book p795)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U17-1",
+   "ch": 17,
+   "n": 1,
+   "title": "CKD definition and the causes of chronic tubulointerstitial disease",
+   "sec": "CTID definition & causes · p793",
+   "guide": "CKD = >5% interstitial fibrosis/tubular atrophy/glomerular sclerosis with fewer functional nephrons. The causes table maps vascular (RAS/TMA), glomerular (IgAN/MPGN/FSGS/membranous and diabetes) causes to secondary tubulointerstitial fibrosis, and primary tubulointerstitial fibrosis to CTID. Pathology is scarring with fibrosis and atrophy >5%.",
+   "qs": [
+    "MED-C17-001",
+    "MED-C17-002",
+    "MED-C17-003",
+    "MED-C17-004",
+    "MED-C17-005",
+    "MED-C17-006",
+    "MED-C17-007",
+    "MED-C17-008"
+   ]
+  },
+  {
+   "id": "MED-U17-2",
+   "ch": 17,
+   "n": 2,
+   "title": "Etiology of CTID: from ciliopathies to metabolic and autoimmune causes",
+   "sec": "CTID etiology · p793-794",
+   "guide": "Etiology runs from ciliopathies, reflux nephropathy (VUR) and obstructive nephropathy, through drugs (lithium microcysts; calcineurin-inhibitor striped pattern with afferent arteriolar hyalinosis; PPIs) and toxins (lead saturnine gout; cadmium ouch ouch nephropathy) to metabolic causes (hypercalcemia, hyperuricemia/urate nephropathy, hyperoxaluria, hypokalemic vacuolization of PCT > DCT), then autoimmune causes (sarcoidosis, Sjogren's, IgG4) and finally CKDu.",
+   "qs": [
+    "MED-C17-009",
+    "MED-C17-010",
+    "MED-C17-011",
+    "MED-C17-012",
+    "MED-C17-013",
+    "MED-C17-014",
+    "MED-C17-015",
+    "MED-C17-016",
+    "MED-C17-017",
+    "MED-C17-018",
+    "MED-C17-019",
+    "MED-C17-020",
+    "MED-C17-021",
+    "MED-C17-022",
+    "MED-C17-023",
+    "MED-C17-024",
+    "MED-C17-025",
+    "MED-C17-026",
+    "MED-C17-027",
+    "MED-C17-028",
+    "MED-C17-029",
+    "MED-C17-030",
+    "MED-C17-031",
+    "MED-C17-032",
+    "MED-C17-033"
+   ]
+  },
+  {
+   "id": "MED-U17-3",
+   "ch": 17,
+   "n": 3,
+   "title": "CTID features, investigations and the CKDu concept",
+   "sec": "CTID features & CKDu · p794-795",
+   "guide": "CTID is asymptomatic with an insidious onset. The clinical-features table links each sign to its cause: polyuria/nocturia (concentration defect), anaemia (peritubular interstitial fibroblast EPO), nephrogenic DI (cortical collecting duct fibrosis), RTA IV (beta cell fibrosis) and RTA I (alpha intercalated cell fibrosis), with rickets in children from phosphate loss. Anaemia is maximal in CTID and minimal in ADPKD. Investigations: proteinuria <2 g/day with beta-2 microglobulin, inactive sediment, deranged RFT, small kidneys. CKDu: unknown pathophysiology, theories of heat stress, agrochemicals, fluoride, cadmium and communicable disease; eastern coast of India, middle-aged men, asymptomatic until ESRF.",
+   "qs": [
+    "MED-C17-034",
+    "MED-C17-035",
+    "MED-C17-036",
+    "MED-C17-037",
+    "MED-C17-038",
+    "MED-C17-039",
+    "MED-C17-040",
+    "MED-C17-041",
+    "MED-C17-042",
+    "MED-C17-043",
+    "MED-C17-044",
+    "MED-C17-045",
+    "MED-C17-046",
+    "MED-C17-047",
+    "MED-C17-048",
+    "MED-C17-049",
+    "MED-C17-050",
+    "MED-C17-051",
+    "MED-C17-052"
+   ]
+  }
+ ]
 }

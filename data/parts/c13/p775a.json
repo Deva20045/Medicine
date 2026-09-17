@@ -1,0 +1,162 @@
+{
+ "page": 775,
+ "sec": "PSGN vs PIGN/IRGN · p775",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Which demographic profile belongs to PIGN/IRGN (infection-related GN) rather than to PSGN?",
+   "opts": [
+    "Immunodeficient child, male > female, predisposed by diabetes mellitus",
+    "Immunocompetent child, male > female, aged 2–7 years",
+    "Immunocompetent school child presenting after a streptococcal sore throat",
+    "Healthy adolescent presenting after a GABHS skin infection"
+   ],
+   "ans": 0,
+   "exp": "The TYPES table contrasts the two entities: PIGN/IRGN arises in the immunodeficient child (male > female) with diabetes mellitus as the predisposing factor, whereas PSGN arises in the immunocompetent child. (Book p775)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 5-year-old immunocompetent boy, previously healthy, develops cola-coloured urine and hypertension 10 days after a sore throat, with a low C3. Which table entry does he fit?",
+   "opts": [
+    "PSGN — the commonest presentation is acute proliferative GN",
+    "PIGN/IRGN — the commonest presentation is RPGN",
+    "IgA nephropathy with synpharyngitic macrohaematuria",
+    "Thin basement membrane disease with persistent microhaematuria"
+   ],
+   "ans": 0,
+   "exp": "PSGN = immunocompetent child, age 2–7 years, streptococcal sore throat preceding by 7–10 days, presenting as acute proliferative glomerulonephritis with low C3. (Book p775)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "PSGN follows infection with group A beta-haemolytic streptococci; as printed in the table, sore throat < skin infection as the predisposing infection.",
+   "opts": [
+    "True — skin infection is the commoner predisposing infection",
+    "False — sore throat is the commoner predisposing infection",
+    "True only for strains 1, 3, 4 and 12",
+    "True only in immunodeficient children"
+   ],
+   "ans": 0,
+   "exp": "The table's inequality 'sore throat < skin infection' means skin infection is the commoner predisposing streptococcal infection in PSGN — consistent with anti-DNAase B (a skin-infection antibody) being the marker used. (Book p775)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "In the TYPES table, the PSGN age band is:",
+   "opts": [
+    "2–7 years",
+    "8–12 years",
+    "13–18 years",
+    "20–40 years"
+   ],
+   "ans": 0,
+   "exp": "PSGN demographic row: immunocompetent child, male > female, age 2–7 years. (Book p775)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each PSGN table entry with its meaning — 1) Strains 1, 3, 4, 12  2) Strains 47, 49, 55, 57  3) Anti-DNAase B … A) Skin infection  B) Antibody that appears after a preceding skin infection  C) Sore throat",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "The TYPES table splits nephritogenic GABHS strains by the infection they follow: strains 1, 3, 4 and 12 cause sore throat, strains 47, 49, 55 and 57 cause skin infection, and anti-DNAase B is the antibody highlighted after a preceding skin infection. (Book p775)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of these GABHS strains are listed against skin infection in PSGN. Which strain is the odd one out?",
+   "opts": [
+    "Strain 12",
+    "Strain 47",
+    "Strain 49",
+    "Strain 55"
+   ],
+   "ans": 0,
+   "exp": "Strain 12 belongs to the pharyngitis group (1, 3, 4, 12); strains 47, 49, 55 and 57 are the skin-infection strains. (Book p775)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The organism responsible for PIGN/IRGN in the TYPES table is:",
+   "opts": [
+    "MRSA — methicillin-resistant Staphylococcus aureus",
+    "Group A beta-haemolytic Streptococcus",
+    "Streptococcus pneumoniae",
+    "Staphylococcus epidermidis"
+   ],
+   "ans": 0,
+   "exp": "PIGN/IRGN is caused by MRSA (methicillin-resistant Staphylococcus aureus), typically in an immunodeficient diabetic child. (Book p775)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In PIGN/IRGN the commonest predisposing infection in a diabetic child is diabetic ______.",
+   "opts": [
+    "foot/cellulitis",
+    "sore throat",
+    "impetigo of the forearm",
+    "urinary catheter sepsis"
+   ],
+   "ans": 0,
+   "exp": "Predisposing factors for PIGN/IRGN: diabetes mellitus, with diabetic foot/cellulitis as the commonest infection. (Book p775)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the incubation period with the triggering event — 1) Sore throat  2) Skin infection  3) PIGN/IRGN … A) 7–10 days  B) 2–4 weeks  C) Alongside the infection (no incubation period)",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "PSGN incubation is 7–10 days after sore throat and 2–4 weeks after skin infection; PIGN/IRGN arises alongside the infection, with no incubation period. (Book p775)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "PIGN/IRGN characteristically appears 2–4 weeks after the predisposing staphylococcal infection.",
+   "opts": [
+    "False — it appears alongside the infection, with no incubation period",
+    "True — the incubation period is 2–4 weeks",
+    "True, but only when the skin is the portal of entry",
+    "False — it appears 7–10 days after the infection"
+   ],
+   "ans": 0,
+   "exp": "The incubation-period row reads 'alongside infection (no IP)' for PIGN/IRGN; the 2–4 week interval applies to PSGN after skin infection. (Book p775)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "In the TYPES table, PSGN presents with a low C3 in what percentage of patients?",
+   "opts": [
+    "90%",
+    "60%",
+    "30%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "PSGN presentation row: acute proliferative GN (commonest) with ↓C3 in 90% of patients. (Book p775)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An immunodeficient diabetic man with an infected foot develops rapidly progressive glomerulonephritis with a raised C3. The table's prognostic entry for this entity is:",
+   "opts": [
+    "Poor prognosis",
+    "Good prognosis with no risk of CKD",
+    "Good prognosis if C3 normalises",
+    "Prognosis determined only by age"
+   ],
+   "ans": 0,
+   "exp": "PIGN/IRGN presents as RPGN with ↑C3 in 60% and carries a poor prognosis, whereas PSGN has a good prognosis with no risk of CKD. (Book p775)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each row of the TYPES table with its entry — 1) PSGN prognosis  2) PIGN/IRGN prognosis  3) C3 in PIGN/IRGN … A) Poor  B) Good, with no risk of CKD  C) Raised in 60% (as printed in this table)",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "The p775 TYPES table gives PSGN a good prognosis with no risk of CKD, PIGN/IRGN a poor prognosis, and prints '↑C3 in 60%' for PIGN/IRGN. Note that the text on p777 instead states serum C3 is low in 60% of PIGN/IRGN patients — the two pages disagree, so quote the page you are asked about. (Book p775)"
+  }
+ ]
+}

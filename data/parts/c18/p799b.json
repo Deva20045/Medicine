@@ -1,0 +1,126 @@
+{
+ "page": 799,
+ "sec": "Drug-induced nephropathy: NSAIDs and aminoglycosides · p799",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Complete the NSAID pathophysiology flowchart — 1) NSAIDs act on PGE₂/PGI₂  2) Effect on RAAS  3) Final step … A) Stimulation of RAAS  B) ↑K⁺ excretion via aldosterone  C) (–) inhibition",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "NSAID flowchart: NSAIDs (–) PGE₂/PGI₂ → stimulates RAAS → aldosterone → ↑K⁺ excretion. (Book p799)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 60-year-old on long-term NSAIDs develops AKI with a urine output of 400 mL/day, FeNa of 0.7% and a K⁺ of 6.4 mEq/L. Which statement matches the book's description?",
+   "opts": [
+    "Oliguria, FeNa <1 and hyperkalemia out of proportion to the renal failure",
+    "Polyuria, FeNa <1 and hypokalemia out of proportion to the renal failure",
+    "Oliguria, FeNa >2 and hypokalemia with an active urinary sediment",
+    "Anuria, FeNa >2 and hyperkalemia with muddy brown epithelial casts"
+   ],
+   "ans": 0,
+   "exp": "NSAID nephropathy clinical features: oliguria, FeNa <1 and hyperkalemia out of proportion. (Book p799)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are features of NSAID-induced nephropathy. Which is the odd one out?",
+   "opts": [
+    "FeNa >2%",
+    "Oliguria",
+    "Hyperkalemia out of proportion",
+    "FeNa <1"
+   ],
+   "ans": 0,
+   "exp": "NSAID nephropathy: oliguria, FeNa <1 and hyperkalemia out of proportion; FeNa >2% indicates established ATN. (Book p799)"
+  },
+  {
+   "fmt": "match",
+   "q": "Complete the aminoglycoside pathophysiology flowchart — 1) Cationic amino groups on the drug  2) Target  3) Intracellular effect … A) Anionic megalin  B) Accumulates in lysosomes after endocytosis causing oxidative stress  C) Binds anionic megalin in the brush border of the PCT",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Aminoglycoside flowchart: cationic amino groups on the drug bind anionic megalin in the brush border of the PCT; after endocytosis the drug accumulates in lysosomes causing oxidative stress. (Book p799)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Aminoglycosides are taken up into proximal tubular cells by binding to:",
+   "opts": [
+    "Anionic megalin in the brush border",
+    "Cubilin receptors in the podocyte",
+    "ENaC in the collecting duct",
+    "Aquaporin-2 in the medulla"
+   ],
+   "ans": 0,
+   "exp": "Cationic amino groups on aminoglycosides bind anionic megalin in the brush border of the PCT, are endocytosed, and accumulate in lysosomes causing oxidative stress. (Book p799)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient given gentamicin develops non-oliguric AKI on day 7 of therapy. Which drug-related pattern is described?",
+   "opts": [
+    "Non-oliguric AKI 5–10 days after starting the drug",
+    "Oliguric AKI within 24 hours",
+    "Nephrotic syndrome after 3 weeks",
+    "Acute interstitial nephritis on day 2"
+   ],
+   "ans": 0,
+   "exp": "Aminoglycoside clinical features: non-oliguric AKI 5–10 days after the drug — hence renal function must be monitored in this window. (Book p799)"
+  },
+  {
+   "fmt": "management",
+   "q": "How is aminoglycoside nephrotoxicity prevented according to the page?",
+   "opts": [
+    "Administer the drug as a single dose, following concentration-dependent killing",
+    "Give smaller divided doses three times a day",
+    "Combine with a loop diuretic to increase excretion",
+    "Give with NSAIDs to reduce tubular inflammation"
+   ],
+   "ans": 0,
+   "exp": "Prevention: administer the aminoglycoside as a single dose, following concentration-dependent killing, rather than by sustained divided dosing. (Book p799)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Aminoglycoside-induced non-oliguric AKI typically appears how long after the drug?",
+   "opts": [
+    "5–10 days",
+    "1–2 hours",
+    "3–4 weeks",
+    "3 months"
+   ],
+   "ans": 0,
+   "exp": "Aminoglycoside clinical features: non-oliguric AKI 5–10 days after the drug. (Book p799)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are correct about aminoglycoside nephropathy. Which is the odd one out?",
+   "opts": [
+    "It is an oliguric AKI",
+    "It binds megalin in the PCT brush border",
+    "It accumulates in lysosomes causing oxidative stress",
+    "It appears 5–10 days after the drug"
+   ],
+   "ans": 0,
+   "exp": "Aminoglycosides cause non-oliguric AKI (5–10 days after the drug), with the megalin-lysosome-oxidative stress mechanism. (Book p799)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Both NSAID and aminoglycoside nephropathy involve active reabsorption pathways in the proximal nephron.",
+   "opts": [
+    "False — only aminoglycosides are taken up by megalin-mediated endocytosis in the PCT",
+    "True — NSAIDs are also taken up by megalin-mediated endocytosis in the PCT",
+    "False — aminoglycosides act only on the collecting duct, not on the proximal tubule",
+    "True, but only when NSAIDs are given together with an aminoglycoside drug"
+   ],
+   "ans": 0,
+   "exp": "Aminoglycosides are endocytosed after binding anionic megalin in the PCT brush border; NSAIDs act by inhibiting PGE₂/PGI₂, stimulating RAAS. (Book p799)"
+  }
+ ]
+}
