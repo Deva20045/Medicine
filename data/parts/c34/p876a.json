@@ -1,0 +1,27 @@
+{
+ "page": 876,
+ "sec": "Half-lives and CaSR mutation disorders · p876",
+ "items": [
+  {"fmt": "match", "q": "Match half-lives — 1) PTH  2) Calcitriol  3) 25(OH)D3 … A) 6–8 hours  B) 2–3 weeks  C) 2–4 minutes",
+   "opts": ["1-C, 2-A, 3-B", "1-A, 2-C, 3-B", "1-C, 2-B, 3-A", "1-B, 2-A, 3-C"],
+   "ans": 0, "exp": "PTH 2–4 min; calcitriol 6–8 hours; 25(OH)D3 2–3 weeks (used for blood level estimations). (Book p876)"},
+  {"fmt": "recall", "q": "The metabolite used for blood-level estimation of vitamin D (longest half-life) is:",
+   "opts": ["25(OH)D3", "Calcitriol", "PTH", "24,25(OH)2D3"], "ans": 0,
+   "exp": "25(OH)D3 (2–3 weeks) is used for blood level estimations. (Book p876)"},
+  {"fmt": "recall", "q": "A GAIN-of-function CaSR mutation causes:",
+   "opts": ["Bartter syndrome type V (autosomal dominant)", "FHH", "MEN1", "Primary hyperparathyroidism"], "ans": 0,
+   "exp": "Gain-of-function CaSR → Bartter type V, AD (all other Bartter types AR). (Book p876)"},
+  {"fmt": "truefalse", "q": "‘Bartter syndrome type V is autosomal dominant, whereas all other Bartter types are autosomal recessive.’",
+   "opts": ["True", "False — all Bartters are AD", "False — type V is recessive", "True, but type V is X-linked"], "ans": 0,
+   "exp": "Type V AD; all other Bartter types AR. (Book p876)"},
+  {"fmt": "recall", "q": "In Bartter type V, excessive CaSR activation causes:",
+   "opts": ["↑↑↑ excretion → hypocalcaemia (other Bartters: hypercalcaemia)", "Complete reabsorption → hypercalcaemia", "Hypocalciuria", "No renal effect"], "ans": 0,
+   "exp": "Excessive CaSR activation → ↑↑↑ excretion → hypocalcaemia; all other Bartters show hypercalcaemia. (Book p876)"},
+  {"fmt": "recall", "q": "A LOSS-of-function CaSR mutation (seen in children, AD) produces:",
+   "opts": ["Familial hypocalciuric hypercalcaemia (FHH)", "Bartter type V", "Hypocalcaemia with hypercalciuria", "Renal osteodystrophy"], "ans": 0,
+   "exp": "Loss-of-function → FHH, autosomal dominant, seen in children. (Book p876)"},
+  {"fmt": "recall", "q": "The FHH pathway is:",
+   "opts": ["Failure of CaSR activation → no excretion → complete reabsorption → hypocalciuria + hypercalcaemia", "Excessive excretion → hypocalcaemia", "↑ PTH with hypercalciuria", "Vitamin D resistance"], "ans": 0,
+   "exp": "Failure of CaSR activation → no excretion → complete reabsorption → hypocalciuria + hypercalcaemia. (Book p876)"}
+ ]
+}

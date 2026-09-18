@@ -1,0 +1,27 @@
+{
+ "page": 832,
+ "sec": "Mechanism-based classification and Group I hormones · p832",
+ "items": [
+  {"fmt": "match", "q": "Match the Group I hormone feature — 1) Receptor  2) Solubility  3) Carrier protein  4) t½ … A) Lipophilic  B) Long  C) Intracellular (cytoplasm/nucleus)  D) Present (+)",
+   "opts": ["1-C, 2-A, 3-D, 4-B", "1-A, 2-C, 3-D, 4-B", "1-C, 2-A, 3-B, 4-D", "1-C, 2-D, 3-A, 4-B"],
+   "ans": 0, "exp": "Group I: intracellular receptor, lipophilic, carrier protein (+), long t½; Group II is the opposite (cell membrane, hydrophilic, −, short). (Book p832)"},
+  {"fmt": "match", "q": "Match the Group II hormone feature — 1) Receptor  2) Solubility  3) Carrier protein  4) t½ … A) Hydrophilic  B) Short  C) Cell membrane  D) Absent (−)",
+   "opts": ["1-C, 2-A, 3-D, 4-B", "1-A, 2-C, 3-D, 4-B", "1-C, 2-A, 3-B, 4-D", "1-C, 2-D, 3-A, 4-B"],
+   "ans": 0, "exp": "Group II: cell-mbrane receptor, hydrophilic, no carrier protein, short t½. (Book p832)"},
+  {"fmt": "recall", "q": "Group I hormone actions are mediated through the receptor–hormone complex acting mainly on:",
+   "opts": ["Gene transcription >> transport channels", "Transport channels >> gene transcription", "Second messengers only", "Ion channels only"], "ans": 0,
+   "exp": "Group I acts through gene transcription far more than transport channels. (Book p832)"},
+  {"fmt": "match", "q": "Match receptor type to location/hormone — 1) Type I/homodimer  2) Type 2/heterodimer … A) Receptor in nucleus; T3, T4, vitamin A & D  B) Receptor in cytoplasm; steroid hormones",
+   "opts": ["1-B, 2-A", "1-A, 2-B", "1-B, 2-B", "1-A, 2-A"], "ans": 0,
+   "exp": "Type I/homodimer receptors sit in the cytoplasm and bind steroid hormones; Type 2/heterodimer receptors sit in the nucleus and bind T3, T4, vitamin A & D. (Book p832)"},
+  {"fmt": "fillup", "q": "In the Type I receptor, the chaperone that holds the receptor in an inactive form is ___.",
+   "opts": ["Hsp-90", "Hsp-70", "Calnexin", "Ubiquitin"], "ans": 0,
+   "exp": "Hsp-90 is the chaperone keeping the steroid receptor inactive until hormone binds. (Book p832)"},
+  {"fmt": "truefalse", "q": "‘When the steroid hormone binds, Hsp-90 dissociates and the receptor–hormone complex becomes active.’",
+   "opts": ["True", "False — Hsp-90 stays bound", "False — the complex is degraded", "False — it blocks transcription"], "ans": 0,
+   "exp": "Hormone binding releases Hsp-90, forming the active R–H complex that enters the nucleus. (Book p832)"},
+  {"fmt": "recall", "q": "The active steroid receptor–hormone complex binds DNA at the:",
+   "opts": ["Glucocorticoid response elements (GRE)", "Thyroid response elements (TRE)", "TATA box", "Enhancer of RNA pol III"], "ans": 0,
+   "exp": "The complex binds glucocorticoid response elements (GRE) to drive gene transcription. (Book p832)"}
+ ]
+}

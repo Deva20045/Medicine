@@ -1,0 +1,503 @@
+{
+ "chapter": 28,
+ "title": "Conn's Syndrome",
+ "pageRange": "841-843",
+ "questions": [
+  {
+   "id": "MED-C28-001",
+   "sec": "Conn's syndrome: classification and pathophysiology · p841",
+   "page": 841,
+   "fmt": "numeric",
+   "q": "The acquired forms account for what share of primary hyperaldosteronism (PHA)?",
+   "opts": [
+    "10%",
+    "60%",
+    "30%",
+    "90%"
+   ],
+   "ans": 3,
+   "exp": "PHA is 90% acquired and 10% familial. (Book p841)"
+  },
+  {
+   "id": "MED-C28-002",
+   "sec": "Conn's syndrome: classification and pathophysiology · p841",
+   "page": 841,
+   "fmt": "match",
+   "q": "Match the acquired PHA cause to its frequency — 1) B/L adrenal micronodular hyperplasia  2) U/L adrenal adenoma … A) 30%  B) 60%",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "Bilateral micronodular hyperplasia is 60%; unilateral adrenal adenoma (Conn's syndrome) is 30%. (Book p841)"
+  },
+  {
+   "id": "MED-C28-003",
+   "sec": "Conn's syndrome: classification and pathophysiology · p841",
+   "page": 841,
+   "fmt": "recall",
+   "q": "‘Conn's syndrome’ is the eponym for:",
+   "opts": [
+    "Unilateral adrenal adenoma",
+    "Bilateral micronodular hyperplasia",
+    "Glucocorticoid remediable aldosteronism",
+    "Liddle syndrome"
+   ],
+   "ans": 0,
+   "exp": "U/L adrenal adenoma (30%) is a.k.a. Conn's syndrome. (Book p841)"
+  },
+  {
+   "id": "MED-C28-004",
+   "sec": "Conn's syndrome: classification and pathophysiology · p841",
+   "page": 841,
+   "fmt": "match",
+   "q": "Match familial PHA — 1) Type I  2) Type II … A) ClCN2 mutation  B) Glucocorticoid remediable aldosteronism (GRA), autosomal dominant",
+   "opts": [
+    "1-B, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-A",
+    "1-A, 2-B"
+   ],
+   "ans": 2,
+   "exp": "Familial (10%): Type I = GRA (AD); Type II = ClCN2 mutation. (Book p841)"
+  },
+  {
+   "id": "MED-C28-005",
+   "sec": "Conn's syndrome: classification and pathophysiology · p841",
+   "page": 841,
+   "fmt": "recall",
+   "q": "In the cortical collecting duct P-cell, aldosterone acts via MR to induce AIP, which then activates:",
+   "opts": [
+    "The Na-K-2Cl cotransporter",
+    "Aquaporin-2",
+    "ENaC",
+    "ROMK only"
+   ],
+   "ans": 2,
+   "exp": "MR–Aldo (+) induces AIP (aldosterone-induced protein) which (+) activates ENaC, retaining Na+ and losing K+/H+. (Book p841)"
+  },
+  {
+   "id": "MED-C28-006",
+   "sec": "Conn's syndrome: classification and pathophysiology · p841",
+   "page": 841,
+   "fmt": "fillup",
+   "q": "AIP in the P-cell diagram stands for ___.",
+   "opts": [
+    "Aldosterone-induced protein",
+    "Angiotensin-inducing peptide",
+    "Atrial natriuretic peptide",
+    "Acid-inhibiting protein"
+   ],
+   "ans": 0,
+   "exp": "AIP = aldosterone-induced protein. (Book p841)"
+  },
+  {
+   "id": "MED-C28-007",
+   "sec": "Conn's syndrome: classification and pathophysiology · p841",
+   "page": 841,
+   "fmt": "recall",
+   "q": "Despite salt and water retention, PHA causes no edema because:",
+   "opts": [
+    "Venous capacitance increases",
+    "The retained volume stimulates ANP (atrial natriuretic peptide)",
+    "Aldosterone blocks ADH",
+    "The kidney escapes via pressure natriuresis of the proximal tubule only"
+   ],
+   "ans": 1,
+   "exp": "Salt & water retention stimulates ANP, so there is no edema. (Book p841)"
+  },
+  {
+   "id": "MED-C28-008",
+   "sec": "Conn's syndrome: classification and pathophysiology · p841",
+   "page": 841,
+   "fmt": "recall",
+   "q": "The classic triad of PHA is hypertension with:",
+   "opts": [
+    "Hypokalaemia and metabolic acidosis",
+    "Hyperkalaemia and alkalosis",
+    "Hyperkalaemia and acidosis",
+    "Hypokalaemia and metabolic alkalosis"
+   ],
+   "ans": 3,
+   "exp": "Triad: HTN, hypokalaemia, metabolic alkalosis. (Book p841)"
+  },
+  {
+   "id": "MED-C28-009",
+   "sec": "Conn's syndrome: classification and pathophysiology · p841",
+   "page": 841,
+   "fmt": "recall",
+   "q": "In PHA-associated hypertension, the book notes:",
+   "opts": [
+    "Diastolic > systolic",
+    "Systolic > diastolic",
+    "Equal rise of both",
+    "Pulse pressure narrows to zero"
+   ],
+   "ans": 0,
+   "exp": "The hypertension shows diastolic > systolic. (Book p841)"
+  },
+  {
+   "id": "MED-C28-010",
+   "sec": "Conn's syndrome: classification and pathophysiology · p841",
+   "page": 841,
+   "fmt": "match",
+   "q": "Match AME vs GRA — 1) AME inheritance  2) GRA inheritance  3) AME cause  4) GRA cause … A) Autosomal dominant  B) Autosomal recessive  C) 11β-HSD2 defect  D) Chimeric ACTH-driven aldosterone secretion",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-C",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 1,
+   "exp": "AME is AR with 11β-HSD2 defect; GRA is AD with a chimeric effect where ACTH drives aldosterone. Both give HTN + mA + hypokalaemia. (Book p841)"
+  },
+  {
+   "id": "MED-C28-011",
+   "sec": "Conn's syndrome: classification and pathophysiology · p841",
+   "page": 841,
+   "fmt": "truefalse",
+   "q": "‘GRA is treated with steroids, which suppress the ACTH driving the aldosterone.’",
+   "opts": [
+    "False — steroids worsen GRA",
+    "False — surgery is first-line",
+    "True, but only spironolactone counts",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "Rx steroids (−) suppress ACTH and hence the chimeric aldosterone secretion in GRA. (Book p841)"
+  },
+  {
+   "id": "MED-C28-012",
+   "sec": "Presentation, screening recommendations and first-line tests · p842",
+   "page": 842,
+   "fmt": "recall",
+   "q": "The typical presentation of PHA pairs hypertension with:",
+   "opts": [
+    "Polyuria and polydipsia only",
+    "Pigmentation and weight loss",
+    "Proximal/distal severe muscle weakness and loss of power (fatigue)",
+    "Tetany and carpopedal spasm"
+   ],
+   "ans": 2,
+   "exp": "HTN with proximal/distal severe muscle weakness + loss of power (fatigue) from hypokalaemia. (Book p842)"
+  },
+  {
+   "id": "MED-C28-013",
+   "sec": "Presentation, screening recommendations and first-line tests · p842",
+   "page": 842,
+   "fmt": "recall",
+   "q": "Renal potassium loss is confirmed by:",
+   "opts": [
+    "Serum K+ alone",
+    "Urine sodium only",
+    "Fractional excretion of calcium",
+    "Urine K+/creatinine and a raised urine spot K+"
+   ],
+   "ans": 3,
+   "exp": "Confirmed by 1. urine K+/creatinine and 2. urine spot K+ ↑. (Book p842)"
+  },
+  {
+   "id": "MED-C28-014",
+   "sec": "Presentation, screening recommendations and first-line tests · p842",
+   "page": 842,
+   "fmt": "match",
+   "q": "Match the ABG branch in a hypokalaemic patient — 1) Metabolic acidosis  2) Metabolic alkalosis … A) Leads to the PHA/AME/GRA/Liddle/Cushing work-up  B) Renal tubular acidosis (RTA)",
+   "opts": [
+    "1-B, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-A",
+    "1-A, 2-B"
+   ],
+   "ans": 2,
+   "exp": "Hypokalaemia with metabolic acidosis → RTA; with metabolic alkalosis → the hyperaldosterone spectrum. (Book p842)"
+  },
+  {
+   "id": "MED-C28-015",
+   "sec": "Presentation, screening recommendations and first-line tests · p842",
+   "page": 842,
+   "fmt": "recall",
+   "q": "Hypokalaemia + metabolic alkalosis with NORMAL blood pressure points to:",
+   "opts": [
+    "Conn's syndrome",
+    "Liddle syndrome",
+    "AME",
+    "Gitelman syndrome and Bartter syndrome"
+   ],
+   "ans": 3,
+   "exp": "Note: hypokalaemia + metabolic alkalosis + normal BP = Gitelman/Bartter syndromes. (Book p842)"
+  },
+  {
+   "id": "MED-C28-016",
+   "sec": "Presentation, screening recommendations and first-line tests · p842",
+   "page": 842,
+   "fmt": "match",
+   "q": "Match cause of hypokalaemic metabolic alkalosis with HTN — 1) Acquired  2) Inherited … A) AME (AR), GRA (AD), Liddle (AD)  B) Cushing syndrome and PHA",
+   "opts": [
+    "1-A, 2-A",
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B"
+   ],
+   "ans": 1,
+   "exp": "Acquired: Cushing syndrome, PHA; inherited: AME (AR), GRA (AD), Liddle syndrome (AD). (Book p842)"
+  },
+  {
+   "id": "MED-C28-017",
+   "sec": "Presentation, screening recommendations and first-line tests · p842",
+   "page": 842,
+   "fmt": "recall",
+   "q": "Liddle syndrome is caused by:",
+   "opts": [
+    "A gain-of-function mutation of the ENaC channel",
+    "A loss of ENaC function",
+    "An 11β-HSD2 defect",
+    "A ClCN2 mutation"
+   ],
+   "ans": 0,
+   "exp": "Liddle syndrome (AD) = gain-of-function mutation of the ENaC channel. (Book p842)"
+  },
+  {
+   "id": "MED-C28-018",
+   "sec": "Presentation, screening recommendations and first-line tests · p842",
+   "page": 842,
+   "fmt": "truefalse",
+   "q": "‘The Endocrine Society recommends screening every newly diagnosed hypertensive for PHA, irrespective of age.’",
+   "opts": [
+    "False — only if hypokalaemic",
+    "True, but only with a family history",
+    "True",
+    "False — only under 40 years"
+   ],
+   "ans": 2,
+   "exp": "Every newly diagnosed HTN irrespective of age is screened for PHA. (Book p842)"
+  },
+  {
+   "id": "MED-C28-019",
+   "sec": "Presentation, screening recommendations and first-line tests · p842",
+   "page": 842,
+   "fmt": "recall",
+   "q": "HTN plus target-organ damage at diagnosis or disproportionate should prompt:",
+   "opts": [
+    "Renal biopsy first",
+    "A secondary hypertension work-up unless proven otherwise",
+    "Immediate empirical spironolactone",
+    "Observation for 6 months"
+   ],
+   "ans": 1,
+   "exp": "HTN + TOD should be considered secondary HTN unless proven otherwise (renal or endocrine cause, incl. PHA). (Book p842)"
+  },
+  {
+   "id": "MED-C28-020",
+   "sec": "Presentation, screening recommendations and first-line tests · p842",
+   "page": 842,
+   "fmt": "oddoneout",
+   "q": "Which is NOT listed among the target-organ-damage markers?",
+   "opts": [
+    "Raised central diastolic BP",
+    "Left ventricular hypertrophy",
+    "Fundus changes",
+    "Microalbuminuria"
+   ],
+   "ans": 0,
+   "exp": "TOD = LVH, fundus changes, microalbuminuria, increased central SYSTOLIC BP. (Book p842)"
+  },
+  {
+   "id": "MED-C28-021",
+   "sec": "Presentation, screening recommendations and first-line tests · p842",
+   "page": 842,
+   "fmt": "recall",
+   "q": "The old screening method, now obsolete because drugs interfere, was:",
+   "opts": [
+    "Adrenal vein sampling",
+    "The ARR (aldosterone–renin ratio)",
+    "The saline infusion test",
+    "CT abdomen"
+   ],
+   "ans": 1,
+   "exp": "ARR is obsolete as drugs interfere with the result. (Book p842)"
+  },
+  {
+   "id": "MED-C28-022",
+   "sec": "Presentation, screening recommendations and first-line tests · p842",
+   "page": 842,
+   "fmt": "match",
+   "q": "Match ARR interference — 1) False positive  2) False negative … A) ACE inhibitors, ARBs, spironolactone, dihydropyridine CCB  B) β-blocker, NSAIDs, clonidine",
+   "opts": [
+    "1-B, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-A",
+    "1-A, 2-B"
+   ],
+   "ans": 2,
+   "exp": "False positives: β-blocker, NSAIDs, clonidine; false negatives: ACEi, ARB, spironolactone, dihydropyridine (CCB). (Book p842)"
+  },
+  {
+   "id": "MED-C28-023",
+   "sec": "Presentation, screening recommendations and first-line tests · p842",
+   "page": 842,
+   "fmt": "recall",
+   "q": "While being screened, the patient should be shifted to:",
+   "opts": [
+    "ACE inhibitor",
+    "α-blocker, hydralazine, non-dihydropyridine",
+    "β-blocker and clonidine",
+    "Spironolactone"
+   ],
+   "ans": 1,
+   "exp": "Shift to α-blocker, hydralazine, non-dihydropyridine to avoid interference. (Book p842)"
+  },
+  {
+   "id": "MED-C28-024",
+   "sec": "Presentation, screening recommendations and first-line tests · p842",
+   "page": 842,
+   "fmt": "numeric",
+   "q": "The newer screening test on an early-morning sample is positive when PAC and PRA are respectively:",
+   "opts": [
+    "PAC ≥5 and PRA ≤2",
+    "PAC ≥20 and PRA ≤0.5",
+    "PAC ≥10 and PRA ≥2",
+    "PAC ≥10 ng/dl and PRA ≤1 ng/ml/hr"
+   ],
+   "ans": 3,
+   "exp": "Early morning sample: PAC ≥10 ng/dl and PRA ≤1 ng/ml/hr → proceed to confirmatory test. (Book p842)"
+  },
+  {
+   "id": "MED-C28-025",
+   "sec": "Confirmatory testing and lateralisation · p843",
+   "page": 843,
+   "fmt": "recall",
+   "q": "The confirmatory test for PHA is the saline infusion test, performed as:",
+   "opts": [
+    "Give oral salt load for 3 days",
+    "Infuse 5% dextrose over 4 hours",
+    "Infuse 2 litres of normal saline over 4 hours",
+    "Infuse 1 litre over 1 hour"
+   ],
+   "ans": 2,
+   "exp": "Saline infusion test: infuse 2 litres NS over 4 hr to expand intravascular volume. (Book p843)"
+  },
+  {
+   "id": "MED-C28-026",
+   "sec": "Confirmatory testing and lateralisation · p843",
+   "page": 843,
+   "fmt": "truefalse",
+   "q": "‘In PHA the post-saline aldosterone remains unsuppressed (>10 ng/dL); a normal response is a fall in aldosterone.’",
+   "opts": [
+    "False — aldosterone rises in normals",
+    "False — the cutoff is 30 ng/dL",
+    "True, but only after ACTH",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "Volume expansion suppresses aldosterone normally (−); in PHA it stays >10 ng/dL (+). (Book p843)"
+  },
+  {
+   "id": "MED-C28-027",
+   "sec": "Confirmatory testing and lateralisation · p843",
+   "page": 843,
+   "fmt": "scenario",
+   "q": "After a positive screen, 2 L saline is infused over 4 h and the repeat PAC is 14 ng/dL. The next best step is:",
+   "opts": [
+    "Start spironolactone and stop work-up",
+    "Adrenal vein sampling before any imaging",
+    "Repeat the saline test",
+    "CT abdomen (IOC) to look for B/L hyperplasia vs U/L adenoma"
+   ],
+   "ans": 3,
+   "exp": "Repeat PAC ≥10 ng/dl confirms PHA; CT abdomen (IOC) then distinguishes B/L hyperplasia from U/L adenoma in the adrenal gland. (Book p843)"
+  },
+  {
+   "id": "MED-C28-028",
+   "sec": "Confirmatory testing and lateralisation · p843",
+   "page": 843,
+   "fmt": "recall",
+   "q": "The imaging of choice to localise the adrenal lesion in confirmed PHA is:",
+   "opts": [
+    "Plain X-ray",
+    "CT abdomen",
+    "MRI spine",
+    "PET scan"
+   ],
+   "ans": 1,
+   "exp": "CT abdomen is the IOC, showing either B/L hyperplasia or U/L adenoma. (Book p843)"
+  },
+  {
+   "id": "MED-C28-029",
+   "sec": "Confirmatory testing and lateralisation · p843",
+   "page": 843,
+   "fmt": "numeric",
+   "q": "On the confirmatory saline test, a post-infusion PAC above what value supports PHA?",
+   "opts": [
+    ">10 ng/dL",
+    ">5 ng/dL",
+    ">20 ng/dL",
+    ">2 ng/dL"
+   ],
+   "ans": 0,
+   "exp": "Aldosterone >10 ng/dL after saline (unsuppressed) is positive for PHA. (Book p843)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U28-1",
+   "ch": 28,
+   "n": 1,
+   "title": "Primary hyperaldosteronism: causes and the P-cell mechanism",
+   "sec": "Conn's syndrome · p841",
+   "guide": "PHA = 90% acquired (B/L micronodular hyperplasia 60%; U/L adenoma 30% = Conn's) + 10% familial (Type I GRA, AD; Type II ClCN2). Aldosterone→MR→AIP (aldosterone-induced protein)→ENaC in P-cells: Na+ in, K+/H+ out; ANP activation explains no edema. Triad HTN (diastolic > systolic) + hypokalaemia + metabolic alkalosis. AME (AR, 11β-HSD2 defect) vs GRA (AD, chimeric ACTH-driven aldosterone; Rx steroids).",
+   "qs": [
+    "MED-C28-001",
+    "MED-C28-002",
+    "MED-C28-003",
+    "MED-C28-004",
+    "MED-C28-005",
+    "MED-C28-006",
+    "MED-C28-007",
+    "MED-C28-008",
+    "MED-C28-009",
+    "MED-C28-010",
+    "MED-C28-011"
+   ]
+  },
+  {
+   "id": "MED-U28-2",
+   "ch": 28,
+   "n": 2,
+   "title": "Presentation, who to screen and the drug-aware work-up",
+   "sec": "Presentation and investigation · p842",
+   "guide": "HTN + proximal/distal weakness; confirm renal K+ loss (urine K+/creatinine, spot K+ ↑). ABG: acidosis → RTA; alkalosis → acquired (Cushing, PHA) vs inherited (AME AR, GRA AD, Liddle AD = ENaC gain-of-function). Normal BP + hypokalaemic alkalosis = Gitelman/Bartter. Screen every new HTN; HTN + TOD (LVH, fundus, microalbuminuria, ↑ central systolic BP) → secondary work-up. ARR obsolete; false + β-blocker/NSAIDs/clonidine, false − ACEi/ARB/spironolactone/dihydropyridine; bridge with α-blocker, hydralazine, non-DHP. Screen: PAC ≥10 ng/dl + PRA ≤1 ng/ml/hr.",
+   "qs": [
+    "MED-C28-012",
+    "MED-C28-013",
+    "MED-C28-014",
+    "MED-C28-015",
+    "MED-C28-016",
+    "MED-C28-017",
+    "MED-C28-018",
+    "MED-C28-019",
+    "MED-C28-020",
+    "MED-C28-021",
+    "MED-C28-022",
+    "MED-C28-023",
+    "MED-C28-024"
+   ]
+  },
+  {
+   "id": "MED-U28-3",
+   "ch": 28,
+   "n": 3,
+   "title": "Saline infusion confirmation and CT lateralisation",
+   "sec": "Confirmatory test · p843",
+   "guide": "Saline infusion test: 2 L NS over 4 h; normal suppression vs PHA unsuppressed (>10 ng/dL). Repeat PAC ≥10 ng/dl → CT abdomen (IOC) → B/L hyperplasia vs U/L adenoma.",
+   "qs": [
+    "MED-C28-025",
+    "MED-C28-026",
+    "MED-C28-027",
+    "MED-C28-028",
+    "MED-C28-029"
+   ]
+  }
+ ]
+}

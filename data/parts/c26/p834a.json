@@ -1,0 +1,27 @@
+{
+ "page": 834,
+ "sec": "Group II hormones: second messengers and GPCR mechanism · p834",
+ "items": [
+  {"fmt": "recall", "q": "Group II hormone actions are mediated through:",
+   "opts": ["Second messengers", "Direct gene transcription only", "Carrier proteins", "Nuclear GREs"], "ans": 0,
+   "exp": "Group II acts through second messengers affecting transport channels, protein translation, modification and gene transcription. (Book p834)"},
+  {"fmt": "oddoneout", "q": "Which is NOT one of the four Group II receptor types listed?",
+   "opts": ["Intracellular steroid receptor", "G protein coupled receptor (GPCR)", "Tyrosine kinase receptor (TKR)", "Janus kinase (JAK)/cytokine receptor"], "ans": 0,
+   "exp": "Group II receptor types are GPCR, TKR, JAK/cytokine receptor and STKR; the intracellular steroid receptor is Group I. (Book p834)"},
+  {"fmt": "recall", "q": "On hormone binding to a GPCR, the α subunit undergoes which nucleotide change?",
+   "opts": ["GDP converts to GTP and α dissociates to attach to the effector", "GTP converts to GDP and α stays bound", "ATP converts to cAMP on α", "No nucleotide change occurs"], "ans": 0,
+   "exp": "GDP converts to GTP; the α subunit dissociates from the complex and attaches to the effector, activating it. (Book p834)"},
+  {"fmt": "match", "q": "Match G-protein to second messenger — 1) Gs/Gi  2) Gq  3) Gt … A) IP3/DAG  B) cAMP  C) cAMP via transducin",
+   "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-B, 2-C, 3-A", "1-C, 2-A, 3-B"],
+   "ans": 0, "exp": "Gs/Gi signal via cAMP, Gq via IP3/DAG, and Gt (transducin) via cAMP. (Book p834)"},
+  {"fmt": "recall", "q": "cAMP exerts its effect by converting inactive PKA to active PKA, which then causes:",
+   "opts": ["Protein phosphorylation", "Protein dephosphorylation", "Lipid peroxidation", "DNA methylation"], "ans": 0,
+   "exp": "cAMP activates PKA (protein kinase A) leading to protein phosphorylation and effects. (Book p834)"},
+  {"fmt": "recall", "q": "In the Gq pathway, phospholipase C cleaves PIP2 into:",
+   "opts": ["DAG and IP3", "cAMP and GMP", "Arachidonic acid and PAF", "cGMP and IP3"], "ans": 0,
+   "exp": "Phospholipase C splits phosphatidylinositol pyrophosphate (PIP2) into DAG and IP3. (Book p834)"},
+  {"fmt": "match", "q": "Match the Gq second messenger to its target — 1) DAG  2) IP3 … A) Activates Ca2+/calmodulin pathway  B) Activates PKC (protein kinase C)",
+   "opts": ["1-B, 2-A", "1-A, 2-B", "1-B, 2-B", "1-A, 2-A"], "ans": 0,
+   "exp": "DAG activates PKC; IP3 activates the Ca2+/calmodulin pathway. (Book p834)"}
+ ]
+}

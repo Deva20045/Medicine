@@ -1,0 +1,102 @@
+{
+ "page": 869,
+ "sec": "Vitamin D metabolism and drugs affecting it · p869",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "The plant source of vitamin D is:",
+   "opts": [
+    "Ergocalciferol",
+    "Cholecalciferol",
+    "Calcitriol",
+    "Calcidiol"
+   ],
+   "ans": 0,
+   "exp": "Plant source = ergocalciferol; animal/skin/diet = cholecalciferol (vit D3). (Book p869)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The liver enzyme converting cholecalciferol to calcidiol is:",
+   "opts": [
+    "Vitamin D3 25-hydroxylase",
+    "1α-hydroxylase",
+    "24-α-hydroxylase",
+    "7-dehydrocholesterol reductase"
+   ],
+   "ans": 0,
+   "exp": "Liver vit D3 25-hydroxylase makes calcidiol/25-OH D3. (Book p869)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The form used to MEASURE blood vitamin D levels (long t½, major circulating/storage form) is:",
+   "opts": [
+    "25-OH D3 (calcidiol)",
+    "1,25-(OH)2 D3",
+    "24,25-(OH)2 D3",
+    "Cholecalciferol"
+   ],
+   "ans": 0,
+   "exp": "Calcidiol has long t½, is the major circulating & storage form, and is used to measure vit D levels. (Book p869)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The inactive shunt product formed by 24-α-hydroxylase is:",
+   "opts": [
+    "24,25-(OH)2 D3",
+    "1,25-(OH)2 D3",
+    "Calcidiol",
+    "Ergocalciferol"
+   ],
+   "ans": 0,
+   "exp": "24-α-hydroxylase yields 24,25(OH)2 D3 (inactive form). (Book p869)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The renal (PCT) enzyme making the ACTIVE form, stimulated by PTH, is:",
+   "opts": [
+    "25(OH)D3-1α-hydroxylase",
+    "25-hydroxylase",
+    "24-α-hydroxylase",
+    "5'-nucleotidase"
+   ],
+   "ans": 0,
+   "exp": "Kidney PCT 1α-hydroxylase (activated by PTH) makes 1,25-dihydroxycholecalciferol/calcitriol (active). (Book p869)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Calcitriol in intestinal epithelium induces which trio to absorb calcium?",
+   "opts": [
+    "Calcium-binding protein, calcium-stimulated ATPase, alkaline phosphatase",
+    "Calbindin-D alone in the cytosol",
+    "TRPV5/6 channels alone at the membrane",
+    "Na-K ATPase with GLUT2"
+   ],
+   "ans": 0,
+   "exp": "It induces calcium-binding protein, calcium-stimulated ATPase and alkaline phosphatase → intestinal Ca absorption → raises plasma Ca, inhibiting PTH. (Book p869)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match drug to vitamin D effect — 1) Phenytoin  2) INH  3) Steroids & ketoconazole … A) Inhibits 25-hydroxylase  B) Causes vit D resistance  C) Inhibit 1α-hydroxylase",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Phenytoin causes vit D resistance; INH inhibits 25-hydroxylase; steroids & ketoconazole inhibit 1α-hydroxylase. (Book p869)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘In nephrotic syndrome, vitamin D binding globulin is lost in urine while the vitamin D level stays normal.’",
+   "opts": [
+    "True",
+    "False — vit D falls",
+    "False — the globulin rises",
+    "True, but only with CKD"
+   ],
+   "ans": 0,
+   "exp": "Vit D binding globulin is lost in urine in nephrotic syndrome (vit D level normal). (Book p869)"
+  }
+ ]
+}

@@ -1,0 +1,503 @@
+{
+ "chapter": 34,
+ "title": "Calcium Metabolism",
+ "pageRange": "874-876",
+ "questions": [
+  {
+   "id": "MED-C34-001",
+   "sec": "Calcium distribution, corrected calcium and absorption · p874",
+   "page": 874,
+   "fmt": "numeric",
+   "q": "Total body calcium (1000–1300 g) resides in bones to the extent of:",
+   "opts": [
+    "90%",
+    "99.9%",
+    "99.3%",
+    "80%"
+   ],
+   "ans": 2,
+   "exp": "99.3% bones, 0.6% soft tissue, 0.1% ECF. (Book p874)"
+  },
+  {
+   "id": "MED-C34-002",
+   "sec": "Calcium distribution, corrected calcium and absorption · p874",
+   "page": 874,
+   "fmt": "match",
+   "q": "Match the soft-tissue calcium fractions — 1) Free (ionized)  2) Bound to albumin  3) Bound to other proteins … A) 40%  B) 12%  C) 48%",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 3,
+   "exp": "Soft-tissue calcium: 48% free ionized, 40% albumin-bound, 12% other proteins. (Book p874)"
+  },
+  {
+   "id": "MED-C34-003",
+   "sec": "Calcium distribution, corrected calcium and absorption · p874",
+   "page": 874,
+   "fmt": "numeric",
+   "q": "The normal corrected calcium range is:",
+   "opts": [
+    "8–9 mg/dL",
+    "10–12 mg/dL",
+    "8.6–10.3 mg/dL",
+    "9–11 mg/dL"
+   ],
+   "ans": 2,
+   "exp": "Normal corrected Ca2+ 8.6–10.3 mg/dL. (Book p874)"
+  },
+  {
+   "id": "MED-C34-004",
+   "sec": "Calcium distribution, corrected calcium and absorption · p874",
+   "page": 874,
+   "fmt": "fillup",
+   "q": "Corrected Ca2+ = Total Ca2+ + ___.",
+   "opts": [
+    "0.8 × (4 − albumin level)",
+    "0.4 × (8 − albumin)",
+    "1.2 × (4 − globulin)",
+    "0.8 × (albumin − 4)"
+   ],
+   "ans": 0,
+   "exp": "Corrected Ca = Total Ca + 0.8 (4 − albumin level). (Book p874)"
+  },
+  {
+   "id": "MED-C34-005",
+   "sec": "Calcium distribution, corrected calcium and absorption · p874",
+   "page": 874,
+   "fmt": "numeric",
+   "q": "Corrected calcium defines hypocalcaemia below and hypercalcaemia above:",
+   "opts": [
+    "<8.6 and >10.3",
+    "<7 and >12",
+    "<9 and >11",
+    "<8.4 mg/dL and >10.5 mg/dL"
+   ],
+   "ans": 3,
+   "exp": "<8.4 mg/dL hypocalcaemia; >10.5 mg/dL hypercalcaemia. (Book p874)"
+  },
+  {
+   "id": "MED-C34-006",
+   "sec": "Calcium distribution, corrected calcium and absorption · p874",
+   "page": 874,
+   "fmt": "recall",
+   "q": "Free ionized calcium functions include sensitizing CaSR, myocyte contractility, neuromuscular activity and:",
+   "opts": [
+    "Insulin secretion",
+    "Bone mineralization",
+    "Hepatic gluconeogenesis",
+    "Renal acidification"
+   ],
+   "ans": 1,
+   "exp": "Functions: sensitize CaSR, myocyte contractility, neuromuscular activity, bone mineralization. (Book p874)"
+  },
+  {
+   "id": "MED-C34-007",
+   "sec": "Calcium distribution, corrected calcium and absorption · p874",
+   "page": 874,
+   "fmt": "truefalse",
+   "q": "‘In acidosis, H+ competes with calcium for albumin, raising the free Ca2+.’",
+   "opts": [
+    "False — acidosis lowers free Ca",
+    "False — H+ binds calcium",
+    "True, but only with alkalosis",
+    "True"
+   ],
+   "ans": 3,
+   "exp": "↑ H+ (acidosis) → ↑ free Ca2+; ↓ pH by 0.1 unit → ↑ Ca2+ by 0.1 meq/L. (Book p874)"
+  },
+  {
+   "id": "MED-C34-008",
+   "sec": "Calcium distribution, corrected calcium and absorption · p874",
+   "page": 874,
+   "fmt": "numeric",
+   "q": "A fall in pH by 0.1 unit raises ionized calcium by:",
+   "opts": [
+    "0.1 meq/L",
+    "1 meq/L",
+    "0.5 mg/dL",
+    "No change"
+   ],
+   "ans": 0,
+   "exp": "↓ pH 0.1 unit → ↑ Ca2+ 0.1 meq/L. (Book p874)"
+  },
+  {
+   "id": "MED-C34-009",
+   "sec": "Calcium distribution, corrected calcium and absorption · p874",
+   "page": 874,
+   "fmt": "recall",
+   "q": "Plasma calcium equals:",
+   "opts": [
+    "Free Ca2+ plus Ca2+ complexed to anions",
+    "Albumin-bound calcium only",
+    "Total calcium minus phosphate",
+    "Ionized calcium minus citrate"
+   ],
+   "ans": 0,
+   "exp": "Plasma Ca = free Ca2+ + Ca2+ complexed to anions. (Book p874)"
+  },
+  {
+   "id": "MED-C34-010",
+   "sec": "Calcium distribution, corrected calcium and absorption · p874",
+   "page": 874,
+   "fmt": "recall",
+   "q": "Calcium absorption occurs in the proximal small intestine with the order:",
+   "opts": [
+    "Duodenum > jejunum",
+    "Ileum only",
+    "Colon only",
+    "Jejunum > duodenum"
+   ],
+   "ans": 3,
+   "exp": "Site: proximal small intestine (jejunum > duodenum); ~20% net absorption (~200 mg), enhanced by acid. (Book p874)"
+  },
+  {
+   "id": "MED-C34-011",
+   "sec": "Calcium distribution, corrected calcium and absorption · p874",
+   "page": 874,
+   "fmt": "match",
+   "q": "Match absorption route — 1) 95% active transcellular  2) 5% passive paracellular … A) Independent of calcitriol  B) Tightly controlled by calcitriol",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "95% active transcellular (calcitriol-controlled); 5% passive paracellular (independent). (Book p874)"
+  },
+  {
+   "id": "MED-C34-012",
+   "sec": "Calcium distribution, corrected calcium and absorption · p874",
+   "page": 874,
+   "fmt": "recall",
+   "q": "Calcitriol drives transcellular calcium absorption by:",
+   "opts": [
+    "Opening paracellular claudin channels",
+    "Inhibiting calbindin synthesis",
+    "Stimulating basolateral Na-K ATPase",
+    "Binding nuclear receptors → releasing calbindin → activating TRPV5/6; exit via Ca2+ ATPase"
+   ],
+   "ans": 3,
+   "exp": "Calcitriol binds nuclear receptors, releases calbindin, activates TRPV5/6; calcium exits via Ca2+ ATPase. (Book p874)"
+  },
+  {
+   "id": "MED-C34-013",
+   "sec": "Calcium distribution, corrected calcium and absorption · p874",
+   "page": 874,
+   "fmt": "oddoneout",
+   "q": "Free ionized calcium functions listed are sensitizing CaSR, myocyte contractility, neuromuscular activity and bone mineralization. Pick the ODD ONE OUT:",
+   "opts": [
+    "Suppression of calcium-sensing receptor signalling",
+    "Myocyte contractility",
+    "Neuromuscular activity",
+    "Bone mineralization"
+   ],
+   "ans": 0,
+   "exp": "Ionized Ca sensitizes CaSR and drives contractility, neuromuscular activity and mineralization — suppression is the odd one. (Book p874)"
+  },
+  {
+   "id": "MED-C34-014",
+   "sec": "Calcium distribution, corrected calcium and absorption · p874",
+   "page": 874,
+   "fmt": "scenario",
+   "q": "A patient's ABG shows pH 7.25. The expected effect on serum calcium is:",
+   "opts": [
+    "Total calcium rises above 12 mg/dl",
+    "Acidosis raises free ionized Ca2+ as H+ competes with Ca2+ for albumin",
+    "Acidosis lowers free ionized Ca2+ by albumin binding",
+    "No change in the ionized fraction"
+   ],
+   "ans": 1,
+   "exp": "H+ competes for albumin: acidosis increases free Ca; ↓pH 0.1 → ↑Ca 0.1 meq/L. (Book p874)"
+  },
+  {
+   "id": "MED-C34-015",
+   "sec": "Excretion, stone thresholds, milk-alkali syndrome and renal handling · p875",
+   "page": 875,
+   "fmt": "numeric",
+   "q": "Daily urinary calcium loss is approximately:",
+   "opts": [
+    "~20 mg lost per day",
+    "~2 g lost per day",
+    "~500 mg lost per day",
+    "~200 mg (4 mg/kg/24 hr)"
+   ],
+   "ans": 3,
+   "exp": "~200 mg lost in urine; 4 mg/kg/24 hours; >4 mg/kg/day = hypercalciuria. (Book p875)"
+  },
+  {
+   "id": "MED-C34-016",
+   "sec": "Excretion, stone thresholds, milk-alkali syndrome and renal handling · p875",
+   "page": 875,
+   "fmt": "match",
+   "q": "Match the ‘4/7/11’ stone thresholds — 1) >4 mg/kg/24 hr  2) >7 mg/24 hr  3) <11 mg/kg/24 hr … A) Hyperuricosuria (2nd m/c)  B) Hypocitraturia  C) Hypercalciuria (m/c)",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 3,
+   "exp": "m/c causes of stones: hypercalciuria >4 mg/kg/24 hr (m/c), hyperuricosuria >7 mg/24 hr (2nd m/c), hypocitraturia <11 mg/kg/24 hr. (Book p875)"
+  },
+  {
+   "id": "MED-C34-017",
+   "sec": "Excretion, stone thresholds, milk-alkali syndrome and renal handling · p875",
+   "page": 875,
+   "fmt": "recall",
+   "q": "Milk-alkali syndrome begins with excess calcium consumption above:",
+   "opts": [
+    ">1 g/day",
+    ">400 mg/day",
+    ">10 g/day",
+    ">4 g/day"
+   ],
+   "ans": 3,
+   "exp": "Excess Ca2+ consumption >4 g/day → ↑ paracellular Ca2+ entry. (Book p875)"
+  },
+  {
+   "id": "MED-C34-018",
+   "sec": "Excretion, stone thresholds, milk-alkali syndrome and renal handling · p875",
+   "page": 875,
+   "fmt": "recall",
+   "q": "In milk-alkali syndrome, hypercalcaemia activates CaSR which then:",
+   "opts": [
+    "Suppresses RAAS",
+    "Reduces Ca2+ absorption and ADH → volume depletion → RAAS → metabolic alkalosis",
+    "Raises ADH and volume",
+    "Increases calcium absorption"
+   ],
+   "ans": 1,
+   "exp": "Hypercalcaemia (+) CaSR (−) → ↓ Ca2+ absorption and ↓ ADH → volume depletion → RAAS → metabolic alkalosis; also hypercalciuria → stones. (Book p875)"
+  },
+  {
+   "id": "MED-C34-019",
+   "sec": "Excretion, stone thresholds, milk-alkali syndrome and renal handling · p875",
+   "page": 875,
+   "fmt": "match",
+   "q": "Match renal calcium handling — 1) PCT  2) TAL  3) DCT … A) 25%, paracellular, PTH-dependent  B) 10%, active transport, most dependent  C) 65%, paracellular, PTH-independent",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 1,
+   "exp": "PCT 65% paracellular independent; TAL 25% paracellular dependent; DCT 10% active transport most dependent. (Book p875)"
+  },
+  {
+   "id": "MED-C34-020",
+   "sec": "Excretion, stone thresholds, milk-alkali syndrome and renal handling · p875",
+   "page": 875,
+   "fmt": "recall",
+   "q": "A rise in ionized calcium triggers, within SECONDS, the:",
+   "opts": [
+    "Parathyroid CaSR inhibiting PTH release → hypocalcaemia (immediate response)",
+    "Renal CaSR increasing reabsorption",
+    "Intestinal CaSR raising absorption",
+    "Bone CaSR mobilising calcium"
+   ],
+   "ans": 0,
+   "exp": "Within seconds: parathyroid CaSR (−) PTH release → hypocalcaemia (immediate). (Book p875)"
+  },
+  {
+   "id": "MED-C34-021",
+   "sec": "Excretion, stone thresholds, milk-alkali syndrome and renal handling · p875",
+   "page": 875,
+   "fmt": "recall",
+   "q": "Within a FEW DAYS, raised ionized calcium acts on the kidney (TAL) CaSR to cause:",
+   "opts": [
+    "↑ reabsorption of calcium",
+    "↑ PTH secretion",
+    "Immediate stone formation",
+    "↓ Ca2+ reabsorption → hypercalciuria (delayed response)"
+   ],
+   "ans": 3,
+   "exp": "Delayed response: kidney (TAL) CaSR (−) Ca2+ reabsorption → hypercalciuria; vice-versa when ionized calcium falls. (Book p875)"
+  },
+  {
+   "id": "MED-C34-022",
+   "sec": "Excretion, stone thresholds, milk-alkali syndrome and renal handling · p875",
+   "page": 875,
+   "fmt": "recall",
+   "q": "In the TAL diagram, the claudins shown regulating paracellular calcium are:",
+   "opts": [
+    "Claudin 4 and 7",
+    "Claudin 1 only",
+    "Occludin",
+    "CLDN 16/19 with claudin-14"
+   ],
+   "ans": 3,
+   "exp": "TAL regulation involves CLDN 16/19 and claudin-14, with PTH raising absorption and CaSR raising excretion. (Book p875)"
+  },
+  {
+   "id": "MED-C34-023",
+   "sec": "Half-lives and CaSR mutation disorders · p876",
+   "page": 876,
+   "fmt": "match",
+   "q": "Match half-lives — 1) PTH  2) Calcitriol  3) 25(OH)D3 … A) 6–8 hours  B) 2–3 weeks  C) 2–4 minutes",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 3,
+   "exp": "PTH 2–4 min; calcitriol 6–8 hours; 25(OH)D3 2–3 weeks (used for blood level estimations). (Book p876)"
+  },
+  {
+   "id": "MED-C34-024",
+   "sec": "Half-lives and CaSR mutation disorders · p876",
+   "page": 876,
+   "fmt": "recall",
+   "q": "The metabolite used for blood-level estimation of vitamin D (longest half-life) is:",
+   "opts": [
+    "25(OH)D3",
+    "Calcitriol",
+    "PTH",
+    "24,25(OH)2D3"
+   ],
+   "ans": 0,
+   "exp": "25(OH)D3 (2–3 weeks) is used for blood level estimations. (Book p876)"
+  },
+  {
+   "id": "MED-C34-025",
+   "sec": "Half-lives and CaSR mutation disorders · p876",
+   "page": 876,
+   "fmt": "recall",
+   "q": "A GAIN-of-function CaSR mutation causes:",
+   "opts": [
+    "MEN1",
+    "Primary hyperparathyroidism",
+    "Bartter syndrome type V (autosomal dominant)",
+    "FHH"
+   ],
+   "ans": 2,
+   "exp": "Gain-of-function CaSR → Bartter type V, AD (all other Bartter types AR). (Book p876)"
+  },
+  {
+   "id": "MED-C34-026",
+   "sec": "Half-lives and CaSR mutation disorders · p876",
+   "page": 876,
+   "fmt": "truefalse",
+   "q": "‘Bartter syndrome type V is autosomal dominant, whereas all other Bartter types are autosomal recessive.’",
+   "opts": [
+    "True",
+    "False — all Bartters are AD",
+    "False — type V is recessive",
+    "True, but type V is X-linked"
+   ],
+   "ans": 0,
+   "exp": "Type V AD; all other Bartter types AR. (Book p876)"
+  },
+  {
+   "id": "MED-C34-027",
+   "sec": "Half-lives and CaSR mutation disorders · p876",
+   "page": 876,
+   "fmt": "recall",
+   "q": "In Bartter type V, excessive CaSR activation causes:",
+   "opts": [
+    "Hypocalciuria",
+    "No renal effect",
+    "↑↑↑ excretion → hypocalcaemia (other Bartters: hypercalcaemia)",
+    "Complete reabsorption → hypercalcaemia"
+   ],
+   "ans": 2,
+   "exp": "Excessive CaSR activation → ↑↑↑ excretion → hypocalcaemia; all other Bartters show hypercalcaemia. (Book p876)"
+  },
+  {
+   "id": "MED-C34-028",
+   "sec": "Half-lives and CaSR mutation disorders · p876",
+   "page": 876,
+   "fmt": "recall",
+   "q": "A LOSS-of-function CaSR mutation (seen in children, AD) produces:",
+   "opts": [
+    "Hypocalcaemia with hypercalciuria",
+    "Renal osteodystrophy",
+    "Familial hypocalciuric hypercalcaemia (FHH)",
+    "Bartter type V"
+   ],
+   "ans": 2,
+   "exp": "Loss-of-function → FHH, autosomal dominant, seen in children. (Book p876)"
+  },
+  {
+   "id": "MED-C34-029",
+   "sec": "Half-lives and CaSR mutation disorders · p876",
+   "page": 876,
+   "fmt": "recall",
+   "q": "The FHH pathway is:",
+   "opts": [
+    "Excessive excretion → hypocalcaemia",
+    "↑ PTH with hypercalciuria",
+    "Vitamin D resistance",
+    "Failure of CaSR activation → no excretion → complete reabsorption → hypocalciuria + hypercalcaemia"
+   ],
+   "ans": 3,
+   "exp": "Failure of CaSR activation → no excretion → complete reabsorption → hypocalciuria + hypercalcaemia. (Book p876)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U34-1",
+   "ch": 34,
+   "n": 1,
+   "title": "Calcium stores, corrected calcium and intestinal absorption",
+   "sec": "Distribution & metabolism · p874",
+   "guide": "Total 1000–1300 g: 99.3% bone, 0.6% soft tissue (48% ionized, 40% albumin, 12% other), 0.1% ECF. Corrected Ca 8.6–10.3; formula +0.8(4−albumin); <8.4 hypo, >10.5 hyper. Ionized Ca: CaSR sensitisation, myocyte contractility, neuromuscular activity, bone mineralization; acidosis ↑ free Ca (0.1 pH → 0.1 meq/L). Absorption jejunum > duodenum, 20% net (~200 mg), acid enhances; 95% transcellular calcitriol-controlled (nuclear receptor → calbindin → TRPV5/6 → Ca-ATPase), 5% paracellular independent.",
+   "qs": [
+    "MED-C34-001",
+    "MED-C34-002",
+    "MED-C34-003",
+    "MED-C34-004",
+    "MED-C34-005",
+    "MED-C34-006",
+    "MED-C34-007",
+    "MED-C34-008",
+    "MED-C34-009",
+    "MED-C34-010",
+    "MED-C34-011",
+    "MED-C34-012",
+    "MED-C34-013",
+    "MED-C34-014"
+   ]
+  },
+  {
+   "id": "MED-U34-2",
+   "ch": 34,
+   "n": 2,
+   "title": "Urinary thresholds, milk-alkali syndrome and renal calcium handling",
+   "sec": "Excretion and regulation · p875",
+   "guide": "~200 mg/day urinary loss; 4 mg/kg/24 h; stones '4/7/11': hypercalciuria >4 (m/c), hyperuricosuria >7 (2nd), hypocitraturia <11. Milk-alkali: >4 g/day intake → paracellular entry → hypercalciuria/stones + hypercalcaemia → CaSR → ↓absorption & ↓ADH → volume depletion → RAAS → metabolic alkalosis. Renal: PCT 65% paracellular independent; TAL 25% dependent; DCT 10% active most dependent. ↑Ionized Ca: seconds → parathyroid CaSR ↓PTH (immediate); days → TAL CaSR ↓reabsorption → hypercalciuria (delayed). TAL CLDN16/19 + claudin-14.",
+   "qs": [
+    "MED-C34-015",
+    "MED-C34-016",
+    "MED-C34-017",
+    "MED-C34-018",
+    "MED-C34-019",
+    "MED-C34-020",
+    "MED-C34-021",
+    "MED-C34-022"
+   ]
+  },
+  {
+   "id": "MED-U34-3",
+   "ch": 34,
+   "n": 3,
+   "title": "Half-lives and CaSR mutation disorders",
+   "sec": "Disorders · p876",
+   "guide": "Half-lives PTH 2–4 min, calcitriol 6–8 h, 25(OH)D3 2–3 wks (assay form). Gain-of-function CaSR = Bartter type V (AD; others AR): ↑↑↑ excretion → hypocalcaemia (others hypercalcaemia). Loss-of-function = FHH (children, AD): no excretion → complete reabsorption → hypocalciuria + hypercalcaemia.",
+   "qs": [
+    "MED-C34-023",
+    "MED-C34-024",
+    "MED-C34-025",
+    "MED-C34-026",
+    "MED-C34-027",
+    "MED-C34-028",
+    "MED-C34-029"
+   ]
+  }
+ ]
+}

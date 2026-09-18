@@ -1,0 +1,24 @@
+{
+ "page": 867,
+ "sec": "RANK/RANKL/OPG, calcitonin and the bone cycle · p867",
+ "items": [
+  {"fmt": "recall", "q": "On the osteoblast surface, PTH and vitamin D upregulate RANKL, which binds ___ on pre-osteoclasts (with M-CSF) to activate osteoclasts.",
+   "opts": ["RANK", "OPG", "CaSR", "VDR"], "ans": 0,
+   "exp": "RANKL (from osteoblasts) binds RANK on preosteoclasts with M-CSF → active osteoclast (acid secretion, lysosome, ruffled membrane). (Book p867)"},
+  {"fmt": "recall", "q": "OPG (osteoprotegerin) acts by:",
+   "opts": ["Physiological inhibition of the RANK–RANKL interaction", "Stimulating RANKL", "Directly activating osteoclasts", "Raising PTH"], "ans": 0,
+   "exp": "OPG physiologically inhibits RANK–RANKL interaction. (Book p867)"},
+  {"fmt": "recall", "q": "Calcitonin binds receptors on the basal surface of osteoclasts to:",
+   "opts": ["Inhibit osteoclasts and bone resorption", "Stimulate resorption", "Raise plasma calcium", "Increase RANKL"], "ans": 0,
+   "exp": "Calcitonin inhibits osteoclast → inhibits bone resorption. (Book p867)"},
+  {"fmt": "recall", "q": "Calcitonin is used to treat hypercalcaemia because it also:",
+   "opts": ["Stimulates renal calcium clearance → hypocalcaemia", "Increases intestinal calcium", "Mobilises bone calcium", "Raises vitamin D"], "ans": 0,
+   "exp": "It stimulates renal calcium clearance causing hypocalcaemia, hence used in hypercalcaemia. (Book p867)"},
+  {"fmt": "match", "q": "Match the bone cycle steps to duration — 1) Osteoclast activation + bone resorption  2) Reversal + bone formation + mineralisation … A) 3 months  B) 3 weeks",
+   "opts": ["1-B, 2-A", "1-A, 2-B", "1-B, 2-B", "1-A, 2-A"], "ans": 0,
+   "exp": "Resorption phase (steps 1–2) ~3 weeks; reversal/formation/mineralisation (3–5) ~3 months. (Book p867)"},
+  {"fmt": "recall", "q": "The correct order of the bone remodelling cycle is:",
+   "opts": ["Osteoclast activation → resorption → reversal → formation → mineralisation", "Formation → resorption → mineralisation", "Resorption → formation → activation", "Mineralisation → reversal → resorption"], "ans": 0,
+   "exp": "Steps: 1 osteoclast activation, 2 bone resorption, 3 reversal, 4 bone formation, 5 mineralisation. (Book p867)"}
+ ]
+}

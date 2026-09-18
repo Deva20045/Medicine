@@ -27,17 +27,17 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | # | Chapter | Book start | Status |
 |---|---|---|---|
 | 1 | Development of Kidneys | p705 | **LIVE**
-| 2 | Gross Anatomy of Kidney | p711 | SOON
-| 3 | Tubular Anatomy | p717 | SOON
-| 4 | Juxtaglomerular Apparatus | p726 | SOON
-| 5 | Glomerulus - Anatomy | p730 | SOON
-| 6 | Renal Physiology | p734 | SOON
-| 7 | Urine Analysis | p740 | SOON
-| 8 | Basic Approach to Kidney Disease and Renal Artery Stenosis | p748 | SOON
-| 9 | Thrombotic Microangiopathy | p753 | SOON
-| 10 | Glomerular Disease - Patterns | p756 | SOON
-| 11 | Podocytopathies | p762 | SOON
-| 12 | MPGN and IgA Nephropathy | p770 | SOON
+| 2 | Gross Anatomy of Kidney | p711 | **LIVE**
+| 3 | Tubular Anatomy | p717 | **LIVE**
+| 4 | Juxtaglomerular Apparatus | p726 | **LIVE**
+| 5 | Glomerulus - Anatomy | p730 | **LIVE**
+| 6 | Renal Physiology | p734 | **LIVE (page-anchored re-audit)**
+| 7 | Urine Analysis | p740 | **LIVE (page-anchored re-audit)**
+| 8 | Basic Approach to Kidney Disease and Renal Artery Stenosis | p748 | **LIVE (page-anchored re-audit)**
+| 9 | Thrombotic Microangiopathy | p753 | **LIVE (page-anchored re-audit)**
+| 10 | Glomerular Disease - Patterns | p756 | **LIVE (page-anchored re-audit)**
+| 11 | Podocytopathies | p762 | **LIVE (page-anchored re-audit)**
+| 12 | MPGN and IgA Nephropathy | p770 | **LIVE (page-anchored re-audit)**
 | 13 | Post Streptococcal Glomerulonephritis | p775 | **LIVE (re-audited)**
 | 14 | RPGN and Pulmonary Renal Syndrome | p778 | **LIVE (re-audited)**
 | 15 | Familial Glomerular Syndromes | p783 | **LIVE (re-audited)**
@@ -51,16 +51,16 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 23 | Introduction to Acid Base Analysis | p819 | **LIVE**
 | 24 | Metabolic Alkalosis | p824 | **LIVE**
 | 25 | Methodology and Interpretation of ABG Analysis | p826 | **LIVE**
-| 26 | Overview of Hormones | p830 | SOON
-| 27 | Physiology of Adrenal Cortex | p837 | SOON
-| 28 | Conn's Syndrome | p841 | SOON
-| 29 | Cushing's Syndrome | p844 | SOON
-| 30 | Addison's Disease | p849 | SOON
-| 31 | Adrenal Medulla : Part 1 | p852 | SOON
-| 32 | Adrenal Medulla : Part 2 | p858 | SOON
-| 33 | Basics of Bone and Mineral Metabolism | p863 | SOON
-| 34 | Calcium Metabolism | p874 | SOON
-| 35 | Hypercalcemia | p877 | SOON
+| 26 | Overview of Hormones | p830 | **LIVE**
+| 27 | Physiology of Adrenal Cortex | p837 | **LIVE**
+| 28 | Conn's Syndrome | p841 | **LIVE**
+| 29 | Cushing's Syndrome | p844 | **LIVE**
+| 30 | Addison's Disease | p849 | **LIVE**
+| 31 | Adrenal Medulla : Part 1 | p852 | **LIVE**
+| 32 | Adrenal Medulla : Part 2 | p858 | **LIVE**
+| 33 | Basics of Bone and Mineral Metabolism | p863 | **LIVE**
+| 34 | Calcium Metabolism | p874 | **LIVE**
+| 35 | Hypercalcemia | p877 | **LIVE**
 | 36 | Hypocalcemia | p883 | SOON
 | 37 | Phosphorus Metabolism | p887 | SOON
 | 38 | Magnesium Metabolism | p892 | SOON
@@ -100,7 +100,7 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 72 | Infective Endocarditis | p1047 | SOON
 | 73 | Tropical Infections: Synopsis | p1053 | SOON
 | 74 | HIV | p1061 | SOON
-*(Status column: Ch 1–25, 60, 61 = **LIVE**; the rest = **SOON** — rendered in the app
+*(Status column: Ch 1–35, 60, 61 = **LIVE**; the rest = **SOON** — rendered in the app
 as a locked "Soon" row. Update this table as chapters go live.)*
 
 ### Section spans
@@ -148,6 +148,7 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 | `audit_variety.py` | Format mix + predictability signals (length bias, hedging, fillers, template runs, option reuse) |
 | `fix_audit2.py` | Second-pass rewrites for Ch 13–18 (55 items replaced, 1 relabelled, 1 deleted) |
 | `diversify_keys.py` | Permutes match key lists so correct-option key strings differ between items |
+| `patch_items.py` | Rewrite chosen items inside part files (format changes keep the page-cited explanation) |
 | `itemlab.py` | Add/edit questions in `data/` with renumbering + auto-rebuild (`map`, `flag`, `apply`, `stats`) |
 | `AUDIT.md` | Latest output of `audit_variety.py` |
 | `REPORT_CH23-25.md` | Build report for Ch 23–25 (Acid–Base), page-by-page coverage + metrics |
@@ -161,16 +162,16 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 3 "Tubular Anatomy" (p717–725): 13 units, 100 questions — BUILT & VERIFIED**
 - [x] **Ch 4 "Juxtaglomerular Apparatus" (p726–729): 7 units, 50 questions — BUILT & VERIFIED**
 - [x] **Ch 5 "Glomerulus - Anatomy" (p730–733): 8 units, 56 questions — BUILT & VERIFIED**
-- [x] **Ch 6 "Renal Physiology" (p734–739): 9 units, 69 questions — BUILT & VERIFIED**
-- [x] **Ch 7 "Urine Analysis" (p740–747): 13 units, 94 questions — BUILT & VERIFIED**
-- [x] **Ch 8 "Basic Approach to Kidney Disease and Renal Artery Stenosis" (p748–752): 8 units, 56 questions — BUILT & VERIFIED**
-- [x] **Ch 9 "Thrombotic Microangiopathy" (p753–755): 5 units, 35 questions — BUILT & VERIFIED**
-- [x] **Ch 10 "Glomerular Disease - Patterns" (p756–761): 9 units, 60 questions — BUILT & VERIFIED**
-- [x] **Ch 11 "Podocytopathies" (p762–769): 8 units, 83 questions — BUILT & VERIFIED**
-- [x] **Ch 12 "MPGN and IgA Nephropathy" (p770–774): 6 units, 52 questions — BUILT & VERIFIED**
-- [x] **Ch 13 "Post Streptococcal Glomerulonephritis" (p775–777): 3 units, 73 questions — RE-AUDITED ×2 (content + option quality)**
-- [x] **Ch 14 "RPGN and Pulmonary Renal Syndrome" (p778–782): 5 units, 82 questions — RE-AUDITED, rebuilt page-by-page**
-- [x] **Ch 15 "Familial Glomerular Syndromes" (p783–785): 4 units, 54 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 6 "Renal Physiology" (p734–739): 10 units, 133 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 7 "Urine Analysis" (p740–747): 10 units, 135 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 8 "Basic Approach to Kidney Disease and Renal Artery Stenosis" (p748–752): 8 units, 83 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 9 "Thrombotic Microangiopathy" (p753–755): 5 units, 52 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 10 "Glomerular Disease - Patterns" (p756–761): 9 units, 78 questions — RE-AUDITED, gap-filled page-by-page**
+- [x] **Ch 11 "Podocytopathies" (p762–769): 8 units, 88 questions — RE-AUDITED; 16 items re-formatted, p769 figures/treatment gap-filled**
+- [x] **Ch 12 "MPGN and IgA Nephropathy" (p770–774): 6 units, 52 questions — RE-AUDITED; 16 items re-formatted, length leak 51.9% → 26.9%**
+- [x] **Ch 13 "Post Streptococcal Glomerulonephritis" (p775–777): 3 units, 73 questions — RE-AUDITED ×2, re-verified in the Ch 6–15 pass**
+- [x] **Ch 14 "RPGN and Pulmonary Renal Syndrome" (p778–782): 5 units, 82 questions — RE-AUDITED, rebuilt page-by-page, re-verified**
+- [x] **Ch 15 "Familial Glomerular Syndromes" (p783–785): 4 units, 54 questions — RE-AUDITED, rebuilt page-by-page, re-verified (p785 covers every printed line)**
 - [x] **Ch 16 "Ciliopathies" (p786–792): 6 units, 139 questions — RE-AUDITED, rebuilt page-by-page**
 - [x] **Ch 17 "Chronic Tubulointerstitial Disease" (p793–795): 3 units, 52 questions — RE-AUDITED ×2 (content + option quality)**
 - [x] **Ch 18 "Acute Kidney Injury" (p796–804): 9 units, 181 questions — RE-AUDITED ×2 (content + option quality)**
@@ -181,10 +182,44 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 23 "Introduction to Acid Base Analysis" (p819–823): 9 units, 137 questions — BUILT & VERIFIED**
 - [x] **Ch 24 "Metabolic Alkalosis" (p824–825): 3 units, 40 questions — BUILT & VERIFIED**
 - [x] **Ch 25 "Methodology and Interpretation of ABG Analysis" (p826–829): 6 units, 105 questions — BUILT & VERIFIED**
-- [ ] Ch 26–74 (per pipeline above)
+- [x] **Ch 26 "Overview of Hormones" (p830–836): 7 units, 71 questions — BUILT & VERIFIED**
+- [x] **Ch 27 "Physiology of Adrenal Cortex" (p837–840): 4 units, 39 questions — BUILT & VERIFIED**
+- [x] **Ch 28 "Conn's Syndrome" (p841–843): 3 units, 29 questions — BUILT & VERIFIED**
+- [x] **Ch 29 "Cushing's Syndrome" (p844–848): 5 units, 50 questions — BUILT & VERIFIED**
+- [x] **Ch 30 "Addison's Disease" (p849–851): 3 units, 33 questions — BUILT & VERIFIED**
+- [x] **Ch 31 "Adrenal Medulla : Part 1" (p852–857): 5 units, 53 questions — BUILT & VERIFIED**
+- [x] **Ch 32 "Adrenal Medulla : Part 2" (p858–862): 5 units, 45 questions — BUILT & VERIFIED**
+- [x] **Ch 33 "Basics of Bone and Mineral Metabolism" (p863–873): 6 units, 89 questions — BUILT & VERIFIED**
+- [x] **Ch 34 "Calcium Metabolism" (p874–876): 3 units, 29 questions — BUILT & VERIFIED**
+- [x] **Ch 35 "Hypercalcemia" (p877–882): 6 units, 64 questions — BUILT & VERIFIED**
+- [ ] Ch 36–74 (per pipeline above)
 
 ## NEXT
-**Ch 19–22 (p805–818, Nephrology) and Ch 23–25 (p819–829, Acid–Base) are both live.**
+**Ch 6–15 re-audited (Book p734–785) — see `REAUDIT_CH6-15.md`.** Ch 19–22 (p805–818,
+Nephrology), Ch 23–25 (p819–829, Acid–Base) and Ch 26–35 (p830–882, Endocrinology +
+Bone/Mineral) are live.
+
+**Ch 6–15 re-audited (Book p734–785) — see `REAUDIT_CH6-15.md`.** Ch 6–12 were taken
+through the page-anchored pipeline page by page (p734–774, 41 pages read from the scan,
+tables/flowcharts/figure captions included); Ch 13–15 were re-verified against every gate
+and left intact because they already met it. Ch 11 and Ch 12 additionally had 32 items
+re-authored into non-recall formats with `patch_items.py`, which keeps the existing
+`(Book pX)` explanation so a format change can never drift the fact, and Ch 12's
+longest-option leak was rebalanced from 51.9% to 26.9%.
+
+Counts now: Ch 6 133 · Ch 7 135 · Ch 8 83 · Ch 9 52 · Ch 10 78 · Ch 11 88 · Ch 12 52 ·
+Ch 13 73 · Ch 14 82 · Ch 15 54 = **830 questions in 68 units** for this window, with 70%
+of them in non-recall formats.
+
+Verification run (all green): `python3 assemble.py <ch>` per chapter →
+`build_content.py` → `check_integrity.py` (IDs, four-option structure, citations, book
+order, source↔app equality, JS syntax) → `node check_app_smoke.js` (full roadmap,
+live-ch paths, final questions render) → `python3 audit_variety.py > AUDIT.md`.
+
+Honest limits recorded in `REAUDIT_CH6-15.md`: Ch 10 p759–761 were reviewed as stems,
+not re-read from the scan this pass, and Ch 11–12 gained format variety rather than new
+facts (their page coverage came from the earlier pass; only p769 was newly read).
+
 
 *Ch 19–22 (built & re-audited page-by-page):* all 14 pages re-rendered and read line by
 line (tables, flowcharts, figures, graph axes, arrow labels), authored through the
@@ -204,17 +239,36 @@ taught explicitly: the p824 "respiratory alkalosis" label for the ↑PaCO₂ res
 (versus the p828 compensation table), and the reversed bicarbonate arrows in the p827
 primary-problem tree (versus the p828 step-2 flowchart). See **`REPORT_CH23-25.md`**.
 
+*Ch 26–35 (Endocrinology opening + Bone/Mineral section):* 502 questions over 53 pages
+authored the same way — Ch 26 (7 u, 71 q), Ch 27 (4 u, 39 q), Ch 28 (3 u, 29 q),
+Ch 29 (5 u, 50 q), Ch 30 (3 u, 33 q), Ch 31 (5 u, 53 q), Ch 32 (5 u, 45 q),
+Ch 33 (6 u, 89 q), Ch 34 (3 u, 29 q), Ch 35 (6 u, 64 q). Every hormone classification
+table, steroidogenesis ladder, adrenal cause tree, 1°/2°/3° HPT table, sestamibi scan
+caption, bone-change X-ray list and the Jansen-vs-FHH paediatric table is questioned in
+both directions; all gates green (build / integrity / smoke / audit). Book quirks taught
+explicitly include Bartter V hypocalcemia vs the other Bartter types (p876), the
+“oxyntic cell” print for sestamibi uptake (p879) and the not-recommended IV Lasix inside
+the 1st-line crisis branch (p881). See **`REPORT_CH26-35.md`**.
+
+**Bank total: 2676 questions · 227 units · 35 live chapters**, all 178 in-scope pages
+p705–882 represented.
+
+**Bank total: 2174 questions · 180 units · 25 live chapters**, all 125 in-scope pages
+p705–829 represented (this batch alone took the bank from 1720 to 1892 before the
+Acid–Base merge).
+
+
 *Ch 60–61 (Hepatology: Portal Hypertension & Ascites/HRS):* 167 questions over 9 pages
 (p1001–1009) authored in line-by-line book order — Ch 60 (8 units, 86 q), Ch 61 (8 units, 81 q).
 Every diagram, branching tree, HVPG table, hemodynamic formula, fluid analysis table,
 SBP diagnostic triad/variant, and treatment regimen covered. All degraded print values
-resolved and taught explicitly (p1001 'a years', p1004 terlipressin 'a mg', p1006 Na 'a g/day',
-p1007 cefotaxime 'ag', p1008 spironolactone '40 mg'). Predictability gates passed:
+resolved and taught explicitly (p1001 "a years", p1004 terlipressin "a mg", p1006 Na "a g/day",
+p1007 cefotaxime "ag", p1008 spironolactone "40 mg"). Predictability gates passed:
 longest option 24.4% and 34.6%, answer leak 0.0% and 0.0%, 0 fillers, 0 reused option sets in Ch 61.
 See **`REPORT_CH60-61.md`**.
 
-**Bank total: 2169 questions · 198 units · 27 live chapters**, all 134 in-scope pages
-p705–829, p1001–1009 represented.
+**Bank total: 2843 questions · 243 units · 37 live chapters**, all 187 in-scope pages
+p705–882, p1001–1009 represented.
 
 **Next: Ch 62 "Hepatic Encephalopathy" (p1010) onward.**
 

@@ -1,0 +1,30 @@
+{
+ "page": 863,
+ "sec": "Bone types and trabecular bone assessment · p863",
+ "items": [
+  {"fmt": "numeric", "q": "The skeletal system receives what share of total cardiac output?",
+   "opts": ["10%", "25%", "5%", "40%"], "ans": 0,
+   "exp": "The skeletal system is highly vascular — 10% of total cardiac output. (Book p863)"},
+  {"fmt": "match", "q": "Match cortical vs trabecular bone — 1) Cortical contribution  2) Trabecular contribution  3) Cortical unit  4) Trabecular unit … A) Trabeculae  B) 20%  C) 80%  D) Osteon",
+   "opts": ["1-C, 2-B, 3-D, 4-A", "1-B, 2-C, 3-D, 4-A", "1-C, 2-B, 3-A, 4-D", "1-D, 2-B, 3-C, 4-A"],
+   "ans": 0, "exp": "Cortical bone = 80% of mass, osteon unit; trabecular = 20%, trabeculae. (Book p863)"},
+  {"fmt": "recall", "q": "Cortical bone is seen in ___ and trabecular bone in ___.",
+   "opts": ["Diaphysis of long bone; epiphysis and vertebrae", "Epiphysis; diaphysis", "Vertebrae only; skull only", "Clavicle; ribs"], "ans": 0,
+   "exp": "Cortical in diaphysis of long bones; trabecular in epiphysis and vertebrae. (Book p863)"},
+  {"fmt": "truefalse", "q": "‘The Haversian system is present in cortical bone but absent in trabecular bone.’",
+   "opts": ["True", "False — present in both", "False — only in trabecular", "True, but only in children"], "ans": 0,
+   "exp": "Haversian system (+) cortical, (−) trabecular. (Book p863)"},
+  {"fmt": "match", "q": "Match hormone action on bone type — 1) Cortical bone  2) Trabecular bone … A) Steroid hormones  B) PTH and thyroid",
+   "opts": ["1-B, 2-A", "1-A, 2-B", "1-B, 2-B", "1-A, 2-A"], "ans": 0,
+   "exp": "PTH and thyroid act on cortical bone; steroid hormones on trabecular bone. (Book p863)"},
+  {"fmt": "recall", "q": "Trabecular bone has a HIGH remodelling rate because of:",
+   "opts": ["Its ↑ surface-area-to-mass ratio", "Its Haversian systems", "Low porosity", "Calcitonin receptors"], "ans": 0,
+   "exp": "High remodelling/bone turnover d/t ↑ surface area to mass ratio; also high metabolic activity and porosity. (Book p863)"},
+  {"fmt": "recall", "q": "Osteoporosis is evaluated on trabecular bone using:",
+   "opts": ["Bone mineral density (BMD) and trabecular bone score (TBS)", "Serum ALP only", "Cortical thickness on X-ray", "Urinary NTX alone"], "ans": 0,
+   "exp": "BMD plus the newer trabecular bone score (TBS). (Book p863)"},
+  {"fmt": "scenario", "q": "Two patients have near-identical BMD (L1–L4 ≈ 0.99) but TBS 1.432 vs 1.124. The patient with TBS 1.124 has:",
+   "opts": ["Degraded micro-architecture → osteoporosis despite similar BMD", "Good micro-architecture", "Normal trabecular bone", "Higher bone mass"], "ans": 0,
+   "exp": "Normal TBS (1.432) = good micro-architecture; low TBS (1.124) = degraded micro-architecture → osteoporosis. (Book p863)"}
+ ]
+}

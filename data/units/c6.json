@@ -1,0 +1,62 @@
+[
+ {
+  "title": "GFR: definition, Starling forces & the calculation",
+  "sec": "Glomerular Filtration Rate · p734",
+  "guide": "GFR = net ultrafiltration pressure × UF coefficient. Work the bracket out in order: (60 − 18) − (32 − 0) = 10 mmHg, and 10 × 12.5 = 125 ml/min. Know which pressure opposes filtration and which favours it in the diagram.",
+  "parts": ["p734a", "p734aa"]
+ },
+ {
+  "title": "Normal GFR & the single clinical use printed",
+  "sec": "Glomerular Filtration Rate · p734",
+  "guide": "Normal is 90–125 ml/min. The page gives exactly one use: CKD is classified on GFR, and <15 ml/min is G5/ESRD — the uremic phase that needs dialysis.",
+  "parts": ["p734b", "p734ba"]
+ },
+ {
+  "title": "Creatinine as the marker of GFR",
+  "sec": "Creatinine · p735",
+  "guide": "Best marker, 113 kDa, made in muscle from creatine, normal in pregnancy 0.3–0.6 mg/dL. Everything that shrinks muscle mass (amputation, malnutrition) shrinks creatinine and hides a low GFR.",
+  "parts": ["p735a", "p735aa"]
+ },
+ {
+  "title": "GFR equations & the C&G versus MDRD/CKD-EPI table",
+  "sec": "Equations to calculate GFR · p735",
+  "guide": "Cockcroft & Gault is a bed-side, obsolete formula that over-reads GFR (secretion, Jaffe picrate assay, weight dependence). MDRD/CKD-EPI are preferred now; CKD-EPI is best above 60; Schwartz is for children.",
+  "parts": ["p735b", "p735ba"]
+ },
+ {
+  "title": "Schwartz equation & its K constants",
+  "sec": "Schwartz equation · p736",
+  "guide": "eGFR = K × length ÷ S.Cr. K: pre-term 0.33, term 0.45 (if age not stated), 1–2 yr and adolescent girls 0.55, adolescent boys 0.7.",
+  "parts": ["p736a", "p736aa"]
+ },
+ {
+  "title": "Why creatinine misleads: determinants, drugs & the inverse curve",
+  "sec": "Disadvantages of creatinine · p736",
+  "guide": "It lags 24–48 h in AKI, tracks muscle mass, race, age after 40 and sex as printed, is diet- and drug-dependent (cimetidine, trimethoprim block secretion) and, because the curve is hyperbolic, small early rises mean large GFR losses while late rises mean nothing.",
+  "parts": ["p736b", "p736ba"]
+ },
+ {
+  "title": "snGFR compensation, clearance formula & cystatin C",
+  "sec": "Note, endogenous clearance & Cystatin C · p737",
+  "guide": "Fewer nephrons → each filters more → beyond compensation: intraglomerular hypertension → proteinuria → interstitial fibrosis → falling GFR. Clearance = U×V/P. Cystatin C: 13 kDa cysteine protease inhibitor, filtered not secreted, reabsorbed by PCT, free of race/diet/muscle/drugs but raised by inflammation, steroids and smoking.",
+  "parts": ["p737a", "p737aa"]
+ },
+ {
+  "title": "Renal autoregulation & glomerulo-tubular balance",
+  "sec": "Regulation of Renal Functions · p738",
+  "guide": "Myogenic (stretch) reflex plus adenosine-mediated tubuloglomerular feedback hold RBF and GFR flat from MAP 80–180. Falling GFR dilates the afferent arteriole; rising GFR or tubular injury delivers NaCl/KCl to the macula densa and constricts it. Glomerulo-tubular balance keeps Na+ excretion at 1%.",
+  "parts": ["p738a", "p738aa"]
+ },
+ {
+  "title": "Filtration fraction & the pressure-natriuresis theory",
+  "sec": "Filtration Fraction & pressure natriuresis · p738-739",
+  "guide": "FF = GFR 125 ÷ RPF 700 (PAH) = 0.1–0.2. A raised FF pulls fluid out of the interstitium, lowers RIHP and increases PCT reabsorption; pressure natriuresis does the opposite through ↑CO → ↑RBF → ↓PCT reabsorption → ↑RIHP → ↑medullary flow → natriuresis, which is why BP = CO × PVR cannot stay raised with a working kidney.",
+  "parts": ["p738b", "p738ba", "p739a", "p739aa"]
+ },
+ {
+  "title": "Glomerular hemodynamics: arteriolar table & drug notes",
+  "sec": "Glomerular Hemodynamics · p739",
+  "guide": "Four rows: ↑afferent (both down, unfavourable), ↓afferent (both up, favourable), ↑efferent (flow down, pressure up), ↓efferent (flow up, pressure down, unfavourable). Efferent constriction causes medullary hypoxia; prostaglandins dilate afferent, angiotensin II constricts efferent — the basis of the ACE-inhibitor and NSAID warnings.",
+  "parts": ["p739b", "p739ba"]
+ }
+]

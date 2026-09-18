@@ -1,985 +1,1417 @@
 {
-  "chapter": 8,
-  "title": "Basic Approach to Kidney Disease and Renal Artery Stenosis",
-  "pageRange": "748-752",
-  "questions": [
-    {
-      "id": "MED-C8-001",
-      "sec": "Initial Investigation & USG Approach",
-      "page": 748,
-      "fmt": "recall",
-      "q": "The initial investigation of kidney disease pairs USG abdomen and renal function tests with:",
-      "opts": [
-        "Urine analysis",
-        "Renal biopsy",
-        "CT renal angiography",
-        "Serum lipid profile"
-      ],
-      "ans": 0,
-      "exp": "Initial investigation: ultrasonography (USG) abdomen, renal function test (RFT) and urine analysis. (Book p748)"
-    },
-    {
-      "id": "MED-C8-002",
-      "sec": "Initial Investigation & USG Approach",
-      "page": 748,
-      "fmt": "recall",
-      "q": "For protein estimation in the initial urine analysis, the preferred test is:",
-      "opts": [
-        "24hr protein",
-        "Spot albumin/creatinine only",
-        "Spot protein/creatinine only",
-        "Random urine dipstick"
-      ],
-      "ans": 0,
-      "exp": "Urine analysis: 24hr protein (preferred), albumin/creatinine, protein/creatinine. (Book p748)"
-    },
-    {
-      "id": "MED-C8-003",
-      "sec": "Initial Investigation & USG Approach",
-      "page": 748,
-      "fmt": "recall",
-      "q": "The RFT arm of the initial investigation measures:",
-      "opts": [
-        "S. urea, S. creatinine, S. Na+ and S. K+",
-        "S. urea, S. uric acid, S. Ca2+ and S. Mg2+",
-        "S. creatinine, S. albumin, S. Na+ and S. K+",
-        "S. urea, S. creatinine, S. ALT and S. AST"
-      ],
-      "ans": 0,
-      "exp": "RFT: S. urea, S. creatinine, S. Na+, S. K+. (Book p748)"
-    },
-    {
-      "id": "MED-C8-004",
-      "sec": "Initial Investigation & USG Approach",
-      "page": 748,
-      "fmt": "numeric",
-      "q": "On the USG approach, a kidney size below which value points toward chronic kidney disease?",
-      "opts": [
-        "8 cm",
-        "10 cm",
-        "12 cm",
-        "6 cm"
-      ],
-      "ans": 0,
-      "exp": "Look for: kidney size <8 cm. (Book p748)"
-    },
-    {
-      "id": "MED-C8-005",
-      "sec": "Initial Investigation & USG Approach",
-      "page": 748,
-      "fmt": "recall",
-      "q": "Kidneys larger than 10 cm with loss of corticomedullary differentiation are classically seen with:",
-      "opts": [
-        "DM, HIV and amyloidosis",
-        "DM, HIV and analgesic nephropathy",
-        "HTN, HIV and amyloidosis",
-        "DM, SLE and myeloma"
-      ],
-      "ans": 0,
-      "exp": ">10 cm with loss of CMD with: DM, HIV, amyloidosis. (Book p748)"
-    },
-    {
-      "id": "MED-C8-006",
-      "sec": "Initial Investigation & USG Approach",
-      "page": 748,
-      "fmt": "oddoneout",
-      "q": "Enlarged (>10 cm) kidneys with loss of CMD are listed for all of the following EXCEPT:",
-      "opts": [
-        "Vesicoureteral reflux",
-        "Long-standing diabetes mellitus",
-        "HIV",
-        "Amyloidosis"
-      ],
-      "ans": 0,
-      "exp": "Loss of CMD with >10 cm kidneys: DM, HIV, amyloidosis; vesicoureteral reflux belongs to the asymmetric-kidney note. (Book p748)"
-    },
-    {
-      "id": "MED-C8-007",
-      "sec": "Initial Investigation & USG Approach",
-      "page": 748,
-      "fmt": "fillup",
-      "q": "Fill up: On the USG approach, seeing corticomedullary differentiation (CMD) places the patient in the ______ arm.",
-      "opts": [
-        "Chronic kidney disease (CKD)",
-        "Non-CKD",
-        "Acute kidney injury",
-        "Renal artery stenosis"
-      ],
-      "ans": 0,
-      "exp": "CMD present → CKD; absent → non-CKD. (Book p748)"
-    },
-    {
-      "id": "MED-C8-008",
-      "sec": "Initial Investigation & USG Approach",
-      "page": 748,
-      "fmt": "match",
-      "q": "Match each normal-kidney USG structure with its echogenicity — 1) Cortex 2) Pyramids 3) Fat, calyx, sinus, vessels … A) Hyperechoic B) Isoechoic C) Hypoechoic",
-      "opts": [
-        "1-B, 2-C, 3-A",
-        "1-A, 2-B, 3-C",
-        "1-B, 2-A, 3-C",
-        "1-C, 2-B, 3-A"
-      ],
-      "ans": 0,
-      "exp": "Isoechoic: cortex; hypoechoic: pyramids; hyperechoic: fat, calyx, sinus, vessels. (Book p748)"
-    },
-    {
-      "id": "MED-C8-009",
-      "sec": "Initial Investigation & USG Approach",
-      "page": 748,
-      "fmt": "truefalse",
-      "q": "Which statement about the USG approach is TRUE?",
-      "opts": [
-        "USG abdomen is the most important investigation of the approach",
-        "Loss of CMD rules out chronic kidney disease",
-        "Kidneys of 8-10 cm always retain CMD",
-        "Absent CMD places the patient in the CKD arm"
-      ],
-      "ans": 0,
-      "exp": "USG abdomen (most important); CMD present → CKD, absent → non-CKD; 8-10 cm loss of CMD is itself a CKD clue. (Book p748)"
-    },
-    {
-      "id": "MED-C8-010",
-      "sec": "Initial Investigation & USG Approach",
-      "page": 748,
-      "fmt": "recall",
-      "q": "The two end-point branches drawn for established CKD are:",
-      "opts": [
-        "Hemodialysis and transplant",
-        "ACE inhibitors and diuretics",
-        "Biopsy and CT angiography",
-        "PTRA and stenting"
-      ],
-      "ans": 0,
-      "exp": "CKD → hemodialysis / transplant. (Book p748)"
-    },
-    {
-      "id": "MED-C8-011",
-      "sec": "CKD Mimics & Non-CKD Categories",
-      "page": 749,
-      "fmt": "recall",
-      "q": "Before diagnosing CKD on USG one must rule out hydronephroureteronephrosis, whose clue on imaging is:",
-      "opts": [
-        "Calyces becoming prominent and ureter seen",
-        "Loss of corticomedullary differentiation",
-        "Small echogenic kidneys",
-        "A parvus tardus waveform"
-      ],
-      "ans": 0,
-      "exp": "Rule out hydronephroureteronephrosis before diagnosing CKD; calyces becoming prominent and ureter seen. (Book p749)"
-    },
-    {
-      "id": "MED-C8-012",
-      "sec": "CKD Mimics & Non-CKD Categories",
-      "page": 749,
-      "fmt": "match",
-      "q": "Match each tempo with its non-CKD category — 1) Hours to days 2) Days to weeks 3) Normal RFT with renal disease … A) Acute kidney injury (AKI) B) Rapidly progressive renal failure (RPRF) C) Nephrotic syn / RTA type I-II / asymptomatic urine abnormality",
-      "opts": [
-        "1-A, 2-B, 3-C",
-        "1-B, 2-A, 3-C",
-        "1-A, 2-C, 3-B",
-        "1-C, 2-B, 3-A"
-      ],
-      "ans": 0,
-      "exp": "Hours to days → AKI; days to weeks → RPRF; normal RFT with renal disease → nephrotic syn, RTA I/II, asymptomatic urine abnormality. (Book p749)"
-    },
-    {
-      "id": "MED-C8-013",
-      "sec": "CKD Mimics & Non-CKD Categories",
-      "page": 749,
-      "fmt": "recall",
-      "q": "The AKI arm of the flowchart lists postrenal, ATN, AIN and:",
-      "opts": [
-        "Pre-renal investigation with normal urine analysis",
-        "RPGN confirmed with biopsy",
-        "Nephrotic syndrome",
-        "Renal artery stenosis"
-      ],
-      "ans": 0,
-      "exp": "AKI: postrenal (B/L hydronephroureteronephrosis on USG), pre-renal (normal urine analysis), ATN, AIN. (Book p749)"
-    },
-    {
-      "id": "MED-C8-014",
-      "sec": "CKD Mimics & Non-CKD Categories",
-      "page": 749,
-      "fmt": "truefalse",
-      "q": "Which statement about the AKI arm is TRUE?",
-      "opts": [
-        "The pre-renal category is expected to show a normal urine analysis",
-        "The postrenal category shows a normal USG",
-        "ATN and AIN are postrenal causes",
-        "B/L hydronephroureteronephrosis defines the pre-renal category"
-      ],
-      "ans": 0,
-      "exp": "Pre-renal investigation: normal urine analysis; postrenal: B/L hydronephroureteronephrosis (USG). (Book p749)"
-    },
-    {
-      "id": "MED-C8-015",
-      "sec": "CKD Mimics & Non-CKD Categories",
-      "page": 749,
-      "fmt": "recall",
-      "q": "Rapidly progressive renal failure most commonly turns out to be:",
-      "opts": [
-        "RPGN, diagnosed with biopsy",
-        "Severe ATN",
-        "Thrombotic microangiopathy",
-        "Acute interstitial nephropathy"
-      ],
-      "ans": 0,
-      "exp": "RPRF → RPGN (m/c), diagnosed with biopsy; severe ATN and TMA are rare causes. (Book p749)"
-    },
-    {
-      "id": "MED-C8-016",
-      "sec": "CKD Mimics & Non-CKD Categories",
-      "page": 749,
-      "fmt": "oddoneout",
-      "q": "All of the following appear under rapidly progressive renal failure in the flowchart EXCEPT:",
-      "opts": [
-        "Nephrotic syndrome",
-        "RPGN confirmed on biopsy",
-        "Severe acute tubular necrosis",
-        "Thrombotic microangiopathy"
-      ],
-      "ans": 0,
-      "exp": "RPRF: RPGN (m/c), severe ATN, TMA; nephrotic syndrome sits under normal RFT with renal disease. (Book p749)"
-    },
-    {
-      "id": "MED-C8-017",
-      "sec": "CKD Mimics & Non-CKD Categories",
-      "page": 749,
-      "fmt": "match",
-      "q": "Match each item of the hypertensive-crisis branch with its label — 1) Renal artery stenosis 2) Thrombotic microangiopathy 3) Hypertensive crisis … A) Small vessel kidney disease B) Large vessel kidney disease C) Vascular cause",
-      "opts": [
-        "1-B, 2-A, 3-C",
-        "1-A, 2-B, 3-C",
-        "1-B, 2-C, 3-A",
-        "1-C, 2-A, 3-B"
-      ],
-      "ans": 0,
-      "exp": "Hypertensive crisis: vascular cause; RAS = large vessel kidney disease; TMA = small vessel kidney disease. (Book p749)"
-    },
-    {
-      "id": "MED-C8-018",
-      "sec": "CKD Mimics & Non-CKD Categories",
-      "page": 749,
-      "fmt": "recall",
-      "q": "Normal RFT with renal disease includes nephrotic syndrome, asymptomatic urine abnormality and:",
-      "opts": [
-        "Renal tubular acidosis type I/II",
-        "Acute tubular necrosis",
-        "Renal artery stenosis",
-        "Postrenal obstruction"
-      ],
-      "ans": 0,
-      "exp": "Normal RFT with renal disease: nephrotic syn, renal tubular acidosis type I/II, asymptomatic urine abnormality. (Book p749)"
-    },
-    {
-      "id": "MED-C8-019",
-      "sec": "CKD Mimics & Non-CKD Categories",
-      "page": 749,
-      "fmt": "recall",
-      "q": "Renal artery stenosis is also known as:",
-      "opts": [
-        "Renovascular HTN (RVH) / renal artery occlusion disease (RAOD)",
-        "Renal vein thrombosis / nutcracker syndrome",
-        "Isosthenuric renal disease",
-        "Accelerated essential hypertension"
-      ],
-      "ans": 0,
-      "exp": "AKA renovascular HTN (RVH) / renal artery occlusion disease (RAOD). (Book p749)"
-    },
-    {
-      "id": "MED-C8-020",
-      "sec": "CKD Mimics & Non-CKD Categories",
-      "page": 749,
-      "fmt": "recall",
-      "q": "Left untreated, renal artery stenosis can progress to:",
-      "opts": [
-        "CKD / ischemic nephropathy",
-        "Nephrotic syndrome",
-        "Renal cell carcinoma",
-        "Medullary sponge kidney"
-      ],
-      "ans": 0,
-      "exp": "Can progress to CKD / ischemic nephropathy. (Book p749)"
-    },
-    {
-      "id": "MED-C8-021",
-      "sec": "CKD Mimics & Non-CKD Categories",
-      "page": 749,
-      "fmt": "truefalse",
-      "q": "Which vessel-size statement is TRUE as per the flowchart?",
-      "opts": [
-        "TMA is a small vessel kidney disease while RAS is a large vessel kidney disease",
-        "TMA is a large vessel kidney disease while RAS is a small vessel kidney disease",
-        "Both TMA and RAS are small vessel diseases",
-        "Both TMA and RAS are large vessel diseases"
-      ],
-      "ans": 0,
-      "exp": "RAS: large vessel kidney disease; TMA: small vessel kidney disease. (Book p749)"
-    },
-    {
-      "id": "MED-C8-022",
-      "sec": "RAS - Most Common Causes",
-      "page": 750,
-      "fmt": "match",
-      "q": "Match each population with its most common cause of RAS — 1) Overall 2) Young population 3) Indian/Asian population … A) Takayasu arteritis B) Atherosclerosis C) Fibromuscular dysplasia",
-      "opts": [
-        "1-B, 2-C, 3-A",
-        "1-A, 2-C, 3-B",
-        "1-B, 2-A, 3-C",
-        "1-C, 2-B, 3-A"
-      ],
-      "ans": 0,
-      "exp": "Overall: atherosclerosis; young population: fibromuscular dysplasia; Indian/Asian: Takayasu arteritis. (Book p750)"
-    },
-    {
-      "id": "MED-C8-023",
-      "sec": "RAS - Most Common Causes",
-      "page": 750,
-      "fmt": "recall",
-      "q": "In young males, the cause of RAS that involves the entire length of the renal artery with microaneurysms is:",
-      "opts": [
-        "Polyarteritis nodosa",
-        "Takayasu arteritis",
-        "Fibromuscular dysplasia",
-        "Atherosclerosis"
-      ],
-      "ans": 0,
-      "exp": "Young males: polyarteritis nodosa – entire length renal artery – microaneurysm. (Book p750)"
-    },
-    {
-      "id": "MED-C8-024",
-      "sec": "RAS - Most Common Causes",
-      "page": 750,
-      "fmt": "numeric",
-      "q": "Atherosclerotic RAS involves the proximal renal artery over 1-2 cm and becomes symptomatic beyond what occlusion?",
-      "opts": [
-        ">80% occlusion",
-        ">50% occlusion",
-        ">95% occlusion",
-        ">30% occlusion"
-      ],
-      "ans": 0,
-      "exp": "Atherosclerosis: proximal renal artery (1-2 cm); symptomatic: >80% occlusion. (Book p750)"
-    },
-    {
-      "id": "MED-C8-025",
-      "sec": "RAS - Most Common Causes",
-      "page": 750,
-      "fmt": "fillup",
-      "q": "Fill up: Fibromuscular dysplasia, the young-population cause, affects the ______ renal artery.",
-      "opts": [
-        "Mid to distal",
-        "Proximal",
-        "Entire length of",
-        "Ostial segment of"
-      ],
-      "ans": 0,
-      "exp": "Fibromuscular dysplasia (arteriopathy): mid to distal renal artery. (Book p750)"
-    },
-    {
-      "id": "MED-C8-026",
-      "sec": "RAS - Most Common Causes",
-      "page": 750,
-      "fmt": "numeric",
-      "q": "The female-to-male ratio written for Takayasu arteritis is:",
-      "opts": [
-        "9:1",
-        "1:9",
-        "4:1",
-        "1:4"
-      ],
-      "ans": 0,
-      "exp": "Takayasu arteritis (F:M = 9:1), proximal renal artery. (Book p750)"
-    },
-    {
-      "id": "MED-C8-027",
-      "sec": "RAS - Most Common Causes",
-      "page": 750,
-      "fmt": "recall",
-      "q": "The types of RAS are explained by the Goldblatt:",
-      "opts": [
-        "Two kidney one clip model",
-        "One kidney two clip model",
-        "Two kidney two clip model",
-        "Single kidney unclip model"
-      ],
-      "ans": 0,
-      "exp": "Explain by Goldblatt: two kidney one clip model. (Book p750)"
-    },
-    {
-      "id": "MED-C8-028",
-      "sec": "RAS - Most Common Causes",
-      "page": 750,
-      "fmt": "recall",
-      "q": "The pathogenesis of unilateral RAS starts with the clue:",
-      "opts": [
-        "Asymmetric kidney size",
-        "Bilateral small kidneys",
-        "Loss of corticomedullary differentiation",
-        "Hydronephroureteronephrosis"
-      ],
-      "ans": 0,
-      "exp": "Unilateral RAS pathogenesis: asymmetric kidney size. (Book p750)"
-    },
-    {
-      "id": "MED-C8-029",
-      "sec": "Unilateral RAS Pathogenesis",
-      "page": 750,
-      "fmt": "recall",
-      "q": "The written vasoconstriction potency order is:",
-      "opts": [
-        "Urotensin > endothelin > AT-II",
-        "Endothelin > urotensin > AT-II",
-        "AT-II > endothelin > urotensin",
-        "Urotensin > AT-II > endothelin"
-      ],
-      "ans": 0,
-      "exp": "Vasoconstriction potency: urotension > endothelin > AT-II. (Book p750)"
-    },
-    {
-      "id": "MED-C8-030",
-      "sec": "Unilateral RAS Pathogenesis",
-      "page": 750,
-      "fmt": "recall",
-      "q": "The clinical feature and basic investigation picture of unilateral RAS are:",
-      "opts": [
-        "Persistent HTN with RFT and urine analysis in the normal range",
-        "Persistent HTN with abnormal urine analysis",
-        "Flash pulmonary edema with raised S. creatinine",
-        "Hematuria with low complement"
-      ],
-      "ans": 0,
-      "exp": "C/F: persistent HTN; basic investigation (RFT, urine analysis) normal range. (Book p750)"
-    },
-    {
-      "id": "MED-C8-031",
-      "sec": "Unilateral RAS Pathogenesis",
-      "page": 750,
-      "fmt": "recall",
-      "q": "In the affected kidney of unilateral RAS, the sequence after reduced RBF/perfusion is:",
-      "opts": [
-        "Renin angiotensin system → ↑ aldosterone → ↑ AT-II → profound vasoconstriction → ↑ BP",
-        "↑ RIHP → ↓ PCT reabsorption → natriuresis",
-        "↓ Aldosterone → ↓ AT-II → vasodilatation",
-        "Pressure natriuresis with ↑ Na+/H2O excretion"
-      ],
-      "ans": 0,
-      "exp": "Affected kidney: ↓ RBF/perfusion → (+) renin angiotensin → (+) ↑ aldosterone → ↑ AT-II ↑↑ → profound vasoconstriction → ↑ BP → HTN/HTN crisis. (Book p750)"
-    },
-    {
-      "id": "MED-C8-032",
-      "sec": "Unilateral RAS Pathogenesis",
-      "page": 750,
-      "fmt": "fillup",
-      "q": "Fill up: In the normal kidney, ↑ renal interstitial hydrostatic pressure reduces reabsorption from the ______, producing pressure natriuresis.",
-      "opts": [
-        "PCT",
-        "DCT",
-        "Collecting duct",
-        "Thick ascending limb"
-      ],
-      "ans": 0,
-      "exp": "Normal kidney: ↑ RIHP → ↓ reabsorption from PCT → ↑ excretion of Na+/H2O (pressure natriuresis theory). (Book p750)"
-    },
-    {
-      "id": "MED-C8-033",
-      "sec": "Unilateral RAS Pathogenesis",
-      "page": 750,
-      "fmt": "truefalse",
-      "q": "Which statement about the normal (contralateral) kidney in unilateral RAS is TRUE?",
-      "opts": [
-        "It shows ↑ renal blood flow/medullary flow with ↑ RIHP",
-        "It shows ↓ renal blood flow and activated renin",
-        "It reabsorbs more sodium from the PCT",
-        "It undergoes profound vasoconstriction"
-      ],
-      "ans": 0,
-      "exp": "Normal kidney: ↑ RBF/medullary flow → ↑ RIHP → ↓ PCT reabsorption → ↑ Na+/H2O excretion. (Book p750)"
-    },
-    {
-      "id": "MED-C8-034",
-      "sec": "Unilateral RAS Pathogenesis",
-      "page": 750,
-      "fmt": "oddoneout",
-      "q": "The book's note lists asymmetric kidney in vesicoureteral reflux and renal artery stenosis; it is NOT listed for:",
-      "opts": [
-        "Diabetic nephropathy",
-        "Vesicoureteral reflux",
-        "Renal artery stenosis",
-        "Unilateral renal hypoperfusion"
-      ],
-      "ans": 0,
-      "exp": "Asymmetric kidney seen in: vesicoureteral reflux; renal artery stenosis. (Book p750)"
-    },
-    {
-      "id": "MED-C8-035",
-      "sec": "Unilateral RAS Pathogenesis",
-      "page": 750,
-      "fmt": "recall",
-      "q": "In the affected kidney, the doubly-raised AT-II produces:",
-      "opts": [
-        "Profound vasoconstriction with rising blood pressure",
-        "Pressure natriuresis with sodium loss",
-        "Falling aldosterone levels",
-        "Increased medullary flow"
-      ],
-      "ans": 0,
-      "exp": "↑ Angiotensin II (AT-II) ↑↑ → profound vasoconstriction → ↑ blood pressure → HTN/HTN crisis. (Book p750)"
-    },
-    {
-      "id": "MED-C8-036",
-      "sec": "RAS Investigations & Unilateral Treatment",
-      "page": 751,
-      "fmt": "recall",
-      "q": "On USG the radiological clue for RAS is asymmetric kidney; the screening test is:",
-      "opts": [
-        "Renal doppler",
-        "CT renal angiography",
-        "MR angiography",
-        "Conventional angiography"
-      ],
-      "ans": 0,
-      "exp": "On USG: asymmetric kidney; screening test: renal doppler. (Book p751)"
-    },
-    {
-      "id": "MED-C8-037",
-      "sec": "RAS Investigations & Unilateral Treatment",
-      "page": 751,
-      "fmt": "recall",
-      "q": "The investigation of choice to confirm renal artery stenosis is:",
-      "opts": [
-        "CT renal angio or MR angiography",
-        "Renal doppler screening",
-        "USG abdomen without doppler",
-        "Captopril DTPA renogram"
-      ],
-      "ans": 0,
-      "exp": "IOC: CT renal angio or MR angiography (confirms the doppler screen). (Book p751)"
-    },
-    {
-      "id": "MED-C8-038",
-      "sec": "RAS Investigations & Unilateral Treatment",
-      "page": 751,
-      "fmt": "management",
-      "q": "The drug of choice written for unilateral RAS is:",
-      "opts": [
-        "ACE inhibitors / ARBs",
-        "Diuretics",
-        "Beta blockers",
-        "Calcium channel blockers"
-      ],
-      "ans": 0,
-      "exp": "Treatment: ACE inhibitors / ARBs – (DOC). (Book p751)"
-    },
-    {
-      "id": "MED-C8-039",
-      "sec": "RAS Investigations & Unilateral Treatment",
-      "page": 751,
-      "fmt": "numeric",
-      "q": "Percutaneous transluminal renal angioplasty (PTRA) is offered only if the kidney size is above:",
-      "opts": [
-        "8 cm",
-        "7 cm",
-        "9 cm",
-        "11 cm"
-      ],
-      "ans": 0,
-      "exp": "PTRA – only if kidney size > 8 cm. (Book p751)"
-    },
-    {
-      "id": "MED-C8-040",
-      "sec": "Bilateral RAS",
-      "page": 751,
-      "fmt": "recall",
-      "q": "The prognosis written for bilateral RAS is:",
-      "opts": [
-        "Poor prognosis",
-        "Good prognosis",
-        "Self-limiting course",
-        "Responsive to PTRA alone without stenting"
-      ],
-      "ans": 0,
-      "exp": "Bilateral RAS: poor prognosis. (Book p751)"
-    },
-    {
-      "id": "MED-C8-041",
-      "sec": "Bilateral RAS",
-      "page": 751,
-      "fmt": "recall",
-      "q": "In bilateral RAS, loss of pressure natriuresis with ↓ RIHP leads to:",
-      "opts": [
-        "↑ Na+/H2O retention → intravascular volume overload → recurrent flash pulmonary edema",
-        "↑ Na+ excretion with volume contraction",
-        "Sustained renin activation without volume change",
-        "Isolated medullary washout"
-      ],
-      "ans": 0,
-      "exp": "Loss of pressure natriuresis / ↓ RIHP → ↑ Na+/H2O retention → intravascular volume overload → recurrent flash pulmonary edema (d/t intravascular edema). (Book p751)"
-    },
-    {
-      "id": "MED-C8-042",
-      "sec": "Bilateral RAS",
-      "page": 751,
-      "fmt": "truefalse",
-      "q": "Which statement about the bilateral RAS diagram is TRUE?",
-      "opts": [
-        "Intravascular volume overload feeds back negatively on the renin angiotensin system",
-        "The renin angiotensin system stays maximally stimulated without feedback",
-        "Pressure natriuresis is preserved in both kidneys",
-        "RIHP rises in both kidneys"
-      ],
-      "ans": 0,
-      "exp": "The (−) arrow shows intravascular volume overload inhibiting the renin angiotensin system. (Book p751)"
-    },
-    {
-      "id": "MED-C8-043",
-      "sec": "Bilateral RAS",
-      "page": 751,
-      "fmt": "management",
-      "q": "Recurrent flash pulmonary edema in bilateral RAS is treated with:",
-      "opts": [
-        "B/L percutaneous transluminal renal angioplasty with stenting",
-        "Unilateral nephrectomy",
-        "High-dose ACE inhibitors",
-        "Long-term hemodialysis"
-      ],
-      "ans": 0,
-      "exp": "Rx: B/L percutaneous transluminal renal angioplasty with stenting. (Book p751)"
-    },
-    {
-      "id": "MED-C8-044",
-      "sec": "Bilateral RAS",
-      "page": 751,
-      "fmt": "management",
-      "q": "For blood pressure control in bilateral RAS, the book lists diuretics as DOC while ACE inhibitors/ARBs are:",
-      "opts": [
-        "Contraindicated as they ↓ GFR",
-        "The first-line agents",
-        "Safe only with stenting",
-        "Used with double dosing"
-      ],
-      "ans": 0,
-      "exp": "In BP: diuretics (DOC); ACE inhibitors / ARBs: C/I as they ↓ GFR. (Book p751)"
-    },
-    {
-      "id": "MED-C8-045",
-      "sec": "Bilateral RAS",
-      "page": 751,
-      "fmt": "oddoneout",
-      "q": "All of the following are listed in the bilateral RAS treatment block EXCEPT:",
-      "opts": [
-        "Start NSAIDs",
-        "Stop smoking",
-        "Start statins",
-        "Diuretics for blood pressure"
-      ],
-      "ans": 0,
-      "exp": "Listed: diuretics (DOC), stop smoking, start statins; ACEi/ARBs are C/I. (Book p751)"
-    },
-    {
-      "id": "MED-C8-046",
-      "sec": "CDU Screening & Fibromuscular Dysplasia",
-      "page": 752,
-      "fmt": "recall",
-      "q": "The book's caution while interpreting flash pulmonary edema in this context is:",
-      "opts": [
-        "Every pulmonary edema is cardiac unless proven otherwise",
-        "Every pulmonary edema is renal unless proven otherwise",
-        "Flash pulmonary edema excludes cardiac disease",
-        "Pulmonary edema never occurs in bilateral RAS"
-      ],
-      "ans": 0,
-      "exp": "Note: every pulmonary edema is cardiac unless proven otherwise. (Book p752)"
-    },
-    {
-      "id": "MED-C8-047",
-      "sec": "CDU Screening & Fibromuscular Dysplasia",
-      "page": 752,
-      "fmt": "recall",
-      "q": "The screening test named on this page is renal artery stenosis colour doppler ultrasound (CDU); its characteristic waveform clue is the:",
-      "opts": [
-        "Parvus tardus pattern",
-        "Water-hammer pattern",
-        "Pulsus alternans pattern",
-        "Bisferiens pattern"
-      ],
-      "ans": 0,
-      "exp": "Screening test: RAS colour doppler ultrasound (CDU); look for parvus tardus pattern. (Book p752)"
-    },
-    {
-      "id": "MED-C8-048",
-      "sec": "CDU Screening & Fibromuscular Dysplasia",
-      "page": 752,
-      "fmt": "numeric",
-      "q": "On CDU, a resistivity index (RI) at or above which value points to parenchymal disease (CKD)?",
-      "opts": [
-        "0.8",
-        "0.5",
-        "1.0",
-        "0.65"
-      ],
-      "ans": 0,
-      "exp": "RI ≥ 0.8 → parenchymal disease: CKD. (Book p752)"
-    },
-    {
-      "id": "MED-C8-049",
-      "sec": "CDU Screening & Fibromuscular Dysplasia",
-      "page": 752,
-      "fmt": "numeric",
-      "q": "With RI < 0.8, the stenosis criteria that route the patient to CT/MR renal angiography are:",
-      "opts": [
-        "Peak systolic velocity > 180 cm/s OR RAR > 3.5 OR ΔRI > 0.05",
-        "Peak systolic velocity > 100 cm/s OR RAR > 2.5 OR ΔRI > 0.01",
-        "Peak systolic velocity > 250 cm/s OR RAR > 5 OR ΔRI > 0.1",
-        "Peak systolic velocity > 180 mm/s OR RAR > 3.5 OR ΔRI > 0.5"
-      ],
-      "ans": 0,
-      "exp": "RI < 0.8 with PSV > 180 cm/s OR RAR > 3.5 OR ΔRI > 0.05 → CT/MR renal angiography (IOC). (Book p752)"
-    },
-    {
-      "id": "MED-C8-050",
-      "sec": "CDU Screening & Fibromuscular Dysplasia",
-      "page": 752,
-      "fmt": "oddoneout",
-      "q": "All of the following are CDU look-for criteria of RAS EXCEPT:",
-      "opts": [
-        "Peak systolic velocity > 80 cm/s",
-        "Parvus tardus waveform on doppler",
-        "Renal-arterial ratio (RAR) > 3.5",
-        "A delta RI greater than 0.05"
-      ],
-      "ans": 0,
-      "exp": "The book's velocity criterion is peak systolic velocity > 180 cm/s, not 80 cm/s. (Book p752)"
-    },
-    {
-      "id": "MED-C8-051",
-      "sec": "CDU Screening & Fibromuscular Dysplasia",
-      "page": 752,
-      "fmt": "recall",
-      "q": "The IOC after a positive screen is CT/MR renal angiography; the gold standard that is both diagnostic and therapeutic is:",
-      "opts": [
-        "Conventional angiography",
-        "Renal doppler ultrasound",
-        "CT renal angiography",
-        "Captopril DTPA renogram"
-      ],
-      "ans": 0,
-      "exp": "Conventional angiograph (gold standard): diagnostic and therapeutic. (Book p752)"
-    },
-    {
-      "id": "MED-C8-052",
-      "sec": "CDU Screening & Fibromuscular Dysplasia",
-      "page": 752,
-      "fmt": "truefalse",
-      "q": "Which statement about fibromuscular dysplasia is TRUE?",
-      "opts": [
-        "It is a non-atherosclerotic, non-inflammatory arteriopathy most common in young girls",
-        "It is an atherosclerotic disease of elderly males",
-        "It is an inflammatory vasculitis of the proximal aorta",
-        "It involves only cerebral vessels"
-      ],
-      "ans": 0,
-      "exp": "Non atherosclerotic/non inflammatory arteriopathy; incident: m/c in young girls. (Book p752)"
-    },
-    {
-      "id": "MED-C8-053",
-      "sec": "CDU Screening & Fibromuscular Dysplasia",
-      "page": 752,
-      "fmt": "recall",
-      "q": "The pathology of fibromuscular dysplasia is medial fibroplasia in the tunica media of the:",
-      "opts": [
-        "Middle to distal renal artery",
-        "The proximal renal artery segment",
-        "Renal vein",
-        "Aorto-ostial segment"
-      ],
-      "ans": 0,
-      "exp": "Involves middle to distal renal artery: medial fibroplasia in tunica media. (Book p752)"
-    },
-    {
-      "id": "MED-C8-054",
-      "sec": "CDU Screening & Fibromuscular Dysplasia",
-      "page": 752,
-      "fmt": "numeric",
-      "q": "Fibromuscular dysplasia is bilateral in the renal arteries in 25% of cases; the other 25% involve:",
-      "opts": [
-        "Cerebral vessels",
-        "Coronary arteries",
-        "Mesenteric arteries",
-        "Pulmonary arteries"
-      ],
-      "ans": 0,
-      "exp": "25% B/L renal artery, 25% involves cerebral vessels. (Book p752)"
-    },
-    {
-      "id": "MED-C8-055",
-      "sec": "CDU Screening & Fibromuscular Dysplasia",
-      "page": 752,
-      "fmt": "recall",
-      "q": "The angiographic feature illustrated for medial fibromuscular dysplasia is the:",
-      "opts": [
-        "\"String of beads\" feature",
-        "Corkscrew collateral feature",
-        "Apple-core feature",
-        "Railroad-track feature"
-      ],
-      "ans": 0,
-      "exp": "The \"string of beads\" feature in medial fibromuscular dysplasia. (Book p752)"
-    },
-    {
-      "id": "MED-C8-056",
-      "sec": "CDU Screening & Fibromuscular Dysplasia",
-      "page": 752,
-      "fmt": "management",
-      "q": "The treatment of choice for fibromuscular dysplasia, carrying a good prognosis, is:",
-      "opts": [
-        "PTRA",
-        "Surgical bypass",
-        "Long-term ACE inhibitors alone",
-        "Renal autotransplantation"
-      ],
-      "ans": 0,
-      "exp": "Treatment: PTRA (good prognosis). (Book p752)"
-    }
-  ],
-  "units": [
-    {
-      "id": "MED-U8-1",
-      "ch": 8,
-      "n": 1,
-      "title": "Initial investigation & USG approach",
-      "sec": "Initial Investigation & USG Approach · p748",
-      "guide": "The initial triad (USG abdomen, RFT with urea/creatinine/Na+/K+, urine analysis with preferred 24hr protein), the size/CMD algorithm (<8 cm, 8-10 cm loss of CMD, >10 cm loss of CMD in DM/HIV/amyloidosis), normal-kidney echogenicity and the CKD end-points.",
-      "qs": [
-        "MED-C8-001",
-        "MED-C8-002",
-        "MED-C8-003",
-        "MED-C8-004",
-        "MED-C8-005",
-        "MED-C8-006",
-        "MED-C8-007",
-        "MED-C8-008",
-        "MED-C8-009",
-        "MED-C8-010"
-      ]
-    },
-    {
-      "id": "MED-U8-2",
-      "ch": 8,
-      "n": 2,
-      "title": "CKD mimics & the AKI arm",
-      "sec": "CKD Mimics & Non-CKD Categories · p749",
-      "guide": "Rule out hydronephroureteronephrosis before labelling CKD, then the tempo-based non-CKD split: hours-days AKI (postrenal/pre-renal/ATN/AIN) with the prerenal normal-urine clue.",
-      "qs": [
-        "MED-C8-011",
-        "MED-C8-012",
-        "MED-C8-013",
-        "MED-C8-014"
-      ]
-    },
-    {
-      "id": "MED-U8-3",
-      "ch": 8,
-      "n": 3,
-      "title": "RPRF, vascular causes & RAS introduction",
-      "sec": "CKD Mimics & Non-CKD Categories · p749",
-      "guide": "Days-weeks RPRF (RPGN m/c by biopsy; severe ATN/TMA rare), the hypertensive-crisis vascular branch (RAS large-vessel vs TMA small-vessel), the normal-RFT trio, and RAS aliases and its progression to CKD/ischemic nephropathy.",
-      "qs": [
-        "MED-C8-015",
-        "MED-C8-016",
-        "MED-C8-017",
-        "MED-C8-018",
-        "MED-C8-019",
-        "MED-C8-020",
-        "MED-C8-021"
-      ]
-    },
-    {
-      "id": "MED-U8-4",
-      "ch": 8,
-      "n": 4,
-      "title": "RAS: most common causes & Goldblatt model",
-      "sec": "RAS - Most Common Causes · p750",
-      "guide": "Cause-by-population table (atherosclerosis proximal 1-2 cm >80% occlusion; FMD mid-distal; Takayasu F:M 9:1 proximal; PAN young males entire length with microaneurysm), the two-kidney-one-clip model and the asymmetric-kidney entry point.",
-      "qs": [
-        "MED-C8-022",
-        "MED-C8-023",
-        "MED-C8-024",
-        "MED-C8-025",
-        "MED-C8-026",
-        "MED-C8-027",
-        "MED-C8-028"
-      ]
-    },
-    {
-      "id": "MED-U8-5",
-      "ch": 8,
-      "n": 5,
-      "title": "Unilateral RAS pathogenesis",
-      "sec": "Unilateral RAS Pathogenesis · p750",
-      "guide": "Both limbs of the unilateral diagram: affected kidney (↓RBF → renin → aldosterone → AT-II ↑↑ → vasoconstriction → HTN) vs normal kidney (↑RBF/↑RIHP → ↓PCT reabsorption → pressure natriuresis), plus vasoconstrictor potency and the persistent-HTN/normal-basic-Ix picture.",
-      "qs": [
-        "MED-C8-029",
-        "MED-C8-030",
-        "MED-C8-031",
-        "MED-C8-032",
-        "MED-C8-033",
-        "MED-C8-034",
-        "MED-C8-035"
-      ]
-    },
-    {
-      "id": "MED-U8-6",
-      "ch": 8,
-      "n": 6,
-      "title": "RAS investigations & unilateral treatment",
-      "sec": "RAS Investigations & Unilateral Treatment · p751",
-      "guide": "USG asymmetric kidney → renal doppler screen → CT/MR angiography IOC; ACEi/ARBs as DOC and PTRA only when the kidney is >8 cm.",
-      "qs": [
-        "MED-C8-036",
-        "MED-C8-037",
-        "MED-C8-038",
-        "MED-C8-039"
-      ]
-    },
-    {
-      "id": "MED-U8-7",
-      "ch": 8,
-      "n": 7,
-      "title": "Bilateral RAS: pathogenesis & treatment",
-      "sec": "Bilateral RAS · p751",
-      "guide": "Poor prognosis; loss of pressure natriuresis/↓RIHP → Na+/H2O retention → volume overload → flash pulmonary edema with (−) renin feedback; B/L PTRA with stenting; diuretics DOC with ACEi/ARBs C/I; stop smoking and statins.",
-      "qs": [
-        "MED-C8-040",
-        "MED-C8-041",
-        "MED-C8-042",
-        "MED-C8-043",
-        "MED-C8-044",
-        "MED-C8-045"
-      ]
-    },
-    {
-      "id": "MED-U8-8",
-      "ch": 8,
-      "n": 8,
-      "title": "CDU screening values & fibromuscular dysplasia",
-      "sec": "CDU Screening & Fibromuscular Dysplasia · p752",
-      "guide": "CDU with parvus tardus, RI ≥ 0.8 → CKD vs RI < 0.8 with PSV >180 cm/s / RAR >3.5 / ΔRI >0.05 → CT/MR IOC and conventional angiography gold standard; FMD's young-girl epidemiology, medial fibroplasia, 25% bilateral/25% cerebral, string-of-beads and PTRA.",
-      "qs": [
-        "MED-C8-046",
-        "MED-C8-047",
-        "MED-C8-048",
-        "MED-C8-049",
-        "MED-C8-050",
-        "MED-C8-051",
-        "MED-C8-052",
-        "MED-C8-053",
-        "MED-C8-054",
-        "MED-C8-055",
-        "MED-C8-056"
-      ]
-    }
-  ]
+ "chapter": 8,
+ "title": "Basic Approach to Kidney Disease and Renal Artery Stenosis",
+ "pageRange": "748-752",
+ "questions": [
+  {
+   "id": "MED-C8-001",
+   "sec": "Initial Investigation & USG Approach",
+   "page": 748,
+   "fmt": "recall",
+   "q": "The initial investigation of kidney disease pairs USG abdomen and renal function tests with:",
+   "opts": [
+    "Serum lipid profile",
+    "Urine analysis",
+    "Renal biopsy",
+    "CT renal angiography"
+   ],
+   "ans": 1,
+   "exp": "Initial investigation: ultrasonography (USG) abdomen, renal function test (RFT) and urine analysis. (Book p748)"
+  },
+  {
+   "id": "MED-C8-002",
+   "sec": "Initial Investigation & USG Approach",
+   "page": 748,
+   "fmt": "recall",
+   "q": "For protein estimation in the initial urine analysis, the preferred test is:",
+   "opts": [
+    "Spot protein/creatinine only",
+    "Random urine dipstick",
+    "24hr protein",
+    "Spot albumin/creatinine only"
+   ],
+   "ans": 2,
+   "exp": "Urine analysis: 24hr protein (preferred), albumin/creatinine, protein/creatinine. (Book p748)"
+  },
+  {
+   "id": "MED-C8-003",
+   "sec": "Initial Investigation & USG Approach",
+   "page": 748,
+   "fmt": "recall",
+   "q": "The RFT arm of the initial investigation measures:",
+   "opts": [
+    "S. urea, S. creatinine, S. Na+ and S. K+",
+    "S. urea, S. uric acid, S. Ca2+ and S. Mg2+",
+    "S. creatinine, S. albumin, S. Na+ and S. K+",
+    "S. urea, S. creatinine, S. ALT and S. AST"
+   ],
+   "ans": 0,
+   "exp": "RFT: S. urea, S. creatinine, S. Na+, S. K+. (Book p748)"
+  },
+  {
+   "id": "MED-C8-004",
+   "sec": "Initial Investigation & USG Approach",
+   "page": 748,
+   "fmt": "numeric",
+   "q": "On the USG approach, a kidney size below which value points toward chronic kidney disease?",
+   "opts": [
+    "12 cm",
+    "6 cm",
+    "8 cm",
+    "10 cm"
+   ],
+   "ans": 2,
+   "exp": "Look for: kidney size <8 cm. (Book p748)"
+  },
+  {
+   "id": "MED-C8-005",
+   "sec": "Initial Investigation & USG Approach",
+   "page": 748,
+   "fmt": "recall",
+   "q": "Kidneys larger than 10 cm with loss of corticomedullary differentiation are classically seen with:",
+   "opts": [
+    "HTN, HIV and amyloidosis",
+    "DM, SLE and myeloma",
+    "DM, HIV and amyloidosis",
+    "DM, HIV and analgesic nephropathy"
+   ],
+   "ans": 2,
+   "exp": ">10 cm with loss of CMD with: DM, HIV, amyloidosis. (Book p748)"
+  },
+  {
+   "id": "MED-C8-006",
+   "sec": "Initial Investigation & USG Approach",
+   "page": 748,
+   "fmt": "oddoneout",
+   "q": "Enlarged (>10 cm) kidneys with loss of CMD are listed for all of the following EXCEPT:",
+   "opts": [
+    "HIV",
+    "Amyloidosis",
+    "Vesicoureteral reflux",
+    "Long-standing diabetes mellitus"
+   ],
+   "ans": 2,
+   "exp": "Loss of CMD with >10 cm kidneys: DM, HIV, amyloidosis; vesicoureteral reflux belongs to the asymmetric-kidney note. (Book p748)"
+  },
+  {
+   "id": "MED-C8-007",
+   "sec": "Initial Investigation & USG Approach",
+   "page": 748,
+   "fmt": "fillup",
+   "q": "Fill up: On the USG approach, seeing corticomedullary differentiation (CMD) places the patient in the ______ arm.",
+   "opts": [
+    "Renal artery stenosis",
+    "Chronic kidney disease (CKD)",
+    "Non-CKD",
+    "Acute kidney injury"
+   ],
+   "ans": 1,
+   "exp": "CMD present → CKD; absent → non-CKD. (Book p748)"
+  },
+  {
+   "id": "MED-C8-008",
+   "sec": "Initial Investigation & USG Approach",
+   "page": 748,
+   "fmt": "match",
+   "q": "Match each normal-kidney USG structure with its echogenicity — 1) Cortex 2) Pyramids 3) Fat, calyx, sinus, vessels … A) Hyperechoic B) Isoechoic C) Hypoechoic",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 2,
+   "exp": "Isoechoic: cortex; hypoechoic: pyramids; hyperechoic: fat, calyx, sinus, vessels. (Book p748)"
+  },
+  {
+   "id": "MED-C8-009",
+   "sec": "Initial Investigation & USG Approach",
+   "page": 748,
+   "fmt": "truefalse",
+   "q": "Which statement about the USG approach is TRUE?",
+   "opts": [
+    "Kidneys of 8-10 cm always retain CMD",
+    "Absent CMD places the patient in the CKD arm",
+    "USG abdomen is the most important investigation of the approach",
+    "Loss of CMD rules out chronic kidney disease"
+   ],
+   "ans": 2,
+   "exp": "USG abdomen (most important); CMD present → CKD, absent → non-CKD; 8-10 cm loss of CMD is itself a CKD clue. (Book p748)"
+  },
+  {
+   "id": "MED-C8-010",
+   "sec": "Initial Investigation & USG Approach",
+   "page": 748,
+   "fmt": "recall",
+   "q": "The two end-point branches drawn for established CKD are:",
+   "opts": [
+    "Hemodialysis and transplant",
+    "ACE inhibitors and diuretics",
+    "Biopsy and CT angiography",
+    "PTRA and stenting"
+   ],
+   "ans": 0,
+   "exp": "CKD → hemodialysis / transplant. (Book p748)"
+  },
+  {
+   "id": "MED-C8-011",
+   "sec": "Initial investigation, USG approach & figures · p748",
+   "page": 748,
+   "fmt": "recall",
+   "q": "Under 'Urine Analysis' in the initial-investigation flowchart, the box marked (Preferred) sits beside which two boxes?",
+   "opts": [
+    "24 hr creatinine and spot sodium",
+    "Urine culture and microscopy",
+    "Specific gravity and pH",
+    "Albumin/Creatinine and Protein/Creatinine"
+   ],
+   "ans": 3,
+   "exp": "Urine analysis branches into three printed boxes: 24hr Protein (Preferred), Albumin/Creatinine and Protein/Creatinine — i.e. the ratio tests that supplement the 24-hour collection. (Book p748)"
+  },
+  {
+   "id": "MED-C8-012",
+   "sec": "Initial investigation, USG approach & figures · p748",
+   "page": 748,
+   "fmt": "oddoneout",
+   "q": "The normal-kidney ultrasound figure lists several hyperechoic structures; which of these is NOT in that list?",
+   "opts": [
+    "Renal pyramid",
+    "Fat",
+    "Calyx",
+    "Sinus"
+   ],
+   "ans": 0,
+   "exp": "The labels read Isoechoic: Cortex; Hypoechoic: Pyramid; Hyperechoic: Fat, Calyx, sinus, vessels — the pyramid is the hypoechoic structure. (Book p748)"
+  },
+  {
+   "id": "MED-C8-013",
+   "sec": "Initial investigation, USG approach & figures · p748",
+   "page": 748,
+   "fmt": "truefalse",
+   "q": "The pair of ultrasound images drawn under 'Chronic Kidney Failure' is captioned 'Cortico medullary differentiation (CMD) lost'.",
+   "opts": [
+    "True — and the same caption also appears under the normal kidney",
+    "True — that caption sits below the two failure images",
+    "False — the caption is 'Corticomedullary differentiation preserved'",
+    "False — the caption belongs to the normal-kidney image"
+   ],
+   "ans": 1,
+   "exp": "The USG ABDOMEN – In CKD diagram contrasts a normal kidney (with cortex/pyramid labels) against chronic kidney failure images captioned 'Cortico medullary differentiation (CMD) lost'. (Book p748)"
+  },
+  {
+   "id": "MED-C8-014",
+   "sec": "Initial investigation, USG approach & figures · p748",
+   "page": 748,
+   "fmt": "fillup",
+   "q": "Fill up: In the 'Look for' list, kidneys measuring 8–10 cm are described by the finding of ______ of CMD.",
+   "opts": [
+    "Reversal",
+    "Normal preservation",
+    "Loss",
+    "Increase"
+   ],
+   "ans": 2,
+   "exp": "The three printed size lines are: kidney size <8 cm; 8–10 cm loss of CMD; >10 cm with loss of CMD with DM, HIV, amyloidosis. (Book p748)"
+  },
+  {
+   "id": "MED-C8-015",
+   "sec": "Initial investigation, USG approach & figures · p748",
+   "page": 748,
+   "fmt": "scenario",
+   "q": "A 46-year-old with raised creatinine has bilaterally 7.4 cm kidneys on ultrasound. According to the 'Look for' list, this size band:",
+   "opts": [
+    "Is a normal adult kidney length",
+    "Is the first entry, below 8 cm, and supports chronic kidney disease",
+    "Falls in the 8–10 cm band, so CMD must be assessed first",
+    "Falls in the >10 cm band typical of amyloidosis"
+   ],
+   "ans": 1,
+   "exp": "The first bullet of the look-for list is 'Kidney size <8 cm', which the flowchart uses to place the patient under chronic kidney disease. (Book p748)"
+  },
+  {
+   "id": "MED-C8-016",
+   "sec": "Initial investigation, USG approach & figures · p748",
+   "page": 748,
+   "fmt": "recall",
+   "q": "In the approach flowchart, corticomedullary differentiation marked 'Absent' leads to which label?",
+   "opts": [
+    "Hemodialysis",
+    "Non-CKD",
+    "CKD",
+    "Transplant"
+   ],
+   "ans": 1,
+   "exp": "As printed, CMD 'Present' runs down to Chronic kidney disease (CKD) and then to Hemodialysis or Transplant, while 'Absent' is routed to Non-CKD — the chart's arrow directions, not the textbook convention, must be quoted here. (Book p748)"
+  },
+  {
+   "id": "MED-C8-017",
+   "sec": "CKD Mimics & Non-CKD Categories",
+   "page": 749,
+   "fmt": "recall",
+   "q": "Before diagnosing CKD on USG one must rule out hydronephroureteronephrosis, whose clue on imaging is:",
+   "opts": [
+    "A parvus tardus waveform",
+    "Calyces becoming prominent and ureter seen",
+    "Loss of corticomedullary differentiation",
+    "Small echogenic kidneys"
+   ],
+   "ans": 1,
+   "exp": "Rule out hydronephroureteronephrosis before diagnosing CKD; calyces becoming prominent and ureter seen. (Book p749)"
+  },
+  {
+   "id": "MED-C8-018",
+   "sec": "CKD Mimics & Non-CKD Categories",
+   "page": 749,
+   "fmt": "match",
+   "q": "Match each tempo with its non-CKD category — 1) Hours to days 2) Days to weeks 3) Normal RFT with renal disease … A) Acute kidney injury (AKI) B) Rapidly progressive renal failure (RPRF) C) Nephrotic syn / RTA type I-II / asymptomatic urine abnormality",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 3,
+   "exp": "Hours to days → AKI; days to weeks → RPRF; normal RFT with renal disease → nephrotic syn, RTA I/II, asymptomatic urine abnormality. (Book p749)"
+  },
+  {
+   "id": "MED-C8-019",
+   "sec": "CKD Mimics & Non-CKD Categories",
+   "page": 749,
+   "fmt": "recall",
+   "q": "The AKI arm of the flowchart lists postrenal, ATN, AIN and:",
+   "opts": [
+    "Pre-renal investigation with normal urine analysis",
+    "RPGN confirmed with biopsy",
+    "Nephrotic syndrome",
+    "Renal artery stenosis"
+   ],
+   "ans": 0,
+   "exp": "AKI: postrenal (B/L hydronephroureteronephrosis on USG), pre-renal (normal urine analysis), ATN, AIN. (Book p749)"
+  },
+  {
+   "id": "MED-C8-020",
+   "sec": "CKD Mimics & Non-CKD Categories",
+   "page": 749,
+   "fmt": "truefalse",
+   "q": "Which statement about the AKI arm is TRUE?",
+   "opts": [
+    "B/L hydronephroureteronephrosis defines the pre-renal category",
+    "The pre-renal category is expected to show a normal urine analysis",
+    "The postrenal category shows a normal USG",
+    "ATN and AIN are postrenal causes"
+   ],
+   "ans": 1,
+   "exp": "Pre-renal investigation: normal urine analysis; postrenal: B/L hydronephroureteronephrosis (USG). (Book p749)"
+  },
+  {
+   "id": "MED-C8-021",
+   "sec": "CKD mimics & the AKI arm · p749",
+   "page": 749,
+   "fmt": "fillup",
+   "q": "Fill up: In the hours-to-days AKI list, ATN is expanded on this page as acute tubular ______.",
+   "opts": [
+    "neoplasia",
+    "nephrosis",
+    "nephritis",
+    "necrosis"
+   ],
+   "ans": 1,
+   "exp": "The printed lines are 'Acute tubular nephrosis (ATN)' and 'Acute interstitial nephrosis (AIN)' — the page uses nephrosis for both, unlike the usual nephritis wording seen elsewhere in the notes. (Book p749)"
+  },
+  {
+   "id": "MED-C8-022",
+   "sec": "CKD mimics & the AKI arm · p749",
+   "page": 749,
+   "fmt": "truefalse",
+   "q": "The postrenal line of the AKI branch reads B/L hydroureteronephrosis with USG written in brackets.",
+   "opts": [
+    "True — ultrasound is the study named against postrenal AKI",
+    "False — the bracketed investigation is CT abdomen",
+    "False — the line names retrograde pyelography",
+    "True — and the same line adds 'diagnosed with biopsy'"
+   ],
+   "ans": 0,
+   "exp": "Printed: 'Postrenal : B/L hydroureteronephrosis (USG)'; the biopsy line belongs to RPGN in the days-to-weeks branch. (Book p749)"
+  },
+  {
+   "id": "MED-C8-023",
+   "sec": "CKD Mimics & Non-CKD Categories",
+   "page": 749,
+   "fmt": "recall",
+   "q": "Rapidly progressive renal failure most commonly turns out to be:",
+   "opts": [
+    "Thrombotic microangiopathy",
+    "Acute interstitial nephropathy",
+    "RPGN, diagnosed with biopsy",
+    "Severe ATN"
+   ],
+   "ans": 2,
+   "exp": "RPRF → RPGN (m/c), diagnosed with biopsy; severe ATN and TMA are rare causes. (Book p749)"
+  },
+  {
+   "id": "MED-C8-024",
+   "sec": "CKD Mimics & Non-CKD Categories",
+   "page": 749,
+   "fmt": "oddoneout",
+   "q": "All of the following appear under rapidly progressive renal failure in the flowchart EXCEPT:",
+   "opts": [
+    "Severe acute tubular necrosis",
+    "Thrombotic microangiopathy",
+    "Nephrotic syndrome",
+    "RPGN confirmed on biopsy"
+   ],
+   "ans": 2,
+   "exp": "RPRF: RPGN (m/c), severe ATN, TMA; nephrotic syndrome sits under normal RFT with renal disease. (Book p749)"
+  },
+  {
+   "id": "MED-C8-025",
+   "sec": "CKD Mimics & Non-CKD Categories",
+   "page": 749,
+   "fmt": "match",
+   "q": "Match each item of the hypertensive-crisis branch with its label — 1) Renal artery stenosis 2) Thrombotic microangiopathy 3) Hypertensive crisis … A) Small vessel kidney disease B) Large vessel kidney disease C) Vascular cause",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 1,
+   "exp": "Hypertensive crisis: vascular cause; RAS = large vessel kidney disease; TMA = small vessel kidney disease. (Book p749)"
+  },
+  {
+   "id": "MED-C8-026",
+   "sec": "CKD Mimics & Non-CKD Categories",
+   "page": 749,
+   "fmt": "recall",
+   "q": "Normal RFT with renal disease includes nephrotic syndrome, asymptomatic urine abnormality and:",
+   "opts": [
+    "Postrenal obstruction",
+    "Renal tubular acidosis type I/II",
+    "Acute tubular necrosis",
+    "Renal artery stenosis"
+   ],
+   "ans": 1,
+   "exp": "Normal RFT with renal disease: nephrotic syn, renal tubular acidosis type I/II, asymptomatic urine abnormality. (Book p749)"
+  },
+  {
+   "id": "MED-C8-027",
+   "sec": "CKD Mimics & Non-CKD Categories",
+   "page": 749,
+   "fmt": "recall",
+   "q": "Renal artery stenosis is also known as:",
+   "opts": [
+    "Renovascular HTN (RVH) / renal artery occlusion disease (RAOD)",
+    "Renal vein thrombosis / nutcracker syndrome",
+    "Isosthenuric renal disease",
+    "Accelerated essential hypertension"
+   ],
+   "ans": 0,
+   "exp": "AKA renovascular HTN (RVH) / renal artery occlusion disease (RAOD). (Book p749)"
+  },
+  {
+   "id": "MED-C8-028",
+   "sec": "CKD Mimics & Non-CKD Categories",
+   "page": 749,
+   "fmt": "recall",
+   "q": "Left untreated, renal artery stenosis can progress to:",
+   "opts": [
+    "Medullary sponge kidney",
+    "CKD / ischemic nephropathy",
+    "Nephrotic syndrome",
+    "Renal cell carcinoma"
+   ],
+   "ans": 1,
+   "exp": "Can progress to CKD / ischemic nephropathy. (Book p749)"
+  },
+  {
+   "id": "MED-C8-029",
+   "sec": "CKD Mimics & Non-CKD Categories",
+   "page": 749,
+   "fmt": "truefalse",
+   "q": "Which vessel-size statement is TRUE as per the flowchart?",
+   "opts": [
+    "Both TMA and RAS are large vessel diseases",
+    "TMA is a small vessel kidney disease while RAS is a large vessel kidney disease",
+    "TMA is a large vessel kidney disease while RAS is a small vessel kidney disease",
+    "Both TMA and RAS are small vessel diseases"
+   ],
+   "ans": 1,
+   "exp": "RAS: large vessel kidney disease; TMA: small vessel kidney disease. (Book p749)"
+  },
+  {
+   "id": "MED-C8-030",
+   "sec": "RPRF, vascular causes & RAS introduction · p749",
+   "page": 749,
+   "fmt": "recall",
+   "q": "In the days-to-weeks branch, the bracket 'Rare cause' is drawn against which two entries?",
+   "opts": [
+    "Postrenal and pre-renal",
+    "Severe ATN and TMA",
+    "RPGN and severe ATN",
+    "TMA and RPGN"
+   ],
+   "ans": 1,
+   "exp": "Under rapidly progressive renal failure the list is RPGN (m/c, diagnosed with biopsy), then severe ATN and TMA grouped by a bracket labelled 'Rare cause'. (Book p749)"
+  },
+  {
+   "id": "MED-C8-031",
+   "sec": "RPRF, vascular causes & RAS introduction · p749",
+   "page": 749,
+   "fmt": "scenario",
+   "q": "A 32-year-old has creatinine rising from 1.2 to 5.0 mg/dL in ten days with an active sediment and 2+ proteinuria. Following the non-CKD flowchart, the picture is:",
+   "opts": [
+    "Normal RFT with renal disease — asymptomatic urine abnormality",
+    "Hypertensive crisis — vascular cause, so screen for renal artery stenosis",
+    "Days to weeks tempo — rapidly progressive renal failure, with RPGN the m/c cause and biopsy the confirmation",
+    "Hours to days tempo — pre-renal AKI with normal urine analysis"
+   ],
+   "ans": 2,
+   "exp": "The 'Days to weeks' arm carries rapidly progressive renal failure whose m/c cause is RPGN, diagnosed with biopsy; the tempo and the active sediment exclude the pre-renal and vascular arms. (Book p749)"
+  },
+  {
+   "id": "MED-C8-032",
+   "sec": "RAS - Most Common Causes",
+   "page": 750,
+   "fmt": "match",
+   "q": "Match each population with its most common cause of RAS — 1) Overall 2) Young population 3) Indian/Asian population … A) Takayasu arteritis B) Atherosclerosis C) Fibromuscular dysplasia",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 1,
+   "exp": "Overall: atherosclerosis; young population: fibromuscular dysplasia; Indian/Asian: Takayasu arteritis. (Book p750)"
+  },
+  {
+   "id": "MED-C8-033",
+   "sec": "RAS - Most Common Causes",
+   "page": 750,
+   "fmt": "recall",
+   "q": "In young males, the cause of RAS that involves the entire length of the renal artery with microaneurysms is:",
+   "opts": [
+    "Polyarteritis nodosa",
+    "Takayasu arteritis",
+    "Fibromuscular dysplasia",
+    "Atherosclerosis"
+   ],
+   "ans": 0,
+   "exp": "Young males: polyarteritis nodosa – entire length renal artery – microaneurysm. (Book p750)"
+  },
+  {
+   "id": "MED-C8-034",
+   "sec": "RAS - Most Common Causes",
+   "page": 750,
+   "fmt": "numeric",
+   "q": "Atherosclerotic RAS involves the proximal renal artery over 1-2 cm and becomes symptomatic beyond what occlusion?",
+   "opts": [
+    ">30% occlusion",
+    ">80% occlusion",
+    ">50% occlusion",
+    ">95% occlusion"
+   ],
+   "ans": 1,
+   "exp": "Atherosclerosis: proximal renal artery (1-2 cm); symptomatic: >80% occlusion. (Book p750)"
+  },
+  {
+   "id": "MED-C8-035",
+   "sec": "RAS - Most Common Causes",
+   "page": 750,
+   "fmt": "fillup",
+   "q": "Fill up: Fibromuscular dysplasia, the young-population cause, affects the ______ renal artery.",
+   "opts": [
+    "Proximal",
+    "Entire length of",
+    "Ostial segment of",
+    "Mid to distal"
+   ],
+   "ans": 3,
+   "exp": "Fibromuscular dysplasia (arteriopathy): mid to distal renal artery. (Book p750)"
+  },
+  {
+   "id": "MED-C8-036",
+   "sec": "RAS - Most Common Causes",
+   "page": 750,
+   "fmt": "numeric",
+   "q": "The female-to-male ratio written for Takayasu arteritis is:",
+   "opts": [
+    "1:9",
+    "4:1",
+    "1:4",
+    "9:1"
+   ],
+   "ans": 3,
+   "exp": "Takayasu arteritis (F:M = 9:1), proximal renal artery. (Book p750)"
+  },
+  {
+   "id": "MED-C8-037",
+   "sec": "RAS - Most Common Causes",
+   "page": 750,
+   "fmt": "recall",
+   "q": "The types of RAS are explained by the Goldblatt:",
+   "opts": [
+    "Single kidney unclip model",
+    "Two kidney one clip model",
+    "One kidney two clip model",
+    "Two kidney two clip model"
+   ],
+   "ans": 1,
+   "exp": "Explain by Goldblatt: two kidney one clip model. (Book p750)"
+  },
+  {
+   "id": "MED-C8-038",
+   "sec": "RAS - Most Common Causes",
+   "page": 750,
+   "fmt": "recall",
+   "q": "The pathogenesis of unilateral RAS starts with the clue:",
+   "opts": [
+    "Bilateral small kidneys",
+    "Loss of corticomedullary differentiation",
+    "Hydronephroureteronephrosis",
+    "Asymmetric kidney size"
+   ],
+   "ans": 3,
+   "exp": "Unilateral RAS pathogenesis: asymmetric kidney size. (Book p750)"
+  },
+  {
+   "id": "MED-C8-039",
+   "sec": "Unilateral RAS Pathogenesis",
+   "page": 750,
+   "fmt": "recall",
+   "q": "The written vasoconstriction potency order is:",
+   "opts": [
+    "Urotensin > endothelin > AT-II",
+    "Endothelin > urotensin > AT-II",
+    "AT-II > endothelin > urotensin",
+    "Urotensin > AT-II > endothelin"
+   ],
+   "ans": 0,
+   "exp": "Vasoconstriction potency: urotension > endothelin > AT-II. (Book p750)"
+  },
+  {
+   "id": "MED-C8-040",
+   "sec": "Unilateral RAS Pathogenesis",
+   "page": 750,
+   "fmt": "recall",
+   "q": "The clinical feature and basic investigation picture of unilateral RAS are:",
+   "opts": [
+    "Flash pulmonary edema with raised S. creatinine",
+    "Hematuria with low complement",
+    "Persistent HTN with RFT and urine analysis in the normal range",
+    "Persistent HTN with abnormal urine analysis"
+   ],
+   "ans": 2,
+   "exp": "C/F: persistent HTN; basic investigation (RFT, urine analysis) normal range. (Book p750)"
+  },
+  {
+   "id": "MED-C8-041",
+   "sec": "Unilateral RAS Pathogenesis",
+   "page": 750,
+   "fmt": "recall",
+   "q": "In the affected kidney of unilateral RAS, the sequence after reduced RBF/perfusion is:",
+   "opts": [
+    "Renin angiotensin system → ↑ aldosterone → ↑ AT-II → profound vasoconstriction → ↑ BP",
+    "↑ RIHP → ↓ PCT reabsorption → natriuresis",
+    "↓ Aldosterone → ↓ AT-II → vasodilatation",
+    "Pressure natriuresis with ↑ Na+/H2O excretion"
+   ],
+   "ans": 0,
+   "exp": "Affected kidney: ↓ RBF/perfusion → (+) renin angiotensin → (+) ↑ aldosterone → ↑ AT-II ↑↑ → profound vasoconstriction → ↑ BP → HTN/HTN crisis. (Book p750)"
+  },
+  {
+   "id": "MED-C8-042",
+   "sec": "Unilateral RAS Pathogenesis",
+   "page": 750,
+   "fmt": "fillup",
+   "q": "Fill up: In the normal kidney, ↑ renal interstitial hydrostatic pressure reduces reabsorption from the ______, producing pressure natriuresis.",
+   "opts": [
+    "DCT",
+    "Collecting duct",
+    "Thick ascending limb",
+    "PCT"
+   ],
+   "ans": 3,
+   "exp": "Normal kidney: ↑ RIHP → ↓ reabsorption from PCT → ↑ excretion of Na+/H2O (pressure natriuresis theory). (Book p750)"
+  },
+  {
+   "id": "MED-C8-043",
+   "sec": "Unilateral RAS Pathogenesis",
+   "page": 750,
+   "fmt": "truefalse",
+   "q": "Which statement about the normal (contralateral) kidney in unilateral RAS is TRUE?",
+   "opts": [
+    "It undergoes profound vasoconstriction",
+    "It shows ↑ renal blood flow/medullary flow with ↑ RIHP",
+    "It shows ↓ renal blood flow and activated renin",
+    "It reabsorbs more sodium from the PCT"
+   ],
+   "ans": 1,
+   "exp": "Normal kidney: ↑ RBF/medullary flow → ↑ RIHP → ↓ PCT reabsorption → ↑ Na+/H2O excretion. (Book p750)"
+  },
+  {
+   "id": "MED-C8-044",
+   "sec": "Unilateral RAS Pathogenesis",
+   "page": 750,
+   "fmt": "oddoneout",
+   "q": "The book's note lists asymmetric kidney in vesicoureteral reflux and renal artery stenosis; it is NOT listed for:",
+   "opts": [
+    "Diabetic nephropathy",
+    "Vesicoureteral reflux",
+    "Renal artery stenosis",
+    "Unilateral renal hypoperfusion"
+   ],
+   "ans": 0,
+   "exp": "Asymmetric kidney seen in: vesicoureteral reflux; renal artery stenosis. (Book p750)"
+  },
+  {
+   "id": "MED-C8-045",
+   "sec": "Unilateral RAS Pathogenesis",
+   "page": 750,
+   "fmt": "recall",
+   "q": "In the affected kidney, the doubly-raised AT-II produces:",
+   "opts": [
+    "Falling aldosterone levels",
+    "Increased medullary flow",
+    "Profound vasoconstriction with rising blood pressure",
+    "Pressure natriuresis with sodium loss"
+   ],
+   "ans": 2,
+   "exp": "↑ Angiotensin II (AT-II) ↑↑ → profound vasoconstriction → ↑ blood pressure → HTN/HTN crisis. (Book p750)"
+  },
+  {
+   "id": "MED-C8-046",
+   "sec": "RAS causes & unilateral pathogenesis · p750",
+   "page": 750,
+   "fmt": "recall",
+   "q": "Of the four 'most common' branches, which two both name the proximal renal artery as the site?",
+   "opts": [
+    "Atherosclerosis and Takayasu arteritis",
+    "Atherosclerosis and fibromuscular dysplasia",
+    "Fibromuscular dysplasia and polyarteritis nodosa",
+    "Takayasu arteritis and polyarteritis nodosa"
+   ],
+   "ans": 0,
+   "exp": "Site lines: atherosclerosis — proximal renal artery (1–2 cm); Takayasu — proximal renal artery; fibromuscular dysplasia — mid to distal; polyarteritis nodosa — entire length. (Book p750)"
+  },
+  {
+   "id": "MED-C8-047",
+   "sec": "RAS causes & unilateral pathogenesis · p750",
+   "page": 750,
+   "fmt": "fillup",
+   "q": "Fill up: The page puts the word ______ in brackets after fibromuscular dysplasia, classifying it as a disease of the arterial wall.",
+   "opts": [
+    "Atherosclerosis",
+    "Vasculitis",
+    "Arteriosclerosis",
+    "Arteriopathy"
+   ],
+   "ans": 3,
+   "exp": "The young-population branch reads 'Fibromuscular dysplasia (Arteriopathy) — mid to distal renal artery'. (Book p750)"
+  },
+  {
+   "id": "MED-C8-048",
+   "sec": "RAS causes & unilateral pathogenesis · p750",
+   "page": 750,
+   "fmt": "truefalse",
+   "q": "In the affected-kidney chain, the arrows carrying a '(+)' mark are the ones running into the renin–angiotensin system box and into the aldosterone box.",
+   "opts": [
+    "False — only the arrow into the renin–angiotensin system is marked",
+    "False — the '(+)' marks appear on the normal-kidney side",
+    "True — and a third '(+)' marks the arrow into profound vasoconstriction",
+    "True — both '(+)' arrows denote stimulation of the next step"
+   ],
+   "ans": 3,
+   "exp": "The printed chain is ↓RBF/perfusion →(+) renin angiotensin system →(+) ↑aldosterone → ↑angiotensin II (↑↑) → profound vasoconstriction → ↑BP → HTN/HTN crisis. (Book p750)"
+  },
+  {
+   "id": "MED-C8-049",
+   "sec": "RAS causes & unilateral pathogenesis · p750",
+   "page": 750,
+   "fmt": "scenario",
+   "q": "A 26-year-old Indian woman with weak upper-limb pulses and severe hypertension is found to have a renal artery bruit. Which branch of the 'most common' tree fits her?",
+   "opts": [
+    "Polyarteritis nodosa — entire length with microaneurysms",
+    "Takayasu arteritis — proximal renal artery, F:m 9:1",
+    "Atherosclerosis — proximal 1–2 cm, needs >80% occlusion",
+    "Fibromuscular dysplasia — mid to distal artery"
+   ],
+   "ans": 1,
+   "exp": "The Indian/Asian population branch is Takayasu arteritis with the F:m ratio printed as 9:1 and the proximal renal artery affected; FMD belongs to the general young population and PAN to young males. (Book p750)"
+  },
+  {
+   "id": "MED-C8-050",
+   "sec": "RAS causes & unilateral pathogenesis · p750",
+   "page": 750,
+   "fmt": "numeric",
+   "q": "Atherosclerotic renal artery stenosis becomes symptomatic once occlusion passes:",
+   "opts": [
+    "50%",
+    "70%",
+    "90%",
+    "80%"
+   ],
+   "ans": 3,
+   "exp": "The overall branch reads 'Symptomatic: >80% occlusion' of the proximal 1–2 cm of the renal artery. (Book p750)"
+  },
+  {
+   "id": "MED-C8-051",
+   "sec": "RAS Investigations & Unilateral Treatment",
+   "page": 751,
+   "fmt": "recall",
+   "q": "On USG the radiological clue for RAS is asymmetric kidney; the screening test is:",
+   "opts": [
+    "Renal doppler",
+    "CT renal angiography",
+    "MR angiography",
+    "Conventional angiography"
+   ],
+   "ans": 0,
+   "exp": "On USG: asymmetric kidney; screening test: renal doppler. (Book p751)"
+  },
+  {
+   "id": "MED-C8-052",
+   "sec": "RAS Investigations & Unilateral Treatment",
+   "page": 751,
+   "fmt": "recall",
+   "q": "The investigation of choice to confirm renal artery stenosis is:",
+   "opts": [
+    "Captopril DTPA renogram",
+    "CT renal angio or MR angiography",
+    "Renal doppler screening",
+    "USG abdomen without doppler"
+   ],
+   "ans": 1,
+   "exp": "IOC: CT renal angio or MR angiography (confirms the doppler screen). (Book p751)"
+  },
+  {
+   "id": "MED-C8-053",
+   "sec": "RAS Investigations & Unilateral Treatment",
+   "page": 751,
+   "fmt": "management",
+   "q": "The drug of choice written for unilateral RAS is:",
+   "opts": [
+    "ACE inhibitors / ARBs",
+    "Diuretics",
+    "Beta blockers",
+    "Calcium channel blockers"
+   ],
+   "ans": 0,
+   "exp": "Treatment: ACE inhibitors / ARBs – (DOC). (Book p751)"
+  },
+  {
+   "id": "MED-C8-054",
+   "sec": "RAS Investigations & Unilateral Treatment",
+   "page": 751,
+   "fmt": "numeric",
+   "q": "Percutaneous transluminal renal angioplasty (PTRA) is offered only if the kidney size is above:",
+   "opts": [
+    "9 cm",
+    "11 cm",
+    "8 cm",
+    "7 cm"
+   ],
+   "ans": 2,
+   "exp": "PTRA – only if kidney size > 8 cm. (Book p751)"
+  },
+  {
+   "id": "MED-C8-055",
+   "sec": "Radiological investigation & unilateral treatment · p751",
+   "page": 751,
+   "fmt": "recall",
+   "q": "The pair of CT/MR angiogram images drawn to the right of the renal doppler picture carries which caption?",
+   "opts": [
+    "bilateral renal artery stenosis",
+    "string of beads appearance",
+    "severe stenosis / good flow",
+    "unilateral renal artery stenosis"
+   ],
+   "ans": 3,
+   "exp": "The two panels (A and B, each with a white arrow) are captioned 'unilateral renal artery stenosis'; the separate caption 'Bilateral renal artery stenosis' belongs to the aortogram lower on the page. (Book p751)"
+  },
+  {
+   "id": "MED-C8-056",
+   "sec": "Radiological investigation & unilateral treatment · p751",
+   "page": 751,
+   "fmt": "scenario",
+   "q": "An 8 cm left kidney is normal and the right, stenosed kidney measures 6.5 cm; blood pressure is controlled on ramipril. Per the treatment block, angioplasty is:",
+   "opts": [
+    "Not offered, because PTRA is reserved for bilateral disease",
+    "Not offered, because PTRA is listed only if kidney size is greater than 8 cm",
+    "Offered at once, since the stenosis is unilateral",
+    "Offered only after a trial of diuretics"
+   ],
+   "ans": 1,
+   "exp": "The unilateral treatment block lists ACE inhibitors/ARBs (DOC) and PTRA '- Only if kidney size > 8 cm'; the 6.5 cm kidney fails that condition. (Book p751)"
+  },
+  {
+   "id": "MED-C8-057",
+   "sec": "Radiological investigation & unilateral treatment · p751",
+   "page": 751,
+   "fmt": "match",
+   "q": "Match each drug class with where the page calls it the drug of choice — 1) ACE inhibitors/ARBs 2) Diuretics … A) Blood pressure in bilateral RAS B) Unilateral RAS C) Neither, both are contraindicated in RAS",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-C",
+    "1-C, 2-A"
+   ],
+   "ans": 0,
+   "exp": "ACE inhibitors/ARBs are DOC in unilateral RAS but contraindicated in bilateral RAS (they ↓GFR), where diuretics take over as the DOC for blood pressure. (Book p751)"
+  },
+  {
+   "id": "MED-C8-058",
+   "sec": "Bilateral RAS",
+   "page": 751,
+   "fmt": "recall",
+   "q": "The prognosis written for bilateral RAS is:",
+   "opts": [
+    "Responsive to PTRA alone without stenting",
+    "Poor prognosis",
+    "Good prognosis",
+    "Self-limiting course"
+   ],
+   "ans": 1,
+   "exp": "Bilateral RAS: poor prognosis. (Book p751)"
+  },
+  {
+   "id": "MED-C8-059",
+   "sec": "Bilateral RAS",
+   "page": 751,
+   "fmt": "recall",
+   "q": "In bilateral RAS, loss of pressure natriuresis with ↓ RIHP leads to:",
+   "opts": [
+    "Isolated medullary washout",
+    "↑ Na+/H2O retention → intravascular volume overload → recurrent flash pulmonary edema",
+    "↑ Na+ excretion with volume contraction",
+    "Sustained renin activation without volume change"
+   ],
+   "ans": 1,
+   "exp": "Loss of pressure natriuresis / ↓ RIHP → ↑ Na+/H2O retention → intravascular volume overload → recurrent flash pulmonary edema (d/t intravascular edema). (Book p751)"
+  },
+  {
+   "id": "MED-C8-060",
+   "sec": "Bilateral RAS",
+   "page": 751,
+   "fmt": "truefalse",
+   "q": "Which statement about the bilateral RAS diagram is TRUE?",
+   "opts": [
+    "The renin angiotensin system stays maximally stimulated without feedback",
+    "Pressure natriuresis is preserved in both kidneys",
+    "RIHP rises in both kidneys",
+    "Intravascular volume overload feeds back negatively on the renin angiotensin system"
+   ],
+   "ans": 3,
+   "exp": "The (−) arrow shows intravascular volume overload inhibiting the renin angiotensin system. (Book p751)"
+  },
+  {
+   "id": "MED-C8-061",
+   "sec": "Bilateral RAS",
+   "page": 751,
+   "fmt": "management",
+   "q": "Recurrent flash pulmonary edema in bilateral RAS is treated with:",
+   "opts": [
+    "High-dose ACE inhibitors",
+    "Long-term hemodialysis",
+    "B/L percutaneous transluminal renal angioplasty with stenting",
+    "Unilateral nephrectomy"
+   ],
+   "ans": 2,
+   "exp": "Rx: B/L percutaneous transluminal renal angioplasty with stenting. (Book p751)"
+  },
+  {
+   "id": "MED-C8-062",
+   "sec": "Bilateral RAS",
+   "page": 751,
+   "fmt": "management",
+   "q": "For blood pressure control in bilateral RAS, the book lists diuretics as DOC while ACE inhibitors/ARBs are:",
+   "opts": [
+    "The first-line agents",
+    "Safe only with stenting",
+    "Used with double dosing",
+    "Contraindicated as they ↓ GFR"
+   ],
+   "ans": 3,
+   "exp": "In BP: diuretics (DOC); ACE inhibitors / ARBs: C/I as they ↓ GFR. (Book p751)"
+  },
+  {
+   "id": "MED-C8-063",
+   "sec": "Bilateral RAS",
+   "page": 751,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed in the bilateral RAS treatment block EXCEPT:",
+   "opts": [
+    "Start statins",
+    "Diuretics for blood pressure",
+    "Start NSAIDs",
+    "Stop smoking"
+   ],
+   "ans": 2,
+   "exp": "Listed: diuretics (DOC), stop smoking, start statins; ACEi/ARBs are C/I. (Book p751)"
+  },
+  {
+   "id": "MED-C8-064",
+   "sec": "Bilateral RAS pathogenesis & treatment · p751",
+   "page": 751,
+   "fmt": "truefalse",
+   "q": "In the bilateral pathogenesis drawing, both arteries carry a red cross and the legend beside it reads 'x – Occlusion'.",
+   "opts": [
+    "True — the crosses stand for occlusion on either side",
+    "False — the crosses mark the clip used in the unilateral model",
+    "False — only one artery is crossed in the bilateral drawing",
+    "True — and the same legend defines 'x' as a stenosis of less than 80%"
+   ],
+   "ans": 0,
+   "exp": "The unilateral drawing shows a clip on one limb, whereas the bilateral drawing crosses both limbs and prints the red legend 'x – Occlusion', explaining why neither kidney can escape the low perfusion. (Book p751)"
+  },
+  {
+   "id": "MED-C8-065",
+   "sec": "Bilateral RAS pathogenesis & treatment · p751",
+   "page": 751,
+   "fmt": "recall",
+   "q": "The flowchart attributes recurrent flash pulmonary edema in bilateral renal artery stenosis to:",
+   "opts": [
+    "Pulmonary hypertension from hypoxia",
+    "Intravascular edema, written in brackets after the phrase",
+    "Low oncotic pressure from nephrotic syndrome",
+    "Primary left ventricular failure"
+   ],
+   "ans": 1,
+   "exp": "Printed line: 'Recurrent flash pulmonary edema (D/t intravascular edema)', reached from ↑Na+/H2O retention and intravascular volume overload, and treated with B/L PTRA with stenting. (Book p751)"
+  },
+  {
+   "id": "MED-C8-066",
+   "sec": "Bilateral RAS pathogenesis & treatment · p751",
+   "page": 751,
+   "fmt": "management",
+   "q": "Besides blood-pressure control, which pair of general measures appears under treatment of bilateral renal artery stenosis?",
+   "opts": [
+    "Start ACE inhibitors and restrict protein",
+    "Give 20% albumin and loop diuretics",
+    "Begin dual antiplatelet therapy and anticoagulate",
+    "Stop smoking and start statins"
+   ],
+   "ans": 3,
+   "exp": "The treatment block lists In BP → diuretics (DOC) and ACE inhibitors/ARBs contraindicated as they ↓GFR, followed by 'Stop smoking' and 'Start statins'. (Book p751)"
+  },
+  {
+   "id": "MED-C8-067",
+   "sec": "Bilateral RAS pathogenesis & treatment · p751",
+   "page": 751,
+   "fmt": "scenario",
+   "q": "A smoker with bilateral RAS and an ejection fraction of 60% returns with two episodes of overnight breathlessness; CDU confirms bilateral stenosis. The page's sequence predicts the episodes are due to:",
+   "opts": [
+    "Rise in RIHP driving natriuresis, managed by an ACE inhibitor",
+    "Arteriopathy of fibromuscular dysplasia, managed by PTRA alone",
+    "Medullary hypoxia, managed by statins and smoking cessation",
+    "Intravascular volume overload from loss of pressure natriuresis, managed by B/L PTRA with stenting"
+   ],
+   "ans": 3,
+   "exp": "Bilateral occlusion removes the pressure-natriuresis escape (↓RIHP → ↑Na+/H2O retention → volume overload → recurrent flash pulmonary edema), for which the flowchart's Rx is B/L percutaneous transluminal renal angioplasty with stenting; statins and stopping smoking are the additional measures. (Book p751)"
+  },
+  {
+   "id": "MED-C8-068",
+   "sec": "CDU Screening & Fibromuscular Dysplasia",
+   "page": 752,
+   "fmt": "recall",
+   "q": "The book's caution while interpreting flash pulmonary edema in this context is:",
+   "opts": [
+    "Every pulmonary edema is cardiac unless proven otherwise",
+    "Every pulmonary edema is renal unless proven otherwise",
+    "Flash pulmonary edema excludes cardiac disease",
+    "Pulmonary edema never occurs in bilateral RAS"
+   ],
+   "ans": 0,
+   "exp": "Note: every pulmonary edema is cardiac unless proven otherwise. (Book p752)"
+  },
+  {
+   "id": "MED-C8-069",
+   "sec": "CDU Screening & Fibromuscular Dysplasia",
+   "page": 752,
+   "fmt": "recall",
+   "q": "The screening test named on this page is renal artery stenosis colour doppler ultrasound (CDU); its characteristic waveform clue is the:",
+   "opts": [
+    "Water-hammer pattern",
+    "Pulsus alternans pattern",
+    "Bisferiens pattern",
+    "Parvus tardus pattern"
+   ],
+   "ans": 3,
+   "exp": "Screening test: RAS colour doppler ultrasound (CDU); look for parvus tardus pattern. (Book p752)"
+  },
+  {
+   "id": "MED-C8-070",
+   "sec": "CDU Screening & Fibromuscular Dysplasia",
+   "page": 752,
+   "fmt": "numeric",
+   "q": "On CDU, a resistivity index (RI) at or above which value points to parenchymal disease (CKD)?",
+   "opts": [
+    "0.65",
+    "0.8",
+    "0.5",
+    "1.0"
+   ],
+   "ans": 1,
+   "exp": "RI ≥ 0.8 → parenchymal disease: CKD. (Book p752)"
+  },
+  {
+   "id": "MED-C8-071",
+   "sec": "CDU Screening & Fibromuscular Dysplasia",
+   "page": 752,
+   "fmt": "numeric",
+   "q": "With RI < 0.8, the stenosis criteria that route the patient to CT/MR renal angiography are:",
+   "opts": [
+    "Peak systolic velocity > 100 cm/s OR RAR > 2.5 OR ΔRI > 0.01",
+    "Peak systolic velocity > 250 cm/s OR RAR > 5 OR ΔRI > 0.1",
+    "Peak systolic velocity > 180 mm/s OR RAR > 3.5 OR ΔRI > 0.5",
+    "Peak systolic velocity > 180 cm/s OR RAR > 3.5 OR ΔRI > 0.05"
+   ],
+   "ans": 3,
+   "exp": "RI < 0.8 with PSV > 180 cm/s OR RAR > 3.5 OR ΔRI > 0.05 → CT/MR renal angiography (IOC). (Book p752)"
+  },
+  {
+   "id": "MED-C8-072",
+   "sec": "CDU Screening & Fibromuscular Dysplasia",
+   "page": 752,
+   "fmt": "oddoneout",
+   "q": "All of the following are CDU look-for criteria of RAS EXCEPT:",
+   "opts": [
+    "A delta RI greater than 0.05",
+    "Peak systolic velocity > 80 cm/s",
+    "Parvus tardus waveform on doppler",
+    "Renal-arterial ratio (RAR) > 3.5"
+   ],
+   "ans": 1,
+   "exp": "The book's velocity criterion is peak systolic velocity > 180 cm/s, not 80 cm/s. (Book p752)"
+  },
+  {
+   "id": "MED-C8-073",
+   "sec": "CDU Screening & Fibromuscular Dysplasia",
+   "page": 752,
+   "fmt": "recall",
+   "q": "The IOC after a positive screen is CT/MR renal angiography; the gold standard that is both diagnostic and therapeutic is:",
+   "opts": [
+    "Renal doppler ultrasound",
+    "CT renal angiography",
+    "Captopril DTPA renogram",
+    "Conventional angiography"
+   ],
+   "ans": 3,
+   "exp": "Conventional angiograph (gold standard): diagnostic and therapeutic. (Book p752)"
+  },
+  {
+   "id": "MED-C8-074",
+   "sec": "CDU Screening & Fibromuscular Dysplasia",
+   "page": 752,
+   "fmt": "truefalse",
+   "q": "Which statement about fibromuscular dysplasia is TRUE?",
+   "opts": [
+    "It is an inflammatory vasculitis of the proximal aorta",
+    "It involves only cerebral vessels",
+    "It is a non-atherosclerotic, non-inflammatory arteriopathy most common in young girls",
+    "It is an atherosclerotic disease of elderly males"
+   ],
+   "ans": 2,
+   "exp": "Non atherosclerotic/non inflammatory arteriopathy; incident: m/c in young girls. (Book p752)"
+  },
+  {
+   "id": "MED-C8-075",
+   "sec": "CDU Screening & Fibromuscular Dysplasia",
+   "page": 752,
+   "fmt": "recall",
+   "q": "The pathology of fibromuscular dysplasia is medial fibroplasia in the tunica media of the:",
+   "opts": [
+    "Aorto-ostial segment",
+    "Middle to distal renal artery",
+    "The proximal renal artery segment",
+    "Renal vein"
+   ],
+   "ans": 1,
+   "exp": "Involves middle to distal renal artery: medial fibroplasia in tunica media. (Book p752)"
+  },
+  {
+   "id": "MED-C8-076",
+   "sec": "CDU Screening & Fibromuscular Dysplasia",
+   "page": 752,
+   "fmt": "numeric",
+   "q": "Fibromuscular dysplasia is bilateral in the renal arteries in 25% of cases; the other 25% involve:",
+   "opts": [
+    "Pulmonary arteries",
+    "Cerebral vessels",
+    "Coronary arteries",
+    "Mesenteric arteries"
+   ],
+   "ans": 1,
+   "exp": "25% B/L renal artery, 25% involves cerebral vessels. (Book p752)"
+  },
+  {
+   "id": "MED-C8-077",
+   "sec": "CDU Screening & Fibromuscular Dysplasia",
+   "page": 752,
+   "fmt": "recall",
+   "q": "The angiographic feature illustrated for medial fibromuscular dysplasia is the:",
+   "opts": [
+    "\"String of beads\" feature",
+    "Corkscrew collateral feature",
+    "Apple-core feature",
+    "Railroad-track feature"
+   ],
+   "ans": 0,
+   "exp": "The \"string of beads\" feature in medial fibromuscular dysplasia. (Book p752)"
+  },
+  {
+   "id": "MED-C8-078",
+   "sec": "CDU Screening & Fibromuscular Dysplasia",
+   "page": 752,
+   "fmt": "management",
+   "q": "The treatment of choice for fibromuscular dysplasia, carrying a good prognosis, is:",
+   "opts": [
+    "PTRA",
+    "Surgical bypass",
+    "Long-term ACE inhibitors alone",
+    "Renal autotransplantation"
+   ],
+   "ans": 0,
+   "exp": "Treatment: PTRA (good prognosis). (Book p752)"
+  },
+  {
+   "id": "MED-C8-079",
+   "sec": "CDU screening, angiography & FMD · p752",
+   "page": 752,
+   "fmt": "recall",
+   "q": "Which caption is printed beneath the first pair of angiograms at the top of this page?",
+   "opts": [
+    "Stents in renal artery bifurcation stenosis",
+    "Severe stenosis",
+    "Good flow",
+    "String of beads feature"
+   ],
+   "ans": 0,
+   "exp": "The first two images are captioned 'Stents in renal artery bifurcation stenosis'; the round pre-op/post-op pair carries 'Severe stenosis' and 'Good flow', and the beaded angiogram below belongs to fibromuscular dysplasia. (Book p752)"
+  },
+  {
+   "id": "MED-C8-080",
+   "sec": "CDU screening, angiography & FMD · p752",
+   "page": 752,
+   "fmt": "truefalse",
+   "q": "The two round fluoroscopy images are headed 'Pre-op' and 'Post-op' and captioned 'Severe stenosis' and 'Good flow' respectively.",
+   "opts": [
+    "True — the pair documents the angiographic result before and after intervention",
+    "False — both images are labelled pre-operative",
+    "False — the captions read 'mild stenosis' and 'no flow'",
+    "True — and the same figure is captioned 'string of beads'"
+   ],
+   "ans": 0,
+   "exp": "The heading row prints Pre-op over the first image and Post-op over the second, with the captions 'Severe stenosis' and 'Good flow' under them. (Book p752)"
+  },
+  {
+   "id": "MED-C8-081",
+   "sec": "CDU screening, angiography & FMD · p752",
+   "page": 752,
+   "fmt": "numeric",
+   "q": "Along with peak systolic velocity above 180 cm/s and RAR above 3.5, the colour doppler criteria accept a change in resistivity index greater than:",
+   "opts": [
+    "0.8",
+    "0.05",
+    "0.01",
+    "0.5"
+   ],
+   "ans": 1,
+   "exp": "The RI < 0.8 arm reads: Peak systolic velocity > 180 cm/s OR RAR > 3.5 OR ΔRI > 0.05, all routing to CT/MR renal angiography. (Book p752)"
+  },
+  {
+   "id": "MED-C8-082",
+   "sec": "CDU screening, angiography & FMD · p752",
+   "page": 752,
+   "fmt": "fillup",
+   "q": "Fill up: When the colour doppler study is labelled 'Investigation inconclusive', the flowchart sends the patient for ______.",
+   "opts": [
+    "Repeat doppler in 3 months",
+    "Captopren renography",
+    "CT/MR renal angiography",
+    "Conventional angiography directly"
+   ],
+   "ans": 2,
+   "exp": "Both the RI ≥ 0.8 side path 'Investigation inconclusive' and the RI < 0.8 positive-criteria path converge on CT/MR renal angiography, marked (IOC). (Book p752)"
+  },
+  {
+   "id": "MED-C8-083",
+   "sec": "CDU screening, angiography & FMD · p752",
+   "page": 752,
+   "fmt": "fillup",
+   "q": "Fill up: Under 'Incident', fibromuscular dysplasia is stated to be most common in ______.",
+   "opts": [
+    "young girls",
+    "elderly men",
+    "pregnant women",
+    "diabetic adults"
+   ],
+   "ans": 0,
+   "exp": "The FMD block reads: Non atherosclerotic/non inflammatory Arteriopathy; Incident: m/c in young girls; pathology — middle to distal renal artery, medial fibroplasia in tunica media; 25% B/L renal artery and 25% cerebral vessels; Treatment: PTRA (good prognosis). (Book p752)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U8-1",
+   "ch": 8,
+   "n": 1,
+   "title": "Initial investigation & the USG approach",
+   "sec": "Initial Investigation & USG Approach · p748",
+   "guide": "Three arms — USG abdomen (the most important investigation), RFT (urea, creatinine, Na+, K+) and urine analysis (24 hr protein preferred, plus albumin and protein ratios). Look for size <8 cm, 8–10 cm with loss of CMD, and >10 cm with loss of CMD in DM/HIV/amyloidosis; the normal-kidney figure labels cortex isoechoic, pyramid hypoechoic and fat/calyx/sinus/vessels hyperechoic.",
+   "qs": [
+    "MED-C8-001",
+    "MED-C8-002",
+    "MED-C8-003",
+    "MED-C8-004",
+    "MED-C8-005",
+    "MED-C8-006",
+    "MED-C8-007",
+    "MED-C8-008",
+    "MED-C8-009",
+    "MED-C8-010",
+    "MED-C8-011",
+    "MED-C8-012",
+    "MED-C8-013",
+    "MED-C8-014",
+    "MED-C8-015",
+    "MED-C8-016"
+   ]
+  },
+  {
+   "id": "MED-U8-2",
+   "ch": 8,
+   "n": 2,
+   "title": "CKD mimics: hydronephroureteronephrosis & the AKI arm",
+   "sec": "CKD Mimics & Non-CKD Categories · p749",
+   "guide": "Rule out hydronephroureteronephrosis before diagnosing CKD (prominent calyces, visible ureter). The hours-to-days tempo is AKI: postrenal B/L hydroureteronephrosis (USG), pre-renal with normal urine analysis, and the page's 'acute tubular/interstitial nephrosis'.",
+   "qs": [
+    "MED-C8-017",
+    "MED-C8-018",
+    "MED-C8-019",
+    "MED-C8-020",
+    "MED-C8-021",
+    "MED-C8-022"
+   ]
+  },
+  {
+   "id": "MED-U8-3",
+   "ch": 8,
+   "n": 3,
+   "title": "Rapidly progressive failure, vascular causes & RAS words",
+   "sec": "CKD Mimics & Non-CKD Categories · p749",
+   "guide": "Days to weeks = RPRF (RPGN m/c, biopsy; severe ATN and TMA bracketed as rare causes); hypertensive crisis = vascular: RAS (large vessel) and TMA (small vessel); normal RFT with renal disease = nephrotic syndrome, RTA I/II, asymptomatic urine abnormality. RAS is also renovascular hypertension/renal artery occlusion disease and progresses to ischemic nephropathy.",
+   "qs": [
+    "MED-C8-023",
+    "MED-C8-024",
+    "MED-C8-025",
+    "MED-C8-026",
+    "MED-C8-027",
+    "MED-C8-028",
+    "MED-C8-029",
+    "MED-C8-030",
+    "MED-C8-031"
+   ]
+  },
+  {
+   "id": "MED-U8-4",
+   "ch": 8,
+   "n": 4,
+   "title": "RAS: who gets what, and the Goldblatt model",
+   "sec": "RAS - Most Common Causes · p750",
+   "guide": "Overall atherosclerosis (proximal 1–2 cm, symptomatic >80%); young population FMD/arteriopathy (mid to distal); Indian/Asian Takayasu (proximal, F:m 9:1); young males PAN (entire length, microaneurysm). Types are explained by the Goldblatt two kidney one clip model.",
+   "qs": [
+    "MED-C8-032",
+    "MED-C8-033",
+    "MED-C8-034",
+    "MED-C8-035",
+    "MED-C8-036",
+    "MED-C8-037",
+    "MED-C8-038"
+   ]
+  },
+  {
+   "id": "MED-U8-5",
+   "ch": 8,
+   "n": 5,
+   "title": "Unilateral RAS: pathogenesis of the small kidney",
+   "sec": "Unilateral RAS Pathogenesis · p750",
+   "guide": "Asymmetric kidney size (also seen in reflux). Affected side: ↓RBF →(+) RAS →(+) aldosterone → ↑↑AT-II → profound vasoconstriction → HTN/HTN crisis, with persistent hypertension and normal RFT/urine. Contralateral side: ↑RBF/medullary flow → ↑RIHP → ↓PCT reabsorption → natriuresis (pressure natriuresis theory). Potency order: urotensin > endothelin > AT-II.",
+   "qs": [
+    "MED-C8-039",
+    "MED-C8-040",
+    "MED-C8-041",
+    "MED-C8-042",
+    "MED-C8-043",
+    "MED-C8-044",
+    "MED-C8-045",
+    "MED-C8-046",
+    "MED-C8-047",
+    "MED-C8-048",
+    "MED-C8-049",
+    "MED-C8-050"
+   ]
+  },
+  {
+   "id": "MED-U8-6",
+   "ch": 8,
+   "n": 6,
+   "title": "Diagnosing RAS and treating unilateral disease",
+   "sec": "RAS Investigations & Unilateral Treatment · p751",
+   "guide": "USG clue is an asymmetric kidney; screening = renal doppler; confirm with CT renal angiography or MR angiography (IOC), the captioned figure being 'unilateral renal artery stenosis'. Treatment: ACE inhibitors/ARBs are DOC; PTRA only if the kidney is >8 cm.",
+   "qs": [
+    "MED-C8-051",
+    "MED-C8-052",
+    "MED-C8-053",
+    "MED-C8-054",
+    "MED-C8-055",
+    "MED-C8-056",
+    "MED-C8-057"
+   ]
+  },
+  {
+   "id": "MED-U8-7",
+   "ch": 8,
+   "n": 7,
+   "title": "Bilateral RAS: volume overload, flash edema & treatment",
+   "sec": "Bilateral RAS · p751",
+   "guide": "Poor prognosis. Both arteries are crossed ('x – Occlusion'); ↓RBF raises renin but the natriuresis escape is lost (↓RIHP), so Na+/water retention → intravascular volume overload → recurrent flash pulmonary edema (d/t intravascular edema) → B/L PTRA with stenting. For BP: diuretics are DOC, ACE inhibitors/ARBs are contraindicated (↓GFR); stop smoking, start statins.",
+   "qs": [
+    "MED-C8-058",
+    "MED-C8-059",
+    "MED-C8-060",
+    "MED-C8-061",
+    "MED-C8-062",
+    "MED-C8-063",
+    "MED-C8-064",
+    "MED-C8-065",
+    "MED-C8-066",
+    "MED-C8-067"
+   ]
+  },
+  {
+   "id": "MED-U8-8",
+   "ch": 8,
+   "n": 8,
+   "title": "Colour doppler cut-offs, angiography & fibromuscular dysplasia",
+   "sec": "CDU Screening & Fibromuscular Dysplasia · p752",
+   "guide": "Every pulmonary edema is cardiac until proven otherwise. CDU looks for parvus tardus and RI: ≥0.8 = parenchymal disease/CKD; <0.8 with PSV >180 cm/s, RAR >3.5 or ΔRI >0.05 → CT/MR angiography (IOC), also for inconclusive studies; conventional angiography is the gold standard and is both diagnostic and therapeutic. FMD: young girls, non-atherosclerotic non-inflammatory arteriopathy, middle–distal artery, medial fibroplasia, 25% bilateral renal and 25% cerebral, string of beads, treated by PTRA with good prognosis.",
+   "qs": [
+    "MED-C8-068",
+    "MED-C8-069",
+    "MED-C8-070",
+    "MED-C8-071",
+    "MED-C8-072",
+    "MED-C8-073",
+    "MED-C8-074",
+    "MED-C8-075",
+    "MED-C8-076",
+    "MED-C8-077",
+    "MED-C8-078",
+    "MED-C8-079",
+    "MED-C8-080",
+    "MED-C8-081",
+    "MED-C8-082",
+    "MED-C8-083"
+   ]
+  }
+ ]
 }

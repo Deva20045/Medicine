@@ -1,0 +1,114 @@
+{
+ "page": 736,
+ "sec": "Disadvantages of creatinine",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "In acute kidney injury, creatinine takes how long to start rising?",
+   "opts": [
+    "24–48 hrs",
+    "2–4 hrs",
+    "5–7 days",
+    "10–14 days"
+   ],
+   "ans": 0,
+   "exp": "Disadvantage 1: 24–48 hrs to start rising in AKI. (Book p736)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Creatinine is dependent on all of the following EXCEPT:",
+   "opts": [
+    "Race",
+    "Age and sex",
+    "Obesity",
+    "Amount of muscle mass"
+   ],
+   "ans": 0,
+   "exp": "Dependent on muscle mass, race, age and sex; obesity causes no change in S.Cr as fat doesn't affect S.Cr. (Book p736)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Which of the following statements about creatinine determinants is TRUE as written in the book?",
+   "opts": [
+    "Creatinine is lower in African Americans",
+    "Creatinine is higher in African Americans",
+    "Creatinine rises after 40 years of age",
+    "Creatinine is independent of muscle mass"
+   ],
+   "ans": 0,
+   "exp": "Determinants as written: muscle mass (↓ muscle mass → ↓ Cr), race (↓ in African Americans), age (↓ after 40 years d/t ↓ muscle mass) and sex (↓ in males). (Book p736)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Creatinine falls after 40 years of age because of the decline in ______.",
+   "opts": [
+    "Dietary protein",
+    "Tubular secretion",
+    "Muscle mass",
+    "GFR-independent fat"
+   ],
+   "ans": 0,
+   "exp": "Age (↓ after 40 years d/t ↓ in muscle mass). (Book p736)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In obesity there is no change in S.Cr because ______ does not affect S.Cr.",
+   "opts": [
+    "Water",
+    "Bone",
+    "Fat",
+    "Muscle"
+   ],
+   "ans": 0,
+   "exp": "Obesity: no change in S.Cr as fat doesn't affect S.Cr. (Book p736)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Cimetidine and trimethoprim raise serum creatinine by competing with Cr for tubular ______.",
+   "opts": [
+    "Filtration",
+    "Synthesis",
+    "Secretion",
+    "Reabsorption"
+   ],
+   "ans": 0,
+   "exp": "They compete with Cr for tubular secretion → ↓ tubular secretion of Cr → ↑ serum Cr. (Book p736)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "On the inverse-relationship graph, by the time S.Cr reaches 2 mg/dL the GFR has fallen to about:",
+   "opts": [
+    "30 ml/min",
+    "90 ml/min",
+    "60 ml/min",
+    "120 ml/min"
+   ],
+   "ans": 0,
+   "exp": "By the time S.Cr = 2, GFR falls to ~60 ml/min. (Book p736)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient's serum creatinine rises from 1.7 to 2.8 mg/dL. Per the book's inverse-relationship examples, this rise means the GFR has:",
+   "opts": [
+    "Remained unchanged",
+    "Risen paradoxically",
+    "Fallen significantly (about 50 → 30 ml/min)",
+    "Fallen insignificantly because the patient was already in ESRD"
+   ],
+   "ans": 0,
+   "exp": "↑ in S.Cr from 1.7 to 2.8: GFR falls significantly (50 ml/min → 30 ml/min); the 5→20 example is the insignificant one (already ESRD). (Book p736)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Which of the following statements about the GFR–creatinine relationship is TRUE?",
+   "opts": [
+    "The relationship is directly proportional",
+    "An initial creatinine rise corresponds to a trivial GFR fall",
+    "By the time creatinine rises, GFR has already fallen significantly",
+    "Creatinine rises before any fall in GFR"
+   ],
+   "ans": 0,
+   "exp": "Inverse relationship: by the time Cr rises GFR falls significantly; the initial rise in Cr corresponds to a significant fall in GFR. (Book p736)"
+  }
+ ]
+}

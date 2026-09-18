@@ -1,0 +1,90 @@
+{
+ "page": 734,
+ "sec": "GFR definition & calculation",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Glomerular filtration rate is defined as the amount of urine filtered by:",
+   "opts": [
+    "All the nephrons in both kidneys in one minute",
+    "One nephron in one minute",
+    "All nephrons of one kidney in one hour",
+    "The glomerular capillaries in one second"
+   ],
+   "ans": 0,
+   "exp": "Definition: amount of urine filtered by all the nephrons in both kidneys in one minute. (Book p734)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: GFR = net ultrafiltration pressure × the ultrafiltration (UF) ______.",
+   "opts": [
+    "Coefficient",
+    "Constant of 10",
+    "Surface area",
+    "Gradient"
+   ],
+   "ans": 0,
+   "exp": "GFR = net ultrafiltration pressure × ultrafiltration (UF) coefficient. (Book p734)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each Starling pressure of the glomerulus with its book value — 1) Glomerular hydrostatic pressure 2) Bowman's capsule pressure 3) Glomerular colloid osmotic pressure … A) 32 mm Hg B) 60 mm Hg C) 18 mm Hg",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Glomerular hydrostatic 60 mm Hg; Bowman's capsule 18 mm Hg; glomerular colloid osmotic 32 mm Hg. (Book p734)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The net filtration pressure worked out in the book's boxes is:",
+   "opts": [
+    "32 mm Hg",
+    "60 mm Hg",
+    "10 mm Hg",
+    "18 mm Hg"
+   ],
+   "ans": 0,
+   "exp": "Net filtration pressure (10 mm Hg) = glomerular hydrostatic (60) − Bowman's capsule (18) − glomerular oncotic (32). (Book p734)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Using [(60 − 18) − (32 − 0)] × 12.5 ml/min/mmHg, the book's calculated GFR is:",
+   "opts": [
+    "140 ml/min",
+    "90 ml/min",
+    "125 ml/min",
+    "100 ml/min"
+   ],
+   "ans": 0,
+   "exp": "= 10 × 12.5 ml/min = 125 ml/min. (Book p734)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In the expansion of the oncotic term, the Bowman's space oncotic pressure is taken as ______.",
+   "opts": [
+    "0",
+    "18 mm Hg",
+    "32 mm Hg",
+    "10 mm Hg"
+   ],
+   "ans": 0,
+   "exp": "(Glomerular capillary OP − Bowman's space OP) uses Bowman's space OP = 0. (Book p734)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Which of the following statements about the GFR calculation is TRUE?",
+   "opts": [
+    "The UF coefficient is subtracted from the net pressure",
+    "Bowman's capsule pressure adds to filtration",
+    "Net ultrafiltration pressure = net hydrostatic pressure minus net oncotic pressure",
+    "Net ultrafiltration pressure = net oncotic pressure minus net hydrostatic pressure"
+   ],
+   "ans": 0,
+   "exp": "GFR = [net hydrostatic pressure (H.P) − net oncotic pressure (O.P)] × UF coefficient. (Book p734)"
+  }
+ ]
+}

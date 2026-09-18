@@ -1,0 +1,24 @@
+{
+ "page": 860,
+ "sec": "MEN2A variants, MEN2B/MEN3 and MEN4 · p860",
+ "items": [
+  {"fmt": "match", "q": "Match classical MEN2A frequencies — 1) Medullary thyroid cancer  2) Pheochromocytoma  3) Parathyroid hyperplasia … A) 50%  B) 25%  C) 100%",
+   "opts": ["1-C, 2-A, 3-B", "1-A, 2-C, 3-B", "1-C, 2-B, 3-A", "1-B, 2-A, 3-C"],
+   "ans": 0, "exp": "Classical MEN2A: MTC 100% + pheochromocytoma 50% + parathyroid hyperplasia 25%. (Book p860)"},
+  {"fmt": "recall", "q": "The MEN2A variants listed are classical MEN2A plus:",
+   "opts": ["Cutaneous lichen amyloidosis, Hirschsprung's disease, and FMTC", "Marfanoid habitus and mucosal neuromas", "Pituitary and pancreatic tumours", "Renal and adrenal tumours"], "ans": 0,
+   "exp": "Variants: MEN2A + cutaneous lichen amyloidosis; MEN2A + Hirschsprung's disease; familial medullary thyroid cancer (FMTC). (Book p860)"},
+  {"fmt": "recall", "q": "MEN2B/MEN3 combines medullary thyroid carcinoma (100%) and pheochromocytoma (50%) with:",
+   "opts": ["Marfanoid habitus, mucosal & intestinal ganglioneuromatosis, myelinated corneal nerve fibres", "Parathyroid hyperplasia and lichen amyloidosis", "Hirschsprung's disease and FMTC", "Pituitary macroadenomas"], "ans": 0,
+   "exp": "MEN2B/MEN3: marfanoid habitus, mucosal & intestinal ganglioneuromatosis, myelinated corneal nerve fibres. (Book p860)"},
+  {"fmt": "recall", "q": "The tongue image on p860 illustrates:",
+   "opts": ["Ganglioneuromatosis", "Amyloidosis", "Aphthous ulcers", "Angular cheilitis"], "ans": 0,
+   "exp": "The photograph shows mucosal ganglioneuromatosis of the tongue. (Book p860)"},
+  {"fmt": "fillup", "q": "MEN4 is caused by mutation of ___.",
+   "opts": ["Cyclin-dependent kinase 1B (CDKN1B)", "RET proto-oncogene", "MENIN tumour suppressor", "PTEN phosphatase"], "ans": 0,
+   "exp": "MEN4 = CDKN1B (cyclin-dependent kinase 1B) mutation. (Book p860)"},
+  {"fmt": "recall", "q": "MEN4 manifestations include parathyroid hyperplasia (adenoma), pituitary and:",
+   "opts": ["Renal/adrenal tumours and testicular/ovarian tumours", "Medullary thyroid cancer", "Pheochromocytoma only", "Gastrinoma and insulinoma"], "ans": 0,
+   "exp": "MEN4: parathyroid hyperplasia (adenoma) + pituitary + renal/adrenal tumours + testicular/ovarian tumours. (Book p860)"}
+ ]
+}
