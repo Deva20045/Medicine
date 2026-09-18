@@ -1,0 +1,138 @@
+{
+ "page": 1004,
+ "sec": "Acute variceal bleeding: the step-ladder · p1004",
+ "items": [
+  {
+   "fmt": "management",
+   "q": "A patient presents with acute variceal bleeding. The immediate access step in the p1004 flow is:",
+   "opts": [
+    "A large bore IV cannula",
+    "A 20 G intradermic needle",
+    "Intraosseous line before any IV",
+    "Arterial line as the first access"
+   ],
+   "ans": 0,
+   "exp": "Acute variceal bleeding flow starts with a large bore IV cannulas alongside the drug arms. (Book p1004)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The 1st-line vasoactive drug labelled (1st) in the p1004 flow is:",
+   "opts": [
+    "Terlipressin",
+    "Octreotide",
+    "Somatostatin",
+    "Vasopressin"
+   ],
+   "ans": 0,
+   "exp": "Terlipressin (1st) is the printed first-line arm; octreotide follows after the ‘>’ as the alternative. (Book p1004)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The terlipressin regimen in the p1004 flow is:",
+   "opts": [
+    "2 mg stat dose → 2 mg Q6h × 48 hours",
+    "1 mg stat → 1 mg Q12h × 24 hours",
+    "4 mg stat → 2 mg Q12h × 72 hours",
+    "2 mg Q6h × 7 days without a stat dose"
+   ],
+   "ans": 0,
+   "exp": "Printed as ‘a mg stat dose → a mg Q6h × 48 hours’ — the dose figure is degraded in the print; the intended regimen is the 2 mg stat → 2 mg Q6h × 48 hours shown in Marrow’s slide deck. (Book p1004)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The octreotide alternative in the p1004 flow is:",
+   "opts": [
+    "IV 50 µg stat → 50 µg/hour",
+    "IV 100 µg stat → 100 µg/hour",
+    "IV 50 µg once only",
+    "IV 5 µg stat → 5 µg/hour"
+   ],
+   "ans": 0,
+   "exp": "> IV Octreotide 50 µg stat → 50 µg/hour. (Book p1004)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘In the p1004 flow, IV octreotide is the labelled first-line drug and terlipressin is the alternative.’",
+   "opts": [
+    "False — terlipressin is labelled (1st); octreotide sits after the ‘>’ as the alternative",
+    "True — octreotide is the labelled first-line vasoactive drug",
+    "False — neither vasoactive drug appears in the acute bleeding flow",
+    "True, but only in non-cirrhotic variceal bleeds"
+   ],
+   "ans": 0,
+   "exp": "Terlipressin (1st) is the first arm; the ‘>’ leads to the IV octreotide 50 µg stat → 50 µg/hour alternative. (Book p1004)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the three bullets in the p1004 resuscitation box — 1) Infection prophylaxis  2) Volume  3) Airway … A) Intubation to be considered  B) Replace blood volume  C) Start antibiotics",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Box: start antibiotics; replace blood volume; intubation to be considered. (Book p1004)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A variceal-bleed patient is obtunded and gagless on arrival. Which bullet of the p1004 box is activated by this finding?",
+   "opts": [
+    "Intubation to be considered",
+    "Start antibiotics",
+    "Replace blood volume",
+    "A larger bolus of terlipressin"
+   ],
+   "ans": 0,
+   "exp": "Airway protection: intubation to be considered is the third bullet of the box. (Book p1004)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Upon failure of drug therapy and resuscitation, the p1004 flow proceeds to endoscopy for:",
+   "opts": [
+    "Variceal ligation or sclerotherapy",
+    "Balloon tamponade only",
+    "Splenectomy",
+    "TIPS directly"
+   ],
+   "ans": 0,
+   "exp": "Upon failure → endoscopy : variceal ligation or sclerotherapy. (Book p1004)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Upon failure of endoscopy, the final step of the p1004 ladder is:",
+   "opts": [
+    "TIPSS (Transjugular Intrahepatic Portosystemic Shunt)",
+    "Repeat variceal ligation through a different scope",
+    "Surgical mesocaval shunt formation at laparotomy",
+    "Conservative management with serial endoscopy"
+   ],
+   "ans": 0,
+   "exp": "Upon failure → TIPSS (Transjugular Intrahepatic Portosystemic Shunt). (Book p1004)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are bullets in the p1004 resuscitation box. The odd one out is:",
+   "opts": [
+    "Start octreotide infusion",
+    "Start antibiotics",
+    "Replace blood volume",
+    "Intubation to be considered"
+   ],
+   "ans": 0,
+   "exp": "The box holds: start antibiotics, replace blood volume, intubation to be considered — the octreotide infusion belongs to the drug arm, not the box. (Book p1004)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A cirrhotic bleeds from varices; terlipressin + resuscitation fail, and endoscopic ligation fails. The next rung of the p1004 ladder is:",
+   "opts": [
+    "TIPSS",
+    "Switching to nadolol",
+    "Repeat sclerotherapy with a different kit",
+    "Immediate orthotopic liver transplant"
+   ],
+   "ans": 0,
+   "exp": "Ladder: drugs → (upon failure) endoscopy : ligation or sclerotherapy → (upon failure) TIPSS. (Book p1004)"
+  }
+ ]
+}

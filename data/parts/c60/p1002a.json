@@ -1,0 +1,102 @@
+{
+ "page": 1002,
+ "sec": "Sinusoidal vasoconstriction and the HVPG ladder · p1002",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "In the equation P = F × R used on p1002 for portal HTN, a rise in sinusoidal resistance leads to:",
+   "opts": [
+    "Rise in pressure (R↑ = P↑)",
+    "Fall in flow at fixed pressure",
+    "Rise in flow for fixed resistance",
+    "Fall in pressure (R↑ = P↓)"
+   ],
+   "ans": 0,
+   "exp": "Resistance due to: (P = F × R; R↑ = P↑). (Book p1002)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the HVPG (hepatic venous pressure gradient) ladder of p1002 — 1) 1–5 mm Hg  2) ≥ 10 mm Hg  3) ≥ 12 mm Hg  4) ≥ 20 mm Hg … A) Threshold pressure for variceal rupture  B) Normal value  C) ↑ Risk of death  D) Clinically significant portal hypertension",
+   "opts": [
+    "1-B, 2-D, 3-A, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-D, 2-B, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "HVPG table: 1–5 mm Hg = normal value; ≥ 10 mm Hg = clinically significant portal hypertension; ≥ 12 mm Hg = threshold pressure for variceal rupture; ≥ 20 mm Hg = ↑ risk of death. (Book p1002)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The HVPG that marks the threshold pressure for variceal rupture is:",
+   "opts": [
+    "≥ 12 mm Hg",
+    "≥ 10 mm Hg",
+    "≥ 8 mm Hg",
+    "≥ 15 mm Hg"
+   ],
+   "ans": 0,
+   "exp": "≥ 12 mm Hg is labelled the threshold pressure for variceal rupture. (Book p1002)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A cirrhotic patient's HVPG is measured at 11 mm Hg. According to the p1002 ladder, the best interpretation is:",
+   "opts": [
+    "Clinically significant portal hypertension, but below the printed variceal-rupture threshold",
+    "Normal — HVPG must reach 12 mm Hg before portal hypertension is significant",
+    "Already within the ≥ 20 mm Hg band that marks an increased risk of death",
+    "Indeterminate — the 10–12 mm Hg gap on the ladder carries no printed label"
+   ],
+   "ans": 0,
+   "exp": "≥ 10 mm Hg = clinically significant portal hypertension; ≥ 12 mm Hg = threshold for variceal rupture; so 11 sits between the two printed marks. (Book p1002)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The functional (non-mechanical) cause of sinusoidal vasoconstriction in portal HTN is a fall in:",
+   "opts": [
+    "Intrasinusoidal NO (nitric oxide)",
+    "Intrasinusoidal prostacyclin",
+    "Portal vein flow velocity",
+    "Hepatic arterial resistance"
+   ],
+   "ans": 0,
+   "exp": "Functional cause: ↓ intrasinusoidal NO → contraction of sinusoid → defenestration. (Book p1002)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘In sinusoidal vasoconstriction, the NO pathway causes the sinusoid to relax.’",
+   "opts": [
+    "False — ↓ intrasinusoidal NO causes contraction of the sinusoid",
+    "True — NO mediates sinusoidal relaxation here",
+    "False — the cause is a rise, not a fall, in NO",
+    "True, but only in the presinusoidal segment"
+   ],
+   "ans": 0,
+   "exp": "Functional cause: ↓ intrasinusoidal NO → contraction of sinusoid → defenestration. (Book p1002)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The mechanical cause of sinusoidal resistance in portal HTN, as drawn on p1002, is:",
+   "opts": [
+    "A nodule compressing the sinusoid",
+    "Loss of endothelial fenestrae alone",
+    "Spasm of the portal vein wall",
+    "Hepatic vein outflow obstruction"
+   ],
+   "ans": 0,
+   "exp": "Mechanical cause: nodule compressing sinusoid (functional arm is the ↓ NO pathway). (Book p1002)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following appear in the p1002 functional-cause chain (↓ intrasinusoidal NO → …). The odd one out is:",
+   "opts": [
+    "Portal vein thrombosis",
+    "Contraction of the sinusoid",
+    "Defenestration",
+    "↓ Intrasinusoidal NO"
+   ],
+   "ans": 0,
+   "exp": "The chain is ↓ intrasinusoidal NO → contraction of sinusoid → defenestration; portal vein thrombosis is not part of it. (Book p1002)"
+  }
+ ]
+}

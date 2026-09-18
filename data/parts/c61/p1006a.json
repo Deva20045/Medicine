@@ -1,0 +1,78 @@
+{
+  "page": 1006,
+  "sec": "The mechanism of ascites: the NO \u2192 retention chain \u00b7 p1006",
+  "items": [
+    {
+      "fmt": "fillup",
+      "q": "The mechanism chain begins with nitric oxide (NO) causing:",
+      "opts": [
+        "Splanchnic vasodilation",
+        "Splanchnic vasoconstriction",
+        "Renal vasoconstriction",
+        "Portal vein thrombosis"
+      ],
+      "ans": 0,
+      "exp": "Mechanism: nitric oxide (NO) \u2192 splanchnic vasodilation. (Book p1006)"
+    },
+    {
+      "fmt": "match",
+      "q": "Match the systems stimulated by \u2193 effective intravascular volume \u2014 1) Hormonal 2) Neural 3) Renin\u2013angiotensin \u2026 A) RAAS B) Sympathetic nervous system (SNS) C) ADH",
+      "opts": [
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 0,
+      "exp": "\u2193 effective intravascular volume stimulates ADH, the sympathetic nervous system (SNS) and RAAS. (Book p1006)"
+    },
+    {
+      "fmt": "truefalse",
+      "q": "\u2018The fall in effective intravascular volume in the cirrhotic cascade is caused by splanchnic vasoconstriction.\u2019",
+      "opts": [
+        "False \u2014 it follows splanchnic vasodilation by NO",
+        "True \u2014 splanchnic tone rises first",
+        "False \u2014 the volume falls before any vascular change",
+        "True, but only after RAAS activation"
+      ],
+      "ans": 0,
+      "exp": "Chain: NO \u2192 splanchnic vasodilation \u2192 \u2193 effective intravascular volume \u2192 ADH/SNS/RAAS stimulation \u2192 \u2191 salt + H\u2082O retention \u2192 ascites. (Book p1006)"
+    },
+    {
+      "fmt": "oddoneout",
+      "q": "All but one of the following are the three printed downstream states of ascites . The odd one out is:",
+      "opts": [
+        "Hepatic encephalopathy",
+        "Refractory ascites",
+        "Hyponatremia",
+        "Hepatorenal syndrome (HRS)"
+      ],
+      "ans": 0,
+      "exp": "The ascites arrow branches to refractory ascites, hyponatremia and hepatorenal syndrome (HRS); encephalopathy is not in this p1006 branch. (Book p1006)"
+    },
+    {
+      "fmt": "scenario",
+      "q": "A cirrhotic with tense ascites has serum Na\u207a 124 mmol/L and a creatinine that has risen from 1.1 to 1.9 mg/dL over a week. Two of the three downstream states are present. Which pair?",
+      "opts": [
+        "Hyponatremia and hepatorenal syndrome",
+        "Refractory ascites and HRS",
+        "Hyponatremia and refractory ascites",
+        "Encephalopathy and hyponatremia"
+      ],
+      "ans": 0,
+      "exp": "Na\u207a 124 = hyponatremia; the rising creatinine with ascites = the hepatorenal syndrome arm of the p1006 branch. (Book p1006)"
+    },
+    {
+      "fmt": "fillup",
+      "q": "In the pathophysiologic cascade of chronic liver disease, persistent renal retention of sodium and water directly manifests as:",
+      "opts": [
+        "Peritoneal ascites",
+        "Esophageal varices",
+        "Pleural empyema",
+        "Pulmonary edema"
+      ],
+      "ans": 0,
+      "exp": "Increased salt and water retention directly produces peritoneal ascites. (Book p1006)"
+    }
+  ]
+}

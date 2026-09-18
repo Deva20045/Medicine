@@ -1,0 +1,78 @@
+{
+  "page": 1006,
+  "sec": "Chylous vs pseudochylous ascites: the table \u00b7 p1006",
+  "items": [
+    {
+      "fmt": "match",
+      "q": "Match the chylous column of the comparative table \u2014 1) Onset 2) Cause 3) Triglycerides 4) Lipoprotein electrophoresis \u2026 A) Chylomicrons present B) Sudden C) > 110 mg/dL D) Trauma",
+      "opts": [
+        "1-B, 2-D, 3-C, 4-A",
+        "1-D, 2-A, 3-C, 4-B",
+        "1-A, 2-D, 3-B, 4-C",
+        "1-C, 2-B, 3-D, 4-A"
+      ],
+      "ans": 0,
+      "exp": "Chylous: sudden onset, trauma, milky-white (or yellow to bloody), lymphocytosis, triglycerides > 110 mg/dL, chylomicrons present. (Book p1006)"
+    },
+    {
+      "fmt": "match",
+      "q": "Match the pseudochylous column of the comparative table \u2014 1) Onset 2) Cause 3) Microscopic examination 4) Appearance \u2026 A) Milky or greenish, metallic sheen B) Mixed cellular reaction, cholesterol crystals C) Gradual D) Rheumatoid arthritis / TB",
+      "opts": [
+        "1-C, 2-D, 3-B, 4-A",
+        "1-D, 2-C, 3-A, 4-B",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-C, 2-B, 3-A, 4-D"
+      ],
+      "ans": 0,
+      "exp": "Pseudochylous: gradual onset, RA/TB, milky or greenish with metallic sheen, mixed cellular reaction with cholesterol crystals, triglycerides < 50 mg/dL, chylomicrons absent with cholesterol crystals (+) on electrophoresis. (Book p1006)"
+    },
+    {
+      "fmt": "numeric",
+      "q": "In the comparative table, the triglyceride level that defines chylous ascites is:",
+      "opts": [
+        "> 110 mg/dL",
+        "< 50 mg/dL",
+        "> 50 mg/dL",
+        "< 110 mg/dL"
+      ],
+      "ans": 0,
+      "exp": "Triglycerides: chylous > 110 mg/dL versus pseudochylous < 50 mg/dL. (Book p1006)"
+    },
+    {
+      "fmt": "truefalse",
+      "q": "\u2018Pseudochylous ascites shows chylomicrons on lipoprotein electrophoresis.\u2019",
+      "opts": [
+        "False \u2014 chylomicrons are absent and cholesterol crystals are (+)",
+        "True \u2014 both types show chylomicrons",
+        "False \u2014 pseudochylous shows neither chylomicrons nor crystals",
+        "True, but only in RA"
+      ],
+      "ans": 0,
+      "exp": "Pseudochylous lipoprotein electrophoresis: chylomicrons absent, cholesterol crystals (+). (Book p1006)"
+    },
+    {
+      "fmt": "scenario",
+      "q": "A patient 48 h after an aorto-iliac procedure develops milky-white ascites; the fluid shows lymphocytosis and triglycerides 150 mg/dL. Per this is:",
+      "opts": [
+        "Chylous ascites (traumatic, sudden)",
+        "Pseudochylous ascites",
+        "High-SAAG ascites",
+        "Low-SAAG ascites due to peritoneal CA"
+      ],
+      "ans": 0,
+      "exp": "Sudden onset after trauma, milky-white, lymphocytosis and TG > 110 mg/dL = chylous. (Book p1006)"
+    },
+    {
+      "fmt": "fillup",
+      "q": "The pseudochylous ascitic fluid's characteristic appearance is:",
+      "opts": [
+        "Milky or greenish with a metallic sheen",
+        "Milky-white, or yellow to bloody",
+        "Clear straw-coloured fluid",
+        "Bloody with lymphocytosis"
+      ],
+      "ans": 0,
+      "exp": "Appearance: chylous \u2014 milky-white or yellow to bloody; pseudochylous \u2014 milky or greenish, metallic sheen. (Book p1006)"
+    }
+  ]
+}

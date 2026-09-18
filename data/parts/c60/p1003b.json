@@ -1,0 +1,78 @@
+{
+ "page": 1003,
+ "sec": "The WHVP / FHVP / HVPG table read row by row · p1003",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the p1003 table locations with their pressure patterns — 1) Presinusoidal  2) Sinusoidal  3) The row where the hepatic vein cannot be cannulated … A) WHVP increased, FHVP increased, HVPG normal  B) WHVP, FHVP and HVPG all normal  C) WHVP increased, FHVP normal, HVPG increased",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Presinusoidal: normal/normal/normal; sinusoidal: increased/normal/increased; the unlabeled row: increased / increased (hepatic vein cannot be cannulated) / normal. (Book p1003)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The prehepatic and presinusoidal rows of the p1003 table are identical: WHVP, FHVP and HVPG are all:",
+   "opts": [
+    "Normal",
+    "Increased",
+    "Borderline",
+    "Unmeasurable"
+   ],
+   "ans": 0,
+   "exp": "Both the prehepatic and presinusoidal rows print Normal in all three columns. (Book p1003)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "In the sinusoidal (cirrhotic) row of the table, WHVP is increased while FHVP remains:",
+   "opts": [
+    "Normal",
+    "Increased",
+    "Decreased",
+    "Unmeasurable"
+   ],
+   "ans": 0,
+   "exp": "Sinusoidal: WHVP increased, FHVP normal, HVPG increased. (Book p1003)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "In a patient with Budd–Chiari syndrome the hepatic vein cannot be cannulated. Which p1003 table row fits this situation, and what does it predict for HVPG?",
+   "opts": [
+    "The unlabeled row — WHVP and FHVP increased, HVPG normal",
+    "The sinusoidal row — HVPG increased",
+    "The presinusoidal row — HVPG normal with all pressures normal",
+    "The postsinusoidal row — FHVP normal"
+   ],
+   "ans": 0,
+   "exp": "The unlabeled row: WHVP increased, FHVP increased (hepatic vein cannot be cannulated), HVPG normal — the pattern of post-hepatic obstruction. (Book p1003)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘In presinusoidal portal hypertension the HVPG is increased according to the p1003 table.’",
+   "opts": [
+    "False — presinusoidal: WHVP, FHVP and HVPG are all normal",
+    "True — the gradient rises presinusoidally",
+    "False — the WHVP is increased instead",
+    "True, but only in EHPVO"
+   ],
+   "ans": 0,
+   "exp": "Presinusoidal row: normal / normal / normal. (Book p1003)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "In the p1003 flow, an HVPG > 10 mm Hg prompts Rx with the non-selective β-blocker labelled (best):",
+   "opts": [
+    "Carvedilol",
+    "Propranolol",
+    "Nadolol",
+    "Timolol"
+   ],
+   "ans": 0,
+   "exp": "Bracket on the table: > 10 mm Hg → Rx non-selective β-blocker : carvedilol (best). (Book p1003)"
+  }
+ ]
+}

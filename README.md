@@ -40,12 +40,20 @@ rest show a **Soon** badge.
 | Ch 23 · Introduction to Acid Base Analysis (p819–823) — 9 units, 137 questions | ✅ live |
 | Ch 24 · Metabolic Alkalosis (p824–825) — 3 units, 40 questions | ✅ live |
 | Ch 25 · Methodology and Interpretation of ABG Analysis (p826–829) — 6 units, 105 questions | ✅ live |
-| Ch 26–74 (Endocrinology, Hepatology, Infectious Diseases) | 🚧 in progress |
-
-**Bank total: 2174 questions · 180 units · 25 live chapters of the 74-chapter roadmap**
-(Ch 6–15 alone: 830 questions in 68 units, 70% of them in non-recall formats — fill-ups,
-match-the-following, true/false, odd-one-out, numeric and clinical scenarios; see
-`REAUDIT_CH6-15.md`, `REPORT_CH23-25.md` and `AUDIT.md`).
+| Ch 26 · Overview of Hormones (p830–836) — 7 units, 71 questions | ✅ live |
+| Ch 27 · Physiology of Adrenal Cortex (p837–840) — 4 units, 39 questions | ✅ live |
+| Ch 28 · Conn's Syndrome (p841–843) — 3 units, 29 questions | ✅ live |
+| Ch 29 · Cushing's Syndrome (p844–848) — 5 units, 50 questions | ✅ live |
+| Ch 30 · Addison's Disease (p849–851) — 3 units, 33 questions | ✅ live |
+| Ch 31 · Adrenal Medulla : Part 1 (p852–857) — 5 units, 53 questions | ✅ live |
+| Ch 32 · Adrenal Medulla : Part 2 (p858–862) — 5 units, 45 questions | ✅ live |
+| Ch 33 · Basics of Bone and Mineral Metabolism (p863–873) — 6 units, 89 questions | ✅ live |
+| Ch 34 · Calcium Metabolism (p874–876) — 3 units, 29 questions | ✅ live |
+| Ch 35 · Hypercalcemia (p877–882) — 6 units, 64 questions | ✅ live |
+| Ch 36–59 (Endocrinology, General Hepatology) | 🚧 in progress |
+| Ch 60 · Portal Hypertension (p1001–1004) — 8 units, 86 questions | ✅ live on this branch |
+| Ch 61 · Ascites and Hepatorenal Syndrome (p1005–1009) — 8 units, 81 questions | ✅ live on this branch |
+| Ch 62–74 (Hepatology, Viral Hepatitis, Infectious Diseases) | 🚧 in progress |
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 74-chapter
 roadmap, data schema, per-chapter pipeline, and NEXT step.
@@ -55,31 +63,21 @@ roadmap, data schema, per-chapter pipeline, and NEXT step.
 |---|---|
 | `pulse-medicine.html` | The app (all data embedded; standalone) |
 | `index.html` | Redirect → `pulse-medicine.html` |
-| `data/chNN.json` | Authoring source of truth per live chapter |
-| `build_content.py` | Roadmap + validator; embeds `data/chNN.json` into the app |
-| `check_integrity.py` | Structural gate (counts, order, citations, option quality, JS syntax) |
-| `check_app_smoke.js` | Runtime test (DOM shim): roadmap rows, paths, quiz start |
-| `audit_variety.py` | Format-mix + predictability audit (output saved to `AUDIT.md`) |
-| `itemlab.py` | Add/edit questions with renumbering + auto-rebuild |
-| `uploads/` | The 6 source book PDFs (Book p705–1070) |
-| `data/parts/cNN/…` | Ordered, page-anchored authoring parts (source of truth for Ch 13–18, 23–25) |
+| `data/chNN.json` | Extracted question bank (one JSON per live chapter) |
+| `build_content.py` | Inlines `data/ch*.json` into `pulse-medicine.html` |
+| `check_integrity.py` | CI gate: schema, sequence, exact count, 1-to-1 sync |
+| `check_app_smoke.js` | Headless browser smoke test (all live chapters) |
+| `audit_variety.py` | Quality audit (formats, length-bias, leaks, repeats) |
 | `author.py` | Assembles `data/chNN.json` from the ordered parts, with quality gates |
 | `REAUDIT.md` | Re-audit report for Ch 13–18 (before → after, coverage, verification) |
 | `REPORT_CH23-25.md` | Build report for the Acid–Base chapters (coverage, metrics, verification) |
 | `REPORT_CH26-35.md` | Build report for Ch 26–35 (Endocrinology + Bone/Mineral; coverage, metrics, verification) |
+| `REPORT_CH60-61.md` | Build report for Ch 60–61 (Portal Hypertension, Ascites and HRS) |
 
 ## Run the checks (after any content change)
 ```bash
-python build_content.py        # embeds data/ into pulse-medicine.html
-python check_integrity.py      # must PASS
-node check_app_smoke.js        # must PASS
-python audit_variety.py > AUDIT.md
+python3 build_content.py
+python3 check_integrity.py
+node check_app_smoke.js
+python3 audit_variety.py
 ```
-
-## Quality bar (enforced, not aspirational)
-- Every book line, table, diagram, flowchart, classification, value and exception
-  covered in book order; every page cited.
-- 4 distinct, plausible, medical options per question — never "None of the above",
-  never length-givable (answer ≤ 3× longest distractor), options shuffled at runtime.
-- Mixed formats in every unit; clinical scenarios, comparisons and exam
-  distinctions, not page-quizzing.

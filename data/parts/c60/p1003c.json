@@ -1,0 +1,90 @@
+{
+ "page": 1003,
+ "sec": "Endoscopy, variceal ligation indications and modified Child–Pugh · p1003",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "Endoscopy showing large varices → p1003 Rx of choice is the non-selective β-blocker:",
+   "opts": [
+    "Carvedilol, labelled (best) in the flow",
+    "Propranolol, the classic non-selective agent",
+    "Atenolol, a selective β-1 blocker",
+    "Bisoprolol, another selective β-1 blocker"
+   ],
+   "ans": 0,
+   "exp": "Large varices → Rx non-selective β-blocker : carvedilol (best). (Book p1003)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Endoscopy showing mild/moderate varices is handled by:",
+   "opts": [
+    "Conservative management",
+    "Immediate variceal ligation",
+    "TIPS referral",
+    "Splenectomy"
+   ],
+   "ans": 0,
+   "exp": "Endoscopy arms: large varices → non-selective β-blocker; mild/moderate varices → conservative management. (Book p1003)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the p1003 indications for endoscopic variceal ligation — 1) Intolerant to β-blocker therapy  2) β-blockers contraindicated  3) Target HVPG not achieved … A) With β-blocker  B) Severe bradycardia  C) Asthma, COPD",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Intolerant to β-blocker therapy: asthma, COPD; β-blockers contraindicated: severe bradycardia; target HVPG not achieved with β-blocker. (Book p1003)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A cirrhotic with large varices develops a resting heart rate of 42 bpm after starting a β-blocker. According to p1003, endoscopic variceal ligation is indicated here under which heading?",
+   "opts": [
+    "β-blockers contraindicated (severe bradycardia)",
+    "Intolerant to β-blocker therapy (asthma, COPD)",
+    "Target HVPG not achieved",
+    "Mild/moderate varices arm"
+   ],
+   "ans": 0,
+   "exp": "Severe bradycardia is the printed example under ‘β-blockers contraindicated’; intolerance refers to asthma/COPD. (Book p1003)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the modified Child–Pugh parameters of p1003 — 1) Ascites  2) Encephalopathy  3) Albumin  4) Prothrombin time … A) Seconds increased  B) Hepatic synthetic protein  C) Fluid in the peritoneal cavity  D) Altered sensorium",
+   "opts": [
+    "1-C, 2-D, 3-B, 4-A",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Parameters assessed: ascites, encephalopathy, bilirubin, albumin, prothrombin time (seconds increased). (Book p1003)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "In the modified Child–Pugh classes A, B, C of p1003, the bracketed classes that require transplant are:",
+   "opts": [
+    "Classes B and C",
+    "Classes A and B",
+    "Class A only",
+    "All three classes (A, B and C)"
+   ],
+   "ans": 0,
+   "exp": "Classes: A, B, C — the bracket over B and C is annotated ‘Requires transplant’. (Book p1003)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are parameters of the modified Child–Pugh system on p1003. The odd one out is:",
+   "opts": [
+    "Serum creatinine",
+    "Bilirubin",
+    "Albumin",
+    "Prothrombin time"
+   ],
+   "ans": 0,
+   "exp": "Parameters: ascites, encephalopathy, bilirubin, albumin, prothrombin time (seconds increased) — creatinine is not listed. (Book p1003)"
+  }
+ ]
+}

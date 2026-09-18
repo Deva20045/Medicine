@@ -1,0 +1,114 @@
+{
+  "page": 1005,
+  "sec": "Fulminant hepatitis and the SAAG quadrant map \u00b7 p1005",
+  "items": [
+    {
+      "fmt": "recall",
+      "q": "The feature of ascites in fulminant hepatitis is:",
+      "opts": [
+        "Ascites without the chronic picture (PHTN)",
+        "Ascites with a chronic PHTN picture",
+        "Ascites always with varices",
+        "Ascites with normal SAAG only"
+      ],
+      "ans": 0,
+      "exp": "Fulminant hepatitis: ascites without chronic picture (PHTN). (Book p1005)"
+    },
+    {
+      "fmt": "oddoneout",
+      "q": "All but one of the following are listed as causes of fulminant hepatitis . The odd one out is:",
+      "opts": [
+        "Aflatoxin",
+        "Paracetamol",
+        "Mushroom poisoning",
+        "Rat killer poisoning"
+      ],
+      "ans": 0,
+      "exp": "Listed causes: paracetamol / alcohol / mushroom / rat killer poisoning; aflatoxin is not on the p1005 list. (Book p1005)"
+    },
+    {
+      "fmt": "fillup",
+      "q": "SAAG (serum ascites albumin gradient) = S. albumin minus:",
+      "opts": [
+        "Ascitic fluid albumin (AFA)",
+        "Ascitic fluid protein",
+        "Serum protein",
+        "Peritoneal fluid lactate"
+      ],
+      "ans": 0,
+      "exp": "SAAG: serum ascites albumin gradient = S. albumin \u2212 ascitic fluid albumin (AFA). (Book p1005)"
+    },
+    {
+      "fmt": "numeric",
+      "q": "A SAAG \u2265 1.1 defines high-SAAG ascites, which account for what proportion of ascites ()?",
+      "opts": [
+        "90% \u2014 due to PHTN",
+        "10% \u2014 due to PHTN",
+        "50% \u2014 due to PHTN",
+        "85% \u2014 due to peritoneal causes"
+      ],
+      "ans": 0,
+      "exp": "\u2265 1.1 : high SAAG ascites (90%) d/t PHTN. (Book p1005)"
+    },
+    {
+      "fmt": "numeric",
+      "q": "A SAAG < 1.1 defines low-SAAG ascites (10%), due to:",
+      "opts": [
+        "Peritoneal membrane permeability",
+        "Portal hypertension",
+        "Cirrhosis alone",
+        "Hepatic venous obstruction"
+      ],
+      "ans": 0,
+      "exp": "< 1.1 : low SAAG ascites (10%) d/t peritoneal membrane permeability. (Book p1005)"
+    },
+    {
+      "fmt": "match",
+      "q": "Match the four SAAG \u00d7 protein quadrants \u2014 1) High SAAG, high protein 2) High SAAG, low protein 3) Low SAAG, high protein 4) Low SAAG, low protein \u2026 A) \u2193 protein synthesis, \u2191 loss : nephrotic syndrome B) Through hepatic vein \u2014 BCS (Budd\u2013Chiari) C) Any peritoneal cause, m/c : peritoneal CA D) \u2191 Sinusoidal pressure",
+      "opts": [
+        "1-B, 2-D, 3-C, 4-A",
+        "1-D, 2-B, 3-C, 4-A",
+        "1-B, 2-C, 3-D, 4-A",
+        "1-C, 2-D, 3-B, 4-A"
+      ],
+      "ans": 0,
+      "exp": "High SAAG + high protein (\u2193AFA, \u2191protein): through hepatic vein \u2014 BCS; high SAAG + low protein (\u2193AFA, \u2193protein): \u2191 sinusoidal pressure; low SAAG + high protein (\u2191AFA, \u2191protein): any peritoneal cause, m/c peritoneal CA; low SAAG + low protein (\u2193protein synthesis, \u2191loss): nephrotic syndrome. (Book p1005)"
+    },
+    {
+      "fmt": "fillup",
+      "q": "In the high-SAAG, high-protein quadrant, what directional changes in serum-ascites albumin difference and fluid protein concentration occur?",
+      "opts": [
+        "\u2193 AFA, \u2191 protein",
+        "\u2191 AFA, \u2191 protein",
+        "\u2193 AFA, \u2193 protein",
+        "\u2191 AFA, \u2193 protein"
+      ],
+      "ans": 0,
+      "exp": "High SAAG, high protein: \u2193 AFA, \u2191 protein (through hepatic vein \u2014 BCS). (Book p1005)"
+    },
+    {
+      "fmt": "truefalse",
+      "q": "\u2018In low-SAAG, high-protein ascites the ascitic fluid albumin (AFA) is reduced.\u2019",
+      "opts": [
+        "False \u2014 that quadrant is \u2191 AFA with \u2191 protein (peritoneal causes, m/c peritoneal CA)",
+        "True \u2014 AFA is reduced in every low-SAAG pattern",
+        "False \u2014 the AFA is normal in peritoneal disease",
+        "True, but only in nephrotic syndrome"
+      ],
+      "ans": 0,
+      "exp": "Low SAAG, high protein: \u2191 AFA, \u2191 protein (cause: any peritoneal cause, m/c peritoneal CA). (Book p1005)"
+    },
+    {
+      "fmt": "scenario",
+      "q": "A paracentesis gives SAAG 2.0 g/dL and ascitic protein 4.0 g/dL, with the AFA well below the serum albumin. Which quadrant and aetiology fit?",
+      "opts": [
+        "High SAAG, high protein \u2014 Budd\u2013Chiari through the hepatic vein",
+        "High SAAG, low protein \u2014 sinusoidal pressure",
+        "Low SAAG, high protein \u2014 peritoneal CA",
+        "Low SAAG, low protein \u2014 nephrotic syndrome"
+      ],
+      "ans": 0,
+      "exp": "SAAG \u2265 1.1 + high ascitic protein (\u2193AFA, \u2191protein) = the BCS quadrant, not the usual cirrhotic low-protein pattern. (Book p1005)"
+    }
+  ]
+}
