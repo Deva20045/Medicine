@@ -1,0 +1,30 @@
+{
+ "page": 871,
+ "sec": "Parathyroid anatomy, transcription factors and the PTH–VitD–FGF23 loop · p871",
+ "items": [
+  {"fmt": "match", "q": "Match parathyroid development — 1) 3rd pharyngeal pouch  2) 4th pharyngeal pouch … A) Superior parathyroid  B) Inferior parathyroid (ectopic intrathyroid m/c)",
+   "opts": ["1-B, 2-A", "1-A, 2-B", "1-B, 2-B", "1-A, 2-A"], "ans": 0,
+   "exp": "3rd pouch → inferior parathyroid (ectopic, intrathyroid m/c); 4th pouch → superior parathyroid; endodermal origin at 5–7 weeks. (Book p871)"},
+  {"fmt": "recall", "q": "A Tbx1 defect causes:",
+   "opts": ["Di George syndrome (22q microdeletion)", "Hypoparathyroidism with SNHL", "Renal dysplasia", "Cleidocranial dysplasia"], "ans": 0,
+   "exp": "Tbx1 defect → Di George syndrome (22q microdeletion). (Book p871)"},
+  {"fmt": "recall", "q": "A GATA3 defect produces the triad of:",
+   "opts": ["Hypoparathyroidism, sensorineural hearing loss, renal dysfunction", "Hypocalcaemia, cataract, basal ganglia calcification", "Hypoparathyroidism, deafness, nail dysplasia", "Adrenal, thyroid and parathyroid failure"], "ans": 0,
+   "exp": "GATA3 defect → hypoparathyroidism, SNHL, renal dysfunction. (Book p871)"},
+  {"fmt": "recall", "q": "GCMB and SOX3 defects lead to:",
+   "opts": ["Hypoparathyroidism", "Hyperparathyroidism", "Di George syndrome", "Renal osteodystrophy"], "ans": 0,
+   "exp": "GCMB & SOX3 defect → hypoparathyroidism. (Book p871)"},
+  {"fmt": "recall", "q": "The parathyroid cell with abundant mitochondria and affinity for 99mTc-sestamibi is the:",
+   "opts": ["Oxyntic cell", "Chief cell", "C-cell", "Follicular cell"], "ans": 0,
+   "exp": "Oxyntic cells contain large mitochondria and take up 99mTc-sestamibi. (Book p871)"},
+  {"fmt": "scenario", "q": "A sestamibi scan shows a hot parathyroid focus. The applied principle is that adenoma has:",
+   "opts": ["↑ oxyntic cells → ↑ 99mTc-sestamibi uptake", "↓ chief cells", "No mitochondria", "↑ calcitonin"], "ans": 0,
+   "exp": "Adenoma → ↑ oxyntic cells → ↑ uptake of 99mTc-sestamibi (taken up by oxyntic cells). (Book p871)"},
+  {"fmt": "match", "q": "Match the PTH–VitD–FGF23 loop — 1) FGF23 on Vit D & PTH  2) PTH on Vit D & FGF23  3) Vit D on PTH & FGF23 … A) (+) Vit D, (+) FGF23  B) (−) PTH, (+) FGF23  C) (−) Vit D, (−) PTH",
+   "opts": ["1-C, 2-A, 3-B", "1-A, 2-C, 3-B", "1-C, 2-B, 3-A", "1-B, 2-A, 3-C"],
+   "ans": 0, "exp": "FGF23 inhibits Vit D and PTH; PTH stimulates Vit D and FGF23; Vit D inhibits PTH and stimulates FGF23. (Book p871)"},
+  {"fmt": "recall", "q": "PTH stimulates vitamin D by activating:",
+   "opts": ["1α-hydroxylase", "24-α-hydroxylase", "25-hydroxylase", "VDR"], "ans": 0,
+   "exp": "PTH (+) 1α-hydroxylase → stimulates Vit D; Vit D (−) parathyroid proliferation → inhibits PTH. (Book p871)"}
+ ]
+}

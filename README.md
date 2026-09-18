@@ -61,6 +61,7 @@ roadmap, data schema, per-chapter pipeline, and NEXT step.
 | `author.py` | Assembles `data/chNN.json` from the ordered parts, with quality gates |
 | `REAUDIT.md` | Re-audit report for Ch 13–18 (before → after, coverage, verification) |
 | `REPORT_CH23-25.md` | Build report for the Acid–Base chapters (coverage, metrics, verification) |
+| `REPORT_CH26-35.md` | Build report for Ch 26–35 (Endocrinology + Bone/Mineral; coverage, metrics, verification) |
 
 ## Run the checks (after any content change)
 ```bash

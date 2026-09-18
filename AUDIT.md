@@ -1,17 +1,17 @@
 ==============================================================================
 PULSE Medicine — QUESTION VARIETY & PREDICTABILITY AUDIT
 ==============================================================================
-2002 questions · 182 units · 25 live chapter(s)
+2504 questions · 229 units · 35 live chapter(s)
 
 FORMAT MIX (whole bank)
-  recall         613   30.6%
-  match          302   15.1%
-  numeric        231   11.5%
-  truefalse      218   10.9%
-  fillup         216   10.8%
-  oddoneout      192    9.6%
-  scenario       187    9.3%
-  management      43    2.1%
+  recall         886   35.4%
+  match          387   15.5%
+  numeric        294   11.7%
+  truefalse      246    9.8%
+  fillup         237    9.5%
+  oddoneout      213    8.5%
+  scenario       198    7.9%
+  management      43    1.7%
 
  Ch   Qs  scen  fill  match   T/F   odd  longest   leak  reuse
 --------------------------------------------------------------
@@ -40,17 +40,27 @@ FORMAT MIX (whole bank)
  23  137    15    10     30    14    12    22.6%   0.0%     18
  24   40     7     1      8     6     6    25.0%   0.0%      4
  25  105    16     7     24    14    13    24.8%   0.0%     17
+ 26   71     2     4     11     6     5    29.6%   5.6%      6
+ 27   39     2     3     10     3     1    23.1%   0.0%      6
+ 28   29     1     1      6     3     1    37.9%   3.4%      4
+ 29   50     1     1      7     1     1    52.0%   0.0%      2
+ 30   33     1     0      4     1     0    42.4%   0.0%      1
+ 31   53     0     2      3     3     2    50.9%   1.9%      0
+ 32   45     0     5     11     0     0    55.6%   0.0%      4
+ 33   89     2     3     16     5     3    46.1%   1.1%      9
+ 34   29     1     1      5     2     1    55.2%   0.0%      3
+ 35   64     1     1     12     4     7    31.2%   0.0%      7
 
 PREDICTABILITY SIGNALS (bank-wide means)
-  longest option is the answer        : 27.2%
-  answer is the only hedged option    : 0.3%
-  answer is the only bracketed option : 4.5%
+  longest option is the answer        : 31.6%
+  answer is the only hedged option    : 0.2%
+  answer is the only bracketed option : 6.9%
   question contains filler distractor : 0.0%
-  answer term restated in the stem    : 0.1%
-  avg answer length / distractor      : 26.5 / 23.6
+  answer term restated in the stem    : 0.4%
+  avg answer length / distractor      : 26.6 / 21.9
   repeated back-to-back stem templates: 0
   longest uninterrupted repeat run    : 2
-  option sets reused across questions : 109
+  option sets reused across questions : 151
 
 MOST REPEATED STEM OPENERS
 

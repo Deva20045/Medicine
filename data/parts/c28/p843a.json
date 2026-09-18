@@ -1,0 +1,21 @@
+{
+ "page": 843,
+ "sec": "Confirmatory testing and lateralisation · p843",
+ "items": [
+  {"fmt": "recall", "q": "The confirmatory test for PHA is the saline infusion test, performed as:",
+   "opts": ["Infuse 2 litres of normal saline over 4 hours", "Infuse 1 litre over 1 hour", "Give oral salt load for 3 days", "Infuse 5% dextrose over 4 hours"], "ans": 0,
+   "exp": "Saline infusion test: infuse 2 litres NS over 4 hr to expand intravascular volume. (Book p843)"},
+  {"fmt": "truefalse", "q": "‘In PHA the post-saline aldosterone remains unsuppressed (>10 ng/dL); a normal response is a fall in aldosterone.’",
+   "opts": ["True", "False — aldosterone rises in normals", "False — the cutoff is 30 ng/dL", "True, but only after ACTH"], "ans": 0,
+   "exp": "Volume expansion suppresses aldosterone normally (−); in PHA it stays >10 ng/dL (+). (Book p843)"},
+  {"fmt": "scenario", "q": "After a positive screen, 2 L saline is infused over 4 h and the repeat PAC is 14 ng/dL. The next best step is:",
+   "opts": ["CT abdomen (IOC) to look for B/L hyperplasia vs U/L adenoma", "Start spironolactone and stop work-up", "Adrenal vein sampling before any imaging", "Repeat the saline test"], "ans": 0,
+   "exp": "Repeat PAC ≥10 ng/dl confirms PHA; CT abdomen (IOC) then distinguishes B/L hyperplasia from U/L adenoma in the adrenal gland. (Book p843)"},
+  {"fmt": "recall", "q": "The imaging of choice to localise the adrenal lesion in confirmed PHA is:",
+   "opts": ["CT abdomen", "MRI spine", "PET scan", "Plain X-ray"], "ans": 0,
+   "exp": "CT abdomen is the IOC, showing either B/L hyperplasia or U/L adenoma. (Book p843)"},
+  {"fmt": "numeric", "q": "On the confirmatory saline test, a post-infusion PAC above what value supports PHA?",
+   "opts": [">10 ng/dL", ">5 ng/dL", ">20 ng/dL", ">2 ng/dL"], "ans": 0,
+   "exp": "Aldosterone >10 ng/dL after saline (unsuppressed) is positive for PHA. (Book p843)"}
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "page": 864,
+ "sec": "Bone constituents and the collagen-type table · p864",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "Cells contribute what percentage of bone, with matrix making the rest?",
+   "opts": [
+    "2% cells : 98% matrix",
+    "10% : 90%",
+    "20% : 80%",
+    "50% : 50%"
+   ],
+   "ans": 0,
+   "exp": "Cells 2% (osteoblasts, osteoclasts, osteocytes); matrix 98%. (Book p864)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match matrix fraction — 1) Organic  2) Inorganic … A) Calcium, phosphorous, magnesium (60–70%)  B) Type I collagen + non-collagenous proteins (30–40%)",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "Organic 30–40% (type I collagen predominant); inorganic 60–70% (Ca, P, Mg). (Book p864)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The predominant organic constituent of bone matrix is:",
+   "opts": [
+    "Type I collagen",
+    "Type II collagen",
+    "Proteoglycans",
+    "Fibronectin"
+   ],
+   "ans": 0,
+   "exp": "Type I collagen is predominant among organic constituents. (Book p864)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Matrix GLA protein functions as an inhibitor of vascular calcification; it is inhibited by:",
+   "opts": [
+    "Warfarin (a vitamin K antagonist)",
+    "Vitamin D excess state",
+    "PTH excess state",
+    "Calcitonin therapy"
+   ],
+   "ans": 0,
+   "exp": "Matrix GLA protein inhibits vascular calcification; warfarin (vit K antagonist) inhibits it → precipitates calcification. (Book p864)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The non-collagenous proteins listed are osteopontin, osteocalcin, thrombospondin, matrix GLA protein, fibronectin and:",
+   "opts": [
+    "Proteoglycans",
+    "Actin",
+    "Myosin",
+    "Keratin"
+   ],
+   "ans": 0,
+   "exp": "The sixth listed non-collagenous protein is proteoglycans. (Book p864)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match collagen type to disorder — 1) Type I  2) Type III  3) Type IV  4) Type VII … A) EDS type IV (vascular)  B) Epidermolysis bullosa  C) Osteogenesis imperfecta  D) Alport/Goodpasture",
+   "opts": [
+    "1-C, 2-A, 3-D, 4-B",
+    "1-A, 2-C, 3-D, 4-B",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Type I → OI (also EDS VII/arthrochalasia, osteoporosis); type III → EDS IV vascular; type IV → Alport/Goodpasture; type VII → epidermolysis bullosa. (Book p864)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Type II collagen is distributed in cartilage and vitreous humor; its disorder association is:",
+   "opts": [
+    "Chondrodysplasia",
+    "Osteogenesis imperfecta",
+    "Alport syndrome",
+    "Epidermolysis bullosa"
+   ],
+   "ans": 0,
+   "exp": "Type II (cartilage, vitreous humor) → chondrodysplasia. (Book p864)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which collagen type is NOT linked to a named disorder in the table?",
+   "opts": [
+    "Type 8 (endothelium)",
+    "Type 3 (vascular)",
+    "Type 4 (basement membrane)",
+    "Type 7 (dermal-epidermal junction)"
+   ],
+   "ans": 0,
+   "exp": "Type 8 (endothelium) has no listed disorder (−). (Book p864)"
+  },
+  {
+   "fmt": "recall",
+   "q": "EDS classical type is associated with which minor collagen?",
+   "opts": [
+    "Type 5",
+    "Type 2",
+    "Type 8",
+    "Type 10"
+   ],
+   "ans": 0,
+   "exp": "Type 5 (minor) → EDS classical type. (Book p864)"
+  }
+ ]
+}

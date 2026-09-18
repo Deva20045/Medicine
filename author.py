@@ -36,6 +36,16 @@ TITLES = {
     20: ("Anemia in Chronic Kidney Disease", "808-810", 808),
     21: ("CKD - Calciphylaxis and Cardiovascular changes", "811-814", 811),
     22: ("Diabetic Kidney Disease", "815-818", 815),
+    26: ("Overview of Hormones", "830-836", 830),
+    27: ("Physiology of Adrenal Cortex", "837-840", 837),
+    28: ("Conn's Syndrome", "841-843", 841),
+    29: ("Cushing's Syndrome", "844-848", 844),
+    30: ("Addison's Disease", "849-851", 849),
+    31: ("Adrenal Medulla : Part 1", "852-857", 852),
+    32: ("Adrenal Medulla : Part 2", "858-862", 858),
+    33: ("Basics of Bone and Mineral Metabolism", "863-873", 863),
+    34: ("Calcium Metabolism", "874-876", 874),
+    35: ("Hypercalcemia", "877-882", 877),
 }
 
 BANNED = [

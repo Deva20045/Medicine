@@ -51,16 +51,16 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 23 | Introduction to Acid Base Analysis | p819 | **LIVE**
 | 24 | Metabolic Alkalosis | p824 | **LIVE**
 | 25 | Methodology and Interpretation of ABG Analysis | p826 | **LIVE**
-| 26 | Overview of Hormones | p830 | SOON
-| 27 | Physiology of Adrenal Cortex | p837 | SOON
-| 28 | Conn's Syndrome | p841 | SOON
-| 29 | Cushing's Syndrome | p844 | SOON
-| 30 | Addison's Disease | p849 | SOON
-| 31 | Adrenal Medulla : Part 1 | p852 | SOON
-| 32 | Adrenal Medulla : Part 2 | p858 | SOON
-| 33 | Basics of Bone and Mineral Metabolism | p863 | SOON
-| 34 | Calcium Metabolism | p874 | SOON
-| 35 | Hypercalcemia | p877 | SOON
+| 26 | Overview of Hormones | p830 | **LIVE**
+| 27 | Physiology of Adrenal Cortex | p837 | **LIVE**
+| 28 | Conn's Syndrome | p841 | **LIVE**
+| 29 | Cushing's Syndrome | p844 | **LIVE**
+| 30 | Addison's Disease | p849 | **LIVE**
+| 31 | Adrenal Medulla : Part 1 | p852 | **LIVE**
+| 32 | Adrenal Medulla : Part 2 | p858 | **LIVE**
+| 33 | Basics of Bone and Mineral Metabolism | p863 | **LIVE**
+| 34 | Calcium Metabolism | p874 | **LIVE**
+| 35 | Hypercalcemia | p877 | **LIVE**
 | 36 | Hypocalcemia | p883 | SOON
 | 37 | Phosphorus Metabolism | p887 | SOON
 | 38 | Magnesium Metabolism | p892 | SOON
@@ -100,7 +100,7 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 72 | Infective Endocarditis | p1047 | SOON
 | 73 | Tropical Infections: Synopsis | p1053 | SOON
 | 74 | HIV | p1061 | SOON
-*(Status column: Ch 1–18 and 23–25 = **LIVE**; the rest = **SOON** — rendered in the app
+*(Status column: Ch 1–18 and 23–35 = **LIVE**; the rest = **SOON** — rendered in the app
 as a locked "Soon" row. Update this table as chapters go live.)*
 
 ### Section spans
@@ -181,10 +181,20 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 23 "Introduction to Acid Base Analysis" (p819–823): 9 units, 137 questions — BUILT & VERIFIED**
 - [x] **Ch 24 "Metabolic Alkalosis" (p824–825): 3 units, 40 questions — BUILT & VERIFIED**
 - [x] **Ch 25 "Methodology and Interpretation of ABG Analysis" (p826–829): 6 units, 105 questions — BUILT & VERIFIED**
-- [ ] Ch 26–74 (per pipeline above)
+- [x] **Ch 26 "Overview of Hormones" (p830–836): 7 units, 71 questions — BUILT & VERIFIED**
+- [x] **Ch 27 "Physiology of Adrenal Cortex" (p837–840): 4 units, 39 questions — BUILT & VERIFIED**
+- [x] **Ch 28 "Conn's Syndrome" (p841–843): 3 units, 29 questions — BUILT & VERIFIED**
+- [x] **Ch 29 "Cushing's Syndrome" (p844–848): 5 units, 50 questions — BUILT & VERIFIED**
+- [x] **Ch 30 "Addison's Disease" (p849–851): 3 units, 33 questions — BUILT & VERIFIED**
+- [x] **Ch 31 "Adrenal Medulla : Part 1" (p852–857): 5 units, 53 questions — BUILT & VERIFIED**
+- [x] **Ch 32 "Adrenal Medulla : Part 2" (p858–862): 5 units, 45 questions — BUILT & VERIFIED**
+- [x] **Ch 33 "Basics of Bone and Mineral Metabolism" (p863–873): 6 units, 89 questions — BUILT & VERIFIED**
+- [x] **Ch 34 "Calcium Metabolism" (p874–876): 3 units, 29 questions — BUILT & VERIFIED**
+- [x] **Ch 35 "Hypercalcemia" (p877–882): 6 units, 64 questions — BUILT & VERIFIED**
+- [ ] Ch 36–74 (per pipeline above)
 
 ## NEXT
-**Ch 19–22 (p805–818, Nephrology) and Ch 23–25 (p819–829, Acid–Base) are both live.**
+**Ch 19–22 (p805–818, Nephrology), Ch 23–25 (p819–829, Acid–Base) and Ch 26–35 (p830–882, Endocrinology + Bone/Mineral) are live.**
 
 *Ch 19–22 (built & re-audited page-by-page):* all 14 pages re-rendered and read line by
 line (tables, flowcharts, figures, graph axes, arrow labels), authored through the
@@ -204,10 +214,21 @@ taught explicitly: the p824 "respiratory alkalosis" label for the ↑PaCO₂ res
 (versus the p828 compensation table), and the reversed bicarbonate arrows in the p827
 primary-problem tree (versus the p828 step-2 flowchart). See **`REPORT_CH23-25.md`**.
 
-**Bank total: 2002 questions · 182 units · 25 live chapters**, all 125 in-scope pages
+*Ch 26–35 (Endocrinology opening + Bone/Mineral section):* 502 questions over 53 pages
+authored the same way — Ch 26 (7 u, 71 q), Ch 27 (4 u, 39 q), Ch 28 (3 u, 29 q),
+Ch 29 (5 u, 50 q), Ch 30 (3 u, 33 q), Ch 31 (5 u, 53 q), Ch 32 (5 u, 45 q),
+Ch 33 (6 u, 89 q), Ch 34 (3 u, 29 q), Ch 35 (6 u, 64 q). Every hormone classification
+table, steroidogenesis ladder, adrenal cause tree, 1°/2°/3° HPT table, sestamibi scan
+caption, bone-change X-ray list and the Jansen-vs-FHH paediatric table is questioned in
+both directions; all gates green (build / integrity / smoke / audit). Book quirks taught
+explicitly include Bartter V hypocalcemia vs the other Bartter types (p876), the
+“oxyntic cell” print for sestamibi uptake (p879) and the not-recommended IV Lasix inside
+the 1st-line crisis branch (p881). See **`REPORT_CH26-35.md`**.
+
+**Bank total: 2504 questions · 229 units · 35 live chapters**, all 178 in-scope pages
 p705–829 represented.
 
-**Next: Ch 26 "Overview of Hormones" (p830) onward — Endocrinology (Ch 26–55).**
+**Next: Ch 36 "Hypocalcemia" (p883) onward — Endocrinology (Ch 26–55).**
 
 ### Re-audit pipeline (used for Ch 13–25)
 1. `_render` every book page to PNG and zoom into each unclear line/table/arrow.

@@ -1,0 +1,30 @@
+{
+ "page": 880,
+ "sec": "1°/2°/3° differentiation and radiological bone changes · p880",
+ "items": [
+  {"fmt": "match", "q": "PTH levels — 1) 1°  2) 2°  3) 3° … A) 500-1000 pg/ml  B) >1000 pg/ml  C) >50 pg/ml",
+   "opts": ["1-C, 2-A, 3-B", "1-A, 2-C, 3-B", "1-C, 2-B, 3-A", "1-B, 2-A, 3-C"], "ans": 0,
+   "exp": "1° >50; 2° 500–1000; 3° >1000 pg/ml. (Book p880)"},
+  {"fmt": "match", "q": "Sr. Ca/PO4 — 1) 1°  2) 2°  3) 3° … A) Ca↓ PO4↑  B) Ca↑↑ PO4↑↑  C) Ca↑ PO4↓",
+   "opts": ["1-C, 2-A, 3-B", "1-A, 2-C, 3-B", "1-C, 2-B, 3-A", "1-B, 2-A, 3-C"], "ans": 0,
+   "exp": "1° Ca↑ PO4↓; 2° Ca↓ PO4↑; 3° Ca↑↑ PO4↑↑. (Book p880)"},
+  {"fmt": "match", "q": "Cause — 1) 1°  2) 2°  3) 3° … A) Seen in CKD  B) Long-standing CKD  C) Adenoma (m/c) / hyperplasia (MEN 1/2A)",
+   "opts": ["1-C, 2-A, 3-B", "1-A, 2-B, 3-C", "1-C, 2-B, 3-A", "1-B, 2-A, 3-C"], "ans": 0,
+   "exp": "1° adenoma (m/c)/hyperplasia MEN 1/2A; 2° CKD; 3° long-standing CKD. (Book p880)"},
+  {"fmt": "recall", "q": "The MOST characteristic bone change of hyperparathyroidism is:",
+   "opts": ["Subperiosteal resorption, radial side of proximal/middle phalanx of index and middle finger", "Rugger jersey spine (intercortical resorption)", "Salt-and-pepper skull appearance on X-ray", "Acral osteolysis of the distal phalanges"], "ans": 0,
+   "exp": "Subperiosteal resorption, radial side of proximal or middle phalanx of index and middle finger — most characteristic. (Book p880)"},
+  {"fmt": "recall", "q": "The most common (m/c) bone change in hyperparathyroidism is:",
+   "opts": ["Diffuse bone resorption", "Brown tumor", "Endosteal scalloping", "Osteitis fibrosa cystica"], "ans": 0,
+   "exp": "Diffuse bone resorption is m/c. (Book p880)"},
+  {"fmt": "recall", "q": "Rugger jersey spine reflects:",
+   "opts": ["Intercortical bone resorption", "Osteoblastic metastases", "Disc calcification", "Vertebral compression fractures"], "ans": 0,
+   "exp": "Rugger jersey spine = intercortical bone resorption. (Book p880)"},
+  {"fmt": "oddoneout", "q": "Book-listed radiological bone changes include diffuse resorption, rugger jersey spine, brown tumor, salt-and-pepper skull, endosteal scalloping and acral osteolysis. Pick the ODD ONE OUT:",
+   "opts": ["Ground-glass matrix of fibrous dysplasia", "Brown tumor", "Salt-and-pepper skull", "Endosteal scalloping"], "ans": 0,
+   "exp": "Listed: 1–6 as above; ground-glass matrix is not among them. (Book p880)"},
+  {"fmt": "numeric", "q": "The number of radiological bone changes listed in the book (diffuse resorption to osteitis fibrosa cystica) is:",
+   "opts": ["7", "4", "5", "6"], "ans": 0,
+   "exp": "Seven: diffuse resorption, rugger jersey spine, brown tumor, salt-and-pepper skull, endosteal scalloping, acral osteolysis, osteitis fibrosa cystica. (Book p880)"}
+ ]
+}

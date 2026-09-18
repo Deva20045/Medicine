@@ -45,6 +45,16 @@ LIVE_CHAPTERS = {
     20: ("Anemia in Chronic Kidney Disease", 808, 810, 76, 7),
     21: ("CKD - Calciphylaxis and Cardiovascular changes", 811, 814, 93, 6),
     22: ("Diabetic Kidney Disease", 815, 818, 90, 7),
+    26: ("Overview of Hormones", 830, 836, 71, 7),
+    27: ("Physiology of Adrenal Cortex", 837, 840, 39, 4),
+    28: ("Conn's Syndrome", 841, 843, 29, 3),
+    29: ("Cushing's Syndrome", 844, 848, 50, 5),
+    30: ("Addison's Disease", 849, 851, 33, 3),
+    31: ("Adrenal Medulla : Part 1", 852, 857, 53, 5),
+    32: ("Adrenal Medulla : Part 2", 858, 862, 45, 5),
+    33: ("Basics of Bone and Mineral Metabolism", 863, 873, 89, 6),
+    34: ("Calcium Metabolism", 874, 876, 29, 3),
+    35: ("Hypercalcemia", 877, 882, 64, 6),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain
