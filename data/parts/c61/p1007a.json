@@ -1,0 +1,66 @@
+{
+  "page": 1007,
+  "sec": "Ascitic Fluid Detection & Refractory Ascites",
+  "items": [
+    {
+      "fmt": "numeric",
+      "q": "What are the minimal free peritoneal fluid volumes required sequentially for ultrasonographic detection, clinical shifting dullness, and eliciting a fluid thrill?",
+      "opts": [
+        "<100 mL, 500 mL, and 1.5 L respectively",
+        "<250 mL, 1000 mL, and 3.0 L respectively",
+        "<50 mL, 250 mL, and 1.0 L respectively",
+        "<500 mL, 1500 mL, and 2.5 L respectively"
+      ],
+      "ans": 0,
+      "exp": "Peritoneal fluid detection thresholds are: <100 mL on ultrasonography (USG), 500 mL on clinical examination for shifting dullness, and 1.5 L for elicitation of a fluid thrill. (Book p1007)"
+    },
+    {
+      "fmt": "recall",
+      "q": "By definition in decompensated chronic liver disease, refractory ascites refers to peritoneal fluid accumulation that exhibits:",
+      "opts": [
+        "No therapeutic response to maximum doses of diuretic medications",
+        "Persistent recurrence despite weekly large-volume paracenteses",
+        "Secondary bacterial infection following diagnostic paracentesis",
+        "Development of acute intrinsic tubular necrosis during diuretics"
+      ],
+      "ans": 0,
+      "exp": "Refractory ascites is defined as peritoneal fluid accumulation that shows no response to maximum doses of diuretics (spironolactone up to 400 mg/day plus furosemide up to 160 mg/day). (Book p1007)"
+    },
+    {
+      "fmt": "management",
+      "q": "Following large-volume paracentesis (LVP) for tense ascites, which adjunctive intervention should routinely be administered to preserve effective circulating volume?",
+      "opts": [
+        "Intravenous albumin replacement infusion",
+        "Intravenous hypotonic saline fluid bolus",
+        "Immediate high-dose terlipressin infusion",
+        "Intramuscular desmopressin nasal spray"
+      ],
+      "ans": 0,
+      "exp": "Large volume paracentesis (LVP) should be followed by intravenous albumin replacement to prevent post-paracentesis circulatory dysfunction, noted in text as expensive. (Book p1007)"
+    },
+    {
+      "fmt": "match",
+      "q": "Match each diagnostic modality for ascitic fluid detection with its corresponding minimum fluid threshold:\n1. Ultrasonography (USG)\n2. Shifting dullness\n3. Fluid thrill",
+      "opts": [
+        "1-B (<100 mL), 2-C (500 mL), 3-A (1.5 L)",
+        "1-C (500 mL), 2-B (<100 mL), 3-A (1.5 L)",
+        "1-A (1.5 L), 2-C (500 mL), 3-B (<100 mL)",
+        "1-B (<100 mL), 2-A (1.5 L), 3-C (500 mL)"
+      ],
+      "ans": 0,
+      "exp": "Ultrasonography detects free fluid at volumes <100 mL; clinical shifting dullness requires 500 mL; elicitation of a fluid thrill requires 1.5 L of peritoneal fluid. (Book p1007)"
+    },
+    {
+      "fmt": "scenario",
+      "q": "A 52-year-old man with decompensated alcoholic cirrhosis presents with massive abdominal distension. On examination, a prominent fluid thrill is elicited. Based on physical diagnostic thresholds, what is the minimum volume of free ascitic fluid present?",
+      "opts": [
+        "At least 1.5 L of free peritoneal fluid",
+        "Approximately 250 to 400 mL of fluid",
+        "Around 500 to 750 mL of peritoneal fluid",
+        "Strictly less than 100 mL of fluid"
+      ],
+      "ans": 0,
+      "exp": "A fluid thrill requires at least 1.5 L of free peritoneal fluid to be elicited clinically. Shifting dullness requires 500 mL, whereas USG can detect volumes <100 mL. (Book p1007)"
+    }
+  ]
+}

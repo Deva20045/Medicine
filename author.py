@@ -36,6 +36,21 @@ TITLES = {
     20: ("Anemia in Chronic Kidney Disease", "808-810", 808),
     21: ("CKD - Calciphylaxis and Cardiovascular changes", "811-814", 811),
     22: ("Diabetic Kidney Disease", "815-818", 815),
+    60: ("Portal Hypertension", "1001-1004", 1001),
+    61: ("Ascites and Hepatorenal Syndrome", "1005-1009", 1005),
+    62: ("Hepatic Encephalopathy", "1010-1012", 1010),
+    63: ("Metabolic Diseases of Liver", "1013-1019", 1013),
+    64: ("Biliary Cirrhosis", "1020-1022", 1020),
+    65: ("Autoimmune Hepatitis", "1023-1025", 1023),
+    66: ("Alcoholic Liver Disease", "1026-1029", 1026),
+    67: ("Nonalcoholic Steatohepatitis", "1030-1032", 1030),
+    68: ("Vascular Diseases of Liver", "1033-1035", 1033),
+    69: ("Hepatitis B Virus : Part 1", "1036-1038", 1036),
+    70: ("Hepatitis B Virus : Part 2", "1039-1044", 1039),
+    71: ("Hepatitis C Virus", "1045-1046", 1045),
+    72: ("Infective Endocarditis", "1047-1052", 1047),
+    73: ("Tropical Infections: Synopsis", "1053-1060", 1053),
+    74: ("HIV", "1061-1068", 1061),
 }
 
 BANNED = [

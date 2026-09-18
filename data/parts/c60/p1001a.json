@@ -1,0 +1,126 @@
+{
+ "page": 1001,
+ "sec": "Portal hypertension: clinical significance and pathogenesis · p1001",
+ "items": [
+  {
+   "fmt": "truefalse",
+   "q": "‘Portal hypertension occurs only in the presence of cirrhosis.’",
+   "opts": [
+    "False — it can manifest with or without cirrhosis",
+    "True — cirrhosis is a mandatory prerequisite",
+    "False — it occurs exclusively without cirrhosis",
+    "True, but only in post-hepatic forms"
+   ],
+   "ans": 0,
+   "exp": "Opening line of the chapter: portal hypertension can manifest with or without cirrhosis. (Book p1001)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the p1001 outcome chains — 1) Portal hypertension  2) Ascites  3) Jaundice + liver failure  4) Raised splenic pressure … A) Average survival without transplant printed as ‘a years’  B) Leads to hepatorenal syndrome  C) Hepatic encephalopathy and variceal bleeding  D) Splenomegaly and thrombocytopenia",
+   "opts": [
+    "1-C, 2-B, 3-A, 4-D",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-C, 2-B, 3-D, 4-A",
+    "1-C, 2-A, 3-B, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Portal hypertension leads to hepatic encephalopathy, variceal bleeding and ascites; ascites (1st sign of decompensation) leads to hepatorenal syndrome; jaundice + liver failure = decompensation with average survival ‘a years’ without transplant as printed; raised splenic pressure gives splenomegaly and thrombocytopenia. (Book p1001)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The 1st sign of decompensation in portal hypertension is:",
+   "opts": [
+    "Ascites",
+    "Variceal bleeding",
+    "Hepatic encephalopathy",
+    "Jaundice"
+   ],
+   "ans": 0,
+   "exp": "Under the bullet ‘ascites’ the page states ‘1st sign of decompensation’. (Book p1001)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Portal hypertension is defined by a portal venous pressure of:",
+   "opts": [
+    "≥ 12 mm Hg",
+    "≥ 5 mm Hg",
+    "≥ 8 mm Hg",
+    "≥ 20 mm Hg"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis line: portal venous pressure ≥ 12 mm Hg. (Book p1001)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Sinusoidal pressure is defined as ≥ 6 mm Hg; it becomes clinically significant at:",
+   "opts": [
+    "≥ 10 mm Hg",
+    "≥ 8 mm Hg",
+    "≥ 12 mm Hg",
+    "≥ 5 mm Hg"
+   ],
+   "ans": 0,
+   "exp": "‘Sinusoidal pressure ≥ 6 mm Hg (clinically significant if ≥ 10 mm Hg)’. (Book p1001)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 48-year-old with biopsy-proven cirrhosis has a spleen 4 cm below the costal margin and a platelet count of 90,000/µL. Which pair gives the earliest clinical and earliest biochemical manifestations of portal hypertension?",
+   "opts": [
+    "Splenomegaly and thrombocytopenia",
+    "Variceal bleeding and thrombocytopenia",
+    "Splenomegaly and anaemia",
+    "Ascites and thrombocytopenia"
+   ],
+   "ans": 0,
+   "exp": "Raised splenic pressure → splenomegaly (earliest clinical) and thrombocytopenia (earliest biochemical). (Book p1001)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The mean survival without decompensation or transplant in portal hypertension is:",
+   "opts": [
+    "12 years",
+    "1 year",
+    "5 years",
+    "20 years"
+   ],
+   "ans": 0,
+   "exp": "‘Mean survival without decompensation / transplant : 12 years’. (Book p1001)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "After decompensation (jaundice + liver failure), average survival without transplant is about:",
+   "opts": [
+    "1 year",
+    "12 years",
+    "5 years",
+    "8 years"
+   ],
+   "ans": 0,
+   "exp": "The page prints ‘Decompensation : Average survival a years without transplant’ — the ‘a’ is a typographical slip for 1, i.e. about 1 year, in contrast to the 12 years without decompensation. (Book p1001)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All but one of the following are listed under ‘Portal hypertension leads to’. The odd one out is:",
+   "opts": [
+    "Hepatomegaly",
+    "Variceal bleeding",
+    "Ascites",
+    "Hepatic encephalopathy"
+   ],
+   "ans": 0,
+   "exp": "The three listed consequences are hepatic encephalopathy, variceal bleeding and ascites; hepatomegaly is not listed. (Book p1001)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘Thrombocytopenia is the earliest clinical manifestation of portal hypertension.’",
+   "opts": [
+    "False — splenomegaly is the earliest clinical, thrombocytopenia the earliest biochemical",
+    "True — thrombocytopenia is the earliest clinical manifestation of portal hypertension",
+    "False — both findings are biochemical rather than clinical manifestations",
+    "True — but only when splenic vein thrombosis is present alongside cirrhosis"
+   ],
+   "ans": 0,
+   "exp": "Raised splenic pressure → splenomegaly (earliest clinical) and thrombocytopenia (earliest biochemical). (Book p1001)"
+  }
+ ]
+}

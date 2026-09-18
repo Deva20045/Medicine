@@ -1,0 +1,102 @@
+{
+ "page": 1003,
+ "sec": "Work-up flow of portal HTN and the HVPG measurement · p1003",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "In the p1003 work-up flow, the step ‘Deranged LFT + USG : fatty liver + negative serology’ is qualified by:",
+   "opts": [
+    "AST / ALT < 150",
+    "AST / ALT < 50",
+    "AST / ALT < 250",
+    "AST / ALT < 40"
+   ],
+   "ans": 0,
+   "exp": "Flow: deranged LFT + USG : fatty liver + negative serology (AST / ALT < 150) → confirms chronic hepatitis (NASH). (Book p1003)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The Fibroscan value in the p1003 flow that leads to the diagnosis of cirrhosis is:",
+   "opts": [
+    "13.5 kPa",
+    "7.5 kPa",
+    "5.2 kPa",
+    "20.3 kPa"
+   ],
+   "ans": 0,
+   "exp": "Flow: confirms chronic hepatitis (NASH) → Fibroscan : 13.5 kPa → cirrhosis. (Book p1003)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "After cirrhosis is established in the flow, the pair of findings that establishes portal hypertension (+) is:",
+   "opts": [
+    "Splenomegaly (+) with ↓ platelet",
+    "Hepatomegaly with ↑ platelet",
+    "Ascites with ↑ bilirubin",
+    "Jaundice with normal spleen"
+   ],
+   "ans": 0,
+   "exp": "Flow: cirrhosis → splenomegaly (+), ↓ platelet → portal hypertension (+). (Book p1003)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Portal HTN is quantified with HVPG, where:",
+   "opts": [
+    "HVPG = WHVP − FHVP",
+    "HVPG = WHVP + FHVP",
+    "HVPG = FHVP − WHVP",
+    "HVPG = WHVP × FHVP"
+   ],
+   "ans": 0,
+   "exp": "Quantity with HVPG: HVPG = WHVP − FHVP. (Book p1003)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the p1003 abbreviations — 1) HVPG  2) WHVP  3) FHVP … A) Wedged hepatic venous pressure  B) Free hepatic venous pressure  C) Hepatic venous pressure gradient",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "HVPG : hepatic venous pressure gradient; WHVP : wedged hepatic venous pressure; FHVP : free hepatic venous pressure. (Book p1003)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘On p1003 the expansion line prints the free pressure as “FWVP : Free hepatic venous pressure”, while the formula line prints HVPG = WHVP − FHVP.’",
+   "opts": [
+    "True — the two printings differ (FWVP vs FHVP)",
+    "False — both lines print FHVP",
+    "False — the formula line prints FWVP",
+    "True, but the values are different concepts"
+   ],
+   "ans": 0,
+   "exp": "The expansion line is printed ‘FWVP : Free hepatic venous pressure’ whereas the formula is ‘HVPG = WHVP − FHVP’; both denote the free hepatic venous pressure. (Book p1003)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A child with EHPVO has large oesophageal varices but a normal HVPG. Which row of the p1003 table explains why HVPG fails here?",
+   "opts": [
+    "Prehepatic row — WHVP, FHVP and HVPG all normal",
+    "Sinusoidal row — HVPG increased",
+    "Postsinusoidal row — WHVP increased, FHVP normal",
+    "The unlabeled row — FHVP increased"
+   ],
+   "ans": 0,
+   "exp": "Prehepatic: normal / normal / normal — the gradient across the liver is normal because the obstruction is before the liver. (Book p1003)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘In the p1003 flow, portal hypertension (+) is established only by endoscopy.’",
+   "opts": [
+    "False — it follows cirrhosis with splenomegaly (+) and ↓ platelet; endoscopy is one of two follow-up arms",
+    "True — endoscopy is the sole step that establishes portal hypertension (+)",
+    "False — Fibroscan 13.5 kPa alone establishes the diagnosis of portal hypertension",
+    "True, but only when the HVPG arm is not performed in the same session"
+   ],
+   "ans": 0,
+   "exp": "Flow: cirrhosis → splenomegaly (+), ↓ platelet → portal hypertension (+), which then branches to quantity with HVPG and endoscopy. (Book p1003)"
+  }
+ ]
+}

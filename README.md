@@ -40,7 +40,10 @@ rest show a **Soon** badge.
 | Ch 23 · Introduction to Acid Base Analysis (p819–823) — 9 units, 137 questions | ✅ live |
 | Ch 24 · Metabolic Alkalosis (p824–825) — 3 units, 40 questions | ✅ live |
 | Ch 25 · Methodology and Interpretation of ABG Analysis (p826–829) — 6 units, 105 questions | ✅ live |
-| Ch 26–74 (Endocrinology, Hepatology, Infectious Diseases) | 🚧 in progress |
+| Ch 26–59 (Endocrinology, Hepatology part 1) | 🚧 in progress |
+| Ch 60 · Portal Hypertension (p1001–1004) — 8 units, 86 questions | ✅ live on this branch |
+| Ch 61 · Ascites and Hepatorenal Syndrome (p1005–1009) — 8 units, 81 questions | ✅ live on this branch |
+| Ch 62–74 (Hepatology, Viral Hepatitis, Infectious Diseases) | 🚧 in progress |
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 74-chapter
 roadmap, data schema, per-chapter pipeline, and NEXT step.

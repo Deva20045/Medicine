@@ -1,0 +1,66 @@
+{
+ "page": 1001,
+ "sec": "The cirrhotic sinusoid: diagram labels · p1001",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the cirrhotic-sinusoid diagram events of p1001 to the structures — 1) Deposition of collagen  2) Activation  3) Constriction  4) Defenestration … A) Sinusoids  B) Hepatic stellate cells  C) Space of Disse  D) Sinusoidal lumen/fenestrae",
+   "opts": [
+    "1-C, 2-B, 3-A, 4-D",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-B, 3-D, 4-A",
+    "1-D, 2-B, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Diagram labels: deposition of collagen in space of Disse; activation of hepatic stellate cells; constriction of sinusoids; defenestration of sinusoids. (Book p1001)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "In cirrhosis, collagen deposition in the hepatic sinusoid occurs in the:",
+   "opts": [
+    "Space of Disse",
+    "Sinusoidal lumen",
+    "Perisinusoidal space of Malassis only",
+    "Basal lamina of the endothelium"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels ‘Deposition of collagen in space of Disse’. (Book p1001)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which cell is labelled as activated in the cirrhotic sinusoid of p1001?",
+   "opts": [
+    "Hepatic stellate cell",
+    "Kupffer cell",
+    "Sinusoidal endothelial cell",
+    "Cholangiocyte"
+   ],
+   "ans": 0,
+   "exp": "‘Activation of hepatic stellate cells’ is labelled in the cirrhotic panel. (Book p1001)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘Fenestrae of the sinusoidal endothelium are preserved in cirrhosis.’",
+   "opts": [
+    "False — defenestration (disappearance of fenestrae) occurs",
+    "True — fenestrae are preserved",
+    "False — fenestrae are lost only in Budd–Chiari",
+    "True, but only in the pericentral zone"
+   ],
+   "ans": 0,
+   "exp": "The cirrhotic panel labels ‘Defenestration of sinusoids’ and the summary line reads ‘Disappearance of fenestration in cirrhosis’. (Book p1001)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "In a cirrhotic liver, the direct mechanical mechanism by which regenerating nodules raise portal pressure, as drawn on p1001, is:",
+   "opts": [
+    "Compression of sinusoids by nodules and fibrous septae",
+    "Stenosis of hepatic veins by nodules",
+    "Arterioportal shunts within nodules",
+    "Vasoactive substances released from nodules"
+   ],
+   "ans": 0,
+   "exp": "‘Nodule and fibrous septation compress sinusoids → leads to ↑ portal pressure → ↑ splenic vein pressure’. (Book p1001)"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+  "page": 1008,
+  "sec": "Refractory Ascites Subtypes & Management",
+  "items": [
+    {
+      "fmt": "recall",
+      "q": "What distinguishes diuretic-resistant ascites from diuretic-intractable ascites in patients with chronic liver disease?",
+      "opts": [
+        "Resistant fails to respond to full doses; intractable cannot tolerate full doses due to complications",
+        "Resistant is caused by portal vein thrombosis; intractable is caused by hepatic vein thrombosis",
+        "Resistant responds only to loop diuretics; intractable responds only to aldosterone antagonists",
+        "Resistant has high SAAG with low protein; intractable has low SAAG with high protein"
+      ],
+      "ans": 0,
+      "exp": "Diuretic-resistant ascites shows no response to full-dose diuretics, whereas diuretic-intractable ascites cannot receive full-dose diuretics due to development of diuretic-induced complications. (Book p1008)"
+    },
+    {
+      "fmt": "fillup",
+      "q": "Diuretic-resistant ascites is characterized by lack of response to full-dose diuretics, defined in the notes as spironolactone (printed as 40 mg / intended full dose 400 mg) combined with furosemide (Lasix) ________.",
+      "opts": [
+        "160 mg/day",
+        "80 mg/day",
+        "240 mg/day",
+        "320 mg/day"
+      ],
+      "ans": 0,
+      "exp": "In diuretic-resistant ascites, there is no response to full-dose diuretics: spironolactone (printed as 40 mg, full dose 400 mg) plus 160 mg lasix. (Book p1008)"
+    },
+    {
+      "fmt": "recall",
+      "q": "Untreated or worsening diuretic-resistant ascites typically progresses directly to which life-threatening complication?",
+      "opts": [
+        "Hepatorenal syndrome (HRS)",
+        "Hepatopulmonary syndrome (HPS)",
+        "Portopulmonary hypertension",
+        "Hepatic hydrothorax"
+      ],
+      "ans": 0,
+      "exp": "Diuretic resistant ascites is noted as: 'Progresses to HRS'. (Book p1008)"
+    },
+    {
+      "fmt": "match",
+      "q": "Match each subtype of refractory ascites with its clinical definition and features:\n1. Diuretic Resistant Ascites\n2. Diuretic Intractable Ascites",
+      "opts": [
+        "1: Lack of response to full doses (Lasix 160 mg + spironolactone), progresses to HRS; 2: Inability to tolerate full doses due to complications like hypo/hyperkalemia or renal failure",
+        "1: Inability to tolerate full doses due to complications like hypo/hyperkalemia or renal failure; 2: Lack of response to full doses (Lasix 160 mg + spironolactone), progresses to HRS",
+        "1: Responsive only to salt restriction alone without medications; 2: Complete resolution following a single diagnostic paracentesis",
+        "1: Caused by bacterial translocation into the ascitic space; 2: Caused by lymphatic rupture into the peritoneal space"
+      ],
+      "ans": 0,
+      "exp": "Diuretic resistant ascites is defined by failure to respond to full-dose diuretics and progresses to HRS; diuretic intractable ascites is defined by inability to titrate to full dose due to complications such as electrolyte imbalance (hypo/hyperkalemia) or renal failure. (Book p1008)"
+    },
+    {
+      "fmt": "oddoneout",
+      "q": "Diuretic-intractable ascites occurs when full diuretic doses cannot be administered due to medical complications. Which of the following is NOT an example of such a diuretic complication?",
+      "opts": [
+        "Superior mesenteric artery aneurysm",
+        "Diuretic-induced hypokalemia",
+        "Severe hyperkalemia",
+        "Progressive acute renal failure"
+      ],
+      "ans": 0,
+      "exp": "Examples given for diuretic-intractable ascites complications are hypokalemia, hyperkalemia, and renal failure. (Book p1008)"
+    },
+    {
+      "fmt": "management",
+      "q": "What definitive interventional radiological procedure is indicated for the management of refractory ascites?",
+      "opts": [
+        "Transjugular intrahepatic portosystemic shunt (TIPSS)",
+        "Balloon-occluded retrograde transvenous obliteration (BRTO)",
+        "Peritoneovenous LeVeen shunt placement",
+        "Endoscopic cyanoacrylate glue obliteration"
+      ],
+      "ans": 0,
+      "exp": "Under refractory ascites, the designated management is TIPSS (Transjugular Intrahepatic Portosystemic Shunt). (Book p1008)"
+    }
+  ]
+}

@@ -85,8 +85,8 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 57 | Basics of Physiology of Liver | p986 | SOON
 | 58 | Acute Hepatitis and Acute Liver Failure | p993 | SOON
 | 59 | Chronic Hepatitis - Cirrhosis | p997 | SOON
-| 60 | Portal Hypertension | p1001 | SOON
-| 61 | Ascites and Hepatorenal Syndrome | p1005 | SOON
+| 60 | Portal Hypertension | p1001 | LIVE (86 q, 8 u)
+| 61 | Ascites and Hepatorenal Syndrome | p1005 | LIVE (81 q, 8 u)
 | 62 | Hepatic Encephalopathy | p1010 | SOON
 | 63 | Metabolic Diseases of Liver | p1013 | SOON
 | 64 | Biliary Cirrhosis | p1020 | SOON
@@ -100,7 +100,7 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 72 | Infective Endocarditis | p1047 | SOON
 | 73 | Tropical Infections: Synopsis | p1053 | SOON
 | 74 | HIV | p1061 | SOON
-*(Status column: Ch 1–18 and 23–25 = **LIVE**; the rest = **SOON** — rendered in the app
+*(Status column: Ch 1–25, 60, 61 = **LIVE**; the rest = **SOON** — rendered in the app
 as a locked "Soon" row. Update this table as chapters go live.)*
 
 ### Section spans
@@ -204,10 +204,19 @@ taught explicitly: the p824 "respiratory alkalosis" label for the ↑PaCO₂ res
 (versus the p828 compensation table), and the reversed bicarbonate arrows in the p827
 primary-problem tree (versus the p828 step-2 flowchart). See **`REPORT_CH23-25.md`**.
 
-**Bank total: 2002 questions · 182 units · 25 live chapters**, all 125 in-scope pages
-p705–829 represented.
+*Ch 60–61 (Hepatology: Portal Hypertension & Ascites/HRS):* 167 questions over 9 pages
+(p1001–1009) authored in line-by-line book order — Ch 60 (8 units, 86 q), Ch 61 (8 units, 81 q).
+Every diagram, branching tree, HVPG table, hemodynamic formula, fluid analysis table,
+SBP diagnostic triad/variant, and treatment regimen covered. All degraded print values
+resolved and taught explicitly (p1001 'a years', p1004 terlipressin 'a mg', p1006 Na 'a g/day',
+p1007 cefotaxime 'ag', p1008 spironolactone '40 mg'). Predictability gates passed:
+longest option 24.4% and 34.6%, answer leak 0.0% and 0.0%, 0 fillers, 0 reused option sets in Ch 61.
+See **`REPORT_CH60-61.md`**.
 
-**Next: Ch 26 "Overview of Hormones" (p830) onward — Endocrinology (Ch 26–55).**
+**Bank total: 2169 questions · 198 units · 27 live chapters**, all 134 in-scope pages
+p705–829, p1001–1009 represented.
+
+**Next: Ch 62 "Hepatic Encephalopathy" (p1010) onward.**
 
 ### Re-audit pipeline (used for Ch 13–25)
 1. `_render` every book page to PNG and zoom into each unclear line/table/arrow.

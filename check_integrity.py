@@ -45,6 +45,8 @@ LIVE_CHAPTERS = {
     20: ("Anemia in Chronic Kidney Disease", 808, 810, 76, 7),
     21: ("CKD - Calciphylaxis and Cardiovascular changes", 811, 814, 93, 6),
     22: ("Diabetic Kidney Disease", 815, 818, 90, 7),
+    60: ("Portal Hypertension", 1001, 1004, 86, 8),
+    61: ("Ascites and Hepatorenal Syndrome", 1005, 1009, 81, 8),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain

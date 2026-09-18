@@ -1,0 +1,54 @@
+{
+  "page": 1005,
+  "sec": "Ascites: definition and onset proportions \u00b7 p1005",
+  "items": [
+    {
+      "fmt": "fillup",
+      "q": "Ascites is defined as:",
+      "opts": [
+        "Free fluid in the peritoneal cavity",
+        "Fluid trapped in the bowel lumen",
+        "Edema fluid of the hepatic capsule",
+        "Bile leaking into the abdomen"
+      ],
+      "ans": 0,
+      "exp": "Definition: free fluid in peritoneal cavity. (Book p1005)"
+    },
+    {
+      "fmt": "recall",
+      "q": "Ascites is also defined as:",
+      "opts": [
+        "The 1st sign of decompensation",
+        "The last sign of decompensation",
+        "A sign of chronic liver failure only",
+        "An end-stage finding preceding death"
+      ],
+      "ans": 0,
+      "exp": "Definition bullets: free fluid in peritoneal cavity; 1st sign of decompensation. (Book p1005)"
+    },
+    {
+      "fmt": "match",
+      "q": "Match the onset proportions \u2014 1) Ascites due to portal hypertension 2) Ascites due to peritoneal causes 3) PHTN from cirrhosis 4) PHTN without cirrhosis \u2026 A) 85% B) 90% C) 10% D) 5%",
+      "opts": [
+        "1-B (90%), 2-C (10%), 3-A (85%), 4-D (5%)",
+        "1-B (90%), 2-C (10%), 3-D (5%), 4-A (85%)",
+        "1-C (10%), 2-B (90%), 3-A (85%), 4-D (5%)",
+        "1-B (90%), 2-A (85%), 3-C (10%), 4-D (5%)"
+      ],
+      "ans": 0,
+      "exp": "Onset: 90% d/t portal hypertension (PHTN), 10% d/t peritoneal causes; of PHTN, 85% cirrhosis and 5% no cirrhosis. (Book p1005)"
+    },
+    {
+      "fmt": "scenario",
+      "q": "In a hospital series of 200 new ascites patients, applying only epidemiologic proportions, how many would have portal-hypertensive ascites due to cirrhosis?",
+      "opts": [
+        "153 \u2014 200 \u00d7 90% = 180 PHTN, then 180 \u00d7 85% cirrhotic",
+        "180 \u2014 every portal-hypertensive case is cirrhotic",
+        "170 \u2014 85% applied to all 200 patients",
+        "90 \u2014 45% of all patients are cirrhotic"
+      ],
+      "ans": 0,
+      "exp": "200 \u00d7 90% = 180 portal-hypertensive; 85% of those (153) are cirrhotic per the p1005 onset tree. (Book p1005)"
+    }
+  ]
+}
