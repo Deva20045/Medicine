@@ -1,17 +1,17 @@
 ==============================================================================
 PULSE Medicine — QUESTION VARIETY & PREDICTABILITY AUDIT
 ==============================================================================
-2504 questions · 229 units · 35 live chapter(s)
+2676 questions · 227 units · 35 live chapter(s)
 
 FORMAT MIX (whole bank)
-  recall         886   35.4%
-  match          387   15.5%
-  numeric        294   11.7%
-  truefalse      246    9.8%
-  fillup         237    9.5%
-  oddoneout      213    8.5%
-  scenario       198    7.9%
-  management      43    1.7%
+  recall         884   33.0%
+  match          401   15.0%
+  numeric        314   11.7%
+  truefalse      291   10.9%
+  fillup         269   10.1%
+  oddoneout      242    9.0%
+  scenario       230    8.6%
+  management      45    1.7%
 
  Ch   Qs  scen  fill  match   T/F   odd  longest   leak  reuse
 --------------------------------------------------------------
@@ -20,13 +20,13 @@ FORMAT MIX (whole bank)
   3  100     0    25     17    10    17    27.0%   0.0%      2
   4   50     2    13      7     6     7    24.0%   0.0%      0
   5   56     0    15      6     5     6    23.2%   0.0%      1
-  6   69     2    20      7    10     5    24.6%   0.0%      2
-  7   94     8    11     12     9     8    26.6%   0.0%      0
-  8   56     0     3      4     6     5    33.9%   0.0%      0
-  9   35     0     2      5     2     2    34.3%   0.0%      0
- 10   60     0     2      5     3     1    26.7%   0.0%      0
- 11   83     0     2      8     4     5    32.5%   0.0%      0
- 12   52     0     2      6     3     2    40.4%   0.0%      0
+  6  133    11    30     11    21    15    21.1%   0.0%      4
+  7  135    14    16     16    19    16    28.9%   0.0%      1
+  8   83     5     8      5    11     6    36.1%   0.0%      0
+  9   52     1     5      7     5     5    30.8%   0.0%      0
+ 10   78     4     5      6     7     3    29.5%   0.0%      1
+ 11   88     3     6      9     9     9    29.5%   0.0%      0
+ 12   52     4     4      7    10     3    26.9%   0.0%      0
  13   73    14     8     11     9     5    26.0%   0.0%      5
  14   82    13     8     14    14    12    23.2%   0.0%      4
  15   54     9     7     10     8     5    13.0%   0.0%      6
@@ -52,15 +52,15 @@ FORMAT MIX (whole bank)
  35   64     1     1     12     4     7    31.2%   0.0%      7
 
 PREDICTABILITY SIGNALS (bank-wide means)
-  longest option is the answer        : 31.6%
+  longest option is the answer        : 31.1%
   answer is the only hedged option    : 0.2%
-  answer is the only bracketed option : 6.9%
+  answer is the only bracketed option : 6.3%
   question contains filler distractor : 0.0%
   answer term restated in the stem    : 0.4%
-  avg answer length / distractor      : 26.6 / 21.9
+  avg answer length / distractor      : 27.2 / 22.7
   repeated back-to-back stem templates: 0
   longest uninterrupted repeat run    : 2
-  option sets reused across questions : 151
+  option sets reused across questions : 155
 
 MOST REPEATED STEM OPENERS
 

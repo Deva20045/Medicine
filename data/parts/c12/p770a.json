@@ -1,0 +1,138 @@
+{
+ "page": 770,
+ "sec": "MPGN Classification & Etiology",
+ "items": [
+  {
+   "fmt": "truefalse",
+   "q": "This page treats membranoproliferative glomerulonephritis and mesangiocapillary glomerulonephritis as names for the same entity.",
+   "opts": [
+    "True — the eponym line reads 'a.k.a. mesangiocapillary glomerulonephritis' for MPGN",
+    "False — mesangiocapillary GN is the older term for IgA nephropathy",
+    "False — the two are separated by which complement pathway is involved",
+    "True — and the page notes that the entity is common in children"
+   ],
+   "ans": 0,
+   "exp": "a.k.a mesangiocapillary glomerulonephritis; rare disease. (Book p770)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each MPGN column with its feature — 1) Type I immunofluorescence (capillary wall & mesangium) 2) Type II immunofluorescence 3) Type II outcome post transplant … A) 100% recurrence B) C3 ± IgG/M C) IgG + IgM ± C3",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Type I IF: IgG + IgM ± C3; Type II (C3 GN): C3 ± IgG/M; Type II post transplant: 100% recurrence. (Book p770)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "C3 glomerulonephritis is the label this page attaches to type II MPGN.",
+   "opts": [
+    "True — type II is labelled C3 GN",
+    "False — C3 GN is the label written against type I MPGN",
+    "False — the page prints C4 GN beside type II MPGN",
+    "True — and the same label is applied to post-infectious GN"
+   ],
+   "ans": 0,
+   "exp": "Type II: C3 GN. (Book p770)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Outcome post transplant in the classification table: Type I recurs in 80% of cases while Type II recurs in:",
+   "opts": [
+    "100%",
+    "80%",
+    "50%",
+    "20%"
+   ],
+   "ans": 0,
+   "exp": "Type I 80% recurrence; Type II 100% recurrence. (Book p770)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A resident wants to know whether a search for systemic causes can be skipped in a biopsy-proven MPGN. The banner over the secondary-cause block of the table states:",
+   "opts": [
+    "All (100%), as the banner of that block reads",
+    "Only the type I subset, which is about half of cases",
+    "None — MPGN is always treated as a primary disease",
+    "A fifth of cases, and only when an infection is found"
+   ],
+   "ans": 0,
+   "exp": "Secondary causes (100% cases are secondary to systemic causes). (Book p770)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The monoclonal (malignancies) row of MPGN secondary causes lists plasma cell dyscrasias and:",
+   "opts": [
+    "Chronic lymphoid leukemia (CLL)",
+    "Hodgkin lymphoma with Reed-Sternberg cells",
+    "Acute myeloid leukemia with circulating blasts",
+    "Multiple myeloma as the only listed entity"
+   ],
+   "ans": 0,
+   "exp": "Monoclonal: plasma cell dyscrasias; chronic lymphoid leukemia (CLL). (Book p770)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A child returns from a malarious region with nephritic features and low C3; the infection line of the type I table is read. Which organisms and diseases appear on that line?",
+   "opts": [
+    "Hepatitis C, infective endocarditis, leprosy and P. malariae",
+    "Plasmodium falciparum with cerebral involvement, not quartan malaria",
+    "Hepatitis B with schistosomiasis, the pair seen in membranous disease",
+    "HIV and parvovirus B19, the pair listed under secondary FSGS"
+   ],
+   "ans": 0,
+   "exp": "Infections: HCV, infective endocarditis, leprosy, Plasmodium malariae (Quartan malarial nephropathy). (Book p770)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The shunt example and autoimmune trio under polyclonal Type I causes are:",
+   "opts": [
+    "Ventriculoperitoneal shunt; SLE, Sjogren's, scleroderma",
+    "Atrial shunt; SLE, RA, Sjogren's",
+    "Ventriculoperitoneal shunt; SLE, RA, scleroderma",
+    "Portosystemic shunt; Sjogren's, scleroderma, RA"
+   ],
+   "ans": 0,
+   "exp": "Shunts: eg. ventriculoperitoneal shunt; autoimmune: SLE, Sjogren's, scleroderma. (Book p770)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Type II MPGN's polyclonal associations are acquired partial lipodystrophy of face and:",
+   "opts": [
+    "Optic nerve drusen",
+    "Retinitis pigmentosa",
+    "Optic neuritis",
+    "Papilledema"
+   ],
+   "ans": 0,
+   "exp": "Type II: acquired partial lipodystrophy of face; optic nerve drusen. (Book p770)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each deposit feature with its MPGN type — 1) Type I EM appearance 2) Type I deposit location 3) Type II deposit location … A) Intramembranous + mesangial B) Train track/double contour appearance C) Subendothelial + mesangial",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Type I: train track/double contour; subendothelial + mesangial. Type II: intramembranous + mesangial. (Book p770)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Type II MPGN carries the eponym intramembranous dense deposit disease.",
+   "opts": [
+    "True — intramembranous dense deposit disease is the eponym",
+    "False — dense deposit disease is the eponym reserved for type I MPGN",
+    "False — the eponym printed for type II is type III MPGN",
+    "True — and both labels imply that complement studies are normal"
+   ],
+   "ans": 0,
+   "exp": "AKA intramembranous dense deposit disease. (Book p770)"
+  }
+ ]
+}

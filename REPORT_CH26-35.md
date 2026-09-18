@@ -17,8 +17,8 @@ chapters (hormones, adrenal cortex/medulla) and the start of the bone–mineral 
 | 35 | Hypercalcemia | p877–882 | 6 | **64** |
 | **Total** | | **53 pages** | **47** | **502** |
 
-Bank total after this build:
-**2504 questions · 229 units · 35 live chapters**, with all **178 in-scope Book pages**
+Bank total after this build (on top of the parallel Ch 6–15 re-audit merge, PR #9):
+**2676 questions · 227 units · 35 live chapters**, with all **178 in-scope Book pages**
 (p705–p882) represented.
 
 Every page was **rendered from the scan and read line by line** before authoring —
@@ -176,7 +176,7 @@ hand.
 ## Quality gates (all green)
 
 ```
-python build_content.py      → 2504 questions, 229 units, 35 live chapters embedded
+python build_content.py      → 2676 questions, 227 units, 35 live chapters embedded
 python check_integrity.py    → PASS (IDs, 4-option structure, citations, book order,
                                per-page coverage, no length-giveaway, JS syntax;
                                all 178 in-scope Book pages represented)

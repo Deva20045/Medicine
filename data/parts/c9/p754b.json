@@ -1,0 +1,90 @@
+{
+ "page": 754,
+ "sec": "Atypical HUS Genetics, Drugs & Investigations",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Genetic (atypical) HUS is caused by activation of the alternate complement pathway, with the complement profile:",
+   "opts": [
+    "Low C3, normal C4",
+    "Low C3, low C4",
+    "Normal C3, low C4",
+    "High C3, high C4"
+   ],
+   "ans": 0,
+   "exp": "A/w: low C3, normal C4. (Book p754)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each genetic type of atypical HUS with its prognostic label — 1) Complement factor-H mutation 2) Complement factor-B 3) Membrane cofactor-P (MCP) … A) Worst prognosis B) Best prognosis C) m/c mutation",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Factor-H (m/c) mutation; factor-B worst prognosis; MCP best prognosis; factor-I also listed. (Book p754)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Among sporadic drug-induced HUS agents, the pair also bracketed to TTP is:",
+   "opts": [
+    "Ticlopidine and clopidogrel",
+    "Mitomycin and cisplatin",
+    "Tacrolimus and cyclosporine",
+    "Gemcitabine and bevacizumab"
+   ],
+   "ans": 0,
+   "exp": "Ticlopidine + clopidogrel are annotated \"TTP also\" among drug-induced causes. (Book p754)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "The immune-mediated HUS list contains quinine, gemcitabine, quetiapine and cotrimoxazole; the odd one out from that list is:",
+   "opts": [
+    "Mitomycin",
+    "Quinine",
+    "Quetiapine",
+    "Cotrimoxazole"
+   ],
+   "ans": 0,
+   "exp": "Mitomycin sits under sporadic drug-induced causes, not immune-mediated HUS. (Book p754)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "On the peripheral blood smear, schistocytes become significant beyond:",
+   "opts": [
+    "2%",
+    "0.2%",
+    "5%",
+    "10%"
+   ],
+   "ans": 0,
+   "exp": "Peripheral blood smear: schistocyte (>2% significant). (Book p754)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The hemolysis work-up in HUS shows:",
+   "opts": [
+    "↑ LDH, negative Coombs, ↑ indirect bilirubin, ↓ haptoglobin with normal PT/APTT",
+    "↑ LDH, positive Coombs, ↓ indirect bilirubin, ↑ haptoglobin",
+    "Normal LDH, negative Coombs, ↑ direct bilirubin, ↓ haptoglobin",
+    "↑ LDH, negative Coombs, prolonged PT/APTT"
+   ],
+   "ans": 0,
+   "exp": "Blood investigation: ↑ LDH, −ve Coombs test, ↑ indirect bilirubin, ↓ haptoglobin level, normal PT/APTT. (Book p754)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each column with its complement signature — 1) Atypical HUS pathway 2) SLE pathway 3) Atypical HUS C4 … A) Classical B) Alternative C) Normal",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Atypical HUS: alternative pathway, low C3 (N) C4; SLE: classical pathway, low C3 low C4. (Book p754)"
+  }
+ ]
+}
