@@ -1,0 +1,30 @@
+{
+ "page": 852,
+ "sec": "Adrenal medulla: development, catecholamines and biosynthesis · p852",
+ "items": [
+  {"fmt": "match", "q": "Match adrenal embryology — 1) Adrenal medulla  2) Adrenal cortex … A) Mesoderm (80%)  B) Neuroectoderm (20%)",
+   "opts": ["1-B, 2-A", "1-A, 2-B", "1-B, 2-B", "1-A, 2-A"], "ans": 0,
+   "exp": "Medulla (20%) is neuroectodermal; cortex (80%) mesodermal; development completed by the 45th day of IUL. (Book p852)"},
+  {"fmt": "numeric", "q": "Adrenal development is completed by the ___ day of intra-uterine life.",
+   "opts": ["45th", "30th", "60th", "90th"], "ans": 0,
+   "exp": "Development is completed on the 45th day of IUL. (Book p852)"},
+  {"fmt": "numeric", "q": "By the 80/20 rule, adrenaline (epinephrine) forms what share of medullary catecholamines?",
+   "opts": ["80%", "20%", "75%", "95%"], "ans": 0,
+   "exp": "Adrenaline/epinephrine 80% (smaller granules), noradrenaline/norepinephrine 20% (larger dense granules); secretion is pulsatile. (Book p852)"},
+  {"fmt": "match", "q": "Match catecholamine to metabolite — 1) Adrenaline  2) Dopamine  3) Noradrenaline … A) Homovanillic acid (HVA)  B) Normetanephrine  C) Metanephrine and VMA",
+   "opts": ["1-C, 2-A, 3-B", "1-A, 2-C, 3-B", "1-C, 2-B, 3-A", "1-B, 2-A, 3-C"],
+   "ans": 0, "exp": "Adrenaline → metanephrine/VMA; dopamine → HVA; noradrenaline → normetanephrine (metabolites are easier to measure). (Book p852)"},
+  {"fmt": "fillup", "q": "The rate-limiting step of catecholamine biosynthesis (tyrosine → DOPA) is catalysed by ___.",
+   "opts": ["Tyrosine hydroxylase", "PNMT", "DOPA decarboxylase", "Dopamine β-hydroxylase"], "ans": 0,
+   "exp": "Tyrosine hydroxylase is the rate-limiting step; the ladder is tyrosine → DOPA → dopamine → NE → epinephrine. (Book p852)"},
+  {"fmt": "recall", "q": "The enzyme converting norepinephrine to epinephrine is:",
+   "opts": ["Phenylethanolamine N-methyltransferase (PNMT)", "Tyrosine hydroxylase", "Monoamine oxidase", "COMT"], "ans": 0,
+   "exp": "PNMT (phenylethanolamine N-methyltransferase) converts NE to epinephrine. (Book p852)"},
+  {"fmt": "truefalse", "q": "‘PNMT is present only in the adrenal gland, so extra-adrenal pheochromocytomas produce only norepinephrine.’",
+   "opts": ["True", "False — PNMT is ubiquitous", "False — extra-adrenal tumours make only epinephrine", "True, but only in children"], "ans": 0,
+   "exp": "PNMT is adrenal-only; extra-adrenal pheochromocytoma lacks it and produces only NE. (Book p852)"},
+  {"fmt": "recall", "q": "The metabolic relation between cortex and medulla is:",
+   "opts": ["Cortisol (cortex) stimulates PNMT (medulla)", "Adrenaline stimulates cortical aldosterone", "Cortisol inhibits PNMT", "The medulla drives cortical 11β-HSD2"], "ans": 0,
+   "exp": "Cortisol from the cortex stimulates medullary PNMT. (Book p852)"}
+ ]
+}

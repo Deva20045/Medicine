@@ -1,0 +1,66 @@
+{
+ "page": 868,
+ "sec": "Bone turnover markers and vitamin D mechanism · p868",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match marker to category — 1) TRAP  2) CTP  3) NTX  4) Osteocalcin … A) Formation  B) Resorption",
+   "opts": [
+    "1-B, 2-B, 3-B, 4-A",
+    "1-A, 2-B, 3-B, 4-A",
+    "1-B, 2-A, 3-B, 4-A",
+    "1-B, 2-B, 3-A, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Resorption markers: TRAP, CTP, NTX; formation: total/bone ALP, osteocalcin, PICP, PINP. (Book p868)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is a bone FORMATION marker (odd one out among resorption markers)?",
+   "opts": [
+    "Bone alkaline phosphatase (bsALP)",
+    "TRAP (tartrate-resistant)",
+    "CTP telopeptide",
+    "NTX telopeptide"
+   ],
+   "ans": 0,
+   "exp": "bsALP is a formation marker; TRAP, CTP, NTX are resorption markers. (Book p868)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The formation markers PICP and PINP are propeptides of:",
+   "opts": [
+    "Procollagen type I",
+    "Collagen type II",
+    "Elastin",
+    "Fibronectin"
+   ],
+   "ans": 0,
+   "exp": "PICP/PINP = C- and N-terminal propeptides of procollagen type I. (Book p868)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Vitamin D is a Group I hormone acting via:",
+   "opts": [
+    "An intracellular nuclear heterodimer receptor (type 2)",
+    "A GPCR",
+    "A tyrosine kinase receptor",
+    "A cell-mbrane ion channel"
+   ],
+   "ans": 0,
+   "exp": "Group I hormone with intracellular receptor in nucleus — heterodimer receptor type 2. (Book p868)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the vitamin D receptor complex — 1) Activated VDR partner  2) DNA element bound … A) VDRE  B) RXR",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "1,25-OH vit D activates VDR which heterodimerizes with RXR and binds VDRE to drive gene transcription. (Book p868)"
+  }
+ ]
+}

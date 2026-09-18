@@ -1,0 +1,27 @@
+{
+ "page": 882,
+ "sec": "Malignancy-associated hypercalcemia and paediatric causes · p882",
+ "items": [
+  {"fmt": "match", "q": "Malignancy mechanisms — 1) PTH-rp (m/c)  2) Lymphoma  3) Osteolysis … A) 1α-hydroxylase  B) Humoral hypercalcemia of malignancy, a/w SCC lung  C) Hypercalcemic crisis",
+   "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-B, 2-C, 3-A", "1-C, 2-A, 3-B"], "ans": 0,
+   "exp": "PTH-rp humoral (m/c, a/w SCC lung); lymphoma 1α-hydroxylase; osteolysis → hypercalcemic crisis. (Book p882)"},
+  {"fmt": "recall", "q": "Osteolytic hypercalcemia causes (m/c first) are:",
+   "opts": ["Ca breast (m/c), multiple myeloma, Ca lung", "Ca lung (m/c), Ca breast, myeloma", "Myeloma (m/c), Ca breast, Ca lung", "Ca breast, prostate, myeloma"], "ans": 0,
+   "exp": "Osteolysis causes: Ca breast (m/c), multiple myeloma, Ca lung. (Book p882)"},
+  {"fmt": "match", "q": "Inheritance — 1) Jansen disease  2) FHH … A) AD  B) X-linked",
+   "opts": ["1-B, 2-A", "1-A, 2-B", "1-B, 2-B", "1-A, 2-A"], "ans": 0,
+   "exp": "Jansen X-linked; FHH AD. (Book p882)"},
+  {"fmt": "match", "q": "Defect — 1) Jansen disease  2) FHH … A) Loss of function of CaSR  B) Activation mutation of PTH type 1 receptor",
+   "opts": ["1-B, 2-A", "1-A, 2-B", "1-B, 2-B", "1-A, 2-A"], "ans": 0,
+   "exp": "Jansen: activation mutation of PTH type 1 receptor; FHH: loss of function of CaSR. (Book p882)"},
+  {"fmt": "oddoneout", "q": "Jansen features are short stature, dementia, disorientation, abnormal facies and severe bone involvement. Pick the ODD ONE OUT:",
+   "opts": ["Mild symptoms", "Short stature", "Abnormal facies", "Severe bone involvement"], "ans": 0,
+   "exp": "Mild symptoms/fatigue/weakness belong to FHH; Jansen is severe. (Book p882)"},
+  {"fmt": "recall", "q": "FHH in children typically presents with:",
+   "opts": ["Mild symptoms, fatigue, weakness", "Severe bone deformity and dementia", "Short stature with abnormal facies", "Recurrent fractures and disorientation"], "ans": 0,
+   "exp": "FHH: mild symptom, fatigue, weakness. (Book p882)"},
+  {"fmt": "scenario", "q": "A child presents with hypercalcemia, X-linked inheritance, short stature and severe bone involvement. The underlying defect is:",
+   "opts": ["Activation mutation of PTH type 1 receptor (Jansen disease)", "Loss of function of CaSR (FHH)", "Gain of function of CaSR (Bartter V)", "Inactivating PTHrP mutation"], "ans": 0,
+   "exp": "Jansen disease: X-linked, activation mutation of PTH type 1 receptor, severe bone involvement. (Book p882)"}
+ ]
+}

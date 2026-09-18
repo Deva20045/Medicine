@@ -1,0 +1,30 @@
+{
+ "page": 858,
+ "sec": "MEN syndromes and MEN1 · p858",
+ "items": [
+  {"fmt": "recall", "q": "The MEN types listed are:",
+   "opts": ["MEN 1, MEN 2A, MEN 2B/MEN 3 and MEN 4", "MEN 1 and MEN 2 only", "MEN 2A, 2B and 5", "MEN 1, 2, 3 and 5"], "ans": 0,
+   "exp": "Types: MEN 1, MEN 2A, MEN 2B/MEN 3, MEN 4. (Book p858)"},
+  {"fmt": "recall", "q": "MEN1 inheritance and sex ratio are:",
+   "opts": ["Autosomal dominant; M = F", "Autosomal recessive; F > M", "X-linked; M > F", "Autosomal dominant; F > M"], "ans": 0,
+   "exp": "MEN1 is autosomal dominant with M = F. (Book p858)"},
+  {"fmt": "fillup", "q": "MEN1 is caused by mutation of the ___ gene (tumour suppressor) on chromosome 11q.",
+   "opts": ["MENIN", "RET", "PTEN", "AIRE"], "ans": 0,
+   "exp": "MENIN gene (tumour suppressor) mutation on Chr 11q; d/t intron inversion > base pair deletion. (Book p858)"},
+  {"fmt": "recall", "q": "The mutation mechanism in MEN1 is typically:",
+   "opts": ["Intron inversion > base pair deletion", "Point mutation of a proto-oncogene", "Trinucleotide repeat expansion", "Gene amplification"], "ans": 0,
+   "exp": "D/t intron inversion > base pair deletion. (Book p858)"},
+  {"fmt": "match", "q": "Match the MEN1 major ‘3P’ involvement with frequency — 1) Parathyroid  2) Pancreas  3) Pituitary … A) 50–70%  B) 30–50%  C) 100%",
+   "opts": ["1-C, 2-A, 3-B", "1-A, 2-C, 3-B", "1-C, 2-B, 3-A", "1-B, 2-A, 3-C"],
+   "ans": 0, "exp": "Major (age <20 yrs) 3P: parathyroid 100%, pancreas 50–70%, pituitary 30–50%. (Book p858)"},
+  {"fmt": "recall", "q": "The MEN1 minor skin lesions in order are:",
+   "opts": ["Angiofibroma > collagenoma > lipoma", "Lipoma > angiofibroma > collagenoma", "Collagenoma > lipoma > angiofibroma", "Angiofibroma > lipoma > collagenoma"], "ans": 0,
+   "exp": "Skin minor manifestations: angiofibroma > collagenoma > lipoma. (Book p858)"},
+  {"fmt": "recall", "q": "The m/c benign minor tumour and the m/c neurotumour in MEN1 are respectively:",
+   "opts": ["Adreno-cortical adenoma; meningioma", "Pheochromocytoma; meningioma", "Adreno-cortical adenoma; PNET", "Prolactinoma; meningioma"], "ans": 0,
+   "exp": "Benign minor tumours: adreno-cortical adenoma (m/c), meningioma (m/c neurotumour), pheochromocytoma (<1%). (Book p858)"},
+  {"fmt": "recall", "q": "The malignant minor tumours of MEN1 are:",
+   "opts": ["PNET and thymic & foregut carcinoid", "Adreno-cortical adenoma and lipoma", "Meningioma and pheochromocytoma", "Prolactinoma and gastrinoma"], "ans": 0,
+   "exp": "Malignant minor: primitive neuro-ectodermal tumour (PNET), thymic & foregut carcinoid. (Book p858)"}
+ ]
+}

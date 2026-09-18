@@ -1,0 +1,102 @@
+{
+ "page": 875,
+ "sec": "Excretion, stone thresholds, milk-alkali syndrome and renal handling · p875",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "Daily urinary calcium loss is approximately:",
+   "opts": [
+    "~200 mg (4 mg/kg/24 hr)",
+    "~20 mg lost per day",
+    "~2 g lost per day",
+    "~500 mg lost per day"
+   ],
+   "ans": 0,
+   "exp": "~200 mg lost in urine; 4 mg/kg/24 hours; >4 mg/kg/day = hypercalciuria. (Book p875)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the ‘4/7/11’ stone thresholds — 1) >4 mg/kg/24 hr  2) >7 mg/24 hr  3) <11 mg/kg/24 hr … A) Hyperuricosuria (2nd m/c)  B) Hypocitraturia  C) Hypercalciuria (m/c)",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "m/c causes of stones: hypercalciuria >4 mg/kg/24 hr (m/c), hyperuricosuria >7 mg/24 hr (2nd m/c), hypocitraturia <11 mg/kg/24 hr. (Book p875)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Milk-alkali syndrome begins with excess calcium consumption above:",
+   "opts": [
+    ">4 g/day",
+    ">1 g/day",
+    ">400 mg/day",
+    ">10 g/day"
+   ],
+   "ans": 0,
+   "exp": "Excess Ca2+ consumption >4 g/day → ↑ paracellular Ca2+ entry. (Book p875)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In milk-alkali syndrome, hypercalcaemia activates CaSR which then:",
+   "opts": [
+    "Reduces Ca2+ absorption and ADH → volume depletion → RAAS → metabolic alkalosis",
+    "Raises ADH and volume",
+    "Increases calcium absorption",
+    "Suppresses RAAS"
+   ],
+   "ans": 0,
+   "exp": "Hypercalcaemia (+) CaSR (−) → ↓ Ca2+ absorption and ↓ ADH → volume depletion → RAAS → metabolic alkalosis; also hypercalciuria → stones. (Book p875)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match renal calcium handling — 1) PCT  2) TAL  3) DCT … A) 25%, paracellular, PTH-dependent  B) 10%, active transport, most dependent  C) 65%, paracellular, PTH-independent",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "PCT 65% paracellular independent; TAL 25% paracellular dependent; DCT 10% active transport most dependent. (Book p875)"
+  },
+  {
+   "fmt": "recall",
+   "q": "A rise in ionized calcium triggers, within SECONDS, the:",
+   "opts": [
+    "Parathyroid CaSR inhibiting PTH release → hypocalcaemia (immediate response)",
+    "Renal CaSR increasing reabsorption",
+    "Intestinal CaSR raising absorption",
+    "Bone CaSR mobilising calcium"
+   ],
+   "ans": 0,
+   "exp": "Within seconds: parathyroid CaSR (−) PTH release → hypocalcaemia (immediate). (Book p875)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Within a FEW DAYS, raised ionized calcium acts on the kidney (TAL) CaSR to cause:",
+   "opts": [
+    "↓ Ca2+ reabsorption → hypercalciuria (delayed response)",
+    "↑ reabsorption of calcium",
+    "↑ PTH secretion",
+    "Immediate stone formation"
+   ],
+   "ans": 0,
+   "exp": "Delayed response: kidney (TAL) CaSR (−) Ca2+ reabsorption → hypercalciuria; vice-versa when ionized calcium falls. (Book p875)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In the TAL diagram, the claudins shown regulating paracellular calcium are:",
+   "opts": [
+    "CLDN 16/19 with claudin-14",
+    "Claudin 4 and 7",
+    "Claudin 1 only",
+    "Occludin"
+   ],
+   "ans": 0,
+   "exp": "TAL regulation involves CLDN 16/19 and claudin-14, with PTH raising absorption and CaSR raising excretion. (Book p875)"
+  }
+ ]
+}

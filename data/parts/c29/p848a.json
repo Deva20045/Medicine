@@ -1,0 +1,33 @@
+{
+ "page": 848,
+ "sec": "IPSS, high-dose DST, PNS features and medical therapy · p848",
+ "items": [
+  {"fmt": "numeric", "q": "On inferior petrosal sinus sampling, a petrosal/peripheral ACTH ratio above what value is significant for a pituitary adenoma?",
+   "opts": [">2:1", "<2:1", ">5:1", "1:1"], "ans": 0,
+   "exp": "Petrosal/peripheral ACTH ratio >2:1 (significant) → pituitary adenoma → trans-sphenoidal hypophysectomy; <2 → PET scan → PNS. (Book p848)"},
+  {"fmt": "recall", "q": "A petrosal/peripheral ACTH ratio <2 directs the work-up to:",
+   "opts": ["PET scan and a diagnosis of paraneoplastic syndrome", "Pituitary MRI", "Immediate hypophysectomy", "Adrenal CT"], "ans": 0,
+   "exp": "<2 ratio → PET scan → Dx PNS (paraneoplastic syndrome). (Book p848)"},
+  {"fmt": "recall", "q": "The high-dose DST regimen and its positive result are:",
+   "opts": ["2 mg Q6H × 2 days; >50% suppression = pituitary cause", "1 mg at 11 pm; <1.8 rules out", "0.5 mg Q6H × 2 days; >1.8 endogenous", "8 mg once; no suppression = pituitary"], "ans": 0,
+   "exp": "High-dose DST 2 mg Q6H × 2d with >50% suppression indicates a pituitary cause. (Book p848)"},
+  {"fmt": "recall", "q": "The clinical features of paraneoplastic (ectopic ACTH) syndrome include:",
+   "opts": ["Hyperpigmentation, less protein catabolism, and mineralocorticoid action (HTN, mA, hypokalaemia)", "Heavy protein catabolism with striae", "Hypotension and eosinophilia", "Precocious puberty"], "ans": 0,
+   "exp": "PNS: hyperpigmentation, less protein catabolism, mineralocorticoid action — HTN, mA, hypokalaemia. (Book p848)"},
+  {"fmt": "recall", "q": "The treatment of choice for Cushing's disease (and relapse-fit patients) is:",
+   "opts": ["Trans-sphenoidal surgery (whole gland or adenoma)", "Radiotherapy first-line", "Ketoconazole first-line", "Mitotane"], "ans": 0,
+   "exp": "Trans-sphenoidal surgery is TOC with a 75% remission rate; radiotherapy is 3rd line if unfit for surgery. (Book p848)"},
+  {"fmt": "numeric", "q": "The remission rate after trans-sphenoidal surgery is:",
+   "opts": ["75%", "50%", "90%", "25%"], "ans": 0,
+   "exp": "75% remission rate after trans-sphenoidal surgery. (Book p848)"},
+  {"fmt": "match", "q": "Match the medical therapy — 1) Glucocorticoid receptor inhibitor  2) Adrenolytic in adrenal cancer  3) Prevents relapse (listed first) … A) Mifepristone  B) Mitotane  C) Ketoconazole",
+   "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-A, 2-C, 3-B", "1-C, 2-B, 3-A"],
+   "ans": 0, "exp": "Mifepristone = glucocorticoid receptor inhibitor; mitotane = adrenolytic in adrenal cancer; ketoconazole (with pasireotide, cabergoline, metyrapone) prevents relapse. (Book p848)"},
+  {"fmt": "recall", "q": "For patients unfit for surgery, the third-line option is:",
+   "opts": ["Radiotherapy", "Ketoconazole", "Bilateral adrenalectomy", "Pasireotide"], "ans": 0,
+   "exp": "If not fit for surgery → radiotherapy (3rd line). (Book p848)"},
+  {"fmt": "oddoneout", "q": "Which drug is NOT listed among the relapse-preventing medical therapies?",
+   "opts": ["Spironolactone", "Ketoconazole", "Pasireotide", "Cabergoline"], "ans": 0,
+   "exp": "Listed: ketoconazole, pasireotide, cabergoline, metyrapone (II doc), mifepristone, mitotane — not spironolactone. (Book p848)"}
+ ]
+}

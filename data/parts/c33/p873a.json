@@ -1,0 +1,33 @@
+{
+ "page": 873,
+ "sec": "PTH adverse effects, receptors, sigmoid rule and CaSR mutations · p873",
+ "items": [
+  {"fmt": "recall", "q": "Adverse effects of PTH on the CVS include:",
+   "opts": ["Calcification (medial), atherosclerosis and HTN", "Vasodilation and hypotension", "Pericarditis", "Bradycardia"], "ans": 0,
+   "exp": "CVS adverse effects: medial calcification, atherosclerosis, HTN. (Book p873)"},
+  {"fmt": "recall", "q": "PTH receptors signal through:",
+   "opts": ["GPCR (cAMP/PKA pathway)", "Tyrosine kinase", "JAK–STAT", "SMAD"], "ans": 0,
+   "exp": "PTH receptors are GPCR (cAMP/PKA). (Book p873)"},
+  {"fmt": "recall", "q": "The PTH receptor type on which PTHrP also acts, mediating paraneoplastic hypercalcaemia (squamous cell carcinoma of head & neck, lung), is:",
+   "opts": ["Type 1", "Type 2", "Type 3", "Klotho"], "ans": 0,
+   "exp": "Type 1 receptor: PTHrp also acts here → paraneoplastic role (SCC head & neck, lung). (Book p873)"},
+  {"fmt": "truefalse", "q": "‘A fall in ionised calcium is the MORE sensitive stimulus, inhibiting CaSR and raising PTH; a rise activates CaSR and lowers PTH.’",
+   "opts": ["True", "False — rising Ca raises PTH", "False — CaSR is in the kidney only", "True, but only with high phosphate"], "ans": 0,
+   "exp": "Sigmoid rule: ↑Ca2+ activates CaSR → ↓PTH; ↓Ca2+ (more sensitive) inhibits CaSR → ↑PTH. (Book p873)"},
+  {"fmt": "recall", "q": "The most important regulator of PTH is:",
+   "opts": ["Ionised calcium", "Phosphate", "Magnesium", "Vitamin D binding globulin"], "ans": 0,
+   "exp": "Ionised Ca2+ is the most important regulator; basal PTH secretion is always present. (Book p873)"},
+  {"fmt": "truefalse", "q": "‘Phosphate deficiency impairs PTH release.’",
+   "opts": ["True", "False — phosphate deficiency raises PTH", "False — no relation", "True, but only in CKD"], "ans": 0,
+   "exp": "Deficiency of P impairs PTH release. (Book p873)"},
+  {"fmt": "match", "q": "Match CaSR mutation — 1) Loss of function  2) Gain of function … A) Bartter syndrome type 5  B) Familial hypocalciuric hypercalcaemia",
+   "opts": ["1-B, 2-A", "1-A, 2-B", "1-B, 2-B", "1-A, 2-A"], "ans": 0,
+   "exp": "CaSR loss-of-function → familial hypocalciuric hypercalcaemia; gain-of-function → Bartter syndrome type 5. (Book p873)"},
+  {"fmt": "recall", "q": "Senile osteoporosis arises because mesenchymal stem cells differentiate into:",
+   "opts": ["Adipocytes instead of osteoblasts", "Chondrocytes", "Fibroblasts", "Myocytes"], "ans": 0,
+   "exp": "Senile osteoporosis: mesenchymal stem cells → adipocyte instead of osteoblast. (Book p873)"},
+  {"fmt": "fillup", "q": "___ helps in Ca2+ reabsorption from the kidney.",
+   "opts": ["Claudin 16", "Claudin 4", "Occludin", "ZO-1"], "ans": 0,
+   "exp": "Claudin 16 helps in Ca2+ reabsorption from kidney. (Book p873)"}
+ ]
+}

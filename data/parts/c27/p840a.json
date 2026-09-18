@@ -1,0 +1,27 @@
+{
+ "page": 840,
+ "sec": "11β-hydroxysteroid dehydrogenase type 2 defects · p840",
+ "items": [
+  {"fmt": "recall", "q": "The inherited form of 11β-OH steroid dehydrogenase type 2 defect is called:",
+   "opts": ["Apparent mineralocorticoid excess (AME)", "Liddle syndrome", "Conn's syndrome", "Glucocorticoid remediable aldosteronism"], "ans": 0,
+   "exp": "Inherited 11β-HSD2 defect = apparent mineralocorticoid excess (AME). (Book p840)"},
+  {"fmt": "recall", "q": "Normally, 11β-OH steroid dehydrogenase type 2 converts:",
+   "opts": ["Cortisol to cortisone", "Cortisone to cortisol", "Corticosterone to aldosterone", "11-deoxycortisol to cortisol"], "ans": 0,
+   "exp": "The enzyme converts cortisol (glucocorticoid + mineralocorticoid) to cortisone (glucocorticoid only). (Book p840)"},
+  {"fmt": "truefalse", "q": "‘In AME the blocked cortisol→cortisone step causes excess cortisol, which then acts as a mineralocorticoid.’",
+   "opts": ["True", "False — cortisol falls", "False — cortisone is the mineralocorticoid", "True, but only with a tumour"], "ans": 0,
+   "exp": "Blocking the conversion leaves excess cortisol driving mineralocorticoid effects (AME). (Book p840)"},
+  {"fmt": "recall", "q": "The acquired causes of 11β-HSD2 inhibition listed are:",
+   "opts": ["Cushing's disease and licorice excess", "Addison's disease and liquorice", "Conn's syndrome and caffeine", "Cushing's disease and caffeine"], "ans": 0,
+   "exp": "Acquired: Cushing's disease and licorice excess (inhibits 11β-OH steroid dehydrogenase type 2). (Book p840)"},
+  {"fmt": "truefalse", "q": "‘Licorice excess produces hypertension by inhibiting 11β-OH steroid dehydrogenase type 2.’",
+   "opts": ["True", "False — licorice activates the enzyme", "False — licorice lowers cortisol", "True, but via aldosterone synthase"], "ans": 0,
+   "exp": "Licorice excess (−) inhibits 11β-HSD2, an acquired cause of the AME picture. (Book p840)"},
+  {"fmt": "scenario", "q": "A child presents with hypertension, hypokalaemia and alkalosis with salt + water retention but low aldosterone. The shared presentation triangle points to:",
+   "opts": ["A mineralocorticoid-excess state (e.g. AME / 11β-HSD2 defect)", "Primary hyperaldosteronism", "Diuretic abuse", "Renal artery stenosis"], "ans": 0,
+   "exp": "Both inherited and acquired 11β-HSD2 defects present with salt + H2O retention → HTN, alkalosis and hypokalaemia. (Book p840)"},
+  {"fmt": "oddoneout", "q": "Which is NOT part of the presentation triangle of 11β-HSD2 defects?",
+   "opts": ["Hyperkalaemia", "Hypertension", "Alkalosis", "Hypokalaemia"], "ans": 0,
+   "exp": "The triangle is hypertension, alkalosis and hypokalaemia (with salt + water retention); hyperkalaemia is the opposite. (Book p840)"}
+ ]
+}
