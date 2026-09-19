@@ -55,6 +55,11 @@ LIVE_CHAPTERS = {
     33: ("Basics of Bone and Mineral Metabolism", 863, 873, 89, 6),
     34: ("Calcium Metabolism", 874, 876, 29, 3),
     35: ("Hypercalcemia", 877, 882, 64, 6),
+    36: ('Hypocalcemia', 883, 886, 53, 4),
+    37: ('Phosphorus Metabolism', 887, 891, 62, 5),
+    38: ('Magnesium Metabolism', 892, 894, 48, 3),
+    39: ('Osteoporosis', 895, 897, 50, 3),
+    40: ('Basics of Thyroid Gland', 898, 901, 59, 4),
     60: ("Portal Hypertension", 1001, 1004, 86, 8),
     61: ("Ascites and Hepatorenal Syndrome", 1005, 1009, 81, 8),
 }

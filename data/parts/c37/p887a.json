@@ -1,0 +1,162 @@
+{
+ "page": 887,
+ "sec": "Phosphorus: ranges, compartments and absorption",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "The normal serum phosphorus range used in this chapter is ___ mg/dL.",
+   "opts": [
+    "2.5–4.5",
+    "1.5–2.5",
+    "3.5–5.5",
+    "4.5–6.5"
+   ],
+   "ans": 0,
+   "exp": "The page gives 2.5–4.5 mg/dL; values above 4.5 are classified as hyperphosphatemia. (Book p887)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A stable patient has phosphate 1.8 mg/dL without symptoms. How does the opening severity diagram classify this value?",
+   "opts": [
+    "Mild hypophosphatemia, often asymptomatic",
+    "Severe depletion with expected hemolysis",
+    "Normal adult serum phosphate",
+    "Hyperphosphatemia requiring binders"
+   ],
+   "ans": 0,
+   "exp": "The 1–2.5 mg/dL branch is described as asymptomatic without routine treatment in this simplified diagram. Later pages discuss oral replacement; decisions depend on cause and clinical context. (Book p887)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Which phosphate level crosses the chapter's severe-depletion threshold rather than merely its low-reference threshold?",
+   "opts": [
+    "0.8 mg/dL",
+    "1.8 mg/dL",
+    "2.8 mg/dL",
+    "3.8 mg/dL"
+   ],
+   "ans": 0,
+   "exp": "The severe phosphorus-depletion branch is <1 mg/dL. (Book p887)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess: I Most body phosphorus is in the inorganic extracellular pool. II Routine serum phosphorus predominantly measures inorganic extracellular phosphate.",
+   "opts": [
+    "I false; II true",
+    "I true; II false",
+    "Both true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The forms tree separates the larger organic intracellular pool from inorganic HPO4 in extracellular blood, the pool measured in serum assays. (Book p887)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following phosphorus compartments — 1) Bone 2) Soft tissue 3) Extracellular fluid … A) 85% B) 14% C) 1%",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "The phosphorus column allocates 85% to bone, 14% to soft tissue and 1% to ECF. (Book p887)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Total body stores in the comparison table are about ___ calcium versus ___ phosphorus.",
+   "opts": [
+    "1200 g; 500–800 g",
+    "500–800 g; 1200 g",
+    "120 g; 50–80 g",
+    "1200 g; 50–80 g"
+   ],
+   "ans": 0,
+   "exp": "The table contrasts approximately 1200 g of calcium with 500–800 g of phosphorus. (Book p887)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following calcium compartments — 1) Bone 2) Soft tissue 3) ECF … A) 99.3% B) 0.6% C) 0.1%",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "The calcium distribution is 99.3% bone, 0.6% soft tissue and 0.1% extracellular, distinct from the phosphate distribution. (Book p887)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Albumin falls in a patient whose calcium and phosphate are both measured. Which correction approach follows the comparison table?",
+   "opts": [
+    "Consider calcium correction; do not use a corrected-phosphate formula",
+    "Apply the same albumin correction to both minerals",
+    "Correct phosphate only because its binding is greater",
+    "Ignore albumin because both minerals are entirely free"
+   ],
+   "ans": 0,
+   "exp": "The table gives 40% albumin binding for calcium versus 10% for phosphorus and states there is no role for corrected phosphorus. (Book p887)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Albumin-bound fractions are approximately ___ for calcium and ___ for phosphorus.",
+   "opts": [
+    "40%; 10%",
+    "10%; 40%",
+    "20%; 60%",
+    "60%; 20%"
+   ],
+   "ans": 0,
+   "exp": "These fractions explain why albumin correction is discussed for calcium but not routinely for phosphate. (Book p887)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following — 1) Main calcium/phosphate absorption site in the source 2) Magnesium absorption site 3) Calcium absorption protein … A) Jejunum B) Ileum C) Calbindin",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "The page groups calcium and phosphate with jejunal absorption, names the ileum for magnesium and includes calbindin in calcium handling. (Book p887)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The net intestinal absorption fractions in the comparison are calcium ___ and phosphorus ___.",
+   "opts": [
+    "20%; 60%",
+    "60%; 20%",
+    "30%; 80%",
+    "80%; 30%"
+   ],
+   "ans": 0,
+   "exp": "The table shows 20% net calcium absorption and 60% net phosphorus absorption. (Book p887)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Evaluate: I The source splits phosphate absorption into 80% active and 20% passive. II It splits calcium absorption into 95% active and 5% passive.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "These are the chapter's contrasting active/passive fractions; the active phosphate arm is labeled vitamin-D dependent. (Book p887)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A student says the page's shared absorption sketch proves that calbindin transports phosphate directly. Which correction is most appropriate?",
+   "opts": [
+    "Vitamin D promotes both; calbindin specifically supports calcium handling",
+    "Calbindin is the principal renal phosphate cotransporter",
+    "Phosphate is absorbed only by passive diffusion",
+    "Vitamin D has no intestinal phosphate effect"
+   ],
+   "ans": 0,
+   "exp": "The schematic groups vitamin D and the two minerals, but calbindin should not be misidentified as the sodium–phosphate transporter. It is a calcium-binding protein, not vitamin-D-binding protein despite the handwritten label. (Book p887)"
+  }
+ ]
+}

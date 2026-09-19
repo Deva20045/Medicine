@@ -1,0 +1,234 @@
+{
+ "page": 885,
+ "sec": "Drug causes, hungry bone and PTH resistance",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following drug mechanisms — 1) Citrate 2) Bisphosphonate 3) Cisplatin … A) Calcium complexing B) Inhibition of bone resorption C) Tubular injury with electrolyte loss",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Citrate complexes calcium; bisphosphonates reduce calcium release from bone; cisplatin belongs to the tubular-injury group. (Book p885)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which drug is the odd one out in the page's renal tubular-injury subgroup causing hypocalcemia?",
+   "opts": [
+    "Calcitonin",
+    "Amphotericin B",
+    "Cisplatin",
+    "Aminoglycosides"
+   ],
+   "ans": 0,
+   "exp": "Calcitonin lowers calcium through its hormonal antiresorptive action; the other three are grouped under tubular injury. (Book p885)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient has repeatedly low total calcium but marked hypoalbuminemia. What is the first step in the chapter's exclusion sequence?",
+   "opts": [
+    "Confirm corrected or ionized calcium",
+    "Diagnose primary hypoparathyroidism",
+    "Order a PTH-receptor gene panel",
+    "Diagnose hungry bone syndrome"
+   ],
+   "ans": 0,
+   "exp": "The sequence begins with confirming corrected calcium, then ruling out magnesium deficiency, then evaluating hypoparathyroidism and other causes. (Book p885)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "After confirming true hypocalcemia, the deficiency to exclude before assigning primary parathyroid failure is ___.",
+   "opts": [
+    "Magnesium",
+    "Iron",
+    "Copper",
+    "Selenium"
+   ],
+   "ans": 0,
+   "exp": "Magnesium deficiency can impair PTH secretion and action, so it precedes hypoparathyroidism in the sequence. (Book p885)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Following parathyroidectomy, calcium and phosphate both fall while ALP rises. Which postoperative mechanism fits best?",
+   "opts": [
+    "Hungry bone remineralization",
+    "Isolated postsurgical PTH deficiency",
+    "Tertiary hyperparathyroidism",
+    "PTHrP-mediated bone resorption"
+   ],
+   "ans": 0,
+   "exp": "Hungry bone syndrome takes calcium and phosphate into bone and is accompanied by increased matrix synthesis/ALP. Gland failure tends to raise phosphate. (Book p885)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess: I Hungry bone syndrome characteristically raises phosphate. II The postoperative hypoparathyroidism row shows high phosphate, markedly low PTH and normal ALP.",
+   "opts": [
+    "I false; II true",
+    "I true; II false",
+    "Both true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Hungry bone lowers both calcium and phosphate and raises ALP; the PTH cell is blank. Postsurgical hypoparathyroidism instead shows phosphate up, PTH markedly down and normal ALP. (Book p885)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "In the postoperative graph, the calcium curve drops while the ALP curve rises. Which interpretation best explains why the curves diverge?",
+   "opts": [
+    "Bone mineral uptake with increased matrix activity",
+    "Reduced ALP synthesis from hepatic failure",
+    "Persistent calcium release from active osteolysis",
+    "Analytical correction for falling albumin alone"
+   ],
+   "ans": 0,
+   "exp": "The graph illustrates hungry bone after parathyroidectomy: mineral uptake lowers calcium while osteoblastic activity raises ALP. (Book p885)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following hungry-bone graph labels — 1) Left vertical axis 2) Right vertical axis 3) Horizontal axis … A) ALP in U/L B) Days around the operative course C) Adjusted calcium in mg/dL",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "The left axis is adjusted calcium, the right ALP and the horizontal axis time in days. The scan labels days after parathyroidectomy but places its operative arrow after zero, so the qualitative postoperative trend is more reliable than inferring an exact operative day. (Book p885)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "In the illustrated perioperative course, zoledronate and elcatonin precede surgery. Which subsequent supplement combination is annotated?",
+   "opts": [
+    "IV calcium and magnesium with oral calcitriol",
+    "IV phosphate and potassium with oral calcitonin",
+    "IV calcium and phosphate with oral cholecalciferol",
+    "IV magnesium and bicarbonate with oral cinacalcet"
+   ],
+   "ans": 0,
+   "exp": "The graph annotates IV calcium 3–5 g/day and magnesium 2–6 g/day with oral calcitriol 1–3 µg/day. These are case-figure annotations, not universal replacement doses; formulations, elemental content and renal function must be checked. (Book p885)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the graph reference bands: I Adjusted calcium is marked normal at 8.5–10.3 mg/dL. II ALP 68–430 U/L is explicitly labeled for a 16-year-old male rather than every adult.",
+   "opts": [
+    "Both true",
+    "Both false",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 0,
+   "exp": "The graph prints calcium 8.5–10.3 mg/dL and ALP 68–430 U/L for a 16-year-old male. Age-dependent ALP ranges must not be applied universally. (Book p885)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The molecular chain in pseudohypoparathyroidism is a ___ mutation causing defective ___ signaling.",
+   "opts": [
+    "GNAS; Gsα",
+    "CASR; Gqα",
+    "PHEX; FGF23",
+    "RET; tyrosine kinase"
+   ],
+   "ans": 0,
+   "exp": "GNAS defects alter Gsα signaling and produce resistance to PTH action, rather than simply absent hormone secretion. (Book p885)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A child has hypocalcemia, hyperphosphatemia and a markedly elevated PTH despite preserved renal function. Which mechanism should be considered?",
+   "opts": [
+    "Target-organ resistance to PTH",
+    "Autonomous PTH secretion from an adenoma",
+    "Complete absence of PTH synthesis",
+    "Activating renal CaSR with suppressed PTH"
+   ],
+   "ans": 0,
+   "exp": "PHP produces low calcium, high phosphate and high PTH because target tissues resist the hormone. (Book p885)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following — 1) PHP type Ia 2) PHP type Ib 3) PHP type II … A) No AHO, complete PTH resistance B) AHO, complete PTH resistance C) No AHO, preserved cAMP rise",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The table distinguishes Ia by AHO, Ib by absent AHO, and type II by a cAMP rise despite a downstream response defect. (Book p885)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Exogenous PTH raises urinary cAMP, but the expected phosphaturic response is impaired. Which PHP subtype fits the table?",
+   "opts": [
+    "Type II",
+    "Type Ia",
+    "Type Ib",
+    "Pseudo-PHP"
+   ],
+   "ans": 0,
+   "exp": "Type II has a preserved cAMP rise with a downstream signaling defect; the source calls its resistance partial. (Book p885)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Evaluate the table's other-hormone-resistance row: I PHP Ia is positive. II PHP Ib is marked variable (+/−).",
+   "opts": [
+    "Both true",
+    "Both false",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 0,
+   "exp": "The table marks other hormone resistance as + in Ia, +/− in Ib and absent in type II and PPHP. (Book p885)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following phenotype patterns — 1) Maternal GNAS defect with resistance 2) Paternal GNAS defect without resistance 3) PHP Ib … A) AHO with PHP Ia B) AHO absent C) AHO with pseudo-PHP",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Parent-of-origin distinguishes maternal PHP Ia from paternal PPHP; PHP Ib lacks the AHO phenotype in the table. (Book p885)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which disorder is the odd one out for the low-calcium/high-phosphate/high-PTH biochemical triad?",
+   "opts": [
+    "Pseudopseudohypoparathyroidism",
+    "Pseudohypoparathyroidism Ia",
+    "Pseudohypoparathyroidism Ib",
+    "Pseudohypoparathyroidism II"
+   ],
+   "ans": 0,
+   "exp": "PPHP has an AHO phenotype without the biochemical PTH resistance seen in the PHP groups. (Book p885)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient has AHO from a paternal GNAS defect but normal calcium, phosphate and PTH. What response to administered PTH is expected?",
+   "opts": [
+    "Preserved cAMP and phosphaturic responses",
+    "Absent cAMP and phosphaturic responses",
+    "Preserved cAMP but impaired phosphaturia",
+    "Absent cAMP with exaggerated phosphaturia"
+   ],
+   "ans": 0,
+   "exp": "The table also labels PPHP resistance as normal and its biochemical triad absent. PPHP should not be taught as a failed PTH/cAMP response on the basis of the ambiguous 'no change' cell. (Book p885)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The table's reduced-Gsα row is positive in ___ and ___, but negative in Ib and II.",
+   "opts": [
+    "PHP Ia; PPHP",
+    "PHP Ib; PHP II",
+    "PHP Ia; PHP II",
+    "PHP Ib; PPHP"
+   ],
+   "ans": 0,
+   "exp": "The printed row refers to reduced Gsα, a signaling protein rather than a 'Gsα receptor'; it marks Ia and PPHP positive. (Book p885)"
+  }
+ ]
+}

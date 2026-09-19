@@ -1,0 +1,150 @@
+{
+ "page": 891,
+ "sec": "Phosphate wasting, inherited rickets and replacement",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following hypophosphatemic-rickets inheritance patterns — 1) X-linked 2) Autosomal recessive 3) Autosomal dominant … A) DMP1 B) PHEX C) FGF23",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The source lists PHEX for the common X-linked form, DMP (DMP1) for a recessive form and FGF23 for the dominant form. (Book p891)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A family has phosphate-wasting rickets with an X-linked pattern. Which gene is the best match to the chapter's commonest inherited form?",
+   "opts": [
+    "PHEX",
+    "DMP1",
+    "FGF23",
+    "GNAS"
+   ],
+   "ans": 0,
+   "exp": "PHEX-related disease is the most common inherited hypophosphatemic rickets form named in the table. (Book p891)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An FGF23 variant resists proteolytic cleavage. Which combination of intact FGF23 action and serum phosphate is expected?",
+   "opts": [
+    "More active FGF23; lower phosphate",
+    "Less active FGF23; higher phosphate",
+    "More active FGF23; higher phosphate",
+    "Less active FGF23; lower phosphate"
+   ],
+   "ans": 0,
+   "exp": "The later laboratory note correctly links phosphate wasting to increased FGF23 activity. The table's downward arrow should be treated as an error, and PHEX/DMP1 regulation is more complex than direct cleavage alone. (Book p891)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following typical rickets laboratory findings — 1) Serum phosphate 2) ALP 3) Calcium and PTH … A) Raised B) Usually normal C) Low",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "The page lists low phosphate, increased ALP and normal calcium/PTH in inherited hypophosphatemic rickets. (Book p891)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A child has lower-limb deformity, low phosphate, high ALP and normal calcium and PTH. Which disorder best fits?",
+   "opts": [
+    "Hypophosphatemic rickets",
+    "Primary hyperparathyroidism",
+    "Familial tumoral calcinosis",
+    "Postsurgical hypoparathyroidism"
+   ],
+   "ans": 0,
+   "exp": "Lower-limb-predominant rickets with isolated phosphate wasting matches the source phenotype, rather than a primary calcium/PTH disorder. (Book p891)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among causes of renal phosphate wasting on this page?",
+   "opts": [
+    "FGF23 loss-of-function calcinosis",
+    "Proximal tubular dysfunction",
+    "Tubular injury",
+    "Hypophosphatemic rickets"
+   ],
+   "ans": 0,
+   "exp": "The renal causes include proximal tubular dysfunction/type II RTA, inherited rickets and tubular injury; loss of FGF23 action promotes phosphate retention. (Book p891)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An adult develops bone pain, weakness and phosphate wasting from a mesenchymal tumor. What is the best mechanistic explanation?",
+   "opts": [
+    "Tumor-derived FGF23 excess",
+    "Tumor-derived FGF23 deficiency",
+    "Autonomous calcitonin deficiency",
+    "Suppressed proximal phosphate transport from absent PTH"
+   ],
+   "ans": 0,
+   "exp": "Tumor-induced osteomalacia is typically due to FGF23 secretion by a mesenchymal tumor. The source's 'gain-of-function mutation' shorthand should not imply that such a mutation is required in every case. (Book p891)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The source's daily phosphorus requirement entry is ___, while each listed Adphos tablet is ___.",
+   "opts": [
+    "2 g; 250 mg",
+    "1 g; 250 mg",
+    "2 g; 500 mg",
+    "1 g; 500 mg"
+   ],
+   "ans": 0,
+   "exp": "The page prints a 2 g daily requirement and 250 mg Adphos tablets; the requirement is a source-specific teaching value, not a universal dietary recommendation. (Book p891)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Using the page's low-fat-milk phosphate concentration of 0.9 mg/mL, 250 mL provides approximately ___ mg.",
+   "opts": [
+    "225",
+    "125",
+    "450",
+    "900"
+   ],
+   "ans": 0,
+   "exp": "0.9 × 250 = 225 mg. Low-fat milk is listed as an oral source for mild depletion. (Book p891)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following replacement entries — 1) Mild depletion 2) Severe depletion 3) Dietary source … A) IV phosphorus B) Oral phosphate tablets C) Low-fat milk",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The chapter separates oral replacement for mild disease from IV replacement for severe disease and also lists low-fat milk. (Book p891)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Which IV phosphorus regimen is printed for severe hypophosphatemia?",
+   "opts": [
+    "10 mg/kg over 12 hours",
+    "10 mg/kg over 2 hours",
+    "1 mg/kg over 12 hours",
+    "100 mg/kg over 2 hours"
+   ],
+   "ans": 0,
+   "exp": "The source gives 10 mg/kg over 12 hours. Actual IV phosphate prescribing requires a validated preparation-specific protocol, renal assessment and calcium/phosphate monitoring. (Book p891)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Compare the mild-phosphate entries: I The opening diagram labels asymptomatic 1–2.5 mg/dL as not needing treatment. II The final page discusses oral replacement for mild disease.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Both statements occur in the source. They should not be collapsed into a universal treat-all or treat-none rule. (Book p891)"
+  }
+ ]
+}

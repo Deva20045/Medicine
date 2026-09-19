@@ -1,0 +1,210 @@
+{
+ "page": 892,
+ "sec": "Magnesium: intestinal and nephron transport",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "The normal magnesium interval printed here is ___ mEq/L.",
+   "opts": [
+    "1.5–2",
+    "0.5–1",
+    "2.5–3",
+    "3.5–4"
+   ],
+   "ans": 0,
+   "exp": "The chapter uses 1.5–2 mEq/L; units must be checked before comparing numerical values. (Book p892)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "A magnesium result of 1 mmol/L is equivalent to which pair?",
+   "opts": [
+    "2 mEq/L and 2.4 mg/dL",
+    "1 mEq/L and 2.4 mg/dL",
+    "2 mEq/L and 4.8 mg/dL",
+    "1 mEq/L and 1.2 mg/dL"
+   ],
+   "ans": 0,
+   "exp": "Divalent magnesium gives 2 mEq per mmol, and its molar mass gives approximately 2.4 mg/dL per mmol/L. (Book p892)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Magnesium is the ___ most abundant intracellular cation, after ___.",
+   "opts": [
+    "Second; potassium",
+    "Second; sodium",
+    "First; potassium",
+    "Third; calcium"
+   ],
+   "ans": 0,
+   "exp": "The source ranks intracellular potassium first and magnesium second. (Book p892)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following magnesium absorption entries — 1) Principal intestinal site 2) Net dietary absorption 3) Paracellular share … A) 80–90% B) Ileum C) 30%",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The chapter assigns the ileum, 30% net absorption and 80–90% paracellular transport. (Book p892)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out in the page's ileal-absorption association?",
+   "opts": [
+    "Calcium as the principal jejunal mineral",
+    "Magnesium as the ileal mineral",
+    "Vitamin B12 with intrinsic factor",
+    "Bile acids in enterohepatic cycling"
+   ],
+   "ans": 0,
+   "exp": "The source groups magnesium with ileal B12 and bile-acid absorption, while its calcium comparison emphasizes the jejunum. (Book p892)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The channels named for transcellular intestinal magnesium uptake are ___ and ___.",
+   "opts": [
+    "TRPM6; TRPM7",
+    "TRPV5; TRPV6",
+    "ROMK; ENaC",
+    "ClC-Kb; CFTR"
+   ],
+   "ans": 0,
+   "exp": "The source identifies TRPM6/7 for magnesium, unlike TRPV channels used in calcium transport. (Book p892)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with an inherited thiazide-like salt-wasting phenotype develops hypomagnesemia. Which defect fits the source link?",
+   "opts": [
+    "DCT sodium–chloride cotransporter defect",
+    "TAL calcium-sensing receptor loss",
+    "Collecting-duct vasopressin receptor activation",
+    "PCT sodium–phosphate transporter activation"
+   ],
+   "ans": 0,
+   "exp": "Gitelman syndrome involves the DCT Na–Cl cotransporter, and thiazides can produce a related magnesium-wasting phenotype. (Book p892)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following renal magnesium shares — 1) TAL 2) PCT 3) DCT … A) 65% B) 25% C) 10%",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "The table gives TAL 65%, PCT 25% and DCT 10%; do not confuse this order with calcium handling. (Book p892)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess renal magnesium transport: I TAL and PCT uptake are described as active/transcellular. II DCT uptake is described as active/transcellular.",
+   "opts": [
+    "I false; II true",
+    "I true; II false",
+    "Both true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "These route distinctions explain why the DCT uses regulated magnesium channels while bulk TAL transport follows the paracellular pathway. (Book p892)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient receiving cetuximab develops magnesium wasting. Which pathway is most directly implicated?",
+   "opts": [
+    "EGF regulation of DCT TRPM6",
+    "PTH activation of PCT NaPi-IIa",
+    "Calcitonin regulation of collecting-duct ENaC",
+    "Vitamin D activation of TAL ROMK"
+   ],
+   "ans": 0,
+   "exp": "EGF regulates TRPM6 in the DCT; EGFR blockade by cetuximab interferes with magnesium conservation. (Book p892)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The TAL paracellular proteins carrying calcium and magnesium are claudin ___ and ___.",
+   "opts": [
+    "16; 19",
+    "1; 2",
+    "5; 7",
+    "10; 14"
+   ],
+   "ans": 0,
+   "exp": "The schematic names claudin-16/19; defects can impair renal divalent-cation handling. (Book p892)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Blood calcium rises and activates the TAL calcium-sensing receptor. What direction of calcium reabsorption is shown?",
+   "opts": [
+    "Decreased calcium reabsorption",
+    "Increased calcium reabsorption",
+    "Unchanged reabsorption at every calcium level",
+    "Complete conversion to transcellular transport"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows high blood calcium activating CaSR, which inhibits calcium reabsorption; TAL salt transport supplies the driving force for paracellular Ca/Mg handling. (Book p892)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following TAL diagram components — 1) NKCC2 2) ROMK 3) ClC-Kb/Barttin … A) Potassium recycling B) Basolateral chloride exit machinery C) Na–K–2Cl entry",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "NKCC2 and ROMK support the lumen-positive driving force; ClC-Kb and its Barttin partner provide basolateral chloride handling in the figure. (Book p892)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "For Bartter type 1, assess: I The source highlights hypercalciuria. II Its written hypomagnesuria label is a reliable description of a magnesium-wasting mechanism.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The note associates type 1 with hypercalciuria and gives a 20% frequency for a magnesium abnormality, but writes hypomagnesuria. That word means low urinary magnesium and conflicts with magnesium wasting; do not silently equate it with hypomagnesemia. (Book p892)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following DCT diagram labels to roles — 1) EGFR 2) Na/K-ATPase 3) TRPM6/7 … A) Apical magnesium entry B) Basolateral sodium/potassium gradient C) EGF signaling receptor",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "These labeled components connect growth-factor signaling and basolateral ion gradients to magnesium entry through TRPM channels. (Book p892)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The DCT figure labels SLC41A1 or CNNM2 near the basolateral ___ pathway.",
+   "opts": [
+    "Magnesium exit",
+    "Iodide entry",
+    "Phosphate entry",
+    "Calcium sensing"
+   ],
+   "ans": 0,
+   "exp": "The figure places these magnesium-handling proteins at the basolateral side, not at the apical TRPM entry site. (Book p892)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the DCT illustration: I Kir4.1/Kir5.1 are shown as basolateral potassium-channel partners. II HNF1B/PCBD1 are presented as regulatory labels, not luminal magnesium pores.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The diagram separates basolateral potassium handling and regulatory factors from TRPM-mediated apical magnesium entry. (Book p892)"
+  }
+ ]
+}
