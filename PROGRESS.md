@@ -61,11 +61,11 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 33 | Basics of Bone and Mineral Metabolism | p863 | **LIVE**
 | 34 | Calcium Metabolism | p874 | **LIVE**
 | 35 | Hypercalcemia | p877 | **LIVE**
-| 36 | Hypocalcemia | p883 | SOON
-| 37 | Phosphorus Metabolism | p887 | SOON
-| 38 | Magnesium Metabolism | p892 | SOON
-| 39 | Osteoporosis | p895 | SOON
-| 40 | Basics of Thyroid Gland | p898 | SOON
+| 36 | Hypocalcemia | p883 | **LIVE**
+| 37 | Phosphorus Metabolism | p887 | **LIVE**
+| 38 | Magnesium Metabolism | p892 | **LIVE**
+| 39 | Osteoporosis | p895 | **LIVE**
+| 40 | Basics of Thyroid Gland | p898 | **LIVE**
 | 41 | Thyroid Function Tests | p902 | SOON
 | 42 | Hypothyroidism | p905 | SOON
 | 43 | Thyrotoxicosis and Thyroiditis | p910 | SOON
@@ -192,7 +192,8 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 33 "Basics of Bone and Mineral Metabolism" (p863–873): 6 units, 89 questions — BUILT & VERIFIED**
 - [x] **Ch 34 "Calcium Metabolism" (p874–876): 3 units, 29 questions — BUILT & VERIFIED**
 - [x] **Ch 35 "Hypercalcemia" (p877–882): 6 units, 64 questions — BUILT & VERIFIED**
-- [ ] Ch 36–74 (per pipeline above)
+- [x] **Ch 36–40 (p883–901): 19 units, 272 questions — BUILT & VERIFIED**
+- [ ] Ch 41–59 and 62–74 (Ch 60–61 already live)
 
 ## NEXT
 **Ch 6–15 re-audited (Book p734–785) — see `REAUDIT_CH6-15.md`.** Ch 19–22 (p805–818,
@@ -270,7 +271,9 @@ See **`REPORT_CH60-61.md`**.
 **Bank total: 2843 questions · 243 units · 37 live chapters**, all 187 in-scope pages
 p705–882, p1001–1009 represented.
 
-**Next: Ch 62 "Hepatic Encephalopathy" (p1010) onward.**
+**Next sequential chapter: Ch 41 "Thyroid Function Tests" (p902).**
+
+Ch 62 remains the next pending chapter in the separate hepatology sequence.
 
 ### Re-audit pipeline (used for Ch 13–25)
 1. `_render` every book page to PNG and zoom into each unclear line/table/arrow.
@@ -289,3 +292,20 @@ p705–882, p1001–1009 represented.
 ## Live
 - Preview: https://deva20045.github.io/Medicine/ (updates after merge to `main`)
 - App file: `pulse-medicine.html` (also at `/pulse-medicine.html`)
+
+
+## Latest batch — Chapters 36–40 (2026-09-19)
+
+**272 new questions · 19 units · all 19 pages p883–901.**
+Ch 36: 53 q / 4 u; Ch 37: 62 q / 5 u; Ch 38: 48 q / 3 u;
+Ch 39: 50 q / 3 u; Ch 40: 59 q / 4 u.
+
+All five requested question styles are present in every chapter. Page-by-page
+coverage, source-error handling and verification details: **REPORT_CH36-40.md**.
+The runtime regression now exercises both correct and incorrect answer paths for
+every new question, including board/blank rendering and unit completion.
+
+**Current bank total: 3,115 questions · 262 units · 42 live chapters**, covering
+206 pages (p705–901 and p1001–1009). Earlier totals above are historical snapshots.
+
+**Next: Ch 41, Thyroid Function Tests (p902–904).**

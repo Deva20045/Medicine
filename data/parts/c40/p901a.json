@@ -1,0 +1,210 @@
+{
+ "page": 901,
+ "sec": "Iodine, deiodinases and non-thyroidal illness",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following source iodine entries — 1) Adult requirement 2) Pregnancy requirement 3) Daily urinary repletion entry … A) >100 µg B) 220 µg/day C) 150 µg/day",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "The source prints adult 150 µg/day, pregnancy 220 µg/day and daily urinary iodine >100 µg. Do not confuse this daily amount with population urinary iodine concentrations in µg/L. (Book p901)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A nuclear-medicine note concerns thyroid radioablation for Graves disease. Which isotope is paired with that use on the page?",
+   "opts": [
+    "Iodine-131",
+    "Iodine-125",
+    "Technetium-99m alone",
+    "Fluorine-18"
+   ],
+   "ans": 0,
+   "exp": "The source assigns I-131 to radioablation and I-125 to brachytherapy; these therapy notes should not be confused with all diagnostic scintigraphy protocols. (Book p901)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the isotope note: I I-125 is paired with Graves radioablation. II Brachytherapy is a diagnostic thyroid-uptake scan.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "Brachytherapy is localized radiation treatment, not a thyroid-uptake scan; the source heading groups unlike applications. (Book p901)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The principal enzyme family responsible for peripheral T4-to-T3 conversion is the ___.",
+   "opts": [
+    "Deiodinases",
+    "Dehydrogenases",
+    "Aromatases",
+    "Hydroxylases"
+   ],
+   "ans": 0,
+   "exp": "Deiodination activates T4 to T3 or inactivates hormone depending on the isoenzyme and ring involved. (Book p901)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following deiodinase distributions — 1) Type I 2) Type II 3) Type III … A) Liver/kidney B) CNS/thyroid/pituitary C) Placenta/hemangioma",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "These are the site groups printed in the three-column table; type II is labeled most abundant by the source. (Book p901)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A very large hemangioma is associated with accelerated thyroid-hormone inactivation. Which enzyme is the best match?",
+   "opts": [
+    "Type III deiodinase",
+    "Type I deiodinase",
+    "Type II deiodinase",
+    "Thyroid peroxidase"
+   ],
+   "ans": 0,
+   "exp": "The type III column includes hemangioma and conversion of T4 to reverse T3, consistent with an inactivating pathway. (Book p901)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following deiodinase functions — 1) Type I 2) Type II 3) Type III … A) Local T4 to T3 activation B) Reverse-T3 degradation C) T4 to reverse T3",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The table emphasizes rT3 clearance for type I, T3 generation for type II and rT3 formation for type III. (Book p901)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "In the source's illness model, assess: I Reduced type-II activity is followed by type-III activation. II Type III is an activating T4-to-T3 enzyme.",
+   "opts": [
+    "I true; II false",
+    "Both true",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The schematic depicts D2 inhibition followed by D3 activation, including a skeletal-muscle note; D3 inactivates rather than activates thyroid hormone. (Book p901)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the deiodinase inhibitors listed?",
+   "opts": [
+    "Methimazole",
+    "Propylthiouracil",
+    "Amiodarone",
+    "Propranolol"
+   ],
+   "ans": 0,
+   "exp": "PTU, amiodarone, steroids and propranolol are listed; methimazole's principal action is intrathyroidal TPO inhibition rather than peripheral conversion blockade. (Book p901)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Besides PTU, amiodarone and propranolol, the listed drug class reducing peripheral conversion is ___.",
+   "opts": [
+    "Glucocorticoids",
+    "Bisphosphonates",
+    "Aminoglycosides",
+    "Thiazides"
+   ],
+   "ans": 0,
+   "exp": "Steroids are the fourth entry in the deiodinase-inhibitor list. (Book p901)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The table gives free fractions of T3 and T4 as approximately ___ and ___ respectively.",
+   "opts": [
+    "0.3–0.4%; 0.02%",
+    "0.02%; 0.3–0.4%",
+    "3–4%; 0.2%",
+    "0.03–0.04%; 2%"
+   ],
+   "ans": 0,
+   "exp": "T3 has the greater free fraction in the source comparison; the decimal places matter. (Book p901)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following T3/T4 properties — 1) T3 half-life 2) T4 half-life 3) Relative biological potency … A) About one day B) T3:T4 about 4:1 C) About one week",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "The table lists one day versus one week. Its row labeled 'Pathway' with values 4 and 1 is interpreted as relative potency, not four separate synthesis pathways. (Book p901)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "After several days of fasting during critical illness, a patient has low T3, high reverse T3, and initially normal T4 and TSH. Which pattern matches the source?",
+   "opts": [
+    "Early non-thyroidal illness syndrome",
+    "Primary hypothyroidism",
+    "T3-predominant thyrotoxicosis",
+    "Autonomous TSH secretion"
+   ],
+   "ans": 0,
+   "exp": "The early sick-euthyroid/low-T3 stage is T3 down, rT3 up and T4/TSH initially normal in the diagram. (Book p901)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess thyroid testing in critical illness: I ICU admission excludes coexisting intrinsic thyroid disease. II Thyroid testing remains appropriate when there is a specific clinical suspicion.",
+   "opts": [
+    "I false; II true",
+    "I true; II false",
+    "Both true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Non-thyroidal illness complicates interpretation; it does not prohibit testing for a genuine thyroid indication. (Book p901)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "In the source's middle-stage schematic, TSH and T3 ___, whereas reverse T3 and T4 ___.",
+   "opts": [
+    "Fall; rise",
+    "Rise; fall",
+    "Rise; rise",
+    "Fall; fall"
+   ],
+   "ans": 0,
+   "exp": "That is the printed middle-stage pattern. The T4 rise is not a required universal trajectory; real non-thyroidal illness can have normal or low T4 depending on severity and context. (Book p901)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following source illness stages — 1) Early 2) Middle 3) Late … A) All four hormone entries fall B) TSH/T3 low, rT3/T4 high in this diagram C) T3 low/rT3 high, T4 and TSH initially normal",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "The three-stage chart ends in rapid catabolism with lower T4, TSH, rT3 and T3. It is a teaching schematic, not a mandatory sequence in every patient. (Book p901)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A critically ill patient's late-stage chart shows all measured thyroid-related hormones falling. Which explanation is printed at that stage?",
+   "opts": [
+    "Rapid catabolism of all hormones",
+    "Autonomous pituitary TSH secretion",
+    "New isolated thyroid adenoma",
+    "Failure of every laboratory assay"
+   ],
+   "ans": 0,
+   "exp": "The final branch labels rapid catabolism with falls in T4, TSH, rT3 and T3; clinical interpretation must still consider medications and genuine thyroid disease. (Book p901)"
+  }
+ ]
+}

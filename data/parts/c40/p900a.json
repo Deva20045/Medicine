@@ -1,0 +1,210 @@
+{
+ "page": 900,
+ "sec": "Thyroid hormone synthesis and transport defects",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following membrane events — 1) Basolateral iodide entry 2) Apical iodide movement 3) TSH signal … A) Cl–I exchange by pendrin B) Na–I symport C) cAMP increase",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The schematic places NIS basolaterally, pendrin at the apical iodide pathway and TSH receptor signaling through cAMP. (Book p900)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The immediate second-messenger rise shown after TSH receptor binding is ___.",
+   "opts": [
+    "cAMP",
+    "cGMP",
+    "Ceramide",
+    "Nitric oxide"
+   ],
+   "ans": 0,
+   "exp": "The synthesis diagram labels increased cAMP below TSH receptor binding. (Book p900)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A transport defect prevents entry of iodide from blood into the follicular cell. Which transporter is primarily affected?",
+   "opts": [
+    "Sodium–iodide symporter",
+    "Pendrin chloride–iodide exchanger",
+    "TRPM6 magnesium channel",
+    "NaPi-IIc phosphate transporter"
+   ],
+   "ans": 0,
+   "exp": "NIS traps iodide across the basolateral membrane; pendrin acts later at the apical side. (Book p900)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following synthetic components — 1) TPO 2) DUOX2 3) Thyroglobulin … A) Thyroid peroxidase B) Tyrosine-rich scaffold C) Hydrogen-peroxide-generating system",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "TPO drives oxidation/organification and coupling using oxidizing equivalents supplied by DUOX2; thyroglobulin provides tyrosyl residues. (Book p900)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "At the apical thyroid interface, which system is required for iodination of thyroglobulin tyrosyl residues?",
+   "opts": [
+    "TPO with DUOX2-derived hydrogen peroxide",
+    "Type II deiodinase with reduced glutathione",
+    "NIS with basolateral sodium–potassium ATPase",
+    "Pendrin with lysosomal proteolytic enzymes"
+   ],
+   "ans": 0,
+   "exp": "Thyroid hormone organification requires TPO and hydrogen peroxide; the handwritten enzyme-independent label should not be learned as established physiology. (Book p900)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Coupling MIT with DIT yields ___, while DIT with DIT yields ___.",
+   "opts": [
+    "T3; T4",
+    "T4; T3",
+    "T3; reverse T3",
+    "T4; thyroglobulin"
+   ],
+   "ans": 0,
+   "exp": "The diagram gives MIT + DIT = T3 and DIT + DIT = T4 during coupling on thyroglobulin. (Book p900)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A synthetic defect leaves iodinated thyroglobulin available but prevents the coupling reaction. Which enzyme is most directly implicated?",
+   "opts": [
+    "Thyroid peroxidase",
+    "Type III deiodinase",
+    "Tyrosine hydroxylase",
+    "Phenylethanolamine N-methyltransferase"
+   ],
+   "ans": 0,
+   "exp": "TPO participates in coupling iodotyrosines as well as the earlier oxidation/organification chemistry. (Book p900)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following ordered events — 1) Colloid uptake into follicular cell 2) Proteolysis 3) Peripheral conversion … A) Release from thyroglobulin B) Retrieval of stored iodinated protein C) T4 converted to active T3",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The later diagram steps are uptake of stored thyroglobulin, proteolysis and release, followed by peripheral conversion of T4. (Book p900)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The source labels T4:T3 as ___ in the follicular stored material and ___ at hormone release.",
+   "opts": [
+    "15:1; 10:1",
+    "10:1; 15:1",
+    "1:15; 1:10",
+    "1:10; 1:15"
+   ],
+   "ans": 0,
+   "exp": "These are the two ratios printed at successive locations in the diagram; they are not interchangeable labels for a measured free-hormone serum ratio. (Book p900)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Evaluate iodide's acute effect in the release diagram: I An inhibitory arrow points from iodide to hormone release. II This means more iodide always increases immediate hormone release.",
+   "opts": [
+    "I true; II false",
+    "Both true",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The diagram marks acute iodide inhibition of release; iodine effects vary with dose, timing and underlying thyroid disease. (Book p900)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Only a minority of circulating T3 is secreted directly by the thyroid. Which source distribution best explains the remainder?",
+   "opts": [
+    "80% peripheral conversion, 20% direct synthesis",
+    "20% peripheral conversion, 80% direct synthesis",
+    "50% peripheral conversion, 50% direct synthesis",
+    "5% peripheral conversion, 95% direct synthesis"
+   ],
+   "ans": 0,
+   "exp": "The page assigns 80% to peripheral conversion and 20% to direct synthesis, emphasizing T4-to-T3 conversion. (Book p900)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among non-thyroid NIS-expressing tissues listed?",
+   "opts": [
+    "Parathyroid chief cells",
+    "Salivary gland",
+    "Breast",
+    "Placenta"
+   ],
+   "ans": 0,
+   "exp": "The source's 'silent' tissue list names salivary gland, breast and placenta. NIS expression does not imply thyroid-hormone production in these sites. (Book p900)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A nodule has reduced radionuclide uptake. Which conclusion avoids the source's overly broad 'cold nodule (malignant)' label?",
+   "opts": [
+    "Both benign and malignant nodules can be cold",
+    "Every cold nodule is a carcinoma",
+    "Every cold nodule is an autonomous toxic adenoma",
+    "Reduced uptake excludes carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Reduced NIS expression/uptake can occur in adenoma or carcinoma; a cold scan is not a histologic diagnosis of malignancy. (Book p900)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following inhibitors and steps — 1) Perchlorate/thiocyanate 2) Acute excess iodide 3) TPO inhibition … A) Impaired organification/coupling B) Reduced release C) Reduced iodide trapping",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Perchlorate and thiocyanate compete at iodide uptake; excess iodide acutely inhibits release; TPO inhibition affects organification and coupling. (Book p900)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess iodide-uptake blockers: I Perchlorate and thiocyanate inhibit NIS-mediated uptake. II Both are routine first-line treatments for every form of amiodarone thyrotoxicosis.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The pharmacologic uptake inhibition is useful to learn, but thiocyanate is not a routine treatment and perchlorate use is restricted by toxicity and setting. (Book p900)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A child has goiter and sensorineural hearing loss with an autosomal-recessive apical iodide-transport defect. Which diagnosis fits?",
+   "opts": [
+    "Pendred syndrome",
+    "DiGeorge syndrome",
+    "Albright hereditary osteodystrophy",
+    "MEN2B"
+   ],
+   "ans": 0,
+   "exp": "Pendred syndrome involves pendrin, a chloride–iodide exchanger, with goiter and SNHL; the source spells it 'Pendrin syndrome.' (Book p900)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Pendred syndrome's inheritance pattern is ___, and the transporter exchanges ___ with iodide.",
+   "opts": [
+    "Autosomal recessive; chloride",
+    "Autosomal dominant; sodium",
+    "X-linked recessive; potassium",
+    "Autosomal dominant; calcium"
+   ],
+   "ans": 0,
+   "exp": "The source labels the pendrin defect AR and identifies Cl−/I− antiport, distinct from the sodium–iodide symporter. (Book p900)"
+  }
+ ]
+}

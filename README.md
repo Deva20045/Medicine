@@ -50,7 +50,12 @@ rest show a **Soon** badge.
 | Ch 33 · Basics of Bone and Mineral Metabolism (p863–873) — 6 units, 89 questions | ✅ live |
 | Ch 34 · Calcium Metabolism (p874–876) — 3 units, 29 questions | ✅ live |
 | Ch 35 · Hypercalcemia (p877–882) — 6 units, 64 questions | ✅ live |
-| Ch 36–59 (Endocrinology, General Hepatology) | 🚧 in progress |
+| Ch 36 · Hypocalcemia (p883–886) — 4 units, 53 questions | ✅ live |
+| Ch 37 · Phosphorus Metabolism (p887–891) — 5 units, 62 questions | ✅ live |
+| Ch 38 · Magnesium Metabolism (p892–894) — 3 units, 48 questions | ✅ live |
+| Ch 39 · Osteoporosis (p895–897) — 3 units, 50 questions | ✅ live |
+| Ch 40 · Basics of Thyroid Gland (p898–901) — 4 units, 59 questions | ✅ live |
+| Ch 41–59 (Endocrinology, General Hepatology) | 🚧 in progress |
 | Ch 60 · Portal Hypertension (p1001–1004) — 8 units, 86 questions | ✅ live on this branch |
 | Ch 61 · Ascites and Hepatorenal Syndrome (p1005–1009) — 8 units, 81 questions | ✅ live on this branch |
 | Ch 62–74 (Hepatology, Viral Hepatitis, Infectious Diseases) | 🚧 in progress |
@@ -66,12 +71,13 @@ roadmap, data schema, per-chapter pipeline, and NEXT step.
 | `data/chNN.json` | Extracted question bank (one JSON per live chapter) |
 | `build_content.py` | Inlines `data/ch*.json` into `pulse-medicine.html` |
 | `check_integrity.py` | CI gate: schema, sequence, exact count, 1-to-1 sync |
-| `check_app_smoke.js` | Headless browser smoke test (all live chapters) |
+| `check_app_smoke.js` | DOM-shim runtime smoke test (all live chapters; full Ch 36–40 quiz flows) |
 | `audit_variety.py` | Quality audit (formats, length-bias, leaks, repeats) |
 | `author.py` | Assembles `data/chNN.json` from the ordered parts, with quality gates |
 | `REAUDIT.md` | Re-audit report for Ch 13–18 (before → after, coverage, verification) |
 | `REPORT_CH23-25.md` | Build report for the Acid–Base chapters (coverage, metrics, verification) |
 | `REPORT_CH26-35.md` | Build report for Ch 26–35 (Endocrinology + Bone/Mineral; coverage, metrics, verification) |
+| `REPORT_CH36-40.md` | Build report for Ch 36–40 (coverage, quality metrics, source caveats, verification) |
 | `REPORT_CH60-61.md` | Build report for Ch 60–61 (Portal Hypertension, Ascites and HRS) |
 
 ## Run the checks (after any content change)

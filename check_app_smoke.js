@@ -2,7 +2,7 @@
 /*
  * Dependency-free runtime smoke test for the standalone PULSE Medicine app.
  * It runs the inline application script against a minimal DOM shim, then checks
- * the full roadmap (live + "Soon") and a live Chapter 1 quiz flow. It complements
+ * the full roadmap (live + "Soon") and full correct/incorrect quiz flows for Chapters 36–40. It complements
  * the structural checks in check_integrity.py; it is not a visual-browser test.
  */
 'use strict';
@@ -83,6 +83,10 @@ vm.runInContext(`${scriptMatch[1]}
 
 globalThis.__PULSE_SMOKE__ = {
   QUESTIONS, UNITS, CHAPTERS, QBYID, unitsOf,
+  startUnit(id) { curUnit = UNITS.find(u => u.id === id); curCh = curUnit.ch; beginUnit(); },
+  current() { return order[idx]; },
+  next() { nextQ(); },
+  state() { return {locked, correct, wrong: wrongList.length, xp: xpGain, idx}; },
   chapters() { renderChapters(); },
   path(number) { curCh = number; renderPath(); },
   start(number) { curCh = number; curUnit = unitsOf(number)[0]; beginUnit(); return curUnit; }
@@ -147,6 +151,49 @@ for (const chapter of source) {
     `First Chapter ${number} question does not start at its Book page.`);
 }
 
+// Exercise every new question with both right and wrong selections. This also
+// verifies option-shuffle answer mapping, matching boards, citations, double-click
+// locking, completion scores and the missed-question review. It is a DOM-shim
+// runtime regression, not a visual-browser or medical-correctness test.
+const newUnits = sourceUnits.filter(u => u.ch >= 36 && u.ch <= 40);
+let exercised = 0;
+for (const unit of newUnits) {
+  for (const wantCorrect of [true, false]) {
+    pulse.startUnit(unit.id);
+    for (const id of unit.qs) {
+      const current = pulse.current();
+      assert(current.q.id === id, `${id}: source order changed at runtime.`);
+      assert(elements.get('opts').children.length === 4, `${id}: missing options.`);
+      if (current.q.fmt === 'match') {
+        assert(!elements.get('qboard').classList.contains('hidden'), `${id}: missing matching board.`);
+        assert(elements.get('qboard').innerHTML.includes('List II'), `${id}: missing second list.`);
+      }
+      if (current.q.fmt === 'fillup') {
+        assert(elements.get('qtext').innerHTML.includes('class="blank"'), `${id}: missing fill-up blank.`);
+      }
+      const answerIndex = current.opts.findIndex(o => o.ok === wantCorrect);
+      assert(answerIndex >= 0, `${id}: shuffled answer lost.`);
+      const buttons = elements.get('opts').children;
+      buttons[answerIndex].onclick();
+      const before = JSON.stringify(pulse.state());
+      assert(pulse.state().locked, `${id}: answer did not lock.`);
+      assert([...buttons].every(b => b.disabled), `${id}: options still enabled.`);
+      buttons[(answerIndex + 1) % 4].onclick();
+      assert(JSON.stringify(pulse.state()) === before, `${id}: second click changed score.`);
+      assert(elements.get('fb').innerHTML.includes(`BOOK P${current.q.page}`), `${id}: missing citation.`);
+      assert(elements.get('fb').className.includes(wantCorrect ? 'good' : 'bad'), `${id}: incorrect feedback state.`);
+      assert(!elements.get('nextBtn').classList.contains('hidden'), `${id}: cannot advance.`);
+      pulse.next();
+      exercised++;
+    }
+    const n = unit.qs.length;
+    assert(elements.get('dScore').textContent === `${wantCorrect ? n : 0}/${n}`, `${unit.id}: wrong completion score.`);
+    assert(pulse.state().wrong === (wantCorrect ? 0 : n), `${unit.id}: wrong review count.`);
+    assert(!elements.get('unitdone').classList.contains('hidden'), `${unit.id}: completion screen hidden.`);
+  }
+}
+console.log(`PASS: ${exercised} new-question answer paths across ${newUnits.length} units; matching boards, blanks, feedback, locking and completion verified.`);
+
 console.log(`PASS: roadmap of ${pulse.CHAPTERS.length} chapters (${liveCount} live, rest "Soon"), ` +
   `Chapter ${source.map((c) => c.chapter).join(', ')} path data and quiz starts, and final ` +
-  `questions render at runtime.`);
+  `question IDs resolve at runtime.`);
