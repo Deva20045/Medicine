@@ -1,0 +1,150 @@
+{
+ "page": 913,
+ "sec": "Thyroid storm, neonatal thyrotoxicosis, surgery complications",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following thyroid-storm feature — 1) Trigger 2) Burch-Wartofsky component 3) First-line thionamide 4) Adjunct … A) Infection / surgery / trauma B) Score ≥ 45 suggests storm C) Propylthiouracil D) Iodine (≥1 h after thionamide) + beta-blocker + steroid",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-D, 2-B, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Triggers include infection, surgery and trauma; Burch-Wartofsky ≥ 45 suggests storm; PTU is preferred in storm; iodine is given at least one hour after thionamide along with beta-blocker and steroid. (Book p913)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with Graves disease post-appendicectomy has fever 39.5 °C, HR 158/min, agitation and jaundice. The most likely diagnosis is:",
+   "opts": [
+    "Thyroid storm (correct answer)",
+    "Septic shock alone",
+    "Neuroleptic malignant syndrome",
+    "Malignant hyperthermia"
+   ],
+   "ans": 0,
+   "exp": "High fever, tachyarrhythmia, agitation and jaundice after a precipitating event in Graves fit thyroid storm. (Book p913)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess thyroid storm management: I Iodine should precede the thionamide. II IV hydrocortisone is part of the regimen.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "Iodine is given at least one hour after the thionamide to avoid substrate for new hormone; hydrocortisone covers possible adrenal insufficiency and reduces T4-to-T3 conversion. (Book p913)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a treatment used in thyroid storm?",
+   "opts": [
+    "Lithium reinfusion",
+    "Propylthiouracil",
+    "Propranolol",
+    "Hydrocortisone"
+   ],
+   "ans": 0,
+   "exp": "PTU, propranolol and hydrocortisone are standard; lithium is not standard storm therapy (it can be adjunct in severe cases but not routine). (Book p913)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The Burch-Wartofsky score ≥ ___ suggests thyroid storm.",
+   "opts": [
+    "45",
+    "20",
+    "70",
+    "10"
+   ],
+   "ans": 0,
+   "exp": "A score of 45 or more on the Burch-Wartofsky scale is highly suggestive of thyroid storm. (Book p913)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following context — 1) Neonatal thyrotoxicosis 2) Postpartum Graves 3) Subclinical thyrotoxicosis 4) Apathetic thyrotoxicosis … A) Transplacental TRAb; treat with thionamide B) May flare after delivery C) TSH < 0.1 with normal free hormones D) Elderly with apathy rather than hyperactivity",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-D, 2-B, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Neonatal thyrotoxicosis is from transplacental TRAb; postpartum Graves may flare after delivery; subclinical thyrotoxicosis has low TSH with normal free hormones; apathetic thyrotoxicosis presents with apathy in elderly. (Book p913)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A neonate born to a mother with active Graves disease has tachycardia, irritability and poor weight gain. The most appropriate therapy is:",
+   "opts": [
+    "Methimazole + propranolol",
+    "Radioiodine (alternative)",
+    "Total thyroidectomy",
+    "Levothyroxine (alternative)"
+   ],
+   "ans": 0,
+   "exp": "Neonatal thyrotoxicosis is treated with thionamide (methimazole preferred after first weeks) plus a beta-blocker; iodide can be added. (Book p913)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess neonatal thyrotoxicosis: I It is caused by transplacental TSH-receptor antibodies. II It typically resolves as maternal antibodies clear over weeks.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Maternal TRAb crosses the placenta; symptoms resolve over weeks to months as antibodies wane. (Book p913)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following surgical complication of thyroidectomy — 1) Hypoparathyroidism 2) Recurrent laryngeal nerve injury 3) Haematoma with airway compromise 4) Hypothyroidism … A) Hypocalcaemia with tetany B) Hoarseness / stridor C) Emergency airway decompression D) Expected after total thyroidectomy",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Hypoparathyroidism causes hypocalcaemia and tetany; recurrent laryngeal nerve injury causes hoarseness or stridor; neck haematoma is an airway emergency; hypothyroidism is expected after total thyroidectomy. (Book p913)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient has stridor and a tense neck haematoma within hours of thyroidectomy. The next step is:",
+   "opts": [
+    "Emergency wound decompression at the bedside",
+    "IV calcium gluconate only",
+    "CT scan of the neck before intervention",
+    "Intubation only after imaging"
+   ],
+   "ans": 0,
+   "exp": "Post-thyroidectomy haematoma with airway compromise requires immediate opening of the wound at the bedside before definitive airway. (Book p913)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Bilateral recurrent laryngeal nerve injury post-thyroidectomy can cause ___.",
+   "opts": [
+    "Bilateral vocal-cord paralysis and airway obstruction",
+    "Hypercalcaemia (alternative)",
+    "Recurrent thyrotoxicosis (alternative)",
+    "Hypothyroid storm (alternative)"
+   ],
+   "ans": 0,
+   "exp": "Bilateral injury causes vocal-cord paralysis in the adducted position and acute airway obstruction requiring tracheostomy. (Book p913)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess surgery in Graves: I Total thyroidectomy achieves rapid control. II It is preferred in patients with active moderate ophthalmopathy.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Total thyroidectomy rapidly controls hyperthyroidism and is preferred in active ophthalmopathy to avoid RAI-induced flare. (Book p913)"
+  }
+ ]
+}

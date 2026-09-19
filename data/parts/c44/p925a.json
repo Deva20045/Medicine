@@ -1,0 +1,150 @@
+{
+ "page": 925,
+ "sec": "Pancreatic and drug-induced diabetes algorithm",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following pancreatic disease to its diabetes risk — 1) Chronic pancreatitis 2) Pancreatic ductal adenocarcinoma 3) Cystic fibrosis 4) Haemochromatosis … A) Most common cause of type 3c diabetes B) New-onset diabetes can be a presenting feature C) CFRD with insulin deficiency D) Iron deposition causing β-cell loss",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Chronic pancreatitis is the most common cause of type 3c; pancreatic cancer can present with new-onset diabetes; cystic fibrosis causes CFRD; haemochromatosis deposits iron in β-cells. (Book p925)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 65-year-old with new-onset diabetes has weight loss and epigastric pain; CT shows a pancreatic mass. The most consistent interpretation is:",
+   "opts": [
+    "New-onset diabetes as a presenting sign of pancreatic cancer",
+    "Type 2 diabetes with weight loss from low calorie diet",
+    "LADA (alternative)",
+    "MODY 2 (alternative)"
+   ],
+   "ans": 0,
+   "exp": "New-onset diabetes with weight loss and pancreatic mass raises suspicion for pancreatic ductal adenocarcinoma. (Book p925)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess type 3c: I Insulin therapy is usually required. II Metformin is the preferred first-line therapy in type 3c.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "Type 3c diabetes usually requires insulin because of combined endocrine and exocrine deficiency; metformin is not first-line. (Book p925)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a drug that causes hyperglycaemia?",
+   "opts": [
+    "Metformin (correct answer)",
+    "Glucocorticoids",
+    "Tacrolimus (alternative)",
+    "Antipsychotics (olanzapine)"
+   ],
+   "ans": 0,
+   "exp": "Metformin is hypoglycaemic; glucocorticoids, tacrolimus and olanzapine cause hyperglycaemia. (Book p925)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "New-onset diabetes after solid-organ transplantation is most commonly caused by ___ therapy.",
+   "opts": [
+    "Calcineurin inhibitor (tacrolimus / ciclosporin)",
+    "Angiotensin-converting enzyme inhibitor",
+    "HMG-CoA reductase inhibitor (statin)",
+    "Antiplatelet agent (aspirin)"
+   ],
+   "ans": 0,
+   "exp": "Calcineurin inhibitors, especially tacrolimus, are common causes of post-transplant diabetes. (Book p925)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following antibody result to its subtype on the page's algorithm — 1) High antibodies 2) Low antibodies 3) No antibodies … A) T1DM B) LADA C) T2DM or MODY",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "The algorithm maps high antibodies to T1DM, low antibodies to LADA and no antibodies to T2DM or MODY. (Book p925)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 45-year-old non-obese patient has high GAD antibody titre and progresses to insulin within 2 years. The most consistent diagnosis is:",
+   "opts": [
+    "LADA (correct answer)",
+    "T2DM (alternative)",
+    "MODY 2 (alternative)",
+    "Type 3c diabetes"
+   ],
+   "ans": 0,
+   "exp": "Slow autoimmune progression in non-obese adult fits LADA. (Book p925)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess this caveat: I The page's algorithm labels 'Low antibodies' as T1DM and 'High antibodies' as LADA. II The C-peptide table on p928 reverses these patterns.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The page's arrow scheme appears inverted (high antibody → T1DM, low → LADA); the C-peptide table on p928 uses the standard pattern (T1DM low C-peptide, LADA intermediate). Note this inconsistency when teaching. (Book p925)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following drug to its diabetogenic mechanism — 1) Glucocorticoids 2) Olanzapine 3) Tacrolimus 4) Pentamidine … A) Increase gluconeogenesis and IR B) Weight gain and IR via H1 antagonism C) Direct β-cell toxicity D) β-cell destruction causing hypoglycaemia then diabetes",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-D, 2-B, 3-A, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Steroids drive gluconeogenesis and insulin resistance; olanzapine causes weight gain and IR via histamine antagonism; tacrolimus has direct β-cell effects; pentamidine causes β-cell destruction with biphasic glycaemia. (Book p925)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with Cushing disease has worsening diabetes despite escalating metformin. The most appropriate next step is:",
+   "opts": [
+    "Treat the underlying hypercortisolism first",
+    "Add a sulfonylurea (alternative)",
+    "Switch to insulin only (alternative)",
+    "Add SGLT2 inhibitor as monotherapy"
+   ],
+   "ans": 0,
+   "exp": "Treating the underlying hypercortisolism is essential; insulin is often needed regardless until cortisol is controlled. (Book p925)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Pentamidine is associated with ___ glycaemia initially, then diabetes.",
+   "opts": [
+    "Hypo (correct answer)",
+    "Hyper (alternative)",
+    "No change in",
+    "Erratic but not hypo"
+   ],
+   "ans": 0,
+   "exp": "Pentamidine initially causes hypoglycaemia through β-cell destruction, followed by diabetes. (Book p925)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess these diabetogenic drugs: I Protease inhibitors can cause insulin resistance. II Niacin causes hyperglycaemia.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Protease inhibitors (especially indinavir) cause insulin resistance; niacin also worsens glycaemia. (Book p925)"
+  }
+ ]
+}

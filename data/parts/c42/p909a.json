@@ -1,0 +1,162 @@
+{
+ "page": 909,
+ "sec": "Subclinical hypothyroidism, myxoedema coma and review",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following follow-up plan — 1) Stable primary hypothyroidism 2) After dose change 3) Persistent symptoms despite normal TSH 4) Suspected non-compliance … A) Repeat TSH every 6–12 months B) Recheck TSH/FT3/FT4 at ~3 months C) Reassess adherence and drug interactions D) Re-evaluate diagnosis and consider T3 add-on",
+   "opts": [
+    "1-A, 2-B, 3-D, 4-C",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-A, 2-C, 3-D, 4-B",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Stable patients are monitored every 6–12 months; after dose changes recheck at 3 months; symptoms despite normal TSH prompt diagnosis review and possible T3 add-on; persistent abnormal labs are commonly due to non-compliance or interactions. (Book p909)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "On levothyroxine 100 µg a patient's TSH remains elevated at 9 mIU/L despite claims of adherence. Which step is most consistent with the page?",
+   "opts": [
+    "Assess adherence and drug interactions before increasing the dose",
+    "Immediately double the dose (alternative)",
+    "Switch to desiccated thyroid (alternative)",
+    "Add carbimazole (alternative)"
+   ],
+   "ans": 0,
+   "exp": "Persistent abnormal TFTs are most often due to non-compliance or interfering drugs; investigate before titrating. (Book p909)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess follow-up intervals: I Re-check at 3 months after a dose change. II Once TSH normal, taper can be attempted cautiously.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "After dose changes, TSH is rechecked at about 3 months; once TSH normal, slow taper may be attempted in selected patients (e.g. transient thyroiditis). (Book p909)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a transient cause where levothyroxine can eventually be tapered?",
+   "opts": [
+    "Permanent post-thyroidectomy state",
+    "Subacute thyroiditis (alternative)",
+    "Postpartum thyroiditis (alternative)",
+    "Drug-induced hypothyroidism after drug withdrawal"
+   ],
+   "ans": 0,
+   "exp": "Post-thyroidectomy hypothyroidism is permanent; the others are typically transient and may allow cautious taper once TSH normal. (Book p909)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Relief of hypothyroid symptoms typically occurs ___ months after TSH normalises.",
+   "opts": [
+    "3–6 (correct answer)",
+    "1–2 weeks",
+    "12–18 (alternative)",
+    "Immediately"
+   ],
+   "ans": 0,
+   "exp": "Symptomatic relief usually takes 3–6 months after biochemical normalisation; lipid and other parameters take longer. (Book p909)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following emergency therapy for myxoedema coma — 1) First-line hormone 2) Steroid 3) Supportive measure 4) Trigger work-up … A) IV levothyroxine (often with liothyronine) B) IV hydrocortisone C) Active warming, electrolytes, ventilation D) Infection, MI, cold exposure, sedatives",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Myxoedema coma is treated with IV levothyroxine plus hydrocortisone (until adrenal insufficiency is excluded), supportive measures (warming, ventilation) and search for triggers (infection, MI, cold, sedatives). (Book p909)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An obtunded hypothyroid patient is started on IV levothyroxine. Why is hydrocortisone added concurrently?",
+   "opts": [
+    "To cover possible coexisting adrenal insufficiency",
+    "To reduce TSH further (alternative)",
+    "To enhance levothyroxine absorption",
+    "To treat myxoedema directly (alternative)"
+   ],
+   "ans": 0,
+   "exp": "Concurrent adrenal insufficiency is possible; giving thyroid hormone first can precipitate adrenal crisis. Hydrocortisone is given until adrenal status is clear. (Book p909)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess myxoedema coma: I Active external rewarming is the recommended initial step. II IV levothyroxine should be withheld until adrenal insufficiency is excluded.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "Active rewarming can precipitate arrhythmia; passive rewarming is preferred. Levothyroxine should not be withheld — both levothyroxine and hydrocortisone are started empirically. (Book p909)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following common trigger of myxoedema coma — 1) Infection 2) Cold exposure 3) Sedatives 4) MI … A) Most common precipitant B) Winter decompensation C) CNS depressant D) Cardiovascular collapse",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Infection is the most common trigger; cold exposure causes winter decompensation; sedatives depress CNS; MI can precipitate cardiovascular collapse. (Book p909)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A hypothyroid patient with persistent symptoms despite normal TSH on levothyroxine 100 µg asks about adding T3. Which is the source's most consistent response?",
+   "opts": [
+    "Combination T4/T3 is not standard; review adherence and interactions first",
+    "Add liothyronine routinely (alternative)",
+    "Switch to desiccated thyroid immediately (alternative)",
+    "Increase T4 dose beyond weight-based target"
+   ],
+   "ans": 0,
+   "exp": "Combination therapy is not routinely recommended; first rule out adherence and drug interactions, then re-evaluate the diagnosis. (Book p909)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Persistent abnormal TFTs on adequate doses of levothyroxine are most often due to ___ or drug interactions.",
+   "opts": [
+    "Non-compliance",
+    "TPO mutation",
+    "Vitamin D excess",
+    "Adrenal insufficiency"
+   ],
+   "ans": 0,
+   "exp": "Non-compliance is the most common cause of persistently abnormal TFTs on replacement; drug interactions and malabsorption are close seconds. (Book p909)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess these caveats: I Desiccated thyroid is the source's preferred long-term replacement. II Liothyronine has a longer half-life than levothyroxine.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "Levothyroxine is the standard; liothyronine has a shorter half-life than levothyroxine. (Book p909)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among reversible causes of hypothyroidism that may allow taper?",
+   "opts": [
+    "Permanent Hashimoto thyroiditis",
+    "Subacute (de Quervain) thyroiditis",
+    "Postpartum thyroiditis (alternative)",
+    "Drug-induced hypothyroidism after withdrawal"
+   ],
+   "ans": 0,
+   "exp": "Hashimoto is permanent; the others are typically transient and may allow cautious taper. (Book p909)"
+  }
+ ]
+}

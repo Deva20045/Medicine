@@ -1,0 +1,150 @@
+{
+ "page": 903,
+ "sec": "Pituitary feedback, sick-euthyroid and resistance states",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the listed pituitary/hypothalamic feedback states to their typical free-hormone / TSH pattern — 1) Primary thyrotoxicosis 2) Sick-euthyroid (printed pattern) 3) Resistance to thyroid hormone (RTH) … A) ↑FT4, ↓TSH B) Normal FT4, normal TSH (printed totals look low) C) Normal/slightly raised FT4 with normal/raised TSH",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Primary thyrotoxicosis raises free T4/T3 and suppresses TSH; sick-euthyroid as printed leaves totals normal with rT3 high and free T3 low; RTH is associated with normal/raised free hormones and non-suppressed TSH. (Book p903)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An ICU patient has normal TSH, low total T3 and elevated rT3 one week after admission for sepsis. The most consistent interpretation is:",
+   "opts": [
+    "Sick-euthyroid syndrome",
+    "Primary hypothyroidism",
+    "TSH-secreting pituitary adenoma",
+    "Levothyroxine over-replacement"
+   ],
+   "ans": 0,
+   "exp": "Low T3 with high rT3 in critical illness fits the source's sick-euthyroid sequence; primary hypothyroidism would also raise TSH. (Book p903)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess these sick-euthyroid statements per the source: I T4 is normal in the early phase. II Reverse T3 typically rises because D3 activity dominates.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The page prints T4 as normal with T3 low and reverse T3 high early in non-thyroidal illness. (Book p903)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which condition is the odd one out among the source's TSH-suppressed (primary thyrotoxicosis) mimics?",
+   "opts": [
+    "Resistance to thyroid hormone (TRβ mutation)",
+    "Graves disease (alternative)",
+    "Toxic multinodular goitre",
+    "Toxic adenoma (alternative)"
+   ],
+   "ans": 0,
+   "exp": "RTH typically has non-suppressed TSH because the pituitary resists thyroid hormone feedback, unlike primary thyrotoxicosis where TSH is suppressed. (Book p903)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "In sick-euthyroid syndrome, the source lists elevated ___ as the most characteristic biochemical marker.",
+   "opts": [
+    "Reverse T3 (correct answer)",
+    "Total T4 (alternative)",
+    "Free T4 (alternative)",
+    "Sex-hormone-binding globulin"
+   ],
+   "ans": 0,
+   "exp": "Reverse T3 rises because deiodinase type-3 inactivates T4 to rT3 instead of activating it to T3. (Book p903)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient has persistently non-suppressed TSH with raised free T4 and a normal alpha-subunit / pituitary MRI. The most likely diagnosis is:",
+   "opts": [
+    "Resistance to thyroid hormone (RTH, TRβ)",
+    "TSH-secreting pituitary adenoma",
+    "Primary hyperthyroidism",
+    "Factitious thyrotoxicosis"
+   ],
+   "ans": 0,
+   "exp": "Non-suppressed TSH with raised free hormone and a normal MRI in a familial setting fits RTH; TSHoma typically raises the alpha-subunit and shows a sellar mass. (Book p903)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following state to the expected TSH/free-T4 print on the page — 1) Primary thyrotoxicosis 2) Primary hypothyroidism 3) TSHoma 4) Sick-euthyroid early … A) ↑FT4, ↓TSH B) ↓FT4, ↑TSH C) ↑FT4, non-suppressed TSH D) Total T3 ↓, rT3 ↑, TSH normal",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-A, 2-B, 3-D, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Primary thyrotoxicosis suppresses TSH; primary hypothyroidism raises TSH; TSHoma gives raised free hormone with non-suppressed TSH; early sick-euthyroid preserves total T4 with low T3 and high rT3. (Book p903)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Evaluate pituitary feedback: I RTH usually presents with low TSH and high free T4. II Sick-euthyroid syndrome typically produces normal TSH in its early stage.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "RTH has non-suppressed TSH; sick-euthyroid typically keeps TSH normal early. (Book p903)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "After cardiopulmonary bypass a patient is clinically euthyroid but has total T3 below range, rT3 above range and normal TSH. Which intervention is most consistent with the source?",
+   "opts": [
+    "No replacement — observe and treat the underlying illness",
+    "Start levothyroxine to normalise T3",
+    "Start liothyronine to normalise T3",
+    "Start methimazole to suppress T3"
+   ],
+   "ans": 0,
+   "exp": "Sick-euthyroid changes are adaptive; the source does not recommend routine hormone replacement for ICU patients. (Book p903)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which gene is the source's classic association with resistance to thyroid hormone?",
+   "opts": [
+    "TRβ (correct answer)",
+    "TRα (alternative)",
+    "NKX2-1",
+    "PAX8"
+   ],
+   "ans": 0,
+   "exp": "RTH is most commonly linked to thyroid-hormone receptor β mutations on the page. (Book p903)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "In critical illness, the source's preferred test for diagnosing underlying thyroid disease is ___.",
+   "opts": [
+    "Free T4 (and free T3) rather than total T4",
+    "Total T4 alone (alternative)",
+    "Urinary iodine (alternative)",
+    "Anti-TPO antibody alone (alternative)"
+   ],
+   "ans": 0,
+   "exp": "Total T4 is misleading because TBG and albumin drop in critical illness; free hormone assays are the page's preferred test. (Book p903)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a state where TSH typically rises (per the source's grouping)?",
+   "opts": [
+    "Sick-euthyroid syndrome (early)",
+    "Primary hypothyroidism",
+    "Recovery phase of thyroiditis",
+    "Iodine-deficient goitre"
+   ],
+   "ans": 0,
+   "exp": "Early sick-euthyroid syndrome keeps TSH normal, whereas primary hypothyroidism, recovery from thyroiditis and iodine deficiency all can elevate TSH. (Book p903)"
+  }
+ ]
+}

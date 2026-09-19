@@ -1,0 +1,647 @@
+{
+ "chapter": 41,
+ "title": "Thyroid Function Tests",
+ "pageRange": "902-904",
+ "questions": [
+  {
+   "id": "MED-C41-001",
+   "sec": "TFT overview, screening and binding-protein effects",
+   "page": 902,
+   "fmt": "match",
+   "q": "Match the following TFT indications to the source's classification — 1) Universal neonatal screen 2) Routine community screening in adults 3) High-yield targeted screen … A) All newborns B) Not recommended routinely C) Symptomatic / high-risk groups",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "The page recommends universal neonatal screening, advises against routine adult screening, and reserves tests for symptomatic or at-risk groups. (Book p902)"
+  },
+  {
+   "id": "MED-C41-002",
+   "sec": "TFT overview, screening and binding-protein effects",
+   "page": 902,
+   "fmt": "scenario",
+   "q": "A healthy 30-year-old has a free-T4 normal but total T4 elevated. Pregnancy is excluded and she is on combined oral contraceptive pills. The most consistent pattern is:",
+   "opts": [
+    "Low TBG with normal free T4",
+    "Familial dysalbuminaemic hyperthyroxinaemia only",
+    "Increased TBG with normal free hormone",
+    "Increased TSH with low free T4"
+   ],
+   "ans": 2,
+   "exp": "OCPs raise TBG; total T4/T3 rise with free hormone and TSH normal. This must be distinguished from the rare FDHS where albumin binds excess T4. (Book p902)"
+  },
+  {
+   "id": "MED-C41-003",
+   "sec": "TFT overview, screening and binding-protein effects",
+   "page": 902,
+   "fmt": "truefalse",
+   "q": "Assess these TBG-effect statements: I Estrogen, pregnancy and chronic active hepatitis raise TBG. II Nephrotic syndrome lowers TBG.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "OCPs, estrogen, pregnancy, steroid therapy and chronic active hepatitis raise TBG; nephrotic syndrome, androgen and chronic liver disease lower TBG. (Book p902)"
+  },
+  {
+   "id": "MED-C41-004",
+   "sec": "TFT overview, screening and binding-protein effects",
+   "page": 902,
+   "fmt": "match",
+   "q": "Match the following TBG change to its source — 1) ↑TBG 2) ↓TBG … A) Nephrotic syndrome B) Combined oral contraceptive pill",
+   "opts": [
+    "1-A, 2-B",
+    "Both decrease",
+    "Both increase",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "The source lists OCPs, pregnancy, steroids and chronic active hepatitis under TBG excess, and nephrotic syndrome with protein-losing states under TBG deficit. (Book p902)"
+  },
+  {
+   "id": "MED-C41-005",
+   "sec": "TFT overview, screening and binding-protein effects",
+   "page": 902,
+   "fmt": "scenario",
+   "q": "A patient on chronic glucocorticoids for SLE has normal free T4 and TSH, but total T4 is high. The biochemical mechanism is:",
+   "opts": [
+    "TPO-mediated overproduction of T4",
+    "Defective type-1 deiodinase",
+    "Antibody-bound T4 with low free hormone",
+    "Steroid-induced increase in TBG"
+   ],
+   "ans": 3,
+   "exp": "Corticosteroids raise TBG and therefore raise total T4/T3 while free hormones and TSH remain normal. (Book p902)"
+  },
+  {
+   "id": "MED-C41-006",
+   "sec": "TFT overview, screening and binding-protein effects",
+   "page": 902,
+   "fmt": "oddoneout",
+   "q": "Which condition is the odd one out compared with the others as a cause of raised TBG on this page?",
+   "opts": [
+    "Chronic active hepatitis",
+    "Nephrotic syndrome",
+    "Estrogen therapy",
+    "Pregnancy (alternative)"
+   ],
+   "ans": 1,
+   "exp": "Nephrotic syndrome lowers TBG; estrogen, pregnancy and chronic active hepatitis all raise TBG per the source. (Book p902)"
+  },
+  {
+   "id": "MED-C41-007",
+   "sec": "TFT overview, screening and binding-protein effects",
+   "page": 902,
+   "fmt": "fillup",
+   "q": "The most abundant thyroid-hormone transport protein on this page is ___, binding approximately two-thirds of circulating T4.",
+   "opts": [
+    "Thyroxine-binding globulin (TBG)",
+    "Transthyretin (prealbumin)",
+    "Albumin (alternative)",
+    "Lipoprotein(a)"
+   ],
+   "ans": 0,
+   "exp": "TBG carries the largest fraction of T4 and T3; prealbumin and albumin bind smaller portions. (Book p902)"
+  },
+  {
+   "id": "MED-C41-008",
+   "sec": "TFT overview, screening and binding-protein effects",
+   "page": 902,
+   "fmt": "truefalse",
+   "q": "Evaluate these source statements on neonatal screening: I It is universally recommended for all newborns. II It targets congenital hypothyroidism to prevent cretinism.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Universal newborn screening is standard practice because early levothyroxine prevents neurodevelopmental cretinism. (Book p902)"
+  },
+  {
+   "id": "MED-C41-009",
+   "sec": "TFT overview, screening and binding-protein effects",
+   "page": 902,
+   "fmt": "match",
+   "q": "Match the following drugs / states to their TBG effect — 1) Androgen 2) Chronic liver disease 3) Oestrogen therapy 4) Nephrotic syndrome … A) ↑TBG B) ↓TBG",
+   "opts": [
+    "1-B, 2-A, 3-A, 4-B",
+    "1-A, 2-B, 3-B, 4-A",
+    "1-B, 2-B, 3-A, 4-B",
+    "1-A, 2-A, 3-B, 4-B"
+   ],
+   "ans": 2,
+   "exp": "Androgen, chronic liver disease and nephrotic syndrome all lower TBG; only oestrogen therapy raises it. (Book p902)"
+  },
+  {
+   "id": "MED-C41-010",
+   "sec": "TFT overview, screening and binding-protein effects",
+   "page": 902,
+   "fmt": "scenario",
+   "q": "A laboratory reports normal free T4 with high total T4 in a clinically euthyroid patient on OCPs. What is the correct clinical action?",
+   "opts": [
+    "No treatment — interpret total T4 in light of TBG change",
+    "Start levothyroxine because total T4 is high",
+    "Start methimazole because total T4 is high",
+    "Repeat total T4 only after stopping OCPs"
+   ],
+   "ans": 0,
+   "exp": "Free hormone and TSH are normal; the high total T4 reflects raised TBG from estrogen, not true hyperthyroidism. (Book p902)"
+  },
+  {
+   "id": "MED-C41-011",
+   "sec": "TFT overview, screening and binding-protein effects",
+   "page": 902,
+   "fmt": "recall",
+   "q": "Per the source, the binding protein transporting the largest fraction of circulating thyroid hormone is:",
+   "opts": [
+    "Thyroxine-binding globulin",
+    "Prealbumin / transthyretin",
+    "Albumin (alternative)",
+    "Sex-hormone-binding globulin"
+   ],
+   "ans": 0,
+   "exp": "TBG carries the majority of T4 and T3; prealbumin and albumin take much smaller fractions. (Book p902)"
+  },
+  {
+   "id": "MED-C41-012",
+   "sec": "TFT overview, screening and binding-protein effects",
+   "page": 902,
+   "fmt": "truefalse",
+   "q": "Assess the printed TBG list: I The source inherits (rare) as a TBG-excess cause. II Inherited deficiency is listed separately from nephrotic syndrome.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The page lists inherited (rare) as a separate TBG-excess cause and inherited deficiency as a separate TBG-deficit cause from acquired nephrotic losses. (Book p902)"
+  },
+  {
+   "id": "MED-C41-013",
+   "sec": "Pituitary feedback, sick-euthyroid and resistance states",
+   "page": 903,
+   "fmt": "match",
+   "q": "Match the listed pituitary/hypothalamic feedback states to their typical free-hormone / TSH pattern — 1) Primary thyrotoxicosis 2) Sick-euthyroid (printed pattern) 3) Resistance to thyroid hormone (RTH) … A) ↑FT4, ↓TSH B) Normal FT4, normal TSH (printed totals look low) C) Normal/slightly raised FT4 with normal/raised TSH",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 3,
+   "exp": "Primary thyrotoxicosis raises free T4/T3 and suppresses TSH; sick-euthyroid as printed leaves totals normal with rT3 high and free T3 low; RTH is associated with normal/raised free hormones and non-suppressed TSH. (Book p903)"
+  },
+  {
+   "id": "MED-C41-014",
+   "sec": "Pituitary feedback, sick-euthyroid and resistance states",
+   "page": 903,
+   "fmt": "scenario",
+   "q": "An ICU patient has normal TSH, low total T3 and elevated rT3 one week after admission for sepsis. The most consistent interpretation is:",
+   "opts": [
+    "TSH-secreting pituitary adenoma",
+    "Levothyroxine over-replacement",
+    "Sick-euthyroid syndrome",
+    "Primary hypothyroidism"
+   ],
+   "ans": 2,
+   "exp": "Low T3 with high rT3 in critical illness fits the source's sick-euthyroid sequence; primary hypothyroidism would also raise TSH. (Book p903)"
+  },
+  {
+   "id": "MED-C41-015",
+   "sec": "Pituitary feedback, sick-euthyroid and resistance states",
+   "page": 903,
+   "fmt": "truefalse",
+   "q": "Assess these sick-euthyroid statements per the source: I T4 is normal in the early phase. II Reverse T3 typically rises because D3 activity dominates.",
+   "opts": [
+    "Both false",
+    "Both true",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 1,
+   "exp": "The page prints T4 as normal with T3 low and reverse T3 high early in non-thyroidal illness. (Book p903)"
+  },
+  {
+   "id": "MED-C41-016",
+   "sec": "Pituitary feedback, sick-euthyroid and resistance states",
+   "page": 903,
+   "fmt": "oddoneout",
+   "q": "Which condition is the odd one out among the source's TSH-suppressed (primary thyrotoxicosis) mimics?",
+   "opts": [
+    "Graves disease (alternative)",
+    "Toxic multinodular goitre",
+    "Toxic adenoma (alternative)",
+    "Resistance to thyroid hormone (TRβ mutation)"
+   ],
+   "ans": 3,
+   "exp": "RTH typically has non-suppressed TSH because the pituitary resists thyroid hormone feedback, unlike primary thyrotoxicosis where TSH is suppressed. (Book p903)"
+  },
+  {
+   "id": "MED-C41-017",
+   "sec": "Pituitary feedback, sick-euthyroid and resistance states",
+   "page": 903,
+   "fmt": "fillup",
+   "q": "In sick-euthyroid syndrome, the source lists elevated ___ as the most characteristic biochemical marker.",
+   "opts": [
+    "Free T4 (alternative)",
+    "Sex-hormone-binding globulin",
+    "Reverse T3 (correct answer)",
+    "Total T4 (alternative)"
+   ],
+   "ans": 2,
+   "exp": "Reverse T3 rises because deiodinase type-3 inactivates T4 to rT3 instead of activating it to T3. (Book p903)"
+  },
+  {
+   "id": "MED-C41-018",
+   "sec": "Pituitary feedback, sick-euthyroid and resistance states",
+   "page": 903,
+   "fmt": "scenario",
+   "q": "A patient has persistently non-suppressed TSH with raised free T4 and a normal alpha-subunit / pituitary MRI. The most likely diagnosis is:",
+   "opts": [
+    "Factitious thyrotoxicosis",
+    "Resistance to thyroid hormone (RTH, TRβ)",
+    "TSH-secreting pituitary adenoma",
+    "Primary hyperthyroidism"
+   ],
+   "ans": 1,
+   "exp": "Non-suppressed TSH with raised free hormone and a normal MRI in a familial setting fits RTH; TSHoma typically raises the alpha-subunit and shows a sellar mass. (Book p903)"
+  },
+  {
+   "id": "MED-C41-019",
+   "sec": "Pituitary feedback, sick-euthyroid and resistance states",
+   "page": 903,
+   "fmt": "match",
+   "q": "Match the following state to the expected TSH/free-T4 print on the page — 1) Primary thyrotoxicosis 2) Primary hypothyroidism 3) TSHoma 4) Sick-euthyroid early … A) ↑FT4, ↓TSH B) ↓FT4, ↑TSH C) ↑FT4, non-suppressed TSH D) Total T3 ↓, rT3 ↑, TSH normal",
+   "opts": [
+    "1-A, 2-B, 3-D, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-B, 3-A, 4-D"
+   ],
+   "ans": 1,
+   "exp": "Primary thyrotoxicosis suppresses TSH; primary hypothyroidism raises TSH; TSHoma gives raised free hormone with non-suppressed TSH; early sick-euthyroid preserves total T4 with low T3 and high rT3. (Book p903)"
+  },
+  {
+   "id": "MED-C41-020",
+   "sec": "Pituitary feedback, sick-euthyroid and resistance states",
+   "page": 903,
+   "fmt": "truefalse",
+   "q": "Evaluate pituitary feedback: I RTH usually presents with low TSH and high free T4. II Sick-euthyroid syndrome typically produces normal TSH in its early stage.",
+   "opts": [
+    "I false; II true",
+    "Both true",
+    "Both false",
+    "I true; II false"
+   ],
+   "ans": 2,
+   "exp": "RTH has non-suppressed TSH; sick-euthyroid typically keeps TSH normal early. (Book p903)"
+  },
+  {
+   "id": "MED-C41-021",
+   "sec": "Pituitary feedback, sick-euthyroid and resistance states",
+   "page": 903,
+   "fmt": "scenario",
+   "q": "After cardiopulmonary bypass a patient is clinically euthyroid but has total T3 below range, rT3 above range and normal TSH. Which intervention is most consistent with the source?",
+   "opts": [
+    "Start liothyronine to normalise T3",
+    "Start methimazole to suppress T3",
+    "No replacement — observe and treat the underlying illness",
+    "Start levothyroxine to normalise T3"
+   ],
+   "ans": 2,
+   "exp": "Sick-euthyroid changes are adaptive; the source does not recommend routine hormone replacement for ICU patients. (Book p903)"
+  },
+  {
+   "id": "MED-C41-022",
+   "sec": "Pituitary feedback, sick-euthyroid and resistance states",
+   "page": 903,
+   "fmt": "recall",
+   "q": "Which gene is the source's classic association with resistance to thyroid hormone?",
+   "opts": [
+    "NKX2-1",
+    "PAX8",
+    "TRβ (correct answer)",
+    "TRα (alternative)"
+   ],
+   "ans": 2,
+   "exp": "RTH is most commonly linked to thyroid-hormone receptor β mutations on the page. (Book p903)"
+  },
+  {
+   "id": "MED-C41-023",
+   "sec": "Pituitary feedback, sick-euthyroid and resistance states",
+   "page": 903,
+   "fmt": "fillup",
+   "q": "In critical illness, the source's preferred test for diagnosing underlying thyroid disease is ___.",
+   "opts": [
+    "Free T4 (and free T3) rather than total T4",
+    "Total T4 alone (alternative)",
+    "Urinary iodine (alternative)",
+    "Anti-TPO antibody alone (alternative)"
+   ],
+   "ans": 0,
+   "exp": "Total T4 is misleading because TBG and albumin drop in critical illness; free hormone assays are the page's preferred test. (Book p903)"
+  },
+  {
+   "id": "MED-C41-024",
+   "sec": "Pituitary feedback, sick-euthyroid and resistance states",
+   "page": 903,
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a state where TSH typically rises (per the source's grouping)?",
+   "opts": [
+    "Primary hypothyroidism",
+    "Recovery phase of thyroiditis",
+    "Iodine-deficient goitre",
+    "Sick-euthyroid syndrome (early)"
+   ],
+   "ans": 3,
+   "exp": "Early sick-euthyroid syndrome keeps TSH normal, whereas primary hypothyroidism, recovery from thyroiditis and iodine deficiency all can elevate TSH. (Book p903)"
+  },
+  {
+   "id": "MED-C41-025",
+   "sec": "TFT patterns: thyrotoxicosis, T3-toxicosis, sick-euthyroid, thyroglobulin",
+   "page": 904,
+   "fmt": "match",
+   "q": "Match the printed biochemical pattern — 1) Thyrotoxicosis 2) T3-toxicosis 3) Sick-euthyroid (page schematic) 4) ↓TBG (cirrhosis) … A) ↓TSH, normal T4, ↑FT4, normal T3, ↑FT3 B) ↓TSH, normal T4, normal FT4, normal T3, ↑FT3 C) Normal totals, ↑rT3, ↓FT3 D) Normal totals, ↓TBG",
+   "opts": [
+    "1-A, 2-B, 3-D, 4-C",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 2,
+   "exp": "The schematic prints thyrotoxicosis as ↓TSH with normal T4 but raised FT4 and normal T3 with raised FT3; T3-toxicosis raises only FT3; sick-euthyroid leaves totals normal with rT3 high and FT3 low; cirrhosis drops TBG without changing free hormone. (Book p904)"
+  },
+  {
+   "id": "MED-C41-026",
+   "sec": "TFT patterns: thyrotoxicosis, T3-toxicosis, sick-euthyroid, thyroglobulin",
+   "page": 904,
+   "fmt": "scenario",
+   "q": "A patient has suppressed TSH with normal total T4 and total T3 but elevated free T3. The most consistent label is:",
+   "opts": [
+    "T3-toxicosis (correct answer)",
+    "Sick-euthyroid syndrome",
+    "Subclinical hypothyroidism",
+    "Thyroxine over-replacement"
+   ],
+   "ans": 0,
+   "exp": "Isolated free-T3 elevation with otherwise normal totals fits the page's T3-toxicosis pattern. (Book p904)"
+  },
+  {
+   "id": "MED-C41-027",
+   "sec": "TFT patterns: thyrotoxicosis, T3-toxicosis, sick-euthyroid, thyroglobulin",
+   "page": 904,
+   "fmt": "truefalse",
+   "q": "Assess the source's totals/free schematic: I Thyrotoxicosis row shows FT4 and FT3 both elevated. II Sick-euthyroid row prints normal total hormone values.",
+   "opts": [
+    "I false; II true",
+    "Both false",
+    "Both true",
+    "I true; II false"
+   ],
+   "ans": 2,
+   "exp": "The thyrotoxicosis row has both FT4 and FT3 raised; the sick-euthyroid row keeps totals normal with FT3 low. (Book p904)"
+  },
+  {
+   "id": "MED-C41-028",
+   "sec": "TFT patterns: thyrotoxicosis, T3-toxicosis, sick-euthyroid, thyroglobulin",
+   "page": 904,
+   "fmt": "match",
+   "q": "Match the following state to its TBG / binding-protein print on the page — 1) Pregnancy 2) Cirrhosis 3) Familial dysalbuminaemic hyperthyroxinaemia … A) ↑TBG B) ↓TBG C) Albumin binds excess T4, raising total T4 with normal free hormone",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 2,
+   "exp": "Pregnancy raises TBG; cirrhosis lowers TBG; FDHS binds excess T4 to albumin raising total T4 with normal free hormone. (Book p904)"
+  },
+  {
+   "id": "MED-C41-029",
+   "sec": "TFT patterns: thyrotoxicosis, T3-toxicosis, sick-euthyroid, thyroglobulin",
+   "page": 904,
+   "fmt": "scenario",
+   "q": "A patient with cirrhosis has normal free T4, normal TSH, low TBG and low total T4. The free-hormone result correctly classifies the patient as:",
+   "opts": [
+    "Euthyroid (correct answer)",
+    "Primary hypothyroid",
+    "Central hypothyroid",
+    "Sick-euthyroid"
+   ],
+   "ans": 0,
+   "exp": "Cirrhosis lowers TBG and therefore total T4, but free T4 and TSH are preserved — the patient is euthyroid. (Book p904)"
+  },
+  {
+   "id": "MED-C41-030",
+   "sec": "TFT patterns: thyrotoxicosis, T3-toxicosis, sick-euthyroid, thyroglobulin",
+   "page": 904,
+   "fmt": "fillup",
+   "q": "Thyroglobulin is ___ in every cause of hyperthyroidism except ___, where it is low.",
+   "opts": [
+    "Lowered; Graves disease",
+    "Unchanged; subacute thyroiditis",
+    "Normal; toxic multinodular goitre",
+    "Raised; thyrotoxicosis factitia"
+   ],
+   "ans": 3,
+   "exp": "The page lists thyroglobulin as raised in all causes of thyrotoxicosis except factitious ingestion, where it is low. (Book p904)"
+  },
+  {
+   "id": "MED-C41-031",
+   "sec": "TFT patterns: thyrotoxicosis, T3-toxicosis, sick-euthyroid, thyroglobulin",
+   "page": 904,
+   "fmt": "truefalse",
+   "q": "Assess the source's thyroglobulin teaching: I Thyroglobulin is raised in subacute thyroiditis. II Thyroglobulin is raised in factitious thyrotoxicosis.",
+   "opts": [
+    "I true; II false",
+    "Both true",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Subacute thyroiditis releases stored thyroglobulin, raising it; factitious intake of exogenous hormone suppresses thyroid activity so thyroglobulin is low. (Book p904)"
+  },
+  {
+   "id": "MED-C41-032",
+   "sec": "TFT patterns: thyrotoxicosis, T3-toxicosis, sick-euthyroid, thyroglobulin",
+   "page": 904,
+   "fmt": "match",
+   "q": "Match the following pattern to the expected free hormone on the page — 1) Subclinical hyperthyroidism 2) T3-toxicosis 3) FDHS 4) Factitious thyrotoxicosis … A) Normal FT4, normal FT3, ↓TSH B) Normal FT4, ↑FT3, ↓TSH C) ↑Total T4, normal free hormone, normal TSH D) ↑FT4, ↓TSH, low thyroglobulin",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-C, 2-B, 3-A, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Subclinical hyperthyroidism has normal free hormones with low TSH; T3-toxicosis raises only free T3; FDHS raises only total T4; factitious raises free T4 with low thyroglobulin. (Book p904)"
+  },
+  {
+   "id": "MED-C41-033",
+   "sec": "TFT patterns: thyrotoxicosis, T3-toxicosis, sick-euthyroid, thyroglobulin",
+   "page": 904,
+   "fmt": "scenario",
+   "q": "An over-the-counter 'thyroid support' user has suppressed TSH, raised free T4 and a low thyroglobulin. Which diagnostic label fits?",
+   "opts": [
+    "Graves disease (alternative)",
+    "Toxic multinodular goitre",
+    "TSH-secreting pituitary adenoma",
+    "Thyrotoxicosis factitia"
+   ],
+   "ans": 3,
+   "exp": "Factitious intake suppresses endogenous thyroid activity and therefore thyroglobulin, while exogenous T4 raises free T4. (Book p904)"
+  },
+  {
+   "id": "MED-C41-034",
+   "sec": "TFT patterns: thyrotoxicosis, T3-toxicosis, sick-euthyroid, thyroglobulin",
+   "page": 904,
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a state where thyroglobulin is raised?",
+   "opts": [
+    "Toxic multinodular goitre",
+    "Subacute thyroiditis",
+    "Thyrotoxicosis factitia",
+    "Graves disease"
+   ],
+   "ans": 2,
+   "exp": "Factitious thyrotoxicosis is the only cause on the page where thyroglobulin is low; the others raise thyroglobulin. (Book p904)"
+  },
+  {
+   "id": "MED-C41-035",
+   "sec": "TFT patterns: thyrotoxicosis, T3-toxicosis, sick-euthyroid, thyroglobulin",
+   "page": 904,
+   "fmt": "recall",
+   "q": "In the page's sick-euthyroid arrow schematic, which direction does the FT3 arrow point?",
+   "opts": [
+    "Sideways (unchanged)",
+    "Both up and down (bidirectional)",
+    "Down (decreased)",
+    "Up (increased)"
+   ],
+   "ans": 2,
+   "exp": "The schematic draws FT3 down as part of the low-T3 / high-rT3 pattern of non-thyroidal illness. (Book p904)"
+  },
+  {
+   "id": "MED-C41-036",
+   "sec": "TFT patterns: thyrotoxicosis, T3-toxicosis, sick-euthyroid, thyroglobulin",
+   "page": 904,
+   "fmt": "fillup",
+   "q": "In familial dysalbuminaemic hyperthyroxinaemia, total T4 is ___ while free T4 and TSH remain ___.",
+   "opts": [
+    "Raised; raised",
+    "Normal; low",
+    "Raised; normal",
+    "Low; raised"
+   ],
+   "ans": 2,
+   "exp": "Albumin-binding variants raise total T4 but free T4 and TSH are preserved; FDHS mimics true hyperthyroidism only on total assays. (Book p904)"
+  },
+  {
+   "id": "MED-C41-037",
+   "sec": "TFT patterns: thyrotoxicosis, T3-toxicosis, sick-euthyroid, thyroglobulin",
+   "page": 904,
+   "fmt": "truefalse",
+   "q": "Assess this sick-euthyroid note: I The schematic marks rT3 as up. II The schematic marks FT3 as up.",
+   "opts": [
+    "Both true",
+    "I false; II true",
+    "Both false",
+    "I true; II false"
+   ],
+   "ans": 3,
+   "exp": "Reverse T3 is marked up while free T3 is marked down, reflecting impaired T4-to-T3 activation and dominant D3 in critical illness. (Book p904)"
+  },
+  {
+   "id": "MED-C41-038",
+   "sec": "TFT patterns: thyrotoxicosis, T3-toxicosis, sick-euthyroid, thyroglobulin",
+   "page": 904,
+   "fmt": "match",
+   "q": "Match the following thyrotoxicosis pattern to its free-hormone print — 1) Graves disease 2) Subacute thyroiditis 3) Toxic adenoma 4) Struma ovarii … A) ↑FT4 and ↑FT3 B) ↑FT4 with low thyroglobulin only in factitious C) ↑FT4/FT3 from ectopic thyroid tissue D) Transient ↑FT4 with raised thyroglobulin and ESR",
+   "opts": [
+    "1-A, 2-D, 3-C, 4-A",
+    "1-D, 2-A, 3-A, 4-C",
+    "1-A, 2-C, 3-D, 4-A",
+    "1-A, 2-D, 3-A, 4-C"
+   ],
+   "ans": 3,
+   "exp": "Graves and toxic adenoma raise both FT4 and FT3; subacute thyroiditis causes a transient rise with raised thyroglobulin and ESR; struma ovarii produces ectopic thyroid hormone secretion. (Book p904)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U41-1",
+   "ch": 41,
+   "n": 1,
+   "title": "TFT overview, screening and binding-protein effects",
+   "sec": "TFT overview, screening and binding-protein effects · p902",
+   "guide": "Anchor the universal neonatal screen, the negative recommendation for routine community screening, and the binding-protein model. Distinguish true thyroid disease from TBG- and albumin-driven changes in total hormone so treatment is not triggered by estrogens, pregnancy, steroids or liver disease.",
+   "qs": [
+    "MED-C41-001",
+    "MED-C41-002",
+    "MED-C41-003",
+    "MED-C41-004",
+    "MED-C41-005",
+    "MED-C41-006",
+    "MED-C41-007",
+    "MED-C41-008",
+    "MED-C41-009",
+    "MED-C41-010",
+    "MED-C41-011",
+    "MED-C41-012"
+   ]
+  },
+  {
+   "id": "MED-U41-2",
+   "ch": 41,
+   "n": 2,
+   "title": "Pituitary feedback, sick-euthyroid and resistance states",
+   "sec": "Pituitary feedback, sick-euthyroid and resistance states · p903",
+   "guide": "Layer pituitary feedback on top of the binding-protein model. Connect low T3 / high rT3 to non-thyroidal illness and learn why RTH breaks the simple suppress-TSH-with-excess-hormone rule.",
+   "qs": [
+    "MED-C41-013",
+    "MED-C41-014",
+    "MED-C41-015",
+    "MED-C41-016",
+    "MED-C41-017",
+    "MED-C41-018",
+    "MED-C41-019",
+    "MED-C41-020",
+    "MED-C41-021",
+    "MED-C41-022",
+    "MED-C41-023",
+    "MED-C41-024"
+   ]
+  },
+  {
+   "id": "MED-U41-3",
+   "ch": 41,
+   "n": 3,
+   "title": "TFT patterns: thyrotoxicosis, T3-toxicosis, sick-euthyroid, thyroglobulin",
+   "sec": "TFT patterns: thyrotoxicosis, T3-toxicosis, sick-euthyroid, thyroglobulin · p904",
+   "guide": "Read the page's totals vs. frees table as a flowchart. Tie thyroglobulin behaviour to factitious versus endogenous thyrotoxicosis so thyroiditis, toxic nodules and surreptitious intake can be separated biochemically.",
+   "qs": [
+    "MED-C41-025",
+    "MED-C41-026",
+    "MED-C41-027",
+    "MED-C41-028",
+    "MED-C41-029",
+    "MED-C41-030",
+    "MED-C41-031",
+    "MED-C41-032",
+    "MED-C41-033",
+    "MED-C41-034",
+    "MED-C41-035",
+    "MED-C41-036",
+    "MED-C41-037",
+    "MED-C41-038"
+   ]
+  }
+ ]
+}

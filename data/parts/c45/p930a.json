@@ -1,0 +1,150 @@
+{
+ "page": 930,
+ "sec": "DKA: pathophysiology, features, investigations",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following DKA feature — 1) Trigger 2) Anion gap 3) Potassium 4) Plasma glucose … A) Infection, MI, missed insulin, pregnancy, cocaine B) Raised with positive ketones C) Total body depletion despite normal/raised serum K+ D) 250–600 mg/dL",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Triggers include infection, MI, missed insulin, pregnancy and cocaine; AG is raised with positive ketones; total body K+ is depleted despite serum K+ often being normal/raised; plasma glucose is typically 250–600 mg/dL. (Book p930)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient on insulin has a chest infection and develops Kussmaul breathing, abdominal pain and plasma glucose 380 mg/dL with ketones. The most likely diagnosis is:",
+   "opts": [
+    "DKA (correct answer)",
+    "Hyperosmolar hyperglycaemic state",
+    "Lactic acidosis (alternative)",
+    "Salicylate poisoning"
+   ],
+   "ans": 0,
+   "exp": "Kussmaul breathing, abdominal pain, glucose 380 mg/dL with ketones fit DKA, often precipitated by infection. (Book p930)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess DKA: I Insulin deficiency causes lipolysis and ketogenesis. II Hepatic ketogenesis is stimulated by glucagon excess.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Insulin deficiency and glucagon excess together drive lipolysis, FFA delivery to liver, and ketogenesis producing β-hydroxybutyrate and acetoacetate. (Book p930)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a feature more typical of HHS than DKA?",
+   "opts": [
+    "Severe hyperglycaemia >600 mg/dL with profound dehydration",
+    "Positive serum ketones (alternative)",
+    "Plasma osmolarity >320 mOsm/kg (alternative)",
+    "Absent/little ketoacidosis (alternative)"
+   ],
+   "ans": 0,
+   "exp": "Positive serum ketones is a feature of DKA, not HHS; HHS has severe hyperglycaemia, high osmolarity and minimal ketosis. (Book p930)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The dominant ketone body in DKA is ___.",
+   "opts": [
+    "β-hydroxybutyrate",
+    "Acetoacetate",
+    "Acetone (alternative)",
+    "Pyruvate (alternative)"
+   ],
+   "ans": 0,
+   "exp": "β-hydroxybutyrate predominates in DKA; standard urine dipstick detects acetoacetate preferentially and may underestimate the true ketone load. (Book p930)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following DKA workup — 1) Glucose 2) Electrolytes 3) ABG 4) Serum osmolality … A) 250–600 mg/dL B) K+ depletion, Na+ artefact C) pH <7.3, HCO3 <15 D) 300–320 mOsm/kg",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Glucose typically 250–600 mg/dL; electrolytes show K+ depletion and pseudohyponatraemia; ABG shows pH <7.3 and HCO3 <15; serum osmolarity 300–320 mOsm/kg. (Book p930)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A DKA patient has serum Na+ 128 mEq/L and glucose 540 mg/dL. The corrected sodium is approximately:",
+   "opts": [
+    "136 mEq/L",
+    "128 mEq/L",
+    "120 mEq/L",
+    "144 mEq/L"
+   ],
+   "ans": 0,
+   "exp": "Corrected Na+ ≈ measured Na+ + 1.6 × (glucose − 100)/100. With glucose 540, correction ≈ 128 + 7 ≈ 135 mEq/L. (Book p930)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess potassium in DKA: I Initial serum K+ may be normal or high. II Insulin will further drop K+; replacement is needed.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Total body K+ is depleted even when initial serum K+ is normal/high; insulin therapy will lower K+ and replacement is required. (Book p930)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following DKA investigation to its expected finding — 1) Urine dipstick 2) β-hydroxybutyrate 3) Lactate 4) Anion gap … A) Ketones positive (acetoacetate) B) Elevated (best ketone) C) May be elevated if shock D) Raised (>10)",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-D, 2-B, 3-A, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Urine dipstick detects acetoacetate; β-hydroxybutyrate is the predominant ketone; lactate may rise with shock; anion gap is raised >10. (Book p930)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with new T1DM has glucose 480 mg/dL, pH 7.18, HCO3 10 mEq/L and K+ 5.6 mEq/L. The first hour of management is most consistent with:",
+   "opts": [
+    "IV fluids, hold insulin until K+ checked, monitor",
+    "Insulin bolus then fluids (alternative)",
+    "Oral rehydration only (alternative)",
+    "Sodium bicarbonate immediately"
+   ],
+   "ans": 0,
+   "exp": "Fluids and insulin are cornerstones; insulin should be withheld if K+ <3.3 until replacement; bicarbonate is not routine. (Book p930)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The anion gap is calculated as Na+ − (Cl− + ___).",
+   "opts": [
+    "HCO3−",
+    "K+ (alternative)",
+    "Glucose",
+    "Lactate"
+   ],
+   "ans": 0,
+   "exp": "AG = Na+ − (Cl− + HCO3−); the alternative including K+ is seldom used clinically. (Book p930)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess DKA triggers: I New-onset T1DM can present with DKA. II Pregnancy predisposes to DKA.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "New-onset T1DM commonly presents with DKA; pregnancy increases susceptibility because of hormonal changes. (Book p930)"
+  }
+ ]
+}

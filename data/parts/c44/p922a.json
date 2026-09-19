@@ -1,0 +1,150 @@
+{
+ "page": 922,
+ "sec": "Type 2 history, metabolic syndrome, BMI",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following metabolic syndrome criterion to the cutoff (per source/standard) — 1) Waist circumference (men) 2) Triglycerides 3) HDL (men) 4) BP … A) ≥90 cm (Asian Indian) B) ≥150 mg/dL C) <40 mg/dL D) ≥130/85 mmHg",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-B, 2-C, 3-A, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Asian-Indian waist circumference cut-off for men is ≥90 cm; triglycerides ≥150 mg/dL; HDL <40 mg/dL in men; BP ≥130/85 mmHg. (Book p922)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 50-year-old South Asian man has BP 132/86 mmHg, fasting TG 165 mg/dL, HDL 38 mg/dL and waist circumference 95 cm. The diagnostic label is:",
+   "opts": [
+    "Metabolic syndrome",
+    "Normal (alternative)",
+    "Type 2 diabetes only",
+    "Familial hypercholesterolaemia"
+   ],
+   "ans": 0,
+   "exp": "Three of five criteria (waist, TG, HDL, BP) are met; this is metabolic syndrome. (Book p922)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess BMI categories: I Asian-Indian overweight is BMI ≥23. II Obesity is BMI ≥25 in Asian-Indian classification.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Asian-Indian BMI thresholds: overweight ≥23, obesity ≥25 (compared with WHO ≥25 and ≥30). (Book p922)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among metabolic syndrome criteria?",
+   "opts": [
+    "Fasting plasma glucose",
+    "Waist circumference",
+    "Triglycerides",
+    "HDL cholesterol"
+   ],
+   "ans": 0,
+   "exp": "Fasting glucose is a metabolic syndrome criterion in NCEP-ATP III but not in IDF's primary central obesity definition; waist is central to IDF criteria. (Book p922)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The page's Asian-Indian BMI cut-off for overweight is ___.",
+   "opts": [
+    "≥23",
+    "≥18.5",
+    "≥25",
+    "≥30"
+   ],
+   "ans": 0,
+   "exp": "Asian-Indian cut-offs: normal <23, overweight ≥23, obese ≥25 (with morbid obesity at higher values). (Book p922)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following milestone in T2DM history — 1) First clinical use 2) Role of UKPDS 3) Discovery … A) 1921 insulin (later refined for type 2) B) Demonstrated benefit of glycaemic control C) Insulin by Banting and Best",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Insulin was discovered in 1921; first clinical use came shortly after; UKPDS established benefit of glycaemic control in T2DM. (Book p922)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 50-year-old with BMI 26, BP 138/88, TG 178 mg/dL, HDL 36 mg/dL and FPG 102 mg/dL asks about diabetes risk. The most consistent label is:",
+   "opts": [
+    "Metabolic syndrome with pre-diabetes",
+    "Type 2 diabetes (alternative)",
+    "Normal (alternative)",
+    "Hypothyroidism (alternative)"
+   ],
+   "ans": 0,
+   "exp": "Metabolic syndrome is present; FPG 100–125 places the patient in the pre-diabetes range. (Book p922)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess waist cut-offs: I Asian-Indian women use a lower waist cut-off than men. II IDF uses the same Asian waist cut-off for men and women.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "Asian women use ≥80 cm (vs ≥90 cm men); IDF uses the same Asian-specific cut-off for both sexes but is sex-specific. (Book p922)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following to its discovery timeline — 1) Insulin 2) Sulfonylureas 3) Metformin 4) GLP-1 agonist … A) 1921 B) 1940s–50s C) 1950s (biguanides) D) 2005 onwards",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Insulin 1921; sulfonylureas mid-20th century; metformin (biguanides) widely adopted mid-century; GLP-1 agonists from 2005. (Book p922)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An Asian-Indian patient with BMI 27 has BP 128/82, TG 145 mg/dL, HDL 42 mg/dL and FPG 92 mg/dL. The patient meets:",
+   "opts": [
+    "Only the waist criterion",
+    "Three criteria",
+    "All five criteria",
+    "No criteria (alternative)"
+   ],
+   "ans": 0,
+   "exp": "BMI 27 exceeds the Asian-Indian obesity cut-off ≥25 and waist typically ≥90 cm; BP, TG and HDL do not meet criteria. (Book p922)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The metabolic syndrome criterion for fasting plasma glucose is ≥ ___ mg/dL.",
+   "opts": [
+    "100",
+    "110",
+    "126",
+    "140"
+   ],
+   "ans": 0,
+   "exp": "Fasting plasma glucose ≥100 mg/dL (or treatment) is one of the metabolic syndrome criteria. (Book p922)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess these facts: I South Asians have higher diabetes risk at lower BMIs. II Metabolic syndrome increases cardiovascular risk beyond its components.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "South Asians have higher risk at lower BMIs (the basis of Asian-Indian cut-offs); metabolic syndrome increases CV risk beyond individual components. (Book p922)"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "page": 927,
+ "sec": "Insulin: structure, secretion and signalling",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following insulin features — 1) Chain length 2) Receptor type 3) Receptor kinase 4) Pre-prohormone … A) 51 amino acids in two chains B) Tyrosine kinase receptor C) Insulin receptor substrate (IRS) D) Preproinsulin",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Insulin has 51 amino acids in two chains; receptor is a tyrosine kinase; downstream signalling uses IRS proteins; the precursor is preproinsulin. (Book p927)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A neonate has refractory hyperglycaemia with severe insulin resistance and elevated triglycerides. The most likely genetic defect involves the:",
+   "opts": [
+    "Insulin receptor (INSR)",
+    "GCK (alternative)",
+    "HNF1A (alternative)",
+    "KCNJ11 (alternative)"
+   ],
+   "ans": 0,
+   "exp": "Severe insulin resistance with hyperglycaemia in a neonate is consistent with insulin-receptor mutations (Donohue or Rabson-Mendenhall). (Book p927)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess insulin structure: I Insulin is composed of A and B chains linked by disulphide bridges. II C-peptide remains attached in mature insulin.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "Insulin has A and B chains linked by disulphide bonds; C-peptide is cleaved from proinsulin and is not part of mature insulin. (Book p927)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a step in insulin biosynthesis?",
+   "opts": [
+    "Preproinsulin → proinsulin",
+    "Proinsulin → insulin + C-peptide",
+    "Insulin → glucose (alternative)",
+    "Proinsulin packaged in granules"
+   ],
+   "ans": 0,
+   "exp": "Insulin does not directly produce glucose; it lowers glucose by promoting uptake and inhibiting production. (Book p927)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Insulin lowers blood glucose primarily by stimulating glucose uptake via ___ translocation.",
+   "opts": [
+    "GLUT4",
+    "GLUT2",
+    "SGLT2",
+    "GLUT1"
+   ],
+   "ans": 0,
+   "exp": "GLUT4 translocation to the muscle and adipocyte membrane is insulin's main glucose-lowering step. (Book p927)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following stimulus — 1) Glucose 2) Amino acids (especially leucine) 3) Incretins (GLP-1, GIP) 4) Vagal stimulation … A) Most potent stimulus for insulin secretion B) Stimulus during protein-rich meals C) Augment glucose-stimulated secretion D) Cephalic-phase insulin release",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-D, 2-B, 3-A, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Glucose is the most potent stimulus; amino acids (especially leucine) trigger protein-meal insulin; incretins augment glucose-stimulated secretion; vagal activity drives cephalic-phase release. (Book p927)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient has postprandial hypoglycaemia after Roux-en-Y gastric bypass. The most consistent mechanism is:",
+   "opts": [
+    "Exaggerated incretin and insulin response",
+    "Adrenal insufficiency (alternative)",
+    "Insulinoma (alternative)",
+    "Factitious sulfonylurea use"
+   ],
+   "ans": 0,
+   "exp": "Roux-en-Y bypass causes rapid glucose delivery with exaggerated GLP-1 and insulin surges, producing late hypoglycaemia. (Book p927)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess insulin secretion phases: I First phase peaks within minutes and lasts ~10 minutes. II Second phase is sustained and involves newly synthesised insulin.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "First phase releases stored granules within minutes; second phase is sustained and involves newly synthesised insulin. (Book p927)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following ion channel / enzyme — 1) K-ATP channel 2) Voltage-gated Ca²⁺ channel 3) KIR6.2 subunit 4) SUR1 subunit … A) Closes on ATP rise B) Opens to trigger exocytosis C) Forms pore of K-ATP D) Sulfonylurea receptor",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "ATP closes K-ATP channels; depolarisation opens voltage-gated Ca²⁺ channels triggering exocytosis; KIR6.2 forms the pore and SUR1 binds sulfonylureas. (Book p927)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient uses sulfonylurea and experiences hypoglycaemia. The mechanism is most consistent with:",
+   "opts": [
+    "Closure of K-ATP channels on β-cells",
+    "Opening of voltage-gated Ca²⁺ channels",
+    "Direct GLUT4 activation",
+    "Inhibition of α-glucosidase"
+   ],
+   "ans": 0,
+   "exp": "Sulfonylureas bind SUR1, closing K-ATP channels, depolarising the β-cell and triggering insulin release. (Book p927)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Insulin receptor signalling involves phosphorylation of ___ proteins.",
+   "opts": [
+    "Insulin receptor substrate (IRS)",
+    "Glucokinase (alternative)",
+    "Glucagon (alternative)",
+    "GLP-1 (alternative)"
+   ],
+   "ans": 0,
+   "exp": "IRS proteins are phosphorylated by the insulin-receptor tyrosine kinase, activating PI3K and downstream metabolic effects. (Book p927)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess insulin effects: I Insulin suppresses lipolysis in adipocytes. II Insulin stimulates glycogenolysis in liver.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "Insulin suppresses lipolysis and gluconeogenesis; it stimulates glycogen synthesis, not glycogenolysis. (Book p927)"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "page": 923,
+ "sec": "T1DM markers, autoimmunity and antibody interpretation",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following Type 1 autoantibody to its prevalence / target — 1) GAD65 2) IA-2 3) ZnT8 4) Anti-insulin … A) ~70–80% at diagnosis B) ~60–70% at diagnosis C) >95% in some populations D) More common in children",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-B, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "GAD65 is positive in roughly 70–80% at diagnosis; IA-2 in 60–70%; ZnT8 in over 95% in some populations; anti-insulin is more common in children. (Book p923)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 22-year-old non-obese patient has new diabetes, positive GAD and rapidly progresses to insulin. The most consistent diagnosis is:",
+   "opts": [
+    "Type 1 diabetes",
+    "Type 2 diabetes",
+    "MODY 3 (alternative)",
+    "Type 3c diabetes"
+   ],
+   "ans": 0,
+   "exp": "Non-obese young adult with GAD positivity and rapid progression fits Type 1 diabetes. (Book p923)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess these facts: I HLA-DRB1*04 increases Type 1 risk. IIGAD antibodies are also seen in stiff-person syndrome.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "HLA-DRB1*04 is a susceptibility allele for Type 1 diabetes; GAD antibodies also occur in stiff-person syndrome and cerebellar ataxia. (Book p923)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — an antibody NOT typically associated with Type 1 diabetes?",
+   "opts": [
+    "Anti-CCP",
+    "GAD65",
+    "IA-2 (alternative)",
+    "ZnT8 (alternative)"
+   ],
+   "ans": 0,
+   "exp": "Anti-CCP is associated with rheumatoid arthritis, not Type 1 diabetes. (Book p923)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "ZnT8 antibodies target the zinc transporter in pancreatic ___ cells.",
+   "opts": [
+    "β (correct answer)",
+    "α (alternative)",
+    "δ (alternative)",
+    "PP"
+   ],
+   "ans": 0,
+   "exp": "ZnT8 is expressed in pancreatic β-cells, making it a specific autoimmune target. (Book p923)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following test to its use in T1DM — 1) C-peptide 2) Autoantibody panel 3) HbA1c 4) Insulin level … A) Reflects endogenous insulin secretion B) Classifies autoimmune diabetes C) Monitors chronic glycaemia D) Affected by exogenous insulin and hepatic clearance",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-D, 2-B, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "C-peptide measures endogenous insulin secretion; autoantibody panel classifies autoimmune diabetes; HbA1c monitors chronic glycaemia; insulin level is confounded by exogenous insulin and hepatic clearance. (Book p923)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An 18-year-old with new T1DM has undetectable C-peptide and positive ZnT8. The most consistent interpretation is:",
+   "opts": [
+    "Autoimmune β-cell destruction with no residual function",
+    "Type 2 diabetes with severe insulin resistance",
+    "MODY 2 (alternative)",
+    "Pancreatogenic diabetes (alternative)"
+   ],
+   "ans": 0,
+   "exp": "Undetectable C-peptide with ZnT8 indicates autoimmune β-cell failure in Type 1 diabetes. (Book p923)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess T1DM genetic risk: I HLA-DR3 and DR4 increase risk. II Most T1DM is monogenic.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "HLA-DR3 and DR4 (DRB1*03 and *04) increase susceptibility; most T1DM is polygenic, not monogenic. (Book p923)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following antibody to the population where it's most useful — 1) Insulin autoantibody 2) GAD 2) ZnT8 3) IA-2 … A) Children <5 yr at onset B) Adults >30 yr at onset C) Combined with GAD for sensitivity D) Highly specific for T1DM",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Insulin autoantibody is most useful in young children; GAD is more often positive in adult-onset T1DM/LADA; ZnT8 combined with GAD improves sensitivity; IA-2 is highly specific for T1DM. (Book p923)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 5-year-old with new diabetes has positive insulin autoantibodies but negative GAD and IA-2. The most consistent interpretation is:",
+   "opts": [
+    "Probable autoimmune T1DM",
+    "Type 2 diabetes",
+    "MODY (alternative)",
+    "Type 3c diabetes"
+   ],
+   "ans": 0,
+   "exp": "Insulin autoantibodies are common in young children with T1DM; one antibody plus clinical phenotype is sufficient to support diagnosis. (Book p923)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Triple antibody positivity (GAD, IA-2, ZnT8) in a newly diagnosed adult is highly suggestive of ___ rather than Type 2.",
+   "opts": [
+    "Autoimmune (Type 1-like) diabetes",
+    "MODY 2 (alternative)",
+    "Pancreatogenic diabetes",
+    "Cushing-induced diabetes"
+   ],
+   "ans": 0,
+   "exp": "Triple positivity in adults strongly suggests autoimmune diabetes (Type 1-like or LADA). (Book p923)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess C-peptide: I It is cleaved from proinsulin in equimolar amounts. II C-peptide is a surrogate for endogenous insulin.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "C-peptide is cleaved from proinsulin in equimolar amounts with insulin and is used as a surrogate for endogenous insulin secretion. (Book p923)"
+  }
+ ]
+}

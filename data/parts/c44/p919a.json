@@ -1,0 +1,162 @@
+{
+ "page": 919,
+ "sec": "Dirty dozen, classification, diagnostics",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following classification to its example — 1) Type 1 2) Type 2 3) Gestational 4) Other specific types … A) Autoimmune β-cell destruction B) Insulin resistance with relative insulin deficiency C) Onset in pregnancy D) Monogenic, drug-induced, pancreatic disease",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-B, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Type 1 is autoimmune β-cell destruction; Type 2 is insulin resistance with relative insulin deficiency; GDM is diagnosed in pregnancy; 'other specific types' include monogenic, drug-induced and pancreatic diabetes. (Book p919)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 12-year-old presents with polyuria, polydipsia, weight loss and DKA. Anti-GAD is positive. The diagnosis is:",
+   "opts": [
+    "Type 1 diabetes",
+    "Type 2 diabetes",
+    "MODY (alternative)",
+    "Gestational diabetes"
+   ],
+   "ans": 0,
+   "exp": "Children with DKA and positive GAD have autoimmune Type 1 diabetes, not Type 2 or MODY. (Book p919)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess classification: I Type 2 diabetes is the most common form worldwide. II Latent autoimmune diabetes of adults (LADA) is a slow Type 1 variant.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Type 2 is the most common form; LADA is autoimmune diabetes in adults that is initially non-insulin requiring but slowly progresses. (Book p919)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a 'dirty dozen' cause of secondary diabetes?",
+   "opts": [
+    "Autoimmune polyglandular syndrome type 2",
+    "Pancreatitis-induced (alternative)",
+    "Endocrine (Cushing)",
+    "Drug-induced (glucocorticoids)"
+   ],
+   "ans": 0,
+   "exp": "Autoimmune polyglandular syndrome type 2 is associated with autoimmune diabetes (Type 1-like), not classical secondary 'dirty dozen' causes like pancreatitis, Cushing or steroids. (Book p919)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Monogenic diabetes caused by HNF1A mutations and responsive to low-dose sulfonylureas is also known as ___.",
+   "opts": [
+    "MODY 3 (HNF1A-MODY)",
+    "MODY 2 (GCK-MODY)",
+    "Wolfram syndrome",
+    "Rabson-Mendenhall syndrome"
+   ],
+   "ans": 0,
+   "exp": "MODY 3 (HNF1A) is the classic sulfonylurea-responsive monogenic diabetes; MODY 2 (GCK) is typically diet-controlled. (Book p919)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following MODY subtype to its key feature — 1) HNF1A-MODY (MODY 3) 2) GCK-MODY (MODY 2) 3) HNF4A-MODY (MODY 1) … A) Sulfonylurea-responsive, progressive B) Mild stable hyperglycaemia, often no Rx C) Macrosomia + neonatal hypoglycaemia then diabetes",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "HNF1A-MODY (MODY 3) is sulfonylurea-responsive and progressive; GCK-MODY (MODY 2) is mild and usually not treated; HNF4A-MODY is associated with macrosomia and neonatal hypoglycaemia. (Book p919)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 24-year-old with mild fasting hyperglycaemia and a family history of 'mild diabetes' across three generations has HbA1c 6.0%. Genetic testing is most likely to find:",
+   "opts": [
+    "GCK mutation (MODY 2)",
+    "HNF1A mutation (MODY 3)",
+    "GAD antibodies",
+    "Insulin gene mutation"
+   ],
+   "ans": 0,
+   "exp": "Mild stable hyperglycaemia across generations fits GCK-MODY (MODY 2); HNF1A-MODY is progressive and typically requires treatment. (Book p919)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess autoimmune screening: I GAD, IA-2 and ZnT8 antibodies classify autoimmune diabetes. II Antibody-negative autoimmune diabetes is impossible.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "GAD, IA-2 and ZnT8 are the principal autoantibodies; a small subset of autoimmune diabetes is antibody-negative (so-called idiopathic Type 1). (Book p919)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following test to its role — 1) Fasting glucose 2) 2-hour OGTT 3) HbA1c 4) C-peptide … A) Screening and diagnosis B) Sensitive for IGT C) Reflects chronic glycemia D) Endogenous insulin secretion",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-B, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Fasting glucose is the workhorse screening test; OGTT is most sensitive for IGT; HbA1c reflects chronic glycemia; C-peptide reflects endogenous insulin secretion. (Book p919)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 50-year-old has fasting glucose 105 mg/dL but 2-hour post-load 168 mg/dL. The most consistent label is:",
+   "opts": [
+    "Isolated impaired glucose tolerance",
+    "Combined IFG and IGT",
+    "Diabetes (alternative)",
+    "Normal (alternative)"
+   ],
+   "ans": 0,
+   "exp": "2-hour glucose 140–199 with normal FPG is isolated IGT. (Book p919)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The diagnostic 75-g OGTT detects ___ more sensitively than fasting glucose.",
+   "opts": [
+    "Impaired glucose tolerance",
+    "Autoimmune diabetes",
+    "Pancreatic cancer",
+    "Insulinoma (alternative)"
+   ],
+   "ans": 0,
+   "exp": "The 75-g OGTT detects IGT earlier than fasting glucose. (Book p919)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess fructosamine and 1,5-AG: I They reflect shorter-term glycemia than HbA1c. II They are useful when HbA1c is unreliable.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Fructosamine and 1,5-AG reflect 2–3 weeks of glycemia, useful in pregnancy or haemoglobinopathies where HbA1c is unreliable. (Book p919)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a test that does NOT assess chronic glycaemia?",
+   "opts": [
+    "Random plasma glucose",
+    "HbA1c (alternative)",
+    "Fructosamine",
+    "1,5-anhydroglucitol"
+   ],
+   "ans": 0,
+   "exp": "Random plasma glucose is a snapshot; HbA1c, fructosamine and 1,5-AG all integrate glycaemia over different windows. (Book p919)"
+  }
+ ]
+}
