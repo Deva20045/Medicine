@@ -271,7 +271,7 @@ See **`REPORT_CH60-61.md`**.
 **Bank total: 2843 questions · 243 units · 37 live chapters**, all 187 in-scope pages
 p705–882, p1001–1009 represented.
 
-**Next sequential chapter: Ch 41 "Thyroid Function Tests" (p902).**
+**Next sequential chapter: Ch 47 (Diabetes Mellitus continues after Part 4).**
 
 Ch 62 remains the next pending chapter in the separate hepatology sequence.
 
@@ -294,18 +294,20 @@ Ch 62 remains the next pending chapter in the separate hepatology sequence.
 - App file: `pulse-medicine.html` (also at `/pulse-medicine.html`)
 
 
-## Latest batch — Chapters 36–40 (2026-09-19)
+## Latest batch — Chapters 41–46 (2026-09-19)
 
-**272 new questions · 19 units · all 19 pages p883–901.**
-Ch 36: 53 q / 4 u; Ch 37: 62 q / 5 u; Ch 38: 48 q / 3 u;
-Ch 39: 50 q / 3 u; Ch 40: 59 q / 4 u.
+**418 new questions · 34 units · all 34 pages p902–935.**
+Ch 41: 38 q / 3 u; Ch 42: 63 q / 5 u; Ch 43: 86 q / 7 u;
+Ch 44: 123 q / 10 u; Ch 45: 72 q / 6 u; Ch 46: 36 q / 3 u.
 
-All five requested question styles are present in every chapter. Page-by-page
-coverage, source-error handling and verification details: **REPORT_CH36-40.md**.
-The runtime regression now exercises both correct and incorrect answer paths for
+Covers TFT, hypothyroidism, thyrotoxicosis & thyroiditis, diabetes classification
+and pathophysiology, insulin physiology & DKA/HHS, and ADA 2024 management. All
+five requested question styles are present in every chapter. Page-by-page
+coverage, source-error handling and verification details: **REPORT_CH41-46.md**.
+The runtime regression exercises both correct and incorrect answer paths for
 every new question, including board/blank rendering and unit completion.
 
-**Current bank total: 3,115 questions · 262 units · 42 live chapters**, covering
-206 pages (p705–901 and p1001–1009). Earlier totals above are historical snapshots.
+**Current bank total: 3,533 questions · 296 units · 48 live chapters**, covering
+240 pages (p705–935 and p1001–1009). Earlier totals above are historical snapshots.
 
-**Next: Ch 41, Thyroid Function Tests (p902–904).**
+**Next: Ch 47 (Diabetes Mellitus continues in Part 4 after p935).**

@@ -1,0 +1,150 @@
+{
+ "page": 928,
+ "sec": "GLUT transporters, C-peptide and incretin physiology",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following GLUT transporter to its tissue distribution — 1) GLUT1 2) GLUT2 3) GLUT3 4) GLUT4 … A) Brain, kidney, colon, placenta, RBC B) Liver, β-cells, gut, kidney C) Brain, kidney, placenta D) Skeletal muscle, cardiac muscle, adipose",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-D, 2-B, 3-A, 4-C"
+   ],
+   "ans": 0,
+   "exp": "GLUT1 is in brain, kidney, colon, placenta, RBC; GLUT2 in liver, β-cells, gut, kidney; GLUT3 in brain, kidney, placenta; GLUT4 in skeletal muscle, cardiac muscle and adipose tissue. (Book p928)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient on insulin has unexplained hypoglycaemia; C-peptide is undetectable. The most consistent interpretation is:",
+   "opts": [
+    "Exogenous insulin administration",
+    "Insulinoma (alternative)",
+    "Sulfonylurea use (alternative)",
+    "MODY 2 (alternative)"
+   ],
+   "ans": 0,
+   "exp": "Undetectable C-peptide with hypoglycaemia indicates exogenous insulin (since C-peptide is cleaved from endogenous insulin in equimolar amounts). (Book p928)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess C-peptide: I It is cleaved from proinsulin. II C-peptide is elevated in exogenous insulin use.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "C-peptide is cleaved from proinsulin and is not elevated by exogenous insulin; it is high in insulinoma and sulfonylurea use. (Book p928)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a state with raised C-peptide?",
+   "opts": [
+    "Exogenous insulin overdose",
+    "Insulinoma (alternative)",
+    "Sulfonylurea ingestion",
+    "Insulin resistance (early T2DM)"
+   ],
+   "ans": 0,
+   "exp": "Exogenous insulin suppresses C-peptide; the other states raise endogenous insulin (and therefore C-peptide). (Book p928)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "GLUT2 is a bidirectional, low-affinity transporter present on pancreatic ___ cells.",
+   "opts": [
+    "β (correct answer)",
+    "α (alternative)",
+    "δ (alternative)",
+    "PP"
+   ],
+   "ans": 0,
+   "exp": "GLUT2 on β-cells senses glucose and is part of the glucose-stimulated insulin secretion pathway. (Book p928)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following transporter to its ligand / property — 1) GLUT5 2) SGLT1 3) SGLT2 4) GLUT4 … A) Fructose transporter B) Sodium-glucose cotransporter in gut C) Sodium-glucose cotransporter in PCT D) Insulin-stimulated glucose transporter",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "GLUT5 transports fructose; SGLT1 is in gut; SGLT2 in PCT; GLUT4 is insulin-stimulated. (Book p928)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient is on empagliflozin. The mechanism is most consistent with:",
+   "opts": [
+    "SGLT2 inhibition in proximal convoluted tubule",
+    "SGLT1 inhibition in gut (alternative)",
+    "GLUT2 blockade in liver (alternative)",
+    "GLUT4 antagonism in muscle"
+   ],
+   "ans": 0,
+   "exp": "Empagliflozin inhibits SGLT2 in the PCT, reducing glucose reabsorption and producing glycosuria. (Book p928)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess incretins: I GLP-1 is secreted by L-cells in the ileum and colon. II GIP is secreted by K-cells in the jejunum.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "GLP-1 is secreted by ileal/colonic L-cells; GIP is secreted by K-cells in the jejunum. (Book p928)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following GLP-1 / GIP feature — 1) Half-life of GLP-1 2) Half-life of GIP 3) Action of GLP-1 4) Action of GIP … A) 1–2 minutes B) 5–7 minutes C) Glucose-dependent insulin release, satiety D) Insulin release in response to fat",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-B, 3-A, 4-C"
+   ],
+   "ans": 0,
+   "exp": "GLP-1 has half-life 1–2 min; GIP has 5–7 min; GLP-1 produces glucose-dependent insulin release and satiety; GIP releases insulin in response to fat. (Book p928)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient on semaglutide oral achieves HbA1c reduction with weight loss. The mechanism is most consistent with:",
+   "opts": [
+    "GLP-1 receptor agonism",
+    "DPP-4 inhibition",
+    "SGLT2 inhibition",
+    "Sulfonylurea action"
+   ],
+   "ans": 0,
+   "exp": "Semaglutide is a GLP-1 receptor agonist with weight-loss and HbA1c-reducing effects; DPP-4 inhibitors raise endogenous GLP-1 but cause less weight loss. (Book p928)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "C-peptide is high in endogenous hyperinsulinaemia (insulinoma) and low in ___ insulin use.",
+   "opts": [
+    "Exogenous",
+    "Endogenous",
+    "Glucagon",
+    "Incretin"
+   ],
+   "ans": 0,
+   "exp": "Exogenous insulin suppresses C-peptide, whereas insulinoma and sulfonylureas elevate it. (Book p928)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the table: I Type 1 diabetes has undetectable C-peptide. II Type 2 diabetes has raised C-peptide early in disease.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Type 1 has low/undetectable C-peptide; Type 2 has raised C-peptide early due to insulin resistance, then falls as β-cell function declines. (Book p928)"
+  }
+ ]
+}

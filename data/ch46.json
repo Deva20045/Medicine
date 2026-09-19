@@ -1,0 +1,615 @@
+{
+ "chapter": 46,
+ "title": "Management of Diabetes Mellitus - 2024 Guidelines",
+ "pageRange": "933-935",
+ "questions": [
+  {
+   "id": "MED-C46-001",
+   "sec": "ADA 2024 antihyperglycaemic drug classes",
+   "page": 933,
+   "fmt": "match",
+   "q": "Match the following drug class to its mechanism — 1) Biguanide 2) Sulfonylurea 3) SGLT2 inhibitor 4) DPP-4 inhibitor … A) Activates AMPK; reduces hepatic gluconeogenesis B) Closes β-cell K-ATP channels C) Blocks renal glucose reabsorption D) Prevents GLP-1 breakdown",
+   "opts": [
+    "1-A, 2-D, 3-C, 4-B",
+    "1-D, 2-B, 3-A, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D"
+   ],
+   "ans": 2,
+   "exp": "Metformin activates AMPK and reduces hepatic gluconeogenesis; sulfonylureas close K-ATP channels; SGLT2 inhibitors block renal glucose reabsorption; DPP-4 inhibitors prolong GLP-1 action. (Book p933)"
+  },
+  {
+   "id": "MED-C46-002",
+   "sec": "ADA 2024 antihyperglycaemic drug classes",
+   "page": 933,
+   "fmt": "scenario",
+   "q": "A patient with T2DM and HFREF (HFrEF) needs an antihyperglycaemic agent with proven mortality benefit. The most appropriate class is:",
+   "opts": [
+    "DPP-4 inhibitor",
+    "Sulfonylurea",
+    "Alpha-glucosidase inhibitor",
+    "SGLT2 inhibitor"
+   ],
+   "ans": 3,
+   "exp": "SGLT2 inhibitors (empagliflozin, dapagliflozin) reduce HF hospitalisation and CV mortality in HFrEF regardless of diabetes status. (Book p933)"
+  },
+  {
+   "id": "MED-C46-003",
+   "sec": "ADA 2024 antihyperglycaemic drug classes",
+   "page": 933,
+   "fmt": "truefalse",
+   "q": "Assess drug classes: I Metformin activates AMPK. II Gliclazide is the only sulfonylurea with reported cardio-renal benefit.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both false",
+    "Both true"
+   ],
+   "ans": 3,
+   "exp": "Metformin activates AMPK; gliclazide is highlighted as the sulfonylurea with the best cardiovascular safety profile. (Book p933)"
+  },
+  {
+   "id": "MED-C46-004",
+   "sec": "ADA 2024 antihyperglycaemic drug classes",
+   "page": 933,
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a class that does not have established cardiovascular outcome benefit?",
+   "opts": [
+    "GLP-1 receptor agonist",
+    "Pioglitazone (in HF)",
+    "Sulfonylurea (gliclazide excepted)",
+    "SGLT2 inhibitor"
+   ],
+   "ans": 2,
+   "exp": "Sulfonylureas have neutral or adverse cardiovascular outcome data (except gliclazide); SGLT2i and GLP-1 agonists reduce MACE; pioglitazone is contraindicated in HF. (Book p933)"
+  },
+  {
+   "id": "MED-C46-005",
+   "sec": "ADA 2024 antihyperglycaemic drug classes",
+   "page": 933,
+   "fmt": "fillup",
+   "q": "SGLT2 inhibitors block the ___ cotransporter in the proximal convoluted tubule.",
+   "opts": [
+    "Sodium-calcium",
+    "Sodium-glucose (SGLT2)",
+    "Sodium-potassium",
+    "Sodium-hydrogen"
+   ],
+   "ans": 1,
+   "exp": "SGLT2 inhibitors block sodium-glucose cotransporter-2 in the PCT, producing glycosuria. (Book p933)"
+  },
+  {
+   "id": "MED-C46-006",
+   "sec": "ADA 2024 antihyperglycaemic drug classes",
+   "page": 933,
+   "fmt": "match",
+   "q": "Match the following agent to a special indication on the page — 1) Empagliflozin 2) Liraglutide 3) Linagliptin 4) Saroglitazar … A) HFrEF mortality benefit B) Cardiovascular outcome benefit (LEADER) C) Renal-safe DPP-4 inhibitor D) NASH / dyslipidaemia dual PPAR agonist",
+   "opts": [
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-C, 4-B"
+   ],
+   "ans": 1,
+   "exp": "Empagliflozin has HFrEF mortality benefit; liraglutide has CV outcome benefit (LEADER); linagliptin is renal-safe without dose adjustment; saroglitazar is a dual PPAR agonist for NASH/dyslipidaemia. (Book p933)"
+  },
+  {
+   "id": "MED-C46-007",
+   "sec": "ADA 2024 antihyperglycaemic drug classes",
+   "page": 933,
+   "fmt": "scenario",
+   "q": "A patient with T2DM and CKD stage 3 needs intensification with minimal renal dose adjustment. The most appropriate add-on is:",
+   "opts": [
+    "Standard dose sitagliptin",
+    "Glipizide",
+    "Pioglitazone",
+    "Linagliptin (no renal dose adjustment)"
+   ],
+   "ans": 3,
+   "exp": "Linagliptin is excreted via bile and needs no renal dose adjustment; sitagliptin needs dose reduction; pioglitazone carries fluid-retention risk in CKD. (Book p933)"
+  },
+  {
+   "id": "MED-C46-008",
+   "sec": "ADA 2024 antihyperglycaemic drug classes",
+   "page": 933,
+   "fmt": "truefalse",
+   "q": "Assess GLP-1 RAs: I Oral semaglutide is available. II Semaglutide is contraindicated in pregnancy.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both false",
+    "Both true"
+   ],
+   "ans": 3,
+   "exp": "Oral semaglutide is approved; GLP-1 RAs are not approved in pregnancy and should be stopped before conception. (Book p933)"
+  },
+  {
+   "id": "MED-C46-009",
+   "sec": "ADA 2024 antihyperglycaemic drug classes",
+   "page": 933,
+   "fmt": "match",
+   "q": "Match the following drug to its side-effect profile — 1) Pioglitazone 2) SGLT2 inhibitor 3) GLP-1 RA 4) DPP-4 inhibitor … A) Fluid retention and fracture risk B) Genital mycotic infection C) Nausea and pancreatitis D) Nasopharyngitis, rare pancreatitis",
+   "opts": [
+    "1-A, 2-D, 3-B, 4-C",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D"
+   ],
+   "ans": 2,
+   "exp": "Pioglitazone causes fluid retention, fracture and bladder cancer risk; SGLT2i cause genital mycotic infection; GLP-1 RA cause nausea and pancreatitis risk; DPP-4 inhibitors cause nasopharyngitis and rare pancreatitis. (Book p933)"
+  },
+  {
+   "id": "MED-C46-010",
+   "sec": "ADA 2024 antihyperglycaemic drug classes",
+   "page": 933,
+   "fmt": "scenario",
+   "q": "A T2DM patient on metformin develops recurrent genital thrush and is started on empagliflozin. The most appropriate counselling is:",
+   "opts": [
+    "Stop the drug immediately",
+    "Add pioglitazone for glycemia",
+    "No additional counselling needed",
+    "Maintain perineal hygiene and report genital infections early"
+   ],
+   "ans": 3,
+   "exp": "SGLT2 inhibitors increase genital mycotic infection risk; maintain hygiene and seek review if symptoms develop. (Book p933)"
+  },
+  {
+   "id": "MED-C46-011",
+   "sec": "ADA 2024 antihyperglycaemic drug classes",
+   "page": 933,
+   "fmt": "fillup",
+   "q": "Pioglitazone acts as a ___ receptor agonist, increasing insulin sensitivity in adipose tissue.",
+   "opts": [
+    "GLP-1",
+    "DPP-4",
+    "PPARγ",
+    "PPARα"
+   ],
+   "ans": 2,
+   "exp": "Pioglitazone is a PPARγ agonist, increasing adipose insulin sensitivity. (Book p933)"
+  },
+  {
+   "id": "MED-C46-012",
+   "sec": "ADA 2024 antihyperglycaemic drug classes",
+   "page": 933,
+   "fmt": "truefalse",
+   "q": "Assess TZDs: I Pioglitazone is contraindicated in heart failure. II Rosiglitazone has been withdrawn from most markets due to CV concerns.",
+   "opts": [
+    "I false; II true",
+    "Both false",
+    "Both true",
+    "I true; II false"
+   ],
+   "ans": 2,
+   "exp": "Pioglitazone is contraindicated in HF (fluid retention); rosiglitazone use is heavily restricted due to CV concerns. (Book p933)"
+  },
+  {
+   "id": "MED-C46-013",
+   "sec": "ADA 2024 drug combinations and insulin indications",
+   "page": 934,
+   "fmt": "match",
+   "q": "Match the following indication — 1) HbA1c ≥1.5–2% above target 2) Glycaemic triad / ketosis 3) Pregnancy hyperglycaemia 4) Vascular complications … A) Dual therapy initially B) Insulin C) Insulin (gestational / T1DM) D) Insulin after failure of dual therapy",
+   "opts": [
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-B, 4-D"
+   ],
+   "ans": 1,
+   "exp": "HbA1c significantly above target warrants dual therapy; ketosis prompts insulin; pregnancy hyperglycaemia needs insulin; vascular complications are not themselves an indication for insulin but guide agent choice. (Book p934)"
+  },
+  {
+   "id": "MED-C46-014",
+   "sec": "ADA 2024 drug combinations and insulin indications",
+   "page": 934,
+   "fmt": "scenario",
+   "q": "A patient with new T2DM has HbA1c 10.2%, BMI 31 and no contraindications. The ADA 2024 approach is most consistent with:",
+   "opts": [
+    "Metformin alone",
+    "Lifestyle only",
+    "Insulin monotherapy",
+    "Initial dual therapy (metformin + GLP-1 RA or SGLT2i)"
+   ],
+   "ans": 3,
+   "exp": "HbA1c ≥1.5–2% above target (HbA1c 10.2% vs 7% target) warrants initial dual therapy or combination injectable therapy. (Book p934)"
+  },
+  {
+   "id": "MED-C46-015",
+   "sec": "ADA 2024 drug combinations and insulin indications",
+   "page": 934,
+   "fmt": "truefalse",
+   "q": "Assess insulin indications: I Insulin is mandatory in type 1 diabetes. II Insulin is preferred in pregnancy with hyperglycaemia.",
+   "opts": [
+    "Both false",
+    "Both true",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 1,
+   "exp": "Insulin is the only approved therapy for Type 1 diabetes and the preferred agent in pregnancy when glycaemia is uncontrolled. (Book p934)"
+  },
+  {
+   "id": "MED-C46-016",
+   "sec": "ADA 2024 drug combinations and insulin indications",
+   "page": 934,
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a non-insulin agent with proven cardiovascular benefit?",
+   "opts": [
+    "Liraglutide",
+    "Semaglutide",
+    "Gliclazide",
+    "Empagliflozin"
+   ],
+   "ans": 2,
+   "exp": "Gliclazide has cardiovascular safety data but not the same mortality benefit as SGLT2i and GLP-1 RAs. (Book p934)"
+  },
+  {
+   "id": "MED-C46-017",
+   "sec": "ADA 2024 drug combinations and insulin indications",
+   "page": 934,
+   "fmt": "fillup",
+   "q": "ADA 2024 recommends initiating ___ therapy in patients with HbA1c ≥1.5% above target.",
+   "opts": [
+    "Insulin",
+    "Dual",
+    "Mono",
+    "Triple"
+   ],
+   "ans": 1,
+   "exp": "Dual therapy is recommended when HbA1c is ≥1.5% above target to accelerate glycaemic control. (Book p934)"
+  },
+  {
+   "id": "MED-C46-018",
+   "sec": "ADA 2024 drug combinations and insulin indications",
+   "page": 934,
+   "fmt": "match",
+   "q": "Match the following agent to its specific trial / indication — 1) Empagliflozin 2) Liraglutide 3) Canagliflozin 4) Dapagliflozin … A) EMPA-REG (CV + renal) B) LEADER (CV) C) CREDENCE (renal) D) DAPA-HF (HF, non-diabetic included)",
+   "opts": [
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-C, 4-B"
+   ],
+   "ans": 1,
+   "exp": "EMPA-REG (empagliflozin, CV + renal); LEADER (liraglutide, CV); CREDENCE (canagliflozin, renal); DAPA-HF (dapagliflozin, HF including non-DM). (Book p934)"
+  },
+  {
+   "id": "MED-C46-019",
+   "sec": "ADA 2024 drug combinations and insulin indications",
+   "page": 934,
+   "fmt": "scenario",
+   "q": "A patient with T2DM and HFpEF is on metformin; the clinician considers adding an SGLT2i for HF hospitalisation benefit. The most appropriate choice is:",
+   "opts": [
+    "Pioglitazone",
+    "Dapagliflozin or empagliflozin",
+    "Saxagliptin",
+    "Glimepiride"
+   ],
+   "ans": 1,
+   "exp": "Dapagliflozin and empagliflozin reduce HF hospitalisation in HF regardless of ejection fraction; saxagliptin has increased HF risk; pioglitazone worsens HF. (Book p934)"
+  },
+  {
+   "id": "MED-C46-020",
+   "sec": "ADA 2024 drug combinations and insulin indications",
+   "page": 934,
+   "fmt": "truefalse",
+   "q": "Assess saxagliptin: I Saxagliptin is associated with increased HF hospitalisation. II It is the preferred DPP-4 inhibitor in HF.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "SAVOR-TIMI-53 showed increased HF hospitalisation with saxagliptin; it is not preferred in HF. (Book p934)"
+  },
+  {
+   "id": "MED-C46-021",
+   "sec": "ADA 2024 drug combinations and insulin indications",
+   "page": 934,
+   "fmt": "match",
+   "q": "Match the following combination to its rationale — 1) Metformin + GLP-1 RA 2) Metformin + SGLT2i 3) GLP-1 RA + basal insulin 4) Metformin + TZD … A) Glycaemia + weight loss + CV benefit B) Glycaemia + cardio-renal + HF benefit C) Glycaemia with low hypoglycaemia D) Glycaemia + insulin sensitisation (watch for HF)",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 2,
+   "exp": "Metformin + GLP-1 RA gives CV benefit; metformin + SGLT2i gives cardio-renal + HF benefit; GLP-1 + basal insulin gives low hypo; metformin + TZD sensitises with HF caution. (Book p934)"
+  },
+  {
+   "id": "MED-C46-022",
+   "sec": "ADA 2024 drug combinations and insulin indications",
+   "page": 934,
+   "fmt": "scenario",
+   "q": "A patient with T2DM on metformin and liraglutide needs further glycaemic control. The most appropriate add-on with cardio-renal benefit is:",
+   "opts": [
+    "Acarbose (α-glucosidase inhibitor)",
+    "SGLT2 inhibitor",
+    "Sulfonylurea",
+    "DPP-4 inhibitor"
+   ],
+   "ans": 1,
+   "exp": "Adding an SGLT2 inhibitor provides additional cardio-renal benefit without much hypoglycaemia risk. (Book p934)"
+  },
+  {
+   "id": "MED-C46-023",
+   "sec": "ADA 2024 drug combinations and insulin indications",
+   "page": 934,
+   "fmt": "fillup",
+   "q": "Insulin should be initiated in T2DM if there is ___, HbA1c ≥10%, or features of the glycaemic triad.",
+   "opts": [
+    "New diagnosis in obese patient",
+    "Patient preference",
+    "Uncontrolled hyperglycaemia despite combination therapy",
+    "Mild postprandial hyperglycaemia"
+   ],
+   "ans": 2,
+   "exp": "Insulin is added when combination oral / injectable therapy fails to control glycaemia, especially with severe hyperglycaemia or ketosis. (Book p934)"
+  },
+  {
+   "id": "MED-C46-024",
+   "sec": "ADA 2024 drug combinations and insulin indications",
+   "page": 934,
+   "fmt": "truefalse",
+   "q": "Assess insulin timing: I Basal insulin is preferred over premixed in T2DM. II Basal insulin can be combined with GLP-1 RA.",
+   "opts": [
+    "I false; II true",
+    "Both false",
+    "Both true",
+    "I true; II false"
+   ],
+   "ans": 2,
+   "exp": "Basal insulin is preferred for simplicity and lower hypo risk; iDegLira and iGlarLixi are fixed-ratio combinations with GLP-1 RA / GIP. (Book p934)"
+  },
+  {
+   "id": "MED-C46-025",
+   "sec": "Multifactorial management: BP, lipids, antiplatelet, NASH",
+   "page": 935,
+   "fmt": "match",
+   "q": "Match the following multifactorial target — 1) Blood pressure 2) LDL cholesterol 3) Aspirin 4) Proteinuria … A) <130/80 mmHg (<120/80 with CKD) B) <130 (or <100, <70, <55 by risk) C) 75 mg >40 yr with one risk factor D) ACEi + SGLT2i + finerenone",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "BP target <130/80 (<120/80 with CKD); LDL targets vary by risk (130/100/70/55); aspirin 75 mg >40 yr with risk factors; proteinuria uses ACEi + SGLT2i + finerenone. (Book p935)"
+  },
+  {
+   "id": "MED-C46-026",
+   "sec": "Multifactorial management: BP, lipids, antiplatelet, NASH",
+   "page": 935,
+   "fmt": "scenario",
+   "q": "A 60-year-old with T2DM and established CVD has LDL 130 mg/dL. The most appropriate lipid management is:",
+   "opts": [
+    "High-intensity statin (atorvastatin 40–80 mg)",
+    "Low-intensity statin",
+    "No statin",
+    "Ezetimibe alone"
+   ],
+   "ans": 0,
+   "exp": "Established CVD with LDL 130 mg/dL warrants high-intensity statin (atorvastatin 40–80 mg or rosuvastatin 20–40 mg). (Book p935)"
+  },
+  {
+   "id": "MED-C46-027",
+   "sec": "Multifactorial management: BP, lipids, antiplatelet, NASH",
+   "page": 935,
+   "fmt": "truefalse",
+   "q": "Assess BP targets: I <130/80 mmHg is the general diabetes target. II <120/80 mmHg is preferred in CKD with proteinuria.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "<130/80 mmHg is the standard target; <120/80 mmHg is preferred in CKD with proteinuria, per page and KDIGO guidance. (Book p935)"
+  },
+  {
+   "id": "MED-C46-028",
+   "sec": "Multifactorial management: BP, lipids, antiplatelet, NASH",
+   "page": 935,
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a first-line antihypertensive in T2DM?",
+   "opts": [
+    "Amlodipine monotherapy",
+    "ACE inhibitor",
+    "Angiotensin receptor blocker",
+    "Combination with cilnidipine or benidipine"
+   ],
+   "ans": 0,
+   "exp": "Amlodipine monotherapy is not preferred; ACEi/ARB is first-line, with CCB combined. The page mentions cilnidipine / benidipine as CCB options in combination. (Book p935)"
+  },
+  {
+   "id": "MED-C46-029",
+   "sec": "Multifactorial management: BP, lipids, antiplatelet, NASH",
+   "page": 935,
+   "fmt": "fillup",
+   "q": "In T2DM with albuminuria, the triple combination for renal protection includes ACEi, SGLT2i and ___.",
+   "opts": [
+    "Beta-blocker",
+    "Loop diuretic",
+    "Methyldopa",
+    "Finerenone (non-steroidal MRA)"
+   ],
+   "ans": 3,
+   "exp": "Finerenone is the non-steroidal mineralocorticoid receptor antagonist added on top of ACEi and SGLT2i for diabetic kidney disease. (Book p935)"
+  },
+  {
+   "id": "MED-C46-030",
+   "sec": "Multifactorial management: BP, lipids, antiplatelet, NASH",
+   "page": 935,
+   "fmt": "match",
+   "q": "Match the following agent to its lipid-lowering effect — 1) Atorvastatin 2) Rosuvastatin 3) Ezetimibe 4) PCSK9 inhibitor … A) High-intensity statin 40–80 mg B) High-intensity statin 20–40 mg C) NPC1L1 inhibitor, add-on D) LDL-R upregulator, injectable",
+   "opts": [
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-B, 4-C"
+   ],
+   "ans": 1,
+   "exp": "Atorvastatin 40–80 mg and rosuvastatin 20–40 mg are high-intensity statins; ezetimibe blocks NPC1L1; PCSK9 inhibitors upregulate LDL receptor. (Book p935)"
+  },
+  {
+   "id": "MED-C46-031",
+   "sec": "Multifactorial management: BP, lipids, antiplatelet, NASH",
+   "page": 935,
+   "fmt": "scenario",
+   "q": "A 55-year-old with T2DM on high-intensity statin has LDL 95 mg/dL and a recent MI. The most appropriate add-on is:",
+   "opts": [
+    "Ezetimibe first, then PCSK9 inhibitor if needed",
+    "Double the statin dose",
+    "Add fibrate",
+    "Stop statin"
+   ],
+   "ans": 0,
+   "exp": "After high-intensity statin, ezetimibe is added first; PCSK9 inhibitors are used for further LDL reduction in very high-risk patients. (Book p935)"
+  },
+  {
+   "id": "MED-C46-032",
+   "sec": "Multifactorial management: BP, lipids, antiplatelet, NASH",
+   "page": 935,
+   "fmt": "truefalse",
+   "q": "Assess NASH: I Semaglutide and saroglitazar improve NASH. II Pioglitazone is contraindicated in NASH with HF.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both false",
+    "Both true"
+   ],
+   "ans": 3,
+   "exp": "Semaglutide and saroglitazar improve NASH; pioglitazone also improves NASH but is contraindicated in HF. (Book p935)"
+  },
+  {
+   "id": "MED-C46-033",
+   "sec": "Multifactorial management: BP, lipids, antiplatelet, NASH",
+   "page": 935,
+   "fmt": "match",
+   "q": "Match the following scenario to the LDL target — 1) >40 yr no other risk 2) One additional ASCVD risk factor 3) High-risk (CKD, severe AS) 4) Established CVD … A) <130 mg/dL B) <100 mg/dL C) <70 mg/dL D) <55 mg/dL",
+   "opts": [
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-B, 4-C"
+   ],
+   "ans": 1,
+   "exp": "The page lists stepwise LDL targets: <130, <100, <70 and <55 mg/dL depending on risk; established CVD is the strictest (<55 mg/dL). (Book p935)"
+  },
+  {
+   "id": "MED-C46-034",
+   "sec": "Multifactorial management: BP, lipids, antiplatelet, NASH",
+   "page": 935,
+   "fmt": "scenario",
+   "q": "A 70-year-old with T2DM, CKD and proteinuria has BP 142/86 mmHg. The most appropriate antihypertensive strategy is:",
+   "opts": [
+    "Calcium channel blocker alone",
+    "ACEi or ARB + CCB (cilnidipine / benidipine) with SGLT2i",
+    "Beta-blocker only",
+    "Loop diuretic monotherapy"
+   ],
+   "ans": 1,
+   "exp": "ACEi/ARB is first-line for diabetic kidney disease; CCB combination achieves BP targets; SGLT2i provides additional renal protection. (Book p935)"
+  },
+  {
+   "id": "MED-C46-035",
+   "sec": "Multifactorial management: BP, lipids, antiplatelet, NASH",
+   "page": 935,
+   "fmt": "fillup",
+   "q": "Aspirin 75 mg daily is recommended in diabetes patients over ___ years with at least one additional ASCVD risk factor.",
+   "opts": [
+    "30",
+    "50",
+    "60",
+    "40"
+   ],
+   "ans": 3,
+   "exp": "Aspirin 75 mg daily is recommended in patients >40 yr with at least one additional ASCVD risk factor (not in low-risk patients due to bleeding). (Book p935)"
+  },
+  {
+   "id": "MED-C46-036",
+   "sec": "Multifactorial management: BP, lipids, antiplatelet, NASH",
+   "page": 935,
+   "fmt": "truefalse",
+   "q": "Assess multifactorial care: I Lifestyle intervention remains the foundation. II Multifactorial care reduces long-term complications.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both false",
+    "Both true"
+   ],
+   "ans": 3,
+   "exp": "Lifestyle intervention is the foundation; multifactorial care reduces both micro- and macrovascular complications long-term. (Book p935)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U46-1",
+   "ch": 46,
+   "n": 1,
+   "title": "ADA 2024 antihyperglycaemic drug classes",
+   "sec": "ADA 2024 antihyperglycaemic drug classes · p933",
+   "guide": "Anchor the mechanisms of metformin, sulfonylureas, SGLT2 inhibitors, GLP-1 RAs and DPP-4 inhibitors. SGLT2i and GLP-1 RA carry CV outcome benefit; gliclazide is the preferred sulfonylurea; pioglitazone is contraindicated in HF.",
+   "qs": [
+    "MED-C46-001",
+    "MED-C46-002",
+    "MED-C46-003",
+    "MED-C46-004",
+    "MED-C46-005",
+    "MED-C46-006",
+    "MED-C46-007",
+    "MED-C46-008",
+    "MED-C46-009",
+    "MED-C46-010",
+    "MED-C46-011",
+    "MED-C46-012"
+   ]
+  },
+  {
+   "id": "MED-U46-2",
+   "ch": 46,
+   "n": 2,
+   "title": "ADA 2024 drug combinations and insulin indications",
+   "sec": "ADA 2024 drug combinations and insulin indications · p934",
+   "guide": "Dual therapy is recommended for HbA1c ≥1.5% above target. Insulin is mandatory for type 1, pregnancy hyperglycaemia, HbA1c ≥10% and ketosis; SGLT2i should be added for cardio-renal benefit even when glycaemia is controlled.",
+   "qs": [
+    "MED-C46-013",
+    "MED-C46-014",
+    "MED-C46-015",
+    "MED-C46-016",
+    "MED-C46-017",
+    "MED-C46-018",
+    "MED-C46-019",
+    "MED-C46-020",
+    "MED-C46-021",
+    "MED-C46-022",
+    "MED-C46-023",
+    "MED-C46-024"
+   ]
+  },
+  {
+   "id": "MED-U46-3",
+   "ch": 46,
+   "n": 3,
+   "title": "Multifactorial management: BP, lipids, antiplatelet, NASH",
+   "sec": "Multifactorial management: BP, lipids, antiplatelet, NASH · p935",
+   "guide": "Targets: BP <130/80 (<120/80 in CKD with proteinuria), LDL <130/100/70/55 by risk, aspirin 75 mg >40 yr with risk factors. Renal protection uses ACEi + SGLT2i + finerenone; semaglutide and saroglitazar improve NASH.",
+   "qs": [
+    "MED-C46-025",
+    "MED-C46-026",
+    "MED-C46-027",
+    "MED-C46-028",
+    "MED-C46-029",
+    "MED-C46-030",
+    "MED-C46-031",
+    "MED-C46-032",
+    "MED-C46-033",
+    "MED-C46-034",
+    "MED-C46-035",
+    "MED-C46-036"
+   ]
+  }
+ ]
+}

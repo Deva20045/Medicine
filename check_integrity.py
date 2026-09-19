@@ -60,6 +60,12 @@ LIVE_CHAPTERS = {
     38: ('Magnesium Metabolism', 892, 894, 48, 3),
     39: ('Osteoporosis', 895, 897, 50, 3),
     40: ('Basics of Thyroid Gland', 898, 901, 59, 4),
+    41: ('Thyroid Function Tests', 902, 904, 38, 3),
+    42: ('Hypothyroidism', 905, 909, 63, 5),
+    43: ('Thyrotoxicosis and Thyroiditis', 910, 916, 86, 7),
+    44: ('Introduction to Diabetes Mellitus and Classification', 917, 926, 123, 10),
+    45: ('Insulin Physiology and Acute Complications of Diabetes Mellitus', 927, 932, 72, 6),
+    46: ('Management of Diabetes Mellitus - 2024 Guidelines', 933, 935, 36, 3),
     60: ("Portal Hypertension", 1001, 1004, 86, 8),
     61: ("Ascites and Hepatorenal Syndrome", 1005, 1009, 81, 8),
 }

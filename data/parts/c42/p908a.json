@@ -1,0 +1,150 @@
+{
+ "page": 908,
+ "sec": "Hypothyroidism management: levothyroxine and special populations",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following principles of levothyroxine therapy — 1) Form 2) Dosing starting point 3) Administration timing 4) Monitoring interval … A) Oral levothyroxine (tablets) B) Weight-based 1.6 µg/kg in young, low in elderly/cardiac C) Empty stomach, before breakfast D) 6–8 weeks after dose change",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Oral levothyroxine is given once daily on an empty stomach; full replacement is 1.6 µg/kg in healthy young adults, lower in elderly or cardiac patients; TSH is rechecked 6–8 weeks after dose changes. (Book p908)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 30-year-old woman with overt hypothyroidism is started on levothyroxine 100 µg daily. What monitoring schedule fits the source?",
+   "opts": [
+    "Check TSH 6–8 weeks after each dose change",
+    "Check free T4 weekly (alternative)",
+    "Check TSH monthly for the first year",
+    "No monitoring needed once symptoms improve"
+   ],
+   "ans": 0,
+   "exp": "TSH is checked 6–8 weeks after every dose change until stable, then every 6–12 months. (Book p908)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Evaluate levothyroxine administration: I It should be taken with breakfast for best absorption. II Calcium and iron supplements reduce its absorption.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "Levothyroxine is taken on an empty stomach 30–60 minutes before breakfast; calcium, iron, antacids and certain foods reduce its absorption. (Book p908)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a drug that reduces levothyroxine absorption?",
+   "opts": [
+    "Methimazole (correct answer)",
+    "Calcium carbonate (alternative)",
+    "Ferrous sulphate (alternative)",
+    "Proton-pump inhibitors (reduce gastric acidity)"
+   ],
+   "ans": 0,
+   "exp": "Methimazole is an antithyroid drug, not an absorption blocker; calcium, iron and PPIs all interfere with levothyroxine uptake. (Book p908)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "In healthy young adults, the typical full replacement dose of levothyroxine is approximately ___ µg/kg/day.",
+   "opts": [
+    "1.6",
+    "0.5",
+    "3.2",
+    "5.0"
+   ],
+   "ans": 0,
+   "exp": "Approximately 1.6 µg/kg/day in young healthy adults; lower doses in elderly or ischaemic heart disease. (Book p908)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following patient group with the source's levothyroxine starting approach — 1) Young healthy adult 2) Elderly 3) Ischaemic heart disease 4) Pregnancy … A) Full weight-based dose B) Start low (25–50 µg), titrate slowly C) Start very low, titrate by 12.5 µg D) Increase dose 25–30% over pre-pregnancy dose",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Young healthy adults receive full weight-based replacement; elderly start low and titrate slowly; cardiac patients start very low and increment by 12.5 µg; pregnancy increases the dose by 25–30%. (Book p908)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An 80-year-old with atrial fibrillation and overt hypothyroidism needs levothyroxine. The best initial regimen is:",
+   "opts": [
+    "25 µg daily, titrate every 6–8 weeks",
+    "100 µg daily, titrate weekly",
+    "200 µg daily as a stat dose",
+    "0.5 mg IV levothyroxine bolus"
+   ],
+   "ans": 0,
+   "exp": "Start low in elderly cardiac patients (25–50 µg) and titrate by 12.5–25 µg every 6–8 weeks to avoid precipitating ischaemia. (Book p908)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess thyroid replacement endpoints: I In primary hypothyroidism the target is normal TSH. II In central hypothyroidism the target is normal free T4 only.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Primary hypothyroidism uses TSH as the target; central hypothyroidism uses free T4 in the upper normal range because TSH is unreliable. (Book p908)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following special population to its TSH target on levothyroxine — 1) Young adult 2) Pregnancy (T1) 3) Elderly with cardiac disease 4) Pregnancy (T3) … A) 0.5–2.5 mIU/L B) 0.5–3.0 mIU/L C) Up to 4–6 mIU/L acceptable D) 0.5–2.5 mIU/L",
+   "opts": [
+    "1-A, 2-D, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Young adults aim for 0.5–2.5; both trimesters of pregnancy aim for similar low targets (T1 stricter); elderly with cardiac disease may tolerate slightly higher TSH. (Book p908)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A pregnant woman on levothyroxine 100 µg now needs an increased dose. By what percentage should the source's guidance recommend an increase?",
+   "opts": [
+    "25–30% (correct answer)",
+    "5% (alternative)",
+    "100% (alternative)",
+    "No change needed"
+   ],
+   "ans": 0,
+   "exp": "Pregnancy increases thyroxine requirement by 25–30%; dose should be adjusted once pregnancy is confirmed. (Book p908)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The source's preferred thyroid hormone preparation is ___, with ___ reserved for selected refractory cases.",
+   "opts": [
+    "Levothyroxine (T4); liothyronine (T3)",
+    "Liothyronine (T3); levothyroxine (T4)",
+    "Desiccated thyroid; T4:T3 combination",
+    "Combination T4/T3; levothyroxine alone"
+   ],
+   "ans": 0,
+   "exp": "Levothyroxine is the standard; liothyronine is occasionally added in refractory cases but routine combination therapy is not standard. (Book p908)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess therapeutic drug interactions: I Levothyroxine absorption is reduced by sucralfate. II Cholestyramine reduces levothyroxine absorption.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Sucralfate, cholestyramine, calcium, iron and PPIs all reduce levothyroxine absorption; separate dosing by at least four hours. (Book p908)"
+  }
+ ]
+}

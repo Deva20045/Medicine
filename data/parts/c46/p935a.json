@@ -1,0 +1,150 @@
+{
+ "page": 935,
+ "sec": "Multifactorial management: BP, lipids, antiplatelet, NASH",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following multifactorial target — 1) Blood pressure 2) LDL cholesterol 3) Aspirin 4) Proteinuria … A) <130/80 mmHg (<120/80 with CKD) B) <130 (or <100, <70, <55 by risk) C) 75 mg >40 yr with one risk factor D) ACEi + SGLT2i + finerenone",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "BP target <130/80 (<120/80 with CKD); LDL targets vary by risk (130/100/70/55); aspirin 75 mg >40 yr with risk factors; proteinuria uses ACEi + SGLT2i + finerenone. (Book p935)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 60-year-old with T2DM and established CVD has LDL 130 mg/dL. The most appropriate lipid management is:",
+   "opts": [
+    "High-intensity statin (atorvastatin 40–80 mg)",
+    "Low-intensity statin",
+    "No statin",
+    "Ezetimibe alone"
+   ],
+   "ans": 0,
+   "exp": "Established CVD with LDL 130 mg/dL warrants high-intensity statin (atorvastatin 40–80 mg or rosuvastatin 20–40 mg). (Book p935)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess BP targets: I <130/80 mmHg is the general diabetes target. II <120/80 mmHg is preferred in CKD with proteinuria.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "<130/80 mmHg is the standard target; <120/80 mmHg is preferred in CKD with proteinuria, per page and KDIGO guidance. (Book p935)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a first-line antihypertensive in T2DM?",
+   "opts": [
+    "Amlodipine monotherapy",
+    "ACE inhibitor",
+    "Angiotensin receptor blocker",
+    "Combination with cilnidipine or benidipine"
+   ],
+   "ans": 0,
+   "exp": "Amlodipine monotherapy is not preferred; ACEi/ARB is first-line, with CCB combined. The page mentions cilnidipine / benidipine as CCB options in combination. (Book p935)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "In T2DM with albuminuria, the triple combination for renal protection includes ACEi, SGLT2i and ___.",
+   "opts": [
+    "Finerenone (non-steroidal MRA)",
+    "Beta-blocker",
+    "Loop diuretic",
+    "Methyldopa"
+   ],
+   "ans": 0,
+   "exp": "Finerenone is the non-steroidal mineralocorticoid receptor antagonist added on top of ACEi and SGLT2i for diabetic kidney disease. (Book p935)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following agent to its lipid-lowering effect — 1) Atorvastatin 2) Rosuvastatin 3) Ezetimibe 4) PCSK9 inhibitor … A) High-intensity statin 40–80 mg B) High-intensity statin 20–40 mg C) NPC1L1 inhibitor, add-on D) LDL-R upregulator, injectable",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Atorvastatin 40–80 mg and rosuvastatin 20–40 mg are high-intensity statins; ezetimibe blocks NPC1L1; PCSK9 inhibitors upregulate LDL receptor. (Book p935)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 55-year-old with T2DM on high-intensity statin has LDL 95 mg/dL and a recent MI. The most appropriate add-on is:",
+   "opts": [
+    "Ezetimibe first, then PCSK9 inhibitor if needed",
+    "Double the statin dose",
+    "Add fibrate",
+    "Stop statin"
+   ],
+   "ans": 0,
+   "exp": "After high-intensity statin, ezetimibe is added first; PCSK9 inhibitors are used for further LDL reduction in very high-risk patients. (Book p935)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess NASH: I Semaglutide and saroglitazar improve NASH. II Pioglitazone is contraindicated in NASH with HF.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Semaglutide and saroglitazar improve NASH; pioglitazone also improves NASH but is contraindicated in HF. (Book p935)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following scenario to the LDL target — 1) >40 yr no other risk 2) One additional ASCVD risk factor 3) High-risk (CKD, severe AS) 4) Established CVD … A) <130 mg/dL B) <100 mg/dL C) <70 mg/dL D) <55 mg/dL",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "The page lists stepwise LDL targets: <130, <100, <70 and <55 mg/dL depending on risk; established CVD is the strictest (<55 mg/dL). (Book p935)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 70-year-old with T2DM, CKD and proteinuria has BP 142/86 mmHg. The most appropriate antihypertensive strategy is:",
+   "opts": [
+    "ACEi or ARB + CCB (cilnidipine / benidipine) with SGLT2i",
+    "Beta-blocker only",
+    "Loop diuretic monotherapy",
+    "Calcium channel blocker alone"
+   ],
+   "ans": 0,
+   "exp": "ACEi/ARB is first-line for diabetic kidney disease; CCB combination achieves BP targets; SGLT2i provides additional renal protection. (Book p935)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Aspirin 75 mg daily is recommended in diabetes patients over ___ years with at least one additional ASCVD risk factor.",
+   "opts": [
+    "40",
+    "30",
+    "50",
+    "60"
+   ],
+   "ans": 0,
+   "exp": "Aspirin 75 mg daily is recommended in patients >40 yr with at least one additional ASCVD risk factor (not in low-risk patients due to bleeding). (Book p935)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess multifactorial care: I Lifestyle intervention remains the foundation. II Multifactorial care reduces long-term complications.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Lifestyle intervention is the foundation; multifactorial care reduces both micro- and macrovascular complications long-term. (Book p935)"
+  }
+ ]
+}

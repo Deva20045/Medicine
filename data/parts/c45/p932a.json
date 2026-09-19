@@ -1,0 +1,150 @@
+{
+ "page": 932,
+ "sec": "Insulin regimens, dawn/Somogyi, CGM",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following insulin regimen — 1) Basal-bolus 2) Premixed 3) CSII (pump) 4) Twice-daily NPH … A) Long-acting basal + rapid bolus B) Fixed-ratio biphasic insulin C) Continuous subcutaneous infusion D) Conventional older regimen",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Basal-bolus uses long-acting basal + rapid bolus; premixed is fixed-ratio; CSII is continuous infusion; twice-daily NPH is the older conventional regimen. (Book p932)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A T1DM patient has fasting hyperglycaemia on NPH and normal pre-dinner glucose. The next step is:",
+   "opts": [
+    "Review 3 a.m. glucose to distinguish dawn phenomenon from Somogyi",
+    "Increase the morning NPH (alternative)",
+    "Switch to insulin glargine without evaluation",
+    "Add metformin (alternative)"
+   ],
+   "ans": 0,
+   "exp": "Differentiating dawn phenomenon (high 3 a.m. and fasting) from Somogyi (low 3 a.m., high fasting) requires a 3 a.m. glucose check before changing regimen. (Book p932)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess dawn vs Somogyi: I Dawn phenomenon is treated by increasing night-time insulin. II Somogyi is treated by reducing night-time insulin.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Dawn phenomenon is treated by increasing basal insulin; Somogyi is treated by reducing night-time insulin to avoid nocturnal hypoglycaemia. (Book p932)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a long-acting basal insulin?",
+   "opts": [
+    "Insulin aspart",
+    "Insulin glargine",
+    "Insulin detemir",
+    "Insulin degludec"
+   ],
+   "ans": 0,
+   "exp": "Insulin aspart is a rapid-acting analogue; the others are basal analogues. (Book p932)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The page's '8-8-8 + 16 U' overlap regimen at diagnosis of T1DM combines morning split doses with evening ___.",
+   "opts": [
+    "Basal insulin",
+    "Rapid-acting only",
+    "Premixed insulin",
+    "Oral hypoglycaemic"
+   ],
+   "ans": 0,
+   "exp": "An 8-8-8 short-acting insulin plus 16 U basal insulin covers meals and overnight; this split-mixed regimen allows individual titration. (Book p932)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following rapid-acting insulin analogue — 1) Lispro 2) Aspart 3) Glulisine … A) Rapid-acting B) Rapid-acting C) Rapid-acting",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Lispro, aspart and glulisine are all rapid-acting analogues; differences are in excipients and onset (typically 5–15 min). (Book p932)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A T1DM patient has recurrent nocturnal hypoglycaemia on NPH. The most appropriate change is:",
+   "opts": [
+    "Switch to insulin detemir or glargine with dose titration",
+    "Increase NPH dose at bedtime (alternative)",
+    "Add metformin (alternative)",
+    "Switch to oral hypoglycaemics (alternative)"
+   ],
+   "ans": 0,
+   "exp": "Recurrent nocturnal hypoglycaemia warrants switching from NPH to a flatter basal analogue such as detemir or glargine. (Book p932)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess CGM: I CGM reduces hypoglycaemia in T1DM. II CGM is not indicated in T2DM.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "CGM reduces hypoglycaemia in T1DM and increasingly is used in insulin-requiring T2DM as well. (Book p932)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following SMBG / CGM measure — 1) 6-point profile 2) Time in range 3) Glycaemic variability 4) GMI … A) Pre- and post-meal + bedtime B) Percentage 70–180 mg/dL C) Standard deviation / coefficient of variation D) Glucose management indicator from CGM",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "6-point profile covers pre/post meals and bedtime; TIR is the percentage in 70–180 mg/dL; glycaemic variability uses SD or CV; GMI is the CGM-derived HbA1c estimate. (Book p932)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A T2DM patient on basal insulin has TIR 80% with low glucose events. The most appropriate next step is:",
+   "opts": [
+    "Maintain current regimen and review CGM data",
+    "Increase insulin dose (alternative)",
+    "Switch to oral agents (alternative)",
+    "Add prandial insulin (alternative)"
+   ],
+   "ans": 0,
+   "exp": "TIR 80% with no/low hypoglycaemia is generally considered good control; maintain and review. (Book p932)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "CGM-derived HbA1c estimate is called the ___.",
+   "opts": [
+    "Glucose management indicator (GMI)",
+    "Time below range (alternative)",
+    "Mean amplitude of glycaemic excursion",
+    "Hypoglycaemia awareness score"
+   ],
+   "ans": 0,
+   "exp": "GMI is the CGM-derived estimate of HbA1c; it is useful when laboratory HbA1c is unreliable. (Book p932)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess adjustments: I +2 / −4 rule (printed) increases dose if above target by 2 units. II Insulin detemir can be dosed twice daily.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Page-print +2/−4 is a titration rule for above/below target; detemir is often twice daily because of slightly shorter duration than glargine. (Book p932)"
+  }
+ ]
+}

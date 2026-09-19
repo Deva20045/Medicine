@@ -1,0 +1,162 @@
+{
+ "page": 917,
+ "sec": "Diabetes definition and three pillars",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following criteria to the source's diagnostic pillars — 1) Fasting plasma glucose 2) 2-hour post-load 3) HbA1c … A) ≥126 mg/dL B) ≥200 mg/dL C) ≥6.5%",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "The three pillars are fasting plasma glucose ≥126 mg/dL, 2-hour post-load ≥200 mg/dL and HbA1c ≥6.5%; any one confirms diabetes in the absence of symptoms. (Book p917)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An asymptomatic 50-year-old has fasting plasma glucose 132 mg/dL on two occasions. Which diagnostic label is most appropriate?",
+   "opts": [
+    "Diabetes mellitus",
+    "Impaired fasting glucose",
+    "Normal (alternative)",
+    "Hypoglycaemia (alternative)"
+   ],
+   "ans": 0,
+   "exp": "FPG ≥126 mg/dL confirmed on repeat testing confirms diabetes in an asymptomatic adult. (Book p917)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess these diagnostic facts: I HbA1c ≥6.5% is diagnostic. II A single abnormal test is sufficient if symptomatic.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "HbA1c ≥6.5% is one pillar of diagnosis; in symptomatic patients, a single random glucose ≥200 mg/dL with classic symptoms is diagnostic. (Book p917)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a value NOT diagnostic of diabetes?",
+   "opts": [
+    "HbA1c 5.9%",
+    "HbA1c 7.0%",
+    "FPG 130 mg/dL",
+    "2-h PG 220 mg/dL"
+   ],
+   "ans": 0,
+   "exp": "HbA1c 5.9% is below the 6.5% threshold; HbA1c 7.0%, FPG 130 mg/dL and 2-h PG 220 mg/dL all meet diabetes criteria. (Book p917)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The three pillars of diabetes diagnosis on this page are fasting glucose, 2-hour post-load and ___.",
+   "opts": [
+    "HbA1c (correct answer)",
+    "C-peptide",
+    "Fructosamine",
+    "1,5-AG (alternative)"
+   ],
+   "ans": 0,
+   "exp": "HbA1c is the third pillar; C-peptide, fructosamine and 1,5-AG are alternative markers but not part of the three-pillar definition. (Book p917)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following glucose state to its FPG / 2-h PG range — 1) Normal 2) Pre-diabetes / IGT 3) Diabetes … A) FPG <100, 2-h PG <140 B) FPG 100–125 or 2-h PG 140–199 C) FPG ≥126 or 2-h PG ≥200",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Normal FPG is <100 mg/dL and 2-h PG <140 mg/dL; pre-diabetes (IFG / IGT) is FPG 100–125 or 2-h PG 140–199; diabetes is ≥126 or ≥200. (Book p917)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 45-year-old has FPG 118 mg/dL, 2-h PG 175 mg/dL and HbA1c 6.1%. The most consistent diagnostic label is:",
+   "opts": [
+    "Pre-diabetes (combined IFG and IGT)",
+    "Diabetes (alternative)",
+    "Normal (alternative)",
+    "Reactive hypoglycaemia"
+   ],
+   "ans": 0,
+   "exp": "Combined IFG (FPG 100–125) and IGT (2-h PG 140–199) with HbA1c 6.1% fits pre-diabetes. (Book p917)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess diagnostic reproducibility: I A diagnosis requires confirmation on repeat testing in asymptomatic patients. II HbA1c can be falsely low in haemoglobinopathies.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Asymptomatic diagnosis is confirmed on repeat testing; HbA1c can be unreliable with haemoglobin variants, iron deficiency and pregnancy. (Book p917)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following state to its characteristic finding — 1) Normal 2) Pre-diabetes 3) Diabetes 4) Stress hyperglycaemia … A) HbA1c <5.7% B) HbA1c 5.7–6.4% C) HbA1c ≥6.5% D) Transient rise during acute illness",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "HbA1c <5.7% is normal; 5.7–6.4% is pre-diabetes; ≥6.5% is diabetes; transient stress hyperglycaemia resolves with illness. (Book p917)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An asymptomatic patient has HbA1c 7.2% on one occasion. The next step is:",
+   "opts": [
+    "Repeat the test on a different day to confirm",
+    "Start metformin immediately",
+    "Start insulin immediately",
+    "Diagnose pre-diabetes (alternative)"
+   ],
+   "ans": 0,
+   "exp": "Without symptoms, the test should be repeated; if confirmed, lifestyle and metformin are typical first steps. (Book p917)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which value on this page is the diagnostic cut-off for HbA1c?",
+   "opts": [
+    "6.5%",
+    "5.7%",
+    "7.0%",
+    "8.0%"
+   ],
+   "ans": 0,
+   "exp": "HbA1c ≥6.5% is the diagnostic cut-off; 5.7–6.4% defines pre-diabetes. (Book p917)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "An HbA1c of 5.7–6.4% on this page defines ___.",
+   "opts": [
+    "Pre-diabetes / increased risk",
+    "Diabetes (alternative)",
+    "Normal (alternative)",
+    "Type 1 diabetes only"
+   ],
+   "ans": 0,
+   "exp": "HbA1c 5.7–6.4% indicates increased risk for diabetes (pre-diabetes); 6.5% is the diagnostic cut-off. (Book p917)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess additional tests: I Oral glucose tolerance test is more sensitive than FPG. IIGAD antibody screening is part of routine diagnosis.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "OGTT is more sensitive than FPG for detecting IGT; GAD antibodies are used for classification after diagnosis, not routine diagnosis. (Book p917)"
+  }
+ ]
+}

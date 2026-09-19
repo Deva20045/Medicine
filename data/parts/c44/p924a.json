@@ -1,0 +1,150 @@
+{
+ "page": 924,
+ "sec": "Insulin-resistance syndromes, MODY, type 4",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following insulin-resistance syndrome — 1) Type A 2) Type B 3) HAIR-AN 4) Donohue / Rabson-Mendenhall … A) Defective insulin receptor gene B) Anti-insulin-receptor autoantibodies C) Hyperandrogenism, IR, acanthosis D) Severe insulin-receptor mutations with childhood mortality",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-B, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Type A insulin-resistance is due to insulin-receptor gene mutations; Type B is autoimmune with anti-receptor antibodies; HAIR-AN combines hyperandrogenism, IR and acanthosis nigricans; Donohue / Rabson-Mendenhall are severe receptor-mutation syndromes with childhood mortality. (Book p924)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A teenage girl has severe acanthosis nigricans, oligomenorrhoea and elevated testosterone with normal glucose initially but develops diabetes at 18. The most consistent diagnosis is:",
+   "opts": [
+    "HAIR-AN syndrome",
+    "Type 1 diabetes",
+    "MODY 3 (alternative)",
+    "Cushing disease"
+   ],
+   "ans": 0,
+   "exp": "Hyperandrogenism, insulin resistance and acanthosis nigricans fit HAIR-AN. (Book p924)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess insulin-resistance syndromes: I Type A is autoimmune in origin. II Donohue syndrome presents with intrauterine growth restriction.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "Type A is genetic (receptor mutations), Type B is autoimmune; Donohue syndrome includes intrauterine growth restriction and severe neonatal features. (Book p924)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a MODY subtype?",
+   "opts": [
+    "Type A insulin-resistance",
+    "HNF1A-MODY (MODY 3)",
+    "GCK-MODY (MODY 2)",
+    "HNF4A-MODY (MODY 1)"
+   ],
+   "ans": 0,
+   "exp": "Type A insulin-resistance is a receptor disorder, not a MODY subtype; the others are common MODY subtypes. (Book p924)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Donohue and Rabson-Mendenhall syndromes are caused by mutations in the ___ gene.",
+   "opts": [
+    "Insulin receptor (INSR)",
+    "Hepatocyte nuclear factor 1A (HNF1A)",
+    "Glucokinase (GCK)",
+    "Potassium channel (KCNJ11)"
+   ],
+   "ans": 0,
+   "exp": "Both are due to severe insulin-receptor mutations (INSR). (Book p924)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following MODY subtype to its genetic defect — 1) MODY 2 2) MODY 3 3) MODY 5 (HNF1B) … A) Glucokinase (GCK) B) HNF1A transcription factor C) HNF1B with renal cysts",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "MODY 2 is GCK; MODY 3 is HNF1A; MODY 5 is HNF1B with renal cysts and genital tract anomalies. (Book p924)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 22-year-old with mild hyperglycaemia, family history of mild diabetes, and renal cysts on ultrasound is most likely to have:",
+   "opts": [
+    "MODY 5 (HNF1B)",
+    "MODY 2 (GCK)",
+    "MODY 3 (HNF1A)",
+    "Type 1 diabetes"
+   ],
+   "ans": 0,
+   "exp": "MODY 5 (HNF1B) is associated with renal cysts and genital tract malformations. (Book p924)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess MODY: I MODY is typically autosomal dominant. II MODY 3 often progresses and requires sulfonylurea therapy.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "MODY is autosomal dominant; HNF1A-MODY (MODY 3) is progressive and sulfonylurea-responsive. (Book p924)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following neonatal diabetes gene — 1) KCNJ11 2) ABCC8 3) INS … A) K-ATP channel, sulfonylurea-responsive B) K-ATP channel, sulfonylurea-responsive C) Insulin gene mutation",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "KCNJ11 and ABCC8 encode K-ATP channel subunits and are sulfonylurea-responsive; INS is the insulin gene mutation form. (Book p924)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 6-week-old with persistent hyperglycaemia is found to have a KCNJ11 mutation. The most appropriate therapy is:",
+   "opts": [
+    "High-dose sulfonylurea instead of insulin",
+    "Metformin (alternative)",
+    "Diet only (alternative)",
+    "Insulin pump only (alternative)"
+   ],
+   "ans": 0,
+   "exp": "KCNJ11 mutations causing neonatal diabetes are often successfully switched to high-dose sulfonylureas. (Book p924)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Gestational diabetes mellitus is screened at ___ weeks of gestation.",
+   "opts": [
+    "24–28 (correct answer)",
+    "12 (alternative)",
+    "32 (alternative)",
+    "After delivery only"
+   ],
+   "ans": 0,
+   "exp": "Universal GDM screening is recommended at 24–28 weeks; high-risk women are screened earlier. (Book p924)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess GDM: I It is associated with increased future Type 2 diabetes risk. II First-line pharmacotherapy is glyburide.",
+   "opts": [
+    "Both false",
+    "I true; II false",
+    "I false; II true",
+    "Both true"
+   ],
+   "ans": 0,
+   "exp": "GDM raises future Type 2 diabetes risk; first-line pharmacotherapy is insulin, with metformin or glyburide as alternatives. (Book p924)"
+  }
+ ]
+}

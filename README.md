@@ -78,6 +78,7 @@ roadmap, data schema, per-chapter pipeline, and NEXT step.
 | `REPORT_CH23-25.md` | Build report for the Acid–Base chapters (coverage, metrics, verification) |
 | `REPORT_CH26-35.md` | Build report for Ch 26–35 (Endocrinology + Bone/Mineral; coverage, metrics, verification) |
 | `REPORT_CH36-40.md` | Build report for Ch 36–40 (coverage, quality metrics, source caveats, verification) |
+| `REPORT_CH41-46.md` | Build report for Ch 41–46 (Thyroid Function Tests → DM Management — 2024 Guidelines; coverage, quality metrics, source caveats, verification) |
 | `REPORT_CH60-61.md` | Build report for Ch 60–61 (Portal Hypertension, Ascites and HRS) |
 
 ## Run the checks (after any content change)

@@ -1,0 +1,162 @@
+{
+ "page": 906,
+ "sec": "Hashimoto thyroiditis and subclinical hypothyroidism",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the following Hashimoto features to the source's annotation — 1) Pathology 2) Most affected demographic 3) Typical antibody 4) Standard Rx in adult … A) Lymphocytic infiltrate with germinal centres and Hürthle cells B) Middle-aged women C) Anti-TPO (and anti-thyroglobulin) D) Levothyroxine replacement",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-D, 2-A, 3-C, 4-B"
+   ],
+   "ans": 0,
+   "exp": "The page describes lymphocytic infiltrates with Hürthle cells, predominance in middle-aged women, anti-TPO as the marker, and levothyroxine replacement. (Book p906)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 38-year-old woman has a firm rubbery goitre with anti-TPO antibody titres of 800 IU/mL and subclinical hypothyroidism. Which diagnosis fits?",
+   "opts": [
+    "Hashimoto thyroiditis",
+    "Graves disease (alternative)",
+    "Subacute (de Quervain) thyroiditis",
+    "Riedel thyroiditis (alternative)"
+   ],
+   "ans": 0,
+   "exp": "High anti-TPO with goitre in a middle-aged woman fits Hashimoto; Graves would have TSH-receptor antibodies and ophthalmopathy. (Book p906)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Evaluate these Hashimoto facts: I Anti-TPO is the most sensitive antibody. II Hashimoto is the most common cause of hypothyroidism in iodine-replete regions.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Anti-TPO is highlighted as the sensitive marker, and the page notes Hashimoto as the leading cause of hypothyroidism where iodine intake is adequate. (Book p906)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Histologically, the lymphoid infiltrate with germinal centres in Hashimoto is accompanied by ___ cells.",
+   "opts": [
+    "Hürthle (Askanazy) cells",
+    "Anitschkow cells",
+    "Reed-Sternberg cells",
+    "Signet-ring cells"
+   ],
+   "ans": 0,
+   "exp": "Hürthle (Askanazy) cells are the oxyphilic change characteristic of Hashimoto. (Book p906)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following antibody to the source's typical association — 1) Anti-TPO 2) Anti-thyroglobulin 3) TSH-receptor antibody … A) Hashimoto thyroiditis B) Hashimoto thyroiditis (less specific) C) Graves disease",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Anti-TPO is the sensitive marker for Hashimoto; anti-thyroglobulin is also seen but is less specific; TSH-receptor antibodies point to Graves. (Book p906)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A Hashimoto patient with TSH 5.4 mIU/L and normal free T4 is asymptomatic. The most consistent management is:",
+   "opts": [
+    "Observe and recheck in 6–12 months",
+    "Start levothyroxine immediately",
+    "Start methimazole (alternative)",
+    "Refer for total thyroidectomy"
+   ],
+   "ans": 0,
+   "exp": "Mild subclinical hypothyroidism without symptoms and free T4 normal is monitored; treatment thresholds depend on TSH level and antibodies. (Book p906)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess subclinical hypothyroidism: I It is defined by raised TSH with normal free T4. II Treatment threshold is the same for every adult patient.",
+   "opts": [
+    "I true; II false",
+    "Both true",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Subclinical hypothyroidism is defined by raised TSH with normal free T4, but treatment thresholds vary with age, antibodies, pregnancy and cardiovascular risk. (Book p906)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the source's TSH-guided treatment thresholds for subclinical hypothyroidism?",
+   "opts": [
+    "Treat only if TSH > 10 mIU/L regardless of antibodies",
+    "Pregnancy with TSH > 2.5 mIU/L",
+    "Anti-TPO-positive with TSH > 5 mIU/L",
+    "Cardiovascular disease with TSH > 7 mIU/L"
+   ],
+   "ans": 0,
+   "exp": "Universal levothyroxine in pregnancy with TSH > 2.5, antibody-positive patients > 5, and cardiac patients > 7 are individualised thresholds; the 'wait until > 10' rule is an oversimplification. (Book p906)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "In pregnancy, the source-stated upper limit for first-trimester TSH is approximately ___ mIU/L.",
+   "opts": [
+    "2.5",
+    "5.0",
+    "7.5",
+    "10.0"
+   ],
+   "ans": 0,
+   "exp": "Pregnancy-specific TSH targets are stricter; the first-trimester upper limit is approximately 2.5 mIU/L. (Book p906)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following population with the source's treatment approach for subclinical hypothyroidism — 1) Older adult with TSH 6 mIU/L 2) Young symptomatic woman 3) Pregnant with TSH 3.1 mIU/L 4) Hashimoto with TSH 12 mIU/L … A) Often observe B) Treat C) Treat (lower target) D) Treat (high-risk)",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-B, 3-A, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Older adults are often observed; young symptomatic patients are treated; pregnancy targets are stricter; overt-range Hashimoto (TSH > 10) is treated. (Book p906)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A pregnant woman in her first trimester has TSH 3.4 mIU/L with positive anti-TPO antibodies. Which intervention is most consistent with the source?",
+   "opts": [
+    "Start levothyroxine with pregnancy-specific targets",
+    "Observe because TSH < 5 mIU/L",
+    "Start methimazole (alternative)",
+    "Total thyroidectomy before delivery"
+   ],
+   "ans": 0,
+   "exp": "First-trimester TSH should be kept below ~2.5 mIU/L; antibodies and pregnancy warrant levothyroxine replacement. (Book p906)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which antibody is highlighted as the most sensitive serologic marker for Hashimoto thyroiditis?",
+   "opts": [
+    "Anti-TPO (correct answer)",
+    "Anti-thyroglobulin",
+    "TSH-receptor antibody",
+    "Anti-sodium-iodide symporter"
+   ],
+   "ans": 0,
+   "exp": "Anti-TPO is the most sensitive marker per the page; anti-thyroglobulin is less sensitive. (Book p906)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess antibody findings: I Anti-thyroglobulin is occasionally positive in healthy adults. II Hashimoto never coexists with Graves disease.",
+   "opts": [
+    "I true; II false",
+    "Both true",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Anti-thyroglobulin can be present in healthy individuals; rare overlap of Hashimoto and Graves pathology does occur, although uncommon. (Book p906)"
+  }
+ ]
+}

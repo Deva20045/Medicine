@@ -1,0 +1,174 @@
+{
+ "page": 904,
+ "sec": "TFT patterns: thyrotoxicosis, T3-toxicosis, sick-euthyroid, thyroglobulin",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match the printed biochemical pattern — 1) Thyrotoxicosis 2) T3-toxicosis 3) Sick-euthyroid (page schematic) 4) ↓TBG (cirrhosis) … A) ↓TSH, normal T4, ↑FT4, normal T3, ↑FT3 B) ↓TSH, normal T4, normal FT4, normal T3, ↑FT3 C) Normal totals, ↑rT3, ↓FT3 D) Normal totals, ↓TBG",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-C, 2-B, 3-A, 4-D"
+   ],
+   "ans": 0,
+   "exp": "The schematic prints thyrotoxicosis as ↓TSH with normal T4 but raised FT4 and normal T3 with raised FT3; T3-toxicosis raises only FT3; sick-euthyroid leaves totals normal with rT3 high and FT3 low; cirrhosis drops TBG without changing free hormone. (Book p904)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient has suppressed TSH with normal total T4 and total T3 but elevated free T3. The most consistent label is:",
+   "opts": [
+    "T3-toxicosis (correct answer)",
+    "Sick-euthyroid syndrome",
+    "Subclinical hypothyroidism",
+    "Thyroxine over-replacement"
+   ],
+   "ans": 0,
+   "exp": "Isolated free-T3 elevation with otherwise normal totals fits the page's T3-toxicosis pattern. (Book p904)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the source's totals/free schematic: I Thyrotoxicosis row shows FT4 and FT3 both elevated. II Sick-euthyroid row prints normal total hormone values.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The thyrotoxicosis row has both FT4 and FT3 raised; the sick-euthyroid row keeps totals normal with FT3 low. (Book p904)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following state to its TBG / binding-protein print on the page — 1) Pregnancy 2) Cirrhosis 3) Familial dysalbuminaemic hyperthyroxinaemia … A) ↑TBG B) ↓TBG C) Albumin binds excess T4, raising total T4 with normal free hormone",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Pregnancy raises TBG; cirrhosis lowers TBG; FDHS binds excess T4 to albumin raising total T4 with normal free hormone. (Book p904)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with cirrhosis has normal free T4, normal TSH, low TBG and low total T4. The free-hormone result correctly classifies the patient as:",
+   "opts": [
+    "Euthyroid (correct answer)",
+    "Primary hypothyroid",
+    "Central hypothyroid",
+    "Sick-euthyroid"
+   ],
+   "ans": 0,
+   "exp": "Cirrhosis lowers TBG and therefore total T4, but free T4 and TSH are preserved — the patient is euthyroid. (Book p904)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Thyroglobulin is ___ in every cause of hyperthyroidism except ___, where it is low.",
+   "opts": [
+    "Raised; thyrotoxicosis factitia",
+    "Lowered; Graves disease",
+    "Unchanged; subacute thyroiditis",
+    "Normal; toxic multinodular goitre"
+   ],
+   "ans": 0,
+   "exp": "The page lists thyroglobulin as raised in all causes of thyrotoxicosis except factitious ingestion, where it is low. (Book p904)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the source's thyroglobulin teaching: I Thyroglobulin is raised in subacute thyroiditis. II Thyroglobulin is raised in factitious thyrotoxicosis.",
+   "opts": [
+    "I true; II false",
+    "Both true",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Subacute thyroiditis releases stored thyroglobulin, raising it; factitious intake of exogenous hormone suppresses thyroid activity so thyroglobulin is low. (Book p904)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following pattern to the expected free hormone on the page — 1) Subclinical hyperthyroidism 2) T3-toxicosis 3) FDHS 4) Factitious thyrotoxicosis … A) Normal FT4, normal FT3, ↓TSH B) Normal FT4, ↑FT3, ↓TSH C) ↑Total T4, normal free hormone, normal TSH D) ↑FT4, ↓TSH, low thyroglobulin",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-C, 2-B, 3-A, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Subclinical hyperthyroidism has normal free hormones with low TSH; T3-toxicosis raises only free T3; FDHS raises only total T4; factitious raises free T4 with low thyroglobulin. (Book p904)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An over-the-counter 'thyroid support' user has suppressed TSH, raised free T4 and a low thyroglobulin. Which diagnostic label fits?",
+   "opts": [
+    "Thyrotoxicosis factitia",
+    "Graves disease (alternative)",
+    "Toxic multinodular goitre",
+    "TSH-secreting pituitary adenoma"
+   ],
+   "ans": 0,
+   "exp": "Factitious intake suppresses endogenous thyroid activity and therefore thyroglobulin, while exogenous T4 raises free T4. (Book p904)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out — a state where thyroglobulin is raised?",
+   "opts": [
+    "Thyrotoxicosis factitia",
+    "Graves disease",
+    "Toxic multinodular goitre",
+    "Subacute thyroiditis"
+   ],
+   "ans": 0,
+   "exp": "Factitious thyrotoxicosis is the only cause on the page where thyroglobulin is low; the others raise thyroglobulin. (Book p904)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In the page's sick-euthyroid arrow schematic, which direction does the FT3 arrow point?",
+   "opts": [
+    "Down (decreased)",
+    "Up (increased)",
+    "Sideways (unchanged)",
+    "Both up and down (bidirectional)"
+   ],
+   "ans": 0,
+   "exp": "The schematic draws FT3 down as part of the low-T3 / high-rT3 pattern of non-thyroidal illness. (Book p904)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "In familial dysalbuminaemic hyperthyroxinaemia, total T4 is ___ while free T4 and TSH remain ___.",
+   "opts": [
+    "Raised; normal",
+    "Low; raised",
+    "Raised; raised",
+    "Normal; low"
+   ],
+   "ans": 0,
+   "exp": "Albumin-binding variants raise total T4 but free T4 and TSH are preserved; FDHS mimics true hyperthyroidism only on total assays. (Book p904)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess this sick-euthyroid note: I The schematic marks rT3 as up. II The schematic marks FT3 as up.",
+   "opts": [
+    "I true; II false",
+    "Both true",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Reverse T3 is marked up while free T3 is marked down, reflecting impaired T4-to-T3 activation and dominant D3 in critical illness. (Book p904)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following thyrotoxicosis pattern to its free-hormone print — 1) Graves disease 2) Subacute thyroiditis 3) Toxic adenoma 4) Struma ovarii … A) ↑FT4 and ↑FT3 B) ↑FT4 with low thyroglobulin only in factitious C) ↑FT4/FT3 from ectopic thyroid tissue D) Transient ↑FT4 with raised thyroglobulin and ESR",
+   "opts": [
+    "1-A, 2-D, 3-A, 4-C",
+    "1-A, 2-D, 3-C, 4-A",
+    "1-D, 2-A, 3-A, 4-C",
+    "1-A, 2-C, 3-D, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Graves and toxic adenoma raise both FT4 and FT3; subacute thyroiditis causes a transient rise with raised thyroglobulin and ESR; struma ovarii produces ectopic thyroid hormone secretion. (Book p904)"
+  }
+ ]
+}
