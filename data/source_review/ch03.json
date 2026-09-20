@@ -1,0 +1,1703 @@
+{
+  "chapter": 3,
+  "reviewedAt": "2026-09-20",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part1_pages_705-759.pdf",
+  "pdfSha256": "e2dfab80e25cd81302885cda7e07806117d24e15b03d73f2f6b00952ca2fdeea",
+  "pdfOffset": 692,
+  "pageRange": "717-725",
+  "contentSha256": "8acf2a1195885134b4cf067fb752e11f99dacc9a80e039e57d88cf48e4d8fb94",
+  "method": "All nine printed pages read visually at 2x from the supplied Part 1 PDF, with explicit local traversals recorded below. Ordered source blocks include every instructional list/table row, causal chain, and named diagram element. Contiguous labels can share an item; no later source block is pulled forward. Numeric nephron labels are read with their printed legend across p717-718. Source inconsistencies are not silently taught as clinical facts. Headers, timestamps, footer and blank Active space are excluded.",
+  "caveats": [
+    "p717: bladder/cloaca primitive-rectum parenthesis and cephalic-for-phallic wording are flagged; vesico-ureteric is clarified as vesicourethral. The numbered nephron sketch is schematic and macula densa is not a separate long tubular segment.",
+    "p718: renal-failure tree is a teaching subset, not exhaustive AKI differential or stand-alone diagnostic criteria.",
+    "p719: all-ions and kidney-only phosphorus wording are oversimplifications. The upper basolateral Na/H arrows conflict with the lower apical exchanger sketch and canonical physiology; flagged explicitly.",
+    "p720: Fanconi and isolated proximal RTA are not synonyms in all cases. No CKD risk is an unsafe universal claim. Urine pH 4-4.5 and bicarbonate 16-18 are source descriptions, not mandatory diagnostic values or proof of no acidosis.",
+    "p721: AIP wording and membrane-adjacent receptor symbol are schematic; ENaC is not an H/K/water exchanger. ROMK is a potassium channel; SOMK is a nonstandard printed label with no invented expansion. PHA fibrosis/drug mechanisms are simplified; vesico-urethral reflux is clarified as vesicoureteral reflux.",
+    "p722: beta-cell basolateral anion-exchanger sketch is flagged against canonical H-ATPase physiology; AR pump groupings are source-specific. Toluene is an exposure, not medication. Type-III osteoporosis is corrected explicitly to classic CA-II-deficiency osteopetrosis; outdated disability terminology replaced.",
+    "p723: AR/M>F/normal-RFT common-features cell is not universal and conflicts with earlier AD/acquired branches. Comparison severity and urine-solute patterns are simplified. Bicarbonate doses are source teaching ranges, not prescriptions. Countercurrent exchange is primarily vasa recta function, not a distinct unnamed-cell lineage. Urine gap is an imperfect NH4 surrogate, especially outside classic distal RTA.",
+    "p724: Na/K pump 3K label conflicts with 3Na/2K stoichiometry. TALH H2O paracellular arrow conflicts with water impermeability. Hypomagnesuria-to-hypomagnesemia wording is cautioned. Older Bartter type-V calcium-sensing-receptor classification and percentages remain source-qualified; indomethacin requires specialist supervision.",
+    "p725: TRMP6/ileum/100% chain is not an obligatory second ileal defect in Gitelman. No hypocalciuria conflicts with typical low urine Ca and the table; explicitly corrected. Salt-water retention table label conflicts with salt wasting; Gitelman low magnesium row is ambiguous versus preceding 100% claim."
+  ],
+  "pages": [
+    {
+      "page": 717,
+      "pdfPage": 25,
+      "traversal": "Renal-compartment tree left-to-right; embryology list top-to-bottom, completing each numbered entry and its sub-bullets. Then adjacent nephron figure: cortex/medullary zones, ray and loop labels; numbered structures are covered with their printed legend below and its continuation on p718. Excretory tree: origin, then numbered 1–8, completing PT, IT and DT branches. No return to an earlier branch. Decorative headings/timestamps/blank Active space excluded.",
+      "elements": [
+        {
+          "element": "p717-e001",
+          "page": 717,
+          "source": "The renal compartment tree allocates 85% to tubules/interstitium, 10% to glomeruli and 5% to vessels.",
+          "questionIds": [
+            "MED-C3-001"
+          ]
+        },
+        {
+          "element": "p717-e002",
+          "page": 717,
+          "source": "Embryology entry 1 prints bladder: cloaca (primitive rectum); the parenthesis is misleading.",
+          "questionIds": [
+            "MED-C3-002"
+          ]
+        },
+        {
+          "element": "p717-e003",
+          "page": 717,
+          "source": "The trigone exception is linked to the mesonephric duct and labelled mesodermal.",
+          "questionIds": [
+            "MED-C3-003"
+          ]
+        },
+        {
+          "element": "p717-e004",
+          "page": 717,
+          "source": "Prostate: primitive urogenital sinus.",
+          "questionIds": [
+            "MED-C3-004"
+          ]
+        },
+        {
+          "element": "p717-e005",
+          "page": 717,
+          "source": "Prostatic urethra up to the ejaculatory-duct opening: vesico-ureteric canal in the scan.",
+          "questionIds": [
+            "MED-C3-005"
+          ]
+        },
+        {
+          "element": "p717-e006",
+          "page": 717,
+          "source": "Membranous urethra and remaining prostatic urethra: pelvic part of definitive urogenital sinus.",
+          "questionIds": [
+            "MED-C3-006"
+          ]
+        },
+        {
+          "element": "p717-e007",
+          "page": 717,
+          "source": "Spongy urethra is assigned to cephalic part of urogenital sinus in this scan; this conflicts with phallic terminology.",
+          "questionIds": [
+            "MED-C3-007"
+          ]
+        },
+        {
+          "element": "p717-e008",
+          "page": 717,
+          "source": "Rectum: primitive rectum derived from cloaca.",
+          "questionIds": [
+            "MED-C3-008"
+          ]
+        },
+        {
+          "element": "p717-e009",
+          "page": 717,
+          "source": "Anal canal up to the pectinate line: cloaca; below the line: anal pit.",
+          "questionIds": [
+            "MED-C3-009"
+          ]
+        },
+        {
+          "element": "p717-e010",
+          "page": 717,
+          "source": "Nephron figure labels cortex above the outer and inner medulla.",
+          "questionIds": [
+            "MED-C3-010"
+          ]
+        },
+        {
+          "element": "p717-e011",
+          "page": 717,
+          "source": "The figure divides outer medulla into outer stripe and inner stripe.",
+          "questionIds": [
+            "MED-C3-011"
+          ]
+        },
+        {
+          "element": "p717-e012",
+          "page": 717,
+          "source": "The medullary ray label points to straight tubular structures extending into cortex.",
+          "questionIds": [
+            "MED-C3-012"
+          ]
+        },
+        {
+          "element": "p717-e013",
+          "page": 717,
+          "source": "Long-loop nephron enters inner medulla; short-loop nephron turns higher in the outer-medullary region.",
+          "questionIds": [
+            "MED-C3-013"
+          ]
+        },
+        {
+          "element": "p717-e014",
+          "page": 717,
+          "source": "The excretory part is traced to nephrogenic cord from the urogenital ridge.",
+          "questionIds": [
+            "MED-C3-014"
+          ]
+        },
+        {
+          "element": "p717-e015",
+          "page": 717,
+          "source": "Number 1: glomerulus plus Bowman's capsule form the renal corpuscle.",
+          "questionIds": [
+            "MED-C3-015"
+          ]
+        },
+        {
+          "element": "p717-e016",
+          "page": 717,
+          "source": "Proximal tubule branches into proximal convoluted and proximal straight tubules.",
+          "questionIds": [
+            "MED-C3-016"
+          ]
+        },
+        {
+          "element": "p717-e017",
+          "page": 717,
+          "source": "Number 2: proximal convoluted tubule, pars convoluta, S1 and S2.",
+          "questionIds": [
+            "MED-C3-017"
+          ]
+        },
+        {
+          "element": "p717-e018",
+          "page": 717,
+          "source": "Number 3: proximal straight tubule, pars recta, S3.",
+          "questionIds": [
+            "MED-C3-018"
+          ]
+        },
+        {
+          "element": "p717-e019",
+          "page": 717,
+          "source": "Intermediate tubule comprises numbered thin descending (4) and thin ascending (5) limbs.",
+          "questionIds": [
+            "MED-C3-019"
+          ]
+        },
+        {
+          "element": "p717-e020",
+          "page": 717,
+          "source": "Number 6: thick ascending limb, also called distal straight tubule.",
+          "questionIds": [
+            "MED-C3-020"
+          ]
+        },
+        {
+          "element": "p717-e021",
+          "page": 717,
+          "source": "Number 7: distal convoluted tubule, the other distal-tubule branch.",
+          "questionIds": [
+            "MED-C3-021"
+          ]
+        },
+        {
+          "element": "p717-e022",
+          "page": 717,
+          "source": "Number 8 is labelled macula densa in the source legend; the figure/legend correspondence is schematic.",
+          "questionIds": [
+            "MED-C3-022"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 718,
+      "pdfPage": 26,
+      "traversal": "Collecting legend 9–12 top-to-bottom, then origin tree from collecting structures through ureteric bud, mesonephric duct and intermediate mesoderm. Nephron table row-by-row, left cell then right. Renal-failure flowchart depth-first: non-CKD → hours-to-days AKI → tubular injury then interstitial nephritis → extrarenal pre/postrenal branches; next days-to-weeks branch; finally CKD branch. All children completed before returning to the parent split.",
+      "elements": [
+        {
+          "element": "p718-e001",
+          "page": 718,
+          "source": "Collecting legend 9: connecting tubule (CT).",
+          "questionIds": [
+            "MED-C3-023"
+          ]
+        },
+        {
+          "element": "p718-e002",
+          "page": 718,
+          "source": "Collecting legend 10, 11, 12: cortical, outer medullary and inner medullary collecting ducts.",
+          "questionIds": [
+            "MED-C3-024"
+          ]
+        },
+        {
+          "element": "p718-e003",
+          "page": 718,
+          "source": "The collecting-part bracket lists CT, CD, ureter, pelvis and calyces.",
+          "questionIds": [
+            "MED-C3-025"
+          ]
+        },
+        {
+          "element": "p718-e004",
+          "page": 718,
+          "source": "Collecting-part origin: epithelium of ureteric bud.",
+          "questionIds": [
+            "MED-C3-026"
+          ]
+        },
+        {
+          "element": "p718-e005",
+          "page": 718,
+          "source": "Ureteric bud derives from mesonephric duct, which derives from intermediate mesoderm.",
+          "questionIds": [
+            "MED-C3-027"
+          ]
+        },
+        {
+          "element": "p718-e006",
+          "page": 718,
+          "source": "The table calls cortical nephrons short-looped and juxtamedullary nephrons long-looped.",
+          "questionIds": [
+            "MED-C3-028"
+          ]
+        },
+        {
+          "element": "p718-e007",
+          "page": 718,
+          "source": "Cortical nephrons make up 85%; juxtamedullary nephrons 15%.",
+          "questionIds": [
+            "MED-C3-029"
+          ]
+        },
+        {
+          "element": "p718-e008",
+          "page": 718,
+          "source": "The short-loop tip is described at the outer/inner medullary junction; the long-loop tip lies inside inner medulla.",
+          "questionIds": [
+            "MED-C3-030"
+          ]
+        },
+        {
+          "element": "p718-e009",
+          "page": 718,
+          "source": "Cortical nephrons have a lesser role in concentration; juxtamedullary nephrons have a major role.",
+          "questionIds": [
+            "MED-C3-031"
+          ]
+        },
+        {
+          "element": "p718-e010",
+          "page": 718,
+          "source": "The non-CKD branch labels renal failure over hours to days as acute kidney injury.",
+          "questionIds": [
+            "MED-C3-032"
+          ]
+        },
+        {
+          "element": "p718-e011",
+          "page": 718,
+          "source": "AKI divides into tubulointerstitial causes and causes outside the kidney.",
+          "questionIds": [
+            "MED-C3-033"
+          ]
+        },
+        {
+          "element": "p718-e012",
+          "page": 718,
+          "source": "Acute tubular necrosis/tubular injury is the first tubulointerstitial branch.",
+          "questionIds": [
+            "MED-C3-034"
+          ]
+        },
+        {
+          "element": "p718-e013",
+          "page": 718,
+          "source": "The book identifies ischemia as the most common cause of acute tubular injury.",
+          "questionIds": [
+            "MED-C3-035"
+          ]
+        },
+        {
+          "element": "p718-e014",
+          "page": 718,
+          "source": "The most commonly affected site is PST, proximal straight tubule.",
+          "questionIds": [
+            "MED-C3-036"
+          ]
+        },
+        {
+          "element": "p718-e015",
+          "page": 718,
+          "source": "Acute interstitial nephritis is paired with hypersensitivity reaction.",
+          "questionIds": [
+            "MED-C3-037"
+          ]
+        },
+        {
+          "element": "p718-e016",
+          "page": 718,
+          "source": "Causes outside the kidney divide into pre-renal and post-renal branches.",
+          "questionIds": [
+            "MED-C3-038"
+          ]
+        },
+        {
+          "element": "p718-e017",
+          "page": 718,
+          "source": "The days-to-weeks branch is rapidly progressive renal failure.",
+          "questionIds": [
+            "MED-C3-039"
+          ]
+        },
+        {
+          "element": "p718-e018",
+          "page": 718,
+          "source": "CKD is expanded as chronic kidney disease and linked to decreased functional nephron number.",
+          "questionIds": [
+            "MED-C3-040"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 719,
+      "pdfPage": 27,
+      "traversal": "Opening PCT statement; transporter tree depth-first: secondary active symport list 1–3 then antiport, then passive branch. Phosphate-loss arrow chain. Upper cell: luminal symports top-to-bottom, basolateral label; intercellular passive arrow and solute list. Lower cell: luminal Na/H exchange → luminal bicarbonate/CA-IV cycle → CO2 entry → intracellular CA-II → basolateral bicarbonate exit. Final magnesium note last.",
+      "elements": [
+        {
+          "element": "p719-e001",
+          "page": 719,
+          "source": "The PCT introductory line says maximum reabsorption of all ions except magnesium; this is a teaching simplification.",
+          "questionIds": [
+            "MED-C3-041"
+          ]
+        },
+        {
+          "element": "p719-e002",
+          "page": 719,
+          "source": "PCT transporter tree: secondary active transport includes symport and antiport.",
+          "questionIds": [
+            "MED-C3-042"
+          ]
+        },
+        {
+          "element": "p719-e003",
+          "page": 719,
+          "source": "Symport 1: sodium-dependent amino-acid transporter.",
+          "questionIds": [
+            "MED-C3-043"
+          ]
+        },
+        {
+          "element": "p719-e004",
+          "page": 719,
+          "source": "Symport 2: sodium-dependent glucose transporter, SGLT-2.",
+          "questionIds": [
+            "MED-C3-044"
+          ]
+        },
+        {
+          "element": "p719-e005",
+          "page": 719,
+          "source": "Symport 3: sodium-dependent phosphate transporter type II.",
+          "questionIds": [
+            "MED-C3-045"
+          ]
+        },
+        {
+          "element": "p719-e006",
+          "page": 719,
+          "source": "The secondary active antiport is sodium–hydrogen exchange.",
+          "questionIds": [
+            "MED-C3-046"
+          ]
+        },
+        {
+          "element": "p719-e007",
+          "page": 719,
+          "source": "Passive transport is paracellular, on the boundary between two cells.",
+          "questionIds": [
+            "MED-C3-047"
+          ]
+        },
+        {
+          "element": "p719-e008",
+          "page": 719,
+          "source": "The phosphorus sentence says only handled in kidney; the arrow chain is PCT damage → phosphorus loss → rickets.",
+          "questionIds": [
+            "MED-C3-048"
+          ]
+        },
+        {
+          "element": "p719-e009",
+          "page": 719,
+          "source": "Upper PCT figure luminal symports carry Na with amino acids, glucose and phosphate.",
+          "questionIds": [
+            "MED-C3-049"
+          ]
+        },
+        {
+          "element": "p719-e010",
+          "page": 719,
+          "source": "Upper PCT figure places Na/H arrows on its basolateral side; this is an apparent diagram error.",
+          "questionIds": [
+            "MED-C3-050"
+          ]
+        },
+        {
+          "element": "p719-e011",
+          "page": 719,
+          "source": "Passive intercellular arrow lists H2O, Ca2+, Na+, Mg2+ and K+.",
+          "questionIds": [
+            "MED-C3-051"
+          ]
+        },
+        {
+          "element": "p719-e012",
+          "page": 719,
+          "source": "Lower PCT cell: luminal Na/H exchange brings sodium in and secretes hydrogen.",
+          "questionIds": [
+            "MED-C3-052"
+          ]
+        },
+        {
+          "element": "p719-e013",
+          "page": 719,
+          "source": "Luminal hydrogen combines with bicarbonate to form carbonic acid.",
+          "questionIds": [
+            "MED-C3-053"
+          ]
+        },
+        {
+          "element": "p719-e014",
+          "page": 719,
+          "source": "Luminal carbonic anhydrase IV converts carbonic acid to water and carbon dioxide.",
+          "questionIds": [
+            "MED-C3-054"
+          ]
+        },
+        {
+          "element": "p719-e015",
+          "page": 719,
+          "source": "The carbon-dioxide arrow crosses from lumen into the PCT cell.",
+          "questionIds": [
+            "MED-C3-055"
+          ]
+        },
+        {
+          "element": "p719-e016",
+          "page": 719,
+          "source": "Intracellular carbonic anhydrase II forms carbonic acid from water and carbon dioxide.",
+          "questionIds": [
+            "MED-C3-056"
+          ]
+        },
+        {
+          "element": "p719-e017",
+          "page": 719,
+          "source": "Intracellular carbonic acid supplies recycled H+ and bicarbonate exiting basolaterally.",
+          "questionIds": [
+            "MED-C3-057"
+          ]
+        },
+        {
+          "element": "p719-e018",
+          "page": 719,
+          "source": "The closing note locates maximum magnesium reabsorption in the thick ascending limb.",
+          "questionIds": [
+            "MED-C3-058"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 720,
+      "pdfPage": 28,
+      "traversal": "Title and inherited/acquired comparison, then complete inherited column top-to-bottom before acquired column. Drug-exception note. Cardinal manifestations 1–6, finishing every sub-bullet and each causal arrow before moving on. Other features: left column hypouricemia, hypocarnitinemia, polyuria; right column dehydration then minimal proteinuria.",
+      "elements": [
+        {
+          "element": "p720-e001",
+          "page": 720,
+          "source": "The title equates global PCT dysfunction with Fanconi syndrome/type-2/proximal RTA; the equivalence is incomplete.",
+          "questionIds": [
+            "MED-C3-059"
+          ]
+        },
+        {
+          "element": "p720-e002",
+          "page": 720,
+          "source": "The source places inherited causes much more prominently than acquired causes.",
+          "questionIds": [
+            "MED-C3-060"
+          ]
+        },
+        {
+          "element": "p720-e003",
+          "page": 720,
+          "source": "Cystinosis is labelled the most common childhood cause.",
+          "questionIds": [
+            "MED-C3-061"
+          ]
+        },
+        {
+          "element": "p720-e004",
+          "page": 720,
+          "source": "Cystinosis is labelled autosomal recessive.",
+          "questionIds": [
+            "MED-C3-062"
+          ]
+        },
+        {
+          "element": "p720-e005",
+          "page": 720,
+          "source": "Galactosemia is the next inherited Fanconi cause.",
+          "questionIds": [
+            "MED-C3-063"
+          ]
+        },
+        {
+          "element": "p720-e006",
+          "page": 720,
+          "source": "Wilson disease is marked most common in adolescents.",
+          "questionIds": [
+            "MED-C3-064"
+          ]
+        },
+        {
+          "element": "p720-e007",
+          "page": 720,
+          "source": "Drugs are labelled the most common acquired cause in adults.",
+          "questionIds": [
+            "MED-C3-065"
+          ]
+        },
+        {
+          "element": "p720-e008",
+          "page": 720,
+          "source": "The adult drug list, first three entries: ifosfamide, tenofovir, valproate.",
+          "questionIds": [
+            "MED-C3-066"
+          ]
+        },
+        {
+          "element": "p720-e009",
+          "page": 720,
+          "source": "The final drug entries are outdated tetracycline and cisplatin.",
+          "questionIds": [
+            "MED-C3-067"
+          ]
+        },
+        {
+          "element": "p720-e010",
+          "page": 720,
+          "source": "Multiple myeloma is marked most common in the elderly.",
+          "questionIds": [
+            "MED-C3-068"
+          ]
+        },
+        {
+          "element": "p720-e011",
+          "page": 720,
+          "source": "Acetazolamide and topiramate cause acidosis without generalised PCT dysfunction by inhibiting bicarbonate reabsorption.",
+          "questionIds": [
+            "MED-C3-069"
+          ]
+        },
+        {
+          "element": "p720-e012",
+          "page": 720,
+          "source": "Cardinal feature 1: phosphorus loss causes renal rickets.",
+          "questionIds": [
+            "MED-C3-070"
+          ]
+        },
+        {
+          "element": "p720-e013",
+          "page": 720,
+          "source": "Cardinal feature 2 prints normal RFT, very minimal proteinuria and no CKD risk; the final claim is unsafe as a universal rule.",
+          "questionIds": [
+            "MED-C3-071"
+          ]
+        },
+        {
+          "element": "p720-e014",
+          "page": 720,
+          "source": "Cardinal feature 3: euglycemic glycosuria.",
+          "questionIds": [
+            "MED-C3-072"
+          ]
+        },
+        {
+          "element": "p720-e015",
+          "page": 720,
+          "source": "Cardinal feature 4: amino-acid loss in urine causes wasting/growth retardation.",
+          "questionIds": [
+            "MED-C3-073"
+          ]
+        },
+        {
+          "element": "p720-e016",
+          "page": 720,
+          "source": "Cardinal feature 5: urinary bicarbonate loss causes normal-anion-gap metabolic acidosis.",
+          "questionIds": [
+            "MED-C3-074"
+          ]
+        },
+        {
+          "element": "p720-e017",
+          "page": 720,
+          "source": "The anion gap range printed is 8–12 mEq/L.",
+          "questionIds": [
+            "MED-C3-075"
+          ]
+        },
+        {
+          "element": "p720-e018",
+          "page": 720,
+          "source": "NAGMA is also called hyperchloremic acidosis.",
+          "questionIds": [
+            "MED-C3-076"
+          ]
+        },
+        {
+          "element": "p720-e019",
+          "page": 720,
+          "source": "The important sub-bullet says urine acidification remains normal, mainly through intercalated cells.",
+          "questionIds": [
+            "MED-C3-077"
+          ]
+        },
+        {
+          "element": "p720-e020",
+          "page": 720,
+          "source": "The source prints normal urine pH 4–4.5 under proximal RTA; this is not a universal normal range.",
+          "questionIds": [
+            "MED-C3-078"
+          ]
+        },
+        {
+          "element": "p720-e021",
+          "page": 720,
+          "source": "The source gives bicarbonate 16–18 mEq with the phrase no significant acidosis.",
+          "questionIds": [
+            "MED-C3-079"
+          ]
+        },
+        {
+          "element": "p720-e022",
+          "page": 720,
+          "source": "Salt/water depletion → secondary RAAS activation → increased aldosterone → K wasting → hypokalemia.",
+          "questionIds": [
+            "MED-C3-080"
+          ]
+        },
+        {
+          "element": "p720-e023",
+          "page": 720,
+          "source": "Other feature: hypouricemia.",
+          "questionIds": [
+            "MED-C3-081"
+          ]
+        },
+        {
+          "element": "p720-e024",
+          "page": 720,
+          "source": "Other feature: hypocarnitinemia.",
+          "questionIds": [
+            "MED-C3-082"
+          ]
+        },
+        {
+          "element": "p720-e025",
+          "page": 720,
+          "source": "Other feature: polyuria.",
+          "questionIds": [
+            "MED-C3-083"
+          ]
+        },
+        {
+          "element": "p720-e026",
+          "page": 720,
+          "source": "Other feature: dehydration.",
+          "questionIds": [
+            "MED-C3-084"
+          ]
+        },
+        {
+          "element": "p720-e027",
+          "page": 720,
+          "source": "Other feature: minimal proteinuria.",
+          "questionIds": [
+            "MED-C3-085"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 721,
+      "pdfPage": 29,
+      "traversal": "Cell-type tree left-to-right. P-cell figure: luminal and basolateral orientation, then zona glomerulosa → aldosterone/receptor → AIP → ENaC arrows, then ROMK/SOMK labels; excess-aldosterone triad below. RTA-IV definition and two hyperkalemia lines. Types depth-first: complete true hypoaldosteronism low-renin branch including diabetic sub-bullets, then high-renin branch; complete acquired pseudo branch before inherited PHA types.",
+      "elements": [
+        {
+          "element": "p721-e001",
+          "page": 721,
+          "source": "The CCD cell-type tree lists P-cell, alpha-intercalated, beta-intercalated and unnamed cell.",
+          "questionIds": [
+            "MED-C3-086"
+          ]
+        },
+        {
+          "element": "p721-e002",
+          "page": 721,
+          "source": "The P-cell figure marks luminal membrane left and basolateral membrane right.",
+          "questionIds": [
+            "MED-C3-087"
+          ]
+        },
+        {
+          "element": "p721-e003",
+          "page": 721,
+          "source": "Zona glomerulosa produces aldosterone, which binds the depicted aldosterone receptor.",
+          "questionIds": [
+            "MED-C3-088"
+          ]
+        },
+        {
+          "element": "p721-e004",
+          "page": 721,
+          "source": "Aldosterone acts via a receptor and AIP, expanded in the source as aldosterone inducing protein.",
+          "questionIds": [
+            "MED-C3-089"
+          ]
+        },
+        {
+          "element": "p721-e005",
+          "page": 721,
+          "source": "AIP positively stimulates ENaC; the sketch couples luminal sodium/water entry to it.",
+          "questionIds": [
+            "MED-C3-090"
+          ]
+        },
+        {
+          "element": "p721-e006",
+          "page": 721,
+          "source": "The lower luminal P-cell figure labels ROMK and SOMK with K/H secretion arrows.",
+          "questionIds": [
+            "MED-C3-091"
+          ]
+        },
+        {
+          "element": "p721-e007",
+          "page": 721,
+          "source": "Excess aldosterone gives hypertension, metabolic alkalosis and hypokalemia, bracketed as Conn syndrome.",
+          "questionIds": [
+            "MED-C3-092"
+          ]
+        },
+        {
+          "element": "p721-e008",
+          "page": 721,
+          "source": "The pathology heading links hypoaldosteronism to type-IV RTA.",
+          "questionIds": [
+            "MED-C3-093"
+          ]
+        },
+        {
+          "element": "p721-e009",
+          "page": 721,
+          "source": "The first RTA-IV descriptor is hyperkalemia without renal failure.",
+          "questionIds": [
+            "MED-C3-094"
+          ]
+        },
+        {
+          "element": "p721-e010",
+          "page": 721,
+          "source": "The second descriptor is hyperkalemia disproportionate to the degree and duration of renal failure.",
+          "questionIds": [
+            "MED-C3-095"
+          ]
+        },
+        {
+          "element": "p721-e011",
+          "page": 721,
+          "source": "The low-renin true-hypoaldosteronism branch has reduced renin and reduced aldosterone.",
+          "questionIds": [
+            "MED-C3-096"
+          ]
+        },
+        {
+          "element": "p721-e012",
+          "page": 721,
+          "source": "Low-renin cause 1: NSAIDs.",
+          "questionIds": [
+            "MED-C3-097"
+          ]
+        },
+        {
+          "element": "p721-e013",
+          "page": 721,
+          "source": "Low-renin cause 2: beta-blockers.",
+          "questionIds": [
+            "MED-C3-098"
+          ]
+        },
+        {
+          "element": "p721-e014",
+          "page": 721,
+          "source": "Low-renin cause 3: aliskiren, a direct renin inhibitor.",
+          "questionIds": [
+            "MED-C3-099"
+          ]
+        },
+        {
+          "element": "p721-e015",
+          "page": 721,
+          "source": "Low-renin cause 4: diabetes, with autonomic neuropathy and beta-1 receptor dysfunction.",
+          "questionIds": [
+            "MED-C3-100"
+          ]
+        },
+        {
+          "element": "p721-e016",
+          "page": 721,
+          "source": "The diabetes subdiagram shows impaired prorenin-to-renin conversion.",
+          "questionIds": [
+            "MED-C3-101"
+          ]
+        },
+        {
+          "element": "p721-e017",
+          "page": 721,
+          "source": "High-renin hypoaldosteronism means increased renin with reduced aldosterone.",
+          "questionIds": [
+            "MED-C3-102"
+          ]
+        },
+        {
+          "element": "p721-e018",
+          "page": 721,
+          "source": "High-renin cause 1: adrenal insufficiency/Addison disease.",
+          "questionIds": [
+            "MED-C3-103"
+          ]
+        },
+        {
+          "element": "p721-e019",
+          "page": 721,
+          "source": "High-renin drug list starts with ACE inhibitors and ARBs.",
+          "questionIds": [
+            "MED-C3-104"
+          ]
+        },
+        {
+          "element": "p721-e020",
+          "page": 721,
+          "source": "The source groups heparin and ketoconazole under aldosterone-synthesis inhibition.",
+          "questionIds": [
+            "MED-C3-105"
+          ]
+        },
+        {
+          "element": "p721-e021",
+          "page": 721,
+          "source": "Acquired pseudo-hypoaldosteronism first lists chronic tubulointerstitial fibrosis from vesicourethral reflux and obstructive nephropathy.",
+          "questionIds": [
+            "MED-C3-106"
+          ]
+        },
+        {
+          "element": "p721-e022",
+          "page": 721,
+          "source": "The next acquired PHA bullet names calcineurin inhibitors under drugs producing fibrosis.",
+          "questionIds": [
+            "MED-C3-107"
+          ]
+        },
+        {
+          "element": "p721-e023",
+          "page": 721,
+          "source": "Aldosterone receptor blockers: spironolactone and eplerenone.",
+          "questionIds": [
+            "MED-C3-108"
+          ]
+        },
+        {
+          "element": "p721-e024",
+          "page": 721,
+          "source": "ENaC channel blockers: amiloride and triamterene.",
+          "questionIds": [
+            "MED-C3-109"
+          ]
+        },
+        {
+          "element": "p721-e025",
+          "page": 721,
+          "source": "Trimethoprim is compared structurally to triamterene in the source.",
+          "questionIds": [
+            "MED-C3-110"
+          ]
+        },
+        {
+          "element": "p721-e026",
+          "page": 721,
+          "source": "Pentamidine is the final acquired drug listed.",
+          "questionIds": [
+            "MED-C3-111"
+          ]
+        },
+        {
+          "element": "p721-e027",
+          "page": 721,
+          "source": "Inherited pseudo-hypoaldosteronism branches are PHA type 1 and type 2.",
+          "questionIds": [
+            "MED-C3-112"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 722,
+      "pdfPage": 30,
+      "traversal": "Top renin list, with inhibitory NSAID/beta-blocker side arrows. Alpha-cell diagram luminal pumps then intracellular enzyme and legend; beta-cell diagram luminal pendrin then basolateral anion label/legend. Distal-RTA tree: inherited AD branch then AR branch, acquired causes in listed order. Clinical manifestations lower-left top-to-bottom including calcium subbranches and salt-loss cascade, then lower-right type-III note. Source errors kept local and flagged.",
+      "elements": [
+        {
+          "element": "p722-e001",
+          "page": 722,
+          "source": "Renin stimulators: prostaglandins, beta-1 receptors and renal hypoperfusion.",
+          "questionIds": [
+            "MED-C3-113"
+          ]
+        },
+        {
+          "element": "p722-e002",
+          "page": 722,
+          "source": "The side arrows show NSAIDs inhibiting prostaglandin signalling and beta-blockers inhibiting beta-1 signalling.",
+          "questionIds": [
+            "MED-C3-114"
+          ]
+        },
+        {
+          "element": "p722-e003",
+          "page": 722,
+          "source": "Alpha-intercalated-cell black luminal symbol is H/K ATPase: H secreted and K taken into cell.",
+          "questionIds": [
+            "MED-C3-115"
+          ]
+        },
+        {
+          "element": "p722-e004",
+          "page": 722,
+          "source": "The alpha-cell red luminal symbol is H ATPase.",
+          "questionIds": [
+            "MED-C3-116"
+          ]
+        },
+        {
+          "element": "p722-e005",
+          "page": 722,
+          "source": "The alpha-cell intracellular enzyme is carbonic anhydrase II.",
+          "questionIds": [
+            "MED-C3-117"
+          ]
+        },
+        {
+          "element": "p722-e006",
+          "page": 722,
+          "source": "Beta-cell luminal pendrin exchanges bicarbonate outward for chloride inward.",
+          "questionIds": [
+            "MED-C3-118"
+          ]
+        },
+        {
+          "element": "p722-e007",
+          "page": 722,
+          "source": "The beta-cell basolateral red symbol is called anion exchanger in the scan; its literal physiology needs qualification.",
+          "questionIds": [
+            "MED-C3-119"
+          ]
+        },
+        {
+          "element": "p722-e008",
+          "page": 722,
+          "source": "Inherited distal-RTA AD branch: anion-exchanger defect.",
+          "questionIds": [
+            "MED-C3-120"
+          ]
+        },
+        {
+          "element": "p722-e009",
+          "page": 722,
+          "source": "Inherited distal-RTA AR branch: H ATPase or H/K ATPase defect.",
+          "questionIds": [
+            "MED-C3-121"
+          ]
+        },
+        {
+          "element": "p722-e010",
+          "page": 722,
+          "source": "The inherited AR branch may present with sensorineural hearing loss.",
+          "questionIds": [
+            "MED-C3-122"
+          ]
+        },
+        {
+          "element": "p722-e011",
+          "page": 722,
+          "source": "Acquired distal RTA: Sjogren syndrome is marked most common.",
+          "questionIds": [
+            "MED-C3-123"
+          ]
+        },
+        {
+          "element": "p722-e012",
+          "page": 722,
+          "source": "Rare acquired agents listed are amphotericin B and toluene.",
+          "questionIds": [
+            "MED-C3-124"
+          ]
+        },
+        {
+          "element": "p722-e013",
+          "page": 722,
+          "source": "Rare acquired diseases listed are primary biliary cirrhosis and SLE.",
+          "questionIds": [
+            "MED-C3-125"
+          ]
+        },
+        {
+          "element": "p722-e014",
+          "page": 722,
+          "source": "Clinical manifestations 1 and 2: most common in children and normal RFT.",
+          "questionIds": [
+            "MED-C3-126"
+          ]
+        },
+        {
+          "element": "p722-e015",
+          "page": 722,
+          "source": "Inability to acidify urine is specified as pH above 5.5 for three consecutive days.",
+          "questionIds": [
+            "MED-C3-127"
+          ]
+        },
+        {
+          "element": "p722-e016",
+          "page": 722,
+          "source": "Significant distal-RTA NAGMA: bicarbonate 10–12 mEq/L.",
+          "questionIds": [
+            "MED-C3-128"
+          ]
+        },
+        {
+          "element": "p722-e017",
+          "page": 722,
+          "source": "The calcium branch runs bone calcium release to hypercalciuria.",
+          "questionIds": [
+            "MED-C3-129"
+          ]
+        },
+        {
+          "element": "p722-e018",
+          "page": 722,
+          "source": "Hypercalciuria subbranch 1: calcium-phosphate stone formation.",
+          "questionIds": [
+            "MED-C3-130"
+          ]
+        },
+        {
+          "element": "p722-e019",
+          "page": 722,
+          "source": "Hypercalciuria subbranch 2: medullary nephrocalcinosis.",
+          "questionIds": [
+            "MED-C3-131"
+          ]
+        },
+        {
+          "element": "p722-e020",
+          "page": 722,
+          "source": "Hypercalciuria subbranch 3: renal rickets.",
+          "questionIds": [
+            "MED-C3-132"
+          ]
+        },
+        {
+          "element": "p722-e021",
+          "page": 722,
+          "source": "Hypocitraturia leads to stones.",
+          "questionIds": [
+            "MED-C3-133"
+          ]
+        },
+        {
+          "element": "p722-e022",
+          "page": 722,
+          "source": "Salt/water wasting → reduced renal perfusion → secondary hyperaldosteronism → hypokalemia.",
+          "questionIds": [
+            "MED-C3-134"
+          ]
+        },
+        {
+          "element": "p722-e023",
+          "page": 722,
+          "source": "Type-III RTA note: carbonic anhydrase II defect.",
+          "questionIds": [
+            "MED-C3-135"
+          ]
+        },
+        {
+          "element": "p722-e024",
+          "page": 722,
+          "source": "The type-III feature list prints osteoporosis, which conflicts with the classic CA-II-deficiency osteopetrosis association.",
+          "questionIds": [
+            "MED-C3-136"
+          ]
+        },
+        {
+          "element": "p722-e025",
+          "page": 722,
+          "source": "Type-III features continue with intellectual disability and cerebral calcification.",
+          "questionIds": [
+            "MED-C3-137"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 723,
+      "pdfPage": 31,
+      "traversal": "Comparison table row-by-row from common features through dose; read each row distal column then proximal column, completing all bullets within the defect row. Unnamed-cell heading and four lines in order. Urine-gap paragraph then electroneutrality equation, rearranged equation, positive branch before negative branch; adjacent ammonium diagram follows last.",
+      "elements": [
+        {
+          "element": "p723-e001",
+          "page": 723,
+          "source": "The table common-features cell lists inherited cause (M>F), autosomal recessive and normal RFT.",
+          "questionIds": [
+            "MED-C3-138"
+          ]
+        },
+        {
+          "element": "p723-e002",
+          "page": 723,
+          "source": "Defect-site row: distal alpha-intercalated cell; proximal global PCT dysfunction.",
+          "questionIds": [
+            "MED-C3-139"
+          ]
+        },
+        {
+          "element": "p723-e003",
+          "page": 723,
+          "source": "Distal defect row lists H ATPase, H/K ATPase and anion exchanger.",
+          "questionIds": [
+            "MED-C3-140"
+          ]
+        },
+        {
+          "element": "p723-e004",
+          "page": 723,
+          "source": "Proximal defect row lists symport, antiport and passive paracellular transport.",
+          "questionIds": [
+            "MED-C3-141"
+          ]
+        },
+        {
+          "element": "p723-e005",
+          "page": 723,
+          "source": "Phosphorus-loss row: no in distal; significant in proximal.",
+          "questionIds": [
+            "MED-C3-142"
+          ]
+        },
+        {
+          "element": "p723-e006",
+          "page": 723,
+          "source": "Calcium-loss row: significant in distal; not present in proximal.",
+          "questionIds": [
+            "MED-C3-143"
+          ]
+        },
+        {
+          "element": "p723-e007",
+          "page": 723,
+          "source": "Rickets row: calcium loss in distal versus phosphorus loss in proximal.",
+          "questionIds": [
+            "MED-C3-144"
+          ]
+        },
+        {
+          "element": "p723-e008",
+          "page": 723,
+          "source": "NAGMA row: severe distal; mild proximal.",
+          "questionIds": [
+            "MED-C3-145"
+          ]
+        },
+        {
+          "element": "p723-e009",
+          "page": 723,
+          "source": "Secondary hyperaldosteronism row: severe distal, mild proximal.",
+          "questionIds": [
+            "MED-C3-146"
+          ]
+        },
+        {
+          "element": "p723-e010",
+          "page": 723,
+          "source": "Hypokalemia row: severe distal, mild proximal.",
+          "questionIds": [
+            "MED-C3-147"
+          ]
+        },
+        {
+          "element": "p723-e011",
+          "page": 723,
+          "source": "Aminoaciduria row: no in distal; significant in proximal.",
+          "questionIds": [
+            "MED-C3-148"
+          ]
+        },
+        {
+          "element": "p723-e012",
+          "page": 723,
+          "source": "Hypocitraturia row: present distal, absent proximal.",
+          "questionIds": [
+            "MED-C3-149"
+          ]
+        },
+        {
+          "element": "p723-e013",
+          "page": 723,
+          "source": "Bicarbonate-treatment row: distal 2–4 mEq/kg/day; proximal 10–15 mEq/kg/day.",
+          "questionIds": [
+            "MED-C3-150"
+          ]
+        },
+        {
+          "element": "p723-e014",
+          "page": 723,
+          "source": "Unnamed-cell hormone: ADH.",
+          "questionIds": [
+            "MED-C3-151"
+          ]
+        },
+        {
+          "element": "p723-e015",
+          "page": 723,
+          "source": "Unnamed-cell channel protein: aquaporin.",
+          "questionIds": [
+            "MED-C3-152"
+          ]
+        },
+        {
+          "element": "p723-e016",
+          "page": 723,
+          "source": "The source lists countercurrent exchanger as an unnamed-cell function; the attribution is misleading.",
+          "questionIds": [
+            "MED-C3-153"
+          ]
+        },
+        {
+          "element": "p723-e017",
+          "page": 723,
+          "source": "The next function is reabsorption of free water.",
+          "questionIds": [
+            "MED-C3-154"
+          ]
+        },
+        {
+          "element": "p723-e018",
+          "page": 723,
+          "source": "Urine anion gap is used here to distinguish RTA, mainly type 1, from VIPoma.",
+          "questionIds": [
+            "MED-C3-155"
+          ]
+        },
+        {
+          "element": "p723-e019",
+          "page": 723,
+          "source": "Electroneutrality: Na + K + unmeasured cations = Cl + unmeasured anions.",
+          "questionIds": [
+            "MED-C3-156"
+          ]
+        },
+        {
+          "element": "p723-e020",
+          "page": 723,
+          "source": "Rearranged urine gap: Na + K − Cl = unmeasured anions − unmeasured cations.",
+          "questionIds": [
+            "MED-C3-157"
+          ]
+        },
+        {
+          "element": "p723-e021",
+          "page": 723,
+          "source": "A positive gap points toward RTA in the source branch.",
+          "questionIds": [
+            "MED-C3-158"
+          ]
+        },
+        {
+          "element": "p723-e022",
+          "page": 723,
+          "source": "A negative gap points toward VIPoma in the second branch.",
+          "questionIds": [
+            "MED-C3-159"
+          ]
+        },
+        {
+          "element": "p723-e023",
+          "page": 723,
+          "source": "The diagram shows H combining with NH3 to form NH4, an unmeasured cation; NH4 is reduced in RTA.",
+          "questionIds": [
+            "MED-C3-160"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 724,
+      "pdfPage": 32,
+      "traversal": "TALH physiology diagram: labelled luminal side, numbered 1 cotransport then 2 K recycling, basolateral pump above numbered 3 chloride/4 barttin, then paracellular claudin arrow. Bartter pathology bullets and causal chain, all five consequence bullets. Types tree left-to-right, completing each branch I–V before the next. Indomethacin/PG/RAS treatment arrows last.",
+      "elements": [
+        {
+          "element": "p724-e001",
+          "page": 724,
+          "source": "The section is the thick ascending limb of Henle, TALH.",
+          "questionIds": [
+            "MED-C3-161"
+          ]
+        },
+        {
+          "element": "p724-e002",
+          "page": 724,
+          "source": "Luminal transporter 1 brings Na, K and two Cl into the TALH cell.",
+          "questionIds": [
+            "MED-C3-162"
+          ]
+        },
+        {
+          "element": "p724-e003",
+          "page": 724,
+          "source": "Luminal transporter 2 is ROMK recycling potassium to create lumen electropositivity.",
+          "questionIds": [
+            "MED-C3-163"
+          ]
+        },
+        {
+          "element": "p724-e004",
+          "page": 724,
+          "source": "The basolateral pump drawing labels 3K and 3Na; equal stoichiometry is a source error.",
+          "questionIds": [
+            "MED-C3-164"
+          ]
+        },
+        {
+          "element": "p724-e005",
+          "page": 724,
+          "source": "Basolateral label 3: ClCKB chloride channel; label 4: Barttin.",
+          "questionIds": [
+            "MED-C3-165"
+          ]
+        },
+        {
+          "element": "p724-e006",
+          "page": 724,
+          "source": "The intercellular arrow labels claudin-mediated passive paracellular transport of H2O and calcium/magnesium.",
+          "questionIds": [
+            "MED-C3-166"
+          ]
+        },
+        {
+          "element": "p724-e007",
+          "page": 724,
+          "source": "Bartter heading: autosomal recessive, with a Na/K/2Cl channel defect.",
+          "questionIds": [
+            "MED-C3-167"
+          ]
+        },
+        {
+          "element": "p724-e008",
+          "page": 724,
+          "source": "The first causal arrow links the transport defect to severe salt wasting.",
+          "questionIds": [
+            "MED-C3-168"
+          ]
+        },
+        {
+          "element": "p724-e009",
+          "page": 724,
+          "source": "Salt wasting produces polyuria and failure to thrive.",
+          "questionIds": [
+            "MED-C3-169"
+          ]
+        },
+        {
+          "element": "p724-e010",
+          "page": 724,
+          "source": "Secondary RAAS activation is labelled prostaglandin mediated.",
+          "questionIds": [
+            "MED-C3-170"
+          ]
+        },
+        {
+          "element": "p724-e011",
+          "page": 724,
+          "source": "The cascade next shows urinary K and H loss.",
+          "questionIds": [
+            "MED-C3-171"
+          ]
+        },
+        {
+          "element": "p724-e012",
+          "page": 724,
+          "source": "The first two consequence bullets are hypokalemia and alkalosis.",
+          "questionIds": [
+            "MED-C3-172"
+          ]
+        },
+        {
+          "element": "p724-e013",
+          "page": 724,
+          "source": "Hypercalciuria is linked to renal stones.",
+          "questionIds": [
+            "MED-C3-173"
+          ]
+        },
+        {
+          "element": "p724-e014",
+          "page": 724,
+          "source": "The scan prints hypomagnesuria leading to hypomagnesemia in 20%; the urinary direction is inconsistent with renal Mg wasting.",
+          "questionIds": [
+            "MED-C3-174"
+          ]
+        },
+        {
+          "element": "p724-e015",
+          "page": 724,
+          "source": "The final Bartter consequence bullet is normal to low blood pressure.",
+          "questionIds": [
+            "MED-C3-175"
+          ]
+        },
+        {
+          "element": "p724-e016",
+          "page": 724,
+          "source": "Type I is marked most common and associated with children and maternal polyhydramnios.",
+          "questionIds": [
+            "MED-C3-176"
+          ]
+        },
+        {
+          "element": "p724-e017",
+          "page": 724,
+          "source": "Type II branch: children.",
+          "questionIds": [
+            "MED-C3-177"
+          ]
+        },
+        {
+          "element": "p724-e018",
+          "page": 724,
+          "source": "Type III is called classical and linked to adult presentation.",
+          "questionIds": [
+            "MED-C3-178"
+          ]
+        },
+        {
+          "element": "p724-e019",
+          "page": 724,
+          "source": "Type IV may present with sensorineural hearing loss.",
+          "questionIds": [
+            "MED-C3-179"
+          ]
+        },
+        {
+          "element": "p724-e020",
+          "page": 724,
+          "source": "The type-V source branch specifies autosomal-dominant inheritance.",
+          "questionIds": [
+            "MED-C3-180"
+          ]
+        },
+        {
+          "element": "p724-e021",
+          "page": 724,
+          "source": "The type-V source defect is calcium-sensing receptor dysfunction with hypocalcemia.",
+          "questionIds": [
+            "MED-C3-181"
+          ]
+        },
+        {
+          "element": "p724-e022",
+          "page": 724,
+          "source": "Indomethacin inhibits prostaglandin-mediated secondary RAS activation in the treatment diagram.",
+          "questionIds": [
+            "MED-C3-182"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 725,
+      "pdfPage": 33,
+      "traversal": "DCT figure: luminal Na/Cl arrows, basolateral upper Cl arrow then lower Na/K arrows. Gitelman inheritance/age/defect followed by clinical bullets and their causal arrows top-to-bottom, preserving apparent errors as explicit caveats; hypercalciuria note next. Bartter/Gitelman comparison row-by-row, left then right, through final magnesium row. No comparisons are pulled ahead of the prose.",
+      "elements": [
+        {
+          "element": "p725-e001",
+          "page": 725,
+          "source": "DCT luminal physiology shows Na/Cl symport into the cell.",
+          "questionIds": [
+            "MED-C3-183"
+          ]
+        },
+        {
+          "element": "p725-e002",
+          "page": 725,
+          "source": "The DCT diagram shows basolateral chloride exit above the sodium/potassium exchange arrows.",
+          "questionIds": [
+            "MED-C3-184"
+          ]
+        },
+        {
+          "element": "p725-e003",
+          "page": 725,
+          "source": "Gitelman syndrome is listed as autosomal recessive.",
+          "questionIds": [
+            "MED-C3-185"
+          ]
+        },
+        {
+          "element": "p725-e004",
+          "page": 725,
+          "source": "The source lists adults beneath Gitelman syndrome.",
+          "questionIds": [
+            "MED-C3-186"
+          ]
+        },
+        {
+          "element": "p725-e005",
+          "page": 725,
+          "source": "Gitelman defect: Na/Cl symport.",
+          "questionIds": [
+            "MED-C3-187"
+          ]
+        },
+        {
+          "element": "p725-e006",
+          "page": 725,
+          "source": "The first Gitelman clinical bullet is normal RFT.",
+          "questionIds": [
+            "MED-C3-188"
+          ]
+        },
+        {
+          "element": "p725-e007",
+          "page": 725,
+          "source": "Less salt/water depletion activates secondary RAAS and leads to mild hypokalemia, alkalosis, polyuria and failure to thrive.",
+          "questionIds": [
+            "MED-C3-189"
+          ]
+        },
+        {
+          "element": "p725-e008",
+          "page": 725,
+          "source": "The source links DCT Na/Cl defect to TRMP6 defect in ileum, impaired Mg absorption and 100% hypomagnesemia; this is not an established obligatory second defect.",
+          "questionIds": [
+            "MED-C3-190"
+          ]
+        },
+        {
+          "element": "p725-e009",
+          "page": 725,
+          "source": "The scan prints no hypocalciuria (no stones), contradicting its low-urine-calcium table and classic Gitelman phenotype.",
+          "questionIds": [
+            "MED-C3-191"
+          ]
+        },
+        {
+          "element": "p725-e010",
+          "page": 725,
+          "source": "The following source bullet says no hypermagnesemia.",
+          "questionIds": [
+            "MED-C3-192"
+          ]
+        },
+        {
+          "element": "p725-e011",
+          "page": 725,
+          "source": "The hypercalciuria note gives urinary calcium above 4 mg/kg/day.",
+          "questionIds": [
+            "MED-C3-193"
+          ]
+        },
+        {
+          "element": "p725-e012",
+          "page": 725,
+          "source": "Comparison row polyuria: more in Bartter, less in Gitelman.",
+          "questionIds": [
+            "MED-C3-194"
+          ]
+        },
+        {
+          "element": "p725-e013",
+          "page": 725,
+          "source": "Comparison row polydipsia: more in Bartter, less in Gitelman.",
+          "questionIds": [
+            "MED-C3-195"
+          ]
+        },
+        {
+          "element": "p725-e014",
+          "page": 725,
+          "source": "Comparison row dehydration: more in Bartter, less in Gitelman.",
+          "questionIds": [
+            "MED-C3-196"
+          ]
+        },
+        {
+          "element": "p725-e015",
+          "page": 725,
+          "source": "Comparison row tetany: less in Bartter, more in Gitelman.",
+          "questionIds": [
+            "MED-C3-197"
+          ]
+        },
+        {
+          "element": "p725-e016",
+          "page": 725,
+          "source": "Comparison row growth retardation: more in Bartter, less in Gitelman.",
+          "questionIds": [
+            "MED-C3-198"
+          ]
+        },
+        {
+          "element": "p725-e017",
+          "page": 725,
+          "source": "The table row prints salt water retention: more Bartter, less Gitelman, conflicting with both salt-wasting descriptions.",
+          "questionIds": [
+            "MED-C3-199"
+          ]
+        },
+        {
+          "element": "p725-e018",
+          "page": 725,
+          "source": "Comparison row urine calcium: more Bartter, less Gitelman.",
+          "questionIds": [
+            "MED-C3-200"
+          ]
+        },
+        {
+          "element": "p725-e019",
+          "page": 725,
+          "source": "Comparison row nephrocalcinosis: more Bartter, less Gitelman.",
+          "questionIds": [
+            "MED-C3-201"
+          ]
+        },
+        {
+          "element": "p725-e020",
+          "page": 725,
+          "source": "Final hypomagnesemia row: Bartter in 20% (type V), Gitelman low; the latter is ambiguous against the preceding 100% assertion.",
+          "questionIds": [
+            "MED-C3-202"
+          ]
+        }
+      ]
+    }
+  ]
+}

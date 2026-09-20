@@ -1,5 +1,12 @@
 # Report — Chapters 52–56 (Vol 3 Part 4 tail + Part 5 head, Book p962–985)
 
+> **Strict-review status (2026-09-20):** This is the expanded 338-question bank
+> imported from PR #18, preserved during integration with the Ch 1–3 repairs.
+> It replaces the 81-question baseline criticised in `SELF_AUDIT_BOOK_ORDER.md`;
+> the old IDs/findings must not be assigned to this new bank. The historical
+> coverage claims below have not been independently re-certified under the new
+> ordered source-manifest standard. Ch 52–56 remain pending in `SOURCE_REVIEW.md`.
+
 **338 new questions · 24 units · all 24 pages p962–985 covered, nothing skipped.**
 
 | Chapter | Title                                                | Pages     | Units | Questions | Format mix (fill / match / tf / scen / odd / recall / num / mgmt) |

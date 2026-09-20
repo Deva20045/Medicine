@@ -108,6 +108,11 @@ def between(text: str, start: str, end: str) -> tuple[int, int]:
 
 
 def main() -> None:
+    # Never ship changed content under stale source-review evidence.
+    from check_source_coverage import audit as audit_source_coverage
+    _rows, review_errors = audit_source_coverage(ROOT)
+    if review_errors:
+        raise ValueError("Source-review evidence is invalid:\n" + "\n".join(review_errors))
     expected = {number: (title, page) for number, title, page in CHAPTERS}
     questions: list[dict] = []
     units: list[dict] = []
