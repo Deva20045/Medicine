@@ -5,993 +5,2223 @@
   "questions": [
     {
       "id": "MED-C2-001",
-      "sec": "Levels",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "numeric",
+      "q": "Which fetal kidney level is printed in the gross-anatomy level line?",
+      "opts": [
+        "S1–S2",
+        "S1–S3",
+        "T12–L3",
+        "L1–L2"
+      ],
+      "ans": 0,
+      "exp": "The scan reads S1–S2, not S1–S3. This corrects the previous bank transcription. (Book p711)"
+    },
+    {
+      "id": "MED-C2-002",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "fillup",
+      "q": "Fill up: Fetal kidneys ascend with ______.",
+      "opts": [
+        "Loss of the ureter",
+        "Rotation",
+        "Fusion",
+        "Complete inversion"
+      ],
+      "ans": 1,
+      "exp": "The arrow is labelled ascend with rotation. (Book p711)"
+    },
+    {
+      "id": "MED-C2-003",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "numeric",
+      "q": "What vertebral range is given for the adult kidneys?",
+      "opts": [
+        "T4–T8",
+        "L4–S3",
+        "T12–L3",
+        "S1–S2"
+      ],
+      "ans": 2,
+      "exp": "Levels: adult T12–L3 (Book p711)"
+    },
+    {
+      "id": "MED-C2-004",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "fillup",
+      "q": "Fill up: The renal hilum corresponds to vertebral level ______.",
+      "opts": [
+        "T10",
+        "L4",
+        "S1",
+        "L1"
+      ],
+      "ans": 3,
+      "exp": "Levels: L1 hilum (Book p711)"
+    },
+    {
+      "id": "MED-C2-005",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "recall",
+      "q": "Why is the left kidney higher than the right in this description?",
+      "opts": [
+        "The liver occupies the right side",
+        "The spleen pushes the left kidney down",
+        "The bladder pulls the right kidney down",
+        "The pancreas pushes the left kidney up"
+      ],
+      "ans": 0,
+      "exp": "The line says left kidney higher due to liver on the right side. (Book p711)"
+    },
+    {
+      "id": "MED-C2-006",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "recall",
+      "q": "The renal artery is discussed among which aortic branches?",
+      "opts": [
+        "Terminal branches of the pulmonary trunk",
+        "Lateral branches of the abdominal aorta",
+        "Anterior branches of the thoracic aorta",
+        "Posterior branches of the aortic arch"
+      ],
+      "ans": 1,
+      "exp": "Arterial supply: lateral branches of abdominal aorta (Book p711)"
+    },
+    {
+      "id": "MED-C2-007",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "recall",
+      "q": "Which artery is first in the book’s lateral-branch sequence?",
+      "opts": [
+        "Renal artery",
+        "Gonadal artery",
+        "Inferior phrenic artery",
+        "Middle suprarenal artery"
+      ],
+      "ans": 2,
+      "exp": "The printed sequence starts with inferior phrenic artery; this is the book’s ordering, not a claim of invariant branching anatomy. (Book p711)"
+    },
+    {
+      "id": "MED-C2-008",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "recall",
+      "q": "Which artery is second in this lateral-branch sequence?",
+      "opts": [
+        "Inferior phrenic artery",
+        "Renal artery",
+        "Gonadal artery",
+        "Middle suprarenal artery"
+      ],
+      "ans": 3,
+      "exp": "Aortic lateral branch 2: middle suprarenal artery (Book p711)"
+    },
+    {
+      "id": "MED-C2-009",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "recall",
+      "q": "Which artery is third in this lateral-branch sequence?",
+      "opts": [
+        "Renal artery",
+        "Inferior phrenic artery",
+        "Middle suprarenal artery",
+        "Gonadal artery"
+      ],
+      "ans": 0,
+      "exp": "Aortic lateral branch 3: renal artery (Book p711)"
+    },
+    {
+      "id": "MED-C2-010",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "fillup",
+      "q": "Fill up: The ______ renal artery is longer.",
+      "opts": [
+        "Inferior accessory",
+        "Right",
+        "Left",
+        "Superior accessory"
+      ],
+      "ans": 1,
+      "exp": "The right-renal-artery sub-bullet is tested before the fourth lateral branch. (Book p711)"
+    },
+    {
+      "id": "MED-C2-011",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "recall",
+      "q": "Which artery is fourth in the printed lateral-branch sequence?",
+      "opts": [
+        "Renal artery",
+        "Middle suprarenal artery",
+        "Gonadal artery",
+        "Inferior phrenic artery"
+      ],
+      "ans": 2,
+      "exp": "Aortic lateral branch 4: gonadal artery (Book p711)"
+    },
+    {
+      "id": "MED-C2-012",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "recall",
+      "q": "Both renal veins drain into which vessel?",
+      "opts": [
+        "Superior vena cava",
+        "Portal vein",
+        "Azygos vein",
+        "Inferior vena cava"
+      ],
+      "ans": 3,
+      "exp": "Venous drainage: both renal veins → IVC (Book p711)"
+    },
+    {
+      "id": "MED-C2-013",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "recall",
+      "q": "Which renal vein is the longer one?",
+      "opts": [
+        "Left renal vein",
+        "Right renal vein",
+        "Both are always equal",
+        "Neither reaches the midline"
+      ],
+      "ans": 0,
+      "exp": "Left renal vein bullet 1: longer (Book p711)"
+    },
+    {
+      "id": "MED-C2-014",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "truefalse",
+      "q": "Which statement about the left renal vein matches the next bullet?",
+      "opts": [
+        "It is absent in normal anatomy",
+        "It crosses the midline",
+        "It remains wholly lateral to the left kidney",
+        "It drains into the superior vena cava"
+      ],
+      "ans": 1,
+      "exp": "Left renal vein bullet 2: crosses midline (Book p711)"
+    },
+    {
+      "id": "MED-C2-015",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "scenario",
+      "q": "An SMA aneurysm may compress which vessel in the book’s example?",
+      "opts": [
+        "Portal vein",
+        "Inferior mesenteric vein",
+        "Left renal vein",
+        "Right renal vein"
+      ],
+      "ans": 2,
+      "exp": "The book’s example is superior mesenteric artery aneurysm → compression of the left renal vein. (Book p711)"
+    },
+    {
+      "id": "MED-C2-016",
+      "sec": "Anatomy Proper",
       "page": 711,
       "fmt": "match",
-      "q": "Match each renal level with its vertebral correspondence — 1) Fetal kidney position 2) Adult kidney position 3) Renal hilum … A) T12–L3 B) S1–S3 C) L1",
+      "q": "Match the listed tributary with the organ it drains — 1) Ureteral vein 2) Gonadal vein 3) Adrenal vein … A) Ureter B) Gonad C) Adrenal gland",
       "opts": [
+        "1-A, 2-C, 3-B",
         "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 3,
+      "exp": "The tributary line lists ureteral vein, gonadal vein and adrenal vein draining to the left renal vein. The terms describe the corresponding organ drainage. (Book p711)"
+    },
+    {
+      "id": "MED-C2-017",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "match",
+      "q": "Match these consecutive gross-anatomy labels with their anatomical descriptions — 1) Diaphragm 2) Right adrenal gland 3) Right kidney … A) Muscular partition above the kidneys B) Gland above the right kidney C) Right renal organ",
+      "opts": [
         "1-A, 2-B, 3-C",
+        "1-A, 2-C, 3-B",
         "1-B, 2-C, 3-A",
         "1-C, 2-A, 3-B"
       ],
       "ans": 0,
-      "exp": "The fetal kidneys sit at S1–S3 and ascend with rotation to the adult T12–L3 position; the hilum corresponds to L1. (Book p711)"
-    },
-    {
-      "id": "MED-C2-002",
-      "sec": "Levels",
-      "page": 711,
-      "fmt": "fillup",
-      "q": "Fill up: The fetal kidneys at S1–S3 ascend to the adult T12–L3 position accompanied by ______.",
-      "opts": [
-        "Rotation",
-        "Regression of the ureteric bud",
-        "Descent of the gonadal artery",
-        "Fusion of the lower poles"
-      ],
-      "ans": 0,
-      "exp": "The book's arrow reads 'ascend with rotation' from the fetal S1–S3 level to the adult T12–L3 level. (Book p711)"
-    },
-    {
-      "id": "MED-C2-003",
-      "sec": "Levels",
-      "page": 711,
-      "fmt": "truefalse",
-      "q": "Which of the following statements about renal vertebral levels is TRUE?",
-      "opts": [
-        "The renal hilum corresponds to the L1 vertebral level",
-        "The adult kidneys span S1–S3",
-        "The fetal kidneys lie at T12–L3",
-        "The hilum corresponds to the L3 vertebral level"
-      ],
-      "ans": 0,
-      "exp": "Hilum = L1; the fetal (not adult) kidneys are at S1–S3 and the adult (not fetal) kidneys span T12–L3. (Book p711)"
-    },
-    {
-      "id": "MED-C2-004",
-      "sec": "Levels",
-      "page": 711,
-      "fmt": "recall",
-      "q": "The left kidney sits at a higher vertebral level than the right because of:",
-      "opts": [
-        "The liver occupying the right upper quadrant",
-        "The spleen pushing the left kidney upward",
-        "The left adrenal gland being larger",
-        "The aorta lying to the left of midline"
-      ],
-      "ans": 0,
-      "exp": "Left kidney is higher due to the liver on the right side pushing the right kidney down. (Book p711)"
-    },
-    {
-      "id": "MED-C2-005",
-      "sec": "Arterial supply",
-      "page": 711,
-      "fmt": "numeric",
-      "q": "The renal artery arises as which numbered lateral branch of the abdominal aorta in the book's ordered list?",
-      "opts": [
-        "Third",
-        "First",
-        "Second",
-        "Fourth"
-      ],
-      "ans": 0,
-      "exp": "Lateral branches of the abdominal aorta in order: 1st inferior phrenic, 2nd middle suprarenal, 3rd renal, 4th gonadal artery. (Book p711)"
-    },
-    {
-      "id": "MED-C2-006",
-      "sec": "Arterial supply",
-      "page": 711,
-      "fmt": "match",
-      "q": "Match each position in the lateral-branch sequence of the abdominal aorta with its artery — 1) First 2) Second 3) Third 4) Fourth … A) Middle suprarenal artery B) Inferior phrenic artery C) Gonadal artery D) Renal artery",
-      "opts": [
-        "1-B, 2-A, 3-D, 4-C",
-        "1-A, 2-B, 3-D, 4-C",
-        "1-B, 2-D, 3-A, 4-C",
-        "1-D, 2-A, 3-B, 4-C"
-      ],
-      "ans": 0,
-      "exp": "Sequence: 1st inferior phrenic, 2nd middle suprarenal, 3rd renal, 4th gonadal artery. (Book p711)"
-    },
-    {
-      "id": "MED-C2-007",
-      "sec": "Arterial supply",
-      "page": 711,
-      "fmt": "fillup",
-      "q": "Fill up: Between the two renal arteries, the ______ renal artery is the longer one.",
-      "opts": [
-        "Right",
-        "Left",
-        "Dominant",
-        "Accessory"
-      ],
-      "ans": 0,
-      "exp": "The right renal artery is longer (it crosses behind the IVC to reach the right kidney). (Book p711)"
-    },
-    {
-      "id": "MED-C2-008",
-      "sec": "Venous drainage",
-      "page": 711,
-      "fmt": "recall",
-      "q": "Both the right and the left renal vein drain into the:",
-      "opts": [
-        "Inferior vena cava",
-        "Superior vena cava",
-        "Portal vein",
-        "Left common iliac vein"
-      ],
-      "ans": 0,
-      "exp": "Right and left renal veins both drain into the IVC. (Book p711)"
-    },
-    {
-      "id": "MED-C2-009",
-      "sec": "Venous drainage",
-      "page": 711,
-      "fmt": "oddoneout",
-      "q": "All of the following describe the left renal vein EXCEPT:",
-      "opts": [
-        "It is shorter than the right renal vein",
-        "It is longer than the right renal vein",
-        "It crosses the midline",
-        "It is compressed by a superior mesenteric artery aneurysm"
-      ],
-      "ans": 0,
-      "exp": "The left renal vein is longer, crosses the midline and can be compressed by an SMA aneurysm; it is not shorter than the right. (Book p711)"
-    },
-    {
-      "id": "MED-C2-010",
-      "sec": "Venous drainage",
-      "page": 711,
-      "fmt": "fillup",
-      "q": "Fill up: The ureteric and gonadal veins join the adrenal vein to drain into the ______.",
-      "opts": [
-        "Left renal vein",
-        "Right renal vein",
-        "Inferior vena cava directly",
-        "Internal iliac vein"
-      ],
-      "ans": 0,
-      "exp": "Tributaries of the left renal vein: ureteral vein, gonadal vein and adrenal vein. (Book p711)"
-    },
-    {
-      "id": "MED-C2-011",
-      "sec": "Venous drainage",
-      "page": 711,
-      "fmt": "scenario",
-      "q": "A 58-year-old is found to have a superior mesenteric artery aneurysm on angiography. Which vessel does the book say such an aneurysm compresses?",
-      "opts": [
-        "Left renal vein",
-        "Right renal vein",
-        "Left gonadal artery",
-        "Hepatic portal vein"
-      ],
-      "ans": 0,
-      "exp": "Superior mesenteric artery aneurysm compresses the left renal vein. (Book p711)"
-    },
-    {
-      "id": "MED-C2-012",
-      "sec": "Gross anatomy figure",
-      "page": 711,
-      "fmt": "recall",
-      "q": "In the gross-anatomy-of-kidney figure, which two structures are shown as cut?",
-      "opts": [
-        "Esophagus and rectum",
-        "Aorta and inferior vena cava",
-        "Ureter and gonadal vein",
-        "Diaphragm and celiac trunk"
-      ],
-      "ans": 0,
-      "exp": "The figure labels 'Esophagus (cut)' and 'Rectum (cut)' among the posterior-abdominal-wall structures. (Book p711)"
-    },
-    {
-      "id": "MED-C2-013",
-      "sec": "Transplantation",
-      "page": 711,
-      "fmt": "recall",
-      "q": "Before living donation, a Tc-99 DTPA scan is used to measure single-kidney GFR; the book states that the kidney retained with the donor is the one with:",
-      "opts": [
-        "The higher GFR",
-        "The lower GFR",
-        "The shorter ureter",
-        "The single renal artery"
-      ],
-      "ans": 0,
-      "exp": "Tc-99 DTPA gives single-kidney GFR and the higher-GFR kidney is retained with the donor. (Book p711)"
-    },
-    {
-      "id": "MED-C2-014",
-      "sec": "Transplantation",
-      "page": 711,
-      "fmt": "fillup",
-      "q": "Fill up: In the transplant anastomosis table, the donor ureter is joined to the recipient's ______.",
-      "opts": [
-        "Bladder",
-        "Internal iliac artery",
-        "External iliac vein",
-        "Aorta"
-      ],
-      "ans": 0,
-      "exp": "Donor ureter is anastomosed to the recipient bladder. (Book p711)"
-    },
-    {
-      "id": "MED-C2-015",
-      "sec": "Transplantation",
-      "page": 711,
-      "fmt": "match",
-      "q": "Match each donor structure with its recipient anastomotic partner — 1) Ureter 2) Renal artery 3) Renal vein … A) External iliac vein B) Bladder C) Internal iliac artery (preferred over external iliac artery and aorta)",
-      "opts": [
-        "1-B, 2-C, 3-A",
-        "1-C, 2-B, 3-A",
-        "1-B, 2-A, 3-C",
-        "1-A, 2-C, 3-B"
-      ],
-      "ans": 0,
-      "exp": "Ureter→bladder; renal artery→internal iliac artery (over external iliac artery/aorta); renal vein→external iliac vein. (Book p711)"
-    },
-    {
-      "id": "MED-C2-016",
-      "sec": "Transplantation",
-      "page": 711,
-      "fmt": "truefalse",
-      "q": "Which of the following statements about the transplant arterial anastomosis is TRUE?",
-      "opts": [
-        "The internal iliac artery is preferred over the external iliac artery and aorta",
-        "The external iliac artery is preferred over the internal iliac artery",
-        "The aorta is the first-choice recipient vessel",
-        "The renal artery is anastomosed to the external iliac vein"
-      ],
-      "ans": 0,
-      "exp": "The table lists internal iliac artery > external iliac artery, aorta for the donor renal artery; the renal vein goes to the external iliac vein. (Book p711)"
-    },
-    {
-      "id": "MED-C2-017",
-      "sec": "Transplantation",
-      "page": 711,
-      "fmt": "recall",
-      "q": "The donor kidney is placed in the recipient's:",
-      "opts": [
-        "Right iliac fossa",
-        "Left iliac fossa",
-        "Right lumbar region",
-        "Epigastric region"
-      ],
-      "ans": 0,
-      "exp": "Donor kidney goes into the right iliac fossa; the recipient's own kidneys are retained in the same place. (Book p711)"
+      "exp": "The first three left-side callouts label the diaphragm, right adrenal gland and right kidney. (Book p711)"
     },
     {
       "id": "MED-C2-018",
-      "sec": "Transplantation",
+      "sec": "Anatomy Proper",
       "page": 711,
-      "fmt": "oddoneout",
-      "q": "All of the following are true of renal transplantation EXCEPT:",
+      "fmt": "match",
+      "q": "Match these consecutive gross-anatomy labels with their descriptions — 1) Hilus 2) Quadratus lumborum muscle 3) Iliacus muscle … A) Posterior abdominal-wall muscle behind the kidney B) Medial entry/exit region of the kidney C) Muscle occupying the iliac fossa",
       "opts": [
-        "The recipient's native kidneys are removed during the operation",
-        "The donor kidney lies in the right iliac fossa",
-        "The recipient's own kidneys are retained in the same place",
-        "The donor ureter is anastomosed to the bladder"
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B"
       ],
-      "ans": 0,
-      "exp": "Recipient kidneys are retained in the same place (not removed); donor kidney sits in the right iliac fossa and its ureter joins the bladder. (Book p711)"
+      "ans": 1,
+      "exp": "The next left-side labels are hilus, quadratus lumborum muscle and iliacus muscle; the leader lines locate each structure. (Book p711)"
     },
     {
       "id": "MED-C2-019",
-      "sec": "Posterior relations",
-      "page": 712,
-      "fmt": "oddoneout",
-      "q": "All of the following are posterior relations of the kidney EXCEPT:",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "recall",
+      "q": "Which named muscle runs beside the lumbar spine in the lower left-side figure callout?",
       "opts": [
-        "The ascending colon",
-        "The diaphragmatic area",
-        "The quadratus lumborum",
-        "The psoas major"
+        "Serratus anterior",
+        "Pectoralis minor",
+        "Psoas major",
+        "Rectus abdominis"
       ],
-      "ans": 0,
-      "exp": "Posterior relations per the figure: diaphragmatic area, area for transversalis tendon, area for quadratus lumborum and area for psoas (with 11th/12th ribs and L1–L2 transverse processes); the ascending colon is an anterior relation. (Book p712)"
+      "ans": 2,
+      "exp": "Gross figure left final callout: psoas major muscle (Book p711)"
     },
     {
       "id": "MED-C2-020",
-      "sec": "Posterior relations",
-      "page": 712,
-      "fmt": "fillup",
-      "q": "Fill up: Posteriorly, the kidney rests against the eleventh and the ______ ribs.",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "match",
+      "q": "Match these upper figure labels with their anatomical descriptions — 1) Inferior vena cava 2) Esophagus (cut) 3) Celiac trunk … A) Cut upper digestive tube B) Large blue abdominal vein C) Arterial trunk arising high on the abdominal aorta",
       "opts": [
-        "Twelfth",
-        "Tenth",
-        "Ninth",
-        "Thirteenth"
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C"
       ],
-      "ans": 0,
-      "exp": "The posterior-relations figure labels the eleventh and twelfth ribs over the upper poles. (Book p712)"
+      "ans": 3,
+      "exp": "The top callouts name inferior vena cava, esophagus (cut), and celiac trunk. (Book p711)"
     },
     {
       "id": "MED-C2-021",
-      "sec": "Posterior relations",
-      "page": 712,
-      "fmt": "recall",
-      "q": "The transverse processes of which two vertebrae are shown as posterior relations of the kidneys?",
-      "opts": [
-        "First and second lumbar",
-        "Third and fourth lumbar",
-        "Twelfth thoracic and first lumbar",
-        "Second and third lumbar"
-      ],
-      "ans": 0,
-      "exp": "The figure labels transverse processes of the first lumbar vertebra and of the second lumbar vertebra. (Book p712)"
-    },
-    {
-      "id": "MED-C2-022",
-      "sec": "Posterior relations",
-      "page": 712,
+      "sec": "Anatomy Proper",
+      "page": 711,
       "fmt": "match",
-      "q": "Match each operation with its surgical approach — 1) Laparoscopic retroperitoneal adrenalectomy 2) Nephrectomy … A) Anterior approach in the supine position B) Posterior approach",
+      "q": "Match these consecutive right-side figure labels with their descriptions — 1) Aorta 2) Left adrenal gland 3) Left kidney … A) Left renal organ B) Gland above the left kidney C) Large red midline artery",
       "opts": [
-        "1-B, 2-A",
-        "1-A, 2-B",
-        "Both use the posterior approach",
-        "Both use the anterior approach"
-      ],
-      "ans": 0,
-      "exp": "Laparoscopic retroperitoneal adrenalectomy uses the posterior approach; nephrectomy uses the anterior approach in supine position. (Book p712)"
-    },
-    {
-      "id": "MED-C2-023",
-      "sec": "Parts of kidney",
-      "page": 712,
-      "fmt": "numeric",
-      "q": "The number of minor calyces per kidney given in the book is:",
-      "opts": [
-        "9–12",
-        "3–4",
-        "5–7",
-        "13–16"
-      ],
-      "ans": 0,
-      "exp": "Calyces: major 3–4, minor 9–12. (Book p712)"
-    },
-    {
-      "id": "MED-C2-024",
-      "sec": "Parts of kidney",
-      "page": 712,
-      "fmt": "fillup",
-      "q": "Fill up: The apex of a renal pyramid protrudes into a ______ calyx.",
-      "opts": [
-        "Minor",
-        "Major",
-        "Intermediate",
-        "Terminal"
-      ],
-      "ans": 0,
-      "exp": "Pyramid: base at the corticomedullary junction, apex protruding into a minor calyx, tip = papilla. (Book p712)"
-    },
-    {
-      "id": "MED-C2-025",
-      "sec": "Parts of kidney",
-      "page": 712,
-      "fmt": "recall",
-      "q": "The vital structure at the tip of a renal pyramid is the:",
-      "opts": [
-        "Papilla",
-        "Base",
-        "Renal column",
-        "Corticomedullary junction"
-      ],
-      "ans": 0,
-      "exp": "Tip of the pyramid = papilla, labelled a vital structure. (Book p712)"
-    },
-    {
-      "id": "MED-C2-026",
-      "sec": "Parts of kidney",
-      "page": 712,
-      "fmt": "truefalse",
-      "q": "Which of the following statements about the renal pyramid is TRUE?",
-      "opts": [
-        "Its base lies at the corticomedullary junction",
-        "Its apex faces the renal capsule",
-        "Its base opens into the major calyx",
-        "Its tip is avascular and non-vital"
-      ],
-      "ans": 0,
-      "exp": "Base = corticomedullary junction; apex protrudes into the minor calyx and the tip (papilla) is vital. (Book p712)"
-    },
-    {
-      "id": "MED-C2-027",
-      "sec": "Parts of kidney",
-      "page": 712,
-      "fmt": "recall",
-      "q": "The renal columns of Bertini are:",
-      "opts": [
-        "Cortical tissue extending between the bases of the pyramids",
-        "Medullary tracts running within the pyramids",
-        "Fibrous septa of the renal capsule",
-        "Vascular bundles of the renal sinus"
-      ],
-      "ans": 0,
-      "exp": "Renal columns of Bertini = cortical tissue extending between the base of the pyramids. (Book p712)"
-    },
-    {
-      "id": "MED-C2-028",
-      "sec": "Parts of kidney",
-      "page": 712,
-      "fmt": "recall",
-      "q": "The renal medulla is prone to hypoxia because it has:",
-      "opts": [
-        "Lesser blood supply with slow, sluggish flow",
-        "A richer capillary network than the cortex",
-        "Direct arterial inflow from the gonadal artery",
-        "No venous drainage at all"
-      ],
-      "ans": 0,
-      "exp": "Medulla has lesser blood supply (slow flow, sluggish) and is therefore prone to hypoxia. (Book p712)"
-    },
-    {
-      "id": "MED-C2-029",
-      "sec": "Parts of kidney",
-      "page": 712,
-      "fmt": "scenario",
-      "q": "A diabetic patient passes tissue fragments in the urine; the book's sequence for this event is that the papilla detaches easily, is excreted with urine, and culminates in:",
-      "opts": [
-        "Papillary necrosis",
-        "Renal abscess",
-        "Nephrocalcinosis",
-        "Cortical infarction"
-      ],
-      "ans": 0,
-      "exp": "Papilla is the most vulnerable part of the medulla; it detaches easily, is excreted with urine and produces papillary necrosis. (Book p712)"
-    },
-    {
-      "id": "MED-C2-030",
-      "sec": "Parts of kidney",
-      "page": 712,
-      "fmt": "oddoneout",
-      "q": "All of the following are labelled in the 'Parts of Kidney' figure EXCEPT:",
-      "opts": [
-        "Glomerulus",
-        "Renal column",
-        "Arcuate vein",
-        "Segmental artery"
-      ],
-      "ans": 0,
-      "exp": "The figure labels interlobular/arcuate/interlobar/lobar/segmental arteries and veins, renal column, papilla, cortex, minor and major calyx, medullary pyramid, renal capsule, renal pelvis and ureter — but no glomerulus. (Book p712)"
-    },
-    {
-      "id": "MED-C2-031",
-      "sec": "Parts of kidney",
-      "page": 712,
-      "fmt": "recall",
-      "q": "In the intrarenal arterial sequence of the figure, the artery lying between the lobar and the arcuate arteries is the:",
-      "opts": [
-        "Interlobar artery",
-        "Interlobular artery",
-        "Segmental artery",
-        "Lobar vein"
-      ],
-      "ans": 0,
-      "exp": "Figure order: segmental → lobar → interlobar → arcuate → interlobular arteries. (Book p712)"
-    },
-    {
-      "id": "MED-C2-032",
-      "sec": "Urinary tract infection",
-      "page": 713,
-      "fmt": "recall",
-      "q": "The book defines an uncomplicated urinary tract infection as cystitis occurring in a:",
-      "opts": [
-        "Sexually active, young adult, healthy female",
-        "Post-menopausal female with diabetes",
-        "Male with an indwelling catheter",
-        "Patient with a renal stone"
-      ],
-      "ans": 0,
-      "exp": "Uncomplicated UTI = cystitis in a sexually active, young adult, healthy female; everything else falls under complicated. (Book p713)"
-    },
-    {
-      "id": "MED-C2-033",
-      "sec": "Urinary tract infection",
-      "page": 713,
-      "fmt": "oddoneout",
-      "q": "All of the following are features of uncomplicated cystitis EXCEPT:",
-      "opts": [
-        "Flank pain",
-        "Urgency",
-        "Frequency",
-        "Dysuria"
-      ],
-      "ans": 0,
-      "exp": "Uncomplicated cystitis: urgency, frequency, dysuria, no h/o fever and no flank pain. (Book p713)"
-    },
-    {
-      "id": "MED-C2-034",
-      "sec": "Urinary tract infection",
-      "page": 713,
-      "fmt": "truefalse",
-      "q": "Which of the following statements about uncomplicated cystitis is TRUE?",
-      "opts": [
-        "There is no history of fever",
-        "Fever with chills is characteristic",
-        "Flank pain is a defining feature",
-        "It is synonymous with complicated UTI"
-      ],
-      "ans": 0,
-      "exp": "Uncomplicated cystitis has no history of fever and no flank pain; it is the opposite arm of complicated UTI. (Book p713)"
-    },
-    {
-      "id": "MED-C2-035",
-      "sec": "Urinary tract infection",
-      "page": 713,
-      "fmt": "management",
-      "q": "The drug of choice for uncomplicated urinary tract infection is:",
-      "opts": [
-        "Nitrofurantoin 100 mg BD for 3–5 days",
-        "Cotrimoxazole 200 mg BD for 3–5 days",
-        "Fosfomycin 3 g single sachet",
-        "Amikacin IV for 3–5 days"
-      ],
-      "ans": 0,
-      "exp": "Nitrofurantoin 100 mg BD × 3–5 days is the DOC; cotrimoxazole 200 mg BD × 3–5 days and fosfomycin 3 g sachet are the listed alternatives. (Book p713)"
-    },
-    {
-      "id": "MED-C2-036",
-      "sec": "Urinary tract infection",
-      "page": 713,
-      "fmt": "numeric",
-      "q": "The single-dose sachet regimen of fosfomycin for uncomplicated UTI is:",
-      "opts": [
-        "3 g in one sachet",
-        "1 g in one sachet",
-        "5 g in one sachet",
-        "2 g divided over two sachets"
-      ],
-      "ans": 0,
-      "exp": "Fosfomycin 3 g, 1 sachet, is one of the uncomplicated-UTI regimens. (Book p713)"
-    },
-    {
-      "id": "MED-C2-037",
-      "sec": "Urinary tract infection",
-      "page": 713,
-      "fmt": "match",
-      "q": "Match each uncomplicated-UTI drug with its book dose — 1) Nitrofurantoin 2) Cotrimoxazole 3) Fosfomycin … A) 3 g, one sachet B) 100 mg BD × 3–5 days C) 200 mg BD × 3–5 days",
-      "opts": [
-        "1-B, 2-C, 3-A",
         "1-C, 2-B, 3-A",
-        "1-B, 2-A, 3-C",
-        "1-A, 2-B, 3-C"
-      ],
-      "ans": 0,
-      "exp": "Nitrofurantoin 100 mg BD × 3–5 days (DOC); cotrimoxazole 200 mg BD × 3–5 days; fosfomycin 3 g one sachet. (Book p713)"
-    },
-    {
-      "id": "MED-C2-038",
-      "sec": "Urinary tract infection",
-      "page": 713,
-      "fmt": "recall",
-      "q": "In the UTI flowchart, the 'complicated' arm is defined as:",
-      "opts": [
-        "All other causes",
-        "Cystitis in healthy young females",
-        "The first episode of cystitis",
-        "Infection limited to the bladder"
-      ],
-      "ans": 0,
-      "exp": "The flowchart splits UTI into complicated ('all other causes') and uncomplicated (cystitis in the sexually active young healthy female). (Book p713)"
-    },
-    {
-      "id": "MED-C2-039",
-      "sec": "Investigation protocol",
-      "page": 713,
-      "fmt": "oddoneout",
-      "q": "In the UTI investigation protocol, ultrasound is used to rule out all of the following EXCEPT:",
-      "opts": [
-        "Renal artery stenosis",
-        "Obstruction",
-        "Emphysematous pyelonephritis",
-        "Pelvicalyceal anatomical abnormalities"
-      ],
-      "ans": 0,
-      "exp": "USG rules out obstruction, emphysematous pyelonephritis and pelvicalyceal anatomical abnormalities; renal artery stenosis is not on that list. (Book p713)"
-    },
-    {
-      "id": "MED-C2-040",
-      "sec": "Investigation protocol",
-      "page": 713,
-      "fmt": "management",
-      "q": "After a normal ultrasound the diagnosis is acute pyelonephritis; the book's injectable treatment options include amikacin and:",
-      "opts": [
-        "Beta-lactam / beta-lactamase inhibitor combinations",
-        "Oral nitrofurantoin",
-        "Oral fosfomycin",
-        "Intravenous gentamicin monotherapy"
-      ],
-      "ans": 0,
-      "exp": "Rx for acute pyelonephritis: amikacin (S/E nephrotoxicity) plus beta-lactam inhibitors such as cefoperazone-sulbactam or piperacillin-tazobactam. (Book p713)"
-    },
-    {
-      "id": "MED-C2-041",
-      "sec": "Investigation protocol",
-      "page": 713,
-      "fmt": "fillup",
-      "q": "Fill up: Among the acute pyelonephritis drugs, the one flagged in the book for nephrotoxicity as a side effect is ______.",
-      "opts": [
-        "Amikacin",
-        "Cefoperazone-sulbactam",
-        "Piperacillin-tazobactam",
-        "Nitrofurantoin"
-      ],
-      "ans": 0,
-      "exp": "Amikacin is listed with the side effect nephrotoxicity. (Book p713)"
-    },
-    {
-      "id": "MED-C2-042",
-      "sec": "Investigation protocol",
-      "page": 713,
-      "fmt": "numeric",
-      "q": "In renal failure, the book adjusts piperacillin + tazobactam from 4.5 g IV QID to:",
-      "opts": [
-        "4.5 g IV BD",
-        "4.5 g IV QID unchanged",
-        "2.25 g IV QID",
-        "4.5 g IV once daily"
-      ],
-      "ans": 0,
-      "exp": "Piperacillin + tazobactam 4.5 g IV QID normally, reduced to 4.5 g IV BD in renal failure. (Book p713)"
-    },
-    {
-      "id": "MED-C2-043",
-      "sec": "Investigation protocol",
-      "page": 713,
-      "fmt": "fillup",
-      "q": "Fill up: When the patient is not responding, CECT abdomen is done using low-volume, ______ contrast.",
-      "opts": [
-        "Iso-osmolar",
-        "Hyper-osmolar",
-        "Hypo-osmolar",
-        "High-osmolar non-ionic"
-      ],
-      "ans": 0,
-      "exp": "Step 2 of the protocol is CECT abdomen with low-volume, iso-osmolar contrast. (Book p713)"
-    },
-    {
-      "id": "MED-C2-044",
-      "sec": "Investigation protocol",
-      "page": 714,
-      "fmt": "oddoneout",
-      "q": "All of the following are CECT features of acute pyelonephritis EXCEPT:",
-      "opts": [
-        "A shrunken, contracted kidney",
-        "A slightly enlarged kidney",
-        "Thickened infundibulum and ureter",
-        "Patchy hypodensities"
-      ],
-      "ans": 0,
-      "exp": "CECT of acute pyelonephritis shows a slightly enlarged kidney, thickened infundibulum and ureter, and patchy hypodensities — not a contracted kidney. (Book p714)"
-    },
-    {
-      "id": "MED-C2-045",
-      "sec": "Papillary necrosis",
-      "page": 714,
-      "fmt": "recall",
-      "q": "Papillary necrosis is defined as detachment of the papilla from:",
-      "opts": [
-        "The tip of the pyramid",
-        "The base of the pyramid",
-        "The renal column of Bertini",
-        "The corticomedullary junction"
-      ],
-      "ans": 0,
-      "exp": "Papillary necrosis = detachment of the papilla from the tip of the pyramid. (Book p714)"
-    },
-    {
-      "id": "MED-C2-046",
-      "sec": "Papillary necrosis",
-      "page": 714,
-      "fmt": "oddoneout",
-      "q": "All of the following are listed causes of papillary necrosis EXCEPT:",
-      "opts": [
-        "Uncomplicated cystitis in a healthy female",
-        "Complicated UTI in a diabetic patient",
-        "Analgesic nephropathy",
-        "Sickle cell anemia"
-      ],
-      "ans": 0,
-      "exp": "Causes: complicated UTI in diabetics, analgesic nephropathy, snake bite and sickle cell anemia; uncomplicated cystitis is not a cause. (Book p714)"
-    },
-    {
-      "id": "MED-C2-047",
-      "sec": "Papillary necrosis",
-      "page": 714,
-      "fmt": "fillup",
-      "q": "Fill up: Analgesic nephropathy follows phenacetin + aspirin + ______ and progresses to CKD.",
-      "opts": [
-        "Caffeine",
-        "Codeine",
-        "Paracetamol",
-        "Ibuprofen"
-      ],
-      "ans": 0,
-      "exp": "Analgesic nephropathy = phenacetin + aspirin + caffeine leading to CKD. (Book p714)"
-    },
-    {
-      "id": "MED-C2-048",
-      "sec": "Papillary necrosis",
-      "page": 714,
-      "fmt": "truefalse",
-      "q": "Which of the following statements about papillary necrosis is TRUE?",
-      "opts": [
-        "Its prognosis is poor",
-        "Its prognosis is excellent with observation alone",
-        "It never follows analgesic use",
-        "It spares the tip of the pyramid"
-      ],
-      "ans": 0,
-      "exp": "Prognosis of papillary necrosis is poor; it involves the papilla at the pyramid tip and follows analgesics among other causes. (Book p714)"
-    },
-    {
-      "id": "MED-C2-049",
-      "sec": "Papillary necrosis",
-      "page": 715,
-      "fmt": "match",
-      "q": "Match each papillary-necrosis stage label with its appearance — 1) Stage C 2) Stage E 3) Stage G … A) Lobster claw appearance B) Calyceal blunting C) Ball on tree appearance",
-      "opts": [
         "1-C, 2-A, 3-B",
-        "1-A, 2-C, 3-B",
-        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C",
         "1-B, 2-A, 3-C"
       ],
       "ans": 0,
-      "exp": "In the types diagram C = ball on tree appearance, E = lobster claw appearance and G = calyceal blunting. (Book p715)"
+      "exp": "The right-side callouts begin aorta, left adrenal gland and left kidney. (Book p711)"
+    },
+    {
+      "id": "MED-C2-022",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "match",
+      "q": "Match these consecutive vessel labels with their figure relationships — 1) Left renal artery 2) Left renal vein 3) Superior mesenteric artery … A) Red vessel entering the left kidney B) Named aortic branch below the celiac trunk C) Blue vessel leaving the left kidney",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 1,
+      "exp": "The next callouts label the left renal artery, left renal vein and superior mesenteric artery. (Book p711)"
+    },
+    {
+      "id": "MED-C2-023",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "match",
+      "q": "Match these lower right-side labels with their descriptions — 1) Ureter 2) Left common iliac artery 3) Gonadal artery and vein … A) Paired arterial and venous gonadal vessels B) Left arterial branch at the aortic bifurcation C) Tube descending from the kidney",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 2,
+      "exp": "The next labels are ureter, left common iliac artery, and gonadal artery and vein. (Book p711)"
+    },
+    {
+      "id": "MED-C2-024",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "recall",
+      "q": "Which lower digestive structure is specifically labelled as cut?",
+      "opts": [
+        "Caecum",
+        "Jejunum",
+        "Duodenum",
+        "Rectum"
+      ],
+      "ans": 3,
+      "exp": "Gross figure lower right callout: rectum (cut) (Book p711)"
+    },
+    {
+      "id": "MED-C2-025",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "recall",
+      "q": "Which urinary reservoir is labelled at the bottom of the gross-anatomy figure?",
+      "opts": [
+        "Urinary bladder",
+        "Renal pelvis",
+        "Minor calyx",
+        "Major calyx"
+      ],
+      "ans": 0,
+      "exp": "Gross figure bottom callout: urinary bladder (Book p711)"
+    },
+    {
+      "id": "MED-C2-026",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "recall",
+      "q": "Which scan is used here to assess single-kidney GFR before donation?",
+      "opts": [
+        "Thyroid uptake scan",
+        "Tc-99 DTPA scan",
+        "DMSA scan",
+        "Plain abdominal radiograph"
+      ],
+      "ans": 1,
+      "exp": "The source writes Tc99 DTPA and links it to single-kidney GFR; the usual radionuclide notation is Tc-99m DTPA. (Book p711)"
+    },
+    {
+      "id": "MED-C2-027",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "recall",
+      "q": "In the book’s donation principle, which kidney is retained by the donor?",
+      "opts": [
+        "The right kidney regardless of function",
+        "The left kidney regardless of function",
+        "The higher-GFR kidney",
+        "The lower-GFR kidney invariably"
+      ],
+      "ans": 2,
+      "exp": "The line says higher-GFR kidney retained with donor. Actual donor selection also considers anatomy and clinical assessment. (Book p711)"
+    },
+    {
+      "id": "MED-C2-028",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "fillup",
+      "q": "Fill up: The donor ureter is anastomosed to the recipient ______.",
+      "opts": [
+        "External iliac vein",
+        "Internal iliac artery",
+        "Renal cortex",
+        "Bladder"
+      ],
+      "ans": 3,
+      "exp": "Anastomosis table row 1: donor ureter → recipient bladder (Book p711)"
+    },
+    {
+      "id": "MED-C2-029",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "recall",
+      "q": "Which arterial preference order is printed in the transplant table?",
+      "opts": [
+        "Internal iliac artery, then external iliac artery/aorta",
+        "External carotid artery, then pulmonary artery",
+        "Aorta only, with iliac arteries forbidden",
+        "Femoral artery only, with aorta forbidden"
+      ],
+      "ans": 0,
+      "exp": "The table prints internal iliac artery > external iliac artery, aorta. This is source-specific teaching, not a universal rule for current transplant technique. (Book p711)"
+    },
+    {
+      "id": "MED-C2-030",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "recall",
+      "q": "Which recipient vein is paired with the donor renal vein?",
+      "opts": [
+        "Superior vena cava",
+        "External iliac vein",
+        "Internal jugular vein",
+        "Portal vein"
+      ],
+      "ans": 1,
+      "exp": "Anastomosis table row 3: renal vein → external iliac vein (Book p711)"
+    },
+    {
+      "id": "MED-C2-031",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "recall",
+      "q": "Where does the book place the donor kidney in the recipient?",
+      "opts": [
+        "Native left renal fossa only",
+        "Intravesical space",
+        "Right iliac fossa",
+        "Left thoracic cavity"
+      ],
+      "ans": 2,
+      "exp": "The printed location is the right iliac fossa. Clinical graft placement can vary. (Book p711)"
+    },
+    {
+      "id": "MED-C2-032",
+      "sec": "Anatomy Proper",
+      "page": 711,
+      "fmt": "truefalse",
+      "q": "Which statement matches the note about the recipient’s own kidneys?",
+      "opts": [
+        "They must always both be removed",
+        "They are transplanted into the chest",
+        "They are joined directly to the donor ureter",
+        "They are retained in place"
+      ],
+      "ans": 3,
+      "exp": "The note says recipient kidneys retained in the same place; native nephrectomy is not routine but can have specific indications. (Book p711)"
+    },
+    {
+      "id": "MED-C2-033",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "Which additional rib crosses the left kidney’s posterior diagram above the twelfth rib?",
+      "opts": [
+        "Eleventh rib",
+        "Ninth rib",
+        "Tenth rib",
+        "Thirteenth rib"
+      ],
+      "ans": 0,
+      "exp": "The diagram shows the eleventh and twelfth ribs on the left side, but only the twelfth rib on the right. Do not assign both ribs identically to both kidneys. (Book p712)"
+    },
+    {
+      "id": "MED-C2-034",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "Which rib is labelled over both kidneys in the posterior-relations diagram?",
+      "opts": [
+        "Tenth rib",
+        "Twelfth rib",
+        "Eighth rib",
+        "Ninth rib"
+      ],
+      "ans": 1,
+      "exp": "Posterior figure: twelfth rib on both kidneys (Book p712)"
+    },
+    {
+      "id": "MED-C2-035",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "Which upper lumbar transverse processes are labelled in the figure?",
+      "opts": [
+        "Fourth lumbar vertebra",
+        "Fifth lumbar vertebra",
+        "First lumbar vertebra",
+        "Third lumbar vertebra"
+      ],
+      "ans": 2,
+      "exp": "Posterior figure: transverse processes of first lumbar vertebra (Book p712)"
+    },
+    {
+      "id": "MED-C2-036",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "match",
+      "q": "Match these posterior contact-area labels to their structures — 1) Diaphragmatic area 2) Area for transversalis tendon 3) Area for quadratus lumborum … A) Transversalis tendon B) Diaphragm C) Quadratus lumborum",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 3,
+      "exp": "The labelled contact areas include diaphragm, transversalis tendon and quadratus lumborum; the same areas recur on the right kidney. (Book p712)"
+    },
+    {
+      "id": "MED-C2-037",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "Which muscle is labelled along the medial posterior contact area?",
+      "opts": [
+        "Psoas",
+        "Rectus abdominis",
+        "Latissimus dorsi",
+        "Sartorius"
+      ],
+      "ans": 0,
+      "exp": "Posterior figure: medial area for psoas (Book p712)"
+    },
+    {
+      "id": "MED-C2-038",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "Which lower lumbar transverse process is also specifically labelled?",
+      "opts": [
+        "First sacral vertebra",
+        "Second lumbar vertebra",
+        "Fourth lumbar vertebra",
+        "Fifth lumbar vertebra"
+      ],
+      "ans": 1,
+      "exp": "Posterior figure: transverse process of second lumbar vertebra (Book p712)"
+    },
+    {
+      "id": "MED-C2-039",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "match",
+      "q": "Match the central arterial labels with their destinations or identity — 1) Left renal artery 2) Aorta 3) Right renal artery … A) Artery to the left kidney B) Artery to the right kidney C) Central systemic arterial trunk",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 2,
+      "exp": "The diagram labels L. renal artery, aorta and R. renal artery. (Book p712)"
+    },
+    {
+      "id": "MED-C2-040",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "Which major vein is labelled beside the aorta in the posterior-relations diagram?",
+      "opts": [
+        "Portal vein",
+        "Superior vena cava",
+        "Splenic vein",
+        "Inferior vena cava"
+      ],
+      "ans": 3,
+      "exp": "Posterior figure: inferior vena cava (Book p712)"
+    },
+    {
+      "id": "MED-C2-041",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "Which paired tubes descend below the kidneys in this figure?",
+      "opts": [
+        "Ureters",
+        "Urethras",
+        "Vasa deferentia",
+        "Fallopian tubes"
+      ],
+      "ans": 0,
+      "exp": "Posterior figure: ureters on both sides (Book p712)"
+    },
+    {
+      "id": "MED-C2-042",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "Which set includes only the posterior contact structures labelled on the right kidney?",
+      "opts": [
+        "Bladder, prostate, sigmoid colon, uterus",
+        "Diaphragm, psoas, quadratus lumborum, transversalis tendon",
+        "Liver, stomach, pancreas, ascending colon",
+        "Spleen, jejunum, ileum, rectum"
+      ],
+      "ans": 1,
+      "exp": "The right kidney repeats the labelled muscle/tendon contact areas. Handwritten 1/2/3 marks add no new named structures. (Book p712)"
+    },
+    {
+      "id": "MED-C2-043",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "Which approach is listed for laparoscopic retroperitoneal adrenalectomy?",
+      "opts": [
+        "Transurethral approach",
+        "Transoral approach",
+        "Posterior approach",
+        "Transvesical approach"
+      ],
+      "ans": 2,
+      "exp": "Applied anatomy: laparoscopic retroperitoneal adrenalectomy → posterior approach (Book p712)"
+    },
+    {
+      "id": "MED-C2-044",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "Which approach and position are listed for nephrectomy here?",
+      "opts": [
+        "Posterior approach, prone position only",
+        "Transurethral approach, lithotomy only",
+        "Thoracic approach, seated position",
+        "Anterior approach, supine position"
+      ],
+      "ans": 3,
+      "exp": "The source lists anterior approach in supine position. This does not exclude other established nephrectomy approaches. (Book p712)"
+    },
+    {
+      "id": "MED-C2-045",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "numeric",
+      "q": "How many major calyces per kidney does the book list?",
+      "opts": [
+        "3–4",
+        "1–2",
+        "5–8",
+        "9–12"
+      ],
+      "ans": 0,
+      "exp": "Parts: major calyces 3–4 (Book p712)"
+    },
+    {
+      "id": "MED-C2-046",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "numeric",
+      "q": "How many minor calyces per kidney does the book list?",
+      "opts": [
+        "20–24",
+        "9–12",
+        "1–2",
+        "3–4"
+      ],
+      "ans": 1,
+      "exp": "Parts: minor calyces 9–12 (Book p712)"
+    },
+    {
+      "id": "MED-C2-047",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "The base of a renal pyramid lies at which junction?",
+      "opts": [
+        "Vesicoureteric junction",
+        "Urethrovesical junction",
+        "Corticomedullary junction",
+        "Pelviureteric junction"
+      ],
+      "ans": 2,
+      "exp": "Pyramid base: corticomedullary junction (Book p712)"
+    },
+    {
+      "id": "MED-C2-048",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "fillup",
+      "q": "Fill up: The pyramid apex protrudes into a ______ calyx.",
+      "opts": [
+        "Major",
+        "Common",
+        "Terminal ureteric",
+        "Minor"
+      ],
+      "ans": 3,
+      "exp": "Pyramid apex: protrudes into minor calyx (Book p712)"
+    },
+    {
+      "id": "MED-C2-049",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "What is the pyramid tip called, and how is it described here?",
+      "opts": [
+        "Papilla, a vital structure",
+        "Pelvis, a nonfunctional remnant",
+        "Capsule, a temporary structure",
+        "Column, a venous reservoir"
+      ],
+      "ans": 0,
+      "exp": "Pyramid tip: papilla, vital structure (Book p712)"
     },
     {
       "id": "MED-C2-050",
-      "sec": "Papillary necrosis",
-      "page": 715,
-      "fmt": "oddoneout",
-      "q": "In the types-of-papillary-necrosis diagram, all of the following are TRUE EXCEPT:",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "match",
+      "q": "Match these consecutive left-side parts labels to their descriptions — 1) Interlobular artery 2) Renal column 3) Papilla of pyramid … A) Tissue between neighbouring pyramids B) Cortical arterial branch C) Tip of a medullary pyramid",
       "opts": [
-        "Stage A represents calyceal blunting",
-        "Stages B and C form the medullary type",
-        "Stages D, E and F form the papillary type",
-        "Stage G represents calyceal blunting"
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A"
       ],
-      "ans": 0,
-      "exp": "Stage A is the normal calyx and papilla; B–C are the medullary type, D–F the papillary type and G calyceal blunting. (Book p715)"
+      "ans": 1,
+      "exp": "The left callouts begin interlobular artery, renal column and papilla of pyramid. (Book p712)"
     },
     {
       "id": "MED-C2-051",
-      "sec": "Papillary necrosis",
-      "page": 715,
-      "fmt": "recall",
-      "q": "Renal abscess is described in the book as a complication of UTI with a prognosis that is:",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "match",
+      "q": "Match these consecutive renal parts with their locations — 1) Cortex 2) Minor calyx 3) Medullary (renal) pyramid … A) Outer renal tissue B) Triangular medullary region C) Cup receiving a papillary tip",
       "opts": [
-        "Poor",
-        "Good",
-        "Self-limiting",
-        "Unrelated to treatment"
+        "1-C, 2-A, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C"
       ],
-      "ans": 0,
-      "exp": "Renal abscess: a complication of UTI with poor prognosis. (Book p715)"
+      "ans": 2,
+      "exp": "The next left callouts are cortex, minor calyx and medullary (renal) pyramid. (Book p712)"
     },
     {
       "id": "MED-C2-052",
-      "sec": "Childhood UTI",
-      "page": 715,
-      "fmt": "numeric",
-      "q": "In the childhood UTI protocol, a complicated UTI is treated for how long before the first ultrasound?",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "Which covering is labelled at the outermost border of the renal section?",
       "opts": [
-        "2 weeks",
-        "3 days",
-        "5 days",
-        "6 weeks"
+        "Renal pelvis",
+        "Medullary pyramid",
+        "Minor calyx",
+        "Renal capsule"
       ],
-      "ans": 0,
-      "exp": "Childhood protocol: complicated UTI → Rx for 2 weeks → then USG. (Book p715)"
+      "ans": 3,
+      "exp": "Parts figure left final label: renal capsule (Book p712)"
     },
     {
       "id": "MED-C2-053",
-      "sec": "Childhood UTI",
-      "page": 715,
-      "fmt": "recall",
-      "q": "CAKUT stands for congenital anomalies of the kidney and urinary tract; the book's examples are:",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "match",
+      "q": "Match these consecutive right-side vessel labels with their figure descriptions — 1) Interlobular vein 2) Arcuate vein 3) Arcuate artery … A) Blue arching vessel near a pyramid base B) Red arching vessel near a pyramid base C) Small cortical venous branch",
       "opts": [
-        "Double pelvis and duplicated ureter",
-        "Horseshoe kidney and pelvic kidney",
-        "Renal agenesis and renal hypoplasia",
-        "Medullary sponge kidney and simple cysts"
+        "1-C, 2-A, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-C, 3-B"
       ],
       "ans": 0,
-      "exp": "CAKUT examples given: double pelvis and duplicated ureter. (Book p715)"
+      "exp": "The right callouts begin interlobular vein, arcuate vein and arcuate artery. (Book p712)"
     },
     {
       "id": "MED-C2-054",
-      "sec": "Childhood UTI",
-      "page": 715,
-      "fmt": "management",
-      "q": "If CAKUT is positive on ultrasound, the next investigation in the childhood UTI protocol is:",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "Which venous label follows the arcuate artery callout?",
       "opts": [
-        "VCU/MCU (voiding cystourethrography)",
-        "DMSA scan for cortical scarring",
-        "Percutaneous renal biopsy under guidance",
-        "Mag-3 diuretic renography study"
+        "Gonadal vein",
+        "Interlobar vein",
+        "Renal portal vein",
+        "Hepatic vein"
       ],
-      "ans": 0,
-      "exp": "CAKUT (+) → step 2 VCU/MCU to look for VUR and posterior urethral valve; DMSA comes only after VUR (+). (Book p715)"
+      "ans": 1,
+      "exp": "Parts figure right label 4: interlobar vein (Book p712)"
     },
     {
       "id": "MED-C2-055",
-      "sec": "Childhood UTI",
-      "page": 715,
-      "fmt": "fillup",
-      "q": "Fill up: On VCU/MCU the protocol looks for vesicoureteric reflux and, in males, the posterior urethral ______.",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "Which label is repeated on the right of the parts figure, requiring care not to confuse it with interlobar?",
       "opts": [
-        "Valve",
-        "Stricture",
-        "Diverticulum",
-        "Polyp"
+        "Major calyx",
+        "Ureter",
+        "Interlobular artery",
+        "Renal capsule"
       ],
-      "ans": 0,
-      "exp": "VCU/MCU looks for vesicoureteric reflux (VUR) and posterior urethral valve in males. (Book p715)"
+      "ans": 2,
+      "exp": "The scan prints interlobular artery both on the left and again at this right-side callout. The deeper right leader appears inconsistent with usual interlobular/interlobar nomenclature; record the printed label, but do not infer an authoritative branching sequence from this apparent labelling error. (Book p712)"
     },
     {
       "id": "MED-C2-056",
-      "sec": "Childhood UTI",
-      "page": 715,
-      "fmt": "recall",
-      "q": "Once VUR is confirmed, the DMSA scan in the childhood protocol is used to assess:",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "match",
+      "q": "Match these consecutive vessel labels with their descriptions — 1) Lobar artery 2) Segmental artery 3) Renal vein … A) Arterial branch named for a renal segment B) Arterial branch named for a renal lobe C) Main blue vessel leaving the kidney",
       "opts": [
-        "Degree of scarring",
-        "Split GFR",
-        "Renal perfusion",
-        "Stone burden"
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C"
       ],
-      "ans": 0,
-      "exp": "Step 3 DMSA scan assesses the degree of scarring once VUR is positive. (Book p715)"
+      "ans": 3,
+      "exp": "The next callouts are lobar artery, segmental artery and renal vein. (Book p712)"
     },
     {
       "id": "MED-C2-057",
-      "sec": "Childhood UTI",
-      "page": 715,
-      "fmt": "truefalse",
-      "q": "Which of the following statements about renal nuclear scans is TRUE?",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "match",
+      "q": "Match these consecutive renal labels with their descriptions — 1) Renal artery 2) Renal pelvis 3) Major calyx … A) Larger collecting cup receiving minor calyces B) Main red vessel entering the kidney C) Central funnel of the collecting system",
       "opts": [
-        "The DTPA scan gives the GFR of the two kidneys separately",
-        "The DMSA scan gives the GFR of the two kidneys separately",
-        "The DTPA scan assesses the degree of scarring",
-        "The DMSA scan is used to grade VUR"
+        "1-B, 2-C, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B"
       ],
       "ans": 0,
-      "exp": "Note: DTPA scan = GFR of kidneys separately; DMSA scan = degree of scarring. (Book p715)"
+      "exp": "The next callouts are renal artery, renal pelvis and major calyx. (Book p712)"
     },
     {
       "id": "MED-C2-058",
-      "sec": "Childhood UTI",
-      "page": 715,
-      "fmt": "scenario",
-      "q": "A 6-year-old with reflux nephropathy needs the separate function of each kidney measured before surgery. The scan the book recommends for kidney-wise GFR is:",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "Which tube continues inferiorly from the renal pelvis in the parts figure?",
       "opts": [
-        "DTPA scan",
-        "DMSA scan",
-        "VCU/MCU",
-        "CECT abdomen"
+        "Collecting venule",
+        "Ureter",
+        "Urethra",
+        "Renal artery"
       ],
-      "ans": 0,
-      "exp": "DTPA scan gives the GFR of the kidneys separately, so it is the study for split function. (Book p715)"
+      "ans": 1,
+      "exp": "Parts figure right final label: ureter (Book p712)"
     },
     {
       "id": "MED-C2-059",
-      "sec": "VUR & papillae",
-      "page": 716,
+      "sec": "Anatomy Proper",
+      "page": 712,
       "fmt": "recall",
-      "q": "The VUR figure on the last page of the chapter displays which grading range alongside a normal study?",
+      "q": "What are the renal columns of Bertini?",
       "opts": [
-        "Grade-1 to Grade-5",
-        "Grade-1 to Grade-3",
-        "Grade-2 to Grade-4",
-        "Grade-0 to Grade-6"
+        "Venous channels inside the pelvis",
+        "Fibrous bands replacing the capsule",
+        "Cortical tissue extending between pyramid bases",
+        "Medullary tissue inside the ureter"
       ],
-      "ans": 0,
-      "exp": "The figure panels are labelled Grade-1, Grade-2, Grade-3, Grade-4, Grade-5 and Normal. (Book p716)"
+      "ans": 2,
+      "exp": "Columns of Bertini: cortical tissue between pyramid bases (Book p712)"
     },
     {
       "id": "MED-C2-060",
-      "sec": "VUR & papillae",
-      "page": 716,
+      "sec": "Anatomy Proper",
+      "page": 712,
       "fmt": "recall",
-      "q": "Asymmetric involvement of the kidneys is attributed in the book to VUR and to:",
+      "q": "How is blood supply to the medulla described?",
       "opts": [
-        "Renal artery disease",
-        "Renal vein thrombosis",
-        "Glomerulonephritis",
-        "Nephrolithiasis"
+        "Greater, with rapid pulsatile flow",
+        "Absent in normal kidneys",
+        "Entirely portal venous",
+        "Lesser, with slow/sluggish flow"
       ],
-      "ans": 0,
-      "exp": "Note: asymmetric involvement of kidneys — VUR and renal artery disease. (Book p716)"
+      "ans": 3,
+      "exp": "Medulla: lesser blood supply, slow/sluggish flow (Book p712)"
     },
     {
       "id": "MED-C2-061",
-      "sec": "VUR & papillae",
-      "page": 716,
-      "fmt": "match",
-      "q": "Match each papillary type with its features — 1) Composite papillae 2) Simple conical papillae … A) Mid pole (66%), slit-like closed orifices, cone shaped, do not allow reflux B) Upper and lower pole (33%), flat/concave surface with round/oval opening, open gaping orifices, allow reflux",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "The medulla’s limited slow-flow supply makes it prone to what?",
       "opts": [
-        "1-B, 2-A",
-        "1-A, 2-B",
-        "Both types allow reflux",
-        "Neither type allows reflux"
+        "Hypoxia",
+        "Hyperoxia",
+        "Biliary obstruction",
+        "Raised intracranial pressure"
       ],
       "ans": 0,
-      "exp": "Composite papillae (upper/lower pole 33%, flat-concave surface, open gaping orifices) allow reflux; simple conical papillae (mid pole 66%, slit-like closed orifices) do not. (Book p716)"
+      "exp": "Medullary slow-flow arrow: prone to hypoxia (Book p712)"
     },
     {
       "id": "MED-C2-062",
-      "sec": "VUR & papillae",
-      "page": 716,
-      "fmt": "numeric",
-      "q": "The proportion of children having at least one compound papilla is:",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "Which part is identified as the most vulnerable medullary structure?",
       "opts": [
-        "90%",
-        "33%",
-        "66%",
-        "50%"
+        "Renal artery",
+        "Papilla",
+        "Renal capsule",
+        "Renal pelvis"
       ],
-      "ans": 0,
-      "exp": "90% of children have at least one compound papilla. (Book p716)"
+      "ans": 1,
+      "exp": "Papilla: most vulnerable part of medulla (Book p712)"
     },
     {
       "id": "MED-C2-063",
-      "sec": "VUR & papillae",
-      "page": 716,
-      "fmt": "truefalse",
-      "q": "Which of the following statements about papillary types is TRUE?",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "recall",
+      "q": "What happens to the vulnerable papilla in the first step of the sequence?",
       "opts": [
-        "Composite papillae allow reflux whereas simple conical papillae do not",
-        "Simple conical papillae allow reflux whereas composite papillae do not",
-        "Both papillary types allow reflux equally",
-        "Neither papillary type allows reflux"
+        "It moves into the cortex intact",
+        "It becomes an adrenal nodule",
+        "It detaches easily",
+        "It develops into a new nephron"
       ],
-      "ans": 0,
-      "exp": "Composite papillae have open gaping orifices and allow reflux; simple conical papillae have closed slit-like orifices and don't. (Book p716)"
+      "ans": 2,
+      "exp": "Papilla: detaches easily (Book p712)"
     },
     {
       "id": "MED-C2-064",
-      "sec": "VUR & papillae",
-      "page": 716,
-      "fmt": "fillup",
-      "q": "Fill up: The channels opening onto the papillary surface in the papillae diagram are the ducts of ______.",
+      "sec": "Anatomy Proper",
+      "page": 712,
+      "fmt": "scenario",
+      "q": "A patient passes a detached renal papillary fragment. Which route does the source describe?",
       "opts": [
-        "Bellini",
-        "Bertini",
-        "Bowman",
-        "Henle"
+        "Excretion with bile",
+        "Loss through the lungs",
+        "Drainage into the portal vein",
+        "Excretion with urine"
       ],
-      "ans": 0,
-      "exp": "The diagram labels the ducts of Bellini opening on the papillary surface. (Book p716)"
+      "ans": 3,
+      "exp": "The sequence says papilla detaches easily → excreted with urine. (Book p712)"
     },
     {
       "id": "MED-C2-065",
-      "sec": "VUR & papillae",
-      "page": 716,
+      "sec": "Anatomy Proper",
+      "page": 712,
       "fmt": "recall",
-      "q": "Composite papillae are most frequent at which poles, in which order?",
+      "q": "What pathological process is named at the end of that sequence?",
       "opts": [
-        "Upper and lower pole, upper more than lower",
-        "Upper and lower pole, lower more than upper",
-        "Mid pole only",
-        "Upper pole only"
+        "Papillary necrosis",
+        "Renal artery stenosis",
+        "Renal agenesis",
+        "Medullary sponge kidney"
       ],
       "ans": 0,
-      "exp": "Composite papillae occur at the upper and lower pole (33%), upper > lower. (Book p716)"
+      "exp": "Papilla sequence endpoint: papillary necrosis (Book p712)"
     },
     {
       "id": "MED-C2-066",
-      "sec": "VUR & papillae",
-      "page": 716,
-      "fmt": "numeric",
-      "q": "Simple conical papillae are located at the mid pole in what percentage?",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "recall",
+      "q": "What are the two main categories in the UTI flowchart?",
       "opts": [
-        "66%",
-        "33%",
-        "90%",
-        "10%"
+        "Congenital and traumatic only",
+        "Complicated and uncomplicated",
+        "Viral and fungal only",
+        "Renal and hepatic"
+      ],
+      "ans": 1,
+      "exp": "UTI tree: complicated left and uncomplicated right (Book p713)"
+    },
+    {
+      "id": "MED-C2-067",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "recall",
+      "q": "How does the left branch define complicated UTI in this simplified chart?",
+      "opts": [
+        "Only asymptomatic bacteriuria",
+        "Only viral urethritis",
+        "All other causes outside its uncomplicated category",
+        "Only cystitis in healthy young women"
+      ],
+      "ans": 2,
+      "exp": "The source labels the complicated branch “All other causes.” This simplified division is source-specific and does not replace current clinical classification. (Book p713)"
+    },
+    {
+      "id": "MED-C2-068",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "recall",
+      "q": "Which presentation defines the uncomplicated branch in this book?",
+      "opts": [
+        "Pyelonephritis with sepsis in a newborn",
+        "UTI with urinary obstruction in a man",
+        "Renal abscess in a transplant recipient",
+        "Cystitis in a sexually active, healthy young adult female"
+      ],
+      "ans": 3,
+      "exp": "The printed definition includes cystitis, sexually active, young adult, healthy and female; all qualifiers are retained. (Book p713)"
+    },
+    {
+      "id": "MED-C2-069",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "recall",
+      "q": "Which sudden need-to-void symptom is listed first?",
+      "opts": [
+        "Urgency",
+        "Retention",
+        "Anuria",
+        "Nocturnal enuresis"
       ],
       "ans": 0,
-      "exp": "Simple conical papillae sit at the mid pole (66%). (Book p716)"
+      "exp": "Uncomplicated symptom 1: urgency (Book p713)"
+    },
+    {
+      "id": "MED-C2-070",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "recall",
+      "q": "Which increased-voiding symptom is listed next?",
+      "opts": [
+        "Urinary retention",
+        "Frequency",
+        "Anuria",
+        "Oliguria"
+      ],
+      "ans": 1,
+      "exp": "Uncomplicated symptom 2: frequency (Book p713)"
+    },
+    {
+      "id": "MED-C2-071",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "recall",
+      "q": "Which painful-voiding symptom completes the first three bullets?",
+      "opts": [
+        "Dysphagia",
+        "Odynophagia",
+        "Dysuria",
+        "Haemoptysis"
+      ],
+      "ans": 2,
+      "exp": "Uncomplicated symptom 3: dysuria (Book p713)"
+    },
+    {
+      "id": "MED-C2-072",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "recall",
+      "q": "Which fever history fits the uncomplicated branch?",
+      "opts": [
+        "Persistent high fever",
+        "Rigors are required",
+        "Fever above 40°C is obligatory",
+        "No history of fever"
+      ],
+      "ans": 3,
+      "exp": "Uncomplicated symptom 4: no history of fever (Book p713)"
+    },
+    {
+      "id": "MED-C2-073",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "recall",
+      "q": "Which pain finding fits the next uncomplicated-UTI bullet?",
+      "opts": [
+        "No flank pain",
+        "Severe flank pain is required",
+        "Pleuritic pain is required",
+        "Renal colic is required"
+      ],
+      "ans": 0,
+      "exp": "Uncomplicated symptom 5: no flank pain (Book p713)"
+    },
+    {
+      "id": "MED-C2-074",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "numeric",
+      "q": "Which drug and regimen is labelled DOC in the book’s uncomplicated-UTI list?",
+      "opts": [
+        "Amikacin 3 g orally as one sachet",
+        "Nitrofurantoin 100 mg BD for 3–5 days",
+        "Nitrofurantoin 1 g QID for 10 days",
+        "Fosfomycin 100 mg BD for 3–5 days"
+      ],
+      "ans": 1,
+      "exp": "The book labels nitrofurantoin 100 mg twice daily for 3–5 days as DOC. This is exam-source recall, not an individual prescription; suitability and current local guidance must be checked. (Book p713)"
+    },
+    {
+      "id": "MED-C2-075",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "truefalse",
+      "q": "What safety problem prevents using the cotrimoxazole line as a complete prescription?",
+      "opts": [
+        "It specifies a universally safe neonatal dose",
+        "It provides culture susceptibility for every patient",
+        "It does not specify both component strengths",
+        "It explicitly forbids any renal assessment"
+      ],
+      "ans": 2,
+      "exp": "The source literally prints cotrimoxazole “200 mg mg BD × 3–5 days.” The repeated unit and missing trimethoprim/sulfamethoxazole component strengths make this unreliable for prescribing. Do not silently guess a corrected dose. (Book p713)"
+    },
+    {
+      "id": "MED-C2-076",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "numeric",
+      "q": "What fosfomycin amount is listed in the uncomplicated-UTI source regimen?",
+      "opts": [
+        "300 mg, four sachets",
+        "30 g, one sachet",
+        "100 mg, twice daily",
+        "3 g, one sachet"
+      ],
+      "ans": 3,
+      "exp": "The printed line is fosfomycin 3 g, 1 sachet. This is source recall; actual treatment depends on the patient, formulation and local guidance. (Book p713)"
+    },
+    {
+      "id": "MED-C2-077",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "recall",
+      "q": "Which test begins the investigation protocol?",
+      "opts": [
+        "Ultrasonography",
+        "DMSA scan",
+        "Plain skull radiography",
+        "Renal biopsy"
+      ],
+      "ans": 0,
+      "exp": "Investigation step 1: USG (Book p713)"
+    },
+    {
+      "id": "MED-C2-078",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "recall",
+      "q": "What mechanical problem is first on the ultrasound rule-out list?",
+      "opts": [
+        "Portal thrombosis",
+        "Obstruction",
+        "Aortic dissection",
+        "Intestinal volvulus"
+      ],
+      "ans": 1,
+      "exp": "USG rule-out i: obstruction (Book p713)"
+    },
+    {
+      "id": "MED-C2-079",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "recall",
+      "q": "Which gas-forming renal infection is the second target on the ultrasound list?",
+      "opts": [
+        "Viral cystitis",
+        "Isolated prostatitis",
+        "Emphysematous pyelonephritis",
+        "Uncomplicated urethritis"
+      ],
+      "ans": 2,
+      "exp": "USG rule-out ii: emphysematous pyelonephritis (Book p713)"
+    },
+    {
+      "id": "MED-C2-080",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "recall",
+      "q": "Which anatomical abnormalities are third on the ultrasound rule-out list?",
+      "opts": [
+        "Coronary-artery abnormalities",
+        "Pulmonary-venous abnormalities",
+        "Cerebral-ventricular abnormalities",
+        "Pelvicalyceal abnormalities"
+      ],
+      "ans": 3,
+      "exp": "USG rule-out iii: pelvicalyceal anatomical abnormalities (Book p713)"
+    },
+    {
+      "id": "MED-C2-081",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "recall",
+      "q": "Which diagnosis follows the normal-USG branch in this symptomatic-UTI algorithm?",
+      "opts": [
+        "Acute pyelonephritis",
+        "Renal cell carcinoma",
+        "Renal artery stenosis",
+        "Polycystic kidney disease"
+      ],
+      "ans": 0,
+      "exp": "The source algorithm proceeds to acute pyelonephritis after normal USG. A normal ultrasound alone neither proves nor excludes pyelonephritis; clinical and laboratory assessment remains necessary. (Book p713)"
+    },
+    {
+      "id": "MED-C2-082",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "recall",
+      "q": "Which aminoglycoside is named in the pyelonephritis treatment list?",
+      "opts": [
+        "Fluconazole",
+        "Amikacin",
+        "Nitrofurantoin",
+        "Fosfomycin"
+      ],
+      "ans": 1,
+      "exp": "Amikacin is named. The list is not a patient-specific instruction to combine all listed agents. (Book p713)"
+    },
+    {
+      "id": "MED-C2-083",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "fillup",
+      "q": "Fill up: The side effect explicitly flagged beside amikacin is ______.",
+      "opts": [
+        "Hypopigmentation",
+        "Gingival hypertrophy",
+        "Nephrotoxicity",
+        "Osteonecrosis"
+      ],
+      "ans": 2,
+      "exp": "Amikacin side effect: nephrotoxicity (Book p713)"
+    },
+    {
+      "id": "MED-C2-084",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "recall",
+      "q": "What do the examples under the source’s “β lactam inhibitors” heading actually represent?",
+      "opts": [
+        "Two aminoglycosides given together",
+        "Antifungal monotherapy",
+        "Antiviral combination therapy",
+        "Beta-lactam/beta-lactamase-inhibitor combinations"
+      ],
+      "ans": 3,
+      "exp": "The source heading is abbreviated/imprecise. Cefoperazone–sulbactam and piperacillin–tazobactam pair a beta-lactam antibiotic with a beta-lactamase inhibitor. (Book p713)"
+    },
+    {
+      "id": "MED-C2-085",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "numeric",
+      "q": "Which cefoperazone–sulbactam regimen is printed in the source?",
+      "opts": [
+        "1.5 g IV twice daily",
+        "15 g orally once daily",
+        "150 mg IV four times daily",
+        "1.5 mg intrathecally daily"
+      ],
+      "ans": 0,
+      "exp": "The line prints 1.5 g IV BD. This source dose does not specify formulation ratio or replace patient-specific prescribing guidance. (Book p713)"
+    },
+    {
+      "id": "MED-C2-086",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "numeric",
+      "q": "Which baseline piperacillin–tazobactam schedule is printed?",
+      "opts": [
+        "4.5 mg intrathecally daily",
+        "4.5 g IV four times daily",
+        "450 mg orally once daily",
+        "45 g IV twice daily"
+      ],
+      "ans": 1,
+      "exp": "The source prints 4.5 g IV QID. Actual dosing depends on indication, renal function and administration strategy. (Book p713)"
+    },
+    {
+      "id": "MED-C2-087",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "numeric",
+      "q": "What reduced-frequency schedule is shown in the renal-failure parenthesis?",
+      "opts": [
+        "45 g IV four times daily",
+        "450 mg orally weekly",
+        "4.5 g IV twice daily",
+        "4.5 g IV eight times daily"
+      ],
+      "ans": 2,
+      "exp": "The parenthesis prints 4.5 g IV BD in renal failure. Do not apply this as one dose for all renal failure: renal function, dialysis and clinical context determine adjustment. (Book p713)"
+    },
+    {
+      "id": "MED-C2-088",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "scenario",
+      "q": "A patient is not responding along this treatment branch. What is the next imaging step in the book?",
+      "opts": [
+        "Plain skull radiograph",
+        "DMSA before any assessment",
+        "Coronary angiography",
+        "CECT abdomen"
+      ],
+      "ans": 3,
+      "exp": "The not-responding arrow leads to step 2, contrast-enhanced CT of the abdomen. (Book p713)"
+    },
+    {
+      "id": "MED-C2-089",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "recall",
+      "q": "What contrast-volume characteristic does the source specify?",
+      "opts": [
+        "Low volume",
+        "Maximum possible volume",
+        "Fixed 5-litre volume",
+        "Volume unrelated to clinical assessment"
+      ],
+      "ans": 0,
+      "exp": "The contrast note starts low volume. This is not a patient-specific contrast order. (Book p713)"
+    },
+    {
+      "id": "MED-C2-090",
+      "sec": "Urinary Tract Infection",
+      "page": 713,
+      "fmt": "fillup",
+      "q": "Fill up: The contrast is described as low-volume and ______.",
+      "opts": [
+        "Barium-based",
+        "Iso-osmolar",
+        "Extremely hyperosmolar",
+        "Purely gaseous"
+      ],
+      "ans": 1,
+      "exp": "The note says low-volume, iso-osmolar contrast; renal risk and imaging need require clinical assessment. (Book p713)"
+    },
+    {
+      "id": "MED-C2-091",
+      "sec": "Urinary Tract Infection",
+      "page": 714,
+      "fmt": "recall",
+      "q": "What renal-size change is listed on CECT in acute pyelonephritis?",
+      "opts": [
+        "Marked contraction by definition",
+        "Normal size is mandatory",
+        "Slight enlargement",
+        "Bilateral agenesis"
+      ],
+      "ans": 2,
+      "exp": "CECT acute pyelonephritis bullet 1: slightly enlarged kidney (Book p714)"
+    },
+    {
+      "id": "MED-C2-092",
+      "sec": "Urinary Tract Infection",
+      "page": 714,
+      "fmt": "recall",
+      "q": "Which collecting-system passage is described as thickened?",
+      "opts": [
+        "Urethral meatus",
+        "Urachus",
+        "Prostatic duct",
+        "Infundibulum"
+      ],
+      "ans": 3,
+      "exp": "CECT bullet 2a: thickened infundibulum (Book p714)"
+    },
+    {
+      "id": "MED-C2-093",
+      "sec": "Urinary Tract Infection",
+      "page": 714,
+      "fmt": "recall",
+      "q": "Which tube is listed with the thickened infundibulum?",
+      "opts": [
+        "Ureter",
+        "Urethra",
+        "Vas deferens",
+        "Fallopian tube"
+      ],
+      "ans": 0,
+      "exp": "CECT bullet 2b: thickened ureter (Book p714)"
+    },
+    {
+      "id": "MED-C2-094",
+      "sec": "Urinary Tract Infection",
+      "page": 714,
+      "fmt": "recall",
+      "q": "Which density pattern is identified by the accompanying arrows?",
+      "opts": [
+        "Homogeneous cortical ossification",
+        "Patchy hypodensities",
+        "Uniform dense calcification",
+        "Gas in every calyx"
+      ],
+      "ans": 1,
+      "exp": "CECT bullet 3 and arrow: patchy hypodensities (Book p714)"
+    },
+    {
+      "id": "MED-C2-095",
+      "sec": "Urinary Tract Infection",
+      "page": 714,
+      "fmt": "recall",
+      "q": "The top CT with enlargement, collecting-system thickening and patchy hypodensities is captioned as which condition?",
+      "opts": [
+        "Horseshoe kidney",
+        "Renal artery aneurysm",
+        "Acute pyelonephritis",
+        "Renal agenesis"
+      ],
+      "ans": 2,
+      "exp": "Top CT caption: acute pyelonephritis (Book p714)"
+    },
+    {
+      "id": "MED-C2-096",
+      "sec": "Urinary Tract Infection",
+      "page": 714,
+      "fmt": "recall",
+      "q": "Which structures are identified as normal in the middle-left comparison montage?",
+      "opts": [
+        "Adrenal glands",
+        "Ureters",
+        "Renal arteries",
+        "Renal papillae"
+      ],
+      "ans": 3,
+      "exp": "The comparison montage is captioned Normal papillae; no additional unlabelled CT diagnosis is inferred. (Book p714)"
+    },
+    {
+      "id": "MED-C2-097",
+      "sec": "Urinary Tract Infection",
+      "page": 714,
+      "fmt": "recall",
+      "q": "What condition is named in the middle-right comparison montage?",
+      "opts": [
+        "Nephrocalcinosis",
+        "Renal agenesis",
+        "Hydatid cyst",
+        "Renal vein thrombosis"
+      ],
+      "ans": 0,
+      "exp": "The adjacent montage is captioned Nephrocalcinosis. It is a separate comparison image, not a synonym for papillary necrosis. (Book p714)"
+    },
+    {
+      "id": "MED-C2-098",
+      "sec": "Urinary Tract Infection",
+      "page": 714,
+      "fmt": "recall",
+      "q": "From where does the definition say the papilla detaches?",
+      "opts": [
+        "Origin of the renal artery",
+        "Tip of the pyramid",
+        "Base of the renal capsule",
+        "Wall of the bladder"
+      ],
+      "ans": 1,
+      "exp": "Papillary necrosis definition: detachment from pyramid tip (Book p714)"
+    },
+    {
+      "id": "MED-C2-099",
+      "sec": "Urinary Tract Infection",
+      "page": 714,
+      "fmt": "recall",
+      "q": "Which infection context is specifically listed as a cause of papillary necrosis?",
+      "opts": [
+        "Isolated viral conjunctivitis",
+        "Uncomplicated otitis externa",
+        "Complicated UTI in a diabetic patient",
+        "Uncomplicated rhinitis in a healthy adult"
+      ],
+      "ans": 2,
+      "exp": "Papillary-necrosis causes, left bullet 1: complicated UTI in diabetic patient (Book p714)"
+    },
+    {
+      "id": "MED-C2-100",
+      "sec": "Urinary Tract Infection",
+      "page": 714,
+      "fmt": "recall",
+      "q": "Which drug-related kidney disorder is the next listed cause?",
+      "opts": [
+        "Isolated aminoglycoside ototoxicity",
+        "Statin myalgia alone",
+        "Antihistamine sedation",
+        "Analgesic nephropathy"
+      ],
+      "ans": 3,
+      "exp": "Causes, left bullet 2: analgesic nephropathy (Book p714)"
+    },
+    {
+      "id": "MED-C2-101",
+      "sec": "Urinary Tract Infection",
+      "page": 714,
+      "fmt": "match",
+      "q": "Match the three components of the historical analgesic combination with their descriptions — 1) Phenacetin 2) Aspirin 3) Caffeine … A) Salicylate analgesic in the combination B) Historical analgesic in the combination C) Stimulant component in the combination",
+      "opts": [
+        "1-B, 2-A, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A"
+      ],
+      "ans": 0,
+      "exp": "The parenthesis lists phenacetin + aspirin + caffeine. This is a harmful historical exposure associated with nephropathy, not a treatment recommendation. (Book p714)"
+    },
+    {
+      "id": "MED-C2-102",
+      "sec": "Urinary Tract Infection",
+      "page": 714,
+      "fmt": "recall",
+      "q": "Which chronic outcome follows the analgesic combination in the source parenthesis?",
+      "opts": [
+        "Resolution of renal agenesis",
+        "Chronic kidney disease",
+        "Permanent renal protection",
+        "New nephron formation"
+      ],
+      "ans": 1,
+      "exp": "Analgesic combination arrow → CKD (Book p714)"
+    },
+    {
+      "id": "MED-C2-103",
+      "sec": "Urinary Tract Infection",
+      "page": 714,
+      "fmt": "recall",
+      "q": "Which envenomation-related cause is listed in the right column?",
+      "opts": [
+        "Scorpion sting only",
+        "Spider bite only",
+        "Snake bite",
+        "Bee sting alone"
+      ],
+      "ans": 2,
+      "exp": "Papillary-necrosis causes, right bullet 1: snake bite (Book p714)"
+    },
+    {
+      "id": "MED-C2-104",
+      "sec": "Urinary Tract Infection",
+      "page": 714,
+      "fmt": "recall",
+      "q": "Which haemoglobin disorder is the next listed cause?",
+      "opts": [
+        "Iron-deficiency anaemia",
+        "Pernicious anaemia",
+        "Pure red-cell aplasia",
+        "Sickle cell anaemia"
+      ],
+      "ans": 3,
+      "exp": "Papillary-necrosis causes, right bullet 2: sickle cell anaemia (Book p714)"
+    },
+    {
+      "id": "MED-C2-105",
+      "sec": "Urinary Tract Infection",
+      "page": 714,
+      "fmt": "recall",
+      "q": "How is prognosis described in this source?",
+      "opts": [
+        "Poor",
+        "Universally harmless",
+        "Always self-limiting without sequelae",
+        "Always curable without assessment"
+      ],
+      "ans": 0,
+      "exp": "The printed prognosis is poor; individual outcomes depend on cause, extent and treatment. (Book p714)"
+    },
+    {
+      "id": "MED-C2-106",
+      "sec": "Urinary Tract Infection",
+      "page": 714,
+      "fmt": "recall",
+      "q": "What diagnosis labels the lower CT/urographic image examples?",
+      "opts": [
+        "Renal artery dissection",
+        "Papillary necrosis",
+        "Normal papillae",
+        "Renal cortical adenoma"
+      ],
+      "ans": 1,
+      "exp": "Both sets of lower images point to the Papillary necrosis caption. The images reinforce the preceding detachment description; unlabelled stages are not invented. (Book p714)"
+    },
+    {
+      "id": "MED-C2-107",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "Which state is labelled A in the types diagram?",
+      "opts": [
+        "Complete renal agenesis",
+        "Renal abscess",
+        "Normal calyx and papilla",
+        "Calyceal blunting"
+      ],
+      "ans": 2,
+      "exp": "Papillary-necrosis types figure: A, normal calyx and papilla (Book p715)"
+    },
+    {
+      "id": "MED-C2-108",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "Which diagram labels form the medullary-type branch?",
+      "opts": [
+        "D and E",
+        "E and F",
+        "A and G",
+        "B and C"
+      ],
+      "ans": 3,
+      "exp": "Types figure upper branch: B–C, medullary type (Book p715)"
+    },
+    {
+      "id": "MED-C2-109",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "Which labels form the papillary-type branch?",
+      "opts": [
+        "D, E and F",
+        "A, B and C",
+        "B, C and G",
+        "A, F and G"
+      ],
+      "ans": 0,
+      "exp": "Types figure lower branch: D–F, papillary type (Book p715)"
+    },
+    {
+      "id": "MED-C2-110",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "What is the shared final appearance labelled G?",
+      "opts": [
+        "New calyx formation",
+        "Calyceal blunting",
+        "Normal papillary sharpness",
+        "Renal cortical thickening"
+      ],
+      "ans": 1,
+      "exp": "Types figure converging arrow: G, calyceal blunting (Book p715)"
+    },
+    {
+      "id": "MED-C2-111",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "Which labelled stage has the ball-on-tree appearance?",
+      "opts": [
+        "E",
+        "G",
+        "C",
+        "A"
+      ],
+      "ans": 2,
+      "exp": "Adjacent note: C, ball-on-tree appearance (Book p715)"
+    },
+    {
+      "id": "MED-C2-112",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "Which labelled stage has the lobster-claw appearance?",
+      "opts": [
+        "A",
+        "C",
+        "G",
+        "E"
+      ],
+      "ans": 3,
+      "exp": "Adjacent note: E, lobster-claw appearance (Book p715)"
+    },
+    {
+      "id": "MED-C2-113",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "Renal abscess is listed as a complication of which process?",
+      "opts": [
+        "Urinary tract infection",
+        "Isolated hypothyroidism",
+        "Uncomplicated asthma",
+        "Renal agenesis"
+      ],
+      "ans": 0,
+      "exp": "Renal abscess bullet 1: complication of UTI (Book p715)"
+    },
+    {
+      "id": "MED-C2-114",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "How does the source describe renal-abscess prognosis?",
+      "opts": [
+        "Unrelated to treatment",
+        "Poor",
+        "Always benign without treatment",
+        "Always fatal within minutes"
+      ],
+      "ans": 1,
+      "exp": "The source says poor prognosis. This should not be interpreted as a fixed outcome for every treated abscess. (Book p715)"
+    },
+    {
+      "id": "MED-C2-115",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "The CT montage’s arrow labels a collection within the kidney as what?",
+      "opts": [
+        "Renal artery aneurysm",
+        "Ureteric calculus",
+        "Renal abscess",
+        "Normal collecting duct"
+      ],
+      "ans": 2,
+      "exp": "The montage is labelled Renal abscess; the visible arrows identify the intrarenal abnormality. (Book p715)"
+    },
+    {
+      "id": "MED-C2-116",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "Which childhood UTI category starts this investigation protocol?",
+      "opts": [
+        "Asymptomatic healthy screening only",
+        "Isolated viral rhinitis",
+        "Uncomplicated otitis media",
+        "Complicated UTI"
+      ],
+      "ans": 3,
+      "exp": "Childhood protocol starts with complicated UTI (Book p715)"
+    },
+    {
+      "id": "MED-C2-117",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "numeric",
+      "q": "What treatment duration precedes the first ultrasound in the printed childhood protocol?",
+      "opts": [
+        "Two weeks",
+        "Two hours",
+        "Two days",
+        "Two months"
+      ],
+      "ans": 0,
+      "exp": "The chart says Rx for 2 weeks before USG; this is the book’s pathway, not a universal delay rule for every child who needs urgent imaging. (Book p715)"
+    },
+    {
+      "id": "MED-C2-118",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "What is investigation step 1 after that treatment interval?",
+      "opts": [
+        "Coronary CT",
+        "Ultrasonography",
+        "Renal biopsy",
+        "DMSA immediately"
+      ],
+      "ans": 1,
+      "exp": "Childhood protocol step 1: USG (Book p715)"
+    },
+    {
+      "id": "MED-C2-119",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "What does CAKUT stand for?",
+      "opts": [
+        "Congenital adrenal and kidney uptake test",
+        "Cortical atrophy with kidney and ureter trauma",
+        "Congenital anomalies of the kidney and urinary tract",
+        "Chronic acquired kidney and urethral thrombosis"
+      ],
+      "ans": 2,
+      "exp": "USG looks for CAKUT; full expansion (Book p715)"
+    },
+    {
+      "id": "MED-C2-120",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "Which renal-pelvis anomaly is the first CAKUT example?",
+      "opts": [
+        "Absent diaphragm",
+        "Double aortic arch",
+        "Bifid uvula",
+        "Double pelvis"
+      ],
+      "ans": 3,
+      "exp": "CAKUT example 1: double pelvis (Book p715)"
+    },
+    {
+      "id": "MED-C2-121",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "Which ureteric anomaly is the second CAKUT example?",
+      "opts": [
+        "Duplicated ureter",
+        "Ureteric carcinoma",
+        "Ureteric schistosomiasis",
+        "Ureteric foreign body"
+      ],
+      "ans": 0,
+      "exp": "CAKUT example 2: duplicated ureter (Book p715)"
+    },
+    {
+      "id": "MED-C2-122",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "What is step 2 when CAKUT is positive in this chart?",
+      "opts": [
+        "Thyroid scintigraphy",
+        "Voiding/micturating cystourethrography",
+        "Cerebral angiography",
+        "Renal cortical biopsy"
+      ],
+      "ans": 1,
+      "exp": "The printed full names are voiding cystourethrography and micturating cystourethrography (VCU/MCU). (Book p715)"
+    },
+    {
+      "id": "MED-C2-123",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "What reflux abnormality does VCU/MCU look for here?",
+      "opts": [
+        "Tricuspid regurgitation",
+        "Biliary reflux",
+        "Vesicoureteric reflux",
+        "Gastro-oesophageal reflux"
+      ],
+      "ans": 2,
+      "exp": "VCU/MCU target 1: vesicoureteric reflux (Book p715)"
+    },
+    {
+      "id": "MED-C2-124",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "fillup",
+      "q": "Fill up: In males the chart also looks for a posterior urethral ______.",
+      "opts": [
+        "Tumour",
+        "Diverticulum only",
+        "Stone only",
+        "Valve"
+      ],
+      "ans": 3,
+      "exp": "VCU/MCU target 2: posterior urethral valve in males (Book p715)"
+    },
+    {
+      "id": "MED-C2-125",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "What does the adjacent voiding-study image’s VUR caption identify?",
+      "opts": [
+        "Reflux from the bladder toward the ureter",
+        "Normal antegrade-only urine drainage",
+        "Reflux of bile into the stomach",
+        "Reflux from a renal vein into the aorta"
+      ],
+      "ans": 0,
+      "exp": "The image is captioned VUR and accompanies the cystourethrography branch. (Book p715)"
+    },
+    {
+      "id": "MED-C2-126",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "After VUR is confirmed, what is the purpose of the DMSA scan in the chart?",
+      "opts": [
+        "Measure bladder pressure directly",
+        "Assess the degree of renal scarring",
+        "Measure thyroid uptake",
+        "Identify coronary stenosis"
+      ],
+      "ans": 1,
+      "exp": "VUR-positive arrow → step 3 DMSA, degree of scarring (Book p715)"
+    },
+    {
+      "id": "MED-C2-127",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "Which uptake pattern is the normal comparator in the DMSA illustration?",
+      "opts": [
+        "No renal uptake at all",
+        "Uptake confined to the bladder",
+        "Preserved uptake in the renal outlines",
+        "A mandatory large cold cortical defect"
+      ],
+      "ans": 2,
+      "exp": "The left illustration is labelled Normal uptake; the right one is separately labelled Abnormal uptake. (Book p715)"
+    },
+    {
+      "id": "MED-C2-128",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "recall",
+      "q": "What do the abnormal-uptake arrows illustrate in this scarring assessment?",
+      "opts": [
+        "Normal uniform cortical uptake",
+        "Normal intestinal gas",
+        "Bone marrow uptake only",
+        "Focal defects in renal cortical uptake"
+      ],
+      "ans": 3,
+      "exp": "The figure labels abnormal uptake and points to cortical defects; the scan is used to assess scarring in the chart. Interpretation and timing matter clinically. (Book p715)"
+    },
+    {
+      "id": "MED-C2-129",
+      "sec": "Urinary Tract Infection",
+      "page": 715,
+      "fmt": "scenario",
+      "q": "A child needs separate GFR assessment for each kidney. Which scan does the final note name?",
+      "opts": [
+        "DTPA scan",
+        "DMSA scar scan",
+        "Thyroid uptake scan",
+        "Bone scan"
+      ],
+      "ans": 0,
+      "exp": "The final note is DTPA scan: GFR of kidneys separately. (Book p715)"
+    },
+    {
+      "id": "MED-C2-130",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "recall",
+      "q": "Which graded sequence is displayed before the normal comparison column?",
+      "opts": [
+        "Classes I, II and III only",
+        "Grades 1, 2, 3, 4 and 5",
+        "Grades 0, 2, 4, 6 and 8",
+        "Stages A, B, C, D and E"
+      ],
+      "ans": 1,
+      "exp": "Both rows are organised beneath Grade-1, Grade-2, Grade-3, Grade-4, Grade-5 and Normal. These labels are tested as the source’s displayed sequence, not as an invented numerical grading definition. (Book p716)"
+    },
+    {
+      "id": "MED-C2-131",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "match",
+      "q": "Match the grade-4 panel’s anatomical markers to their structures — 1) k 2) u 3) b … A) Kidney/renal collecting region B) Bladder C) Ureter",
+      "opts": [
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-A, 2-B, 3-C"
+      ],
+      "ans": 2,
+      "exp": "The grade-4 panel marks the renal region k, descending ureter u and bladder b. The normal comparison lacks the refluxing upper-tract contrast pattern. (Book p716)"
+    },
+    {
+      "id": "MED-C2-132",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "recall",
+      "q": "Compared with the reflux examples, what upper-tract contrast pattern is absent in the normal comparator?",
+      "opts": [
+        "Contrast within the bladder itself",
+        "The entire urinary bladder",
+        "All pelvic bones",
+        "Reflux opacifying the ureter and collecting system"
+      ],
+      "ans": 3,
+      "exp": "The Normal column provides the non-reflux comparator. The page does not print detailed grade thresholds; do not infer a validated grading rubric from labels alone. (Book p716)"
+    },
+    {
+      "id": "MED-C2-133",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "recall",
+      "q": "Which reflux condition is listed as a cause of asymmetric kidney involvement?",
+      "opts": [
+        "Vesicoureteric reflux",
+        "Gastro-oesophageal reflux",
+        "Duodenogastric reflux",
+        "Mitral regurgitation"
+      ],
+      "ans": 0,
+      "exp": "Asymmetric kidney involvement note, bullet 1: VUR (Book p716)"
+    },
+    {
+      "id": "MED-C2-134",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "recall",
+      "q": "What vascular disease is the other listed cause of asymmetric kidney involvement?",
+      "opts": [
+        "Portal vein disease",
+        "Renal artery disease",
+        "Pulmonary vein disease",
+        "Coronary sinus disease"
+      ],
+      "ans": 1,
+      "exp": "Asymmetric involvement note, bullet 2: renal artery disease (Book p716)"
+    },
+    {
+      "id": "MED-C2-135",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "recall",
+      "q": "Which ducts are labelled opening onto the papillary surface?",
+      "opts": [
+        "Ducts of Wirsung",
+        "Ducts of Stensen",
+        "Ducts of Bellini",
+        "Ducts of Luschka"
+      ],
+      "ans": 2,
+      "exp": "Papillae diagram shared label: ducts of Bellini (Book p716)"
+    },
+    {
+      "id": "MED-C2-136",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "recall",
+      "q": "What flow do the inward arrows in the composite-papilla diagram illustrate?",
+      "opts": [
+        "Bile flow into the renal pelvis",
+        "Blood flow into the renal artery",
+        "Lymph flow out of the ureter",
+        "Reflux into the papillary ducts"
+      ],
+      "ans": 3,
+      "exp": "The broad composite surface and inward arrows illustrate reflux; the detailed written features follow below. (Book p716)"
+    },
+    {
+      "id": "MED-C2-137",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "numeric",
+      "q": "What proportion of children is said to have at least one compound papilla?",
+      "opts": [
+        "90%",
+        "9%",
+        "33%",
+        "66%"
+      ],
+      "ans": 0,
+      "exp": "The parenthesis states 90% of children have at least one compound papilla; the scan uses composite and compound in this context. (Book p716)"
+    },
+    {
+      "id": "MED-C2-138",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "numeric",
+      "q": "Which distribution and percentage are listed for composite papillae?",
+      "opts": [
+        "Lower pole only, 9%",
+        "Upper and lower poles, 33%",
+        "Mid pole, 66%",
+        "Upper pole only, 90%"
+      ],
+      "ans": 1,
+      "exp": "Composite bullet 1: upper/lower poles 33% (Book p716)"
+    },
+    {
+      "id": "MED-C2-139",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "truefalse",
+      "q": "Which pole is more frequently involved in the parenthetical comparison?",
+      "opts": [
+        "Exactly equal poles",
+        "Neither pole",
+        "Upper more than lower",
+        "Lower more than upper"
+      ],
+      "ans": 2,
+      "exp": "Composite bullet 1 parenthesis: upper > lower (Book p716)"
+    },
+    {
+      "id": "MED-C2-140",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "recall",
+      "q": "Which surface contour characterises composite papillae in the list?",
+      "opts": [
+        "Sharply conical only",
+        "Spherical and closed",
+        "Uniformly convex and sealed",
+        "Flat or concave"
+      ],
+      "ans": 3,
+      "exp": "Composite bullet 2a: flat/concave surface (Book p716)"
+    },
+    {
+      "id": "MED-C2-141",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "recall",
+      "q": "What opening shape is described for composite papillae?",
+      "opts": [
+        "Round or oval",
+        "Slit-like only",
+        "Star-shaped and sealed",
+        "Square and calcified"
+      ],
+      "ans": 0,
+      "exp": "Composite bullet 2b: round/oval opening (Book p716)"
+    },
+    {
+      "id": "MED-C2-142",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "recall",
+      "q": "How are composite papillary orifices described?",
+      "opts": [
+        "Always plugged by stones",
+        "Open and gaping",
+        "Closed slit-like",
+        "Absent"
+      ],
+      "ans": 1,
+      "exp": "Composite bullet 3: open gaping orifices (Book p716)"
+    },
+    {
+      "id": "MED-C2-143",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "recall",
+      "q": "Which functional consequence follows from these open composite orifices?",
+      "opts": [
+        "They stop urine production",
+        "They generate new nephrons",
+        "They allow reflux",
+        "They prevent all reflux"
+      ],
+      "ans": 2,
+      "exp": "The scan spells the word “reflex”; in this VUR/papillary-flow context the intended word is reflux. The source spelling is flagged. (Book p716)"
+    },
+    {
+      "id": "MED-C2-144",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "recall",
+      "q": "What overall contour is shown for the simple conical papilla?",
+      "opts": [
+        "A broad concave plateau",
+        "A flat open crater",
+        "A spherical cyst",
+        "A projecting cone"
+      ],
+      "ans": 3,
+      "exp": "The right-hand drawing shows a conical papilla, contrasted with the broad composite surface. (Book p716)"
+    },
+    {
+      "id": "MED-C2-145",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "numeric",
+      "q": "Where and in what percentage are simple conical papillae listed?",
+      "opts": [
+        "Mid pole, 66%",
+        "Upper/lower poles, 33%",
+        "Upper pole only, 90%",
+        "Lower pole only, 9%"
+      ],
+      "ans": 0,
+      "exp": "Simple conical bullet 1: mid pole, 66% (Book p716)"
+    },
+    {
+      "id": "MED-C2-146",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "recall",
+      "q": "How are simple conical papillary orifices described?",
+      "opts": [
+        "Absent ducts",
+        "Slit-like and closed",
+        "Round and gaping",
+        "Oval and wide open"
+      ],
+      "ans": 1,
+      "exp": "Simple conical bullet 2: slit-like closed orifices (Book p716)"
+    },
+    {
+      "id": "MED-C2-147",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "fillup",
+      "q": "Fill up: The source describes simple papillae as ______ shaped.",
+      "opts": [
+        "Spherical",
+        "Crescent",
+        "Cone",
+        "Disc"
+      ],
+      "ans": 2,
+      "exp": "Simple conical bullet 3: cone shaped (Book p716)"
+    },
+    {
+      "id": "MED-C2-148",
+      "sec": "Urinary Tract Infection",
+      "page": 716,
+      "fmt": "recall",
+      "q": "Which reflux behaviour is assigned to simple conical papillae?",
+      "opts": [
+        "They freely allow reflux",
+        "They create vesical obstruction",
+        "They reverse arterial flow",
+        "They do not allow reflux"
+      ],
+      "ans": 3,
+      "exp": "The final bullet prints “Don’t allow reflex”; the intended context is reflux. This is the book’s structural comparison, not a claim that every renal outcome is determined by papillary shape. (Book p716)"
     }
   ],
   "units": [
@@ -1001,12 +2231,13 @@
       "n": 1,
       "title": "Levels, ascent & side difference",
       "sec": "Anatomy Proper · p711",
-      "guide": "Vertebral levels of the kidney from fetal life to adulthood, the ascent with rotation, the hilum level and why the left kidney sits higher.",
+      "guide": "Source-order revision, 20 Sep 2026: existing XP and completion badges are retained; replay this unit to cover the expanded questions. Follow the source blocks in the printed order. Figure labels are included. Book-specific clinical statements and questionable doses are explicitly qualified; this study material is not a prescribing protocol.",
       "qs": [
         "MED-C2-001",
         "MED-C2-002",
         "MED-C2-003",
-        "MED-C2-004"
+        "MED-C2-004",
+        "MED-C2-005"
       ]
     },
     {
@@ -1015,11 +2246,14 @@
       "n": 2,
       "title": "Arterial supply: aortic branches & renal arteries",
       "sec": "Anatomy Proper · p711",
-      "guide": "The ordered lateral branches of the abdominal aorta and the side difference in renal artery length.",
+      "guide": "Source-order revision, 20 Sep 2026: existing XP and completion badges are retained; replay this unit to cover the expanded questions. Follow the source blocks in the printed order. Figure labels are included. Book-specific clinical statements and questionable doses are explicitly qualified; this study material is not a prescribing protocol.",
       "qs": [
-        "MED-C2-005",
         "MED-C2-006",
-        "MED-C2-007"
+        "MED-C2-007",
+        "MED-C2-008",
+        "MED-C2-009",
+        "MED-C2-010",
+        "MED-C2-011"
       ]
     },
     {
@@ -1028,12 +2262,13 @@
       "n": 3,
       "title": "Venous drainage & the left renal vein",
       "sec": "Anatomy Proper · p711",
-      "guide": "Renal venous drainage into the IVC, the special features and tributaries of the left renal vein, and the SMA-aneurysm compression point.",
+      "guide": "Source-order revision, 20 Sep 2026: existing XP and completion badges are retained; replay this unit to cover the expanded questions. Follow the source blocks in the printed order. Figure labels are included. Book-specific clinical statements and questionable doses are explicitly qualified; this study material is not a prescribing protocol.",
       "qs": [
-        "MED-C2-008",
-        "MED-C2-009",
-        "MED-C2-010",
-        "MED-C2-011"
+        "MED-C2-012",
+        "MED-C2-013",
+        "MED-C2-014",
+        "MED-C2-015",
+        "MED-C2-016"
       ]
     },
     {
@@ -1042,39 +2277,14 @@
       "n": 4,
       "title": "Gross anatomy figure & transplantation",
       "sec": "Anatomy Proper · p711",
-      "guide": "Reading the gross-anatomy figure (cut structures) plus the transplant work-up: Tc-99 DTPA split GFR, the anastomosis table and donor/recipient kidney placement.",
+      "guide": "Source-order revision, 20 Sep 2026: existing XP and completion badges are retained; replay this unit to cover the expanded questions. Follow the source blocks in the printed order. Figure labels are included. Book-specific clinical statements and questionable doses are explicitly qualified; this study material is not a prescribing protocol.",
       "qs": [
-        "MED-C2-012",
-        "MED-C2-013",
-        "MED-C2-014",
-        "MED-C2-015",
-        "MED-C2-016",
         "MED-C2-017",
-        "MED-C2-018"
-      ]
-    },
-    {
-      "id": "MED-U2-5",
-      "ch": 2,
-      "n": 5,
-      "title": "Posterior relations & applied approaches",
-      "sec": "Anatomy Proper · p712",
-      "guide": "The posterior-relations figure (ribs, transverse processes, muscle areas) and which surgical approach each operation uses.",
-      "qs": [
+        "MED-C2-018",
         "MED-C2-019",
         "MED-C2-020",
         "MED-C2-021",
-        "MED-C2-022"
-      ]
-    },
-    {
-      "id": "MED-U2-6",
-      "ch": 2,
-      "n": 6,
-      "title": "Parts: calyces, pyramids, columns & medulla",
-      "sec": "Anatomy Proper · p712",
-      "guide": "Calyx counts, pyramid base/apex/tip, columns of Bertini, the hypoxic medulla, the papillary-necrosis sequence and every label of the 'Parts of Kidney' figure.",
-      "qs": [
+        "MED-C2-022",
         "MED-C2-023",
         "MED-C2-024",
         "MED-C2-025",
@@ -1083,34 +2293,24 @@
         "MED-C2-028",
         "MED-C2-029",
         "MED-C2-030",
-        "MED-C2-031"
+        "MED-C2-031",
+        "MED-C2-032"
       ]
     },
     {
-      "id": "MED-U2-7",
+      "id": "MED-U2-5",
       "ch": 2,
-      "n": 7,
-      "title": "UTI classification & uncomplicated cystitis Rx",
-      "sec": "Urinary Tract Infection · p713",
-      "guide": "The complicated/uncomplicated split, the symptom set of uncomplicated cystitis and the three drug regimens with the DOC.",
+      "n": 5,
+      "title": "Posterior relations & applied approaches",
+      "sec": "Anatomy Proper · p712",
+      "guide": "Source-order revision, 20 Sep 2026: existing XP and completion badges are retained; replay this unit to cover the expanded questions. Follow the source blocks in the printed order. Figure labels are included. Book-specific clinical statements and questionable doses are explicitly qualified; this study material is not a prescribing protocol.",
       "qs": [
-        "MED-C2-032",
         "MED-C2-033",
         "MED-C2-034",
         "MED-C2-035",
         "MED-C2-036",
         "MED-C2-037",
-        "MED-C2-038"
-      ]
-    },
-    {
-      "id": "MED-U2-8",
-      "ch": 2,
-      "n": 8,
-      "title": "Investigation protocol: USG → Rx → CECT",
-      "sec": "Urinary Tract Infection · p713-714",
-      "guide": "Stepwise protocol: what USG rules out, the acute-pyelonephritis treatment ladder with doses and renal-failure adjustment, then CECT with its contrast choice and imaging features.",
-      "qs": [
+        "MED-C2-038",
         "MED-C2-039",
         "MED-C2-040",
         "MED-C2-041",
@@ -1120,12 +2320,12 @@
       ]
     },
     {
-      "id": "MED-U2-9",
+      "id": "MED-U2-6",
       "ch": 2,
-      "n": 9,
-      "title": "Papillary necrosis & renal abscess",
-      "sec": "Urinary Tract Infection · p714-715",
-      "guide": "Definition, causes and prognosis of papillary necrosis, the stage letters and their eponymous appearances, plus renal abscess as a UTI complication.",
+      "n": 6,
+      "title": "Parts: calyces, pyramids, columns & medulla",
+      "sec": "Anatomy Proper · p712",
+      "guide": "Source-order revision, 20 Sep 2026: existing XP and completion badges are retained; replay this unit to cover the expanded questions. Follow the source blocks in the printed order. Figure labels are included. Book-specific clinical statements and questionable doses are explicitly qualified; this study material is not a prescribing protocol.",
       "qs": [
         "MED-C2-045",
         "MED-C2-046",
@@ -1133,7 +2333,101 @@
         "MED-C2-048",
         "MED-C2-049",
         "MED-C2-050",
-        "MED-C2-051"
+        "MED-C2-051",
+        "MED-C2-052",
+        "MED-C2-053",
+        "MED-C2-054",
+        "MED-C2-055",
+        "MED-C2-056",
+        "MED-C2-057",
+        "MED-C2-058",
+        "MED-C2-059",
+        "MED-C2-060",
+        "MED-C2-061",
+        "MED-C2-062",
+        "MED-C2-063",
+        "MED-C2-064",
+        "MED-C2-065"
+      ]
+    },
+    {
+      "id": "MED-U2-7",
+      "ch": 2,
+      "n": 7,
+      "title": "UTI classification & uncomplicated cystitis Rx",
+      "sec": "Urinary Tract Infection · p713",
+      "guide": "Source-order revision, 20 Sep 2026: existing XP and completion badges are retained; replay this unit to cover the expanded questions. Follow the source blocks in the printed order. Figure labels are included. Book-specific clinical statements and questionable doses are explicitly qualified; this study material is not a prescribing protocol.",
+      "qs": [
+        "MED-C2-066",
+        "MED-C2-067",
+        "MED-C2-068",
+        "MED-C2-069",
+        "MED-C2-070",
+        "MED-C2-071",
+        "MED-C2-072",
+        "MED-C2-073",
+        "MED-C2-074",
+        "MED-C2-075",
+        "MED-C2-076"
+      ]
+    },
+    {
+      "id": "MED-U2-8",
+      "ch": 2,
+      "n": 8,
+      "title": "Investigation protocol: USG → Rx → CECT",
+      "sec": "Urinary Tract Infection · p713-714",
+      "guide": "Source-order revision, 20 Sep 2026: existing XP and completion badges are retained; replay this unit to cover the expanded questions. Follow the source blocks in the printed order. Figure labels are included. Book-specific clinical statements and questionable doses are explicitly qualified; this study material is not a prescribing protocol.",
+      "qs": [
+        "MED-C2-077",
+        "MED-C2-078",
+        "MED-C2-079",
+        "MED-C2-080",
+        "MED-C2-081",
+        "MED-C2-082",
+        "MED-C2-083",
+        "MED-C2-084",
+        "MED-C2-085",
+        "MED-C2-086",
+        "MED-C2-087",
+        "MED-C2-088",
+        "MED-C2-089",
+        "MED-C2-090",
+        "MED-C2-091",
+        "MED-C2-092",
+        "MED-C2-093",
+        "MED-C2-094",
+        "MED-C2-095",
+        "MED-C2-096",
+        "MED-C2-097"
+      ]
+    },
+    {
+      "id": "MED-U2-9",
+      "ch": 2,
+      "n": 9,
+      "title": "Papillary necrosis & renal abscess",
+      "sec": "Urinary Tract Infection · p714-715",
+      "guide": "Source-order revision, 20 Sep 2026: existing XP and completion badges are retained; replay this unit to cover the expanded questions. Follow the source blocks in the printed order. Figure labels are included. Book-specific clinical statements and questionable doses are explicitly qualified; this study material is not a prescribing protocol.",
+      "qs": [
+        "MED-C2-098",
+        "MED-C2-099",
+        "MED-C2-100",
+        "MED-C2-101",
+        "MED-C2-102",
+        "MED-C2-103",
+        "MED-C2-104",
+        "MED-C2-105",
+        "MED-C2-106",
+        "MED-C2-107",
+        "MED-C2-108",
+        "MED-C2-109",
+        "MED-C2-110",
+        "MED-C2-111",
+        "MED-C2-112",
+        "MED-C2-113",
+        "MED-C2-114",
+        "MED-C2-115"
       ]
     },
     {
@@ -1142,15 +2436,22 @@
       "n": 10,
       "title": "Childhood UTI protocol & renal scans",
       "sec": "Urinary Tract Infection · p715",
-      "guide": "The childhood algorithm: 2-week Rx, USG for CAKUT, VCU/MCU for VUR and posterior urethral valve, DMSA for scarring, and the DTPA-versus-DMSA distinction.",
+      "guide": "Source-order revision, 20 Sep 2026: existing XP and completion badges are retained; replay this unit to cover the expanded questions. Follow the source blocks in the printed order. Figure labels are included. Book-specific clinical statements and questionable doses are explicitly qualified; this study material is not a prescribing protocol.",
       "qs": [
-        "MED-C2-052",
-        "MED-C2-053",
-        "MED-C2-054",
-        "MED-C2-055",
-        "MED-C2-056",
-        "MED-C2-057",
-        "MED-C2-058"
+        "MED-C2-116",
+        "MED-C2-117",
+        "MED-C2-118",
+        "MED-C2-119",
+        "MED-C2-120",
+        "MED-C2-121",
+        "MED-C2-122",
+        "MED-C2-123",
+        "MED-C2-124",
+        "MED-C2-125",
+        "MED-C2-126",
+        "MED-C2-127",
+        "MED-C2-128",
+        "MED-C2-129"
       ]
     },
     {
@@ -1159,16 +2460,27 @@
       "n": 11,
       "title": "VUR grades, asymmetry & papillae types",
       "sec": "Urinary Tract Infection · p716",
-      "guide": "The VUR grading figure, causes of asymmetric kidney involvement, and composite versus simple conical papillae with their percentages and reflux behaviour.",
+      "guide": "Source-order revision, 20 Sep 2026: existing XP and completion badges are retained; replay this unit to cover the expanded questions. Follow the source blocks in the printed order. Figure labels are included. Book-specific clinical statements and questionable doses are explicitly qualified; this study material is not a prescribing protocol.",
       "qs": [
-        "MED-C2-059",
-        "MED-C2-060",
-        "MED-C2-061",
-        "MED-C2-062",
-        "MED-C2-063",
-        "MED-C2-064",
-        "MED-C2-065",
-        "MED-C2-066"
+        "MED-C2-130",
+        "MED-C2-131",
+        "MED-C2-132",
+        "MED-C2-133",
+        "MED-C2-134",
+        "MED-C2-135",
+        "MED-C2-136",
+        "MED-C2-137",
+        "MED-C2-138",
+        "MED-C2-139",
+        "MED-C2-140",
+        "MED-C2-141",
+        "MED-C2-142",
+        "MED-C2-143",
+        "MED-C2-144",
+        "MED-C2-145",
+        "MED-C2-146",
+        "MED-C2-147",
+        "MED-C2-148"
       ]
     }
   ]

@@ -20,9 +20,9 @@ TOTAL_ROADMAP_CHAPTERS = 74
 # Add a chapter here (title, first page, last page, expected question count,
 # expected unit count) when its data/chNN.json lands.
 LIVE_CHAPTERS = {
-    1: ("Development of Kidneys", 705, 710, 68, 9),
-    2: ("Gross Anatomy of Kidney", 711, 716, 66, 11),
-    3: ("Tubular Anatomy", 717, 725, 100, 13),
+    1: ("Development of Kidneys", 705, 710, 140, 9),
+    2: ("Gross Anatomy of Kidney", 711, 716, 148, 11),
+    3: ("Tubular Anatomy", 717, 725, 202, 13),
     4: ("Juxtaglomerular Apparatus", 726, 729, 50, 7),
     5: ("Glomerulus - Anatomy", 730, 733, 56, 8),
     6: ("Renal Physiology", 734, 739, 133, 10),
@@ -241,6 +241,12 @@ def verify() -> None:
             errors.append(
                 f"Chapter {number}: expected {expected_qs} questions, found {len(chapter_questions)}"
             )
+        # Include transitions BETWEEN units, not only those within each unit.
+        chapter_pages = [q.get("page") for q in chapter_questions]
+        if all(type(page) is int for page in chapter_pages) and any(
+            right < left for left, right in zip(chapter_pages, chapter_pages[1:])
+        ):
+            errors.append(f"Chapter {number}: Book pages reverse across the chapter sequence")
         for index, question in enumerate(chapter_questions, 1):
             expected_id = f"MED-C{number}-{index:03d}"
             qid = question.get("id")
@@ -334,6 +340,14 @@ def verify() -> None:
         if artifact.get("units") != units_by_ch.get(number, []):
             errors.append(f"{path.name}: units do not exactly match the embedded app content")
 
+    # Reviewed chapters must keep a current ordered source-element checklist.
+    # Missing reviews are reported, not silently treated as verified.
+    from check_source_coverage import audit as audit_source_coverage
+    review_rows, review_errors = audit_source_coverage(ROOT)
+    errors.extend(review_errors)
+    reviewed_count = sum(bool(row["manifest"]) for row in review_rows)
+    print(f"Source-review evidence: {reviewed_count}/{TOTAL_ROADMAP_CHAPTERS} chapters; "
+          "structural PASS does not certify unreviewed content.")
     check_javascript_syntax(html, errors)
 
     if errors:

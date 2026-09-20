@@ -1,5 +1,11 @@
 # Build report — Chapters 52–56
 
+> **2026-09-20 self-audit correction:** The historical coverage/verification
+> assurances below do not establish strict line-by-line compliance. Visual review
+> found unsupported p970/p971 citations and missing source elements in Ch 54,
+> despite passing structural checks. See `SELF_AUDIT_BOOK_ORDER.md` for exact IDs
+> and evidence. Treat this batch as requiring source re-audit, not certified.
+
 ## Scope
 
 This batch covers the next sequential five chapters in *Medicine Vol 3*:

@@ -1,0 +1,1246 @@
+{
+  "chapter": 2,
+  "reviewedAt": "2026-09-20",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part1_pages_705-759.pdf",
+  "pdfSha256": "e2dfab80e25cd81302885cda7e07806117d24e15b03d73f2f6b00952ca2fdeea",
+  "pdfOffset": 692,
+  "pageRange": "711-716",
+  "contentSha256": "c9f1b88189265820122b86782a907008e9fb810d98427eca1b6d3309b489bbb3",
+  "method": "All six rendered pages read at 2×; p711 level line and p712 anatomical labels zoomed at 4×. Every printed instructional text block and named figure label/caption mapped in an explicitly documented traversal. Consecutive figure labels can share a matching question; this does not move later material before intervening source elements. Unlabelled radiographic details and unwritten grading definitions are not invented. Headers, footer, timestamps and blank Active space are excluded.",
+  "caveats": [
+    "p711 fetal level is S1–S2 (4× confirmed), correcting old S1–S3 transcription. Arterial anastomosis preference, graft side and native-kidney retention are source descriptions, not universal surgical rules.",
+    "p712 ribs differ by side; the deeper right-side interlobular-artery label appears inconsistent with its position and is explicitly flagged. Surgical approaches are examples, not exhaustive rules.",
+    "p713 cotrimoxazole line literally has 200 mg mg BD × 3–5 days without component strengths: unsafe as a complete prescription, no corrected dose guessed. Other antibiotic doses are source-only recall with renal/formulation/local-guidance caveats. Normal ultrasound alone does not diagnose pyelonephritis.",
+    "p714–715 poor prognosis is not an invariant individual outcome. The childhood pathway is source-specific, not a rule to delay all urgent imaging.",
+    "p716 reflex is a typo for reflux in both papillary-type bullet lists. VUR figure labels and visible comparator/markers are covered; the page contains no written detailed grade criteria and no additional criteria are claimed."
+  ],
+  "pages": [
+    {
+      "page": 711,
+      "pdfPage": 19,
+      "traversal": "Text first: levels and ascent arrow left-to-right, hilum, kidney asymmetry, arterial list with right-artery sub-bullet before gonadal artery, then venous bullets. Adjacent gross figure: left callouts top-to-bottom, upper callouts left-to-right, right callouts top-to-bottom, bottom. Then transplantation line and table row-by-row, then two location lines. No return to a finished branch.",
+      "elements": [
+        {
+          "element": "p711-e001",
+          "page": 711,
+          "source": "Levels: fetal S1–S2 (confirmed at 4× zoom)",
+          "questionIds": [
+            "MED-C2-001"
+          ]
+        },
+        {
+          "element": "p711-e002",
+          "page": 711,
+          "source": "Levels arrow: ascend with rotation",
+          "questionIds": [
+            "MED-C2-002"
+          ]
+        },
+        {
+          "element": "p711-e003",
+          "page": 711,
+          "source": "Levels: adult T12–L3",
+          "questionIds": [
+            "MED-C2-003"
+          ]
+        },
+        {
+          "element": "p711-e004",
+          "page": 711,
+          "source": "Levels: L1 hilum",
+          "questionIds": [
+            "MED-C2-004"
+          ]
+        },
+        {
+          "element": "p711-e005",
+          "page": 711,
+          "source": "Left kidney higher, due to liver on right",
+          "questionIds": [
+            "MED-C2-005"
+          ]
+        },
+        {
+          "element": "p711-e006",
+          "page": 711,
+          "source": "Arterial supply: lateral branches of abdominal aorta",
+          "questionIds": [
+            "MED-C2-006"
+          ]
+        },
+        {
+          "element": "p711-e007",
+          "page": 711,
+          "source": "Aortic lateral branch 1: inferior phrenic artery",
+          "questionIds": [
+            "MED-C2-007"
+          ]
+        },
+        {
+          "element": "p711-e008",
+          "page": 711,
+          "source": "Aortic lateral branch 2: middle suprarenal artery",
+          "questionIds": [
+            "MED-C2-008"
+          ]
+        },
+        {
+          "element": "p711-e009",
+          "page": 711,
+          "source": "Aortic lateral branch 3: renal artery",
+          "questionIds": [
+            "MED-C2-009"
+          ]
+        },
+        {
+          "element": "p711-e010",
+          "page": 711,
+          "source": "Renal artery sub-bullet: right is longer",
+          "questionIds": [
+            "MED-C2-010"
+          ]
+        },
+        {
+          "element": "p711-e011",
+          "page": 711,
+          "source": "Aortic lateral branch 4: gonadal artery",
+          "questionIds": [
+            "MED-C2-011"
+          ]
+        },
+        {
+          "element": "p711-e012",
+          "page": 711,
+          "source": "Venous drainage: both renal veins → IVC",
+          "questionIds": [
+            "MED-C2-012"
+          ]
+        },
+        {
+          "element": "p711-e013",
+          "page": 711,
+          "source": "Left renal vein bullet 1: longer",
+          "questionIds": [
+            "MED-C2-013"
+          ]
+        },
+        {
+          "element": "p711-e014",
+          "page": 711,
+          "source": "Left renal vein bullet 2: crosses midline",
+          "questionIds": [
+            "MED-C2-014"
+          ]
+        },
+        {
+          "element": "p711-e015",
+          "page": 711,
+          "source": "Left renal vein bullet 3: SMA aneurysm → compression",
+          "questionIds": [
+            "MED-C2-015"
+          ]
+        },
+        {
+          "element": "p711-e016",
+          "page": 711,
+          "source": "Left renal vein tributaries: ureteral, gonadal, adrenal (in printed order)",
+          "questionIds": [
+            "MED-C2-016"
+          ]
+        },
+        {
+          "element": "p711-e017",
+          "page": 711,
+          "source": "Gross figure left callouts 1–3: diaphragm; right adrenal gland; right kidney",
+          "questionIds": [
+            "MED-C2-017"
+          ]
+        },
+        {
+          "element": "p711-e018",
+          "page": 711,
+          "source": "Gross figure left callouts 4–6: hilus; quadratus lumborum; iliacus",
+          "questionIds": [
+            "MED-C2-018"
+          ]
+        },
+        {
+          "element": "p711-e019",
+          "page": 711,
+          "source": "Gross figure left final callout: psoas major muscle",
+          "questionIds": [
+            "MED-C2-019"
+          ]
+        },
+        {
+          "element": "p711-e020",
+          "page": 711,
+          "source": "Gross figure top callouts: inferior vena cava; esophagus (cut); celiac trunk",
+          "questionIds": [
+            "MED-C2-020"
+          ]
+        },
+        {
+          "element": "p711-e021",
+          "page": 711,
+          "source": "Gross figure right callouts 1–3: aorta; left adrenal gland; left kidney",
+          "questionIds": [
+            "MED-C2-021"
+          ]
+        },
+        {
+          "element": "p711-e022",
+          "page": 711,
+          "source": "Gross figure right callouts 4–6: left renal artery; left renal vein; SMA",
+          "questionIds": [
+            "MED-C2-022"
+          ]
+        },
+        {
+          "element": "p711-e023",
+          "page": 711,
+          "source": "Gross figure right callouts 7–9: ureter; left common iliac artery; gonadal artery and vein",
+          "questionIds": [
+            "MED-C2-023"
+          ]
+        },
+        {
+          "element": "p711-e024",
+          "page": 711,
+          "source": "Gross figure lower right callout: rectum (cut)",
+          "questionIds": [
+            "MED-C2-024"
+          ]
+        },
+        {
+          "element": "p711-e025",
+          "page": 711,
+          "source": "Gross figure bottom callout: urinary bladder",
+          "questionIds": [
+            "MED-C2-025"
+          ]
+        },
+        {
+          "element": "p711-e026",
+          "page": 711,
+          "source": "Transplantation: Tc-99 DTPA → single kidney GFR",
+          "questionIds": [
+            "MED-C2-026"
+          ]
+        },
+        {
+          "element": "p711-e027",
+          "page": 711,
+          "source": "Transplantation arrow: higher-GFR kidney retained with donor",
+          "questionIds": [
+            "MED-C2-027"
+          ]
+        },
+        {
+          "element": "p711-e028",
+          "page": 711,
+          "source": "Anastomosis table row 1: donor ureter → recipient bladder",
+          "questionIds": [
+            "MED-C2-028"
+          ]
+        },
+        {
+          "element": "p711-e029",
+          "page": 711,
+          "source": "Anastomosis table row 2: renal artery → internal iliac > external iliac, aorta",
+          "questionIds": [
+            "MED-C2-029"
+          ]
+        },
+        {
+          "element": "p711-e030",
+          "page": 711,
+          "source": "Anastomosis table row 3: renal vein → external iliac vein",
+          "questionIds": [
+            "MED-C2-030"
+          ]
+        },
+        {
+          "element": "p711-e031",
+          "page": 711,
+          "source": "Donor kidney position: right iliac fossa",
+          "questionIds": [
+            "MED-C2-031"
+          ]
+        },
+        {
+          "element": "p711-e032",
+          "page": 711,
+          "source": "Recipient kidneys retained in same place",
+          "questionIds": [
+            "MED-C2-032"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 712,
+      "pdfPage": 20,
+      "traversal": "Posterior figure first: superior rib/L1 callouts, left contact areas lateral-to-medial including psoas, L2 callout, central vessels/tubes, then repeated right contact areas. Applied-anatomy bullets. Parts prose through calyces/pyramid, then adjacent figure left callouts top-to-bottom followed by right callouts top-to-bottom. Finish columns, medulla and papilla cascade.",
+      "elements": [
+        {
+          "element": "p712-e001",
+          "page": 712,
+          "source": "Posterior figure: eleventh rib on left kidney only",
+          "questionIds": [
+            "MED-C2-033"
+          ]
+        },
+        {
+          "element": "p712-e002",
+          "page": 712,
+          "source": "Posterior figure: twelfth rib on both kidneys",
+          "questionIds": [
+            "MED-C2-034"
+          ]
+        },
+        {
+          "element": "p712-e003",
+          "page": 712,
+          "source": "Posterior figure: transverse processes of first lumbar vertebra",
+          "questionIds": [
+            "MED-C2-035"
+          ]
+        },
+        {
+          "element": "p712-e004",
+          "page": 712,
+          "source": "Posterior left kidney areas top to bottom/lateral to medial: diaphragm; transversalis tendon; quadratus lumborum",
+          "questionIds": [
+            "MED-C2-036"
+          ]
+        },
+        {
+          "element": "p712-e005",
+          "page": 712,
+          "source": "Posterior figure: medial area for psoas",
+          "questionIds": [
+            "MED-C2-037"
+          ]
+        },
+        {
+          "element": "p712-e006",
+          "page": 712,
+          "source": "Posterior figure: transverse process of second lumbar vertebra",
+          "questionIds": [
+            "MED-C2-038"
+          ]
+        },
+        {
+          "element": "p712-e007",
+          "page": 712,
+          "source": "Posterior figure central structures: left renal artery; aorta; right renal artery",
+          "questionIds": [
+            "MED-C2-039"
+          ]
+        },
+        {
+          "element": "p712-e008",
+          "page": 712,
+          "source": "Posterior figure: inferior vena cava",
+          "questionIds": [
+            "MED-C2-040"
+          ]
+        },
+        {
+          "element": "p712-e009",
+          "page": 712,
+          "source": "Posterior figure: ureters on both sides",
+          "questionIds": [
+            "MED-C2-041"
+          ]
+        },
+        {
+          "element": "p712-e010",
+          "page": 712,
+          "source": "Posterior right contact areas repeat diaphragm, psoas, quadratus lumborum, transversalis tendon",
+          "questionIds": [
+            "MED-C2-042"
+          ]
+        },
+        {
+          "element": "p712-e011",
+          "page": 712,
+          "source": "Applied anatomy: laparoscopic retroperitoneal adrenalectomy → posterior approach",
+          "questionIds": [
+            "MED-C2-043"
+          ]
+        },
+        {
+          "element": "p712-e012",
+          "page": 712,
+          "source": "Applied anatomy: nephrectomy → anterior, supine",
+          "questionIds": [
+            "MED-C2-044"
+          ]
+        },
+        {
+          "element": "p712-e013",
+          "page": 712,
+          "source": "Parts: major calyces 3–4",
+          "questionIds": [
+            "MED-C2-045"
+          ]
+        },
+        {
+          "element": "p712-e014",
+          "page": 712,
+          "source": "Parts: minor calyces 9–12",
+          "questionIds": [
+            "MED-C2-046"
+          ]
+        },
+        {
+          "element": "p712-e015",
+          "page": 712,
+          "source": "Pyramid base: corticomedullary junction",
+          "questionIds": [
+            "MED-C2-047"
+          ]
+        },
+        {
+          "element": "p712-e016",
+          "page": 712,
+          "source": "Pyramid apex: protrudes into minor calyx",
+          "questionIds": [
+            "MED-C2-048"
+          ]
+        },
+        {
+          "element": "p712-e017",
+          "page": 712,
+          "source": "Pyramid tip: papilla, vital structure",
+          "questionIds": [
+            "MED-C2-049"
+          ]
+        },
+        {
+          "element": "p712-e018",
+          "page": 712,
+          "source": "Parts figure left labels 1–3: interlobular artery; renal column; papilla of pyramid",
+          "questionIds": [
+            "MED-C2-050"
+          ]
+        },
+        {
+          "element": "p712-e019",
+          "page": 712,
+          "source": "Parts figure left labels 4–6: cortex; minor calyx; medullary pyramid",
+          "questionIds": [
+            "MED-C2-051"
+          ]
+        },
+        {
+          "element": "p712-e020",
+          "page": 712,
+          "source": "Parts figure left final label: renal capsule",
+          "questionIds": [
+            "MED-C2-052"
+          ]
+        },
+        {
+          "element": "p712-e021",
+          "page": 712,
+          "source": "Parts figure right labels 1–3: interlobular vein; arcuate vein; arcuate artery",
+          "questionIds": [
+            "MED-C2-053"
+          ]
+        },
+        {
+          "element": "p712-e022",
+          "page": 712,
+          "source": "Parts figure right label 4: interlobar vein",
+          "questionIds": [
+            "MED-C2-054"
+          ]
+        },
+        {
+          "element": "p712-e023",
+          "page": 712,
+          "source": "Parts figure right label 5: printed interlobular artery again, location caveat",
+          "questionIds": [
+            "MED-C2-055"
+          ]
+        },
+        {
+          "element": "p712-e024",
+          "page": 712,
+          "source": "Parts figure right labels 6–8: lobar artery; segmental artery; renal vein",
+          "questionIds": [
+            "MED-C2-056"
+          ]
+        },
+        {
+          "element": "p712-e025",
+          "page": 712,
+          "source": "Parts figure right labels 9–11: renal artery; renal pelvis; major calyx",
+          "questionIds": [
+            "MED-C2-057"
+          ]
+        },
+        {
+          "element": "p712-e026",
+          "page": 712,
+          "source": "Parts figure right final label: ureter",
+          "questionIds": [
+            "MED-C2-058"
+          ]
+        },
+        {
+          "element": "p712-e027",
+          "page": 712,
+          "source": "Columns of Bertini: cortical tissue between pyramid bases",
+          "questionIds": [
+            "MED-C2-059"
+          ]
+        },
+        {
+          "element": "p712-e028",
+          "page": 712,
+          "source": "Medulla: lesser blood supply, slow/sluggish flow",
+          "questionIds": [
+            "MED-C2-060"
+          ]
+        },
+        {
+          "element": "p712-e029",
+          "page": 712,
+          "source": "Medullary slow-flow arrow: prone to hypoxia",
+          "questionIds": [
+            "MED-C2-061"
+          ]
+        },
+        {
+          "element": "p712-e030",
+          "page": 712,
+          "source": "Papilla: most vulnerable part of medulla",
+          "questionIds": [
+            "MED-C2-062"
+          ]
+        },
+        {
+          "element": "p712-e031",
+          "page": 712,
+          "source": "Papilla: detaches easily",
+          "questionIds": [
+            "MED-C2-063"
+          ]
+        },
+        {
+          "element": "p712-e032",
+          "page": 712,
+          "source": "Papilla detachment → excreted in urine",
+          "questionIds": [
+            "MED-C2-064"
+          ]
+        },
+        {
+          "element": "p712-e033",
+          "page": 712,
+          "source": "Papilla sequence endpoint: papillary necrosis",
+          "questionIds": [
+            "MED-C2-065"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 713,
+      "pdfPage": 21,
+      "traversal": "UTI root then complete left complicated branch; complete right uncomplicated branch (definition, each symptom and each regimen). Investigation protocol top-to-bottom: each USG exclusion, normal-USG branch, amikacin and side effect, combination heading and each dose, non-response arrow, CECT and both contrast qualifiers.",
+      "elements": [
+        {
+          "element": "p713-e001",
+          "page": 713,
+          "source": "UTI tree: complicated left and uncomplicated right",
+          "questionIds": [
+            "MED-C2-066"
+          ]
+        },
+        {
+          "element": "p713-e002",
+          "page": 713,
+          "source": "Complicated branch: all other causes",
+          "questionIds": [
+            "MED-C2-067"
+          ]
+        },
+        {
+          "element": "p713-e003",
+          "page": 713,
+          "source": "Uncomplicated branch: cystitis in sexually active, young adult, healthy female",
+          "questionIds": [
+            "MED-C2-068"
+          ]
+        },
+        {
+          "element": "p713-e004",
+          "page": 713,
+          "source": "Uncomplicated symptom 1: urgency",
+          "questionIds": [
+            "MED-C2-069"
+          ]
+        },
+        {
+          "element": "p713-e005",
+          "page": 713,
+          "source": "Uncomplicated symptom 2: frequency",
+          "questionIds": [
+            "MED-C2-070"
+          ]
+        },
+        {
+          "element": "p713-e006",
+          "page": 713,
+          "source": "Uncomplicated symptom 3: dysuria",
+          "questionIds": [
+            "MED-C2-071"
+          ]
+        },
+        {
+          "element": "p713-e007",
+          "page": 713,
+          "source": "Uncomplicated symptom 4: no history of fever",
+          "questionIds": [
+            "MED-C2-072"
+          ]
+        },
+        {
+          "element": "p713-e008",
+          "page": 713,
+          "source": "Uncomplicated symptom 5: no flank pain",
+          "questionIds": [
+            "MED-C2-073"
+          ]
+        },
+        {
+          "element": "p713-e009",
+          "page": 713,
+          "source": "Rx bullet 1: nitrofurantoin 100 mg BD × 3–5 days, DOC",
+          "questionIds": [
+            "MED-C2-074"
+          ]
+        },
+        {
+          "element": "p713-e010",
+          "page": 713,
+          "source": "Rx bullet 2: cotrimoxazole 200 mg mg BD × 3–5 days, incomplete dose specification",
+          "questionIds": [
+            "MED-C2-075"
+          ]
+        },
+        {
+          "element": "p713-e011",
+          "page": 713,
+          "source": "Rx bullet 3: fosfomycin 3 g, one sachet",
+          "questionIds": [
+            "MED-C2-076"
+          ]
+        },
+        {
+          "element": "p713-e012",
+          "page": 713,
+          "source": "Investigation step 1: USG",
+          "questionIds": [
+            "MED-C2-077"
+          ]
+        },
+        {
+          "element": "p713-e013",
+          "page": 713,
+          "source": "USG rule-out i: obstruction",
+          "questionIds": [
+            "MED-C2-078"
+          ]
+        },
+        {
+          "element": "p713-e014",
+          "page": 713,
+          "source": "USG rule-out ii: emphysematous pyelonephritis",
+          "questionIds": [
+            "MED-C2-079"
+          ]
+        },
+        {
+          "element": "p713-e015",
+          "page": 713,
+          "source": "USG rule-out iii: pelvicalyceal anatomical abnormalities",
+          "questionIds": [
+            "MED-C2-080"
+          ]
+        },
+        {
+          "element": "p713-e016",
+          "page": 713,
+          "source": "Normal-USG arrow → acute pyelonephritis diagnosis, not ultrasound proof",
+          "questionIds": [
+            "MED-C2-081"
+          ]
+        },
+        {
+          "element": "p713-e017",
+          "page": 713,
+          "source": "Rx: amikacin",
+          "questionIds": [
+            "MED-C2-082"
+          ]
+        },
+        {
+          "element": "p713-e018",
+          "page": 713,
+          "source": "Amikacin side effect: nephrotoxicity",
+          "questionIds": [
+            "MED-C2-083"
+          ]
+        },
+        {
+          "element": "p713-e019",
+          "page": 713,
+          "source": "Rx heading: beta lactam inhibitors; combination terminology caveat",
+          "questionIds": [
+            "MED-C2-084"
+          ]
+        },
+        {
+          "element": "p713-e020",
+          "page": 713,
+          "source": "Cefoperazone–sulbactam 1.5 g IV BD",
+          "questionIds": [
+            "MED-C2-085"
+          ]
+        },
+        {
+          "element": "p713-e021",
+          "page": 713,
+          "source": "Piperacillin–tazobactam 4.5 g IV QID",
+          "questionIds": [
+            "MED-C2-086"
+          ]
+        },
+        {
+          "element": "p713-e022",
+          "page": 713,
+          "source": "Piperacillin–tazobactam parenthesis: 4.5 g IV BD in renal failure",
+          "questionIds": [
+            "MED-C2-087"
+          ]
+        },
+        {
+          "element": "p713-e023",
+          "page": 713,
+          "source": "Not responding arrow → CECT abdomen",
+          "questionIds": [
+            "MED-C2-088"
+          ]
+        },
+        {
+          "element": "p713-e024",
+          "page": 713,
+          "source": "CECT contrast: low volume",
+          "questionIds": [
+            "MED-C2-089"
+          ]
+        },
+        {
+          "element": "p713-e025",
+          "page": 713,
+          "source": "CECT contrast: iso-osmolar",
+          "questionIds": [
+            "MED-C2-090"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 714,
+      "pdfPage": 22,
+      "traversal": "Top CT: descriptive bullets in order, including both infundibulum and ureter, then caption. Middle comparison montages left then right. Papillary-necrosis definition, left causes column including analgesic parenthesis, right causes column, prognosis, lower imaging captions/arrows.",
+      "elements": [
+        {
+          "element": "p714-e001",
+          "page": 714,
+          "source": "CECT acute pyelonephritis bullet 1: slightly enlarged kidney",
+          "questionIds": [
+            "MED-C2-091"
+          ]
+        },
+        {
+          "element": "p714-e002",
+          "page": 714,
+          "source": "CECT bullet 2a: thickened infundibulum",
+          "questionIds": [
+            "MED-C2-092"
+          ]
+        },
+        {
+          "element": "p714-e003",
+          "page": 714,
+          "source": "CECT bullet 2b: thickened ureter",
+          "questionIds": [
+            "MED-C2-093"
+          ]
+        },
+        {
+          "element": "p714-e004",
+          "page": 714,
+          "source": "CECT bullet 3 and arrow: patchy hypodensities",
+          "questionIds": [
+            "MED-C2-094"
+          ]
+        },
+        {
+          "element": "p714-e005",
+          "page": 714,
+          "source": "Top CT caption: acute pyelonephritis",
+          "questionIds": [
+            "MED-C2-095"
+          ]
+        },
+        {
+          "element": "p714-e006",
+          "page": 714,
+          "source": "Middle left CT montage caption: normal papillae",
+          "questionIds": [
+            "MED-C2-096"
+          ]
+        },
+        {
+          "element": "p714-e007",
+          "page": 714,
+          "source": "Middle right CT montage caption: nephrocalcinosis",
+          "questionIds": [
+            "MED-C2-097"
+          ]
+        },
+        {
+          "element": "p714-e008",
+          "page": 714,
+          "source": "Papillary necrosis definition: detachment from pyramid tip",
+          "questionIds": [
+            "MED-C2-098"
+          ]
+        },
+        {
+          "element": "p714-e009",
+          "page": 714,
+          "source": "Papillary-necrosis causes, left bullet 1: complicated UTI in diabetic patient",
+          "questionIds": [
+            "MED-C2-099"
+          ]
+        },
+        {
+          "element": "p714-e010",
+          "page": 714,
+          "source": "Causes, left bullet 2: analgesic nephropathy",
+          "questionIds": [
+            "MED-C2-100"
+          ]
+        },
+        {
+          "element": "p714-e011",
+          "page": 714,
+          "source": "Analgesic-nephropathy parenthesis: phenacetin + aspirin + caffeine, three components",
+          "questionIds": [
+            "MED-C2-101"
+          ]
+        },
+        {
+          "element": "p714-e012",
+          "page": 714,
+          "source": "Analgesic combination arrow → CKD",
+          "questionIds": [
+            "MED-C2-102"
+          ]
+        },
+        {
+          "element": "p714-e013",
+          "page": 714,
+          "source": "Papillary-necrosis causes, right bullet 1: snake bite",
+          "questionIds": [
+            "MED-C2-103"
+          ]
+        },
+        {
+          "element": "p714-e014",
+          "page": 714,
+          "source": "Papillary-necrosis causes, right bullet 2: sickle cell anaemia",
+          "questionIds": [
+            "MED-C2-104"
+          ]
+        },
+        {
+          "element": "p714-e015",
+          "page": 714,
+          "source": "Papillary-necrosis prognosis: poor",
+          "questionIds": [
+            "MED-C2-105"
+          ]
+        },
+        {
+          "element": "p714-e016",
+          "page": 714,
+          "source": "Bottom image montages/arrows: papillary necrosis",
+          "questionIds": [
+            "MED-C2-106"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 715,
+      "pdfPage": 23,
+      "traversal": "Types figure A, upper B–C branch, lower D–F branch, converged G, then adjacent C/E appearance notes. Abscess bullets then labelled image. Childhood flow top-to-bottom, CAKUT examples, VCU/MCU targets and adjacent VUR image, DMSA purpose and normal/abnormal panels, then final DTPA note.",
+      "elements": [
+        {
+          "element": "p715-e001",
+          "page": 715,
+          "source": "Papillary-necrosis types figure: A, normal calyx and papilla",
+          "questionIds": [
+            "MED-C2-107"
+          ]
+        },
+        {
+          "element": "p715-e002",
+          "page": 715,
+          "source": "Types figure upper branch: B–C, medullary type",
+          "questionIds": [
+            "MED-C2-108"
+          ]
+        },
+        {
+          "element": "p715-e003",
+          "page": 715,
+          "source": "Types figure lower branch: D–F, papillary type",
+          "questionIds": [
+            "MED-C2-109"
+          ]
+        },
+        {
+          "element": "p715-e004",
+          "page": 715,
+          "source": "Types figure converging arrow: G, calyceal blunting",
+          "questionIds": [
+            "MED-C2-110"
+          ]
+        },
+        {
+          "element": "p715-e005",
+          "page": 715,
+          "source": "Adjacent note: C, ball-on-tree appearance",
+          "questionIds": [
+            "MED-C2-111"
+          ]
+        },
+        {
+          "element": "p715-e006",
+          "page": 715,
+          "source": "Adjacent note: E, lobster-claw appearance",
+          "questionIds": [
+            "MED-C2-112"
+          ]
+        },
+        {
+          "element": "p715-e007",
+          "page": 715,
+          "source": "Renal abscess bullet 1: complication of UTI",
+          "questionIds": [
+            "MED-C2-113"
+          ]
+        },
+        {
+          "element": "p715-e008",
+          "page": 715,
+          "source": "Renal abscess bullet 2: poor prognosis",
+          "questionIds": [
+            "MED-C2-114"
+          ]
+        },
+        {
+          "element": "p715-e009",
+          "page": 715,
+          "source": "Renal abscess CT montage: labelled intrarenal collection",
+          "questionIds": [
+            "MED-C2-115"
+          ]
+        },
+        {
+          "element": "p715-e010",
+          "page": 715,
+          "source": "Childhood protocol starts with complicated UTI",
+          "questionIds": [
+            "MED-C2-116"
+          ]
+        },
+        {
+          "element": "p715-e011",
+          "page": 715,
+          "source": "Childhood protocol: treat for two weeks",
+          "questionIds": [
+            "MED-C2-117"
+          ]
+        },
+        {
+          "element": "p715-e012",
+          "page": 715,
+          "source": "Childhood protocol step 1: USG",
+          "questionIds": [
+            "MED-C2-118"
+          ]
+        },
+        {
+          "element": "p715-e013",
+          "page": 715,
+          "source": "USG looks for CAKUT; full expansion",
+          "questionIds": [
+            "MED-C2-119"
+          ]
+        },
+        {
+          "element": "p715-e014",
+          "page": 715,
+          "source": "CAKUT example 1: double pelvis",
+          "questionIds": [
+            "MED-C2-120"
+          ]
+        },
+        {
+          "element": "p715-e015",
+          "page": 715,
+          "source": "CAKUT example 2: duplicated ureter",
+          "questionIds": [
+            "MED-C2-121"
+          ]
+        },
+        {
+          "element": "p715-e016",
+          "page": 715,
+          "source": "CAKUT-positive arrow → VCU/MCU, full names",
+          "questionIds": [
+            "MED-C2-122"
+          ]
+        },
+        {
+          "element": "p715-e017",
+          "page": 715,
+          "source": "VCU/MCU target 1: vesicoureteric reflux",
+          "questionIds": [
+            "MED-C2-123"
+          ]
+        },
+        {
+          "element": "p715-e018",
+          "page": 715,
+          "source": "VCU/MCU target 2: posterior urethral valve in males",
+          "questionIds": [
+            "MED-C2-124"
+          ]
+        },
+        {
+          "element": "p715-e019",
+          "page": 715,
+          "source": "Adjacent voiding image caption: VUR",
+          "questionIds": [
+            "MED-C2-125"
+          ]
+        },
+        {
+          "element": "p715-e020",
+          "page": 715,
+          "source": "VUR-positive arrow → step 3 DMSA, degree of scarring",
+          "questionIds": [
+            "MED-C2-126"
+          ]
+        },
+        {
+          "element": "p715-e021",
+          "page": 715,
+          "source": "DMSA figure: normal uptake",
+          "questionIds": [
+            "MED-C2-127"
+          ]
+        },
+        {
+          "element": "p715-e022",
+          "page": 715,
+          "source": "DMSA figure: abnormal uptake with arrows",
+          "questionIds": [
+            "MED-C2-128"
+          ]
+        },
+        {
+          "element": "p715-e023",
+          "page": 715,
+          "source": "Final note: DTPA gives separate kidney GFR",
+          "questionIds": [
+            "MED-C2-129"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 716,
+      "pdfPage": 24,
+      "traversal": "Top VUR montage: ordered grade labels 1–5 and Normal (both rows); anatomical markers and normal comparison. No text grade criteria exist here, so no numeric thresholds are invented. Asymmetry bullets. Papillary diagram shared duct label, then complete composite branch/image/bullets before the simple-conical branch/image/bullets.",
+      "elements": [
+        {
+          "element": "p716-e001",
+          "page": 716,
+          "source": "VUR image columns 1–5 and normal comparator",
+          "questionIds": [
+            "MED-C2-130"
+          ]
+        },
+        {
+          "element": "p716-e002",
+          "page": 716,
+          "source": "VUR grade-4 anatomical markers k/u/b, top to bottom",
+          "questionIds": [
+            "MED-C2-131"
+          ]
+        },
+        {
+          "element": "p716-e003",
+          "page": 716,
+          "source": "VUR normal comparison, both rows",
+          "questionIds": [
+            "MED-C2-132"
+          ]
+        },
+        {
+          "element": "p716-e004",
+          "page": 716,
+          "source": "Asymmetric kidney involvement note, bullet 1: VUR",
+          "questionIds": [
+            "MED-C2-133"
+          ]
+        },
+        {
+          "element": "p716-e005",
+          "page": 716,
+          "source": "Asymmetric involvement note, bullet 2: renal artery disease",
+          "questionIds": [
+            "MED-C2-134"
+          ]
+        },
+        {
+          "element": "p716-e006",
+          "page": 716,
+          "source": "Papillae diagram shared label: ducts of Bellini",
+          "questionIds": [
+            "MED-C2-135"
+          ]
+        },
+        {
+          "element": "p716-e007",
+          "page": 716,
+          "source": "Composite-papilla figure: broad/concave surface and inward arrows",
+          "questionIds": [
+            "MED-C2-136"
+          ]
+        },
+        {
+          "element": "p716-e008",
+          "page": 716,
+          "source": "Composite parenthesis: 90% children, at least one compound papilla",
+          "questionIds": [
+            "MED-C2-137"
+          ]
+        },
+        {
+          "element": "p716-e009",
+          "page": 716,
+          "source": "Composite bullet 1: upper/lower poles 33%",
+          "questionIds": [
+            "MED-C2-138"
+          ]
+        },
+        {
+          "element": "p716-e010",
+          "page": 716,
+          "source": "Composite bullet 1 parenthesis: upper > lower",
+          "questionIds": [
+            "MED-C2-139"
+          ]
+        },
+        {
+          "element": "p716-e011",
+          "page": 716,
+          "source": "Composite bullet 2a: flat/concave surface",
+          "questionIds": [
+            "MED-C2-140"
+          ]
+        },
+        {
+          "element": "p716-e012",
+          "page": 716,
+          "source": "Composite bullet 2b: round/oval opening",
+          "questionIds": [
+            "MED-C2-141"
+          ]
+        },
+        {
+          "element": "p716-e013",
+          "page": 716,
+          "source": "Composite bullet 3: open gaping orifices",
+          "questionIds": [
+            "MED-C2-142"
+          ]
+        },
+        {
+          "element": "p716-e014",
+          "page": 716,
+          "source": "Composite bullet 4: allow reflux; printed reflex typo",
+          "questionIds": [
+            "MED-C2-143"
+          ]
+        },
+        {
+          "element": "p716-e015",
+          "page": 716,
+          "source": "Simple conical papillae, figure contour",
+          "questionIds": [
+            "MED-C2-144"
+          ]
+        },
+        {
+          "element": "p716-e016",
+          "page": 716,
+          "source": "Simple conical bullet 1: mid pole, 66%",
+          "questionIds": [
+            "MED-C2-145"
+          ]
+        },
+        {
+          "element": "p716-e017",
+          "page": 716,
+          "source": "Simple conical bullet 2: slit-like closed orifices",
+          "questionIds": [
+            "MED-C2-146"
+          ]
+        },
+        {
+          "element": "p716-e018",
+          "page": 716,
+          "source": "Simple conical bullet 3: cone shaped",
+          "questionIds": [
+            "MED-C2-147"
+          ]
+        },
+        {
+          "element": "p716-e019",
+          "page": 716,
+          "source": "Simple conical bullet 4: do not allow reflux; printed reflex typo",
+          "questionIds": [
+            "MED-C2-148"
+          ]
+        }
+      ]
+    }
+  ]
+}

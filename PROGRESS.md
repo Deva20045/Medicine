@@ -1,19 +1,64 @@
 # PULSE Medicine — Build Progress (single source of truth)
 
+## Mandatory project memory — 2026-09-20 (overrides older status/NEXT notes)
+
+**User requirement: STRICTLY LINE BY LINE, IN EXACT BOOK ORDER. NO COMPROMISE.**
+
+- Cover every instructional line, bullet, table cell, diagram label/arrow,
+  flowchart branch, note, value, and exception. No summaries or selective coverage.
+- Preserve chapter → page → section → line/element order, including within a page.
+  No topic regrouping, forward jumps, or returning to earlier branches. Only
+  answer options may shuffle; question order must remain fixed.
+- Read the actual scan and maintain an ordered source-element → question-ID
+  checklist. Page citations and passing scripts alone do not prove compliance.
+- Unclear text must be resolved or explicitly flagged, never guessed. Do not
+  claim a page/chapter is line-by-line verified without completing that review.
+- See `AGENTS.md` for the persistent authoring rule and
+  `SELF_AUDIT_BOOK_ORDER.md` for evidence and verification scope.
+
+**Whole-book verdict: NOT YET COMPLETE.** Ch 1–3 have now been source-reviewed
+and rebuilt in order across **p705–725**. Their banks contain **140 + 148 + 202 =
+490 questions**, with explicit source caveats and ordered element-to-question
+checklists. The original Ch 1 backward jump is repaired. Ch 54 p970–971 remains a
+known blocker to address when reached.
+
+**All-chapter scope:** the user requested continuing **all 74 chapters** and
+merging the work. Track all of them in **`SOURCE_REVIEW.md`**; currently **3/74
+chapters, 21/364 pages** have valid recorded source reviews. This is incremental
+work, not whole-book completion. No background authoring is implied by this queue.
+
+**Current structural inventory:** **4,187 questions · 342 units · 58 live chapters**
+(Ch 1–56, 60–61), with 290 pages represented by citation. Ch 57–59 and 62–74 remain
+unbuilt. LIVE means available in the app, not line-by-line certified.
+
+**Verification:** build/integrity and **17 evidence-regression tests** pass.
+The full-bank DOM-shim smoke test exercises **8,374 correct/incorrect answer paths
+across all 342 units**. It reports **54 legacy format defects** in unreviewed
+chapters, not concealed by runtime PASS. Source review remains separate;
+`check_source_coverage.py --require-all` intentionally fails with 71 chapters
+pending. This completion gate must not be bypassed to claim the merge is complete.
+
+**NEXT (authoritative): Ch 4 — Juxtaglomerular Apparatus, Book p726–729.**
+Continue source reading, checklist, repair, rebuild and verification in book order.
+Do not jump to Ch 54 or the unbuilt chapters. Reports: `REAUDIT_CH1_SOURCE_ORDER.md`,
+`REAUDIT_CH2_SOURCE_ORDER.md`, `REAUDIT_CH3_SOURCE_ORDER.md`. Older NEXT/batch notes
+below are historical and do not override this instruction.
+
 ## Goal
 A learner should **not need to read the PDF separately** after solving the questions.
 Every line, table, diagram, flowchart, classification, value and exception of the book
 scope (Book p705–1068) is converted into questions in strict book order.
 
 ## Book & page map
-- Book: **Marrow Ed 8, Medicine Vol 3** — scan covers **Book pages 705–1070** (366 PDF pages).
+- Book: **Marrow Ed 8, Medicine Vol 3** — scan covers **Book pages 705–1070** (366 mapped book pages across 378 PDF pages;
+  Part 1 includes 12 preceding pages).
 - The scan has **no text layer**; content is read from rendered page images
   (e.g. `/home/user/ch1/*.png`), with background OCR kept for boundary checks only.
 - Offsets (book page = PDF page + K):
 
 | Part file (in `uploads/`) | PDF pages | K | Book pages |
 |---|---|---|---|
-| `Medicine_Vol3_Part1_pages_705-759.pdf` | 1–55 | 692 | 705–759 |
+| `Medicine_Vol3_Part1_pages_705-759.pdf` | 13–67 (of 67) | 692 | 705–759 |
 | `Medicine_Vol3_Part2_pages_760-823.pdf` | 1–64 | 759 | 760–823 |
 | `Medicine_Vol3_Part3_pages_824-893.pdf` | 1–70 | 823 | 824–893 |
 | `Medicine_Vol3_Part4_pages_894-964.pdf` | 1–71 | 893 | 894–964 |
@@ -123,8 +168,10 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 ## Per-chapter pipeline (repeat for every chapter)
 1. **Render** the chapter's book pages to PNG and read every line, table, diagram,
    flowchart and label (zoom into any unclear spot; never guess).
-2. **Author** `data/chNN.json`: questions in strict book order; units grouped by
-   section; ≥1 varied-format item per unit (fill-up / match / true-false / scenario /
+2. **Map and author**: keep an ordered source-line/element → question-ID checklist
+   for each page, including table/figure elements and diagram traversal. Author
+   `data/chNN.json` in that exact order; units follow contiguous source sections;
+   ≥1 varied-format item per unit (fill-up / match / true-false / scenario /
    odd-one-out / numeric / management); every explanation ends `(Book pX)`; every
    book page cited by ≥1 question.
 3. **Build**: `python build_content.py` (embeds JSON → `pulse-medicine.html`,
@@ -132,7 +179,13 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 4. **Verify**: `python check_integrity.py` (structure, counts, order, citations,
    no-length-giveaway answers) + `node check_app_smoke.js` (runtime roadmap + quiz)
    + `python audit_variety.py` (format mix, predictability signals) → regenerate
-   `AUDIT.md`.
+   `AUDIT.md`. These are structural/quality checks, not line-by-line certification.
+   Separately compare every checklist entry and question sequence with the scan;
+   explicitly record unreviewed pages and unresolved gaps. Store the reviewed
+   chapter manifest in `data/source_review/chNN.json`; run
+   `python3 check_source_coverage.py --write-report` and
+   `python3 -m unittest -v test_source_coverage.py`. Only update the content hash
+   after actually rechecking the changed source mappings.
 5. **Commit + push** the session branch (`arena/…-medicine`), update this file (status, NEXT).
 6. **User quality-checks**, then merges to `main` → chapter goes live at
    https://deva20045.github.io/Medicine/
@@ -157,8 +210,8 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] PDFs moved to `uploads/` and committed
 - [x] App skeleton + index redirect (all 74 chapters listed, rest "Soon")
 - [x] Tooling adapted from the OBG template
-- [x] **Ch 1 "Development of Kidneys" (p705–710): 9 units, 68 questions — BUILT & VERIFIED**
-- [x] **Ch 2 "Gross Anatomy of Kidney" (p711–716): 11 units, 66 questions — BUILT & VERIFIED**
+- [x] **Ch 1 "Development of Kidneys" (p705–710): 9 units, 140 questions — SOURCE-REVIEWED WITH CAVEATS**
+- [x] **Ch 2 "Gross Anatomy of Kidney" (p711–716): 11 units, 148 questions — SOURCE-REVIEWED WITH CAVEATS**
 - [x] **Ch 3 "Tubular Anatomy" (p717–725): 13 units, 100 questions — BUILT & VERIFIED**
 - [x] **Ch 4 "Juxtaglomerular Apparatus" (p726–729): 7 units, 50 questions — BUILT & VERIFIED**
 - [x] **Ch 5 "Glomerulus - Anatomy" (p730–733): 8 units, 56 questions — BUILT & VERIFIED**
@@ -313,6 +366,10 @@ every new question, including board/blank rendering and unit completion.
 **Next: Ch 47 (Diabetes Mellitus continues in Part 4 after p935).**
 
 ## Latest batch — Chapters 52–56 (2026-09-20)
+
+> **Superseded assurance:** The self-audit found source/citation/coverage failures
+> in Ch 54. The historical full-coverage and “green” wording below must not be
+> read as strict line-by-line verification. See `SELF_AUDIT_BOOK_ORDER.md`.
 
 **81 new questions · 20 units · all 24 pages p962–985.** Ch 52 Hyponatremia (16),
 Ch 53 Polyuria (16), Ch 54 Potassium Metabolism (16), Ch 55 Management of Hypertension
