@@ -1,150 +1,162 @@
 {
  "page": 913,
- "sec": "Thyroid storm, neonatal thyrotoxicosis, surgery complications",
+ "sec": "Ancillary Labs, Thionamides, RAI & Surgical Indications",
  "items": [
   {
-   "fmt": "match",
-   "q": "Match the following thyroid-storm feature — 1) Trigger 2) Burch-Wartofsky component 3) First-line thionamide 4) Adjunct … A) Infection / surgery / trauma B) Score ≥ 45 suggests storm C) Propylthiouracil D) Iodine (≥1 h after thionamide) + beta-blocker + steroid",
+   "fmt": "recall",
+   "q": "Which ancillary laboratory abnormalities are listed under 'Other laboratory findings' in thyrotoxicosis on page 913?",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-B, 3-C, 4-A"
+    "Hyperglycemia, Hypercalcemia, Leukocytosis, ALP ↑, LFT ↑",
+    "Hypoglycemia, severe hypocalcemia, and leukopenia",
+    "Hyperkalemia, hyperphosphatemia, and isolated amylase elevation",
+    "Hyponatremia, metabolic alkalosis, and thrombocytosis"
    ],
    "ans": 0,
-   "exp": "Triggers include infection, surgery and trauma; Burch-Wartofsky ≥ 45 suggests storm; PTU is preferred in storm; iodine is given at least one hour after thionamide along with beta-blocker and steroid. (Book p913)"
+   "exp": "Other laboratory findings on page 913: Hyperglycemia, Hypercalcemia, Leucocytosis, ALP ↑, and LFT ↑. (Book p913)"
   },
   {
-   "fmt": "scenario",
-   "q": "A patient with Graves disease post-appendicectomy has fever 39.5 °C, HR 158/min, agitation and jaundice. The most likely diagnosis is:",
+   "fmt": "numeric",
+   "q": "What is the expected remission rate with anti-thyroid drug therapy in Graves' disease after 12 to 18 months?",
    "opts": [
-    "Thyroid storm (correct answer)",
-    "Septic shock alone",
-    "Neuroleptic malignant syndrome",
-    "Malignant hyperthermia"
+    "60 - 70%",
+    "20 - 30%",
+    "40 - 50%",
+    "90 - 95%"
    ],
    "ans": 0,
-   "exp": "High fever, tachyarrhythmia, agitation and jaundice after a precipitating event in Graves fit thyroid storm. (Book p913)"
+   "exp": "Under Treatment: Anti-thyroid drugs achieve '60-70% : Remission In 12-18 months'. (Book p913)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the equivalent thionamide doses from the potency equivalence formula on page 913 — 1) Methimazole 2) Carbimazole 3) Propylthiouracil (PTU) … A) 6 mg B) 10 mg C) 100 mg",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Dose equivalence formula: 'methimazole (6 mg) = Carbimazole (10 mg) = Propylthiouracil (100 mg)'. (Book p913)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Why is Propylthiouracil (PTU) preferred in pregnancy despite being hepatotoxic?",
+   "opts": [
+    "Increased plasma protein binding reduces transplacental transfer to the fetus",
+    "It has an exceptionally long 24-hour half-life",
+    "It is an irreversible inhibitor of iodide uptake",
+    "It has zero risk of causing maternal agranulocytosis"
+   ],
+   "ans": 0,
+   "exp": "Under Propylthiouracil: 'Preferred in Pregnancy', '↑ Plasma protein binding', and 'Hepatotoxic (Not preferred now)'. (Book p913)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess thyroid storm management: I Iodine should precede the thionamide. II IV hydrocortisone is part of the regimen.",
+   "q": "Compare Carbimazole and Methimazole properties on page 913: I Carbimazole is preferred over PTU, dosed 5 mg TDS daily, with a half-life of 6-8 hours. II Methimazole is an irreversible inhibitor with a 6-hour half-life, but is teratogenic causing aplasia cutis and choanal atresia.",
    "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "Iodine is given at least one hour after the thionamide to avoid substrate for new hormone; hydrocortisone covers possible adrenal insufficiency and reduces T4-to-T3 conversion. (Book p913)"
+   "exp": "Both statements match the descriptions of Carbimazole and Methimazole on page 913. (Book p913)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the thionamide adverse effect to its clinical status — 1) Rash 2) Agranulocytosis 3) Hepatobiliary / Autoimmune … A) Most common (m/c) side effect B) Most dangerous side effect C) Cholestasis, Drug-induced lupus",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Side effects: Rash (m/c), Agranulocytosis (most dangerous), Cholestasis, and Drug-induced lupus. (Book p913)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 30-year-old woman with Graves' disease started on carbimazole 2 weeks ago presents with high fever, mouth ulcers, and a severe sore throat. What is the most critical and dangerous side effect to rule out immediately?",
+   "opts": [
+    "Agranulocytosis",
+    "Drug-induced lupus",
+    "Intrahepatic cholestasis",
+    "Allergic maculopapular rash"
+   ],
+   "ans": 0,
+   "exp": "Agranulocytosis is noted as the 'most dangerous' side effect of thionamides; high fever and sore throat require an urgent complete blood count. (Book p913)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "In the titration regimen for antithyroid drugs, the patient should be revisited at ___ weeks to monitor ___ and ___ values.",
+   "opts": [
+    "4 - 6 weeks; free T3 and free T4",
+    "1 - 2 weeks; TSH only",
+    "3 months; anti-TPO titers",
+    "6 months; urinary iodine excretion"
+   ],
+   "ans": 0,
+   "exp": "Under Titration regimen: 'Revisit : 4-6 weeks, monitor free T3 and free T4 values'. (Book p913)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the recommended dose and schedule of propranolol for thyrotoxic symptom control on page 913?",
+   "opts": [
+    "40 mg Q6H",
+    "10 mg once daily",
+    "80 mg at bedtime",
+    "20 mg TDS"
+   ],
+   "ans": 0,
+   "exp": "Item 2 under Treatment: 'Propranolol : 40 mg Q6H'. (Book p913)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Regarding Radioactive Iodine (RAI) in relapsed Graves': I Patient must be made euthyroid with minimum 1 month of antithyroid drugs prior to RAI to prevent thyrotoxic crisis. II RAI has a proven direct association with secondary malignancy risk.",
+   "opts": [
+    "I is true; II is false",
+    "Both I and II are true",
+    "I is false; II is true",
+    "Both I and II are false"
+   ],
+   "ans": 0,
+   "exp": "Page 913 specifies: 'Before initiating make patient euthyroid: minimum 1 month anti-thyroid drugs (to prevent thyrotoxicosis)' and 'No association with cancer risk'. (Book p913)"
   },
   {
    "fmt": "oddoneout",
-   "q": "Which is the odd one out — a treatment used in thyroid storm?",
+   "q": "Which of the following is NOT listed as a disadvantage or contraindication of radioactive iodine (RAI) on page 913?",
    "opts": [
-    "Lithium reinfusion",
-    "Propylthiouracil",
-    "Propranolol",
-    "Hydrocortisone"
+    "High risk of subsequent thyroid carcinoma",
+    "Contraindicated in pregnancy",
+    "Increased risk / aggravation of eye disease",
+    "Lifelong L-thyroxine required in 10% of the population"
    ],
    "ans": 0,
-   "exp": "PTU, propranolol and hydrocortisone are standard; lithium is not standard storm therapy (it can be adjunct in severe cases but not routine). (Book p913)"
+   "exp": "Page 913 explicitly notes: 'No association with cancer risk'. Disadvantages listed are C/I in pregnancy, eye disease (↑ risk), and lifelong L-thyroxine required (10%). (Book p913)"
   },
   {
-   "fmt": "fillup",
-   "q": "The Burch-Wartofsky score ≥ ___ suggests thyroid storm.",
+   "fmt": "management",
+   "q": "In a patient with Graves' disease and severe, active ophthalmopathy, what medical regimen is recommended on page 913?",
    "opts": [
-    "45",
-    "20",
-    "70",
-    "10"
+    "IV Steroid + Rituximab ± Radiotherapy",
+    "Radioactive iodine ablation with high-dose aspirin",
+    "Propylthiouracil monotherapy with external cold compresses",
+    "Immediate total thyroidectomy preceded by potassium perchlorate"
    ],
    "ans": 0,
-   "exp": "A score of 45 or more on the Burch-Wartofsky scale is highly suggestive of thyroid storm. (Book p913)"
+   "exp": "Under In relapse cases: 'In Severe Ophthalmopathy : IV Steroid + Rituximab ± Radiotherapy'. (Book p913)"
   },
   {
-   "fmt": "match",
-   "q": "Match the following context — 1) Neonatal thyrotoxicosis 2) Postpartum Graves 3) Subclinical thyrotoxicosis 4) Apathetic thyrotoxicosis … A) Transplacental TRAb; treat with thionamide B) May flare after delivery C) TSH < 0.1 with normal free hormones D) Elderly with apathy rather than hyperactivity",
+   "fmt": "oddoneout",
+   "q": "If radiotherapy is contraindicated or not possible, surgery is indicated for all of the following EXCEPT:",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-D, 2-B, 3-C, 4-A"
+    "Mild asymptomatic euthyroid ophthalmopathy alone",
+    "Biopsy suspicious of malignancy",
+    "Concurrent hyperparathyroidism or compressive symptoms",
+    "Pregnancy / lactation and young children"
    ],
    "ans": 0,
-   "exp": "Neonatal thyrotoxicosis is from transplacental TRAb; postpartum Graves may flare after delivery; subclinical thyrotoxicosis has low TSH with normal free hormones; apathetic thyrotoxicosis presents with apathy in elderly. (Book p913)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A neonate born to a mother with active Graves disease has tachycardia, irritability and poor weight gain. The most appropriate therapy is:",
-   "opts": [
-    "Methimazole + propranolol",
-    "Radioiodine (alternative)",
-    "Total thyroidectomy",
-    "Levothyroxine (alternative)"
-   ],
-   "ans": 0,
-   "exp": "Neonatal thyrotoxicosis is treated with thionamide (methimazole preferred after first weeks) plus a beta-blocker; iodide can be added. (Book p913)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess neonatal thyrotoxicosis: I It is caused by transplacental TSH-receptor antibodies. II It typically resolves as maternal antibodies clear over weeks.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Maternal TRAb crosses the placenta; symptoms resolve over weeks to months as antibodies wane. (Book p913)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following surgical complication of thyroidectomy — 1) Hypoparathyroidism 2) Recurrent laryngeal nerve injury 3) Haematoma with airway compromise 4) Hypothyroidism … A) Hypocalcaemia with tetany B) Hoarseness / stridor C) Emergency airway decompression D) Expected after total thyroidectomy",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-B, 2-A, 3-D, 4-C"
-   ],
-   "ans": 0,
-   "exp": "Hypoparathyroidism causes hypocalcaemia and tetany; recurrent laryngeal nerve injury causes hoarseness or stridor; neck haematoma is an airway emergency; hypothyroidism is expected after total thyroidectomy. (Book p913)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A patient has stridor and a tense neck haematoma within hours of thyroidectomy. The next step is:",
-   "opts": [
-    "Emergency wound decompression at the bedside",
-    "IV calcium gluconate only",
-    "CT scan of the neck before intervention",
-    "Intubation only after imaging"
-   ],
-   "ans": 0,
-   "exp": "Post-thyroidectomy haematoma with airway compromise requires immediate opening of the wound at the bedside before definitive airway. (Book p913)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "Bilateral recurrent laryngeal nerve injury post-thyroidectomy can cause ___.",
-   "opts": [
-    "Bilateral vocal-cord paralysis and airway obstruction",
-    "Hypercalcaemia (alternative)",
-    "Recurrent thyrotoxicosis (alternative)",
-    "Hypothyroid storm (alternative)"
-   ],
-   "ans": 0,
-   "exp": "Bilateral injury causes vocal-cord paralysis in the adducted position and acute airway obstruction requiring tracheostomy. (Book p913)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess surgery in Graves: I Total thyroidectomy achieves rapid control. II It is preferred in patients with active moderate ophthalmopathy.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Total thyroidectomy rapidly controls hyperthyroidism and is preferred in active ophthalmopathy to avoid RAI-induced flare. (Book p913)"
+   "exp": "Surgical indications on page 913: biopsy suspicious of malignancy, hyperparathyroidism, pregnancy/lactation, young children, and compressive symptoms. (Book p913)"
   }
  ]
 }

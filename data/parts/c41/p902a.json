@@ -1,150 +1,162 @@
 {
  "page": 902,
- "sec": "TFT overview, screening and binding-protein effects",
+ "sec": "Thyroid Hormone Levels, Disorders & RTH",
  "items": [
   {
+   "fmt": "fillup",
+   "q": "In circulating blood, thyroid hormone levels show that T4 is present in maximum concentration, approximately ___ that of T3.",
+   "opts": [
+    "10-fold (10 x T3)",
+    "2-fold (2 x T3)",
+    "50-fold (50 x T3)",
+    "100-fold (100 x T3)"
+   ],
+   "ans": 0,
+   "exp": "Circulating T4 is present in maximum concentration, approximately 10 times that of T3 (10 x T3). (Book p902)"
+  },
+  {
    "fmt": "match",
-   "q": "Match the following TFT indications to the source's classification — 1) Universal neonatal screen 2) Routine community screening in adults 3) High-yield targeted screen … A) All newborns B) Not recommended routinely C) Symptomatic / high-risk groups",
+   "q": "Match the thyroid hormone carrier proteins to their respective binding percentages — 1) Thyroid Binding Globulin (TBG) 2) Albumin 3) Transthyretin … A) 70% B) 20% C) 10%",
    "opts": [
     "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
     "1-C, 2-B, 3-A",
-    "1-A, 2-C, 3-B",
-    "1-B, 2-A, 3-C"
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "The page recommends universal neonatal screening, advises against routine adult screening, and reserves tests for symptomatic or at-risk groups. (Book p902)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A healthy 30-year-old has a free-T4 normal but total T4 elevated. Pregnancy is excluded and she is on combined oral contraceptive pills. The most consistent pattern is:",
-   "opts": [
-    "Increased TBG with normal free hormone",
-    "Increased TSH with low free T4",
-    "Low TBG with normal free T4",
-    "Familial dysalbuminaemic hyperthyroxinaemia only"
-   ],
-   "ans": 0,
-   "exp": "OCPs raise TBG; total T4/T3 rise with free hormone and TSH normal. This must be distinguished from the rare FDHS where albumin binds excess T4. (Book p902)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess these TBG-effect statements: I Estrogen, pregnancy and chronic active hepatitis raise TBG. II Nephrotic syndrome lowers TBG.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "OCPs, estrogen, pregnancy, steroid therapy and chronic active hepatitis raise TBG; nephrotic syndrome, androgen and chronic liver disease lower TBG. (Book p902)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following TBG change to its source — 1) ↑TBG 2) ↓TBG … A) Nephrotic syndrome B) Combined oral contraceptive pill",
-   "opts": [
-    "1-B, 2-A",
-    "1-A, 2-B",
-    "Both decrease",
-    "Both increase"
-   ],
-   "ans": 0,
-   "exp": "The source lists OCPs, pregnancy, steroids and chronic active hepatitis under TBG excess, and nephrotic syndrome with protein-losing states under TBG deficit. (Book p902)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A patient on chronic glucocorticoids for SLE has normal free T4 and TSH, but total T4 is high. The biochemical mechanism is:",
-   "opts": [
-    "Steroid-induced increase in TBG",
-    "TPO-mediated overproduction of T4",
-    "Defective type-1 deiodinase",
-    "Antibody-bound T4 with low free hormone"
-   ],
-   "ans": 0,
-   "exp": "Corticosteroids raise TBG and therefore raise total T4/T3 while free hormones and TSH remain normal. (Book p902)"
-  },
-  {
-   "fmt": "oddoneout",
-   "q": "Which condition is the odd one out compared with the others as a cause of raised TBG on this page?",
-   "opts": [
-    "Nephrotic syndrome",
-    "Estrogen therapy",
-    "Pregnancy (alternative)",
-    "Chronic active hepatitis"
-   ],
-   "ans": 0,
-   "exp": "Nephrotic syndrome lowers TBG; estrogen, pregnancy and chronic active hepatitis all raise TBG per the source. (Book p902)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "The most abundant thyroid-hormone transport protein on this page is ___, binding approximately two-thirds of circulating T4.",
-   "opts": [
-    "Thyroxine-binding globulin (TBG)",
-    "Transthyretin (prealbumin)",
-    "Albumin (alternative)",
-    "Lipoprotein(a)"
-   ],
-   "ans": 0,
-   "exp": "TBG carries the largest fraction of T4 and T3; prealbumin and albumin bind smaller portions. (Book p902)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Evaluate these source statements on neonatal screening: I It is universally recommended for all newborns. II It targets congenital hypothyroidism to prevent cretinism.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Universal newborn screening is standard practice because early levothyroxine prevents neurodevelopmental cretinism. (Book p902)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following drugs / states to their TBG effect — 1) Androgen 2) Chronic liver disease 3) Oestrogen therapy 4) Nephrotic syndrome … A) ↑TBG B) ↓TBG",
-   "opts": [
-    "1-B, 2-B, 3-A, 4-B",
-    "1-A, 2-A, 3-B, 4-B",
-    "1-B, 2-A, 3-A, 4-B",
-    "1-A, 2-B, 3-B, 4-A"
-   ],
-   "ans": 0,
-   "exp": "Androgen, chronic liver disease and nephrotic syndrome all lower TBG; only oestrogen therapy raises it. (Book p902)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A laboratory reports normal free T4 with high total T4 in a clinically euthyroid patient on OCPs. What is the correct clinical action?",
-   "opts": [
-    "No treatment — interpret total T4 in light of TBG change",
-    "Start levothyroxine because total T4 is high",
-    "Start methimazole because total T4 is high",
-    "Repeat total T4 only after stopping OCPs"
-   ],
-   "ans": 0,
-   "exp": "Free hormone and TSH are normal; the high total T4 reflects raised TBG from estrogen, not true hyperthyroidism. (Book p902)"
+   "exp": "Thyroid hormone carrier proteins bind circulating hormone in the proportions: TBG 70%, Albumin 20%, and Transthyretin 10%. (Book p902)"
   },
   {
    "fmt": "recall",
-   "q": "Per the source, the binding protein transporting the largest fraction of circulating thyroid hormone is:",
+   "q": "In the opening classification of hyperthyroxinemia (elevated T3 and T4 levels), what biochemical finding defines thyrotoxicosis rather than euthyroid hyperthyroxinemia?",
    "opts": [
-    "Thyroxine-binding globulin",
-    "Prealbumin / transthyretin",
-    "Albumin (alternative)",
-    "Sex-hormone-binding globulin"
+    "Elevated free T3 and free T4 levels",
+    "Elevated total T3 and total T4 levels with normal free hormone",
+    "Isolated elevated thyroglobulin with normal TSH",
+    "Elevated thyroid binding globulin (TBG) levels"
    ],
    "ans": 0,
-   "exp": "TBG carries the majority of T4 and T3; prealbumin and albumin take much smaller fractions. (Book p902)"
+   "exp": "Hyperthyroxinemia branches into thyrotoxicosis (defined by elevated free T3/free T4) and euthyroid hyperthyroxinemia (elevated total T3/total T4). (Book p902)"
+  },
+  {
+   "fmt": "match",
+   "q": "Under thyrotoxicosis with elevated free hormone levels, match the gland status to its underlying mechanism — 1) Overworking gland 2) Normal gland … A) Hyperthyroidism B) Stored hormones released / Hormone supplement",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "In thyrotoxicosis, an overworking gland corresponds to true hyperthyroidism, whereas a normal gland releases stored hormones (thyroiditis) or receives exogenous hormone supplementation. (Book p902)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess the printed TBG list: I The source inherits (rare) as a TBG-excess cause. II Inherited deficiency is listed separately from nephrotic syndrome.",
+   "q": "Assess these causes of euthyroid hyperthyroxinemia (elevated total T3 and total T4): I TBG excess. II Drugs that inhibit deiodinase-2 (D1-2), Sick euthyroid syndrome, and RTH.",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "The page lists inherited (rare) as a separate TBG-excess cause and inherited deficiency as a separate TBG-deficit cause from acquired nephrotic losses. (Book p902)"
+   "exp": "Causes of euthyroid hyperthyroxinemia listed on page 902 include: 1) TBG excess, 2) Drugs that inhibit deiodinase-2, 3) Sick euthyroid syndrome, and 4) RTH. (Book p902)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed on page 902 as a cause of TBG excess?",
+   "opts": [
+    "Nephrotic syndrome",
+    "Oral contraceptive pills (OCPs) and estrogen",
+    "Pregnancy and steroids",
+    "Chronic active hepatitis and inherited TBG excess (rare)"
+   ],
+   "ans": 0,
+   "exp": "Causes of TBG excess on page 902 are OCPs, estrogen, pregnancy, steroids, chronic active hepatitis, and inherited TBG excess (rare). Nephrotic syndrome causes urinary protein loss and low TBG. (Book p902)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 24-year-old woman taking oral contraceptive pills has high total T4 and total T3 on routine screening. Free T4, free T3, and TSH are normal. What is the diagnosis?",
+   "opts": [
+    "Euthyroid hyperthyroxinemia due to TBG excess",
+    "Primary thyrotoxicosis from an overworking gland",
+    "Resistance to thyroid hormone (RTH)",
+    "Subclinical hyperthyroidism"
+   ],
+   "ans": 0,
+   "exp": "OCPs raise TBG levels, leading to elevated total T3/T4 with normal free hormone levels, classified as euthyroid hyperthyroxinemia. (Book p902)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the primary pathogenesis of Resistance to Thyroid Hormone (RTH)?",
+   "opts": [
+    "Partial or complete resistance of T3/T4 receptors leading to uninhibited increase of TSH with high T3/T4 but no action",
+    "Activating mutation in the TSH receptor causing autonomous thyroid follicle hyperplasia",
+    "Deiodinase-2 deficiency in the liver preventing peripheral hormone degradation",
+    "Circulating autoantibodies that block thyroid binding globulin clearance"
+   ],
+   "ans": 0,
+   "exp": "In RTH, partial or completely resistant T3/T4 receptors cause uninhibited increase of TSH, producing high T3 and T4 that fail to exert downstream action. (Book p902)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the clinical presentation of Resistance to Thyroid Hormone (RTH) to its relative frequency — 1) Euthyroid state 2) Toxicosis … A) Most common (m/c) B) Rare (due to resistance to TR-β forms)",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Clinically in RTH, patients are most commonly euthyroid; toxicosis is rare and occurs due to resistance to beta forms (TR-β). (Book p902)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "In Resistance to Thyroid Hormone (RTH), the rare occurrence of toxicosis is due to resistance specifically involving ___ forms of the receptor.",
+   "opts": [
+    "TR-β (thyroid hormone receptor beta)",
+    "TR-α1 (thyroid hormone receptor alpha 1)",
+    "G-protein coupled TSH receptor",
+    "OATP1C1 neuronal transporter"
+   ],
+   "ans": 0,
+   "exp": "Toxicosis in RTH is rare and develops due to selective resistance to beta forms (TR-β). (Book p902)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A male infant presents with severe cognitive impairment and hypotonia. Molecular genetic testing identifies a loss-of-function defect in the neuronal MCT8 transporter. What is the diagnosis?",
+   "opts": [
+    "Allan-Herndon-Dudley syndrome",
+    "Pendred syndrome",
+    "Hoffman syndrome",
+    "De Quervain syndrome"
+   ],
+   "ans": 0,
+   "exp": "MCT8 defect causes impaired entry of T3 into neurons, producing Allan-Herndon-Dudley syndrome characterized by severe cognitive impairment. (Book p902)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "In the CNS thyroid hormone transport pathway: I T4 crosses the blood-brain barrier via OATP1C1 and MCT8 into astrocytes, where D2 converts it to T3. II T3 enters neurons via MCT8 to activate T3-responsive genes.",
+   "opts": [
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
+   ],
+   "ans": 0,
+   "exp": "T4 crosses the blood-brain barrier via OATP1C1/MCT8 into astrocytes where deiodinase-2 (D2) converts T4 to T3; T3 then enters neurons via MCT8 to regulate T3-responsive genes. (Book p902)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which transporter protein is shown alongside MCT8 at the blood-brain barrier for thyroid hormone transport into astrocytes on page 902?",
+   "opts": [
+    "OATP1C1",
+    "Pendrin",
+    "SGLT-2",
+    "GLUT-4"
+   ],
+   "ans": 0,
+   "exp": "The blood-brain barrier diagram depicts OATP1C1 and MCT8 facilitating thyroid hormone transport into astrocytes. (Book p902)"
   }
  ]
 }

@@ -1,162 +1,150 @@
 {
  "page": 906,
- "sec": "Hashimoto thyroiditis and subclinical hypothyroidism",
+ "sec": "Hashimoto Features, Histology & Associated Malignancy",
  "items": [
   {
-   "fmt": "match",
-   "q": "Match the following Hashimoto features to the source's annotation — 1) Pathology 2) Most affected demographic 3) Typical antibody 4) Standard Rx in adult … A) Lymphocytic infiltrate with germinal centres and Hürthle cells B) Middle-aged women C) Anti-TPO (and anti-thyroglobulin) D) Levothyroxine replacement",
+   "fmt": "recall",
+   "q": "In which demographic group is Hashimoto's thyroiditis most common?",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-B, 3-A, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-D, 2-A, 3-C, 4-B"
+    "Middle-aged female",
+    "Elderly male",
+    "Adolescent male",
+    "Infant female"
    ],
    "ans": 0,
-   "exp": "The page describes lymphocytic infiltrates with Hürthle cells, predominance in middle-aged women, anti-TPO as the marker, and levothyroxine replacement. (Book p906)"
+   "exp": "Under Hashimoto's Thyroiditis FEATURES: 'most common in middle-aged female'. (Book p906)"
   },
   {
-   "fmt": "scenario",
-   "q": "A 38-year-old woman has a firm rubbery goitre with anti-TPO antibody titres of 800 IU/mL and subclinical hypothyroidism. Which diagnosis fits?",
+   "fmt": "match",
+   "q": "Match the immunogenetic associations of Hashimoto's thyroiditis — 1) HLA alleles 2) Immune checkpoint polymorphisms … A) HLA-DR3, DR4, DR5 (can be ANA positive) B) CTLA-4 and PTPN-22 polymorphisms",
    "opts": [
-    "Hashimoto thyroiditis",
-    "Graves disease (alternative)",
-    "Subacute (de Quervain) thyroiditis",
-    "Riedel thyroiditis (alternative)"
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
    ],
    "ans": 0,
-   "exp": "High anti-TPO with goitre in a middle-aged woman fits Hashimoto; Graves would have TSH-receptor antibodies and ophthalmopathy. (Book p906)"
+   "exp": "HLA associations are DR-3 / DR-4 / DR5 (can be ANA +ve); non-HLA gene polymorphisms are CTLA-4 / PTPN-22. (Book p906)"
   },
   {
    "fmt": "truefalse",
-   "q": "Evaluate these Hashimoto facts: I Anti-TPO is the most sensitive antibody. II Hashimoto is the most common cause of hypothyroidism in iodine-replete regions.",
+   "q": "Assess gland changes in Hashimoto's thyroiditis: I The thyroid gland is commonly not enlarged. II When goitre is present, it is characteristically an irregular, firm, heterogeneous, non-tender enlargement.",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "Anti-TPO is highlighted as the sensitive marker, and the page notes Hashimoto as the leading cause of hypothyroidism where iodine intake is adequate. (Book p906)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "Histologically, the lymphoid infiltrate with germinal centres in Hashimoto is accompanied by ___ cells.",
-   "opts": [
-    "Hürthle (Askanazy) cells",
-    "Anitschkow cells",
-    "Reed-Sternberg cells",
-    "Signet-ring cells"
-   ],
-   "ans": 0,
-   "exp": "Hürthle (Askanazy) cells are the oxyphilic change characteristic of Hashimoto. (Book p906)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following antibody to the source's typical association — 1) Anti-TPO 2) Anti-thyroglobulin 3) TSH-receptor antibody … A) Hashimoto thyroiditis B) Hashimoto thyroiditis (less specific) C) Graves disease",
-   "opts": [
-    "1-A, 2-B, 3-C",
-    "1-C, 2-A, 3-B",
-    "1-A, 2-C, 3-B",
-    "1-B, 2-A, 3-C"
-   ],
-   "ans": 0,
-   "exp": "Anti-TPO is the sensitive marker for Hashimoto; anti-thyroglobulin is also seen but is less specific; TSH-receptor antibodies point to Graves. (Book p906)"
+   "exp": "Gland changes: 'Commonly not enlarged' and 'If goitre present : Irregular/ firm/ heterogeneous non tender enlargement of gland'. (Book p906)"
   },
   {
    "fmt": "scenario",
-   "q": "A Hashimoto patient with TSH 5.4 mIU/L and normal free T4 is asymptomatic. The most consistent management is:",
+   "q": "On gross examination of a resected thyroid from a middle-aged woman with autoimmune hypothyroidism, the gland appears fibrosed, pale, and firm. What accounts for the pale appearance?",
    "opts": [
-    "Observe and recheck in 6–12 months",
-    "Start levothyroxine immediately",
-    "Start methimazole (alternative)",
-    "Refer for total thyroidectomy"
+    "Dense lymphoid infiltration",
+    "Massive accumulation of colloid lakes",
+    "Extensive acute bacterial suppuration",
+    "Diffuse fatty infiltration of stromal tissue"
    ],
    "ans": 0,
-   "exp": "Mild subclinical hypothyroidism without symptoms and free T4 normal is monitored; treatment thresholds depend on TSH level and antibodies. (Book p906)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess subclinical hypothyroidism: I It is defined by raised TSH with normal free T4. II Treatment threshold is the same for every adult patient.",
-   "opts": [
-    "I true; II false",
-    "Both true",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Subclinical hypothyroidism is defined by raised TSH with normal free T4, but treatment thresholds vary with age, antibodies, pregnancy and cardiovascular risk. (Book p906)"
-  },
-  {
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out among the source's TSH-guided treatment thresholds for subclinical hypothyroidism?",
-   "opts": [
-    "Treat only if TSH > 10 mIU/L regardless of antibodies",
-    "Pregnancy with TSH > 2.5 mIU/L",
-    "Anti-TPO-positive with TSH > 5 mIU/L",
-    "Cardiovascular disease with TSH > 7 mIU/L"
-   ],
-   "ans": 0,
-   "exp": "Universal levothyroxine in pregnancy with TSH > 2.5, antibody-positive patients > 5, and cardiac patients > 7 are individualised thresholds; the 'wait until > 10' rule is an oversimplification. (Book p906)"
+   "exp": "Under Gross appearance: 'Fibrosed gland' and 'Pale gland d/t lymphoid infiltration'. (Book p906)"
   },
   {
    "fmt": "fillup",
-   "q": "In pregnancy, the source-stated upper limit for first-trimester TSH is approximately ___ mIU/L.",
+   "q": "On microscopic examination of Hashimoto's thyroiditis, the prominent lymphocytic infiltration characteristically organizes into ___ formation.",
    "opts": [
-    "2.5",
-    "5.0",
-    "7.5",
-    "10.0"
+    "Germinal center",
+    "Caseating granuloma",
+    "Psammoma body",
+    "Papillary vascular core"
    ],
    "ans": 0,
-   "exp": "Pregnancy-specific TSH targets are stricter; the first-trimester upper limit is approximately 2.5 mIU/L. (Book p906)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following population with the source's treatment approach for subclinical hypothyroidism — 1) Older adult with TSH 6 mIU/L 2) Young symptomatic woman 3) Pregnant with TSH 3.1 mIU/L 4) Hashimoto with TSH 12 mIU/L … A) Often observe B) Treat C) Treat (lower target) D) Treat (high-risk)",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-C, 2-B, 3-A, 4-D"
-   ],
-   "ans": 0,
-   "exp": "Older adults are often observed; young symptomatic patients are treated; pregnancy targets are stricter; overt-range Hashimoto (TSH > 10) is treated. (Book p906)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A pregnant woman in her first trimester has TSH 3.4 mIU/L with positive anti-TPO antibodies. Which intervention is most consistent with the source?",
-   "opts": [
-    "Start levothyroxine with pregnancy-specific targets",
-    "Observe because TSH < 5 mIU/L",
-    "Start methimazole (alternative)",
-    "Total thyroidectomy before delivery"
-   ],
-   "ans": 0,
-   "exp": "First-trimester TSH should be kept below ~2.5 mIU/L; antibodies and pregnancy warrant levothyroxine replacement. (Book p906)"
+   "exp": "Microscopic appearance: 'Lymphocytic infiltration -> Germinal center formation'. (Book p906)"
   },
   {
    "fmt": "recall",
-   "q": "Which antibody is highlighted as the most sensitive serologic marker for Hashimoto thyroiditis?",
+   "q": "What are the transformed, hypereosinophilic epithelial cells with abundant granular cytoplasm seen in Hashimoto's thyroiditis called?",
    "opts": [
-    "Anti-TPO (correct answer)",
-    "Anti-thyroglobulin",
-    "TSH-receptor antibody",
-    "Anti-sodium-iodide symporter"
+    "Hürthle cells (oxyphilic metaplasia)",
+    "Parafollicular C cells",
+    "Orphan Annie cells",
+    "Askanazy giant multinucleated cells"
    ],
    "ans": 0,
-   "exp": "Anti-TPO is the most sensitive marker per the page; anti-thyroglobulin is less sensitive. (Book p906)"
+   "exp": "Page 906 notes: 'Hypereosinophilic cells : Hürthle cells' and 'Oxyphilic metaplasia'. (Book p906)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess antibody findings: I Anti-thyroglobulin is occasionally positive in healthy adults. II Hashimoto never coexists with Graves disease.",
+   "q": "Regarding the microscopic findings in Hashimoto's thyroiditis: I The follicular lumen characteristically shows an absence of colloid. II Oxyphilic metaplasia with Hürthle cells is a key hallmark.",
    "opts": [
-    "I true; II false",
-    "Both true",
-    "I false; II true",
-    "Both false"
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "Anti-thyroglobulin can be present in healthy individuals; rare overlap of Hashimoto and Graves pathology does occur, although uncommon. (Book p906)"
+   "exp": "Microscopic hallmarks on page 906 include: 'Absence of colloid' and 'Oxyphilic metaplasia' with Hürthle cells. (Book p906)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which malignancy has the highest associated relative risk in patients with longstanding Hashimoto's thyroiditis?",
+   "opts": [
+    "Extranodal marginal zone lymphoma > papillary carcinoma thyroid",
+    "Medullary thyroid carcinoma > follicular carcinoma",
+    "Anaplastic thyroid carcinoma > squamoid carcinoma",
+    "Primary thyroid sarcoma > metastatic melanoma"
+   ],
+   "ans": 0,
+   "exp": "Under Associated malignancy: 'Extranodal marginal zone lymphoma > papillary carcinoma thyroid'. (Book p906)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the malignancy associated with Hashimoto's thyroiditis to its relative frequency order — 1) Most strongly associated malignancy 2) Secondary associated thyroid carcinoma … A) Extranodal marginal zone lymphoma B) Papillary carcinoma thyroid",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Associated malignancy hierarchy: Extranodal marginal zone lymphoma is more strongly associated than papillary carcinoma of thyroid. (Book p906)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The cellular and cytokine mediators driving thyroid destruction in Hashimoto's include T-cells (both CD-8 and ___), plasma cells, and the cytokine ___.",
+   "opts": [
+    "CD-4; IFN-gamma",
+    "CD-20; IL-4",
+    "CD-56; TNF-alpha",
+    "FoxP3; TGF-beta"
+   ],
+   "ans": 0,
+   "exp": "Pathological mediators: 'T-cell (CD-8, CD-4)', 'IFN-gamma', and 'Plasma cell'. (Book p906)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed on page 906 as a histological feature or mediator of Hashimoto's thyroiditis?",
+   "opts": [
+    "Abundant colloid retention in dilated follicles",
+    "Hürthle cells (hypereosinophilic cells)",
+    "Lymphocytic infiltration with germinal center formation",
+    "Interferon-gamma (IFN-γ) and T-cell mediators (CD-4, CD-8)"
+   ],
+   "ans": 0,
+   "exp": "In Hashimoto's, there is characteristically an 'Absence of colloid', not abundant colloid retention. (Book p906)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 50-year-old woman with a 15-year history of Hashimoto's thyroiditis presents with a rapidly enlarging thyroid goiter. Biopsy demonstrates extranodal marginal zone B-cell lymphoma. What is the classic risk hierarchy noted on page 906?",
+   "opts": [
+    "Extranodal marginal zone lymphoma > papillary carcinoma thyroid",
+    "Papillary carcinoma thyroid > follicular carcinoma thyroid",
+    "Medullary thyroid carcinoma > anaplastic thyroid carcinoma",
+    "Follicular thyroid carcinoma > marginal zone lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Page 906 explicitly highlights: 'Associated malignancy : Extranodal marginal zone lymphoma > papillary carcinoma thyroid'. (Book p906)"
   }
  ]
 }

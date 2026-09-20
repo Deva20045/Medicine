@@ -25,21 +25,21 @@
 
 | Book page | Topic anchor                                                              | Sample ID    |
 | --------- | ------------------------------------------------------------------------- | ------------ |
-| p902      | TFT overview, screening, TBG / albumin effects                            | MED-C41-001  |
-| p903      | Pituitary feedback, sick-euthyroid, RTH                                   | MED-C41-013  |
-| p904      | Totals vs frees arrow grid; thyroglobulin in thyrotoxicosis               | MED-C41-026  |
-| p905      | Causes of hypothyroidism; drug list; clinical features                    | MED-C42-001  |
-| p906      | Hashimoto histology, antibodies, subclinical hypothyroidism               | MED-C42-014  |
-| p907      | Complications: myxoedema coma, encephalopathy, CTS, polyserositis         | MED-C42-026  |
-| p908      | Levothyroxine: dose, titration, populations                               | MED-C42-038  |
-| p909      | Follow-up, myxoedema coma protocol, taper & failure                      | MED-C42-051  |
-| p910      | Thyrotoxic features + Graves-specific signs                              | MED-C43-001  |
-| p911      | Eye signs, scoring, RAI / steroid considerations                          | MED-C43-013  |
-| p912      | Thionamides, RAI, surgery, block-and-replace                             | MED-C43-025  |
-| p913      | Thyroid storm, neonatal thyrotoxicosis, surgical complications          | MED-C43-037  |
-| p914      | Hashimoto / subacute / postpartum / acute suppurative thyroiditis         | MED-C43-050  |
-| p915      | Biphasic subacute and postpartum thyroiditis course                       | MED-C43-063  |
-| p916      | Amiodarone Type 1 vs Type 2; ICI thyroid disease                         | MED-C43-075  |
+| p902      | Hormone levels, TBG/albumin/transthyretin, RTH, MCT8 & CNS transport      | MED-C41-001  |
+| p903      | Tc-99m ectopic scan, BMR, cardiac alpha, thermogenesis, metabolic actions | MED-C41-014  |
+| p904      | Drugs & TFT (inducers, inhibitors), CLIA TSH (0.5-5), 7-row table         | MED-C41-027  |
+| p905      | Primary/secondary/consumptive/congenital classification; lithium, IFN-a   | MED-C42-001  |
+| p906      | Hashimoto features, HLA, Hurthle cells, germinal centers, MALT lymphoma   | MED-C42-014  |
+| p907      | Slowing, TSH-driven GAG deposition, Hoffman syndrome, complications       | MED-C42-026  |
+| p908      | Autoantibody workup, TSH cut-offs, L-thyroxine dosing (<60 vs elderly)    | MED-C42-039  |
+| p909      | Empty stomach rules, follow-up, myxedema coma protocol, SREAT             | MED-C42-051  |
+| p910      | Thyrotoxicosis classification, Graves demographics, Wolff-Chaikoff & Jod  | MED-C43-001  |
+| p911      | TRAb triad (eye, dermopathy, acropachy), apathetic, periodic paralysis    | MED-C43-013  |
+| p912      | Scintigraphy grid, IM SLOW, 40/40/20, eye signs (Von Graefe, Möbius)      | MED-C43-025  |
+| p913      | Thionamide equivalents, PTU pregnancy, rash/agranulocytosis, RAI, surgery | MED-C43-037  |
+| p914      | Thyrotoxic crisis 4-drug protocol, acute piriform, de Quervain, Riedel    | MED-C43-050  |
+| p915      | Subacute release mechanism, triphasic graph, postpartum comparison        | MED-C43-062  |
+| p916      | Amiodarone Type I vs Type II, Subacute vs Graves vs Toxic MNG grid        | MED-C43-074  |
 | p917      | Three diagnostic pillars (FPG, 2-h PG, HbA1c); pre-diabetes ranges        | MED-C44-001  |
 | p918      | Ominous octet; hepatic gluconeogenesis primary defect                    | MED-C44-014  |
 | p919      | Classification; MODY 2 vs MODY 3                                         | MED-C44-027  |

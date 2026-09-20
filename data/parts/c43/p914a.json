@@ -1,150 +1,150 @@
 {
  "page": 914,
- "sec": "Thyroiditis classification",
+ "sec": "Thyroid Storm Protocol & Acute, Subacute, Chronic Thyroiditis",
  "items": [
   {
    "fmt": "match",
-   "q": "Match the following thyroiditis to its feature — 1) Hashimoto 2) Subacute (de Quervain) 3) Postpartum 4) Acute suppurative … A) Painless firm goitre with anti-TPO B) Painful tender thyroid with raised ESR C) Within 12 months of delivery D) Bacterial, painful, requires drainage",
+   "q": "Match the clinical features of thyrotoxic crisis (thyroid storm) — 1) Predisposing factors 2) Presenting features … A) Inadequate treatment before radiotherapy, surgery, acute illness B) Arrhythmia, fever with delirium, seizures",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-B, 3-A, 4-C"
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
    ],
    "ans": 0,
-   "exp": "Hashimoto presents with painless firm goitre and high anti-TPO; subacute thyroiditis is painful with raised ESR; postpartum thyroiditis occurs within 12 months of delivery; acute suppurative thyroiditis is bacterial and needs drainage. (Book p914)"
+   "exp": "Predisposing factors: inadequate treatment before radiotherapy, surgery, illness; Presenting features: arrhythmia, fever with delirium, seizure. (Book p914)"
   },
   {
-   "fmt": "scenario",
-   "q": "A 28-year-old woman 5 months postpartum has painless thyroid enlargement with suppressed TSH and raised anti-TPO. The most likely diagnosis is:",
+   "fmt": "management",
+   "q": "What is the specific dosing regimen of Propylthiouracil (PTU) in the management of thyrotoxic crisis on page 914?",
    "opts": [
-    "Postpartum thyroiditis",
-    "Graves disease",
-    "Subacute thyroiditis",
-    "Iodine deficiency"
+    "1000 mg stat loading dose, followed by 250 mg Q4H",
+    "100 mg stat, followed by 50 mg TDS",
+    "500 mg BD with meals",
+    "2000 mg as a single daily dose"
    ],
    "ans": 0,
-   "exp": "Painless thyroid dysfunction within 12 months of delivery with positive anti-TPO fits postpartum thyroiditis. (Book p914)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess postpartum thyroiditis: I It typically follows a thyrotoxic then hypothyroid course. II It is usually self-limiting.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Postpartum thyroiditis often biphasic (toxic → hypo) and resolves within 12–18 months; some patients progress to permanent hypothyroidism. (Book p914)"
-  },
-  {
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a feature distinguishing subacute thyroiditis from Graves?",
-   "opts": [
-    "Tender painful thyroid",
-    "Painless diffuse goitre with bruit",
-    "Markedly raised ESR",
-    "Low uptake on scan (alternative)"
-   ],
-   "ans": 0,
-   "exp": "Painless diffuse goitre with bruit is Graves; tenderness, very high ESR and low uptake are subacute thyroiditis. (Book p914)"
+   "exp": "Under thyrotoxic crisis management: 'Propylthiouracil : 1000mg stat -> 250mg Q4H'. (Book p914)"
   },
   {
    "fmt": "fillup",
-   "q": "The classic viral prodrome and painful thyroid of subacute thyroiditis is treated symptomatically with ___.",
+   "q": "In thyrotoxic crisis management, oral iodine is administered as ___ (500 mg BD) to exploit the ___ effect.",
    "opts": [
-    "NSAIDs and beta-blocker",
-    "Antithyroid drugs",
-    "Radioiodine (alternative)",
-    "Total thyroidectomy"
+    "Iopanoic acid; Wolff-Chaikoff",
+    "Lugol's iodine; Jod-Basedow",
+    "Potassium iodide; escape",
+    "Radioactive I-131; ablative"
    ],
    "ans": 0,
-   "exp": "Subacute thyroiditis is treated with NSAIDs for pain and beta-blocker for thyrotoxic symptoms; thionamides are not effective. (Book p914)"
+   "exp": "Under management: 'Oral iodine : Iopanoic acid 500mg BD (Wolff-Chaikoff effect)'. (Book p914)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the propranolol dose specified for thyrotoxic crisis on page 914?",
+   "opts": [
+    "60 mg Q4H",
+    "40 mg Q6H",
+    "10 mg Q8H",
+    "80 mg once daily"
+   ],
+   "ans": 0,
+   "exp": "For thyrotoxic crisis, propranolol is dosed at '60mg Q4H' (compared to 40 mg Q6H in routine thyrotoxicosis). (Book p914)"
   },
   {
    "fmt": "match",
-   "q": "Match the following thyroiditis to its uptake scan — 1) Hashimoto 2) Subacute 3) Postpartum 4) Acute suppurative … A) Variable B) Low uptake C) Low uptake D) Low uptake (cold abscess)",
+   "q": "Match the etiology of acute thyroiditis to its clinical features — 1) Post-infection 2) Non-infectious acute causes … A) Children, follows staph/strep, pyriform sinus site, normal TFT, pain B) Radiation induced, trauma induced",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-D, 4-B",
-    "1-B, 2-A, 3-C, 4-D"
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
    ],
    "ans": 0,
-   "exp": "Hashimoto uptake is variable; subacute, postpartum and acute suppurative thyroiditis all show low uptake due to glandular destruction. (Book p914)"
+   "exp": "Acute thyroiditis branches into: Post-infection (children, follows staph/strep, site: piriform sinus, TFT normal, pain), Radiation induced, and Trauma induced. (Book p914)"
   },
   {
    "fmt": "scenario",
-   "q": "A 35-year-old has neck pain, fever 38.5 °C and a tender thyroid with ESR 90 mm/h one week after a viral URI. The most consistent diagnosis is:",
+   "q": "An 8-year-old child presents with sudden severe anterior neck tenderness and fever following streptococcal pharyngitis. TFTs are completely normal. Scintigraphy reveals an infected tract originating from the piriform sinus. What is the diagnosis?",
    "opts": [
-    "Subacute (de Quervain) thyroiditis",
-    "Graves disease (alternative)",
+    "Acute post-infection thyroiditis",
+    "Subacute de Quervain thyroiditis",
+    "Riedel's chronic thyroiditis",
+    "Graves thyrotoxic crisis"
+   ],
+   "ans": 0,
+   "exp": "Acute post-infection thyroiditis occurs in children, follows staph/strep, arises from a piriform sinus fistula, presents with pain, and has normal TFTs. (Book p914)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess acute thyroiditis: I Thyroid function tests (TFT) are characteristically normal. II Local pain is the primary presenting symptom.",
+   "opts": [
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
+   ],
+   "ans": 0,
+   "exp": "For Acute Thyroiditis: 'TFT : Normal' and 'Symptom : Pain'. (Book p914)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the synonymous names for Subacute Thyroiditis — 1) Eponymous designation 2) Pathological designation 3) Viral relationship … A) De Quervain's thyroiditis B) Granulomatous thyroiditis C) Post-viral (with no direct viral association established)",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Under Subacute Thyroiditis: 'De Quervain's/Subacute thyroiditis : AKA Granulomatous/viral thyroiditis. Post-viral (no viral association)'. (Book p914)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which HLA allele is strongly associated with subacute (de Quervain's) thyroiditis on page 914?",
+   "opts": [
+    "HLA-B35",
+    "HLA-DR2",
+    "HLA-B8",
+    "HLA-B27"
+   ],
+   "ans": 0,
+   "exp": "Under Subacute Thyroiditis Features: 'HLA : B-35'. (Book p914)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "On radionuclide scintigraphy, subacute (de Quervain's) thyroiditis characteristically shows ___ uptake.",
+   "opts": [
+    "No uptake (absent uptake)",
+    "Intense diffuse uptake (75-80%)",
+    "Solitary 'hot' nodule uptake",
+    "Patchy hyperfunctioning uptake"
+   ],
+   "ans": 0,
+   "exp": "Features of subacute thyroiditis: 'No uptake in Scintigraphy', also depicted in the scan image 'Subacute thyroiditis : No uptake in scintigraphy'. (Book p914)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 52-year-old man presents with a stony hard, painless neck mass with dense fibrous tissue infiltrating adjacent soft tissues. Serology reveals elevated IgG4 levels. What is the diagnosis?",
+   "opts": [
+    "Riedel's thyroiditis (IgG4-related disease)",
+    "Subacute granulomatous thyroiditis",
     "Acute suppurative thyroiditis",
-    "Riedel thyroiditis (alternative)"
+    "Anaplastic thyroid carcinoma"
    ],
    "ans": 0,
-   "exp": "Painful tender thyroid with high ESR after a viral illness fits subacute (de Quervain) thyroiditis. (Book p914)"
+   "exp": "Chronic Thyroiditis includes Riedel's thyroiditis: 'AKA IgG4-related disease, Painless hard thyroid, Dense fibrosis'. (Book p914)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess thyroiditis treatment: I Antithyroid drugs are first-line for subacute thyroiditis. II NSAIDs are effective for the pain of subacute thyroiditis.",
+   "q": "Assess Riedel's thyroiditis on page 914: I It is recognized as an IgG4-related disease. II The physical hallmark is a painless, hard thyroid with dense fibrosis.",
    "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "NSAIDs (and corticosteroids in severe cases) manage pain; thionamides are not effective because hormone is released, not synthesised. (Book p914)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following thyroiditis to the preferred treatment — 1) Subacute 2) Postpartum 3) Acute suppurative 4) Hashimoto with hypothyroidism … A) NSAIDs + beta-blocker B) Beta-blocker ± levothyroxine C) IV antibiotics + drainage D) Levothyroxine replacement",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-B, 2-C, 3-A, 4-D"
-   ],
-   "ans": 0,
-   "exp": "Subacute thyroiditis uses NSAIDs and beta-blocker; postpartum thyroiditis is supportive with beta-blocker and levothyroxine in the hypothyroid phase; acute suppurative thyroiditis needs IV antibiotics and drainage; hypothyroid Hashimoto needs levothyroxine. (Book p914)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A patient has fever, severe neck pain and fluctuant thyroid swelling with overlying erythema. The most appropriate next step is:",
-   "opts": [
-    "IV antibiotics and surgical drainage",
-    "Oral NSAIDs only (alternative)",
-    "Thionamide therapy (alternative)",
-    "Radioiodine ablation"
-   ],
-   "ans": 0,
-   "exp": "Acute suppurative thyroiditis is a surgical infection requiring IV antibiotics and drainage. (Book p914)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "Postpartum thyroiditis occurs within ___ months of delivery.",
-   "opts": [
-    "At 12 weeks gestation",
-    "1 (alternative)",
-    "24",
-    "48"
-   ],
-   "ans": 0,
-   "exp": "Postpartum thyroiditis is defined within 12 months of delivery, often biphasic with recovery over 12–18 months. (Book p914)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess thyroiditis associations: I Subacute thyroiditis may follow mumps, measles or coxsackievirus. II Painless thyroiditis is typically postpartum.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Subacute thyroiditis is associated with viral infections; painless thyroiditis typically refers to postpartum and silent variants. (Book p914)"
+   "exp": "Riedel's thyroiditis: AKA IgG4-related disease, Painless hard thyroid, Dense fibrosis. (Book p914)"
   }
  ]
 }

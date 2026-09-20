@@ -5,948 +5,948 @@
  "questions": [
   {
    "id": "MED-C42-001",
-   "sec": "Causes of hypothyroidism and clinical features",
+   "sec": "Primary, Secondary, Consumptive & Congenital Hypothyroidism",
    "page": 905,
-   "fmt": "match",
-   "q": "Match the following causes of hypothyroidism to the source's grouping — 1) Iatrogenic 2) Drug-induced 3) Iodine-related 4) Autoimmune/other … A) Post-thyroidectomy / post-radioiodine B) Lithium, amiodarone, interferon-α, immune checkpoint inhibitors C) Iodine deficiency / excess D) Hashimoto thyroiditis, infiltrative disease",
+   "fmt": "recall",
+   "q": "What is the most common (m/c) cause of primary hypothyroidism on page 905?",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-B, 3-C, 4-A"
+    "Autoimmune hypothyroidism (AKA Hashimoto thyroiditis)",
+    "Iatrogenic radioiodine ablation",
+    "Severe endemic dietary iodine deficiency",
+    "Lithium-induced thyroiditis"
    ],
    "ans": 0,
-   "exp": "The page clusters iatrogenic (post-surgery, post-RAI), drugs (lithium, amiodarone, IFN-α, ICIs), iodine (deficiency or excess), and autoimmune/other causes (Hashimoto, infiltrative). (Book p905)"
+   "exp": "Under Primary Hypothyroidism: '1. Autoimmune hypothyroidism (m/c) AKA Hashimoto thyroiditis'. (Book p905)"
   },
   {
    "id": "MED-C42-002",
-   "sec": "Causes of hypothyroidism and clinical features",
+   "sec": "Primary, Secondary, Consumptive & Congenital Hypothyroidism",
    "page": 905,
-   "fmt": "scenario",
-   "q": "A bipolar patient on lithium develops overt hypothyroidism one year after starting therapy. Which mechanism best fits the source?",
+   "fmt": "fillup",
+   "q": "Autoimmune hypothyroidism is associated with Autoimmune Polyendocrine Syndromes (APS); clinicians should specifically check for ___ before initiating treatment.",
    "opts": [
-    "Lithium causes peripheral T3 resistance",
-    "Lithium inhibits thyroid hormone release",
-    "Lithium enhances TPO activity",
-    "Lithium increases TSH receptor antibody binding"
+    "Pendred syndrome",
+    "APS-2 (Autoimmune polyendocrine syndrome type 2)",
+    "APS-1 (Autoimmune polyendocrine syndrome type 1)",
+    "Multiple Endocrine Neoplasia type 1 (MEN-1)"
    ],
    "ans": 1,
-   "exp": "Lithium inhibits thyroid-hormone release and can also cause goitre; the page lists it under drug-induced hypothyroidism. (Book p905)"
+   "exp": "Autoimmune hypothyroidism is associated with APS-1/2; clinicians 'Should check for APS2 before treatment'. (Book p905)"
   },
   {
    "id": "MED-C42-003",
-   "sec": "Causes of hypothyroidism and clinical features",
+   "sec": "Primary, Secondary, Consumptive & Congenital Hypothyroidism",
    "page": 905,
-   "fmt": "truefalse",
-   "q": "Assess these drug-induced statements: I Interferon-α can cause irreversible hypothyroidism. II Amiodarone causes hypothyroidism only via the Wolff-Chaikoff effect.",
+   "fmt": "scenario",
+   "q": "A patient with undetected coexisting adrenal insufficiency (APS-2) is prescribed L-thyroxine without prior cortisol supplementation. What acute consequence is cautioned on page 905?",
    "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
+    "Adrenal insufficiency: shock in children, profound adrenal insufficiency in adults",
+    "Sudden thyrotoxic crisis with hyperpyrexia and delirium",
+    "Acute hypocalcemic tetany from suppressed parathyroid reserve",
+    "Severe hypertensive emergency with encephalopathy"
    ],
    "ans": 0,
-   "exp": "IFN-α's thyroid effects are usually reversible after stopping; amiodarone causes hypothyroidism by multiple mechanisms, not only Wolff-Chaikoff. (Book p905)"
+   "exp": "If L-thyroxine is given without cortisol supplementation in APS-2, it precipitates adrenal insufficiency: shock in children, and profound adrenal insufficiency in adults. (Book p905)"
   },
   {
    "id": "MED-C42-004",
-   "sec": "Causes of hypothyroidism and clinical features",
+   "sec": "Primary, Secondary, Consumptive & Congenital Hypothyroidism",
    "page": 905,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a drug not on the source's hypothyroid list?",
+   "fmt": "match",
+   "q": "Match the pharmacologic agent causing hypothyroidism to its specific clinical characteristic — 1) Lithium 2) Interferon-alpha (IFN-α) 3) Amiodarone … A) Associated with nephrogenic diabetes insipidus (DI) B) Drug-associated thyroid destruction (irreversible side effect) C) Can produce both hypothyroidism and hyperthyroidism",
    "opts": [
-    "Amiodarone",
-    "Interferon-α",
-    "Propranolol",
-    "Lithium"
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C"
    ],
    "ans": 2,
-   "exp": "Lithium, amiodarone and IFN-α are listed as causes of hypothyroidism; propranolol only treats thyrotoxic symptoms. (Book p905)"
+   "exp": "Lithium causes hypothyroidism and nephrogenic DI; IFN-α causes irreversible thyroid destruction; amiodarone can produce both hypothyroidism and hyperthyroidism. (Book p905)"
   },
   {
    "id": "MED-C42-005",
-   "sec": "Causes of hypothyroidism and clinical features",
+   "sec": "Primary, Secondary, Consumptive & Congenital Hypothyroidism",
    "page": 905,
-   "fmt": "fillup",
-   "q": "The single most common worldwide cause of hypothyroidism on this page is ___.",
+   "fmt": "truefalse",
+   "q": "Regarding side effects of interferon-alpha (IFN-α): I Thyroid destruction is an irreversible side effect. II Flu-like syndrome is a reversible side effect.",
    "opts": [
-    "Postpartum thyroiditis",
-    "Iodine deficiency",
-    "Hashimoto thyroiditis",
-    "Lithium therapy"
+    "Both I and II are false",
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true"
    ],
    "ans": 1,
-   "exp": "Iodine deficiency is the global leader; in iodine-replete countries Hashimoto dominates. The page explicitly calls out iodine deficiency first. (Book p905)"
+   "exp": "Page 905 notes for IFN-α: 'Irreversible S/E: thyroid destruction' and 'Reversible S/E : Flu like syndrome'. (Book p905)"
   },
   {
    "id": "MED-C42-006",
-   "sec": "Causes of hypothyroidism and clinical features",
+   "sec": "Primary, Secondary, Consumptive & Congenital Hypothyroidism",
    "page": 905,
-   "fmt": "match",
-   "q": "Match the following endocrine disorder to its expected thyroid phenotype on the page — 1) Bipolar disorder on lithium 2) Patient receiving IFN-α for hepatitis C 3) Patient receiving amiodarone 4) Newborn in iodine-deficient region … A) Acquired hypothyroidism B) Often reversible thyroiditis C) Can cause hypo- or hyperthyroidism (Type 1 vs 2) D) Endemic cretinism",
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed under causes of primary hypothyroidism on page 905?",
    "opts": [
-    "1-A, 2-C, 3-B, 4-D",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-B, 3-A, 4-D"
+    "Lithium and interferon-alpha therapy",
+    "Iodine deficiency and post-surgical state",
+    "Pituitary mass effect from lymphocytic hypophysitis",
+    "Autoimmune Hashimoto thyroiditis"
    ],
    "ans": 2,
-   "exp": "Lithium causes acquired hypothyroidism; IFN-α usually produces reversible thyroiditis; amiodarone can produce either Type 1 or Type 2 patterns; severe iodine deficiency causes endemic cretinism. (Book p905)"
+   "exp": "Pituitary mass effect is a cause of secondary hypothyroidism, not primary hypothyroidism. (Book p905)"
   },
   {
    "id": "MED-C42-007",
-   "sec": "Causes of hypothyroidism and clinical features",
+   "sec": "Primary, Secondary, Consumptive & Congenital Hypothyroidism",
    "page": 905,
-   "fmt": "scenario",
-   "q": "A patient on amiodarone develops overt hypothyroidism; uptake scan shows high iodine uptake with elevated IL-6. Which amiodarone type is most consistent?",
+   "fmt": "recall",
+   "q": "In secondary hypothyroidism due to a pituitary mass effect, what is the most common (m/c) underlying etiology listed?",
    "opts": [
-    "Type 2 (destructive thyroiditis)",
-    "Type 1 (iodine-induced hyperthyroidism)",
-    "Wolff-Chaikoff escape (alternative)",
-    "Plummer disease (alternative)"
+    "Lymphocytic hypophysitis",
+    "Craniopharyngioma",
+    "Pituitary apoplexy (Sheehan syndrome)",
+    "Infiltrative sarcoidosis"
    ],
    "ans": 0,
-   "exp": "Type 2 amiodarone thyrotoxicosis is destructive thyroiditis with low uptake and high IL-6; hypothyroidism with high uptake and raised IL-6 sits in the destructive pattern. (Book p905)"
+   "exp": "Under Secondary Hypothyroidism: 'Pituitary cause : No significant hypothyroidism; Primary Cause - MASS effect - (m/c) Lymphocytic hypophysitis'. (Book p905)"
   },
   {
    "id": "MED-C42-008",
-   "sec": "Causes of hypothyroidism and clinical features",
+   "sec": "Primary, Secondary, Consumptive & Congenital Hypothyroidism",
    "page": 905,
    "fmt": "truefalse",
-   "q": "Assess amiodarone: I It can produce both hypothyroidism and thyrotoxicosis. II Type 1 is a destructive thyroiditis.",
+   "q": "Assess secondary hypothyroidism from pituitary disease: I It characteristically causes severe, profound isolated hypothyroidism. II Its primary mechanism is mass effect, most commonly from lymphocytic hypophysitis.",
    "opts": [
-    "I false; II true",
-    "Both false",
-    "I true; II false",
-    "Both true"
+    "I is true; II is false",
+    "Both I and II are false",
+    "I is false; II is true",
+    "Both I and II are true"
    ],
    "ans": 2,
-   "exp": "Amiodarone causes both hypothyroidism and thyrotoxicosis; Type 1 is iodine-induced hyperthyroidism, Type 2 is destructive thyroiditis. (Book p905)"
+   "exp": "Page 905 states: 'No significant hypothyroidism' for pituitary cause, and its primary cause is mass effect, most commonly lymphocytic hypophysitis. (Book p905)"
   },
   {
    "id": "MED-C42-009",
-   "sec": "Causes of hypothyroidism and clinical features",
+   "sec": "Primary, Secondary, Consumptive & Congenital Hypothyroidism",
    "page": 905,
-   "fmt": "match",
-   "q": "Match the following clinical feature of hypothyroidism to its system — 1) Cold intolerance, weight gain 2) Bradycardia, pericardial effusion 3) Menorrhagia, galactorrhoea 4) Carpal tunnel syndrome … A) Constitutional B) Cardiovascular C) Reproductive D) Musculoskeletal / neurological",
+   "fmt": "scenario",
+   "q": "A 2-month-old infant with a large hepatic hemangioma develops profound hypothyroidism requiring massive doses of levothyroxine. What is the mechanism of this consumptive hypothyroidism?",
    "opts": [
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C"
+    "Suppression of hypothalamic TRH secretion by circulating angiogenin",
+    "Increased deiodinase-III expression in the hemangioma converting active hormone to reverse T3",
+    "Direct destruction of the infant thyroid follicles by hemangioma-derived antibodies",
+    "Failure of intestinal absorption of thyroid hormone due to splanchnic steal"
    ],
    "ans": 1,
-   "exp": "Cold intolerance and weight gain are constitutional; bradycardia and pericardial effusion are cardiovascular; menorrhagia and galactorrhoea are reproductive; carpal tunnel syndrome is musculoskeletal/neurological. (Book p905)"
+   "exp": "Consumptive hypothyroidism in hemangioma is driven by increased deiodinase-III expression leading to decreased active hormones and increased reverse T3. (Book p905)"
   },
   {
    "id": "MED-C42-010",
-   "sec": "Causes of hypothyroidism and clinical features",
+   "sec": "Primary, Secondary, Consumptive & Congenital Hypothyroidism",
    "page": 905,
-   "fmt": "scenario",
-   "q": "A 45-year-old woman presents with weight gain, cold intolerance and menorrhagia. The least likely coexisting finding on this page is:",
+   "fmt": "fillup",
+   "q": "Consumptive hypothyroidism associated with hemangioma is mediated by increased expression of ___, which accelerates the formation of ___.",
    "opts": [
-    "Hypercholesterolaemia",
-    "Exophthalmos (correct answer)",
-    "Carpal tunnel syndrome",
-    "Bradycardia (alternative)"
+    "Thyroid peroxidase; thyroglobulin",
+    "Deiodinase-III; reverse T3",
+    "Deiodinase-II; active T3",
+    "Deiodinase-I; free T4"
    ],
    "ans": 1,
-   "exp": "Exophthalmos is a feature of Graves thyrotoxicosis, not hypothyroidism; carpal tunnel, bradycardia and hypercholesterolaemia all appear in the hypothyroid features list. (Book p905)"
+   "exp": "Hemangioma -> ↑ Deiodinase-III expression -> ↓ Hormones (↑ formation of Reverse T3). (Book p905)"
   },
   {
    "id": "MED-C42-011",
-   "sec": "Causes of hypothyroidism and clinical features",
+   "sec": "Primary, Secondary, Consumptive & Congenital Hypothyroidism",
    "page": 905,
-   "fmt": "fillup",
-   "q": "On the source's clinical-feature diagram, the least common but most pathognomonic neuropsychiatric feature of severe hypothyroidism is ___.",
+   "fmt": "recall",
+   "q": "What is the primary underlying cause of congenital hypothyroidism on page 905?",
    "opts": [
-    "Slow relaxation of reflexes",
-    "Hashimoto encephalopathy",
-    "Carpal tunnel syndrome",
-    "Depressive mood"
+    "Pituitary aplasia",
+    "Thyroid dysgenesis",
+    "Maternal anti-TPO transplacental passage",
+    "Inborn error of iodine organification"
    ],
    "ans": 1,
-   "exp": "Hashimoto encephalopathy is the rare but pathognomonic CNS complication; the other items are common but not pathognomonic. (Book p905)"
+   "exp": "Under Congenital Hypothyroidism: 'mostly due to thyroid dysgenesis'. (Book p905)"
   },
   {
    "id": "MED-C42-012",
-   "sec": "Causes of hypothyroidism and clinical features",
+   "sec": "Primary, Secondary, Consumptive & Congenital Hypothyroidism",
    "page": 905,
-   "fmt": "truefalse",
-   "q": "Evaluate hypothyroidism clinical features: I Pleural and pericardial effusions occur. II Obstructive sleep apnoea is associated.",
-   "opts": [
-    "I true; II false",
-    "I false; II true",
-    "Both false",
-    "Both true"
-   ],
-   "ans": 3,
-   "exp": "The page lists pleural and pericardial effusions plus obstructive sleep apnoea among hypothyroid features. (Book p905)"
-  },
-  {
-   "id": "MED-C42-013",
-   "sec": "Causes of hypothyroidism and clinical features",
-   "page": 905,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out among causes of primary hypothyroidism listed on the page?",
-   "opts": [
-    "Hashimoto thyroiditis (alternative)",
-    "Post-thyroidectomy state (alternative)",
-    "Secondary hypothyroidism from pituitary disease",
-    "Iodine deficiency (alternative)"
-   ],
-   "ans": 2,
-   "exp": "Secondary (central) hypothyroidism is not a primary thyroid failure and is grouped separately; the other three are primary gland failure. (Book p905)"
-  },
-  {
-   "id": "MED-C42-014",
-   "sec": "Hashimoto thyroiditis and subclinical hypothyroidism",
-   "page": 906,
    "fmt": "match",
-   "q": "Match the following Hashimoto features to the source's annotation — 1) Pathology 2) Most affected demographic 3) Typical antibody 4) Standard Rx in adult … A) Lymphocytic infiltrate with germinal centres and Hürthle cells B) Middle-aged women C) Anti-TPO (and anti-thyroglobulin) D) Levothyroxine replacement",
+   "q": "Match the newborn physical sign of congenital hypothyroidism to its system — 1) Cranial sign 2) Gastrointestinal sign 3) Hepatic sign … A) Open posterior fontanelle B) Delay in passing meconium C) Prolonged physiological jaundice",
    "opts": [
-    "1-A, 2-D, 3-B, 4-C",
-    "1-D, 2-A, 3-C, 4-B",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-B, 3-A, 4-D"
-   ],
-   "ans": 2,
-   "exp": "The page describes lymphocytic infiltrates with Hürthle cells, predominance in middle-aged women, anti-TPO as the marker, and levothyroxine replacement. (Book p906)"
-  },
-  {
-   "id": "MED-C42-015",
-   "sec": "Hashimoto thyroiditis and subclinical hypothyroidism",
-   "page": 906,
-   "fmt": "scenario",
-   "q": "A 38-year-old woman has a firm rubbery goitre with anti-TPO antibody titres of 800 IU/mL and subclinical hypothyroidism. Which diagnosis fits?",
-   "opts": [
-    "Subacute (de Quervain) thyroiditis",
-    "Riedel thyroiditis (alternative)",
-    "Hashimoto thyroiditis",
-    "Graves disease (alternative)"
-   ],
-   "ans": 2,
-   "exp": "High anti-TPO with goitre in a middle-aged woman fits Hashimoto; Graves would have TSH-receptor antibodies and ophthalmopathy. (Book p906)"
-  },
-  {
-   "id": "MED-C42-016",
-   "sec": "Hashimoto thyroiditis and subclinical hypothyroidism",
-   "page": 906,
-   "fmt": "truefalse",
-   "q": "Evaluate these Hashimoto facts: I Anti-TPO is the most sensitive antibody. II Hashimoto is the most common cause of hypothyroidism in iodine-replete regions.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Anti-TPO is highlighted as the sensitive marker, and the page notes Hashimoto as the leading cause of hypothyroidism where iodine intake is adequate. (Book p906)"
-  },
-  {
-   "id": "MED-C42-017",
-   "sec": "Hashimoto thyroiditis and subclinical hypothyroidism",
-   "page": 906,
-   "fmt": "fillup",
-   "q": "Histologically, the lymphoid infiltrate with germinal centres in Hashimoto is accompanied by ___ cells.",
-   "opts": [
-    "Reed-Sternberg cells",
-    "Signet-ring cells",
-    "Hürthle (Askanazy) cells",
-    "Anitschkow cells"
-   ],
-   "ans": 2,
-   "exp": "Hürthle (Askanazy) cells are the oxyphilic change characteristic of Hashimoto. (Book p906)"
-  },
-  {
-   "id": "MED-C42-018",
-   "sec": "Hashimoto thyroiditis and subclinical hypothyroidism",
-   "page": 906,
-   "fmt": "match",
-   "q": "Match the following antibody to the source's typical association — 1) Anti-TPO 2) Anti-thyroglobulin 3) TSH-receptor antibody … A) Hashimoto thyroiditis B) Hashimoto thyroiditis (less specific) C) Graves disease",
-   "opts": [
-    "1-C, 2-A, 3-B",
-    "1-A, 2-C, 3-B",
     "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
     "1-A, 2-B, 3-C"
    ],
    "ans": 3,
-   "exp": "Anti-TPO is the sensitive marker for Hashimoto; anti-thyroglobulin is also seen but is less specific; TSH-receptor antibodies point to Graves. (Book p906)"
+   "exp": "Features of congenital hypothyroidism listed on page 905 are: open posterior fontanelle, delay in passing meconium, and prolonged physiological jaundice. (Book p905)"
+  },
+  {
+   "id": "MED-C42-013",
+   "sec": "Primary, Secondary, Consumptive & Congenital Hypothyroidism",
+   "page": 905,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed on page 905 as a feature of congenital hypothyroidism?",
+   "opts": [
+    "Delay in passing meconium and prolonged physiological jaundice",
+    "Very little crying and excessive sleep",
+    "Continuous high-pitched crying and hyperalertness",
+    "Open posterior fontanelle"
+   ],
+   "ans": 2,
+   "exp": "Features of congenital hypothyroidism are open posterior fontanelle, delay in passing meconium, prolonged physiological jaundice, very little crying, and excessive sleep. (Book p905)"
+  },
+  {
+   "id": "MED-C42-014",
+   "sec": "Hashimoto Features, Histology & Associated Malignancy",
+   "page": 906,
+   "fmt": "recall",
+   "q": "In which demographic group is Hashimoto's thyroiditis most common?",
+   "opts": [
+    "Adolescent male",
+    "Infant female",
+    "Middle-aged female",
+    "Elderly male"
+   ],
+   "ans": 2,
+   "exp": "Under Hashimoto's Thyroiditis FEATURES: 'most common in middle-aged female'. (Book p906)"
+  },
+  {
+   "id": "MED-C42-015",
+   "sec": "Hashimoto Features, Histology & Associated Malignancy",
+   "page": 906,
+   "fmt": "match",
+   "q": "Match the immunogenetic associations of Hashimoto's thyroiditis — 1) HLA alleles 2) Immune checkpoint polymorphisms … A) HLA-DR3, DR4, DR5 (can be ANA positive) B) CTLA-4 and PTPN-22 polymorphisms",
+   "opts": [
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-A, 2-B",
+    "1-B, 2-A"
+   ],
+   "ans": 2,
+   "exp": "HLA associations are DR-3 / DR-4 / DR5 (can be ANA +ve); non-HLA gene polymorphisms are CTLA-4 / PTPN-22. (Book p906)"
+  },
+  {
+   "id": "MED-C42-016",
+   "sec": "Hashimoto Features, Histology & Associated Malignancy",
+   "page": 906,
+   "fmt": "truefalse",
+   "q": "Assess gland changes in Hashimoto's thyroiditis: I The thyroid gland is commonly not enlarged. II When goitre is present, it is characteristically an irregular, firm, heterogeneous, non-tender enlargement.",
+   "opts": [
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
+   ],
+   "ans": 0,
+   "exp": "Gland changes: 'Commonly not enlarged' and 'If goitre present : Irregular/ firm/ heterogeneous non tender enlargement of gland'. (Book p906)"
+  },
+  {
+   "id": "MED-C42-017",
+   "sec": "Hashimoto Features, Histology & Associated Malignancy",
+   "page": 906,
+   "fmt": "scenario",
+   "q": "On gross examination of a resected thyroid from a middle-aged woman with autoimmune hypothyroidism, the gland appears fibrosed, pale, and firm. What accounts for the pale appearance?",
+   "opts": [
+    "Extensive acute bacterial suppuration",
+    "Diffuse fatty infiltration of stromal tissue",
+    "Dense lymphoid infiltration",
+    "Massive accumulation of colloid lakes"
+   ],
+   "ans": 2,
+   "exp": "Under Gross appearance: 'Fibrosed gland' and 'Pale gland d/t lymphoid infiltration'. (Book p906)"
+  },
+  {
+   "id": "MED-C42-018",
+   "sec": "Hashimoto Features, Histology & Associated Malignancy",
+   "page": 906,
+   "fmt": "fillup",
+   "q": "On microscopic examination of Hashimoto's thyroiditis, the prominent lymphocytic infiltration characteristically organizes into ___ formation.",
+   "opts": [
+    "Caseating granuloma",
+    "Psammoma body",
+    "Papillary vascular core",
+    "Germinal center"
+   ],
+   "ans": 3,
+   "exp": "Microscopic appearance: 'Lymphocytic infiltration -> Germinal center formation'. (Book p906)"
   },
   {
    "id": "MED-C42-019",
-   "sec": "Hashimoto thyroiditis and subclinical hypothyroidism",
+   "sec": "Hashimoto Features, Histology & Associated Malignancy",
    "page": 906,
-   "fmt": "scenario",
-   "q": "A Hashimoto patient with TSH 5.4 mIU/L and normal free T4 is asymptomatic. The most consistent management is:",
+   "fmt": "recall",
+   "q": "What are the transformed, hypereosinophilic epithelial cells with abundant granular cytoplasm seen in Hashimoto's thyroiditis called?",
    "opts": [
-    "Observe and recheck in 6–12 months",
-    "Start levothyroxine immediately",
-    "Start methimazole (alternative)",
-    "Refer for total thyroidectomy"
+    "Hürthle cells (oxyphilic metaplasia)",
+    "Parafollicular C cells",
+    "Orphan Annie cells",
+    "Askanazy giant multinucleated cells"
    ],
    "ans": 0,
-   "exp": "Mild subclinical hypothyroidism without symptoms and free T4 normal is monitored; treatment thresholds depend on TSH level and antibodies. (Book p906)"
+   "exp": "Page 906 notes: 'Hypereosinophilic cells : Hürthle cells' and 'Oxyphilic metaplasia'. (Book p906)"
   },
   {
    "id": "MED-C42-020",
-   "sec": "Hashimoto thyroiditis and subclinical hypothyroidism",
+   "sec": "Hashimoto Features, Histology & Associated Malignancy",
    "page": 906,
    "fmt": "truefalse",
-   "q": "Assess subclinical hypothyroidism: I It is defined by raised TSH with normal free T4. II Treatment threshold is the same for every adult patient.",
+   "q": "Regarding the microscopic findings in Hashimoto's thyroiditis: I The follicular lumen characteristically shows an absence of colloid. II Oxyphilic metaplasia with Hürthle cells is a key hallmark.",
    "opts": [
-    "I true; II false",
-    "Both true",
-    "I false; II true",
-    "Both false"
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "Subclinical hypothyroidism is defined by raised TSH with normal free T4, but treatment thresholds vary with age, antibodies, pregnancy and cardiovascular risk. (Book p906)"
+   "exp": "Microscopic hallmarks on page 906 include: 'Absence of colloid' and 'Oxyphilic metaplasia' with Hürthle cells. (Book p906)"
   },
   {
    "id": "MED-C42-021",
-   "sec": "Hashimoto thyroiditis and subclinical hypothyroidism",
+   "sec": "Hashimoto Features, Histology & Associated Malignancy",
    "page": 906,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out among the source's TSH-guided treatment thresholds for subclinical hypothyroidism?",
+   "fmt": "recall",
+   "q": "Which malignancy has the highest associated relative risk in patients with longstanding Hashimoto's thyroiditis?",
    "opts": [
-    "Cardiovascular disease with TSH > 7 mIU/L",
-    "Treat only if TSH > 10 mIU/L regardless of antibodies",
-    "Pregnancy with TSH > 2.5 mIU/L",
-    "Anti-TPO-positive with TSH > 5 mIU/L"
+    "Primary thyroid sarcoma > metastatic melanoma",
+    "Extranodal marginal zone lymphoma > papillary carcinoma thyroid",
+    "Medullary thyroid carcinoma > follicular carcinoma",
+    "Anaplastic thyroid carcinoma > squamoid carcinoma"
    ],
    "ans": 1,
-   "exp": "Universal levothyroxine in pregnancy with TSH > 2.5, antibody-positive patients > 5, and cardiac patients > 7 are individualised thresholds; the 'wait until > 10' rule is an oversimplification. (Book p906)"
+   "exp": "Under Associated malignancy: 'Extranodal marginal zone lymphoma > papillary carcinoma thyroid'. (Book p906)"
   },
   {
    "id": "MED-C42-022",
-   "sec": "Hashimoto thyroiditis and subclinical hypothyroidism",
+   "sec": "Hashimoto Features, Histology & Associated Malignancy",
    "page": 906,
-   "fmt": "fillup",
-   "q": "In pregnancy, the source-stated upper limit for first-trimester TSH is approximately ___ mIU/L.",
+   "fmt": "match",
+   "q": "Match the malignancy associated with Hashimoto's thyroiditis to its relative frequency order — 1) Most strongly associated malignancy 2) Secondary associated thyroid carcinoma … A) Extranodal marginal zone lymphoma B) Papillary carcinoma thyroid",
    "opts": [
-    "7.5",
-    "10.0",
-    "2.5",
-    "5.0"
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-A, 2-B",
+    "1-B, 2-A"
    ],
    "ans": 2,
-   "exp": "Pregnancy-specific TSH targets are stricter; the first-trimester upper limit is approximately 2.5 mIU/L. (Book p906)"
+   "exp": "Associated malignancy hierarchy: Extranodal marginal zone lymphoma is more strongly associated than papillary carcinoma of thyroid. (Book p906)"
   },
   {
    "id": "MED-C42-023",
-   "sec": "Hashimoto thyroiditis and subclinical hypothyroidism",
+   "sec": "Hashimoto Features, Histology & Associated Malignancy",
    "page": 906,
-   "fmt": "match",
-   "q": "Match the following population with the source's treatment approach for subclinical hypothyroidism — 1) Older adult with TSH 6 mIU/L 2) Young symptomatic woman 3) Pregnant with TSH 3.1 mIU/L 4) Hashimoto with TSH 12 mIU/L … A) Often observe B) Treat C) Treat (lower target) D) Treat (high-risk)",
+   "fmt": "fillup",
+   "q": "The cellular and cytokine mediators driving thyroid destruction in Hashimoto's include T-cells (both CD-8 and ___), plasma cells, and the cytokine ___.",
    "opts": [
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-C, 2-B, 3-A, 4-D",
-    "1-A, 2-B, 3-C, 4-D"
+    "CD-20; IL-4",
+    "CD-56; TNF-alpha",
+    "FoxP3; TGF-beta",
+    "CD-4; IFN-gamma"
    ],
    "ans": 3,
-   "exp": "Older adults are often observed; young symptomatic patients are treated; pregnancy targets are stricter; overt-range Hashimoto (TSH > 10) is treated. (Book p906)"
+   "exp": "Pathological mediators: 'T-cell (CD-8, CD-4)', 'IFN-gamma', and 'Plasma cell'. (Book p906)"
   },
   {
    "id": "MED-C42-024",
-   "sec": "Hashimoto thyroiditis and subclinical hypothyroidism",
+   "sec": "Hashimoto Features, Histology & Associated Malignancy",
    "page": 906,
-   "fmt": "scenario",
-   "q": "A pregnant woman in her first trimester has TSH 3.4 mIU/L with positive anti-TPO antibodies. Which intervention is most consistent with the source?",
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed on page 906 as a histological feature or mediator of Hashimoto's thyroiditis?",
    "opts": [
-    "Start methimazole (alternative)",
-    "Total thyroidectomy before delivery",
-    "Start levothyroxine with pregnancy-specific targets",
-    "Observe because TSH < 5 mIU/L"
+    "Lymphocytic infiltration with germinal center formation",
+    "Interferon-gamma (IFN-γ) and T-cell mediators (CD-4, CD-8)",
+    "Abundant colloid retention in dilated follicles",
+    "Hürthle cells (hypereosinophilic cells)"
    ],
    "ans": 2,
-   "exp": "First-trimester TSH should be kept below ~2.5 mIU/L; antibodies and pregnancy warrant levothyroxine replacement. (Book p906)"
+   "exp": "In Hashimoto's, there is characteristically an 'Absence of colloid', not abundant colloid retention. (Book p906)"
   },
   {
    "id": "MED-C42-025",
-   "sec": "Hashimoto thyroiditis and subclinical hypothyroidism",
+   "sec": "Hashimoto Features, Histology & Associated Malignancy",
    "page": 906,
-   "fmt": "recall",
-   "q": "Which antibody is highlighted as the most sensitive serologic marker for Hashimoto thyroiditis?",
+   "fmt": "scenario",
+   "q": "A 50-year-old woman with a 15-year history of Hashimoto's thyroiditis presents with a rapidly enlarging thyroid goiter. Biopsy demonstrates extranodal marginal zone B-cell lymphoma. What is the classic risk hierarchy noted on page 906?",
    "opts": [
-    "Anti-sodium-iodide symporter",
-    "Anti-TPO (correct answer)",
-    "Anti-thyroglobulin",
-    "TSH-receptor antibody"
+    "Follicular thyroid carcinoma > marginal zone lymphoma",
+    "Extranodal marginal zone lymphoma > papillary carcinoma thyroid",
+    "Papillary carcinoma thyroid > follicular carcinoma thyroid",
+    "Medullary thyroid carcinoma > anaplastic thyroid carcinoma"
    ],
    "ans": 1,
-   "exp": "Anti-TPO is the most sensitive marker per the page; anti-thyroglobulin is less sensitive. (Book p906)"
+   "exp": "Page 906 explicitly highlights: 'Associated malignancy : Extranodal marginal zone lymphoma > papillary carcinoma thyroid'. (Book p906)"
   },
   {
    "id": "MED-C42-026",
-   "sec": "Hashimoto thyroiditis and subclinical hypothyroidism",
-   "page": 906,
-   "fmt": "truefalse",
-   "q": "Assess antibody findings: I Anti-thyroglobulin is occasionally positive in healthy adults. II Hashimoto never coexists with Graves disease.",
+   "sec": "Symptoms, Signs, GAG Deposition & Complications",
+   "page": 907,
+   "fmt": "recall",
+   "q": "What is the most common (m/c) presenting symptom of generalized slowing (decreased BMR) in primary and secondary hypothyroidism?",
    "opts": [
-    "Both false",
-    "I true; II false",
-    "Both true",
-    "I false; II true"
+    "Delayed deep tendon reflexes",
+    "Fatigue / tiredness",
+    "Constipation",
+    "Cold intolerance"
    ],
    "ans": 1,
-   "exp": "Anti-thyroglobulin can be present in healthy individuals; rare overlap of Hashimoto and Graves pathology does occur, although uncommon. (Book p906)"
+   "exp": "Under Classical Symptoms: '1. Generalized slowing (↓ BMR) : Fatigue/tiredness (m/c)'. (Book p907)"
   },
   {
    "id": "MED-C42-027",
-   "sec": "Complications and clinical pearls of hypothyroidism",
+   "sec": "Symptoms, Signs, GAG Deposition & Complications",
    "page": 907,
    "fmt": "match",
-   "q": "Match the following complication to its source description — 1) Myxoedema coma 2) Hashimoto encephalopathy 3) Carpal tunnel syndrome 4) Hypocholesterolaemia (printed label, unusual) … A) Decompensated severe hypothyroidism B) Steroid-responsive neuropsychiatric syndrome C) Most common cause in females D) Cardiovascular risk-related feature (page label)",
+   "q": "Match the manifestations of generalized slowing in hypothyroidism — 1) Speech & Gait 2) Bowel movements 3) Neurologic reflexes 4) Body weight … A) Slow speech and slow gait B) Constipation C) Delayed deep tendon reflexes (DTR) D) Poor appetite with weight gain",
    "opts": [
-    "1-B, 2-A, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-A, 3-B, 4-D",
     "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-B, 3-C, 4-A",
     "1-A, 2-B, 3-C, 4-D"
    ],
    "ans": 3,
-   "exp": "Myxoedema coma is decompensated severe hypothyroidism; Hashimoto encephalopathy is a steroid-responsive neuropsychiatric syndrome; CTS is the most common cause in females per the page; hypocholesterolaemia is the page's own label (note: hypothyroid patients typically have hypercholesterolaemia, an inconsistency the source labels as 'hypocholesterolaemia'). (Book p907)"
+   "exp": "Generalized slowing affects: speech/gait (slow), bowel (constipation), reflexes (delayed DTR), and weight (poor appetite with weight gain). (Book p907)"
   },
   {
    "id": "MED-C42-028",
-   "sec": "Complications and clinical pearls of hypothyroidism",
+   "sec": "Symptoms, Signs, GAG Deposition & Complications",
    "page": 907,
-   "fmt": "scenario",
-   "q": "An 80-year-old woman is found hypothermic, bradycardic and obtunded in winter; TSH is markedly elevated. The most consistent diagnosis is:",
+   "fmt": "fillup",
+   "q": "In primary hypothyroidism, elevated TSH stimulates fibroblasts to produce matrix ___, which trap water and cause non-pitting myxedema.",
    "opts": [
-    "Hypothyroid factitia",
-    "Hashimoto encephalopathy",
-    "Sick-euthyroid syndrome",
-    "Myxoedema coma"
+    "Collagen type I fibrils",
+    "Elastin fibers",
+    "Fibronectin lattices",
+    "Glycosaminoglycans (GAGs)"
    ],
    "ans": 3,
-   "exp": "Decompensated severe hypothyroidism with hypothermia and obtundation fits myxoedema coma. (Book p907)"
+   "exp": "In 1° Hypothyroidism: ↑ TSH elevation -> Stimulates Fibroblast -> Stimulates Accumulation of matrix GAG's -> Traps water -> Nonpitting edema. (Book p907)"
   },
   {
    "id": "MED-C42-029",
-   "sec": "Complications and clinical pearls of hypothyroidism",
+   "sec": "Symptoms, Signs, GAG Deposition & Complications",
    "page": 907,
    "fmt": "truefalse",
-   "q": "Assess myxoedema coma: I It carries a high mortality even with treatment. II IV levothyroxine plus glucocorticoids is a typical emergency regimen.",
+   "q": "Assess the clinical consequences of matrix GAG accumulation trapping water in 1° hypothyroidism: I Facial puffiness, periorbital edema, and hoarse voice. II Macroglossia leading to obstructive sleep apnea syndrome.",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "Myxoedema coma has high mortality; empiric IV levothyroxine (often combined with liothyronine) plus stress-dose hydrocortisone is the source's emergency regimen. (Book p907)"
+   "exp": "Trapped water from matrix GAGs causes puffiness (face), periorbital edema, macroglossia -> obstructive sleep apnea syndrome, hoarse voice, and nonpitting edema. (Book p907)"
   },
   {
    "id": "MED-C42-030",
-   "sec": "Complications and clinical pearls of hypothyroidism",
+   "sec": "Symptoms, Signs, GAG Deposition & Complications",
    "page": 907,
    "fmt": "oddoneout",
-   "q": "Which is the odd one out among complications where hypothyroidism affects the central nervous system?",
+   "q": "Which of the following is NOT listed on page 907 as a symptom predominant in young females with hypothyroidism?",
    "opts": [
-    "Hypocholesterolaemia (correct answer)",
-    "Hashimoto encephalopathy (alternative)",
-    "Myxoedema coma (alternative)",
-    "Carpal tunnel syndrome (compression neuropathy)"
+    "Profuse diaphoresis and hyperactive tremors",
+    "Hair loss",
+    "Irregular menstrual cycle",
+    "Dry skin and mood swings"
    ],
    "ans": 0,
-   "exp": "Hypocholesterolaemia is a metabolic label, not a CNS complication; the others are neurological. (Book p907)"
+   "exp": "Symptoms predominant in young females are hair loss, irregular menstrual cycle, dry skin, and mood swings. (Book p907)"
   },
   {
    "id": "MED-C42-031",
-   "sec": "Complications and clinical pearls of hypothyroidism",
+   "sec": "Symptoms, Signs, GAG Deposition & Complications",
    "page": 907,
-   "fmt": "fillup",
-   "q": "Per the page's most-common-cause note, carpal tunnel syndrome in females is most often caused by ___.",
+   "fmt": "recall",
+   "q": "Which endocrine disorder is noted on page 907 as causing 'False positive Hypothyroidism' (transiently elevated TSH)?",
    "opts": [
-    "Amyloidosis",
-    "Rheumatoid arthritis",
-    "Diabetes mellitus",
-    "Hypothyroidism"
+    "Cushing's syndrome",
+    "Conn's syndrome",
+    "Pheochromocytoma",
+    "Addison's disease"
    ],
    "ans": 3,
-   "exp": "The page states hypothyroidism is the most common cause of CTS in females, with amyloidosis as the most common cause in males. (Book p907)"
+   "exp": "Page 907 explicitly contains the note: 'Note : False positive Hypothyroidism -> Addison's disease'. (Book p907)"
   },
   {
    "id": "MED-C42-032",
-   "sec": "Complications and clinical pearls of hypothyroidism",
+   "sec": "Symptoms, Signs, GAG Deposition & Complications",
    "page": 907,
-   "fmt": "match",
-   "q": "Match the following effusions/comorbidities to the source's hypothyroid complications list — 1) Pleural 2) Pericardial 3) Ascites 4) Oligomenorrhoea … A) Serous cavity collection B) Reproductive disturbance C) Refractory to diuretics per source D) Same column",
+   "fmt": "scenario",
+   "q": "An adult with severe longstanding primary hypothyroidism presents with prominent pseudohypertrophy of both calf muscles accompanied by slowness and muscle stiffness. What eponymous disorder is depicted in the photo on page 907?",
    "opts": [
-    "1-B, 2-A, 3-A, 4-C",
-    "1-A, 2-A, 3-C, 4-B",
-    "1-C, 2-B, 3-A, 4-D",
-    "1-A, 2-C, 3-B, 4-D"
+    "De Quervain syndrome",
+    "Hoffman syndrome",
+    "Pendred syndrome",
+    "Allan-Herndon-Dudley syndrome"
    ],
    "ans": 1,
-   "exp": "Pleural and pericardial effusions are common serous cavity collections; ascites is sometimes refractory to diuretics per the page; oligomenorrhoea / amenorrhoea is a reproductive disturbance. (Book p907)"
+   "exp": "The clinical photo on page 907 demonstrates: 'Hoffman syndrome Pseudohypertrophy in calf muscle'. (Book p907)"
   },
   {
    "id": "MED-C42-033",
-   "sec": "Complications and clinical pearls of hypothyroidism",
+   "sec": "Symptoms, Signs, GAG Deposition & Complications",
    "page": 907,
-   "fmt": "scenario",
-   "q": "A hypothyroid patient has recurrent large-volume pleural and pericardial effusions that do not improve with diuretics. Which mechanism is most consistent with the source?",
+   "fmt": "match",
+   "q": "Match the serous cavity effusions seen in hypothyroid polyserositis — 1) Pleural cavity 2) Pericardial space 3) Peritoneal cavity … A) Pleural effusion B) Pericardial effusion C) Ascites",
    "opts": [
-    "Heart failure with reduced ejection fraction",
-    "Myxoedematous polyserositis with capillary leak",
-    "Bacterial empyema (alternative)",
-    "Malignant effusion (alternative)"
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 1,
-   "exp": "Hypothyroid effusions are typically myxoedematous, with high protein content and poor response to diuretics. (Book p907)"
+   "exp": "Complications of hypothyroidism include serous effusions in three spaces: pleural effusion, pericardial effusion, and ascites. (Book p907)"
   },
   {
    "id": "MED-C42-034",
-   "sec": "Complications and clinical pearls of hypothyroidism",
+   "sec": "Symptoms, Signs, GAG Deposition & Complications",
    "page": 907,
-   "fmt": "truefalse",
-   "q": "Assess cardiac effects: I Hypothyroidism causes bradycardia. II Pericardial effusion is a recognised complication.",
+   "fmt": "recall",
+   "q": "What is the most common cause of Carpal Tunnel Syndrome (CTS) in females versus males on page 907?",
    "opts": [
-    "Both false",
-    "Both true",
-    "I true; II false",
-    "I false; II true"
+    "Females: Pregnancy; Males: Rheumatoid arthritis",
+    "Females: Hypothyroidism; Males: Amyloidosis",
+    "Females: Amyloidosis; Males: Hypothyroidism",
+    "Females: Diabetes mellitus; Males: Gout"
    ],
    "ans": 1,
-   "exp": "Bradycardia and pericardial effusion are both listed; long-standing hypothyroidism can cause pericardial effusion with cardiac tamponade rarely. (Book p907)"
+   "exp": "Carpal tunnel syndrome (CTS): 'm/c cause in females : Hypothyroidism' and 'm/c cause in males : Amyloidosis'. (Book p907)"
   },
   {
    "id": "MED-C42-035",
-   "sec": "Complications and clinical pearls of hypothyroidism",
+   "sec": "Symptoms, Signs, GAG Deposition & Complications",
    "page": 907,
-   "fmt": "match",
-   "q": "Match the following complication to the most likely clinical context — 1) Obstructive sleep apnoea 2) Carpal tunnel syndrome 3) Myxoedema coma 4) Hashimoto encephalopathy … A) Common in obese hypothyroid adults B) Most common cause of CTS in females C) Decompensated hypothyroid with hypothermia D) Steroid-responsive neuropsychiatric syndrome",
+   "fmt": "truefalse",
+   "q": "Regarding Carpal Tunnel Syndrome (CTS) epidemiology on page 907: I Hypothyroidism is the most common cause in females. II Amyloidosis is the most common cause in males.",
    "opts": [
-    "1-C, 2-B, 3-A, 4-D",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-C, 3-B, 4-D"
+    "Both I and II are false",
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true"
    ],
    "ans": 1,
-   "exp": "OSA is common in obese hypothyroid adults; CTS in females is mostly due to hypothyroidism; myxoedema coma presents with hypothermia; Hashimoto encephalopathy is the steroid-responsive neuropsychiatric syndrome. (Book p907)"
+   "exp": "Page 907 notes for CTS: - m/c cause in females : Hypothyroidism, - m/c cause in males : Amyloidosis. (Book p907)"
   },
   {
    "id": "MED-C42-036",
-   "sec": "Complications and clinical pearls of hypothyroidism",
+   "sec": "Symptoms, Signs, GAG Deposition & Complications",
    "page": 907,
    "fmt": "scenario",
-   "q": "A 70-year-old hypothyroid on levothyroxine has increasing pericardial effusion. The most appropriate next step is:",
+   "q": "A 48-year-old obese woman with untreated hypothyroidism presents with severe loud snoring, daytime sleepiness, and witnessed nocturnal apneas. What anatomical mechanism links this to her thyroid disease?",
    "opts": [
-    "Assess cardiac tamponade and ensure euthyroidism",
-    "Immediately add amiodarone (alternative)",
-    "Stop levothyroxine to avoid tamponade",
-    "Increase methimazole to lower TSH further"
+    "Macroglossia secondary to TSH-induced matrix GAG accumulation causing obstructive sleep apnea syndrome",
+    "Bilateral recurrent laryngeal nerve compression from thyroid fibrosis",
+    "Direct neuromuscular weakness of the diaphragm from hypothyroid myopathy",
+    "Tracheal deviation from subacute granulomatous expansion"
    ],
    "ans": 0,
-   "exp": "Effusions can progress even on treatment; assess haemodynamics (tamponade) and ensure adequate replacement rather than stopping therapy. (Book p907)"
+   "exp": "GAG accumulation traps water, producing macroglossia that leads directly to obstructive sleep apnea syndrome. (Book p907)"
   },
   {
    "id": "MED-C42-037",
-   "sec": "Complications and clinical pearls of hypothyroidism",
+   "sec": "Symptoms, Signs, GAG Deposition & Complications",
    "page": 907,
    "fmt": "fillup",
-   "q": "Atypical pericardial effusion that is high-protein and slow-accumulating in hypothyroid patients is called ___.",
+   "q": "Although page 907 prints 'Hypocholesterolaemia' among complications (an editorial misprint in the scan), the classical metabolic consequence of reduced LDL clearance in hypothyroidism is ___.",
    "opts": [
-    "Hydropericardium of renal failure",
-    "Myxoedema pericardial effusion",
-    "Dressler effusion (alternative)",
-    "Chylopericardium (alternative)"
+    "Abetalipoproteinemia",
+    "Hypercholesterolemia",
+    "Severe hypolipidemia",
+    "Isolated hypertriglyceridemia with low LDL"
    ],
    "ans": 1,
-   "exp": "Myxoedema pericardial effusion is the eponymous hypothyroid entity; it can be large but tamponade is uncommon. (Book p907)"
+   "exp": "Page 907 lists 'Hypocholesterolemia' in its complications column, but clinically and on page 903, impaired cholesterol clearance classically causes hypercholesterolemia. (Book p907)"
   },
   {
    "id": "MED-C42-038",
-   "sec": "Complications and clinical pearls of hypothyroidism",
+   "sec": "Symptoms, Signs, GAG Deposition & Complications",
    "page": 907,
-   "fmt": "truefalse",
-   "q": "Assess the source's gender note: I Hypothyroidism is the most common cause of CTS in females. II Amyloidosis is the most common cause of CTS in males per the source.",
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed on page 907 as a complication of hypothyroidism?",
    "opts": [
-    "I false; II true",
-    "Both false",
-    "Both true",
-    "I true; II false"
+    "Bradycardia and polyserositis (pleural/pericardial effusion, ascites)",
+    "Obstructive sleep apnea syndrome and Carpal tunnel syndrome",
+    "Hypercalcemic nephrolithiasis",
+    "Myxedema coma and Hashimoto encephalopathy"
    ],
    "ans": 2,
-   "exp": "Both statements reflect the page's gender-stratified most-common-cause list for carpal tunnel syndrome. (Book p907)"
+   "exp": "Hypercalcemia and nephrolithiasis are complications of severe thyrotoxicosis (p903), not hypothyroidism. Complications on p907 are myxedema coma, encephalopathy, bradycardia, effusions, OSA, and CTS. (Book p907)"
   },
   {
    "id": "MED-C42-039",
-   "sec": "Hypothyroidism management: levothyroxine and special populations",
+   "sec": "Autoantibodies, Treatment Indications & L-Thyroxine Titration",
    "page": 908,
-   "fmt": "match",
-   "q": "Match the following principles of levothyroxine therapy — 1) Form 2) Dosing starting point 3) Administration timing 4) Monitoring interval … A) Oral levothyroxine (tablets) B) Weight-based 1.6 µg/kg in young, low in elderly/cardiac C) Empty stomach, before breakfast D) 6–8 weeks after dose change",
+   "fmt": "recall",
+   "q": "In a patient presenting with newly identified hypothyroidism, autoantibody screening returns completely negative. What diagnostic entity is considered on page 908?",
    "opts": [
-    "1-B, 2-A, 3-D, 4-C",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C"
+    "Consumptive hemangioma deiodinase excess",
+    "Transient hypothyroidism due to thyroiditis (postviral or post-vaccine)",
+    "Confirmed lifelong Hashimoto's disease",
+    "TSH-secreting pituitary macroadenoma"
    ],
    "ans": 1,
-   "exp": "Oral levothyroxine is given once daily on an empty stomach; full replacement is 1.6 µg/kg in healthy young adults, lower in elderly or cardiac patients; TSH is rechecked 6–8 weeks after dose changes. (Book p908)"
+   "exp": "In the workup for Hashimoto's, negative autoantibodies indicate: 'Transient Hypothyroidism : Thyroiditis (Postviral / Post vaccine) -> may/may not require treatment'. (Book p908)"
   },
   {
    "id": "MED-C42-040",
-   "sec": "Hypothyroidism management: levothyroxine and special populations",
+   "sec": "Autoantibodies, Treatment Indications & L-Thyroxine Titration",
    "page": 908,
-   "fmt": "scenario",
-   "q": "A 30-year-old woman with overt hypothyroidism is started on levothyroxine 100 µg daily. What monitoring schedule fits the source?",
+   "fmt": "match",
+   "q": "Match the autoantibody in Hashimoto's disease to its percentage association on page 908 — 1) Thyroid peroxidase (TPO) antibody 2) Thyroglobulin antibody 3) TSH Receptor Antibody … A) 90 - 100% B) 80 - 90% C) 10 - 20%",
    "opts": [
-    "Check TSH 6–8 weeks after each dose change",
-    "Check free T4 weekly (alternative)",
-    "Check TSH monthly for the first year",
-    "No monitoring needed once symptoms improve"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "TSH is checked 6–8 weeks after every dose change until stable, then every 6–12 months. (Book p908)"
+   "exp": "Autoantibody associations in Hashimoto's: TPO Ab 90 - 100%, Thyroglobulin Ab 80 - 90%, and TSH Receptor Ab 10 - 20%. (Book p908)"
   },
   {
    "id": "MED-C42-041",
-   "sec": "Hypothyroidism management: levothyroxine and special populations",
+   "sec": "Autoantibodies, Treatment Indications & L-Thyroxine Titration",
    "page": 908,
-   "fmt": "truefalse",
-   "q": "Evaluate levothyroxine administration: I It should be taken with breakfast for best absorption. II Calcium and iron supplements reduce its absorption.",
+   "fmt": "fillup",
+   "q": "The single most sensitive and prevalent autoantibody in Hashimoto's disease is ___, present in ___ of cases.",
    "opts": [
-    "I false; II true",
-    "Both true",
-    "Both false",
-    "I true; II false"
+    "TSH Receptor Antibody; 75 - 85%",
+    "Anti-enolase antibody; 30 - 40%",
+    "Thyroid peroxidase (TPO) antibody; 90 - 100%",
+    "Thyroglobulin antibody; 50 - 60%"
    ],
    "ans": 2,
-   "exp": "Levothyroxine is taken on an empty stomach 30–60 minutes before breakfast; calcium, iron, antacids and certain foods reduce its absorption. (Book p908)"
+   "exp": "Thyroid peroxidase antibody is the most strongly associated antibody, present in 90 - 100% of Hashimoto's patients. (Book p908)"
   },
   {
    "id": "MED-C42-042",
-   "sec": "Hypothyroidism management: levothyroxine and special populations",
+   "sec": "Autoantibodies, Treatment Indications & L-Thyroxine Titration",
    "page": 908,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a drug that reduces levothyroxine absorption?",
+   "fmt": "match",
+   "q": "Match the combination of elevated TSH (↑ TSH) and free T4 level to the diagnosis — 1) ↓ Free T4 2) ↑ Free T4 3) Normal Free T4 … A) 1° Hypothyroidism B) TSH Secreting Adenoma C) Subclinical 1° Hypothyroidism",
    "opts": [
-    "Ferrous sulphate (alternative)",
-    "Proton-pump inhibitors (reduce gastric acidity)",
-    "Methimazole (correct answer)",
-    "Calcium carbonate (alternative)"
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C"
    ],
    "ans": 2,
-   "exp": "Methimazole is an antithyroid drug, not an absorption blocker; calcium, iron and PPIs all interfere with levothyroxine uptake. (Book p908)"
+   "exp": "↑ TSH + ↓ Free T4 = 1° Hypothyroidism; ↑ TSH + ↑ Free T4 = TSH Secreting Adenoma; ↑ TSH + Normal Free T4 = Subclinical 1° Hypothyroidism. (Book p908)"
   },
   {
    "id": "MED-C42-043",
-   "sec": "Hypothyroidism management: levothyroxine and special populations",
+   "sec": "Autoantibodies, Treatment Indications & L-Thyroxine Titration",
    "page": 908,
-   "fmt": "fillup",
-   "q": "In healthy young adults, the typical full replacement dose of levothyroxine is approximately ___ µg/kg/day.",
+   "fmt": "recall",
+   "q": "What is the definitive TSH cut-off value that provides an absolute indication for L-thyroxine treatment in confirmed Hashimoto's disease regardless of symptoms?",
    "opts": [
-    "3.2",
-    "5.0",
-    "1.6",
-    "0.5"
+    "TSH value > 20 mcu/ltr (mIU/L)",
+    "TSH value > 2.5 mcu/ltr (mIU/L)",
+    "TSH value > 10 mcu/ltr (mIU/L)",
+    "TSH value > 5 mcu/ltr (mIU/L)"
    ],
    "ans": 2,
-   "exp": "Approximately 1.6 µg/kg/day in young healthy adults; lower doses in elderly or ischaemic heart disease. (Book p908)"
+   "exp": "Under Treatment Indications: 'Confirmed Hashimoto's (TSH value > 10 mcu/ltr)'. (Book p908)"
   },
   {
    "id": "MED-C42-044",
-   "sec": "Hypothyroidism management: levothyroxine and special populations",
+   "sec": "Autoantibodies, Treatment Indications & L-Thyroxine Titration",
    "page": 908,
-   "fmt": "match",
-   "q": "Match the following patient group with the source's levothyroxine starting approach — 1) Young healthy adult 2) Elderly 3) Ischaemic heart disease 4) Pregnancy … A) Full weight-based dose B) Start low (25–50 µg), titrate slowly C) Start very low, titrate by 12.5 µg D) Increase dose 25–30% over pre-pregnancy dose",
+   "fmt": "truefalse",
+   "q": "For patients with a TSH value between 5 and 10 mcu/ltr: I Treatment is indicated if vague symptoms are present with TPO positivity, positive family history, or pregnancy. II Treatment is indicated if severe symptoms are present.",
    "opts": [
-    "1-A, 2-D, 3-C, 4-B",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-B, 3-A, 4-D"
+    "I is false; II is true",
+    "Both I and II are false",
+    "Both I and II are true",
+    "I is true; II is false"
    ],
    "ans": 2,
-   "exp": "Young healthy adults receive full weight-based replacement; elderly start low and titrate slowly; cardiac patients start very low and increment by 12.5 µg; pregnancy increases the dose by 25–30%. (Book p908)"
+   "exp": "When TSH is 5 - 10 mcu/ltr, treatment is indicated for vague symptoms + (TPO +ve, Family history, Pregnancy) or severe symptoms. (Book p908)"
   },
   {
    "id": "MED-C42-045",
-   "sec": "Hypothyroidism management: levothyroxine and special populations",
+   "sec": "Autoantibodies, Treatment Indications & L-Thyroxine Titration",
    "page": 908,
    "fmt": "scenario",
-   "q": "An 80-year-old with atrial fibrillation and overt hypothyroidism needs levothyroxine. The best initial regimen is:",
+   "q": "A 27-year-old woman in early pregnancy is found to have a TSH of 6.8 mcu/ltr with normal free T4. Her anti-TPO antibody titre is elevated. What is the correct management per page 908?",
    "opts": [
-    "25 µg daily, titrate every 6–8 weeks",
-    "100 µg daily, titrate weekly",
-    "200 µg daily as a stat dose",
-    "0.5 mg IV levothyroxine bolus"
+    "Initiate L-thyroxine replacement immediately",
+    "Defer treatment and recheck TSH postpartum",
+    "Wait until TSH exceeds 10 mcu/ltr before treating",
+    "Prescribe potassium iodide drops only"
    ],
    "ans": 0,
-   "exp": "Start low in elderly cardiac patients (25–50 µg) and titrate by 12.5–25 µg every 6–8 weeks to avoid precipitating ischaemia. (Book p908)"
+   "exp": "In pregnancy with TSH 5 - 10 mcu/ltr and TPO positivity, L-thyroxine treatment is explicitly indicated. (Book p908)"
   },
   {
    "id": "MED-C42-046",
-   "sec": "Hypothyroidism management: levothyroxine and special populations",
+   "sec": "Autoantibodies, Treatment Indications & L-Thyroxine Titration",
    "page": 908,
-   "fmt": "truefalse",
-   "q": "Assess thyroid replacement endpoints: I In primary hypothyroidism the target is normal TSH. II In central hypothyroidism the target is normal free T4 only.",
+   "fmt": "numeric",
+   "q": "What is the recommended starting dose of L-thyroxine for a symptomatic hypothyroid patient under 60 years of age?",
    "opts": [
-    "Both false",
-    "Both true",
-    "I true; II false",
-    "I false; II true"
+    "25 µg/day flat dose",
+    "1.6 - 1.8 µg/kg/day (approximately 100 µg/day)",
+    "0.5 - 0.8 µg/kg/day (approximately 50 µg/day)",
+    "2.2 - 2.5 µg/kg/day (approximately 150 µg/day)"
    ],
    "ans": 1,
-   "exp": "Primary hypothyroidism uses TSH as the target; central hypothyroidism uses free T4 in the upper normal range because TSH is unreliable. (Book p908)"
+   "exp": "For < 60 yr + symptomatic: 'L-Thyroxine 1.6-1.8 µg/kg/day (Approx 100µg/day)'. (Book p908)"
   },
   {
    "id": "MED-C42-047",
-   "sec": "Hypothyroidism management: levothyroxine and special populations",
+   "sec": "Autoantibodies, Treatment Indications & L-Thyroxine Titration",
    "page": 908,
-   "fmt": "match",
-   "q": "Match the following special population to its TSH target on levothyroxine — 1) Young adult 2) Pregnancy (T1) 3) Elderly with cardiac disease 4) Pregnancy (T3) … A) 0.5–2.5 mIU/L B) 0.5–3.0 mIU/L C) Up to 4–6 mIU/L acceptable D) 0.5–2.5 mIU/L",
+   "fmt": "fillup",
+   "q": "In patients under 60 years of age on L-thyroxine, subsequent dosage adjustments should be titrated by ___ µg/day.",
    "opts": [
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-D, 3-C, 4-D"
+    "5 - 10 µg/day",
+    "75 - 100 µg/day",
+    "100 - 150 µg/day",
+    "25 - 50 µg/day"
    ],
    "ans": 3,
-   "exp": "Young adults aim for 0.5–2.5; both trimesters of pregnancy aim for similar low targets (T1 stricter); elderly with cardiac disease may tolerate slightly higher TSH. (Book p908)"
+   "exp": "Under drugs: 'Dose change can be by 25-50 µg/day' for patients under 60 years. (Book p908)"
   },
   {
    "id": "MED-C42-048",
-   "sec": "Hypothyroidism management: levothyroxine and special populations",
+   "sec": "Autoantibodies, Treatment Indications & L-Thyroxine Titration",
    "page": 908,
-   "fmt": "scenario",
-   "q": "A pregnant woman on levothyroxine 100 µg now needs an increased dose. By what percentage should the source's guidance recommend an increase?",
+   "fmt": "numeric",
+   "q": "In elderly patients (> 60 years of age), what is the recommended starting dose and dose adjustment step for L-thyroxine?",
    "opts": [
-    "5% (alternative)",
-    "100% (alternative)",
-    "No change needed",
-    "25–30% (correct answer)"
+    "Starting dose 50 µg/day; dose change by 50 µg/day",
+    "Starting dose 100 µg/day; dose change by 25 µg/day",
+    "Starting dose 10 µg/day; dose change by 5 µg/day",
+    "Starting dose 25 µg/day; dose change by 25 µg/day"
    ],
    "ans": 3,
-   "exp": "Pregnancy increases thyroxine requirement by 25–30%; dose should be adjusted once pregnancy is confirmed. (Book p908)"
+   "exp": "In elderly (>60 yr): starting dose is '25 µg/day' and 'Dose change by 25 µg/day'. (Book p908)"
   },
   {
    "id": "MED-C42-049",
-   "sec": "Hypothyroidism management: levothyroxine and special populations",
+   "sec": "Autoantibodies, Treatment Indications & L-Thyroxine Titration",
    "page": 908,
-   "fmt": "fillup",
-   "q": "The source's preferred thyroid hormone preparation is ___, with ___ reserved for selected refractory cases.",
+   "fmt": "recall",
+   "q": "Why must elderly patients (> 60 years) be started on a low dose of L-thyroxine (25 µg/day)?",
    "opts": [
-    "Combination T4/T3; levothyroxine alone",
-    "Levothyroxine (T4); liothyronine (T3)",
-    "Liothyronine (T3); levothyroxine (T4)",
-    "Desiccated thyroid; T4:T3 combination"
+    "Because older patients do not convert T4 to T3",
+    "Due to the risk of cardiotoxicity (e.g., precipitating angina or arrhythmias)",
+    "Because of rapid hepatic clearance of levothyroxine in older adults",
+    "Due to the high risk of nephrogenic diabetes insipidus"
    ],
    "ans": 1,
-   "exp": "Levothyroxine is the standard; liothyronine is occasionally added in refractory cases but routine combination therapy is not standard. (Book p908)"
+   "exp": "Elderly patients start at 25 µg/day explicitly '(Due to cardiotoxicity)'. (Book p908)"
   },
   {
    "id": "MED-C42-050",
-   "sec": "Hypothyroidism management: levothyroxine and special populations",
+   "sec": "Autoantibodies, Treatment Indications & L-Thyroxine Titration",
    "page": 908,
-   "fmt": "truefalse",
-   "q": "Assess therapeutic drug interactions: I Levothyroxine absorption is reduced by sucralfate. II Cholestyramine reduces levothyroxine absorption.",
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT an indication to treat subclinical hypothyroidism with TSH 5 - 10 mcu/ltr on page 908?",
    "opts": [
-    "I false; II true",
-    "Both false",
-    "Both true",
-    "I true; II false"
+    "Vague symptoms with a positive family history",
+    "Pregnancy or presence of severe symptoms",
+    "Isolated subclinical hypercholesterolemia without symptoms",
+    "Vague symptoms with TPO positivity"
    ],
    "ans": 2,
-   "exp": "Sucralfate, cholestyramine, calcium, iron and PPIs all reduce levothyroxine absorption; separate dosing by at least four hours. (Book p908)"
+   "exp": "Indications for TSH 5-10 mcu/ltr are: vague symptoms + TPO +ve, family history, pregnancy, or severe symptoms. (Book p908)"
   },
   {
    "id": "MED-C42-051",
-   "sec": "Subclinical hypothyroidism, myxoedema coma and review",
+   "sec": "Patient Instructions, Myxedema Coma & SREAT / Hashimoto Encephalopathy",
    "page": 909,
-   "fmt": "match",
-   "q": "Match the following follow-up plan — 1) Stable primary hypothyroidism 2) After dose change 3) Persistent symptoms despite normal TSH 4) Suspected non-compliance … A) Repeat TSH every 6–12 months B) Recheck TSH/FT3/FT4 at ~3 months C) Reassess adherence and drug interactions D) Re-evaluate diagnosis and consider T3 add-on",
+   "fmt": "recall",
+   "q": "What specific administration instructions must be given to patients taking oral L-thyroxine on page 909?",
    "opts": [
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-B, 3-D, 4-C",
-    "1-C, 2-B, 3-A, 4-D",
-    "1-A, 2-C, 3-D, 4-B"
+    "Take dissolved in hot milk twice daily after meals",
+    "Take on an empty stomach in the morning (7 - 7:30 am) with a glass of water, and wait 30 minutes before meals",
+    "Take with a full meal at dinner time to maximize lipid-phase absorption",
+    "Take at bedtime co-administered with calcium and iron supplements"
    ],
    "ans": 1,
-   "exp": "Stable patients are monitored every 6–12 months; after dose changes recheck at 3 months; symptoms despite normal TSH prompt diagnosis review and possible T3 add-on; persistent abnormal labs are commonly due to non-compliance or interactions. (Book p909)"
+   "exp": "Instructions: 'Empty stomach (morning 7-7:30 am) with glass of water. Take meal after 30 minutes'. (Book p909)"
   },
   {
    "id": "MED-C42-052",
-   "sec": "Subclinical hypothyroidism, myxoedema coma and review",
+   "sec": "Patient Instructions, Myxedema Coma & SREAT / Hashimoto Encephalopathy",
    "page": 909,
-   "fmt": "scenario",
-   "q": "On levothyroxine 100 µg a patient's TSH remains elevated at 9 mIU/L despite claims of adherence. Which step is most consistent with the page?",
+   "fmt": "match",
+   "q": "Match the drug that inhibits L-thyroxine absorption to its formulation — 1) FeSO4 2) CaCO3 3) Al(OH)3 / Sucralfate … A) Ferrous sulfate iron salt B) Calcium carbonate C) Aluminum hydroxide antacid / mucosal protectant",
    "opts": [
-    "Add carbimazole (alternative)",
-    "Assess adherence and drug interactions before increasing the dose",
-    "Immediately double the dose (alternative)",
-    "Switch to desiccated thyroid (alternative)"
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 1,
-   "exp": "Persistent abnormal TFTs are most often due to non-compliance or interfering drugs; investigate before titrating. (Book p909)"
+   "exp": "Drugs to be avoided because they inhibit absorption include FeSO4, CaCO3, Al(OH)3, and Sucralfate. (Book p909)"
   },
   {
    "id": "MED-C42-053",
-   "sec": "Subclinical hypothyroidism, myxoedema coma and review",
+   "sec": "Patient Instructions, Myxedema Coma & SREAT / Hashimoto Encephalopathy",
    "page": 909,
-   "fmt": "truefalse",
-   "q": "Assess follow-up intervals: I Re-check at 3 months after a dose change. II Once TSH normal, taper can be attempted cautiously.",
+   "fmt": "fillup",
+   "q": "The single most common (m/c) cause of treatment failure in hypothyroid patients prescribed L-thyroxine is ___.",
    "opts": [
-    "I false; II true",
-    "Both false",
-    "Both true",
-    "I true; II false"
+    "Genetic deiodinase-2 inactivation",
+    "Accelerated renal excretion",
+    "Non-compliance",
+    "Autoimmune malabsorption syndrome"
    ],
    "ans": 2,
-   "exp": "After dose changes, TSH is rechecked at about 3 months; once TSH normal, slow taper may be attempted in selected patients (e.g. transient thyroiditis). (Book p909)"
+   "exp": "Under follow-up: 'm/c cause of treatment failure : Non-compliance'. (Book p909)"
   },
   {
    "id": "MED-C42-054",
-   "sec": "Subclinical hypothyroidism, myxoedema coma and review",
+   "sec": "Patient Instructions, Myxedema Coma & SREAT / Hashimoto Encephalopathy",
    "page": 909,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a transient cause where levothyroxine can eventually be tapered?",
+   "fmt": "numeric",
+   "q": "How long after the serum TSH value normalizes does the patient typically achieve clinical symptomatic relief?",
    "opts": [
-    "Postpartum thyroiditis (alternative)",
-    "Drug-induced hypothyroidism after drug withdrawal",
-    "Permanent post-thyroidectomy state",
-    "Subacute thyroiditis (alternative)"
+    "24 - 48 hours",
+    "12 - 18 months",
+    "3 - 6 months",
+    "1 - 2 weeks"
    ],
    "ans": 2,
-   "exp": "Post-thyroidectomy hypothyroidism is permanent; the others are typically transient and may allow cautious taper once TSH normal. (Book p909)"
+   "exp": "Page 909 explicitly notes: 'Clinical relief : 3-6 months after TSH value becomes normal'. (Book p909)"
   },
   {
    "id": "MED-C42-055",
-   "sec": "Subclinical hypothyroidism, myxoedema coma and review",
+   "sec": "Patient Instructions, Myxedema Coma & SREAT / Hashimoto Encephalopathy",
    "page": 909,
-   "fmt": "fillup",
-   "q": "Relief of hypothyroid symptoms typically occurs ___ months after TSH normalises.",
+   "fmt": "numeric",
+   "q": "What is the mortality rate of myxedema coma reported on page 909?",
    "opts": [
-    "Immediately",
-    "3–6 (correct answer)",
-    "1–2 weeks",
-    "12–18 (alternative)"
+    "5%",
+    "40%",
+    "10%",
+    "75%"
    ],
    "ans": 1,
-   "exp": "Symptomatic relief usually takes 3–6 months after biochemical normalisation; lipid and other parameters take longer. (Book p909)"
+   "exp": "Under Emergency Conditions: 'myxedema coma : mortality 40%'. (Book p909)"
   },
   {
    "id": "MED-C42-056",
-   "sec": "Subclinical hypothyroidism, myxoedema coma and review",
+   "sec": "Patient Instructions, Myxedema Coma & SREAT / Hashimoto Encephalopathy",
    "page": 909,
-   "fmt": "match",
-   "q": "Match the following emergency therapy for myxoedema coma — 1) First-line hormone 2) Steroid 3) Supportive measure 4) Trigger work-up … A) IV levothyroxine (often with liothyronine) B) IV hydrocortisone C) Active warming, electrolytes, ventilation D) Infection, MI, cold exposure, sedatives",
+   "fmt": "recall",
+   "q": "What are the primary trigger factors listed for precipitating myxedema coma?",
    "opts": [
-    "1-A, 2-D, 3-C, 4-B",
-    "1-B, 2-A, 3-D, 4-C",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D"
+    "Abrupt initiation of high-dose corticosteroids",
+    "Accidental overdose of antithyroid medications",
+    "Non-compliance and infection (e.g., COVID-19 or lower respiratory tract infection - LRI)",
+    "Excessive dietary iodine and strenuous physical exertion"
    ],
    "ans": 2,
-   "exp": "Myxoedema coma is treated with IV levothyroxine plus hydrocortisone (until adrenal insufficiency is excluded), supportive measures (warming, ventilation) and search for triggers (infection, MI, cold, sedatives). (Book p909)"
+   "exp": "Trigger factors for myxedema coma: 'Non-compliance, infection (i.e. covid, LRI)'. (Book p909)"
   },
   {
    "id": "MED-C42-057",
-   "sec": "Subclinical hypothyroidism, myxoedema coma and review",
+   "sec": "Patient Instructions, Myxedema Coma & SREAT / Hashimoto Encephalopathy",
    "page": 909,
-   "fmt": "scenario",
-   "q": "An obtunded hypothyroid patient is started on IV levothyroxine. Why is hydrocortisone added concurrently?",
+   "fmt": "match",
+   "q": "Match the characteristic 'Hypo' presenting features of myxedema coma — 1) Respiratory 2) Glucose metabolism 3) Electrolytes 4) Body temperature … A) Hypoventilation B) Hypoglycemia C) Hyponatremia D) Hypothermia",
    "opts": [
-    "To treat myxoedema directly (alternative)",
-    "To cover possible coexisting adrenal insufficiency",
-    "To reduce TSH further (alternative)",
-    "To enhance levothyroxine absorption"
+    "1-A, 2-D, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-A, 3-B, 4-D"
    ],
    "ans": 1,
-   "exp": "Concurrent adrenal insufficiency is possible; giving thyroid hormone first can precipitate adrenal crisis. Hydrocortisone is given until adrenal status is clear. (Book p909)"
+   "exp": "The 'Hypo' tetrad of myxedema coma consists of Hypoventilation, Hypoglycemia, Hyponatremia, and Hypothermia. (Book p909)"
   },
   {
    "id": "MED-C42-058",
-   "sec": "Subclinical hypothyroidism, myxoedema coma and review",
+   "sec": "Patient Instructions, Myxedema Coma & SREAT / Hashimoto Encephalopathy",
    "page": 909,
-   "fmt": "truefalse",
-   "q": "Assess myxoedema coma: I Active external rewarming is the recommended initial step. II IV levothyroxine should be withheld until adrenal insufficiency is excluded.",
+   "fmt": "scenario",
+   "q": "An elderly woman with myxedema coma is admitted with severe bradycardia, hypothermia (34°C), and low-voltage ECG complexes. Which intravenous fluid is indicated, and which must be avoided?",
    "opts": [
-    "I true; II false",
-    "I false; II true",
-    "Both true",
-    "Both false"
+    "Hypotonic saline indicated; hypertonic saline strictly avoided",
+    "5% Dextrose in water indicated; hypertonic saline strictly avoided",
+    "Albumin colloid indicated; normal saline strictly avoided",
+    "Hypertonic saline indicated; hypotonic saline strictly avoided"
    ],
    "ans": 3,
-   "exp": "Active rewarming can precipitate arrhythmia; passive rewarming is preferred. Levothyroxine should not be withheld — both levothyroxine and hydrocortisone are started empirically. (Book p909)"
+   "exp": "Treatment specifies: 'Hypertonic saline (Avoid hypotonic saline)'. (Book p909)"
   },
   {
    "id": "MED-C42-059",
-   "sec": "Subclinical hypothyroidism, myxoedema coma and review",
+   "sec": "Patient Instructions, Myxedema Coma & SREAT / Hashimoto Encephalopathy",
    "page": 909,
-   "fmt": "match",
-   "q": "Match the following common trigger of myxoedema coma — 1) Infection 2) Cold exposure 3) Sedatives 4) MI … A) Most common precipitant B) Winter decompensation C) CNS depressant D) Cardiovascular collapse",
+   "fmt": "management",
+   "q": "What is the complete medical treatment regimen for myxedema coma on page 909?",
    "opts": [
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-B, 3-A, 4-D",
-    "1-A, 2-D, 3-B, 4-C"
+    "IV Levothyroxine 25 µg daily, Furosemide infusion, Potassium chloride",
+    "IV L-thyroxine 500 µg OD -> 50-100 µg/day, Steroid, IV T3 5-20 µg, Hypertonic saline",
+    "Oral PTU 1000 mg stat, Propranolol 60 mg Q4H, Iopanoic acid, Normal saline",
+    "External active warming with heated blankets, Hydrocortisone, Hypotonic saline"
    ],
    "ans": 1,
-   "exp": "Infection is the most common trigger; cold exposure causes winter decompensation; sedatives depress CNS; MI can precipitate cardiovascular collapse. (Book p909)"
+   "exp": "Treatment for myxedema coma: IV L-thyroxine 500 µg OD -> 50-100 µg/day, Steroid, IV T3 5-20 µg, and Hypertonic saline. (Book p909)"
   },
   {
    "id": "MED-C42-060",
-   "sec": "Subclinical hypothyroidism, myxoedema coma and review",
+   "sec": "Patient Instructions, Myxedema Coma & SREAT / Hashimoto Encephalopathy",
    "page": 909,
-   "fmt": "scenario",
-   "q": "A hypothyroid patient with persistent symptoms despite normal TSH on levothyroxine 100 µg asks about adding T3. Which is the source's most consistent response?",
+   "fmt": "fillup",
+   "q": "Steroid-responsive encephalopathy associated with autoimmune thyroid illness (SREAT / Hashimoto encephalopathy) is an autoimmune vasculitis that is ___ to thyroid function, and can be seen in ___ status.",
    "opts": [
-    "Combination T4/T3 is not standard; review adherence and interactions first",
-    "Add liothyronine routinely (alternative)",
-    "Switch to desiccated thyroid immediately (alternative)",
-    "Increase T4 dose beyond weight-based target"
+    "Unrelated; euthyroid",
+    "Proportional; hyperthyroid",
+    "Secondary; myxedema coma",
+    "Inversely related; post-thyroidectomy"
    ],
    "ans": 0,
-   "exp": "Combination therapy is not routinely recommended; first rule out adherence and drug interactions, then re-evaluate the diagnosis. (Book p909)"
+   "exp": "SREAT: 'Can be seen in euthyroid status' and is an 'Autoimmune vasculitis unrelated to thyroid function'. (Book p909)"
   },
   {
    "id": "MED-C42-061",
-   "sec": "Subclinical hypothyroidism, myxoedema coma and review",
+   "sec": "Patient Instructions, Myxedema Coma & SREAT / Hashimoto Encephalopathy",
    "page": 909,
-   "fmt": "fillup",
-   "q": "Persistent abnormal TFTs on adequate doses of levothyroxine are most often due to ___ or drug interactions.",
+   "fmt": "recall",
+   "q": "Which autoantibody and HLA allele are characteristically elevated and associated with SREAT on page 909?",
    "opts": [
-    "Adrenal insufficiency",
-    "Non-compliance",
-    "TPO mutation",
-    "Vitamin D excess"
+    "Anti-ganglioside antibody; HLA-B35",
+    "Anti-enolase antibody; HLA-B8",
+    "Anti-TPO antibody; HLA-B27",
+    "TSH receptor antibody; HLA-DR3"
    ],
    "ans": 1,
-   "exp": "Non-compliance is the most common cause of persistently abnormal TFTs on replacement; drug interactions and malabsorption are close seconds. (Book p909)"
+   "exp": "SREAT is characterized by '↑↑ Antibodies (Anti-enolase Ab)' and 'HLA -B8'. (Book p909)"
   },
   {
    "id": "MED-C42-062",
-   "sec": "Subclinical hypothyroidism, myxoedema coma and review",
+   "sec": "Patient Instructions, Myxedema Coma & SREAT / Hashimoto Encephalopathy",
    "page": 909,
-   "fmt": "truefalse",
-   "q": "Assess these caveats: I Desiccated thyroid is the source's preferred long-term replacement. II Liothyronine has a longer half-life than levothyroxine.",
+   "fmt": "match",
+   "q": "Match the clinical presentations of SREAT — 1) Progressive cognitive decline 2) Paroxysmal motor events 3) Vascular mimic … A) Altered level of consciousness B) Seizure & myoclonus C) Stroke-like presentation",
    "opts": [
-    "Both true",
-    "Both false",
-    "I true; II false",
-    "I false; II true"
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 1,
-   "exp": "Levothyroxine is the standard; liothyronine has a shorter half-life than levothyroxine. (Book p909)"
+   "exp": "Presentations of SREAT include: slowly progressive cognitive decline (altered level of consciousness), seizure & myoclonus, and stroke-like presentation. (Book p909)"
   },
   {
    "id": "MED-C42-063",
-   "sec": "Subclinical hypothyroidism, myxoedema coma and review",
+   "sec": "Patient Instructions, Myxedema Coma & SREAT / Hashimoto Encephalopathy",
    "page": 909,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out among reversible causes of hypothyroidism that may allow taper?",
+   "fmt": "truefalse",
+   "q": "Assess SREAT management on page 909: I The primary and definitive pharmacologic management is corticosteroids (steroids). II Patients must immediately receive high-dose intravenous levothyroxine.",
    "opts": [
-    "Drug-induced hypothyroidism after withdrawal",
-    "Permanent Hashimoto thyroiditis",
-    "Subacute (de Quervain) thyroiditis",
-    "Postpartum thyroiditis (alternative)"
+    "Both I and II are false",
+    "I is true; II is false",
+    "Both I and II are true",
+    "I is false; II is true"
    ],
    "ans": 1,
-   "exp": "Hashimoto is permanent; the others are typically transient and may allow cautious taper. (Book p909)"
+   "exp": "Management of SREAT is explicitly stated as 'management : Steroids'. Thyroid hormone therapy is not the primary treatment since SREAT is vasculitic and unrelated to thyroid function. (Book p909)"
   }
  ],
  "units": [
@@ -954,9 +954,9 @@
    "id": "MED-U42-1",
    "ch": 42,
    "n": 1,
-   "title": "Causes of hypothyroidism and clinical features",
-   "sec": "Causes of hypothyroidism and clinical features · p905",
-   "guide": "Anchor the iatrogenic, drug-induced, iodine-related and autoimmune buckets. Learn why lithium, amiodarone, IFN-α and ICIs can each unmask or cause hypothyroidism, and tie constitutional, cardiovascular, reproductive and neurological features to common clinical presentations.",
+   "title": "Hypothyroidism Classification & Causes",
+   "sec": "Primary, Secondary, Consumptive & Congenital Hypothyroidism · p905",
+   "guide": "Master primary causes (Hashimoto, APS-2 check prior to L-thyroxine, drugs including lithium, IFN-α, and amiodarone), secondary causes (lymphocytic hypophysitis mass effect), consumptive hypothyroidism (hemangioma D3 overexpression), and newborn congenital signs.",
    "qs": [
     "MED-C42-001",
     "MED-C42-002",
@@ -977,9 +977,9 @@
    "id": "MED-U42-2",
    "ch": 42,
    "n": 2,
-   "title": "Hashimoto thyroiditis and subclinical hypothyroidism",
-   "sec": "Hashimoto thyroiditis and subclinical hypothyroidism · p906",
-   "guide": "Distinguish Hashimoto by histology, antibodies and demographic. Frame subclinical hypothyroidism as a TSH-guided decision tree with pregnancy-specific and antibody-positive thresholds that override simple numeric cut-offs.",
+   "title": "Hashimoto's Thyroiditis Features, Pathology & Mediators",
+   "sec": "Hashimoto Features, Histology & Associated Malignancy · p906",
+   "guide": "Cover demographics (middle-aged females), HLA associations (DR3/DR4/DR5, CTLA-4, PTPN-22), gross and microscopic features (Hürthle cells, lymphoid follicles with germinal centers, absence of colloid), extranodal marginal zone lymphoma risk, and immune mediators (CD8/CD4 T-cells, IFN-γ).",
    "qs": [
     "MED-C42-014",
     "MED-C42-015",
@@ -992,18 +992,18 @@
     "MED-C42-022",
     "MED-C42-023",
     "MED-C42-024",
-    "MED-C42-025",
-    "MED-C42-026"
+    "MED-C42-025"
    ]
   },
   {
    "id": "MED-U42-3",
    "ch": 42,
    "n": 3,
-   "title": "Complications and clinical pearls of hypothyroidism",
-   "sec": "Complications and clinical pearls of hypothyroidism · p907",
-   "guide": "Read myxoedema coma, Hashimoto encephalopathy and carpal-tunnel syndrome as the principal complications. Note the page's 'hypocholesterolaemia' label is at odds with the usual hypercholesterolaemia of hypothyroidism and should be flagged as an inconsistency.",
+   "title": "Clinical Presentation, Signs & Complications of Hypothyroidism",
+   "sec": "Symptoms, Signs, GAG Deposition & Complications · p907",
+   "guide": "Examine generalized slowing, TSH-stimulated GAG deposition causing myxedema (periorbital edema, macroglossia, OSA), young female symptoms, false-positive Addison's, Hoffman syndrome, polyserositis, and carpal tunnel syndrome.",
    "qs": [
+    "MED-C42-026",
     "MED-C42-027",
     "MED-C42-028",
     "MED-C42-029",
@@ -1022,9 +1022,9 @@
    "id": "MED-U42-4",
    "ch": 42,
    "n": 4,
-   "title": "Hypothyroidism management: levothyroxine and special populations",
-   "sec": "Hypothyroidism management: levothyroxine and special populations · p908",
-   "guide": "Levothyroxine is taken on an empty stomach with a 6–8 week TSH review after each dose change. Learn weight-based replacement in young adults, low-and-slow initiation in elderly cardiac patients and the 25–30% dose increase required in pregnancy.",
+   "title": "Hashimoto Workup, Diagnostic Cut-offs & L-Thyroxine Dosing",
+   "sec": "Autoantibodies, Treatment Indications & L-Thyroxine Titration · p908",
+   "guide": "Work through autoantibody prevalence (TPO 90-100%, Tg 80-90%, TSH-R 10-20%), subclinical vs overt cut-offs, treatment threshold (TSH > 10 or 5-10 with risks), starting doses (< 60 yrs 1.6-1.8 µg/kg/day vs elderly 25 µg/day), and titration increments.",
    "qs": [
     "MED-C42-039",
     "MED-C42-040",
@@ -1044,9 +1044,9 @@
    "id": "MED-U42-5",
    "ch": 42,
    "n": 5,
-   "title": "Subclinical hypothyroidism, myxoedema coma and review",
-   "sec": "Subclinical hypothyroidism, myxoedema coma and review · p909",
-   "guide": "Recognise non-compliance as the most common cause of persistent abnormal TFTs and pursue IV levothyroxine plus hydrocortisone with passive rewarming for myxoedema coma. Combination T4/T3 therapy remains non-standard.",
+   "title": "L-Thyroxine Administration, Follow-up, Myxedema Coma & SREAT",
+   "sec": "Patient Instructions, Myxedema Coma & SREAT / Hashimoto Encephalopathy · p909",
+   "guide": "Review morning empty-stomach dosing, drugs to avoid, 3-month review, myxedema coma presentation (hypothermia, low voltage ECG) and IV protocol, and SREAT (euthyroid vasculitis, anti-enolase antibodies, steroid response).",
    "qs": [
     "MED-C42-051",
     "MED-C42-052",

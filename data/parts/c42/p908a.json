@@ -1,150 +1,150 @@
 {
  "page": 908,
- "sec": "Hypothyroidism management: levothyroxine and special populations",
+ "sec": "Autoantibodies, Treatment Indications & L-Thyroxine Titration",
  "items": [
   {
-   "fmt": "match",
-   "q": "Match the following principles of levothyroxine therapy — 1) Form 2) Dosing starting point 3) Administration timing 4) Monitoring interval … A) Oral levothyroxine (tablets) B) Weight-based 1.6 µg/kg in young, low in elderly/cardiac C) Empty stomach, before breakfast D) 6–8 weeks after dose change",
+   "fmt": "recall",
+   "q": "In a patient presenting with newly identified hypothyroidism, autoantibody screening returns completely negative. What diagnostic entity is considered on page 908?",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-B, 2-A, 3-D, 4-C"
+    "Transient hypothyroidism due to thyroiditis (postviral or post-vaccine)",
+    "Confirmed lifelong Hashimoto's disease",
+    "TSH-secreting pituitary macroadenoma",
+    "Consumptive hemangioma deiodinase excess"
    ],
    "ans": 0,
-   "exp": "Oral levothyroxine is given once daily on an empty stomach; full replacement is 1.6 µg/kg in healthy young adults, lower in elderly or cardiac patients; TSH is rechecked 6–8 weeks after dose changes. (Book p908)"
+   "exp": "In the workup for Hashimoto's, negative autoantibodies indicate: 'Transient Hypothyroidism : Thyroiditis (Postviral / Post vaccine) -> may/may not require treatment'. (Book p908)"
   },
   {
-   "fmt": "scenario",
-   "q": "A 30-year-old woman with overt hypothyroidism is started on levothyroxine 100 µg daily. What monitoring schedule fits the source?",
+   "fmt": "match",
+   "q": "Match the autoantibody in Hashimoto's disease to its percentage association on page 908 — 1) Thyroid peroxidase (TPO) antibody 2) Thyroglobulin antibody 3) TSH Receptor Antibody … A) 90 - 100% B) 80 - 90% C) 10 - 20%",
    "opts": [
-    "Check TSH 6–8 weeks after each dose change",
-    "Check free T4 weekly (alternative)",
-    "Check TSH monthly for the first year",
-    "No monitoring needed once symptoms improve"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "TSH is checked 6–8 weeks after every dose change until stable, then every 6–12 months. (Book p908)"
+   "exp": "Autoantibody associations in Hashimoto's: TPO Ab 90 - 100%, Thyroglobulin Ab 80 - 90%, and TSH Receptor Ab 10 - 20%. (Book p908)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The single most sensitive and prevalent autoantibody in Hashimoto's disease is ___, present in ___ of cases.",
+   "opts": [
+    "Thyroid peroxidase (TPO) antibody; 90 - 100%",
+    "Thyroglobulin antibody; 50 - 60%",
+    "TSH Receptor Antibody; 75 - 85%",
+    "Anti-enolase antibody; 30 - 40%"
+   ],
+   "ans": 0,
+   "exp": "Thyroid peroxidase antibody is the most strongly associated antibody, present in 90 - 100% of Hashimoto's patients. (Book p908)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the combination of elevated TSH (↑ TSH) and free T4 level to the diagnosis — 1) ↓ Free T4 2) ↑ Free T4 3) Normal Free T4 … A) 1° Hypothyroidism B) TSH Secreting Adenoma C) Subclinical 1° Hypothyroidism",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "↑ TSH + ↓ Free T4 = 1° Hypothyroidism; ↑ TSH + ↑ Free T4 = TSH Secreting Adenoma; ↑ TSH + Normal Free T4 = Subclinical 1° Hypothyroidism. (Book p908)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the definitive TSH cut-off value that provides an absolute indication for L-thyroxine treatment in confirmed Hashimoto's disease regardless of symptoms?",
+   "opts": [
+    "TSH value > 10 mcu/ltr (mIU/L)",
+    "TSH value > 5 mcu/ltr (mIU/L)",
+    "TSH value > 20 mcu/ltr (mIU/L)",
+    "TSH value > 2.5 mcu/ltr (mIU/L)"
+   ],
+   "ans": 0,
+   "exp": "Under Treatment Indications: 'Confirmed Hashimoto's (TSH value > 10 mcu/ltr)'. (Book p908)"
   },
   {
    "fmt": "truefalse",
-   "q": "Evaluate levothyroxine administration: I It should be taken with breakfast for best absorption. II Calcium and iron supplements reduce its absorption.",
+   "q": "For patients with a TSH value between 5 and 10 mcu/ltr: I Treatment is indicated if vague symptoms are present with TPO positivity, positive family history, or pregnancy. II Treatment is indicated if severe symptoms are present.",
    "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "Levothyroxine is taken on an empty stomach 30–60 minutes before breakfast; calcium, iron, antacids and certain foods reduce its absorption. (Book p908)"
+   "exp": "When TSH is 5 - 10 mcu/ltr, treatment is indicated for vague symptoms + (TPO +ve, Family history, Pregnancy) or severe symptoms. (Book p908)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 27-year-old woman in early pregnancy is found to have a TSH of 6.8 mcu/ltr with normal free T4. Her anti-TPO antibody titre is elevated. What is the correct management per page 908?",
+   "opts": [
+    "Initiate L-thyroxine replacement immediately",
+    "Defer treatment and recheck TSH postpartum",
+    "Wait until TSH exceeds 10 mcu/ltr before treating",
+    "Prescribe potassium iodide drops only"
+   ],
+   "ans": 0,
+   "exp": "In pregnancy with TSH 5 - 10 mcu/ltr and TPO positivity, L-thyroxine treatment is explicitly indicated. (Book p908)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What is the recommended starting dose of L-thyroxine for a symptomatic hypothyroid patient under 60 years of age?",
+   "opts": [
+    "1.6 - 1.8 µg/kg/day (approximately 100 µg/day)",
+    "0.5 - 0.8 µg/kg/day (approximately 50 µg/day)",
+    "2.2 - 2.5 µg/kg/day (approximately 150 µg/day)",
+    "25 µg/day flat dose"
+   ],
+   "ans": 0,
+   "exp": "For < 60 yr + symptomatic: 'L-Thyroxine 1.6-1.8 µg/kg/day (Approx 100µg/day)'. (Book p908)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "In patients under 60 years of age on L-thyroxine, subsequent dosage adjustments should be titrated by ___ µg/day.",
+   "opts": [
+    "25 - 50 µg/day",
+    "5 - 10 µg/day",
+    "75 - 100 µg/day",
+    "100 - 150 µg/day"
+   ],
+   "ans": 0,
+   "exp": "Under drugs: 'Dose change can be by 25-50 µg/day' for patients under 60 years. (Book p908)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "In elderly patients (> 60 years of age), what is the recommended starting dose and dose adjustment step for L-thyroxine?",
+   "opts": [
+    "Starting dose 25 µg/day; dose change by 25 µg/day",
+    "Starting dose 50 µg/day; dose change by 50 µg/day",
+    "Starting dose 100 µg/day; dose change by 25 µg/day",
+    "Starting dose 10 µg/day; dose change by 5 µg/day"
+   ],
+   "ans": 0,
+   "exp": "In elderly (>60 yr): starting dose is '25 µg/day' and 'Dose change by 25 µg/day'. (Book p908)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Why must elderly patients (> 60 years) be started on a low dose of L-thyroxine (25 µg/day)?",
+   "opts": [
+    "Due to the risk of cardiotoxicity (e.g., precipitating angina or arrhythmias)",
+    "Because of rapid hepatic clearance of levothyroxine in older adults",
+    "Due to the high risk of nephrogenic diabetes insipidus",
+    "Because older patients do not convert T4 to T3"
+   ],
+   "ans": 0,
+   "exp": "Elderly patients start at 25 µg/day explicitly '(Due to cardiotoxicity)'. (Book p908)"
   },
   {
    "fmt": "oddoneout",
-   "q": "Which is the odd one out — a drug that reduces levothyroxine absorption?",
+   "q": "Which of the following is NOT an indication to treat subclinical hypothyroidism with TSH 5 - 10 mcu/ltr on page 908?",
    "opts": [
-    "Methimazole (correct answer)",
-    "Calcium carbonate (alternative)",
-    "Ferrous sulphate (alternative)",
-    "Proton-pump inhibitors (reduce gastric acidity)"
+    "Isolated subclinical hypercholesterolemia without symptoms",
+    "Vague symptoms with TPO positivity",
+    "Vague symptoms with a positive family history",
+    "Pregnancy or presence of severe symptoms"
    ],
    "ans": 0,
-   "exp": "Methimazole is an antithyroid drug, not an absorption blocker; calcium, iron and PPIs all interfere with levothyroxine uptake. (Book p908)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "In healthy young adults, the typical full replacement dose of levothyroxine is approximately ___ µg/kg/day.",
-   "opts": [
-    "1.6",
-    "0.5",
-    "3.2",
-    "5.0"
-   ],
-   "ans": 0,
-   "exp": "Approximately 1.6 µg/kg/day in young healthy adults; lower doses in elderly or ischaemic heart disease. (Book p908)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following patient group with the source's levothyroxine starting approach — 1) Young healthy adult 2) Elderly 3) Ischaemic heart disease 4) Pregnancy … A) Full weight-based dose B) Start low (25–50 µg), titrate slowly C) Start very low, titrate by 12.5 µg D) Increase dose 25–30% over pre-pregnancy dose",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-B, 3-A, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-B, 2-A, 3-C, 4-D"
-   ],
-   "ans": 0,
-   "exp": "Young healthy adults receive full weight-based replacement; elderly start low and titrate slowly; cardiac patients start very low and increment by 12.5 µg; pregnancy increases the dose by 25–30%. (Book p908)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "An 80-year-old with atrial fibrillation and overt hypothyroidism needs levothyroxine. The best initial regimen is:",
-   "opts": [
-    "25 µg daily, titrate every 6–8 weeks",
-    "100 µg daily, titrate weekly",
-    "200 µg daily as a stat dose",
-    "0.5 mg IV levothyroxine bolus"
-   ],
-   "ans": 0,
-   "exp": "Start low in elderly cardiac patients (25–50 µg) and titrate by 12.5–25 µg every 6–8 weeks to avoid precipitating ischaemia. (Book p908)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess thyroid replacement endpoints: I In primary hypothyroidism the target is normal TSH. II In central hypothyroidism the target is normal free T4 only.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Primary hypothyroidism uses TSH as the target; central hypothyroidism uses free T4 in the upper normal range because TSH is unreliable. (Book p908)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following special population to its TSH target on levothyroxine — 1) Young adult 2) Pregnancy (T1) 3) Elderly with cardiac disease 4) Pregnancy (T3) … A) 0.5–2.5 mIU/L B) 0.5–3.0 mIU/L C) Up to 4–6 mIU/L acceptable D) 0.5–2.5 mIU/L",
-   "opts": [
-    "1-A, 2-D, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-B, 2-A, 3-C, 4-D"
-   ],
-   "ans": 0,
-   "exp": "Young adults aim for 0.5–2.5; both trimesters of pregnancy aim for similar low targets (T1 stricter); elderly with cardiac disease may tolerate slightly higher TSH. (Book p908)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A pregnant woman on levothyroxine 100 µg now needs an increased dose. By what percentage should the source's guidance recommend an increase?",
-   "opts": [
-    "25–30% (correct answer)",
-    "5% (alternative)",
-    "100% (alternative)",
-    "No change needed"
-   ],
-   "ans": 0,
-   "exp": "Pregnancy increases thyroxine requirement by 25–30%; dose should be adjusted once pregnancy is confirmed. (Book p908)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "The source's preferred thyroid hormone preparation is ___, with ___ reserved for selected refractory cases.",
-   "opts": [
-    "Levothyroxine (T4); liothyronine (T3)",
-    "Liothyronine (T3); levothyroxine (T4)",
-    "Desiccated thyroid; T4:T3 combination",
-    "Combination T4/T3; levothyroxine alone"
-   ],
-   "ans": 0,
-   "exp": "Levothyroxine is the standard; liothyronine is occasionally added in refractory cases but routine combination therapy is not standard. (Book p908)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess therapeutic drug interactions: I Levothyroxine absorption is reduced by sucralfate. II Cholestyramine reduces levothyroxine absorption.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Sucralfate, cholestyramine, calcium, iron and PPIs all reduce levothyroxine absorption; separate dosing by at least four hours. (Book p908)"
+   "exp": "Indications for TSH 5-10 mcu/ltr are: vague symptoms + TPO +ve, family history, pregnancy, or severe symptoms. (Book p908)"
   }
  ]
 }

@@ -1,174 +1,150 @@
 {
  "page": 904,
- "sec": "TFT patterns: thyrotoxicosis, T3-toxicosis, sick-euthyroid, thyroglobulin",
+ "sec": "Drugs & TFT, Reference Ranges & Interpretations",
  "items": [
   {
    "fmt": "match",
-   "q": "Match the printed biochemical pattern — 1) Thyrotoxicosis 2) T3-toxicosis 3) Sick-euthyroid (page schematic) 4) ↓TBG (cirrhosis) … A) ↓TSH, normal T4, ↑FT4, normal T3, ↑FT3 B) ↓TSH, normal T4, normal FT4, normal T3, ↑FT3 C) Normal totals, ↑rT3, ↓FT3 D) Normal totals, ↓TBG",
+   "q": "Match the drug categories affecting thyroid function tests — 1) Deiodinase inhibitors 2) Enzyme inducers (↑ hormone metabolism) … A) Steroids, Propranolol, Iodine, Amiodarone, Propylthiouracil B) Phenytoin, Carbamazepine, Rifampicin, Sertraline, Ritonavir",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-B, 3-D, 4-C",
-    "1-C, 2-B, 3-A, 4-D"
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
    ],
    "ans": 0,
-   "exp": "The schematic prints thyrotoxicosis as ↓TSH with normal T4 but raised FT4 and normal T3 with raised FT3; T3-toxicosis raises only FT3; sick-euthyroid leaves totals normal with rT3 high and FT3 low; cirrhosis drops TBG without changing free hormone. (Book p904)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A patient has suppressed TSH with normal total T4 and total T3 but elevated free T3. The most consistent label is:",
-   "opts": [
-    "T3-toxicosis (correct answer)",
-    "Sick-euthyroid syndrome",
-    "Subclinical hypothyroidism",
-    "Thyroxine over-replacement"
-   ],
-   "ans": 0,
-   "exp": "Isolated free-T3 elevation with otherwise normal totals fits the page's T3-toxicosis pattern. (Book p904)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess the source's totals/free schematic: I Thyrotoxicosis row shows FT4 and FT3 both elevated. II Sick-euthyroid row prints normal total hormone values.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "The thyrotoxicosis row has both FT4 and FT3 raised; the sick-euthyroid row keeps totals normal with FT3 low. (Book p904)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following state to its TBG / binding-protein print on the page — 1) Pregnancy 2) Cirrhosis 3) Familial dysalbuminaemic hyperthyroxinaemia … A) ↑TBG B) ↓TBG C) Albumin binds excess T4, raising total T4 with normal free hormone",
-   "opts": [
-    "1-A, 2-B, 3-C",
-    "1-C, 2-B, 3-A",
-    "1-B, 2-A, 3-C",
-    "1-A, 2-C, 3-B"
-   ],
-   "ans": 0,
-   "exp": "Pregnancy raises TBG; cirrhosis lowers TBG; FDHS binds excess T4 to albumin raising total T4 with normal free hormone. (Book p904)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A patient with cirrhosis has normal free T4, normal TSH, low TBG and low total T4. The free-hormone result correctly classifies the patient as:",
-   "opts": [
-    "Euthyroid (correct answer)",
-    "Primary hypothyroid",
-    "Central hypothyroid",
-    "Sick-euthyroid"
-   ],
-   "ans": 0,
-   "exp": "Cirrhosis lowers TBG and therefore total T4, but free T4 and TSH are preserved — the patient is euthyroid. (Book p904)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "Thyroglobulin is ___ in every cause of hyperthyroidism except ___, where it is low.",
-   "opts": [
-    "Raised; thyrotoxicosis factitia",
-    "Lowered; Graves disease",
-    "Unchanged; subacute thyroiditis",
-    "Normal; toxic multinodular goitre"
-   ],
-   "ans": 0,
-   "exp": "The page lists thyroglobulin as raised in all causes of thyrotoxicosis except factitious ingestion, where it is low. (Book p904)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess the source's thyroglobulin teaching: I Thyroglobulin is raised in subacute thyroiditis. II Thyroglobulin is raised in factitious thyrotoxicosis.",
-   "opts": [
-    "I true; II false",
-    "Both true",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Subacute thyroiditis releases stored thyroglobulin, raising it; factitious intake of exogenous hormone suppresses thyroid activity so thyroglobulin is low. (Book p904)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following pattern to the expected free hormone on the page — 1) Subclinical hyperthyroidism 2) T3-toxicosis 3) FDHS 4) Factitious thyrotoxicosis … A) Normal FT4, normal FT3, ↓TSH B) Normal FT4, ↑FT3, ↓TSH C) ↑Total T4, normal free hormone, normal TSH D) ↑FT4, ↓TSH, low thyroglobulin",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-B, 3-D, 4-C",
-    "1-C, 2-B, 3-A, 4-D"
-   ],
-   "ans": 0,
-   "exp": "Subclinical hyperthyroidism has normal free hormones with low TSH; T3-toxicosis raises only free T3; FDHS raises only total T4; factitious raises free T4 with low thyroglobulin. (Book p904)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "An over-the-counter 'thyroid support' user has suppressed TSH, raised free T4 and a low thyroglobulin. Which diagnostic label fits?",
-   "opts": [
-    "Thyrotoxicosis factitia",
-    "Graves disease (alternative)",
-    "Toxic multinodular goitre",
-    "TSH-secreting pituitary adenoma"
-   ],
-   "ans": 0,
-   "exp": "Factitious intake suppresses endogenous thyroid activity and therefore thyroglobulin, while exogenous T4 raises free T4. (Book p904)"
+   "exp": "Deiodinase inhibitors listed are steroids, propranolol, iodine, amiodarone, PTU; enzyme inducers increasing metabolism are phenytoin, carbamazepine, rifampicin, sertraline, ritonavir. (Book p904)"
   },
   {
    "fmt": "oddoneout",
-   "q": "Which is the odd one out — a state where thyroglobulin is raised?",
+   "q": "Which of the following drugs is NOT listed on page 904 as a deiodinase inhibitor?",
    "opts": [
-    "Thyrotoxicosis factitia",
-    "Graves disease",
-    "Toxic multinodular goitre",
-    "Subacute thyroiditis"
+    "Rifampicin",
+    "Steroids",
+    "Propranolol",
+    "Propylthiouracil"
    ],
    "ans": 0,
-   "exp": "Factitious thyrotoxicosis is the only cause on the page where thyroglobulin is low; the others raise thyroglobulin. (Book p904)"
-  },
-  {
-   "fmt": "recall",
-   "q": "In the page's sick-euthyroid arrow schematic, which direction does the FT3 arrow point?",
-   "opts": [
-    "Down (decreased)",
-    "Up (increased)",
-    "Sideways (unchanged)",
-    "Both up and down (bidirectional)"
-   ],
-   "ans": 0,
-   "exp": "The schematic draws FT3 down as part of the low-T3 / high-rT3 pattern of non-thyroidal illness. (Book p904)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "In familial dysalbuminaemic hyperthyroxinaemia, total T4 is ___ while free T4 and TSH remain ___.",
-   "opts": [
-    "Raised; normal",
-    "Low; raised",
-    "Raised; raised",
-    "Normal; low"
-   ],
-   "ans": 0,
-   "exp": "Albumin-binding variants raise total T4 but free T4 and TSH are preserved; FDHS mimics true hyperthyroidism only on total assays. (Book p904)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess this sick-euthyroid note: I The schematic marks rT3 as up. II The schematic marks FT3 as up.",
-   "opts": [
-    "I true; II false",
-    "Both true",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Reverse T3 is marked up while free T3 is marked down, reflecting impaired T4-to-T3 activation and dominant D3 in critical illness. (Book p904)"
+   "exp": "Rifampicin is an enzyme inducer that increases hormone metabolism; steroids, propranolol, iodine, amiodarone, and PTU are deiodinase inhibitors. (Book p904)"
   },
   {
    "fmt": "match",
-   "q": "Match the following thyrotoxicosis pattern to its free-hormone print — 1) Graves disease 2) Subacute thyroiditis 3) Toxic adenoma 4) Struma ovarii … A) ↑FT4 and ↑FT3 B) ↑FT4 with low thyroglobulin only in factitious C) ↑FT4/FT3 from ectopic thyroid tissue D) Transient ↑FT4 with raised thyroglobulin and ESR",
+   "q": "Match the drug to its specific effect on thyroid hormone economy — 1) Lithium 2) Al(OH)3, Cholestyramine, Calcium carbonate, Ferrous sulfate … A) Directly causes hypothyroidism B) Decreases thyroid hormone absorption",
    "opts": [
-    "1-A, 2-D, 3-A, 4-C",
-    "1-A, 2-D, 3-C, 4-A",
-    "1-D, 2-A, 3-A, 4-C",
-    "1-A, 2-C, 3-D, 4-A"
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
    ],
    "ans": 0,
-   "exp": "Graves and toxic adenoma raise both FT4 and FT3; subacute thyroiditis causes a transient rise with raised thyroglobulin and ESR; struma ovarii produces ectopic thyroid hormone secretion. (Book p904)"
+   "exp": "Lithium causes hypothyroidism, while aluminum hydroxide, cholestyramine, calcium carbonate, and ferrous sulfate decrease thyroid hormone absorption. (Book p904)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What is the normal reference range for TSH tested by 4th-generation CLIA as specified on page 904?",
+   "opts": [
+    "0.5 - 5 mIU/L",
+    "0.1 - 2.5 mIU/L",
+    "2.0 - 10.0 mIU/L",
+    "0.01 - 0.5 mIU/L"
+   ],
+   "ans": 0,
+   "exp": "Page 904 states: 'TSH (Thyroid Stimulating Hormone) : 0.5 - 5 mIU/L (by CLIA 4th generation)'. (Book p904)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Regarding thyroid testing rules on page 904: I Clinicians should always look for all three: fT3, fT4, and TSH. II Thyroid function tests should not be checked in critically ill patients.",
+   "opts": [
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
+   ],
+   "ans": 0,
+   "exp": "Under TESTS: 'Always look for all of: fT3, fT4, TSH' and 'Do not check in critically ill patients'. (Book p904)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient's laboratory report reveals: TSH elevated (↑), while total T4, free T4, total T3, and free T3 are all normal (N). What is the condition?",
+   "opts": [
+    "Subclinical 1° hypothyroidism",
+    "Primary overt hypothyroidism",
+    "Resistance to thyroid hormone (RTH)",
+    "Central hypothalamo-pituitary hypothyroidism"
+   ],
+   "ans": 0,
+   "exp": "TSH ↑ with normal T4, FT4, T3, and FT3 represents Subclinical 1° hypothyroidism. (Book p904)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In overt primary hypothyroidism (TSH ↑, T4 ↓, FT4 ↓, T3 ↓, FT3 ↓), what is the most common etiology and clinical association noted on page 904?",
+   "opts": [
+    "Autoimmune etiology, associated with Hashimoto's thyroiditis",
+    "Dietary iodine deficiency, associated with endemic goiter",
+    "Consumptive hemangioma, associated with deiodinase-3 excess",
+    "Pituitary mass lesion, associated with Sheehan syndrome"
+   ],
+   "ans": 0,
+   "exp": "For primary hypothyroidism, page 904 notes: 'm/c : Autoimmune' and 'A/w : Hashimoto's thyroiditis'. (Book p904)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient's thyroid panel shows elevation of all parameters: TSH ↑, T4 ↑, FT4 ↑, T3 ↑, and FT3 ↑. Clinically, the patient is euthyroid. What is the diagnosis?",
+   "opts": [
+    "Resistance to thyroid hormone (RTH)",
+    "TSH secreting pituitary adenoma",
+    "Graves disease thyrotoxicosis",
+    "Subacute de Quervain thyroiditis"
+   ],
+   "ans": 0,
+   "exp": "When TSH, T4, FT4, T3, and FT3 are all elevated, the condition is RTH if the patient is euthyroid, or TSH-secreting adenoma if toxic features are present. (Book p904)"
+  },
+  {
+   "fmt": "match",
+   "q": "When TSH, T4, FT4, T3, and FT3 are all simultaneously elevated, match the clinical presentation to the diagnosis — 1) Euthyroid state 2) Toxic features present … A) RTH (Resistance to Thyroid Hormone) B) TSH secreting adenoma",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "For elevated TSH + elevated T4/FT4/T3/FT3: RTH presents as euthyroid; TSH secreting adenoma presents with toxic features. (Book p904)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "In hypothalamo-pituitary (secondary) hypothyroidism: I TSH is normal or decreased (N/↓). II T4, FT4, T3, and FT3 are all decreased (↓).",
+   "opts": [
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
+   ],
+   "ans": 0,
+   "exp": "In hypothalamo-pituitary hypothyroidism, TSH is normal or low (N/↓) while peripheral hormones T4, FT4, T3, and FT3 are all low (↓). (Book p904)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient has TSH ↓, total T4 normal, free T4 ↑, total T3 normal, and free T3 ↑. Which causes does the page 904 interpretation table list for this pattern?",
+   "opts": [
+    "Overworking gland (Autoimmune Graves) or stored hormone release (Thyroiditis, Hydatidiform mole/pregnancy)",
+    "Subclinical hypothyroidism or sick euthyroid syndrome",
+    "TSH-secreting pituitary macroadenoma or RTH",
+    "Factitious hypothyroidism or severe cirrhosis"
+   ],
+   "ans": 0,
+   "exp": "Under thyrotoxicosis (TSH ↓, T4 N, FT4 ↑, T3 N, FT3 ↑), causes include overworking gland (Autoimmune Graves) and stored hormone release (Thyroiditis, Hydatidiform mole/pregnancy). (Book p904)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Serum thyroglobulin is elevated in all forms of thyrotoxicosis EXCEPT ___, where exogenous hormone suppresses endogenous thyroglobulin release.",
+   "opts": [
+    "Thyrotoxicosis factitia (hormone supplementation)",
+    "Graves disease",
+    "Subacute de Quervain thyroiditis",
+    "Toxic multinodular goiter"
+   ],
+   "ans": 0,
+   "exp": "Serum thyroglobulin is increased in all thyrotoxicosis except thyrotoxicosis factitia (hormone supplementation). (Book p904)"
   }
  ]
 }
