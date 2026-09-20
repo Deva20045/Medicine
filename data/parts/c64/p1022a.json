@@ -1,0 +1,138 @@
+{
+ "page": 1022,
+ "sec": "PSC radiology, histology, treatment; PBC vs PSC comparison table",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Which radiological investigation is marked the investigation of choice (IOC) for PSC?",
+   "opts": [
+    "MRCP",
+    "ERCP",
+    "Ultrasound",
+    "CECT abdomen"
+   ],
+   "ans": 0,
+   "exp": "'MRCP (IOC)' with ERCP listed beneath; both point to 'Strictures/Ectasia'. (Book p1022)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Both MRCP and ERCP in PSC demonstrate ______ / ______ of the bile ducts (image caption).",
+   "opts": [
+    "Strictures / Ectasia",
+    "Stones / Sludge",
+    "Cavernoma / Collaterals",
+    "Ductopenia / Granulomas"
+   ],
+   "ans": 0,
+   "exp": "'→ Strictures/Ectasia' and the cholangiogram caption 'Strictures/Ectasia'. (Book p1022)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What histological feature is printed for PSC (and labelled in the micrograph)?",
+   "opts": [
+    "Concentric periductal onion-skin fibrosis",
+    "Florid duct lesion with non-caseating granuloma",
+    "Interface hepatitis with rosettes",
+    "Chicken-wire pericellular fibrosis"
+   ],
+   "ans": 0,
+   "exp": "'Histological Features : Concentric periductal onion skin fibrosis.' Micrograph caption: 'Concentric periductal fibrosis'. (Book p1022)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Treatment of PSC on this page is surgery — what recurrence figure is printed?",
+   "opts": [
+    "25% recurrence",
+    "5% recurrence",
+    "50% recurrence",
+    "10% recurrence"
+   ],
+   "ans": 0,
+   "exp": "'Treatment : Surgery (25% recurrence).' (Book p1022)"
+  },
+  {
+   "fmt": "match",
+   "q": "PBC vs PSC table, row 'Population incidence' — match — 1) PBC 2) PSC … A) Young male B) Perimenopausal females",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Population incidence: PBC = Perimenopausal females; PSC = Young male. (Book p1022)"
+  },
+  {
+   "fmt": "match",
+   "q": "Rows 'Disease type' and 'HLA association' — match — 1) PBC 2) PSC … A) Autoimmune disease; HLA association absent B) Fibrosing disease; HLA association present",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Disease type: PBC autoimmune, PSC fibrosing. HLA association: PBC absent, PSC present (B-8, DR-3). (Book p1022)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Row 'Smoking' — judge: I Smoking increases the risk of PBC. II Smoking is protective in PSC.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Smoking: PBC = Increase risk; PSC = Protective. (Book p1022)"
+  },
+  {
+   "fmt": "match",
+   "q": "Rows 'Disease association' and 'Diagnostic feature' — match — 1) PBC 2) PSC … A) Sjogren's syndrome; AMA Ab B) Ulcerative colitis; MRCP",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Disease association: PBC Sjogren's, PSC UC. Diagnostic feature: PBC AMA Ab, PSC MRCP (printed 'IOP' in the table, 'IOC' on the same page above). (Book p1022)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A young man with ulcerative colitis has raised ALP; MRCP shows multifocal strictures and ectasia. Per the comparison table, what is the treatment listed for his condition?",
+   "opts": [
+    "Transplant",
+    "UDCA",
+    "Obeticholic acid",
+    "Steroid 1 mg/kg with azathioprine"
+   ],
+   "ans": 0,
+   "exp": "The picture is PSC. Table row 'Treatment': PBC = UDCA; PSC = Transplant. (Book p1022)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Row 'Carcinoma association' — judge: I PBC is not premalignant. II PSC is associated with cholangiocarcinoma.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Carcinoma association: PBC = Not premalignant; PSC = A/w cholangiocarcinoma. (Book p1022)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following row pairings from the PBC vs PSC table is WRONGLY stated?",
+   "opts": [
+    "Smoking: PBC protective, PSC increases risk",
+    "Population: PBC perimenopausal females, PSC young male",
+    "Diagnostic feature: PBC AMA Ab, PSC MRCP",
+    "Treatment: PBC UDCA, PSC transplant"
+   ],
+   "ans": 0,
+   "exp": "The smoking row is reversed in this option: the book prints PBC = increase risk, PSC = protective. The other three pairings are correct. (Book p1022)"
+  }
+ ]
+}

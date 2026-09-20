@@ -1,0 +1,138 @@
+{
+ "page": 1027,
+ "sec": "HESST adverse effects, acetaldehyde toxicity, micrographs, laboratory and clinical features",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The adverse-effects mnemonic printed for acetaldehyde/alcohol injury is ______.",
+   "opts": [
+    "HESST",
+    "HEART",
+    "HESSE",
+    "SHEET"
+   ],
+   "ans": 0,
+   "exp": "'mnemonic : HESST' — Hypoxia, Endoplasmic reticulum stress, Superoxide, ↓SAM/↑SAH, Toxic effect of acetaldehyde. (Book p1027)"
+  },
+  {
+   "fmt": "match",
+   "q": "HESST — match — 1) Hypoxia 2) Endoplasmic reticulum stress 3) Superoxide … A) Mallory hyaline bodies B) Reactive oxygen species produced by Cyt P2E1 C) Mitochondrial injury in zone 3 (centrilobular hepatocyte)",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Hypoxia: mitochondrial injury in Zone 3 (centrilobular); ER stress: Mallory hyaline bodies; Superoxide: ROS produced by Cyt P2E1. (Book p1027)"
+  },
+  {
+   "fmt": "recall",
+   "q": "'↓SAM / ↑SAH' in the HESST list is linked to which factor labelled the most important pathogenic factor, and which drug is given as its Rx?",
+   "opts": [
+    "↑ TNF-α; pentoxifylline",
+    "↑ IL-6; tocilizumab",
+    "↑ TGF-β; pirfenidone",
+    "↑ NADH; thiamine"
+   ],
+   "ans": 0,
+   "exp": "'↓SAM/↑SAH : ↑ TNFα most important pathogenic factor' and 'Rx : Pentoxifylline'. (Book p1027)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up the chain printed for the toxic effect of acetaldehyde: ↑ NADH → ↓ ______ → ______ gut.",
+   "opts": [
+    "glutathione; leaky",
+    "ATP; ischaemic",
+    "albumin; oedematous",
+    "SAM; leaky"
+   ],
+   "ans": 0,
+   "exp": "'Toxic effect of acetaldehyde : ↑ NADH → ↓ glutathione → leaky gut'. (Book p1027)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match — 1) Left image 2) Right image … A) Centrilobular necrosis, balloon degeneration, hepatocyte Mallory bodies B) Eosinophilic body inside hepatocyte: Mallory's hyaline bodies (endoplasmic reticulum stress)",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Left caption: 'Eosinophilic body inside hepatocyte : Mallory's hyaline bodies (Endoplasmic reticulum stress)'. Right: 'Centrilobular necrosis, Balloon degeneration hepatocyte Mallory bodies'. (Book p1027)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Under the right micrograph, fatty liver disease is defined by fat in what proportion of hepatocytes, and what does fat pushing the nucleus to the periphery denote?",
+   "opts": [
+    "> 5% hepatocytes; macronodular",
+    "> 30% hepatocytes; microvesicular",
+    "> 50% hepatocytes; macrovesicular",
+    "> 10% hepatocytes; micronodular"
+   ],
+   "ans": 0,
+   "exp": "'Fat in >5% Hepatocytes : Fatty liver disease. Fat pushes nucleus to periphery : macronodular.' (printed wording is macronodular). (Book p1027)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Laboratory features of alcoholic hepatitis — what is the first bullet and what enzyme range is given?",
+   "opts": [
+    "Neutrophilia (TC ↑); liver enzymes 300–500 U/L",
+    "Lymphocytosis; liver enzymes >1000 U/L",
+    "Thrombocytopenia; liver enzymes <150 U/L",
+    "Eosinophilia; ALP 300–500 U/L"
+   ],
+   "ans": 0,
+   "exp": "'Neutrophilia : TC ↑' and 'Liver enzymes : 300 – 500 U/L'. (Book p1027)"
+  },
+  {
+   "fmt": "match",
+   "q": "AST:ALT ratio — match — 1) > 2 : 1 2) > 3 : 1 … A) Highly suggestive of alcoholic hepatitis B) Likely alcoholic hepatitis",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'>2:1 Likely Alcoholic hepatitis; >3:1 Highly suggestive of Alcoholic hepatitis'. (Book p1027)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the remaining lab bullets: I S. albumin is a significant marker (positive acute-phase reactant). II PT/INR is raised. III MCV is raised (macrocytosis).",
+   "opts": [
+    "I false; II and III true",
+    "All three true",
+    "I and II true, III false",
+    "I true; II and III false"
+   ],
+   "ans": 0,
+   "exp": "'S. Albumin : Not significant (Negative acute phase reactant)'; 'PT/INR : ↑'; 'MCV ↑ : macrocytosis'. (Book p1027)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Thiamine depletion in alcoholics is drawn as inhibiting (−) two reactions. Which pair?",
+   "opts": [
+    "Pyruvate → Acyl-CoA (blocked) and the transketolase reaction",
+    "Glucose → glycogen (blocked) and hepatic gluconeogenesis",
+    "Acetaldehyde → acetate (blocked) and mitochondrial β-oxidation",
+    "Ornithine → citrulline (blocked) and glutamine synthetase"
+   ],
+   "ans": 0,
+   "exp": "'Thiamine depletion (−) (−) → Pyruvate ✗→ Acyl-CoA ; Transketolase Reaction' (printed Acyl-CoA; the physiological product is acetyl-CoA). (Book p1027)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Clinical features listed on this page — which is NOT printed?",
+   "opts": [
+    "Splenomegaly",
+    "Jaundice",
+    "P/A soft, painful",
+    "Hepatomegaly"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: Jaundice; P/A Soft, Painful; Hepatomegaly. (Book p1027)"
+  }
+ ]
+}

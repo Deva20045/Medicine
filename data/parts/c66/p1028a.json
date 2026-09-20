@@ -1,0 +1,126 @@
+{
+ "page": 1028,
+ "sec": "Histopathology, complications chain, prognostic scores and treatment",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Histopathological features of alcoholic hepatitis: where is the fatty infiltration located?",
+   "opts": [
+    "Centrilobular (zone III involvement)",
+    "Periportal (zone I involvement)",
+    "Mid-zonal (zone II involvement)",
+    "Diffuse panlobular (all zones)"
+   ],
+   "ans": 0,
+   "exp": "'Centrilobular fatty infiltration (Zone III involvement)'. (Book p1028)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up the 'classical features' bullet: Ballooning degeneration / Alcoholic hyaline surrounding ______ infiltrate.",
+   "opts": [
+    "polymorphonuclear",
+    "lymphoplasmacytic",
+    "eosinophilic",
+    "granulomatous"
+   ],
+   "ans": 0,
+   "exp": "'Ballooning degeneration/Alcoholic hyaline surrounding polymorphonuclear infiltrate (Classical features)'. (Book p1028)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The Note under histopathology says which viral hepatitis shows fatty liver-like changes / hepatic steatosis?",
+   "opts": [
+    "Hepatitis C",
+    "Hepatitis B",
+    "Hepatitis E",
+    "Hepatitis A"
+   ],
+   "ans": 0,
+   "exp": "'Note : Hepatitis C : fatty liver-like changes / hepatic steatosis.' (Book p1028)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What does the trichrome micrograph on p1028 illustrate, per its caption?",
+   "opts": [
+    "Alcoholic hepatitis: nodules with fibrous septation",
+    "Primary sclerosing cholangitis: concentric periductal fibrosis",
+    "NASH: chicken-wire pericellular fibrosis of zone 3",
+    "NCPF: obliterative portal venopathy with sclerotic tracts"
+   ],
+   "ans": 0,
+   "exp": "Caption: 'Alcoholic hepatitis : Nodules with fibrous septation'. (Book p1028)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up the complications chain: Alcoholic hepatitis → Fulminant hepatitis / Decompensated → Encephalopathy + Coagulopathy (Portal HTN) → ↑ ______ → Death.",
+   "opts": [
+    "ICT (intracranial tension)",
+    "INR (coagulopathy)",
+    "Ammonia (encephalopathy)",
+    "Bilirubin (jaundice)"
+   ],
+   "ans": 0,
+   "exp": "'… → Encephalopathy + Coagulopathy → ↑ ICT → Death', with 'Portal HTN' bracketed beneath. (Book p1028)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Discriminant factor (DF) — state the formula and poor-prognosis cut-off exactly as printed.",
+   "opts": [
+    "4.6 × (PT patient − PT control) + S. bilirubin; poor prognosis ≥ 32",
+    "4.6 × (PT control − PT patient) + albumin; ≥ 18",
+    "PT × bilirubin / 4.6; ≥ 9",
+    "4.6 × INR + bilirubin; ≥ 32"
+   ],
+   "ans": 0,
+   "exp": "'Discriminant factor : 4.6 × (PT(PE) − PT(C)) + S. bilirubin — Poor prognosis : ≥ 32'. (Book p1028)"
+  },
+  {
+   "fmt": "match",
+   "q": "Prognostic scores — match — 1) MELD 2) Glasgow 3) Discriminant factor … A) ≥ 32 B) ≥ 9 C) ≥ 18",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "MELD ≥ 18; Glasgow ≥ 9; DF ≥ 32. (Book p1028)"
+  },
+  {
+   "fmt": "management",
+   "q": "Treatment: what is the printed indication for steroid in alcoholic hepatitis, and the regimen?",
+   "opts": [
+    "DF score ≥ 32; 1 mg/kg × 7 days tapering over 3 weeks",
+    "MELD ≥ 18; 1 mg/kg/day × 4 weeks tapering over 12 weeks",
+    "Glasgow ≥ 9; 40 mg/day × 4 weeks",
+    "Any jaundice; 0.5 mg/kg × 2 weeks"
+   ],
+   "ans": 0,
+   "exp": "'Indication to steroid : DF Score ≥ 32 → Start → 1 mg/kg × 7 days tapering over 3 weeks.' (Book p1028)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT printed as 'unfit for steroid'?",
+   "opts": [
+    "Hepatic encephalopathy",
+    "Sepsis",
+    "Renal failure",
+    "Ongoing GI disease"
+   ],
+   "ans": 0,
+   "exp": "Unfit for steroid: Sepsis; Renal failure; Ongoing GI disease. (Book p1028)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A binge drinker with DF 40 develops sepsis. Steroids are unsuitable. What alternative does the flowchart give, with its mechanism and dose?",
+   "opts": [
+    "Pentoxifylline — inhibits TNF-α — 400 mg TDS × 4 weeks",
+    "Pentoxifylline — PDE-5 inhibitor — 400 mg OD × 1 week",
+    "N-acetylcysteine — glutathione donor — 150 mg/kg",
+    "Rifaximin — gut decontamination — 550 mg BD"
+   ],
+   "ans": 0,
+   "exp": "Unfit for steroid → Pentoxifylline: 'Inhibits TNF-α; 400 mg TDS × 4 weeks'. (Book p1028)"
+  }
+ ]
+}

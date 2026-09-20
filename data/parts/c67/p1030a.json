@@ -1,0 +1,150 @@
+{
+ "page": 1030,
+ "sec": "FLD features, NASH histology, risk-factor table and 2-hit progression",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "How is NAFLD defined under 'Features' of Fatty Liver Disease?",
+   "opts": [
+    "Macrovesicular fat / steatosis in ≥ 5% of hepatocytes",
+    "Microvesicular fat in ≥ 30% of hepatocytes",
+    "Macrovesicular fat in ≥ 50% of hepatocytes",
+    "Any fat with ALT > 150 U/L"
+   ],
+   "ans": 0,
+   "exp": "'NAFLD : macrovesicular fat / steatosis ≥5% hepatocytes (Non alcoholic FLD)'. The micrograph caption reads 'macrovesicular fat in NAFLD'. (Book p1030)"
+  },
+  {
+   "fmt": "match",
+   "q": "NAFLD splits into two groups — match — 1) 80% 2) 20% … A) Fatty liver + inflammation = NASH B) Isolated fatty liver (IFL)",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "80% Isolated fatty liver (IFL); 20% Fatty liver + Inflammation: NASH (non-alcoholic steatohepatitis). (Book p1030)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Four histological components branch from NASH. Which is NOT one of them?",
+   "opts": [
+    "Mallory–Denk bodies",
+    "Ballooning change",
+    "Degree of steatosis",
+    "Lobular inflammation"
+   ],
+   "ans": 0,
+   "exp": "Branches: Ballooning change; Degree of steatosis; Lobular inflammation; Chicken-wire fibrosis (Zone 3). (Book p1030)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The fibrosis pattern of NASH is '______ fibrosis (Zone ______)'.",
+   "opts": [
+    "Chicken-wire; 3",
+    "Onion-skin; 1",
+    "Bridging; 2",
+    "Periportal; 1"
+   ],
+   "ans": 0,
+   "exp": "'Chicken-wire fibrosis (Zone 3)'. (Book p1030)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Risk-factor table, column 'Common conditions with established association' — which is NOT in that column?",
+   "opts": [
+    "Hypothyroidism",
+    "Polycystic ovary syndrome",
+    "Starvation / rapid weight loss",
+    "Leptin resistance"
+   ],
+   "ans": 0,
+   "exp": "Column 1: Obesity, T2DM/insulin resistance, dyslipidemia, metabolic syndrome, PCOS, starvation/rapid weight loss, ↓ adiponectin, leptin resistance. Hypothyroidism is in column 2. (Book p1030)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge from column 1: I Adiponectin levels are printed as decreased. II Leptin is printed as deficient.",
+   "opts": [
+    "I true, II false",
+    "I false, II true",
+    "Both true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "'↓ Adiponectin levels' and 'Leptin Resistance' (not deficiency). (Book p1030)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Column 'Other conditions associated with NAFLD' — which is NOT listed?",
+   "opts": [
+    "Cushing's syndrome",
+    "Obstructive sleep apnea",
+    "Pancreatoduodenal resection",
+    "Psoriasis"
+   ],
+   "ans": 0,
+   "exp": "Column 2: Hypothyroidism, OSA, Hypopituitarism, Hypogonadism, Pancreatoduodenal resection, Psoriasis. (Book p1030)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match — 1) T2DM / insulin resistance 2) Hypopituitarism 3) Hypogonadism … A) Other conditions associated B) Common established association",
+   "opts": [
+    "1-B, 2-A, 3-A",
+    "1-A, 2-B, 3-B",
+    "1-B, 2-B, 3-A",
+    "1-A, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "T2DM/insulin resistance is column 1; hypopituitarism and hypogonadism are column 2. (Book p1030)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Drugs column — which drug is NOT printed among the six NAFLD-associated drugs?",
+   "opts": [
+    "Methotrexate",
+    "L-asparaginase",
+    "Griseofulvin",
+    "Amiodarone"
+   ],
+   "ans": 0,
+   "exp": "Drugs: L-asparaginase, Bleomycin, Tetracycline, Griseofulvin, Valproate, Amiodarone. (Book p1030)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: NASH progression follows a ______-hit hypothesis; the 1st hit is ______.",
+   "opts": [
+    "2; risk factors",
+    "3; insulin resistance",
+    "2; unknown",
+    "1; obesity"
+   ],
+   "ans": 0,
+   "exp": "'2 hit hypothesis — Normal liver —1st hit: Risk factors→ NASH —2nd hit: unknown R/F→ Cirrhosis'. (Book p1030)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What proportion of NASH patients progress to cirrhosis, and over what period?",
+   "opts": [
+    "10–15% of patients over 15 years",
+    "20% of patients over 5 years",
+    "1–5% of patients over 10 years",
+    "80% of patients over 15 years"
+   ],
+   "ans": 0,
+   "exp": "'2nd hit : unknown R/F — 10–15% pts over 15 yrs → Cirrhosis'. (Book p1030)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "In the progression diagram an arrow runs directly from NASH to HCC, bypassing cirrhosis, labelled 'Only in NASH & ______'. Complete it.",
+   "opts": [
+    "Hep B virus infection",
+    "Hep C virus infection",
+    "Hemochromatosis",
+    "Alcoholic liver disease"
+   ],
+   "ans": 0,
+   "exp": "'Only in NASH & Hep B virus infection' — HCC without intervening cirrhosis. Cirrhosis itself branches to portal hypertension, liver failure and HCC. (Book p1030)"
+  }
+ ]
+}

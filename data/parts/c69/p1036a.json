@@ -1,0 +1,174 @@
+{
+ "page": 1036,
+ "sec": "HBV structure, genome figure, gene table, progression, infectivity, genotypes, pregnancy 90/10",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "Fill up (Structure): HBV is a DNA ______ virus; its genome is partially double stranded, ______ circular dsDNA.",
+   "opts": [
+    "Hepadna; relaxed",
+    "Hepe; supercoiled",
+    "Picorna; linear",
+    "Flavi; covalently closed"
+   ],
+   "ans": 0,
+   "exp": "'DNA : Hepadnavirus. Partially double stranded : Relaxed circular dsDNA.' Figure caption: 'Relaxed circular dsDNA'. (Book p1036)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match — 1) Incomplete (+) strand 2) Complete (−) strand … A) Reverse transcriptase / polymerase B) Primer",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'Incomplete (+) strand : primer; Complete (−) strand : Reverse transcriptase / polymerase.' (Book p1036)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Infective virion size and name, number of genotypes, and number of ORFs — as printed?",
+   "opts": [
+    "42 nm Dane particle; 10 genotypes; 4 ORFs",
+    "27 nm Dane particle; 6 genotypes; 3 ORFs",
+    "42 nm Australia particle; 8 genotypes; 5 ORFs",
+    "22 nm Dane particle; 10 genotypes; 4 ORFs"
+   ],
+   "ans": 0,
+   "exp": "'Infective particle (virion) : 42 nm Dane particle; 10 genotypes in HBV; 4 open reading frames (ORFs)'. (Book p1036)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which ORF label does NOT appear in the circular genome figure?",
+   "opts": [
+    "ORF E",
+    "ORF Pre S1",
+    "ORF X",
+    "ORF Core"
+   ],
+   "ans": 0,
+   "exp": "Figure labels: ORF Pre S1, ORF Pre S2, HBsAg gene, ORF S, ORF P, Polymerase gene, ORF X, ORF Core, Pre C. There is no separate 'ORF E'. (Book p1036)"
+  },
+  {
+   "fmt": "match",
+   "q": "Gene table — match — 1) S-gene 2) C-gene 3) Pre C-gene … A) HBeAg, qualitative marker of infectivity & replication B) HBsAg, surface protein C) HBcAg, core protein (intracellular; anti-HBcAg in blood)",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "S-gene → HBsAg surface protein; C-gene → HBcAg core protein (intracellular; anti-HBcAg in blood); Pre C-gene (part of C-gene) → HBeAg qualitative marker of infectivity & replication. (Book p1036)"
+  },
+  {
+   "fmt": "match",
+   "q": "Gene table continued — match — 1) P-gene 2) X-gene … A) HBx Ag, associated with hepatocellular carcinoma B) Polymerase, reverse transcriptase enzyme",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "P-gene → polymerase / reverse transcriptase enzyme; X-gene → HBx Ag associated with HCC. (Book p1036)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge from the table: I HBcAg is intracellular and only its antibody is detected in blood. II HBeAg is a quantitative marker of replication.",
+   "opts": [
+    "I true, II false",
+    "I false, II true",
+    "Both true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "'Core protein (Intracellular anti-HBcAg : in blood)'; HBeAg is the 'Qualitative marker of infectivity & replication' (HBV DNA is the quantitative marker, p1037). (Book p1036)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Progression diagram: incubation period, and the outcome percentages after acute hepatitis?",
+   "opts": [
+    "60 days; recovery 95–99%, chronic hepatitis 1–5%",
+    "30 days; recovery 80%, chronic 20%",
+    "40 days; recovery 95%, chronic 5%",
+    "60 days; recovery 50%, chronic 50%"
+   ],
+   "ans": 0,
+   "exp": "'Virus entry —60 days Incubation Period (IP)→ Acute hepatitis → 95–99% Recovery / 1–5% Chronic hepatitis'. (Book p1036)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In the progression diagram, chronic hepatitis follows ______ transmission in ______%.",
+   "opts": [
+    "vertical; 95",
+    "sexual; 30",
+    "percutaneous; 6–30",
+    "transfusion; 5–20"
+   ],
+   "ans": 0,
+   "exp": "'95% Vertical transmission' arrow into Chronic hepatitis. (Book p1036)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is NOT one of the three end-points drawn from cirrhosis in the progression diagram?",
+   "opts": [
+    "Cholangiocarcinoma",
+    "Portal hypertension",
+    "Hepatocellular carcinoma",
+    "Liver failure"
+   ],
+   "ans": 0,
+   "exp": "Cirrhosis → Portal hypertension; Hepatocellular carcinoma; Liver failure. Notes: 'Also seen: NASH' (direct HCC arrow) and 'No treatment available.' (Book p1036)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Infectivity of HBV relative to HIV and HCV, as printed?",
+   "opts": [
+    "100× as HIV, 10× as HCV",
+    "10× as HIV, 100× as HCV",
+    "50× as HIV, 5× as HCV",
+    "Equal to HIV, 10× HCV"
+   ],
+   "ans": 0,
+   "exp": "'100x as HIV, 10x as HCV'. (Book p1036)"
+  },
+  {
+   "fmt": "match",
+   "q": "Genotype notes — match — 1) HAV 2) HEV 3) HBV commonest genotype 4) HBV HCC-risk genotype … A) 4 genotypes B) Genotype C C) 1 genotype D) Genotype A",
+   "opts": [
+    "1-C, 2-A, 3-D, 4-B",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-D, 2-A, 3-C, 4-B"
+   ],
+   "ans": 0,
+   "exp": "'1 genotype in HAV, 4 in HEV → Commonest : Genotype A; HCC risk : Genotype C'. (Book p1036)"
+  },
+  {
+   "fmt": "recall",
+   "q": "HBV is 'found in all body fluids except ______'.",
+   "opts": [
+    "stools",
+    "saliva",
+    "breast milk",
+    "semen"
+   ],
+   "ans": 0,
+   "exp": "'Found in all body fluids except stools.' (Book p1036)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A pregnant woman is HBsAg-positive. Applying the printed 90/10 rule, what determines whether transmission risk is 90% or 10%?",
+   "opts": [
+    "HBeAg status: HBeAg +ve → 90%, HBeAg −ve → 10%",
+    "Anti-HBs titre: <10 mIU/mL → 90%",
+    "Mode of delivery: vaginal 90%, caesarean 10%",
+    "Trimester of infection: third 90%, first 10%"
+   ],
+   "ans": 0,
+   "exp": "'Pregnancy : 90/10 rule — HBsAg +ve + HBeAg +ve : 90% chance of transmission; HBeAg −ve : 10% chance.' (Book p1036)"
+  }
+ ]
+}

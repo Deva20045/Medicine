@@ -1,0 +1,174 @@
+{
+ "page": 1038,
+ "sec": "Progression table, follow-up conversions, chronic hepatitis profile, mutants, serological patterns table",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Progression table — match — 1) Recovery 2) Chronic hepatitis 3) AFH with simple HBV infection 4) AFH with HBV + HDV co-infection … A) 5–20% B) 0.1–1% C) 95–99% D) 1–5%",
+   "opts": [
+    "1-C, 2-D, 3-B, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-C, 2-B, 3-D, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Recovery 95–99%; Chronic hepatitis 1–5%; Acute fulminant hepatitis: simple HBV 0.1–1%, HBV + HDV coinfection 5–20%. (Book p1038)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Follow-up is done after how long, per the printed bullet?",
+   "opts": [
+    "24 weeks since IP / 12–16 weeks of symptom onset",
+    "6 weeks since IP / 2 weeks of symptoms",
+    "52 weeks since IP",
+    "24 weeks of symptom onset / 12–16 weeks since IP"
+   ],
+   "ans": 0,
+   "exp": "'After 24 weeks since IP/12–16 wks of symptom onset'. (Book p1038)"
+  },
+  {
+   "fmt": "match",
+   "q": "Follow-up conversions — match — 1) HBsAg 2) Anti-HBc IgG 3) HBeAg … A) converts to anti-HBeAg B) converts to anti-HBsAg C) converts to anti-HBc IgM (as printed)",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Printed: 'HBsAg converts→ anti HBsAg; Anti HBc IgG converts→ Anti HBc IgM; HBeAg → anti HBeAg' — all three bracketed as Recovery. (Note: the printed IgG→IgM direction is the reverse of the usual IgM→IgG class switch; taught here as written.) (Book p1038)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Per the follow-up bullet, which serological pair defines chronic hepatitis?",
+   "opts": [
+    "HBsAg +ve, anti-HBc IgG +ve",
+    "HBsAg −ve, anti-HBs +ve",
+    "HBeAg −ve, anti-HBe +ve",
+    "Anti-HBc IgM +ve alone"
+   ],
+   "ans": 0,
+   "exp": "'HBsAg +ve, anti HBc IgG +ve : Chronic hepatitis'. (Book p1038)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Chronic hepatitis profile: HBsAg + and anti-HBc IgG +; HBeAg is POSITIVE. What HBV DNA threshold and interpretation does the flowchart give?",
+   "opts": [
+    "HBV DNA load > 20,000 IU/mL — high infectivity, high replication",
+    "HBV DNA load > 2,000 IU/mL — high infectivity, high replication",
+    "HBV DNA load < 2,000 IU/mL — low infectivity, carrier state",
+    "HBV DNA at any level — carrier, no need of Rx but HCC risk"
+   ],
+   "ans": 0,
+   "exp": "'+ve → HBV DNA load > 20000 IU/mL → High infectivity, high replication'. (Book p1038)"
+  },
+  {
+   "fmt": "match",
+   "q": "HBeAg NEGATIVE branch — match — 1) HBV DNA > 2,000 IU/mL 2) HBV DNA < 2,000 IU/mL … A) Low infectivity, low replication → carriers B) High infectivity, high replication",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "HBeAg −ve: HBV DNA > 2000 → high infectivity/replication; < 2000 → low infectivity/replication → Carriers. (Book p1038)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Carriers (HBeAg −, DNA < 2000) — judge: I No need of Rx. II No risk for HCC.",
+   "opts": [
+    "I true, II false",
+    "I false, II true",
+    "Both true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "'Carriers → No need of Rx; Risk for HCC.' (Book p1038)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Pre-core / basal core mutant carries a very poor prognosis with ↑ risk for three outcomes. Which is NOT listed?",
+   "opts": [
+    "Hepatorenal syndrome",
+    "HCC",
+    "Cirrhosis",
+    "Decompensation"
+   ],
+   "ans": 0,
+   "exp": "'Pre-Core / Basal Core mutant : very poor prognosis; ↑ risk for HCC, Cirrhosis, Decompensation.' (Book p1038)"
+  },
+  {
+   "fmt": "match",
+   "q": "Serological patterns table — match — 1) HBsAg + / anti-HBs − / anti-HBc IgM / HBeAg + / anti-HBe − 2) HBsAg + / anti-HBs − / anti-HBc IgG / HBeAg + / anti-HBe − … A) Chronic hepatitis B, high infectivity B) Acute hepatitis B, high infectivity",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Row 1: acute hepatitis B, high infectivity (IgM). Row 2: chronic hepatitis B, high infectivity (IgG). (Book p1038)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Serology: HBsAg +, anti-HBs −, anti-HBc IgG, HBeAg −, anti-HBe −. Give the two printed interpretations and the confirmatory step.",
+   "opts": [
+    "Late acute or chronic hepatitis B with low infectivity, OR HBeAg-negative (precore-mutant) hepatitis B — do HBV DNA to confirm",
+    "Window period of seroconversion from HBsAg to anti-HBs, OR heterotypic anti-HBs — repeat anti-HBs in 4 weeks",
+    "Recovery from hepatitis B, OR hepatitis B in the remote past — no further test is needed",
+    "Acute reactivation of chronic hepatitis B, OR escape mutant — do anti-HBc IgM to confirm"
+   ],
+   "ans": 0,
+   "exp": "Row 3: '1. Late acute or chronic hepatitis B, low infectivity 2. HBeAg negative (Precore-mutant) hepatitis B (Chronic or, rarely, acute). Do HBV DNA to confirm'. (Book p1038)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Serology: HBsAg +, anti-HBs +, anti-HBc +, HBeAg ±, anti-HBe ±. Which pair of interpretations is printed, and which is labelled common vs rare?",
+   "opts": [
+    "HBsAg of one subtype with heterotypic anti-HBs (common); seroconversion from HBsAg to anti-HBs in progress (rare, window period)",
+    "Acute reactivation of chronic hepatitis B (common); S-gene escape mutant that fails to express HBsAg (rare)",
+    "Recovery from hepatitis B with persisting antigenaemia (common); hepatitis B in the remote past (rare)",
+    "Immunisation with HBsAg vaccine plus passive HBIG (common); occult HBV with low viral load (rare)"
+   ],
+   "ans": 0,
+   "exp": "Row 4: '1. HBsAg of one subtype and heterotypic anti-HBs (common) 2. Process of seroconversion from HBsAg to anti HBs (rare) (window period)'. (Book p1038)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Serology: HBsAg −, anti-HBs −, anti-HBc IgM, HBeAg ±, anti-HBe ±. Interpretation?",
+   "opts": [
+    "Acute reactivation of chronic hepatitis B",
+    "Acute hepatitis B, high infectivity",
+    "Hepatitis B in remote past",
+    "Immunisation"
+   ],
+   "ans": 0,
+   "exp": "Row 5: 'Acute reactivation of chronic hepatitis B'. (Book p1038)"
+  },
+  {
+   "fmt": "match",
+   "q": "Last three rows — match — 1) HBsAg −, anti-HBs −, anti-HBc IgG, HBeAg −, anti-HBe ± 2) HBsAg −, anti-HBs +, anti-HBc IgG, HBeAg −, anti-HBe ± 3) HBsAg −, anti-HBs +, anti-HBc −, HBeAg −, anti-HBe − … A) Recovery from hepatitis B B) Immunisation with HBsAg (after vaccination) C) Hepatitis B in remote past, or escape mutant",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Row 6: remote past / escape mutant (anti-HBc alone). Row 7: recovery (anti-HBs + anti-HBc). Row 8: immunisation (anti-HBs alone). (Book p1038)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which single-marker pattern distinguishes vaccination from natural recovery in the serological table?",
+   "opts": [
+    "Anti-HBc is absent after vaccination but present after recovery",
+    "Anti-HBe is present after vaccination but absent after recovery",
+    "HBeAg is positive after vaccination",
+    "Anti-HBs is absent after vaccination"
+   ],
+   "ans": 0,
+   "exp": "Immunisation row: anti-HBs + with anti-HBc −; recovery row: anti-HBs + with anti-HBc IgG. (Book p1038)"
+  }
+ ]
+}

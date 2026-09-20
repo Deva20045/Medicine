@@ -1,0 +1,150 @@
+{
+ "page": 1029,
+ "sec": "Miscellaneous: cirrhosis causes, micro vs macrovesicular steatosis, Reye's, nutmeg liver, Mallory-Denk bodies",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Miscellaneous note: what is printed as the most common cause of cirrhosis?",
+   "opts": [
+    "NASH",
+    "Alcohol",
+    "Hepatitis B",
+    "Hepatitis C"
+   ],
+   "ans": 0,
+   "exp": "'m/c cause of cirrhosis : NASH'. (Book p1029)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Causes of micronodular cirrhosis — which is NOT in the printed list?",
+   "opts": [
+    "Wilson's disease",
+    "Indian childhood cirrhosis (ICC)",
+    "Cystic fibrosis",
+    "Budd Chiari syndrome"
+   ],
+   "ans": 0,
+   "exp": "Micronodular: Alcoholic hepatitis, Biliary cirrhosis, ICC, Cystic fibrosis, Budd Chiari syndrome, Hemochromatosis. Wilson's is the printed macronodular cause. (Book p1029)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which single cause is printed for macronodular cirrhosis?",
+   "opts": [
+    "Wilson's disease",
+    "Hemochromatosis",
+    "Alcoholic hepatitis",
+    "Biliary cirrhosis"
+   ],
+   "ans": 0,
+   "exp": "'Causes of macronodular cirrhosis : Wilson's disease'. (Book p1029)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up the mnemonic for microvesicular steatosis: 'Pretty visits ______ with Alcohol and ______'.",
+   "opts": [
+    "Jamaica; Acid",
+    "Jakarta; Aspirin",
+    "Japan; Amiodarone",
+    "Java; Acetaminophen"
+   ],
+   "ans": 0,
+   "exp": "'mnemonic : Pretty visits Jamaica with Alcohol and Acid.' (Book p1029)"
+  },
+  {
+   "fmt": "match",
+   "q": "Decode the mnemonic letters — match — 1) P 2) R 3) T 4) V … A) Tetracycline B) Reye's syndrome C) Valproate D) Pregnancy",
+   "opts": [
+    "1-D, 2-B, 3-A, 4-C",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-D, 2-B, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Microvesicular column: Pregnancy, Reye's syndrome, Tetracycline, Valproate, Jamaican vomiting sickness, Alcoholic liver disease, Acid lipase deficiency. (Book p1029)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which condition is listed under MACROvesicular (not microvesicular) steatosis?",
+   "opts": [
+    "Wilson's disease",
+    "Jamaican vomiting sickness",
+    "Acid lipase deficiency",
+    "Alcoholic liver disease"
+   ],
+   "ans": 0,
+   "exp": "Macrovesicular: HCV, NASH, Wilson's disease. (Book p1029)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge: I Alcoholic liver disease is placed in the microvesicular column. II HCV and NASH are in the macrovesicular column.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Alcoholic liver disease is in the microvesicular list (the 'Alcohol' of the mnemonic); HCV, NASH, Wilson's are macrovesicular. (Book p1029)"
+  },
+  {
+   "fmt": "recall",
+   "q": "How is Reye's syndrome characterised in the bullet after the table?",
+   "opts": [
+    "Swollen mitochondria with reduced number",
+    "Tennis-racquet mitochondrial cristae",
+    "Glycogenated nuclei",
+    "Nutmeg congestion"
+   ],
+   "ans": 0,
+   "exp": "'Reye's syndrome : Swollen mitochondria with reduced number.' (Book p1029)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: 'Nutmeg liver : Chronic ______ condition.'",
+   "opts": [
+    "venous",
+    "arterial",
+    "biliary",
+    "granulomatous"
+   ],
+   "ans": 0,
+   "exp": "'Nutmeg liver : Chronic venous condition.' (Book p1029)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Mallory–Denk bodies are defined as what, and located where?",
+   "opts": [
+    "Endoplasmic reticulum stress — eosinophilic inclusion bodies in hepatocytes",
+    "Mitochondrial stress — basophilic inclusions in Kupffer cells",
+    "Copper-bound protein — brown granules in bile ducts",
+    "Glycogen — clear nuclear vacuoles"
+   ],
+   "ans": 0,
+   "exp": "'Mallory denk bodies : Endoplasmic reticulum stress (Eosinophilic inclusion bodies) In hepatocytes.' (Book p1029)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Mallory–Denk bodies are 'seen in' a printed list. Which is NOT in that list?",
+   "opts": [
+    "Hepatitis B / Hepatitis C",
+    "Wilson's",
+    "ICC (Indian childhood cirrhosis)",
+    "PBC"
+   ],
+   "ans": 0,
+   "exp": "Seen in: Wilson's, ICC, NASH, Cholestasis, Alcohol/Alpha-1 antitrypsin deficiency, PBC, HCC. 'Not seen in HBV / HCV.' (Book p1029)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge: I Mallory–Denk bodies are seen in HCC. II They are seen in alpha-1 antitrypsin deficiency. III They are seen in HBV.",
+   "opts": [
+    "I and II true, III false",
+    "All three true",
+    "I true, II and III false",
+    "III true, I and II false"
+   ],
+   "ans": 0,
+   "exp": "HCC and Alcohol/Alpha-1 antitrypsin deficiency are in the seen-in list; 'Not seen in HBV / HCV'. (Book p1029)"
+  }
+ ]
+}
