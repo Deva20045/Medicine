@@ -55,11 +55,12 @@ rest show a **Soon** badge.
 | Ch 38 · Magnesium Metabolism (p892–894) — 3 units, 48 questions | ✅ live |
 | Ch 39 · Osteoporosis (p895–897) — 3 units, 50 questions | ✅ live |
 | Ch 40 · Basics of Thyroid Gland (p898–901) — 4 units, 59 questions | ✅ live |
-| Ch 52 · Hyponatremia (p962–964) — 16 questions | ✅ live on this branch |
-| Ch 53 · Polyuria (p965–967) — 16 questions | ✅ live on this branch |
-| Ch 54 · Potassium Metabolism (p968–975) — 16 questions | ✅ live on this branch |
-| Ch 55 · Management of Hypertension - 2023 Guidelines (p976–981) — 16 questions | ✅ live on this branch |
-| Ch 56 · Basics of Development and Anatomy of Liver (p982–985) — 17 questions | ✅ live on this branch |
+| Ch 41–51 (Thyroid function tests → Antidiuretic Hormone, p902–961) — 11 chapters, 735 questions | ✅ live |
+| Ch 52 · Hyponatremia (p962–964) — 3 units, 47 questions | ✅ live |
+| Ch 53 · Polyuria (p965–967) — 3 units, 53 questions | ✅ live |
+| Ch 54 · Potassium Metabolism (p968–975) — 8 units, 106 questions | ✅ live |
+| Ch 55 · Management of Hypertension - 2023 Guidelines (p976–981) — 6 units, 77 questions | ✅ live |
+| Ch 56 · Basics of Development and Anatomy of Liver (p982–985) — 4 units, 55 questions | ✅ live |
 | Ch 57–59 (General Hepatology) | 🚧 in progress |
 | Ch 60 · Portal Hypertension (p1001–1004) — 8 units, 86 questions | ✅ live on this branch |
 | Ch 61 · Ascites and Hepatorenal Syndrome (p1005–1009) — 8 units, 81 questions | ✅ live on this branch |

@@ -155,7 +155,7 @@ for (const chapter of source) {
 // verifies option-shuffle answer mapping, matching boards, citations, double-click
 // locking, completion scores and the missed-question review. It is a DOM-shim
 // runtime regression, not a visual-browser or medical-correctness test.
-const newUnits = sourceUnits.filter(u => u.ch >= 47 && u.ch <= 51);
+const newUnits = sourceUnits.filter(u => u.ch >= 52 && u.ch <= 56);
 let exercised = 0;
 for (const unit of newUnits) {
   for (const wantCorrect of [true, false]) {

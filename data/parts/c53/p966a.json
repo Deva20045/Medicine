@@ -1,0 +1,210 @@
+{
+ "page": 966,
+ "sec": "Polyuria · clinical features, copeptin and water deprivation testing, treatment of central DI",
+ "items": [
+  {
+   "fmt": "truefalse",
+   "q": "Assess the clinical-features list on Book p966: I Polyuria is quantified here as 3-15 L/day alongside polydipsia. II The sex distribution favours females.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The list gives m = F for sex, with polyuria of 3-15 L/day and polydipsia, abrupt-onset hyponatremia and a predilection for cold water. (Book p966)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Patients with DI show a predilection for ______ water, and this page records the onset as an abrupt ______aemia.",
+   "opts": [
+    "cold; hyponatr",
+    "warm; hypernatr",
+    "iced; hypercalctr",
+    "room-temperature; hyponatr"
+   ],
+   "ans": 0,
+   "exp": "The two bullets are a predilection for cold water and hyponatremia with abrupt onset; note that the complication line on Book p967 instead names hypernatremia as a rare complication. (Book p966)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What basal plasma copeptin value does the evaluation algorithm treat as a normal level?",
+   "opts": [
+    "Greater than 21.4 pmol/L",
+    "Greater than 3.8 pmol/L",
+    "Less than 21.4 pmol/L",
+    "Greater than 300 pmol/L"
+   ],
+   "ans": 0,
+   "exp": "Step 1 is the plasma copeptin assay, and above 21.4 pmol/L is labelled a normal level, which routes the patient to nephrogenic DI. (Book p966)"
+  },
+  {
+   "fmt": "management",
+   "q": "A polyuric patient has a basal plasma copeptin of 26 pmol/L. What does the page's algorithm conclude?",
+   "opts": [
+    "Nephrogenic DI, without further stimulation testing",
+    "Central DI, and arginine stimulation is needed",
+    "Psychogenic polydipsia",
+    "The result is uninterpretable until water deprivation is done"
+   ],
+   "ans": 0,
+   "exp": "A normal basal copeptin above 21.4 pmol/L points straight at nephrogenic DI; only the low-value branch proceeds to stimulated testing. (Book p966)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each copeptin result with the diagnosis it produces in the algorithm — 1) Basal above 21.4 pmol/L 2) Arginine-stimulated above 3.8 pmol/L 3) Arginine-stimulated below 3.8 pmol/L … A) Central DI B) Nephrogenic DI C) Psychogenic polydipsia",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Basal copeptin above 21.4 pmol/L gives nephrogenic DI, while a low basal value leads to arginine stimulation, with above 3.8 pmol/L read as psychogenic polydipsia and below 3.8 pmol/L as central DI. (Book p966)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which secretagogue is named for the stimulated copeptin assay on this page?",
+   "opts": [
+    "Arginine",
+    "Hypertonic saline",
+    "Insulin-induced hypoglycaemia",
+    "Glucagon"
+   ],
+   "ans": 0,
+   "exp": "The second box is titled stimulated copeptin assay with arginine in brackets, used when basal copeptin is below 21.4 pmol/L. (Book p966)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "In the arginine-stimulated branch, what copeptin level separates psychogenic polydipsia from central DI?",
+   "opts": [
+    "3.8 pmol/L",
+    "21.4 pmol/L",
+    "600 mOsm/kg",
+    "10 pmol/L"
+   ],
+   "ans": 0,
+   "exp": "Above 3.8 pmol/L is labelled psychogenic polydipsia and below 3.8 pmol/L central DI. (Book p966)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 29-year-old nurse passes 8 L/day, has a basal copeptin of 12 pmol/L and a post-arginine copeptin of 9 pmol/L. What is the page's interpretation?",
+   "opts": [
+    "Psychogenic polydipsia",
+    "Central DI",
+    "Nephrogenic DI",
+    "Partial central DI"
+   ],
+   "ans": 0,
+   "exp": "A basal value under 21.4 pmol/L requires stimulation, and a stimulated copeptin above 3.8 pmol/L is placed in the psychogenic polydipsia branch. (Book p966)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each variable of the water deprivation test with how often the page repeats it — 1) Serum osmolality 2) Urine osmolality 3) Body weight … A) Hourly B) Two-hourly C) Hourly",
+   "opts": [
+    "1-A, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Serum osmolality and body weight are repeated hourly while urine osmolality is repeated 2-hourly during the deprivation study. (Book p966)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Water is withheld for how long at the start of the deprivation test, and at what percentage fall in body weight must the test be stopped?",
+   "opts": [
+    "3 hours, and stop if body weight falls by more than 3%",
+    "5 hours, and stop if body weight falls by more than 5%",
+    "3 hours, and stop if body weight falls by more than 1%",
+    "12 hours, and stop only for serum osmolality above 300 mOsm/kg"
+   ],
+   "ans": 0,
+   "exp": "No water is given for 3 hours, and the two stop rules are a body-weight fall above 3% and serum osmolality above 300 mOsm/kg. (Book p966)"
+  },
+  {
+   "fmt": "management",
+   "q": "At hour 4 of a water deprivation test the patient's serum osmolality reads 306 mOsm/kg. What does the protocol require next?",
+   "opts": [
+    "Stop the test and move on to the urine osmolality step",
+    "Continue deprivation until urine osmolality exceeds 600 mOsm/kg",
+    "Give desmopressin immediately without checking urine osmolality",
+    "Restart the test after rehydrating for 24 hours"
+   ],
+   "ans": 0,
+   "exp": "Serum osmolality above 300 mOsm/kg is one of the two stop criteria, after which the check-urine-osmolality box of the flowchart is reached. (Book p966)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "In the flowchart, a urine osmolality above which value ends the test with a psychogenic label, without giving desmopressin?",
+   "opts": [
+    "600 mOsm/kg",
+    "300 mOsm/kg",
+    "1000 mOsm/kg",
+    "150 mOsm/kg"
+   ],
+   "ans": 0,
+   "exp": "Urine osmolality above 600 mOsm/kg after deprivation is read as psychogenic, while values under 600 mOsm/kg lead to the desmopressin step. (Book p966)"
+  },
+  {
+   "fmt": "recall",
+   "q": "How does this page state the desmopressin doses used inside the deprivation test, and what is the correct clinical reading of the parenteral figure?",
+   "opts": [
+    "2 mg i.m. per 2 mL as printed, which is the microgram strength of the injection",
+    "2 mg i.m. as printed, and the dose really is milligrams",
+    "10 mg i.m. as printed, mirroring the intranasal dose",
+    "4 mg i.m. with no intranasal option listed"
+   ],
+   "ans": 0,
+   "exp": "The flowchart prints desmopressin 2 mg i.m./2 mL with 10-20 micrograms intranasally; parenteral desmopressin is dosed in micrograms, so the printed milligram figure stands for the microgram strength of the ampoule. (Book p966)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each hourly rise in urine osmolality after desmopressin with its diagnosis — 1) Rise above 50% 2) Rise of 10-50% 3) Rise under 10% … A) Nephrogenic DI B) Central DI C) Partial central DI",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "The three branches read increased above 50% as central DI, 10-50% as partial central DI, and under 10% as nephrogenic DI. (Book p966)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A deprived patient has a urine osmolality of 240 mOsm/kg, rising to 298 mOsm/kg in the hour after desmopressin. Which label does the flowchart assign?",
+   "opts": [
+    "Partial central DI",
+    "Complete central DI",
+    "Nephrogenic DI",
+    "Psychogenic polydipsia"
+   ],
+   "ans": 0,
+   "exp": "The rise is about 24%, which falls in the 10-50% band the page assigns to partial central DI rather than the under-10% nephrogenic band. (Book p966)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the water-deprivation graph: I The primary polydipsia curve climbs steadily towards 1000 mOsm over the 14-hour axis. II The curve that stays flat and never responds after desmopressin is labelled central DI.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Normal and polydipsia curves rise, central DI stays low through deprivation and then jumps after the desmopressin point near hour 10, while the nephrogenic DI trace is the flat orange line along the baseline. (Book p966)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Central DI is treated with desmopressin at ______ intranasally or ______ orally, both twice daily.",
+   "opts": [
+    "10-20 micrograms; 0.1-0.8 mg",
+    "1-2 micrograms; 0.05-0.1 mg",
+    "50-100 micrograms; 1-2 mg",
+    "10-20 mg; 0.1-0.8 micrograms"
+   ],
+   "ans": 0,
+   "exp": "The treatment line gives 10-20 micrograms intranasal BD and 0.1-0.8 mg PO BD for central DI. (Book p966)"
+  }
+ ]
+}

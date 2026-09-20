@@ -1,0 +1,162 @@
+{
+ "page": 972,
+ "sec": "Hypokalemia · ECG changes, investigations and the diagnostic algorithm",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match each serum potassium value in the ECG column with the tracing described beside it — 1) 3.5 2) 3.0 3) 2.5 4) 5 … A) Normal complex B) Low T wave C) Low T wave with a high U wave D) Low T wave, high U wave and a low S-T segment",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-A, 2-C, 3-B, 4-D"
+   ],
+   "ans": 0,
+   "exp": "The ECG ladder reads 5 as normal, 3.5 with a low T wave, 3.0 with a low T and high U wave, and 2.5 adding a depressed S-T segment. (Book p972)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Below the tracings the page shows QT prolongation leading to ______, and it distinguishes the ______ interval from the ______ interval in the annotation beside the sketches.",
+   "opts": [
+    "Tdp; Q-T; Q-U",
+    "VF; Q-T; Q-T",
+    "Tdp; P-R; Q-U",
+    "TdP; Q-U; S-T"
+   ],
+   "ans": 0,
+   "exp": "QT prolongation is drawn as leading to TdP, and the note separates the Q-T from the Q-U interval, the difficulty of telling them apart being the practical reason U waves matter. (Book p972)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the rhythm strip on this page: I The two arrows annotate the tracing as polymorphic ventricular tachycardia with a prolonged QT interval. II The caption under the strip reads torsades de points rather than the usual spelling.",
+   "opts": [
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Both labels, polymorphic VT and prolonged QT interval, are drawn onto the strip, and the caption is indeed printed as torsades de points. (Book p972)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Which two urine thresholds on this page mark a renal cause of potassium loss?",
+   "opts": [
+    "Urine K+ above 15 mEq/L and urine K+ to creatinine above 13 mEq/g",
+    "Urine K+ above 20 mEq/L and urine K+ to creatinine above 20 mEq/g",
+    "Urine K+ above 15 mEq/L and urine K+ to creatinine above 8.5 mEq/g",
+    "Urine K+ above 13 mEq/L and urine K+ to creatinine above 15 mEq/g"
+   ],
+   "ans": 0,
+   "exp": "Investigation 3 gives urine K+ above 15 mEq/L and a urine K+ to creatinine ratio above 13 mEq per gram creatinine as the renal-cause flags. (Book p972)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each investigation on this list with what it is meant to establish — 1) Serum K+ below 3.5 mEq/L 2) Serum magnesium 3) Urine K+ to creatinine … A) Whether a renal wasting cause is present B) That hypokalemia exists at all C) A co-cause that must be corrected before potassium will rise",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "The three investigations are the definition of hypokalemia, the magnesium level, and the urine potassium measures that separate renal from non-renal loss; low magnesium drives ROMK-mediated leak, so it has to be corrected first. (Book p972)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 26-year-old is found to have potassium 2.2 mEq/L after an insulin overdose; urine K+ to creatinine is 4 mEq/g and the pH is normal. Which limb of the printed algorithm does this fall into, and what is the listed cause set?",
+   "opts": [
+    "Under 13 mEq/g with no acid-base issue, pointing to intracellular shift from insulin, periodic paralysis or beta-adrenergic stimulation",
+    "Above 13 mEq/g with metabolic alkalosis and normal blood pressure, pointing to Gitelman's syndrome",
+    "Above 13 mEq/g with metabolic acidosis, pointing to distal renal tubular acidosis",
+    "Under 13 mEq/g with metabolic acidosis, pointing to diarrhoea"
+   ],
+   "ans": 0,
+   "exp": "A low urinary potassium with a normal acid-base status is the shift limb, whose three named examples are hypokalemic periodic paralysis, insulin and beta-adrenergic stimulation. (Book p972)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In the low-urinary-potassium limb, a concurrent metabolic acidosis is ascribed to ______, while the high-urinary-potassium limb splits into metabolic ______ and metabolic ______.",
+   "opts": [
+    "diarrhea; alkalosis; acidosis",
+    "diarrhea; acidosis; alkalosis",
+    "RTA type 1; alkalosis; acidosis",
+    "vomiting; alkalosis; acidosis"
+   ],
+   "ans": 0,
+   "exp": "Below 13 mEq/g creatinine the two boxes are no acid-base issues and metabolic acidosis with diarrhoea; above that threshold the algorithm offers metabolic alkalosis and metabolic acidosis as the next fork. (Book p972)"
+  },
+  {
+   "fmt": "management",
+   "q": "A hypokalemic patient has urine K+ of 20 mEq/g creatinine, metabolic alkalosis and blood pressure 152/96 mmHg. What does the algorithm tell the clinician to order next?",
+   "opts": [
+    "Renin and aldosterone levels",
+    "Urine chloride",
+    "Serum magnesium only",
+    "An arterial blood gas for acidosis"
+   ],
+   "ans": 0,
+   "exp": "The high-urinary-potassium, alkalotic branch begins by checking blood pressure, and a raised pressure leads straight to the renin-aldosterone box; urine chloride is the low or normal pressure route. (Book p972)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "A low urine chloride in a normotensive alkalotic patient with renal potassium wasting is paired with which two entries on this page?",
+   "opts": [
+    "Diuretics and magnesium deficiency",
+    "Vomiting and remote diuretic use",
+    "Bartter syndrome and Gitelman syndrome",
+    "Primary hyperaldosteronism and Liddle syndrome"
+   ],
+   "ans": 0,
+   "exp": "The low branch lists vomiting and remote diuretics, whereas a high urine chloride is what carries current diuretic use, magnesium deficiency, Bartter and Gitelman syndromes. (Book p972)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which four causes are written beside the high urine chloride box?",
+   "opts": [
+    "Diuretics, magnesium deficiency, Bartter syndrome and Gitelman syndrome",
+    "Vomiting, remote diuretics, laxative abuse and Bartter syndrome",
+    "Conn's syndrome, Cushing's syndrome, Liddle's syndrome and AME",
+    "Diarrhoea, RTA type 1, RTA type 2 and amphotericin B"
+   ],
+   "ans": 0,
+   "exp": "The high-chloride box lists diuretics, magnesium deficiency, Bartter syndrome and Gitelman syndrome, the four states in which chloride is lost in urine along with potassium. (Book p972)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each threshold with the cut-off the algorithm prints for it — 1) Low urinary potassium 2) High urinary potassium 3) Renal cause on the investigations list … A) Above 13 mEq/g creatinine B) Below 13 mEq/g creatinine C) Above 15 mEq/L in a random sample",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The two algorithm boxes are printed as below and above 13 mEq K+ per gram creatinine, equivalent to below and above 8.5 mEq per mmol creatinine, while the investigations list uses a random urine K+ above 15 mEq/L. (Book p972)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "The obvious causes to be ruled out on the high-potassium-excretion side include all of these EXCEPT:",
+   "opts": [
+    "Nonabsorbable anions",
+    "Hypomagnesemia",
+    "Amphotericin B",
+    "Thyrotoxic periodic paralysis"
+   ],
+   "ans": 0,
+   "exp": "The box lists hypomagnesemia, diuretics, nonabsorbable anions, AmB and aminoglycosides; thyrotoxic periodic paralysis is a shift disorder and belongs on the opposite, low-excretion side of the algorithm. (Book p972)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess two statements about the algorithm's structure: I It branches first on urinary potassium and only then on acid-base status and blood pressure. II The metabolic acidosis box on the high-excretion side is expanded into named causes within the figure.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Urine potassium is the root of the flowchart, followed by the acid-base split and then blood pressure or urine chloride, but the alkalosis arm on the right ends at a bare metabolic acidosis box with no listed causes inside the figure. (Book p972)"
+  }
+ ]
+}

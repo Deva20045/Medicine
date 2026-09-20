@@ -5,243 +5,1158 @@
  "questions": [
   {
    "id": "MED-C55-001",
-   "sec": "Definition",
+   "sec": "Hypertension 2023 · definition, risk factors and pathophysiology",
    "page": 976,
-   "fmt": "recall",
-   "q": "Which statement best describes blood pressure equation?",
+   "fmt": "fillup",
+   "q": "Fill up: The chapter defines blood pressure as the measurement of the ______ exerted by blood as it ______ through the arteries.",
    "opts": [
-    "Cardiac output divided by SVR",
-    "Heart rate divided by stroke volume",
-    "SVR divided by cardiac output",
-    "Cardiac output multiplied by systemic vascular resistance"
+    "force; filters",
+    "resistance; pulsates",
+    "force; pulsates",
+    "volume; flows"
    ],
-   "ans": 3,
-   "exp": "The chapter states systemic BP = CO × SVR. (Book p976)"
+   "ans": 2,
+   "exp": "The definition line reads force exerted by blood as it pulsates through the arteries, an arterial rather than venous formulation. (Book p976)"
   },
   {
    "id": "MED-C55-002",
-   "sec": "Risk",
+   "sec": "Hypertension 2023 · definition, risk factors and pathophysiology",
    "page": 976,
-   "fmt": "match",
-   "q": "Match the key concept in stroke association with its correct interpretation.",
+   "fmt": "truefalse",
+   "q": "Assess the equation and its legend: I Systemic blood pressure is written as cardiac output multiplied by systemic vascular resistance. II The abbreviation SVR is expanded on this page as systemic venous resistance.",
    "opts": [
-    "Hemorrhagic stroke is an important association",
-    "Appendicitis (as a contrasting clinical alternative)",
-    "Iron deficiency",
-    "Otitis externa"
+    "I false; II true",
+    "Both are false",
+    "Both are true",
+    "I true; II false"
    ],
-   "ans": 0,
-   "exp": "Hemorrhagic stroke is highlighted among major associations. (Book p976)"
+   "ans": 2,
+   "exp": "Both statements describe the page: the product is CO x SVR, and the legend printed to the right does expand SVR as systemic venous resistance although the term used in the equation is vascular resistance, the usual expansion. (Book p976)"
   },
   {
    "id": "MED-C55-003",
-   "sec": "Risk",
+   "sec": "Hypertension 2023 · definition, risk factors and pathophysiology",
    "page": 976,
-   "fmt": "scenario",
-   "q": "A patient is being evaluated for 10 mmHg systolic reduction. Which finding or action is most appropriate?",
+   "fmt": "numeric",
+   "q": "A 10 mmHg fall in systolic blood pressure is quoted as reducing the risk of coronary artery disease and of stroke death by which percentages?",
    "opts": [
-    "Falls 100%",
-    "Stroke-death risk falls about 50–60%",
-    "Falls 1–2% (as a contrasting clinical alternative)",
-    "Rises 20%"
+    "10 to 15% and 20 to 25%",
+    "20 to 30% and 40 to 50%",
+    "50 to 60% and 40 to 50%",
+    "40 to 50% and 50 to 60%"
    ],
-   "ans": 1,
-   "exp": "The diagram gives a 50–60% reduction in stroke death. (Book p976)"
+   "ans": 3,
+   "exp": "The two branches under the 10 mmHg fall give a 40-50% reduction in CAD risk and a 50-60% reduction in stroke death. (Book p976)"
   },
   {
    "id": "MED-C55-004",
-   "sec": "Risk",
+   "sec": "Hypertension 2023 · definition, risk factors and pathophysiology",
    "page": 976,
-   "fmt": "fillup",
-   "q": "In the context of kidney relationship, the principal ___ is:",
+   "fmt": "match",
+   "q": "Match each head of the risk-factor tree with what is hung beneath it — 1) Stroke 2) Cardiovascular disease 3) A fall in SBP of 10 mmHg … A) Smoking, hyperlipidemia, diabetes and hypertension itself B) Hemorrhagic stroke, labelled the most important C) A 40 to 50% drop in CAD risk and a 50 to 60% drop in stroke death",
    "opts": [
-    "Kidney disease always prevents hypertension",
-    "Hypertension only follows dialysis",
-    "Hypertension and kidney disease worsen each other",
-    "They are unrelated"
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
    ],
-   "ans": 2,
-   "exp": "The page depicts a bidirectional relationship. (Book p976)"
+   "ans": 0,
+   "exp": "Stroke takes the single hemorrhagic entry marked most important, cardiovascular disease takes smoking, hyperlipidemia, diabetes and HTN, and the 10 mmHg fall carries the two percentage reductions. (Book p976)"
   },
   {
    "id": "MED-C55-005",
-   "sec": "Drug classes",
-   "page": 977,
+   "sec": "Hypertension 2023 · definition, risk factors and pathophysiology",
+   "page": 976,
    "fmt": "oddoneout",
-   "q": "Which option is the odd one out regarding frontline classes?",
+   "q": "The pathophysiology block explains why a sustained rise in cardiac output cannot maintain hypertension. Which step does NOT belong to that chain?",
    "opts": [
-    "Only beta blockers (as a contrasting clinical alternative)",
-    "Only nitrates",
-    "Only loop diuretics",
-    "ACE inhibitors/ARBs, calcium blockers and thiazide-like diuretics"
+    "Increased renal blood flow",
+    "Rise in renal interstitial hydrostatic pressure",
+    "Increased sodium and water excretion",
+    "Falling renal interstitial hydrostatic pressure"
    ],
    "ans": 3,
-   "exp": "A, C and D are grouped as frontline drugs. (Book p977)"
+   "exp": "The chain runs from a sustained rise in CO to increased renal blood flow, then to a raised, not lowered, renal interstitial hydrostatic pressure and increased Na+ and H2O excretion, which is why it will not produce sustained hypertension. (Book p976)"
   },
   {
    "id": "MED-C55-006",
-   "sec": "Drug classes",
-   "page": 977,
-   "fmt": "truefalse",
-   "q": "Assess these statements about beta blocker indication: I the first statement is correct; II the second statement is incorrect.",
+   "sec": "Hypertension 2023 · definition, risk factors and pathophysiology",
+   "page": 976,
+   "fmt": "fillup",
+   "q": "Fill up: The bracket that gathers the raised interstitial pressure and the natriuresis together is labelled ______, and the page concludes that this mechanism ______ sustained hypertension.",
    "opts": [
-    "Coronary artery disease, atrial fibrillation or reduced-EF heart failure",
-    "Every uncomplicated patient",
-    "Acute appendicitis",
-    "Isolated anemia"
+    "pressure natriuresis; will produce",
+    "tubuloglomerular feedback; will not produce",
+    "pressure natriuresis; will not produce",
+    "glomerulotubular balance; will produce"
    ],
-   "ans": 0,
-   "exp": "Beta blockers are used for specific indications. (Book p977)"
+   "ans": 2,
+   "exp": "Pressure natriuresis is the labelled bracket, and the line in red reads that this pathway will not produce sustained HTN. (Book p976)"
   },
   {
    "id": "MED-C55-007",
-   "sec": "Drug classes",
-   "page": 977,
-   "fmt": "numeric",
-   "q": "What is the characteristic value or relationship for telmisartan example?",
+   "sec": "Hypertension 2023 · definition, risk factors and pathophysiology",
+   "page": 976,
+   "fmt": "truefalse",
+   "q": "Assess the two arms of the pathophysiology tree: I SVR or PVR, not cardiac output, is called the main factor for hypertension. II Its mechanism is vascular remodeling with a fall in vascular diameter and a rise in stiffness.",
    "opts": [
-    "200 mg",
-    "20 mg starting dose",
-    "2 mg (as a contrasting clinical alternative)",
-    "80 mg"
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
    ],
-   "ans": 1,
-   "exp": "The diagram lists telmisartan 20 mg. (Book p977)"
+   "ans": 0,
+   "exp": "The right arm carries the main factor for HTN label and the mechanism box lists vascular remodeling splitting into reduced diameter and increased stiffness. (Book p976)"
   },
   {
    "id": "MED-C55-008",
-   "sec": "Drug classes",
-   "page": 977,
-   "fmt": "scenario",
-   "q": "A clinical decision depends on ramipril example. Which choice is best?",
+   "sec": "Hypertension 2023 · definition, risk factors and pathophysiology",
+   "page": 976,
+   "fmt": "management",
+   "q": "Why does the page place beta-blockers outside the preferred first line in modern practice?",
    "opts": [
-    "25 mg",
-    "100 mg",
-    "2.5 mg starting dose",
-    "0.25 mg"
+    "They raise SVR and worsen vascular stiffness",
+    "They block the renin-angiotensin system completely",
+    "They cause sodium retention through ENaC activation",
+    "Their major action is to reduce cardiac output, which pressure natriuresis can compensate for"
    ],
-   "ans": 2,
-   "exp": "The diagram lists ramipril 2.5 mg. (Book p977)"
+   "ans": 3,
+   "exp": "The CO arm ends with the note that a beta-blocker's major action is to lower cardiac output, and that this is not a preferred first line drug now, consistent with the page's argument that a fall in CO alone does not sustain hypertension. (Book p976)"
   },
   {
    "id": "MED-C55-009",
-   "sec": "Algorithm",
-   "page": 978,
+   "sec": "Hypertension 2023 · definition, risk factors and pathophysiology",
+   "page": 976,
    "fmt": "recall",
-   "q": "Which statement best describes initial combination?",
+   "q": "What does the small note box drawn beside the risk-factor tree assert about hypertension and kidney disease?",
    "opts": [
-    "B plus D",
-    "C plus beta blocker universally",
-    "A plus potassium",
-    "A plus C"
+    "Both arrows are struck through, denying any relationship",
+    "Only the arrow from kidney disease to hypertension is ticked, labelled secondary HTN, while the opposite arrow is struck through",
+    "Both arrows are ticked, describing a fully self-perpetuating cycle",
+    "Only the arrow from hypertension to kidney disease is ticked"
    ],
-   "ans": 3,
-   "exp": "ESH initial therapy is A+C or A+D. (Book p978)"
+   "ans": 1,
+   "exp": "The box crosses out the HTN to kidney-disease arrow and ticks the return arrow under the label secondary HTN, a shorthand for the point that renal disease is a cause of hypertension here; in clinical practice long-standing hypertension does also damage the kidney. (Book p976)"
   },
   {
    "id": "MED-C55-010",
-   "sec": "Algorithm",
-   "page": 978,
-   "fmt": "match",
-   "q": "Match the key concept in A drug group with its correct interpretation.",
+   "sec": "Hypertension 2023 · definition, risk factors and pathophysiology",
+   "page": 976,
+   "fmt": "scenario",
+   "q": "A 24-year-old with a high-output state from severe anaemia has a systolic of 138 mmHg that normalises after transfusion. Which element of this page's pathophysiology best explains the normalisation?",
    "opts": [
-    "ACE inhibitor or ARB",
-    "Beta blocker only",
-    "Loop diuretic only",
-    "Insulin"
+    "Renal interstitial hydrostatic pressure fell below normal",
+    "Pressure natriuresis prevented the raised cardiac output from sustaining hypertension",
+    "Vascular remodeling had not yet reduced arterial diameter",
+    "Beta-blocker activity fell and restored resting tone"
    ],
-   "ans": 0,
-   "exp": "A denotes RAAS blockade. (Book p978)"
+   "ans": 1,
+   "exp": "The CO arm ends in increased sodium and water excretion under the label pressure natriuresis, and the page states plainly that a sustained rise in CO will not produce sustained HTN. (Book p976)"
   },
   {
    "id": "MED-C55-011",
-   "sec": "Algorithm",
-   "page": 978,
-   "fmt": "scenario",
-   "q": "A patient is being evaluated for C drug group. Which finding or action is most appropriate?",
+   "sec": "Hypertension 2023 · definition, risk factors and pathophysiology",
+   "page": 976,
+   "fmt": "oddoneout",
+   "q": "Which of the following is not one of the four heads hung under the major risk association with HTN?",
    "opts": [
-    "Aldosterone antagonist only",
-    "Calcium-channel blocker",
-    "ARB only",
-    "Thiazide only"
+    "Cardiovascular disease",
+    "The 10 mmHg systolic reduction branch",
+    "Left ventricular hypertrophy",
+    "Stroke"
    ],
-   "ans": 1,
-   "exp": "C denotes a calcium-channel blocker. (Book p978)"
+   "ans": 2,
+   "exp": "The tree runs from major risk association with HTN into stroke and cardiovascular disease, with the SBP reduction branch and its two percentages beneath; LVH appears later as a target-organ finding, not here. (Book p976)"
   },
   {
    "id": "MED-C55-012",
-   "sec": "Algorithm",
-   "page": 978,
-   "fmt": "fillup",
-   "q": "In the context of D drug group, the principal ___ is:",
+   "sec": "Hypertension 2023 · definition, risk factors and pathophysiology",
+   "page": 976,
+   "fmt": "numeric",
+   "q": "In the pathophysiology tree, what is written as the fall in vascular diameter and what as the rise, both under vascular remodeling?",
    "opts": [
-    "Beta agonist",
-    "Vasopressin",
-    "Thiazide or thiazide-like diuretic",
-    "Calcium blocker"
+    "Diameter rises and stiffness falls",
+    "Both diameter and stiffness fall",
+    "Both diameter and stiffness rise",
+    "Diameter falls and stiffness rises"
    ],
-   "ans": 2,
-   "exp": "D denotes a thiazide-like diuretic. (Book p978)"
+   "ans": 3,
+   "exp": "Vascular remodeling splits into a downward arrow beside vascular diameter and an upward arrow beside vascular stiffness. (Book p976)"
   },
   {
    "id": "MED-C55-013",
-   "sec": "Algorithm",
-   "page": 979,
-   "fmt": "oddoneout",
-   "q": "Which option is the odd one out regarding A+C response?",
+   "sec": "Hypertension 2023 · types, risk factors and the grading and staging tables",
+   "page": 977,
+   "fmt": "numeric",
+   "q": "What share of hypertension is attributed to secondary causes on this page, and what is the accompanying instruction?",
    "opts": [
-    "10% (as a contrasting clinical alternative)",
-    "30%",
-    "100%",
-    "Optimal response in about 60% at three months"
+    "20 to 25%, and screen only if resistant",
+    "5 to 10%, and screen only below 30 years of age",
+    "50%, and rule out after starting therapy",
+    "5 to 10%, and rule out before treating as primary HTN"
    ],
    "ans": 3,
-   "exp": "The flowchart gives 60%. (Book p979)"
+   "exp": "The secondary HTN branch carries two bullets, 5-10% chances and rule out before treating as primary HTN. (Book p977)"
   },
   {
    "id": "MED-C55-014",
-   "sec": "Algorithm",
-   "page": 979,
+   "sec": "Hypertension 2023 · types, risk factors and the grading and staging tables",
+   "page": 977,
    "fmt": "truefalse",
-   "q": "Assess these statements about no response to A+C: I the first statement is correct; II the second statement is incorrect.",
+   "q": "Assess the primacy labels in the risk-factor row: I Heritability is annotated as the most important factor. II Obesity and weight gain carries no superlative of its own.",
    "opts": [
-    "Add D to form A+C+D",
-    "Stop all therapy",
-    "Add insulin",
-    "Use potassium alone"
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
    ],
    "ans": 0,
-   "exp": "Triple therapy is the next depicted step. (Book p979)"
+   "exp": "Heritability is indeed labelled most important factor, but obesity and weight gain is also given the tag, printed as and most important, so the page awards the superlative twice. (Book p977)"
   },
   {
    "id": "MED-C55-015",
-   "sec": "Resistant HTN",
-   "page": 980,
+   "sec": "Hypertension 2023 · types, risk factors and the grading and staging tables",
+   "page": 977,
    "fmt": "numeric",
-   "q": "What is the characteristic value or relationship for eGFR above 30?",
+   "q": "What are the quoted chances of hypertension when both parents are hypertensive, and when a single parent is?",
    "opts": [
-    "Insulin",
-    "Spironolactone is shown as DOC",
-    "Chlorthalidone only",
-    "Digoxin"
+    "30 to 40% and 25%",
+    "50 to 60% and 30%",
+    "25% and 15%",
+    "70% and 40%"
    ],
-   "ans": 1,
-   "exp": "The eGFR branch selects spironolactone above 30. (Book p980)"
+   "ans": 0,
+   "exp": "Under heritability the two branches read both parents with chances of 30-40% and a single parent at 25%. (Book p977)"
   },
   {
    "id": "MED-C55-016",
-   "sec": "Resistant HTN",
-   "page": 981,
-   "fmt": "scenario",
-   "q": "A clinical decision depends on eGFR at or below 30. Which choice is best?",
+   "sec": "Hypertension 2023 · types, risk factors and the grading and staging tables",
+   "page": 977,
+   "fmt": "oddoneout",
+   "q": "All four entries belong to the dietary risk-factor bullet EXCEPT:",
    "opts": [
-    "ACE inhibitor withdrawal",
-    "Beta agonist",
-    "Chlorthalidone",
-    "Spironolactone in every case"
+    "High sodium",
+    "Low calcium",
+    "Low magnesium",
+    "High potassium"
+   ],
+   "ans": 3,
+   "exp": "The diet list reads high sodium, low calcium, low phosphate and low magnesium; a high potassium intake is instead prescribed later as part of lifestyle therapy. (Book p977)"
+  },
+  {
+   "id": "MED-C55-017",
+   "sec": "Hypertension 2023 · types, risk factors and the grading and staging tables",
+   "page": 977,
+   "fmt": "match",
+   "q": "Match each mediator with the column it is filed in on this page — 1) Endothelin 2) Adrenomedullin 3) Reactive oxygen species 4) Prostacyclin … A) Vasoconstrictors B) Vasodilators listed as protective factors",
+   "opts": [
+    "1-A, 2-B, 3-A, 4-B",
+    "1-B, 2-A, 3-B, 4-A",
+    "1-A, 2-B, 3-B, 4-A",
+    "1-A, 2-A, 3-B, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Endothelin and reactive oxygen species sit with angiotensin II, the sympathetic nervous system and arginine vasopressin as vasoconstrictors, while NO, ANP, BNP, adrenomedullin, prostacyclin and adiponectin form the protective vasodilator column. (Book p977)"
+  },
+  {
+   "id": "MED-C55-018",
+   "sec": "Hypertension 2023 · types, risk factors and the grading and staging tables",
+   "page": 977,
+   "fmt": "oddoneout",
+   "q": "Which of these is NOT one of the protective vasodilator factors in the table?",
+   "opts": [
+    "Adiponectin",
+    "Brain natriuretic peptide",
+    "Atrial natriuretic peptide",
+    "Arginine vasopressin"
+   ],
+   "ans": 3,
+   "exp": "Arginine vasopressin is the fourth entry of the vasoconstrictor column, whereas NO, ANP, BNP, adrenomedullin, prostacyclin and adiponectin make up the vasodilator side. (Book p977)"
+  },
+  {
+   "id": "MED-C55-019",
+   "sec": "Hypertension 2023 · types, risk factors and the grading and staging tables",
+   "page": 977,
+   "fmt": "numeric",
+   "q": "In the grades table, what blood pressure range is labelled high-normal?",
+   "opts": [
+    "140 to 159 systolic and or 90 to 99 diastolic",
+    "Below 120 and below 80",
+    "130 to 139 systolic and or 85 to 89 diastolic",
+    "120 to 129 systolic and 80 to 84 diastolic"
    ],
    "ans": 2,
-   "exp": "The diagram selects chlorthalidone at or below 30. (Book p981)"
+   "exp": "The rows run optimal below 120 and below 80, normal 120-129 and 80-84, high-normal 130-139 and or 85-89, then grades 1 to 3. (Book p977)"
+  },
+  {
+   "id": "MED-C55-020",
+   "sec": "Hypertension 2023 · types, risk factors and the grading and staging tables",
+   "page": 977,
+   "fmt": "truefalse",
+   "q": "Assess how the grades table joins its two columns: I The optimal and normal rows are joined by and, while every higher row is joined by and or. II Grade 3 hypertension begins at a systolic of 180 or a diastolic of 110.",
+   "opts": [
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The conjunction switches from and to and or from the high-normal row downwards, and the final printed row reads 180 and or 110 in red. (Book p977)"
+  },
+  {
+   "id": "MED-C55-021",
+   "sec": "Hypertension 2023 · types, risk factors and the grading and staging tables",
+   "page": 977,
+   "fmt": "recall",
+   "q": "Which grade is assigned to a reading of 168/102 mmHg on this table?",
+   "opts": [
+    "High-normal",
+    "Grade 2 hypertension",
+    "Grade 1 hypertension",
+    "Grade 3 hypertension"
+   ],
+   "ans": 1,
+   "exp": "Grade 2 spans 160-179 systolic or 100-109 diastolic, and either column alone is enough because the rows are joined by and or. (Book p977)"
+  },
+  {
+   "id": "MED-C55-022",
+   "sec": "Hypertension 2023 · types, risk factors and the grading and staging tables",
+   "page": 977,
+   "fmt": "match",
+   "q": "Match each stage with the definition printed under it — 1) Stage I 2) Stage II 3) Stage III … A) Hypertension with CKD G4 to G5 or cardiovascular disease B) Uncomplicated hypertension with no mediated organ damage, CKD, CVD or diabetes C) Hypertension mediated organ damage or CKD G1 to G3",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Stage I is uncomplicated disease, stage II is mediated organ damage or CKD in groups 1 to 3, and stage III is CKD groups 4 to 5 or cardiovascular disease. (Book p977)"
+  },
+  {
+   "id": "MED-C55-023",
+   "sec": "Hypertension 2023 · types, risk factors and the grading and staging tables",
+   "page": 977,
+   "fmt": "scenario",
+   "q": "A 55-year-old has repeated clinic readings of 152/94 mmHg, an eGFR of 52 mL/min and no left ventricular hypertrophy. How is this stage and graded?",
+   "opts": [
+    "Grade 1 hypertension, stage II",
+    "Grade 2 hypertension, stage III",
+    "High-normal, stage I",
+    "Grade 1 hypertension, stage I"
+   ],
+   "ans": 0,
+   "exp": "152/94 falls in the 140-159 or 90-99 band of grade 1, and an eGFR of 52 is CKD stage G3a, which the stage tree places in stage II with mediated organ damage rather than stage III reserved for G4 to G5. (Book p977)"
+  },
+  {
+   "id": "MED-C55-024",
+   "sec": "Hypertension 2023 · types, risk factors and the grading and staging tables",
+   "page": 977,
+   "fmt": "recall",
+   "q": "Which genetic entry is listed as a free-standing risk factor beside stress and physical inactivity?",
+   "opts": [
+    "Glucocorticoid remediable aldosteronism gene",
+    "ACE insertion polymorphism",
+    "Alpha adducin gene",
+    "Adducin beta subunit deletion"
+   ],
+   "ans": 2,
+   "exp": "The right-hand end of the risk-factor row carries the alpha adducin gene, alongside smoking far exceeding alcohol, physical inactivity and stress. (Book p977)"
+  },
+  {
+   "id": "MED-C55-025",
+   "sec": "Hypertension 2023 · types, risk factors and the grading and staging tables",
+   "page": 977,
+   "fmt": "truefalse",
+   "q": "Assess two comparative statements from the risk-factor row: I Smoking is written as far more important than alcohol. II Physical inactivity and stress each get their own branch.",
+   "opts": [
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The row shows smoking with a much-greater-than sign before alcohol, and physical inactivity and stress are separate heads, as is the alpha adducin gene. (Book p977)"
+  },
+  {
+   "id": "MED-C55-026",
+   "sec": "Hypertension 2023 · types, risk factors and the grading and staging tables",
+   "page": 977,
+   "fmt": "fillup",
+   "q": "Fill up: The two heads of the types tree are ______ hypertension, which carries the risk factors, and ______ hypertension, which must be ruled out first.",
+   "opts": [
+    "essential; renal",
+    "grade 1; grade 2",
+    "primary; endocrine",
+    "primary; secondary"
+   ],
+   "ans": 3,
+   "exp": "The tree splits into primary HTN with its risk-factor branches and secondary HTN with the two bullets about frequency and the need to rule it out before treating as primary. (Book p977)"
+  },
+  {
+   "id": "MED-C55-027",
+   "sec": "Hypertension 2023 · diagnosis, measurement protocol and secondary causes",
+   "page": 978,
+   "fmt": "match",
+   "q": "Match each diagnostic modality with its cut-off on the table — 1) Office BP 2) Daytime ambulatory mean 3) Night-time ambulatory mean 4) Home BP mean … A) 135 and or 85 B) 130 and or 70 C) 140 and or 90 D) 135 and or 85",
+   "opts": [
+    "1-D, 2-A, 3-B, 4-C",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-B, 3-A, 4-D"
+   ],
+   "ans": 1,
+   "exp": "Office and home values share nothing with the night-time row, which alone uses 130 over 70; daytime and home means are both 135 or 85, and the 24-hour mean is 130 or 80. (Book p978)"
+  },
+  {
+   "id": "MED-C55-028",
+   "sec": "Hypertension 2023 · diagnosis, measurement protocol and secondary causes",
+   "page": 978,
+   "fmt": "recall",
+   "q": "Which ambulatory measurement is bracketed as the best method for the diagnosis of hypertension?",
+   "opts": [
+    "The daytime mean",
+    "The night-time mean",
+    "The home BP mean",
+    "The 24-hour mean"
+   ],
+   "ans": 3,
+   "exp": "The row for the 24h mean carries the annotation best method for diagnosis of HTN, with cut-offs of 130 and or 80. (Book p978)"
+  },
+  {
+   "id": "MED-C55-029",
+   "sec": "Hypertension 2023 · diagnosis, measurement protocol and secondary causes",
+   "page": 978,
+   "fmt": "truefalse",
+   "q": "Assess the diagnostic sequence: I Ambulatory BP monitoring is the first choice, and office or home BP is used when it is not possible. II A single elevated reading above the diagnostic cut-off is enough to label confirmed hypertension.",
+   "opts": [
+    "Both are true",
+    "Both are false",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 2,
+   "exp": "The flow starts with ABPM and falls back to office or home BP if that is not possible, and confirmation needs a mean of three readings followed by a repeat after one week. (Book p978)"
+  },
+  {
+   "id": "MED-C55-030",
+   "sec": "Hypertension 2023 · diagnosis, measurement protocol and secondary causes",
+   "page": 978,
+   "fmt": "numeric",
+   "q": "How is the office measurement taken in terms of readings and interval, and how long before must coffee, cigarettes and exercise stop?",
+   "opts": [
+    "2 readings five minutes apart, with 1 hour of abstinence",
+    "3 readings two minutes apart, with 15 minutes of abstinence",
+    "1 reading after 5 minutes, with no abstinence required",
+    "3 consecutive readings a minute apart, with 30 minutes of abstinence beforehand"
+   ],
+   "ans": 3,
+   "exp": "The office protocol takes three consecutive readings at one-minute intervals after a 30-minute abstinence from coffee, cigarettes and exercise, with the patient seated comfortably for 3 to 5 minutes. (Book p978)"
+  },
+  {
+   "id": "MED-C55-031",
+   "sec": "Hypertension 2023 · diagnosis, measurement protocol and secondary causes",
+   "page": 978,
+   "fmt": "fillup",
+   "q": "Fill up: In the office posture list the cuff is applied at ______ level, the arm is supported at the level of the ______, and the lower limb is kept ______.",
+   "opts": [
+    "mid arm; shoulder; unsupported",
+    "forearm; heart; on the ground",
+    "mid arm; heart; on the ground",
+    "upper arm; diaphragm; crossed"
+   ],
+   "ans": 2,
+   "exp": "The four posture bullets are back rest, cuff at mid arm level, arm at the level of the heart and the lower limb on the ground. (Book p978)"
+  },
+  {
+   "id": "MED-C55-032",
+   "sec": "Hypertension 2023 · diagnosis, measurement protocol and secondary causes",
+   "page": 978,
+   "fmt": "management",
+   "q": "After three office readings a mean of 148/92 mmHg is obtained at the first visit. What does the flowchart require next?",
+   "opts": [
+    "Order ambulatory monitoring before any repeat visit",
+    "Repeat the reading after 4 weeks",
+    "Repeat the BP after 1 week and confirm if it is still at or above the cutoff",
+    "Start medication the same day"
+   ],
+   "ans": 2,
+   "exp": "The office arm runs from the mean value at or above 140/90 to a repeat after one week and only then to confirmed HTN; the four-week interval belongs to the home BP arm. (Book p978)"
+  },
+  {
+   "id": "MED-C55-033",
+   "sec": "Hypertension 2023 · diagnosis, measurement protocol and secondary causes",
+   "page": 978,
+   "fmt": "numeric",
+   "q": "How does the home BP arm differ in the interval before rechecking, and what equipment is acceptable for both arms?",
+   "opts": [
+    "Recheck after 4 weeks; mercury auscultatory devices only",
+    "Recheck after 24 hours; ambulatory devices only",
+    "Recheck after 4 weeks; automatic electronic upper arm cuff or hybrid manual auscultatory devices",
+    "Recheck after 1 week; wrist devices only"
+   ],
+   "ans": 2,
+   "exp": "Home BP means a run of consecutive values, a mean at or above 140/90 and a recheck after 4 weeks, using either automatic electronic upper arm cuff devices or hybrid manual auscultatory devices. (Book p978)"
+  },
+  {
+   "id": "MED-C55-034",
+   "sec": "Hypertension 2023 · diagnosis, measurement protocol and secondary causes",
+   "page": 978,
+   "fmt": "oddoneout",
+   "q": "Which element is NOT among the pre-measurement conditions for office BP on this page?",
+   "opts": [
+    "A full bladder",
+    "Back rest",
+    "No cigarette for 30 minutes",
+    "Sitting comfortably for 3 to 5 minutes"
+   ],
+   "ans": 0,
+   "exp": "The list covers comfortable sitting for 3 to 5 minutes, back rest, mid-arm cuff, arm at heart level, feet on the ground and 30 minutes free of coffee, cigarettes and exercise; an empty bladder is implied by good practice, not a full one. (Book p978)"
+  },
+  {
+   "id": "MED-C55-035",
+   "sec": "Hypertension 2023 · diagnosis, measurement protocol and secondary causes",
+   "page": 978,
+   "fmt": "match",
+   "q": "Match each renovascular pattern with its clinical description — 1) Unilateral renal artery stenosis 2) Bilateral renal artery stenosis 3) Chronic glomerulonephritis … A) IgA nephropathy or membranoproliferative GN B) Normal renal function tests C) Renal failure with flash pulmonary oedema",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 1,
+   "exp": "The types under renovascular disease read unilateral RAS with normal RFT and bilateral RAS with renal failure and flash pulmonary oedema, while chronic GN is specified as IgA or MPSGN. (Book p978)"
+  },
+  {
+   "id": "MED-C55-036",
+   "sec": "Hypertension 2023 · diagnosis, measurement protocol and secondary causes",
+   "page": 978,
+   "fmt": "oddoneout",
+   "q": "Which of the following is not among the listed causes of renovascular hypertension?",
+   "opts": [
+    "Takayasu arteritis",
+    "Fibromuscular dysplasia",
+    "Atherosclerosis",
+    "Polyarteritis nodosa"
+   ],
+   "ans": 3,
+   "exp": "The three causes given are Takayasu, fibromuscular dysplasia and atherosclerosis; polyarteritis nodosa, though a vasculitis, is not listed. (Book p978)"
+  },
+  {
+   "id": "MED-C55-037",
+   "sec": "Hypertension 2023 · diagnosis, measurement protocol and secondary causes",
+   "page": 978,
+   "fmt": "recall",
+   "q": "Which three headings sit directly under rule out causes of secondary hypertension?",
+   "opts": [
+    "Renal, phaeochromocytoma and Cushing syndrome",
+    "Coarctation, OSAS and primary aldosteronism",
+    "Renal, coarctation of the aorta and obstructive sleep apnoea syndrome",
+    "Endocrine, cardiac and renal"
+   ],
+   "ans": 2,
+   "exp": "The renal and cardiac causes box branches into renal, coarctation of the aorta and OSAS; endocrine causes are given their own tree on the next page. (Book p978)"
+  },
+  {
+   "id": "MED-C55-038",
+   "sec": "Hypertension 2023 · diagnosis, measurement protocol and secondary causes",
+   "page": 978,
+   "fmt": "scenario",
+   "q": "A 62-year-old smoker has sudden hypertension, a creatinine of 2.4 mg/dL and an episode of flash pulmonary oedema. Which entry of this page's secondary tree fits best?",
+   "opts": [
+    "Obstructive sleep apnoea syndrome",
+    "Renal renovascular disease with bilateral renal artery stenosis",
+    "Renal renovascular disease with unilateral renal artery stenosis",
+    "Coarctation of the aorta"
+   ],
+   "ans": 1,
+   "exp": "The page assigns renal failure with flash pulmonary oedema to bilateral RAS, whereas the unilateral form is the one annotated with normal renal function tests. (Book p978)"
+  },
+  {
+   "id": "MED-C55-039",
+   "sec": "Hypertension 2023 · diagnosis, measurement protocol and secondary causes",
+   "page": 978,
+   "fmt": "fillup",
+   "q": "Fill up: Under the renal heading the three branches are renovascular, ______ and chronic glomerulonephritis, and the abbreviation RAS is expanded on the page as ______.",
+   "opts": [
+    "thrombotic microangiopathy; renin-angiotensin system",
+    "interstitial nephritis; renal artery stenosis",
+    "thrombotic microangiopathy; resistant aortic stenosis",
+    "thrombotic microangiopathy; renal artery stenosis"
+   ],
+   "ans": 3,
+   "exp": "The renal branch splits into renovascular, thrombotic microangiopathy and chronic glomerulonephritis, and the legend printed at the bottom expands RAS as renal artery stenosis rather than the renin-angiotensin system. (Book p978)"
+  },
+  {
+   "id": "MED-C55-040",
+   "sec": "Hypertension 2023 · endocrine secondary causes, work-up and treatment indications",
+   "page": 979,
+   "fmt": "match",
+   "q": "Match each monogenic form with the renin and aldosterone pattern printed for it — 1) Liddle syndrome 2) Apparent mineralocorticosteroid excess 3) Glucocorticoid remediable hyperaldosteronism … A) Low renin with low aldosterone B) Low renin with high aldosterone",
+   "opts": [
+    "1-B, 2-B, 3-A",
+    "1-A, 2-A, 3-B",
+    "1-B, 2-A, 3-A",
+    "1-A, 2-B, 3-B"
+   ],
+   "ans": 1,
+   "exp": "ENaC activation in Liddle syndrome and the cortisol excess of apparent mineralocorticoid excess both suppress renin and aldosterone, whereas the ACTH-driven chimeric gene of glucocorticoid remediable aldosteronism gives low renin with high aldosterone. (Book p979)"
+  },
+  {
+   "id": "MED-C55-041",
+   "sec": "Hypertension 2023 · endocrine secondary causes, work-up and treatment indications",
+   "page": 979,
+   "fmt": "recall",
+   "q": "Which mechanism is written beside Geller's syndrome in the genetic list?",
+   "opts": [
+    "Chimeric gene formation under ACTH control",
+    "Gain of function of the mineralocorticosteroid receptor",
+    "Loss of function of 11-beta hydroxysteroid dehydrogenase",
+    "Activation of the epithelial sodium channel"
+   ],
+   "ans": 1,
+   "exp": "Geller's syndrome is the entry annotated as a mineralocorticosteroid receptor gain of function, distinct from the ENaC activation of Liddle syndrome and the ACTH-driven chimera of GRA. (Book p979)"
+  },
+  {
+   "id": "MED-C55-042",
+   "sec": "Hypertension 2023 · endocrine secondary causes, work-up and treatment indications",
+   "page": 979,
+   "fmt": "truefalse",
+   "q": "Assess the bracket drawn beside the genetic list: I It reads hypertension with metabolic alkalosis and hypokalemia. II Gordon's syndrome shares that biochemical pattern.",
+   "opts": [
+    "Both are false",
+    "I true; II false",
+    "I false; II true",
+    "Both are true"
+   ],
+   "ans": 1,
+   "exp": "The bracket gives hypertension, metabolic alkalosis and hypokalemia for the Liddle and apparent mineralocorticoid excess group, while Gordon's syndrome is written on the opposite side of the comparison with hyperkalemia and acidosis. (Book p979)"
+  },
+  {
+   "id": "MED-C55-043",
+   "sec": "Hypertension 2023 · endocrine secondary causes, work-up and treatment indications",
+   "page": 979,
+   "fmt": "oddoneout",
+   "q": "Phaetype IV or Gordon's syndrome is described with all of the following EXCEPT:",
+   "opts": [
+    "Hyperkalemia",
+    "Acidosis",
+    "Reverse Gitelman's label",
+    "Hypokalemia"
+   ],
+   "ans": 3,
+   "exp": "The Gordon's column lists hyperkalemia, acidosis, hypertension and the reverse Gitelman's annotation, and potassium is high rather than low. (Book p979)"
+  },
+  {
+   "id": "MED-C55-044",
+   "sec": "Hypertension 2023 · endocrine secondary causes, work-up and treatment indications",
+   "page": 979,
+   "fmt": "truefalse",
+   "q": "Compare the two pseudohypoaldosteronism columns: I PHA type I is entered with hyperkalemia, acidosis and a normal to low blood pressure. II The distinguishing feature drawn between type I and Gordon's syndrome is the blood pressure.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are false",
+    "Both are true"
+   ],
+   "ans": 3,
+   "exp": "Both columns share hyperkalemia and acidosis, and what separates them on the page is the pressure, with hypertension in Gordon's syndrome and normal to low pressure in type I. (Book p979)"
+  },
+  {
+   "id": "MED-C55-045",
+   "sec": "Hypertension 2023 · endocrine secondary causes, work-up and treatment indications",
+   "page": 979,
+   "fmt": "recall",
+   "q": "The triad of primary hyperaldosteronism printed under the acquired column consists of which three findings?",
+   "opts": [
+    "Hypertension, metabolic acidosis and hyperkalemia",
+    "Hypotension, metabolic alkalosis and hypokalemia",
+    "Hypertension, hypoglycaemia and hyperkalemia",
+    "Hypertension, metabolic alkalosis and hypokalemia"
+   ],
+   "ans": 3,
+   "exp": "The acquired list opens with the primary hyperaldosteronism triad of HTN, m alkalosis and hypokalemia, then continues with Cushing syndrome, phaeochromocytoma, acromegaly, raised thyroid hormones, hypothyroidism and raised PTH. (Book p979)"
+  },
+  {
+   "id": "MED-C55-046",
+   "sec": "Hypertension 2023 · endocrine secondary causes, work-up and treatment indications",
+   "page": 979,
+   "fmt": "oddoneout",
+   "q": "All of these appear in the acquired endocrine list EXCEPT:",
+   "opts": [
+    "Addison's disease",
+    "Acromegaly",
+    "Hypothyroidism",
+    "Phaeochromocytoma"
+   ],
+   "ans": 0,
+   "exp": "The acquired column names primary hyperaldosteronism, Cushing syndrome, phaeochromocytoma, acromegaly, raised T3 and T4, hypothyroidism and a raised PTH; Addison's disease is not part of it. (Book p979)"
+  },
+  {
+   "id": "MED-C55-047",
+   "sec": "Hypertension 2023 · endocrine secondary causes, work-up and treatment indications",
+   "page": 979,
+   "fmt": "management",
+   "q": "Which study is labelled the first investigation when secondary hypertension is being worked up?",
+   "opts": [
+    "Plasma aldosterone to renin ratio",
+    "CT adrenals without contrast",
+    "24-hour urine fractionated metanephrines",
+    "Ultrasound with renal artery Doppler"
+   ],
+   "ans": 3,
+   "exp": "The investigation branch for secondary HTN marks USG with renal artery doppler as the 1st investigation, before the renal function, urine albumin to creatinine and hormonal panels. (Book p979)"
+  },
+  {
+   "id": "MED-C55-048",
+   "sec": "Hypertension 2023 · endocrine secondary causes, work-up and treatment indications",
+   "page": 979,
+   "fmt": "match",
+   "q": "Match each investigation with the purpose it serves on this page — 1) 24-hour urine fractionated metanephrines 2) TFT and PTH 3) Urine albumin to creatinine ratio … A) Thyroid and parathyroid causes B) A phaeochromocytoma screen C) A marker of hypertensive renal damage alongside RFT",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 3,
+   "exp": "The investigations are grouped as the doppler study, the renal damage markers of urine albumin to creatinine and RFT, the electrolyte and hormonal panel of sodium, potassium, calcium, phosphate, metanephrines, TFT and PTH, plus LVH and retinopathy as target-organ findings. (Book p979)"
+  },
+  {
+   "id": "MED-C55-049",
+   "sec": "Hypertension 2023 · endocrine secondary causes, work-up and treatment indications",
+   "page": 979,
+   "fmt": "recall",
+   "q": "Which measurement is called the best indicator of target organ damage?",
+   "opts": [
+    "Brachial office systolic blood pressure",
+    "Night-time ambulatory diastolic pressure",
+    "Pulse pressure alone",
+    "Central systolic blood pressure"
+   ],
+   "ans": 3,
+   "exp": "The last entry of the investigation row is central systolic blood pressure, annotated as the best indicator of target organ damage. (Book p979)"
+  },
+  {
+   "id": "MED-C55-050",
+   "sec": "Hypertension 2023 · endocrine secondary causes, work-up and treatment indications",
+   "page": 979,
+   "fmt": "numeric",
+   "q": "Below what age, and with how many drugs in a regimen, does this page prompt a search for secondary hypertension?",
+   "opts": [
+    "Any age, provided 3 drugs are prescribed without a diuretic",
+    "Below 40 years, and uncontrolled on 3 drugs including a diuretic",
+    "Below 50 years, and uncontrolled on 2 drugs",
+    "Below 30 years, and uncontrolled on 4 drugs excluding a diuretic"
+   ],
+   "ans": 1,
+   "exp": "The three prompting factors are hypertension below 40 years, resistant hypertension defined as uncontrolled on 3 drugs including diuretics, and hypertension with target organ damage. (Book p979)"
+  },
+  {
+   "id": "MED-C55-051",
+   "sec": "Hypertension 2023 · endocrine secondary causes, work-up and treatment indications",
+   "page": 979,
+   "fmt": "match",
+   "q": "Match each treatment threshold with the printed instruction — 1) 130/80 mmHg with coronary artery disease 2) 140/90 mmHg, grade 1, with no organ damage 3) 150/95 mmHg … A) Start medication at once B) Start monotherapy C) Four weeks of lifestyle changes first",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 2,
+   "exp": "Coronary disease takes monotherapy from 130/80, grade 1 without mediated damage gets four weeks of lifestyle measures, and 150/95 goes straight to medication. (Book p979)"
+  },
+  {
+   "id": "MED-C55-052",
+   "sec": "Hypertension 2023 · endocrine secondary causes, work-up and treatment indications",
+   "page": 979,
+   "fmt": "fillup",
+   "q": "Fill up: The four-week lifestyle block asks for weight reduction, a diet with ______ salt and ______ potassium and magnesium, more physical activity, reduced smoking and ______.",
+   "opts": [
+    "reduced; reduced; increased alcohol",
+    "unchanged; raised; increased stress",
+    "reduced; raised; reduced stress",
+    "raised; reduced; increased salt"
+   ],
+   "ans": 2,
+   "exp": "The five lifestyle lines are weight reduction, a diet with a fall in salt and rises in potassium and magnesium, increased physical activity, reduced smoking and reduced stress. (Book p979)"
+  },
+  {
+   "id": "MED-C55-053",
+   "sec": "Hypertension 2023 · endocrine secondary causes, work-up and treatment indications",
+   "page": 979,
+   "fmt": "truefalse",
+   "q": "Assess the escalation rule and the targets: I If blood pressure does not change after four weeks of lifestyle measures, a minimum of two drugs is started. II The target is 120 to 130 over 70 to 80 in patients below 65 years and 130 to 140 over 80 to 90 in those above 65.",
+   "opts": [
+    "Both are false",
+    "Both are true",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 1,
+   "exp": "The arrow labelled no change in BP leads to start with minimum 2 drugs, and the two target lines are printed by age band exactly as stated. (Book p979)"
+  },
+  {
+   "id": "MED-C55-054",
+   "sec": "Hypertension 2023 · endocrine secondary causes, work-up and treatment indications",
+   "page": 979,
+   "fmt": "scenario",
+   "q": "A 58-year-old with newly detected hypertension at 146/92 mmHg has no organ damage, no diabetes and no cardiovascular disease. What does this page's algorithm do first?",
+   "opts": [
+    "Four weeks of lifestyle measures, then two drugs if the BP does not change",
+    "Immediate monotherapy",
+    "Immediate two-drug therapy",
+    "Observation alone for six months"
+   ],
+   "ans": 0,
+   "exp": "A reading of 146/92 falls in the 140/90 grade 1 box without mediated organ damage, which the flowchart sends to four weeks of lifestyle change before starting a minimum of two drugs. (Book p979)"
+  },
+  {
+   "id": "MED-C55-055",
+   "sec": "Hypertension 2023 · endocrine secondary causes, work-up and treatment indications",
+   "page": 979,
+   "fmt": "oddoneout",
+   "q": "Which of the following would NOT by itself prompt a search for secondary hypertension according to the list on this page?",
+   "opts": [
+    "Resistant hypertension on three drugs including a diuretic",
+    "Hypertension with target organ damage",
+    "Onset at 55 years with BP controlled on amlodipine",
+    "Hypertension at 32 years of age"
+   ],
+   "ans": 2,
+   "exp": "The three prompting factors are age under 40, resistance on three drugs including a diuretic and target organ damage; a well-controlled 55-year-old meets none of them. (Book p979)"
+  },
+  {
+   "id": "MED-C55-056",
+   "sec": "Hypertension 2023 · front-line drugs, ESH combinations and resistant hypertension",
+   "page": 980,
+   "fmt": "match",
+   "q": "Match each letter used by the page with the drug class it stands for — 1) A 2) C 3) D 4) B … A) Thiazide or thiazide-like diuretics B) Calcium channel blockers C) Beta-blockers, used only on indication D) ACE inhibitors and angiotensin receptor blockers",
+   "opts": [
+    "1-B, 2-C, 3-A, 4-D",
+    "1-D, 2-B, 3-A, 4-C",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 1,
+   "exp": "A covers both ACE inhibitors and ARBs, C the calcium channel blockers, D the thiazide or thiazide-like diuretics, and B the beta-blockers placed under used based on indication rather than as a front-line class. (Book p980)"
+  },
+  {
+   "id": "MED-C55-057",
+   "sec": "Hypertension 2023 · front-line drugs, ESH combinations and resistant hypertension",
+   "page": 980,
+   "fmt": "oddoneout",
+   "q": "Beta-blockers are confined to three specific scenarios on this page. Which situation is NOT one of them?",
+   "opts": [
+    "Coronary artery disease",
+    "Atrial fibrillation",
+    "Heart failure with reduced ejection fraction",
+    "Isolated systolic hypertension in an elderly patient"
+   ],
+   "ans": 3,
+   "exp": "The three listed indications are coronary artery disease, atrial fibrillation and HF with reduced ejection fraction, and the page separately notes that a beta-blocker is not a preferred first line drug. (Book p980)"
+  },
+  {
+   "id": "MED-C55-058",
+   "sec": "Hypertension 2023 · front-line drugs, ESH combinations and resistant hypertension",
+   "page": 980,
+   "fmt": "recall",
+   "q": "Which combinations does the page give as ESH recommended therapy?",
+   "opts": [
+    "B plus C, or A plus B plus C",
+    "C plus D as the only option",
+    "A plus C, or A plus D",
+    "A plus B, or C plus D"
+   ],
+   "ans": 2,
+   "exp": "The ESH recommended therapy line reads A + C or A + D, with the three arms A, C and D then detailed beneath it. (Book p980)"
+  },
+  {
+   "id": "MED-C55-059",
+   "sec": "Hypertension 2023 · front-line drugs, ESH combinations and resistant hypertension",
+   "page": 980,
+   "fmt": "truefalse",
+   "q": "Assess the A arm: I Angiotensin receptor blockers are placed ahead of ACE inhibitors. II The starting doses printed are telmisartan 20 mg and ramipril 2.5 mg.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are false",
+    "Both are true"
+   ],
+   "ans": 3,
+   "exp": "The A column reads ARBs greater than ACE inhibitors and gives the two starting doses as telmisartan 20 mg and ramipril 2.5 mg. (Book p980)"
+  },
+  {
+   "id": "MED-C55-060",
+   "sec": "Hypertension 2023 · front-line drugs, ESH combinations and resistant hypertension",
+   "page": 980,
+   "fmt": "numeric",
+   "q": "What dose of indapamide is printed in the D arm, and which diuretic does it beat?",
+   "opts": [
+    "1.5 mg once daily, ahead of chlorthalidone",
+    "2.5 mg once daily, ahead of furosemide",
+    "5 mg twice daily, ahead of metolazone",
+    "2.5 mg twice daily, ahead of hydrochlorothiazide"
+   ],
+   "ans": 3,
+   "exp": "The D branch reads indapamide 2.5 mg BD placed above hydrochlorothiazide. (Book p980)"
+  },
+  {
+   "id": "MED-C55-061",
+   "sec": "Hypertension 2023 · front-line drugs, ESH combinations and resistant hypertension",
+   "page": 980,
+   "fmt": "scenario",
+   "q": "A physician wants a calcium channel blocker that the page rates above cilnidipine for its channel profile but below amlodipine for pure blood pressure control. Which drug fits?",
+   "opts": [
+    "Diltiazem",
+    "Nifedipine",
+    "Benidipine",
+    "Verapamil"
+   ],
+   "ans": 2,
+   "exp": "The C arm prints benidipine 4 mg BD above cilnidipine 10 mg, while a separate line gives BP control as amlodipine greater than cilnidipine. (Book p980)"
+  },
+  {
+   "id": "MED-C55-062",
+   "sec": "Hypertension 2023 · front-line drugs, ESH combinations and resistant hypertension",
+   "page": 980,
+   "fmt": "fillup",
+   "q": "Fill up: The mechanism given for the preferred calcium channel blockers is blockade of ______ type calcium channels, and this is why benidipine is rated above cilnidipine.",
+   "opts": [
+    "N and L only",
+    "L, N and T",
+    "L only",
+    "T and P/Q"
+   ],
+   "ans": 1,
+   "exp": "The MOA line reads blocks L + N + T type calcium channels, the wider channel profile behind the page's preference for benidipine. (Book p980)"
+  },
+  {
+   "id": "MED-C55-063",
+   "sec": "Hypertension 2023 · front-line drugs, ESH combinations and resistant hypertension",
+   "page": 980,
+   "fmt": "numeric",
+   "q": "What response rates are attached to A plus C alone and to the A plus C plus D triple?",
+   "opts": [
+    "50% within 6 months, and 85%",
+    "60% within 3 months, and 90%",
+    "40% within 3 months, and 70%",
+    "90% within 3 months, and 60%"
+   ],
+   "ans": 1,
+   "exp": "Initial therapy with A plus C is credited with an optimal response in 60% of the population in 3 months, and adding D takes the response to 90%. (Book p980)"
+  },
+  {
+   "id": "MED-C55-064",
+   "sec": "Hypertension 2023 · front-line drugs, ESH combinations and resistant hypertension",
+   "page": 980,
+   "fmt": "management",
+   "q": "A patient on telmisartan and amlodipine for three months has a BP of 148/90 mmHg. What does the flowchart do next?",
+   "opts": [
+    "Add D",
+    "Stop both and start a beta-blocker",
+    "Label the case as resistant hypertension immediately",
+    "Refer for renal denervation"
+   ],
+   "ans": 0,
+   "exp": "The no response arrow from A plus C leads to Add D, forming the triple that covers 90% of patients before the unresponsive branch is reached. (Book p980)"
+  },
+  {
+   "id": "MED-C55-065",
+   "sec": "Hypertension 2023 · front-line drugs, ESH combinations and resistant hypertension",
+   "page": 980,
+   "fmt": "truefalse",
+   "q": "Assess the closing steps of the sequence: I An unresponsive patient on triple therapy should be screened for secondary hypertension before the label is applied. II Spironolactone is the drug of choice for resistant hypertension when the eGFR is 24 mL/min.",
+   "opts": [
+    "Both are false",
+    "I true; II false",
+    "I false; II true",
+    "Both are true"
+   ],
+   "ans": 1,
+   "exp": "The rule-out-secondary arrow precedes the resistant HTN label, and spironolactone as DOC belongs to the eGFR above 30 branch, whereas the 24 mL/min patient takes chlorthalidone. (Book p980)"
+  },
+  {
+   "id": "MED-C55-066",
+   "sec": "Hypertension 2023 · front-line drugs, ESH combinations and resistant hypertension",
+   "page": 980,
+   "fmt": "match",
+   "q": "Match each eGFR band with the drug the resistant-hypertension box assigns to it — 1) Above 30 mL/min 2) At or below 30 mL/min 3) Before either box is reached … A) Chlorthalidone B) Rule out secondary causes of hypertension C) Spironolactone, marked DOC",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 3,
+   "exp": "Unresponsiveness on A plus C plus D first sends the clinician to rule out secondary causes, after which spironolactone is the DOC above an eGFR of 30 and chlorthalidone is the partner choice at or below it. (Book p980)"
+  },
+  {
+   "id": "MED-C55-067",
+   "sec": "Hypertension 2023 · front-line drugs, ESH combinations and resistant hypertension",
+   "page": 980,
+   "fmt": "scenario",
+   "q": "A 47-year-old with primary aldosteronism later found to have an eGFR of 58 mL/min remains at 156/98 mmHg on telmisartan, amlodipine and indapamide. Which drug does this page add, and why?",
+   "opts": [
+    "Chlorthalidone, because thiazides work better in renal impairment",
+    "Prazosin, as the next front-line class",
+    "Clonidine, because it is the preferred first line in resistance",
+    "Spironolactone, because the eGFR is above 30 mL/min"
+   ],
+   "ans": 3,
+   "exp": "Triple therapy has failed and the eGFR of 58 sits in the above-30 branch, where spironolactone is written as the DOC, an apt choice in aldosterone-driven disease. (Book p980)"
+  },
+  {
+   "id": "MED-C55-068",
+   "sec": "Hypertension 2023 · resistant-hypertension options and special scenarios",
+   "page": 981,
+   "fmt": "oddoneout",
+   "q": "Three of these are listed as other options for resistant hypertension. Which one is not?",
+   "opts": [
+    "Renal denervation",
+    "Ivabradine",
+    "Clonidine",
+    "Prazosin"
+   ],
+   "ans": 1,
+   "exp": "The other options block lists beta-blockers, prazosin, clonidine and renal denervation, the last being the procedural entry among the drug choices. (Book p981)"
+  },
+  {
+   "id": "MED-C55-069",
+   "sec": "Hypertension 2023 · resistant-hypertension options and special scenarios",
+   "page": 981,
+   "fmt": "fillup",
+   "q": "Fill up: In coronary artery disease the page starts with ______, adds ______ for the angina patient, and offers ______ for the non-angina patient.",
+   "opts": [
+    "A plus C; B; C or D",
+    "A plus B; D; B only",
+    "C plus D; A; B only",
+    "A plus B; C; C or D"
+   ],
+   "ans": 3,
+   "exp": "The CAD branch begins with A plus B, then splits into adding C for angina and adding C or D for non-angina patients. (Book p981)"
+  },
+  {
+   "id": "MED-C55-070",
+   "sec": "Hypertension 2023 · resistant-hypertension options and special scenarios",
+   "page": 981,
+   "fmt": "match",
+   "q": "Match each special scenario with the opening regimen printed under it — 1) Coronary artery disease 2) Chronic kidney disease with eGFR above 30 3) Chronic kidney disease with eGFR at or below 30 … A) A plus C, then add D, then spironolactone if uncontrolled B) A plus B, then C or D depending on angina C) A plus C, then chlorthalidone, then a beta-blocker if uncontrolled",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 1,
+   "exp": "CAD opens on A plus B, while both CKD arms start with A plus C and then divide by eGFR, the lower band escalating through chlorthalidone to a beta-blocker and the higher band through a thiazide-like diuretic to spironolactone. (Book p981)"
+  },
+  {
+   "id": "MED-C55-071",
+   "sec": "Hypertension 2023 · resistant-hypertension options and special scenarios",
+   "page": 981,
+   "fmt": "management",
+   "q": "A patient with CKD stage G4 has a BP of 152/92 mmHg on telmisartan and amlodipine. Which add-on does the CKD flowchart require?",
+   "opts": [
+    "A beta-blocker as the immediate next drug",
+    "Chlorthalidone",
+    "Spironolactone",
+    "Clonidine"
+   ],
+   "ans": 1,
+   "exp": "An eGFR at or below 30 takes the left CKD branch, where the add-on is chlorthalidone and a beta-blocker only follows if control is still not achieved. (Book p981)"
+  },
+  {
+   "id": "MED-C55-072",
+   "sec": "Hypertension 2023 · resistant-hypertension options and special scenarios",
+   "page": 981,
+   "fmt": "truefalse",
+   "q": "Assess the right-hand CKD branch: I With an eGFR above 30 the add-on is D, and spironolactone follows only when control is still not achieved. II This branch mirrors the resistant-hypertension rule that a thiazide-like diuretic is reserved for preserved filtration.",
+   "opts": [
+    "Both are true",
+    "Both are false",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 2,
+   "exp": "The above-30 limb runs A plus C, add D, then add spironolactone if uncontrolled, but the page never states a general rule reserving thiazides for preserved filtration, and on the previous page chlorthalidone is precisely the low-eGFR partner. (Book p981)"
+  },
+  {
+   "id": "MED-C55-073",
+   "sec": "Hypertension 2023 · resistant-hypertension options and special scenarios",
+   "page": 981,
+   "fmt": "scenario",
+   "q": "A 63-year-old with stable angina has repeated clinic readings of 154/94 mmHg. Which regimen and escalation does this page map out?",
+   "opts": [
+    "Start C plus D, then add spironolactone",
+    "Start A plus C, then chlorthalidone",
+    "Start A plus B, then add C for the angina",
+    "Start A plus C, then add D"
+   ],
+   "ans": 2,
+   "exp": "Coronary artery disease is the left-hand special scenario, opening with A plus B, and because the patient has angina the next arrow is the addition of C. (Book p981)"
+  },
+  {
+   "id": "MED-C55-074",
+   "sec": "Hypertension 2023 · resistant-hypertension options and special scenarios",
+   "page": 981,
+   "fmt": "oddoneout",
+   "q": "Which statement misreads the two CKD branches on this page?",
+   "opts": [
+    "Both branches begin with A plus C",
+    "Both branches begin with A plus B",
+    "One branch escalates to chlorthalidone",
+    "The other branch escalates to D"
+   ],
+   "ans": 1,
+   "exp": "Every CKD patient starts on A plus C, and the split by eGFR decides whether chlorthalidone or D is the add-on, so a claim of a shared A plus B start is the false statement. (Book p981)"
+  },
+  {
+   "id": "MED-C55-075",
+   "sec": "Hypertension 2023 · resistant-hypertension options and special scenarios",
+   "page": 981,
+   "fmt": "numeric",
+   "q": "Which eGFR value separates the two escalation routes in the CKD scenario?",
+   "opts": [
+    "45 mL/min",
+    "60 mL/min",
+    "15 mL/min",
+    "30 mL/min"
+   ],
+   "ans": 3,
+   "exp": "The fork is printed as eGFR at or below 30 versus above 30 mL/min, the same boundary used for spironolactone in resistant hypertension on the previous page. (Book p981)"
+  },
+  {
+   "id": "MED-C55-076",
+   "sec": "Hypertension 2023 · resistant-hypertension options and special scenarios",
+   "page": 981,
+   "fmt": "fillup",
+   "q": "Fill up: In the low-eGFR CKD branch, failure of chlorthalidone leads to adding a ______, whereas in the high-eGFR branch failure of D leads to adding ______.",
+   "opts": [
+    "alpha-blocker; spironolactone",
+    "calcium channel blocker; prazosin",
+    "beta-blocker; spironolactone",
+    "beta-blocker; clonidine"
+   ],
+   "ans": 2,
+   "exp": "The two not-controlled arrows are drawn to a beta-blocker below an eGFR of 30 and to spironolactone above it. (Book p981)"
+  },
+  {
+   "id": "MED-C55-077",
+   "sec": "Hypertension 2023 · resistant-hypertension options and special scenarios",
+   "page": 981,
+   "fmt": "recall",
+   "q": "How many distinct special scenarios are laid out on this page?",
+   "opts": [
+    "One, only chronic kidney disease",
+    "Four, adding aortic stenosis and diabetes",
+    "Two, coronary artery disease and chronic kidney disease",
+    "Three, adding heart failure with preserved ejection fraction"
+   ],
+   "ans": 2,
+   "exp": "The special scenarios heading carries exactly two trees, CAD on the left and CKD on the right. (Book p981)"
   }
  ],
  "units": [
@@ -249,38 +1164,18 @@
    "id": "MED-U55-1",
    "ch": 55,
    "n": 1,
-   "title": "Definition and risk",
-   "sec": "Definition and risk",
-   "guide": "Use equation and associations.",
+   "title": "Definition, risk factors and the two pathophysiology arms",
+   "sec": "Definition and pathophysiology · p976",
+   "guide": "Blood pressure as force of pulsatile flow, the CO times SVR product with the page's SVR expansion, the risk-factor tree with hemorrhagic stroke and the 10 mmHg benefit figures, the pressure natriuresis argument, and the SVR remodeling arm.",
    "qs": [
     "MED-C55-001",
     "MED-C55-002",
     "MED-C55-003",
-    "MED-C55-004"
-   ]
-  },
-  {
-   "id": "MED-U55-2",
-   "ch": 55,
-   "n": 2,
-   "title": "Drug classes",
-   "sec": "Drug classes",
-   "guide": "Know frontline classes.",
-   "qs": [
+    "MED-C55-004",
     "MED-C55-005",
     "MED-C55-006",
     "MED-C55-007",
-    "MED-C55-008"
-   ]
-  },
-  {
-   "id": "MED-U55-3",
-   "ch": 55,
-   "n": 3,
-   "title": "Treatment algorithm",
-   "sec": "Treatment algorithm",
-   "guide": "Apply combination pathway.",
-   "qs": [
+    "MED-C55-008",
     "MED-C55-009",
     "MED-C55-010",
     "MED-C55-011",
@@ -288,17 +1183,118 @@
    ]
   },
   {
-   "id": "MED-U55-4",
+   "id": "MED-U55-2",
    "ch": 55,
-   "n": 4,
-   "title": "Resistant hypertension",
-   "sec": "Resistant hypertension",
-   "guide": "Use eGFR branch.",
+   "n": 2,
+   "title": "Types, risk factors and grading versus staging",
+   "sec": "Types and grades · p977",
+   "guide": "Primary and secondary division with its 5-10% figure, heritability and obesity labels, the dietary list, vasoconstrictor and vasodilator columns, the six-row grades table with its and versus and/or switch, and the three clinical stages.",
    "qs": [
     "MED-C55-013",
     "MED-C55-014",
     "MED-C55-015",
-    "MED-C55-016"
+    "MED-C55-016",
+    "MED-C55-017",
+    "MED-C55-018",
+    "MED-C55-019",
+    "MED-C55-020",
+    "MED-C55-021",
+    "MED-C55-022",
+    "MED-C55-023",
+    "MED-C55-024",
+    "MED-C55-025",
+    "MED-C55-026"
+   ]
+  },
+  {
+   "id": "MED-U55-3",
+   "ch": 55,
+   "n": 3,
+   "title": "Measuring blood pressure and the renal secondary causes",
+   "sec": "Diagnosis and secondary causes · p978",
+   "guide": "ABPM as the first choice with the office, daytime, night-time, 24-hour and home cut-offs, the office and home confirmation protocols, and the renal, coarctation and OSAS branches with unilateral versus bilateral renal artery stenosis.",
+   "qs": [
+    "MED-C55-027",
+    "MED-C55-028",
+    "MED-C55-029",
+    "MED-C55-030",
+    "MED-C55-031",
+    "MED-C55-032",
+    "MED-C55-033",
+    "MED-C55-034",
+    "MED-C55-035",
+    "MED-C55-036",
+    "MED-C55-037",
+    "MED-C55-038",
+    "MED-C55-039"
+   ]
+  },
+  {
+   "id": "MED-U55-4",
+   "ch": 55,
+   "n": 4,
+   "title": "Endocrine hypertension, work-up and when to treat",
+   "sec": "Endocrine causes and indications · p979",
+   "guide": "The low-renin monogenic list with Liddle, AME, GRA and Geller, the Gordon versus PHA type I comparison, the acquired endocrine list, the investigation panel with the Doppler study and central systolic pressure, and the treatment thresholds with age-based targets.",
+   "qs": [
+    "MED-C55-040",
+    "MED-C55-041",
+    "MED-C55-042",
+    "MED-C55-043",
+    "MED-C55-044",
+    "MED-C55-045",
+    "MED-C55-046",
+    "MED-C55-047",
+    "MED-C55-048",
+    "MED-C55-049",
+    "MED-C55-050",
+    "MED-C55-051",
+    "MED-C55-052",
+    "MED-C55-053",
+    "MED-C55-054",
+    "MED-C55-055"
+   ]
+  },
+  {
+   "id": "MED-U55-5",
+   "ch": 55,
+   "n": 5,
+   "title": "Front-line drugs and ESH combination therapy",
+   "sec": "Drugs and ESH therapy · p980",
+   "guide": "The A, C, D and B classes with beta-blockers reserved for three indications, ARB preference with starting doses, benidipine and indapamide placements, the 60% to 90% response ladder and the eGFR split for resistant hypertension.",
+   "qs": [
+    "MED-C55-056",
+    "MED-C55-057",
+    "MED-C55-058",
+    "MED-C55-059",
+    "MED-C55-060",
+    "MED-C55-061",
+    "MED-C55-062",
+    "MED-C55-063",
+    "MED-C55-064",
+    "MED-C55-065",
+    "MED-C55-066",
+    "MED-C55-067"
+   ]
+  },
+  {
+   "id": "MED-U55-6",
+   "ch": 55,
+   "n": 6,
+   "title": "Resistant options and the CAD and CKD scenarios",
+   "sec": "Special scenarios · p981",
+   "guide": "Beta-blockers, prazosin, clonidine and renal denervation for resistant hypertension, the A plus B start for coronary disease with angina-driven add-ons, and the A plus C start for CKD with the 30 mL/min fork.",
+   "qs": [
+    "MED-C55-068",
+    "MED-C55-069",
+    "MED-C55-070",
+    "MED-C55-071",
+    "MED-C55-072",
+    "MED-C55-073",
+    "MED-C55-074",
+    "MED-C55-075",
+    "MED-C55-076",
+    "MED-C55-077"
    ]
   }
  ]
