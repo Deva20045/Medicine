@@ -1,0 +1,246 @@
+{
+ "page": 965,
+ "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "Which absolute 24-hour urine volume defines polyuria on this page?",
+   "opts": [
+    "More than 3 L/day",
+    "More than 5 L/day",
+    "More than 2 L/day",
+    "More than 1.5 L/day"
+   ],
+   "ans": 0,
+   "exp": "Polyuria is defined three ways on this page: >40 mL/kg/day, >3 L/day and >2 L/m2. (Book p965)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each polyuria threshold with the denominator it uses — 1) >40 mL/kg/day 2) >3 L/day 3) >2 L/m2 … A) Body weight B) Fixed adult volume C) Body surface area",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The three definitions are per kilogram of body weight, an absolute adult figure of 3 L/day, and per square metre of body surface. (Book p965)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess against the three thresholds on Book p965: I A 60 kg adult passing 2.8 L/day is polyuric by the weight-based criterion. II A child passing 46 mL/kg/day is polyuric even if the absolute volume is under 3 L.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "40 mL/kg/day of 60 kg is 2.4 L, so 2.8 L/day does cross the weight-based line; 46 mL/kg/day also exceeds the per-kilogram cut-off, which is exactly why the paediatric criterion exists. (Book p965)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The water-diuresis column of the comparison table carries which descriptor in brackets after its heading?",
+   "opts": [
+    "Hypotonic polydipsia",
+    "Hypertonic polydipsia",
+    "Isotonic volume expansion",
+    "Hyperosmolar solute load"
+   ],
+   "ans": 0,
+   "exp": "The second column is headed 'Water diuresis (Hypotonic polydipsia)', in contrast with the solute-diuresis column. (Book p965)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All of the following appear in the causes row for solute diuresis EXCEPT:",
+   "opts": [
+    "Psychogenic polydipsia",
+    "Mannitol",
+    "Glucose",
+    "Relief of obstruction"
+   ],
+   "ans": 0,
+   "exp": "Solute diuresis is attributed to mannitol, glucose, relief of obstruction and long term diuretic use; psychogenic polydipsia sits in the water-diuresis column. (Book p965)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In the water-diuresis column, central DI is ascribed to ______ deficiency and peripheral DI to ______ at the receptor.",
+   "opts": [
+    "AVP (vasopressin); AVP-r resistance",
+    "ANP; aldosterone resistance",
+    "AVP; aquaporin-1 overexpression",
+    "ADHase; V1 down-regulation"
+   ],
+   "ans": 0,
+   "exp": "The column lists a. AVP (vasopressin) deficiency as central DI, b. AVP-r resistance as peripheral DI and c. psychogenic polydipsia. (Book p965)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The comparison table splits the two diuresis types by urine output. Which figure is used as the discriminator?",
+   "opts": [
+    "7 L/day",
+    "3 L/day",
+    "10 L/day",
+    "5 L/day"
+   ],
+   "ans": 0,
+   "exp": "Urine output below 7 L/day is placed with solute diuresis and above 7 L/day with water diuresis, even though polyuria itself starts at 3 L/day. (Book p965)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each table row with the value given for solute diuresis — 1) Urine osmolality 2) Urine dipstick 3) Urine output … A) Greater than 600 mosm/kg B) Positive C) Less than 7 L/day",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Solute diuresis shows urine osmolality above 600 mosm/kg, a positive dipstick and output under 7 L/day, whereas water diuresis shows osmolality below 300 mosm/kg, a negative dipstick, output above 7 L/day and specific gravity below 1.008. (Book p965)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the last two rows of the table: I The specific-gravity row carries a value only in the water-diuresis column. II The dipstick is positive in water diuresis and negative in solute diuresis.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Specific gravity is left as a dash under solute diuresis and given as <1.008 under water diuresis; the dipstick is the other way round, positive with solute diuresis and negative with water diuresis. (Book p965)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Two days after relief of a bilateral pelvic ureteric obstruction a patient passes 6 L/day; urine osmolality is 640 mOsm/kg and the dipstick is positive for glucose. Which column of the table does this picture belong to?",
+   "opts": [
+    "Solute diuresis, since output is under 7 L/day with osmolality above 600",
+    "Water diuresis, since the volume exceeds 3 L/day",
+    "Central DI, since relief of obstruction damages the stalk",
+    "Psychogenic polydipsia, since the dipstick is positive"
+   ],
+   "ans": 0,
+   "exp": "Relief of obstruction is a named cause of solute diuresis, and the output below 7 L/day, osmolality above 600 mOsm/kg and positive dipstick all sit in that column. (Book p965)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Every item below belongs to the stalk-effect group of central DI EXCEPT:",
+   "opts": [
+    "Wolfram syndrome",
+    "Tumor",
+    "Lymphocytic hypophysitis",
+    "Infections such as tuberculosis and histoplasmosis"
+   ],
+   "ans": 0,
+   "exp": "The stalk-effect list covers tumor, infiltration, infections and lymphocytic hypophysitis, while Wolfram syndrome is filed under the autosomal recessive inherited group. (Book p965)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which infiltrative trio is named under the stalk effect in central DI?",
+   "opts": [
+    "Langerhans' cell histiocytosis, hemochromatosis and sarcoidosis",
+    "Amyloidosis, tuberculosis and lymphoma",
+    "Sarcoidosis, Wegener's granulomatosis and amyloidosis",
+    "Hemochromatosis, metastatic breast deposit and histiocytosis X"
+   ],
+   "ans": 0,
+   "exp": "Infiltration is specified as Langerhans' cell histiocytosis, hemochromatosis and sarcoidosis; TB, HIV, histoplasmosis and toxoplasmosis form the separate infections list. (Book p965)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "For inherited central DI, what is the sequence of inheritance modes as ranked on this page?",
+   "opts": [
+    "Autosomal dominant before autosomal recessive before X-linked recessive",
+    "X-linked recessive before autosomal dominant before autosomal recessive",
+    "Autosomal recessive before X-linked recessive before autosomal dominant",
+    "Autosomal dominant before X-linked recessive before autosomal recessive"
+   ],
+   "ans": 0,
+   "exp": "The line reads AD > AR > XLR for inherited central DI. (Book p965)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each component of the Wolfram box with its numbered order of occurrence — 1) DM 2) OA 3) DI 4) Deafness … A) First B) Second C) Third D) Fourth",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "The numbers under DI DM OA D read 3, 1, 2 and 4, so diabetes mellitus appears first, optic atrophy second, diabetes insipidus third and deafness fourth. (Book p965)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The Wolfram box spells its four features as the letters ______, and the syndrome is inherited in the ______ pattern among central DI causes.",
+   "opts": [
+    "DI, DM, OA, D; autosomal recessive",
+    "DI, DM, OD, A; X-linked recessive",
+    "DM, DI, DA, O; autosomal dominant",
+    "DI, DM, OA, D; mitochondrial"
+   ],
+   "ans": 0,
+   "exp": "DI, DM, OA and D are boxed as the four components, and the page lists Wolfram syndrome as the autosomal recessive form of inherited central DI. (Book p965)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each nephrogenic DI category with its examples — 1) Drugs 2) Metabolic 3) Autoimmune … A) Hypercalcaemia, hypokalaemia and raised uric acid B) Lithium, demeclocycline, cisplatin, foscarnet, aminoglycosides, amphotericin B C) Sarcoidosis, Sjogren's and IgG4 disease",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "The seven nephrogenic DI groups are drugs, sickle cell anaemia, pregnancy, metabolic, autoimmune, chronic tubulo-interstitial disease and inherited causes, with the entries matched as above. (Book p965)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of these agents is NOT among the drugs listed as causes of nephrogenic DI?",
+   "opts": [
+    "Hydrochlorothiazide",
+    "Demeclocycline",
+    "Foscarnet",
+    "Amphotericin B"
+   ],
+   "ans": 0,
+   "exp": "The drug list is lithium, demeclocycline, cisplatin, foscarnet, aminoglycosides and amphotericin B; thiazides appear later in this chapter as treatment for nephrogenic DI. (Book p965)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "In the metabolic group of nephrogenic DI, which trio of direction changes is recorded?",
+   "opts": [
+    "Calcium up, potassium down, uric acid up",
+    "Calcium down, potassium up, uric acid down",
+    "Calcium up, potassium up, uric acid down",
+    "Calcium down, potassium down, uric acid up"
+   ],
+   "ans": 0,
+   "exp": "The metabolic row reads increased Ca2+, decreased K+ and increased uric acid as causes of nephrogenic DI. (Book p965)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the inherited line for nephrogenic DI: I The page puts the X-linked form ahead of the autosomal recessive form. II The X-linked form is attributed to the aquaporin 2 gene and the recessive form to the V2 receptor gene.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The ranking XLR > AR is correct, but the gene attribution is the reverse: the X-linked form is printed against the V receptor gene, written V_a on the page, while the autosomal recessive form is the aquaporin 2 gene. The X-linked defect is in the V2 receptor gene, the cAMP-coupled receptor of the collecting duct. (Book p965)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Pregnancy is explicitly listed as a cause in which of the two DI categories on this page?",
+   "opts": [
+    "Both central and nephrogenic DI",
+    "Central DI only",
+    "Nephrogenic DI only",
+    "Neither; only psychogenic polydipsia"
+   ],
+   "ans": 0,
+   "exp": "B. Pregnancy heads the second central DI group, and 3. Pregnancy reappears as the third cause in the nephrogenic DI list. (Book p965)"
+  }
+ ]
+}

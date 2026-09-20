@@ -1,0 +1,162 @@
+{
+ "page": 985,
+ "sec": "Hepatocyte membrane domains and the liver disorders table",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match each hepatocyte membrane domain with its feature — 1) Contiguous membrane 2) Canicular membrane 3) Sinusoidal or basolateral membrane … A) Stellate, Ito or lipocyte cells in the space of Disse storing vitamin A B) Gap junctions between two hepatocytes C) MRP-2 protein excreting conjugated bile acids",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Numbered 1 is the contiguous membrane with gap junctions between two hepatocytes, 2 the canicular membrane carrying MRP-2, and 3 the sinusoidal or basolateral membrane where the stellate cell sits. (Book p985)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The MRP-2 protein of the canicular membrane is encoded by which gene as printed on the page?",
+   "opts": [
+    "ABCC2",
+    "ATP8B1",
+    "SLC10A1",
+    "ABCB4"
+   ],
+   "ans": 0,
+   "exp": "The line reads Gene ABCC2 in red under the MRP-2 protein heading, the canalicular multidrug resistance associated protein 2. (Book p985)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two canicular statements: I MRP-2 functions in the excretion of conjugated bile acids, the bile salts. II A defect of this protein produces Dubin-Johnson syndrome, while loss of basolateral uptake would be a sinusoidal membrane defect.",
+   "opts": [
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The two bullets after the gene are function, excretion of conjugated bile acids or bile salts, and defect, Dubin Johnson syndrome, so the syndrome belongs to the canicular domain rather than to the basolateral one. (Book p985)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The stellate cell is also called the ______ cell or lipocyte, and it lies in the ______.",
+   "opts": [
+    "Ito; space of Disse",
+    "Kupffer; sinusoid lumen",
+    "Pit; canaliculus",
+    "Ito; bile canaliculus"
+   ],
+   "ans": 0,
+   "exp": "Entry 3 lists stellate, Ito cells or lipocyte and its site line, printed as Side rather than Site, reads space of Disse, the same space labelled beneath the hepatocyte in the diagram. (Book p985)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A hepatology fellow is explaining why bridging fibrosis advances in chronic hepatitis. Which cell and mediator pair does this page place at the start of that cascade?",
+   "opts": [
+    "Stellate cell releasing TGF-beta",
+    "Kupffer cell releasing interleukin-6",
+    "Cholangiocyte releasing secretin",
+    "Endothelial cell releasing nitric oxide"
+   ],
+   "ans": 0,
+   "exp": "The cirrhotic pathology line states that activation of the stellate cell releases TGF-beta, which forms myofibroblasts and then cirrhosis. (Book p985)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two sinusoid statements: I The sinusoidal endothelial cell is described as having fenestrae. II The page assigns vitamin A storage to the sinusoidal endothelial lining rather than to any perisinusoidal cell.",
+   "opts": [
+    "I true; II false",
+    "Both are true",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The diagram label reads sinusoidal endothelial cell with fenestrae, but the storage of vitamin A is a function bullet of the stellate or Ito cell, sitting in the space of Disse. (Book p985)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each row of the liver disorders table with its disorder — 1) Vascular, site vessel 2) Parenchymal, site hepatocyte and sinusoids 3) Biliary, site cholangiocyte … A) Any disease leading to cirrhosis B) Primary biliary cirrhosis and primary sclerosing cholangitis C) Hepatic vein thrombosis, Budd-Chiari syndrome",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "The three rows of the table read vascular with hepatic vein thrombosis as Budd-Chiari syndrome, parenchymal with any disease leading to cirrhosis, and biliary with primary biliary cirrhosis and primary sclerosing cholangitis. (Book p985)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All of the following appear in the biliary row of the disorders table EXCEPT:",
+   "opts": [
+    "Secondary biliary cirrhosis from obstruction",
+    "Primary biliary cirrhosis",
+    "Primary sclerosing cholangitis",
+    "A disorder whose site is the cholangiocyte"
+   ],
+   "ans": 0,
+   "exp": "Only primary biliary cirrhosis and primary sclerosing cholangitis are written in that row, both placed at the level of the cholangiocyte, and secondary biliary cirrhosis is not listed. (Book p985)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In the diagram the junction that seals the hepatocyte pair near the bile canaliculus is the ______ junction, while the communicating junction of the contiguous membrane is the ______ junction.",
+   "opts": [
+    "tight; gap",
+    "gap; tight",
+    "desmosomal; adherens",
+    "tight; desmosomal"
+   ],
+   "ans": 0,
+   "exp": "The label list above the cell drawing reads hepatocyte, tight junction, gap junction and bile canaliculus, and the text assigns gap junctions between two hepatocytes to the contiguous membrane. (Book p985)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A jaundiced young adult has conjugated hyperbilirubinaemia with a black-pigmented liver on laparoscopy, and genetic testing is ordered. According to this page, which membrane domain should the report target?",
+   "opts": [
+    "Canicular, MRP-2 encoded by ABCC2",
+    "Sinusoidal, stellate cell in the space of Disse",
+    "Contiguous, gap junction between hepatocytes",
+    "Biliary, cholangiocyte of the septal duct"
+   ],
+   "ans": 0,
+   "exp": "The defect line under the canicular membrane is Dubin Johnson syndrome, caused by failure of the MRP-2 exporter encoded by ABCC2 that pushes conjugated bile acids into the canaliculus. (Book p985)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two cellular statements: I The Kupffer cell and the stellate cell are drawn as separate entities, the former inside the sinusoid and the latter in the space of Disse. II The Kupffer cell is described on this page as the store of vitamin A.",
+   "opts": [
+    "I true; II false",
+    "Both are true",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The drawing places Kupffer cell within the sinusoid below the hepatocyte and the stellate cell in the space of Disse, and it is the stellate cell, not the Kupffer cell, whose function bullet is storage of vitamin A. (Book p985)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What sequence does the page complete after activation of the stellate cell releases TGF-beta?",
+   "opts": [
+    "Forms myofibroblasts, then cirrhosis",
+    "Forms cholangiocytes, then ductopenia",
+    "Forms sinusoids, then Budd-Chiari syndrome",
+    "Forms Kupffer cells, then steatohepatitis"
+   ],
+   "ans": 0,
+   "exp": "The arrow chain is activation releases TGF-beta, then forms myofibroblasts, then cirrhosis, tying the basolateral membrane compartment to fibrogenesis. (Book p985)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "The labelled elements of the hepatocyte and sinusoid diagram include all of the following EXCEPT:",
+   "opts": [
+    "Pit cells",
+    "Space of Disse",
+    "Stellate cell",
+    "Bile canaliculus"
+   ],
+   "ans": 0,
+   "exp": "The captions supplied are bile canaliculus, hepatocyte sinusoidal basolateral membrane, space of Disse, stellate cell, sinusoidal endothelial cell with fenestrae, Kupffer cell, sinusoid and hepatocyte, with no pit cells named. (Book p985)"
+  }
+ ]
+}

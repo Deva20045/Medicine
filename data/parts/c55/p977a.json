@@ -1,0 +1,174 @@
+{
+ "page": 977,
+ "sec": "Hypertension 2023 · types, risk factors and the grading and staging tables",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "What share of hypertension is attributed to secondary causes on this page, and what is the accompanying instruction?",
+   "opts": [
+    "5 to 10%, and rule out before treating as primary HTN",
+    "20 to 25%, and screen only if resistant",
+    "5 to 10%, and screen only below 30 years of age",
+    "50%, and rule out after starting therapy"
+   ],
+   "ans": 0,
+   "exp": "The secondary HTN branch carries two bullets, 5-10% chances and rule out before treating as primary HTN. (Book p977)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the primacy labels in the risk-factor row: I Heritability is annotated as the most important factor. II Obesity and weight gain carries no superlative of its own.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Heritability is indeed labelled most important factor, but obesity and weight gain is also given the tag, printed as and most important, so the page awards the superlative twice. (Book p977)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What are the quoted chances of hypertension when both parents are hypertensive, and when a single parent is?",
+   "opts": [
+    "30 to 40% and 25%",
+    "50 to 60% and 30%",
+    "25% and 15%",
+    "70% and 40%"
+   ],
+   "ans": 0,
+   "exp": "Under heritability the two branches read both parents with chances of 30-40% and a single parent at 25%. (Book p977)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All four entries belong to the dietary risk-factor bullet EXCEPT:",
+   "opts": [
+    "High potassium",
+    "High sodium",
+    "Low calcium",
+    "Low magnesium"
+   ],
+   "ans": 0,
+   "exp": "The diet list reads high sodium, low calcium, low phosphate and low magnesium; a high potassium intake is instead prescribed later as part of lifestyle therapy. (Book p977)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each mediator with the column it is filed in on this page — 1) Endothelin 2) Adrenomedullin 3) Reactive oxygen species 4) Prostacyclin … A) Vasoconstrictors B) Vasodilators listed as protective factors",
+   "opts": [
+    "1-A, 2-B, 3-A, 4-B",
+    "1-B, 2-A, 3-B, 4-A",
+    "1-A, 2-B, 3-B, 4-A",
+    "1-A, 2-A, 3-B, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Endothelin and reactive oxygen species sit with angiotensin II, the sympathetic nervous system and arginine vasopressin as vasoconstrictors, while NO, ANP, BNP, adrenomedullin, prostacyclin and adiponectin form the protective vasodilator column. (Book p977)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of these is NOT one of the protective vasodilator factors in the table?",
+   "opts": [
+    "Arginine vasopressin",
+    "Adiponectin",
+    "Brain natriuretic peptide",
+    "Atrial natriuretic peptide"
+   ],
+   "ans": 0,
+   "exp": "Arginine vasopressin is the fourth entry of the vasoconstrictor column, whereas NO, ANP, BNP, adrenomedullin, prostacyclin and adiponectin make up the vasodilator side. (Book p977)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "In the grades table, what blood pressure range is labelled high-normal?",
+   "opts": [
+    "130 to 139 systolic and or 85 to 89 diastolic",
+    "120 to 129 systolic and 80 to 84 diastolic",
+    "140 to 159 systolic and or 90 to 99 diastolic",
+    "Below 120 and below 80"
+   ],
+   "ans": 0,
+   "exp": "The rows run optimal below 120 and below 80, normal 120-129 and 80-84, high-normal 130-139 and or 85-89, then grades 1 to 3. (Book p977)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess how the grades table joins its two columns: I The optimal and normal rows are joined by and, while every higher row is joined by and or. II Grade 3 hypertension begins at a systolic of 180 or a diastolic of 110.",
+   "opts": [
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The conjunction switches from and to and or from the high-normal row downwards, and the final printed row reads 180 and or 110 in red. (Book p977)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which grade is assigned to a reading of 168/102 mmHg on this table?",
+   "opts": [
+    "Grade 2 hypertension",
+    "Grade 1 hypertension",
+    "Grade 3 hypertension",
+    "High-normal"
+   ],
+   "ans": 0,
+   "exp": "Grade 2 spans 160-179 systolic or 100-109 diastolic, and either column alone is enough because the rows are joined by and or. (Book p977)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each stage with the definition printed under it — 1) Stage I 2) Stage II 3) Stage III … A) Hypertension with CKD G4 to G5 or cardiovascular disease B) Uncomplicated hypertension with no mediated organ damage, CKD, CVD or diabetes C) Hypertension mediated organ damage or CKD G1 to G3",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Stage I is uncomplicated disease, stage II is mediated organ damage or CKD in groups 1 to 3, and stage III is CKD groups 4 to 5 or cardiovascular disease. (Book p977)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 55-year-old has repeated clinic readings of 152/94 mmHg, an eGFR of 52 mL/min and no left ventricular hypertrophy. How is this stage and graded?",
+   "opts": [
+    "Grade 1 hypertension, stage II",
+    "Grade 2 hypertension, stage III",
+    "High-normal, stage I",
+    "Grade 1 hypertension, stage I"
+   ],
+   "ans": 0,
+   "exp": "152/94 falls in the 140-159 or 90-99 band of grade 1, and an eGFR of 52 is CKD stage G3a, which the stage tree places in stage II with mediated organ damage rather than stage III reserved for G4 to G5. (Book p977)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which genetic entry is listed as a free-standing risk factor beside stress and physical inactivity?",
+   "opts": [
+    "Alpha adducin gene",
+    "Adducin beta subunit deletion",
+    "Glucocorticoid remediable aldosteronism gene",
+    "ACE insertion polymorphism"
+   ],
+   "ans": 0,
+   "exp": "The right-hand end of the risk-factor row carries the alpha adducin gene, alongside smoking far exceeding alcohol, physical inactivity and stress. (Book p977)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess two comparative statements from the risk-factor row: I Smoking is written as far more important than alcohol. II Physical inactivity and stress each get their own branch.",
+   "opts": [
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The row shows smoking with a much-greater-than sign before alcohol, and physical inactivity and stress are separate heads, as is the alpha adducin gene. (Book p977)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The two heads of the types tree are ______ hypertension, which carries the risk factors, and ______ hypertension, which must be ruled out first.",
+   "opts": [
+    "primary; secondary",
+    "essential; renal",
+    "grade 1; grade 2",
+    "primary; endocrine"
+   ],
+   "ans": 0,
+   "exp": "The tree splits into primary HTN with its risk-factor branches and secondary HTN with the two bullets about frequency and the need to rule it out before treating as primary. (Book p977)"
+  }
+ ]
+}

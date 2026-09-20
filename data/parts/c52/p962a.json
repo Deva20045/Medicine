@@ -1,0 +1,186 @@
+{
+ "page": 962,
+ "sec": "Hyponatremia · regulators, classification, causes and hypovolemic hyponatremia",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The opening of the hyponatremia page names three regulators of water balance — the proximal convoluted tubule, the ______, and ADH, the last of which is annotated as ______.",
+   "opts": [
+    "TAL and DCT; minimal",
+    "PCT and collecting duct; dominant",
+    "Loop of Henle and V1 receptor; maximal",
+    "TAL and collecting duct; absent"
+   ],
+   "ans": 0,
+   "exp": "The three regulators listed are PCT, TAL (thick ascending limb)/DCT (distal convoluted tubule) and ADH, and ADH carries the annotation 'minimal'. (Book p962)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "For the severity bands on Book p962, which serum sodium range defines the 'severe' category of hyponatremia?",
+   "opts": [
+    "100 to 119",
+    "120 to 129",
+    "130 to 134",
+    "80 to 99"
+   ],
+   "ans": 0,
+   "exp": "Severe is 100-119, moderate 120-129, mild 130-134 and very severe <100; the page prints these numbers with the unit mg/dL although sodium is expressed in mEq/L. (Book p962)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the following about the classification of hyponatremia on Book p962: I The four bands are expressed in mg/dL rather than mEq/L. II A sodium of 96 falls in the band labelled 'severe'.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The page does print mg/dL for mild 130-134, moderate 120-129, severe 100-119 and very severe <100; a sodium of 96 is therefore 'very severe', not 'severe'. (Book p962)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each serum sodium value with the severity band it occupies on this page — 1) 132 2) 124 3) 105 4) 96 … A) Mild B) Moderate C) Severe D) Very severe",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "130-134 is mild, 120-129 moderate, 100-119 severe and anything below 100 very severe hyponatremia. (Book p962)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The first listed cause of hyponatremia is a central defect in thirst regulation due to ______, described as a water intake of about ______ per day.",
+   "opts": [
+    "psychogenic polydipsia; 15-20 L",
+    "primary aldosteronism; 10-12 L",
+    "psychogenic dipsomania; 5-8 L",
+    "reset osmostat; 15-20 L"
+   ],
+   "ans": 0,
+   "exp": "Cause 1 is a central defect in thirst regulation due to psychogenic polydipsia, with consumption of 15-20 L of water per day. (Book p962)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Every statement below fits the book's account of diuretic-induced hyponatremia EXCEPT:",
+   "opts": [
+    "Loop diuretics block the DCT and cause hyponatremia more often than thiazides",
+    "Thiazide produces hyponatremia more than loop diuretics",
+    "The blocked segment is the distal convoluted tubule",
+    "Once the diluting segment is blocked, ADH continues to act"
+   ],
+   "ans": 0,
+   "exp": "The hierarchy is the reverse: thiazide > loop diuretics, because thiazides block the DCT so that ADH continues to act and hyponatremia follows. (Book p962)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 66-year-old woman on hydrochlorothiazide for hypertension presents with a serum sodium of 123 mEq/L and normal renal function. Nephron-wise, which segment's blockade explains her hyponatremia?",
+   "opts": [
+    "Distal convoluted tubule",
+    "Thick ascending limb of Henle",
+    "Proximal convoluted tubule",
+    "Medullary collecting duct via V1"
+   ],
+   "ans": 0,
+   "exp": "Thiazides act on the DCT; blocking this diluting segment leaves ADH free to act, which is the mechanism the page gives for thiazide hyponatremia. (Book p962)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each route of sodium loss in hypovolemic hyponatremia with its examples in the tree — 1) Renal loss 2) GI loss 3) 3rd space loss … A) Diarrhea, vomiting B) Tubular injury, mineralocorticoid insufficiency, cerebral salt wasting C) Burns, pancreatitis",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Renal loss lists tubular injury, mineralocorticoid insufficiency and CSW; GI loss lists diarrhea and vomiting; third-space loss lists burns and pancreatitis. (Book p962)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In the increased-ADH branch, hypervolemic hyponatremia is attributed to which haemodynamic abnormality and which two exemplars?",
+   "opts": [
+    "Decreased effective volume — congestive cardiac failure and cirrhosis",
+    "Decreased true circulating volume — diarrhea and vomiting",
+    "Inappropriate ADH — SIADH and hypothyroidism",
+    "Increased true circulating volume — acute nephritis and transfusion"
+   ],
+   "ans": 0,
+   "exp": "The tree separates reduced circulating (true) volume, which gives hypovolemic hyponatremia, from reduced effective volume, which gives hypervolemic hyponatremia in CCF and cirrhosis. (Book p962)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two findings listed for hypovolemic hyponatremia: I A reduced IVC diameter with tachycardia and postural hypotension is expected. II Urine output rises while skin turgor is preserved.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The listed findings are reduced IVC diameter with tachycardia and postural hypotension, together with reduced urine output and reduced skin turgor. (Book p962)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A hyponatremic, volume-depleted man has a urine sodium of 38 mEq/L and a urine potassium of 30 mEq/L. Per the findings table, this electrolyte pattern indicates which cause?",
+   "opts": [
+    "Tubular injury",
+    "Mineralocorticoid insufficiency",
+    "Cerebral salt wasting",
+    "A purely renal cause without tubular damage"
+   ],
+   "ans": 0,
+   "exp": "Urine Na+ and K+ both above 20 mEq/L is the row assigned to tubular injury; Na+ >20 with K+ <10 is the row for mineralocorticoid insufficiency/CSW. (Book p962)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each urine electrolyte finding in the hypovolemic table with its cause — 1) Urine Na+ >20 mEq/L 2) Urine Na+ and K+ both >20 mEq/L 3) Urine Na+ >20 with K+ <10 mEq/L … A) Renal B) Tubular injury C) Mineralocorticoid insufficiency/CSW",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "The three rows read: urine Na+ >20 as a renal cause, urine Na+ and K+ >20 as tubular injury, and urine Na+ >20 with K+ <10 as mineralocorticoid insufficiency or CSW. (Book p962)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: SIADH and cortisol or thyroid hormone insufficiency appear under the heading of ______ ADH and are the two entries given for ______ hyponatremia.",
+   "opts": [
+    "inappropriate; euvolemic",
+    "appropriate stimulus-driven; hypovolemic",
+    "decreased; hypervolemic",
+    "increased; dilutional"
+   ],
+   "ans": 0,
+   "exp": "Branch 3b is 'Inappropriate ADH', and the two causes listed beneath it — cortisol/thyroid hormone insufficiency and SIADH — produce euvolemic hyponatremia. (Book p962)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two severity lists in this volume: I This hyponatremia page caps mild at 134, whereas the ADH chapter's classification table caps mild at 135. II Both pages use identical upper limits for every band.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Book p962 gives mild as 130-134 while Book p959 gave 130-135; moderate, severe and very severe bands agree, so the two lists are not identical. (Book p962)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All of the following are grouped under the renal loss arm of hypovolemic hyponatremia EXCEPT:",
+   "opts": [
+    "Vomiting",
+    "Tubular injury",
+    "Mineralocorticoid insufficiency",
+    "Cerebral salt wasting syndrome"
+   ],
+   "ans": 0,
+   "exp": "Renal loss lists tubular injury, mineralocorticoid insufficiency and cerebral salt wasting; vomiting is placed under GI loss along with diarrhea. (Book p962)"
+  }
+ ]
+}

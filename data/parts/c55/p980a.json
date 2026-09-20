@@ -1,0 +1,150 @@
+{
+ "page": 980,
+ "sec": "Hypertension 2023 · front-line drugs, ESH combinations and resistant hypertension",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match each letter used by the page with the drug class it stands for — 1) A 2) C 3) D 4) B … A) Thiazide or thiazide-like diuretics B) Calcium channel blockers C) Beta-blockers, used only on indication D) ACE inhibitors and angiotensin receptor blockers",
+   "opts": [
+    "1-D, 2-B, 3-A, 4-C",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-B, 2-C, 3-A, 4-D"
+   ],
+   "ans": 0,
+   "exp": "A covers both ACE inhibitors and ARBs, C the calcium channel blockers, D the thiazide or thiazide-like diuretics, and B the beta-blockers placed under used based on indication rather than as a front-line class. (Book p980)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Beta-blockers are confined to three specific scenarios on this page. Which situation is NOT one of them?",
+   "opts": [
+    "Isolated systolic hypertension in an elderly patient",
+    "Coronary artery disease",
+    "Atrial fibrillation",
+    "Heart failure with reduced ejection fraction"
+   ],
+   "ans": 0,
+   "exp": "The three listed indications are coronary artery disease, atrial fibrillation and HF with reduced ejection fraction, and the page separately notes that a beta-blocker is not a preferred first line drug. (Book p980)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which combinations does the page give as ESH recommended therapy?",
+   "opts": [
+    "A plus C, or A plus D",
+    "A plus B, or C plus D",
+    "B plus C, or A plus B plus C",
+    "C plus D as the only option"
+   ],
+   "ans": 0,
+   "exp": "The ESH recommended therapy line reads A + C or A + D, with the three arms A, C and D then detailed beneath it. (Book p980)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the A arm: I Angiotensin receptor blockers are placed ahead of ACE inhibitors. II The starting doses printed are telmisartan 20 mg and ramipril 2.5 mg.",
+   "opts": [
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The A column reads ARBs greater than ACE inhibitors and gives the two starting doses as telmisartan 20 mg and ramipril 2.5 mg. (Book p980)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What dose of indapamide is printed in the D arm, and which diuretic does it beat?",
+   "opts": [
+    "2.5 mg twice daily, ahead of hydrochlorothiazide",
+    "1.5 mg once daily, ahead of chlorthalidone",
+    "2.5 mg once daily, ahead of furosemide",
+    "5 mg twice daily, ahead of metolazone"
+   ],
+   "ans": 0,
+   "exp": "The D branch reads indapamide 2.5 mg BD placed above hydrochlorothiazide. (Book p980)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A physician wants a calcium channel blocker that the page rates above cilnidipine for its channel profile but below amlodipine for pure blood pressure control. Which drug fits?",
+   "opts": [
+    "Benidipine",
+    "Verapamil",
+    "Diltiazem",
+    "Nifedipine"
+   ],
+   "ans": 0,
+   "exp": "The C arm prints benidipine 4 mg BD above cilnidipine 10 mg, while a separate line gives BP control as amlodipine greater than cilnidipine. (Book p980)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The mechanism given for the preferred calcium channel blockers is blockade of ______ type calcium channels, and this is why benidipine is rated above cilnidipine.",
+   "opts": [
+    "L, N and T",
+    "L only",
+    "T and P/Q",
+    "N and L only"
+   ],
+   "ans": 0,
+   "exp": "The MOA line reads blocks L + N + T type calcium channels, the wider channel profile behind the page's preference for benidipine. (Book p980)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What response rates are attached to A plus C alone and to the A plus C plus D triple?",
+   "opts": [
+    "60% within 3 months, and 90%",
+    "40% within 3 months, and 70%",
+    "90% within 3 months, and 60%",
+    "50% within 6 months, and 85%"
+   ],
+   "ans": 0,
+   "exp": "Initial therapy with A plus C is credited with an optimal response in 60% of the population in 3 months, and adding D takes the response to 90%. (Book p980)"
+  },
+  {
+   "fmt": "management",
+   "q": "A patient on telmisartan and amlodipine for three months has a BP of 148/90 mmHg. What does the flowchart do next?",
+   "opts": [
+    "Add D",
+    "Stop both and start a beta-blocker",
+    "Label the case as resistant hypertension immediately",
+    "Refer for renal denervation"
+   ],
+   "ans": 0,
+   "exp": "The no response arrow from A plus C leads to Add D, forming the triple that covers 90% of patients before the unresponsive branch is reached. (Book p980)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the closing steps of the sequence: I An unresponsive patient on triple therapy should be screened for secondary hypertension before the label is applied. II Spironolactone is the drug of choice for resistant hypertension when the eGFR is 24 mL/min.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The rule-out-secondary arrow precedes the resistant HTN label, and spironolactone as DOC belongs to the eGFR above 30 branch, whereas the 24 mL/min patient takes chlorthalidone. (Book p980)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each eGFR band with the drug the resistant-hypertension box assigns to it — 1) Above 30 mL/min 2) At or below 30 mL/min 3) Before either box is reached … A) Chlorthalidone B) Rule out secondary causes of hypertension C) Spironolactone, marked DOC",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Unresponsiveness on A plus C plus D first sends the clinician to rule out secondary causes, after which spironolactone is the DOC above an eGFR of 30 and chlorthalidone is the partner choice at or below it. (Book p980)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 47-year-old with primary aldosteronism later found to have an eGFR of 58 mL/min remains at 156/98 mmHg on telmisartan, amlodipine and indapamide. Which drug does this page add, and why?",
+   "opts": [
+    "Spironolactone, because the eGFR is above 30 mL/min",
+    "Chlorthalidone, because thiazides work better in renal impairment",
+    "Prazosin, as the next front-line class",
+    "Clonidine, because it is the preferred first line in resistance"
+   ],
+   "ans": 0,
+   "exp": "Triple therapy has failed and the eGFR of 58 sits in the above-30 branch, where spironolactone is written as the DOC, an apt choice in aldosterone-driven disease. (Book p980)"
+  }
+ ]
+}

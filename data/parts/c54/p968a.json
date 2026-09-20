@@ -1,0 +1,162 @@
+{
+ "page": 968,
+ "sec": "Potassium Metabolism · physiology, compartments and electrophysiology",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "The opening line of the potassium page equates 1 mmol of K+ with which mass of potassium?",
+   "opts": [
+    "40 mg",
+    "74.5 mg",
+    "35.5 mg",
+    "20 mg"
+   ],
+   "ans": 0,
+   "exp": "The page prints 1 mmol K+ = 1 mEq K+ = 40 mg K+; 74.5 mg is the molecular weight of KCl, which the 750 mg tablet arithmetic on a later page uses. (Book p968)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Total body potassium is computed on this page as ______ mEq per kilogram of body weight, giving about ______ mEq for the whole body.",
+   "opts": [
+    "50; 3000",
+    "40; 2000",
+    "60; 4200",
+    "100; 3000"
+   ],
+   "ans": 0,
+   "exp": "The formula is total body K+ = 50 mEq x body weight in kg, which the page works out as roughly 3000 mEq. (Book p968)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two intake figures on Book p968: I Daily potassium intake is stated as 4700 mg, about 100 mEq. II With the page's own formula, a 60 kg adult carries close to 3000 mEq of potassium.",
+   "opts": [
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Both statements reproduce the page: 4700 mg daily intake is equated with about 100 mEq, and 50 mEq/kg x 60 kg is the 3000 mEq figure quoted. (Book p968)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each statement with the components column it comes from — 1) Serum potassium of 3.5 to 5.5 mEq/L 2) Potassium concentration of 100 to 125 mEq/L 3) 95 to 98% of total body potassium 4) Role in growth and in DNA and protein synthesis … A) ICF column B) ECF column",
+   "opts": [
+    "1-B, 2-A, 3-A, 4-A",
+    "1-A, 2-B, 3-B, 4-A",
+    "1-B, 2-B, 3-A, 4-B",
+    "1-A, 2-A, 3-B, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Only the serum range 3.5-5.5 mEq/L belongs to the ECF column; the intracellular concentration, the 95-98% share and the anabolic role are all ICF entries. (Book p968)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "A patient is given 40 mEq of potassium. By how much does this page expect the serum potassium to rise?",
+   "opts": [
+    "0.5 mEq/L",
+    "2.0 mEq/L",
+    "1.0 mEq/L",
+    "4.0 mEq/L"
+   ],
+   "ans": 0,
+   "exp": "The ECF column states that 40 mEq of supplementation raises serum K+ by only 0.5 mEq/L because most of it enters cells. (Book p968)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Every one of these appears in the ICF column of the components table EXCEPT:",
+   "opts": [
+    "Supplementation raises the serum level by 0.5 mEq/L",
+    "It is the major intracellular cation",
+    "Intracellular concentration is 100 to 125 mEq/L",
+    "It helps in growth and in protein synthesis"
+   ],
+   "ans": 0,
+   "exp": "The blunted serum response to a 40 mEq load is an ECF-column statement; the other three, together with the 95-98% intracellular share, describe the ICF. (Book p968)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each compartment or organ with the potassium amount printed against it in the distribution table — 1) Muscle 2) Liver 3) Red blood cells 4) Plasma … A) 2650 mmol B) 250 mmol C) 350 mmol D) 15 mmol",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Muscle 2650, liver 250, interstitial fluid 35, red blood cells 350 and plasma 15 mmol are the five entries of the organ column. (Book p968)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the distribution table on Book p968: I Its five organ values add to 3300 mmol although the total row reads 3000 mmol. II The compartment column gives 100 to 120 mmol/L for ICF and about 4 mmol/L for ECF.",
+   "opts": [
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Both statements are literally correct, and they expose two source quirks: the organ entries overshoot the stated total, and the ICF concentration is 100-125 mEq/L in the components table but 100-120 mmol/L here. (Book p968)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A malnourished patient has a serum potassium of 2.3 mEq/L with generalized weakness and a silent abdomen. Which chain of events does this page's electrophysiology block use to explain those two findings?",
+   "opts": [
+    "Fall in ECF K+ widens the gradient, K+ leaves the cell, the resting membrane potential becomes more negative and tissue excitability falls",
+    "Fall in ECF K+ narrows the gradient, K+ is retained, the resting potential becomes less negative and excitability rises",
+    "Rise in ECF K+ widens the gradient, K+ leaves the cell and the resting potential becomes more negative",
+    "Fall in ECF K+ widens the gradient, K+ leaves the cell, the resting potential becomes less negative and excitability rises"
+   ],
+   "ans": 0,
+   "exp": "The hypokalemia arrow runs from a low ECF or serum K+ through an increased outward gradient to a more negative resting membrane potential and reduced tissue excitability, which the page illustrates with muscle weakness and ileus. (Book p968)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All of the following are attached to the hypokalemia half of the electrophysiology block EXCEPT:",
+   "opts": [
+    "A resting membrane potential that has become less negative",
+    "Reduced tissue excitability",
+    "Increased cardiac excitability",
+    "QT prolongation with torsades de pointes"
+   ],
+   "ans": 0,
+   "exp": "Low potassium makes the resting membrane potential more negative; a less negative potential is the hyperkalemia side of the same block, where tissue excitability rises and cardiac arrhythmias follow. (Book p968)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In hyperkalemia the gradient for potassium to leave the cell is ______, so K+ ______ the cell, the resting membrane potential becomes ______ negative and tissue excitability ______.",
+   "opts": [
+    "reduced; remains inside; less; rises",
+    "increased; leaves; more; falls",
+    "reduced; leaves; more; rises",
+    "unchanged; remains inside; less; falls"
+   ],
+   "ans": 0,
+   "exp": "The hyperkalemia arrow describes a decreased outward gradient, potassium held inside the cell, a less negative resting potential and increased tissue excitability ending in cardiac arrhythmias. (Book p968)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which cardiac rhythm complication does the page link to the increased cardiac excitability of hypokalemia?",
+   "opts": [
+    "Torsades de pointes with QT prolongation",
+    "Atrial flutter with a short PR interval",
+    "Ventricular fibrillation with ST elevation",
+    "Sinus bradycardia with a widened QRS"
+   ],
+   "ans": 0,
+   "exp": "The hypokalemia branch ends with increased cardiac excitability leading to torsades de pointes, annotated with QT prolongation. (Book p968)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An ECG in a patient with potassium 2.4 mEq/L shows a prolonged QT and runs of polymorphic ventricular tachycardia. Which two-step sequence from this page's block produced that picture?",
+   "opts": [
+    "More negative resting potential with reduced tissue excitability, plus increased cardiac excitability",
+    "Less negative resting potential with increased tissue excitability, plus reduced cardiac excitability",
+    "More negative resting potential with increased tissue excitability in every tissue",
+    "Unchanged resting potential with selective skeletal muscle failure"
+   ],
+   "ans": 0,
+   "exp": "The page pairs a more negative resting potential with lowered tissue excitability for skeletal and gut muscle while simultaneously raising cardiac excitability, which is why weakness and torsades coexist. (Book p968)"
+  }
+ ]
+}

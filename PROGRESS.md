@@ -77,11 +77,11 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 49 | Growth Hormone | p945 | **LIVE**
 | 50 | Acquired Hypopituitarism | p952 | **LIVE**
 | 51 | Antidiuretic Hormone | p958 | **LIVE**
-| 52 | Hyponatremia | p962 | SOON
-| 53 | Polyuria | p965 | SOON
-| 54 | Potassium Metabolism | p968 | SOON
-| 55 | Management of Hypertension - 2023 Guidelines | p976 | SOON
-| 56 | Basics of Development and Anatomy of Liver | p982 | SOON
+| 52 | Hyponatremia | p962 | LIVE (47 q, 3 u)
+| 53 | Polyuria | p965 | LIVE (53 q, 3 u)
+| 54 | Potassium Metabolism | p968 | LIVE (106 q, 8 u)
+| 55 | Management of Hypertension - 2023 Guidelines | p976 | LIVE (77 q, 6 u)
+| 56 | Basics of Development and Anatomy of Liver | p982 | LIVE (55 q, 4 u)
 | 57 | Basics of Physiology of Liver | p986 | SOON
 | 58 | Acute Hepatitis and Acute Liver Failure | p993 | SOON
 | 59 | Chronic Hepatitis - Cirrhosis | p997 | SOON
@@ -193,7 +193,13 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 34 "Calcium Metabolism" (p874–876): 3 units, 29 questions — BUILT & VERIFIED**
 - [x] **Ch 35 "Hypercalcemia" (p877–882): 6 units, 64 questions — BUILT & VERIFIED**
 - [x] **Ch 36–40 (p883–901): 19 units, 272 questions — BUILT & VERIFIED**
-- [ ] Ch 41–59 and 62–74 (Ch 60–61 already live)
+- [x] **Ch 52 "Hyponatremia" (p962–964): 3 units, 47 questions — BUILT & VERIFIED**
+- [x] **Ch 53 "Polyuria" (p965–967): 3 units, 53 questions — BUILT & VERIFIED**
+- [x] **Ch 54 "Potassium Metabolism" (p968–975): 8 units, 106 questions — BUILT & VERIFIED**
+- [x] **Ch 55 "Management of Hypertension - 2023 Guidelines" (p976–981): 6 units, 77 questions — BUILT & VERIFIED**
+- [x] **Ch 56 "Basics of Development and Anatomy of Liver" (p982–985): 4 units, 55 questions — BUILT & VERIFIED**
+- [x] **Ch 41–51 (p902–961): BUILT & VERIFIED in earlier batches — see `REPORT_CH41-46.md`, `REPORT_CH47-51.md`**
+- [ ] Ch 57–59 and 62–74 (Ch 1–56 and 60–61 are live)
 
 ## NEXT
 **Ch 6–15 re-audited (Book p734–785) — see `REAUDIT_CH6-15.md`.** Ch 19–22 (p805–818,
@@ -311,3 +317,21 @@ every new question, including board/blank rendering and unit completion.
 240 pages (p705–935 and p1001–1009). Earlier totals above are historical snapshots.
 
 **Next: Ch 47 (Diabetes Mellitus continues in Part 4 after p935).**
+
+## Latest batch — Chapters 52–56 (2026-09-20)
+
+**338 new questions · 24 units · all 24 pages p962–985.**
+Ch 52: 47 q / 3 u; Ch 53: 53 q / 3 u; Ch 54: 106 q / 8 u;
+Ch 55: 77 q / 6 u; Ch 56: 55 q / 4 u.
+
+Covers hyponatremia and its correction, polyuria and diabetes insipidus, potassium
+metabolism (hypo- and hyperkalemia), the 2023 hypertension management guidelines, and
+the development/anatomy of the liver. All five requested question styles appear in
+every unit. Page-by-page coverage, source-error handling and verification:
+**REPORT_CH52-56.md**. The runtime regression exercises both correct and incorrect
+paths for all 338 new questions (676 answer paths across 24 units).
+
+**Current bank total: 4,188 questions · 346 units · 58 live chapters**, covering
+290 pages (p705–985 and p1001–1009).
+
+**Next: Ch 57 "Basics of Physiology of Liver" (p986–992) to close the p985→p1001 gap.**

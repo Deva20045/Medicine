@@ -1,0 +1,887 @@
+{
+ "chapter": 53,
+ "title": "Polyuria",
+ "pageRange": "965-967",
+ "questions": [
+  {
+   "id": "MED-C53-001",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "numeric",
+   "q": "Which absolute 24-hour urine volume defines polyuria on this page?",
+   "opts": [
+    "More than 1.5 L/day",
+    "More than 3 L/day",
+    "More than 5 L/day",
+    "More than 2 L/day"
+   ],
+   "ans": 1,
+   "exp": "Polyuria is defined three ways on this page: >40 mL/kg/day, >3 L/day and >2 L/m2. (Book p965)"
+  },
+  {
+   "id": "MED-C53-002",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "match",
+   "q": "Match each polyuria threshold with the denominator it uses — 1) >40 mL/kg/day 2) >3 L/day 3) >2 L/m2 … A) Body weight B) Fixed adult volume C) Body surface area",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 3,
+   "exp": "The three definitions are per kilogram of body weight, an absolute adult figure of 3 L/day, and per square metre of body surface. (Book p965)"
+  },
+  {
+   "id": "MED-C53-003",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "truefalse",
+   "q": "Assess against the three thresholds on Book p965: I A 60 kg adult passing 2.8 L/day is polyuric by the weight-based criterion. II A child passing 46 mL/kg/day is polyuric even if the absolute volume is under 3 L.",
+   "opts": [
+    "I false; II true",
+    "Both are true",
+    "Both are false",
+    "I true; II false"
+   ],
+   "ans": 3,
+   "exp": "40 mL/kg/day of 60 kg is 2.4 L, so 2.8 L/day does cross the weight-based line; 46 mL/kg/day also exceeds the per-kilogram cut-off, which is exactly why the paediatric criterion exists. (Book p965)"
+  },
+  {
+   "id": "MED-C53-004",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "recall",
+   "q": "The water-diuresis column of the comparison table carries which descriptor in brackets after its heading?",
+   "opts": [
+    "Hyperosmolar solute load",
+    "Hypotonic polydipsia",
+    "Hypertonic polydipsia",
+    "Isotonic volume expansion"
+   ],
+   "ans": 1,
+   "exp": "The second column is headed 'Water diuresis (Hypotonic polydipsia)', in contrast with the solute-diuresis column. (Book p965)"
+  },
+  {
+   "id": "MED-C53-005",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "oddoneout",
+   "q": "All of the following appear in the causes row for solute diuresis EXCEPT:",
+   "opts": [
+    "Psychogenic polydipsia",
+    "Mannitol",
+    "Glucose",
+    "Relief of obstruction"
+   ],
+   "ans": 0,
+   "exp": "Solute diuresis is attributed to mannitol, glucose, relief of obstruction and long term diuretic use; psychogenic polydipsia sits in the water-diuresis column. (Book p965)"
+  },
+  {
+   "id": "MED-C53-006",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "fillup",
+   "q": "Fill up: In the water-diuresis column, central DI is ascribed to ______ deficiency and peripheral DI to ______ at the receptor.",
+   "opts": [
+    "AVP (vasopressin); AVP-r resistance",
+    "ANP; aldosterone resistance",
+    "AVP; aquaporin-1 overexpression",
+    "ADHase; V1 down-regulation"
+   ],
+   "ans": 0,
+   "exp": "The column lists a. AVP (vasopressin) deficiency as central DI, b. AVP-r resistance as peripheral DI and c. psychogenic polydipsia. (Book p965)"
+  },
+  {
+   "id": "MED-C53-007",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "numeric",
+   "q": "The comparison table splits the two diuresis types by urine output. Which figure is used as the discriminator?",
+   "opts": [
+    "7 L/day",
+    "3 L/day",
+    "10 L/day",
+    "5 L/day"
+   ],
+   "ans": 0,
+   "exp": "Urine output below 7 L/day is placed with solute diuresis and above 7 L/day with water diuresis, even though polyuria itself starts at 3 L/day. (Book p965)"
+  },
+  {
+   "id": "MED-C53-008",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "match",
+   "q": "Match each table row with the value given for solute diuresis — 1) Urine osmolality 2) Urine dipstick 3) Urine output … A) Greater than 600 mosm/kg B) Positive C) Less than 7 L/day",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 3,
+   "exp": "Solute diuresis shows urine osmolality above 600 mosm/kg, a positive dipstick and output under 7 L/day, whereas water diuresis shows osmolality below 300 mosm/kg, a negative dipstick, output above 7 L/day and specific gravity below 1.008. (Book p965)"
+  },
+  {
+   "id": "MED-C53-009",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "truefalse",
+   "q": "Assess the last two rows of the table: I The specific-gravity row carries a value only in the water-diuresis column. II The dipstick is positive in water diuresis and negative in solute diuresis.",
+   "opts": [
+    "I false; II true",
+    "Both are true",
+    "Both are false",
+    "I true; II false"
+   ],
+   "ans": 3,
+   "exp": "Specific gravity is left as a dash under solute diuresis and given as <1.008 under water diuresis; the dipstick is the other way round, positive with solute diuresis and negative with water diuresis. (Book p965)"
+  },
+  {
+   "id": "MED-C53-010",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "scenario",
+   "q": "Two days after relief of a bilateral pelvic ureteric obstruction a patient passes 6 L/day; urine osmolality is 640 mOsm/kg and the dipstick is positive for glucose. Which column of the table does this picture belong to?",
+   "opts": [
+    "Water diuresis, since the volume exceeds 3 L/day",
+    "Central DI, since relief of obstruction damages the stalk",
+    "Psychogenic polydipsia, since the dipstick is positive",
+    "Solute diuresis, since output is under 7 L/day with osmolality above 600"
+   ],
+   "ans": 3,
+   "exp": "Relief of obstruction is a named cause of solute diuresis, and the output below 7 L/day, osmolality above 600 mOsm/kg and positive dipstick all sit in that column. (Book p965)"
+  },
+  {
+   "id": "MED-C53-011",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "oddoneout",
+   "q": "Every item below belongs to the stalk-effect group of central DI EXCEPT:",
+   "opts": [
+    "Infections such as tuberculosis and histoplasmosis",
+    "Wolfram syndrome",
+    "Tumor",
+    "Lymphocytic hypophysitis"
+   ],
+   "ans": 1,
+   "exp": "The stalk-effect list covers tumor, infiltration, infections and lymphocytic hypophysitis, while Wolfram syndrome is filed under the autosomal recessive inherited group. (Book p965)"
+  },
+  {
+   "id": "MED-C53-012",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "recall",
+   "q": "Which infiltrative trio is named under the stalk effect in central DI?",
+   "opts": [
+    "Sarcoidosis, Wegener's granulomatosis and amyloidosis",
+    "Hemochromatosis, metastatic breast deposit and histiocytosis X",
+    "Langerhans' cell histiocytosis, hemochromatosis and sarcoidosis",
+    "Amyloidosis, tuberculosis and lymphoma"
+   ],
+   "ans": 2,
+   "exp": "Infiltration is specified as Langerhans' cell histiocytosis, hemochromatosis and sarcoidosis; TB, HIV, histoplasmosis and toxoplasmosis form the separate infections list. (Book p965)"
+  },
+  {
+   "id": "MED-C53-013",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "numeric",
+   "q": "For inherited central DI, what is the sequence of inheritance modes as ranked on this page?",
+   "opts": [
+    "Autosomal dominant before autosomal recessive before X-linked recessive",
+    "X-linked recessive before autosomal dominant before autosomal recessive",
+    "Autosomal recessive before X-linked recessive before autosomal dominant",
+    "Autosomal dominant before X-linked recessive before autosomal recessive"
+   ],
+   "ans": 0,
+   "exp": "The line reads AD > AR > XLR for inherited central DI. (Book p965)"
+  },
+  {
+   "id": "MED-C53-014",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "match",
+   "q": "Match each component of the Wolfram box with its numbered order of occurrence — 1) DM 2) OA 3) DI 4) Deafness … A) First B) Second C) Third D) Fourth",
+   "opts": [
+    "1-A, 2-D, 3-B, 4-C",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 2,
+   "exp": "The numbers under DI DM OA D read 3, 1, 2 and 4, so diabetes mellitus appears first, optic atrophy second, diabetes insipidus third and deafness fourth. (Book p965)"
+  },
+  {
+   "id": "MED-C53-015",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "fillup",
+   "q": "Fill up: The Wolfram box spells its four features as the letters ______, and the syndrome is inherited in the ______ pattern among central DI causes.",
+   "opts": [
+    "DM, DI, DA, O; autosomal dominant",
+    "DI, DM, OA, D; mitochondrial",
+    "DI, DM, OA, D; autosomal recessive",
+    "DI, DM, OD, A; X-linked recessive"
+   ],
+   "ans": 2,
+   "exp": "DI, DM, OA and D are boxed as the four components, and the page lists Wolfram syndrome as the autosomal recessive form of inherited central DI. (Book p965)"
+  },
+  {
+   "id": "MED-C53-016",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "match",
+   "q": "Match each nephrogenic DI category with its examples — 1) Drugs 2) Metabolic 3) Autoimmune … A) Hypercalcaemia, hypokalaemia and raised uric acid B) Lithium, demeclocycline, cisplatin, foscarnet, aminoglycosides, amphotericin B C) Sarcoidosis, Sjogren's and IgG4 disease",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "The seven nephrogenic DI groups are drugs, sickle cell anaemia, pregnancy, metabolic, autoimmune, chronic tubulo-interstitial disease and inherited causes, with the entries matched as above. (Book p965)"
+  },
+  {
+   "id": "MED-C53-017",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "oddoneout",
+   "q": "Which of these agents is NOT among the drugs listed as causes of nephrogenic DI?",
+   "opts": [
+    "Demeclocycline",
+    "Foscarnet",
+    "Amphotericin B",
+    "Hydrochlorothiazide"
+   ],
+   "ans": 3,
+   "exp": "The drug list is lithium, demeclocycline, cisplatin, foscarnet, aminoglycosides and amphotericin B; thiazides appear later in this chapter as treatment for nephrogenic DI. (Book p965)"
+  },
+  {
+   "id": "MED-C53-018",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "numeric",
+   "q": "In the metabolic group of nephrogenic DI, which trio of direction changes is recorded?",
+   "opts": [
+    "Calcium down, potassium up, uric acid down",
+    "Calcium up, potassium up, uric acid down",
+    "Calcium down, potassium down, uric acid up",
+    "Calcium up, potassium down, uric acid up"
+   ],
+   "ans": 3,
+   "exp": "The metabolic row reads increased Ca2+, decreased K+ and increased uric acid as causes of nephrogenic DI. (Book p965)"
+  },
+  {
+   "id": "MED-C53-019",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "truefalse",
+   "q": "Assess the inherited line for nephrogenic DI: I The page puts the X-linked form ahead of the autosomal recessive form. II The X-linked form is attributed to the aquaporin 2 gene and the recessive form to the V2 receptor gene.",
+   "opts": [
+    "Both are false",
+    "I true; II false",
+    "I false; II true",
+    "Both are true"
+   ],
+   "ans": 1,
+   "exp": "The ranking XLR > AR is correct, but the gene attribution is the reverse: the X-linked form is printed against the V receptor gene, written V_a on the page, while the autosomal recessive form is the aquaporin 2 gene. The X-linked defect is in the V2 receptor gene, the cAMP-coupled receptor of the collecting duct. (Book p965)"
+  },
+  {
+   "id": "MED-C53-020",
+   "sec": "Polyuria · definition, solute versus water diuresis and the causes of DI",
+   "page": 965,
+   "fmt": "recall",
+   "q": "Pregnancy is explicitly listed as a cause in which of the two DI categories on this page?",
+   "opts": [
+    "Central DI only",
+    "Nephrogenic DI only",
+    "Neither; only psychogenic polydipsia",
+    "Both central and nephrogenic DI"
+   ],
+   "ans": 3,
+   "exp": "B. Pregnancy heads the second central DI group, and 3. Pregnancy reappears as the third cause in the nephrogenic DI list. (Book p965)"
+  },
+  {
+   "id": "MED-C53-021",
+   "sec": "Polyuria · clinical features, copeptin and water deprivation testing, treatment of central DI",
+   "page": 966,
+   "fmt": "truefalse",
+   "q": "Assess the clinical-features list on Book p966: I Polyuria is quantified here as 3-15 L/day alongside polydipsia. II The sex distribution favours females.",
+   "opts": [
+    "Both are true",
+    "Both are false",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 2,
+   "exp": "The list gives m = F for sex, with polyuria of 3-15 L/day and polydipsia, abrupt-onset hyponatremia and a predilection for cold water. (Book p966)"
+  },
+  {
+   "id": "MED-C53-022",
+   "sec": "Polyuria · clinical features, copeptin and water deprivation testing, treatment of central DI",
+   "page": 966,
+   "fmt": "fillup",
+   "q": "Fill up: Patients with DI show a predilection for ______ water, and this page records the onset as an abrupt ______aemia.",
+   "opts": [
+    "iced; hypercalctr",
+    "room-temperature; hyponatr",
+    "cold; hyponatr",
+    "warm; hypernatr"
+   ],
+   "ans": 2,
+   "exp": "The two bullets are a predilection for cold water and hyponatremia with abrupt onset; note that the complication line on Book p967 instead names hypernatremia as a rare complication. (Book p966)"
+  },
+  {
+   "id": "MED-C53-023",
+   "sec": "Polyuria · clinical features, copeptin and water deprivation testing, treatment of central DI",
+   "page": 966,
+   "fmt": "numeric",
+   "q": "What basal plasma copeptin value does the evaluation algorithm treat as a normal level?",
+   "opts": [
+    "Greater than 21.4 pmol/L",
+    "Greater than 3.8 pmol/L",
+    "Less than 21.4 pmol/L",
+    "Greater than 300 pmol/L"
+   ],
+   "ans": 0,
+   "exp": "Step 1 is the plasma copeptin assay, and above 21.4 pmol/L is labelled a normal level, which routes the patient to nephrogenic DI. (Book p966)"
+  },
+  {
+   "id": "MED-C53-024",
+   "sec": "Polyuria · clinical features, copeptin and water deprivation testing, treatment of central DI",
+   "page": 966,
+   "fmt": "management",
+   "q": "A polyuric patient has a basal plasma copeptin of 26 pmol/L. What does the page's algorithm conclude?",
+   "opts": [
+    "Central DI, and arginine stimulation is needed",
+    "Psychogenic polydipsia",
+    "The result is uninterpretable until water deprivation is done",
+    "Nephrogenic DI, without further stimulation testing"
+   ],
+   "ans": 3,
+   "exp": "A normal basal copeptin above 21.4 pmol/L points straight at nephrogenic DI; only the low-value branch proceeds to stimulated testing. (Book p966)"
+  },
+  {
+   "id": "MED-C53-025",
+   "sec": "Polyuria · clinical features, copeptin and water deprivation testing, treatment of central DI",
+   "page": 966,
+   "fmt": "match",
+   "q": "Match each copeptin result with the diagnosis it produces in the algorithm — 1) Basal above 21.4 pmol/L 2) Arginine-stimulated above 3.8 pmol/L 3) Arginine-stimulated below 3.8 pmol/L … A) Central DI B) Nephrogenic DI C) Psychogenic polydipsia",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "Basal copeptin above 21.4 pmol/L gives nephrogenic DI, while a low basal value leads to arginine stimulation, with above 3.8 pmol/L read as psychogenic polydipsia and below 3.8 pmol/L as central DI. (Book p966)"
+  },
+  {
+   "id": "MED-C53-026",
+   "sec": "Polyuria · clinical features, copeptin and water deprivation testing, treatment of central DI",
+   "page": 966,
+   "fmt": "recall",
+   "q": "Which secretagogue is named for the stimulated copeptin assay on this page?",
+   "opts": [
+    "Arginine",
+    "Hypertonic saline",
+    "Insulin-induced hypoglycaemia",
+    "Glucagon"
+   ],
+   "ans": 0,
+   "exp": "The second box is titled stimulated copeptin assay with arginine in brackets, used when basal copeptin is below 21.4 pmol/L. (Book p966)"
+  },
+  {
+   "id": "MED-C53-027",
+   "sec": "Polyuria · clinical features, copeptin and water deprivation testing, treatment of central DI",
+   "page": 966,
+   "fmt": "numeric",
+   "q": "In the arginine-stimulated branch, what copeptin level separates psychogenic polydipsia from central DI?",
+   "opts": [
+    "10 pmol/L",
+    "3.8 pmol/L",
+    "21.4 pmol/L",
+    "600 mOsm/kg"
+   ],
+   "ans": 1,
+   "exp": "Above 3.8 pmol/L is labelled psychogenic polydipsia and below 3.8 pmol/L central DI. (Book p966)"
+  },
+  {
+   "id": "MED-C53-028",
+   "sec": "Polyuria · clinical features, copeptin and water deprivation testing, treatment of central DI",
+   "page": 966,
+   "fmt": "scenario",
+   "q": "A 29-year-old nurse passes 8 L/day, has a basal copeptin of 12 pmol/L and a post-arginine copeptin of 9 pmol/L. What is the page's interpretation?",
+   "opts": [
+    "Partial central DI",
+    "Psychogenic polydipsia",
+    "Central DI",
+    "Nephrogenic DI"
+   ],
+   "ans": 1,
+   "exp": "A basal value under 21.4 pmol/L requires stimulation, and a stimulated copeptin above 3.8 pmol/L is placed in the psychogenic polydipsia branch. (Book p966)"
+  },
+  {
+   "id": "MED-C53-029",
+   "sec": "Polyuria · clinical features, copeptin and water deprivation testing, treatment of central DI",
+   "page": 966,
+   "fmt": "match",
+   "q": "Match each variable of the water deprivation test with how often the page repeats it — 1) Serum osmolality 2) Urine osmolality 3) Body weight … A) Hourly B) Two-hourly C) Hourly",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-A"
+   ],
+   "ans": 3,
+   "exp": "Serum osmolality and body weight are repeated hourly while urine osmolality is repeated 2-hourly during the deprivation study. (Book p966)"
+  },
+  {
+   "id": "MED-C53-030",
+   "sec": "Polyuria · clinical features, copeptin and water deprivation testing, treatment of central DI",
+   "page": 966,
+   "fmt": "numeric",
+   "q": "Water is withheld for how long at the start of the deprivation test, and at what percentage fall in body weight must the test be stopped?",
+   "opts": [
+    "3 hours, and stop if body weight falls by more than 3%",
+    "5 hours, and stop if body weight falls by more than 5%",
+    "3 hours, and stop if body weight falls by more than 1%",
+    "12 hours, and stop only for serum osmolality above 300 mOsm/kg"
+   ],
+   "ans": 0,
+   "exp": "No water is given for 3 hours, and the two stop rules are a body-weight fall above 3% and serum osmolality above 300 mOsm/kg. (Book p966)"
+  },
+  {
+   "id": "MED-C53-031",
+   "sec": "Polyuria · clinical features, copeptin and water deprivation testing, treatment of central DI",
+   "page": 966,
+   "fmt": "management",
+   "q": "At hour 4 of a water deprivation test the patient's serum osmolality reads 306 mOsm/kg. What does the protocol require next?",
+   "opts": [
+    "Give desmopressin immediately without checking urine osmolality",
+    "Restart the test after rehydrating for 24 hours",
+    "Stop the test and move on to the urine osmolality step",
+    "Continue deprivation until urine osmolality exceeds 600 mOsm/kg"
+   ],
+   "ans": 2,
+   "exp": "Serum osmolality above 300 mOsm/kg is one of the two stop criteria, after which the check-urine-osmolality box of the flowchart is reached. (Book p966)"
+  },
+  {
+   "id": "MED-C53-032",
+   "sec": "Polyuria · clinical features, copeptin and water deprivation testing, treatment of central DI",
+   "page": 966,
+   "fmt": "numeric",
+   "q": "In the flowchart, a urine osmolality above which value ends the test with a psychogenic label, without giving desmopressin?",
+   "opts": [
+    "300 mOsm/kg",
+    "1000 mOsm/kg",
+    "150 mOsm/kg",
+    "600 mOsm/kg"
+   ],
+   "ans": 3,
+   "exp": "Urine osmolality above 600 mOsm/kg after deprivation is read as psychogenic, while values under 600 mOsm/kg lead to the desmopressin step. (Book p966)"
+  },
+  {
+   "id": "MED-C53-033",
+   "sec": "Polyuria · clinical features, copeptin and water deprivation testing, treatment of central DI",
+   "page": 966,
+   "fmt": "recall",
+   "q": "How does this page state the desmopressin doses used inside the deprivation test, and what is the correct clinical reading of the parenteral figure?",
+   "opts": [
+    "2 mg i.m. as printed, and the dose really is milligrams",
+    "10 mg i.m. as printed, mirroring the intranasal dose",
+    "4 mg i.m. with no intranasal option listed",
+    "2 mg i.m. per 2 mL as printed, which is the microgram strength of the injection"
+   ],
+   "ans": 3,
+   "exp": "The flowchart prints desmopressin 2 mg i.m./2 mL with 10-20 micrograms intranasally; parenteral desmopressin is dosed in micrograms, so the printed milligram figure stands for the microgram strength of the ampoule. (Book p966)"
+  },
+  {
+   "id": "MED-C53-034",
+   "sec": "Polyuria · clinical features, copeptin and water deprivation testing, treatment of central DI",
+   "page": 966,
+   "fmt": "match",
+   "q": "Match each hourly rise in urine osmolality after desmopressin with its diagnosis — 1) Rise above 50% 2) Rise of 10-50% 3) Rise under 10% … A) Nephrogenic DI B) Central DI C) Partial central DI",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 2,
+   "exp": "The three branches read increased above 50% as central DI, 10-50% as partial central DI, and under 10% as nephrogenic DI. (Book p966)"
+  },
+  {
+   "id": "MED-C53-035",
+   "sec": "Polyuria · clinical features, copeptin and water deprivation testing, treatment of central DI",
+   "page": 966,
+   "fmt": "scenario",
+   "q": "A deprived patient has a urine osmolality of 240 mOsm/kg, rising to 298 mOsm/kg in the hour after desmopressin. Which label does the flowchart assign?",
+   "opts": [
+    "Partial central DI",
+    "Complete central DI",
+    "Nephrogenic DI",
+    "Psychogenic polydipsia"
+   ],
+   "ans": 0,
+   "exp": "The rise is about 24%, which falls in the 10-50% band the page assigns to partial central DI rather than the under-10% nephrogenic band. (Book p966)"
+  },
+  {
+   "id": "MED-C53-036",
+   "sec": "Polyuria · clinical features, copeptin and water deprivation testing, treatment of central DI",
+   "page": 966,
+   "fmt": "truefalse",
+   "q": "Assess the water-deprivation graph: I The primary polydipsia curve climbs steadily towards 1000 mOsm over the 14-hour axis. II The curve that stays flat and never responds after desmopressin is labelled central DI.",
+   "opts": [
+    "Both are true",
+    "Both are false",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 2,
+   "exp": "Normal and polydipsia curves rise, central DI stays low through deprivation and then jumps after the desmopressin point near hour 10, while the nephrogenic DI trace is the flat orange line along the baseline. (Book p966)"
+  },
+  {
+   "id": "MED-C53-037",
+   "sec": "Polyuria · clinical features, copeptin and water deprivation testing, treatment of central DI",
+   "page": 966,
+   "fmt": "fillup",
+   "q": "Fill up: Central DI is treated with desmopressin at ______ intranasally or ______ orally, both twice daily.",
+   "opts": [
+    "10-20 mg; 0.1-0.8 micrograms",
+    "10-20 micrograms; 0.1-0.8 mg",
+    "1-2 micrograms; 0.05-0.1 mg",
+    "50-100 micrograms; 1-2 mg"
+   ],
+   "ans": 1,
+   "exp": "The treatment line gives 10-20 micrograms intranasal BD and 0.1-0.8 mg PO BD for central DI. (Book p966)"
+  },
+  {
+   "id": "MED-C53-038",
+   "sec": "Polyuria · partial and nephrogenic DI treatment, hypernatremic complication and DI versus SIADH",
+   "page": 967,
+   "fmt": "fillup",
+   "q": "Fill up: Partial DI is treated with the three drugs grouped as the 3 C's, namely ______, ______ and ______.",
+   "opts": [
+    "clofibrate; cisapride; chlorpromazine",
+    "chlorpropamide; clofibrate; carbamazepine",
+    "chlorpromazine; cyclophosphamide; carbamazepine",
+    "chlorpropamide; clobazam; colchicine"
+   ],
+   "ans": 1,
+   "exp": "Item 2 of the treatment list is partial DI, treated with the 3 C's: chlorpropamide, clofibrate and carbamazepine. (Book p967)"
+  },
+  {
+   "id": "MED-C53-039",
+   "sec": "Polyuria · partial and nephrogenic DI treatment, hypernatremic complication and DI versus SIADH",
+   "page": 967,
+   "fmt": "oddoneout",
+   "q": "Three of these drugs belong to the 3 C's used in partial DI. Which one does not?",
+   "opts": [
+    "Chlorpropamide",
+    "Clofibrate",
+    "Carbamazepine",
+    "Chlorpromazine"
+   ],
+   "ans": 3,
+   "exp": "Chlorpromazine is not on the partial DI list; it appears among the 5 C's of drug-induced SIADH, the opposite problem. (Book p967)"
+  },
+  {
+   "id": "MED-C53-040",
+   "sec": "Polyuria · partial and nephrogenic DI treatment, hypernatremic complication and DI versus SIADH",
+   "page": 967,
+   "fmt": "truefalse",
+   "q": "Assess the nephrogenic DI treatment block: I The page states it is difficult to treat and lists a low sodium diet. II Thiazides are the drug of choice because they raise GFR, and amiloride is reserved for lithium-induced DI.",
+   "opts": [
+    "Both are true",
+    "Both are false",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 2,
+   "exp": "Low sodium diet, thiazides as DOC with a fall in GFR and amiloride as DOC for lithium-induced DI are all listed; the thiazide note says reduced GFR, not increased. (Book p967)"
+  },
+  {
+   "id": "MED-C53-041",
+   "sec": "Polyuria · partial and nephrogenic DI treatment, hypernatremic complication and DI versus SIADH",
+   "page": 967,
+   "fmt": "management",
+   "q": "A 44-year-old on long-term lithium has nephrogenic DI with a 24-hour urine of 6 L. Per this page, which drug is the documented drug of choice?",
+   "opts": [
+    "Amiloride",
+    "Chlorpropamide",
+    "Desmopressin",
+    "Carbamazepine"
+   ],
+   "ans": 0,
+   "exp": "Amiloride is labelled the DOC for lithium-induced DI, alongside a low sodium diet and thiazides for nephrogenic DI generally. (Book p967)"
+  },
+  {
+   "id": "MED-C53-042",
+   "sec": "Polyuria · partial and nephrogenic DI treatment, hypernatremic complication and DI versus SIADH",
+   "page": 967,
+   "fmt": "oddoneout",
+   "q": "All of the following appear in the management line for nephrogenic DI EXCEPT:",
+   "opts": [
+    "A low sodium diet as a baseline measure",
+    "Thiazides entered as the drug of choice",
+    "Amiloride for the lithium-induced form",
+    "Desmopressin 10-20 micrograms intranasally"
+   ],
+   "ans": 3,
+   "exp": "The three listed measures are a low sodium diet, thiazides as DOC through a reduced GFR and amiloride for lithium-induced DI; intranasal desmopressin is the treatment of central DI. (Book p967)"
+  },
+  {
+   "id": "MED-C53-043",
+   "sec": "Polyuria · partial and nephrogenic DI treatment, hypernatremic complication and DI versus SIADH",
+   "page": 967,
+   "fmt": "numeric",
+   "q": "For the hypernatremic complication of DI, by how much should serum sodium be lowered each day?",
+   "opts": [
+    "20-25 mEq/L",
+    "8-10 mEq/L",
+    "2-4 mEq/L",
+    "15-20 mEq/L"
+   ],
+   "ans": 1,
+   "exp": "The Rx line reads a fall in Na+ daily of 8-10 mEq/L. (Book p967)"
+  },
+  {
+   "id": "MED-C53-044",
+   "sec": "Polyuria · partial and nephrogenic DI treatment, hypernatremic complication and DI versus SIADH",
+   "page": 967,
+   "fmt": "numeric",
+   "q": "Using the deficit formula on this page, what is the free water deficit of a 60 kg man with a serum sodium of 158 mEq/L, rounded to one decimal?",
+   "opts": [
+    "9.3 L",
+    "6.0 L",
+    "4.6 L",
+    "2.3 L"
+   ],
+   "ans": 2,
+   "exp": "0.6 x 60 x (158 - 140)/140 gives 36 x 0.129, about 4.6 L; half of that, roughly 2.3 L, is replaced on day 1. (Book p967)"
+  },
+  {
+   "id": "MED-C53-045",
+   "sec": "Polyuria · partial and nephrogenic DI treatment, hypernatremic complication and DI versus SIADH",
+   "page": 967,
+   "fmt": "truefalse",
+   "q": "Assess the day-1 replacement instructions: I Either 2 L of 5% dextrose or 4 L of half-normal saline is offered to lower sodium by 8 mEq/L. II Whatever free water remains is given as an intravenous 3% saline infusion.",
+   "opts": [
+    "Both are true",
+    "Both are false",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 2,
+   "exp": "Both regimens are equated at a fall of 8 mEq/L, and 50% of the deficit is replaced on day 1; the remaining free water plus ongoing losses go by nasogastric tube, not 3% saline. (Book p967)"
+  },
+  {
+   "id": "MED-C53-046",
+   "sec": "Polyuria · partial and nephrogenic DI treatment, hypernatremic complication and DI versus SIADH",
+   "page": 967,
+   "fmt": "fillup",
+   "q": "Fill up: The remaining free water and ongoing losses in a hypernatremic DI patient are given via a ______, and the deficit equation multiplies body weight by the factor ______.",
+   "opts": [
+    "nasogastric tube; 0.6",
+    "central line; 0.5",
+    "nasogastric tube; 0.8",
+    "peripheral cannula; 0.6"
+   ],
+   "ans": 0,
+   "exp": "The formula is 0.6 x body weight x (Na - 140)/140, and the residual deficit together with ongoing losses is delivered through a nasogastric tube. (Book p967)"
+  },
+  {
+   "id": "MED-C53-047",
+   "sec": "Polyuria · partial and nephrogenic DI treatment, hypernatremic complication and DI versus SIADH",
+   "page": 967,
+   "fmt": "truefalse",
+   "q": "Assess the sodium derangement described across these two pages: I The complication box here records hypernatremia and labels it rare. II The clinical-features list on the previous page records abrupt-onset hyponatremia.",
+   "opts": [
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Both statements reproduce the pages exactly, and the pair is an internal inconsistency of the source: DI deprives the body of free water, so a rising sodium with an intact thirst mechanism is the expected picture, and hypernatremia is what the complication line treats. (Book p967)"
+  },
+  {
+   "id": "MED-C53-048",
+   "sec": "Polyuria · partial and nephrogenic DI treatment, hypernatremic complication and DI versus SIADH",
+   "page": 967,
+   "fmt": "match",
+   "q": "Match each row of the DI-versus-SIADH table with what is entered in the DI column — 1) Serum osmolality 2) Urine volume 3) Urine osmolality 4) Urine Na+ … A) Single arrow up B) Triple arrow up C) Double arrow down D) Normal",
+   "opts": [
+    "1-D, 2-B, 3-C, 4-A",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-C, 3-B, 4-D"
+   ],
+   "ans": 1,
+   "exp": "The DI column reads serum osmolality up, serum Na up, urine volume triple up, urine osmolality double down and urine Na+ normal; SIADH reverses the first two and doubles urine Na+ up. (Book p967)"
+  },
+  {
+   "id": "MED-C53-049",
+   "sec": "Polyuria · partial and nephrogenic DI treatment, hypernatremic complication and DI versus SIADH",
+   "page": 967,
+   "fmt": "oddoneout",
+   "q": "Every parameter below is a row of the DI-versus-SIADH table EXCEPT:",
+   "opts": [
+    "Urine dipstick findings",
+    "Serum potassium",
+    "Serum osmolality",
+    "Urine Na+"
+   ],
+   "ans": 1,
+   "exp": "The table runs causes, features, behaviour in stalk injury, serum osmolality, serum Na, urine volume, urine osmolality and urine Na+; potassium is not a row, and no dipstick row appears here although the polyuria table on p965 has one. (Book p967)"
+  },
+  {
+   "id": "MED-C53-050",
+   "sec": "Polyuria · partial and nephrogenic DI treatment, hypernatremic complication and DI versus SIADH",
+   "page": 967,
+   "fmt": "truefalse",
+   "q": "Assess the causes and features rows of the table: I Euvolemic is entered as a feature of both DI and SIADH. II The causes row attributes DI to paraneoplastic states and SIADH to trauma or tumour.",
+   "opts": [
+    "Both are false",
+    "I true; II false",
+    "I false; II true",
+    "Both are true"
+   ],
+   "ans": 1,
+   "exp": "Both columns carry euvolemia, with polyuria under DI and hyponatremia under SIADH; the causes row assigns trauma or tumour to DI and paraneoplastic states to SIADH, the reverse of statement II. (Book p967)"
+  },
+  {
+   "id": "MED-C53-051",
+   "sec": "Polyuria · partial and nephrogenic DI treatment, hypernatremic complication and DI versus SIADH",
+   "page": 967,
+   "fmt": "numeric",
+   "q": "According to the stalk-injury row, during which window does SIADH appear?",
+   "opts": [
+    "The intermediate stage, day 4 to day 6 or 11",
+    "The early stage, before day 4 or 5",
+    "The late stage, beyond day 6 to 11",
+    "Continuously from the day of surgery"
+   ],
+   "ans": 0,
+   "exp": "DI occupies the early stage under 4-5 days and the late stage beyond 6-11 days, while SIADH fills the intermediate D4 to D6/11 window. (Book p967)"
+  },
+  {
+   "id": "MED-C53-052",
+   "sec": "Polyuria · partial and nephrogenic DI treatment, hypernatremic complication and DI versus SIADH",
+   "page": 967,
+   "fmt": "scenario",
+   "q": "On day 9 after a transsphenoidal adenomectomy a patient passes 7 L/day with urine osmolality 110 mOsm/kg and serum sodium 148 mEq/L. Which row of the DI-versus-SIADH table fits best?",
+   "opts": [
+    "DI in the late stage of stalk injury, with raised serum osmolality and doubled urine output",
+    "SIADH of the intermediate stage, with euvolemic hyponatremia",
+    "Psychogenic polydipsia, with a stimulated copeptin above 3.8 pmol/L",
+    "Cerebral salt wasting, with hypovolemia and raised BNP"
+   ],
+   "ans": 0,
+   "exp": "Day 9 sits in the late stage the table gives for DI after stalk injury, and the raised sodium and osmolality with dilute high-volume urine match the DI column, not the low sodium of the SIADH column. (Book p967)"
+  },
+  {
+   "id": "MED-C53-053",
+   "sec": "Polyuria · partial and nephrogenic DI treatment, hypernatremic complication and DI versus SIADH",
+   "page": 967,
+   "fmt": "fillup",
+   "q": "Fill up: In the DI-versus-SIADH table, urine volume in SIADH is written as ______ or ______, while urine osmolality is ______ in SIADH and ______ in DI.",
+   "opts": [
+    "decreased; triple up; doubled down; doubled up",
+    "normal; triple up; unchanged; doubled down",
+    "normal; decreased; doubled up; doubled down",
+    "doubled up; normal; doubled down; doubled up"
+   ],
+   "ans": 2,
+   "exp": "The SIADH column shows urine volume as normal or decreased with urine osmolality doubled up, opposite the DI column's triple-arrow volume and double-arrow fall in osmolality. (Book p967)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U53-1",
+   "ch": 53,
+   "n": 1,
+   "title": "Defining polyuria and splitting solute from water diuresis",
+   "sec": "Polyuria and DI types · p965",
+   "guide": "The three polyuria thresholds, the solute versus water diuresis table with its urine output, osmolality, dipstick and specific-gravity rows, and the central and nephrogenic DI cause lists including Wolfram syndrome.",
+   "qs": [
+    "MED-C53-001",
+    "MED-C53-002",
+    "MED-C53-003",
+    "MED-C53-004",
+    "MED-C53-005",
+    "MED-C53-006",
+    "MED-C53-007",
+    "MED-C53-008",
+    "MED-C53-009",
+    "MED-C53-010",
+    "MED-C53-011",
+    "MED-C53-012",
+    "MED-C53-013",
+    "MED-C53-014",
+    "MED-C53-015",
+    "MED-C53-016",
+    "MED-C53-017",
+    "MED-C53-018",
+    "MED-C53-019",
+    "MED-C53-020"
+   ]
+  },
+  {
+   "id": "MED-U53-2",
+   "ch": 53,
+   "n": 2,
+   "title": "Copeptin, the water deprivation test and central DI therapy",
+   "sec": "Evaluation and treatment · p966",
+   "guide": "Clinical features, the basal and arginine-stimulated copeptin cut-offs, the deprivation protocol with its stop rules, desmopressin response bands, the deprivation graph and central DI dosing.",
+   "qs": [
+    "MED-C53-021",
+    "MED-C53-022",
+    "MED-C53-023",
+    "MED-C53-024",
+    "MED-C53-025",
+    "MED-C53-026",
+    "MED-C53-027",
+    "MED-C53-028",
+    "MED-C53-029",
+    "MED-C53-030",
+    "MED-C53-031",
+    "MED-C53-032",
+    "MED-C53-033",
+    "MED-C53-034",
+    "MED-C53-035",
+    "MED-C53-036",
+    "MED-C53-037"
+   ]
+  },
+  {
+   "id": "MED-U53-3",
+   "ch": 53,
+   "n": 3,
+   "title": "Partial and nephrogenic DI, hypernatremic complication, DI versus SIADH",
+   "sec": "Treatment and comparison · p967",
+   "guide": "The 3 C's for partial DI, the difficult-to-treat nephrogenic regimen with amiloride for lithium, the free-water deficit formula with 8-10 mEq/L daily limits and nasogastric topping-up, and the eight-row DI versus SIADH table including stalk-injury staging.",
+   "qs": [
+    "MED-C53-038",
+    "MED-C53-039",
+    "MED-C53-040",
+    "MED-C53-041",
+    "MED-C53-042",
+    "MED-C53-043",
+    "MED-C53-044",
+    "MED-C53-045",
+    "MED-C53-046",
+    "MED-C53-047",
+    "MED-C53-048",
+    "MED-C53-049",
+    "MED-C53-050",
+    "MED-C53-051",
+    "MED-C53-052",
+    "MED-C53-053"
+   ]
+  }
+ ]
+}

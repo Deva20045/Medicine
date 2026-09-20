@@ -1,0 +1,174 @@
+{
+ "page": 964,
+ "sec": "Management of Hyponatremia · acute versus chronic correction",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The management table splits at 48 hours, labelling the acute column as ______ and the chronic-onset column as ______.",
+   "opts": [
+    "symptomatic; compensated",
+    "asymptomatic; decompensated",
+    "symptomatic; decompensated",
+    "urgent; compensated"
+   ],
+   "ans": 0,
+   "exp": "The headings are '< 48 Hours (Acute, symptomatic)' and '>48 Hours/Chronic Onset (Compensated)'. (Book p964)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The acute column warns that a raised ______ carries a risk of ______, and that risk is stated to exceed the risk of osmotic demyelination from rapid correction.",
+   "opts": [
+    "intracranial tension; herniation",
+    "serum osmolality; seizures",
+    "intracranial tension; cerebral oedema",
+    "blood pressure; herniation"
+   ],
+   "ans": 0,
+   "exp": "The listed sequence is raised ICT (intracranial tension) leading to a risk of herniation, and herniation is ranked above osmotic demyelination on rapid correction. (Book p964)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "How is 3% saline prescribed in the acute symptomatic column of the management table?",
+   "opts": [
+    "3 bottles of 100 ml, each over 10 minutes, total 30 minutes",
+    "6 bottles of 100 ml over 24 hours",
+    "Continuous infusion at 15-30 ml/hr",
+    "1 bottle of 500 ml over 4 hours"
+   ],
+   "ans": 0,
+   "exp": "Rx in the acute column is 3% saline as 3 bottles of 100 ml, each given over 10 minutes for a total of 30 minutes. (Book p964)"
+  },
+  {
+   "fmt": "management",
+   "q": "A patient with an acute symptomatic hyponatremia has completed the three 100 ml bottles of 3% saline within half an hour. Which feature on this page authorises repeating that regimen?",
+   "opts": [
+    "Onset still under 48 hours or a fresh seizure",
+    "Any sodium below 130 mEq/L",
+    "A urine output above 3 L/day",
+    "Failure of fluid restriction after 24 hours"
+   ],
+   "ans": 0,
+   "exp": "The acute column adds a single instruction: repeat if still under 48 hours, or if there is a fresh seizure. (Book p964)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the acute column: I Rapid correction is accepted because herniation is judged the greater hazard. II The same column prescribes 3% saline as a continuous infusion at 15-30 ml/hr.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Statement I is the page's own justification, but the acute regimen is three 100 ml bottles over 10 minutes each; the 15-30 ml/hr infusion belongs to the chronic branch with sodium under 120. (Book p964)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 23-year-old is brought in 4 hours after a fitness challenge during which she drank about 18 L of water; sodium is 111 mEq/L and she has a generalised tonic-clonic seizure. What does this page's acute algorithm specify first?",
+   "opts": [
+    "100 ml of 3% saline over 10 minutes, repeated to three bottles",
+    "Fluid restriction to 1 L/day with observation",
+    "Tolvaptan after a baseline liver profile",
+    "Normal saline 1 L bolus then reassess"
+   ],
+   "ans": 0,
+   "exp": "Onset is well within 48 hours with seizures, so the acute column applies: 3% saline, 3 bottles of 100 ml, each over 10 minutes. (Book p964)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "For a severe hyponatremia of chronic onset, the page offers 3% saline as 100 ml bottles in two alternative regimens. Which pair of limits does it give?",
+   "opts": [
+    "6 bottles per 24 hours, or 25 ml/hr",
+    "3 bottles per 24 hours, or 50 ml/hr",
+    "6 bottles per 12 hours, or 15 ml/hr",
+    "4 bottles per 24 hours, or 30 ml/hr"
+   ],
+   "ans": 0,
+   "exp": "The chronic column reads: if severe, 3 bottles of 100 ml 3% saline, 6 bottles/24 hours OR 25 ml/hr. (Book p964)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each branch of the chronic-onset column with its instruction — 1) Reduced IVC diameter 2) Euvolemic with sodium under 120 3) Euvolemic with sodium above 120 … A) Admit and start normal saline B) 3% saline infusion at 15-30 ml/hr C) Fluid restriction, with a vaptan as the second option",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Hypovolaemia signalled by a collapsed IVC is admitted for normal saline; euvolemic sodium below 120 gets 3% saline at 15-30 ml/hr; above 120 gets fluid restriction and vaptans. (Book p964)"
+  },
+  {
+   "fmt": "management",
+   "q": "A 71-year-old with chronic SIADH has sodium 127 mEq/L, clinically euvolemic and asymptomatic. What is the page's first-line measure?",
+   "opts": [
+    "Fluid restriction",
+    "3% saline at 25 ml/hr",
+    "Normal saline 500 ml bolus",
+    "Tolvaptan started without baseline testing"
+   ],
+   "ans": 0,
+   "exp": "For chronic euvolemic hyponatremia above 120, the first entry is fluid restriction; vaptans are listed after it, with baseline LFT required. (Book p964)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two cautions attached to tolvaptan on this page: I Liver function tests should be checked before starting it. II It may be given freely to a dehydrated patient provided the sodium is above 120 mEq/L.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The two caveats printed under vaptans are to check LFT before starting and not to give the drug in dehydration. (Book p964)"
+  },
+  {
+   "fmt": "recall",
+   "q": "How is the vaptan receptor labelled on this management page, and which receptor does the ADH chapter's receptor table assign to cAMP-mediated aquaporin insertion?",
+   "opts": [
+    "This page prints V_a; the receptor table assigns V2",
+    "This page prints V2; the receptor table assigns V1a",
+    "Both pages print V2",
+    "This page prints V3; the receptor table assigns V1"
+   ],
+   "ans": 0,
+   "exp": "The vaptan line is printed as V_a antagonists although tolvaptan and friends block the V2 receptor, the cAMP-coupled receptor listed for collecting duct AQP2 insertion. (Book p964)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Every instruction below belongs to the greater-than-48-hour column EXCEPT:",
+   "opts": [
+    "Three 100 ml bottles of 3% saline, each over 10 minutes",
+    "Admit and start normal saline when the IVC diameter is reduced",
+    "3% saline infusion at 15-30 ml/hr when sodium is under 120",
+    "Fluid restriction when sodium is above 120"
+   ],
+   "ans": 0,
+   "exp": "The rapid three-bottle regimen over 30 minutes is the acute symptomatic arm; the other three are all branches of the compensated chronic column. (Book p964)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 64-year-old on chlorpropamide has sodium 116 mEq/L discovered incidentally, present for an estimated 3 weeks, euvolemic with no seizures. Which regimen fits this page?",
+   "opts": [
+    "3% saline infusion at 15-30 ml/hr",
+    "3 bottles of 100 ml each over 10 minutes",
+    "Fluid restriction and tolvaptan as the only measures",
+    "Admit for normal saline infusion"
+   ],
+   "ans": 0,
+   "exp": "Chronic onset with a euvolemic sodium below 120 is managed by a 3% saline infusion at 15-30 ml/hr, not by boluses and not by fluid restriction, which is reserved for values above 120. (Book p964)"
+  },
+  {
+   "fmt": "management",
+   "q": "In the chronic column, recognition of a reduced IVC diameter leads directly to which decision?",
+   "opts": [
+    "Admit the patient and start normal saline",
+    "Start tolvaptan and restrict free water",
+    "Give three 100 ml bottles of 3% saline in 30 minutes",
+    "Recheck sodium after 24 hours of observation"
+   ],
+   "ans": 0,
+   "exp": "A reduced IVC diameter marks hypovolaemia, and the arrow from that box points to admitting the patient and starting normal saline. (Book p964)"
+  }
+ ]
+}
