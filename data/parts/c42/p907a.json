@@ -1,150 +1,162 @@
 {
  "page": 907,
- "sec": "Complications and clinical pearls of hypothyroidism",
+ "sec": "Symptoms, Signs, GAG Deposition & Complications",
  "items": [
   {
-   "fmt": "match",
-   "q": "Match the following complication to its source description — 1) Myxoedema coma 2) Hashimoto encephalopathy 3) Carpal tunnel syndrome 4) Hypocholesterolaemia (printed label, unusual) … A) Decompensated severe hypothyroidism B) Steroid-responsive neuropsychiatric syndrome C) Most common cause in females D) Cardiovascular risk-related feature (page label)",
+   "fmt": "recall",
+   "q": "What is the most common (m/c) presenting symptom of generalized slowing (decreased BMR) in primary and secondary hypothyroidism?",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-B, 3-C, 4-A"
+    "Fatigue / tiredness",
+    "Constipation",
+    "Cold intolerance",
+    "Delayed deep tendon reflexes"
    ],
    "ans": 0,
-   "exp": "Myxoedema coma is decompensated severe hypothyroidism; Hashimoto encephalopathy is a steroid-responsive neuropsychiatric syndrome; CTS is the most common cause in females per the page; hypocholesterolaemia is the page's own label (note: hypothyroid patients typically have hypercholesterolaemia, an inconsistency the source labels as 'hypocholesterolaemia'). (Book p907)"
+   "exp": "Under Classical Symptoms: '1. Generalized slowing (↓ BMR) : Fatigue/tiredness (m/c)'. (Book p907)"
   },
   {
-   "fmt": "scenario",
-   "q": "An 80-year-old woman is found hypothermic, bradycardic and obtunded in winter; TSH is markedly elevated. The most consistent diagnosis is:",
+   "fmt": "match",
+   "q": "Match the manifestations of generalized slowing in hypothyroidism — 1) Speech & Gait 2) Bowel movements 3) Neurologic reflexes 4) Body weight … A) Slow speech and slow gait B) Constipation C) Delayed deep tendon reflexes (DTR) D) Poor appetite with weight gain",
    "opts": [
-    "Myxoedema coma",
-    "Hypothyroid factitia",
-    "Hashimoto encephalopathy",
-    "Sick-euthyroid syndrome"
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-B, 4-D"
    ],
    "ans": 0,
-   "exp": "Decompensated severe hypothyroidism with hypothermia and obtundation fits myxoedema coma. (Book p907)"
+   "exp": "Generalized slowing affects: speech/gait (slow), bowel (constipation), reflexes (delayed DTR), and weight (poor appetite with weight gain). (Book p907)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "In primary hypothyroidism, elevated TSH stimulates fibroblasts to produce matrix ___, which trap water and cause non-pitting myxedema.",
+   "opts": [
+    "Glycosaminoglycans (GAGs)",
+    "Collagen type I fibrils",
+    "Elastin fibers",
+    "Fibronectin lattices"
+   ],
+   "ans": 0,
+   "exp": "In 1° Hypothyroidism: ↑ TSH elevation -> Stimulates Fibroblast -> Stimulates Accumulation of matrix GAG's -> Traps water -> Nonpitting edema. (Book p907)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess myxoedema coma: I It carries a high mortality even with treatment. II IV levothyroxine plus glucocorticoids is a typical emergency regimen.",
+   "q": "Assess the clinical consequences of matrix GAG accumulation trapping water in 1° hypothyroidism: I Facial puffiness, periorbital edema, and hoarse voice. II Macroglossia leading to obstructive sleep apnea syndrome.",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "Myxoedema coma has high mortality; empiric IV levothyroxine (often combined with liothyronine) plus stress-dose hydrocortisone is the source's emergency regimen. (Book p907)"
+   "exp": "Trapped water from matrix GAGs causes puffiness (face), periorbital edema, macroglossia -> obstructive sleep apnea syndrome, hoarse voice, and nonpitting edema. (Book p907)"
   },
   {
    "fmt": "oddoneout",
-   "q": "Which is the odd one out among complications where hypothyroidism affects the central nervous system?",
+   "q": "Which of the following is NOT listed on page 907 as a symptom predominant in young females with hypothyroidism?",
    "opts": [
-    "Hypocholesterolaemia (correct answer)",
-    "Hashimoto encephalopathy (alternative)",
-    "Myxoedema coma (alternative)",
-    "Carpal tunnel syndrome (compression neuropathy)"
+    "Profuse diaphoresis and hyperactive tremors",
+    "Hair loss",
+    "Irregular menstrual cycle",
+    "Dry skin and mood swings"
    ],
    "ans": 0,
-   "exp": "Hypocholesterolaemia is a metabolic label, not a CNS complication; the others are neurological. (Book p907)"
+   "exp": "Symptoms predominant in young females are hair loss, irregular menstrual cycle, dry skin, and mood swings. (Book p907)"
   },
   {
-   "fmt": "fillup",
-   "q": "Per the page's most-common-cause note, carpal tunnel syndrome in females is most often caused by ___.",
+   "fmt": "recall",
+   "q": "Which endocrine disorder is noted on page 907 as causing 'False positive Hypothyroidism' (transiently elevated TSH)?",
    "opts": [
-    "Hypothyroidism",
-    "Amyloidosis",
-    "Rheumatoid arthritis",
-    "Diabetes mellitus"
+    "Addison's disease",
+    "Cushing's syndrome",
+    "Conn's syndrome",
+    "Pheochromocytoma"
    ],
    "ans": 0,
-   "exp": "The page states hypothyroidism is the most common cause of CTS in females, with amyloidosis as the most common cause in males. (Book p907)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following effusions/comorbidities to the source's hypothyroid complications list — 1) Pleural 2) Pericardial 3) Ascites 4) Oligomenorrhoea … A) Serous cavity collection B) Reproductive disturbance C) Refractory to diuretics per source D) Same column",
-   "opts": [
-    "1-A, 2-A, 3-C, 4-B",
-    "1-C, 2-B, 3-A, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-B, 2-A, 3-A, 4-C"
-   ],
-   "ans": 0,
-   "exp": "Pleural and pericardial effusions are common serous cavity collections; ascites is sometimes refractory to diuretics per the page; oligomenorrhoea / amenorrhoea is a reproductive disturbance. (Book p907)"
+   "exp": "Page 907 explicitly contains the note: 'Note : False positive Hypothyroidism -> Addison's disease'. (Book p907)"
   },
   {
    "fmt": "scenario",
-   "q": "A hypothyroid patient has recurrent large-volume pleural and pericardial effusions that do not improve with diuretics. Which mechanism is most consistent with the source?",
+   "q": "An adult with severe longstanding primary hypothyroidism presents with prominent pseudohypertrophy of both calf muscles accompanied by slowness and muscle stiffness. What eponymous disorder is depicted in the photo on page 907?",
    "opts": [
-    "Myxoedematous polyserositis with capillary leak",
-    "Bacterial empyema (alternative)",
-    "Malignant effusion (alternative)",
-    "Heart failure with reduced ejection fraction"
+    "Hoffman syndrome",
+    "Pendred syndrome",
+    "Allan-Herndon-Dudley syndrome",
+    "De Quervain syndrome"
    ],
    "ans": 0,
-   "exp": "Hypothyroid effusions are typically myxoedematous, with high protein content and poor response to diuretics. (Book p907)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess cardiac effects: I Hypothyroidism causes bradycardia. II Pericardial effusion is a recognised complication.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Bradycardia and pericardial effusion are both listed; long-standing hypothyroidism can cause pericardial effusion with cardiac tamponade rarely. (Book p907)"
+   "exp": "The clinical photo on page 907 demonstrates: 'Hoffman syndrome Pseudohypertrophy in calf muscle'. (Book p907)"
   },
   {
    "fmt": "match",
-   "q": "Match the following complication to the most likely clinical context — 1) Obstructive sleep apnoea 2) Carpal tunnel syndrome 3) Myxoedema coma 4) Hashimoto encephalopathy … A) Common in obese hypothyroid adults B) Most common cause of CTS in females C) Decompensated hypothyroid with hypothermia D) Steroid-responsive neuropsychiatric syndrome",
+   "q": "Match the serous cavity effusions seen in hypothyroid polyserositis — 1) Pleural cavity 2) Pericardial space 3) Peritoneal cavity … A) Pleural effusion B) Pericardial effusion C) Ascites",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-C, 2-B, 3-A, 4-D"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "OSA is common in obese hypothyroid adults; CTS in females is mostly due to hypothyroidism; myxoedema coma presents with hypothermia; Hashimoto encephalopathy is the steroid-responsive neuropsychiatric syndrome. (Book p907)"
+   "exp": "Complications of hypothyroidism include serous effusions in three spaces: pleural effusion, pericardial effusion, and ascites. (Book p907)"
   },
   {
-   "fmt": "scenario",
-   "q": "A 70-year-old hypothyroid on levothyroxine has increasing pericardial effusion. The most appropriate next step is:",
+   "fmt": "recall",
+   "q": "What is the most common cause of Carpal Tunnel Syndrome (CTS) in females versus males on page 907?",
    "opts": [
-    "Assess cardiac tamponade and ensure euthyroidism",
-    "Immediately add amiodarone (alternative)",
-    "Stop levothyroxine to avoid tamponade",
-    "Increase methimazole to lower TSH further"
+    "Females: Hypothyroidism; Males: Amyloidosis",
+    "Females: Amyloidosis; Males: Hypothyroidism",
+    "Females: Diabetes mellitus; Males: Gout",
+    "Females: Pregnancy; Males: Rheumatoid arthritis"
    ],
    "ans": 0,
-   "exp": "Effusions can progress even on treatment; assess haemodynamics (tamponade) and ensure adequate replacement rather than stopping therapy. (Book p907)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "Atypical pericardial effusion that is high-protein and slow-accumulating in hypothyroid patients is called ___.",
-   "opts": [
-    "Myxoedema pericardial effusion",
-    "Dressler effusion (alternative)",
-    "Chylopericardium (alternative)",
-    "Hydropericardium of renal failure"
-   ],
-   "ans": 0,
-   "exp": "Myxoedema pericardial effusion is the eponymous hypothyroid entity; it can be large but tamponade is uncommon. (Book p907)"
+   "exp": "Carpal tunnel syndrome (CTS): 'm/c cause in females : Hypothyroidism' and 'm/c cause in males : Amyloidosis'. (Book p907)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess the source's gender note: I Hypothyroidism is the most common cause of CTS in females. II Amyloidosis is the most common cause of CTS in males per the source.",
+   "q": "Regarding Carpal Tunnel Syndrome (CTS) epidemiology on page 907: I Hypothyroidism is the most common cause in females. II Amyloidosis is the most common cause in males.",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "Both statements reflect the page's gender-stratified most-common-cause list for carpal tunnel syndrome. (Book p907)"
+   "exp": "Page 907 notes for CTS: - m/c cause in females : Hypothyroidism, - m/c cause in males : Amyloidosis. (Book p907)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 48-year-old obese woman with untreated hypothyroidism presents with severe loud snoring, daytime sleepiness, and witnessed nocturnal apneas. What anatomical mechanism links this to her thyroid disease?",
+   "opts": [
+    "Macroglossia secondary to TSH-induced matrix GAG accumulation causing obstructive sleep apnea syndrome",
+    "Bilateral recurrent laryngeal nerve compression from thyroid fibrosis",
+    "Direct neuromuscular weakness of the diaphragm from hypothyroid myopathy",
+    "Tracheal deviation from subacute granulomatous expansion"
+   ],
+   "ans": 0,
+   "exp": "GAG accumulation traps water, producing macroglossia that leads directly to obstructive sleep apnea syndrome. (Book p907)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Although page 907 prints 'Hypocholesterolaemia' among complications (an editorial misprint in the scan), the classical metabolic consequence of reduced LDL clearance in hypothyroidism is ___.",
+   "opts": [
+    "Hypercholesterolemia",
+    "Severe hypolipidemia",
+    "Isolated hypertriglyceridemia with low LDL",
+    "Abetalipoproteinemia"
+   ],
+   "ans": 0,
+   "exp": "Page 907 lists 'Hypocholesterolemia' in its complications column, but clinically and on page 903, impaired cholesterol clearance classically causes hypercholesterolemia. (Book p907)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed on page 907 as a complication of hypothyroidism?",
+   "opts": [
+    "Hypercalcemic nephrolithiasis",
+    "Myxedema coma and Hashimoto encephalopathy",
+    "Bradycardia and polyserositis (pleural/pericardial effusion, ascites)",
+    "Obstructive sleep apnea syndrome and Carpal tunnel syndrome"
+   ],
+   "ans": 0,
+   "exp": "Hypercalcemia and nephrolithiasis are complications of severe thyrotoxicosis (p903), not hypothyroidism. Complications on p907 are myxedema coma, encephalopathy, bradycardia, effusions, OSA, and CTS. (Book p907)"
   }
  ]
 }

@@ -1,150 +1,150 @@
 {
  "page": 911,
- "sec": "Graves eye signs, scoring and diagnosis",
+ "sec": "Antibodies, Triad of Manifestations & Clinical Presentation",
  "items": [
   {
    "fmt": "match",
-   "q": "Match the following Graves eye sign to its description — 1) Proptosis 2) Chemosis 3) Diplopia 4) Lid lag … A) Forward displacement of the globe B) Conjunctival oedema C) Restricted extraocular motility D) Lid fails to follow eye on downward gaze",
+   "q": "Match the autoantibody to its percentage positivity on page 911 — 1) Thyroid Stimulating Hormone-Receptor Ab (TRAb) 2) Thyroglobulin Ab 3) TPO Ab … A) +ve 80 - 95% (most important in Graves) B) +ve 50 - 70% (most important in Hashimoto) C) +ve 50 - 80%",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-B, 3-A, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-D, 2-A, 3-C, 4-B"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Proptosis is forward globe displacement; chemosis is conjunctival oedema; diplopia is from restrictive myopathy and motility restriction; lid lag is failure to follow downward gaze. (Book p911)"
+   "exp": "TRAb is positive in 80-95% (most important in Graves); Thyroglobulin Ab in 50-70% (most important in Hashimoto); TPO Ab in 50-80%. (Book p911)"
   },
   {
-   "fmt": "scenario",
-   "q": "A patient with Graves disease has red, swollen conjunctiva and restricted eye movements bilaterally. The activity score category is most consistent with:",
+   "fmt": "recall",
+   "q": "TSH-Receptor antibodies stimulate T-cells, fibroblasts, and GAG synthesis to produce which triad of unique clinical findings in Graves' disease?",
    "opts": [
-    "Active / moderate-to-severe Graves ophthalmopathy",
-    "Inactive mild ophthalmopathy",
-    "Non-Graves eye disease (alternative)",
-    "Allergic conjunctivitis (alternative)"
+    "Thyroid ophthalmopathy, Thyroid dermopathy (pretibial myxedema), and Thyroid acropachy",
+    "Periorbital edema, macroglossia, and hoarse voice",
+    "Carpal tunnel syndrome, delayed reflexes, and bradycardia",
+    "Sensorineural hearing loss, goiter, and periodic paralysis"
    ],
    "ans": 0,
-   "exp": "Conjunctival redness and oedema with restrictive motility denote active moderate-to-severe Graves ophthalmopathy. (Book p911)"
+   "exp": "TRAb stimulates T-cells, fibroblasts, and GAGs, leading to the unique triad of Graves: Thyroid ophthalmopathy, Thyroid Dermopathy (Pretibial myxedema), and Thyroid Acropachy. (Book p911)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the unique physical findings of Graves' disease shown in the photographs — 1) Eye pathology 2) Lower extremity dermopathy 3) Digits … A) Severe proptosis, eyelid retraction, and exophthalmos B) Pretibial myxedema (thick nodular infiltrative dermopathy) C) Acropachy",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The photographs illustrate proptosis/eyelid retraction/exophthalmos, acropachy, and thick nodular infiltrative dermopathy (pretibial myxedema). (Book p911)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess Graves ophthalmopathy: I Smoking dramatically worsens the course. II Radioiodine therapy can worsen eye disease in active ophthalmopathy.",
+   "q": "Assess common symptoms of thyrotoxicosis: I Restlessness, irritability, tremulousness, nervousness, and tachycardia. II Sweating, diarrhea, polyuria, warm moist skin, and oligomenorrhea/amenorrhea.",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "Smoking is the strongest modifiable risk factor for progression; radioiodine can transiently worsen active ophthalmopathy. (Book p911)"
+   "exp": "All listed features are documented under Common Features of thyrotoxicosis on page 911. (Book p911)"
   },
   {
    "fmt": "oddoneout",
-   "q": "Which is the odd one out — an inactive Graves ophthalmopathy feature?",
+   "q": "Which of the following is NOT listed among the common features of thyrotoxicosis on page 911?",
    "opts": [
-    "Recent deterioration in diplopia",
-    "Long-standing proptosis without change",
-    "Stable lid lag over years",
-    "Fibrotic restrictive strabismus"
+    "Severe constipation and dry cold coarse skin",
+    "Restlessness, irritability, and tremulousness",
+    "Tachycardia, sweating, and warm moist skin",
+    "Diarrhea, polyuria, and oligomenorrhea/amenorrhea"
    ],
    "ans": 0,
-   "exp": "Recent deterioration in diplopia suggests active disease; long-standing proptosis, stable lid lag and fibrotic restrictive strabismus denote inactive disease. (Book p911)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "The single most important modifiable risk factor for progression of Graves ophthalmopathy is ___.",
-   "opts": [
-    "Smoking cessation",
-    "Calcium supplementation",
-    "Vitamin D loading",
-    "Iodine supplementation"
-   ],
-   "ans": 0,
-   "exp": "Smoking cessation is the strongest modifiable intervention; radioiodine should be avoided or covered with steroids in active disease. (Book p911)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following Graves investigation to its expected finding — 1) TSH-receptor antibody 2) Anti-TPO 3) Thyroid uptake scan 4) Orbital MRI … A) Positive in most untreated Graves B) Often positive (less specific) C) Diffusely increased uptake D) Enlarged extraocular muscles",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-B, 3-A, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-B, 2-A, 3-D, 4-C"
-   ],
-   "ans": 0,
-   "exp": "TRAb is positive in most untreated Graves; anti-TPO is often present but less specific; uptake scan shows diffuse increase; orbital MRI shows enlarged muscle bellies. (Book p911)"
+   "exp": "Constipation and dry cold skin are classic hypothyroid features; thyrotoxicosis features diarrhea, warm moist skin, tachycardia, and sweating. (Book p911)"
   },
   {
    "fmt": "scenario",
-   "q": "A 40-year-old woman has new thyrotoxicosis, positive TRAb and bilateral proptosis. The most consistent diagnosis is:",
+   "q": "An 76-year-old man presents with profound lethargy, fatigue, and unintentional weight loss without tremors or hyperactive behavior. TFTs confirm thyrotoxicosis. What clinical entity does this represent?",
    "opts": [
-    "Graves disease",
-    "Toxic adenoma",
-    "Subacute thyroiditis",
-    "Hashitoxicosis"
+    "Apathetic thyrotoxicosis (in elderly population)",
+    "Hashimoto encephalopathy (SREAT)",
+    "Myxedema madness",
+    "Consumptive deiodinase-3 deficiency"
    ],
    "ans": 0,
-   "exp": "Positive TRAb with bilateral proptosis and thyrotoxicosis is diagnostic of Graves disease. (Book p911)"
+   "exp": "Under In Elder Population: 'Apathetic thyrotoxicosis : Fatigue and weight loss'. (Book p911)"
   },
   {
-   "fmt": "truefalse",
-   "q": "Assess the differential: I Hashitoxicosis can mimic Graves initially. II Toxic adenoma typically has negative TRAb.",
+   "fmt": "recall",
+   "q": "In an elderly patient with elevated T3 and T4 levels, which cardiac manifestation is emphasized on page 911?",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "Atrial fibrillation and worsening of heart failure",
+    "Complete third-degree heart block",
+    "Ventricular fibrillation and cardiac tamponade",
+    "Aortic valve stenosis with low-voltage complexes"
    ],
    "ans": 0,
-   "exp": "Hashitoxicosis is a transient Graves-like picture early in Hashimoto disease; toxic adenoma is a focal hot nodule with negative TRAb. (Book p911)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following clinical clue to the diagnosis — 1) Painful thyroid with elevated ESR 2) Diffuse goitre with bruit 3) Single hot nodule on scan 4) Recent amiodarone use with low uptake … A) Subacute thyroiditis B) Graves disease C) Toxic adenoma D) Type 2 amiodarone thyrotoxicosis",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-B, 2-A, 3-C, 4-D"
-   ],
-   "ans": 0,
-   "exp": "Painful thyroid with raised ESR is subacute thyroiditis; diffuse goitre with bruit is Graves; a single hot nodule is toxic adenoma; amiodarone with low uptake is Type 2 destructive thyroiditis. (Book p911)"
+   "exp": "Under Other Features: 'Atrial fibrillation ↑ T3 T4 (mainly elderly)' and 'Worsening of heart failure'. (Book p911)"
   },
   {
    "fmt": "scenario",
-   "q": "An older patient with atrial fibrillation and new weight loss has a thyroid scan with multiple focal hot areas. The best diagnosis is:",
+   "q": "A 32-year-old male with severe thyrotoxicosis has proximal muscle weakness of the hips and shoulders. Muscle examination demonstrates NO fasciculations. What is the clinical significance of absent fasciculations per page 911?",
    "opts": [
-    "Toxic multinodular goitre",
-    "Graves disease (autoimmune)",
-    "Subacute thyroiditis",
-    "Thyroid storm (alternative)"
+    "Confirms thyrotoxic proximal myopathy from protein catabolism; presence of fasciculations would indicate anterior horn cell disease",
+    "Confirms concurrent Guillain-Barré syndrome",
+    "Rules out myopathy and indicates psychogenic conversion weakness",
+    "Establishes primary polymyositis requiring muscle biopsy"
    ],
    "ans": 0,
-   "exp": "Multiple focal hot areas in an older patient fit toxic MNG; Graves would be diffusely increased. (Book p911)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "The radioactive iodine uptake pattern in toxic adenoma is ___.",
-   "opts": [
-    "Focally increased in the nodule with suppressed surrounding gland",
-    "Diffusely increased (alternative)",
-    "Decreased everywhere (alternative)",
-    "Multiple discrete hot nodules (alternative)"
-   ],
-   "ans": 0,
-   "exp": "Toxic adenoma shows a focal hot area with suppressed extranodular tissue; toxic MNG shows multiple focal hot areas. (Book p911)"
+   "exp": "Under Severe Thyrotoxicosis: 'Proximal myopathy: No fasciculations (If fasciculations +ve -> Anterior horn cell disease)'. (Book p911)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess eye-disease management: I High-dose glucocorticoids are first-line for active moderate-to-severe disease. II Orbital radiotherapy is reserved for active disease failing steroids.",
+   "q": "In severe thyrotoxicosis: I Protein catabolism leads to bone pain, fractures, and hypercalcemia with hypercalciuria (stones). II Thyrotoxicosis-associated periodic paralysis presents like hypokalemic paralysis.",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "IV methylprednisolone is first-line for active moderate-to-severe Graves ophthalmopathy; orbital radiotherapy is an option for active disease not controlled by steroids. (Book p911)"
+   "exp": "Severe thyrotoxicosis causes protein catabolism -> proximal myopathy, bone pain/fractures, hypercalcemia -> hypercalciuria -> stones; periodic paralysis presents like hypokalemia paralysis. (Book p911)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the clinical triad to the diagnosis in the page 911 contrast note — 1) Weight loss + good appetite 2) Weight gain + loss of appetite … A) Graves' disease B) Hypothyroidism",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Page 911 notes: 'Wt loss + good appetite -> Graves disease' and 'Wt gain + loss of appetite -> Hypothyroid'. (Book p911)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Thyrotoxicosis-associated periodic paralysis presents with acute episodic flaccid quadriparesis resembling ___ paralysis.",
+   "opts": [
+    "Hypokalemia",
+    "Hyperkalemia",
+    "Hypocalcemia",
+    "Hypercalcemia"
+   ],
+   "ans": 0,
+   "exp": "Under Thyrotoxicosis Associated Periodic paralysis: 'Presents like hypokalemia paralysis'. (Book p911)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which guidelines for Graves' disease symptoms are cited at the base of page 911?",
+   "opts": [
+    "Endocrine Society of India guidelines",
+    "American Thyroid Association guidelines",
+    "European Thyroid Association guidelines",
+    "British Thyroid Association guidelines"
+   ],
+   "ans": 0,
+   "exp": "At the bottom of page 911: 'Endocrine Society of India - Guidelines for Graves : Above mentioned symptoms'. (Book p911)"
   }
  ]
 }

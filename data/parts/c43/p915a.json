@@ -1,150 +1,150 @@
 {
  "page": 915,
- "sec": "Subacute and postpartum thyroiditis course",
+ "sec": "Subacute Thyroiditis Triphasic Curve & Postpartum Comparison",
  "items": [
   {
-   "fmt": "match",
-   "q": "Match the following thyroiditis phase to its expected TFT pattern — 1) Hyperthyroid phase 2) Hypothyroid phase 3) Recovery … A) ↑FT4, ↓TSH, low uptake, raised ESR B) ↓FT4, ↑TSH, low uptake C) Normal TFTs and ESR",
+   "fmt": "recall",
+   "q": "What initial mechanism triggers the clinical presentation and thyrotoxic phase of subacute thyroiditis?",
    "opts": [
-    "1-A, 2-B, 3-C",
-    "1-C, 2-A, 3-B",
-    "1-A, 2-C, 3-B",
-    "1-B, 2-A, 3-C"
+    "Stored hormone release from damaged thyroid follicles",
+    "New autonomous hormone hyper-synthesis driven by TRAb",
+    "Excessive peripheral T4 to T3 conversion by deiodinase-2",
+    "Ectopic thyroid tissue activation in ovarian teratoma"
    ],
    "ans": 0,
-   "exp": "Hyperthyroid phase has high free T4/T3 with low TSH and raised ESR; hypothyroid phase has low free hormone with high TSH; recovery normalises both TFTs and ESR. (Book p915)"
+   "exp": "Under mechanism: 'Stored hormone release -> ↑ Free T3, ↑ Free T4, ↓ TSH, T3/T4 < 15'. (Book p915)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the early presentation findings of subacute thyroiditis — 1) Systemic sign 2) Gland pain 3) Inflammatory marker … A) Fever > 2 weeks B) Neck pain / sore throat / ear pain C) Markedly elevated ESR (↑↑ ESR)",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Early presentation: Fever > 2 weeks; Pain in the gland: Neck pain / Sore throat / Ear pain; and ↑↑ ESR. (Book p915)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Once stored hormones are exhausted in subacute thyroiditis, what percentage of patients develop permanent hypothyroidism?",
+   "opts": [
+    "15%",
+    "50%",
+    "2%",
+    "85%"
+   ],
+   "ans": 0,
+   "exp": "Under mechanism: 'Stored hormone exhausted -> Hypothyroid (In 15% Permanent hypothyroid) -> Recovery'. (Book p915)"
   },
   {
    "fmt": "scenario",
-   "q": "An outpatient with subacute thyroiditis at week 6 still has fatigue, weight gain and a TSH of 12 mIU/L. The most appropriate therapy is:",
+   "q": "A 38-year-old woman presents with severe neck pain radiating to her ears, fever for 2 weeks, high ESR, and suppressed TSH with high free T4 (T3/T4 ratio < 15). What is the drug of choice (DOC) and its dose?",
    "opts": [
-    "Levothyroxine replacement during the hypothyroid phase",
-    "Methimazole (alternative)",
-    "Radioiodine ablation (alternative)",
-    "NSAIDs only (alternative)"
+    "Aspirin 600 mg Q6H (DOC)",
+    "Carbimazole 20 mg TDS",
+    "Propylthiouracil 500 mg stat",
+    "Levothyroxine 100 µg daily"
    ],
    "ans": 0,
-   "exp": "The hypothyroid phase is treated with levothyroxine; thionamides are ineffective because hormone is not being synthesised. (Book p915)"
+   "exp": "Under management: 'Aspirin 600 mg Q6H (DOC)', NSAIDS, Steroids. (Book p915)"
   },
   {
-   "fmt": "truefalse",
-   "q": "Assess postpartum thyroiditis: I Anti-TPO antibodies predict higher risk. II Permanent hypothyroidism develops in a minority.",
+   "fmt": "match",
+   "q": "On the clinical course graph of subacute thyroiditis, match the time interval to its corresponding phase — 1) 0 - 6 weeks 2) 6 - 12 weeks 3) 12 - 18 weeks … A) Thyrotoxic phase (high urinary/serum T4, high ESR, low TSH) B) Hypothyroid phase (TSH rising, T4 falling) C) Recovery phase (normalization)",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Anti-TPO positivity predicts postpartum thyroiditis; permanent hypothyroidism develops in roughly 20–30% of affected women. (Book p915)"
+   "exp": "The graph shows: 0-6 weeks is the toxic phase; 6-12 weeks is the hypothyroid phase; 12-18 weeks is the recovery phase. (Book p915)"
   },
   {
    "fmt": "oddoneout",
-   "q": "Which is the odd one out — a feature of subacute thyroiditis (de Quervain)?",
+   "q": "Which of the following conditions is NOT associated with an elevated TSH level in the summary note on page 915?",
    "opts": [
-    "Diffuse painless goitre without ESR rise",
-    "Painful tender thyroid",
-    "Often follows viral infection",
-    "Transient thyrotoxicosis"
+    "Central (secondary) hypothyroidism",
+    "1° Hypothyroid",
+    "Resistance to Thyroid hormone (RTH)",
+    "TSH Adenoma and recovery phase of thyroiditis"
    ],
    "ans": 0,
-   "exp": "Painless goitre without ESR rise fits painless/postpartum thyroiditis rather than the painful de Quervain subacute variant. (Book p915)"
+   "exp": "Central hypothyroidism has a 'Normal TSH level' (with low peripheral hormones); elevated TSH is seen in 1° hypothyroid, RTH, TSH adenoma, and recovery phase of thyroiditis. (Book p915)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Per the summary note on page 915, what does a normal TSH level signify in a patient with low circulating thyroid hormones?",
+   "opts": [
+    "Central hypothyroidism",
+    "Primary autoimmune hypothyroidism",
+    "Early toxic phase of subacute thyroiditis",
+    "Graves disease in complete remission"
+   ],
+   "ans": 0,
+   "exp": "Page 915 explicitly states: 'Normal TSH level : Central hypothyroidism'. (Book p915)"
   },
   {
    "fmt": "fillup",
-   "q": "Pain in subacute thyroiditis typically responds to ___; corticosteroids are reserved for severe cases.",
+   "q": "Postpartum thyroiditis is also known as ___ or ___ thyroiditis.",
    "opts": [
-    "NSAIDs (e.g. ibuprofen)",
-    "Methimazole (alternative)",
-    "Cholestyramine",
-    "Lithium (alternative)"
+    "Painless; silent",
+    "Subacute; granulomatous",
+    "Dense; fibrous",
+    "Suppurative; pyogenic"
    ],
    "ans": 0,
-   "exp": "NSAIDs are first-line analgesia; corticosteroids are added in severe or refractory cases. (Book p915)"
+   "exp": "Under Postpartum thyroiditis: 'AKA Painless / silent thyroiditis'. (Book p915)"
   },
   {
    "fmt": "match",
-   "q": "Match the following graph feature — 1) X-axis 2) Y-axes (left/right) 3) Toxic phase timing … A) Time (weeks from onset) B) UT4 (left) and ESR (right) C) Weeks 0–4 typically thyrotoxic",
+   "q": "Match the autoimmune diseases associated with postpartum thyroiditis — 1) Systemic Lupus Erythematosus (SLE) 2) Sjogren's syndrome 3) Endocrine / skin autoimmune … A) Connective tissue disease B) Exocrine gland sicca syndrome C) Type 1 Diabetes Mellitus (T1DM) / Vitiligo",
    "opts": [
     "1-A, 2-B, 3-C",
-    "1-C, 2-A, 3-B",
-    "1-A, 2-C, 3-B",
-    "1-B, 2-A, 3-C"
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "The schematic plots time in weeks on the x-axis; UT4 (free T4) and ESR appear on the y-axes; the toxic phase occupies weeks 0–4 of illness. (Book p915)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "At week 8 of subacute thyroiditis, the patient has normal free T4 and normal ESR. The best next step is:",
-   "opts": [
-    "Continue to monitor with periodic TFTs",
-    "Restart methimazole (alternative)",
-    "Begin RAI (alternative)",
-    "Switch to amiodarone (alternative)"
-   ],
-   "ans": 0,
-   "exp": "Recovery normalises TFTs and ESR; further observation without specific therapy is appropriate, with follow-up for late hypothyroidism. (Book p915)"
+   "exp": "Postpartum thyroiditis is seen in association with autoimmune diseases: SLE, Sjogren's syndrome, T1DM, and Vitiligo. (Book p915)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess these statements: I Corticosteroids shorten painful phase but do not prevent hypothyroidism. II Subacute thyroiditis always recurs.",
+   "q": "Compare pain and pregnancy timing in Subacute vs Postpartum thyroiditis: I Neck pain is present in subacute thyroiditis, but absent/silent in postpartum thyroiditis. II Subacute thyroiditis has no association with pregnancy, whereas postpartum thyroiditis occurs post partum.",
    "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "Corticosteroids ease symptoms without altering the natural biphasic course; recurrence is uncommon though possible. (Book p915)"
+   "exp": "Table comparisons: Pain is Present in subacute, Absent/silent in postpartum; Association with pregnancy is No in subacute, Post Partum in postpartum. (Book p915)"
   },
   {
    "fmt": "match",
-   "q": "Match the following postpartum thyroiditis finding to its prevalence — 1) Anti-TPO positive 2) Symptomatic thyroid dysfunction 3) Permanent hypothyroidism … A) ~50% of women who develop it B) Up to 5–10% of pregnancies C) ~20–30% of cases",
+   "q": "From the subacute vs postpartum thyroiditis comparison table, match the lab/treatment characteristics — 1) ESR 2) Anti-TPO antibody 3) Role of steroids … A) Subacute: ↑↑ ESR; -ve TPO Ab; Steroids: Yes B) Postpartum: Normal ESR; +ve TPO Ab; Steroids: No (β-blocker can be used)",
    "opts": [
-    "1-A, 2-B, 3-C",
-    "1-C, 2-A, 3-B",
-    "1-A, 2-C, 3-B",
-    "1-B, 2-A, 3-C"
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
    ],
    "ans": 0,
-   "exp": "Among women with postpartum thyroiditis, about half are anti-TPO positive; symptomatic disease occurs in 5–10% of pregnancies; permanent hypothyroidism develops in ~20–30% of cases. (Book p915)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A 32-year-old with postpartum thyroiditis asks about future pregnancies. Which statement is most consistent with the source?",
-   "opts": [
-    "Recurrence risk is high in subsequent pregnancies",
-    "The disease does not recur (alternative)",
-    "Permanent hypothyroidism is inevitable",
-    "Future pregnancies are unaffected"
-   ],
-   "ans": 0,
-   "exp": "Recurrence in subsequent pregnancies is common; permanent hypothyroidism is possible but not inevitable. (Book p915)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "Recurrent subacute thyroiditis occurs in roughly ___% of patients.",
-   "opts": [
-    "1–4",
-    "20",
-    "50",
-    "75"
-   ],
-   "ans": 0,
-   "exp": "Recurrence after de Quervain thyroiditis is uncommon, around 1–4% in published series; the page emphasises the typically self-limiting nature. (Book p915)"
+   "exp": "Subacute has ↑↑ ESR, -ve TPO Ab, and steroids are useful (Yes); Postpartum has normal ESR, +ve TPO Ab, and no steroids (β-blockers used). (Book p915)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess these caveats: I Postpartum thyroiditis can be mistaken for Graves disease initially. II Both disorders show low uptake on scan.",
+   "q": "Assess autoimmunity in these thyroiditides: I Subacute thyroiditis is an autoimmune disease. II Postpartum thyroiditis is an autoimmune disease with positive anti-TPO antibodies.",
    "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
+    "I is false; II is true",
+    "Both I and II are true",
+    "I is true; II is false",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "Postpartum thyroiditis can mimic Graves early, but Graves shows high uptake whereas postpartum thyroiditis shows low uptake. (Book p915)"
+   "exp": "Table shows: Autoimmune is 'No' for Subacute thyroiditis, and 'Yes' for Postpartum thyroiditis. (Book p915)"
   }
  ]
 }

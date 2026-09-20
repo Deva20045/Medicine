@@ -1,162 +1,150 @@
 {
  "page": 910,
- "sec": "Thyrotoxicosis: clinical features and Graves disease",
+ "sec": "Thyrotoxicosis vs Euthyroid Hyperthyroxinemia & Iodine Effects",
  "items": [
   {
+   "fmt": "recall",
+   "q": "How does page 910 distinguish thyrotoxicosis from euthyroid hyperthyroxinemia in patients with elevated T3 and T4 levels?",
+   "opts": [
+    "Thyrotoxicosis has elevated free T3 and free T4, whereas euthyroid hyperthyroxinemia has elevated total T3 and total T4",
+    "Thyrotoxicosis has suppressed total hormones, whereas euthyroid hyperthyroxinemia has elevated free hormones",
+    "Thyrotoxicosis has normal free hormones, whereas euthyroid hyperthyroxinemia has elevated free T4 only",
+    "Thyrotoxicosis always features high TSH, whereas euthyroid hyperthyroxinemia features low TSH"
+   ],
+   "ans": 0,
+   "exp": "Hyperthyroxinemia (↑ T3, ↑ T4) branches into: ↑ free T3, T4 = Thyrotoxicosis; and ↑ total T3, T4 = Euthyroid Hyperthyroxinemia. (Book p910)"
+  },
+  {
    "fmt": "match",
-   "q": "Match the following thyrotoxic features to their system — 1) Weight loss, heat intolerance 2) Tremor, hyperreflexia 3) Atrial fibrillation 4) Diarrhoea … A) Constitutional B) Neurological C) Cardiovascular D) Gastrointestinal",
+   "q": "Under thyrotoxicosis, match the functional gland status to its etiologies — 1) Overworking thyroid gland (Hyperthyroidism) 2) Normal working thyroid gland … A) Autoimmune Graves (m/c), Nodular toxic adenoma, Toxic MNG, TSH adenoma, Struma ovarii B) Thyroiditis, Thyrotoxicosis factitia, Amiodarone",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-B, 2-A, 3-D, 4-C"
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
    ],
    "ans": 0,
-   "exp": "Constitutional (weight loss, heat intolerance), neurological (tremor, hyperreflexia), cardiovascular (AF) and gastrointestinal (diarrhoea) are the four feature groups on the page. (Book p910)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A 35-year-old woman has weight loss, palpitations, lid lag and a diffuse goitre with bruit. Which diagnosis fits?",
-   "opts": [
-    "Graves disease",
-    "Toxic multinodular goitre",
-    "Subacute thyroiditis",
-    "Factitious thyrotoxicosis"
-   ],
-   "ans": 0,
-   "exp": "Diffuse goitre with bruit, ophthalmopathy and young female demographic fits Graves disease. (Book p910)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess these thyrotoxic features: I Sinus tachycardia is the most common rhythm. II Atrial fibrillation occurs in a minority of younger patients.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Sinus tachycardia is most common; atrial fibrillation occurs in older patients rather than the young. (Book p910)"
+   "exp": "Overworking gland includes Graves, toxic adenoma, toxic MNG, TSH adenoma, and struma ovarii; normal gland includes thyroiditis, factitia, and amiodarone. (Book p910)"
   },
   {
    "fmt": "oddoneout",
-   "q": "Which is the odd one out — a feature of thyrotoxicosis NOT shared with anxiety?",
+   "q": "Which of the following is NOT listed under euthyroid hyperthyroxinemia (↑ total T3, T4) on page 910?",
    "opts": [
-    "Suppressed TSH with raised free T4",
-    "Tremor (alternative)",
-    "Palpitations (alternative)",
-    "Weight loss (alternative)"
+    "Struma ovarii",
+    "Thyroid binding globulin (TBG) excess",
+    "Resistant to Thyroid Hormone (RTH)",
+    "Deiodinase deficiency and Sick Euthyroid syndrome"
    ],
    "ans": 0,
-   "exp": "Biochemical suppression of TSH with raised free T4 is specific to thyrotoxicosis; tremor, palpitations and weight loss overlap with anxiety. (Book p910)"
+   "exp": "Struma ovarii is a cause of thyrotoxicosis from an overworking gland; euthyroid hyperthyroxinemia includes TBG excess, RTH, deiodinase deficiency, and sick euthyroid syndrome. (Book p910)"
   },
   {
-   "fmt": "fillup",
-   "q": "The single most specific clinical sign of Graves disease listed on the page is ___.",
+   "fmt": "numeric",
+   "q": "What percentage of all thyrotoxicosis cases are caused by Graves' disease on page 910?",
    "opts": [
-    "Infiltrative ophthalmopathy",
-    "Sinus tachycardia",
-    "Tremor (alternative)",
-    "Diffuse goitre (alternative)"
+    "75%",
+    "25%",
+    "50%",
+    "95%"
    ],
    "ans": 0,
-   "exp": "Infiltrative ophthalmopathy is Graves-specific; sinus tachycardia, tremor and diffuse goitre also occur in other causes. (Book p910)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following Graves feature — 1) Eye signs 2) Skin signs 3) Skeletal signs … A) Exophthalmos, proptosis B) Pretibial myxoedema C) Thyroid acropachy",
-   "opts": [
-    "1-A, 2-B, 3-C",
-    "1-B, 2-C, 3-A",
-    "1-A, 2-C, 3-B",
-    "1-C, 2-B, 3-A"
-   ],
-   "ans": 0,
-   "exp": "Graves-specific manifestations include exophthalmos (eye), pretibial myxoedema (skin) and thyroid acropachy (skeletal). (Book p910)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A patient with Graves disease has non-pitting oedema with peau d'orange over the shins. The diagnosis is:",
-   "opts": [
-    "Pretibial myxoedema",
-    "Cellulitis (alternative)",
-    "Stasis dermatitis",
-    "Lipodermatosclerosis"
-   ],
-   "ans": 0,
-   "exp": "Pretibial myxoedema is a Graves-specific dermopathy producing non-pitting oedema with peau d'orange over the shins. (Book p910)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess Graves extra-thyroidal manifestations: I Thyroid acropachy affects the distal phalanges. II Pretibial myxoedema can occur even after euthyroidism is restored.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Acropachy is a clubbing-like change of distal phalanges; dermopathy can persist or even appear after euthyroidism. (Book p910)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following finding to its likely cause in a thyrotoxic patient — 1) Diffuse goitre with bruit 2) Painful tender thyroid 3) Single hot nodule on scan 4) Multiple hot nodules … A) Graves disease B) Subacute thyroiditis C) Toxic adenoma D) Toxic multinodular goitre",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-B, 2-A, 3-D, 4-C"
-   ],
-   "ans": 0,
-   "exp": "Graves shows a diffuse goitre with bruit; subacute thyroiditis is painful and tender; a single hot nodule is a toxic adenoma; multiple hot nodules fit toxic MNG. (Book p910)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A 50-year-old woman has a long-standing multinodular goitre and new atrial fibrillation with weight loss. The most likely aetiology is:",
-   "opts": [
-    "Toxic multinodular goitre",
-    "Graves disease",
-    "Subacute thyroiditis",
-    "Factitious thyrotoxicosis"
-   ],
-   "ans": 0,
-   "exp": "Long-standing MNG degenerating into toxic MNG is the typical aetiology in older women with new AF and weight loss. (Book p910)"
+   "exp": "Under Graves disease Features: '75% Thyrotoxicosis cases -> Graves disease'. (Book p910)"
   },
   {
    "fmt": "recall",
-   "q": "Which extra-thyroidal manifestation is unique to Graves disease among all causes of thyrotoxicosis?",
+   "q": "What is the peak population age and gender predilection for Graves' disease?",
    "opts": [
-    "Infiltrative ophthalmopathy",
-    "Sinus tachycardia",
-    "Heat intolerance",
-    "Hyperreflexia (alternative)"
+    "20 - 50 years; Females > Males",
+    "60 - 80 years; Males > Females",
+    "5 - 15 years; Females = Males",
+    "> 65 years; Females > Males"
    ],
    "ans": 0,
-   "exp": "Infiltrative ophthalmopathy is Graves-specific; other features occur in any thyrotoxicosis. (Book p910)"
+   "exp": "Under Graves disease: 'Population at risk : 20-50 years (F > m)'. (Book p910)"
   },
   {
-   "fmt": "fillup",
-   "q": "The radioactive iodine uptake scan in Graves disease typically shows ___ uptake.",
+   "fmt": "match",
+   "q": "Match the clinical risk associations of Graves' disease — 1) Lifestyle factor 2) Reproductive period 3) Antiviral therapy … A) Smoking B) Post partum C) HAART (Highly active antiretroviral therapy)",
    "opts": [
-    "Diffusely increased (correct answer)",
-    "Focally increased in a single nodule",
-    "Multiple focal hot spots",
-    "Decreased uptake (alternative)"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Graves produces diffusely increased uptake; toxic adenoma is focal; toxic MNG is multiple focal; thyroiditis is decreased. (Book p910)"
+   "exp": "Associations listed on page 910 for Graves' disease include: Smoking, Post partum, HAART, and HLA: DR-2, CTLA-4, PTPN-22. (Book p910)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess the page's eye-signs grouping: I Proptosis and chemosis are Graves-specific. II Lid lag and lid retraction can occur in any thyrotoxicosis.",
+   "q": "Regarding immunogenetic associations of Graves' disease on page 910: I HLA association is HLA-DR2. II Non-HLA gene associations include CTLA-4 and PTPN-22.",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "Infiltrative eye signs are Graves-specific; lid lag and lid retraction occur in any thyrotoxicosis because of sympathetic overactivity. (Book p910)"
+   "exp": "Under Graves disease: 'HLA : DR-2, CTLA-4, PTPN-22'. (Book p910)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The Wolff-Chaikoff effect occurs when excess iodide transiently inhibits thyroid synthesis for ___ days, followed by ___.",
+   "opts": [
+    "5 - 7 days; escape",
+    "2 - 3 weeks; thyroid storm",
+    "24 - 48 hours; permanent hypothyroidism",
+    "30 days; follicular hyperplasia"
+   ],
+   "ans": 0,
+   "exp": "Wolff Chaikoff effect: 'Excess iodide -> Inhibits Transiently Thyroid synthesis (5-7 days) -> Followed by Escape'. (Book p910)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which medication is specifically noted on page 910 as precipitating the Wolff-Chaikoff effect?",
+   "opts": [
+    "Amiodarone",
+    "Lithium",
+    "Phenytoin",
+    "Carbamazepine"
+   ],
+   "ans": 0,
+   "exp": "Under Wolff Chaikoff effect: 'Seen with Amiodarone'. (Book p910)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with nodular thyroid disease residing in an iodine-deficient area receives an iodine-containing radiographic contrast agent and promptly develops thyrotoxicosis. What iodine-induced disorder explains this?",
+   "opts": [
+    "Jod-Basedow phenomenon",
+    "Wolff-Chaikoff effect",
+    "De Quervain thyroiditis",
+    "Allan-Herndon-Dudley syndrome"
+   ],
+   "ans": 0,
+   "exp": "Jod Basedow phenomenon: 'Patient with Nodular or TSH-R Antibody in iodine deficient area -> Iodine Supply (+) -> Thyrotoxicosis'. (Book p910)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess these two iodine-related effects: I Wolff-Chaikoff effect is transient synthesis inhibition by excess iodide (seen with amiodarone). II Jod-Basedow phenomenon is thyrotoxicosis induced by iodine supply in patients with nodular disease or TSH-R antibodies in iodine-deficient areas.",
+   "opts": [
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
+   ],
+   "ans": 0,
+   "exp": "Both statements represent the exact definitions of the Wolff-Chaikoff effect and Jod-Basedow phenomenon on page 910. (Book p910)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following causes of thyrotoxicosis represents ectopic thyroid tissue outside the neck?",
+   "opts": [
+    "Struma ovarii",
+    "Graves disease",
+    "Toxic multinodular goiter",
+    "Nodular toxic adenoma"
+   ],
+   "ans": 0,
+   "exp": "Struma ovarii is an ovarian teratoma containing functioning thyroid tissue that causes hyperthyroidism. (Book p910)"
   }
  ]
 }

@@ -1,162 +1,162 @@
 {
  "page": 909,
- "sec": "Subclinical hypothyroidism, myxoedema coma and review",
+ "sec": "Patient Instructions, Myxedema Coma & SREAT / Hashimoto Encephalopathy",
  "items": [
   {
+   "fmt": "recall",
+   "q": "What specific administration instructions must be given to patients taking oral L-thyroxine on page 909?",
+   "opts": [
+    "Take on an empty stomach in the morning (7 - 7:30 am) with a glass of water, and wait 30 minutes before meals",
+    "Take with a full meal at dinner time to maximize lipid-phase absorption",
+    "Take at bedtime co-administered with calcium and iron supplements",
+    "Take dissolved in hot milk twice daily after meals"
+   ],
+   "ans": 0,
+   "exp": "Instructions: 'Empty stomach (morning 7-7:30 am) with glass of water. Take meal after 30 minutes'. (Book p909)"
+  },
+  {
    "fmt": "match",
-   "q": "Match the following follow-up plan — 1) Stable primary hypothyroidism 2) After dose change 3) Persistent symptoms despite normal TSH 4) Suspected non-compliance … A) Repeat TSH every 6–12 months B) Recheck TSH/FT3/FT4 at ~3 months C) Reassess adherence and drug interactions D) Re-evaluate diagnosis and consider T3 add-on",
+   "q": "Match the drug that inhibits L-thyroxine absorption to its formulation — 1) FeSO4 2) CaCO3 3) Al(OH)3 / Sucralfate … A) Ferrous sulfate iron salt B) Calcium carbonate C) Aluminum hydroxide antacid / mucosal protectant",
    "opts": [
-    "1-A, 2-B, 3-D, 4-C",
-    "1-C, 2-B, 3-A, 4-D",
-    "1-A, 2-C, 3-D, 4-B",
-    "1-B, 2-A, 3-C, 4-D"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Stable patients are monitored every 6–12 months; after dose changes recheck at 3 months; symptoms despite normal TSH prompt diagnosis review and possible T3 add-on; persistent abnormal labs are commonly due to non-compliance or interactions. (Book p909)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "On levothyroxine 100 µg a patient's TSH remains elevated at 9 mIU/L despite claims of adherence. Which step is most consistent with the page?",
-   "opts": [
-    "Assess adherence and drug interactions before increasing the dose",
-    "Immediately double the dose (alternative)",
-    "Switch to desiccated thyroid (alternative)",
-    "Add carbimazole (alternative)"
-   ],
-   "ans": 0,
-   "exp": "Persistent abnormal TFTs are most often due to non-compliance or interfering drugs; investigate before titrating. (Book p909)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess follow-up intervals: I Re-check at 3 months after a dose change. II Once TSH normal, taper can be attempted cautiously.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "After dose changes, TSH is rechecked at about 3 months; once TSH normal, slow taper may be attempted in selected patients (e.g. transient thyroiditis). (Book p909)"
-  },
-  {
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a transient cause where levothyroxine can eventually be tapered?",
-   "opts": [
-    "Permanent post-thyroidectomy state",
-    "Subacute thyroiditis (alternative)",
-    "Postpartum thyroiditis (alternative)",
-    "Drug-induced hypothyroidism after drug withdrawal"
-   ],
-   "ans": 0,
-   "exp": "Post-thyroidectomy hypothyroidism is permanent; the others are typically transient and may allow cautious taper once TSH normal. (Book p909)"
+   "exp": "Drugs to be avoided because they inhibit absorption include FeSO4, CaCO3, Al(OH)3, and Sucralfate. (Book p909)"
   },
   {
    "fmt": "fillup",
-   "q": "Relief of hypothyroid symptoms typically occurs ___ months after TSH normalises.",
-   "opts": [
-    "3–6 (correct answer)",
-    "1–2 weeks",
-    "12–18 (alternative)",
-    "Immediately"
-   ],
-   "ans": 0,
-   "exp": "Symptomatic relief usually takes 3–6 months after biochemical normalisation; lipid and other parameters take longer. (Book p909)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following emergency therapy for myxoedema coma — 1) First-line hormone 2) Steroid 3) Supportive measure 4) Trigger work-up … A) IV levothyroxine (often with liothyronine) B) IV hydrocortisone C) Active warming, electrolytes, ventilation D) Infection, MI, cold exposure, sedatives",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-B, 2-A, 3-D, 4-C"
-   ],
-   "ans": 0,
-   "exp": "Myxoedema coma is treated with IV levothyroxine plus hydrocortisone (until adrenal insufficiency is excluded), supportive measures (warming, ventilation) and search for triggers (infection, MI, cold, sedatives). (Book p909)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "An obtunded hypothyroid patient is started on IV levothyroxine. Why is hydrocortisone added concurrently?",
-   "opts": [
-    "To cover possible coexisting adrenal insufficiency",
-    "To reduce TSH further (alternative)",
-    "To enhance levothyroxine absorption",
-    "To treat myxoedema directly (alternative)"
-   ],
-   "ans": 0,
-   "exp": "Concurrent adrenal insufficiency is possible; giving thyroid hormone first can precipitate adrenal crisis. Hydrocortisone is given until adrenal status is clear. (Book p909)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess myxoedema coma: I Active external rewarming is the recommended initial step. II IV levothyroxine should be withheld until adrenal insufficiency is excluded.",
-   "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
-   ],
-   "ans": 0,
-   "exp": "Active rewarming can precipitate arrhythmia; passive rewarming is preferred. Levothyroxine should not be withheld — both levothyroxine and hydrocortisone are started empirically. (Book p909)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following common trigger of myxoedema coma — 1) Infection 2) Cold exposure 3) Sedatives 4) MI … A) Most common precipitant B) Winter decompensation C) CNS depressant D) Cardiovascular collapse",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-B, 3-A, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-B, 2-A, 3-C, 4-D"
-   ],
-   "ans": 0,
-   "exp": "Infection is the most common trigger; cold exposure causes winter decompensation; sedatives depress CNS; MI can precipitate cardiovascular collapse. (Book p909)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A hypothyroid patient with persistent symptoms despite normal TSH on levothyroxine 100 µg asks about adding T3. Which is the source's most consistent response?",
-   "opts": [
-    "Combination T4/T3 is not standard; review adherence and interactions first",
-    "Add liothyronine routinely (alternative)",
-    "Switch to desiccated thyroid immediately (alternative)",
-    "Increase T4 dose beyond weight-based target"
-   ],
-   "ans": 0,
-   "exp": "Combination therapy is not routinely recommended; first rule out adherence and drug interactions, then re-evaluate the diagnosis. (Book p909)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "Persistent abnormal TFTs on adequate doses of levothyroxine are most often due to ___ or drug interactions.",
+   "q": "The single most common (m/c) cause of treatment failure in hypothyroid patients prescribed L-thyroxine is ___.",
    "opts": [
     "Non-compliance",
-    "TPO mutation",
-    "Vitamin D excess",
-    "Adrenal insufficiency"
+    "Autoimmune malabsorption syndrome",
+    "Genetic deiodinase-2 inactivation",
+    "Accelerated renal excretion"
    ],
    "ans": 0,
-   "exp": "Non-compliance is the most common cause of persistently abnormal TFTs on replacement; drug interactions and malabsorption are close seconds. (Book p909)"
+   "exp": "Under follow-up: 'm/c cause of treatment failure : Non-compliance'. (Book p909)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "How long after the serum TSH value normalizes does the patient typically achieve clinical symptomatic relief?",
+   "opts": [
+    "3 - 6 months",
+    "1 - 2 weeks",
+    "24 - 48 hours",
+    "12 - 18 months"
+   ],
+   "ans": 0,
+   "exp": "Page 909 explicitly notes: 'Clinical relief : 3-6 months after TSH value becomes normal'. (Book p909)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What is the mortality rate of myxedema coma reported on page 909?",
+   "opts": [
+    "40%",
+    "10%",
+    "75%",
+    "5%"
+   ],
+   "ans": 0,
+   "exp": "Under Emergency Conditions: 'myxedema coma : mortality 40%'. (Book p909)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What are the primary trigger factors listed for precipitating myxedema coma?",
+   "opts": [
+    "Non-compliance and infection (e.g., COVID-19 or lower respiratory tract infection - LRI)",
+    "Excessive dietary iodine and strenuous physical exertion",
+    "Abrupt initiation of high-dose corticosteroids",
+    "Accidental overdose of antithyroid medications"
+   ],
+   "ans": 0,
+   "exp": "Trigger factors for myxedema coma: 'Non-compliance, infection (i.e. covid, LRI)'. (Book p909)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the characteristic 'Hypo' presenting features of myxedema coma — 1) Respiratory 2) Glucose metabolism 3) Electrolytes 4) Body temperature … A) Hypoventilation B) Hypoglycemia C) Hyponatremia D) Hypothermia",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "The 'Hypo' tetrad of myxedema coma consists of Hypoventilation, Hypoglycemia, Hyponatremia, and Hypothermia. (Book p909)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An elderly woman with myxedema coma is admitted with severe bradycardia, hypothermia (34°C), and low-voltage ECG complexes. Which intravenous fluid is indicated, and which must be avoided?",
+   "opts": [
+    "Hypertonic saline indicated; hypotonic saline strictly avoided",
+    "Hypotonic saline indicated; hypertonic saline strictly avoided",
+    "5% Dextrose in water indicated; hypertonic saline strictly avoided",
+    "Albumin colloid indicated; normal saline strictly avoided"
+   ],
+   "ans": 0,
+   "exp": "Treatment specifies: 'Hypertonic saline (Avoid hypotonic saline)'. (Book p909)"
+  },
+  {
+   "fmt": "management",
+   "q": "What is the complete medical treatment regimen for myxedema coma on page 909?",
+   "opts": [
+    "IV L-thyroxine 500 µg OD -> 50-100 µg/day, Steroid, IV T3 5-20 µg, Hypertonic saline",
+    "Oral PTU 1000 mg stat, Propranolol 60 mg Q4H, Iopanoic acid, Normal saline",
+    "External active warming with heated blankets, Hydrocortisone, Hypotonic saline",
+    "IV Levothyroxine 25 µg daily, Furosemide infusion, Potassium chloride"
+   ],
+   "ans": 0,
+   "exp": "Treatment for myxedema coma: IV L-thyroxine 500 µg OD -> 50-100 µg/day, Steroid, IV T3 5-20 µg, and Hypertonic saline. (Book p909)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Steroid-responsive encephalopathy associated with autoimmune thyroid illness (SREAT / Hashimoto encephalopathy) is an autoimmune vasculitis that is ___ to thyroid function, and can be seen in ___ status.",
+   "opts": [
+    "Unrelated; euthyroid",
+    "Proportional; hyperthyroid",
+    "Secondary; myxedema coma",
+    "Inversely related; post-thyroidectomy"
+   ],
+   "ans": 0,
+   "exp": "SREAT: 'Can be seen in euthyroid status' and is an 'Autoimmune vasculitis unrelated to thyroid function'. (Book p909)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which autoantibody and HLA allele are characteristically elevated and associated with SREAT on page 909?",
+   "opts": [
+    "Anti-enolase antibody; HLA-B8",
+    "Anti-TPO antibody; HLA-B27",
+    "TSH receptor antibody; HLA-DR3",
+    "Anti-ganglioside antibody; HLA-B35"
+   ],
+   "ans": 0,
+   "exp": "SREAT is characterized by '↑↑ Antibodies (Anti-enolase Ab)' and 'HLA -B8'. (Book p909)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the clinical presentations of SREAT — 1) Progressive cognitive decline 2) Paroxysmal motor events 3) Vascular mimic … A) Altered level of consciousness B) Seizure & myoclonus C) Stroke-like presentation",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Presentations of SREAT include: slowly progressive cognitive decline (altered level of consciousness), seizure & myoclonus, and stroke-like presentation. (Book p909)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess these caveats: I Desiccated thyroid is the source's preferred long-term replacement. II Liothyronine has a longer half-life than levothyroxine.",
+   "q": "Assess SREAT management on page 909: I The primary and definitive pharmacologic management is corticosteroids (steroids). II Patients must immediately receive high-dose intravenous levothyroxine.",
    "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
+    "I is true; II is false",
+    "Both I and II are true",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "Levothyroxine is the standard; liothyronine has a shorter half-life than levothyroxine. (Book p909)"
-  },
-  {
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out among reversible causes of hypothyroidism that may allow taper?",
-   "opts": [
-    "Permanent Hashimoto thyroiditis",
-    "Subacute (de Quervain) thyroiditis",
-    "Postpartum thyroiditis (alternative)",
-    "Drug-induced hypothyroidism after withdrawal"
-   ],
-   "ans": 0,
-   "exp": "Hashimoto is permanent; the others are typically transient and may allow cautious taper. (Book p909)"
+   "exp": "Management of SREAT is explicitly stated as 'management : Steroids'. Thyroid hormone therapy is not the primary treatment since SREAT is vasculitic and unrelated to thyroid function. (Book p909)"
   }
  ]
 }

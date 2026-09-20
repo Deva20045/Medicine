@@ -1,150 +1,150 @@
 {
  "page": 912,
- "sec": "Thionamides, RAI and surgical management of thyrotoxicosis",
+ "sec": "Scintigraphy Grid, Ophthalmopathy Progression & Eponymous Signs",
  "items": [
   {
    "fmt": "match",
-   "q": "Match the following thionamide feature — 1) Methimazole 2) Propylthiouracil 3) Carbimazole 4) Block-and-replace regimen … A) Preferred in most adults B) Preferred in T1 pregnancy and thyroid storm C) Prodrug of methimazole D) Thionamide + levothyroxine combination",
+   "q": "Match the scintigraphy finding to the diagnosis on page 912 — 1) Diffuse symmetrical uptake (75-80%), reduced salivary uptake 2) Low or absent uptake, prominent salivary uptake 3) Increased uptake in nodule with contralateral reduced uptake … A) Graves' disease B) Thyroiditis C) Toxic adenoma",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-C, 2-B, 3-A, 4-D"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Methimazole is preferred in non-pregnant adults; PTU is reserved for T1 pregnancy and thyroid storm; carbimazole is the prodrug of methimazole; block-and-replace is a thionamide-plus-levothyroxine combination. (Book p912)"
+   "exp": "Scintigraphy table: Graves shows diffuse 75-80% uptake with reduced salivary uptake; Thyroiditis shows low/absent uptake with prominent salivary uptake; Toxic adenoma shows increased uptake in nodule with contralateral reduced uptake. (Book p912)"
   },
   {
-   "fmt": "scenario",
-   "q": "A woman in the first trimester of pregnancy needs treatment for Graves disease. Which thionamide is the most appropriate?",
+   "fmt": "numeric",
+   "q": "On radionuclide scintigraphy, compare physiological uptake against the diffuse uptake seen in Graves' disease:",
    "opts": [
-    "Propylthiouracil",
-    "Methimazole (alternative)",
-    "Carbimazole (alternative)",
-    "No thionamide in pregnancy"
+    "25% normal; 75 - 80% elevated",
+    "10% normal; 40 - 50% elevated",
+    "50% normal; 95 - 100% elevated",
+    "5% normal; 30% elevated"
    ],
    "ans": 0,
-   "exp": "PTU is preferred in T1 because methimazole is associated with embryopathy; methimazole is preferred from T2 onward. (Book p912)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess thionamide adverse effects: I Agranulocytosis is a rare but serious idiosyncratic reaction. II Methimazole carries a black-box warning for hepatotoxicity in T1 pregnancy.",
-   "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
-   ],
-   "ans": 0,
-   "exp": "Agranulocytosis is a rare idiosyncratic reaction with both thionamides; PTU carries the hepatotoxicity warning (especially in T1 pregnancy), not methimazole. (Book p912)"
-  },
-  {
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a side-effect not typical of methimazole?",
-   "opts": [
-    "Severe hepatotoxicity (PTU-type)",
-    "Agranulocytosis (alternative)",
-    "Rash (alternative)",
-    "Cholestatic liver enzyme rise"
-   ],
-   "ans": 0,
-   "exp": "Severe hepatotoxicity with hepatic failure is the PTU-type pattern; methimazole typically causes cholestatic liver enzyme rise, not severe hepatotoxicity. (Book p912)"
+   "exp": "Scintigraphy table: Normal uptake is 25%; in Graves' disease, diffuse uptake reaches 75 - 80%. (Book p912)"
   },
   {
    "fmt": "fillup",
-   "q": "The thionamide dose in Graves disease is adjusted aiming for ___.",
+   "q": "On histopathology of Graves' disease, follicular epithelial cells appear tall columnar with resorbed colloid producing a characteristic ___ appearance.",
    "opts": [
-    "Free T4 / free T3 normalisation before TSH recovery",
-    "TSH normalisation alone (alternative)",
-    "Total T4 normalisation alone (alternative)",
-    "TRAb negativity (alternative)"
+    "Scalloped",
+    "Psammoma body",
+    "Orphan Annie eye",
+    "Ground-glass"
    ],
    "ans": 0,
-   "exp": "Free T4/T3 normalise earlier than TSH; dose is titrated to free hormones with TSH as a delayed check. (Book p912)"
+   "exp": "The histological caption on page 912 states: 'Tall Columnar cell resorbed colloid (Scalloped appearance)'. (Book p912)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What percentage of the hyperthyroid population presents with ophthalmopathy?",
+   "opts": [
+    "30%",
+    "10%",
+    "75%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "Under Graves Ophthalmopathy: '30% Hyperthyroid population can present ophthalmopathy'. (Book p912)"
   },
   {
    "fmt": "match",
-   "q": "Match the following definitive therapy — 1) Radioactive iodine ablation 2) Total thyroidectomy 3) Antithyroid drugs … A) Definitive in selected patients with low ophthalmopathy risk B) Rapid control in pregnancy and large goitres C) Long-term remission in ~50% of Graves patients",
+   "q": "According to the '40/40/20 rule' of Graves' ophthalmopathy, match the presentation category to its percentage — 1) Graves symptoms elsewhere, followed later by ophthalmopathy 2) Graves with ophthalmopathy present at diagnosis 3) Ophthalmopathy as initial presentation (unilateral to bilateral) … A) 40% B) 40% C) 20%",
    "opts": [
     "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
     "1-C, 2-B, 3-A",
-    "1-A, 2-C, 3-B",
-    "1-B, 2-A, 3-C"
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "RAI is definitive when eye disease is inactive; surgery is preferred in pregnancy with large goitres or rapid control; thionamides achieve long-term remission in about half of patients. (Book p912)"
+   "exp": "The 40/40/20 rule: 40% develop ophthalmopathy later; 40% have ophthalmopathy at presentation; 20% have ophthalmopathy as initial presentation (U/L -> B/L). (Book p912)"
   },
   {
-   "fmt": "scenario",
-   "q": "A patient with Graves disease has active moderate ophthalmopathy and a large goitre. Which definitive therapy is most appropriate?",
+   "fmt": "fillup",
+   "q": "According to the mnemonic 'IM SLOW' for extraocular muscle involvement in Graves' ophthalmopathy, the first muscle affected is the ___ rectus, followed next by the ___ rectus.",
    "opts": [
-    "Total thyroidectomy after euthyroidism",
-    "Radioiodine without steroid cover",
-    "Long-term methimazole alone",
-    "Observation until eye disease worsens"
+    "Inferior; medial",
+    "Superior; lateral",
+    "Medial; superior",
+    "Lateral; inferior"
    ],
    "ans": 0,
-   "exp": "Active ophthalmopathy and large goitre favour thyroidectomy; RAI should be covered with steroids in active eye disease. (Book p912)"
+   "exp": "Under mnemonic IM SLOW: 'First muscle affected : Inferior rectus -> next: medial rectus -> next: Superior rectus -> next: Obliques'. (Book p912)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the full muscle involvement sequence in the 'IM SLOW' mnemonic for Graves' orbitopathy?",
+   "opts": [
+    "Inferior rectus → Medial rectus → Superior rectus → Obliques",
+    "Internal rectus → Middle rectus → Superior rectus → Lateral rectus",
+    "Inferior oblique → Medial rectus → Superior oblique → Lateral rectus",
+    "Inferior rectus → Superior rectus → Medial rectus → Lateral rectus"
+   ],
+   "ans": 0,
+   "exp": "The mnemonic IM SLOW expands to: Inferior rectus -> Medial rectus -> Superior rectus -> Obliques. (Book p912)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess RAI: I It is contraindicated in pregnancy and breastfeeding. II It can cause thyroiditis and transient thyrotoxicosis.",
+   "q": "Regarding active Graves' ophthalmopathy: I Radioactive iodine treatment is contraindicated. II Medical management includes smoking cessation and high-dose intravenous steroids.",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "RAI is absolutely contraindicated in pregnancy and breastfeeding; post-RAI thyroiditis can cause transient thyrotoxicosis before hypothyroidism. (Book p912)"
+   "exp": "Page 912 states: 'Radioactive treatment C/I' and 'Rx : stop smoking, High dose IV steroid'. (Book p912)"
   },
   {
    "fmt": "match",
-   "q": "Match the following adjunct — 1) Beta-blocker 2) NSAID 3) Calcium supplementation 4) Cholestyramine … A) Symptomatic control of adrenergic symptoms B) Analgesia in subacute thyroiditis C) Bone protection in chronic thyrotoxicosis D) Reduces enterohepatic recycling of thyroid hormone",
+   "q": "Match the eponymous Graves' eye signs — 1) Von Graefe's 2) Joffroy's 3) Stellwag's 4) Dalrymple's … A) Lid lag in down gaze B) Absent creases in the forehead on superior gaze C) Incomplete and infrequent blinking D) Widened palpebral fissure during fixation",
    "opts": [
     "1-A, 2-B, 3-C, 4-D",
     "1-B, 2-A, 3-D, 4-C",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-C, 2-B, 3-A, 4-D"
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-B, 4-D"
    ],
    "ans": 0,
-   "exp": "Beta-blockers control adrenergic symptoms; NSAIDs are analgesics in subacute thyroiditis; calcium supports bone in chronic thyrotoxicosis; cholestyramine reduces enterohepatic recycling of thyroid hormone. (Book p912)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A patient on methimazole develops sore throat and fever; total neutrophil count is 0.4 × 10⁹/L. The next step is:",
-   "opts": [
-    "Stop methimazole immediately and admit for neutropenic sepsis work-up",
-    "Continue methimazole and add G-CSF as outpatient",
-    "Switch to carbimazole (alternative)",
-    "Add lithium to boost white cells (alternative)"
-   ],
-   "ans": 0,
-   "exp": "Agranulocytosis requires immediate cessation of the thionamide and urgent management of neutropenic sepsis risk. (Book p912)"
+   "exp": "Eye signs: Von Graefe's = Lid lag in down gaze; Joffroy = Absent creases in forehead on superior gaze; Stellwag = Incomplete and infrequent blinking; Dalrymple's = Widened palpebral fissure during fixation. (Book p912)"
   },
   {
    "fmt": "fillup",
-   "q": "The block-and-replace regimen pairs a thionamide with ___ to avoid hypothyroidism.",
+   "q": "The eponymous sign defined by impairment of ocular convergence in Graves' disease is ___ sign.",
    "opts": [
-    "Levothyroxine",
-    "Methimazole alone",
-    "Propranolol",
-    "Radioiodine"
+    "Möbius",
+    "Kocher",
+    "Von Graefe's",
+    "Stellwag's"
    ],
    "ans": 0,
-   "exp": "Block-and-replace uses a fixed thionamide dose plus levothyroxine to maintain euthyroidism during the block. (Book p912)"
+   "exp": "Page 912 lists: 'Möbius sign : Convergence'. (Book p912)"
   },
   {
-   "fmt": "truefalse",
-   "q": "Assess treatment duration: I Antithyroid drug course is typically 12–18 months. II Most Graves patients achieve permanent remission with thionamides alone.",
+   "fmt": "scenario",
+   "q": "A 28-year-old female presents with biochemical thyrotoxicosis (suppressed TSH, elevated free T3 and T4). On careful neck examination, the thyroid gland is completely non-palpable. What does this suggest per page 912?",
    "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
+    "Exogenous hormone cause or thyroiditis",
+    "Graves disease with retrosternal extension",
+    "Toxic multinodular goiter",
+    "TSH-secreting pituitary macroadenoma"
    ],
    "ans": 0,
-   "exp": "A typical course is 12–18 months; permanent remission occurs in roughly half of patients, not most. (Book p912)"
+   "exp": "Page 912 contains the note: 'Note : Non palpable gland with thyrotoxicosis = Exogenous cause / thyroiditis'. (Book p912)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In the Graves' disease management flowchart on page 912, what T3/T4 ratio is characteristic alongside suppressed TSH and elevated free hormones before confirming TRAb positivity?",
+   "opts": [
+    "T3 / T4 ratio > 20",
+    "T3 / T4 ratio < 15",
+    "T3 / T4 ratio between 5 and 10",
+    "T3 / T4 ratio < 1"
+   ],
+   "ans": 0,
+   "exp": "Under management: 'On Investigations : TSH ↓, free T3 ↑, free T4 ↑, T3/T4 > 20 -> Next: Antibody : TSH-(R) Ab +ve -> Next: Diagnosis : Graves disease'. (Book p912)"
   }
  ]
 }

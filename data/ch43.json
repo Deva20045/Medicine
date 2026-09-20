@@ -5,1293 +5,1293 @@
  "questions": [
   {
    "id": "MED-C43-001",
-   "sec": "Thyrotoxicosis: clinical features and Graves disease",
+   "sec": "Thyrotoxicosis vs Euthyroid Hyperthyroxinemia & Iodine Effects",
    "page": 910,
-   "fmt": "match",
-   "q": "Match the following thyrotoxic features to their system — 1) Weight loss, heat intolerance 2) Tremor, hyperreflexia 3) Atrial fibrillation 4) Diarrhoea … A) Constitutional B) Neurological C) Cardiovascular D) Gastrointestinal",
+   "fmt": "recall",
+   "q": "How does page 910 distinguish thyrotoxicosis from euthyroid hyperthyroxinemia in patients with elevated T3 and T4 levels?",
    "opts": [
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-B, 2-A, 3-D, 4-C",
-    "1-A, 2-B, 3-C, 4-D"
+    "Thyrotoxicosis has suppressed total hormones, whereas euthyroid hyperthyroxinemia has elevated free hormones",
+    "Thyrotoxicosis has normal free hormones, whereas euthyroid hyperthyroxinemia has elevated free T4 only",
+    "Thyrotoxicosis always features high TSH, whereas euthyroid hyperthyroxinemia features low TSH",
+    "Thyrotoxicosis has elevated free T3 and free T4, whereas euthyroid hyperthyroxinemia has elevated total T3 and total T4"
    ],
    "ans": 3,
-   "exp": "Constitutional (weight loss, heat intolerance), neurological (tremor, hyperreflexia), cardiovascular (AF) and gastrointestinal (diarrhoea) are the four feature groups on the page. (Book p910)"
+   "exp": "Hyperthyroxinemia (↑ T3, ↑ T4) branches into: ↑ free T3, T4 = Thyrotoxicosis; and ↑ total T3, T4 = Euthyroid Hyperthyroxinemia. (Book p910)"
   },
   {
    "id": "MED-C43-002",
-   "sec": "Thyrotoxicosis: clinical features and Graves disease",
+   "sec": "Thyrotoxicosis vs Euthyroid Hyperthyroxinemia & Iodine Effects",
    "page": 910,
-   "fmt": "scenario",
-   "q": "A 35-year-old woman has weight loss, palpitations, lid lag and a diffuse goitre with bruit. Which diagnosis fits?",
+   "fmt": "match",
+   "q": "Under thyrotoxicosis, match the functional gland status to its etiologies — 1) Overworking thyroid gland (Hyperthyroidism) 2) Normal working thyroid gland … A) Autoimmune Graves (m/c), Nodular toxic adenoma, Toxic MNG, TSH adenoma, Struma ovarii B) Thyroiditis, Thyrotoxicosis factitia, Amiodarone",
    "opts": [
-    "Toxic multinodular goitre",
-    "Subacute thyroiditis",
-    "Factitious thyrotoxicosis",
-    "Graves disease"
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-A, 2-B"
    ],
    "ans": 3,
-   "exp": "Diffuse goitre with bruit, ophthalmopathy and young female demographic fits Graves disease. (Book p910)"
+   "exp": "Overworking gland includes Graves, toxic adenoma, toxic MNG, TSH adenoma, and struma ovarii; normal gland includes thyroiditis, factitia, and amiodarone. (Book p910)"
   },
   {
    "id": "MED-C43-003",
-   "sec": "Thyrotoxicosis: clinical features and Graves disease",
+   "sec": "Thyrotoxicosis vs Euthyroid Hyperthyroxinemia & Iodine Effects",
    "page": 910,
-   "fmt": "truefalse",
-   "q": "Assess these thyrotoxic features: I Sinus tachycardia is the most common rhythm. II Atrial fibrillation occurs in a minority of younger patients.",
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed under euthyroid hyperthyroxinemia (↑ total T3, T4) on page 910?",
    "opts": [
-    "Both false",
-    "Both true",
-    "I true; II false",
-    "I false; II true"
+    "Deiodinase deficiency and Sick Euthyroid syndrome",
+    "Struma ovarii",
+    "Thyroid binding globulin (TBG) excess",
+    "Resistant to Thyroid Hormone (RTH)"
    ],
    "ans": 1,
-   "exp": "Sinus tachycardia is most common; atrial fibrillation occurs in older patients rather than the young. (Book p910)"
+   "exp": "Struma ovarii is a cause of thyrotoxicosis from an overworking gland; euthyroid hyperthyroxinemia includes TBG excess, RTH, deiodinase deficiency, and sick euthyroid syndrome. (Book p910)"
   },
   {
    "id": "MED-C43-004",
-   "sec": "Thyrotoxicosis: clinical features and Graves disease",
+   "sec": "Thyrotoxicosis vs Euthyroid Hyperthyroxinemia & Iodine Effects",
    "page": 910,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a feature of thyrotoxicosis NOT shared with anxiety?",
+   "fmt": "numeric",
+   "q": "What percentage of all thyrotoxicosis cases are caused by Graves' disease on page 910?",
    "opts": [
-    "Weight loss (alternative)",
-    "Suppressed TSH with raised free T4",
-    "Tremor (alternative)",
-    "Palpitations (alternative)"
+    "95%",
+    "75%",
+    "25%",
+    "50%"
    ],
    "ans": 1,
-   "exp": "Biochemical suppression of TSH with raised free T4 is specific to thyrotoxicosis; tremor, palpitations and weight loss overlap with anxiety. (Book p910)"
+   "exp": "Under Graves disease Features: '75% Thyrotoxicosis cases -> Graves disease'. (Book p910)"
   },
   {
    "id": "MED-C43-005",
-   "sec": "Thyrotoxicosis: clinical features and Graves disease",
+   "sec": "Thyrotoxicosis vs Euthyroid Hyperthyroxinemia & Iodine Effects",
    "page": 910,
-   "fmt": "fillup",
-   "q": "The single most specific clinical sign of Graves disease listed on the page is ___.",
+   "fmt": "recall",
+   "q": "What is the peak population age and gender predilection for Graves' disease?",
    "opts": [
-    "Diffuse goitre (alternative)",
-    "Infiltrative ophthalmopathy",
-    "Sinus tachycardia",
-    "Tremor (alternative)"
+    "> 65 years; Females > Males",
+    "20 - 50 years; Females > Males",
+    "60 - 80 years; Males > Females",
+    "5 - 15 years; Females = Males"
    ],
    "ans": 1,
-   "exp": "Infiltrative ophthalmopathy is Graves-specific; sinus tachycardia, tremor and diffuse goitre also occur in other causes. (Book p910)"
+   "exp": "Under Graves disease: 'Population at risk : 20-50 years (F > m)'. (Book p910)"
   },
   {
    "id": "MED-C43-006",
-   "sec": "Thyrotoxicosis: clinical features and Graves disease",
+   "sec": "Thyrotoxicosis vs Euthyroid Hyperthyroxinemia & Iodine Effects",
    "page": 910,
    "fmt": "match",
-   "q": "Match the following Graves feature — 1) Eye signs 2) Skin signs 3) Skeletal signs … A) Exophthalmos, proptosis B) Pretibial myxoedema C) Thyroid acropachy",
+   "q": "Match the clinical risk associations of Graves' disease — 1) Lifestyle factor 2) Reproductive period 3) Antiviral therapy … A) Smoking B) Post partum C) HAART (Highly active antiretroviral therapy)",
    "opts": [
-    "1-A, 2-C, 3-B",
     "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
     "1-A, 2-B, 3-C",
-    "1-B, 2-C, 3-A"
+    "1-B, 2-A, 3-C"
    ],
    "ans": 2,
-   "exp": "Graves-specific manifestations include exophthalmos (eye), pretibial myxoedema (skin) and thyroid acropachy (skeletal). (Book p910)"
+   "exp": "Associations listed on page 910 for Graves' disease include: Smoking, Post partum, HAART, and HLA: DR-2, CTLA-4, PTPN-22. (Book p910)"
   },
   {
    "id": "MED-C43-007",
-   "sec": "Thyrotoxicosis: clinical features and Graves disease",
+   "sec": "Thyrotoxicosis vs Euthyroid Hyperthyroxinemia & Iodine Effects",
    "page": 910,
-   "fmt": "scenario",
-   "q": "A patient with Graves disease has non-pitting oedema with peau d'orange over the shins. The diagnosis is:",
+   "fmt": "truefalse",
+   "q": "Regarding immunogenetic associations of Graves' disease on page 910: I HLA association is HLA-DR2. II Non-HLA gene associations include CTLA-4 and PTPN-22.",
    "opts": [
-    "Pretibial myxoedema",
-    "Cellulitis (alternative)",
-    "Stasis dermatitis",
-    "Lipodermatosclerosis"
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "Pretibial myxoedema is a Graves-specific dermopathy producing non-pitting oedema with peau d'orange over the shins. (Book p910)"
+   "exp": "Under Graves disease: 'HLA : DR-2, CTLA-4, PTPN-22'. (Book p910)"
   },
   {
    "id": "MED-C43-008",
-   "sec": "Thyrotoxicosis: clinical features and Graves disease",
+   "sec": "Thyrotoxicosis vs Euthyroid Hyperthyroxinemia & Iodine Effects",
    "page": 910,
-   "fmt": "truefalse",
-   "q": "Assess Graves extra-thyroidal manifestations: I Thyroid acropachy affects the distal phalanges. II Pretibial myxoedema can occur even after euthyroidism is restored.",
+   "fmt": "fillup",
+   "q": "The Wolff-Chaikoff effect occurs when excess iodide transiently inhibits thyroid synthesis for ___ days, followed by ___.",
    "opts": [
-    "Both false",
-    "Both true",
-    "I true; II false",
-    "I false; II true"
+    "30 days; follicular hyperplasia",
+    "5 - 7 days; escape",
+    "2 - 3 weeks; thyroid storm",
+    "24 - 48 hours; permanent hypothyroidism"
    ],
    "ans": 1,
-   "exp": "Acropachy is a clubbing-like change of distal phalanges; dermopathy can persist or even appear after euthyroidism. (Book p910)"
+   "exp": "Wolff Chaikoff effect: 'Excess iodide -> Inhibits Transiently Thyroid synthesis (5-7 days) -> Followed by Escape'. (Book p910)"
   },
   {
    "id": "MED-C43-009",
-   "sec": "Thyrotoxicosis: clinical features and Graves disease",
+   "sec": "Thyrotoxicosis vs Euthyroid Hyperthyroxinemia & Iodine Effects",
    "page": 910,
-   "fmt": "match",
-   "q": "Match the following finding to its likely cause in a thyrotoxic patient — 1) Diffuse goitre with bruit 2) Painful tender thyroid 3) Single hot nodule on scan 4) Multiple hot nodules … A) Graves disease B) Subacute thyroiditis C) Toxic adenoma D) Toxic multinodular goitre",
+   "fmt": "recall",
+   "q": "Which medication is specifically noted on page 910 as precipitating the Wolff-Chaikoff effect?",
    "opts": [
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-B, 2-A, 3-D, 4-C",
-    "1-A, 2-B, 3-C, 4-D"
+    "Lithium",
+    "Phenytoin",
+    "Carbamazepine",
+    "Amiodarone"
    ],
    "ans": 3,
-   "exp": "Graves shows a diffuse goitre with bruit; subacute thyroiditis is painful and tender; a single hot nodule is a toxic adenoma; multiple hot nodules fit toxic MNG. (Book p910)"
+   "exp": "Under Wolff Chaikoff effect: 'Seen with Amiodarone'. (Book p910)"
   },
   {
    "id": "MED-C43-010",
-   "sec": "Thyrotoxicosis: clinical features and Graves disease",
+   "sec": "Thyrotoxicosis vs Euthyroid Hyperthyroxinemia & Iodine Effects",
    "page": 910,
    "fmt": "scenario",
-   "q": "A 50-year-old woman has a long-standing multinodular goitre and new atrial fibrillation with weight loss. The most likely aetiology is:",
+   "q": "A patient with nodular thyroid disease residing in an iodine-deficient area receives an iodine-containing radiographic contrast agent and promptly develops thyrotoxicosis. What iodine-induced disorder explains this?",
    "opts": [
-    "Toxic multinodular goitre",
-    "Graves disease",
-    "Subacute thyroiditis",
-    "Factitious thyrotoxicosis"
+    "Jod-Basedow phenomenon",
+    "Wolff-Chaikoff effect",
+    "De Quervain thyroiditis",
+    "Allan-Herndon-Dudley syndrome"
    ],
    "ans": 0,
-   "exp": "Long-standing MNG degenerating into toxic MNG is the typical aetiology in older women with new AF and weight loss. (Book p910)"
+   "exp": "Jod Basedow phenomenon: 'Patient with Nodular or TSH-R Antibody in iodine deficient area -> Iodine Supply (+) -> Thyrotoxicosis'. (Book p910)"
   },
   {
    "id": "MED-C43-011",
-   "sec": "Thyrotoxicosis: clinical features and Graves disease",
+   "sec": "Thyrotoxicosis vs Euthyroid Hyperthyroxinemia & Iodine Effects",
    "page": 910,
-   "fmt": "recall",
-   "q": "Which extra-thyroidal manifestation is unique to Graves disease among all causes of thyrotoxicosis?",
+   "fmt": "truefalse",
+   "q": "Assess these two iodine-related effects: I Wolff-Chaikoff effect is transient synthesis inhibition by excess iodide (seen with amiodarone). II Jod-Basedow phenomenon is thyrotoxicosis induced by iodine supply in patients with nodular disease or TSH-R antibodies in iodine-deficient areas.",
    "opts": [
-    "Heat intolerance",
-    "Hyperreflexia (alternative)",
-    "Infiltrative ophthalmopathy",
-    "Sinus tachycardia"
+    "I is false; II is true",
+    "Both I and II are false",
+    "Both I and II are true",
+    "I is true; II is false"
    ],
    "ans": 2,
-   "exp": "Infiltrative ophthalmopathy is Graves-specific; other features occur in any thyrotoxicosis. (Book p910)"
+   "exp": "Both statements represent the exact definitions of the Wolff-Chaikoff effect and Jod-Basedow phenomenon on page 910. (Book p910)"
   },
   {
    "id": "MED-C43-012",
-   "sec": "Thyrotoxicosis: clinical features and Graves disease",
+   "sec": "Thyrotoxicosis vs Euthyroid Hyperthyroxinemia & Iodine Effects",
    "page": 910,
-   "fmt": "fillup",
-   "q": "The radioactive iodine uptake scan in Graves disease typically shows ___ uptake.",
+   "fmt": "oddoneout",
+   "q": "Which of the following causes of thyrotoxicosis represents ectopic thyroid tissue outside the neck?",
    "opts": [
-    "Decreased uptake (alternative)",
-    "Diffusely increased (correct answer)",
-    "Focally increased in a single nodule",
-    "Multiple focal hot spots"
+    "Nodular toxic adenoma",
+    "Struma ovarii",
+    "Graves disease",
+    "Toxic multinodular goiter"
    ],
    "ans": 1,
-   "exp": "Graves produces diffusely increased uptake; toxic adenoma is focal; toxic MNG is multiple focal; thyroiditis is decreased. (Book p910)"
+   "exp": "Struma ovarii is an ovarian teratoma containing functioning thyroid tissue that causes hyperthyroidism. (Book p910)"
   },
   {
    "id": "MED-C43-013",
-   "sec": "Thyrotoxicosis: clinical features and Graves disease",
-   "page": 910,
-   "fmt": "truefalse",
-   "q": "Assess the page's eye-signs grouping: I Proptosis and chemosis are Graves-specific. II Lid lag and lid retraction can occur in any thyrotoxicosis.",
+   "sec": "Antibodies, Triad of Manifestations & Clinical Presentation",
+   "page": 911,
+   "fmt": "match",
+   "q": "Match the autoantibody to its percentage positivity on page 911 — 1) Thyroid Stimulating Hormone-Receptor Ab (TRAb) 2) Thyroglobulin Ab 3) TPO Ab … A) +ve 80 - 95% (most important in Graves) B) +ve 50 - 70% (most important in Hashimoto) C) +ve 50 - 80%",
    "opts": [
-    "I false; II true",
-    "Both false",
-    "Both true",
-    "I true; II false"
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C"
    ],
    "ans": 2,
-   "exp": "Infiltrative eye signs are Graves-specific; lid lag and lid retraction occur in any thyrotoxicosis because of sympathetic overactivity. (Book p910)"
+   "exp": "TRAb is positive in 80-95% (most important in Graves); Thyroglobulin Ab in 50-70% (most important in Hashimoto); TPO Ab in 50-80%. (Book p911)"
   },
   {
    "id": "MED-C43-014",
-   "sec": "Graves eye signs, scoring and diagnosis",
+   "sec": "Antibodies, Triad of Manifestations & Clinical Presentation",
    "page": 911,
-   "fmt": "match",
-   "q": "Match the following Graves eye sign to its description — 1) Proptosis 2) Chemosis 3) Diplopia 4) Lid lag … A) Forward displacement of the globe B) Conjunctival oedema C) Restricted extraocular motility D) Lid fails to follow eye on downward gaze",
+   "fmt": "recall",
+   "q": "TSH-Receptor antibodies stimulate T-cells, fibroblasts, and GAG synthesis to produce which triad of unique clinical findings in Graves' disease?",
    "opts": [
-    "1-D, 2-A, 3-C, 4-B",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-B, 3-A, 4-D",
-    "1-A, 2-D, 3-B, 4-C"
+    "Sensorineural hearing loss, goiter, and periodic paralysis",
+    "Thyroid ophthalmopathy, Thyroid dermopathy (pretibial myxedema), and Thyroid acropachy",
+    "Periorbital edema, macroglossia, and hoarse voice",
+    "Carpal tunnel syndrome, delayed reflexes, and bradycardia"
    ],
    "ans": 1,
-   "exp": "Proptosis is forward globe displacement; chemosis is conjunctival oedema; diplopia is from restrictive myopathy and motility restriction; lid lag is failure to follow downward gaze. (Book p911)"
+   "exp": "TRAb stimulates T-cells, fibroblasts, and GAGs, leading to the unique triad of Graves: Thyroid ophthalmopathy, Thyroid Dermopathy (Pretibial myxedema), and Thyroid Acropachy. (Book p911)"
   },
   {
    "id": "MED-C43-015",
-   "sec": "Graves eye signs, scoring and diagnosis",
+   "sec": "Antibodies, Triad of Manifestations & Clinical Presentation",
    "page": 911,
-   "fmt": "scenario",
-   "q": "A patient with Graves disease has red, swollen conjunctiva and restricted eye movements bilaterally. The activity score category is most consistent with:",
+   "fmt": "match",
+   "q": "Match the unique physical findings of Graves' disease shown in the photographs — 1) Eye pathology 2) Lower extremity dermopathy 3) Digits … A) Severe proptosis, eyelid retraction, and exophthalmos B) Pretibial myxedema (thick nodular infiltrative dermopathy) C) Acropachy",
    "opts": [
-    "Active / moderate-to-severe Graves ophthalmopathy",
-    "Inactive mild ophthalmopathy",
-    "Non-Graves eye disease (alternative)",
-    "Allergic conjunctivitis (alternative)"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Conjunctival redness and oedema with restrictive motility denote active moderate-to-severe Graves ophthalmopathy. (Book p911)"
+   "exp": "The photographs illustrate proptosis/eyelid retraction/exophthalmos, acropachy, and thick nodular infiltrative dermopathy (pretibial myxedema). (Book p911)"
   },
   {
    "id": "MED-C43-016",
-   "sec": "Graves eye signs, scoring and diagnosis",
+   "sec": "Antibodies, Triad of Manifestations & Clinical Presentation",
    "page": 911,
    "fmt": "truefalse",
-   "q": "Assess Graves ophthalmopathy: I Smoking dramatically worsens the course. II Radioiodine therapy can worsen eye disease in active ophthalmopathy.",
+   "q": "Assess common symptoms of thyrotoxicosis: I Restlessness, irritability, tremulousness, nervousness, and tachycardia. II Sweating, diarrhea, polyuria, warm moist skin, and oligomenorrhea/amenorrhea.",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "Smoking is the strongest modifiable risk factor for progression; radioiodine can transiently worsen active ophthalmopathy. (Book p911)"
+   "exp": "All listed features are documented under Common Features of thyrotoxicosis on page 911. (Book p911)"
   },
   {
    "id": "MED-C43-017",
-   "sec": "Graves eye signs, scoring and diagnosis",
+   "sec": "Antibodies, Triad of Manifestations & Clinical Presentation",
    "page": 911,
    "fmt": "oddoneout",
-   "q": "Which is the odd one out — an inactive Graves ophthalmopathy feature?",
+   "q": "Which of the following is NOT listed among the common features of thyrotoxicosis on page 911?",
    "opts": [
-    "Recent deterioration in diplopia",
-    "Long-standing proptosis without change",
-    "Stable lid lag over years",
-    "Fibrotic restrictive strabismus"
+    "Severe constipation and dry cold coarse skin",
+    "Restlessness, irritability, and tremulousness",
+    "Tachycardia, sweating, and warm moist skin",
+    "Diarrhea, polyuria, and oligomenorrhea/amenorrhea"
    ],
    "ans": 0,
-   "exp": "Recent deterioration in diplopia suggests active disease; long-standing proptosis, stable lid lag and fibrotic restrictive strabismus denote inactive disease. (Book p911)"
+   "exp": "Constipation and dry cold skin are classic hypothyroid features; thyrotoxicosis features diarrhea, warm moist skin, tachycardia, and sweating. (Book p911)"
   },
   {
    "id": "MED-C43-018",
-   "sec": "Graves eye signs, scoring and diagnosis",
+   "sec": "Antibodies, Triad of Manifestations & Clinical Presentation",
    "page": 911,
-   "fmt": "fillup",
-   "q": "The single most important modifiable risk factor for progression of Graves ophthalmopathy is ___.",
+   "fmt": "scenario",
+   "q": "An 76-year-old man presents with profound lethargy, fatigue, and unintentional weight loss without tremors or hyperactive behavior. TFTs confirm thyrotoxicosis. What clinical entity does this represent?",
    "opts": [
-    "Vitamin D loading",
-    "Iodine supplementation",
-    "Smoking cessation",
-    "Calcium supplementation"
+    "Myxedema madness",
+    "Consumptive deiodinase-3 deficiency",
+    "Apathetic thyrotoxicosis (in elderly population)",
+    "Hashimoto encephalopathy (SREAT)"
    ],
    "ans": 2,
-   "exp": "Smoking cessation is the strongest modifiable intervention; radioiodine should be avoided or covered with steroids in active disease. (Book p911)"
+   "exp": "Under In Elder Population: 'Apathetic thyrotoxicosis : Fatigue and weight loss'. (Book p911)"
   },
   {
    "id": "MED-C43-019",
-   "sec": "Graves eye signs, scoring and diagnosis",
+   "sec": "Antibodies, Triad of Manifestations & Clinical Presentation",
    "page": 911,
-   "fmt": "match",
-   "q": "Match the following Graves investigation to its expected finding — 1) TSH-receptor antibody 2) Anti-TPO 3) Thyroid uptake scan 4) Orbital MRI … A) Positive in most untreated Graves B) Often positive (less specific) C) Diffusely increased uptake D) Enlarged extraocular muscles",
+   "fmt": "recall",
+   "q": "In an elderly patient with elevated T3 and T4 levels, which cardiac manifestation is emphasized on page 911?",
    "opts": [
-    "1-B, 2-A, 3-D, 4-C",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-B, 3-A, 4-D",
-    "1-A, 2-D, 3-B, 4-C"
+    "Aortic valve stenosis with low-voltage complexes",
+    "Atrial fibrillation and worsening of heart failure",
+    "Complete third-degree heart block",
+    "Ventricular fibrillation and cardiac tamponade"
    ],
    "ans": 1,
-   "exp": "TRAb is positive in most untreated Graves; anti-TPO is often present but less specific; uptake scan shows diffuse increase; orbital MRI shows enlarged muscle bellies. (Book p911)"
+   "exp": "Under Other Features: 'Atrial fibrillation ↑ T3 T4 (mainly elderly)' and 'Worsening of heart failure'. (Book p911)"
   },
   {
    "id": "MED-C43-020",
-   "sec": "Graves eye signs, scoring and diagnosis",
+   "sec": "Antibodies, Triad of Manifestations & Clinical Presentation",
    "page": 911,
    "fmt": "scenario",
-   "q": "A 40-year-old woman has new thyrotoxicosis, positive TRAb and bilateral proptosis. The most consistent diagnosis is:",
+   "q": "A 32-year-old male with severe thyrotoxicosis has proximal muscle weakness of the hips and shoulders. Muscle examination demonstrates NO fasciculations. What is the clinical significance of absent fasciculations per page 911?",
    "opts": [
-    "Hashitoxicosis",
-    "Graves disease",
-    "Toxic adenoma",
-    "Subacute thyroiditis"
+    "Establishes primary polymyositis requiring muscle biopsy",
+    "Confirms thyrotoxic proximal myopathy from protein catabolism; presence of fasciculations would indicate anterior horn cell disease",
+    "Confirms concurrent Guillain-Barré syndrome",
+    "Rules out myopathy and indicates psychogenic conversion weakness"
    ],
    "ans": 1,
-   "exp": "Positive TRAb with bilateral proptosis and thyrotoxicosis is diagnostic of Graves disease. (Book p911)"
+   "exp": "Under Severe Thyrotoxicosis: 'Proximal myopathy: No fasciculations (If fasciculations +ve -> Anterior horn cell disease)'. (Book p911)"
   },
   {
    "id": "MED-C43-021",
-   "sec": "Graves eye signs, scoring and diagnosis",
+   "sec": "Antibodies, Triad of Manifestations & Clinical Presentation",
    "page": 911,
    "fmt": "truefalse",
-   "q": "Assess the differential: I Hashitoxicosis can mimic Graves initially. II Toxic adenoma typically has negative TRAb.",
+   "q": "In severe thyrotoxicosis: I Protein catabolism leads to bone pain, fractures, and hypercalcemia with hypercalciuria (stones). II Thyrotoxicosis-associated periodic paralysis presents like hypokalemic paralysis.",
    "opts": [
-    "I false; II true",
-    "Both false",
-    "Both true",
-    "I true; II false"
+    "I is false; II is true",
+    "Both I and II are false",
+    "Both I and II are true",
+    "I is true; II is false"
    ],
    "ans": 2,
-   "exp": "Hashitoxicosis is a transient Graves-like picture early in Hashimoto disease; toxic adenoma is a focal hot nodule with negative TRAb. (Book p911)"
+   "exp": "Severe thyrotoxicosis causes protein catabolism -> proximal myopathy, bone pain/fractures, hypercalcemia -> hypercalciuria -> stones; periodic paralysis presents like hypokalemia paralysis. (Book p911)"
   },
   {
    "id": "MED-C43-022",
-   "sec": "Graves eye signs, scoring and diagnosis",
+   "sec": "Antibodies, Triad of Manifestations & Clinical Presentation",
    "page": 911,
    "fmt": "match",
-   "q": "Match the following clinical clue to the diagnosis — 1) Painful thyroid with elevated ESR 2) Diffuse goitre with bruit 3) Single hot nodule on scan 4) Recent amiodarone use with low uptake … A) Subacute thyroiditis B) Graves disease C) Toxic adenoma D) Type 2 amiodarone thyrotoxicosis",
+   "q": "Match the clinical triad to the diagnosis in the page 911 contrast note — 1) Weight loss + good appetite 2) Weight gain + loss of appetite … A) Graves' disease B) Hypothyroidism",
    "opts": [
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-B, 3-C, 4-D"
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-A, 2-B"
    ],
    "ans": 3,
-   "exp": "Painful thyroid with raised ESR is subacute thyroiditis; diffuse goitre with bruit is Graves; a single hot nodule is toxic adenoma; amiodarone with low uptake is Type 2 destructive thyroiditis. (Book p911)"
+   "exp": "Page 911 notes: 'Wt loss + good appetite -> Graves disease' and 'Wt gain + loss of appetite -> Hypothyroid'. (Book p911)"
   },
   {
    "id": "MED-C43-023",
-   "sec": "Graves eye signs, scoring and diagnosis",
+   "sec": "Antibodies, Triad of Manifestations & Clinical Presentation",
    "page": 911,
-   "fmt": "scenario",
-   "q": "An older patient with atrial fibrillation and new weight loss has a thyroid scan with multiple focal hot areas. The best diagnosis is:",
+   "fmt": "fillup",
+   "q": "Thyrotoxicosis-associated periodic paralysis presents with acute episodic flaccid quadriparesis resembling ___ paralysis.",
    "opts": [
-    "Subacute thyroiditis",
-    "Thyroid storm (alternative)",
-    "Toxic multinodular goitre",
-    "Graves disease (autoimmune)"
+    "Hypocalcemia",
+    "Hypercalcemia",
+    "Hypokalemia",
+    "Hyperkalemia"
    ],
    "ans": 2,
-   "exp": "Multiple focal hot areas in an older patient fit toxic MNG; Graves would be diffusely increased. (Book p911)"
+   "exp": "Under Thyrotoxicosis Associated Periodic paralysis: 'Presents like hypokalemia paralysis'. (Book p911)"
   },
   {
    "id": "MED-C43-024",
-   "sec": "Graves eye signs, scoring and diagnosis",
+   "sec": "Antibodies, Triad of Manifestations & Clinical Presentation",
    "page": 911,
-   "fmt": "fillup",
-   "q": "The radioactive iodine uptake pattern in toxic adenoma is ___.",
+   "fmt": "recall",
+   "q": "Which guidelines for Graves' disease symptoms are cited at the base of page 911?",
    "opts": [
-    "Diffusely increased (alternative)",
-    "Decreased everywhere (alternative)",
-    "Multiple discrete hot nodules (alternative)",
-    "Focally increased in the nodule with suppressed surrounding gland"
+    "American Thyroid Association guidelines",
+    "European Thyroid Association guidelines",
+    "British Thyroid Association guidelines",
+    "Endocrine Society of India guidelines"
    ],
    "ans": 3,
-   "exp": "Toxic adenoma shows a focal hot area with suppressed extranodular tissue; toxic MNG shows multiple focal hot areas. (Book p911)"
+   "exp": "At the bottom of page 911: 'Endocrine Society of India - Guidelines for Graves : Above mentioned symptoms'. (Book p911)"
   },
   {
    "id": "MED-C43-025",
-   "sec": "Graves eye signs, scoring and diagnosis",
-   "page": 911,
-   "fmt": "truefalse",
-   "q": "Assess eye-disease management: I High-dose glucocorticoids are first-line for active moderate-to-severe disease. II Orbital radiotherapy is reserved for active disease failing steroids.",
+   "sec": "Scintigraphy Grid, Ophthalmopathy Progression & Eponymous Signs",
+   "page": 912,
+   "fmt": "match",
+   "q": "Match the scintigraphy finding to the diagnosis on page 912 — 1) Diffuse symmetrical uptake (75-80%), reduced salivary uptake 2) Low or absent uptake, prominent salivary uptake 3) Increased uptake in nodule with contralateral reduced uptake … A) Graves' disease B) Thyroiditis C) Toxic adenoma",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "IV methylprednisolone is first-line for active moderate-to-severe Graves ophthalmopathy; orbital radiotherapy is an option for active disease not controlled by steroids. (Book p911)"
+   "exp": "Scintigraphy table: Graves shows diffuse 75-80% uptake with reduced salivary uptake; Thyroiditis shows low/absent uptake with prominent salivary uptake; Toxic adenoma shows increased uptake in nodule with contralateral reduced uptake. (Book p912)"
   },
   {
    "id": "MED-C43-026",
-   "sec": "Thionamides, RAI and surgical management of thyrotoxicosis",
+   "sec": "Scintigraphy Grid, Ophthalmopathy Progression & Eponymous Signs",
    "page": 912,
-   "fmt": "match",
-   "q": "Match the following thionamide feature — 1) Methimazole 2) Propylthiouracil 3) Carbimazole 4) Block-and-replace regimen … A) Preferred in most adults B) Preferred in T1 pregnancy and thyroid storm C) Prodrug of methimazole D) Thionamide + levothyroxine combination",
+   "fmt": "numeric",
+   "q": "On radionuclide scintigraphy, compare physiological uptake against the diffuse uptake seen in Graves' disease:",
    "opts": [
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-C, 2-B, 3-A, 4-D",
-    "1-A, 2-B, 3-C, 4-D"
+    "10% normal; 40 - 50% elevated",
+    "50% normal; 95 - 100% elevated",
+    "5% normal; 30% elevated",
+    "25% normal; 75 - 80% elevated"
    ],
    "ans": 3,
-   "exp": "Methimazole is preferred in non-pregnant adults; PTU is reserved for T1 pregnancy and thyroid storm; carbimazole is the prodrug of methimazole; block-and-replace is a thionamide-plus-levothyroxine combination. (Book p912)"
+   "exp": "Scintigraphy table: Normal uptake is 25%; in Graves' disease, diffuse uptake reaches 75 - 80%. (Book p912)"
   },
   {
    "id": "MED-C43-027",
-   "sec": "Thionamides, RAI and surgical management of thyrotoxicosis",
+   "sec": "Scintigraphy Grid, Ophthalmopathy Progression & Eponymous Signs",
    "page": 912,
-   "fmt": "scenario",
-   "q": "A woman in the first trimester of pregnancy needs treatment for Graves disease. Which thionamide is the most appropriate?",
+   "fmt": "fillup",
+   "q": "On histopathology of Graves' disease, follicular epithelial cells appear tall columnar with resorbed colloid producing a characteristic ___ appearance.",
    "opts": [
-    "No thionamide in pregnancy",
-    "Propylthiouracil",
-    "Methimazole (alternative)",
-    "Carbimazole (alternative)"
+    "Ground-glass",
+    "Scalloped",
+    "Psammoma body",
+    "Orphan Annie eye"
    ],
    "ans": 1,
-   "exp": "PTU is preferred in T1 because methimazole is associated with embryopathy; methimazole is preferred from T2 onward. (Book p912)"
+   "exp": "The histological caption on page 912 states: 'Tall Columnar cell resorbed colloid (Scalloped appearance)'. (Book p912)"
   },
   {
    "id": "MED-C43-028",
-   "sec": "Thionamides, RAI and surgical management of thyrotoxicosis",
+   "sec": "Scintigraphy Grid, Ophthalmopathy Progression & Eponymous Signs",
    "page": 912,
-   "fmt": "truefalse",
-   "q": "Assess thionamide adverse effects: I Agranulocytosis is a rare but serious idiosyncratic reaction. II Methimazole carries a black-box warning for hepatotoxicity in T1 pregnancy.",
+   "fmt": "numeric",
+   "q": "What percentage of the hyperthyroid population presents with ophthalmopathy?",
    "opts": [
-    "I false; II true",
-    "Both true",
-    "Both false",
-    "I true; II false"
+    "75%",
+    "50%",
+    "30%",
+    "10%"
    ],
    "ans": 2,
-   "exp": "Agranulocytosis is a rare idiosyncratic reaction with both thionamides; PTU carries the hepatotoxicity warning (especially in T1 pregnancy), not methimazole. (Book p912)"
+   "exp": "Under Graves Ophthalmopathy: '30% Hyperthyroid population can present ophthalmopathy'. (Book p912)"
   },
   {
    "id": "MED-C43-029",
-   "sec": "Thionamides, RAI and surgical management of thyrotoxicosis",
+   "sec": "Scintigraphy Grid, Ophthalmopathy Progression & Eponymous Signs",
    "page": 912,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a side-effect not typical of methimazole?",
+   "fmt": "match",
+   "q": "According to the '40/40/20 rule' of Graves' ophthalmopathy, match the presentation category to its percentage — 1) Graves symptoms elsewhere, followed later by ophthalmopathy 2) Graves with ophthalmopathy present at diagnosis 3) Ophthalmopathy as initial presentation (unilateral to bilateral) … A) 40% B) 40% C) 20%",
    "opts": [
-    "Cholestatic liver enzyme rise",
-    "Severe hepatotoxicity (PTU-type)",
-    "Agranulocytosis (alternative)",
-    "Rash (alternative)"
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 1,
-   "exp": "Severe hepatotoxicity with hepatic failure is the PTU-type pattern; methimazole typically causes cholestatic liver enzyme rise, not severe hepatotoxicity. (Book p912)"
+   "exp": "The 40/40/20 rule: 40% develop ophthalmopathy later; 40% have ophthalmopathy at presentation; 20% have ophthalmopathy as initial presentation (U/L -> B/L). (Book p912)"
   },
   {
    "id": "MED-C43-030",
-   "sec": "Thionamides, RAI and surgical management of thyrotoxicosis",
+   "sec": "Scintigraphy Grid, Ophthalmopathy Progression & Eponymous Signs",
    "page": 912,
    "fmt": "fillup",
-   "q": "The thionamide dose in Graves disease is adjusted aiming for ___.",
+   "q": "According to the mnemonic 'IM SLOW' for extraocular muscle involvement in Graves' ophthalmopathy, the first muscle affected is the ___ rectus, followed next by the ___ rectus.",
    "opts": [
-    "TSH normalisation alone (alternative)",
-    "Total T4 normalisation alone (alternative)",
-    "TRAb negativity (alternative)",
-    "Free T4 / free T3 normalisation before TSH recovery"
+    "Superior; lateral",
+    "Medial; superior",
+    "Lateral; inferior",
+    "Inferior; medial"
    ],
    "ans": 3,
-   "exp": "Free T4/T3 normalise earlier than TSH; dose is titrated to free hormones with TSH as a delayed check. (Book p912)"
+   "exp": "Under mnemonic IM SLOW: 'First muscle affected : Inferior rectus -> next: medial rectus -> next: Superior rectus -> next: Obliques'. (Book p912)"
   },
   {
    "id": "MED-C43-031",
-   "sec": "Thionamides, RAI and surgical management of thyrotoxicosis",
+   "sec": "Scintigraphy Grid, Ophthalmopathy Progression & Eponymous Signs",
    "page": 912,
-   "fmt": "match",
-   "q": "Match the following definitive therapy — 1) Radioactive iodine ablation 2) Total thyroidectomy 3) Antithyroid drugs … A) Definitive in selected patients with low ophthalmopathy risk B) Rapid control in pregnancy and large goitres C) Long-term remission in ~50% of Graves patients",
+   "fmt": "recall",
+   "q": "What is the full muscle involvement sequence in the 'IM SLOW' mnemonic for Graves' orbitopathy?",
    "opts": [
-    "1-A, 2-C, 3-B",
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
-    "1-C, 2-B, 3-A"
+    "Inferior oblique → Medial rectus → Superior oblique → Lateral rectus",
+    "Inferior rectus → Superior rectus → Medial rectus → Lateral rectus",
+    "Inferior rectus → Medial rectus → Superior rectus → Obliques",
+    "Internal rectus → Middle rectus → Superior rectus → Lateral rectus"
    ],
    "ans": 2,
-   "exp": "RAI is definitive when eye disease is inactive; surgery is preferred in pregnancy with large goitres or rapid control; thionamides achieve long-term remission in about half of patients. (Book p912)"
+   "exp": "The mnemonic IM SLOW expands to: Inferior rectus -> Medial rectus -> Superior rectus -> Obliques. (Book p912)"
   },
   {
    "id": "MED-C43-032",
-   "sec": "Thionamides, RAI and surgical management of thyrotoxicosis",
+   "sec": "Scintigraphy Grid, Ophthalmopathy Progression & Eponymous Signs",
    "page": 912,
-   "fmt": "scenario",
-   "q": "A patient with Graves disease has active moderate ophthalmopathy and a large goitre. Which definitive therapy is most appropriate?",
+   "fmt": "truefalse",
+   "q": "Regarding active Graves' ophthalmopathy: I Radioactive iodine treatment is contraindicated. II Medical management includes smoking cessation and high-dose intravenous steroids.",
    "opts": [
-    "Observation until eye disease worsens",
-    "Total thyroidectomy after euthyroidism",
-    "Radioiodine without steroid cover",
-    "Long-term methimazole alone"
+    "Both I and II are false",
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true"
    ],
    "ans": 1,
-   "exp": "Active ophthalmopathy and large goitre favour thyroidectomy; RAI should be covered with steroids in active eye disease. (Book p912)"
+   "exp": "Page 912 states: 'Radioactive treatment C/I' and 'Rx : stop smoking, High dose IV steroid'. (Book p912)"
   },
   {
    "id": "MED-C43-033",
-   "sec": "Thionamides, RAI and surgical management of thyrotoxicosis",
+   "sec": "Scintigraphy Grid, Ophthalmopathy Progression & Eponymous Signs",
    "page": 912,
-   "fmt": "truefalse",
-   "q": "Assess RAI: I It is contraindicated in pregnancy and breastfeeding. II It can cause thyroiditis and transient thyrotoxicosis.",
+   "fmt": "match",
+   "q": "Match the eponymous Graves' eye signs — 1) Von Graefe's 2) Joffroy's 3) Stellwag's 4) Dalrymple's … A) Lid lag in down gaze B) Absent creases in the forehead on superior gaze C) Incomplete and infrequent blinking D) Widened palpebral fissure during fixation",
    "opts": [
-    "I false; II true",
-    "Both false",
-    "Both true",
-    "I true; II false"
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C"
    ],
    "ans": 2,
-   "exp": "RAI is absolutely contraindicated in pregnancy and breastfeeding; post-RAI thyroiditis can cause transient thyrotoxicosis before hypothyroidism. (Book p912)"
+   "exp": "Eye signs: Von Graefe's = Lid lag in down gaze; Joffroy = Absent creases in forehead on superior gaze; Stellwag = Incomplete and infrequent blinking; Dalrymple's = Widened palpebral fissure during fixation. (Book p912)"
   },
   {
    "id": "MED-C43-034",
-   "sec": "Thionamides, RAI and surgical management of thyrotoxicosis",
+   "sec": "Scintigraphy Grid, Ophthalmopathy Progression & Eponymous Signs",
    "page": 912,
-   "fmt": "match",
-   "q": "Match the following adjunct — 1) Beta-blocker 2) NSAID 3) Calcium supplementation 4) Cholestyramine … A) Symptomatic control of adrenergic symptoms B) Analgesia in subacute thyroiditis C) Bone protection in chronic thyrotoxicosis D) Reduces enterohepatic recycling of thyroid hormone",
+   "fmt": "fillup",
+   "q": "The eponymous sign defined by impairment of ocular convergence in Graves' disease is ___ sign.",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-B, 2-A, 3-D, 4-C",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-C, 2-B, 3-A, 4-D"
+    "Möbius",
+    "Kocher",
+    "Von Graefe's",
+    "Stellwag's"
    ],
    "ans": 0,
-   "exp": "Beta-blockers control adrenergic symptoms; NSAIDs are analgesics in subacute thyroiditis; calcium supports bone in chronic thyrotoxicosis; cholestyramine reduces enterohepatic recycling of thyroid hormone. (Book p912)"
+   "exp": "Page 912 lists: 'Möbius sign : Convergence'. (Book p912)"
   },
   {
    "id": "MED-C43-035",
-   "sec": "Thionamides, RAI and surgical management of thyrotoxicosis",
+   "sec": "Scintigraphy Grid, Ophthalmopathy Progression & Eponymous Signs",
    "page": 912,
    "fmt": "scenario",
-   "q": "A patient on methimazole develops sore throat and fever; total neutrophil count is 0.4 × 10⁹/L. The next step is:",
+   "q": "A 28-year-old female presents with biochemical thyrotoxicosis (suppressed TSH, elevated free T3 and T4). On careful neck examination, the thyroid gland is completely non-palpable. What does this suggest per page 912?",
    "opts": [
-    "Add lithium to boost white cells (alternative)",
-    "Stop methimazole immediately and admit for neutropenic sepsis work-up",
-    "Continue methimazole and add G-CSF as outpatient",
-    "Switch to carbimazole (alternative)"
+    "TSH-secreting pituitary macroadenoma",
+    "Exogenous hormone cause or thyroiditis",
+    "Graves disease with retrosternal extension",
+    "Toxic multinodular goiter"
    ],
    "ans": 1,
-   "exp": "Agranulocytosis requires immediate cessation of the thionamide and urgent management of neutropenic sepsis risk. (Book p912)"
+   "exp": "Page 912 contains the note: 'Note : Non palpable gland with thyrotoxicosis = Exogenous cause / thyroiditis'. (Book p912)"
   },
   {
    "id": "MED-C43-036",
-   "sec": "Thionamides, RAI and surgical management of thyrotoxicosis",
+   "sec": "Scintigraphy Grid, Ophthalmopathy Progression & Eponymous Signs",
    "page": 912,
-   "fmt": "fillup",
-   "q": "The block-and-replace regimen pairs a thionamide with ___ to avoid hypothyroidism.",
+   "fmt": "recall",
+   "q": "In the Graves' disease management flowchart on page 912, what T3/T4 ratio is characteristic alongside suppressed TSH and elevated free hormones before confirming TRAb positivity?",
    "opts": [
-    "Radioiodine",
-    "Levothyroxine",
-    "Methimazole alone",
-    "Propranolol"
+    "T3 / T4 ratio < 1",
+    "T3 / T4 ratio > 20",
+    "T3 / T4 ratio < 15",
+    "T3 / T4 ratio between 5 and 10"
    ],
    "ans": 1,
-   "exp": "Block-and-replace uses a fixed thionamide dose plus levothyroxine to maintain euthyroidism during the block. (Book p912)"
+   "exp": "Under management: 'On Investigations : TSH ↓, free T3 ↑, free T4 ↑, T3/T4 > 20 -> Next: Antibody : TSH-(R) Ab +ve -> Next: Diagnosis : Graves disease'. (Book p912)"
   },
   {
    "id": "MED-C43-037",
-   "sec": "Thionamides, RAI and surgical management of thyrotoxicosis",
-   "page": 912,
-   "fmt": "truefalse",
-   "q": "Assess treatment duration: I Antithyroid drug course is typically 12–18 months. II Most Graves patients achieve permanent remission with thionamides alone.",
+   "sec": "Ancillary Labs, Thionamides, RAI & Surgical Indications",
+   "page": 913,
+   "fmt": "recall",
+   "q": "Which ancillary laboratory abnormalities are listed under 'Other laboratory findings' in thyrotoxicosis on page 913?",
    "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
+    "Hyperglycemia, Hypercalcemia, Leukocytosis, ALP ↑, LFT ↑",
+    "Hypoglycemia, severe hypocalcemia, and leukopenia",
+    "Hyperkalemia, hyperphosphatemia, and isolated amylase elevation",
+    "Hyponatremia, metabolic alkalosis, and thrombocytosis"
    ],
    "ans": 0,
-   "exp": "A typical course is 12–18 months; permanent remission occurs in roughly half of patients, not most. (Book p912)"
+   "exp": "Other laboratory findings on page 913: Hyperglycemia, Hypercalcemia, Leucocytosis, ALP ↑, and LFT ↑. (Book p913)"
   },
   {
    "id": "MED-C43-038",
-   "sec": "Thyroid storm, neonatal thyrotoxicosis, surgery complications",
+   "sec": "Ancillary Labs, Thionamides, RAI & Surgical Indications",
    "page": 913,
-   "fmt": "match",
-   "q": "Match the following thyroid-storm feature — 1) Trigger 2) Burch-Wartofsky component 3) First-line thionamide 4) Adjunct … A) Infection / surgery / trauma B) Score ≥ 45 suggests storm C) Propylthiouracil D) Iodine (≥1 h after thionamide) + beta-blocker + steroid",
+   "fmt": "numeric",
+   "q": "What is the expected remission rate with anti-thyroid drug therapy in Graves' disease after 12 to 18 months?",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-B, 3-C, 4-A"
+    "60 - 70%",
+    "20 - 30%",
+    "40 - 50%",
+    "90 - 95%"
    ],
    "ans": 0,
-   "exp": "Triggers include infection, surgery and trauma; Burch-Wartofsky ≥ 45 suggests storm; PTU is preferred in storm; iodine is given at least one hour after thionamide along with beta-blocker and steroid. (Book p913)"
+   "exp": "Under Treatment: Anti-thyroid drugs achieve '60-70% : Remission In 12-18 months'. (Book p913)"
   },
   {
    "id": "MED-C43-039",
-   "sec": "Thyroid storm, neonatal thyrotoxicosis, surgery complications",
-   "page": 913,
-   "fmt": "scenario",
-   "q": "A patient with Graves disease post-appendicectomy has fever 39.5 °C, HR 158/min, agitation and jaundice. The most likely diagnosis is:",
-   "opts": [
-    "Septic shock alone",
-    "Neuroleptic malignant syndrome",
-    "Malignant hyperthermia",
-    "Thyroid storm (correct answer)"
-   ],
-   "ans": 3,
-   "exp": "High fever, tachyarrhythmia, agitation and jaundice after a precipitating event in Graves fit thyroid storm. (Book p913)"
-  },
-  {
-   "id": "MED-C43-040",
-   "sec": "Thyroid storm, neonatal thyrotoxicosis, surgery complications",
-   "page": 913,
-   "fmt": "truefalse",
-   "q": "Assess thyroid storm management: I Iodine should precede the thionamide. II IV hydrocortisone is part of the regimen.",
-   "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
-   ],
-   "ans": 0,
-   "exp": "Iodine is given at least one hour after the thionamide to avoid substrate for new hormone; hydrocortisone covers possible adrenal insufficiency and reduces T4-to-T3 conversion. (Book p913)"
-  },
-  {
-   "id": "MED-C43-041",
-   "sec": "Thyroid storm, neonatal thyrotoxicosis, surgery complications",
-   "page": 913,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a treatment used in thyroid storm?",
-   "opts": [
-    "Propylthiouracil",
-    "Propranolol",
-    "Hydrocortisone",
-    "Lithium reinfusion"
-   ],
-   "ans": 3,
-   "exp": "PTU, propranolol and hydrocortisone are standard; lithium is not standard storm therapy (it can be adjunct in severe cases but not routine). (Book p913)"
-  },
-  {
-   "id": "MED-C43-042",
-   "sec": "Thyroid storm, neonatal thyrotoxicosis, surgery complications",
-   "page": 913,
-   "fmt": "fillup",
-   "q": "The Burch-Wartofsky score ≥ ___ suggests thyroid storm.",
-   "opts": [
-    "45",
-    "20",
-    "70",
-    "10"
-   ],
-   "ans": 0,
-   "exp": "A score of 45 or more on the Burch-Wartofsky scale is highly suggestive of thyroid storm. (Book p913)"
-  },
-  {
-   "id": "MED-C43-043",
-   "sec": "Thyroid storm, neonatal thyrotoxicosis, surgery complications",
+   "sec": "Ancillary Labs, Thionamides, RAI & Surgical Indications",
    "page": 913,
    "fmt": "match",
-   "q": "Match the following context — 1) Neonatal thyrotoxicosis 2) Postpartum Graves 3) Subclinical thyrotoxicosis 4) Apathetic thyrotoxicosis … A) Transplacental TRAb; treat with thionamide B) May flare after delivery C) TSH < 0.1 with normal free hormones D) Elderly with apathy rather than hyperactivity",
+   "q": "Match the equivalent thionamide doses from the potency equivalence formula on page 913 — 1) Methimazole 2) Carbimazole 3) Propylthiouracil (PTU) … A) 6 mg B) 10 mg C) 100 mg",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-D, 2-B, 3-C, 4-A"
-   ],
-   "ans": 0,
-   "exp": "Neonatal thyrotoxicosis is from transplacental TRAb; postpartum Graves may flare after delivery; subclinical thyrotoxicosis has low TSH with normal free hormones; apathetic thyrotoxicosis presents with apathy in elderly. (Book p913)"
-  },
-  {
-   "id": "MED-C43-044",
-   "sec": "Thyroid storm, neonatal thyrotoxicosis, surgery complications",
-   "page": 913,
-   "fmt": "scenario",
-   "q": "A neonate born to a mother with active Graves disease has tachycardia, irritability and poor weight gain. The most appropriate therapy is:",
-   "opts": [
-    "Total thyroidectomy",
-    "Levothyroxine (alternative)",
-    "Methimazole + propranolol",
-    "Radioiodine (alternative)"
-   ],
-   "ans": 2,
-   "exp": "Neonatal thyrotoxicosis is treated with thionamide (methimazole preferred after first weeks) plus a beta-blocker; iodide can be added. (Book p913)"
-  },
-  {
-   "id": "MED-C43-045",
-   "sec": "Thyroid storm, neonatal thyrotoxicosis, surgery complications",
-   "page": 913,
-   "fmt": "truefalse",
-   "q": "Assess neonatal thyrotoxicosis: I It is caused by transplacental TSH-receptor antibodies. II It typically resolves as maternal antibodies clear over weeks.",
-   "opts": [
-    "I true; II false",
-    "I false; II true",
-    "Both false",
-    "Both true"
-   ],
-   "ans": 3,
-   "exp": "Maternal TRAb crosses the placenta; symptoms resolve over weeks to months as antibodies wane. (Book p913)"
-  },
-  {
-   "id": "MED-C43-046",
-   "sec": "Thyroid storm, neonatal thyrotoxicosis, surgery complications",
-   "page": 913,
-   "fmt": "match",
-   "q": "Match the following surgical complication of thyroidectomy — 1) Hypoparathyroidism 2) Recurrent laryngeal nerve injury 3) Haematoma with airway compromise 4) Hypothyroidism … A) Hypocalcaemia with tetany B) Hoarseness / stridor C) Emergency airway decompression D) Expected after total thyroidectomy",
-   "opts": [
-    "1-A, 2-D, 3-B, 4-C",
-    "1-B, 2-A, 3-D, 4-C",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D"
-   ],
-   "ans": 2,
-   "exp": "Hypoparathyroidism causes hypocalcaemia and tetany; recurrent laryngeal nerve injury causes hoarseness or stridor; neck haematoma is an airway emergency; hypothyroidism is expected after total thyroidectomy. (Book p913)"
-  },
-  {
-   "id": "MED-C43-047",
-   "sec": "Thyroid storm, neonatal thyrotoxicosis, surgery complications",
-   "page": 913,
-   "fmt": "scenario",
-   "q": "A patient has stridor and a tense neck haematoma within hours of thyroidectomy. The next step is:",
-   "opts": [
-    "CT scan of the neck before intervention",
-    "Intubation only after imaging",
-    "Emergency wound decompression at the bedside",
-    "IV calcium gluconate only"
-   ],
-   "ans": 2,
-   "exp": "Post-thyroidectomy haematoma with airway compromise requires immediate opening of the wound at the bedside before definitive airway. (Book p913)"
-  },
-  {
-   "id": "MED-C43-048",
-   "sec": "Thyroid storm, neonatal thyrotoxicosis, surgery complications",
-   "page": 913,
-   "fmt": "fillup",
-   "q": "Bilateral recurrent laryngeal nerve injury post-thyroidectomy can cause ___.",
-   "opts": [
-    "Recurrent thyrotoxicosis (alternative)",
-    "Hypothyroid storm (alternative)",
-    "Bilateral vocal-cord paralysis and airway obstruction",
-    "Hypercalcaemia (alternative)"
-   ],
-   "ans": 2,
-   "exp": "Bilateral injury causes vocal-cord paralysis in the adducted position and acute airway obstruction requiring tracheostomy. (Book p913)"
-  },
-  {
-   "id": "MED-C43-049",
-   "sec": "Thyroid storm, neonatal thyrotoxicosis, surgery complications",
-   "page": 913,
-   "fmt": "truefalse",
-   "q": "Assess surgery in Graves: I Total thyroidectomy achieves rapid control. II It is preferred in patients with active moderate ophthalmopathy.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Total thyroidectomy rapidly controls hyperthyroidism and is preferred in active ophthalmopathy to avoid RAI-induced flare. (Book p913)"
-  },
-  {
-   "id": "MED-C43-050",
-   "sec": "Thyroiditis classification",
-   "page": 914,
-   "fmt": "match",
-   "q": "Match the following thyroiditis to its feature — 1) Hashimoto 2) Subacute (de Quervain) 3) Postpartum 4) Acute suppurative … A) Painless firm goitre with anti-TPO B) Painful tender thyroid with raised ESR C) Within 12 months of delivery D) Bacterial, painful, requires drainage",
-   "opts": [
-    "1-D, 2-B, 3-A, 4-C",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B"
-   ],
-   "ans": 1,
-   "exp": "Hashimoto presents with painless firm goitre and high anti-TPO; subacute thyroiditis is painful with raised ESR; postpartum thyroiditis occurs within 12 months of delivery; acute suppurative thyroiditis is bacterial and needs drainage. (Book p914)"
-  },
-  {
-   "id": "MED-C43-051",
-   "sec": "Thyroiditis classification",
-   "page": 914,
-   "fmt": "scenario",
-   "q": "A 28-year-old woman 5 months postpartum has painless thyroid enlargement with suppressed TSH and raised anti-TPO. The most likely diagnosis is:",
-   "opts": [
-    "Iodine deficiency",
-    "Postpartum thyroiditis",
-    "Graves disease",
-    "Subacute thyroiditis"
-   ],
-   "ans": 1,
-   "exp": "Painless thyroid dysfunction within 12 months of delivery with positive anti-TPO fits postpartum thyroiditis. (Book p914)"
-  },
-  {
-   "id": "MED-C43-052",
-   "sec": "Thyroiditis classification",
-   "page": 914,
-   "fmt": "truefalse",
-   "q": "Assess postpartum thyroiditis: I It typically follows a thyrotoxic then hypothyroid course. II It is usually self-limiting.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Postpartum thyroiditis often biphasic (toxic → hypo) and resolves within 12–18 months; some patients progress to permanent hypothyroidism. (Book p914)"
-  },
-  {
-   "id": "MED-C43-053",
-   "sec": "Thyroiditis classification",
-   "page": 914,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a feature distinguishing subacute thyroiditis from Graves?",
-   "opts": [
-    "Painless diffuse goitre with bruit",
-    "Markedly raised ESR",
-    "Low uptake on scan (alternative)",
-    "Tender painful thyroid"
-   ],
-   "ans": 3,
-   "exp": "Painless diffuse goitre with bruit is Graves; tenderness, very high ESR and low uptake are subacute thyroiditis. (Book p914)"
-  },
-  {
-   "id": "MED-C43-054",
-   "sec": "Thyroiditis classification",
-   "page": 914,
-   "fmt": "fillup",
-   "q": "The classic viral prodrome and painful thyroid of subacute thyroiditis is treated symptomatically with ___.",
-   "opts": [
-    "Radioiodine (alternative)",
-    "Total thyroidectomy",
-    "NSAIDs and beta-blocker",
-    "Antithyroid drugs"
-   ],
-   "ans": 2,
-   "exp": "Subacute thyroiditis is treated with NSAIDs for pain and beta-blocker for thyrotoxic symptoms; thionamides are not effective. (Book p914)"
-  },
-  {
-   "id": "MED-C43-055",
-   "sec": "Thyroiditis classification",
-   "page": 914,
-   "fmt": "match",
-   "q": "Match the following thyroiditis to its uptake scan — 1) Hashimoto 2) Subacute 3) Postpartum 4) Acute suppurative … A) Variable B) Low uptake C) Low uptake D) Low uptake (cold abscess)",
-   "opts": [
-    "1-A, 2-C, 3-D, 4-B",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D"
-   ],
-   "ans": 2,
-   "exp": "Hashimoto uptake is variable; subacute, postpartum and acute suppurative thyroiditis all show low uptake due to glandular destruction. (Book p914)"
-  },
-  {
-   "id": "MED-C43-056",
-   "sec": "Thyroiditis classification",
-   "page": 914,
-   "fmt": "scenario",
-   "q": "A 35-year-old has neck pain, fever 38.5 °C and a tender thyroid with ESR 90 mm/h one week after a viral URI. The most consistent diagnosis is:",
-   "opts": [
-    "Graves disease (alternative)",
-    "Acute suppurative thyroiditis",
-    "Riedel thyroiditis (alternative)",
-    "Subacute (de Quervain) thyroiditis"
-   ],
-   "ans": 3,
-   "exp": "Painful tender thyroid with high ESR after a viral illness fits subacute (de Quervain) thyroiditis. (Book p914)"
-  },
-  {
-   "id": "MED-C43-057",
-   "sec": "Thyroiditis classification",
-   "page": 914,
-   "fmt": "truefalse",
-   "q": "Assess thyroiditis treatment: I Antithyroid drugs are first-line for subacute thyroiditis. II NSAIDs are effective for the pain of subacute thyroiditis.",
-   "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
-   ],
-   "ans": 0,
-   "exp": "NSAIDs (and corticosteroids in severe cases) manage pain; thionamides are not effective because hormone is released, not synthesised. (Book p914)"
-  },
-  {
-   "id": "MED-C43-058",
-   "sec": "Thyroiditis classification",
-   "page": 914,
-   "fmt": "match",
-   "q": "Match the following thyroiditis to the preferred treatment — 1) Subacute 2) Postpartum 3) Acute suppurative 4) Hashimoto with hypothyroidism … A) NSAIDs + beta-blocker B) Beta-blocker ± levothyroxine C) IV antibiotics + drainage D) Levothyroxine replacement",
-   "opts": [
-    "1-B, 2-C, 3-A, 4-D",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C"
-   ],
-   "ans": 1,
-   "exp": "Subacute thyroiditis uses NSAIDs and beta-blocker; postpartum thyroiditis is supportive with beta-blocker and levothyroxine in the hypothyroid phase; acute suppurative thyroiditis needs IV antibiotics and drainage; hypothyroid Hashimoto needs levothyroxine. (Book p914)"
-  },
-  {
-   "id": "MED-C43-059",
-   "sec": "Thyroiditis classification",
-   "page": 914,
-   "fmt": "scenario",
-   "q": "A patient has fever, severe neck pain and fluctuant thyroid swelling with overlying erythema. The most appropriate next step is:",
-   "opts": [
-    "Radioiodine ablation",
-    "IV antibiotics and surgical drainage",
-    "Oral NSAIDs only (alternative)",
-    "Thionamide therapy (alternative)"
-   ],
-   "ans": 1,
-   "exp": "Acute suppurative thyroiditis is a surgical infection requiring IV antibiotics and drainage. (Book p914)"
-  },
-  {
-   "id": "MED-C43-060",
-   "sec": "Thyroiditis classification",
-   "page": 914,
-   "fmt": "fillup",
-   "q": "Postpartum thyroiditis occurs within ___ months of delivery.",
-   "opts": [
-    "At 12 weeks gestation",
-    "1 (alternative)",
-    "24",
-    "48"
-   ],
-   "ans": 0,
-   "exp": "Postpartum thyroiditis is defined within 12 months of delivery, often biphasic with recovery over 12–18 months. (Book p914)"
-  },
-  {
-   "id": "MED-C43-061",
-   "sec": "Thyroiditis classification",
-   "page": 914,
-   "fmt": "truefalse",
-   "q": "Assess thyroiditis associations: I Subacute thyroiditis may follow mumps, measles or coxsackievirus. II Painless thyroiditis is typically postpartum.",
-   "opts": [
-    "I true; II false",
-    "I false; II true",
-    "Both false",
-    "Both true"
-   ],
-   "ans": 3,
-   "exp": "Subacute thyroiditis is associated with viral infections; painless thyroiditis typically refers to postpartum and silent variants. (Book p914)"
-  },
-  {
-   "id": "MED-C43-062",
-   "sec": "Subacute and postpartum thyroiditis course",
-   "page": 915,
-   "fmt": "match",
-   "q": "Match the following thyroiditis phase to its expected TFT pattern — 1) Hyperthyroid phase 2) Hypothyroid phase 3) Recovery … A) ↑FT4, ↓TSH, low uptake, raised ESR B) ↓FT4, ↑TSH, low uptake C) Normal TFTs and ESR",
-   "opts": [
-    "1-C, 2-A, 3-B",
-    "1-A, 2-C, 3-B",
     "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
     "1-A, 2-B, 3-C"
    ],
    "ans": 3,
-   "exp": "Hyperthyroid phase has high free T4/T3 with low TSH and raised ESR; hypothyroid phase has low free hormone with high TSH; recovery normalises both TFTs and ESR. (Book p915)"
+   "exp": "Dose equivalence formula: 'methimazole (6 mg) = Carbimazole (10 mg) = Propylthiouracil (100 mg)'. (Book p913)"
+  },
+  {
+   "id": "MED-C43-040",
+   "sec": "Ancillary Labs, Thionamides, RAI & Surgical Indications",
+   "page": 913,
+   "fmt": "recall",
+   "q": "Why is Propylthiouracil (PTU) preferred in pregnancy despite being hepatotoxic?",
+   "opts": [
+    "Increased plasma protein binding reduces transplacental transfer to the fetus",
+    "It has an exceptionally long 24-hour half-life",
+    "It is an irreversible inhibitor of iodide uptake",
+    "It has zero risk of causing maternal agranulocytosis"
+   ],
+   "ans": 0,
+   "exp": "Under Propylthiouracil: 'Preferred in Pregnancy', '↑ Plasma protein binding', and 'Hepatotoxic (Not preferred now)'. (Book p913)"
+  },
+  {
+   "id": "MED-C43-041",
+   "sec": "Ancillary Labs, Thionamides, RAI & Surgical Indications",
+   "page": 913,
+   "fmt": "truefalse",
+   "q": "Compare Carbimazole and Methimazole properties on page 913: I Carbimazole is preferred over PTU, dosed 5 mg TDS daily, with a half-life of 6-8 hours. II Methimazole is an irreversible inhibitor with a 6-hour half-life, but is teratogenic causing aplasia cutis and choanal atresia.",
+   "opts": [
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false",
+    "Both I and II are true"
+   ],
+   "ans": 3,
+   "exp": "Both statements match the descriptions of Carbimazole and Methimazole on page 913. (Book p913)"
+  },
+  {
+   "id": "MED-C43-042",
+   "sec": "Ancillary Labs, Thionamides, RAI & Surgical Indications",
+   "page": 913,
+   "fmt": "match",
+   "q": "Match the thionamide adverse effect to its clinical status — 1) Rash 2) Agranulocytosis 3) Hepatobiliary / Autoimmune … A) Most common (m/c) side effect B) Most dangerous side effect C) Cholestasis, Drug-induced lupus",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Side effects: Rash (m/c), Agranulocytosis (most dangerous), Cholestasis, and Drug-induced lupus. (Book p913)"
+  },
+  {
+   "id": "MED-C43-043",
+   "sec": "Ancillary Labs, Thionamides, RAI & Surgical Indications",
+   "page": 913,
+   "fmt": "scenario",
+   "q": "A 30-year-old woman with Graves' disease started on carbimazole 2 weeks ago presents with high fever, mouth ulcers, and a severe sore throat. What is the most critical and dangerous side effect to rule out immediately?",
+   "opts": [
+    "Agranulocytosis",
+    "Drug-induced lupus",
+    "Intrahepatic cholestasis",
+    "Allergic maculopapular rash"
+   ],
+   "ans": 0,
+   "exp": "Agranulocytosis is noted as the 'most dangerous' side effect of thionamides; high fever and sore throat require an urgent complete blood count. (Book p913)"
+  },
+  {
+   "id": "MED-C43-044",
+   "sec": "Ancillary Labs, Thionamides, RAI & Surgical Indications",
+   "page": 913,
+   "fmt": "fillup",
+   "q": "In the titration regimen for antithyroid drugs, the patient should be revisited at ___ weeks to monitor ___ and ___ values.",
+   "opts": [
+    "3 months; anti-TPO titers",
+    "6 months; urinary iodine excretion",
+    "4 - 6 weeks; free T3 and free T4",
+    "1 - 2 weeks; TSH only"
+   ],
+   "ans": 2,
+   "exp": "Under Titration regimen: 'Revisit : 4-6 weeks, monitor free T3 and free T4 values'. (Book p913)"
+  },
+  {
+   "id": "MED-C43-045",
+   "sec": "Ancillary Labs, Thionamides, RAI & Surgical Indications",
+   "page": 913,
+   "fmt": "recall",
+   "q": "What is the recommended dose and schedule of propranolol for thyrotoxic symptom control on page 913?",
+   "opts": [
+    "10 mg once daily",
+    "80 mg at bedtime",
+    "20 mg TDS",
+    "40 mg Q6H"
+   ],
+   "ans": 3,
+   "exp": "Item 2 under Treatment: 'Propranolol : 40 mg Q6H'. (Book p913)"
+  },
+  {
+   "id": "MED-C43-046",
+   "sec": "Ancillary Labs, Thionamides, RAI & Surgical Indications",
+   "page": 913,
+   "fmt": "truefalse",
+   "q": "Regarding Radioactive Iodine (RAI) in relapsed Graves': I Patient must be made euthyroid with minimum 1 month of antithyroid drugs prior to RAI to prevent thyrotoxic crisis. II RAI has a proven direct association with secondary malignancy risk.",
+   "opts": [
+    "I is false; II is true",
+    "Both I and II are false",
+    "I is true; II is false",
+    "Both I and II are true"
+   ],
+   "ans": 2,
+   "exp": "Page 913 specifies: 'Before initiating make patient euthyroid: minimum 1 month anti-thyroid drugs (to prevent thyrotoxicosis)' and 'No association with cancer risk'. (Book p913)"
+  },
+  {
+   "id": "MED-C43-047",
+   "sec": "Ancillary Labs, Thionamides, RAI & Surgical Indications",
+   "page": 913,
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed as a disadvantage or contraindication of radioactive iodine (RAI) on page 913?",
+   "opts": [
+    "Increased risk / aggravation of eye disease",
+    "Lifelong L-thyroxine required in 10% of the population",
+    "High risk of subsequent thyroid carcinoma",
+    "Contraindicated in pregnancy"
+   ],
+   "ans": 2,
+   "exp": "Page 913 explicitly notes: 'No association with cancer risk'. Disadvantages listed are C/I in pregnancy, eye disease (↑ risk), and lifelong L-thyroxine required (10%). (Book p913)"
+  },
+  {
+   "id": "MED-C43-048",
+   "sec": "Ancillary Labs, Thionamides, RAI & Surgical Indications",
+   "page": 913,
+   "fmt": "management",
+   "q": "In a patient with Graves' disease and severe, active ophthalmopathy, what medical regimen is recommended on page 913?",
+   "opts": [
+    "Propylthiouracil monotherapy with external cold compresses",
+    "Immediate total thyroidectomy preceded by potassium perchlorate",
+    "IV Steroid + Rituximab ± Radiotherapy",
+    "Radioactive iodine ablation with high-dose aspirin"
+   ],
+   "ans": 2,
+   "exp": "Under In relapse cases: 'In Severe Ophthalmopathy : IV Steroid + Rituximab ± Radiotherapy'. (Book p913)"
+  },
+  {
+   "id": "MED-C43-049",
+   "sec": "Ancillary Labs, Thionamides, RAI & Surgical Indications",
+   "page": 913,
+   "fmt": "oddoneout",
+   "q": "If radiotherapy is contraindicated or not possible, surgery is indicated for all of the following EXCEPT:",
+   "opts": [
+    "Mild asymptomatic euthyroid ophthalmopathy alone",
+    "Biopsy suspicious of malignancy",
+    "Concurrent hyperparathyroidism or compressive symptoms",
+    "Pregnancy / lactation and young children"
+   ],
+   "ans": 0,
+   "exp": "Surgical indications on page 913: biopsy suspicious of malignancy, hyperparathyroidism, pregnancy/lactation, young children, and compressive symptoms. (Book p913)"
+  },
+  {
+   "id": "MED-C43-050",
+   "sec": "Thyroid Storm Protocol & Acute, Subacute, Chronic Thyroiditis",
+   "page": 914,
+   "fmt": "match",
+   "q": "Match the clinical features of thyrotoxic crisis (thyroid storm) — 1) Predisposing factors 2) Presenting features … A) Inadequate treatment before radiotherapy, surgery, acute illness B) Arrhythmia, fever with delirium, seizures",
+   "opts": [
+    "1-B, 2-B",
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A"
+   ],
+   "ans": 1,
+   "exp": "Predisposing factors: inadequate treatment before radiotherapy, surgery, illness; Presenting features: arrhythmia, fever with delirium, seizure. (Book p914)"
+  },
+  {
+   "id": "MED-C43-051",
+   "sec": "Thyroid Storm Protocol & Acute, Subacute, Chronic Thyroiditis",
+   "page": 914,
+   "fmt": "management",
+   "q": "What is the specific dosing regimen of Propylthiouracil (PTU) in the management of thyrotoxic crisis on page 914?",
+   "opts": [
+    "2000 mg as a single daily dose",
+    "1000 mg stat loading dose, followed by 250 mg Q4H",
+    "100 mg stat, followed by 50 mg TDS",
+    "500 mg BD with meals"
+   ],
+   "ans": 1,
+   "exp": "Under thyrotoxic crisis management: 'Propylthiouracil : 1000mg stat -> 250mg Q4H'. (Book p914)"
+  },
+  {
+   "id": "MED-C43-052",
+   "sec": "Thyroid Storm Protocol & Acute, Subacute, Chronic Thyroiditis",
+   "page": 914,
+   "fmt": "fillup",
+   "q": "In thyrotoxic crisis management, oral iodine is administered as ___ (500 mg BD) to exploit the ___ effect.",
+   "opts": [
+    "Iopanoic acid; Wolff-Chaikoff",
+    "Lugol's iodine; Jod-Basedow",
+    "Potassium iodide; escape",
+    "Radioactive I-131; ablative"
+   ],
+   "ans": 0,
+   "exp": "Under management: 'Oral iodine : Iopanoic acid 500mg BD (Wolff-Chaikoff effect)'. (Book p914)"
+  },
+  {
+   "id": "MED-C43-053",
+   "sec": "Thyroid Storm Protocol & Acute, Subacute, Chronic Thyroiditis",
+   "page": 914,
+   "fmt": "recall",
+   "q": "What is the propranolol dose specified for thyrotoxic crisis on page 914?",
+   "opts": [
+    "40 mg Q6H",
+    "10 mg Q8H",
+    "80 mg once daily",
+    "60 mg Q4H"
+   ],
+   "ans": 3,
+   "exp": "For thyrotoxic crisis, propranolol is dosed at '60mg Q4H' (compared to 40 mg Q6H in routine thyrotoxicosis). (Book p914)"
+  },
+  {
+   "id": "MED-C43-054",
+   "sec": "Thyroid Storm Protocol & Acute, Subacute, Chronic Thyroiditis",
+   "page": 914,
+   "fmt": "match",
+   "q": "Match the etiology of acute thyroiditis to its clinical features — 1) Post-infection 2) Non-infectious acute causes … A) Children, follows staph/strep, pyriform sinus site, normal TFT, pain B) Radiation induced, trauma induced",
+   "opts": [
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-A, 2-B",
+    "1-B, 2-A"
+   ],
+   "ans": 2,
+   "exp": "Acute thyroiditis branches into: Post-infection (children, follows staph/strep, site: piriform sinus, TFT normal, pain), Radiation induced, and Trauma induced. (Book p914)"
+  },
+  {
+   "id": "MED-C43-055",
+   "sec": "Thyroid Storm Protocol & Acute, Subacute, Chronic Thyroiditis",
+   "page": 914,
+   "fmt": "scenario",
+   "q": "An 8-year-old child presents with sudden severe anterior neck tenderness and fever following streptococcal pharyngitis. TFTs are completely normal. Scintigraphy reveals an infected tract originating from the piriform sinus. What is the diagnosis?",
+   "opts": [
+    "Riedel's chronic thyroiditis",
+    "Graves thyrotoxic crisis",
+    "Acute post-infection thyroiditis",
+    "Subacute de Quervain thyroiditis"
+   ],
+   "ans": 2,
+   "exp": "Acute post-infection thyroiditis occurs in children, follows staph/strep, arises from a piriform sinus fistula, presents with pain, and has normal TFTs. (Book p914)"
+  },
+  {
+   "id": "MED-C43-056",
+   "sec": "Thyroid Storm Protocol & Acute, Subacute, Chronic Thyroiditis",
+   "page": 914,
+   "fmt": "truefalse",
+   "q": "Assess acute thyroiditis: I Thyroid function tests (TFT) are characteristically normal. II Local pain is the primary presenting symptom.",
+   "opts": [
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false",
+    "Both I and II are true"
+   ],
+   "ans": 3,
+   "exp": "For Acute Thyroiditis: 'TFT : Normal' and 'Symptom : Pain'. (Book p914)"
+  },
+  {
+   "id": "MED-C43-057",
+   "sec": "Thyroid Storm Protocol & Acute, Subacute, Chronic Thyroiditis",
+   "page": 914,
+   "fmt": "match",
+   "q": "Match the synonymous names for Subacute Thyroiditis — 1) Eponymous designation 2) Pathological designation 3) Viral relationship … A) De Quervain's thyroiditis B) Granulomatous thyroiditis C) Post-viral (with no direct viral association established)",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Under Subacute Thyroiditis: 'De Quervain's/Subacute thyroiditis : AKA Granulomatous/viral thyroiditis. Post-viral (no viral association)'. (Book p914)"
+  },
+  {
+   "id": "MED-C43-058",
+   "sec": "Thyroid Storm Protocol & Acute, Subacute, Chronic Thyroiditis",
+   "page": 914,
+   "fmt": "recall",
+   "q": "Which HLA allele is strongly associated with subacute (de Quervain's) thyroiditis on page 914?",
+   "opts": [
+    "HLA-B27",
+    "HLA-B35",
+    "HLA-DR2",
+    "HLA-B8"
+   ],
+   "ans": 1,
+   "exp": "Under Subacute Thyroiditis Features: 'HLA : B-35'. (Book p914)"
+  },
+  {
+   "id": "MED-C43-059",
+   "sec": "Thyroid Storm Protocol & Acute, Subacute, Chronic Thyroiditis",
+   "page": 914,
+   "fmt": "fillup",
+   "q": "On radionuclide scintigraphy, subacute (de Quervain's) thyroiditis characteristically shows ___ uptake.",
+   "opts": [
+    "Patchy hyperfunctioning uptake",
+    "No uptake (absent uptake)",
+    "Intense diffuse uptake (75-80%)",
+    "Solitary 'hot' nodule uptake"
+   ],
+   "ans": 1,
+   "exp": "Features of subacute thyroiditis: 'No uptake in Scintigraphy', also depicted in the scan image 'Subacute thyroiditis : No uptake in scintigraphy'. (Book p914)"
+  },
+  {
+   "id": "MED-C43-060",
+   "sec": "Thyroid Storm Protocol & Acute, Subacute, Chronic Thyroiditis",
+   "page": 914,
+   "fmt": "scenario",
+   "q": "A 52-year-old man presents with a stony hard, painless neck mass with dense fibrous tissue infiltrating adjacent soft tissues. Serology reveals elevated IgG4 levels. What is the diagnosis?",
+   "opts": [
+    "Riedel's thyroiditis (IgG4-related disease)",
+    "Subacute granulomatous thyroiditis",
+    "Acute suppurative thyroiditis",
+    "Anaplastic thyroid carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Chronic Thyroiditis includes Riedel's thyroiditis: 'AKA IgG4-related disease, Painless hard thyroid, Dense fibrosis'. (Book p914)"
+  },
+  {
+   "id": "MED-C43-061",
+   "sec": "Thyroid Storm Protocol & Acute, Subacute, Chronic Thyroiditis",
+   "page": 914,
+   "fmt": "truefalse",
+   "q": "Assess Riedel's thyroiditis on page 914: I It is recognized as an IgG4-related disease. II The physical hallmark is a painless, hard thyroid with dense fibrosis.",
+   "opts": [
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false",
+    "Both I and II are true"
+   ],
+   "ans": 3,
+   "exp": "Riedel's thyroiditis: AKA IgG4-related disease, Painless hard thyroid, Dense fibrosis. (Book p914)"
+  },
+  {
+   "id": "MED-C43-062",
+   "sec": "Subacute Thyroiditis Triphasic Curve & Postpartum Comparison",
+   "page": 915,
+   "fmt": "recall",
+   "q": "What initial mechanism triggers the clinical presentation and thyrotoxic phase of subacute thyroiditis?",
+   "opts": [
+    "New autonomous hormone hyper-synthesis driven by TRAb",
+    "Excessive peripheral T4 to T3 conversion by deiodinase-2",
+    "Ectopic thyroid tissue activation in ovarian teratoma",
+    "Stored hormone release from damaged thyroid follicles"
+   ],
+   "ans": 3,
+   "exp": "Under mechanism: 'Stored hormone release -> ↑ Free T3, ↑ Free T4, ↓ TSH, T3/T4 < 15'. (Book p915)"
   },
   {
    "id": "MED-C43-063",
-   "sec": "Subacute and postpartum thyroiditis course",
+   "sec": "Subacute Thyroiditis Triphasic Curve & Postpartum Comparison",
    "page": 915,
-   "fmt": "scenario",
-   "q": "An outpatient with subacute thyroiditis at week 6 still has fatigue, weight gain and a TSH of 12 mIU/L. The most appropriate therapy is:",
+   "fmt": "match",
+   "q": "Match the early presentation findings of subacute thyroiditis — 1) Systemic sign 2) Gland pain 3) Inflammatory marker … A) Fever > 2 weeks B) Neck pain / sore throat / ear pain C) Markedly elevated ESR (↑↑ ESR)",
    "opts": [
-    "NSAIDs only (alternative)",
-    "Levothyroxine replacement during the hypothyroid phase",
-    "Methimazole (alternative)",
-    "Radioiodine ablation (alternative)"
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 1,
-   "exp": "The hypothyroid phase is treated with levothyroxine; thionamides are ineffective because hormone is not being synthesised. (Book p915)"
+   "exp": "Early presentation: Fever > 2 weeks; Pain in the gland: Neck pain / Sore throat / Ear pain; and ↑↑ ESR. (Book p915)"
   },
   {
    "id": "MED-C43-064",
-   "sec": "Subacute and postpartum thyroiditis course",
+   "sec": "Subacute Thyroiditis Triphasic Curve & Postpartum Comparison",
    "page": 915,
-   "fmt": "truefalse",
-   "q": "Assess postpartum thyroiditis: I Anti-TPO antibodies predict higher risk. II Permanent hypothyroidism develops in a minority.",
+   "fmt": "numeric",
+   "q": "Once stored hormones are exhausted in subacute thyroiditis, what percentage of patients develop permanent hypothyroidism?",
    "opts": [
-    "Both false",
-    "Both true",
-    "I true; II false",
-    "I false; II true"
+    "85%",
+    "15%",
+    "50%",
+    "2%"
    ],
    "ans": 1,
-   "exp": "Anti-TPO positivity predicts postpartum thyroiditis; permanent hypothyroidism develops in roughly 20–30% of affected women. (Book p915)"
+   "exp": "Under mechanism: 'Stored hormone exhausted -> Hypothyroid (In 15% Permanent hypothyroid) -> Recovery'. (Book p915)"
   },
   {
    "id": "MED-C43-065",
-   "sec": "Subacute and postpartum thyroiditis course",
+   "sec": "Subacute Thyroiditis Triphasic Curve & Postpartum Comparison",
    "page": 915,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a feature of subacute thyroiditis (de Quervain)?",
+   "fmt": "scenario",
+   "q": "A 38-year-old woman presents with severe neck pain radiating to her ears, fever for 2 weeks, high ESR, and suppressed TSH with high free T4 (T3/T4 ratio < 15). What is the drug of choice (DOC) and its dose?",
    "opts": [
-    "Transient thyrotoxicosis",
-    "Diffuse painless goitre without ESR rise",
-    "Painful tender thyroid",
-    "Often follows viral infection"
+    "Levothyroxine 100 µg daily",
+    "Aspirin 600 mg Q6H (DOC)",
+    "Carbimazole 20 mg TDS",
+    "Propylthiouracil 500 mg stat"
    ],
    "ans": 1,
-   "exp": "Painless goitre without ESR rise fits painless/postpartum thyroiditis rather than the painful de Quervain subacute variant. (Book p915)"
+   "exp": "Under management: 'Aspirin 600 mg Q6H (DOC)', NSAIDS, Steroids. (Book p915)"
   },
   {
    "id": "MED-C43-066",
-   "sec": "Subacute and postpartum thyroiditis course",
+   "sec": "Subacute Thyroiditis Triphasic Curve & Postpartum Comparison",
    "page": 915,
-   "fmt": "fillup",
-   "q": "Pain in subacute thyroiditis typically responds to ___; corticosteroids are reserved for severe cases.",
+   "fmt": "match",
+   "q": "On the clinical course graph of subacute thyroiditis, match the time interval to its corresponding phase — 1) 0 - 6 weeks 2) 6 - 12 weeks 3) 12 - 18 weeks … A) Thyrotoxic phase (high urinary/serum T4, high ESR, low TSH) B) Hypothyroid phase (TSH rising, T4 falling) C) Recovery phase (normalization)",
    "opts": [
-    "Cholestyramine",
-    "Lithium (alternative)",
-    "NSAIDs (e.g. ibuprofen)",
-    "Methimazole (alternative)"
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C"
    ],
    "ans": 2,
-   "exp": "NSAIDs are first-line analgesia; corticosteroids are added in severe or refractory cases. (Book p915)"
+   "exp": "The graph shows: 0-6 weeks is the toxic phase; 6-12 weeks is the hypothyroid phase; 12-18 weeks is the recovery phase. (Book p915)"
   },
   {
    "id": "MED-C43-067",
-   "sec": "Subacute and postpartum thyroiditis course",
+   "sec": "Subacute Thyroiditis Triphasic Curve & Postpartum Comparison",
    "page": 915,
-   "fmt": "match",
-   "q": "Match the following graph feature — 1) X-axis 2) Y-axes (left/right) 3) Toxic phase timing … A) Time (weeks from onset) B) UT4 (left) and ESR (right) C) Weeks 0–4 typically thyrotoxic",
+   "fmt": "oddoneout",
+   "q": "Which of the following conditions is NOT associated with an elevated TSH level in the summary note on page 915?",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
-    "1-C, 2-A, 3-B",
-    "1-A, 2-C, 3-B"
+    "TSH Adenoma and recovery phase of thyroiditis",
+    "Central (secondary) hypothyroidism",
+    "1° Hypothyroid",
+    "Resistance to Thyroid hormone (RTH)"
    ],
    "ans": 1,
-   "exp": "The schematic plots time in weeks on the x-axis; UT4 (free T4) and ESR appear on the y-axes; the toxic phase occupies weeks 0–4 of illness. (Book p915)"
+   "exp": "Central hypothyroidism has a 'Normal TSH level' (with low peripheral hormones); elevated TSH is seen in 1° hypothyroid, RTH, TSH adenoma, and recovery phase of thyroiditis. (Book p915)"
   },
   {
    "id": "MED-C43-068",
-   "sec": "Subacute and postpartum thyroiditis course",
+   "sec": "Subacute Thyroiditis Triphasic Curve & Postpartum Comparison",
    "page": 915,
-   "fmt": "scenario",
-   "q": "At week 8 of subacute thyroiditis, the patient has normal free T4 and normal ESR. The best next step is:",
+   "fmt": "recall",
+   "q": "Per the summary note on page 915, what does a normal TSH level signify in a patient with low circulating thyroid hormones?",
    "opts": [
-    "Begin RAI (alternative)",
-    "Switch to amiodarone (alternative)",
-    "Continue to monitor with periodic TFTs",
-    "Restart methimazole (alternative)"
+    "Early toxic phase of subacute thyroiditis",
+    "Graves disease in complete remission",
+    "Central hypothyroidism",
+    "Primary autoimmune hypothyroidism"
    ],
    "ans": 2,
-   "exp": "Recovery normalises TFTs and ESR; further observation without specific therapy is appropriate, with follow-up for late hypothyroidism. (Book p915)"
+   "exp": "Page 915 explicitly states: 'Normal TSH level : Central hypothyroidism'. (Book p915)"
   },
   {
    "id": "MED-C43-069",
-   "sec": "Subacute and postpartum thyroiditis course",
+   "sec": "Subacute Thyroiditis Triphasic Curve & Postpartum Comparison",
    "page": 915,
-   "fmt": "truefalse",
-   "q": "Assess these statements: I Corticosteroids shorten painful phase but do not prevent hypothyroidism. II Subacute thyroiditis always recurs.",
+   "fmt": "fillup",
+   "q": "Postpartum thyroiditis is also known as ___ or ___ thyroiditis.",
    "opts": [
-    "I false; II true",
-    "Both true",
-    "Both false",
-    "I true; II false"
+    "Dense; fibrous",
+    "Suppurative; pyogenic",
+    "Painless; silent",
+    "Subacute; granulomatous"
    ],
    "ans": 2,
-   "exp": "Corticosteroids ease symptoms without altering the natural biphasic course; recurrence is uncommon though possible. (Book p915)"
+   "exp": "Under Postpartum thyroiditis: 'AKA Painless / silent thyroiditis'. (Book p915)"
   },
   {
    "id": "MED-C43-070",
-   "sec": "Subacute and postpartum thyroiditis course",
+   "sec": "Subacute Thyroiditis Triphasic Curve & Postpartum Comparison",
    "page": 915,
    "fmt": "match",
-   "q": "Match the following postpartum thyroiditis finding to its prevalence — 1) Anti-TPO positive 2) Symptomatic thyroid dysfunction 3) Permanent hypothyroidism … A) ~50% of women who develop it B) Up to 5–10% of pregnancies C) ~20–30% of cases",
+   "q": "Match the autoimmune diseases associated with postpartum thyroiditis — 1) Systemic Lupus Erythematosus (SLE) 2) Sjogren's syndrome 3) Endocrine / skin autoimmune … A) Connective tissue disease B) Exocrine gland sicca syndrome C) Type 1 Diabetes Mellitus (T1DM) / Vitiligo",
    "opts": [
     "1-A, 2-B, 3-C",
-    "1-C, 2-A, 3-B",
-    "1-A, 2-C, 3-B",
-    "1-B, 2-A, 3-C"
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Among women with postpartum thyroiditis, about half are anti-TPO positive; symptomatic disease occurs in 5–10% of pregnancies; permanent hypothyroidism develops in ~20–30% of cases. (Book p915)"
+   "exp": "Postpartum thyroiditis is seen in association with autoimmune diseases: SLE, Sjogren's syndrome, T1DM, and Vitiligo. (Book p915)"
   },
   {
    "id": "MED-C43-071",
-   "sec": "Subacute and postpartum thyroiditis course",
+   "sec": "Subacute Thyroiditis Triphasic Curve & Postpartum Comparison",
    "page": 915,
-   "fmt": "scenario",
-   "q": "A 32-year-old with postpartum thyroiditis asks about future pregnancies. Which statement is most consistent with the source?",
+   "fmt": "truefalse",
+   "q": "Compare pain and pregnancy timing in Subacute vs Postpartum thyroiditis: I Neck pain is present in subacute thyroiditis, but absent/silent in postpartum thyroiditis. II Subacute thyroiditis has no association with pregnancy, whereas postpartum thyroiditis occurs post partum.",
    "opts": [
-    "Permanent hypothyroidism is inevitable",
-    "Future pregnancies are unaffected",
-    "Recurrence risk is high in subsequent pregnancies",
-    "The disease does not recur (alternative)"
+    "I is false; II is true",
+    "Both I and II are false",
+    "Both I and II are true",
+    "I is true; II is false"
    ],
    "ans": 2,
-   "exp": "Recurrence in subsequent pregnancies is common; permanent hypothyroidism is possible but not inevitable. (Book p915)"
+   "exp": "Table comparisons: Pain is Present in subacute, Absent/silent in postpartum; Association with pregnancy is No in subacute, Post Partum in postpartum. (Book p915)"
   },
   {
    "id": "MED-C43-072",
-   "sec": "Subacute and postpartum thyroiditis course",
+   "sec": "Subacute Thyroiditis Triphasic Curve & Postpartum Comparison",
    "page": 915,
-   "fmt": "fillup",
-   "q": "Recurrent subacute thyroiditis occurs in roughly ___% of patients.",
+   "fmt": "match",
+   "q": "From the subacute vs postpartum thyroiditis comparison table, match the lab/treatment characteristics — 1) ESR 2) Anti-TPO antibody 3) Role of steroids … A) Subacute: ↑↑ ESR; -ve TPO Ab; Steroids: Yes B) Postpartum: Normal ESR; +ve TPO Ab; Steroids: No (β-blocker can be used)",
    "opts": [
-    "50",
-    "75",
-    "1–4",
-    "20"
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-A, 2-B",
+    "1-B, 2-A"
    ],
    "ans": 2,
-   "exp": "Recurrence after de Quervain thyroiditis is uncommon, around 1–4% in published series; the page emphasises the typically self-limiting nature. (Book p915)"
+   "exp": "Subacute has ↑↑ ESR, -ve TPO Ab, and steroids are useful (Yes); Postpartum has normal ESR, +ve TPO Ab, and no steroids (β-blockers used). (Book p915)"
   },
   {
    "id": "MED-C43-073",
-   "sec": "Subacute and postpartum thyroiditis course",
+   "sec": "Subacute Thyroiditis Triphasic Curve & Postpartum Comparison",
    "page": 915,
    "fmt": "truefalse",
-   "q": "Assess these caveats: I Postpartum thyroiditis can be mistaken for Graves disease initially. II Both disorders show low uptake on scan.",
+   "q": "Assess autoimmunity in these thyroiditides: I Subacute thyroiditis is an autoimmune disease. II Postpartum thyroiditis is an autoimmune disease with positive anti-TPO antibodies.",
    "opts": [
-    "I true; II false",
-    "I false; II true",
-    "Both true",
-    "Both false"
+    "Both I and II are true",
+    "I is true; II is false",
+    "Both I and II are false",
+    "I is false; II is true"
    ],
    "ans": 3,
-   "exp": "Postpartum thyroiditis can mimic Graves early, but Graves shows high uptake whereas postpartum thyroiditis shows low uptake. (Book p915)"
+   "exp": "Table shows: Autoimmune is 'No' for Subacute thyroiditis, and 'Yes' for Postpartum thyroiditis. (Book p915)"
   },
   {
    "id": "MED-C43-074",
-   "sec": "Amiodarone thyroid disease and drug-induced thyroiditis",
+   "sec": "Amiodarone Type I vs Type II & Differential Diagnosis Grid",
    "page": 916,
-   "fmt": "match",
-   "q": "Match the following amiodarone thyroid pattern — 1) Type 1 2) Type 2 3) Euthyroid 4) Subclinical hypothyroidism on amiodarone … A) Iodine-induced hyperthyroidism B) Destructive thyroiditis C) Hormone release with normal TFTs D) Mildly raised TSH, normal free T4",
+   "fmt": "recall",
+   "q": "Amiodarone-induced hypothyroidism is typically a transient phenomenon mediated by which physiological mechanism?",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-C, 2-A, 3-B, 4-D"
+    "Wolff-Chaikoff phenomenon due to massive iodine load",
+    "Jod-Basedow hyperfunctioning autonomous activation",
+    "Lysosomal-mediated destructive follicular necrosis",
+    "Direct antibody-mediated TSH receptor blockade"
    ],
    "ans": 0,
-   "exp": "Type 1 is iodine-induced hyperthyroidism in predisposed glands; Type 2 is destructive thyroiditis with low uptake; many patients remain euthyroid; subclinical hypothyroidism can occur especially in iodine-replete regions. (Book p916)"
+   "exp": "Under Amiodarone induces: Hypothyroidism is a 'Transient phenomenon' 'D/t Wolff chaikoff phenomenon'. (Book p916)"
   },
   {
    "id": "MED-C43-075",
-   "sec": "Amiodarone thyroid disease and drug-induced thyroiditis",
+   "sec": "Amiodarone Type I vs Type II & Differential Diagnosis Grid",
    "page": 916,
-   "fmt": "scenario",
-   "q": "A cardiac patient on amiodarone develops weight loss with suppressed TSH and very low uptake on scan. The most consistent diagnosis is:",
+   "fmt": "match",
+   "q": "Match the type of amiodarone-induced thyrotoxicosis to its underlying pathophysiology — 1) Amiodarone-induced thyrotoxicosis Type-I 2) Amiodarone-induced thyrotoxicosis Type-II … A) Patient with underlying thyroid disease (Graves or MNG); Jod-Basedow phenomenon; ↑↑ vascularity B) No underlying disease; lysosomal-mediated destruction; no antibodies; ↓↓ vascularity",
    "opts": [
-    "Factitious thyrotoxicosis",
-    "Type 2 amiodarone thyrotoxicosis",
-    "Type 1 amiodarone thyrotoxicosis",
-    "Graves disease (alternative)"
+    "1-B, 2-B",
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A"
    ],
    "ans": 1,
-   "exp": "Low uptake on scan in an amiodarone-treated patient fits destructive (Type 2) thyrotoxicosis; Type 1 has preserved or increased uptake. (Book p916)"
+   "exp": "Type I occurs in underlying disease via Jod-Basedow with ↑↑ vascularity; Type II occurs without underlying disease via lysosomal destruction with ↓↓ vascularity. (Book p916)"
   },
   {
    "id": "MED-C43-076",
-   "sec": "Amiodarone thyroid disease and drug-induced thyroiditis",
+   "sec": "Amiodarone Type I vs Type II & Differential Diagnosis Grid",
    "page": 916,
-   "fmt": "truefalse",
-   "q": "Assess amiodarone thyroid disease: I Type 1 occurs in abnormal glands (nodules or latent Graves). II Type 2 occurs in normal glands via destructive thyroiditis.",
+   "fmt": "management",
+   "q": "What is the medical drug of choice (DOC) for Amiodarone-Induced Thyrotoxicosis Type I versus Type II?",
    "opts": [
-    "I false; II true",
-    "Both false",
-    "Both true",
-    "I true; II false"
+    "Type I: Radioactive iodine; Type II: High-dose aspirin",
+    "Type I: Lithium carbonate; Type II: Potassium iodide",
+    "Type I: Thionamides (DOC); Type II: Corticosteroids (Steroids)",
+    "Type I: Corticosteroids; Type II: Thionamides"
    ],
    "ans": 2,
-   "exp": "Type 1 typically requires underlying nodular or autoimmune disease; Type 2 occurs even in normal glands because of direct toxicity and release of preformed hormone. (Book p916)"
+   "exp": "Management: Type-I -> Stop treatment, Start Thionamide (DOC); Type-II -> Drug should be stopped, Rx -> Steroid. (Book p916)"
   },
   {
    "id": "MED-C43-077",
-   "sec": "Amiodarone thyroid disease and drug-induced thyroiditis",
+   "sec": "Amiodarone Type I vs Type II & Differential Diagnosis Grid",
    "page": 916,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a treatment for Type 2 amiodarone thyrotoxicosis?",
+   "fmt": "scenario",
+   "q": "A 62-year-old man on chronic amiodarone therapy develops thyrotoxicosis. Color Doppler ultrasound demonstrates absent/markedly decreased thyroid vascularity (↓↓ vascularity), and autoantibodies are negative. What is the diagnosis and treatment?",
    "opts": [
-    "Thyroidectomy if severe and amiodarone cannot be stopped",
-    "High-dose thionamides alone (correct answer)",
-    "Corticosteroids (alternative)",
-    "Stop amiodarone if possible (alternative)"
+    "Subacute de Quervain thyroiditis; treat with aspirin",
+    "Amiodarone-induced thyrotoxicosis Type II; stop drug and treat with steroids",
+    "Amiodarone-induced thyrotoxicosis Type I; treat with thionamides",
+    "Graves disease; treat with radioactive iodine ablation"
    ],
    "ans": 1,
-   "exp": "Type 2 responds to corticosteroids; thionamides are largely ineffective in destructive thyroiditis, making them the odd one out for first-line use. (Book p916)"
+   "exp": "Type II has no underlying disease, no antibodies, markedly decreased vascularity, and is treated by stopping amiodarone and starting steroids. (Book p916)"
   },
   {
    "id": "MED-C43-078",
-   "sec": "Amiodarone thyroid disease and drug-induced thyroiditis",
+   "sec": "Amiodarone Type I vs Type II & Differential Diagnosis Grid",
    "page": 916,
-   "fmt": "fillup",
-   "q": "The half-life of amiodarone and its iodine load means amiodarone thyroid disease can develop up to ___ after stopping therapy.",
+   "fmt": "match",
+   "q": "In the comparison table on page 916, match the condition to its typical symptom duration — 1) Subacute Thyroiditis 2) Graves' Disease 3) Toxic MNG … A) Days to weeks B) 2 - 3 months C) Months to years",
    "opts": [
-    "5 years",
-    "12 months",
-    "1 week",
-    "24 hours"
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 1,
-   "exp": "Amiodarone's long half-life (50–100 days) and iodine load mean thyroid disease can occur or persist for many months after discontinuation. (Book p916)"
+   "exp": "Duration: Subacute Thyroiditis lasts days to weeks; Graves' Disease lasts 2-3 months; Toxic MNG lasts months to years. (Book p916)"
   },
   {
    "id": "MED-C43-079",
-   "sec": "Amiodarone thyroid disease and drug-induced thyroiditis",
+   "sec": "Amiodarone Type I vs Type II & Differential Diagnosis Grid",
    "page": 916,
-   "fmt": "match",
-   "q": "Match the following drug to its thyroid effect — 1) Lithium 2) Interferon-α 3) Immune checkpoint inhibitors 4) Amiodarone … A) Inhibits hormone release B) Often reversible thyroiditis C) Can cause thyroiditis / hypo- or hyperthyroidism D) Both hypothyroidism and thyrotoxicosis via iodine load",
+   "fmt": "recall",
+   "q": "In which entity alone is local neck pain characteristically present in the page 916 comparison grid?",
    "opts": [
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-C, 2-B, 3-A, 4-D",
-    "1-A, 2-B, 3-C, 4-D"
+    "Graves' Disease",
+    "Toxic Multinodular Goiter",
+    "Toxic Adenoma",
+    "Subacute Thyroiditis"
    ],
    "ans": 3,
-   "exp": "Lithium inhibits hormone release; IFN-α commonly causes reversible thyroiditis; ICIs can cause thyroiditis with hypo- or hyperthyroidism; amiodarone causes both via its iodine load. (Book p916)"
+   "exp": "Under Neck pain: Present in Subacute Thyroiditis; Absent in Graves' Disease; Absent in Toxic MNG. (Book p916)"
   },
   {
    "id": "MED-C43-080",
-   "sec": "Amiodarone thyroid disease and drug-induced thyroiditis",
+   "sec": "Amiodarone Type I vs Type II & Differential Diagnosis Grid",
    "page": 916,
-   "fmt": "scenario",
-   "q": "A patient on pembrolizumab develops new atrial fibrillation with suppressed TSH and a low uptake scan. The next best diagnostic step is:",
+   "fmt": "match",
+   "q": "Match the goiter physical characteristics on page 916 — 1) Subacute Thyroiditis 2) Graves' Disease 3) Toxic MNG … A) Small goiter B) Diffuse goiter C) Nodular goiter",
    "opts": [
-    "Diagnose ICI-induced thyroiditis and treat with beta-blocker ± steroids",
-    "Start methimazole empirically (alternative)",
-    "Plan radioiodine ablation (alternative)",
-    "Refer for urgent thyroidectomy (alternative)"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "ICI-induced thyroiditis typically presents as thyrotoxicosis with low uptake; treat with beta-blocker and steroids if severe. (Book p916)"
+   "exp": "Goiter type: Subacute Thyroiditis = Small; Graves' Disease = Diffuse; Toxic MNG = Nodular. (Book p916)"
   },
   {
    "id": "MED-C43-081",
-   "sec": "Amiodarone thyroid disease and drug-induced thyroiditis",
+   "sec": "Amiodarone Type I vs Type II & Differential Diagnosis Grid",
    "page": 916,
    "fmt": "truefalse",
-   "q": "Assess ICI thyroid toxicity: I Hypothyroidism often follows the thyrotoxic phase. II ICIs never cause Graves-like disease.",
+   "q": "Regarding extrathyroidal manifestations (ophthalmopathy and dermopathy): I Present in Graves' disease. II Absent in both Subacute thyroiditis and Toxic multinodular goiter.",
    "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
+    "Both I and II are true",
+    "I is true; II is false",
+    "I is false; II is true",
+    "Both I and II are false"
    ],
    "ans": 0,
-   "exp": "ICI-induced biphasic thyroiditis is common, with hypothyroid phase following the thyrotoxic phase; rare Graves-like disease is reported but unusual. (Book p916)"
+   "exp": "Ophthalmopathy / Dermopathy is Absent in Subacute Thyroiditis, Present in Graves' Disease, and Absent in Toxic MNG. (Book p916)"
   },
   {
    "id": "MED-C43-082",
-   "sec": "Amiodarone thyroid disease and drug-induced thyroiditis",
+   "sec": "Amiodarone Type I vs Type II & Differential Diagnosis Grid",
    "page": 916,
-   "fmt": "match",
-   "q": "Match the following diagnostic clue — 1) IL-6 elevation 2) High uptake with vascular nodule 3) Preserved uptake in iodine-replete gland 4) Anti-TPO and anti-Tg antibodies … A) Type 2 amiodarone thyrotoxicosis B) Type 1 amiodarone thyrotoxicosis C) Autoimmune predisposition D) Hashimoto thyroiditis",
+   "fmt": "fillup",
+   "q": "In differentiating hyperthyroid conditions on page 916, the serum T3/T4 ratio is ___ in subacute thyroiditis, but ___ in both Graves' disease and toxic MNG.",
    "opts": [
-    "1-A, 2-C, 3-B, 4-D",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-C, 2-B, 3-A, 4-D"
+    "= 1; > 100",
+    "< 15; > 20",
+    "> 20; < 15",
+    "> 50; < 10"
    ],
    "ans": 1,
-   "exp": "IL-6 rise supports Type 2 destructive thyroiditis; high uptake with a vascular nodule fits Type 1; preserved uptake in iodine-replete gland suggests an autoimmune predisposition; anti-TPO/Tg point to Hashimoto. (Book p916)"
+   "exp": "T3/T4 ratio is < 15 in Subacute Thyroiditis, and > 20 in both Graves' Disease and Toxic MNG. (Book p916)"
   },
   {
    "id": "MED-C43-083",
-   "sec": "Amiodarone thyroid disease and drug-induced thyroiditis",
+   "sec": "Amiodarone Type I vs Type II & Differential Diagnosis Grid",
    "page": 916,
-   "fmt": "scenario",
-   "q": "A 65-year-old on amiodarone for AF develops overt hypothyroidism; the cardiac team is unwilling to stop amiodarone. The most consistent therapy is:",
+   "fmt": "recall",
+   "q": "TSH-receptor stimulating antibodies are characteristically present in which of the three conditions?",
    "opts": [
-    "Potassium perchlorate (alternative)",
-    "Total thyroidectomy (alternative)",
-    "Levothyroxine replacement while continuing amiodarone",
-    "Methimazole (alternative)"
+    "Toxic multinodular goiter only",
+    "Both subacute thyroiditis and toxic MNG",
+    "Graves' disease only",
+    "Subacute thyroiditis only"
    ],
    "ans": 2,
-   "exp": "Amiodarone-induced hypothyroidism is treated with levothyroxine; amiodarone is continued if needed for cardiac control. (Book p916)"
+   "exp": "TSH-R stimulating Ab is Absent in Subacute Thyroiditis, Present in Graves' Disease, and Absent in Toxic MNG. (Book p916)"
   },
   {
    "id": "MED-C43-084",
-   "sec": "Amiodarone thyroid disease and drug-induced thyroiditis",
+   "sec": "Amiodarone Type I vs Type II & Differential Diagnosis Grid",
    "page": 916,
-   "fmt": "fillup",
-   "q": "Amiodarone contains approximately ___ mg of iodine per 200 mg tablet (each tablet carries a large iodine load).",
+   "fmt": "recall",
+   "q": "On ultrasound and color Doppler, what is described as the best test to diagnose Graves' disease on page 916?",
    "opts": [
-    "75 mg of iodine",
-    "5 mg of iodine",
-    "200 mg of iodine",
-    "500 mg of iodine"
+    "Diffusely enlarged gland with markedly increased vascularity (↑↑ vascularity)",
+    "Small shrunken gland with absent vascularity",
+    "Multiple hypoechoic nodules with peripheral flow",
+    "Thick calcified thyroid capsule with acoustic shadowing"
    ],
    "ans": 0,
-   "exp": "Each 200 mg tablet of amiodarone contains about 75 mg of iodine; this massive iodine load is the basis of its thyroid effects. (Book p916)"
+   "exp": "Ultrasound for Graves' Disease: 'Diffusely enlarged gland, ↑↑ vascularity (Best test to diagnose)'. (Book p916)"
   },
   {
    "id": "MED-C43-085",
-   "sec": "Amiodarone thyroid disease and drug-induced thyroiditis",
+   "sec": "Amiodarone Type I vs Type II & Differential Diagnosis Grid",
    "page": 916,
-   "fmt": "truefalse",
-   "q": "Assess amiodarone's iodine: I Daily iodine release greatly exceeds the WHO recommended intake. II Iodine excess can transiently inhibit organification (Wolff-Chaikoff effect).",
+   "fmt": "match",
+   "q": "Match the radioiodine (RAI) uptake finding to the condition on page 916 — 1) Subacute Thyroiditis 2) Graves' Disease 3) Toxic MNG … A) Low uptake B) Markedly increased (↑↑) uptake C) Depends on functional status of nodules (cold or hot nodules)",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Amiodarone releases ~7 mg of iodine daily, far above WHO recommendations; Wolff-Chaikoff effect describes transient inhibition of organification by iodine excess. (Book p916)"
+   "exp": "Radioiodine uptake: Subacute Thyroiditis = Low uptake; Graves' Disease = ↑↑ uptake; Toxic MNG = Depends on functional status of nodules (cold or hot nodules). (Book p916)"
   },
   {
    "id": "MED-C43-086",
-   "sec": "Amiodarone thyroid disease and drug-induced thyroiditis",
+   "sec": "Amiodarone Type I vs Type II & Differential Diagnosis Grid",
    "page": 916,
    "fmt": "oddoneout",
-   "q": "Which is the odd one out among drugs listed as causing thyroiditis?",
+   "q": "Which of the following features is NOT characteristic of Toxic Multinodular Goiter (MNG) in the page 916 table?",
    "opts": [
-    "Levothyroxine (correct answer)",
-    "Interferon-α (alternative)",
-    "Immune checkpoint inhibitors",
-    "Amiodarone (alternative)"
+    "Prominent infiltrative ophthalmopathy and pretibial dermopathy",
+    "Duration of symptoms spanning months to years",
+    "Commonly occurs in the elderly population (Females > Males)",
+    "Nodular goiter with enlarged nodules on ultrasound"
    ],
    "ans": 0,
-   "exp": "Levothyroxine is replacement therapy, not a cause of thyroiditis; IFN-α, ICIs and amiodarone are recognised triggers. (Book p916)"
+   "exp": "Ophthalmopathy and dermopathy are absent in toxic MNG; they are present only in Graves' disease. (Book p916)"
   }
  ],
  "units": [
@@ -1299,9 +1299,9 @@
    "id": "MED-U43-1",
    "ch": 43,
    "n": 1,
-   "title": "Thyrotoxicosis: clinical features and Graves disease",
-   "sec": "Thyrotoxicosis: clinical features and Graves disease · p910",
-   "guide": "Map constitutional, neurological, cardiovascular and gastrointestinal features of thyrotoxicosis. Recognise infiltrative ophthalmopathy, pretibial myxoedema and acropachy as Graves-specific.",
+   "title": "Causes of Thyrotoxicosis, Graves Disease & Iodine Effects",
+   "sec": "Thyrotoxicosis vs Euthyroid Hyperthyroxinemia & Iodine Effects · p910",
+   "guide": "Distinguish overworking vs normal gland thyrotoxicosis, demographics and associations of Graves (smoking, postpartum, HAART, HLA-DR2), Wolff-Chaikoff effect (transient 5-7 day inhibition by excess iodide), and Jod-Basedow phenomenon.",
    "qs": [
     "MED-C43-001",
     "MED-C43-002",
@@ -1314,18 +1314,18 @@
     "MED-C43-009",
     "MED-C43-010",
     "MED-C43-011",
-    "MED-C43-012",
-    "MED-C43-013"
+    "MED-C43-012"
    ]
   },
   {
    "id": "MED-U43-2",
    "ch": 43,
    "n": 2,
-   "title": "Graves eye signs, scoring and diagnosis",
-   "sec": "Graves eye signs, scoring and diagnosis · p911",
-   "guide": "Use activity and severity scoring to classify Graves ophthalmopathy. Smoking cessation and steroid cover for radioiodine are central to management; TRAb positivity separates Graves from most mimics.",
+   "title": "Graves Antibodies, Manifestations & Systemic Features",
+   "sec": "Antibodies, Triad of Manifestations & Clinical Presentation · p911",
+   "guide": "Cover TRAb (80-95%) driving ophthalmopathy, pretibial myxedema, and acropachy; common hyperadrenergic symptoms; elderly apathetic thyrotoxicosis; protein catabolism (proximal myopathy without fasciculations, osteopenia, stones); and hypokalemic periodic paralysis.",
    "qs": [
+    "MED-C43-013",
     "MED-C43-014",
     "MED-C43-015",
     "MED-C43-016",
@@ -1336,18 +1336,18 @@
     "MED-C43-021",
     "MED-C43-022",
     "MED-C43-023",
-    "MED-C43-024",
-    "MED-C43-025"
+    "MED-C43-024"
    ]
   },
   {
    "id": "MED-U43-3",
    "ch": 43,
    "n": 3,
-   "title": "Thionamides, RAI and surgical management of thyrotoxicosis",
-   "sec": "Thionamides, RAI and surgical management of thyrotoxicosis · p912",
-   "guide": "Methimazole is preferred in non-pregnant adults; PTU is reserved for T1 pregnancy and thyroid storm. RAI is definitive but avoided in active ophthalmopathy; total thyroidectomy is preferred in large goitres and pregnancy.",
+   "title": "Scintigraphy Patterns, Ophthalmopathy Mnemonic & Eye Signs",
+   "sec": "Scintigraphy Grid, Ophthalmopathy Progression & Eponymous Signs · p912",
+   "guide": "Anchor the scintigraphy table, microscopic scalloped appearance, the 40/40/20 rule, the IM SLOW extraocular muscle mnemonic, eponymous eye signs (Von Graefe, Joffroy, Stellwag, Dalrymple, Möbius), and non-palpable gland causes.",
    "qs": [
+    "MED-C43-025",
     "MED-C43-026",
     "MED-C43-027",
     "MED-C43-028",
@@ -1358,18 +1358,18 @@
     "MED-C43-033",
     "MED-C43-034",
     "MED-C43-035",
-    "MED-C43-036",
-    "MED-C43-037"
+    "MED-C43-036"
    ]
   },
   {
    "id": "MED-U43-4",
    "ch": 43,
    "n": 4,
-   "title": "Thyroid storm, neonatal thyrotoxicosis, surgery complications",
-   "sec": "Thyroid storm, neonatal thyrotoxicosis, surgery complications · p913",
-   "guide": "Burch-Wartofsky ≥ 45 suggests thyroid storm; treat with thionamide first, iodine after ≥1 h, beta-blocker and hydrocortisone. Neonatal thyrotoxicosis from transplacental TRAb is treated with thionamide plus beta-blocker.",
+   "title": "Laboratory Findings, Anti-Thyroid Drugs, Relapse, RAI & Surgery",
+   "sec": "Ancillary Labs, Thionamides, RAI & Surgical Indications · p913",
+   "guide": "Master thionamide equivalency (methimazole 6 mg = carbimazole 10 mg = PTU 100 mg), PTU in pregnancy, carbimazole 5 mg TDS, methimazole teratogenicity, side effects (rash m/c, agranulocytosis most dangerous), RAI precautions, and surgical indications.",
    "qs": [
+    "MED-C43-037",
     "MED-C43-038",
     "MED-C43-039",
     "MED-C43-040",
@@ -1388,9 +1388,9 @@
    "id": "MED-U43-5",
    "ch": 43,
    "n": 5,
-   "title": "Thyroiditis classification",
-   "sec": "Thyroiditis classification · p914",
-   "guide": "Distinguish Hashimoto, subacute (de Quervain), postpartum and acute suppurative thyroiditis by pain, ESR, antibodies and uptake. NSAID and beta-blocker treat subacute; antibiotics and drainage treat acute suppurative.",
+   "title": "Thyrotoxic Crisis & Classification of Thyroiditis",
+   "sec": "Thyroid Storm Protocol & Acute, Subacute, Chronic Thyroiditis · p914",
+   "guide": "Review thyroid storm presentation and 4-drug emergency regimen (PTU 1000 mg stat -> 250 mg Q4H, steroid, propranolol 60 mg Q4H, iopanoic acid 500 mg BD), acute suppurative thyroiditis (piriform sinus fistula), de Quervain HLA-B35, and Riedel IgG4 fibrous disease.",
    "qs": [
     "MED-C43-050",
     "MED-C43-051",
@@ -1410,9 +1410,9 @@
    "id": "MED-U43-6",
    "ch": 43,
    "n": 6,
-   "title": "Subacute and postpartum thyroiditis course",
-   "sec": "Subacute and postpartum thyroiditis course · p915",
-   "guide": "Subacute and postpartum thyroiditis follow a biphasic course with eventual recovery in most patients. NSAIDs ease pain; levothyroxine covers the hypothyroid phase; permanent hypothyroidism develops in a minority.",
+   "title": "Subacute Thyroiditis Mechanism, Timeline & Postpartum Thyroiditis",
+   "sec": "Subacute Thyroiditis Triphasic Curve & Postpartum Comparison · p915",
+   "guide": "Follow the stored hormone release mechanism (T3/T4 < 15, neck/ear pain, high ESR), aspirin 600 mg Q6H DOC, the 18-week three-phase curve, and the comparison grid with postpartum silent thyroiditis.",
    "qs": [
     "MED-C43-062",
     "MED-C43-063",
@@ -1432,9 +1432,9 @@
    "id": "MED-U43-7",
    "ch": 43,
    "n": 7,
-   "title": "Amiodarone thyroid disease and drug-induced thyroiditis",
-   "sec": "Amiodarone thyroid disease and drug-induced thyroiditis · p916",
-   "guide": "Type 1 amiodarone thyrotoxicosis is iodine-induced (treated with thionamides); Type 2 is destructive (treated with steroids). Lithium, IFN-α and ICIs each have characteristic thyroid signatures worth memorising.",
+   "title": "Effects of Amiodarone on Thyroid & Thyroiditis Comparison Grid",
+   "sec": "Amiodarone Type I vs Type II & Differential Diagnosis Grid · p916",
+   "guide": "Contrast Amiodarone-induced thyrotoxicosis Type I (underlying disease, Jod-Basedow, high vascularity, thionamides) vs Type II (destructive, no antibodies, low vascularity, steroids), and master the summary comparison table (subacute vs Graves vs toxic MNG).",
    "qs": [
     "MED-C43-074",
     "MED-C43-075",
