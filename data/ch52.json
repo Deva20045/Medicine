@@ -1,0 +1,305 @@
+{
+ "chapter": 52,
+ "title": "Hyponatremia",
+ "pageRange": "962-964",
+ "questions": [
+  {
+   "id": "MED-C52-001",
+   "sec": "Classification",
+   "page": 962,
+   "fmt": "recall",
+   "q": "Which statement best describes serum sodium threshold?",
+   "opts": [
+    "Hyponatremia is sodium below 135 mEq/L",
+    "below 125 mEq/L",
+    "above 140 mEq/L",
+    "above 150 mEq/L"
+   ],
+   "ans": 0,
+   "exp": "The chapter defines hyponatremia as Na below 135 mEq/L. (Book p962)"
+  },
+  {
+   "id": "MED-C52-002",
+   "sec": "Classification",
+   "page": 962,
+   "fmt": "match",
+   "q": "Match the key concept in hypotonicity with its correct interpretation.",
+   "opts": [
+    "High sodium with low osmolality",
+    "Low serum osmolality with low sodium",
+    "High osmolality with low sodium",
+    "Normal sodium with low osmolality"
+   ],
+   "ans": 1,
+   "exp": "True hypotonic hyponatremia has low sodium and low osmolality. (Book p962)"
+  },
+  {
+   "id": "MED-C52-003",
+   "sec": "Classification",
+   "page": 962,
+   "fmt": "scenario",
+   "q": "A patient is being evaluated for urine osmolality below 100. Which finding or action is most appropriate?",
+   "opts": [
+    "Maximal ADH activity",
+    "Primary renal sodium retention",
+    "Suppressed ADH activity",
+    "Excess aldosterone"
+   ],
+   "ans": 2,
+   "exp": "Very dilute urine indicates appropriate ADH suppression. (Book p962)"
+  },
+  {
+   "id": "MED-C52-004",
+   "sec": "Classification",
+   "page": 962,
+   "fmt": "fillup",
+   "q": "In the context of effective osmoles, the principal ___ is:",
+   "opts": [
+    "Urea only",
+    "Ethanol only",
+    "Creatinine only",
+    "Glucose and mannitol"
+   ],
+   "ans": 3,
+   "exp": "Effective osmoles draw water extracellularly and lower measured sodium. (Book p962)"
+  },
+  {
+   "id": "MED-C52-005",
+   "sec": "Hypovolemic hyponatremia",
+   "page": 963,
+   "fmt": "oddoneout",
+   "q": "Which option is the odd one out regarding extrarenal sodium loss?",
+   "opts": [
+    "Low urine sodium with gastrointestinal loss",
+    "High urine sodium from diarrhea",
+    "Absent urine sodium in all renal losses",
+    "High sodium intake"
+   ],
+   "ans": 0,
+   "exp": "The kidney conserves sodium during extrarenal volume loss. (Book p963)"
+  },
+  {
+   "id": "MED-C52-006",
+   "sec": "Hypovolemic hyponatremia",
+   "page": 963,
+   "fmt": "truefalse",
+   "q": "Assess these statements about initial volume replacement: I the first statement is correct; II the second statement is incorrect.",
+   "opts": [
+    "Free water alone",
+    "Isotonic saline",
+    "Fluid restriction alone",
+    "3% saline for every mild case"
+   ],
+   "ans": 1,
+   "exp": "Volume restoration treats hypovolemic hyponatremia. (Book p963)"
+  },
+  {
+   "id": "MED-C52-007",
+   "sec": "Euvolemic states",
+   "page": 963,
+   "fmt": "numeric",
+   "q": "What is the characteristic value or relationship for SIADH volume status?",
+   "opts": [
+    "Severe orthostasis in every case",
+    "Polycythemia with dehydration",
+    "Clinically euvolemic",
+    "Marked peripheral edema in every case"
+   ],
+   "ans": 2,
+   "exp": "SIADH is classically euvolemic with inappropriately concentrated urine. (Book p963)"
+  },
+  {
+   "id": "MED-C52-008",
+   "sec": "Euvolemic states",
+   "page": 963,
+   "fmt": "scenario",
+   "q": "A clinical decision depends on SIADH urine. Which choice is best?",
+   "opts": [
+    "Always below 50 mOsm/kg",
+    "Absent urinary sodium",
+    "No urine formation",
+    "Inappropriately concentrated urine"
+   ],
+   "ans": 3,
+   "exp": "ADH activity persists despite low plasma osmolality. (Book p963)"
+  },
+  {
+   "id": "MED-C52-009",
+   "sec": "Hypervolemic states",
+   "page": 963,
+   "fmt": "recall",
+   "q": "Which statement best describes cirrhosis mechanism?",
+   "opts": [
+    "Low effective arterial volume drives non-osmotic ADH",
+    "Total sodium depletion as the sole defect",
+    "Complete ADH suppression",
+    "Primary water loss"
+   ],
+   "ans": 0,
+   "exp": "Edema can coexist with low effective arterial circulation. (Book p963)"
+  },
+  {
+   "id": "MED-C52-010",
+   "sec": "Hypervolemic states",
+   "page": 963,
+   "fmt": "match",
+   "q": "Match the key concept in endocrine exclusion with its correct interpretation.",
+   "opts": [
+    "Measure calcium alone",
+    "Check adrenal and thyroid function",
+    "Exclude kidney disease only",
+    "Diagnose SIADH without testing"
+   ],
+   "ans": 1,
+   "exp": "Adrenal insufficiency and hypothyroidism can mimic euvolemic hyponatremia. (Book p963)"
+  },
+  {
+   "id": "MED-C52-011",
+   "sec": "Treatment",
+   "page": 964,
+   "fmt": "scenario",
+   "q": "A patient is being evaluated for severe symptoms. Which finding or action is most appropriate?",
+   "opts": [
+    "Potassium-free water",
+    "Routine oral water loading",
+    "Carefully administered 3% saline",
+    "5% dextrose only"
+   ],
+   "ans": 2,
+   "exp": "Seizures or severe neurologic symptoms warrant cautious hypertonic saline. (Book p964)"
+  },
+  {
+   "id": "MED-C52-012",
+   "sec": "Treatment",
+   "page": 964,
+   "fmt": "fillup",
+   "q": "In the context of chronic overcorrection, the principal ___ is:",
+   "opts": [
+    "Acute appendicitis",
+    "Iron deficiency",
+    "Nephrotic syndrome",
+    "Osmotic demyelination syndrome"
+   ],
+   "ans": 3,
+   "exp": "Rapid correction of chronic hyponatremia risks osmotic demyelination. (Book p964)"
+  },
+  {
+   "id": "MED-C52-013",
+   "sec": "Treatment",
+   "page": 964,
+   "fmt": "oddoneout",
+   "q": "Which option is the odd one out regarding correction strategy?",
+   "opts": [
+    "Small controlled early rise rather than normalization",
+    "Normalize sodium immediately",
+    "Lower sodium further",
+    "Ignore chronicity"
+   ],
+   "ans": 0,
+   "exp": "Correction targets must account for duration and symptoms. (Book p964)"
+  },
+  {
+   "id": "MED-C52-014",
+   "sec": "Treatment",
+   "page": 964,
+   "fmt": "truefalse",
+   "q": "Assess these statements about desmopressin rescue: I the first statement is correct; II the second statement is incorrect.",
+   "opts": [
+    "Permanently cures SIADH",
+    "Can halt excessive aquaresis",
+    "Always causes sodium loss",
+    "Is a loop diuretic"
+   ],
+   "ans": 1,
+   "exp": "Desmopressin can clamp an unexpectedly rapid correction. (Book p964)"
+  },
+  {
+   "id": "MED-C52-015",
+   "sec": "Treatment",
+   "page": 964,
+   "fmt": "numeric",
+   "q": "What is the characteristic value or relationship for fluid restriction?",
+   "opts": [
+    "A way to increase free-water intake",
+    "A treatment for hypernatremia",
+    "First measure for many SIADH patients",
+    "Mandatory treatment for hypovolemic shock"
+   ],
+   "ans": 2,
+   "exp": "Fluid restriction is central in euvolemic water-retaining states. (Book p964)"
+  },
+  {
+   "id": "MED-C52-016",
+   "sec": "Treatment",
+   "page": 964,
+   "fmt": "scenario",
+   "q": "A clinical decision depends on overcorrection prevention. Which choice is best?",
+   "opts": [
+    "Check sodium only after discharge",
+    "Avoid all monitoring",
+    "Use glucose as the only endpoint",
+    "Monitor sodium serially during therapy"
+   ],
+   "ans": 3,
+   "exp": "Frequent measurements prevent unnoticed excessive correction. (Book p964)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U52-1",
+   "ch": 52,
+   "n": 1,
+   "title": "Classification",
+   "sec": "Classification",
+   "guide": "Classify tonicity and volume.",
+   "qs": [
+    "MED-C52-001",
+    "MED-C52-002",
+    "MED-C52-003",
+    "MED-C52-004"
+   ]
+  },
+  {
+   "id": "MED-U52-2",
+   "ch": 52,
+   "n": 2,
+   "title": "Hypovolemic hyponatremia",
+   "sec": "Hypovolemic hyponatremia",
+   "guide": "Link losses and urine sodium.",
+   "qs": [
+    "MED-C52-005",
+    "MED-C52-006",
+    "MED-C52-007",
+    "MED-C52-008"
+   ]
+  },
+  {
+   "id": "MED-U52-3",
+   "ch": 52,
+   "n": 3,
+   "title": "Euvolemic states",
+   "sec": "Euvolemic states",
+   "guide": "Recognize SIADH and endocrine mimics.",
+   "qs": [
+    "MED-C52-009",
+    "MED-C52-010",
+    "MED-C52-011",
+    "MED-C52-012"
+   ]
+  },
+  {
+   "id": "MED-U52-4",
+   "ch": 52,
+   "n": 4,
+   "title": "Treatment",
+   "sec": "Treatment",
+   "guide": "Correct safely.",
+   "qs": [
+    "MED-C52-013",
+    "MED-C52-014",
+    "MED-C52-015",
+    "MED-C52-016"
+   ]
+  }
+ ]
+}
