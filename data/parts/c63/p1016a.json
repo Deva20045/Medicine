@@ -1,0 +1,150 @@
+{
+ "page": 1016,
+ "sec": "Wilson's screening algorithm, Nazar index and chelation pharmacotherapy",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "What serum ceruloplasmin screening thresholds rule out versus confirm Wilson's disease?",
+   "opts": [
+    "> 20 mg/dL rules out Wilson's; < 10 mg/dL is confirmatory",
+    "> 50 mg/dL rules out Wilson's; < 30 mg/dL is confirmatory",
+    "> 10 mg/dL rules out Wilson's; < 2 mg/dL is confirmatory",
+    "> 35 mg/dL rules out Wilson's; < 15 mg/dL is confirmatory"
+   ],
+   "ans": 0,
+   "exp": "Screening ceruloplasmin: > 20 mg/dL 'rule out wilsons', 10\u201320 mg/dL is intermediate, and < 10 mg/dL is 'Confirmatory'. (Book p1016)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In a patient with an intermediate ceruloplasmin level (10\u201320 mg/dL), what is the status of total serum copper versus non-ceruloplasmin-bound (free) copper?",
+   "opts": [
+    "Total serum copper is decreased, but non-ceruloplasmin-bound free copper is elevated",
+    "Total serum copper and free copper are both markedly increased",
+    "Total serum copper is elevated, while free copper is undetectable",
+    "Total serum copper and ceruloplasmin-bound copper are both elevated"
+   ],
+   "ans": 0,
+   "exp": "Total serum Cu is decreased because ceruloplasmin-bound Cu (90% normal) is markedly decreased (\u2193\u2193), whereas free copper is increased (\u2191), driving high urinary free copper. (Book p1016)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What is the critical diagnostic hepatic copper concentration on liver biopsy in Wilson's disease?",
+   "opts": [
+    "> 250 \u00b5g/g dry weight",
+    "> 50 \u00b5g/g dry weight",
+    "> 1000 \u00b5g/g dry weight",
+    "> 100 \u00b5g/g dry weight"
+   ],
+   "ans": 0,
+   "exp": "Quantitative copper estimation on liver biopsy has a 'Critical value : >250 \u00b5g/g dry wt.' (Book p1016)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which two analytical techniques are specified for quantitative hepatic copper measurement?",
+   "opts": [
+    "Neutron activation analysis or atomic absorption spectrometry",
+    "High-performance liquid chromatography or mass spectrometry",
+    "Western blotting or enzyme-linked immunosorbent assay",
+    "Gas chromatography or flame photometry"
+   ],
+   "ans": 0,
+   "exp": "Quantitative hepatic copper is 'estimated by : Neutron activation Analysis or Atomic absorption spectrometry'. (Book p1016)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two statements on serum ceruloplasmin: I Serum ceruloplasmin can be falsely elevated into the normal range during acute inflammation and high-estrogen states like pregnancy. II Non-ceruloplasmin bound copper (NCBC) is used to monitor compliance and efficacy following copper chelation therapy.",
+   "opts": [
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Both statements are true as noted in the box: acute inflammation/pregnancy cause false elevations, and NCBC monitors therapy. (Book p1016)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each biochemical parameter in Wilson's disease with its diagnostic directional shift \u2014 1) Serum ceruloplasmin and total serum copper 2) Basal 24-hour urine copper and liver biopsy copper \u2026 A) Increased (\u2191) B) Decreased (\u2193)",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "Biochemical parameters: Serum Ceruloplasmin \u2193, Serum Copper \u2193, Basal 24 hr urine Cu \u2191, and Liver copper \u2191. (Book p1016)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which triad of laboratory variables forms the Nazar prognostic index for Wilson's acute liver failure?",
+   "opts": [
+    "Serum bilirubin, AST, and Prothrombin time (PT)",
+    "Serum copper, ceruloplasmin, and urinary copper",
+    "Serum albumin, INR, and creatinine",
+    "ALT, alkaline phosphatase, and platelet count"
+   ],
+   "ans": 0,
+   "exp": "The Nazar prognostic index comprises S. bilirubin, AST, and PT. (Book p1016)"
+  },
+  {
+   "fmt": "management",
+   "q": "What is the drug of choice (DOC) for Wilson's disease, and what is its standard starting and maintenance dose range?",
+   "opts": [
+    "D-Penicillamine; start at 250 mg/day and increase to 1.5 g/day",
+    "Trientine; start at 100 mg/day and increase to 500 mg/day",
+    "Zinc acetate; start at 10 mg TDS and increase to 50 mg TDS",
+    "Tetrathiomolybdate; start at 50 mg daily for life"
+   ],
+   "ans": 0,
+   "exp": "D-Penicillamine is DOC; starting dose is 250 mg/day, increased to 1.5 g/day. (Book p1016)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Why must oral D-Penicillamine always be taken on an empty stomach?",
+   "opts": [
+    "Food and dietary cations significantly chelate the drug and impair intestinal absorption",
+    "It requires gastric hydrochloric acid to convert into its active disulfide form",
+    "Food co-ingestion triggers severe immediate anaphylactoid reactions",
+    "It directly degrades dietary essential amino acids in the stomach"
+   ],
+   "ans": 0,
+   "exp": "The instructions explicitly specify: 'To be taken empty stomach' because food interferes with bioavailability. (Book p1016)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following adverse effects is NOT listed under D-penicillamine therapy?",
+   "opts": [
+    "Pulmonary alveolar proteinosis",
+    "Drug-induced lupus erythematosus",
+    "Membranous nephropathy and myasthenia crisis",
+    "Aplastic anemia and pyridoxine deficiency"
+   ],
+   "ans": 0,
+   "exp": "Adverse risks listed are Drug induced lupus erythematosus, membranous nephropathy, myasthenia crisis, Aplastic anemia, and Pyridoxine deficiency (give 25 mg); pulmonary alveolar proteinosis is not listed. (Book p1016)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What dose of pyridoxine (Vitamin B6) should be co-prescribed with D-penicillamine to prevent deficiency?",
+   "opts": [
+    "25 mg daily",
+    "5 mg daily",
+    "100 mg daily",
+    "250 mg daily"
+   ],
+   "ans": 0,
+   "exp": "The book notes: 'Pyridoxine deficiency (Pyridoxine 25 mg to be given)'. (Book p1016)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each anti-copper agent with its specific clinical niche \u2014 1) Trientine 2) Tetrathiomolybdate 3) Zinc \u2026 A) 50 mg TDS; induces metallothionein, competes with Cu for DMT-1, preferred in pregnancy B) Chelator for Neurological Wilson's disease (not widely available) C) 1\u20131.2 g/day; lesser side effects, not available in India, preferred in pregnancy",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Trientine (1\u20131.2 g/day) has fewer side effects and is preferred in pregnancy; Tetrathiomolybdate is for Neuro-Wilson's; Zinc (50 mg TDS) induces metallothionein and competes for DMT-1. (Book p1016)"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "page": 1000,
+ "sec": "Endocrine changes, collaterals and decompensated cirrhosis",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Why do male patients with advanced liver failure develop gynecomastia and testicular atrophy?",
+   "opts": [
+    "Loss of hepatic 5-alpha reductase activity impairs conversion of testosterone to dihydrotestosterone (DHT)",
+    "Direct hyperprolactinemia resulting from portal-systemic dopamine clearance",
+    "Excessive adrenal production of dehydroepiandrosterone (DHEA)",
+    "Downregulation of peripheral estrogen receptors by hyperammonemia"
+   ],
+   "ans": 0,
+   "exp": "The page states: 'No 5-a Reductase : NO DHT (Dihydrotestosteron) -> Gynecomastia, Testicular atrophy.' (Book p1000)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In female patients with liver failure, a decrease in ______ contributes to peripheral hypoestrogenism.",
+   "opts": [
+    "sex hormone binding globulins (SHBG)",
+    "follicle stimulating hormone",
+    "luteinizing hormone",
+    "placental lactogen"
+   ],
+   "ans": 0,
+   "exp": "The text notes: 'Decrease sex hormone binding globulins -> Hypoestrogenism in females.' (Book p1000)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the direction of venous blood flow in the abdominal wall collaterals forming caput medusae?",
+   "opts": [
+    "Flow directed radially away from the umbilicus",
+    "Flow directed upwards from the pubis toward the umbilicus only",
+    "Flow directed towards the umbilicus from all directions",
+    "Flow directed downwards towards the groin in all abdominal veins"
+   ],
+   "ans": 0,
+   "exp": "The text explicitly specifies: 'Caput medusae (flow away from umbilicus)'. (Book p1000)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two statements on cirrhosis decompensation: I The onset of overt jaundice in cirrhosis signifies hepatic failure and marks the onset of decompensation. II Caput medusae exhibits collateral venous flow traveling toward the umbilicus.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Statement I is true because jaundice is annotated as 'Sign of liver failure -> Decompensation'. Statement II is false because flow in caput medusae is away from the umbilicus. (Book p1000)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following triad of complications defines decompensated cirrhosis in the presence of fully developed portal hypertension?",
+   "opts": [
+    "Gallstone ileus",
+    "Ascites",
+    "Hepatic encephalopathy",
+    "Variceal bleed"
+   ],
+   "ans": 0,
+   "exp": "Under DECOMPENSATION, the three defining complications linked to full developed portal HTN are Ascites, Encephalopathy, and Variceal bleed. (Book p1000)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 56-year-old man with long-standing cirrhosis is brought to the hospital with fresh hematemesis from esophageal varices. Examination reveals prominent periumbilical collateral veins with flow directed away from the umbilicus, jaundice, and bilateral gynecomastia. How is this patient's cirrhosis categorized?",
+   "opts": [
+    "Decompensated cirrhosis",
+    "Compensated cirrhosis with incidental bleeding",
+    "Pre-cirrhotic Stage 2 bridging fibrosis",
+    "Acute viral hepatitis without cirrhosis"
+   ],
+   "ans": 0,
+   "exp": "Fully developed portal HTN complicated by variceal bleeding, ascites, or encephalopathy (plus jaundice) constitutes decompensated cirrhosis. (Book p1000)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each physical finding of cirrhosis with its underlying pathophysiological mechanism \u2014 1) Caput medusae 2) Gynecomastia and testicular atrophy 3) Female hypoestrogenism \u2026 A) Decreased sex hormone binding globulins B) Portal-systemic collateralization through recanalized umbilical veins with centrifugal flow C) Impaired 5-alpha reductase activity leading to lack of dihydrotestosterone",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Caput medusae reflects collateral flow away from the umbilicus, lack of 5-alpha reductase drives lack of DHT (gynecomastia/atrophy), and decreased SHBG drives female hypoestrogenism. (Book p1000)"
+  }
+ ]
+}

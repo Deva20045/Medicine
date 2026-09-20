@@ -1,0 +1,138 @@
+{
+ "page": 996,
+ "sec": "Rumack-Matthew nomogram, King's College criteria and NAC protocol",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Which graphic assessment tool is used to evaluate the severity of acetaminophen intoxication and determine the need for antidote therapy?",
+   "opts": [
+    "Rumack-Matthew Nomogram",
+    "Maddrey discriminant function",
+    "Child-Pugh nomogram",
+    "Rockall scoring system"
+   ],
+   "ans": 0,
+   "exp": "The nomogram is titled 'Rumack Matthew Nomogram: Severity of acetaminophen intoxication'. (Book p996)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each axis of the Rumack-Matthew nomogram with the physiological parameter it plots \u2014 1) X-axis 2) Y-axis \u2026 A) Plasma acetaminophen concentration (\u00b5g/mL and \u00b5mol/L) B) Hours after ingestion (from 0 to 24 hours)",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "The X-axis plots hours after ingestion (0 to 24), and the Y-axis plots plasma acetaminophen concentration in \u00b5g/mL and \u00b5mol/L. (Book p996)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "According to King's College Hospital criteria for acetaminophen-induced acute liver failure, what arterial pH cut-off is an independent indicator of poor prognosis?",
+   "opts": [
+    "Arterial pH < 7.25 more than 24 hours after drug ingestion",
+    "Arterial pH < 7.35 within 12 hours of ingestion",
+    "Arterial pH < 7.10 within 4 hours of ingestion",
+    "Arterial pH < 7.40 after fluid resuscitation"
+   ],
+   "ans": 0,
+   "exp": "The first major criterion is 'Arterial pH < 7.25 more than 24 hours after drug ingestion'. (Book p996)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "In the absence of arterial pH < 7.25, which of the following is NOT one of the King's College triad criteria for poor prognosis in acetaminophen ALF?",
+   "opts": [
+    "Serum bilirubin > 15 mg/dL",
+    "Prothrombin time > 100 sec or INR > 6.5",
+    "Serum creatinine level > 3.4 mg/dL (300 \u00b5mol/L) or anuria",
+    "Grade 3 to 4 hepatic encephalopathy"
+   ],
+   "ans": 0,
+   "exp": "The three concurrent King's College criteria are PT > 100 s (INR > 6.5), Creatinine > 3.4 mg/dL (300 \u00b5mol/L) or anuria, and Grade 3\u20134 encephalopathy; bilirubin is not part of this triad. (Book p996)"
+  },
+  {
+   "fmt": "management",
+   "q": "A patient presents within 4 hours of ingesting a massive acute overdose of paracetamol. What is the initial decontamination procedure indicated before antidote administration?",
+   "opts": [
+    "Charcoal hemoperfusion",
+    "Urinary alkalinization with sodium bicarbonate",
+    "Immediate hemodialysis",
+    "Therapeutic plasma exchange"
+   ],
+   "ans": 0,
+   "exp": "For presentations < 4 hrs, the first treatment listed is 'Charcoal hemoperfusion'. (Book p996)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the drug of choice (DOC) for paracetamol overdose?",
+   "opts": [
+    "N-acetyl Cysteine (NAC)",
+    "D-Penicillamine",
+    "Flumazenil",
+    "Deferoxamine"
+   ],
+   "ans": 0,
+   "exp": "N-acetyl Cysteine (NAC) is designated as 'DOC' for acetaminophen toxicity. (Book p996)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What post-ingestion deadline is recommended for optimal hepatoprotective efficacy when administering N-acetylcysteine (NAC)?",
+   "opts": [
+    "Within 15 hours",
+    "Within 2 hours",
+    "Within 36 hours",
+    "Within 48 hours"
+   ],
+   "ans": 0,
+   "exp": "The protocol states: 'Given within 15 hours'. (Book p996)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each infusion phase of the standard IV N-acetylcysteine protocol with its exact dose and duration \u2014 1) Phase 1 2) Phase 2 3) Phase 3 \u2026 A) 100 mg/kg in 1 L of 5% Dextrose over the next 16 hours B) 150 mg/kg in 200 mL of 5% Dextrose over 15\u201360 minutes C) 50 mg/kg in 500 mL of 5% Dextrose over 4 hours",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "The 3-stage infusion is: 1) 150 mg/kg in 200 mL 5% Dextrose over 15\u201360 min; 2) 50 mg/kg in 500 mL 5% Dextrose over 4 hr; 3) 100 mg/kg in 1 L 5% Dextrose over 16 hr. (Book p996)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which oral sulfur-containing amino acid is listed as an alternative therapeutic option to N-acetylcysteine in paracetamol toxicity?",
+   "opts": [
+    "Methionine",
+    "Trientine",
+    "Taurine",
+    "Cysteine"
+   ],
+   "ans": 0,
+   "exp": "Under treatment options, item c lists 'methionine'. (Book p996)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two statements on N-acetylcysteine: I N-acetylcysteine is also used therapeutically in non-acetaminophen drug-induced hepatotoxicity. II King's College criteria for poor prognosis in acetaminophen cases require both pH < 7.25 AND Grade 3 encephalopathy to be present together.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Statement I is true because the note states NAC is used in other drug-induced hepatotoxicity. Statement II is false because pH < 7.25 is an independent predictor on its own; alternatively, all three other criteria must be present. (Book p996)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 30-year-old woman is admitted 30 hours after an intentional acetaminophen overdose. Her arterial blood gas shows pH 7.21, serum creatinine 1.8 mg/dL, and INR 3.2. She is drowsy but conversant (Grade 1 encephalopathy). How does she meet the King's College poor prognosis criteria?",
+   "opts": [
+    "She meets the independent criterion of arterial pH < 7.25 more than 24 hours post-ingestion",
+    "She meets the criteria because her INR exceeds 6.5",
+    "She meets the criteria because she has Grade 4 coma",
+    "She does not meet any poor prognosis criterion"
+   ],
+   "ans": 0,
+   "exp": "Arterial pH < 7.25 after 24 hours alone fulfills the King's College poor prognosis criteria, irrespective of encephalopathy grade or creatinine. (Book p996)"
+  }
+ ]
+}

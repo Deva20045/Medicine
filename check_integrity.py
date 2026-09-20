@@ -76,8 +76,13 @@ LIVE_CHAPTERS = {
     54: ('Potassium Metabolism', 968, 975, 106, 8),
     55: ('Management of Hypertension - 2023 Guidelines', 976, 981, 77, 6),
     56: ('Basics of Development and Anatomy of Liver', 982, 985, 55, 4),
+    57: ("Basics of Physiology of Liver", 986, 992, 78, 7),
+    58: ("Acute Hepatitis and Acute Liver Failure", 993, 996, 47, 4),
+    59: ("Chronic Hepatitis - Cirrhosis", 997, 1000, 38, 4),
     60: ("Portal Hypertension", 1001, 1004, 86, 8),
     61: ("Ascites and Hepatorenal Syndrome", 1005, 1009, 81, 8),
+    62: ("Hepatic Encephalopathy", 1010, 1012, 32, 3),
+    63: ("Metabolic Diseases of Liver", 1013, 1019, 75, 7),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain

@@ -128,13 +128,13 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 54 | Potassium Metabolism | p968 | LIVE (106 q, 8 u)
 | 55 | Management of Hypertension - 2023 Guidelines | p976 | LIVE (77 q, 6 u)
 | 56 | Basics of Development and Anatomy of Liver | p982 | LIVE (55 q, 4 u)
-| 57 | Basics of Physiology of Liver | p986 | SOON
-| 58 | Acute Hepatitis and Acute Liver Failure | p993 | SOON
-| 59 | Chronic Hepatitis - Cirrhosis | p997 | SOON
+| 57 | Basics of Physiology of Liver | p986 | LIVE (78 q, 7 u)
+| 58 | Acute Hepatitis and Acute Liver Failure | p993 | LIVE (47 q, 4 u)
+| 59 | Chronic Hepatitis - Cirrhosis | p997 | LIVE (38 q, 4 u)
 | 60 | Portal Hypertension | p1001 | LIVE (86 q, 8 u)
 | 61 | Ascites and Hepatorenal Syndrome | p1005 | LIVE (81 q, 8 u)
-| 62 | Hepatic Encephalopathy | p1010 | SOON
-| 63 | Metabolic Diseases of Liver | p1013 | SOON
+| 62 | Hepatic Encephalopathy | p1010 | LIVE (32 q, 3 u)
+| 63 | Metabolic Diseases of Liver | p1013 | LIVE (75 q, 7 u)
 | 64 | Biliary Cirrhosis | p1020 | SOON
 | 65 | Autoimmune Hepatitis | p1023 | SOON
 | 66 | Alcoholic Liver Disease | p1026 | SOON
@@ -394,3 +394,30 @@ paths for all 338 new questions (676 answer paths across 24 units).
 290 pages (p705–985 and p1001–1009).
 
 **Next: Ch 57 "Basics of Physiology of Liver" (p986–992) to close the p985→p1001 gap.**
+
+## Latest batch — Chapters 57–59 & 62–63 (2026-09-20)
+
+**270 new questions · 25 units · all 25 pages p986–1000 and p1010–1019.**
+Ch 57: 78 q / 7 u; Ch 58: 47 q / 4 u; Ch 59: 38 q / 4 u;
+Ch 62: 32 q / 3 u; Ch 63: 75 q / 7 u.
+
+Covers hepatic physiology (bilirubin transport, UGT conjugation, MRP-2/3 hopping,
+transaminases, ALP, delta bilirubin, elastography), acute hepatitis & ALF (HAV vs HEV,
+acetaminophen toxicity stages I–IV, Rumack-Matthew nomogram, King's College criteria,
+NAC protocol), chronic hepatitis & cirrhosis (progression, 4-stage fibrosis, portal HTN
+pathophysiology, hyperdynamic state, stigmata, decompensation), hepatic encephalopathy
+(Types A/B/C, neurotoxins, Alzheimer type-2 astrocytes, West Haven covert/overt criteria,
+lactulose MOA, rifaximin), and metabolic liver diseases (Wilson's ATP7B genetics, Menkes,
+Coombs-negative hemolysis with low ALP, K-F rings, sunflower cataract, D-penicillamine,
+brain MRI signs, hereditary hemochromatosis HFE C282Y genetics, ferroportin/hepcidin,
+transferrin saturation > 45%, bronze diabetes, CPPD arthropathy, weekly phlebotomy).
+
+All five requested question styles appear in every unit. Page-by-page coverage, source
+fidelity and verification: **REPORT_CH57-59_62-63.md**. The runtime regression exercises both
+correct and incorrect paths for all 270 new questions (540 answer paths across 25 units).
+
+**Current bank total: 4,458 questions · 371 units · 63 live chapters**, covering
+a continuous 315-page span from Book p705 to p1019.
+
+**Next: Ch 64 "Biliary Cirrhosis" (p1020).**
+

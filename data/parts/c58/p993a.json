@@ -1,0 +1,150 @@
+{
+ "page": 993,
+ "sec": "Acute hepatitis \u00b7 etiologies, HAV vs HEV features and serology",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "What is the most common clinical outcome of acute hepatitis?",
+   "opts": [
+    "Complete recovery",
+    "Progression to chronic hepatitis",
+    "Fulminant hepatic failure",
+    "Direct progression to hepatocellular carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Under acute hepatitis outcomes, recovery is explicitly annotated with '(m/c)', followed by chronic hepatitis and rare fulminant failure. (Book p993)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each demographic group with the most common viral cause of acute hepatitis \u2014 1) Children 2) Adults \u2026 A) Hepatitis E virus (HEV) B) Hepatitis A virus (HAV)",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "Under viral causes of acute hepatitis, HAV is noted as '(m/c in children)' and HEV as '(m/c in adults)'. (Book p993)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following toxins is NOT listed under acute hepatitis causes on this page?",
+   "opts": [
+    "Carbon tetrachloride",
+    "Rat poison (Yellow Phosphorus)",
+    "Mushroom toxins",
+    "Alcohol"
+   ],
+   "ans": 0,
+   "exp": "The toxins listed are Rat poison (Yellow Phosphorus), Mushroom, and Alcohol; carbon tetrachloride is not among them. (Book p993)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which two pharmaceutical classes are highlighted under the drug causes of acute hepatitis on this page?",
+   "opts": [
+    "Paracetamol and Anti-tubercular therapy (ATT)",
+    "Statins and ACE inhibitors",
+    "Amiodarone and Methotrexate",
+    "Sulfonamides and Cephalosporins"
+   ],
+   "ans": 0,
+   "exp": "Under drug causes, the page lists Paracetamol and ATT (Anti-tubercular therapy). (Book p993)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each hepatitis virus with its taxonomic family and physical property \u2014 1) Hepatitis A virus (HAV) 2) Hepatitis E virus (HEV) \u2026 A) Calicivirus family (Hepeviridae) with 4 genotypes B) Picornaviridae family; single-stranded RNA virus that is heat sensitive (>85\u00b0C)",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "HAV belongs to Picornaviridae, is ssRNA and heat sensitive (>85\u00b0C); HEV belongs to the Calicivirus-like Hepeviridae family and has 4 genotypes. (Book p993)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What are the average incubation periods of Hepatitis A virus (HAV) and Hepatitis E virus (HEV)?",
+   "opts": [
+    "HAV: 30 days; HEV: 40 days",
+    "HAV: 14 days; HEV: 60 days",
+    "HAV: 60 days; HEV: 180 days",
+    "HAV: 7 days; HEV: 21 days"
+   ],
+   "ans": 0,
+   "exp": "In the comparison table, the incubation period is 30 days for HAV and 40 days for HEV. (Book p993)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each virus with its primary mechanism of hepatocellular injury \u2014 1) Hepatitis A virus 2) Hepatitis E virus \u2026 A) Immune-mediated damage B) Direct cytopathic effect",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "The table specifies the injury mechanism as 'Cytopathic effect' for HAV and 'Immune mediated' for HEV. (Book p993)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two statements comparing HAV and HEV: I Cholestatic hepatitis with prominent pruritus is rare in HAV but marked (+++) in HEV. II Hepatitis A frequently progresses to chronic carrier status in adults.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Statement I is true because cholestatic hepatitis is rare in HAV and marked in HEV. Statement II is false because progression to chronicity is 'Not seen' in HAV. (Book p993)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 10-year-old child presents with a 3-day prodrome of low-grade fever, nausea, and vomiting, followed by mild jaundice. Physical examination reveals tender hepatomegaly extending 1.5 cm below the costal margin and transient cutaneous lesions with joint pain. What is the most common extrahepatic feature of this infection?",
+   "opts": [
+    "Rash and arthralgia",
+    "Aplastic anemia",
+    "Membranous nephropathy",
+    "Pancreatitis"
+   ],
+   "ans": 0,
+   "exp": "In HAV, tender hepatomegaly (max 2 cm) is found, and rash/arthralgia is explicitly annotated as the most common '(m/c)' extrahepatic feature. (Book p993)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each viral hepatitis with its characteristic diagnostic serology \u2014 1) Acute Hepatitis A 2) Acute Hepatitis E \u2026 A) Anti-HEV IgM positive, which can persist up to 4 months B) Anti-HAV IgM positive with mixed pattern serum bilirubin elevation",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "Acute HAV shows Anti-HAV IgM (+) with mixed bilirubin; acute HEV shows Anti-HEV IgM (+) that persists up to 4 months with conjugated bilirubin. (Book p993)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In acute hepatitis E, the serum bilirubin characteristically exhibits a predominantly ______ pattern accompanied by prominent pruritus.",
+   "opts": [
+    "conjugated",
+    "pure unconjugated",
+    "indirect-predominant",
+    "pre-hepatic"
+   ],
+   "ans": 0,
+   "exp": "Under lab investigations for HEV, serum bilirubin is specified as '(conjugated)' and accompanied by cholestatic pruritus. (Book p993)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following non-viral conditions is NOT listed under 'Others' as a cause of acute hepatitis?",
+   "opts": [
+    "Hemochromatosis",
+    "Autoimmune (A/I) hepatitis",
+    "Wilson's disease",
+    "Acute Fatty Liver of Pregnancy (AFLP)"
+   ],
+   "ans": 0,
+   "exp": "The 'Others' category lists Autoimmune hepatitis, Wilson's disease, AFLP, and Budd-Chiari syndrome; hemochromatosis is a cause of chronic liver disease (p989). (Book p993)"
+  }
+ ]
+}

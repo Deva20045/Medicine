@@ -1,0 +1,150 @@
+{
+ "page": 995,
+ "sec": "ALF causes, idiosyncratic DILI and Paracetamol stages",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match each etiology of drug-induced acute liver failure with its geographic epidemiology or mechanism \u2014 1) Paracetamol 2) Rifampicin \u2026 A) Idiosyncratic dose-independent toxicity that can occur after a single dose B) Most common cause of acute liver failure in Europe",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "Paracetamol is the most common cause of ALF in Europe ('m/c in Europe'), while Rifampicin is an idiosyncratic reaction that can occur after a single dose. (Book p995)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What are the maximum daily therapeutic dose and the acute toxic threshold dose for paracetamol (acetaminophen)?",
+   "opts": [
+    "Maximum therapeutic: 4 g/day; Toxic dose: > 7.5 g/day",
+    "Maximum therapeutic: 2 g/day; Toxic dose: > 4 g/day",
+    "Maximum therapeutic: 6 g/day; Toxic dose: > 12 g/day",
+    "Maximum therapeutic: 1 g/day; Toxic dose: > 5 g/day"
+   ],
+   "ans": 0,
+   "exp": "The book specifies for Paracetamol: max dose 4 g/day and toxic dose > 7.5 g/day. (Book p995)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following drugs is NOT listed as causing dose-independent (idiosyncratic) Acute Liver Failure?",
+   "opts": [
+    "Amanita mushroom",
+    "Carbamazepine",
+    "Propylthiouracil (PTU)",
+    "Sodium valproate"
+   ],
+   "ans": 0,
+   "exp": "Mushroom toxin is listed under dose-dependent causes along with paracetamol; carbamazepine, PTU, valproate, nitrofurantoin, phenytoin, INH, and single-dose rifampicin are idiosyncratic. (Book p995)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the primary pathophysiological driver of hepatic encephalopathy and seizures in acute liver failure?",
+   "opts": [
+    "Elevated intracranial tension and cerebral edema",
+    "Severe systemic hypoglycemia alone",
+    "Direct neurotoxicity of unconjugated bilirubin",
+    "Cerebral hypoperfusion from splanchnic pooling"
+   ],
+   "ans": 0,
+   "exp": "In ALF, hepatic encephalopathy is due to '\u2191 ICT & Cerebral edema -> Seizures'. (Book p995)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two clinical features of acute liver failure: I Coagulopathy is defined by an INR > 1.5, yet the clinical risk of spontaneous overt bleeding is rare. II Active alcohol consumption decreases overall mortality in acute liver failure.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Statement I is true because coagulopathy has INR > 1.5 but bleeding is rare. Statement II is false because alcohol causes '\u2191 mortality'. (Book p995)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In paracetamol hepatotoxicity, excessive metabolism by cytochrome ______ in Zone 3 hepatocytes generates the toxic metabolite NAPQI.",
+   "opts": [
+    "CYP2E1",
+    "CYP3A4",
+    "CYP2D6",
+    "CYP1A2"
+   ],
+   "ans": 0,
+   "exp": "Paracetamol is converted to NAPQI by CYP2E1 in Zone 3 hepatocytes. (Book p995)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Why does NAPQI cause hepatocellular necrosis in paracetamol poisoning?",
+   "opts": [
+    "Glutathione stores are depleted, leaving NAPQI un-metabolized to covalently bind hepatic proteins",
+    "NAPQI directly blocks canalicular MRP-2 excretion of bile salts",
+    "NAPQI irreversibly uncouples mitochondrial electron transport at Complex I",
+    "NAPQI triggers rapid apoptosis of sinusoidal Kupffer cells"
+   ],
+   "ans": 0,
+   "exp": "Accumulated NAPQI is not metabolized because of depletion in hepatic glutathione stores, leading to hepatotoxicity. (Book p995)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each clinical stage of paracetamol poisoning with its post-ingestion timeline \u2014 1) Stage I 2) Stage II 3) Stage III 4) Stage IV \u2026 A) 72\u201396 hours B) < 24 hours C) > 96 hours D) 24\u201372 hours",
+   "opts": [
+    "1-B, 2-D, 3-A, 4-C",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-B, 3-C, 4-A",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Timeline: Stage I is <24 hr, Stage II is 24\u201372 hr, Stage III is 72\u201396 hr, and Stage IV is >96 hr. (Book p995)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 24-year-old man is brought to the emergency department 80 hours after ingesting a large handful of acetaminophen tablets. He is in Stage III toxicity. Which laboratory and clinical features characterise this critical stage?",
+   "opts": [
+    "Hepatic encephalopathy, cerebral edema, bilirubin > 4.5 mg/dL, ATN, hypoglycemia, and lactic acidosis",
+    "Mild nausea and vomiting with entirely normal transaminases and normal INR",
+    "Isolated right upper quadrant tenderness with AST < 100 U/L and absent jaundice",
+    "Complete clinical recovery with normalization of all liver enzymes"
+   ],
+   "ans": 0,
+   "exp": "Stage III (72\u201396 hrs, which determines survival) features encephalopathy, cerebral edema, coagulopathy, bilirubin > 4.5 mg/dL, ATN, hypoglycemia, hyponatremia, lactic acidosis, and MODS. (Book p995)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which stage of paracetamol toxicity is explicitly identified as the stage that 'Determines survival'?",
+   "opts": [
+    "Stage III (72\u201396 hours)",
+    "Stage I (< 24 hours)",
+    "Stage II (24\u201372 hours)",
+    "Stage IV (> 96 hours)"
+   ],
+   "ans": 0,
+   "exp": "Stage III (72\u201396 hrs) is specifically annotated with '(Determines survival)'. (Book p995)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In Stage III paracetamol toxicity, acute renal failure characteristically arises from ______ complicated by sepsis.",
+   "opts": [
+    "acute tubular necrosis (ATN)",
+    "membranous nephropathy",
+    "interstitial nephritis",
+    "renal cortical necrosis"
+   ],
+   "ans": 0,
+   "exp": "The table lists 'ATN (Acute Tubular Necrosis) : sepsis + renal failure' in Stage III. (Book p995)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What serum bilirubin cut-off is listed as a feature of Stage III paracetamol poisoning?",
+   "opts": [
+    "> 4.5 mg/dL",
+    "> 1.5 mg/dL",
+    "> 10.0 mg/dL",
+    "> 20.0 mg/dL"
+   ],
+   "ans": 0,
+   "exp": "Stage III features explicitly include 'Bilirubin > 4.5 mg/dL'. (Book p995)"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "page": 994,
+ "sec": "HAV vs HEV prevention, serology graph and ALF classification",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "What is the incidence of fulminant hepatic failure in acute Hepatitis A versus acute Hepatitis E in pregnancy?",
+   "opts": [
+    "HAV: rare (1 in 2 lakhs); HEV in pregnancy: approximately 20%",
+    "HAV: 5%; HEV in pregnancy: 1%",
+    "HAV: 1 in 1000; HEV in pregnancy: 50%",
+    "HAV: 10%; HEV in pregnancy: 2%"
+   ],
+   "ans": 0,
+   "exp": "Risk of fulminant failure is rare in HAV (1 in 2 lakhs), whereas in HEV it is 1\u20132% in general but reaches 20% in pregnancy. (Book p994)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What are the typical recovery durations for acute Hepatitis A versus acute Hepatitis E infections?",
+   "opts": [
+    "HAV: 8 weeks; HEV: 12 weeks",
+    "HAV: 2 weeks; HEV: 4 weeks",
+    "HAV: 16 weeks; HEV: 24 weeks",
+    "HAV: 6 months; HEV: 1 year"
+   ],
+   "ans": 0,
+   "exp": "The comparison table notes a recovery time of 8 weeks for HAV and 12 weeks for HEV. (Book p994)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each hepatitis virus with its specific medical therapy \u2014 1) Hepatitis A fluid and glucose repletion 2) Hepatitis E with long-standing cholestasis \u2026 A) Oral or systemic steroids B) 150 mL of 10% Dextrose",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "Conservative glucose repletion for HAV uses 150 mL 10% Dextrose, whereas long-standing cholestasis in HEV is treated with steroids. (Book p994)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Acute relapsing hepatitis occurring > 6\u201312 months after the initial infection is observed in ______ but is absent in Hepatitis E.",
+   "opts": [
+    "Hepatitis A",
+    "Hepatitis D",
+    "Hepatitis G",
+    "Yellow fever"
+   ],
+   "ans": 0,
+   "exp": "The table notes '+ (Relapse >6\u201312 months)' under HAV for acute relapsing hepatitis, while HEV has a dash. (Book p994)"
+  },
+  {
+   "fmt": "management",
+   "q": "What is the recommended dosing schedule and pre-exposure timing for the HAVRIX Hepatitis A vaccine?",
+   "opts": [
+    "1 mL IM, 2 doses given 6\u201312 months apart; pre-exposure >= 2 weeks before travel",
+    "0.5 mL SC, single dose; pre-exposure within 48 hours of travel",
+    "2 mL IM, 3 doses at 0, 1, 6 months; pre-exposure 6 weeks before travel",
+    "1 mL oral drops, 2 doses 4 weeks apart; pre-exposure 1 week before travel"
+   ],
+   "ans": 0,
+   "exp": "HAVRIX is given as 1 mL IM in 2 doses 6\u201312 months apart; pre-exposure prophylaxis is >= 2 weeks before travel, and post-exposure within 4 weeks. (Book p994)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which three laboratory parameters constitute the Model for End-Stage Liver Disease (MELD) score noted on this page?",
+   "opts": [
+    "INR, Serum Bilirubin, and Serum Creatinine",
+    "Albumin, Prothrombin time, and Ascites grade",
+    "ALT, Platelet count, and Serum Sodium",
+    "GGT, Alkaline phosphatase, and Encephalopathy grade"
+   ],
+   "ans": 0,
+   "exp": "The MELD score components are explicitly listed as INR, Serum Bilirubin, and Serum Creatinine. (Book p994)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A traveler returns from an endemic zone with acute viral hepatitis A. Serological plotting over the 20-week exposure window demonstrates stool virus shedding followed by jaundice. At what post-exposure time frame does fecal HAV shedding peak and drop, and which antibody provides lifelong immunity?",
+   "opts": [
+    "Fecal shedding peaks before 4 weeks and drops by 6 weeks; IgG Anti-HAV provides lifelong immunity",
+    "Fecal shedding peaks at 12 weeks and drops at 20 weeks; IgM Anti-HAV provides lifelong immunity",
+    "Fecal shedding persists continuously for 12 months; IgA Anti-HAV provides lifelong immunity",
+    "Fecal shedding only begins after week 16; Anti-HBs provides lifelong immunity"
+   ],
+   "ans": 0,
+   "exp": "The graph shows fecal HAV peaking before week 4 and dropping by week 6; IgG Anti-HAV rises after weeks 8\u201312 conferring lifelong protection. (Book p994)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the clinical definition of Acute Liver Failure (ALF)?",
+   "opts": [
+    "Acute hepatitis with encephalopathy (cerebral edema) and coagulopathy (INR >= 1.5) without pre-existing liver disease",
+    "Decompensation of established cirrhosis with ascites, variceal bleeding, and jaundice",
+    "Severe transaminitis >1000 U/L persisting for more than 6 months in a chronic carrier",
+    "Biliary tract obstruction complicated by ascending cholangitis and septic shock"
+   ],
+   "ans": 0,
+   "exp": "ALF is defined as acute hepatitis plus encephalopathy (cerebral edema) and coagulopathy (INR >= 1.5) in the absence of pre-existing liver disease. (Book p994)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each classification of acute liver failure with its onset interval from jaundice to encephalopathy \u2014 1) Fulminant (Hyperacute) 2) Acute 3) Subacute \u2026 A) 7\u201321 days B) 21 days to 26 weeks C) < 7 days",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Onset intervals are Fulminant (Hyperacute): < 7 days; Acute: 7\u201321 days; and Subacute: 21 days to 26 weeks. (Book p994)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the most common cause of Acute Liver Failure in India?",
+   "opts": [
+    "Hepatitis E virus (1\u20132%)",
+    "Paracetamol overdose",
+    "Yellow phosphorus rodenticide",
+    "Autoimmune hepatitis"
+   ],
+   "ans": 0,
+   "exp": "Under viral causes of ALF, HEV (1\u20132%) is explicitly tagged as '(m/c in India)'. (Book p994)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What is the risk of developing acute liver failure in patients with Hepatitis B and Hepatitis D virus coinfection?",
+   "opts": [
+    "5% to 20%",
+    "0.1% to 1%",
+    "50% to 75%",
+    "1 in 2 lakhs"
+   ],
+   "ans": 0,
+   "exp": "The risk of ALF in HBV + HDV coinfection is listed as 5\u201320% (compared to 0.1\u20131% for isolated HBV). (Book p994)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two statements: I Hepatitis E carries no commercial vaccine approved for routine clinical prevention. II Post-exposure prophylaxis for Hepatitis A using HAVRIX vaccine must be administered within 4 weeks of exposure.",
+   "opts": [
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Both statements are true: HEV has 'No vaccine' listed, and HAVRIX post-exposure prophylaxis is given 'within 4 wks'. (Book p994)"
+  }
+ ]
+}

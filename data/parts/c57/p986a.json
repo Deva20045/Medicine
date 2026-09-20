@@ -1,0 +1,162 @@
+{
+ "page": 986,
+ "sec": "Bilirubin \u00b7 production, conjugation and canalicular transport",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "What is the daily rate of bilirubin production in a healthy human adult as recorded on this page?",
+   "opts": [
+    "4 mg/kg (approximately 300 mg/day)",
+    "1 mg/kg (approximately 75 mg/day)",
+    "8 mg/kg (approximately 600 mg/day)",
+    "12 mg/kg (approximately 900 mg/day)"
+   ],
+   "ans": 0,
+   "exp": "The text lists bilirubin production as 4 mg/kg, which amounts to roughly 300 mg per day. (Book p986)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each precursor source of bilirubin with its contribution and anatomical site \u2014 1) Hemoglobin breakdown 2) Other heme-containing proteins \u2026 A) <20%, originating primarily in the liver B) 80%, originating in the reticuloendothelial system of liver and bone marrow",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "Hemoglobin accounts for 80% of bilirubin production within the reticuloendothelial system (liver and bone marrow), while other heme proteins provide <20% primarily in the liver. (Book p986)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In bilirubin synthesis, the conversion of heme to biliverdin is catalysed by heme oxygenase, whose constitutively expressed isoform ______ is located in both mitochondria and smooth endoplasmic reticulum.",
+   "opts": [
+    "HOX-2",
+    "HOX-1",
+    "HOX-3",
+    "HOX-4"
+   ],
+   "ans": 0,
+   "exp": "HOX-2 is constitutively expressed in mitochondria and the smooth endoplasmic reticulum, whereas HOX-1 is sited solely in the smooth endoplasmic reticulum. (Book p986)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which enzyme converts biliverdin to bilirubin within the smooth endoplasmic reticulum?",
+   "opts": [
+    "Biliverdin reductase",
+    "Glutathione transferase",
+    "UDP-glucuronide transferase",
+    "Heme oxygenase-1"
+   ],
+   "ans": 0,
+   "exp": "Biliverdin reductase catalyses the reduction of biliverdin to form bilirubin within the smooth endoplasmic reticulum. (Book p986)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two statements on bilirubin transport: I Unconjugated bilirubin is lipophilic and circulates bound to albumin via a reversible non-covalent bond. II Unconjugated bilirubin enters the hepatocyte from the space of Disse via primary active ATP-dependent transport.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Statement I is true because bilirubin is lipophilic and reversibly bound to albumin. Statement II is false because bilirubin enters the hepatocyte across the space of Disse by passive diffusion, not active transport. (Book p986)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Inside the hepatocyte cytoplasm, unconjugated bilirubin binds to ______ before undergoing conjugation in the smooth endoplasmic reticulum.",
+   "opts": [
+    "glutathione transferase",
+    "ligandin B3",
+    "apoceruloplasmin",
+    "metallothionein"
+   ],
+   "ans": 0,
+   "exp": "Unconjugated bilirubin binds to glutathione transferase inside the hepatocyte before proceeding to conjugation. (Book p986)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the rate-limiting step of bilirubin metabolism within the hepatocyte?",
+   "opts": [
+    "Conjugation by UDP-glucuronide transferase in the smooth endoplasmic reticulum",
+    "Passive diffusion across the space of Disse into the cytoplasm",
+    "Dissociation from serum albumin in the hepatic sinusoids",
+    "Binding to cytosolic glutathione transferase"
+   ],
+   "ans": 0,
+   "exp": "The rate-limiting step in hepatocyte bilirubin metabolism is conjugation mediated by UDP-glucuronide transferase in the smooth endoplasmic reticulum. (Book p986)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each transporter in bilirubin handling with its functional description \u2014 1) MRP-2 2) MRP-3 \u2026 A) Basolateral transporter mediating excess conjugated bilirubin export into sinusoidal blood and bilirubin hopping B) Canalicular ATP-dependent transporter coded by ABCC2 that serves as the only pathway for canalicular bilirubin excretion",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "MRP-2 (ABCC2) is the canalicular ATP-dependent exporter, whereas MRP-3 is the basolateral transporter mediating export into sinusoidal blood and bilirubin hopping. (Book p986)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 22-year-old man presents with mild fluctuating jaundice. Laboratory workup reveals conjugated hyperbilirubinemia. Molecular genetic testing identifies a loss-of-function mutation in the ABCC2 gene encoding the canalicular MRP-2 transporter. Which condition does this patient have?",
+   "opts": [
+    "Dubin-Johnson syndrome",
+    "Rotor syndrome",
+    "Gilbert syndrome",
+    "Crigler-Najjar syndrome type II"
+   ],
+   "ans": 0,
+   "exp": "Defective MRP-2 coded by ABCC2 results in Dubin-Johnson syndrome, which exhibits impaired canalicular excretion of bilirubin diglucuronide. (Book p986)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT a feature of the MRP-2 transporter annotated in the hepatocyte excretion pathway?",
+   "opts": [
+    "It mediates passive facilitated entry of conjugated bilirubin from blood into adjacent hepatocytes",
+    "It represents the only pathway for canalicular bilirubin excretion",
+    "It also excretes bile salts across the canalicular membrane",
+    "Its action is the only active step requiring ATP in bilirubin processing"
+   ],
+   "ans": 0,
+   "exp": "MRP-2 mediates active canalicular export, not sinusoidal re-entry into adjacent hepatocytes; uptake into adjacent hepatocytes is mediated by OATP1B1/B3 during bilirubin hopping. (Book p986)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 19-year-old woman is evaluated for asymptomatic conjugated hyperbilirubinemia. Investigations establish normal MRP-2 expression, but she is found to have defective organic anion transporting polypeptides OATP1B1 and OATP1B3, impairing bilirubin re-entry during hopping. What is the diagnosis?",
+   "opts": [
+    "Rotor syndrome",
+    "Dubin-Johnson syndrome",
+    "Crigler-Najjar syndrome type I",
+    "Byler disease"
+   ],
+   "ans": 0,
+   "exp": "Defective OATP1B1 and OATP1B3 impairs the re-entry of conjugated bilirubin during bilirubin hopping, causing Rotor syndrome. (Book p986)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Bilirubin hopping refers to bilirubin diglucuronide (BrG2) excretion into sinusoidal blood and re-entering adjacent hepatocytes via the ______ pathway.",
+   "opts": [
+    "MRP-3",
+    "MRP-2",
+    "SGLT-2",
+    "DMT-1"
+   ],
+   "ans": 0,
+   "exp": "Bilirubin hopping involves BrG2 export into sinusoidal blood via the MRP-3 pathway and subsequent re-uptake by neighbouring hepatocytes via OATP1B1/B3. (Book p986)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two statements on bilirubin excretion: I The only step in bilirubin hepatic processing that requires ATP is canalicular export via MRP-2. II Conjugated bilirubin that spills into the systemic circulation via MRP-3 is water-soluble and can be excreted in urine.",
+   "opts": [
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Both statements are true: MRP-2 canalicular transport is the sole active ATP-requiring step, and conjugated bilirubin in blood is water-soluble, permitting renal excretion. (Book p986)"
+  }
+ ]
+}
