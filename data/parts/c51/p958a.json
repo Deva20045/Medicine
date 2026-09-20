@@ -1,0 +1,150 @@
+{
+  "page": 958,
+  "sec": "Serum osmolality, effective osmoles and translocational hyponatremia",
+  "items": [
+    {
+      "fmt": "recall",
+      "q": "What is the standard formula for calculating serum osmolality?",
+      "opts": [
+        "2 × S.Na+ + (Blood Glucose / 18) + (BUN / 2.8)",
+        "2 × S.Na+ + (Blood Glucose / 10) + (BUN / 1.4)",
+        "S.Na+ + S.K+ + (Blood Glucose / 18) + (BUN / 2.8)",
+        "2 × S.Na+ + Blood Glucose + BUN"
+      ],
+      "ans": 0,
+      "exp": "Serum osmolality is calculated as 2 × S.Na+ + (Blood Glucose / 18) + (BUN / 2.8). (Book p958)"
+    },
+    {
+      "fmt": "numeric",
+      "q": "What is the normal physiological reference range for serum osmolality?",
+      "opts": [
+        "285 to 290 mOsm/kg of H2O",
+        "270 to 275 mOsm/kg of H2O",
+        "300 to 310 mOsm/kg of H2O",
+        "250 to 260 mOsm/kg of H2O"
+      ],
+      "ans": 0,
+      "exp": "Normal serum osmolality ranges from 285 to 290 mOsm/kg of H2O. (Book p958)"
+    },
+    {
+      "fmt": "match",
+      "q": "Match the osmole type to its physiological behavior across cell membranes — 1) Effective osmoles (Solutes) 2) Ineffective osmoles … A) Remain confined in extracellular blood without crossing cell membrane, drawing water out of cells B) Freely cross cell membranes without generating an effective osmotic gradient",
+      "opts": [
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Effective osmoles stay in blood and draw water out of cells causing hyponatremia; ineffective osmoles cross cell membranes freely. (Book p958)"
+    },
+    {
+      "fmt": "oddoneout",
+      "q": "Which molecule is an ineffective osmole that freely permeates cell membranes?",
+      "opts": [
+        "Urea",
+        "Mannitol",
+        "Glucose",
+        "Glycine"
+      ],
+      "ans": 0,
+      "exp": "Urea, ethanol, methanol, and ethylene glycol are ineffective osmoles; mannitol, glucose, and glycine are effective osmoles. (Book p958)"
+    },
+    {
+      "fmt": "fillup",
+      "q": "Tonicity represents the effective osmolality of solutes that cannot freely cross cell membranes, and is physiologically maintained predominantly by ___.",
+      "opts": [
+        "Sodium",
+        "Potassium",
+        "Urea",
+        "Calcium"
+      ],
+      "ans": 0,
+      "exp": "Tonicity is effective osmolality and is governed and maintained primarily by sodium. (Book p958)"
+    },
+    {
+      "fmt": "scenario",
+      "q": "A 68-year-old male undergoes transurethral resection of the prostate (TURP) with continuous bladder irrigation using a non-electrolyte glycine solution. Postoperatively, his serum sodium is 124 mEq/L while measured serum osmolality is 292 mOsm/kg. What mechanism explains this laboratory finding?",
+      "opts": [
+        "Translocational pseudohyponatremia due to systemic absorption of effective solute glycine",
+        "Syndrome of inappropriate antidiuretic hormone secretion triggered by surgical pain",
+        "Excessive primary renal sodium wasting from acute tubular necrosis",
+        "Psychogenic water intoxication during perioperative recovery"
+      ],
+      "ans": 0,
+      "exp": "Glycine is an effective solute that stays in blood without crossing cell membranes, drawing water from cells and causing translocational hyponatremia. (Book p958)"
+    },
+    {
+      "fmt": "numeric",
+      "q": "In translocational hyponatremia from hyperglycemia, for every 100 mg/dL elevation in blood glucose, serum sodium falls by approximately:",
+      "opts": [
+        "1.6 mEq/L",
+        "2.8 mEq/L",
+        "0.5 mEq/L",
+        "3.2 mEq/L"
+      ],
+      "ans": 0,
+      "exp": "For every 100 mg/dL rise in blood glucose, serum sodium falls by 1.6 mEq/L. (Book p958)"
+    },
+    {
+      "fmt": "match",
+      "q": "Match the hyponatremic state to its serum osmolality profile — 1) True hyponatremia 2) Pseudohyponatremia … A) Low serum sodium with low serum osmolality B) Low serum sodium with normal or increased serum osmolality",
+      "opts": [
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "True hyponatremia is low sodium with low osmolality; pseudohyponatremia features low sodium with normal or elevated osmolality. (Book p958)"
+    },
+    {
+      "fmt": "oddoneout",
+      "q": "Which solute is NOT listed among the effective solutes causing translocational hyponatremia?",
+      "opts": [
+        "Ethanol",
+        "Glucose",
+        "Mannitol",
+        "Maltose"
+      ],
+      "ans": 0,
+      "exp": "Glucose, mannitol, glycine, and maltose are effective solutes; ethanol is an ineffective osmole that crosses membranes freely. (Book p958)"
+    },
+    {
+      "fmt": "truefalse",
+      "q": "Assess the osmotic characteristics of solutes: I Effective osmoles draw intracellular water into the vascular compartment, diluting serum sodium. II Ineffective osmoles alter effective tonicity and drive transcellular fluid shifts.",
+      "opts": [
+        "Only I is true",
+        "Only II is true",
+        "Both I and II are true",
+        "Both I and II are false"
+      ],
+      "ans": 0,
+      "exp": "Effective osmoles cause water shifts and hyponatremia; ineffective osmoles cross membranes freely without changing effective osmolality. (Book p958)"
+    },
+    {
+      "fmt": "scenario",
+      "q": "A 50-year-old diabetic male presents with severe hyperglycemia of 700 mg/dL. His measured serum sodium is 126 mEq/L. What is his corrected serum sodium taking into account the 1.6 mEq/L correction per 100 mg/dL glucose excess above baseline (100 mg/dL)?",
+      "opts": [
+        "135.6 mEq/L",
+        "126.0 mEq/L",
+        "142.4 mEq/L",
+        "130.0 mEq/L"
+      ],
+      "ans": 0,
+      "exp": "Excess glucose is 600 mg/dL (6 × 100 mg/dL). Correction is 6 × 1.6 = 9.6 mEq/L. Corrected sodium = 126 + 9.6 = 135.6 mEq/L. (Book p958)"
+    },
+    {
+      "fmt": "fillup",
+      "q": "Effective solutes remain in the blood without crossing the cell membrane, drawing ___ out of cells into the intravascular space.",
+      "opts": [
+        "H2O",
+        "Sodium",
+        "Potassium",
+        "Urea"
+      ],
+      "ans": 0,
+      "exp": "Effective osmoles draw H2O out of the intracellular compartment into the blood. (Book p958)"
+    }
+  ]
+}

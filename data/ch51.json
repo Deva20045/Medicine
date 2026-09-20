@@ -1,0 +1,817 @@
+{
+ "chapter": 51,
+ "title": "Antidiuretic Hormone",
+ "pageRange": "958-961",
+ "questions": [
+  {
+   "id": "MED-C51-001",
+   "sec": "Serum osmolality, effective osmoles and translocational hyponatremia",
+   "page": 958,
+   "fmt": "recall",
+   "q": "What is the standard formula for calculating serum osmolality?",
+   "opts": [
+    "2 × S.Na+ + Blood Glucose + BUN",
+    "2 × S.Na+ + (Blood Glucose / 18) + (BUN / 2.8)",
+    "2 × S.Na+ + (Blood Glucose / 10) + (BUN / 1.4)",
+    "S.Na+ + S.K+ + (Blood Glucose / 18) + (BUN / 2.8)"
+   ],
+   "ans": 1,
+   "exp": "Serum osmolality is calculated as 2 × S.Na+ + (Blood Glucose / 18) + (BUN / 2.8). (Book p958)"
+  },
+  {
+   "id": "MED-C51-002",
+   "sec": "Serum osmolality, effective osmoles and translocational hyponatremia",
+   "page": 958,
+   "fmt": "numeric",
+   "q": "What is the normal physiological reference range for serum osmolality?",
+   "opts": [
+    "270 to 275 mOsm/kg of H2O",
+    "300 to 310 mOsm/kg of H2O",
+    "250 to 260 mOsm/kg of H2O",
+    "285 to 290 mOsm/kg of H2O"
+   ],
+   "ans": 3,
+   "exp": "Normal serum osmolality ranges from 285 to 290 mOsm/kg of H2O. (Book p958)"
+  },
+  {
+   "id": "MED-C51-003",
+   "sec": "Serum osmolality, effective osmoles and translocational hyponatremia",
+   "page": 958,
+   "fmt": "match",
+   "q": "Match the osmole type to its physiological behavior across cell membranes — 1) Effective osmoles (Solutes) 2) Ineffective osmoles … A) Remain confined in extracellular blood without crossing cell membrane, drawing water out of cells B) Freely cross cell membranes without generating an effective osmotic gradient",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Effective osmoles stay in blood and draw water out of cells causing hyponatremia; ineffective osmoles cross cell membranes freely. (Book p958)"
+  },
+  {
+   "id": "MED-C51-004",
+   "sec": "Serum osmolality, effective osmoles and translocational hyponatremia",
+   "page": 958,
+   "fmt": "oddoneout",
+   "q": "Which molecule is an ineffective osmole that freely permeates cell membranes?",
+   "opts": [
+    "Urea",
+    "Mannitol",
+    "Glucose",
+    "Glycine"
+   ],
+   "ans": 0,
+   "exp": "Urea, ethanol, methanol, and ethylene glycol are ineffective osmoles; mannitol, glucose, and glycine are effective osmoles. (Book p958)"
+  },
+  {
+   "id": "MED-C51-005",
+   "sec": "Serum osmolality, effective osmoles and translocational hyponatremia",
+   "page": 958,
+   "fmt": "fillup",
+   "q": "Tonicity represents the effective osmolality of solutes that cannot freely cross cell membranes, and is physiologically maintained predominantly by ___.",
+   "opts": [
+    "Urea",
+    "Calcium",
+    "Sodium",
+    "Potassium"
+   ],
+   "ans": 2,
+   "exp": "Tonicity is effective osmolality and is governed and maintained primarily by sodium. (Book p958)"
+  },
+  {
+   "id": "MED-C51-006",
+   "sec": "Serum osmolality, effective osmoles and translocational hyponatremia",
+   "page": 958,
+   "fmt": "scenario",
+   "q": "A 68-year-old male undergoes transurethral resection of the prostate (TURP) with continuous bladder irrigation using a non-electrolyte glycine solution. Postoperatively, his serum sodium is 124 mEq/L while measured serum osmolality is 292 mOsm/kg. What mechanism explains this laboratory finding?",
+   "opts": [
+    "Translocational pseudohyponatremia due to systemic absorption of effective solute glycine",
+    "Syndrome of inappropriate antidiuretic hormone secretion triggered by surgical pain",
+    "Excessive primary renal sodium wasting from acute tubular necrosis",
+    "Psychogenic water intoxication during perioperative recovery"
+   ],
+   "ans": 0,
+   "exp": "Glycine is an effective solute that stays in blood without crossing cell membranes, drawing water from cells and causing translocational hyponatremia. (Book p958)"
+  },
+  {
+   "id": "MED-C51-007",
+   "sec": "Serum osmolality, effective osmoles and translocational hyponatremia",
+   "page": 958,
+   "fmt": "numeric",
+   "q": "In translocational hyponatremia from hyperglycemia, for every 100 mg/dL elevation in blood glucose, serum sodium falls by approximately:",
+   "opts": [
+    "1.6 mEq/L",
+    "2.8 mEq/L",
+    "0.5 mEq/L",
+    "3.2 mEq/L"
+   ],
+   "ans": 0,
+   "exp": "For every 100 mg/dL rise in blood glucose, serum sodium falls by 1.6 mEq/L. (Book p958)"
+  },
+  {
+   "id": "MED-C51-008",
+   "sec": "Serum osmolality, effective osmoles and translocational hyponatremia",
+   "page": 958,
+   "fmt": "match",
+   "q": "Match the hyponatremic state to its serum osmolality profile — 1) True hyponatremia 2) Pseudohyponatremia … A) Low serum sodium with low serum osmolality B) Low serum sodium with normal or increased serum osmolality",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-A, 2-B"
+   ],
+   "ans": 3,
+   "exp": "True hyponatremia is low sodium with low osmolality; pseudohyponatremia features low sodium with normal or elevated osmolality. (Book p958)"
+  },
+  {
+   "id": "MED-C51-009",
+   "sec": "Serum osmolality, effective osmoles and translocational hyponatremia",
+   "page": 958,
+   "fmt": "oddoneout",
+   "q": "Which solute is NOT listed among the effective solutes causing translocational hyponatremia?",
+   "opts": [
+    "Ethanol",
+    "Glucose",
+    "Mannitol",
+    "Maltose"
+   ],
+   "ans": 0,
+   "exp": "Glucose, mannitol, glycine, and maltose are effective solutes; ethanol is an ineffective osmole that crosses membranes freely. (Book p958)"
+  },
+  {
+   "id": "MED-C51-010",
+   "sec": "Serum osmolality, effective osmoles and translocational hyponatremia",
+   "page": 958,
+   "fmt": "truefalse",
+   "q": "Assess the osmotic characteristics of solutes: I Effective osmoles draw intracellular water into the vascular compartment, diluting serum sodium. II Ineffective osmoles alter effective tonicity and drive transcellular fluid shifts.",
+   "opts": [
+    "Only I is true",
+    "Only II is true",
+    "Both I and II are true",
+    "Both I and II are false"
+   ],
+   "ans": 0,
+   "exp": "Effective osmoles cause water shifts and hyponatremia; ineffective osmoles cross membranes freely without changing effective osmolality. (Book p958)"
+  },
+  {
+   "id": "MED-C51-011",
+   "sec": "Serum osmolality, effective osmoles and translocational hyponatremia",
+   "page": 958,
+   "fmt": "scenario",
+   "q": "A 50-year-old diabetic male presents with severe hyperglycemia of 700 mg/dL. His measured serum sodium is 126 mEq/L. What is his corrected serum sodium taking into account the 1.6 mEq/L correction per 100 mg/dL glucose excess above baseline (100 mg/dL)?",
+   "opts": [
+    "135.6 mEq/L",
+    "126.0 mEq/L",
+    "142.4 mEq/L",
+    "130.0 mEq/L"
+   ],
+   "ans": 0,
+   "exp": "Excess glucose is 600 mg/dL (6 × 100 mg/dL). Correction is 6 × 1.6 = 9.6 mEq/L. Corrected sodium = 126 + 9.6 = 135.6 mEq/L. (Book p958)"
+  },
+  {
+   "id": "MED-C51-012",
+   "sec": "Serum osmolality, effective osmoles and translocational hyponatremia",
+   "page": 958,
+   "fmt": "fillup",
+   "q": "Effective solutes remain in the blood without crossing the cell membrane, drawing ___ out of cells into the intravascular space.",
+   "opts": [
+    "H2O",
+    "Sodium",
+    "Potassium",
+    "Urea"
+   ],
+   "ans": 0,
+   "exp": "Effective osmoles draw H2O out of the intracellular compartment into the blood. (Book p958)"
+  },
+  {
+   "id": "MED-C51-013",
+   "sec": "Severity classification, thirst threshold and ADH synthesis",
+   "page": 959,
+   "fmt": "match",
+   "q": "Match the serum sodium concentration to its severity classification tier — 1) 130 to 135 mEq/L 2) 120 to 129 mEq/L 3) 100 to 119 mEq/L 4) Less than 100 mEq/L … A) Mild hyponatremia B) Moderate hyponatremia C) Severe hyponatremia D) Very severe hyponatremia",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "130-135 is mild, 120-129 is moderate, 100-119 is severe, and < 100 is very severe hyponatremia. (Book p959)"
+  },
+  {
+   "id": "MED-C51-014",
+   "sec": "Severity classification, thirst threshold and ADH synthesis",
+   "page": 959,
+   "fmt": "scenario",
+   "q": "A 58-year-old female is admitted with a serum sodium of 114 mEq/L. On examination, she exhibits confusion, disorientation, wide-based gait abnormalities, and intractable hiccups. Her clinical severity tier is:",
+   "opts": [
+    "Mild hyponatremia",
+    "Moderate hyponatremia",
+    "Very severe hyponatremia",
+    "Severe hyponatremia"
+   ],
+   "ans": 3,
+   "exp": "Sodium of 100-119 mEq/L represents severe hyponatremia characterized by confusion, gait abnormalities, and hiccups. (Book p959)"
+  },
+  {
+   "id": "MED-C51-015",
+   "sec": "Severity classification, thirst threshold and ADH synthesis",
+   "page": 959,
+   "fmt": "recall",
+   "q": "What life-threatening clinical manifestations occur in very severe hyponatremia when serum sodium falls below 100 mEq/L?",
+   "opts": [
+    "Hyperosmolar non-ketotic dehydration",
+    "Isolated asymptomatic hyporeflexia",
+    "Features of increased intracranial tension and brain herniation",
+    "Severe muscular pseudohypertrophy"
+   ],
+   "ans": 2,
+   "exp": "Sodium < 100 mEq/L causes very severe hyponatremia with manifestations of increased intracranial tension (ICT). (Book p959)"
+  },
+  {
+   "id": "MED-C51-016",
+   "sec": "Severity classification, thirst threshold and ADH synthesis",
+   "page": 959,
+   "fmt": "recall",
+   "q": "Which obsolete laboratory methodology artifacts produce artifactual pseudohyponatremia due to volume displacement?",
+   "opts": [
+    "Hypoalbuminemia and Hyperbilirubinemia",
+    "Hypertriglyceridemia and Paraproteinemia",
+    "Severe hyperkalemia and Hypercalcemia",
+    "Metabolic acidosis and Hyperuricemia"
+   ],
+   "ans": 1,
+   "exp": "Obsolete methodology causes of pseudohyponatremia are hypertriglyceridemia and paraproteinemia. (Book p959)"
+  },
+  {
+   "id": "MED-C51-017",
+   "sec": "Severity classification, thirst threshold and ADH synthesis",
+   "page": 959,
+   "fmt": "numeric",
+   "q": "At what serum osmolality threshold is endogenous ADH (vasopressin) release triggered?",
+   "opts": [
+    "Greater than 260 mmol/kg",
+    "Greater than 280 mmol/kg",
+    "Greater than 290 mmol/kg",
+    "Greater than 310 mmol/kg"
+   ],
+   "ans": 1,
+   "exp": "ADH secretion is activated when serum osmolality exceeds 280 mmol/kg. (Book p959)"
+  },
+  {
+   "id": "MED-C51-018",
+   "sec": "Severity classification, thirst threshold and ADH synthesis",
+   "page": 959,
+   "fmt": "numeric",
+   "q": "At what serum osmolality threshold is the physiological thirst mechanism activated?",
+   "opts": [
+    "Greater than 280 mmol/kg",
+    "Greater than 270 mmol/kg",
+    "Greater than 320 mmol/kg",
+    "Greater than 290 mmol/kg"
+   ],
+   "ans": 3,
+   "exp": "The thirst mechanism is activated when serum osmolality rises above 290 mmol/kg. (Book p959)"
+  },
+  {
+   "id": "MED-C51-019",
+   "sec": "Severity classification, thirst threshold and ADH synthesis",
+   "page": 959,
+   "fmt": "truefalse",
+   "q": "Assess the prevention of hypernatremia: I Hypernatremia is very rare because osmolality > 280 mmol/kg releases ADH and > 290 mmol/kg stimulates thirst. II Concomitant ADH-mediated water retention and thirst prevent hypernatremia under normal physiology.",
+   "opts": [
+    "Both I and II are false",
+    "Both I and II are true",
+    "Only I is true",
+    "Only II is true"
+   ],
+   "ans": 1,
+   "exp": "Increased osmolality triggers ADH (> 280) and thirst (> 290), so elevated sodium is not normally seen. (Book p959)"
+  },
+  {
+   "id": "MED-C51-020",
+   "sec": "Severity classification, thirst threshold and ADH synthesis",
+   "page": 959,
+   "fmt": "fillup",
+   "q": "Vasopressin is synthesized in the hypothalamus within the supra-optic and ___ nuclei.",
+   "opts": [
+    "Ventromedial",
+    "Arcuate",
+    "Suprachiasmatic",
+    "Paraventricular"
+   ],
+   "ans": 3,
+   "exp": "ADH is synthesized in the supra-optic and paraventricular nuclei of the hypothalamus. (Book p959)"
+  },
+  {
+   "id": "MED-C51-021",
+   "sec": "Severity classification, thirst threshold and ADH synthesis",
+   "page": 959,
+   "fmt": "recall",
+   "q": "What specialized hypothalamic neuronal cell population synthesizes pro-vasopressin?",
+   "opts": [
+    "Purkinje cells",
+    "Granule cells",
+    "Magnocellular neurons",
+    "Parvocellular neurons"
+   ],
+   "ans": 2,
+   "exp": "Magnocellular neurons produce the pro-vasopressin precursor. (Book p959)"
+  },
+  {
+   "id": "MED-C51-022",
+   "sec": "Severity classification, thirst threshold and ADH synthesis",
+   "page": 959,
+   "fmt": "match",
+   "q": "Match the pro-vasopressin cleavage fragment to its role — 1) ADH (Vasopressin) 2) Neurophysin 3) Copeptin … A) Active antidiuretic hormone stored in posterior pituitary B) Carrier protein during axonal transport C) Equimolar C-terminal cleavage marker",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 3,
+   "exp": "Pro-vasopressin is cleaved into ADH, neurophysin, and copeptin at the pituitary stalk. (Book p959)"
+  },
+  {
+   "id": "MED-C51-023",
+   "sec": "Severity classification, thirst threshold and ADH synthesis",
+   "page": 959,
+   "fmt": "oddoneout",
+   "q": "Which stimulus is the MOST important physiological driver for ADH release?",
+   "opts": [
+    "Moderate hyperkalemia",
+    "Elevated ambient temperature",
+    "Osmotic stimulus at 280 mOsm/kg",
+    "Non-osmotic decreased blood volume"
+   ],
+   "ans": 2,
+   "exp": "Osmotic stimulus (at 280 mOsm/kg) is the most important physiological trigger for ADH release. (Book p959)"
+  },
+  {
+   "id": "MED-C51-024",
+   "sec": "Severity classification, thirst threshold and ADH synthesis",
+   "page": 959,
+   "fmt": "truefalse",
+   "q": "Assess mild to moderate hyponatremia: I Sodium levels of 120 to 135 mEq/L cause gastrointestinal symptoms, mild headache, and lethargy. II Sodium levels between 120 and 135 mEq/L routinely cause seizures and tentorial herniation.",
+   "opts": [
+    "Only I is true",
+    "Only II is true",
+    "Both I and II are true",
+    "Both I and II are false"
+   ],
+   "ans": 0,
+   "exp": "Mild to moderate hyponatremia (120-135) manifests with GI symptoms, mild headache, and lethargy, not herniation. (Book p959)"
+  },
+  {
+   "id": "MED-C51-025",
+   "sec": "Vasopressin receptors, actions and countercurrent mechanism",
+   "page": 960,
+   "fmt": "match",
+   "q": "Match the vasopressin receptor subtype to its intracellular secondary messenger pathway — 1) V1 and V3 receptors 2) V2 receptor … A) IP3 / DAG pathway B) cAMP pathway",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-A, 2-B"
+   ],
+   "ans": 3,
+   "exp": "V1 and V3 signal via IP3/DAG; V2 signals via adenylyl cyclase-cAMP. (Book p960)"
+  },
+  {
+   "id": "MED-C51-026",
+   "sec": "Vasopressin receptors, actions and countercurrent mechanism",
+   "page": 960,
+   "fmt": "match",
+   "q": "Match the V1 receptor site to its corresponding physiological action — 1) Blood vessels 2) Liver 3) Heart 4) Platelet … A) Vasoconstriction B) Glycogenolysis C) Hypertrophy D) Aggregation",
+   "opts": [
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-B, 3-C, 4-D"
+   ],
+   "ans": 3,
+   "exp": "V1 mediates vasoconstriction in vessels, glycogenolysis in liver, hypertrophy in heart, and aggregation in platelets. (Book p960)"
+  },
+  {
+   "id": "MED-C51-027",
+   "sec": "Vasopressin receptors, actions and countercurrent mechanism",
+   "page": 960,
+   "fmt": "recall",
+   "q": "Which vasopressin receptor located on anterior pituitary corticotrophs stimulates ACTH release?",
+   "opts": [
+    "V3 (also designated V1b)",
+    "V1a receptor",
+    "V2 receptor",
+    "V4 receptor"
+   ],
+   "ans": 0,
+   "exp": "V3 (V1b) receptors in the anterior pituitary stimulate ACTH release. (Book p960)"
+  },
+  {
+   "id": "MED-C51-028",
+   "sec": "Vasopressin receptors, actions and countercurrent mechanism",
+   "page": 960,
+   "fmt": "scenario",
+   "q": "A 19-year-old male with mild von Willebrand disease is administered desmopressin (DDAVP) prior to dental extraction. Desmopressin acts on which endothelial receptor to stimulate vWF release?",
+   "opts": [
+    "V1 receptor",
+    "V3 receptor",
+    "Endothelin ET-A receptor",
+    "V2 receptor"
+   ],
+   "ans": 3,
+   "exp": "V2 receptors on vascular endothelium stimulate the release of von Willebrand factor (vWF). (Book p960)"
+  },
+  {
+   "id": "MED-C51-029",
+   "sec": "Vasopressin receptors, actions and countercurrent mechanism",
+   "page": 960,
+   "fmt": "recall",
+   "q": "In the renal counter-current multiplier system, water reabsorption in the descending limb of Henle increases luminal tubular fluid osmolality by:",
+   "opts": [
+    "10 times",
+    "8 times",
+    "4 times",
+    "2 times"
+   ],
+   "ans": 2,
+   "exp": "Water reabsorption along the descending limb increases tubular fluid osmolality by 4 times (from 300 up to 1200 mOsm/kg). (Book p960)"
+  },
+  {
+   "id": "MED-C51-030",
+   "sec": "Vasopressin receptors, actions and countercurrent mechanism",
+   "page": 960,
+   "fmt": "fillup",
+   "q": "In the renal tubular counter-current system, fluid reabsorption along the proximal convoluted tubule (PCT) is strictly ___-osmotic.",
+   "opts": [
+    "Hyper",
+    "Hypo",
+    "An",
+    "Iso"
+   ],
+   "ans": 3,
+   "exp": "PCT fluid reabsorption is iso-osmotic at approximately 300 mOsm/kg. (Book p960)"
+  },
+  {
+   "id": "MED-C51-031",
+   "sec": "Vasopressin receptors, actions and countercurrent mechanism",
+   "page": 960,
+   "fmt": "truefalse",
+   "q": "Assess the thick ascending limb of the loop of Henle (THAL): I THAL actively reabsorbs solutes (Na+ and Cl-) while remaining impermeable to water. II THAL delivers hypertonic fluid with osmolality exceeding 800 mOsm/kg into the distal tubule.",
+   "opts": [
+    "Only I is true",
+    "Only II is true",
+    "Both I and II are true",
+    "Both I and II are false"
+   ],
+   "ans": 0,
+   "exp": "THAL reabsorbs solute without water, diluting the fluid to 100-200 mOsm/kg before it reaches the DCT. (Book p960)"
+  },
+  {
+   "id": "MED-C51-032",
+   "sec": "Vasopressin receptors, actions and countercurrent mechanism",
+   "page": 960,
+   "fmt": "oddoneout",
+   "q": "Which component is NOT recognized as maintaining the medullary counter-current exchange mechanism?",
+   "opts": [
+    "Medullary interstitial osmolality maintained by urea",
+    "Urea concentration gradient maintained by vasa recta",
+    "Active potassium secretion by intercalated cells",
+    "Hypertonic medullary interstitium"
+   ],
+   "ans": 2,
+   "exp": "Counter-current exchange is maintained by medullary interstitium, urea gradient, and the vasa recta; ADH acts only when interstitial osmolality is maintained. (Book p960)"
+  },
+  {
+   "id": "MED-C51-033",
+   "sec": "Vasopressin receptors, actions and countercurrent mechanism",
+   "page": 960,
+   "fmt": "match",
+   "q": "Match the nephron segment to its role in urine concentration — 1) Descending loop of Henle 2) Thick ascending loop of Henle (THAL) 3) Cortical collecting duct (under ADH) … A) Counter-current multiplier reabsorbing water and raising osmolality 4-fold B) Active solute (Na+/Cl-) reabsorption creating a diluting segment C) ADH-mediated water reabsorption producing concentrated urine (800–900 mOsm/kg)",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 1,
+   "exp": "Descending limb multiplies osmolality 4-fold; THAL reabsorbs solutes; collecting duct concentrates urine under ADH to 800-900 mOsm/kg. (Book p960)"
+  },
+  {
+   "id": "MED-C51-034",
+   "sec": "Vasopressin receptors, actions and countercurrent mechanism",
+   "page": 960,
+   "fmt": "fillup",
+   "q": "Medullary interstitial hypertonicity is preserved by urea recycling, which is maintained by the hairpin capillary loops of the ___.",
+   "opts": [
+    "Vasa recta",
+    "Arcuate arteries",
+    "Interlobular veins",
+    "Afferent arterioles"
+   ],
+   "ans": 0,
+   "exp": "The vasa recta maintain the medullary urea gradient and interstitial osmolality. (Book p960)"
+  },
+  {
+   "id": "MED-C51-035",
+   "sec": "Vasopressin receptors, actions and countercurrent mechanism",
+   "page": 960,
+   "fmt": "numeric",
+   "q": "Under maximal ADH stimulation, the collecting duct concentrates tubular urine to an osmolality of:",
+   "opts": [
+    "1500 to 1800 mOsm/kg",
+    "800 to 900 mOsm/kg",
+    "300 to 400 mOsm/kg",
+    "100 to 200 mOsm/kg"
+   ],
+   "ans": 1,
+   "exp": "ADH action in the collecting duct concentrates urine to 800-900 mOsm/kg. (Book p960)"
+  },
+  {
+   "id": "MED-C51-036",
+   "sec": "Vasopressin receptors, actions and countercurrent mechanism",
+   "page": 960,
+   "fmt": "recall",
+   "q": "Under what condition does ADH effectively produce antidiuresis in the collecting ducts?",
+   "opts": [
+    "When glomerular filtration rate is reduced by 50%",
+    "When aldosterone secretion is completely suppressed",
+    "When tubular sodium reabsorption in the PCT is inhibited",
+    "When the hypertonic medullary interstitial osmolality is maintained"
+   ],
+   "ans": 3,
+   "exp": "ADH acts to concentrate urine only when the medullary interstitial osmolality is maintained. (Book p960)"
+  },
+  {
+   "id": "MED-C51-037",
+   "sec": "Collecting duct aquaporins, cellular mechanism and water homeostasis",
+   "page": 961,
+   "fmt": "recall",
+   "q": "On which membrane surface of the cortical collecting duct principal cell does ADH bind to the V2 receptor?",
+   "opts": [
+    "Nuclear membrane",
+    "Basolateral membrane",
+    "Apical/luminal membrane",
+    "Tight junction complex"
+   ],
+   "ans": 1,
+   "exp": "ADH binds to the V2 receptor located on the basolateral membrane of principal cells. (Book p961)"
+  },
+  {
+   "id": "MED-C51-038",
+   "sec": "Collecting duct aquaporins, cellular mechanism and water homeostasis",
+   "page": 961,
+   "fmt": "match",
+   "q": "Match the signaling cascade step of ADH in the collecting duct to its mediator — 1) Receptor binding on basolateral membrane 2) Secondary messenger activation 3) Luminal water channel expression … A) V2 receptor B) Adenylyl cyclase - cAMP - Protein Kinase A pathway C) Exocytosis of stored aquaporin-2 into apical membrane",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 3,
+   "exp": "ADH binds basolateral V2, stimulates cAMP and Protein Kinase A, and promotes insertion of aquaporin-2 into the apical membrane. (Book p961)"
+  },
+  {
+   "id": "MED-C51-039",
+   "sec": "Collecting duct aquaporins, cellular mechanism and water homeostasis",
+   "page": 961,
+   "fmt": "match",
+   "q": "Match the aquaporin subtype to its nephron localization and physiological regulation — 1) Aquaporin 1 2) Aquaporin 2 3) Aquaporin 3 and 4 … A) Proximal convoluted tubule (ADH-independent obligatory water reabsorption) B) Luminal membrane of cortical collecting duct (ADH-dependent facultative water reabsorption) C) Basolateral membrane of cortical collecting duct (constitutive water exit)",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 3,
+   "exp": "AQP1 mediates obligatory PCT water reabsorption; AQP2 mediates facultative ADH-dependent apical reabsorption; AQP3/4 mediate basolateral exit. (Book p961)"
+  },
+  {
+   "id": "MED-C51-040",
+   "sec": "Collecting duct aquaporins, cellular mechanism and water homeostasis",
+   "page": 961,
+   "fmt": "fillup",
+   "q": "Water reabsorption mediated by aquaporin-1 in the proximal convoluted tubule is termed ___ water reabsorption.",
+   "opts": [
+    "Electrogenic",
+    "Obligatory",
+    "Facultative",
+    "Translocational"
+   ],
+   "ans": 1,
+   "exp": "AQP1 in the PCT mediates obligatory water reabsorption independent of ADH. (Book p961)"
+  },
+  {
+   "id": "MED-C51-041",
+   "sec": "Collecting duct aquaporins, cellular mechanism and water homeostasis",
+   "page": 961,
+   "fmt": "fillup",
+   "q": "Water reabsorption governed by aquaporin-2 insertion into the luminal membrane of collecting ducts is termed ___ water reabsorption.",
+   "opts": [
+    "Paracellular",
+    "Facultative",
+    "Obligatory",
+    "Passive non-osmotic"
+   ],
+   "ans": 1,
+   "exp": "AQP2 in the CCD mediates facultative water reabsorption dependent on ADH. (Book p961)"
+  },
+  {
+   "id": "MED-C51-042",
+   "sec": "Collecting duct aquaporins, cellular mechanism and water homeostasis",
+   "page": 961,
+   "fmt": "scenario",
+   "q": "A 24-year-old male with X-linked nephrogenic diabetes insipidus has an inactivating mutation in the AVPR2 gene. Despite high circulating ADH, he excretes 10 liters of dilute urine daily. What step in water reabsorption is defective?",
+   "opts": [
+    "Failure of cAMP-dependent exocytosis of aquaporin-2 into the apical luminal membrane",
+    "Loss of constitutive basolateral aquaporin-3 and aquaporin-4 water channels",
+    "Complete downregulation of proximal tubular aquaporin-1 channels",
+    "Direct inhibition of thick ascending limb solute reabsorption"
+   ],
+   "ans": 0,
+   "exp": "Without functional V2 receptors, cAMP is not generated, preventing the apical expression of aquaporin-2 and free water reabsorption. (Book p961)"
+  },
+  {
+   "id": "MED-C51-043",
+   "sec": "Collecting duct aquaporins, cellular mechanism and water homeostasis",
+   "page": 961,
+   "fmt": "oddoneout",
+   "q": "Which is NOT one of the three physiological reasons why a healthy person does not normally develop hyponatremia?",
+   "opts": [
+    "Circulating ADH is negligible in the baseline resting state",
+    "Aldosterone stimulates rapid continuous water excretion in the distal tubule",
+    "PCT reabsorption is strictly iso-osmotic",
+    "Only solute is reabsorbed in the thick ascending limb of Henle (THAL)"
+   ],
+   "ans": 1,
+   "exp": "A healthy person resists hyponatremia because PCT reabsorption is iso-osmotic, THAL reabsorbs only solute, and resting ADH is negligible; aldosterone does not excrete water. (Book p961)"
+  },
+  {
+   "id": "MED-C51-044",
+   "sec": "Collecting duct aquaporins, cellular mechanism and water homeostasis",
+   "page": 961,
+   "fmt": "recall",
+   "q": "Through which aquaporin channels does reabsorbed free water exit the principal cell across the basolateral membrane into the renal interstitium?",
+   "opts": [
+    "Aquaporin 5 and 6",
+    "Aquaporin 8 and 9",
+    "Aquaporin 3 and 4",
+    "Aquaporin 1 and 2"
+   ],
+   "ans": 2,
+   "exp": "Water exits across the basolateral membrane into the interstitium via aquaporin 3 and 4. (Book p961)"
+  },
+  {
+   "id": "MED-C51-045",
+   "sec": "Collecting duct aquaporins, cellular mechanism and water homeostasis",
+   "page": 961,
+   "fmt": "numeric",
+   "q": "Following maximal ADH-driven free water reabsorption across luminal aquaporin-2 channels, urine osmolality reaches:",
+   "opts": [
+    "285 to 290 mOsm/kg",
+    "100 to 150 mOsm/kg",
+    "400 to 500 mOsm/kg",
+    "800 to 900 mOsm/kg"
+   ],
+   "ans": 3,
+   "exp": "Free water reabsorption concentrates urine up to 800-900 mOsm/kg. (Book p961)"
+  },
+  {
+   "id": "MED-C51-046",
+   "sec": "Collecting duct aquaporins, cellular mechanism and water homeostasis",
+   "page": 961,
+   "fmt": "truefalse",
+   "q": "Assess aquaporin physiology: I Aquaporin-1 is ADH-independent and drives obligatory water reabsorption. II Aquaporin-2 expression on the apical membrane is strictly ADH-dependent.",
+   "opts": [
+    "Only I is true",
+    "Only II is true",
+    "Both I and II are false",
+    "Both I and II are true"
+   ],
+   "ans": 3,
+   "exp": "AQP1 is ADH-independent (obligatory); AQP2 is ADH-dependent (facultative). (Book p961)"
+  },
+  {
+   "id": "MED-C51-047",
+   "sec": "Collecting duct aquaporins, cellular mechanism and water homeostasis",
+   "page": 961,
+   "fmt": "match",
+   "q": "Match the nephron water handling characteristic to its anatomical segment — 1) Iso-osmotic reabsorption of fluid 2) Pure solute reabsorption without water 3) ADH-regulated water permeability … A) Proximal convoluted tubule B) Thick ascending limb of Henle (THAL) C) Cortical collecting duct",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "PCT is iso-osmotic; THAL reabsorbs only solute; collecting duct has ADH-regulated water permeability. (Book p961)"
+  },
+  {
+   "id": "MED-C51-048",
+   "sec": "Collecting duct aquaporins, cellular mechanism and water homeostasis",
+   "page": 961,
+   "fmt": "recall",
+   "q": "What is the baseline activity of antidiuretic hormone in a healthy, well-hydrated resting individual?",
+   "opts": [
+    "Negligible",
+    "Maximally elevated",
+    "Pulsating every 10 minutes",
+    "Suppressed by 50% from noon peak"
+   ],
+   "ans": 0,
+   "exp": "In the resting baseline state, circulating ADH is negligible, preventing water retention and hyponatremia. (Book p961)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U51-1",
+   "ch": 51,
+   "n": 1,
+   "title": "Osmolality, effective osmoles and translocational shifts",
+   "sec": "Serum osmolality, effective osmoles and translocational hyponatremia · p958",
+   "guide": "Serum osmolality formula, effective versus ineffective osmoles, tonicity concept, and 1.6 mEq/L correction per 100 mg/dL glucose excess.",
+   "qs": [
+    "MED-C51-001",
+    "MED-C51-002",
+    "MED-C51-003",
+    "MED-C51-004",
+    "MED-C51-005",
+    "MED-C51-006",
+    "MED-C51-007",
+    "MED-C51-008",
+    "MED-C51-009",
+    "MED-C51-010",
+    "MED-C51-011",
+    "MED-C51-012"
+   ]
+  },
+  {
+   "id": "MED-U51-2",
+   "ch": 51,
+   "n": 2,
+   "title": "Hyponatremia severity tiers, thirst and ADH synthesis",
+   "sec": "Severity classification, thirst threshold and ADH synthesis · p959",
+   "guide": "Four severity tiers, hiccups in severe tier, 280 versus 290 mOsm/kg thresholds, magnocellular pro-vasopressin, and copeptin.",
+   "qs": [
+    "MED-C51-013",
+    "MED-C51-014",
+    "MED-C51-015",
+    "MED-C51-016",
+    "MED-C51-017",
+    "MED-C51-018",
+    "MED-C51-019",
+    "MED-C51-020",
+    "MED-C51-021",
+    "MED-C51-022",
+    "MED-C51-023",
+    "MED-C51-024"
+   ]
+  },
+  {
+   "id": "MED-U51-3",
+   "ch": 51,
+   "n": 3,
+   "title": "Vasopressin receptors and countercurrent multiplier",
+   "sec": "Vasopressin receptors, actions and countercurrent mechanism · p960",
+   "guide": "V1/V3 IP3-DAG versus V2 cAMP pathways, tissue sites, descending limb 4x multiplier, and vasa recta urea gradient preservation.",
+   "qs": [
+    "MED-C51-025",
+    "MED-C51-026",
+    "MED-C51-027",
+    "MED-C51-028",
+    "MED-C51-029",
+    "MED-C51-030",
+    "MED-C51-031",
+    "MED-C51-032",
+    "MED-C51-033",
+    "MED-C51-034",
+    "MED-C51-035",
+    "MED-C51-036"
+   ]
+  },
+  {
+   "id": "MED-U51-4",
+   "ch": 51,
+   "n": 4,
+   "title": "Collecting duct aquaporins and water homeostasis",
+   "sec": "Collecting duct aquaporins, cellular mechanism and water homeostasis · p961",
+   "guide": "V2 PKA phosphorylation of AQP2, basolateral AQP3/4, obligatory AQP1 versus facultative AQP2, and reasons hyponatremia does not normally develop.",
+   "qs": [
+    "MED-C51-037",
+    "MED-C51-038",
+    "MED-C51-039",
+    "MED-C51-040",
+    "MED-C51-041",
+    "MED-C51-042",
+    "MED-C51-043",
+    "MED-C51-044",
+    "MED-C51-045",
+    "MED-C51-046",
+    "MED-C51-047",
+    "MED-C51-048"
+   ]
+  }
+ ]
+}

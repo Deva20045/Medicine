@@ -1,0 +1,150 @@
+{
+  "page": 950,
+  "sec": "Craniopharyngioma, Rathke's cleft cyst and acromegaly workup",
+  "items": [
+    {
+      "fmt": "match",
+      "q": "Match the craniopharyngioma subtype to its characteristic histological and clinical features — 1) Adamantinomatous type (Childhood, 5–15 yrs, 90%) 2) Papillary type (Adults, 50–74 yrs, 10%) … A) Cystic with machinery oil fluid, wet keratin nodules, calcification ++, T1 hyperintense B) Solid mass, lacking wet keratin or calcification, T1 hypointense",
+      "opts": [
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Adamantinomatous craniopharyngioma is childhood cystic with machinery oil, wet keratin, calcification, and T1 hyperintensity; papillary is adult solid and hypointense. (Book p950)"
+    },
+    {
+      "fmt": "scenario",
+      "q": "A 9-year-old boy presents with progressive headache, bitemporal hemianopsia, and polyuria. Cranial CT shows a suprasellar calcified cystic mass. What posterior pituitary complication is produced by stalk compression in craniopharyngioma?",
+      "opts": [
+        "Central diabetes insipidus",
+        "SIADH",
+        "Cerebral salt wasting",
+        "Adrenal crisis"
+      ],
+      "ans": 0,
+      "exp": "Craniopharyngioma compresses the pituitary stalk causing central diabetes insipidus. (Book p950)"
+    },
+    {
+      "fmt": "recall",
+      "q": "What radiological sign on contrast-enhanced MRI represents the compressed rim of normal pituitary tissue enhancing around a sellar cyst?",
+      "opts": [
+        "Claw sign",
+        "Dural tail sign",
+        "Ice-cream cone sign",
+        "Target sign"
+      ],
+      "ans": 0,
+      "exp": "The claw sign occurs when the rim of compressed normal pituitary takes up contrast around the non-enhancing cystic mass. (Book p950)"
+    },
+    {
+      "fmt": "match",
+      "q": "Match the sellar cystic lesion to its histopathological lining — 1) Rathke's cleft cyst 2) Adamantinomatous craniopharyngioma … A) Simple columnar or cuboidal epithelium with no calcification B) Squamous epithelium with wet keratin nodules and machinery oil fluid",
+      "opts": [
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Rathke's cleft cyst is lined by simple columnar epithelium without calcification; adamantinomatous craniopharyngioma has wet keratin and calcification. (Book p950)"
+    },
+    {
+      "fmt": "recall",
+      "q": "What initial laboratory screening investigation should be ordered for a patient suspected of having acromegaly?",
+      "opts": [
+        "Serum IGF-1 levels",
+        "Random fasting growth hormone",
+        "Oral glucose suppression test",
+        "Plasma GHRH concentration"
+      ],
+      "ans": 0,
+      "exp": "Screening for acromegaly is performed by measuring serum IGF-1 levels. (Book p950)"
+    },
+    {
+      "fmt": "management",
+      "q": "Following an elevated serum IGF-1 level, what is the definitive confirmatory dynamic test for acromegaly?",
+      "opts": [
+        "Oral glucose suppression test (75 gm glucose) with GH measurement after 1 hour",
+        "Insulin tolerance test measuring nadir glucose and peak GH",
+        "Glucagon stimulation test measuring GH at 30-minute intervals",
+        "Cosyntropin stimulation test measuring cortisol response"
+      ],
+      "ans": 0,
+      "exp": "The diagnostic confirmatory test is the oral glucose suppression test (75 gm glucose) checking GH after 1 hour. (Book p950)"
+    },
+    {
+      "fmt": "numeric",
+      "q": "What nadir growth hormone level 1 hour after a 75 g oral glucose load excludes acromegaly?",
+      "opts": [
+        "Less than 1 ng/ml",
+        "Less than 5 ng/ml",
+        "Less than 10 ng/ml",
+        "Less than 0.1 ng/ml"
+      ],
+      "ans": 0,
+      "exp": "A nadir GH level < 1 ng/ml on the oral glucose suppression test is normal and excludes acromegaly. (Book p950)"
+    },
+    {
+      "fmt": "numeric",
+      "q": "A post-glucose load growth hormone level exceeding what cutoff indicates very severe disease and a poor prognosis in acromegaly?",
+      "opts": [
+        "Greater than 40 ng/ml",
+        "Greater than 10 ng/ml",
+        "Greater than 20 ng/ml",
+        "Greater than 5 ng/ml"
+      ],
+      "ans": 0,
+      "exp": "A GH level > 40 ng/ml following glucose suppression indicates a poor prognosis. (Book p950)"
+    },
+    {
+      "fmt": "recall",
+      "q": "What is the imaging investigation of choice (IOC) once biochemical acromegaly is confirmed?",
+      "opts": [
+        "Gadolinium-enhanced pituitary MRI",
+        "High-resolution non-contrast sellar CT",
+        "Tc-99m sestamibi SPECT scan",
+        "Coronal skull radiography"
+      ],
+      "ans": 0,
+      "exp": "Gadolinium-enhanced MRI is the imaging investigation of choice for pituitary evaluation in acromegaly. (Book p950)"
+    },
+    {
+      "fmt": "fillup",
+      "q": "The fluid contained within an adamantinomatous craniopharyngioma characteristically resembles brown motor or '___ oil'.",
+      "opts": [
+        "Machinery",
+        "Mineral",
+        "Crude",
+        "Petroleum"
+      ],
+      "ans": 0,
+      "exp": "Adamantinomatous craniopharyngioma fluid has a classic 'machinery oil' appearance. (Book p950)"
+    },
+    {
+      "fmt": "truefalse",
+      "q": "Assess the demographics of Rathke's cleft cyst: I It typically presents in the 4th to 6th decades of life. II It appears as a unilocular sellar mass that lacks calcification.",
+      "opts": [
+        "Both I and II are true",
+        "Only I is true",
+        "Only II is true",
+        "Both I and II are false"
+      ],
+      "ans": 0,
+      "exp": "Rathke's cleft cyst presents in the 4th to 6th decade as a unilocular sellar mass without calcification. (Book p950)"
+    },
+    {
+      "fmt": "oddoneout",
+      "q": "Which step is NOT part of the diagnostic algorithm for acromegaly?",
+      "opts": [
+        "Water deprivation test for copeptin",
+        "Screening with serum IGF-1 levels",
+        "Oral glucose suppression test (75 gm glucose)",
+        "Pituitary function testing for other hormonal axes"
+      ],
+      "ans": 0,
+      "exp": "The diagnostic flow uses IGF-1 screening, OGST confirmation, pituitary MRI, and pituitary function testing; water deprivation is for diabetes insipidus. (Book p950)"
+    }
+  ]
+}

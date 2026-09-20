@@ -1,0 +1,150 @@
+{
+  "page": 959,
+  "sec": "Severity classification, thirst threshold and ADH synthesis",
+  "items": [
+    {
+      "fmt": "match",
+      "q": "Match the serum sodium concentration to its severity classification tier — 1) 130 to 135 mEq/L 2) 120 to 129 mEq/L 3) 100 to 119 mEq/L 4) Less than 100 mEq/L … A) Mild hyponatremia B) Moderate hyponatremia C) Severe hyponatremia D) Very severe hyponatremia",
+      "opts": [
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-D, 2-C, 3-B, 4-A"
+      ],
+      "ans": 0,
+      "exp": "130-135 is mild, 120-129 is moderate, 100-119 is severe, and < 100 is very severe hyponatremia. (Book p959)"
+    },
+    {
+      "fmt": "scenario",
+      "q": "A 58-year-old female is admitted with a serum sodium of 114 mEq/L. On examination, she exhibits confusion, disorientation, wide-based gait abnormalities, and intractable hiccups. Her clinical severity tier is:",
+      "opts": [
+        "Severe hyponatremia",
+        "Mild hyponatremia",
+        "Moderate hyponatremia",
+        "Very severe hyponatremia"
+      ],
+      "ans": 0,
+      "exp": "Sodium of 100-119 mEq/L represents severe hyponatremia characterized by confusion, gait abnormalities, and hiccups. (Book p959)"
+    },
+    {
+      "fmt": "recall",
+      "q": "What life-threatening clinical manifestations occur in very severe hyponatremia when serum sodium falls below 100 mEq/L?",
+      "opts": [
+        "Features of increased intracranial tension and brain herniation",
+        "Severe muscular pseudohypertrophy",
+        "Hyperosmolar non-ketotic dehydration",
+        "Isolated asymptomatic hyporeflexia"
+      ],
+      "ans": 0,
+      "exp": "Sodium < 100 mEq/L causes very severe hyponatremia with manifestations of increased intracranial tension (ICT). (Book p959)"
+    },
+    {
+      "fmt": "recall",
+      "q": "Which obsolete laboratory methodology artifacts produce artifactual pseudohyponatremia due to volume displacement?",
+      "opts": [
+        "Hypertriglyceridemia and Paraproteinemia",
+        "Severe hyperkalemia and Hypercalcemia",
+        "Metabolic acidosis and Hyperuricemia",
+        "Hypoalbuminemia and Hyperbilirubinemia"
+      ],
+      "ans": 0,
+      "exp": "Obsolete methodology causes of pseudohyponatremia are hypertriglyceridemia and paraproteinemia. (Book p959)"
+    },
+    {
+      "fmt": "numeric",
+      "q": "At what serum osmolality threshold is endogenous ADH (vasopressin) release triggered?",
+      "opts": [
+        "Greater than 280 mmol/kg",
+        "Greater than 290 mmol/kg",
+        "Greater than 310 mmol/kg",
+        "Greater than 260 mmol/kg"
+      ],
+      "ans": 0,
+      "exp": "ADH secretion is activated when serum osmolality exceeds 280 mmol/kg. (Book p959)"
+    },
+    {
+      "fmt": "numeric",
+      "q": "At what serum osmolality threshold is the physiological thirst mechanism activated?",
+      "opts": [
+        "Greater than 290 mmol/kg",
+        "Greater than 280 mmol/kg",
+        "Greater than 270 mmol/kg",
+        "Greater than 320 mmol/kg"
+      ],
+      "ans": 0,
+      "exp": "The thirst mechanism is activated when serum osmolality rises above 290 mmol/kg. (Book p959)"
+    },
+    {
+      "fmt": "truefalse",
+      "q": "Assess the prevention of hypernatremia: I Hypernatremia is very rare because osmolality > 280 mmol/kg releases ADH and > 290 mmol/kg stimulates thirst. II Concomitant ADH-mediated water retention and thirst prevent hypernatremia under normal physiology.",
+      "opts": [
+        "Both I and II are true",
+        "Only I is true",
+        "Only II is true",
+        "Both I and II are false"
+      ],
+      "ans": 0,
+      "exp": "Increased osmolality triggers ADH (> 280) and thirst (> 290), so elevated sodium is not normally seen. (Book p959)"
+    },
+    {
+      "fmt": "fillup",
+      "q": "Vasopressin is synthesized in the hypothalamus within the supra-optic and ___ nuclei.",
+      "opts": [
+        "Paraventricular",
+        "Ventromedial",
+        "Arcuate",
+        "Suprachiasmatic"
+      ],
+      "ans": 0,
+      "exp": "ADH is synthesized in the supra-optic and paraventricular nuclei of the hypothalamus. (Book p959)"
+    },
+    {
+      "fmt": "recall",
+      "q": "What specialized hypothalamic neuronal cell population synthesizes pro-vasopressin?",
+      "opts": [
+        "Magnocellular neurons",
+        "Parvocellular neurons",
+        "Purkinje cells",
+        "Granule cells"
+      ],
+      "ans": 0,
+      "exp": "Magnocellular neurons produce the pro-vasopressin precursor. (Book p959)"
+    },
+    {
+      "fmt": "match",
+      "q": "Match the pro-vasopressin cleavage fragment to its role — 1) ADH (Vasopressin) 2) Neurophysin 3) Copeptin … A) Active antidiuretic hormone stored in posterior pituitary B) Carrier protein during axonal transport C) Equimolar C-terminal cleavage marker",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "Pro-vasopressin is cleaved into ADH, neurophysin, and copeptin at the pituitary stalk. (Book p959)"
+    },
+    {
+      "fmt": "oddoneout",
+      "q": "Which stimulus is the MOST important physiological driver for ADH release?",
+      "opts": [
+        "Osmotic stimulus at 280 mOsm/kg",
+        "Non-osmotic decreased blood volume",
+        "Moderate hyperkalemia",
+        "Elevated ambient temperature"
+      ],
+      "ans": 0,
+      "exp": "Osmotic stimulus (at 280 mOsm/kg) is the most important physiological trigger for ADH release. (Book p959)"
+    },
+    {
+      "fmt": "truefalse",
+      "q": "Assess mild to moderate hyponatremia: I Sodium levels of 120 to 135 mEq/L cause gastrointestinal symptoms, mild headache, and lethargy. II Sodium levels between 120 and 135 mEq/L routinely cause seizures and tentorial herniation.",
+      "opts": [
+        "Only I is true",
+        "Only II is true",
+        "Both I and II are true",
+        "Both I and II are false"
+      ],
+      "ans": 0,
+      "exp": "Mild to moderate hyponatremia (120-135) manifests with GI symptoms, mild headache, and lethargy, not herniation. (Book p959)"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "page": 942,
+  "sec": "Fasting prolactin levels, macroprolactin and hyperprolactinemia etiologies",
+  "items": [
+    {
+      "fmt": "match",
+      "q": "Match the fasting serum prolactin range to its clinical interpretation — 1) Less than 25 ug/L 2) 25 to 40 ug/L 3) 40 to 100 ug/L 4) Greater than 200 ug/L … A) Normal reference level B) Physiological elevation (sleep, stress, chest wall stimulation) C) Drug-induced or systemic conditions D) Definite prolactinoma (rule out macroprolactin)",
+      "opts": [
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-D, 2-C, 3-B, 4-A"
+      ],
+      "ans": 0,
+      "exp": "Fasting prolactin < 25 is normal, 25-40 is physiological, 40-100 is drug-induced/systemic, > 100 suggests adenoma, and > 200 confirms adenoma. (Book p942)"
+    },
+    {
+      "fmt": "numeric",
+      "q": "What peak physiological prolactin level can be attained during pregnancy?",
+      "opts": [
+        "Up to 180 ug/L",
+        "Up to 50 ug/L",
+        "Up to 500 ug/L",
+        "Up to 25 ug/L"
+      ],
+      "ans": 0,
+      "exp": "During pregnancy, prolactin levels rise physiologically and can reach up to 180 ug/L. (Book p942)"
+    },
+    {
+      "fmt": "recall",
+      "q": "Which clinical entity is characterized by markedly elevated serum prolactin in a completely asymptomatic individual?",
+      "opts": [
+        "Macroprolactinemia",
+        "The Hook effect",
+        "Pituitary stalk disconnection",
+        "Silent corticotroph adenoma"
+      ],
+      "ans": 0,
+      "exp": "Macroprolactin presents with high measured prolactin levels while the patient remains completely asymptomatic. (Book p942)"
+    },
+    {
+      "fmt": "scenario",
+      "q": "A 40-year-old male with a 4 cm giant pituitary macroadenoma has an initial serum prolactin reported as only 45 ug/L. Suspecting the Hook effect, what is the best laboratory corrective step?",
+      "opts": [
+        "Perform serial dilution of the serum sample",
+        "Precipitate the sample with polyethylene glycol",
+        "Assay the sample using gel filtration chromatography",
+        "Switch from chemiluminescence to high-performance liquid chromatography"
+      ],
+      "ans": 0,
+      "exp": "The hook effect occurs in giant prolactinomas where antigen excess saturates assay antibodies yielding artifactually low prolactin; 1:100 serum dilution reveals the true massive elevation. (Book p942)"
+    },
+    {
+      "fmt": "fillup",
+      "q": "A prolactinoma exceeding ___ cm in maximal diameter is categorized as a giant prolactinoma.",
+      "opts": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "ans": 0,
+      "exp": "A prolactinoma measuring > 4 cm is designated as a giant prolactinoma. (Book p942)"
+    },
+    {
+      "fmt": "oddoneout",
+      "q": "Which medication is NOT listed as a pharmacological cause of hyperprolactinemia?",
+      "opts": [
+        "Levothyroxine",
+        "Risperidone",
+        "Metoclopramide",
+        "Verapamil"
+      ],
+      "ans": 0,
+      "exp": "Risperidone, metoclopramide, verapamil, opiates, H2 blockers, and alpha-methyldopa cause hyperprolactinemia; levothyroxine suppresses TRH and lowers prolactin. (Book p942)"
+    },
+    {
+      "fmt": "scenario",
+      "q": "A 32-year-old psychiatric patient on haloperidol develops bilateral galactorrhea. D2 receptor blockade in which central nervous system pathway produces her worsening negative symptoms?",
+      "opts": [
+        "Mesolimbic pathway",
+        "Tuberoinfundibular pathway",
+        "Nigrostriatal pathway",
+        "Mesocortical pathway"
+      ],
+      "ans": 0,
+      "exp": "Conventional antipsychotics block D2 receptors in the mesolimbic pathway, worsening negative symptoms, while tuberoinfundibular blockade causes galactorrhea. (Book p942)"
+    },
+    {
+      "fmt": "numeric",
+      "q": "Following discontinuation of an offending pharmacological agent, drug-induced hyperprolactinemia typically demonstrates a good response and normalizes within:",
+      "opts": [
+        "Less than 72 hours",
+        "14 days",
+        "4 to 6 weeks",
+        "24 hours"
+      ],
+      "ans": 0,
+      "exp": "Drug-induced hyperprolactinemia shows a good response and normalizes if the offending drug is stopped for < 72 hours. (Book p942)"
+    },
+    {
+      "fmt": "recall",
+      "q": "How does primary hypothyroidism induce hyperprolactinemia?",
+      "opts": [
+        "Elevated TRH acts as a prolactin-releasing hormone on lactotrophs",
+        "Direct thyroid hormone toxicity impairs hypothalamic dopamine release",
+        "Thyroid peroxidase autoantibodies cross-react with D2 receptors",
+        "Thyroxine clearance of renal prolactin is drastically diminished"
+      ],
+      "ans": 0,
+      "exp": "In primary hypothyroidism, compensatory high TRH levels stimulate lactotrophs to release prolactin. (Book p942)"
+    },
+    {
+      "fmt": "oddoneout",
+      "q": "Which systemic condition is NOT a recognized cause of hyperprolactinemia?",
+      "opts": [
+        "Primary hyperparathyroidism",
+        "Polycystic ovary syndrome (PCOS)",
+        "Chronic kidney disease (CKD)",
+        "Chronic liver disease (CLD)"
+      ],
+      "ans": 0,
+      "exp": "Systemic causes of hyperprolactinemia include primary hypothyroidism, PCOS, CKD, and CLD; primary hyperparathyroidism does not elevate prolactin. (Book p942)"
+    },
+    {
+      "fmt": "truefalse",
+      "q": "Assess the characteristics of prolactinomas: I Prolactinomas are the most common pituitary adenoma. II Microprolactinomas occur more frequently than macroprolactinomas.",
+      "opts": [
+        "Both I and II are true",
+        "Only I is true",
+        "Only II is true",
+        "Both I and II are false"
+      ],
+      "ans": 0,
+      "exp": "Prolactinomas are the most common pituitary adenoma, with microprolactinomas outnumbering macroprolactinomas. (Book p942)"
+    },
+    {
+      "fmt": "fillup",
+      "q": "Metoclopramide induces prominent hyperprolactinemia because, unlike domperidone, it readily crosses the ___ barrier.",
+      "opts": [
+        "Blood-brain",
+        "Placental",
+        "Glomerular filtration",
+        "Blood-testis"
+      ],
+      "ans": 0,
+      "exp": "Metoclopramide crosses the blood-brain barrier to block hypothalamic/pituitary dopamine receptors. (Book p942)"
+    },
+    {
+      "fmt": "match",
+      "q": "Match the condition to its prolactin diagnostic hallmark — 1) Macroprolactin 2) Hook effect … A) Elevated prolactin levels with completely asymptomatic patient B) Falsely low or mismatched prolactin in presence of a massive tumor",
+      "opts": [
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "Macroprolactin is high but asymptomatic; the hook effect features a large tumor with discordant prolactin. (Book p942)"
+    }
+  ]
+}
