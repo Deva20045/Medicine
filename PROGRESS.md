@@ -311,3 +311,19 @@ every new question, including board/blank rendering and unit completion.
 240 pages (p705–935 and p1001–1009). Earlier totals above are historical snapshots.
 
 **Next: Ch 47 (Diabetes Mellitus continues in Part 4 after p935).**
+
+## Latest batch — Chapters 52–56 (2026-09-20)
+
+**81 new questions · 20 units · all 24 pages p962–985.** Ch 52 Hyponatremia (16),
+Ch 53 Polyuria (16), Ch 54 Potassium Metabolism (16), Ch 55 Management of Hypertension
+— 2023 Guidelines (16), and Ch 56 Basics of Development and Anatomy of Liver (17).
+Coverage includes the full diagnostic/treatment trees, nephron diagrams, ECG/algorithm
+figures, embryology derivatives, liver zones, membrane transporters and disease table.
+All requested varied formats are present, with non-obvious distractors and rotated answer
+positions. See **REPORT_CH52-56.md**. Build, integrity, runtime smoke and variety audits
+are green.
+
+**Current bank total: 3,931 questions · 342 units · 58 live chapters**, covering Book
+p705–985 plus p1001–1009.
+
+**Next: Ch 57 (Basics of Physiology of Liver).**

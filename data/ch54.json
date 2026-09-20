@@ -1,0 +1,305 @@
+{
+ "chapter": 54,
+ "title": "Potassium Metabolism",
+ "pageRange": "968-975",
+ "questions": [
+  {
+   "id": "MED-C54-001",
+   "sec": "Distribution",
+   "page": 968,
+   "fmt": "recall",
+   "q": "Which statement best describes intracellular potassium?",
+   "opts": [
+    "About 50%",
+    "About 75%",
+    "About 98% of total body potassium",
+    "About 20% (as a contrasting clinical alternative)"
+   ],
+   "ans": 2,
+   "exp": "Potassium is predominantly intracellular. (Book p968)"
+  },
+  {
+   "id": "MED-C54-002",
+   "sec": "Distribution",
+   "page": 968,
+   "fmt": "match",
+   "q": "Match the key concept in Na/K ATPase with its correct interpretation.",
+   "opts": [
+    "Moves potassium out of cells only",
+    "Secretes bile",
+    "Inserts aquaporin-2",
+    "Moves potassium into cells"
+   ],
+   "ans": 3,
+   "exp": "Na/K ATPase maintains intracellular potassium. (Book p968)"
+  },
+  {
+   "id": "MED-C54-003",
+   "sec": "Distribution",
+   "page": 968,
+   "fmt": "scenario",
+   "q": "A patient is being evaluated for insulin effect. Which finding or action is most appropriate?",
+   "opts": [
+    "Shifts potassium into cells",
+    "Shifts potassium out exclusively",
+    "Blocks renal filtration",
+    "Prevents glucose entry"
+   ],
+   "ans": 0,
+   "exp": "Insulin promotes cellular potassium uptake. (Book p968)"
+  },
+  {
+   "id": "MED-C54-004",
+   "sec": "Distribution",
+   "page": 968,
+   "fmt": "fillup",
+   "q": "In the context of daily intake, the principal ___ is:",
+   "opts": [
+    "1000 mEq/day",
+    "Approximately 100 mEq/day",
+    "10 mEq/day",
+    "500 mEq/day"
+   ],
+   "ans": 1,
+   "exp": "The regulation diagram shows daily intake around 100 mEq. (Book p968)"
+  },
+  {
+   "id": "MED-C54-005",
+   "sec": "Renal handling",
+   "page": 969,
+   "fmt": "oddoneout",
+   "q": "Which option is the odd one out regarding proximal tubule?",
+   "opts": [
+    "Handles none",
+    "Reabsorbs less than 1%",
+    "Reabsorbs about 70–80% of filtered potassium",
+    "Secretes all filtered potassium"
+   ],
+   "ans": 2,
+   "exp": "Most filtered potassium is reabsorbed in the PCT. (Book p969)"
+  },
+  {
+   "id": "MED-C54-006",
+   "sec": "Renal handling",
+   "page": 969,
+   "fmt": "truefalse",
+   "q": "Assess these statements about thick ascending limb: I the first statement is correct; II the second statement is incorrect.",
+   "opts": [
+    "Excretes all potassium",
+    "Only handles bicarbonate",
+    "Cannot transport sodium",
+    "Reabsorbs potassium through Na-K-2Cl transport"
+   ],
+   "ans": 3,
+   "exp": "The TAL reabsorbs potassium with NKCC2. (Book p969)"
+  },
+  {
+   "id": "MED-C54-007",
+   "sec": "Renal handling",
+   "page": 969,
+   "fmt": "numeric",
+   "q": "What is the characteristic value or relationship for collecting duct?",
+   "opts": [
+    "Variable distal secretion regulated by aldosterone",
+    "Fixed complete reabsorption",
+    "No potassium movement",
+    "Only glucose secretion"
+   ],
+   "ans": 0,
+   "exp": "Final potassium excretion is regulated distally. (Book p969)"
+  },
+  {
+   "id": "MED-C54-008",
+   "sec": "Renal handling",
+   "page": 969,
+   "fmt": "scenario",
+   "q": "A clinical decision depends on aldosterone. Which choice is best?",
+   "opts": [
+    "Stops ROMK activity",
+    "Increases distal potassium secretion",
+    "Blocks ENaC",
+    "Suppresses sodium reabsorption"
+   ],
+   "ans": 1,
+   "exp": "Aldosterone promotes sodium uptake and potassium secretion. (Book p969)"
+  },
+  {
+   "id": "MED-C54-009",
+   "sec": "Hypokalemia",
+   "page": 970,
+   "fmt": "recall",
+   "q": "Which statement best describes significant potassium level?",
+   "opts": [
+    "Exactly 3.5 mEq/L",
+    "Above 7 mEq/L",
+    "Below about 2–2.5 mEq/L",
+    "Above 4.5 mEq/L"
+   ],
+   "ans": 2,
+   "exp": "The chapter labels potassium below 2–2.5 as significant. (Book p970)"
+  },
+  {
+   "id": "MED-C54-010",
+   "sec": "Hypokalemia",
+   "page": 971,
+   "fmt": "match",
+   "q": "Match the key concept in ECG pattern with its correct interpretation.",
+   "opts": [
+    "Tall peaked T waves",
+    "Short QT only",
+    "Absent QRS",
+    "Flattened T waves with prominent U waves"
+   ],
+   "ans": 3,
+   "exp": "Hypokalemia produces T-wave flattening, U waves and QT/QU changes. (Book p971)"
+  },
+  {
+   "id": "MED-C54-011",
+   "sec": "Hypokalemia",
+   "page": 972,
+   "fmt": "scenario",
+   "q": "A patient is being evaluated for urine potassium/creatinine. Which finding or action is most appropriate?",
+   "opts": [
+    "Above 13 mEq/g suggests renal loss",
+    "Below 1 proves renal loss",
+    "Any value rules out renal loss",
+    "Only serum potassium matters"
+   ],
+   "ans": 0,
+   "exp": "The urine potassium/creatinine ratio helps identify renal wasting. (Book p972)"
+  },
+  {
+   "id": "MED-C54-012",
+   "sec": "Hypokalemia",
+   "page": 972,
+   "fmt": "fillup",
+   "q": "In the context of low urine potassium, the principal ___ is:",
+   "opts": [
+    "Proof of excess intake",
+    "Conservation from extrarenal loss or cellular shift",
+    "Definite hyperaldosteronism",
+    "Always renal wasting"
+   ],
+   "ans": 1,
+   "exp": "Low urinary potassium means the kidney is conserving potassium. (Book p972)"
+  },
+  {
+   "id": "MED-C54-013",
+   "sec": "Hyperkalemia",
+   "page": 973,
+   "fmt": "oddoneout",
+   "q": "Which option is the odd one out regarding dangerous ECG treatment?",
+   "opts": [
+    "Fluid restriction",
+    "Oral glucose alone",
+    "Intravenous calcium stabilizes membrane",
+    "Potassium infusion"
+   ],
+   "ans": 2,
+   "exp": "Calcium is the immediate membrane-stabilizing therapy. (Book p973)"
+  },
+  {
+   "id": "MED-C54-014",
+   "sec": "Hyperkalemia",
+   "page": 974,
+   "fmt": "truefalse",
+   "q": "Assess these statements about insulin-glucose: I the first statement is correct; II the second statement is incorrect.",
+   "opts": [
+    "Removes all potassium from body",
+    "Blocks insulin receptor",
+    "Raises serum potassium predictably",
+    "Temporarily shifts potassium into cells"
+   ],
+   "ans": 3,
+   "exp": "Insulin shifts potassium intracellularly; glucose prevents hypoglycemia. (Book p974)"
+  },
+  {
+   "id": "MED-C54-015",
+   "sec": "Hyperkalemia",
+   "page": 975,
+   "fmt": "numeric",
+   "q": "What is the characteristic value or relationship for dialysis?",
+   "opts": [
+    "Removes potassium from the body",
+    "Only changes ECG without removing K",
+    "Always causes hyperkalemia",
+    "Is contraindicated in renal failure"
+   ],
+   "ans": 0,
+   "exp": "Dialysis is a definitive removal strategy when indicated. (Book p975)"
+  },
+  {
+   "id": "MED-C54-016",
+   "sec": "Hyperkalemia",
+   "page": 975,
+   "fmt": "scenario",
+   "q": "A clinical decision depends on digoxin toxicity. Which choice is best?",
+   "opts": [
+    "Increases distal sodium loss",
+    "Can produce hyperkalemia through Na/K ATPase inhibition",
+    "Always causes hypokalemia",
+    "Blocks calcium channels only"
+   ],
+   "ans": 1,
+   "exp": "Digoxin inhibits Na/K ATPase and may raise serum potassium. (Book p975)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U54-1",
+   "ch": 54,
+   "n": 1,
+   "title": "Distribution",
+   "sec": "Distribution",
+   "guide": "Cover shifts and intake.",
+   "qs": [
+    "MED-C54-001",
+    "MED-C54-002",
+    "MED-C54-003",
+    "MED-C54-004"
+   ]
+  },
+  {
+   "id": "MED-U54-2",
+   "ch": 54,
+   "n": 2,
+   "title": "Renal handling",
+   "sec": "Renal handling",
+   "guide": "Trace nephron handling.",
+   "qs": [
+    "MED-C54-005",
+    "MED-C54-006",
+    "MED-C54-007",
+    "MED-C54-008"
+   ]
+  },
+  {
+   "id": "MED-U54-3",
+   "ch": 54,
+   "n": 3,
+   "title": "Hypokalemia",
+   "sec": "Hypokalemia",
+   "guide": "Interpret ECG and urine potassium.",
+   "qs": [
+    "MED-C54-009",
+    "MED-C54-010",
+    "MED-C54-011",
+    "MED-C54-012"
+   ]
+  },
+  {
+   "id": "MED-U54-4",
+   "ch": 54,
+   "n": 4,
+   "title": "Hyperkalemia",
+   "sec": "Hyperkalemia",
+   "guide": "Recognize emergency treatment.",
+   "qs": [
+    "MED-C54-013",
+    "MED-C54-014",
+    "MED-C54-015",
+    "MED-C54-016"
+   ]
+  }
+ ]
+}

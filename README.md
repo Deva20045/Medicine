@@ -55,7 +55,12 @@ rest show a **Soon** badge.
 | Ch 38 · Magnesium Metabolism (p892–894) — 3 units, 48 questions | ✅ live |
 | Ch 39 · Osteoporosis (p895–897) — 3 units, 50 questions | ✅ live |
 | Ch 40 · Basics of Thyroid Gland (p898–901) — 4 units, 59 questions | ✅ live |
-| Ch 41–59 (Endocrinology, General Hepatology) | 🚧 in progress |
+| Ch 52 · Hyponatremia (p962–964) — 16 questions | ✅ live on this branch |
+| Ch 53 · Polyuria (p965–967) — 16 questions | ✅ live on this branch |
+| Ch 54 · Potassium Metabolism (p968–975) — 16 questions | ✅ live on this branch |
+| Ch 55 · Management of Hypertension - 2023 Guidelines (p976–981) — 16 questions | ✅ live on this branch |
+| Ch 56 · Basics of Development and Anatomy of Liver (p982–985) — 17 questions | ✅ live on this branch |
+| Ch 57–59 (General Hepatology) | 🚧 in progress |
 | Ch 60 · Portal Hypertension (p1001–1004) — 8 units, 86 questions | ✅ live on this branch |
 | Ch 61 · Ascites and Hepatorenal Syndrome (p1005–1009) — 8 units, 81 questions | ✅ live on this branch |
 | Ch 62–74 (Hepatology, Viral Hepatitis, Infectious Diseases) | 🚧 in progress |
@@ -80,6 +85,7 @@ roadmap, data schema, per-chapter pipeline, and NEXT step.
 | `REPORT_CH36-40.md` | Build report for Ch 36–40 (coverage, quality metrics, source caveats, verification) |
 | `REPORT_CH41-46.md` | Build report for Ch 41–46 (Thyroid Function Tests → DM Management — 2024 Guidelines; coverage, quality metrics, source caveats, verification) |
 | `REPORT_CH60-61.md` | Build report for Ch 60–61 (Portal Hypertension, Ascites and HRS) |
+| `REPORT_CH52-56.md` | Build report for Ch 52–56 (Hyponatremia → Liver Development and Anatomy) |
 
 ## Run the checks (after any content change)
 ```bash
