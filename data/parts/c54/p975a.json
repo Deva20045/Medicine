@@ -1,0 +1,162 @@
+{
+ "page": 975,
+ "sec": "Hyperkalemia · ECG progression and acute treatment",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Match each row of the hyperkalemia ECG table with its tracing description — 1) Around 4 mmol/L 2) 6 to 7 mmol/L 3) 8 to 9 mmol/L 4) Above 9 mmol/L … A) Normal complex with visible P wave B) Peaked T waves C) Atrial standstill with prolonged QRS duration and further peaking of T waves D) Sine wave pattern with absent P waves",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-B, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "The ladder reads normal near 4, peaked T waves at 6 to 7, flattened P wave with prolonged PR and depressed ST at 7 to 8, atrial standstill with wide QRS at 8 to 9 and a sine wave above 9. (Book p975)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Between which potassium values does the table place flattened P waves, a prolonged PR interval and a depressed ST segment alongside peaked T waves?",
+   "opts": [
+    "7 to 8 mmol/L",
+    "6 to 7 mmol/L",
+    "8 to 9 mmol/L",
+    "Above 9 mmol/L"
+   ],
+   "ans": 0,
+   "exp": "The third row of the table, 7 to 8 mmol/L, is the one that combines atrial changes with the peaked T waves. (Book p975)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the first line of the acute regimen: I 10% calcium gluconate is labelled the drug of choice. II It is given because it shifts potassium into cells and lowers the serum level.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Calcium gluconate is the DOC, but its stated mechanism is to raise the action-potential threshold to a less negative value without changing the resting membrane potential, stabilising the myocardium rather than lowering potassium. (Book p975)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What dose of 10% calcium gluconate does the page give, how fast, and how long does the effect last?",
+   "opts": [
+    "10 mL intravenously over 2 to 3 minutes, lasting 30 to 60 minutes",
+    "10 mL intravenously over 10 minutes, lasting 2 to 6 hours",
+    "50 mL infusion over 1 hour, lasting 4 to 6 hours",
+    "10 mL intramuscularly, lasting 30 to 60 minutes"
+   ],
+   "ans": 0,
+   "exp": "The dose is 10 mL IV over 2 to 3 minutes with an onset of 3 minutes and a duration of 30 to 60 minutes, and 10 mL is stated to contain 90 mg of elemental calcium. (Book p975)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: One ampoule of 10% calcium gluconate, 10 mL, contains ______ mg of elemental calcium, and myocardial protection is only temporary because the effect lasts ______ minutes.",
+   "opts": [
+    "90; 30 to 60",
+    "45; 10 to 20",
+    "90; 180 to 240",
+    "180; 30 to 60"
+   ],
+   "ans": 0,
+   "exp": "The bracket gives 90 mg of elemental calcium per 10 mL, and the last bullet records an onset of 3 minutes with cover for only 30 to 60 minutes, which is why a potassium-lowering measure must follow. (Book p975)"
+  },
+  {
+   "fmt": "management",
+   "q": "Which insulin regimen appears as the alternative to the 500 mL infusion in the insulin-dextrose entry?",
+   "opts": [
+    "10 units intravenously stat followed by 50 mL of 50% dextrose",
+    "20 units subcutaneously followed by 250 mL of 10% dextrose",
+    "10 units intravenously with no dextrose cover",
+    "5 units intravenously followed by 500 mL of normal saline"
+   ],
+   "ans": 0,
+   "exp": "The dose line offers 10 U regular insulin in 500 mL of 10% dextrose over 1 hour, or 10 U IV stat followed by 50 mL of 50% dextrose, with 50 mL/hr of 10% dextrose afterwards to prevent hypoglycemia. (Book p975)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "State the onset, peak and duration printed for the insulin-dextrose measure.",
+   "opts": [
+    "Onset 10 to 20 minutes, peak at 30 to 60 minutes, lasting up to 4 to 6 hours",
+    "Onset 3 minutes, peak at 30 to 60 minutes, lasting 30 to 60 minutes",
+    "Onset 30 minutes, peak at 60 to 90 minutes, lasting 2 to 6 hours",
+    "Onset 1 hour, peak at 2 hours, lasting 12 hours"
+   ],
+   "ans": 0,
+   "exp": "Insulin with dextrose is listed with an onset of 10 to 20 minutes, a peak by 30 to 60 minutes and a duration of up to 4 to 6 hours, in contrast with the fast but brief calcium effect. (Book p975)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Two hours after insulin-dextrose therapy a treated patient becomes sweaty with a capillary glucose of 48 mg/dL. Which part of the printed protocol was intended to prevent exactly this?",
+   "opts": [
+    "The follow-up infusion of 50 mL/hr of 10% dextrose",
+    "The initial 10 mL of calcium gluconate",
+    "The nebulised albuterol dose",
+    "The oral potassium binder"
+   ],
+   "ans": 0,
+   "exp": "A bracket on the dose line carries the instruction to follow with 50 mL/hr of 10% dextrose specifically to prevent hypoglycemia once the insulin is acting. (Book p975)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What albuterol dose and route does the page give, and what is its onset?",
+   "opts": [
+    "10 to 20 mg in 4 mL normal saline over 10 minutes by nebulization, onset 30 minutes",
+    "2.5 mg in 4 mL saline over 10 minutes by nebulization, onset 5 minutes",
+    "10 to 20 mg intravenously over 2 to 3 minutes, onset 30 minutes",
+    "5 mg orally, onset 60 to 90 minutes"
+   ],
+   "ans": 0,
+   "exp": "Albuterol is listed as 10 to 20 mg in 4 mL NS over 10 minutes by nebulization, with onset at 30 minutes, a peak by 60 to 90 minutes and cover for 2 to 6 hours. (Book p975)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Three of these belong to the acute regimen on this page. Which one does not?",
+   "opts": [
+    "Oral potassium binders as a rapid-acting measure",
+    "10% calcium gluconate",
+    "Insulin with dextrose",
+    "Nebulized albuterol"
+   ],
+   "ans": 0,
+   "exp": "Oral K+ binders are the fourth item but are annotated obsolete, so they are not part of the effective acute trio of calcium, insulin-dextrose and albuterol. (Book p975)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two closing lines of the page: I Oral potassium binders are bracketed as obsolete. II Definitive treatment is dialysis whenever chronic kidney disease is present.",
+   "opts": [
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The binders line reads obsolete in brackets, and the definitive Rx line reads dialysis with the qualifier when CKD is present. (Book p975)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A dialysis patient misses two sessions and arrives with potassium 8.6 mmol/L, no visible P waves and a QRS of 160 ms. Which row of the ECG table applies, and what is the correct first drug?",
+   "opts": [
+    "The 8 to 9 mmol/L row with atrial standstill, and 10% calcium gluconate 10 mL over 2 to 3 minutes",
+    "The above 9 mmol/L sine-wave row, and 10 units of insulin without dextrose",
+    "The 6 to 7 mmol/L row of peaked T waves, and nebulized albuterol alone",
+    "The 4 mmol/L normal row, and urgent dialysis with no drug first"
+   ],
+   "ans": 0,
+   "exp": "Loss of the P wave with a prolonged QRS at 8 to 9 mmol/L is the atrial standstill row, and the page makes 10% calcium gluconate the drug of choice to stabilise the myocardium before any potassium-lowering step. (Book p975)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Calcium stabilises the myocardium by moving the action-potential threshold to a ______ value while leaving the ______ unchanged, whereas insulin and albuterol both work by ______.",
+   "opts": [
+    "less negative; resting membrane potential; cellular shift of potassium",
+    "more negative; resting membrane potential; renal excretion of potassium",
+    "less negative; QRS duration; gastrointestinal binding",
+    "more positive; action-potential duration; cellular shift of sodium"
+   ],
+   "ans": 0,
+   "exp": "The calcium mechanism is a less negative threshold with an untouched resting potential, and the other two acute measures are both classified as shifting potassium into cells. (Book p975)"
+  }
+ ]
+}

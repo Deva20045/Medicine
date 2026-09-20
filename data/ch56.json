@@ -5,258 +5,828 @@
  "questions": [
   {
    "id": "MED-C56-001",
-   "sec": "Embryology",
+   "sec": "Liver development · embryology, hepatoblast fate and Alagille syndrome",
    "page": 982,
-   "fmt": "recall",
-   "q": "Which statement best describes hepatic diverticulum?",
+   "fmt": "numeric",
+   "q": "At which embryonic age does the proliferating endodermal bud of the liver appear, and from which structure?",
    "opts": [
-    "Ventral wall of foregut",
-    "Dorsal hindgut",
-    "Neural crest",
-    "Mesonephros"
+    "6 to 7 weeks, from the dorsal wall of the midgut",
+    "3 to 4 weeks, from the septum transversum",
+    "8 to 9 weeks, from the ventral wall of the hindgut",
+    "3 to 4 weeks, from the ventral wall of the foregut"
    ],
-   "ans": 0,
-   "exp": "The hepatic bud arises from ventral foregut endoderm. (Book p982)"
+   "ans": 3,
+   "exp": "The line reads 3-4 weeks for a proliferating endodermal bud arising from the ventral wall of the foregut. (Book p982)"
   },
   {
    "id": "MED-C56-002",
-   "sec": "Embryology",
+   "sec": "Liver development · embryology, hepatoblast fate and Alagille syndrome",
    "page": 982,
    "fmt": "match",
-   "q": "Match the key concept in FGF source with its correct interpretation.",
+   "q": "Match each inductive signal with the source named beside it — 1) FGF 2) BMP 7 … A) Septum transversum, whose mesodermal origin forms the connective tissue framework of the liver B) Cardiogenic mesoderm",
    "opts": [
-    "Yolk sac macrophages",
-    "Cardiogenic mesoderm",
-    "Septum transversum",
-    "Neural tube"
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 1-A"
    ],
-   "ans": 1,
-   "exp": "FGF is shown from cardiogenic mesoderm. (Book p982)"
+   "ans": 0,
+   "exp": "Fibroblast growth factor comes from the cardiogenic mesoderm, while bone morphogenetic protein 7 comes from the septum transversum, the mesoderm that forms the liver's connective tissue framework. (Book p982)"
   },
   {
    "id": "MED-C56-003",
-   "sec": "Embryology",
+   "sec": "Liver development · embryology, hepatoblast fate and Alagille syndrome",
    "page": 982,
-   "fmt": "scenario",
-   "q": "A patient is being evaluated for BMP7 source. Which finding or action is most appropriate?",
+   "fmt": "truefalse",
+   "q": "Assess the two bud branches: I The cranial bud is also called the hepatic diverticulum and gives rise to cords of hepatoblast. II The inferior part of the caudal bud forms the gall bladder.",
    "opts": [
-    "Endothelial sinusoid",
-    "Neural crest",
-    "Septum transversum",
-    "Cardiogenic mesoderm"
+    "Both are false",
+    "I true; II false",
+    "I false; II true",
+    "Both are true"
    ],
-   "ans": 2,
-   "exp": "BMP7 is shown from septum transversum. (Book p982)"
+   "ans": 1,
+   "exp": "The cranial or hepatic diverticulum branch does form hepatoblast cords, but the caudal bud splits the other way round, with the superior part becoming the gall bladder and the inferior part the cystic duct and ventral pancreas. (Book p982)"
   },
   {
    "id": "MED-C56-004",
-   "sec": "Embryology",
+   "sec": "Liver development · embryology, hepatoblast fate and Alagille syndrome",
    "page": 982,
    "fmt": "fillup",
-   "q": "In the context of Alagille syndrome, the principal ___ is:",
+   "q": "Fill up: Hepatoblast cords invade the septum transversum because of a loss of the adhesion molecule ______.",
    "opts": [
-    "ATP7B defect",
-    "MRP2 defect",
-    "HFE mutation",
-    "JAG1/NOTCH pathway defect"
+    "selectin L",
+    "E-cadherin",
+    "N-cadherin",
+    "integrin beta-1"
    ],
-   "ans": 3,
-   "exp": "Alagille is autosomal dominant with JAG1/NOTCH defect. (Book p982)"
+   "ans": 1,
+   "exp": "The invasion step is annotated as being due to loss of E-cadherin, printed here in the book's style for the epsilon form of the letter E. (Book p982)"
   },
   {
    "id": "MED-C56-005",
-   "sec": "Embryology",
+   "sec": "Liver development · embryology, hepatoblast fate and Alagille syndrome",
    "page": 982,
-   "fmt": "oddoneout",
-   "q": "Which option is the odd one out regarding hepatoblast?",
+   "fmt": "match",
+   "q": "Match each transcription factor with the fate it drives from the bipotential hepatoblast — 1) HNF-4 alpha 2) SOX-9 … A) Bile duct epithelial cell or cholangiocyte, with a raised Jagged1 and NOTCH pathway over TGF beta B) Hepatocyte, marked by CK8 and CK18",
    "opts": [
-    "Bipotential precursor",
-    "Mature Kupffer cell",
-    "Unipotential endothelial cell",
-    "Fibroblast only"
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 1-A",
+    "1-B, 2-A"
    ],
-   "ans": 0,
-   "exp": "Hepatoblasts form hepatocytes and cholangiocytes. (Book p982)"
+   "ans": 3,
+   "exp": "HNF-4 alpha pushes the hepatoblast towards a hepatocyte fate carrying the cytokeratin markers CK8 and CK18, while SOX-9, acting through a dominant Jagged1 and NOTCH pathway over TGF beta, gives the cholangiocyte. (Book p982)"
   },
   {
    "id": "MED-C56-006",
-   "sec": "Embryology",
-   "page": 983,
-   "fmt": "truefalse",
-   "q": "Assess these statements about Kupffer cell origin: I the first statement is correct; II the second statement is incorrect.",
+   "sec": "Liver development · embryology, hepatoblast fate and Alagille syndrome",
+   "page": 982,
+   "fmt": "recall",
+   "q": "Which substance is shown as secreted by the bipotential hepatoblast at the branch point?",
    "opts": [
-    "Cardiogenic mesoderm",
-    "Resident yolk-sac macrophage",
-    "Endodermal hepatoblast",
-    "Bile duct epithelium"
+    "Alpha-fetoprotein",
+    "Albumin",
+    "Bile salt",
+    "Erythropoietin"
    ],
-   "ans": 1,
-   "exp": "The derivative table identifies Kupffer cells as resident macrophages. (Book p983)"
+   "ans": 0,
+   "exp": "The arrow leaving the hepatoblast is labelled secrete with AFP, alpha-fetoprotein, beneath it, and the plus sign shows that secretion feeding both branches. (Book p982)"
   },
   {
    "id": "MED-C56-007",
-   "sec": "Lobule",
-   "page": 983,
-   "fmt": "numeric",
-   "q": "What is the characteristic value or relationship for portal tract?",
+   "sec": "Liver development · embryology, hepatoblast fate and Alagille syndrome",
+   "page": 982,
+   "fmt": "truefalse",
+   "q": "Assess the two cytokeratin notes: I Glandular and transitional epithelium are named as the normal sites of cytokeratin expression. II Squamous cell carcinoma of the lung is given as an example where cytokeratin appears as a tumour marker.",
    "opts": [
-    "Hepatic vein and ureter",
-    "Gallbladder and pancreas",
-    "Portal vein, hepatic artery and bile duct",
-    "Central vein only"
+    "I true; II false",
+    "I false; II true",
+    "Both are false",
+    "Both are true"
    ],
-   "ans": 2,
-   "exp": "These structures comprise the portal triad. (Book p983)"
+   "ans": 3,
+   "exp": "The note splits normal expression into glandular and transitional epithelium and tumour expression into SCC of the lung, labelled as the SCC marker. (Book p982)"
   },
   {
    "id": "MED-C56-008",
-   "sec": "Lobule",
-   "page": 983,
-   "fmt": "scenario",
-   "q": "A clinical decision depends on portal venous supply. Which choice is best?",
+   "sec": "Liver development · embryology, hepatoblast fate and Alagille syndrome",
+   "page": 982,
+   "fmt": "fillup",
+   "q": "Fill up: Alagille syndrome is described as a defect of the ______ pathway and it is inherited in an ______ manner.",
    "opts": [
-    "30% (as a contrasting clinical alternative)",
-    "50%",
-    "90%",
-    "About 70% of hepatic blood flow"
+    "HNF-4 alpha; X-linked",
+    "SOX-9; autosomal dominant",
+    "Jagged1 or NOTCH2; autosomal dominant",
+    "NOTCH1 or HES1; autosomal recessive"
    ],
-   "ans": 3,
-   "exp": "The diagram shows portal vein 70% and hepatic artery 30%. (Book p983)"
+   "ans": 2,
+   "exp": "The two opening bullets for Alagille syndrome read a Jagged1 and NOTCH2 pathway defect and autosomal dominant inheritance, which is the cholangiocyte branch of the same developmental pathway. (Book p982)"
   },
   {
    "id": "MED-C56-009",
-   "sec": "Lobule",
-   "page": 983,
-   "fmt": "recall",
-   "q": "Which statement best describes central structure?",
+   "sec": "Liver development · embryology, hepatoblast fate and Alagille syndrome",
+   "page": 982,
+   "fmt": "numeric",
+   "q": "The hepatic feature of Alagille syndrome is intrahepatic bile duct paucity causing cholestasis. By what age is this expected to present?",
    "opts": [
-    "Terminal hepatic vein",
-    "Portal triad",
-    "Bile duct",
-    "Falciform ligament"
+    "Before 6 weeks of birth",
+    "After 6 years of age",
+    "Between 1 and 2 years",
+    "Before 6 months of birth"
    ],
-   "ans": 0,
-   "exp": "The central vein lies in the center of the classic lobule. (Book p983)"
+   "ans": 3,
+   "exp": "The first presentation bullet reads intrahepatic bile duct paucity leading to cholestasis with the annotation of under 6 months of birth. (Book p982)"
   },
   {
    "id": "MED-C56-010",
-   "sec": "Zones",
-   "page": 984,
-   "fmt": "match",
-   "q": "Match the key concept in zone 1 with its correct interpretation.",
+   "sec": "Liver development · embryology, hepatoblast fate and Alagille syndrome",
+   "page": 982,
+   "fmt": "oddoneout",
+   "q": "All of these features belong to the characteristic facies of Alagille syndrome EXCEPT:",
    "opts": [
-    "Outside the acinus",
-    "Periportal zone",
-    "Centrilobular zone",
-    "Mid-zonal only"
+    "Prominent forehead",
+    "Deep set eyes",
+    "Saddle nose",
+    "Micrognathia with cleft palate"
    ],
-   "ans": 1,
-   "exp": "Zone 1 is nearest the portal tract. (Book p984)"
+   "ans": 3,
+   "exp": "The facies line lists a prominent forehead, deep set eyes, hypertelorism and a saddle nose, and the accompanying sketch shows exactly that coarse facies; micrognathia with cleft palate is not part of it. (Book p982)"
   },
   {
    "id": "MED-C56-011",
-   "sec": "Zones",
-   "page": 984,
-   "fmt": "scenario",
-   "q": "A patient is being evaluated for zone 3 vulnerability. Which finding or action is most appropriate?",
+   "sec": "Liver development · embryology, hepatoblast fate and Alagille syndrome",
+   "page": 982,
+   "fmt": "recall",
+   "q": "Which ocular finding is listed as the ophthalmic feature, and shown in the coloured slit-lamp photograph?",
    "opts": [
-    "Bile duct obstruction only",
-    "Gallbladder inflammation",
-    "Ischemic and paracetamol injury",
-    "Wilson disease only"
+    "Posterior embryotoxon",
+    "Kayser-Fleischer ring",
+    "Brushfield spots",
+    "Coloboma of the iris"
    ],
-   "ans": 2,
-   "exp": "Zone 3 is centrilobular and least oxygenated. (Book p984)"
+   "ans": 0,
+   "exp": "The fourth presentation bullet is posterior embryotoxon, illustrated beside the chest film of pulmonary stenosis on this page. (Book p982)"
   },
   {
    "id": "MED-C56-012",
-   "sec": "Fetal veins",
-   "page": 984,
-   "fmt": "fillup",
-   "q": "In the context of right superior vitelline vein, the principal ___ is:",
+   "sec": "Liver development · embryology, hepatoblast fate and Alagille syndrome",
+   "page": 982,
+   "fmt": "match",
+   "q": "Match each Alagille presentation bullet with its organ system — 1) Butterfly vertebra 2) Renal obstruction 3) Mental retardation … A) Musculoskeletal B) Neurological C) Urinary",
    "opts": [
-    "Portal artery",
-    "Cystic duct",
-    "Hepatic artery",
-    "Common hepatic vein"
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C"
    ],
-   "ans": 3,
-   "exp": "The fetal venous diagram shows this derivative. (Book p984)"
+   "ans": 1,
+   "exp": "The list continues on the next page with mental retardation, the characteristic facies, the ophthalmic and cardiac items, butterfly vertebra under musculoskeletal and renal obstruction as the seventh entry. (Book p982)"
   },
   {
    "id": "MED-C56-013",
-   "sec": "Surface anatomy",
-   "page": 984,
-   "fmt": "oddoneout",
-   "q": "Which option is the odd one out regarding Cantlie line?",
+   "sec": "Liver development · embryology, hepatoblast fate and Alagille syndrome",
+   "page": 982,
+   "fmt": "truefalse",
+   "q": "Assess the pathway logic of this page: I Alagille syndrome affects the SOX-9 driven branch of hepatoblast differentiation. II Hepatocyte markers in this scheme are CK8 and CK18, the same cytokeratins the note links to glandular epithelium.",
    "opts": [
-    "Gallbladder fossa to inferior vena cava",
-    "Umbilicus to spleen",
-    "Portal vein to bile duct",
-    "Diaphragm to kidney"
+    "I false; II true",
+    "Both are false",
+    "Both are true",
+    "I true; II false"
    ],
-   "ans": 0,
-   "exp": "Cantlie line divides functional right and left liver. (Book p984)"
+   "ans": 2,
+   "exp": "Bile duct paucity in Alagille follows the Jagged1 and NOTCH-driven cholangiocyte branch under SOX-9, and the hepatocyte markers listed are CK8 and CK18, tying the developmental note to the cytokeratin note beneath it. (Book p982)"
   },
   {
    "id": "MED-C56-014",
-   "sec": "Membranes",
-   "page": 985,
-   "fmt": "truefalse",
-   "q": "Assess these statements about MRP-2 gene: I the first statement is correct; II the second statement is incorrect.",
+   "sec": "Liver development · embryology, hepatoblast fate and Alagille syndrome",
+   "page": 982,
+   "fmt": "scenario",
+   "q": "A 3-month-old has conjugated cholestasis, a prominent forehead with hypertelorism, a systolic ejection murmur and a butterfly vertebra on spine films. Which developmental pathway is disrupted?",
    "opts": [
-    "ATP7B",
-    "ABCC2",
-    "JAG1",
-    "HNF4A"
+    "HNF-4 alpha driven hepatocyte specification",
+    "BMP 7 signalling from the septum transversum",
+    "E-cadherin mediated hepatic diverticulum budding",
+    "Jagged1 and NOTCH2 signalling in cholangiocyte differentiation"
    ],
-   "ans": 1,
-   "exp": "Canalicular MRP-2 is encoded by ABCC2. (Book p985)"
+   "ans": 3,
+   "exp": "The cluster of bile duct paucity, facies, cardiac murmur and butterfly vertebra is the Alagille presentation on this page, and its stated basis is a Jagged1 or NOTCH2 pathway defect, the same signal that pushes hepatoblasts towards cholangiocytes. (Book p982)"
   },
   {
    "id": "MED-C56-015",
-   "sec": "Membranes",
-   "page": 985,
-   "fmt": "numeric",
-   "q": "What is the characteristic value or relationship for MRP-2 function?",
+   "sec": "Liver embryological derivatives and lobule structure",
+   "page": 983,
+   "fmt": "match",
+   "q": "Match each embryological source with what it forms — 1) Endoderm 2) Mesoderm via septum transversum 3) Resident yolk sac macrophages 4) Vitelline vein greater than umbilical vein … A) Sinusoids B) Kupffer cells C) Hepatocytes and cholangiocytes D) Connective tissue, Glisson's capsule and stellate or Ito cells",
    "opts": [
-    "Urea synthesis only",
-    "Kupffer phagocytosis",
-    "Excretion of conjugated bile acids",
-    "Vitamin A storage"
+    "1-C, 2-D, 3-B, 4-A",
+    "1-C, 2-B, 3-D, 4-A",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-D, 3-C, 4-B"
    ],
-   "ans": 2,
-   "exp": "MRP-2 exports conjugated bile salts into canaliculi. (Book p985)"
+   "ans": 0,
+   "exp": "The derivatives table pairs endoderm with hepatocytes and cholangiocytes, mesoderm through the septum transversum with connective tissue, Glisson's capsule and stellate cells, resident yolk sac macrophages with Kupffer cells, and the vitelline to umbilical vein channel with the sinusoids. (Book p983)"
   },
   {
    "id": "MED-C56-016",
-   "sec": "Membranes",
-   "page": 985,
-   "fmt": "scenario",
-   "q": "A clinical decision depends on stellate cell. Which choice is best?",
+   "sec": "Liver embryological derivatives and lobule structure",
+   "page": 983,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed as products of the septum transversum mesoderm EXCEPT:",
    "opts": [
-    "Produces insulin",
-    "Forms portal vein",
-    "Is a bile duct epithelial cell",
-    "Stores vitamin A and becomes myofibroblast"
+    "Glisson's capsule",
+    "Stellate or Ito cells",
+    "The connective tissue framework",
+    "Kupffer cells"
    ],
    "ans": 3,
-   "exp": "Activated stellate cells release TGF-beta and promote fibrosis. (Book p985)"
+   "exp": "The mesoderm row of the table covers connective tissue, Glisson's capsule and the stellate cells, whereas Kupffer cells occupy their own row as resident yolk sac macrophages. (Book p983)"
   },
   {
    "id": "MED-C56-017",
-   "sec": "Liver disorders",
-   "page": 985,
+   "sec": "Liver embryological derivatives and lobule structure",
+   "page": 983,
    "fmt": "recall",
-   "q": "Which statement best describes biliary site?",
+   "q": "Under the heading Anatomy the page opens with which unit, described as the structural and functional unit?",
    "opts": [
-    "Cholangiocyte disorders such as primary sclerosing cholangitis",
-    "Hepatic vein thrombosis",
-    "Ischemic hepatitis only",
-    "Portal vein thrombosis"
+    "The lobule",
+    "The portal triad",
+    "The hepatic acinus of Rappaport",
+    "The hepatic plate"
    ],
    "ans": 0,
-   "exp": "Biliary disease involves cholangiocytes and bile ducts. (Book p985)"
+   "exp": "The only unit named on this page is the lobule, bullet-pointed as the structural and functional unit before its structure is diagrammed. (Book p983)"
+  },
+  {
+   "id": "MED-C56-018",
+   "sec": "Liver embryological derivatives and lobule structure",
+   "page": 983,
+   "fmt": "numeric",
+   "q": "The blood supply and oxygen supply figures printed beside the diagram read which pair for portal vein and hepatic artery?",
+   "opts": [
+    "50% and 50% of blood flow, 40% and 60% of oxygen",
+    "70% and 30% of blood flow, 30% and 70% of oxygen",
+    "70% and 30% of blood flow, 40% and 60% of oxygen",
+    "60% and 40% of blood flow, 70% and 30% of oxygen"
+   ],
+   "ans": 2,
+   "exp": "The diagram annotates the portal vein as 70 over 40 and the hepatic artery as 30 over 60, under the two column headings blood supply and oxygen supply, so the vein carries most of the flow while the artery carries most of the oxygen. (Book p983)"
+  },
+  {
+   "id": "MED-C56-019",
+   "sec": "Liver embryological derivatives and lobule structure",
+   "page": 983,
+   "fmt": "truefalse",
+   "q": "Assess the two supply statements: I The portal vein contributes the larger share of blood flow but the smaller share of oxygen. II The hepatic artery is annotated as contributing 60% of the blood supply.",
+   "opts": [
+    "I true; II false",
+    "Both are true",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Portal vein 70% of blood but only 40% of oxygen, and hepatic artery 30% of blood with 60% of oxygen, so the second statement reverses the two percentages printed for the artery. (Book p983)"
+  },
+  {
+   "id": "MED-C56-020",
+   "sec": "Liver embryological derivatives and lobule structure",
+   "page": 983,
+   "fmt": "fillup",
+   "q": "Fill up: The note under the portal tract diagram places the hepatic artery ______ to the portal vein and ______ to the bile duct.",
+   "opts": [
+    "anterior; to the left",
+    "posterior; to the right",
+    "superior; to the right",
+    "inferior; medial and parallel"
+   ],
+   "ans": 0,
+   "exp": "The short caption beside the triad sketch reads anterior to vein, left of bile duct, the classical arrangement in which the artery sits anteromedially while the portal vein lies posterior. (Book p983)"
+  },
+  {
+   "id": "MED-C56-021",
+   "sec": "Liver embryological derivatives and lobule structure",
+   "page": 983,
+   "fmt": "truefalse",
+   "q": "Assess the two capsule statements: I The central hepatic vein is described as the only structure not covered by Glisson's capsule. II The portal tract is drawn in the centre of the lobule and the hepatic vein at its periphery.",
+   "opts": [
+    "Both are true",
+    "I false; II true",
+    "Both are false",
+    "I true; II false"
+   ],
+   "ans": 3,
+   "exp": "The parenthetical note on the hepatic vein line states it is the only structure not covered by Glisson's capsule, and the figure puts the portal tracts at the periphery with the vein in between, the reverse of the second statement. (Book p983)"
+  },
+  {
+   "id": "MED-C56-022",
+   "sec": "Liver embryological derivatives and lobule structure",
+   "page": 983,
+   "fmt": "recall",
+   "q": "Which components does the diagram place in between the peripheral portal tracts and the central vein?",
+   "opts": [
+    "Hepatocytes and sinusoids",
+    "Bile ducts and lymphatics",
+    "Portal venules only",
+    "Stellate cells and Kupffer cells"
+   ],
+   "ans": 0,
+   "exp": "The three levels of the structure list are periphery with the portal tract, in between with hepatocytes plus sinusoids, and centre with the hepatic vein, the two being connected by sinusoids. (Book p983)"
+  },
+  {
+   "id": "MED-C56-023",
+   "sec": "Liver embryological derivatives and lobule structure",
+   "page": 983,
+   "fmt": "oddoneout",
+   "q": "The portal tract bracket in the diagram lists all of the following EXCEPT:",
+   "opts": [
+    "Portal vein",
+    "Hepatic artery",
+    "Bile duct",
+    "Terminal hepatic vein"
+   ],
+   "ans": 3,
+   "exp": "The portal tract entry carries exactly three named structures, portal vein 70 over 40, hepatic artery 30 over 60 and bile duct, while the terminal hepatic vein belongs to the centre of the lobule. (Book p983)"
+  },
+  {
+   "id": "MED-C56-024",
+   "sec": "Liver embryological derivatives and lobule structure",
+   "page": 983,
+   "fmt": "fillup",
+   "q": "Fill up: In the pathology line, liver lobules are ______ by nodules which are ______ by fibrous septae, and this ends as cirrhosis.",
+   "opts": [
+    "surrounded; separated",
+    "compressed; drained",
+    "divided; perfused",
+    "replaced; connected"
+   ],
+   "ans": 3,
+   "exp": "The chain is written as liver lobules replaced by nodules, then connected by fibrous septae, then cirrhosis, which is the page's one-line definition of the architectural change. (Book p983)"
+  },
+  {
+   "id": "MED-C56-025",
+   "sec": "Liver embryological derivatives and lobule structure",
+   "page": 983,
+   "fmt": "truefalse",
+   "q": "Assess the two vessel-origin statements: I Sinusoids are traced to the vitelline vein, which the table shows taking over from the umbilical vein. II The common hepatic vein is listed as a derivative of the endodermal bud.",
+   "opts": [
+    "I false; II true",
+    "Both are false",
+    "I true; II false",
+    "Both are true"
+   ],
+   "ans": 2,
+   "exp": "The last row reads vitelline vein greater than umbilical vein giving sinusoids, and no hepatic vein appears in the derivatives table, whose rows end with the sinusoids. (Book p983)"
+  },
+  {
+   "id": "MED-C56-026",
+   "sec": "Liver embryological derivatives and lobule structure",
+   "page": 983,
+   "fmt": "scenario",
+   "q": "A trainee labels a lobule diagram and is asked which element escapes the fibrous capsule that invests everything else at the periphery. Which structure should she name?",
+   "opts": [
+    "The interlobular bile duct",
+    "The hepatic arteriole",
+    "The portal vein branch",
+    "The central hepatic vein"
+   ],
+   "ans": 3,
+   "exp": "Glisson's capsule accompanies the portal tract at the periphery, and the page singles out the hepatic vein at the centre as the only structure not covered by it. (Book p983)"
+  },
+  {
+   "id": "MED-C56-027",
+   "sec": "Liver embryological derivatives and lobule structure",
+   "page": 983,
+   "fmt": "match",
+   "q": "Match each printed fraction with its figure — 1) 70 2) 60 3) 40 … A) Oxygen share from the hepatic artery B) Blood share from the portal vein C) Oxygen share from the portal vein",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 2,
+   "exp": "The portal vein line carries 70 over 40, so 70 is its share of blood and 40 its share of oxygen, while 60 is the oxygen figure printed under the hepatic artery line. (Book p983)"
+  },
+  {
+   "id": "MED-C56-028",
+   "sec": "Liver embryological derivatives and lobule structure",
+   "page": 983,
+   "fmt": "recall",
+   "q": "Which single word links the peripheral portal tracts to the central vein in the diagram's blood flow arrow?",
+   "opts": [
+    "Canaliculi",
+    "Lymphatics",
+    "Afferent venules",
+    "Sinusoids"
+   ],
+   "ans": 3,
+   "exp": "The bracket running from the portal tract list to the hepatic vein is labelled connected by sinusoids, the in-between hepatocyte plates being perfused through them. (Book p983)"
+  },
+  {
+   "id": "MED-C56-029",
+   "sec": "Acinar zones, vitelline vein fates and the lobe division lines",
+   "page": 984,
+   "fmt": "match",
+   "q": "Match each zone label in the figure with the injury it is arrowed to — 1) Periportal 2) Mid-zonal 3) Centrilobular … A) Ischemic hepatitis and paracetamol positioning B) Involved in Wilson's disease C) Yellow phosphorous positioning, printed as RATOL position",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "Three arrows leave the zone brackets, the periportal one pointing to Wilson's disease, the mid-zonal one straight down to the yellow phosphorous line and the centrilobular one down to the two bullets for ischemic hepatitis and paracetamol. (Book p984)"
+  },
+  {
+   "id": "MED-C56-030",
+   "sec": "Acinar zones, vitelline vein fates and the lobe division lines",
+   "page": 984,
+   "fmt": "oddoneout",
+   "q": "All of the following zone to injury pairings are drawn on this page EXCEPT:",
+   "opts": [
+    "Centrilobular zone with ischemic hepatitis",
+    "Periportal zone with paracetamol positioning",
+    "Periportal zone with Wilson's disease",
+    "Mid-zonal zone with yellow phosphorous"
+   ],
+   "ans": 1,
+   "exp": "Paracetamol is bullet-marked at the centrilobular end together with ischemic hepatitis, so pairing it with the periportal zone contradicts the arrows of the figure. (Book p984)"
+  },
+  {
+   "id": "MED-C56-031",
+   "sec": "Acinar zones, vitelline vein fates and the lobe division lines",
+   "page": 984,
+   "fmt": "numeric",
+   "q": "Which zone number is printed directly above the bracket that the yellow phosphorous arrow points to?",
+   "opts": [
+    "Zone 2",
+    "Zone 1",
+    "Zone 3",
+    "Zone 4"
+   ],
+   "ans": 0,
+   "exp": "The hepatocyte row is numbered ZONE 1 under the periportal span, ZONE 2 under mid-zonal and ZONE 3 under centrilobular, and the yellow phosphorous line hangs below the ZONE 2 bracket. (Book p984)"
+  },
+  {
+   "id": "MED-C56-032",
+   "sec": "Acinar zones, vitelline vein fates and the lobe division lines",
+   "page": 984,
+   "fmt": "truefalse",
+   "q": "Assess the two bracket statements in the figure: I The portal tract bracket ends where the periportal span begins and the parenchyma bracket runs to the terminal hepatic vein. II The three structures grouped under the peripheral bracket are hepatic artery, bile duct and portal vein.",
+   "opts": [
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The lower double arrow labelled portal tract covers the triad of hepatic artery, bile duct and portal vein, and the second double arrow labelled parenchyma extends from the septal vein region to the terminal hepatic vein. (Book p984)"
+  },
+  {
+   "id": "MED-C56-033",
+   "sec": "Acinar zones, vitelline vein fates and the lobe division lines",
+   "page": 984,
+   "fmt": "fillup",
+   "q": "Fill up: The channel drawn leaving the hepatocyte plate and entering the bile duct of the portal tract is labelled the canal of ______, and the crossing vessel near it is the ______ vein.",
+   "opts": [
+    "Ewald; interlobular",
+    "Langerhans; septal",
+    "Hering; septal",
+    "Kupffer; terminal"
+   ],
+   "ans": 2,
+   "exp": "The figure's internal labels are Canal of Hering for the ductule at the edge of the parenchyma, Septal vein for the crossed vessel, plus Arteriole below the hepatic artery. (Book p984)"
+  },
+  {
+   "id": "MED-C56-034",
+   "sec": "Acinar zones, vitelline vein fates and the lobe division lines",
+   "page": 984,
+   "fmt": "match",
+   "q": "Match each vitelline vein segment with its fate on the flow chart — 1) Right superior 2) Right inferior 3) Left inferior 4) Left superior … A) Regresses B) Portal vein C) Common hepatic vein",
+   "opts": [
+    "1-C, 2-B, 3-A, 4-B",
+    "1-A, 2-B, 3-B, 4-C",
+    "1-C, 2-B, 3-B, 4-A",
+    "1-B, 2-C, 3-C, 4-A"
+   ],
+   "ans": 2,
+   "exp": "Under Right, the superior branch descends to the common hepatic vein and the inferior to the portal vein, while under Left the inferior also joins the portal vein and the superior simply regresses. (Book p984)"
+  },
+  {
+   "id": "MED-C56-035",
+   "sec": "Acinar zones, vitelline vein fates and the lobe division lines",
+   "page": 984,
+   "fmt": "truefalse",
+   "q": "Assess the two vitelline statements: I The portal vein is a single midline structure formed from the inferior segments of both vitelline veins. II The left superior vitelline vein persists as the terminal hepatic vein.",
+   "opts": [
+    "Both are true",
+    "I false; II true",
+    "Both are false",
+    "I true; II false"
+   ],
+   "ans": 3,
+   "exp": "Both inferior limbs funnel into Portal vein in the centre of the chart, whereas the left superior limb ends in Regresses, the common hepatic vein being the fate of the right superior limb. (Book p984)"
+  },
+  {
+   "id": "MED-C56-036",
+   "sec": "Acinar zones, vitelline vein fates and the lobe division lines",
+   "page": 984,
+   "fmt": "recall",
+   "q": "Where is the falciform ligament placed, and what does the page say it divides?",
+   "opts": [
+    "On the anterior surface, separating the left and right lobes",
+    "On the posterior surface, separating the caudate and quadrate lobes",
+    "On the inferior surface, separating the right lobe from the caudate",
+    "Along the right coronary ligament, separating bare area from dome"
+   ],
+   "ans": 0,
+   "exp": "The two bullets for the falciform ligament read anterior surface and anatomically divides liver lobes into left and right. (Book p984)"
+  },
+  {
+   "id": "MED-C56-037",
+   "sec": "Acinar zones, vitelline vein fates and the lobe division lines",
+   "page": 984,
+   "fmt": "fillup",
+   "q": "Fill up: Cantlie's line is drawn as an imaginary line running from the ______ to the ______.",
+   "opts": [
+    "portal fissure; right renal vein",
+    "xiphoid process; superior vena cava",
+    "gall bladder fossa; inferior vena cava",
+    "umbilical fissure; ligamentum venosum"
+   ],
+   "ans": 2,
+   "exp": "The line is defined as imaginary, running from the gall bladder fossa, printed in red, to the inferior vena cava, also in red, and it divides the liver into left and right parts. (Book p984)"
+  },
+  {
+   "id": "MED-C56-038",
+   "sec": "Acinar zones, vitelline vein fates and the lobe division lines",
+   "page": 984,
+   "fmt": "oddoneout",
+   "q": "Every statement below fits Cantlie's line as written EXCEPT:",
+   "opts": [
+    "It is a peritoneal fold on the anterior surface",
+    "It is an imaginary line",
+    "It runs to the inferior vena cava",
+    "It divides the liver into left and right parts"
+   ],
+   "ans": 0,
+   "exp": "Being a peritoneal fold on the anterior surface is the description of the falciform ligament, the entry immediately above Cantlie's line, which shares with it only the left and right division. (Book p984)"
+  },
+  {
+   "id": "MED-C56-039",
+   "sec": "Acinar zones, vitelline vein fates and the lobe division lines",
+   "page": 984,
+   "fmt": "scenario",
+   "q": "A 30-year-old is brought in 72 hours after a massive paracetamol ingestion and a biopsy is taken. According to the zone arrows on this page, where will necrosis be heaviest?",
+   "opts": [
+    "Mid-zonal zone 2",
+    "Epithelium of the canal of Hering",
+    "Centrilobular zone 3",
+    "Periportal zone 1"
+   ],
+   "ans": 2,
+   "exp": "Paracetamol positioning is one of the two bullets hanging off the centrilobular bracket, with ischemic hepatitis, so the zone 3 parenchyma around the terminal hepatic vein is the site. (Book p984)"
+  },
+  {
+   "id": "MED-C56-040",
+   "sec": "Acinar zones, vitelline vein fates and the lobe division lines",
+   "page": 984,
+   "fmt": "scenario",
+   "q": "A worker inhaling fumes in a matches and fireworks plant develops acute hepatotoxicity from yellow phosphorous. Which band of the lobule does this page assign to that toxin?",
+   "opts": [
+    "The centrilobular band, zone 3",
+    "The portal tract connective tissue",
+    "The mid-zonal band, zone 2",
+    "The periportal band, zone 1"
+   ],
+   "ans": 2,
+   "exp": "The arrow from the mid-zonal bracket points at the yellow phosphorous line with its RATOL parenthetical, distinct from the Wilson's arrow on one side and the paracetamol bullets on the other. (Book p984)"
+  },
+  {
+   "id": "MED-C56-041",
+   "sec": "Acinar zones, vitelline vein fates and the lobe division lines",
+   "page": 984,
+   "fmt": "recall",
+   "q": "Which labelled vessel stands at the far right of the lobule figure, receiving the centrilobular end of the parenchyma bracket?",
+   "opts": [
+    "Interlobular vein",
+    "Hepatic arteriole",
+    "Terminal hepatic vein",
+    "Septal vein"
+   ],
+   "ans": 2,
+   "exp": "The label at the centre of the figure is Terminal hepatic vein, sitting under a bracket headed Center, exactly where the parenchyma arrow ends. (Book p984)"
+  },
+  {
+   "id": "MED-C56-042",
+   "sec": "Acinar zones, vitelline vein fates and the lobe division lines",
+   "page": 984,
+   "fmt": "truefalse",
+   "q": "Assess the two histology captions: I The micrographs on this page are captioned histology of simple hepatic acini. II The Wilson's disease arrow is aimed at the periportal zone because copper accumulates first around the terminal hepatic vein.",
+   "opts": [
+    "I false; II true",
+    "Both are false",
+    "I true; II false",
+    "Both are true"
+   ],
+   "ans": 2,
+   "exp": "The caption beneath the two stained plates reads histology of simple hepatic acini, and the Wilson's arrow belongs to the periportal end, so any centrilobular reasoning is the opposite of what is shown. (Book p984)"
+  },
+  {
+   "id": "MED-C56-043",
+   "sec": "Hepatocyte membrane domains and the liver disorders table",
+   "page": 985,
+   "fmt": "match",
+   "q": "Match each hepatocyte membrane domain with its feature — 1) Contiguous membrane 2) Canicular membrane 3) Sinusoidal or basolateral membrane … A) Stellate, Ito or lipocyte cells in the space of Disse storing vitamin A B) Gap junctions between two hepatocytes C) MRP-2 protein excreting conjugated bile acids",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 1,
+   "exp": "Numbered 1 is the contiguous membrane with gap junctions between two hepatocytes, 2 the canicular membrane carrying MRP-2, and 3 the sinusoidal or basolateral membrane where the stellate cell sits. (Book p985)"
+  },
+  {
+   "id": "MED-C56-044",
+   "sec": "Hepatocyte membrane domains and the liver disorders table",
+   "page": 985,
+   "fmt": "recall",
+   "q": "The MRP-2 protein of the canicular membrane is encoded by which gene as printed on the page?",
+   "opts": [
+    "ATP8B1",
+    "SLC10A1",
+    "ABCB4",
+    "ABCC2"
+   ],
+   "ans": 3,
+   "exp": "The line reads Gene ABCC2 in red under the MRP-2 protein heading, the canalicular multidrug resistance associated protein 2. (Book p985)"
+  },
+  {
+   "id": "MED-C56-045",
+   "sec": "Hepatocyte membrane domains and the liver disorders table",
+   "page": 985,
+   "fmt": "truefalse",
+   "q": "Assess the two canicular statements: I MRP-2 functions in the excretion of conjugated bile acids, the bile salts. II A defect of this protein produces Dubin-Johnson syndrome, while loss of basolateral uptake would be a sinusoidal membrane defect.",
+   "opts": [
+    "Both are false",
+    "Both are true",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 1,
+   "exp": "The two bullets after the gene are function, excretion of conjugated bile acids or bile salts, and defect, Dubin Johnson syndrome, so the syndrome belongs to the canicular domain rather than to the basolateral one. (Book p985)"
+  },
+  {
+   "id": "MED-C56-046",
+   "sec": "Hepatocyte membrane domains and the liver disorders table",
+   "page": 985,
+   "fmt": "fillup",
+   "q": "Fill up: The stellate cell is also called the ______ cell or lipocyte, and it lies in the ______.",
+   "opts": [
+    "Ito; space of Disse",
+    "Kupffer; sinusoid lumen",
+    "Pit; canaliculus",
+    "Ito; bile canaliculus"
+   ],
+   "ans": 0,
+   "exp": "Entry 3 lists stellate, Ito cells or lipocyte and its site line, printed as Side rather than Site, reads space of Disse, the same space labelled beneath the hepatocyte in the diagram. (Book p985)"
+  },
+  {
+   "id": "MED-C56-047",
+   "sec": "Hepatocyte membrane domains and the liver disorders table",
+   "page": 985,
+   "fmt": "scenario",
+   "q": "A hepatology fellow is explaining why bridging fibrosis advances in chronic hepatitis. Which cell and mediator pair does this page place at the start of that cascade?",
+   "opts": [
+    "Cholangiocyte releasing secretin",
+    "Endothelial cell releasing nitric oxide",
+    "Stellate cell releasing TGF-beta",
+    "Kupffer cell releasing interleukin-6"
+   ],
+   "ans": 2,
+   "exp": "The cirrhotic pathology line states that activation of the stellate cell releases TGF-beta, which forms myofibroblasts and then cirrhosis. (Book p985)"
+  },
+  {
+   "id": "MED-C56-048",
+   "sec": "Hepatocyte membrane domains and the liver disorders table",
+   "page": 985,
+   "fmt": "truefalse",
+   "q": "Assess the two sinusoid statements: I The sinusoidal endothelial cell is described as having fenestrae. II The page assigns vitamin A storage to the sinusoidal endothelial lining rather than to any perisinusoidal cell.",
+   "opts": [
+    "I false; II true",
+    "Both are false",
+    "I true; II false",
+    "Both are true"
+   ],
+   "ans": 2,
+   "exp": "The diagram label reads sinusoidal endothelial cell with fenestrae, but the storage of vitamin A is a function bullet of the stellate or Ito cell, sitting in the space of Disse. (Book p985)"
+  },
+  {
+   "id": "MED-C56-049",
+   "sec": "Hepatocyte membrane domains and the liver disorders table",
+   "page": 985,
+   "fmt": "match",
+   "q": "Match each row of the liver disorders table with its disorder — 1) Vascular, site vessel 2) Parenchymal, site hepatocyte and sinusoids 3) Biliary, site cholangiocyte … A) Any disease leading to cirrhosis B) Primary biliary cirrhosis and primary sclerosing cholangitis C) Hepatic vein thrombosis, Budd-Chiari syndrome",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 3,
+   "exp": "The three rows of the table read vascular with hepatic vein thrombosis as Budd-Chiari syndrome, parenchymal with any disease leading to cirrhosis, and biliary with primary biliary cirrhosis and primary sclerosing cholangitis. (Book p985)"
+  },
+  {
+   "id": "MED-C56-050",
+   "sec": "Hepatocyte membrane domains and the liver disorders table",
+   "page": 985,
+   "fmt": "oddoneout",
+   "q": "All of the following appear in the biliary row of the disorders table EXCEPT:",
+   "opts": [
+    "Secondary biliary cirrhosis from obstruction",
+    "Primary biliary cirrhosis",
+    "Primary sclerosing cholangitis",
+    "A disorder whose site is the cholangiocyte"
+   ],
+   "ans": 0,
+   "exp": "Only primary biliary cirrhosis and primary sclerosing cholangitis are written in that row, both placed at the level of the cholangiocyte, and secondary biliary cirrhosis is not listed. (Book p985)"
+  },
+  {
+   "id": "MED-C56-051",
+   "sec": "Hepatocyte membrane domains and the liver disorders table",
+   "page": 985,
+   "fmt": "fillup",
+   "q": "Fill up: In the diagram the junction that seals the hepatocyte pair near the bile canaliculus is the ______ junction, while the communicating junction of the contiguous membrane is the ______ junction.",
+   "opts": [
+    "desmosomal; adherens",
+    "tight; desmosomal",
+    "tight; gap",
+    "gap; tight"
+   ],
+   "ans": 2,
+   "exp": "The label list above the cell drawing reads hepatocyte, tight junction, gap junction and bile canaliculus, and the text assigns gap junctions between two hepatocytes to the contiguous membrane. (Book p985)"
+  },
+  {
+   "id": "MED-C56-052",
+   "sec": "Hepatocyte membrane domains and the liver disorders table",
+   "page": 985,
+   "fmt": "scenario",
+   "q": "A jaundiced young adult has conjugated hyperbilirubinaemia with a black-pigmented liver on laparoscopy, and genetic testing is ordered. According to this page, which membrane domain should the report target?",
+   "opts": [
+    "Sinusoidal, stellate cell in the space of Disse",
+    "Contiguous, gap junction between hepatocytes",
+    "Biliary, cholangiocyte of the septal duct",
+    "Canicular, MRP-2 encoded by ABCC2"
+   ],
+   "ans": 3,
+   "exp": "The defect line under the canicular membrane is Dubin Johnson syndrome, caused by failure of the MRP-2 exporter encoded by ABCC2 that pushes conjugated bile acids into the canaliculus. (Book p985)"
+  },
+  {
+   "id": "MED-C56-053",
+   "sec": "Hepatocyte membrane domains and the liver disorders table",
+   "page": 985,
+   "fmt": "truefalse",
+   "q": "Assess the two cellular statements: I The Kupffer cell and the stellate cell are drawn as separate entities, the former inside the sinusoid and the latter in the space of Disse. II The Kupffer cell is described on this page as the store of vitamin A.",
+   "opts": [
+    "I false; II true",
+    "Both are false",
+    "I true; II false",
+    "Both are true"
+   ],
+   "ans": 2,
+   "exp": "The drawing places Kupffer cell within the sinusoid below the hepatocyte and the stellate cell in the space of Disse, and it is the stellate cell, not the Kupffer cell, whose function bullet is storage of vitamin A. (Book p985)"
+  },
+  {
+   "id": "MED-C56-054",
+   "sec": "Hepatocyte membrane domains and the liver disorders table",
+   "page": 985,
+   "fmt": "recall",
+   "q": "What sequence does the page complete after activation of the stellate cell releases TGF-beta?",
+   "opts": [
+    "Forms myofibroblasts, then cirrhosis",
+    "Forms cholangiocytes, then ductopenia",
+    "Forms sinusoids, then Budd-Chiari syndrome",
+    "Forms Kupffer cells, then steatohepatitis"
+   ],
+   "ans": 0,
+   "exp": "The arrow chain is activation releases TGF-beta, then forms myofibroblasts, then cirrhosis, tying the basolateral membrane compartment to fibrogenesis. (Book p985)"
+  },
+  {
+   "id": "MED-C56-055",
+   "sec": "Hepatocyte membrane domains and the liver disorders table",
+   "page": 985,
+   "fmt": "oddoneout",
+   "q": "The labelled elements of the hepatocyte and sinusoid diagram include all of the following EXCEPT:",
+   "opts": [
+    "Pit cells",
+    "Space of Disse",
+    "Stellate cell",
+    "Bile canaliculus"
+   ],
+   "ans": 0,
+   "exp": "The captions supplied are bile canaliculus, hepatocyte sinusoidal basolateral membrane, space of Disse, stellate cell, sinusoidal endothelial cell with fenestrae, Kupffer cell, sinusoid and hepatocyte, with no pit cells named. (Book p985)"
   }
  ],
  "units": [
@@ -264,57 +834,95 @@
    "id": "MED-U56-1",
    "ch": 56,
    "n": 1,
-   "title": "Embryology",
-   "sec": "Embryology",
-   "guide": "Cover development and derivatives.",
+   "title": "Embryology: bud signals, hepatoblast fate and Alagille syndrome",
+   "sec": "Development · p982",
+   "guide": "The 3 to 4 week endodermal bud from the ventral foregut with FGF from cardiogenic mesoderm and BMP 7 from the septum transversum, the cranial and caudal bud derivatives, E-cadherin loss, HNF-4 alpha versus SOX-9 with CK8 and CK18, the cytokeratin note, and the Alagille pathway defect with its facies, eye, cardiac, vertebral and renal features.",
    "qs": [
     "MED-C56-001",
     "MED-C56-002",
     "MED-C56-003",
-    "MED-C56-004"
+    "MED-C56-004",
+    "MED-C56-005",
+    "MED-C56-006",
+    "MED-C56-007",
+    "MED-C56-008",
+    "MED-C56-009",
+    "MED-C56-010",
+    "MED-C56-011",
+    "MED-C56-012",
+    "MED-C56-013",
+    "MED-C56-014"
    ]
   },
   {
    "id": "MED-U56-2",
    "ch": 56,
    "n": 2,
-   "title": "Lobule",
-   "sec": "Lobule",
-   "guide": "Identify structures and supply.",
+   "title": "Derivatives, lobule structure and the cirrhosis chain",
+   "sec": "Derivatives and lobule · p983",
+   "guide": "The four-row derivatives table, the lobule as structural and functional unit, portal tract contents with the 70 over 40 and 30 over 60 blood and oxygen split, the anterior to vein and left of bile duct note, the vein escaping Glisson's capsule, and the replaced-by-nodules chain.",
    "qs": [
-    "MED-C56-005",
-    "MED-C56-006",
-    "MED-C56-007",
-    "MED-C56-008"
+    "MED-C56-015",
+    "MED-C56-016",
+    "MED-C56-017",
+    "MED-C56-018",
+    "MED-C56-019",
+    "MED-C56-020",
+    "MED-C56-021",
+    "MED-C56-022",
+    "MED-C56-023",
+    "MED-C56-024",
+    "MED-C56-025",
+    "MED-C56-026",
+    "MED-C56-027",
+    "MED-C56-028"
    ]
   },
   {
    "id": "MED-U56-3",
    "ch": 56,
    "n": 3,
-   "title": "Zones and surface anatomy",
-   "sec": "Zones and surface anatomy",
-   "guide": "Apply zonal and fetal anatomy.",
+   "title": "Acinar zones, vitelline vein fates and lobe division lines",
+   "sec": "Zones and anatomy · p984",
+   "guide": "Zone 1 periportal with Wilson's disease, zone 2 mid-zonal with yellow phosphorous, zone 3 centrilobular with ischemia and paracetamol, the canal of Hering and terminal hepatic vein labels, the four-way vitelline vein chart, and the falciform ligament versus Cantlie's line.",
    "qs": [
-    "MED-C56-009",
-    "MED-C56-010",
-    "MED-C56-011",
-    "MED-C56-012"
+    "MED-C56-029",
+    "MED-C56-030",
+    "MED-C56-031",
+    "MED-C56-032",
+    "MED-C56-033",
+    "MED-C56-034",
+    "MED-C56-035",
+    "MED-C56-036",
+    "MED-C56-037",
+    "MED-C56-038",
+    "MED-C56-039",
+    "MED-C56-040",
+    "MED-C56-041",
+    "MED-C56-042"
    ]
   },
   {
    "id": "MED-U56-4",
    "ch": 56,
    "n": 4,
-   "title": "Hepatocyte membranes",
-   "sec": "Hepatocyte membranes",
-   "guide": "Distinguish membranes and disorders.",
+   "title": "Hepatocyte membrane domains and the liver disorders table",
+   "sec": "Membranes and disorders · p985",
+   "guide": "Contiguous, canicular and sinusoidal domains, MRP-2 with ABCC2 and Dubin-Johnson, the stellate cell in the space of Disse storing vitamin A and driving myofibroblasts through TGF-beta, and the vascular, parenchymal and biliary rows of the disorders table.",
    "qs": [
-    "MED-C56-013",
-    "MED-C56-014",
-    "MED-C56-015",
-    "MED-C56-016",
-    "MED-C56-017"
+    "MED-C56-043",
+    "MED-C56-044",
+    "MED-C56-045",
+    "MED-C56-046",
+    "MED-C56-047",
+    "MED-C56-048",
+    "MED-C56-049",
+    "MED-C56-050",
+    "MED-C56-051",
+    "MED-C56-052",
+    "MED-C56-053",
+    "MED-C56-054",
+    "MED-C56-055"
    ]
   }
  ]

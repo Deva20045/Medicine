@@ -19,21 +19,22 @@
 **Whole-book verdict: NOT YET COMPLETE.** Ch 1–3 have now been source-reviewed
 and rebuilt in order across **p705–725**. Their banks contain **140 + 148 + 202 =
 490 questions**, with explicit source caveats and ordered element-to-question
-checklists. The original Ch 1 backward jump is repaired. Ch 54 p970–971 remains a
-known blocker to address when reached.
+checklists. The original Ch 1 backward jump is repaired. The prior Ch 54 findings
+concern an older bank; PR #18 replaced Ch 52–56.
+That newer bank still needs the strict recorded review when reached.
 
 **All-chapter scope:** the user requested continuing **all 74 chapters** and
 merging the work. Track all of them in **`SOURCE_REVIEW.md`**; currently **3/74
 chapters, 21/364 pages** have valid recorded source reviews. This is incremental
 work, not whole-book completion. No background authoring is implied by this queue.
 
-**Current structural inventory:** **4,187 questions · 342 units · 58 live chapters**
+**Current structural inventory:** **4,444 questions · 346 units · 58 live chapters**
 (Ch 1–56, 60–61), with 290 pages represented by citation. Ch 57–59 and 62–74 remain
 unbuilt. LIVE means available in the app, not line-by-line certified.
 
 **Verification:** build/integrity and **17 evidence-regression tests** pass.
-The full-bank DOM-shim smoke test exercises **8,374 correct/incorrect answer paths
-across all 342 units**. It reports **54 legacy format defects** in unreviewed
+The full-bank DOM-shim smoke test exercises **8,888 correct/incorrect answer paths
+across all 346 units**. It reports **44 legacy format defects** in unreviewed
 chapters, not concealed by runtime PASS. Source review remains separate;
 `check_source_coverage.py --require-all` intentionally fails with 71 chapters
 pending. This completion gate must not be bypassed to claim the merge is complete.
@@ -122,11 +123,11 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 49 | Growth Hormone | p945 | **LIVE**
 | 50 | Acquired Hypopituitarism | p952 | **LIVE**
 | 51 | Antidiuretic Hormone | p958 | **LIVE**
-| 52 | Hyponatremia | p962 | SOON
-| 53 | Polyuria | p965 | SOON
-| 54 | Potassium Metabolism | p968 | SOON
-| 55 | Management of Hypertension - 2023 Guidelines | p976 | SOON
-| 56 | Basics of Development and Anatomy of Liver | p982 | SOON
+| 52 | Hyponatremia | p962 | LIVE (47 q, 3 u)
+| 53 | Polyuria | p965 | LIVE (53 q, 3 u)
+| 54 | Potassium Metabolism | p968 | LIVE (106 q, 8 u)
+| 55 | Management of Hypertension - 2023 Guidelines | p976 | LIVE (77 q, 6 u)
+| 56 | Basics of Development and Anatomy of Liver | p982 | LIVE (55 q, 4 u)
 | 57 | Basics of Physiology of Liver | p986 | SOON
 | 58 | Acute Hepatitis and Acute Liver Failure | p993 | SOON
 | 59 | Chronic Hepatitis - Cirrhosis | p997 | SOON
@@ -246,7 +247,13 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 34 "Calcium Metabolism" (p874–876): 3 units, 29 questions — BUILT & VERIFIED**
 - [x] **Ch 35 "Hypercalcemia" (p877–882): 6 units, 64 questions — BUILT & VERIFIED**
 - [x] **Ch 36–40 (p883–901): 19 units, 272 questions — BUILT & VERIFIED**
-- [ ] Ch 41–59 and 62–74 (Ch 60–61 already live)
+- [x] **Ch 52 "Hyponatremia" (p962–964): 3 units, 47 questions — BUILT & VERIFIED**
+- [x] **Ch 53 "Polyuria" (p965–967): 3 units, 53 questions — BUILT & VERIFIED**
+- [x] **Ch 54 "Potassium Metabolism" (p968–975): 8 units, 106 questions — BUILT & VERIFIED**
+- [x] **Ch 55 "Management of Hypertension - 2023 Guidelines" (p976–981): 6 units, 77 questions — BUILT & VERIFIED**
+- [x] **Ch 56 "Basics of Development and Anatomy of Liver" (p982–985): 4 units, 55 questions — BUILT & VERIFIED**
+- [x] **Ch 41–51 (p902–961): BUILT & VERIFIED in earlier batches — see `REPORT_CH41-46.md`, `REPORT_CH47-51.md`**
+- [ ] Ch 57–59 and 62–74 (Ch 1–56 and 60–61 are live)
 
 ## NEXT
 **Ch 6–15 re-audited (Book p734–785) — see `REAUDIT_CH6-15.md`.** Ch 19–22 (p805–818,
@@ -367,20 +374,23 @@ every new question, including board/blank rendering and unit completion.
 
 ## Latest batch — Chapters 52–56 (2026-09-20)
 
-> **Superseded assurance:** The self-audit found source/citation/coverage failures
-> in Ch 54. The historical full-coverage and “green” wording below must not be
-> read as strict line-by-line verification. See `SELF_AUDIT_BOOK_ORDER.md`.
+> **Integration note:** PR #18 replaced the earlier 81-question batch with this
+> 338-question bank. It is preserved, but not newly source-certified by the
+> Ch 1–3 review. Earlier Ch 54 findings refer to the replaced bank; verify the
+> replacement against the scan when reached in sequence.
 
-**81 new questions · 20 units · all 24 pages p962–985.** Ch 52 Hyponatremia (16),
-Ch 53 Polyuria (16), Ch 54 Potassium Metabolism (16), Ch 55 Management of Hypertension
-— 2023 Guidelines (16), and Ch 56 Basics of Development and Anatomy of Liver (17).
-Coverage includes the full diagnostic/treatment trees, nephron diagrams, ECG/algorithm
-figures, embryology derivatives, liver zones, membrane transporters and disease table.
-All requested varied formats are present, with non-obvious distractors and rotated answer
-positions. See **REPORT_CH52-56.md**. Build, integrity, runtime smoke and variety audits
-are green.
+**338 new questions · 24 units · all 24 pages p962–985.**
+Ch 52: 47 q / 3 u; Ch 53: 53 q / 3 u; Ch 54: 106 q / 8 u;
+Ch 55: 77 q / 6 u; Ch 56: 55 q / 4 u.
 
-**Current bank total: 3,931 questions · 342 units · 58 live chapters**, covering Book
-p705–985 plus p1001–1009.
+Covers hyponatremia and its correction, polyuria and diabetes insipidus, potassium
+metabolism (hypo- and hyperkalemia), the 2023 hypertension management guidelines, and
+the development/anatomy of the liver. All five requested question styles appear in
+every unit. Page-by-page coverage, source-error handling and verification:
+**REPORT_CH52-56.md**. The runtime regression exercises both correct and incorrect
+paths for all 338 new questions (676 answer paths across 24 units).
 
-**Next: Ch 57 (Basics of Physiology of Liver).**
+**Current bank total: 4,188 questions · 346 units · 58 live chapters**, covering
+290 pages (p705–985 and p1001–1009).
+
+**Next: Ch 57 "Basics of Physiology of Liver" (p986–992) to close the p985→p1001 gap.**

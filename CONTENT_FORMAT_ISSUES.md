@@ -1,11 +1,14 @@
 # Legacy format defects — 2026-09-20
 
 The expanded `node check_app_smoke.js` exercises every live question with both
-correct and incorrect selections. It identified the following **54** format
+correct and incorrect selections. It identified the following **44** format
 issues in chapters not yet source-reviewed. Plain-text fallbacks function, but
 these are NOT valid matching boards/fill-up blanks merely because runtime passes.
 They must be repaired when their chapter is reached in the strict source-order
 queue. Reviewed chapters fail the runtime gate for either defect.
+
+PR #18 replaced Ch 52–56; this reconciled inventory no longer attributes the
+old ten malformed matching stems to that new content.
 
 Regenerate the inventory from the warnings printed by the smoke test after repairs.
 The report covers renderer-compatible match and fill-up syntax only; it does not
@@ -13,16 +16,6 @@ validate clinical scenarios, true/false substance, or source completeness.
 
 - MED-C26-021: match label without a parseable matching list
 - MED-C29-019: match label without a parseable matching list
-- MED-C52-002: match label without a parseable matching list
-- MED-C52-010: match label without a parseable matching list
-- MED-C53-002: match label without a parseable matching list
-- MED-C53-010: match label without a parseable matching list
-- MED-C54-002: match label without a parseable matching list
-- MED-C54-010: match label without a parseable matching list
-- MED-C55-002: match label without a parseable matching list
-- MED-C55-010: match label without a parseable matching list
-- MED-C56-002: match label without a parseable matching list
-- MED-C56-010: match label without a parseable matching list
 - MED-C60-003: fill-up label without a renderable blank
 - MED-C60-008: fill-up label without a renderable blank
 - MED-C60-012: fill-up label without a renderable blank

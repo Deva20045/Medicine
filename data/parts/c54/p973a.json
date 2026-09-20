@@ -1,0 +1,162 @@
+{
+ "page": 973,
+ "sec": "Hypokalemia treatment and the opening of hyperkalemia",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "What does the acute-attack line prescribe for potassium chloride infusion, and how much potassium does one ampoule contain?",
+   "opts": [
+    "2 ampoules in 300 mL normal saline over 2 hours, 10 mEq per ampoule",
+    "1 ampoule in 500 mL normal saline over 4 hours, 20 mEq per ampoule",
+    "2 ampoules in 100 mL dextrose over 1 hour, 5 mEq per ampoule",
+    "4 ampoules in 300 mL normal saline over 2 hours, 10 mEq per ampoule"
+   ],
+   "ans": 0,
+   "exp": "The acute attack is treated with KCl, 2 ampoules in 300 mL N.S over 2 hours, with 1 ampoule equal to 10 mEq and 1 mL of KCl equal to 2 mEq. (Book p973)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "State the peripheral-line rate ceiling and the maximum permissible daily dose given on this page.",
+   "opts": [
+    "20 mEq/hr and 160 mEq/day",
+    "10 mEq/hr and 100 mEq/day",
+    "40 mEq/hr and 240 mEq/day",
+    "20 mEq/hr and 75 mEq/day"
+   ],
+   "ans": 0,
+   "exp": "The two safety lines are a maximum rate of 20 mEq/hr through a peripheral line and a maximum permissible dose of 160 mEq per day. (Book p973)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The 160 mEq daily ceiling is annotated as raising the serum potassium by ______ mEq/L, and the maintenance requirement given for potassium is ______ mEq/day.",
+   "opts": [
+    "2; 75",
+    "1; 40",
+    "4; 100",
+    "2; 100"
+   ],
+   "ans": 0,
+   "exp": "The bracket after 160 mEq/day reads an increase in K+ of 2 mEq/L, and the maintenance section opens with a required dose of 75 mEq/day. (Book p973)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A ward prescription reads potassium chloride 4 ampoules in 300 mL saline to run over 2 hours peripherally. Which single figure on this page makes that order unsafe?",
+   "opts": [
+    "The maximum rate of 20 mEq/hr through a peripheral line",
+    "The maintenance dose of 75 mEq/day",
+    "The strength of 2 mEq in each millilitre of KCl",
+    "The total daily limit of 75 mEq"
+   ],
+   "ans": 0,
+   "exp": "Four ampoules give 40 mEq, and running that in 2 hours means 20 mEq/hr only if the whole volume is given over 2 hours, whereas the printed acute order is 2 ampoules; 40 mEq in under 2 hours would exceed the stated peripheral ceiling of 20 mEq/hr. (Book p973)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "How much potassium and bicarbonate does potassium citrate syrup deliver per 5 mL, and what daily volume does the page estimate?",
+   "opts": [
+    "10 mEq of each, about 35 mL/day",
+    "20 mEq of each, about 70 mL/day",
+    "10 mEq of potassium only, about 35 mL/day",
+    "5 mEq of each, about 100 mL/day"
+   ],
+   "ans": 0,
+   "exp": "Maintenance option 1 is K+ citrate syrup, 5 mL providing 10 mEq each of K+ and HCO3-, at roughly 35 mL per day. (Book p973)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each indication with the bicarbonate dose printed for it — 1) Distal RTA 2) Proximal RTA 3) Extra bicarbonate as Shohl's solution … A) 1 mL provides 1 mEq of HCO3- B) 2 to 4 mEq/kg/day C) 10 to 15 mEq/kg/day",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The HCO3- requirement block gives 2-4 mEq/kg/day for distal RTA and 10-15 mEq/kg/day for proximal RTA, with Shohl's solution, a sodium citrate and citric acid mixture, supplying 1 mEq per mL. (Book p973)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two oral options: I A 750 mg KCl tablet supplies 10 mEq of potassium and needs multiple dosing. II The tablet also corrects any accompanying acidosis.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The tablet block lists 750 mg equal to 10 mEq K+, multiple dosing required and, explicitly, acidosis not corrected, which is why the citrate syrup is preferred when bicarbonate is also needed. (Book p973)"
+  },
+  {
+   "fmt": "management",
+   "q": "A patient with diarrhoea-induced hypokalemia and a hyperchloraemic acidosis needs oral replacement. Which choice on this page serves both problems?",
+   "opts": [
+    "Potassium citrate syrup",
+    "KCl 750 mg tablets",
+    "Intravenous KCl 20 mEq/hr",
+    "Sodium bicarbonate alone without potassium"
+   ],
+   "ans": 0,
+   "exp": "The citrate syrup supplies 10 mEq each of potassium and bicarbonate per 5 mL, whereas the chloride tablet is annotated as not correcting acidosis. (Book p973)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Hyperkalemia is introduced on this page with which two-word characterisation?",
+   "opts": [
+    "Acute emergency",
+    "Chronic problem",
+    "Benign finding",
+    "Laboratory artefact"
+   ],
+   "ans": 0,
+   "exp": "The hyperkalemia heading carries the single line acute emergency before the causes tree. (Book p973)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each column of the hyperkalemia causes tree with the entries printed under it — 1) Renal 2) Spurious 3) Cellular shift … A) Nothing is written beneath this heading on the page B) Renal failure, the most common, and RTA type 4 from aldosterone insufficiency C) Thrombocytosis, fragile cells in chronic lymphocytic leukemia, trauma during blood collection and repeated clenching of the fist",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The renal column lists renal failure as the most common cause and RTA-IV, the spurious column has four entries, and the cellular-shift column is left blank in the printed scheme. (Book p973)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "All of the following are placed under the spurious column EXCEPT:",
+   "opts": [
+    "Acute tubular necrosis",
+    "Thrombocytosis",
+    "Fragile cells in chronic lymphocytic leukemia",
+    "Repeated clenching of the fist"
+   ],
+   "ans": 0,
+   "exp": "ATN belongs to the renal column through renal failure, while the spurious list covers thrombocytosis, fragile CLL cells, collection trauma and repeated fist clenching, all in-vitro potassium releases. (Book p973)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A laboratory report shows potassium 6.9 mEq/L in an asymptomatic patient whose platelet count is 950 x 10^9/L and whose sample was drawn through a difficult, haemolysing venepuncture. Which column of this page's tree explains the result?",
+   "opts": [
+    "Spurious, through thrombocytosis and collection trauma",
+    "Renal, through undisclosed acute kidney injury",
+    "Cellular shift, through a beta-blocker effect",
+    "None, since potassium cannot rise outside the body"
+   ],
+   "ans": 0,
+   "exp": "Two of the four spurious entries, thrombocytosis and trauma during blood collection, are present, so the elevation is a laboratory artefact rather than a patient problem. (Book p973)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the renal column: I Renal failure is described as the most common renal cause. II RTA type 4 is annotated with aldosterone insufficiency.",
+   "opts": [
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The two renal entries are 1 renal failure with the abbreviation m/c and 2 RTA-IV with aldosterone insufficiency in brackets, the subject of the next page. (Book p973)"
+  }
+ ]
+}

@@ -2,11 +2,12 @@
 
 Date: **2026-09-20**
 
-> **Historical baseline, before repairs.** Ch 1–2 have since been rebuilt and
-> source-reviewed with caveats (p705–716). The old Ch 1 IDs/findings below refer
-> to the original bank; its backward jump is repaired. Ch 54 findings remain
-> unresolved. See `REAUDIT_CH1_SOURCE_ORDER.md`, `REAUDIT_CH2_SOURCE_ORDER.md`
-> and `SOURCE_REVIEW.md` for current scope and next work (Ch 3, p717).
+> **Historical baseline, before repairs.** Ch 1–3 have since been rebuilt and
+> source-reviewed with caveats (p705–725). The old IDs/findings below refer to the
+> original bank. The Ch 1 backward jump is repaired. PR #18 separately replaced
+> Ch 52–56 with 338 questions, so the Ch 54 IDs below must not be applied to that
+> replacement. Its strict source review remains pending. See `SOURCE_REVIEW.md`
+> and `REAUDIT_CH3_SOURCE_ORDER.md` for current scope; next is Ch 4, p726.
 
 ## Verdict: NOT COMPLIANT
 

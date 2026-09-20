@@ -1,0 +1,162 @@
+{
+ "page": 974,
+ "sec": "Hyperkalemia · RTA type IV, aldosterone insufficiency, TTKG and clinical features",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Type IV RTA is defined as significant hyperkalemia with ______ or ______ renal failure, disproportionate to degree and duration.",
+   "opts": [
+    "absent; mild",
+    "severe; established",
+    "acute; chronic",
+    "mild; moderate"
+   ],
+   "ans": 0,
+   "exp": "The definition line reads significant hyperkalemia plus absent or mild renal failure, disproportionate to the degree and duration of failure, and it is attributed to aldosterone insufficiency. (Book p974)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each arm of aldosterone insufficiency with the entries placed under it — 1) Hyporeninemic true hypoaldosteronism 2) Hyperreninemic true hypoaldosteronism 3) Pseudohypoaldosteronism, genetic … A) PHA type 1 and PHA type 2, the latter as Gordon's syndrome B) NSAIDs, beta-blockers, aliskiren and diabetes mellitus C) Addison's disease, ACE inhibitors, ARBs, heparin and ketoconazole",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The hyporeninemic list is NSAIDs through prostaglandin reduction, beta-blockers, aliskiren and diabetic impairment of prorenin conversion, the hyperreninemic list holds Addison's with ACE blockade, ARBs, heparin and ketoconazole, and the genetic pseudohypoaldosteronism entries are PHA-I and PHA-II or Gordon's syndrome. (Book p974)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of these drugs appears on this page because it inhibits aldosterone synthase rather than for any other reason?",
+   "opts": [
+    "Ketoconazole",
+    "Spironolactone",
+    "Trimethoprim",
+    "Pentamidine"
+   ],
+   "ans": 0,
+   "exp": "Heparin and ketoconazole are bracketed together as inhibitors of aldosterone synthase in the hyperreninemic list, while spironolactone, trimethoprim and pentamidine act as potassium-sparing or channel-blocking drugs in the pseudohypoaldosteronism list. (Book p974)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess two entries in the hyporeninemic list: I Diabetes mellitus is explained by impaired conversion of prorenin to renin together with autonomic neuropathy. II Aliskiren is included because it blocks the angiotensin receptor.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Statement I reproduces the diabetic entry, while aliskiren is listed with the annotation that it reduces renin, a direct renin inhibitor rather than a receptor blocker. (Book p974)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "The chronic tubulointerstitial disease branch of pseudohypoaldosteronism lists all of these EXCEPT:",
+   "opts": [
+    "Polycystic kidney disease",
+    "Reflux",
+    "Obstructions",
+    "Lupus"
+   ],
+   "ans": 0,
+   "exp": "Under CTID the page names reflux, obstructions and lupus, and separately notes that lithium and calcineurin inhibitors cause the CTID that produces this picture. (Book p974)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each drug with the mechanism slot it occupies on this page — 1) Amiloride 2) Eplerenone 3) NSAIDs … A) Blocks the ENaC channel in the pseudohypoaldosteronism drug list B) Reduces prostaglandins and therefore renin, in the hyporeninemic list C) Competes with aldosterone at its receptor in the pseudohypoaldosteronism drug list",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Amiloride and triamterene sit in the channel-blocking group of the pseudo list with spironolactone and eplerenone as the receptor blockers, while NSAIDs head the hyporeninemic list through prostaglandin reduction. (Book p974)"
+  },
+  {
+   "fmt": "recall",
+   "q": "How is the transtubular potassium gradient described, and what is its printed formula?",
+   "opts": [
+    "Obsolete; urine K+ over urine osmolality, multiplied by plasma osmolality over plasma K+",
+    "Current best test; urine K+ multiplied by urine osmolality over plasma K+",
+    "Obsolete; urine Na+ over urine osmolality multiplied by plasma K+",
+    "Current best test; plasma K+ over urine K+ multiplied by urine osmolality"
+   ],
+   "ans": 0,
+   "exp": "The page writes TTKG with the annotation obsolete and gives it as urine K+ divided by urine osmolality, multiplied by plasma osmolality divided by plasma K+. (Book p974)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What benchmark range does this page quote for the transtubular potassium gradient, and which drug does the flowchart order when the value falls under it?",
+   "opts": [
+    "8 to 10, with fludrocortisone the next order",
+    "5 to 7, with spironolactone the next order",
+    "10 to 15, with no further drug required",
+    "8 to 10, with hydrocortisone the next order"
+   ],
+   "ans": 0,
+   "exp": "Normal is printed as 8 to 10, a value below 8 is taken as an aldosterone disturbance, and the next instruction is to give fludrocortisone, not a steroid replacement or a potassium blocker. (Book p974)"
+  },
+  {
+   "fmt": "management",
+   "q": "A hyperkalemic diabetic has a TTKG of 4. What does the flowchart order next, and what would a post-test value above 8 signify?",
+   "opts": [
+    "0.05 mg fludrocortisone, and a later TTKG above 8 means true hypoaldosteronism",
+    "0.05 mg fludrocortisone, and a later TTKG above 8 means pseudohypoaldosteronism",
+    "Spironolactone 100 mg, and a later TTKG above 8 means true hypoaldosteronism",
+    "No further test, since a value under 8 is already diagnostic of Gordon's syndrome"
+   ],
+   "ans": 0,
+   "exp": "A low baseline gradient is followed by 0.05 mg of fludrocortisone, after which a TTKG above 8 indicates true hypoaldosteronism and a value still below 8 indicates pseudohypoaldosteronism. (Book p974)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the interpretation rules drawn under the fludrocortisone box: I A post-stimulation TTKG below 8 is labelled pseudohypoaldosteronism. II The test separates primary from secondary hyperaldosteronism.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The two lines read greater than 8 for true hypoaldosteronism and less than 8 for the pseudo form, a distinction about renal response to mineralocorticoid rather than a separation of primary from secondary hyperaldosteronism. (Book p974)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each system of the clinical-features list with its entry — 1) Cardiac 2) Neuromuscular 3) Renal 4) Endocrine … A) Decreased ammonium production B) Increased insulin secretion C) Paraesthesia, weakness and paralysis D) Arrhythmias, classically ventricular",
+   "opts": [
+    "1-D, 2-C, 3-A, 4-B",
+    "1-C, 2-D, 3-B, 4-A",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-B, 3-D, 4-C"
+   ],
+   "ans": 0,
+   "exp": "The four numbered systems are cardiac with classically ventricular arrhythmias, neuromuscular with paraesthesia and weakness progressing to paralysis, renal with reduced NH4+ production and endocrine with increased insulin secretion. (Book p974)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which statement conflicts with the hyperkalemia clinical list on this page?",
+   "opts": [
+    "Hyperkalemia reduces insulin secretion from the pancreas",
+    "Paraesthesia and weakness may progress to paralysis",
+    "The kidney's ammonium production falls",
+    "Ventricular arrhythmias are the classical cardiac finding"
+   ],
+   "ans": 0,
+   "exp": "The endocrine line states increased insulin secretion, which is the mirror image of the insulin resistance listed for hypokalemia on an earlier page, so a claim of reduced secretion contradicts the page. (Book p974)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 61-year-old with type 4 diabetes-related renal tubular acidosis has potassium 5.9 mEq/L, creatinine 1.4 mg/dL and blood pressure controlled on an ACE inhibitor plus a beta-blocker. Which two listed mechanisms does this page offer for his hyperkalemia?",
+   "opts": [
+    "Hyporeninemia from the beta-blocker and reduced aldosterone synthesis downstream of ACE blockade",
+    "Hyperreninemia from Addison's disease and channel blockade by amiloride",
+    "Pseudohypoaldosteronism from reflux nephropathy and lupus",
+    "Reduced ammonium production from lithium plus calcineurin toxicity"
+   ],
+   "ans": 0,
+   "exp": "Beta-blockers appear in the hyporeninemic list and ACE inhibition in the hyperreninemic list of the same true hypoaldosteronism tree, matching both drugs in this diabetic patient. (Book p974)"
+  }
+ ]
+}

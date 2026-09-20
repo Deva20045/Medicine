@@ -50,9 +50,10 @@ Read `PROGRESS.md`, `SOURCE_REVIEW.md`, and `SELF_AUDIT_BOOK_ORDER.md` before co
   checklists in `data/source_review/`, source caveats, and unchanged unit IDs/history.
 - **Next: Ch 4, Juxtaglomerular Apparatus, p726–729.** There are 71 chapters still pending
   this source-review standard, including both existing and unbuilt content.
-- The initial Ch 1 backward jump is repaired; Ch 54 p970–971 failures remain
-  unresolved until reached in the sequential review. Whole-book compliance is
-  **NOT COMPLETE**. See `SOURCE_REVIEW.md` and the Ch 1–3 repair reports.
+- The initial Ch 1 backward jump is repaired. PR #18 replaced Ch 52–56 with a
+  338-question bank; preserve it. Old Ch 54 findings refer to the replaced bank,
+  and the replacement must be source-reviewed when reached. Whole-book compliance
+  is **NOT COMPLETE**. See `SOURCE_REVIEW.md` and the Ch 1–3 repair reports.
 - `check_source_coverage.py` checks manifest order, question/unit references,
   PDF-page mapping, and PDF/content hashes. It cannot read the scan or certify
   medical truth. **Never generate evidence or update a review hash merely to
@@ -60,7 +61,7 @@ Read `PROGRESS.md`, `SOURCE_REVIEW.md`, and `SELF_AUDIT_BOOK_ORDER.md` before co
 - Builds and integrity checks reject stale existing manifests. Use
   `python3 check_source_coverage.py --require-all` for whole-book completion;
   its current nonzero exit is expected and must not be bypassed.
-- Runtime tests now cover every live question. Their 54 legacy format warnings
+- Runtime tests now cover every live question. Their 44 legacy format warnings
   remain content defects, not proof that unreviewed content is complete.
 
 - The user authorised merging this continuation. Merge only the actual reviewed

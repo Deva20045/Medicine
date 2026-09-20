@@ -93,13 +93,13 @@ of every newly added question.
 ## Verification
 
 - `python3 build_content.py` and `python3 check_integrity.py`: PASS with
-  **4,187 questions / 342 units / 58 live chapters** in the whole bank.
+  **4,444 questions / 346 units / 58 live chapters** in the whole bank.
 - `python3 -m unittest -v test_source_coverage.py`: **17 tests PASS**, including
   manifest validation for Chapters 1–3 and mutation tests for stale/missing/
   reordered evidence.
-- `node check_app_smoke.js`: **8,374 correct/incorrect answer paths** across all
+- `node check_app_smoke.js`: **8,888 correct/incorrect answer paths** across all
   live units, exact authored question order and saved-history checks PASS.
-  **54 legacy format warnings remain** in unreviewed chapters; no revised Ch 3
+  **44 legacy format warnings remain** in unreviewed chapters; no revised Ch 3
   item uses a malformed match/fill-up fallback.
 - Chapter 3 variety report: six formats; longest-option answer **25.2%**;
   zero filler distractors; no repeated-template run. Eleven option-set reuses
@@ -116,5 +116,15 @@ chapters**. Together with the existing Ch 1–2 repairs, the current recorded
 source-review scope is **Ch 1–3, p705–725: 3/74 chapters, 21/364 pages**.
 
 **Next in strict order: Ch 4 — Juxtaglomerular Apparatus, Book p726–729.**
-Continue the same source-reading/checklist/repair/check workflow. Ch 54 remains
-a known source failure to repair when reached; Ch 57–59 and 62–74 are unbuilt.
+Continue the same source-reading/checklist/repair/check workflow. Ch 57–59 and
+62–74 are unbuilt.
+
+### Merge reconciliation
+
+While merging, `main` had advanced through PR #18, replacing the earlier 81-item
+Ch 52–56 bank with **338 questions / 24 units**. Preserved that entire newer bank,
+its authoring parts and its report; retained our all-bank tests and rebuilt the
+embedded app from the combined JSON sources. The totals/checks above are for the
+combined result. No new source-review manifest was fabricated for Ch 52–56.
+Historical Ch 54 failures refer to the replaced version, so the new version needs
+fresh review when reached; old question IDs do not identify the same questions.

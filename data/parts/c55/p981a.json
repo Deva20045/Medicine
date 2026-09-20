@@ -1,0 +1,126 @@
+{
+ "page": 981,
+ "sec": "Hypertension 2023 · resistant-hypertension options and special scenarios",
+ "items": [
+  {
+   "fmt": "oddoneout",
+   "q": "Three of these are listed as other options for resistant hypertension. Which one is not?",
+   "opts": [
+    "Ivabradine",
+    "Clonidine",
+    "Prazosin",
+    "Renal denervation"
+   ],
+   "ans": 0,
+   "exp": "The other options block lists beta-blockers, prazosin, clonidine and renal denervation, the last being the procedural entry among the drug choices. (Book p981)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In coronary artery disease the page starts with ______, adds ______ for the angina patient, and offers ______ for the non-angina patient.",
+   "opts": [
+    "A plus B; C; C or D",
+    "A plus C; B; C or D",
+    "A plus B; D; B only",
+    "C plus D; A; B only"
+   ],
+   "ans": 0,
+   "exp": "The CAD branch begins with A plus B, then splits into adding C for angina and adding C or D for non-angina patients. (Book p981)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each special scenario with the opening regimen printed under it — 1) Coronary artery disease 2) Chronic kidney disease with eGFR above 30 3) Chronic kidney disease with eGFR at or below 30 … A) A plus C, then add D, then spironolactone if uncontrolled B) A plus B, then C or D depending on angina C) A plus C, then chlorthalidone, then a beta-blocker if uncontrolled",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "CAD opens on A plus B, while both CKD arms start with A plus C and then divide by eGFR, the lower band escalating through chlorthalidone to a beta-blocker and the higher band through a thiazide-like diuretic to spironolactone. (Book p981)"
+  },
+  {
+   "fmt": "management",
+   "q": "A patient with CKD stage G4 has a BP of 152/92 mmHg on telmisartan and amlodipine. Which add-on does the CKD flowchart require?",
+   "opts": [
+    "Chlorthalidone",
+    "Spironolactone",
+    "Clonidine",
+    "A beta-blocker as the immediate next drug"
+   ],
+   "ans": 0,
+   "exp": "An eGFR at or below 30 takes the left CKD branch, where the add-on is chlorthalidone and a beta-blocker only follows if control is still not achieved. (Book p981)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the right-hand CKD branch: I With an eGFR above 30 the add-on is D, and spironolactone follows only when control is still not achieved. II This branch mirrors the resistant-hypertension rule that a thiazide-like diuretic is reserved for preserved filtration.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "The above-30 limb runs A plus C, add D, then add spironolactone if uncontrolled, but the page never states a general rule reserving thiazides for preserved filtration, and on the previous page chlorthalidone is precisely the low-eGFR partner. (Book p981)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 63-year-old with stable angina has repeated clinic readings of 154/94 mmHg. Which regimen and escalation does this page map out?",
+   "opts": [
+    "Start A plus B, then add C for the angina",
+    "Start A plus C, then add D",
+    "Start C plus D, then add spironolactone",
+    "Start A plus C, then chlorthalidone"
+   ],
+   "ans": 0,
+   "exp": "Coronary artery disease is the left-hand special scenario, opening with A plus B, and because the patient has angina the next arrow is the addition of C. (Book p981)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which statement misreads the two CKD branches on this page?",
+   "opts": [
+    "Both branches begin with A plus B",
+    "One branch escalates to chlorthalidone",
+    "The other branch escalates to D",
+    "Both branches begin with A plus C"
+   ],
+   "ans": 0,
+   "exp": "Every CKD patient starts on A plus C, and the split by eGFR decides whether chlorthalidone or D is the add-on, so a claim of a shared A plus B start is the false statement. (Book p981)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Which eGFR value separates the two escalation routes in the CKD scenario?",
+   "opts": [
+    "30 mL/min",
+    "45 mL/min",
+    "60 mL/min",
+    "15 mL/min"
+   ],
+   "ans": 0,
+   "exp": "The fork is printed as eGFR at or below 30 versus above 30 mL/min, the same boundary used for spironolactone in resistant hypertension on the previous page. (Book p981)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In the low-eGFR CKD branch, failure of chlorthalidone leads to adding a ______, whereas in the high-eGFR branch failure of D leads to adding ______.",
+   "opts": [
+    "beta-blocker; spironolactone",
+    "beta-blocker; clonidine",
+    "alpha-blocker; spironolactone",
+    "calcium channel blocker; prazosin"
+   ],
+   "ans": 0,
+   "exp": "The two not-controlled arrows are drawn to a beta-blocker below an eGFR of 30 and to spironolactone above it. (Book p981)"
+  },
+  {
+   "fmt": "recall",
+   "q": "How many distinct special scenarios are laid out on this page?",
+   "opts": [
+    "Two, coronary artery disease and chronic kidney disease",
+    "Three, adding heart failure with preserved ejection fraction",
+    "One, only chronic kidney disease",
+    "Four, adding aortic stenosis and diabetes"
+   ],
+   "ans": 0,
+   "exp": "The special scenarios heading carries exactly two trees, CAD on the left and CKD on the right. (Book p981)"
+  }
+ ]
+}

@@ -5,243 +5,1593 @@
  "questions": [
   {
    "id": "MED-C54-001",
-   "sec": "Distribution",
+   "sec": "Potassium Metabolism · physiology, compartments and electrophysiology",
    "page": 968,
-   "fmt": "recall",
-   "q": "Which statement best describes intracellular potassium?",
+   "fmt": "numeric",
+   "q": "The opening line of the potassium page equates 1 mmol of K+ with which mass of potassium?",
    "opts": [
-    "About 50%",
-    "About 75%",
-    "About 98% of total body potassium",
-    "About 20% (as a contrasting clinical alternative)"
+    "35.5 mg",
+    "20 mg",
+    "40 mg",
+    "74.5 mg"
    ],
    "ans": 2,
-   "exp": "Potassium is predominantly intracellular. (Book p968)"
+   "exp": "The page prints 1 mmol K+ = 1 mEq K+ = 40 mg K+; 74.5 mg is the molecular weight of KCl, which the 750 mg tablet arithmetic on a later page uses. (Book p968)"
   },
   {
    "id": "MED-C54-002",
-   "sec": "Distribution",
+   "sec": "Potassium Metabolism · physiology, compartments and electrophysiology",
    "page": 968,
-   "fmt": "match",
-   "q": "Match the key concept in Na/K ATPase with its correct interpretation.",
+   "fmt": "fillup",
+   "q": "Fill up: Total body potassium is computed on this page as ______ mEq per kilogram of body weight, giving about ______ mEq for the whole body.",
    "opts": [
-    "Moves potassium out of cells only",
-    "Secretes bile",
-    "Inserts aquaporin-2",
-    "Moves potassium into cells"
+    "50; 3000",
+    "40; 2000",
+    "60; 4200",
+    "100; 3000"
    ],
-   "ans": 3,
-   "exp": "Na/K ATPase maintains intracellular potassium. (Book p968)"
+   "ans": 0,
+   "exp": "The formula is total body K+ = 50 mEq x body weight in kg, which the page works out as roughly 3000 mEq. (Book p968)"
   },
   {
    "id": "MED-C54-003",
-   "sec": "Distribution",
+   "sec": "Potassium Metabolism · physiology, compartments and electrophysiology",
    "page": 968,
-   "fmt": "scenario",
-   "q": "A patient is being evaluated for insulin effect. Which finding or action is most appropriate?",
+   "fmt": "truefalse",
+   "q": "Assess the two intake figures on Book p968: I Daily potassium intake is stated as 4700 mg, about 100 mEq. II With the page's own formula, a 60 kg adult carries close to 3000 mEq of potassium.",
    "opts": [
-    "Shifts potassium into cells",
-    "Shifts potassium out exclusively",
-    "Blocks renal filtration",
-    "Prevents glucose entry"
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
    ],
    "ans": 0,
-   "exp": "Insulin promotes cellular potassium uptake. (Book p968)"
+   "exp": "Both statements reproduce the page: 4700 mg daily intake is equated with about 100 mEq, and 50 mEq/kg x 60 kg is the 3000 mEq figure quoted. (Book p968)"
   },
   {
    "id": "MED-C54-004",
-   "sec": "Distribution",
+   "sec": "Potassium Metabolism · physiology, compartments and electrophysiology",
    "page": 968,
-   "fmt": "fillup",
-   "q": "In the context of daily intake, the principal ___ is:",
+   "fmt": "match",
+   "q": "Match each statement with the components column it comes from — 1) Serum potassium of 3.5 to 5.5 mEq/L 2) Potassium concentration of 100 to 125 mEq/L 3) 95 to 98% of total body potassium 4) Role in growth and in DNA and protein synthesis … A) ICF column B) ECF column",
    "opts": [
-    "1000 mEq/day",
-    "Approximately 100 mEq/day",
-    "10 mEq/day",
-    "500 mEq/day"
+    "1-B, 2-A, 3-A, 4-A",
+    "1-A, 2-B, 3-B, 4-A",
+    "1-B, 2-B, 3-A, 4-B",
+    "1-A, 2-A, 3-B, 4-B"
    ],
-   "ans": 1,
-   "exp": "The regulation diagram shows daily intake around 100 mEq. (Book p968)"
+   "ans": 0,
+   "exp": "Only the serum range 3.5-5.5 mEq/L belongs to the ECF column; the intracellular concentration, the 95-98% share and the anabolic role are all ICF entries. (Book p968)"
   },
   {
    "id": "MED-C54-005",
-   "sec": "Renal handling",
-   "page": 969,
-   "fmt": "oddoneout",
-   "q": "Which option is the odd one out regarding proximal tubule?",
+   "sec": "Potassium Metabolism · physiology, compartments and electrophysiology",
+   "page": 968,
+   "fmt": "numeric",
+   "q": "A patient is given 40 mEq of potassium. By how much does this page expect the serum potassium to rise?",
    "opts": [
-    "Handles none",
-    "Reabsorbs less than 1%",
-    "Reabsorbs about 70–80% of filtered potassium",
-    "Secretes all filtered potassium"
+    "1.0 mEq/L",
+    "4.0 mEq/L",
+    "0.5 mEq/L",
+    "2.0 mEq/L"
    ],
    "ans": 2,
-   "exp": "Most filtered potassium is reabsorbed in the PCT. (Book p969)"
+   "exp": "The ECF column states that 40 mEq of supplementation raises serum K+ by only 0.5 mEq/L because most of it enters cells. (Book p968)"
   },
   {
    "id": "MED-C54-006",
-   "sec": "Renal handling",
-   "page": 969,
-   "fmt": "truefalse",
-   "q": "Assess these statements about thick ascending limb: I the first statement is correct; II the second statement is incorrect.",
+   "sec": "Potassium Metabolism · physiology, compartments and electrophysiology",
+   "page": 968,
+   "fmt": "oddoneout",
+   "q": "Every one of these appears in the ICF column of the components table EXCEPT:",
    "opts": [
-    "Excretes all potassium",
-    "Only handles bicarbonate",
-    "Cannot transport sodium",
-    "Reabsorbs potassium through Na-K-2Cl transport"
+    "It is the major intracellular cation",
+    "Intracellular concentration is 100 to 125 mEq/L",
+    "It helps in growth and in protein synthesis",
+    "Supplementation raises the serum level by 0.5 mEq/L"
    ],
    "ans": 3,
-   "exp": "The TAL reabsorbs potassium with NKCC2. (Book p969)"
+   "exp": "The blunted serum response to a 40 mEq load is an ECF-column statement; the other three, together with the 95-98% intracellular share, describe the ICF. (Book p968)"
   },
   {
    "id": "MED-C54-007",
-   "sec": "Renal handling",
-   "page": 969,
-   "fmt": "numeric",
-   "q": "What is the characteristic value or relationship for collecting duct?",
+   "sec": "Potassium Metabolism · physiology, compartments and electrophysiology",
+   "page": 968,
+   "fmt": "match",
+   "q": "Match each compartment or organ with the potassium amount printed against it in the distribution table — 1) Muscle 2) Liver 3) Red blood cells 4) Plasma … A) 2650 mmol B) 250 mmol C) 350 mmol D) 15 mmol",
    "opts": [
-    "Variable distal secretion regulated by aldosterone",
-    "Fixed complete reabsorption",
-    "No potassium movement",
-    "Only glucose secretion"
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-C, 3-B, 4-A"
    ],
    "ans": 0,
-   "exp": "Final potassium excretion is regulated distally. (Book p969)"
+   "exp": "Muscle 2650, liver 250, interstitial fluid 35, red blood cells 350 and plasma 15 mmol are the five entries of the organ column. (Book p968)"
   },
   {
    "id": "MED-C54-008",
-   "sec": "Renal handling",
-   "page": 969,
-   "fmt": "scenario",
-   "q": "A clinical decision depends on aldosterone. Which choice is best?",
+   "sec": "Potassium Metabolism · physiology, compartments and electrophysiology",
+   "page": 968,
+   "fmt": "truefalse",
+   "q": "Assess the distribution table on Book p968: I Its five organ values add to 3300 mmol although the total row reads 3000 mmol. II The compartment column gives 100 to 120 mmol/L for ICF and about 4 mmol/L for ECF.",
    "opts": [
-    "Stops ROMK activity",
-    "Increases distal potassium secretion",
-    "Blocks ENaC",
-    "Suppresses sodium reabsorption"
+    "I true; II false",
+    "I false; II true",
+    "Both are false",
+    "Both are true"
    ],
-   "ans": 1,
-   "exp": "Aldosterone promotes sodium uptake and potassium secretion. (Book p969)"
+   "ans": 3,
+   "exp": "Both statements are literally correct, and they expose two source quirks: the organ entries overshoot the stated total, and the ICF concentration is 100-125 mEq/L in the components table but 100-120 mmol/L here. (Book p968)"
   },
   {
    "id": "MED-C54-009",
-   "sec": "Hypokalemia",
-   "page": 970,
-   "fmt": "recall",
-   "q": "Which statement best describes significant potassium level?",
+   "sec": "Potassium Metabolism · physiology, compartments and electrophysiology",
+   "page": 968,
+   "fmt": "scenario",
+   "q": "A malnourished patient has a serum potassium of 2.3 mEq/L with generalized weakness and a silent abdomen. Which chain of events does this page's electrophysiology block use to explain those two findings?",
    "opts": [
-    "Exactly 3.5 mEq/L",
-    "Above 7 mEq/L",
-    "Below about 2–2.5 mEq/L",
-    "Above 4.5 mEq/L"
+    "Rise in ECF K+ widens the gradient, K+ leaves the cell and the resting potential becomes more negative",
+    "Fall in ECF K+ widens the gradient, K+ leaves the cell, the resting potential becomes less negative and excitability rises",
+    "Fall in ECF K+ widens the gradient, K+ leaves the cell, the resting membrane potential becomes more negative and tissue excitability falls",
+    "Fall in ECF K+ narrows the gradient, K+ is retained, the resting potential becomes less negative and excitability rises"
    ],
    "ans": 2,
-   "exp": "The chapter labels potassium below 2–2.5 as significant. (Book p970)"
+   "exp": "The hypokalemia arrow runs from a low ECF or serum K+ through an increased outward gradient to a more negative resting membrane potential and reduced tissue excitability, which the page illustrates with muscle weakness and ileus. (Book p968)"
   },
   {
    "id": "MED-C54-010",
-   "sec": "Hypokalemia",
-   "page": 971,
-   "fmt": "match",
-   "q": "Match the key concept in ECG pattern with its correct interpretation.",
+   "sec": "Potassium Metabolism · physiology, compartments and electrophysiology",
+   "page": 968,
+   "fmt": "oddoneout",
+   "q": "All of the following are attached to the hypokalemia half of the electrophysiology block EXCEPT:",
    "opts": [
-    "Tall peaked T waves",
-    "Short QT only",
-    "Absent QRS",
-    "Flattened T waves with prominent U waves"
+    "Increased cardiac excitability",
+    "QT prolongation with torsades de pointes",
+    "A resting membrane potential that has become less negative",
+    "Reduced tissue excitability"
    ],
-   "ans": 3,
-   "exp": "Hypokalemia produces T-wave flattening, U waves and QT/QU changes. (Book p971)"
+   "ans": 2,
+   "exp": "Low potassium makes the resting membrane potential more negative; a less negative potential is the hyperkalemia side of the same block, where tissue excitability rises and cardiac arrhythmias follow. (Book p968)"
   },
   {
    "id": "MED-C54-011",
-   "sec": "Hypokalemia",
-   "page": 972,
-   "fmt": "scenario",
-   "q": "A patient is being evaluated for urine potassium/creatinine. Which finding or action is most appropriate?",
+   "sec": "Potassium Metabolism · physiology, compartments and electrophysiology",
+   "page": 968,
+   "fmt": "fillup",
+   "q": "Fill up: In hyperkalemia the gradient for potassium to leave the cell is ______, so K+ ______ the cell, the resting membrane potential becomes ______ negative and tissue excitability ______.",
    "opts": [
-    "Above 13 mEq/g suggests renal loss",
-    "Below 1 proves renal loss",
-    "Any value rules out renal loss",
-    "Only serum potassium matters"
+    "increased; leaves; more; falls",
+    "reduced; leaves; more; rises",
+    "unchanged; remains inside; less; falls",
+    "reduced; remains inside; less; rises"
    ],
-   "ans": 0,
-   "exp": "The urine potassium/creatinine ratio helps identify renal wasting. (Book p972)"
+   "ans": 3,
+   "exp": "The hyperkalemia arrow describes a decreased outward gradient, potassium held inside the cell, a less negative resting potential and increased tissue excitability ending in cardiac arrhythmias. (Book p968)"
   },
   {
    "id": "MED-C54-012",
-   "sec": "Hypokalemia",
-   "page": 972,
-   "fmt": "fillup",
-   "q": "In the context of low urine potassium, the principal ___ is:",
+   "sec": "Potassium Metabolism · physiology, compartments and electrophysiology",
+   "page": 968,
+   "fmt": "recall",
+   "q": "Which cardiac rhythm complication does the page link to the increased cardiac excitability of hypokalemia?",
    "opts": [
-    "Proof of excess intake",
-    "Conservation from extrarenal loss or cellular shift",
-    "Definite hyperaldosteronism",
-    "Always renal wasting"
+    "Ventricular fibrillation with ST elevation",
+    "Sinus bradycardia with a widened QRS",
+    "Torsades de pointes with QT prolongation",
+    "Atrial flutter with a short PR interval"
    ],
-   "ans": 1,
-   "exp": "Low urinary potassium means the kidney is conserving potassium. (Book p972)"
+   "ans": 2,
+   "exp": "The hypokalemia branch ends with increased cardiac excitability leading to torsades de pointes, annotated with QT prolongation. (Book p968)"
   },
   {
    "id": "MED-C54-013",
-   "sec": "Hyperkalemia",
-   "page": 973,
-   "fmt": "oddoneout",
-   "q": "Which option is the odd one out regarding dangerous ECG treatment?",
+   "sec": "Potassium Metabolism · physiology, compartments and electrophysiology",
+   "page": 968,
+   "fmt": "scenario",
+   "q": "An ECG in a patient with potassium 2.4 mEq/L shows a prolonged QT and runs of polymorphic ventricular tachycardia. Which two-step sequence from this page's block produced that picture?",
    "opts": [
-    "Fluid restriction",
-    "Oral glucose alone",
-    "Intravenous calcium stabilizes membrane",
-    "Potassium infusion"
+    "Less negative resting potential with increased tissue excitability, plus reduced cardiac excitability",
+    "More negative resting potential with increased tissue excitability in every tissue",
+    "Unchanged resting potential with selective skeletal muscle failure",
+    "More negative resting potential with reduced tissue excitability, plus increased cardiac excitability"
    ],
-   "ans": 2,
-   "exp": "Calcium is the immediate membrane-stabilizing therapy. (Book p973)"
+   "ans": 3,
+   "exp": "The page pairs a more negative resting potential with lowered tissue excitability for skeletal and gut muscle while simultaneously raising cardiac excitability, which is why weakness and torsades coexist. (Book p968)"
   },
   {
    "id": "MED-C54-014",
-   "sec": "Hyperkalemia",
-   "page": 974,
-   "fmt": "truefalse",
-   "q": "Assess these statements about insulin-glucose: I the first statement is correct; II the second statement is incorrect.",
+   "sec": "Potassium Metabolism · Na+/K+ ATPase, regulation, severity rules and renal handling",
+   "page": 969,
+   "fmt": "recall",
+   "q": "What does the page credit the Na+/K+ ATPase with doing for potassium?",
    "opts": [
-    "Removes all potassium from body",
-    "Blocks insulin receptor",
-    "Raises serum potassium predictably",
-    "Temporarily shifts potassium into cells"
+    "Exchanging intracellular Na+ for extracellular K+ down its gradient",
+    "Pumping K+ into the tubular lumen for excretion",
+    "Binding K+ to intracellular proteins for storage",
+    "Accumulating K+ intracellularly against its electrochemical gradient"
    ],
    "ans": 3,
-   "exp": "Insulin shifts potassium intracellularly; glucose prevents hypoglycemia. (Book p974)"
+   "exp": "The first bullet states that the pump helps in intracellular accumulation of K+ against its electrochemical gradient. (Book p969)"
   },
   {
    "id": "MED-C54-015",
-   "sec": "Hyperkalemia",
-   "page": 975,
-   "fmt": "numeric",
-   "q": "What is the characteristic value or relationship for dialysis?",
+   "sec": "Potassium Metabolism · Na+/K+ ATPase, regulation, severity rules and renal handling",
+   "page": 969,
+   "fmt": "truefalse",
+   "q": "Assess the digoxin bullets: I Potassium and digoxin are said to share the same binding site on the Na+/K+ ATPase. II Because of that competition, digoxin is listed as a cause of hypokalemia.",
    "opts": [
-    "Removes potassium from the body",
-    "Only changes ECG without removing K",
-    "Always causes hyperkalemia",
-    "Is contraindicated in renal failure"
+    "I false; II true",
+    "Both are true",
+    "Both are false",
+    "I true; II false"
    ],
-   "ans": 0,
-   "exp": "Dialysis is a definitive removal strategy when indicated. (Book p975)"
+   "ans": 3,
+   "exp": "The shared binding-site statement is correct, but the next bullet states that digoxin leads to hyperkalemia, not hypokalemia. (Book p969)"
   },
   {
    "id": "MED-C54-016",
-   "sec": "Hyperkalemia",
-   "page": 975,
-   "fmt": "scenario",
-   "q": "A clinical decision depends on digoxin toxicity. Which choice is best?",
+   "sec": "Potassium Metabolism · Na+/K+ ATPase, regulation, severity rules and renal handling",
+   "page": 969,
+   "fmt": "management",
+   "q": "A patient with a digoxin level of 4 ng/mL has a serum potassium of 2.6 mEq/L. Which action on this page is directly endorsed?",
    "opts": [
-    "Increases distal sodium loss",
-    "Can produce hyperkalemia through Na/K ATPase inhibition",
-    "Always causes hypokalemia",
-    "Blocks calcium channels only"
+    "Give calcium gluconate 10 mL intravenously",
+    "Start a beta-2 agonist infusion",
+    "Give furosemide to enhance digoxin clearance",
+    "Give potassium"
+   ],
+   "ans": 3,
+   "exp": "The page states that potassium can be given in digoxin toxicity, which fits the hypokalemic patient in whom low potassium worsens glycoside binding. (Book p969)"
+  },
+  {
+   "id": "MED-C54-017",
+   "sec": "Potassium Metabolism · Na+/K+ ATPase, regulation, severity rules and renal handling",
+   "page": 969,
+   "fmt": "fillup",
+   "q": "Fill up: Trained athletes maintain a higher intracellular potassium because of ______ activity of the skeletal muscle ______ pump.",
+   "opts": [
+    "unchanged; H+/K+ ATPase",
+    "increased; Na+/K+ ATPase",
+    "decreased; Na+/K+ ATPase",
+    "increased; Ca2+ ATPase"
    ],
    "ans": 1,
-   "exp": "Digoxin inhibits Na/K ATPase and may raise serum potassium. (Book p975)"
+   "exp": "The last bullet attributes the athletic adaptation to increased activity of the skeletal muscle Na+/K+ ATPase, which maintains a raised intracellular K+. (Book p969)"
+  },
+  {
+   "id": "MED-C54-018",
+   "sec": "Potassium Metabolism · Na+/K+ ATPase, regulation, severity rules and renal handling",
+   "page": 969,
+   "fmt": "numeric",
+   "q": "Of the 100 mEq daily intake in the regulation flowchart, what proportion leaves through the kidneys and what proportion through the gut?",
+   "opts": [
+    "95-98% renal and 2-5% gastrointestinal",
+    "90-95% renal and 5-10% gastrointestinal",
+    "70-80% renal and 20-30% gastrointestinal",
+    "50% renal and 50% gastrointestinal"
+   ],
+   "ans": 1,
+   "exp": "The regulation tree splits the daily 100 mEq into 90-95% renal excretion and 5-10% through the GIT. (Book p969)"
+  },
+  {
+   "id": "MED-C54-019",
+   "sec": "Potassium Metabolism · Na+/K+ ATPase, regulation, severity rules and renal handling",
+   "page": 969,
+   "fmt": "numeric",
+   "q": "The tubular diagram states that the filtered load of potassium is about 700 mEq/day. What fraction of that load is excreted under normal conditions?",
+   "opts": [
+    "70-80%",
+    "10%",
+    "90-95%",
+    "10-15%"
+   ],
+   "ans": 3,
+   "exp": "The diagram notes that normal kidneys excrete 10-15% of the filtered load, after 70-80% paracellular reabsorption in the PCT and a further 10% via the TALH Na+/K+/2Cl- cotransporter. (Book p969)"
+  },
+  {
+   "id": "MED-C54-020",
+   "sec": "Potassium Metabolism · Na+/K+ ATPase, regulation, severity rules and renal handling",
+   "page": 969,
+   "fmt": "match",
+   "q": "Match each tubular segment with the potassium handling step drawn for it — 1) Proximal convoluted tubule 2) Thick ascending limb of Henle 3) Aldosterone-dependent collecting duct … A) 10% reabsorption through Na+/K+/2Cl- B) H+,K+-ATPase activity with secretion through ROMK C) 70-80% paracellular reabsorption",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Paracellular reabsorption of 70-80% is placed in the PCT, 10% is reclaimed at the TALH via Na+/K+/2Cl-, and the collecting duct carries the aldosterone-driven H+,K+-ATPase with luminal ROMK and a basolateral Na+/K+ ATPase. (Book p969)"
+  },
+  {
+   "id": "MED-C54-021",
+   "sec": "Potassium Metabolism · Na+/K+ ATPase, regulation, severity rules and renal handling",
+   "page": 969,
+   "fmt": "oddoneout",
+   "q": "The renal-excretion diagram at the thick ascending limb labels several structures. Which one is NOT part of that drawing?",
+   "opts": [
+    "ROMK channel on the luminal membrane",
+    "Basolateral Na+/K+ ATPase",
+    "Calcium and magnesium reabsorption arrows",
+    "Apical Na+/glucose cotransporter"
+   ],
+   "ans": 3,
+   "exp": "The drawing shows luminal ROMK with Na+, K+ and Cl- entries, a basolateral Na+/K+ ATPase and arrows for Ca2+ and Mg2+ reabsorption; no glucose cotransporter appears. (Book p969)"
+  },
+  {
+   "id": "MED-C54-022",
+   "sec": "Potassium Metabolism · Na+/K+ ATPase, regulation, severity rules and renal handling",
+   "page": 969,
+   "fmt": "numeric",
+   "q": "According to the severity rule on this page, hypokalemia below which range is called significant?",
+   "opts": [
+    "Below 3 to 3.5 mEq/L",
+    "Below 1 to 1.5 mEq/L",
+    "Below 2.5 to 3.5 mEq/L",
+    "Below 2 to 2.5 mEq/L"
+   ],
+   "ans": 3,
+   "exp": "Significant hypokalemia is under 2-2.5 mEq/L and is attributed to renal loss unless proven otherwise, while 2.5-3.5 mEq/L is the insignificant band attributed to cellular shift. (Book p969)"
+  },
+  {
+   "id": "MED-C54-023",
+   "sec": "Potassium Metabolism · Na+/K+ ATPase, regulation, severity rules and renal handling",
+   "page": 969,
+   "fmt": "truefalse",
+   "q": "Apply the page's two severity rules: I A serum potassium of 2.2 mEq/L should be assumed to reflect renal loss. II A serum potassium of 3.1 mEq/L is labelled insignificant and blamed on a cellular shift.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are false",
+    "Both are true"
+   ],
+   "ans": 3,
+   "exp": "2.2 mEq/L sits in the significant band where renal loss is the default, and 3.1 mEq/L sits in the insignificant band attributed to shift. (Book p969)"
+  },
+  {
+   "id": "MED-C54-024",
+   "sec": "Potassium Metabolism · Na+/K+ ATPase, regulation, severity rules and renal handling",
+   "page": 969,
+   "fmt": "recall",
+   "q": "The page gives a parallel rule for significant hyperkalemia: it is attributed to which cause unless proven otherwise?",
+   "opts": [
+    "Spurious haemolysis, with fist clenching named in brackets",
+    "Renal failure, with aldosterone named in brackets",
+    "Cellular shift, with beta-blockers named in brackets",
+    "Gastrointestinal loss, with diarrhoea named in brackets"
+   ],
+   "ans": 1,
+   "exp": "Significant hyperkalemia is stated to be due to renal failure unless proven otherwise, with aldosterone in brackets as the hormonal partner of that rule. (Book p969)"
+  },
+  {
+   "id": "MED-C54-025",
+   "sec": "Potassium Metabolism · Na+/K+ ATPase, regulation, severity rules and renal handling",
+   "page": 969,
+   "fmt": "scenario",
+   "q": "A post-operative patient on insulin infusion has a potassium of 2.9 mEq/L and a urine potassium of 8 mEq/day. Using only the two-tier rule on this page, how is this potassium level classified and why?",
+   "opts": [
+    "Significant, because insulin is a listed renal toxin",
+    "Insignificant, because the low urine potassium proves renal loss",
+    "Insignificant, because 2.5 to 3.5 is the cellular-shift band",
+    "Significant, because any value under 3.5 implies renal loss"
+   ],
+   "ans": 2,
+   "exp": "The 2.5-3.5 mEq/L band is labelled insignificant and attributed to a cellular shift, which suits an insulin infusion, and the low urine potassium argues against renal loss. (Book p969)"
+  },
+  {
+   "id": "MED-C54-026",
+   "sec": "Potassium Metabolism · Na+/K+ ATPase, regulation, severity rules and renal handling",
+   "page": 969,
+   "fmt": "fillup",
+   "q": "Fill up: In the regulation flowchart the daily intake figure is ______ mEq, and the two exit routes given are ______ and the gastrointestinal tract.",
+   "opts": [
+    "150; sweat loss",
+    "100; renal excretion",
+    "40; biliary excretion",
+    "700; renal excretion"
+   ],
+   "ans": 1,
+   "exp": "The tree begins with a daily intake of 100 mEq, splitting into 90-95% renal excretion and 5-10% gastrointestinal loss. (Book p969)"
+  },
+  {
+   "id": "MED-C54-027",
+   "sec": "Potassium Metabolism · aldosterone in the cortical collecting duct and applied diuretic physiology",
+   "page": 970,
+   "fmt": "fillup",
+   "q": "Fill up: Aldosterone's site of action is given as the ______ cell of the collecting tubules, and the paired diagram labels the same cell the ______ cell.",
+   "opts": [
+    "alpha; principal",
+    "beta; intercalated",
+    "delta; light",
+    "beta; principal"
+   ],
+   "ans": 3,
+   "exp": "The text names the beta-cell of the collecting duct while the figure calls it the principal cell; both refer to the same aldosterone-responsive cell, and the diagram places the type alpha intercalated cell below it. (Book p970)"
+  },
+  {
+   "id": "MED-C54-028",
+   "sec": "Potassium Metabolism · aldosterone in the cortical collecting duct and applied diuretic physiology",
+   "page": 970,
+   "fmt": "recall",
+   "q": "Which three functions are listed for aldosterone on this page?",
+   "opts": [
+    "Sodium and water retention, potassium excretion and hydrogen ion excretion",
+    "Sodium excretion, potassium retention and hydrogen ion retention",
+    "Water retention only, with no effect on potassium",
+    "Sodium and water retention, chloride excretion and bicarbonate excretion"
+   ],
+   "ans": 0,
+   "exp": "The three bullets are Na+ and H2O retention, K+ excretion and H+ excretion, which together explain the hypertension, hypokalemia and alkalosis of mineralocorticoid excess. (Book p970)"
+  },
+  {
+   "id": "MED-C54-029",
+   "sec": "Potassium Metabolism · aldosterone in the cortical collecting duct and applied diuretic physiology",
+   "page": 970,
+   "fmt": "match",
+   "q": "Match the numbered structures in the cortical collecting duct diagram with their identity — 1) Number 2 2) Number 3 3) Number 4 … A) The amiloride-sensitive ENaC channel on the luminal membrane B) The ROMK potassium channel C) The hydrogen exit pathway of the type alpha intercalated cell",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 1,
+   "exp": "The figure numbers ENaC as 2 with amiloride drawn blocking it, ROMK as 3, and the apical hydrogen exit of the type alpha intercalated cell as 4, while the basolateral pump carries number 1. (Book p970)"
+  },
+  {
+   "id": "MED-C54-030",
+   "sec": "Potassium Metabolism · aldosterone in the cortical collecting duct and applied diuretic physiology",
+   "page": 970,
+   "fmt": "numeric",
+   "q": "What sodium to potassium stoichiometry is drawn beside the basolateral pump of the principal cell?",
+   "opts": [
+    "1 Na out for 1 K in",
+    "3 Na out for 2 K in",
+    "2 Na out for 3 K in",
+    "3 Na in for 3 K out"
+   ],
+   "ans": 1,
+   "exp": "The Na+/K+ ATPase in the diagram is annotated 3Na leaving and 2K entering, the classic stoichiometry that sustains the luminal gradient for potassium secretion. (Book p970)"
+  },
+  {
+   "id": "MED-C54-031",
+   "sec": "Potassium Metabolism · aldosterone in the cortical collecting duct and applied diuretic physiology",
+   "page": 970,
+   "fmt": "truefalse",
+   "q": "Assess the diagram's regulatory arrows: I Aldosterone-induced proteins are shown as facilitating the pump, the sodium channel and the potassium channel. II Vasopressin and the AIP arrows converge on hydrogen secretion by the alpha intercalated cell.",
+   "opts": [
+    "Both are false",
+    "I true; II false",
+    "I false; II true",
+    "Both are true"
+   ],
+   "ans": 1,
+   "exp": "The facilitatory arrows from AIP run to ENaC, ROMK and the basolateral pump, and the vasopressin arrow reaches the water channel of the principal cell, not hydrogen secretion by the alpha intercalated cell. (Book p970)"
+  },
+  {
+   "id": "MED-C54-032",
+   "sec": "Potassium Metabolism · aldosterone in the cortical collecting duct and applied diuretic physiology",
+   "page": 970,
+   "fmt": "oddoneout",
+   "q": "Which of these is NOT one of the classical features listed for Conn's syndrome on this page?",
+   "opts": [
+    "Alkalosis",
+    "Hyperchloremic metabolic acidosis",
+    "Hypertension",
+    "Hypokalemia"
+   ],
+   "ans": 1,
+   "exp": "The classical triad given for raised aldosterone is hypertension, hypokalemia and alkalosis; an acidosis would instead suggest a renal tubular acidosis or a mineralocorticoid deficiency state. (Book p970)"
+  },
+  {
+   "id": "MED-C54-033",
+   "sec": "Potassium Metabolism · aldosterone in the cortical collecting duct and applied diuretic physiology",
+   "page": 970,
+   "fmt": "scenario",
+   "q": "A 38-year-old has blood pressure 168/100 mmHg, potassium 2.8 mEq/L and metabolic alkalosis with suppressed renin. Which row of the page's applied list best accounts for this?",
+   "opts": [
+    "Proximal renal tubular acidosis, through bicarbonate wasting",
+    "Conn's syndrome, through the aldosterone actions on the principal cell",
+    "Liddle's syndrome, through amiloride-sensitive chloride channels",
+    "Primary adrenal insufficiency, through loss of aldosterone"
+   ],
+   "ans": 1,
+   "exp": "The applied aspect names Conn's syndrome as raised aldosterone with the triad of hypertension, hypokalemia and alkalosis, exactly the pattern produced by overactive ENaC, ROMK and the pump in the diagram. (Book p970)"
+  },
+  {
+   "id": "MED-C54-034",
+   "sec": "Potassium Metabolism · aldosterone in the cortical collecting duct and applied diuretic physiology",
+   "page": 970,
+   "fmt": "truefalse",
+   "q": "Assess the diuretic comparison as printed: I Potassium loss is stated to be greater with thiazides than with furosemide. II The printed chain says furosemide blocks the Na+/K+/2Cl- transporter, so luminal electropositivity falls and potassium enters the lumen easily.",
+   "opts": [
+    "I false; II true",
+    "Both are true",
+    "Both are false",
+    "I true; II false"
+   ],
+   "ans": 3,
+   "exp": "Statement I is the page's headline. Statement II reverses it: the furosemide chain as printed runs to raised luminal electropositivity, potassium unable to enter the lumen, hypercalciuria and reduced potassium loss, while the thiazide line, which cannot block Na+/K+/2Cl-, is written with a fall in electropositivity and potassium entering easily. Standard tubular physiology puts the lumen-positive potential on the furosemide-sensitive side, so the arrows here are the book's own shorthand rather than the accepted mechanism. (Book p970)"
+  },
+  {
+   "id": "MED-C54-035",
+   "sec": "Potassium Metabolism · aldosterone in the cortical collecting duct and applied diuretic physiology",
+   "page": 970,
+   "fmt": "fillup",
+   "q": "Fill up: The two small channel sketches contrast a ______ transporter in the furosemide panel, where K+ is drawn trapped inside the cell, against a ______ transporter in the thiazide panel, where K+ ______ the lumen.",
+   "opts": [
+    "open; crossed-out; leaves",
+    "crossed-out; open; leaves",
+    "shaded; dashed; enters",
+    "crossed-out; open; enters"
+   ],
+   "ans": 3,
+   "exp": "In the first sketch the Na+/K+/Cl- route is struck through and K+ with its positive charge stays inside the box; in the second the channel is open and the K+ arrow points into the lumen. (Book p970)"
+  },
+  {
+   "id": "MED-C54-036",
+   "sec": "Potassium Metabolism · aldosterone in the cortical collecting duct and applied diuretic physiology",
+   "page": 970,
+   "fmt": "recall",
+   "q": "Hypercalciuria appears in the furosemide chain. What consequence does the page attach to it?",
+   "opts": [
+    "Enhanced sodium retention",
+    "Rise in luminal potassium secretion",
+    "Reduced potassium loss",
+    "Increased magnesium wasting only"
+   ],
+   "ans": 2,
+   "exp": "The arrow reads hypercalciuria leading to reduced K+ loss, which is the page's explanation for why the loop diuretic spares potassium relative to a thiazide. (Book p970)"
+  },
+  {
+   "id": "MED-C54-037",
+   "sec": "Potassium Metabolism · aldosterone in the cortical collecting duct and applied diuretic physiology",
+   "page": 970,
+   "fmt": "oddoneout",
+   "q": "All of the following appear as numbered or labelled elements in the collecting duct diagram EXCEPT:",
+   "opts": [
+    "Amiloride acting on ENaC",
+    "Aldosterone-induced proteins",
+    "Vasopressin acting on the principal cell",
+    "The Na+/K+/2Cl- cotransporter"
+   ],
+   "ans": 3,
+   "exp": "The diagram contains ENaC with amiloride, ROMK, AIP, vasopressin, the basolateral pump and the alpha intercalated cell; the Na+/K+/2Cl- cotransporter belongs to the previous page's thick ascending limb drawing. (Book p970)"
+  },
+  {
+   "id": "MED-C54-038",
+   "sec": "Potassium Metabolism · aldosterone in the cortical collecting duct and applied diuretic physiology",
+   "page": 970,
+   "fmt": "management",
+   "q": "A hyperkalemic hypertensive patient needs a drug that acts on the structure marked as number 2 in this figure. Which agent fits?",
+   "opts": [
+    "Furosemide",
+    "Hydrochlorothiazide",
+    "Amiloride",
+    "Spironolactone"
+   ],
+   "ans": 2,
+   "exp": "Number 2 is ENaC, the luminal sodium channel drawn with amiloride blocking it; spironolactone acts on the receptor upstream of AIP rather than on the channel itself. (Book p970)"
+  },
+  {
+   "id": "MED-C54-039",
+   "sec": "Hypokalemia · causes tree, cellular shifts and clinical features",
+   "page": 971,
+   "fmt": "match",
+   "q": "Match each renal branch of the hypokalemia tree with what sits under it — 1) Renal with acidosis 2) Renal with alkalosis and raised blood pressure 3) Renal with alkalosis and normal blood pressure … A) RTA type 1 and RTA type 2 B) Conn's syndrome, Cushing's syndrome, Liddle's syndrome, AME and GRA C) Bartter's and Gitelman's syndromes",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 2,
+   "exp": "The renal side splits by acid-base status, and the alkalosis limb then splits by blood pressure, with the five endocrine hypertensive causes on one side and Bartter's and Gitelman's on the other. (Book p971)"
+  },
+  {
+   "id": "MED-C54-040",
+   "sec": "Hypokalemia · causes tree, cellular shifts and clinical features",
+   "page": 971,
+   "fmt": "recall",
+   "q": "In what order are the endocrine hypertensive causes of renal potassium wasting listed?",
+   "opts": [
+    "Conn's syndrome, Cushing's syndrome, Liddle's syndrome, apparent mineralocorticoid excess, glucocorticoid remediable aldosteronism",
+    "Cushing's syndrome, Conn's syndrome, Liddle's syndrome, glucocorticoid remediable aldosteronism, apparent mineralocorticoid excess",
+    "Liddle's syndrome, Conn's syndrome, apparent mineralocorticoid excess, Cushing's syndrome, Bartter's syndrome",
+    "Conn's syndrome, Gitelman's syndrome, Liddle's syndrome, Cushing's syndrome, apparent mineralocorticoid excess"
+   ],
+   "ans": 0,
+   "exp": "The list runs 1 Conn's syndrome (PHA), 2 Cushing's syndrome, 3 Liddle's syndrome, 4 AME and 5 GRA, with the full form of GRA given as glucocorticoid remediable aldosteronism. (Book p971)"
+  },
+  {
+   "id": "MED-C54-041",
+   "sec": "Hypokalemia · causes tree, cellular shifts and clinical features",
+   "page": 971,
+   "fmt": "oddoneout",
+   "q": "All of these are grouped under the non-renal, cellular-shift branch EXCEPT:",
+   "opts": [
+    "Primary hyperaldosteronism",
+    "Insulin given during diabetic ketoacidosis treatment",
+    "Alkalosis",
+    "Barium intoxication"
+   ],
+   "ans": 0,
+   "exp": "The shift branch carries insulin in DKA therapy, alkalosis, drugs, barium intoxication, hypokalemic periodic paralysis and VIPoma-related gut loss; Conn's syndrome sits in the renal alkalosis-with-hypertension limb. (Book p971)"
+  },
+  {
+   "id": "MED-C54-042",
+   "sec": "Hypokalemia · causes tree, cellular shifts and clinical features",
+   "page": 971,
+   "fmt": "fillup",
+   "q": "Fill up: The drug list under cellular shift reads beta-2 agonists, alpha antagonists, theophylline, ______ and ______, the last entry being annotated with thiazides far exceeding furosemide.",
+   "opts": [
+    "colchicine; diuretics",
+    "chloroquine; diuretics",
+    "chlorpromazine; digoxin",
+    "cyclosporine; theobromine"
+   ],
+   "ans": 1,
+   "exp": "The five drug entries are beta-2 agonists, alpha antagonists, theophylline, chloroquine and diuretics, with diuretic hypokalemia graded as thiazides much greater than furosemide. (Book p971)"
+  },
+  {
+   "id": "MED-C54-043",
+   "sec": "Hypokalemia · causes tree, cellular shifts and clinical features",
+   "page": 971,
+   "fmt": "truefalse",
+   "q": "Assess two shift-branch items: I Hypokalemic periodic paralysis is annotated as a calcium-channel disorder. II The diuretic entry is placed under cellular shift even though the same potassium loss is produced in the tubule.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are false",
+    "Both are true"
+   ],
+   "ans": 3,
+   "exp": "The page prints hypokalemic periodic paralysis as a Ca2+ channelopathy, and it does list diuretics inside the shift branch, a filing that reflects the book's grouping rather than the renal-wasting mechanism usually taught. (Book p971)"
+  },
+  {
+   "id": "MED-C54-044",
+   "sec": "Hypokalemia · causes tree, cellular shifts and clinical features",
+   "page": 971,
+   "fmt": "scenario",
+   "q": "A 54-year-old has 3 weeks of profuse watery diarrhoea, potassium 2.4 mEq/L, achlorhydria and a normal anion gap metabolic acidosis. Which named entity and which limb of the tree does this page use?",
+   "opts": [
+    "VIPoma causing WDHA syndrome, under non-renal gastrointestinal loss",
+    "Bartter's syndrome, under renal alkalosis with normal blood pressure",
+    "Primary hyperaldosteronism, under renal alkalosis with hypertension",
+    "Distal renal tubular acidosis, under renal acidosis"
+   ],
+   "ans": 0,
+   "exp": "The GI loss entry is VIPoma with the WDHA label, described as watery diarrhoea, hypochlorhydric acidosis, hypokalemia and a normal anion gap hypokalemic acidosis. (Book p971)"
+  },
+  {
+   "id": "MED-C54-045",
+   "sec": "Hypokalemia · causes tree, cellular shifts and clinical features",
+   "page": 971,
+   "fmt": "oddoneout",
+   "q": "Which of these is NOT one of the four bullet features listed for the VIPoma entry?",
+   "opts": [
+    "Hypokalemia",
+    "Normal anion gap hypokalemic acidosis",
+    "Hypertension",
+    "Watery diarrhoea"
+   ],
+   "ans": 2,
+   "exp": "The four bullets are watery diarrhoea, hypochlorhydric acidosis, hypokalemia and NAGMA; blood pressure is not part of this description. (Book p971)"
+  },
+  {
+   "id": "MED-C54-046",
+   "sec": "Hypokalemia · causes tree, cellular shifts and clinical features",
+   "page": 971,
+   "fmt": "match",
+   "q": "Match each magnesium-related statement with its consequence as written — 1) Magnesium regulates 2) Hypomagnesemia produces 3) Low magnesium is caused by … A) Aminoglycosides, cisplatin and proton pump inhibitors B) The ROMK channel C) Potassium leak out and therefore hypokalemia",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 1,
+   "exp": "Magnesium regulates ROMK, its deficiency lets potassium leak out through that channel, and the three named causes are aminoglycosides, cisplatin and proton pump inhibitors. (Book p971)"
+  },
+  {
+   "id": "MED-C54-047",
+   "sec": "Hypokalemia · causes tree, cellular shifts and clinical features",
+   "page": 971,
+   "fmt": "truefalse",
+   "q": "Assess the dietary limb of the tree: I Inadequate potassium intake is explicitly labelled rare. II Inadequate magnesium intake is listed as a second dietary cause of hypokalemia.",
+   "opts": [
+    "I false; II true",
+    "Both are false",
+    "Both are true",
+    "I true; II false"
+   ],
+   "ans": 2,
+   "exp": "The diet branch carries only two entries, inadequate K+ intake with the annotation rare and inadequate Mg2+ intake. (Book p971)"
+  },
+  {
+   "id": "MED-C54-048",
+   "sec": "Hypokalemia · causes tree, cellular shifts and clinical features",
+   "page": 971,
+   "fmt": "oddoneout",
+   "q": "Every one of these is shown in the box that raises serum potassium EXCEPT:",
+   "opts": [
+    "Beta-2 adrenoceptor agonist",
+    "Acidosis",
+    "Hyperglycemia",
+    "Increase in osmolality"
+   ],
+   "ans": 0,
+   "exp": "The potassium-raising box holds acidosis, hyperglycemia, beta-2 blockers, alpha agonists, raised osmolality and exercise, while beta-2 agonists belong to the box that lowers serum potassium with insulin, alkalosis and alpha antagonists. (Book p971)"
+  },
+  {
+   "id": "MED-C54-049",
+   "sec": "Hypokalemia · causes tree, cellular shifts and clinical features",
+   "page": 971,
+   "fmt": "fillup",
+   "q": "Fill up: In the shift diagram, insulin, alkalosis and alpha-adrenoceptor ______ move potassium into the cell, while acidosis, exercise and a rise in ______ move it out.",
+   "opts": [
+    "agonists; osmolality",
+    "antagonists; glycaemia",
+    "agonists; catecholamine",
+    "antagonists; osmolality"
+   ],
+   "ans": 3,
+   "exp": "The fall-in-serum-K+ box lists insulin, beta-2 agonists, alkalosis and alpha antagonists; the increase box lists acidosis, hyperglycemia, beta blockers, alpha agonists, raised osmolality and exercise. (Book p971)"
+  },
+  {
+   "id": "MED-C54-050",
+   "sec": "Hypokalemia · causes tree, cellular shifts and clinical features",
+   "page": 971,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed as clinical features of hypokalemia EXCEPT:",
+   "opts": [
+    "Spastic quadriparesis with cranial nerve palsy",
+    "Colonic pseudo-obstruction",
+    "Rhabdomyolysis with dark coloured urine",
+    "Chronic tubulointerstitial disease"
+   ],
+   "ans": 0,
+   "exp": "The page describes an ascending flaccid areflexic quadriparesis with sphincters and cranial nerves spared, not a spastic palsy with cranial nerve involvement. (Book p971)"
+  },
+  {
+   "id": "MED-C54-051",
+   "sec": "Hypokalemia · causes tree, cellular shifts and clinical features",
+   "page": 971,
+   "fmt": "fillup",
+   "q": "Fill up: The weakness of hypokalemia is described as ______ with bladder and bowel involvement, and an ______ ascending flaccid areflexic quadriparesis in which the sphincters and cranial nerves are spared.",
+   "opts": [
+    "acute; isolated",
+    "B/D; isolated",
+    "B/D; B/I",
+    "B/I; B/D"
+   ],
+   "ans": 2,
+   "exp": "The bullets read weakness with the abbreviation B/D, followed by B/I areflexic ascending flaccid quadriparesis with sphincters and cranial nerve spared. (Book p971)"
+  },
+  {
+   "id": "MED-C54-052",
+   "sec": "Hypokalemia · causes tree, cellular shifts and clinical features",
+   "page": 971,
+   "fmt": "numeric",
+   "q": "On the K+ deficit graph for chronic hypokalemia, a serum potassium of about 2 mEq/L corresponds to a total body deficit closest to which range?",
+   "opts": [
+    "under 50 mmol",
+    "600 to 700 mmol",
+    "100 to 150 mmol",
+    "1200 to 1400 mmol"
+   ],
+   "ans": 1,
+   "exp": "The dashed lines drop from about 675 on the deficit axis to a serum K+ near 2, and the curve is steep at low values, showing how far serum potassium underestimates the true deficit. (Book p971)"
+  },
+  {
+   "id": "MED-C54-053",
+   "sec": "Hypokalemia · causes tree, cellular shifts and clinical features",
+   "page": 971,
+   "fmt": "truefalse",
+   "q": "Assess what the deficit curve implies: I Serum potassium and total body deficit are related non-linearly, so a modest-looking serum value can hide a large deficit. II The graph shows the deficit as roughly constant across the 1.5 to 4 mEq/L range.",
+   "opts": [
+    "Both are true",
+    "Both are false",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 2,
+   "exp": "The plot falls from about 1200 mmol at a serum K+ near 1.5 towards zero at 4 mEq/L, so the relationship is markedly curved rather than flat. (Book p971)"
+  },
+  {
+   "id": "MED-C54-054",
+   "sec": "Hypokalemia · causes tree, cellular shifts and clinical features",
+   "page": 971,
+   "fmt": "recall",
+   "q": "Which two endocrine or metabolic features close the clinical list on this page?",
+   "opts": [
+    "Insulin deficiency and falling blood pressure",
+    "Hyperthyroidism and improving hypertension",
+    "Glucagon excess and new bradycardia",
+    "Insulin resistance and worsening of hypertension"
+   ],
+   "ans": 3,
+   "exp": "The last two bullets are insulin resistance and worsening of hypertension, alongside arrhythmias with torsades, colonic pseudo-obstruction and chronic tubulointerstitial disease. (Book p971)"
+  },
+  {
+   "id": "MED-C54-055",
+   "sec": "Hypokalemia · ECG changes, investigations and the diagnostic algorithm",
+   "page": 972,
+   "fmt": "match",
+   "q": "Match each serum potassium value in the ECG column with the tracing described beside it — 1) 3.5 2) 3.0 3) 2.5 4) 5 … A) Normal complex B) Low T wave C) Low T wave with a high U wave D) Low T wave, high U wave and a low S-T segment",
+   "opts": [
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-B, 2-C, 3-D, 4-A"
+   ],
+   "ans": 3,
+   "exp": "The ECG ladder reads 5 as normal, 3.5 with a low T wave, 3.0 with a low T and high U wave, and 2.5 adding a depressed S-T segment. (Book p972)"
+  },
+  {
+   "id": "MED-C54-056",
+   "sec": "Hypokalemia · ECG changes, investigations and the diagnostic algorithm",
+   "page": 972,
+   "fmt": "fillup",
+   "q": "Fill up: Below the tracings the page shows QT prolongation leading to ______, and it distinguishes the ______ interval from the ______ interval in the annotation beside the sketches.",
+   "opts": [
+    "TdP; Q-U; S-T",
+    "Tdp; Q-T; Q-U",
+    "VF; Q-T; Q-T",
+    "Tdp; P-R; Q-U"
+   ],
+   "ans": 1,
+   "exp": "QT prolongation is drawn as leading to TdP, and the note separates the Q-T from the Q-U interval, the difficulty of telling them apart being the practical reason U waves matter. (Book p972)"
+  },
+  {
+   "id": "MED-C54-057",
+   "sec": "Hypokalemia · ECG changes, investigations and the diagnostic algorithm",
+   "page": 972,
+   "fmt": "truefalse",
+   "q": "Assess the rhythm strip on this page: I The two arrows annotate the tracing as polymorphic ventricular tachycardia with a prolonged QT interval. II The caption under the strip reads torsades de points rather than the usual spelling.",
+   "opts": [
+    "Both are true",
+    "I true; II false",
+    "I false; II true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Both labels, polymorphic VT and prolonged QT interval, are drawn onto the strip, and the caption is indeed printed as torsades de points. (Book p972)"
+  },
+  {
+   "id": "MED-C54-058",
+   "sec": "Hypokalemia · ECG changes, investigations and the diagnostic algorithm",
+   "page": 972,
+   "fmt": "numeric",
+   "q": "Which two urine thresholds on this page mark a renal cause of potassium loss?",
+   "opts": [
+    "Urine K+ above 15 mEq/L and urine K+ to creatinine above 13 mEq/g",
+    "Urine K+ above 20 mEq/L and urine K+ to creatinine above 20 mEq/g",
+    "Urine K+ above 15 mEq/L and urine K+ to creatinine above 8.5 mEq/g",
+    "Urine K+ above 13 mEq/L and urine K+ to creatinine above 15 mEq/g"
+   ],
+   "ans": 0,
+   "exp": "Investigation 3 gives urine K+ above 15 mEq/L and a urine K+ to creatinine ratio above 13 mEq per gram creatinine as the renal-cause flags. (Book p972)"
+  },
+  {
+   "id": "MED-C54-059",
+   "sec": "Hypokalemia · ECG changes, investigations and the diagnostic algorithm",
+   "page": 972,
+   "fmt": "match",
+   "q": "Match each investigation on this list with what it is meant to establish — 1) Serum K+ below 3.5 mEq/L 2) Serum magnesium 3) Urine K+ to creatinine … A) Whether a renal wasting cause is present B) That hypokalemia exists at all C) A co-cause that must be corrected before potassium will rise",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "The three investigations are the definition of hypokalemia, the magnesium level, and the urine potassium measures that separate renal from non-renal loss; low magnesium drives ROMK-mediated leak, so it has to be corrected first. (Book p972)"
+  },
+  {
+   "id": "MED-C54-060",
+   "sec": "Hypokalemia · ECG changes, investigations and the diagnostic algorithm",
+   "page": 972,
+   "fmt": "scenario",
+   "q": "A 26-year-old is found to have potassium 2.2 mEq/L after an insulin overdose; urine K+ to creatinine is 4 mEq/g and the pH is normal. Which limb of the printed algorithm does this fall into, and what is the listed cause set?",
+   "opts": [
+    "Under 13 mEq/g with metabolic acidosis, pointing to diarrhoea",
+    "Under 13 mEq/g with no acid-base issue, pointing to intracellular shift from insulin, periodic paralysis or beta-adrenergic stimulation",
+    "Above 13 mEq/g with metabolic alkalosis and normal blood pressure, pointing to Gitelman's syndrome",
+    "Above 13 mEq/g with metabolic acidosis, pointing to distal renal tubular acidosis"
+   ],
+   "ans": 1,
+   "exp": "A low urinary potassium with a normal acid-base status is the shift limb, whose three named examples are hypokalemic periodic paralysis, insulin and beta-adrenergic stimulation. (Book p972)"
+  },
+  {
+   "id": "MED-C54-061",
+   "sec": "Hypokalemia · ECG changes, investigations and the diagnostic algorithm",
+   "page": 972,
+   "fmt": "fillup",
+   "q": "Fill up: In the low-urinary-potassium limb, a concurrent metabolic acidosis is ascribed to ______, while the high-urinary-potassium limb splits into metabolic ______ and metabolic ______.",
+   "opts": [
+    "vomiting; alkalosis; acidosis",
+    "diarrhea; alkalosis; acidosis",
+    "diarrhea; acidosis; alkalosis",
+    "RTA type 1; alkalosis; acidosis"
+   ],
+   "ans": 1,
+   "exp": "Below 13 mEq/g creatinine the two boxes are no acid-base issues and metabolic acidosis with diarrhoea; above that threshold the algorithm offers metabolic alkalosis and metabolic acidosis as the next fork. (Book p972)"
+  },
+  {
+   "id": "MED-C54-062",
+   "sec": "Hypokalemia · ECG changes, investigations and the diagnostic algorithm",
+   "page": 972,
+   "fmt": "management",
+   "q": "A hypokalemic patient has urine K+ of 20 mEq/g creatinine, metabolic alkalosis and blood pressure 152/96 mmHg. What does the algorithm tell the clinician to order next?",
+   "opts": [
+    "Urine chloride",
+    "Serum magnesium only",
+    "An arterial blood gas for acidosis",
+    "Renin and aldosterone levels"
+   ],
+   "ans": 3,
+   "exp": "The high-urinary-potassium, alkalotic branch begins by checking blood pressure, and a raised pressure leads straight to the renin-aldosterone box; urine chloride is the low or normal pressure route. (Book p972)"
+  },
+  {
+   "id": "MED-C54-063",
+   "sec": "Hypokalemia · ECG changes, investigations and the diagnostic algorithm",
+   "page": 972,
+   "fmt": "oddoneout",
+   "q": "A low urine chloride in a normotensive alkalotic patient with renal potassium wasting is paired with which two entries on this page?",
+   "opts": [
+    "Bartter syndrome and Gitelman syndrome",
+    "Primary hyperaldosteronism and Liddle syndrome",
+    "Diuretics and magnesium deficiency",
+    "Vomiting and remote diuretic use"
+   ],
+   "ans": 2,
+   "exp": "The low branch lists vomiting and remote diuretics, whereas a high urine chloride is what carries current diuretic use, magnesium deficiency, Bartter and Gitelman syndromes. (Book p972)"
+  },
+  {
+   "id": "MED-C54-064",
+   "sec": "Hypokalemia · ECG changes, investigations and the diagnostic algorithm",
+   "page": 972,
+   "fmt": "recall",
+   "q": "Which four causes are written beside the high urine chloride box?",
+   "opts": [
+    "Vomiting, remote diuretics, laxative abuse and Bartter syndrome",
+    "Conn's syndrome, Cushing's syndrome, Liddle's syndrome and AME",
+    "Diarrhoea, RTA type 1, RTA type 2 and amphotericin B",
+    "Diuretics, magnesium deficiency, Bartter syndrome and Gitelman syndrome"
+   ],
+   "ans": 3,
+   "exp": "The high-chloride box lists diuretics, magnesium deficiency, Bartter syndrome and Gitelman syndrome, the four states in which chloride is lost in urine along with potassium. (Book p972)"
+  },
+  {
+   "id": "MED-C54-065",
+   "sec": "Hypokalemia · ECG changes, investigations and the diagnostic algorithm",
+   "page": 972,
+   "fmt": "match",
+   "q": "Match each threshold with the cut-off the algorithm prints for it — 1) Low urinary potassium 2) High urinary potassium 3) Renal cause on the investigations list … A) Above 13 mEq/g creatinine B) Below 13 mEq/g creatinine C) Above 15 mEq/L in a random sample",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 3,
+   "exp": "The two algorithm boxes are printed as below and above 13 mEq K+ per gram creatinine, equivalent to below and above 8.5 mEq per mmol creatinine, while the investigations list uses a random urine K+ above 15 mEq/L. (Book p972)"
+  },
+  {
+   "id": "MED-C54-066",
+   "sec": "Hypokalemia · ECG changes, investigations and the diagnostic algorithm",
+   "page": 972,
+   "fmt": "oddoneout",
+   "q": "The obvious causes to be ruled out on the high-potassium-excretion side include all of these EXCEPT:",
+   "opts": [
+    "Amphotericin B",
+    "Thyrotoxic periodic paralysis",
+    "Nonabsorbable anions",
+    "Hypomagnesemia"
+   ],
+   "ans": 2,
+   "exp": "The box lists hypomagnesemia, diuretics, nonabsorbable anions, AmB and aminoglycosides; thyrotoxic periodic paralysis is a shift disorder and belongs on the opposite, low-excretion side of the algorithm. (Book p972)"
+  },
+  {
+   "id": "MED-C54-067",
+   "sec": "Hypokalemia · ECG changes, investigations and the diagnostic algorithm",
+   "page": 972,
+   "fmt": "truefalse",
+   "q": "Assess two statements about the algorithm's structure: I It branches first on urinary potassium and only then on acid-base status and blood pressure. II The metabolic acidosis box on the high-excretion side is expanded into named causes within the figure.",
+   "opts": [
+    "Both are true",
+    "Both are false",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 2,
+   "exp": "Urine potassium is the root of the flowchart, followed by the acid-base split and then blood pressure or urine chloride, but the alkalosis arm on the right ends at a bare metabolic acidosis box with no listed causes inside the figure. (Book p972)"
+  },
+  {
+   "id": "MED-C54-068",
+   "sec": "Hypokalemia treatment and the opening of hyperkalemia",
+   "page": 973,
+   "fmt": "numeric",
+   "q": "What does the acute-attack line prescribe for potassium chloride infusion, and how much potassium does one ampoule contain?",
+   "opts": [
+    "4 ampoules in 300 mL normal saline over 2 hours, 10 mEq per ampoule",
+    "2 ampoules in 300 mL normal saline over 2 hours, 10 mEq per ampoule",
+    "1 ampoule in 500 mL normal saline over 4 hours, 20 mEq per ampoule",
+    "2 ampoules in 100 mL dextrose over 1 hour, 5 mEq per ampoule"
+   ],
+   "ans": 1,
+   "exp": "The acute attack is treated with KCl, 2 ampoules in 300 mL N.S over 2 hours, with 1 ampoule equal to 10 mEq and 1 mL of KCl equal to 2 mEq. (Book p973)"
+  },
+  {
+   "id": "MED-C54-069",
+   "sec": "Hypokalemia treatment and the opening of hyperkalemia",
+   "page": 973,
+   "fmt": "numeric",
+   "q": "State the peripheral-line rate ceiling and the maximum permissible daily dose given on this page.",
+   "opts": [
+    "20 mEq/hr and 160 mEq/day",
+    "10 mEq/hr and 100 mEq/day",
+    "40 mEq/hr and 240 mEq/day",
+    "20 mEq/hr and 75 mEq/day"
+   ],
+   "ans": 0,
+   "exp": "The two safety lines are a maximum rate of 20 mEq/hr through a peripheral line and a maximum permissible dose of 160 mEq per day. (Book p973)"
+  },
+  {
+   "id": "MED-C54-070",
+   "sec": "Hypokalemia treatment and the opening of hyperkalemia",
+   "page": 973,
+   "fmt": "fillup",
+   "q": "Fill up: The 160 mEq daily ceiling is annotated as raising the serum potassium by ______ mEq/L, and the maintenance requirement given for potassium is ______ mEq/day.",
+   "opts": [
+    "1; 40",
+    "4; 100",
+    "2; 100",
+    "2; 75"
+   ],
+   "ans": 3,
+   "exp": "The bracket after 160 mEq/day reads an increase in K+ of 2 mEq/L, and the maintenance section opens with a required dose of 75 mEq/day. (Book p973)"
+  },
+  {
+   "id": "MED-C54-071",
+   "sec": "Hypokalemia treatment and the opening of hyperkalemia",
+   "page": 973,
+   "fmt": "scenario",
+   "q": "A ward prescription reads potassium chloride 4 ampoules in 300 mL saline to run over 2 hours peripherally. Which single figure on this page makes that order unsafe?",
+   "opts": [
+    "The maintenance dose of 75 mEq/day",
+    "The strength of 2 mEq in each millilitre of KCl",
+    "The total daily limit of 75 mEq",
+    "The maximum rate of 20 mEq/hr through a peripheral line"
+   ],
+   "ans": 3,
+   "exp": "Four ampoules give 40 mEq, and running that in 2 hours means 20 mEq/hr only if the whole volume is given over 2 hours, whereas the printed acute order is 2 ampoules; 40 mEq in under 2 hours would exceed the stated peripheral ceiling of 20 mEq/hr. (Book p973)"
+  },
+  {
+   "id": "MED-C54-072",
+   "sec": "Hypokalemia treatment and the opening of hyperkalemia",
+   "page": 973,
+   "fmt": "numeric",
+   "q": "How much potassium and bicarbonate does potassium citrate syrup deliver per 5 mL, and what daily volume does the page estimate?",
+   "opts": [
+    "10 mEq of each, about 35 mL/day",
+    "20 mEq of each, about 70 mL/day",
+    "10 mEq of potassium only, about 35 mL/day",
+    "5 mEq of each, about 100 mL/day"
+   ],
+   "ans": 0,
+   "exp": "Maintenance option 1 is K+ citrate syrup, 5 mL providing 10 mEq each of K+ and HCO3-, at roughly 35 mL per day. (Book p973)"
+  },
+  {
+   "id": "MED-C54-073",
+   "sec": "Hypokalemia treatment and the opening of hyperkalemia",
+   "page": 973,
+   "fmt": "match",
+   "q": "Match each indication with the bicarbonate dose printed for it — 1) Distal RTA 2) Proximal RTA 3) Extra bicarbonate as Shohl's solution … A) 1 mL provides 1 mEq of HCO3- B) 2 to 4 mEq/kg/day C) 10 to 15 mEq/kg/day",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The HCO3- requirement block gives 2-4 mEq/kg/day for distal RTA and 10-15 mEq/kg/day for proximal RTA, with Shohl's solution, a sodium citrate and citric acid mixture, supplying 1 mEq per mL. (Book p973)"
+  },
+  {
+   "id": "MED-C54-074",
+   "sec": "Hypokalemia treatment and the opening of hyperkalemia",
+   "page": 973,
+   "fmt": "truefalse",
+   "q": "Assess the two oral options: I A 750 mg KCl tablet supplies 10 mEq of potassium and needs multiple dosing. II The tablet also corrects any accompanying acidosis.",
+   "opts": [
+    "Both are true",
+    "Both are false",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 2,
+   "exp": "The tablet block lists 750 mg equal to 10 mEq K+, multiple dosing required and, explicitly, acidosis not corrected, which is why the citrate syrup is preferred when bicarbonate is also needed. (Book p973)"
+  },
+  {
+   "id": "MED-C54-075",
+   "sec": "Hypokalemia treatment and the opening of hyperkalemia",
+   "page": 973,
+   "fmt": "management",
+   "q": "A patient with diarrhoea-induced hypokalemia and a hyperchloraemic acidosis needs oral replacement. Which choice on this page serves both problems?",
+   "opts": [
+    "Sodium bicarbonate alone without potassium",
+    "Potassium citrate syrup",
+    "KCl 750 mg tablets",
+    "Intravenous KCl 20 mEq/hr"
+   ],
+   "ans": 1,
+   "exp": "The citrate syrup supplies 10 mEq each of potassium and bicarbonate per 5 mL, whereas the chloride tablet is annotated as not correcting acidosis. (Book p973)"
+  },
+  {
+   "id": "MED-C54-076",
+   "sec": "Hypokalemia treatment and the opening of hyperkalemia",
+   "page": 973,
+   "fmt": "recall",
+   "q": "Hyperkalemia is introduced on this page with which two-word characterisation?",
+   "opts": [
+    "Laboratory artefact",
+    "Acute emergency",
+    "Chronic problem",
+    "Benign finding"
+   ],
+   "ans": 1,
+   "exp": "The hyperkalemia heading carries the single line acute emergency before the causes tree. (Book p973)"
+  },
+  {
+   "id": "MED-C54-077",
+   "sec": "Hypokalemia treatment and the opening of hyperkalemia",
+   "page": 973,
+   "fmt": "match",
+   "q": "Match each column of the hyperkalemia causes tree with the entries printed under it — 1) Renal 2) Spurious 3) Cellular shift … A) Nothing is written beneath this heading on the page B) Renal failure, the most common, and RTA type 4 from aldosterone insufficiency C) Thrombocytosis, fragile cells in chronic lymphocytic leukemia, trauma during blood collection and repeated clenching of the fist",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "The renal column lists renal failure as the most common cause and RTA-IV, the spurious column has four entries, and the cellular-shift column is left blank in the printed scheme. (Book p973)"
+  },
+  {
+   "id": "MED-C54-078",
+   "sec": "Hypokalemia treatment and the opening of hyperkalemia",
+   "page": 973,
+   "fmt": "oddoneout",
+   "q": "All of the following are placed under the spurious column EXCEPT:",
+   "opts": [
+    "Repeated clenching of the fist",
+    "Acute tubular necrosis",
+    "Thrombocytosis",
+    "Fragile cells in chronic lymphocytic leukemia"
+   ],
+   "ans": 1,
+   "exp": "ATN belongs to the renal column through renal failure, while the spurious list covers thrombocytosis, fragile CLL cells, collection trauma and repeated fist clenching, all in-vitro potassium releases. (Book p973)"
+  },
+  {
+   "id": "MED-C54-079",
+   "sec": "Hypokalemia treatment and the opening of hyperkalemia",
+   "page": 973,
+   "fmt": "scenario",
+   "q": "A laboratory report shows potassium 6.9 mEq/L in an asymptomatic patient whose platelet count is 950 x 10^9/L and whose sample was drawn through a difficult, haemolysing venepuncture. Which column of this page's tree explains the result?",
+   "opts": [
+    "Renal, through undisclosed acute kidney injury",
+    "Cellular shift, through a beta-blocker effect",
+    "None, since potassium cannot rise outside the body",
+    "Spurious, through thrombocytosis and collection trauma"
+   ],
+   "ans": 3,
+   "exp": "Two of the four spurious entries, thrombocytosis and trauma during blood collection, are present, so the elevation is a laboratory artefact rather than a patient problem. (Book p973)"
+  },
+  {
+   "id": "MED-C54-080",
+   "sec": "Hypokalemia treatment and the opening of hyperkalemia",
+   "page": 973,
+   "fmt": "truefalse",
+   "q": "Assess the renal column: I Renal failure is described as the most common renal cause. II RTA type 4 is annotated with aldosterone insufficiency.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are false",
+    "Both are true"
+   ],
+   "ans": 3,
+   "exp": "The two renal entries are 1 renal failure with the abbreviation m/c and 2 RTA-IV with aldosterone insufficiency in brackets, the subject of the next page. (Book p973)"
+  },
+  {
+   "id": "MED-C54-081",
+   "sec": "Hyperkalemia · RTA type IV, aldosterone insufficiency, TTKG and clinical features",
+   "page": 974,
+   "fmt": "fillup",
+   "q": "Fill up: Type IV RTA is defined as significant hyperkalemia with ______ or ______ renal failure, disproportionate to degree and duration.",
+   "opts": [
+    "acute; chronic",
+    "mild; moderate",
+    "absent; mild",
+    "severe; established"
+   ],
+   "ans": 2,
+   "exp": "The definition line reads significant hyperkalemia plus absent or mild renal failure, disproportionate to the degree and duration of failure, and it is attributed to aldosterone insufficiency. (Book p974)"
+  },
+  {
+   "id": "MED-C54-082",
+   "sec": "Hyperkalemia · RTA type IV, aldosterone insufficiency, TTKG and clinical features",
+   "page": 974,
+   "fmt": "match",
+   "q": "Match each arm of aldosterone insufficiency with the entries placed under it — 1) Hyporeninemic true hypoaldosteronism 2) Hyperreninemic true hypoaldosteronism 3) Pseudohypoaldosteronism, genetic … A) PHA type 1 and PHA type 2, the latter as Gordon's syndrome B) NSAIDs, beta-blockers, aliskiren and diabetes mellitus C) Addison's disease, ACE inhibitors, ARBs, heparin and ketoconazole",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 1,
+   "exp": "The hyporeninemic list is NSAIDs through prostaglandin reduction, beta-blockers, aliskiren and diabetic impairment of prorenin conversion, the hyperreninemic list holds Addison's with ACE blockade, ARBs, heparin and ketoconazole, and the genetic pseudohypoaldosteronism entries are PHA-I and PHA-II or Gordon's syndrome. (Book p974)"
+  },
+  {
+   "id": "MED-C54-083",
+   "sec": "Hyperkalemia · RTA type IV, aldosterone insufficiency, TTKG and clinical features",
+   "page": 974,
+   "fmt": "oddoneout",
+   "q": "Which of these drugs appears on this page because it inhibits aldosterone synthase rather than for any other reason?",
+   "opts": [
+    "Pentamidine",
+    "Ketoconazole",
+    "Spironolactone",
+    "Trimethoprim"
+   ],
+   "ans": 1,
+   "exp": "Heparin and ketoconazole are bracketed together as inhibitors of aldosterone synthase in the hyperreninemic list, while spironolactone, trimethoprim and pentamidine act as potassium-sparing or channel-blocking drugs in the pseudohypoaldosteronism list. (Book p974)"
+  },
+  {
+   "id": "MED-C54-084",
+   "sec": "Hyperkalemia · RTA type IV, aldosterone insufficiency, TTKG and clinical features",
+   "page": 974,
+   "fmt": "truefalse",
+   "q": "Assess two entries in the hyporeninemic list: I Diabetes mellitus is explained by impaired conversion of prorenin to renin together with autonomic neuropathy. II Aliskiren is included because it blocks the angiotensin receptor.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Statement I reproduces the diabetic entry, while aliskiren is listed with the annotation that it reduces renin, a direct renin inhibitor rather than a receptor blocker. (Book p974)"
+  },
+  {
+   "id": "MED-C54-085",
+   "sec": "Hyperkalemia · RTA type IV, aldosterone insufficiency, TTKG and clinical features",
+   "page": 974,
+   "fmt": "oddoneout",
+   "q": "The chronic tubulointerstitial disease branch of pseudohypoaldosteronism lists all of these EXCEPT:",
+   "opts": [
+    "Reflux",
+    "Obstructions",
+    "Lupus",
+    "Polycystic kidney disease"
+   ],
+   "ans": 3,
+   "exp": "Under CTID the page names reflux, obstructions and lupus, and separately notes that lithium and calcineurin inhibitors cause the CTID that produces this picture. (Book p974)"
+  },
+  {
+   "id": "MED-C54-086",
+   "sec": "Hyperkalemia · RTA type IV, aldosterone insufficiency, TTKG and clinical features",
+   "page": 974,
+   "fmt": "match",
+   "q": "Match each drug with the mechanism slot it occupies on this page — 1) Amiloride 2) Eplerenone 3) NSAIDs … A) Blocks the ENaC channel in the pseudohypoaldosteronism drug list B) Reduces prostaglandins and therefore renin, in the hyporeninemic list C) Competes with aldosterone at its receptor in the pseudohypoaldosteronism drug list",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Amiloride and triamterene sit in the channel-blocking group of the pseudo list with spironolactone and eplerenone as the receptor blockers, while NSAIDs head the hyporeninemic list through prostaglandin reduction. (Book p974)"
+  },
+  {
+   "id": "MED-C54-087",
+   "sec": "Hyperkalemia · RTA type IV, aldosterone insufficiency, TTKG and clinical features",
+   "page": 974,
+   "fmt": "recall",
+   "q": "How is the transtubular potassium gradient described, and what is its printed formula?",
+   "opts": [
+    "Obsolete; urine Na+ over urine osmolality multiplied by plasma K+",
+    "Current best test; plasma K+ over urine K+ multiplied by urine osmolality",
+    "Obsolete; urine K+ over urine osmolality, multiplied by plasma osmolality over plasma K+",
+    "Current best test; urine K+ multiplied by urine osmolality over plasma K+"
+   ],
+   "ans": 2,
+   "exp": "The page writes TTKG with the annotation obsolete and gives it as urine K+ divided by urine osmolality, multiplied by plasma osmolality divided by plasma K+. (Book p974)"
+  },
+  {
+   "id": "MED-C54-088",
+   "sec": "Hyperkalemia · RTA type IV, aldosterone insufficiency, TTKG and clinical features",
+   "page": 974,
+   "fmt": "numeric",
+   "q": "What benchmark range does this page quote for the transtubular potassium gradient, and which drug does the flowchart order when the value falls under it?",
+   "opts": [
+    "8 to 10, with hydrocortisone the next order",
+    "8 to 10, with fludrocortisone the next order",
+    "5 to 7, with spironolactone the next order",
+    "10 to 15, with no further drug required"
+   ],
+   "ans": 1,
+   "exp": "Normal is printed as 8 to 10, a value below 8 is taken as an aldosterone disturbance, and the next instruction is to give fludrocortisone, not a steroid replacement or a potassium blocker. (Book p974)"
+  },
+  {
+   "id": "MED-C54-089",
+   "sec": "Hyperkalemia · RTA type IV, aldosterone insufficiency, TTKG and clinical features",
+   "page": 974,
+   "fmt": "management",
+   "q": "A hyperkalemic diabetic has a TTKG of 4. What does the flowchart order next, and what would a post-test value above 8 signify?",
+   "opts": [
+    "No further test, since a value under 8 is already diagnostic of Gordon's syndrome",
+    "0.05 mg fludrocortisone, and a later TTKG above 8 means true hypoaldosteronism",
+    "0.05 mg fludrocortisone, and a later TTKG above 8 means pseudohypoaldosteronism",
+    "Spironolactone 100 mg, and a later TTKG above 8 means true hypoaldosteronism"
+   ],
+   "ans": 1,
+   "exp": "A low baseline gradient is followed by 0.05 mg of fludrocortisone, after which a TTKG above 8 indicates true hypoaldosteronism and a value still below 8 indicates pseudohypoaldosteronism. (Book p974)"
+  },
+  {
+   "id": "MED-C54-090",
+   "sec": "Hyperkalemia · RTA type IV, aldosterone insufficiency, TTKG and clinical features",
+   "page": 974,
+   "fmt": "truefalse",
+   "q": "Assess the interpretation rules drawn under the fludrocortisone box: I A post-stimulation TTKG below 8 is labelled pseudohypoaldosteronism. II The test separates primary from secondary hyperaldosteronism.",
+   "opts": [
+    "Both are false",
+    "I true; II false",
+    "I false; II true",
+    "Both are true"
+   ],
+   "ans": 1,
+   "exp": "The two lines read greater than 8 for true hypoaldosteronism and less than 8 for the pseudo form, a distinction about renal response to mineralocorticoid rather than a separation of primary from secondary hyperaldosteronism. (Book p974)"
+  },
+  {
+   "id": "MED-C54-091",
+   "sec": "Hyperkalemia · RTA type IV, aldosterone insufficiency, TTKG and clinical features",
+   "page": 974,
+   "fmt": "match",
+   "q": "Match each system of the clinical-features list with its entry — 1) Cardiac 2) Neuromuscular 3) Renal 4) Endocrine … A) Decreased ammonium production B) Increased insulin secretion C) Paraesthesia, weakness and paralysis D) Arrhythmias, classically ventricular",
+   "opts": [
+    "1-C, 2-D, 3-B, 4-A",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-D, 2-C, 3-A, 4-B"
+   ],
+   "ans": 3,
+   "exp": "The four numbered systems are cardiac with classically ventricular arrhythmias, neuromuscular with paraesthesia and weakness progressing to paralysis, renal with reduced NH4+ production and endocrine with increased insulin secretion. (Book p974)"
+  },
+  {
+   "id": "MED-C54-092",
+   "sec": "Hyperkalemia · RTA type IV, aldosterone insufficiency, TTKG and clinical features",
+   "page": 974,
+   "fmt": "oddoneout",
+   "q": "Which statement conflicts with the hyperkalemia clinical list on this page?",
+   "opts": [
+    "The kidney's ammonium production falls",
+    "Ventricular arrhythmias are the classical cardiac finding",
+    "Hyperkalemia reduces insulin secretion from the pancreas",
+    "Paraesthesia and weakness may progress to paralysis"
+   ],
+   "ans": 2,
+   "exp": "The endocrine line states increased insulin secretion, which is the mirror image of the insulin resistance listed for hypokalemia on an earlier page, so a claim of reduced secretion contradicts the page. (Book p974)"
+  },
+  {
+   "id": "MED-C54-093",
+   "sec": "Hyperkalemia · RTA type IV, aldosterone insufficiency, TTKG and clinical features",
+   "page": 974,
+   "fmt": "scenario",
+   "q": "A 61-year-old with type 4 diabetes-related renal tubular acidosis has potassium 5.9 mEq/L, creatinine 1.4 mg/dL and blood pressure controlled on an ACE inhibitor plus a beta-blocker. Which two listed mechanisms does this page offer for his hyperkalemia?",
+   "opts": [
+    "Reduced ammonium production from lithium plus calcineurin toxicity",
+    "Hyporeninemia from the beta-blocker and reduced aldosterone synthesis downstream of ACE blockade",
+    "Hyperreninemia from Addison's disease and channel blockade by amiloride",
+    "Pseudohypoaldosteronism from reflux nephropathy and lupus"
+   ],
+   "ans": 1,
+   "exp": "Beta-blockers appear in the hyporeninemic list and ACE inhibition in the hyperreninemic list of the same true hypoaldosteronism tree, matching both drugs in this diabetic patient. (Book p974)"
+  },
+  {
+   "id": "MED-C54-094",
+   "sec": "Hyperkalemia · ECG progression and acute treatment",
+   "page": 975,
+   "fmt": "match",
+   "q": "Match each row of the hyperkalemia ECG table with its tracing description — 1) Around 4 mmol/L 2) 6 to 7 mmol/L 3) 8 to 9 mmol/L 4) Above 9 mmol/L … A) Normal complex with visible P wave B) Peaked T waves C) Atrial standstill with prolonged QRS duration and further peaking of T waves D) Sine wave pattern with absent P waves",
+   "opts": [
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-B, 3-C, 4-A",
+    "1-A, 2-B, 3-C, 4-D"
+   ],
+   "ans": 3,
+   "exp": "The ladder reads normal near 4, peaked T waves at 6 to 7, flattened P wave with prolonged PR and depressed ST at 7 to 8, atrial standstill with wide QRS at 8 to 9 and a sine wave above 9. (Book p975)"
+  },
+  {
+   "id": "MED-C54-095",
+   "sec": "Hyperkalemia · ECG progression and acute treatment",
+   "page": 975,
+   "fmt": "numeric",
+   "q": "Between which potassium values does the table place flattened P waves, a prolonged PR interval and a depressed ST segment alongside peaked T waves?",
+   "opts": [
+    "Above 9 mmol/L",
+    "7 to 8 mmol/L",
+    "6 to 7 mmol/L",
+    "8 to 9 mmol/L"
+   ],
+   "ans": 1,
+   "exp": "The third row of the table, 7 to 8 mmol/L, is the one that combines atrial changes with the peaked T waves. (Book p975)"
+  },
+  {
+   "id": "MED-C54-096",
+   "sec": "Hyperkalemia · ECG progression and acute treatment",
+   "page": 975,
+   "fmt": "truefalse",
+   "q": "Assess the first line of the acute regimen: I 10% calcium gluconate is labelled the drug of choice. II It is given because it shifts potassium into cells and lowers the serum level.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Calcium gluconate is the DOC, but its stated mechanism is to raise the action-potential threshold to a less negative value without changing the resting membrane potential, stabilising the myocardium rather than lowering potassium. (Book p975)"
+  },
+  {
+   "id": "MED-C54-097",
+   "sec": "Hyperkalemia · ECG progression and acute treatment",
+   "page": 975,
+   "fmt": "numeric",
+   "q": "What dose of 10% calcium gluconate does the page give, how fast, and how long does the effect last?",
+   "opts": [
+    "50 mL infusion over 1 hour, lasting 4 to 6 hours",
+    "10 mL intramuscularly, lasting 30 to 60 minutes",
+    "10 mL intravenously over 2 to 3 minutes, lasting 30 to 60 minutes",
+    "10 mL intravenously over 10 minutes, lasting 2 to 6 hours"
+   ],
+   "ans": 2,
+   "exp": "The dose is 10 mL IV over 2 to 3 minutes with an onset of 3 minutes and a duration of 30 to 60 minutes, and 10 mL is stated to contain 90 mg of elemental calcium. (Book p975)"
+  },
+  {
+   "id": "MED-C54-098",
+   "sec": "Hyperkalemia · ECG progression and acute treatment",
+   "page": 975,
+   "fmt": "fillup",
+   "q": "Fill up: One ampoule of 10% calcium gluconate, 10 mL, contains ______ mg of elemental calcium, and myocardial protection is only temporary because the effect lasts ______ minutes.",
+   "opts": [
+    "45; 10 to 20",
+    "90; 180 to 240",
+    "180; 30 to 60",
+    "90; 30 to 60"
+   ],
+   "ans": 3,
+   "exp": "The bracket gives 90 mg of elemental calcium per 10 mL, and the last bullet records an onset of 3 minutes with cover for only 30 to 60 minutes, which is why a potassium-lowering measure must follow. (Book p975)"
+  },
+  {
+   "id": "MED-C54-099",
+   "sec": "Hyperkalemia · ECG progression and acute treatment",
+   "page": 975,
+   "fmt": "management",
+   "q": "Which insulin regimen appears as the alternative to the 500 mL infusion in the insulin-dextrose entry?",
+   "opts": [
+    "10 units intravenously stat followed by 50 mL of 50% dextrose",
+    "20 units subcutaneously followed by 250 mL of 10% dextrose",
+    "10 units intravenously with no dextrose cover",
+    "5 units intravenously followed by 500 mL of normal saline"
+   ],
+   "ans": 0,
+   "exp": "The dose line offers 10 U regular insulin in 500 mL of 10% dextrose over 1 hour, or 10 U IV stat followed by 50 mL of 50% dextrose, with 50 mL/hr of 10% dextrose afterwards to prevent hypoglycemia. (Book p975)"
+  },
+  {
+   "id": "MED-C54-100",
+   "sec": "Hyperkalemia · ECG progression and acute treatment",
+   "page": 975,
+   "fmt": "numeric",
+   "q": "State the onset, peak and duration printed for the insulin-dextrose measure.",
+   "opts": [
+    "Onset 30 minutes, peak at 60 to 90 minutes, lasting 2 to 6 hours",
+    "Onset 1 hour, peak at 2 hours, lasting 12 hours",
+    "Onset 10 to 20 minutes, peak at 30 to 60 minutes, lasting up to 4 to 6 hours",
+    "Onset 3 minutes, peak at 30 to 60 minutes, lasting 30 to 60 minutes"
+   ],
+   "ans": 2,
+   "exp": "Insulin with dextrose is listed with an onset of 10 to 20 minutes, a peak by 30 to 60 minutes and a duration of up to 4 to 6 hours, in contrast with the fast but brief calcium effect. (Book p975)"
+  },
+  {
+   "id": "MED-C54-101",
+   "sec": "Hyperkalemia · ECG progression and acute treatment",
+   "page": 975,
+   "fmt": "scenario",
+   "q": "Two hours after insulin-dextrose therapy a treated patient becomes sweaty with a capillary glucose of 48 mg/dL. Which part of the printed protocol was intended to prevent exactly this?",
+   "opts": [
+    "The nebulised albuterol dose",
+    "The oral potassium binder",
+    "The follow-up infusion of 50 mL/hr of 10% dextrose",
+    "The initial 10 mL of calcium gluconate"
+   ],
+   "ans": 2,
+   "exp": "A bracket on the dose line carries the instruction to follow with 50 mL/hr of 10% dextrose specifically to prevent hypoglycemia once the insulin is acting. (Book p975)"
+  },
+  {
+   "id": "MED-C54-102",
+   "sec": "Hyperkalemia · ECG progression and acute treatment",
+   "page": 975,
+   "fmt": "numeric",
+   "q": "What albuterol dose and route does the page give, and what is its onset?",
+   "opts": [
+    "5 mg orally, onset 60 to 90 minutes",
+    "10 to 20 mg in 4 mL normal saline over 10 minutes by nebulization, onset 30 minutes",
+    "2.5 mg in 4 mL saline over 10 minutes by nebulization, onset 5 minutes",
+    "10 to 20 mg intravenously over 2 to 3 minutes, onset 30 minutes"
+   ],
+   "ans": 1,
+   "exp": "Albuterol is listed as 10 to 20 mg in 4 mL NS over 10 minutes by nebulization, with onset at 30 minutes, a peak by 60 to 90 minutes and cover for 2 to 6 hours. (Book p975)"
+  },
+  {
+   "id": "MED-C54-103",
+   "sec": "Hyperkalemia · ECG progression and acute treatment",
+   "page": 975,
+   "fmt": "oddoneout",
+   "q": "Three of these belong to the acute regimen on this page. Which one does not?",
+   "opts": [
+    "10% calcium gluconate",
+    "Insulin with dextrose",
+    "Nebulized albuterol",
+    "Oral potassium binders as a rapid-acting measure"
+   ],
+   "ans": 3,
+   "exp": "Oral K+ binders are the fourth item but are annotated obsolete, so they are not part of the effective acute trio of calcium, insulin-dextrose and albuterol. (Book p975)"
+  },
+  {
+   "id": "MED-C54-104",
+   "sec": "Hyperkalemia · ECG progression and acute treatment",
+   "page": 975,
+   "fmt": "truefalse",
+   "q": "Assess the two closing lines of the page: I Oral potassium binders are bracketed as obsolete. II Definitive treatment is dialysis whenever chronic kidney disease is present.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are false",
+    "Both are true"
+   ],
+   "ans": 3,
+   "exp": "The binders line reads obsolete in brackets, and the definitive Rx line reads dialysis with the qualifier when CKD is present. (Book p975)"
+  },
+  {
+   "id": "MED-C54-105",
+   "sec": "Hyperkalemia · ECG progression and acute treatment",
+   "page": 975,
+   "fmt": "scenario",
+   "q": "A dialysis patient misses two sessions and arrives with potassium 8.6 mmol/L, no visible P waves and a QRS of 160 ms. Which row of the ECG table applies, and what is the correct first drug?",
+   "opts": [
+    "The 4 mmol/L normal row, and urgent dialysis with no drug first",
+    "The 8 to 9 mmol/L row with atrial standstill, and 10% calcium gluconate 10 mL over 2 to 3 minutes",
+    "The above 9 mmol/L sine-wave row, and 10 units of insulin without dextrose",
+    "The 6 to 7 mmol/L row of peaked T waves, and nebulized albuterol alone"
+   ],
+   "ans": 1,
+   "exp": "Loss of the P wave with a prolonged QRS at 8 to 9 mmol/L is the atrial standstill row, and the page makes 10% calcium gluconate the drug of choice to stabilise the myocardium before any potassium-lowering step. (Book p975)"
+  },
+  {
+   "id": "MED-C54-106",
+   "sec": "Hyperkalemia · ECG progression and acute treatment",
+   "page": 975,
+   "fmt": "fillup",
+   "q": "Fill up: Calcium stabilises the myocardium by moving the action-potential threshold to a ______ value while leaving the ______ unchanged, whereas insulin and albuterol both work by ______.",
+   "opts": [
+    "more positive; action-potential duration; cellular shift of sodium",
+    "less negative; resting membrane potential; cellular shift of potassium",
+    "more negative; resting membrane potential; renal excretion of potassium",
+    "less negative; QRS duration; gastrointestinal binding"
+   ],
+   "ans": 1,
+   "exp": "The calcium mechanism is a less negative threshold with an untouched resting potential, and the other two acute measures are both classified as shifting potassium into cells. (Book p975)"
   }
  ],
  "units": [
@@ -249,56 +1599,186 @@
    "id": "MED-U54-1",
    "ch": 54,
    "n": 1,
-   "title": "Distribution",
-   "sec": "Distribution",
-   "guide": "Cover shifts and intake.",
+   "title": "Potassium balance, compartments and membrane physiology",
+   "sec": "Physiology · p968",
+   "guide": "The 40 mg per mmol conversion, 50 mEq per kilogram of total body potassium, the ICF and ECF component table, the organ distribution with its 3000 mmol total, and the paired electrophysiology arrows for hypo- and hyperkalemia.",
    "qs": [
     "MED-C54-001",
     "MED-C54-002",
     "MED-C54-003",
-    "MED-C54-004"
+    "MED-C54-004",
+    "MED-C54-005",
+    "MED-C54-006",
+    "MED-C54-007",
+    "MED-C54-008",
+    "MED-C54-009",
+    "MED-C54-010",
+    "MED-C54-011",
+    "MED-C54-012",
+    "MED-C54-013"
    ]
   },
   {
    "id": "MED-U54-2",
    "ch": 54,
    "n": 2,
-   "title": "Renal handling",
-   "sec": "Renal handling",
-   "guide": "Trace nephron handling.",
+   "title": "The pump, daily regulation and tubular handling",
+   "sec": "Na+/K+ ATPase and renal excretion · p969",
+   "guide": "Shared digoxin and potassium binding, potassium in digoxin toxicity, athlete adaptations, the 100 mEq intake split, the 700 mEq filtered load with its PCT, TALH and collecting-duct handling, and the severity rules for significant hypo- and hyperkalemia.",
    "qs": [
-    "MED-C54-005",
-    "MED-C54-006",
-    "MED-C54-007",
-    "MED-C54-008"
+    "MED-C54-014",
+    "MED-C54-015",
+    "MED-C54-016",
+    "MED-C54-017",
+    "MED-C54-018",
+    "MED-C54-019",
+    "MED-C54-020",
+    "MED-C54-021",
+    "MED-C54-022",
+    "MED-C54-023",
+    "MED-C54-024",
+    "MED-C54-025",
+    "MED-C54-026"
    ]
   },
   {
    "id": "MED-U54-3",
    "ch": 54,
    "n": 3,
-   "title": "Hypokalemia",
-   "sec": "Hypokalemia",
-   "guide": "Interpret ECG and urine potassium.",
+   "title": "Aldosterone in the collecting duct and diuretic effects on potassium",
+   "sec": "Aldosterone and applied aspects · p970",
+   "guide": "Beta or principal cell as the site of action, the numbered ENaC, ROMK, pump and alpha-intercalated cell structures, AIP and vasopressin, the Conn triad, and the printed electropositivity chain that explains thiazide hypokalemia.",
    "qs": [
-    "MED-C54-009",
-    "MED-C54-010",
-    "MED-C54-011",
-    "MED-C54-012"
+    "MED-C54-027",
+    "MED-C54-028",
+    "MED-C54-029",
+    "MED-C54-030",
+    "MED-C54-031",
+    "MED-C54-032",
+    "MED-C54-033",
+    "MED-C54-034",
+    "MED-C54-035",
+    "MED-C54-036",
+    "MED-C54-037",
+    "MED-C54-038"
    ]
   },
   {
    "id": "MED-U54-4",
    "ch": 54,
    "n": 4,
-   "title": "Hyperkalemia",
-   "sec": "Hyperkalemia",
-   "guide": "Recognize emergency treatment.",
+   "title": "Causes of hypokalemia and cellular potassium shifts",
+   "sec": "Hypokalemia · p971",
+   "guide": "The non-renal and renal tree with its acid-base and blood pressure forks, the shift boxes with insulin, catecholamines and pH, magnesium and ROMK, the clinical list, and the deficit curve.",
    "qs": [
-    "MED-C54-013",
-    "MED-C54-014",
-    "MED-C54-015",
-    "MED-C54-016"
+    "MED-C54-039",
+    "MED-C54-040",
+    "MED-C54-041",
+    "MED-C54-042",
+    "MED-C54-043",
+    "MED-C54-044",
+    "MED-C54-045",
+    "MED-C54-046",
+    "MED-C54-047",
+    "MED-C54-048",
+    "MED-C54-049",
+    "MED-C54-050",
+    "MED-C54-051",
+    "MED-C54-052",
+    "MED-C54-053",
+    "MED-C54-054"
+   ]
+  },
+  {
+   "id": "MED-U54-5",
+   "ch": 54,
+   "n": 5,
+   "title": "ECG changes, investigations and the diagnostic algorithm",
+   "sec": "Hypokalemia work-up · p972",
+   "guide": "The four-step ECG ladder with U waves and QT, the torsades strip, the three investigations with their urine potassium thresholds, and the algorithm that runs from urine potassium through acid-base status to blood pressure and urine chloride.",
+   "qs": [
+    "MED-C54-055",
+    "MED-C54-056",
+    "MED-C54-057",
+    "MED-C54-058",
+    "MED-C54-059",
+    "MED-C54-060",
+    "MED-C54-061",
+    "MED-C54-062",
+    "MED-C54-063",
+    "MED-C54-064",
+    "MED-C54-065",
+    "MED-C54-066",
+    "MED-C54-067"
+   ]
+  },
+  {
+   "id": "MED-U54-6",
+   "ch": 54,
+   "n": 6,
+   "title": "Replacing potassium and entering hyperkalemia",
+   "sec": "Treatment and hyperkalemia causes · p973",
+   "guide": "The acute KCl infusion rules, maintenance dosing with citrate syrup and Shohl's solution, the tablet limitation, and the three-column hyperkalemia cause tree with its spurious entries.",
+   "qs": [
+    "MED-C54-068",
+    "MED-C54-069",
+    "MED-C54-070",
+    "MED-C54-071",
+    "MED-C54-072",
+    "MED-C54-073",
+    "MED-C54-074",
+    "MED-C54-075",
+    "MED-C54-076",
+    "MED-C54-077",
+    "MED-C54-078",
+    "MED-C54-079",
+    "MED-C54-080"
+   ]
+  },
+  {
+   "id": "MED-U54-7",
+   "ch": 54,
+   "n": 7,
+   "title": "RTA type IV, the transtubular gradient and clinical features",
+   "sec": "Aldosterone insufficiency · p974",
+   "guide": "The definition of type IV RTA, the hypo- and hyperreninemic true hypoaldosteronism lists, the pseudohypoaldosteronism genetic, CTID and drug entries, the TTKG formula with its fludrocortisone step, and the four-system clinical list.",
+   "qs": [
+    "MED-C54-081",
+    "MED-C54-082",
+    "MED-C54-083",
+    "MED-C54-084",
+    "MED-C54-085",
+    "MED-C54-086",
+    "MED-C54-087",
+    "MED-C54-088",
+    "MED-C54-089",
+    "MED-C54-090",
+    "MED-C54-091",
+    "MED-C54-092",
+    "MED-C54-093"
+   ]
+  },
+  {
+   "id": "MED-U54-8",
+   "ch": 54,
+   "n": 8,
+   "title": "Hyperkalemic ECG progression and emergency treatment",
+   "sec": "Hyperkalemia treatment · p975",
+   "guide": "The five-row potassium-to-ECG table, calcium gluconate as drug of choice with its dose and brief cover, insulin with dextrose, high-dose nebulized albuterol, the obsolete binders and dialysis as definitive therapy.",
+   "qs": [
+    "MED-C54-094",
+    "MED-C54-095",
+    "MED-C54-096",
+    "MED-C54-097",
+    "MED-C54-098",
+    "MED-C54-099",
+    "MED-C54-100",
+    "MED-C54-101",
+    "MED-C54-102",
+    "MED-C54-103",
+    "MED-C54-104",
+    "MED-C54-105",
+    "MED-C54-106"
    ]
   }
  ]
