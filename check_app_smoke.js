@@ -2,7 +2,7 @@
 /*
  * Dependency-free runtime smoke test for the standalone PULSE Medicine app.
  * It runs the inline application script against a minimal DOM shim, then checks
- * the full roadmap (live + "Soon") and full correct/incorrect quiz flows for Chapters 36–40. It complements
+ * the full roadmap (live + "Soon") and full correct/incorrect quiz flows for every live chapter. It complements
  * the structural checks in check_integrity.py; it is not a visual-browser test.
  */
 'use strict';
@@ -70,7 +70,11 @@ const document = {
   addEventListener() {},
 };
 const localStorage = {
-  values: new Map(),
+  // Seed a returning learner: content revisions must not erase saved history.
+  values: new Map([
+    ['pulseMed_xp', JSON.stringify(420)],
+    ['pulseMed_done', JSON.stringify(['MED-U1-1', 'MED-U2-1'])],
+  ]),
   getItem(key) { return this.values.has(key) ? this.values.get(key) : null; },
   setItem(key, value) { this.values.set(key, String(value)); },
 };
@@ -82,7 +86,7 @@ vm.createContext(context);
 vm.runInContext(`${scriptMatch[1]}
 
 globalThis.__PULSE_SMOKE__ = {
-  QUESTIONS, UNITS, CHAPTERS, QBYID, unitsOf,
+  QUESTIONS, UNITS, CHAPTERS, QBYID, unitsOf, parseMatch,
   startUnit(id) { curUnit = UNITS.find(u => u.id === id); curCh = curUnit.ch; beginUnit(); },
   current() { return order[idx]; },
   next() { nextQ(); },
@@ -96,6 +100,17 @@ const pulse = context.__PULSE_SMOKE__;
 function assert(condition, message) {
   if (!condition) throw new Error(message);
 }
+
+assert(localStorage.getItem('pulseMed_xp') === '420', 'Startup reset saved XP.');
+assert(localStorage.getItem('pulseMed_done') === JSON.stringify(['MED-U1-1', 'MED-U2-1']),
+  'Startup reset historical unit completion.');
+const fourPair = pulse.parseMatch('Match these — 1) One 2) Two 3) Three 4) Four … A) Alpha B) Beta C) Gamma D) Delta');
+assert(fourPair && fourPair.left.length === 4 && fourPair.right.length === 4,
+  'Four-row matching parser lost the D row.');
+assert(fourPair.right[3] === 'Delta', 'Matching D label was not stripped correctly.');
+const kinase = pulse.parseMatch('Match these — 1) DAG 2) IP3 … A) Calcium B) Protein kinase C)');
+assert(kinase && kinase.right.length === 2 && kinase.right[1] === 'Protein kinase C)',
+  'A terminal biochemical C) was mistaken for a list marker.');
 
 // Expectations are derived from the chapter source artifacts in data/, so the
 // smoke test never drifts when questions are added or reordered.
@@ -151,13 +166,17 @@ for (const chapter of source) {
     `First Chapter ${number} question does not start at its Book page.`);
 }
 
-// Exercise every new question with both right and wrong selections. This also
+// Exercise EVERY live question with both right and wrong selections. This also
 // verifies option-shuffle answer mapping, matching boards, citations, double-click
 // locking, completion scores and the missed-question review. It is a DOM-shim
 // runtime regression, not a visual-browser or medical-correctness test.
-const newUnits = sourceUnits.filter(u => [57, 58, 59, 62, 63].includes(u.ch));
+const testedUnits = sourceUnits;
+const formatWarnings = new Set();
+const reviewedChapters = new Set(fs.readdirSync(path.join(dataDir, 'source_review'))
+  .filter(name => /^ch\d{2}\.json$/.test(name))
+  .map(name => Number(name.slice(2, 4))));
 let exercised = 0;
-for (const unit of newUnits) {
+for (const unit of testedUnits) {
   for (const wantCorrect of [true, false]) {
     pulse.startUnit(unit.id);
     for (const id of unit.qs) {
@@ -165,11 +184,29 @@ for (const unit of newUnits) {
       assert(current.q.id === id, `${id}: source order changed at runtime.`);
       assert(elements.get('opts').children.length === 4, `${id}: missing options.`);
       if (current.q.fmt === 'match') {
-        assert(!elements.get('qboard').classList.contains('hidden'), `${id}: missing matching board.`);
-        assert(elements.get('qboard').innerHTML.includes('List II'), `${id}: missing second list.`);
+        if (pulse.parseMatch(current.q.q)) {
+          assert(!elements.get('qboard').classList.contains('hidden'), `${id}: missing matching board.`);
+          assert(elements.get('qboard').innerHTML.includes('List II'), `${id}: missing second list.`);
+          const parsed = pulse.parseMatch(current.q.q);
+          const labels = [...current.q.q.matchAll(/(?:^|\s)([A-Z])\)\s+\S/g)];
+          assert(parsed.right.length === labels.length, `${id}: matching row lost by parser.`);
+        } else {
+          // Legacy malformed match stems use the app's plain-text fallback.
+          // Test that fallback, but explicitly flag the content defect.
+          assert(!reviewedChapters.has(unit.ch), `${id}: reviewed match stem is malformed.`);
+          assert(elements.get('qboard').classList.contains('hidden'), `${id}: stale matching board.`);
+          assert(elements.get('qtext').textContent === current.q.q, `${id}: missing fallback stem.`);
+          formatWarnings.add(`${id}: match label without a parseable matching list`);
+        }
       }
       if (current.q.fmt === 'fillup') {
-        assert(elements.get('qtext').innerHTML.includes('class="blank"'), `${id}: missing fill-up blank.`);
+        if (/_{3,}/.test(current.q.q)) {
+          assert(elements.get('qtext').innerHTML.includes('class="blank"'), `${id}: missing fill-up blank.`);
+        } else {
+          assert(!reviewedChapters.has(unit.ch), `${id}: reviewed fill-up has no blank.`);
+          assert(elements.get('qtext').innerHTML.length > 0, `${id}: missing fallback fill-up.`);
+          formatWarnings.add(`${id}: fill-up label without a renderable blank`);
+        }
       }
       const answerIndex = current.opts.findIndex(o => o.ok === wantCorrect);
       assert(answerIndex >= 0, `${id}: shuffled answer lost.`);
@@ -192,8 +229,13 @@ for (const unit of newUnits) {
     assert(!elements.get('unitdone').classList.contains('hidden'), `${unit.id}: completion screen hidden.`);
   }
 }
-console.log(`PASS: ${exercised} new-question answer paths across ${newUnits.length} units; matching boards, blanks, feedback, locking and completion verified.`);
+console.log(`PASS: ${exercised} question answer paths across ${testedUnits.length} units; matching boards, blanks, feedback, locking and completion verified.`);
 
 console.log(`PASS: roadmap of ${pulse.CHAPTERS.length} chapters (${liveCount} live, rest "Soon"), ` +
   `Chapter ${source.map((c) => c.chapter).join(', ')} path data and quiz starts, and final ` +
   `question IDs resolve at runtime.`);
+
+if (formatWarnings.size) {
+  console.log(`WARN: ${formatWarnings.size} legacy format defects in unreviewed chapters (fallbacks tested, content NOT certified):`);
+  for (const warning of formatWarnings) console.log(' - ' + warning);
+}

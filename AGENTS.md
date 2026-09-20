@@ -1,0 +1,69 @@
+# Project memory — mandatory authoring rules
+
+## Non-negotiable user requirement (2026-09-20)
+> Strictly line to line, no compromise, in book order very strictly.
+
+This applies to all new content, corrections, re-audits, and completion claims.
+Read `PROGRESS.md`, `SOURCE_REVIEW.md`, and `SELF_AUDIT_BOOK_ORDER.md` before continuing work.
+
+1. **Follow the actual book, line by line.** Cover every instructional line,
+   bullet, sub-bullet, table row/cell, diagram label, arrow, flowchart branch,
+   caption, note, numerical value, and exception. Do not substitute a summary,
+   selected high-yield facts, or a fixed question quota for complete coverage.
+2. **Preserve exact source order:** chapter → page → section → line/element.
+   Finish each source block before moving on. Do not regroup by topic, jump
+   ahead, or return to an earlier branch. For diagrams/multi-column layouts,
+   inspect the scan and record the reading traversal; do not infer order from
+   topic similarity. Units and question formats must follow that traversal.
+3. **Only answer options may shuffle.** Never shuffle the question sequence.
+   Format variety must not cause omissions or reorder source material; avoid
+   composite questions that pull later material ahead of intervening lines.
+4. **Verify against the scan.** Read rendered pages, zoom unclear text, confirm
+   the printed page number, and cite the page that actually supports the fact.
+   Do not invent facts, source positions, or unreadable values. Flag unresolved
+   text instead of silently replacing it with general medical knowledge.
+5. **Keep auditable coverage evidence.** For every reviewed page, maintain an
+   ordered checklist of source lines/elements with their question IDs. Include
+   table and figure elements. A page number alone is not line-level evidence.
+   Never mark an unreviewed page or chapter as line-by-line verified.
+6. **Separate structural checks from source verification.** Build, integrity,
+   runtime, and variety checks are necessary but cannot prove completeness,
+   same-page order, or factual citation accuracy. A successful script run is
+   not a line-by-line PASS. Report failures and unverified scope explicitly.
+7. **Repair before extending.** Resume from the earliest pending chapter in
+   `SOURCE_REVIEW.md` and continue in book order; resolve gaps and backward jumps before claiming completion or
+   expanding the bank. Previously shipped/live content is not automatically
+   compliant. Do not silently delete existing content or reset user progress.
+
+## Verification workflow
+- Render the actual source and create the ordered coverage checklist first.
+- Author/reconcile the questions and units against that checklist.
+- Rebuild with `python3 build_content.py` after content changes.
+- Run `python3 check_integrity.py`, `node check_app_smoke.js`, and
+  `python3 audit_variety.py`.
+- Re-check source coverage and order manually; record exact reviewed scope,
+  remaining failures, and limitations in the audit and `PROGRESS.md`.
+
+## Current continuation state (2026-09-20)
+- The user requested continuation through **all 74 chapters**, strictly in order.
+- **Ch 1–3, p705–725:** rebuilt to 140, 148 and 202 questions with ordered source
+  checklists in `data/source_review/`, source caveats, and unchanged unit IDs/history.
+- **Next: Ch 4, Juxtaglomerular Apparatus, p726–729.** There are 71 chapters still pending
+  this source-review standard, including both existing and unbuilt content.
+- The initial Ch 1 backward jump is repaired. PR #18 replaced Ch 52–56 with a
+  338-question bank; preserve it. Old Ch 54 findings refer to the replaced bank,
+  and the replacement must be source-reviewed when reached. Whole-book compliance
+  is **NOT COMPLETE**. See `SOURCE_REVIEW.md` and the Ch 1–3 repair reports.
+- `check_source_coverage.py` checks manifest order, question/unit references,
+  PDF-page mapping, and PDF/content hashes. It cannot read the scan or certify
+  medical truth. **Never generate evidence or update a review hash merely to
+  make the checks pass.** Recheck the affected source first.
+- Builds and integrity checks reject stale existing manifests. Use
+  `python3 check_source_coverage.py --require-all` for whole-book completion;
+  its current nonzero exit is expected and must not be bypassed.
+- Runtime tests now cover every live question. Their 44 legacy format warnings
+  remain content defects, not proof that unreviewed content is complete.
+
+- The user authorised merging this continuation. Merge only the actual reviewed
+  scope and passing implementation changes; never describe an incremental merge
+  as completion of all 74 chapters. No unattended/background authoring is running.

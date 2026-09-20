@@ -1,0 +1,1182 @@
+{
+  "chapter": 1,
+  "reviewedAt": "2026-09-20",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part1_pages_705-759.pdf",
+  "pdfSha256": "e2dfab80e25cd81302885cda7e07806117d24e15b03d73f2f6b00952ca2fdeea",
+  "pdfOffset": 692,
+  "pageRange": "705-710",
+  "contentSha256": "4de58a7b8993d71641ea5095320a1a25c82d58293d82cbd0dade28591bff7b5d",
+  "method": "Manually read all six rendered source pages at 2x (p705 also reviewed at 1.7x), then reconciled each instructional line/element to an ordered question. Numbered photos are covered through their printed labels/captions; no hidden or unlabelled image diagnosis is invented. Page headers, publisher/footer, lecture timestamps and blank Active space are non-instructional and excluded.",
+  "caveats": [
+    "p706: no role in humans and kidney of amphibians/reptiles are source-specific overgeneralisations, explicitly qualified.",
+    "p707: proteinuria parenthesis prints Albuminemia; distinguish it from albuminuria.",
+    "p708–709: older disability/sex-development terms are recorded with preferred terminology.",
+    "p709: normal external genitalia in Frasier is not universal; WT2 is a historical source label; microcephaly in BWS is questionable; intellectual disability in Russell Silver is not a universal diagnostic requirement.",
+    "p710: sex ratio and incidence are source-specific; RET/PAX-2 associations are not universal causes; Potter is not a universal leading neonatal cause of death; pulmonary hyperplasia caption is an apparent error for hypoplasia; full GDNF expansion is provided."
+  ],
+  "pages": [
+    {
+      "page": 705,
+      "pdfPage": 13,
+      "traversal": "Top mesoderm tree: parent branches, then each branch left to right, finishing its children top to bottom. Then the urogenital-development line and adjacent anal-pit note. Then CLOACA definition and lower tree: parent split, urogenital sinus branches left to right (finish vesicourethral male AND female lines before definitive sinus), then primitive rectum. Headings are context, not displaced facts.",
+      "elements": [
+        {
+          "element": "p705-e001",
+          "page": 705,
+          "source": "Mesoderm tree: three primary branches, left to right",
+          "questionIds": [
+            "MED-C1-001"
+          ]
+        },
+        {
+          "element": "p705-e002",
+          "page": 705,
+          "source": "Paraxial branch: somites, muscles, myotomes",
+          "questionIds": [
+            "MED-C1-002"
+          ]
+        },
+        {
+          "element": "p705-e003",
+          "page": 705,
+          "source": "Lateral plate branch: somatopleuric and splanchnopleuric divisions",
+          "questionIds": [
+            "MED-C1-003"
+          ]
+        },
+        {
+          "element": "p705-e004",
+          "page": 705,
+          "source": "Somatopleuric bullet 1: outer parietal pleura",
+          "questionIds": [
+            "MED-C1-004"
+          ]
+        },
+        {
+          "element": "p705-e005",
+          "page": 705,
+          "source": "Somatopleuric bullet 2: outer peritoneum",
+          "questionIds": [
+            "MED-C1-005"
+          ]
+        },
+        {
+          "element": "p705-e006",
+          "page": 705,
+          "source": "Somatopleuric bullet 3: outer pericardium",
+          "questionIds": [
+            "MED-C1-006"
+          ]
+        },
+        {
+          "element": "p705-e007",
+          "page": 705,
+          "source": "Splanchnopleuric bullet 1: inner visceral pleura",
+          "questionIds": [
+            "MED-C1-007"
+          ]
+        },
+        {
+          "element": "p705-e008",
+          "page": 705,
+          "source": "Splanchnopleuric bullet 2: inner peritoneum",
+          "questionIds": [
+            "MED-C1-008"
+          ]
+        },
+        {
+          "element": "p705-e009",
+          "page": 705,
+          "source": "Splanchnopleuric bullet 3: inner pericardium",
+          "questionIds": [
+            "MED-C1-009"
+          ]
+        },
+        {
+          "element": "p705-e010",
+          "page": 705,
+          "source": "Development of urogenital system: intermediate mesoderm + endoderm → cloaca",
+          "questionIds": [
+            "MED-C1-010"
+          ]
+        },
+        {
+          "element": "p705-e011",
+          "page": 705,
+          "source": "Adjacent note: below pectinate line → proctoderm / anal pit",
+          "questionIds": [
+            "MED-C1-011"
+          ]
+        },
+        {
+          "element": "p705-e012",
+          "page": 705,
+          "source": "CLOACA definition: hindgut distal to allantois",
+          "questionIds": [
+            "MED-C1-012"
+          ]
+        },
+        {
+          "element": "p705-e013",
+          "page": 705,
+          "source": "Cloaca tree: primitive urogenital sinus and primitive rectum",
+          "questionIds": [
+            "MED-C1-013"
+          ]
+        },
+        {
+          "element": "p705-e014",
+          "page": 705,
+          "source": "Primitive urogenital sinus: epithelial buds → prostate",
+          "questionIds": [
+            "MED-C1-014"
+          ]
+        },
+        {
+          "element": "p705-e015",
+          "page": 705,
+          "source": "Vesicourethral canal: bladder bullet",
+          "questionIds": [
+            "MED-C1-015"
+          ]
+        },
+        {
+          "element": "p705-e016",
+          "page": 705,
+          "source": "Vesicourethral canal: urethra, male sub-bullet",
+          "questionIds": [
+            "MED-C1-016"
+          ]
+        },
+        {
+          "element": "p705-e017",
+          "page": 705,
+          "source": "Vesicourethral canal: urethra, female sub-bullet",
+          "questionIds": [
+            "MED-C1-017"
+          ]
+        },
+        {
+          "element": "p705-e018",
+          "page": 705,
+          "source": "Definitive urogenital sinus: pelvic and phallic branches",
+          "questionIds": [
+            "MED-C1-018"
+          ]
+        },
+        {
+          "element": "p705-e019",
+          "page": 705,
+          "source": "Pelvic part: male urethra, remaining prostatic and membranous",
+          "questionIds": [
+            "MED-C1-019"
+          ]
+        },
+        {
+          "element": "p705-e020",
+          "page": 705,
+          "source": "Pelvic part: female urethra",
+          "questionIds": [
+            "MED-C1-020"
+          ]
+        },
+        {
+          "element": "p705-e021",
+          "page": 705,
+          "source": "Phallic part: spongy urethra",
+          "questionIds": [
+            "MED-C1-021"
+          ]
+        },
+        {
+          "element": "p705-e022",
+          "page": 705,
+          "source": "Phallic part: vestibule in females",
+          "questionIds": [
+            "MED-C1-022"
+          ]
+        },
+        {
+          "element": "p705-e023",
+          "page": 705,
+          "source": "Primitive rectum: rectum",
+          "questionIds": [
+            "MED-C1-023"
+          ]
+        },
+        {
+          "element": "p705-e024",
+          "page": 705,
+          "source": "Primitive rectum: anal canal up to pectinate line",
+          "questionIds": [
+            "MED-C1-024"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 706,
+      "pdfPage": 14,
+      "traversal": "Intermediate-mesoderm tree: parent branches, Wolffian branch down to collecting system, Müllerian synonym, then ridge text. Ridge bullets and medial/lateral sub-bullets in order. Note bullets in order. Timeline rows top to bottom; each row’s events in printed order.",
+      "elements": [
+        {
+          "element": "p706-e001",
+          "page": 706,
+          "source": "Intermediate mesoderm tree: three branches",
+          "questionIds": [
+            "MED-C1-025"
+          ]
+        },
+        {
+          "element": "p706-e002",
+          "page": 706,
+          "source": "Mesonephric duct: Wolffian synonym",
+          "questionIds": [
+            "MED-C1-026"
+          ]
+        },
+        {
+          "element": "p706-e003",
+          "page": 706,
+          "source": "Mesonephric duct → ureteric bud arrow",
+          "questionIds": [
+            "MED-C1-027"
+          ]
+        },
+        {
+          "element": "p706-e004",
+          "page": 706,
+          "source": "Ureteric bud → collecting system arrow",
+          "questionIds": [
+            "MED-C1-028"
+          ]
+        },
+        {
+          "element": "p706-e005",
+          "page": 706,
+          "source": "Paramesonephric duct: Müllerian synonym",
+          "questionIds": [
+            "MED-C1-029"
+          ]
+        },
+        {
+          "element": "p706-e006",
+          "page": 706,
+          "source": "Urogenital ridge bullet 1: cervical to sacral extension",
+          "questionIds": [
+            "MED-C1-030"
+          ]
+        },
+        {
+          "element": "p706-e007",
+          "page": 706,
+          "source": "Urogenital ridge bullet 2: adjacent to Wolffian duct",
+          "questionIds": [
+            "MED-C1-031"
+          ]
+        },
+        {
+          "element": "p706-e008",
+          "page": 706,
+          "source": "Urogenital ridge bullet 3: two pairs of swellings either side of dorsal aorta",
+          "questionIds": [
+            "MED-C1-032"
+          ]
+        },
+        {
+          "element": "p706-e009",
+          "page": 706,
+          "source": "Medial swelling: genital ridge",
+          "questionIds": [
+            "MED-C1-033"
+          ]
+        },
+        {
+          "element": "p706-e010",
+          "page": 706,
+          "source": "Genital ridge → ovary, testis",
+          "questionIds": [
+            "MED-C1-034"
+          ]
+        },
+        {
+          "element": "p706-e011",
+          "page": 706,
+          "source": "Lateral swelling: nephrogenic cord",
+          "questionIds": [
+            "MED-C1-035"
+          ]
+        },
+        {
+          "element": "p706-e012",
+          "page": 706,
+          "source": "Nephrogenic cord → excretory part of kidney",
+          "questionIds": [
+            "MED-C1-036"
+          ]
+        },
+        {
+          "element": "p706-e013",
+          "page": 706,
+          "source": "Note: appendix of epididymis → mesonephric remnant",
+          "questionIds": [
+            "MED-C1-037"
+          ]
+        },
+        {
+          "element": "p706-e014",
+          "page": 706,
+          "source": "Note: appendix of testis → paramesonephric remnant",
+          "questionIds": [
+            "MED-C1-038"
+          ]
+        },
+        {
+          "element": "p706-e015",
+          "page": 706,
+          "source": "Note: hydatid of Morgagni → paramesonephric remnant",
+          "questionIds": [
+            "MED-C1-039"
+          ]
+        },
+        {
+          "element": "p706-e016",
+          "page": 706,
+          "source": "Note: metanephros = kidney",
+          "questionIds": [
+            "MED-C1-040"
+          ]
+        },
+        {
+          "element": "p706-e017",
+          "page": 706,
+          "source": "Timeline: day 22 / fourth week → pronephros formation",
+          "questionIds": [
+            "MED-C1-041"
+          ]
+        },
+        {
+          "element": "p706-e018",
+          "page": 706,
+          "source": "Timeline: pronephros regresses in a few days",
+          "questionIds": [
+            "MED-C1-042"
+          ]
+        },
+        {
+          "element": "p706-e019",
+          "page": 706,
+          "source": "Timeline: end of fourth week → mesonephros formation",
+          "questionIds": [
+            "MED-C1-043"
+          ]
+        },
+        {
+          "element": "p706-e020",
+          "page": 706,
+          "source": "Timeline: mesonephros regresses by four months",
+          "questionIds": [
+            "MED-C1-044"
+          ]
+        },
+        {
+          "element": "p706-e021",
+          "page": 706,
+          "source": "Timeline: mesonephros, source-specific no role in humans",
+          "questionIds": [
+            "MED-C1-045"
+          ]
+        },
+        {
+          "element": "p706-e022",
+          "page": 706,
+          "source": "Timeline: mesonephros, kidney of amphibians and reptiles (book wording)",
+          "questionIds": [
+            "MED-C1-046"
+          ]
+        },
+        {
+          "element": "p706-e023",
+          "page": 706,
+          "source": "Timeline: fifth week → metanephric blastema mesenchyme from nephrogenic cord",
+          "questionIds": [
+            "MED-C1-047"
+          ]
+        },
+        {
+          "element": "p706-e024",
+          "page": 706,
+          "source": "Timeline: fifth week → ureteric-bud epithelium from mesonephric duct",
+          "questionIds": [
+            "MED-C1-048"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 707,
+      "pdfPage": 15,
+      "traversal": "Continuation table rows top to bottom, and each bullet/sub-bullet in order. CKD parameter line, then follow every flowchart arrow: top left to right, equation at its printed position, down the right column, left along the bottom and up to CKD.",
+      "elements": [
+        {
+          "element": "p707-e001",
+          "page": 707,
+          "source": "Timeline: sixth–eighth week, epithelial–mesenchymal interaction/transition",
+          "questionIds": [
+            "MED-C1-049"
+          ]
+        },
+        {
+          "element": "p707-e002",
+          "page": 707,
+          "source": "Interaction: ureteric-bud epithelium and metanephric-bud mesenchyme",
+          "questionIds": [
+            "MED-C1-050"
+          ]
+        },
+        {
+          "element": "p707-e003",
+          "page": 707,
+          "source": "WT1 sub-bullet: transcription factor",
+          "questionIds": [
+            "MED-C1-051"
+          ]
+        },
+        {
+          "element": "p707-e004",
+          "page": 707,
+          "source": "WT1 sub-bullet: chromosome 11",
+          "questionIds": [
+            "MED-C1-052"
+          ]
+        },
+        {
+          "element": "p707-e005",
+          "page": 707,
+          "source": "Timeline: end of eighth week → first fully formed nephron",
+          "questionIds": [
+            "MED-C1-053"
+          ]
+        },
+        {
+          "element": "p707-e006",
+          "page": 707,
+          "source": "Timeline: ninth–tenth weeks → urine formation / filtration",
+          "questionIds": [
+            "MED-C1-054"
+          ]
+        },
+        {
+          "element": "p707-e007",
+          "page": 707,
+          "source": "Timeline: ninth–tenth weeks → ascent with rotation",
+          "questionIds": [
+            "MED-C1-055"
+          ]
+        },
+        {
+          "element": "p707-e008",
+          "page": 707,
+          "source": "Timeline: 32–36 weeks → completion of nephrogenesis",
+          "questionIds": [
+            "MED-C1-056"
+          ]
+        },
+        {
+          "element": "p707-e009",
+          "page": 707,
+          "source": "Timeline: 60–70% of nephrons formed in third trimester",
+          "questionIds": [
+            "MED-C1-057"
+          ]
+        },
+        {
+          "element": "p707-e010",
+          "page": 707,
+          "source": "Timeline: at birth → fixed nephron number",
+          "questionIds": [
+            "MED-C1-058"
+          ]
+        },
+        {
+          "element": "p707-e011",
+          "page": 707,
+          "source": "Timeline: after birth → no new nephron formed/replaced",
+          "questionIds": [
+            "MED-C1-059"
+          ]
+        },
+        {
+          "element": "p707-e012",
+          "page": 707,
+          "source": "Timeline: after birth → urine-concentrating capacity increases",
+          "questionIds": [
+            "MED-C1-060"
+          ]
+        },
+        {
+          "element": "p707-e013",
+          "page": 707,
+          "source": "Timeline: urine-concentrating capacity adult level by 1.5 years",
+          "questionIds": [
+            "MED-C1-061"
+          ]
+        },
+        {
+          "element": "p707-e014",
+          "page": 707,
+          "source": "CKD heading: nephron-number defining parameter → birth weight",
+          "questionIds": [
+            "MED-C1-062"
+          ]
+        },
+        {
+          "element": "p707-e015",
+          "page": 707,
+          "source": "CKD flow: lower birth weight → fewer functional nephrons",
+          "questionIds": [
+            "MED-C1-063"
+          ]
+        },
+        {
+          "element": "p707-e016",
+          "page": 707,
+          "source": "CKD flow: fewer nephrons → increased single-nephron GFR",
+          "questionIds": [
+            "MED-C1-064"
+          ]
+        },
+        {
+          "element": "p707-e017",
+          "page": 707,
+          "source": "CKD flow parenthesis: total GFR formula",
+          "questionIds": [
+            "MED-C1-065"
+          ]
+        },
+        {
+          "element": "p707-e018",
+          "page": 707,
+          "source": "CKD flow: increased single-nephron GFR → glomerular hyperfiltration",
+          "questionIds": [
+            "MED-C1-066"
+          ]
+        },
+        {
+          "element": "p707-e019",
+          "page": 707,
+          "source": "CKD flow: hyperfiltration → intraglomerular hypertension",
+          "questionIds": [
+            "MED-C1-067"
+          ]
+        },
+        {
+          "element": "p707-e020",
+          "page": 707,
+          "source": "CKD flow: intraglomerular hypertension → hyperfiltration injury",
+          "questionIds": [
+            "MED-C1-068"
+          ]
+        },
+        {
+          "element": "p707-e021",
+          "page": 707,
+          "source": "CKD flow: hyperfiltration injury → capillary-pore stretching",
+          "questionIds": [
+            "MED-C1-069"
+          ]
+        },
+        {
+          "element": "p707-e022",
+          "page": 707,
+          "source": "CKD flow: stretching → increased pore diameter",
+          "questionIds": [
+            "MED-C1-070"
+          ]
+        },
+        {
+          "element": "p707-e023",
+          "page": 707,
+          "source": "CKD flow: proteinuria, printed parenthesis Albuminemia (source error flagged)",
+          "questionIds": [
+            "MED-C1-071"
+          ]
+        },
+        {
+          "element": "p707-e024",
+          "page": 707,
+          "source": "CKD flow: proteinuria → tubular injury",
+          "questionIds": [
+            "MED-C1-072"
+          ]
+        },
+        {
+          "element": "p707-e025",
+          "page": 707,
+          "source": "CKD flow: tubular injury → interstitial inflammation",
+          "questionIds": [
+            "MED-C1-073"
+          ]
+        },
+        {
+          "element": "p707-e026",
+          "page": 707,
+          "source": "CKD flow: interstitial inflammation → TGF-beta release",
+          "questionIds": [
+            "MED-C1-074"
+          ]
+        },
+        {
+          "element": "p707-e027",
+          "page": 707,
+          "source": "CKD flow: TGF-beta → fibrosis of tubules and interstitium",
+          "questionIds": [
+            "MED-C1-075"
+          ]
+        },
+        {
+          "element": "p707-e028",
+          "page": 707,
+          "source": "CKD flow: fibrosis → CKD endpoint",
+          "questionIds": [
+            "MED-C1-076"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 708,
+      "pdfPage": 16,
+      "traversal": "CKD-features bullets top to bottom (three tissue changes in textual order); maternal flowchart top to bottom then its five risk labels left to right; notes in order (PAX-2, adult, fetal); WAGR figures in numbered order 1–4.",
+      "elements": [
+        {
+          "element": "p708-e001",
+          "page": 708,
+          "source": "CKD features bullet 1: fewer functional nephrons",
+          "questionIds": [
+            "MED-C1-077"
+          ]
+        },
+        {
+          "element": "p708-e002",
+          "page": 708,
+          "source": "CKD features bullet 2, component 1: interstitial fibrosis",
+          "questionIds": [
+            "MED-C1-078"
+          ]
+        },
+        {
+          "element": "p708-e003",
+          "page": 708,
+          "source": "CKD features bullet 2, component 2: tubular atrophy",
+          "questionIds": [
+            "MED-C1-079"
+          ]
+        },
+        {
+          "element": "p708-e004",
+          "page": 708,
+          "source": "CKD features bullet 2, component 3: glomerulosclerosis",
+          "questionIds": [
+            "MED-C1-080"
+          ]
+        },
+        {
+          "element": "p708-e005",
+          "page": 708,
+          "source": "Maternal-factor flow: age of conception → pre-eclampsia / hypertension",
+          "questionIds": [
+            "MED-C1-081"
+          ]
+        },
+        {
+          "element": "p708-e006",
+          "page": 708,
+          "source": "Maternal-factor flow: pre-eclampsia / hypertension → placental insufficiency",
+          "questionIds": [
+            "MED-C1-082"
+          ]
+        },
+        {
+          "element": "p708-e007",
+          "page": 708,
+          "source": "Maternal-factor flow: placental insufficiency → IUGR",
+          "questionIds": [
+            "MED-C1-083"
+          ]
+        },
+        {
+          "element": "p708-e008",
+          "page": 708,
+          "source": "Maternal-factor flow: IUGR → SGA baby",
+          "questionIds": [
+            "MED-C1-084"
+          ]
+        },
+        {
+          "element": "p708-e009",
+          "page": 708,
+          "source": "Maternal-factor final line: increased CKD risk",
+          "questionIds": [
+            "MED-C1-085"
+          ]
+        },
+        {
+          "element": "p708-e010",
+          "page": 708,
+          "source": "Maternal-factor final line: increased hypertension risk",
+          "questionIds": [
+            "MED-C1-086"
+          ]
+        },
+        {
+          "element": "p708-e011",
+          "page": 708,
+          "source": "Maternal-factor final line: increased hyperuricaemia risk",
+          "questionIds": [
+            "MED-C1-087"
+          ]
+        },
+        {
+          "element": "p708-e012",
+          "page": 708,
+          "source": "Maternal-factor final line: increased diabetes risk",
+          "questionIds": [
+            "MED-C1-088"
+          ]
+        },
+        {
+          "element": "p708-e013",
+          "page": 708,
+          "source": "Maternal-factor final line: increased metabolic-syndrome risk",
+          "questionIds": [
+            "MED-C1-089"
+          ]
+        },
+        {
+          "element": "p708-e014",
+          "page": 708,
+          "source": "Note: PAX-2 → ureteric-bud epithelium formation",
+          "questionIds": [
+            "MED-C1-090"
+          ]
+        },
+        {
+          "element": "p708-e015",
+          "page": 708,
+          "source": "Kidney location: adult T12–L3",
+          "questionIds": [
+            "MED-C1-091"
+          ]
+        },
+        {
+          "element": "p708-e016",
+          "page": 708,
+          "source": "Kidney location: fetal S1–S2",
+          "questionIds": [
+            "MED-C1-092"
+          ]
+        },
+        {
+          "element": "p708-e017",
+          "page": 708,
+          "source": "WT1 heading → WAGR mutation",
+          "questionIds": [
+            "MED-C1-093"
+          ]
+        },
+        {
+          "element": "p708-e018",
+          "page": 708,
+          "source": "WAGR figure/caption 1: Wilms tumour",
+          "questionIds": [
+            "MED-C1-094"
+          ]
+        },
+        {
+          "element": "p708-e019",
+          "page": 708,
+          "source": "WAGR figure/caption 2: aniridia",
+          "questionIds": [
+            "MED-C1-095"
+          ]
+        },
+        {
+          "element": "p708-e020",
+          "page": 708,
+          "source": "WAGR figure/caption 3: genitourinary abnormalities",
+          "questionIds": [
+            "MED-C1-096"
+          ]
+        },
+        {
+          "element": "p708-e021",
+          "page": 708,
+          "source": "WAGR figure/caption 4: intellectual disability, historical wording",
+          "questionIds": [
+            "MED-C1-097"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 709,
+      "pdfPage": 17,
+      "traversal": "Denys–Drash figures 1–3 including the CKD-age arrow; Frasier branches left to right with each gonadal bullet before biopsy and failure age. WT2 line then imprinting line. Beckwith–Wiedemann figure row left to right, including the whole right-side organomegaly montage/caption, BEFORE the Others list. Others bullets top to bottom; Russell Silver bullets left to right.",
+      "elements": [
+        {
+          "element": "p709-e001",
+          "page": 709,
+          "source": "Denys–Drash figure/caption 1: Wilms tumour",
+          "questionIds": [
+            "MED-C1-098"
+          ]
+        },
+        {
+          "element": "p709-e002",
+          "page": 709,
+          "source": "Denys–Drash figure/caption 2: DSD; historical male pseudohermaphroditism",
+          "questionIds": [
+            "MED-C1-099"
+          ]
+        },
+        {
+          "element": "p709-e003",
+          "page": 709,
+          "source": "Denys–Drash figure/caption 3: diffuse mesangial sclerosis",
+          "questionIds": [
+            "MED-C1-100"
+          ]
+        },
+        {
+          "element": "p709-e004",
+          "page": 709,
+          "source": "Denys–Drash caption arrow: early CKD by 3–5 years",
+          "questionIds": [
+            "MED-C1-101"
+          ]
+        },
+        {
+          "element": "p709-e005",
+          "page": 709,
+          "source": "Frasier gonads bullet 1: gonadoblastoma",
+          "questionIds": [
+            "MED-C1-102"
+          ]
+        },
+        {
+          "element": "p709-e006",
+          "page": 709,
+          "source": "Frasier gonads bullet 2: gonadal dysgenesis",
+          "questionIds": [
+            "MED-C1-103"
+          ]
+        },
+        {
+          "element": "p709-e007",
+          "page": 709,
+          "source": "Frasier gonads bullet 3: external genitalia normal, source-specific wording",
+          "questionIds": [
+            "MED-C1-104"
+          ]
+        },
+        {
+          "element": "p709-e008",
+          "page": 709,
+          "source": "Frasier biopsy branch: FSGS",
+          "questionIds": [
+            "MED-C1-105"
+          ]
+        },
+        {
+          "element": "p709-e009",
+          "page": 709,
+          "source": "Frasier renal-failure branch: by 15–20 years",
+          "questionIds": [
+            "MED-C1-106"
+          ]
+        },
+        {
+          "element": "p709-e010",
+          "page": 709,
+          "source": "WT2 heading and no role in epithelial–mesenchymal interaction",
+          "questionIds": [
+            "MED-C1-107"
+          ]
+        },
+        {
+          "element": "p709-e011",
+          "page": 709,
+          "source": "Beckwith–Wiedemann: genomic imprinting anomaly",
+          "questionIds": [
+            "MED-C1-108"
+          ]
+        },
+        {
+          "element": "p709-e012",
+          "page": 709,
+          "source": "Beckwith–Wiedemann left photograph: macroglossia",
+          "questionIds": [
+            "MED-C1-109"
+          ]
+        },
+        {
+          "element": "p709-e013",
+          "page": 709,
+          "source": "Beckwith–Wiedemann middle photograph: umbilical hernia",
+          "questionIds": [
+            "MED-C1-110"
+          ]
+        },
+        {
+          "element": "p709-e014",
+          "page": 709,
+          "source": "Beckwith–Wiedemann organomegaly montage: nephromegaly",
+          "questionIds": [
+            "MED-C1-111"
+          ]
+        },
+        {
+          "element": "p709-e015",
+          "page": 709,
+          "source": "Beckwith–Wiedemann organomegaly montage: hepatosplenomegaly",
+          "questionIds": [
+            "MED-C1-112"
+          ]
+        },
+        {
+          "element": "p709-e016",
+          "page": 709,
+          "source": "Beckwith–Wiedemann organomegaly montage: adrenomegaly",
+          "questionIds": [
+            "MED-C1-113"
+          ]
+        },
+        {
+          "element": "p709-e017",
+          "page": 709,
+          "source": "Beckwith–Wiedemann Others bullet 1: hemihypertrophy of limbs",
+          "questionIds": [
+            "MED-C1-114"
+          ]
+        },
+        {
+          "element": "p709-e018",
+          "page": 709,
+          "source": "Beckwith–Wiedemann Others bullet 2: omphalocele",
+          "questionIds": [
+            "MED-C1-115"
+          ]
+        },
+        {
+          "element": "p709-e019",
+          "page": 709,
+          "source": "Beckwith–Wiedemann Others bullet 3: Wilms tumour",
+          "questionIds": [
+            "MED-C1-116"
+          ]
+        },
+        {
+          "element": "p709-e020",
+          "page": 709,
+          "source": "Beckwith–Wiedemann Others bullet 4a: microcephaly, questionable source claim",
+          "questionIds": [
+            "MED-C1-117"
+          ]
+        },
+        {
+          "element": "p709-e021",
+          "page": 709,
+          "source": "Beckwith–Wiedemann Others bullet 4b: ear-lobe crease",
+          "questionIds": [
+            "MED-C1-118"
+          ]
+        },
+        {
+          "element": "p709-e022",
+          "page": 709,
+          "source": "Beckwith–Wiedemann Others bullet 5: hypoglycaemia",
+          "questionIds": [
+            "MED-C1-119"
+          ]
+        },
+        {
+          "element": "p709-e023",
+          "page": 709,
+          "source": "Beckwith–Wiedemann Others bullet 6: medullary sponge kidney in adults",
+          "questionIds": [
+            "MED-C1-120"
+          ]
+        },
+        {
+          "element": "p709-e024",
+          "page": 709,
+          "source": "Russell Silver bullet 1: triangular facies",
+          "questionIds": [
+            "MED-C1-121"
+          ]
+        },
+        {
+          "element": "p709-e025",
+          "page": 709,
+          "source": "Russell Silver bullet 2: intellectual disability, historical/overgeneralised source wording",
+          "questionIds": [
+            "MED-C1-122"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 710,
+      "pdfPage": 18,
+      "traversal": "Unilateral heading and three bullets top to bottom; associations including the hypertension parenthesis; upper montage/caption (no invented unlabelled findings). Bilateral/Potter heading, two bullets including protein expansion, then numbered lower figure captions 1–3, retaining and flagging source errors.",
+      "elements": [
+        {
+          "element": "p710-e001",
+          "page": 710,
+          "source": "Unilateral agenesis bullet 1: F > M",
+          "questionIds": [
+            "MED-C1-123"
+          ]
+        },
+        {
+          "element": "p710-e002",
+          "page": 710,
+          "source": "Unilateral agenesis bullet 2: 1 in 10,000 live births",
+          "questionIds": [
+            "MED-C1-124"
+          ]
+        },
+        {
+          "element": "p710-e003",
+          "page": 710,
+          "source": "Unilateral agenesis bullet 3: PAX-2 mutation",
+          "questionIds": [
+            "MED-C1-125"
+          ]
+        },
+        {
+          "element": "p710-e004",
+          "page": 710,
+          "source": "Unilateral associations bullet 1: optic nerve coloboma",
+          "questionIds": [
+            "MED-C1-126"
+          ]
+        },
+        {
+          "element": "p710-e005",
+          "page": 710,
+          "source": "Unilateral associations bullet 2: dextrocardia",
+          "questionIds": [
+            "MED-C1-127"
+          ]
+        },
+        {
+          "element": "p710-e006",
+          "page": 710,
+          "source": "Unilateral associations bullet 3: hypertension",
+          "questionIds": [
+            "MED-C1-128"
+          ]
+        },
+        {
+          "element": "p710-e007",
+          "page": 710,
+          "source": "Unilateral hypertension sub-line: due to fewer nephrons",
+          "questionIds": [
+            "MED-C1-129"
+          ]
+        },
+        {
+          "element": "p710-e008",
+          "page": 710,
+          "source": "Unilateral associations bullet 4: flat foot",
+          "questionIds": [
+            "MED-C1-130"
+          ]
+        },
+        {
+          "element": "p710-e009",
+          "page": 710,
+          "source": "Unilateral image montage and caption: U/L renal agenesis",
+          "questionIds": [
+            "MED-C1-131"
+          ]
+        },
+        {
+          "element": "p710-e010",
+          "page": 710,
+          "source": "Bilateral agenesis heading: Potter syndrome",
+          "questionIds": [
+            "MED-C1-132"
+          ]
+        },
+        {
+          "element": "p710-e011",
+          "page": 710,
+          "source": "Potter bullet 1: most-common-cause-of-death assertion, explicit source caveat",
+          "questionIds": [
+            "MED-C1-133"
+          ]
+        },
+        {
+          "element": "p710-e012",
+          "page": 710,
+          "source": "Potter bullet 2: RET gene association",
+          "questionIds": [
+            "MED-C1-134"
+          ]
+        },
+        {
+          "element": "p710-e013",
+          "page": 710,
+          "source": "Potter bullet 2: GDNF protein association",
+          "questionIds": [
+            "MED-C1-135"
+          ]
+        },
+        {
+          "element": "p710-e014",
+          "page": 710,
+          "source": "GDNF expansion: glial derived neurotrophic factor in scan",
+          "questionIds": [
+            "MED-C1-136"
+          ]
+        },
+        {
+          "element": "p710-e015",
+          "page": 710,
+          "source": "Potter figure/caption 1: printed pulmonary hyperplasia, corrected clinically",
+          "questionIds": [
+            "MED-C1-137"
+          ]
+        },
+        {
+          "element": "p710-e016",
+          "page": 710,
+          "source": "Potter figure/caption 2a: absent kidney",
+          "questionIds": [
+            "MED-C1-138"
+          ]
+        },
+        {
+          "element": "p710-e017",
+          "page": 710,
+          "source": "Potter figure/caption 2b: absent renal arteries",
+          "questionIds": [
+            "MED-C1-139"
+          ]
+        },
+        {
+          "element": "p710-e018",
+          "page": 710,
+          "source": "Potter figure/caption 3: disc-shaped adrenal gland",
+          "questionIds": [
+            "MED-C1-140"
+          ]
+        }
+      ]
+    }
+  ]
+}

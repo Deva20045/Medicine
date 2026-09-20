@@ -1,10 +1,18 @@
 # PULSE Medicine
 
 A single-file MCQ study app for **Marrow Ed 8, Medicine Vol 3** (Book p705–1068).
-Questions follow the book **line-by-line, in strict page order**, in varied formats
-(recall, fill-ups, match-the-following, true/false, clinical scenarios, odd-one-out,
-numeric). Every explanation ends with the exact book-page citation, and options are
-shuffled on every run — so after solving a chapter you should not need the PDF.
+The mandatory authoring standard is **every line/element, in exact book order,
+without compromise**, with varied question formats and exact book-page citations.
+Only answer options may shuffle; questions must remain in source order.
+
+> **2026-09-20 self-audit: NOT YET COMPLIANT.** Structural/runtime checks pass,
+> Ch 1–3 (p705–725) have since been rebuilt with ordered source checklists and
+> explicit caveats; 71 chapters remain pending review. The source failures in
+> Ch 54 concern an older bank: PR #18 has replaced Ch 52–56, which remain pending
+> strict review. See [`SOURCE_REVIEW.md`](SOURCE_REVIEW.md) for all 74 chapters.
+> Live content is not automatically line-by-line verified. See
+> [`SELF_AUDIT_BOOK_ORDER.md`](SELF_AUDIT_BOOK_ORDER.md) for evidence and scope,
+> and [`AGENTS.md`](AGENTS.md) for the persistent project rule.
 
 > **Live:** https://deva20045.github.io/Medicine/ (served from `main`; the working
 > branch previews here). Open `pulse-medicine.html` directly — no build step.
@@ -15,9 +23,9 @@ rest show a **Soon** badge.
 
 | Scope | Status |
 |---|---|
-| Ch 1 · Development of Kidneys (p705–710) — 9 units, 68 questions | ✅ live on this branch |
-| Ch 2 · Gross Anatomy of Kidney (p711–716) — 11 units, 66 questions | ✅ live |
-| Ch 3 · Tubular Anatomy (p717–725) — 13 units, 100 questions | ✅ live |
+| Ch 1 · Development of Kidneys (p705–710) — 9 units, 140 questions | ✅ live; source-reviewed with caveats |
+| Ch 2 · Gross Anatomy of Kidney (p711–716) — 11 units, 148 questions | ✅ live; source-reviewed with caveats |
+| Ch 3 · Tubular Anatomy (p717–725) — 13 units, 202 questions | ✅ live; source-reviewed with caveats |
 | Ch 4 · Juxtaglomerular Apparatus (p726–729) — 7 units, 50 questions | ✅ live |
 | Ch 5 · Glomerulus - Anatomy (p730–733) — 8 units, 56 questions | ✅ live |
 | Ch 6 · Renal Physiology (p734–739) — 10 units, 133 questions | ✅ live (page-anchored re-audit) |
@@ -80,8 +88,12 @@ roadmap, data schema, per-chapter pipeline, and NEXT step.
 | `index.html` | Redirect → `pulse-medicine.html` |
 | `data/chNN.json` | Extracted question bank (one JSON per live chapter) |
 | `build_content.py` | Inlines `data/ch*.json` into `pulse-medicine.html` |
-| `check_integrity.py` | CI gate: schema, sequence, exact count, 1-to-1 sync |
-| `check_app_smoke.js` | DOM-shim runtime smoke test (all live chapters; full Ch 36–40 quiz flows) |
+| `check_integrity.py` | Gate: schema, full-chapter page sequence, exact count, source↔app sync, existing review freshness |
+| `check_source_coverage.py` | Ordered source-checklist/PDF/content-hash validation; `--require-all` refuses incomplete whole-book certification |
+| `data/source_review/chNN.json` | Manually authored source-review checklist, traversal, caveats and hashes |
+| `SOURCE_REVIEW.md` | Current all-74-chapter review queue; regenerate with `--write-report` |
+| `test_source_coverage.py` | Evidence/order/freshness regression tests |
+| `check_app_smoke.js` | DOM-shim runtime test: both answer outcomes for every live question; legacy format defects reported |
 | `audit_variety.py` | Quality audit (formats, length-bias, leaks, repeats) |
 | `author.py` | Assembles `data/chNN.json` from the ordered parts, with quality gates |
 | `REAUDIT.md` | Re-audit report for Ch 13–18 (before → after, coverage, verification) |
@@ -97,6 +109,19 @@ roadmap, data schema, per-chapter pipeline, and NEXT step.
 ```bash
 python3 build_content.py
 python3 check_integrity.py
+python3 -m unittest -v test_source_coverage.py
 node check_app_smoke.js
 python3 audit_variety.py
+python3 check_source_coverage.py --write-report
 ```
+
+For a whole-book completion claim, also run:
+```bash
+python3 check_source_coverage.py --require-all
+```
+This currently **fails intentionally**: only Ch 1–2 have recorded reviews under
+this standard. Do not create review manifests from page citations alone. After
+changing reviewed questions or unit guides, recheck the source mapping before
+updating the manifest content hash; otherwise builds will correctly refuse stale
+evidence. Existing completion badges and XP are preserved; revised Ch 1/2 guides
+recommend replay to cover the expanded questions.
