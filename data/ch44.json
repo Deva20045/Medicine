@@ -5,985 +5,985 @@
  "questions": [
   {
    "id": "MED-C44-001",
-   "sec": "Diabetes definition and three pillars",
+   "sec": "Introduction and classification of diabetes mellitus",
    "page": 917,
-   "fmt": "match",
-   "q": "Match the following criteria to the source's diagnostic pillars — 1) Fasting plasma glucose 2) 2-hour post-load 3) HbA1c … A) ≥126 mg/dL B) ≥200 mg/dL C) ≥6.5%",
+   "fmt": "recall",
+   "q": "The common presenting symptom written at the opening of this page is:",
    "opts": [
-    "1-A, 2-C, 3-B",
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
-    "1-C, 2-A, 3-B"
+    "Hypercalcemia",
+    "Hypernatremia",
+    "Hyperglycemia",
+    "Hypoglycemia"
    ],
    "ans": 2,
-   "exp": "The three pillars are fasting plasma glucose ≥126 mg/dL, 2-hour post-load ≥200 mg/dL and HbA1c ≥6.5%; any one confirms diabetes in the absence of symptoms. (Book p917)"
+   "exp": "The page names hyperglycemia as the common presenting symptom and lists endocrinopathy as the most common association. (Book p917)"
   },
   {
    "id": "MED-C44-002",
-   "sec": "Diabetes definition and three pillars",
+   "sec": "Introduction and classification of diabetes mellitus",
    "page": 917,
-   "fmt": "scenario",
-   "q": "An asymptomatic 50-year-old has fasting plasma glucose 132 mg/dL on two occasions. Which diagnostic label is most appropriate?",
+   "fmt": "fillup",
+   "q": "The classification notes identify ___ as the common presenting symptom.",
    "opts": [
-    "Impaired fasting glucose",
-    "Normal (alternative)",
-    "Hypoglycaemia (alternative)",
-    "Diabetes mellitus"
+    "Polyuria alone",
+    "Weight gain",
+    "Fever",
+    "Hyperglycemia"
    ],
    "ans": 3,
-   "exp": "FPG ≥126 mg/dL confirmed on repeat testing confirms diabetes in an asymptomatic adult. (Book p917)"
+   "exp": "Hyperglycemia is written as the common presenting symptom. (Book p917)"
   },
   {
    "id": "MED-C44-003",
-   "sec": "Diabetes definition and three pillars",
+   "sec": "Introduction and classification of diabetes mellitus",
    "page": 917,
-   "fmt": "truefalse",
-   "q": "Assess these diagnostic facts: I HbA1c ≥6.5% is diagnostic. II A single abnormal test is sufficient if symptomatic.",
+   "fmt": "match",
+   "q": "Match the following classification to the description — 1) Type 1 DM 2) Type 2 DM 3) Hybrid DM 4) GDM … A) Immune-mediated pancreatic destruction B) Insulin resistance C) Type 1.5 diabetes D) Gestational diabetes mellitus",
    "opts": [
-    "I true; II false",
-    "I false; II true",
-    "Both false",
-    "Both true"
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-B, 3-C, 4-D"
    ],
    "ans": 3,
-   "exp": "HbA1c ≥6.5% is one pillar of diagnosis; in symptomatic patients, a single random glucose ≥200 mg/dL with classic symptoms is diagnostic. (Book p917)"
+   "exp": "The page defines Type 1 as predominantly immune-mediated pancreatic destruction, Type 2 as insulin resistance, hybrid diabetes as Type 1.5, and GDM as gestational diabetes mellitus. (Book p917)"
   },
   {
    "id": "MED-C44-004",
-   "sec": "Diabetes definition and three pillars",
+   "sec": "Introduction and classification of diabetes mellitus",
    "page": 917,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a value NOT diagnostic of diabetes?",
+   "fmt": "truefalse",
+   "q": "Assess the first two classification notes: I Type 1 DM is described as predominantly immune mediated. II Type 2 DM is described as predominantly immune mediated.",
    "opts": [
-    "HbA1c 5.9%",
-    "HbA1c 7.0%",
-    "FPG 130 mg/dL",
-    "2-h PG 220 mg/dL"
+    "I true; II false",
+    "Both true",
+    "I false; II true",
+    "Both false"
    ],
    "ans": 0,
-   "exp": "HbA1c 5.9% is below the 6.5% threshold; HbA1c 7.0%, FPG 130 mg/dL and 2-h PG 220 mg/dL all meet diabetes criteria. (Book p917)"
+   "exp": "Type 1 is described as predominantly immune-mediated pancreatic destruction; Type 2 is described through insulin resistance. (Book p917)"
   },
   {
    "id": "MED-C44-005",
-   "sec": "Diabetes definition and three pillars",
+   "sec": "Introduction and classification of diabetes mellitus",
    "page": 917,
-   "fmt": "fillup",
-   "q": "The three pillars of diabetes diagnosis on this page are fasting glucose, 2-hour post-load and ___.",
+   "fmt": "scenario",
+   "q": "A learner is sorting the note's causes of pancreatic destruction in Type 2 DM. Which pair belongs together in the printed sequence?",
    "opts": [
-    "C-peptide",
-    "Fructosamine",
-    "1,5-AG (alternative)",
-    "HbA1c (correct answer)"
+    "Hypoxia and hypercalcemia",
+    "Ketosis and hypothermia",
+    "Bradycardia and anemia",
+    "Glucotoxicity and lipotoxicity"
    ],
    "ans": 3,
-   "exp": "HbA1c is the third pillar; C-peptide, fructosamine and 1,5-AG are alternative markers but not part of the three-pillar definition. (Book p917)"
+   "exp": "The Type 2 line links glucotoxicity and lipotoxicity with pancreatic destruction. (Book p917)"
   },
   {
    "id": "MED-C44-006",
-   "sec": "Diabetes definition and three pillars",
+   "sec": "Introduction and classification of diabetes mellitus",
    "page": 917,
-   "fmt": "match",
-   "q": "Match the following glucose state to its FPG / 2-h PG range — 1) Normal 2) Pre-diabetes / IGT 3) Diabetes … A) FPG <100, 2-h PG <140 B) FPG 100–125 or 2-h PG 140–199 C) FPG ≥126 or 2-h PG ≥200",
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the page's named diabetes categories?",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
-    "1-C, 2-A, 3-B",
-    "1-A, 2-C, 3-B"
+    "Hybrid diabetes",
+    "Cushing diabetes",
+    "Type 1 DM",
+    "Type 2 DM"
    ],
    "ans": 1,
-   "exp": "Normal FPG is <100 mg/dL and 2-h PG <140 mg/dL; pre-diabetes (IFG / IGT) is FPG 100–125 or 2-h PG 140–199; diabetes is ≥126 or ≥200. (Book p917)"
+   "exp": "Cushing diabetes is not one of the named categories in the classification list on this page; Type 1, Type 2 and hybrid diabetes are listed. (Book p917)"
   },
   {
    "id": "MED-C44-007",
-   "sec": "Diabetes definition and three pillars",
+   "sec": "Introduction and classification of diabetes mellitus",
    "page": 917,
-   "fmt": "scenario",
-   "q": "A 45-year-old has FPG 118 mg/dL, 2-h PG 175 mg/dL and HbA1c 6.1%. The most consistent diagnostic label is:",
+   "fmt": "numeric",
+   "q": "What percentage range is written beside Type 2 diabetes mellitus?",
    "opts": [
-    "Diabetes (alternative)",
-    "Normal (alternative)",
-    "Reactive hypoglycaemia",
-    "Pre-diabetes (combined IFG and IGT)"
+    "5–10%",
+    "20–25%",
+    "70–75%",
+    "90–95%"
    ],
    "ans": 3,
-   "exp": "Combined IFG (FPG 100–125) and IGT (2-h PG 140–199) with HbA1c 6.1% fits pre-diabetes. (Book p917)"
+   "exp": "The Type 2 diabetes mellitus entry is annotated with 90–95%. (Book p917)"
   },
   {
    "id": "MED-C44-008",
-   "sec": "Diabetes definition and three pillars",
+   "sec": "Introduction and classification of diabetes mellitus",
    "page": 917,
-   "fmt": "truefalse",
-   "q": "Assess diagnostic reproducibility: I A diagnosis requires confirmation on repeat testing in asymptomatic patients. II HbA1c can be falsely low in haemoglobinopathies.",
+   "fmt": "management",
+   "q": "A patient is using the artificial-pancreas arrangement shown on the page. Which sequence reflects the printed operation?",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "Sensor measures glucose, pump calculates insulin, smartphone displays readings and accepts carbohydrate input",
+    "Pump measures glucose, sensor injects insulin, smartphone stores ketones",
+    "Smartphone measures glucose, sensor gives glucagon, pump records meals",
+    "Sensor measures carbohydrates, pump gives saline, smartphone checks C-peptide"
    ],
    "ans": 0,
-   "exp": "Asymptomatic diagnosis is confirmed on repeat testing; HbA1c can be unreliable with haemoglobin variants, iron deficiency and pregnancy. (Book p917)"
+   "exp": "The artificial-pancreas note describes a skin sensor, wireless transmission to a pump that calculates insulin, and smartphone monitoring with carbohydrate input. (Book p917)"
   },
   {
    "id": "MED-C44-009",
-   "sec": "Diabetes definition and three pillars",
+   "sec": "Introduction and classification of diabetes mellitus",
    "page": 917,
    "fmt": "match",
-   "q": "Match the following state to its characteristic finding — 1) Normal 2) Pre-diabetes 3) Diabetes 4) Stress hyperglycaemia … A) HbA1c <5.7% B) HbA1c 5.7–6.4% C) HbA1c ≥6.5% D) Transient rise during acute illness",
+   "q": "Match the Type 3 branch to its printed example — 1) Type 3 diabetes 2) Type 3a 3) Type 3c 4) Type 3d … A) Alzheimer’s disease B) Parent category shown above the branches C) Pancreatic diabetes D) Drug-induced diabetes",
    "opts": [
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-B, 3-C, 4-D"
+    "1-A, 2-C, 3-D, 4-B",
+    "1-C, 2-D, 3-B, 4-A",
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-A, 3-C, 4-D"
    ],
    "ans": 3,
-   "exp": "HbA1c <5.7% is normal; 5.7–6.4% is pre-diabetes; ≥6.5% is diabetes; transient stress hyperglycaemia resolves with illness. (Book p917)"
+   "exp": "The page shows Type 3 branching to Alzheimer’s disease, Type 3c pancreatic diabetes, and Type 3d drug-induced diabetes. (Book p917)"
   },
   {
    "id": "MED-C44-010",
-   "sec": "Diabetes definition and three pillars",
+   "sec": "Introduction and classification of diabetes mellitus",
    "page": 917,
-   "fmt": "scenario",
-   "q": "An asymptomatic patient has HbA1c 7.2% on one occasion. The next step is:",
+   "fmt": "truefalse",
+   "q": "Assess the remaining labels: I Type 4 is called mild age-related diabetes. II MODY is expanded as maturity onset diabetes of young.",
    "opts": [
-    "Diagnose pre-diabetes (alternative)",
-    "Repeat the test on a different day to confirm",
-    "Start metformin immediately",
-    "Start insulin immediately"
+    "Both false",
+    "Both true",
+    "I true; II false",
+    "I false; II true"
    ],
    "ans": 1,
-   "exp": "Without symptoms, the test should be repeated; if confirmed, lifestyle and metformin are typical first steps. (Book p917)"
+   "exp": "Type 4 is labelled mild age-related diabetes (MARD), and MODY is expanded as maturity onset diabetes of young. (Book p917)"
   },
   {
    "id": "MED-C44-011",
-   "sec": "Diabetes definition and three pillars",
+   "sec": "Introduction and classification of diabetes mellitus",
    "page": 917,
-   "fmt": "recall",
-   "q": "Which value on this page is the diagnostic cut-off for HbA1c?",
+   "fmt": "scenario",
+   "q": "The Type 4 note links mild age-related diabetes with which immune-cell association?",
    "opts": [
-    "7.0%",
-    "8.0%",
-    "6.5%",
-    "5.7%"
+    "Plasma cells",
+    "Eosinophils",
+    "T-regulatory cells",
+    "Neutrophils"
    ],
    "ans": 2,
-   "exp": "HbA1c ≥6.5% is the diagnostic cut-off; 5.7–6.4% defines pre-diabetes. (Book p917)"
+   "exp": "The page places an association with T-regulatory cells below Type 4 mild age-related diabetes. (Book p917)"
   },
   {
    "id": "MED-C44-012",
-   "sec": "Diabetes definition and three pillars",
+   "sec": "Introduction and classification of diabetes mellitus",
    "page": 917,
-   "fmt": "fillup",
-   "q": "An HbA1c of 5.7–6.4% on this page defines ___.",
+   "fmt": "recall",
+   "q": "The diagram beside Alzheimer’s disease links insulin-degrading enzyme with degradation of insulin and:",
    "opts": [
-    "Normal (alternative)",
-    "Type 1 diabetes only",
-    "Pre-diabetes / increased risk",
-    "Diabetes (alternative)"
+    "SGLT-2",
+    "HbA1c",
+    "APO-Ba",
+    "GLUT-4"
    ],
    "ans": 2,
-   "exp": "HbA1c 5.7–6.4% indicates increased risk for diabetes (pre-diabetes); 6.5% is the diagnostic cut-off. (Book p917)"
+   "exp": "The Alzheimer’s branch depicts insulin-degrading enzyme and shows degradation of insulin and APO-Ba before APO-Ba accumulation. (Book p917)"
   },
   {
    "id": "MED-C44-013",
-   "sec": "Diabetes definition and three pillars",
+   "sec": "Introduction and classification of diabetes mellitus",
    "page": 917,
-   "fmt": "truefalse",
-   "q": "Assess additional tests: I Oral glucose tolerance test is more sensitive than FPG. IIGAD antibody screening is part of routine diagnosis.",
+   "fmt": "fillup",
+   "q": "The abbreviation GDM on this page expands to ___.",
    "opts": [
-    "I true; II false",
-    "I false; II true",
-    "Both true",
-    "Both false"
+    "Glucose-dependent metabolism",
+    "General diabetic mechanism",
+    "Glycogen-depleted muscle",
+    "Gestational diabetes mellitus"
    ],
    "ans": 3,
-   "exp": "OGTT is more sensitive than FPG for detecting IGT; GAD antibodies are used for classification after diagnosis, not routine diagnosis. (Book p917)"
+   "exp": "GDM is written as gestational diabetes mellitus in the classification list. (Book p917)"
   },
   {
    "id": "MED-C44-014",
-   "sec": "Ominous octet and pathophysiology of T2DM",
+   "sec": "Pathophysiology: three pillars and ominous octet",
    "page": 918,
-   "fmt": "match",
-   "q": "Match the following organ to its role in the ominous octet — 1) Liver 2) Pancreas (β-cell) 3) Skeletal muscle 4) Adipocyte … A) Increased gluconeogenesis B) Decreased insulin secretion C) Impaired GLUT4 translocation D) Increased lipolysis",
+   "fmt": "recall",
+   "q": "The page's older-discoveries diagram begins with how many pillars?",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-B, 2-A, 3-C, 4-D"
+    "3",
+    "2",
+    "5",
+    "8"
    ],
    "ans": 0,
-   "exp": "The octet identifies liver (↑ gluconeogenesis), pancreas (↓ secretion), muscle (impaired GLUT4) and fat (↑ lipolysis) as four of the eight defects. (Book p918)"
+   "exp": "The heading immediately above the liver, pancreas and skeletal-muscle diagram is 3 pillars. (Book p918)"
   },
   {
    "id": "MED-C44-015",
-   "sec": "Ominous octet and pathophysiology of T2DM",
-   "page": 918,
-   "fmt": "scenario",
-   "q": "A T2DM patient has fasting hyperglycaemia despite normal insulin sensitivity on clamp. Which octet member is most directly implicated?",
-   "opts": [
-    "Decreased hepatic gluconeogenesis (correct answer)",
-    "Increased hepatic gluconeogenesis (most important per source)",
-    "Impaired adipocyte lipolysis (alternative)",
-    "Increased intestinal GLP-1 (alternative)"
-   ],
-   "ans": 0,
-   "exp": "The page marks increased hepatic gluconeogenesis as the most important driver of fasting hyperglycaemia in T2DM. (Book p918)"
-  },
-  {
-   "id": "MED-C44-016",
-   "sec": "Ominous octet and pathophysiology of T2DM",
-   "page": 918,
-   "fmt": "truefalse",
-   "q": "Assess the octet: I β-cell dysfunction in T2DM is reversible with early therapy. II Skeletal muscle insulin resistance precedes β-cell failure.",
-   "opts": [
-    "I true; II false",
-    "I false; II true",
-    "Both false",
-    "Both true"
-   ],
-   "ans": 3,
-   "exp": "β-cell dysfunction in T2DM is largely irreversible once established; muscle insulin resistance typically precedes β-cell exhaustion. (Book p918)"
-  },
-  {
-   "id": "MED-C44-017",
-   "sec": "Ominous octet and pathophysiology of T2DM",
-   "page": 918,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a tissue where insulin normally increases glucose uptake via GLUT4?",
-   "opts": [
-    "Adipose tissue",
-    "Liver (correct answer)",
-    "Skeletal muscle",
-    "Cardiac muscle"
-   ],
-   "ans": 1,
-   "exp": "Liver uses GLUT2 (insulin-independent), whereas skeletal muscle, cardiac muscle and adipose tissue depend on insulin-stimulated GLUT4 translocation. (Book p918)"
-  },
-  {
-   "id": "MED-C44-018",
-   "sec": "Ominous octet and pathophysiology of T2DM",
-   "page": 918,
-   "fmt": "fillup",
-   "q": "Per the page, the single most important contributor to fasting hyperglycaemia in T2DM is increased ___.",
-   "opts": [
-    "Adipocyte browning",
-    "Hepatic gluconeogenesis",
-    "Renal glucose reabsorption",
-    "Incretin effect"
-   ],
-   "ans": 1,
-   "exp": "Increased hepatic gluconeogenesis is the most important driver of fasting hyperglycaemia in T2DM on this page. (Book p918)"
-  },
-  {
-   "id": "MED-C44-019",
-   "sec": "Ominous octet and pathophysiology of T2DM",
+   "sec": "Pathophysiology: three pillars and ominous octet",
    "page": 918,
    "fmt": "match",
-   "q": "Match the following organ to its insulin-resistance effect — 1) Liver 2) Muscle 3) Adipocyte 4) Brain … A) ↑Gluconeogenesis B) ↓GLUT4-mediated uptake C) ↑Lipolysis / FFA flux D) Insulin-independent GLUT1 uptake",
+   "q": "Match the three pillar to the printed abnormality — 1) Liver 2) Pancreas 3) Skeletal muscle … A) Increased gluconeogenesis with increased glucose output B) Defective insulin secretion from beta cells C) Impaired receptor function and insulin-dependent glucose-uptake impairment",
    "opts": [
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B"
-   ],
-   "ans": 1,
-   "exp": "Insulin resistance in liver drives gluconeogenesis; in muscle impairs GLUT4; in adipose tissue increases lipolysis with FFA flux; brain glucose uptake is insulin-independent via GLUT1. (Book p918)"
-  },
-  {
-   "id": "MED-C44-020",
-   "sec": "Ominous octet and pathophysiology of T2DM",
-   "page": 918,
-   "fmt": "scenario",
-   "q": "An obese T2DM patient has high portal free-fatty-acid flux. The downstream effect on the liver is most consistent with:",
-   "opts": [
-    "Reduced ketogenesis (alternative)",
-    "Increased hepatic gluconeogenesis and steatosis",
-    "Decreased very-low-density lipoprotein output",
-    "Increased glycogenolysis (alternative)"
-   ],
-   "ans": 1,
-   "exp": "Portal FFA flux drives hepatic gluconeogenesis and steatosis; it does not decrease VLDL output. (Book p918)"
-  },
-  {
-   "id": "MED-C44-021",
-   "sec": "Ominous octet and pathophysiology of T2DM",
-   "page": 918,
-   "fmt": "truefalse",
-   "q": "Assess this caveat: I CPT-1 is physiologically absent in liver; fatty-acyl-CoA accumulation in the schematic leads to insulin resistance. II Insulin normally suppresses hormone-sensitive lipase in adipocytes.",
-   "opts": [
-    "I true; II false",
-    "I false; II true",
-    "Both true",
-    "Both false"
-   ],
-   "ans": 3,
-   "exp": "The schematic depicts CPT-1 as 'Absent in liver' which is biologically inaccurate; insulin normally suppresses HSL in adipocytes. (Book p918)"
-  },
-  {
-   "id": "MED-C44-022",
-   "sec": "Ominous octet and pathophysiology of T2DM",
-   "page": 918,
-   "fmt": "match",
-   "q": "Match the following defect to the source's description — 1) β-cell 2) α-cell 3) Incretin axis 4) Kidney … A) Decreased insulin secretion B) Hyperglucagonaemia C) Reduced GLP-1 effect D) Increased glucose reabsorption (SGLT2)",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-A, 3-B, 4-C"
-   ],
-   "ans": 0,
-   "exp": "β-cell defect is decreased insulin secretion; α-cell shows hyperglucagonaemia; incretin axis is reduced GLP-1 effect; the kidney shows increased SGLT2-mediated glucose reabsorption. (Book p918)"
-  },
-  {
-   "id": "MED-C44-023",
-   "sec": "Ominous octet and pathophysiology of T2DM",
-   "page": 918,
-   "fmt": "scenario",
-   "q": "Which drug class targets the kidney component of the ominous octet?",
-   "opts": [
-    "α-Glucosidase inhibitors",
-    "SGLT2 inhibitors",
-    "Sulfonylureas (alternative)",
-    "Thiazolidinediones"
-   ],
-   "ans": 1,
-   "exp": "SGLT2 inhibitors reduce renal glucose reabsorption; sulfonylureas target the β-cell; TZDs target adipose tissue; α-glucosidase inhibitors target intestinal carbohydrate absorption. (Book p918)"
-  },
-  {
-   "id": "MED-C44-024",
-   "sec": "Ominous octet and pathophysiology of T2DM",
-   "page": 918,
-   "fmt": "recall",
-   "q": "Which organ provides the dominant source of fasting endogenous glucose in T2DM?",
-   "opts": [
-    "Liver (correct answer)",
-    "Kidney (alternative)",
-    "Skeletal muscle",
-    "Brain (alternative)"
-   ],
-   "ans": 0,
-   "exp": "Hepatic gluconeogenesis dominates fasting glucose production in T2DM. (Book p918)"
-  },
-  {
-   "id": "MED-C44-025",
-   "sec": "Ominous octet and pathophysiology of T2DM",
-   "page": 918,
-   "fmt": "fillup",
-   "q": "The 'ominous octet' highlights defects in pancreas, liver, muscle, fat, brain, gut (incretin), kidney and ___.",
-   "opts": [
-    "Bone marrow (alternative)",
-    "Lymph node (alternative)",
-    "α-cell (hyperglucagonaemia)",
-    "Spleen (alternative)"
-   ],
-   "ans": 2,
-   "exp": "α-cell hyperglucagonaemia is the eighth member; the others include incretin deficiency, SGLT2 upregulation and CNS dysregulation. (Book p918)"
-  },
-  {
-   "id": "MED-C44-026",
-   "sec": "Ominous octet and pathophysiology of T2DM",
-   "page": 918,
-   "fmt": "truefalse",
-   "q": "Assess incretin physiology: I GLP-1 and GIP are secreted by intestinal cells. II The incretin effect is preserved in T2DM.",
-   "opts": [
-    "Both true",
-    "Both false",
-    "I true; II false",
-    "I false; II true"
-   ],
-   "ans": 1,
-   "exp": "GLP-1 (L-cells) and GIP (K-cells) are secreted by the gut; the incretin effect is reduced in T2DM, prompting GLP-1 agonist therapy. (Book p918)"
-  },
-  {
-   "id": "MED-C44-027",
-   "sec": "Dirty dozen, classification, diagnostics",
-   "page": 919,
-   "fmt": "match",
-   "q": "Match the following classification to its example — 1) Type 1 2) Type 2 3) Gestational 4) Other specific types … A) Autoimmune β-cell destruction B) Insulin resistance with relative insulin deficiency C) Onset in pregnancy D) Monogenic, drug-induced, pancreatic disease",
-   "opts": [
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-B, 3-C, 4-A",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D"
-   ],
-   "ans": 2,
-   "exp": "Type 1 is autoimmune β-cell destruction; Type 2 is insulin resistance with relative insulin deficiency; GDM is diagnosed in pregnancy; 'other specific types' include monogenic, drug-induced and pancreatic diabetes. (Book p919)"
-  },
-  {
-   "id": "MED-C44-028",
-   "sec": "Dirty dozen, classification, diagnostics",
-   "page": 919,
-   "fmt": "scenario",
-   "q": "A 12-year-old presents with polyuria, polydipsia, weight loss and DKA. Anti-GAD is positive. The diagnosis is:",
-   "opts": [
-    "MODY (alternative)",
-    "Gestational diabetes",
-    "Type 1 diabetes",
-    "Type 2 diabetes"
-   ],
-   "ans": 2,
-   "exp": "Children with DKA and positive GAD have autoimmune Type 1 diabetes, not Type 2 or MODY. (Book p919)"
-  },
-  {
-   "id": "MED-C44-029",
-   "sec": "Dirty dozen, classification, diagnostics",
-   "page": 919,
-   "fmt": "truefalse",
-   "q": "Assess classification: I Type 2 diabetes is the most common form worldwide. II Latent autoimmune diabetes of adults (LADA) is a slow Type 1 variant.",
-   "opts": [
-    "I false; II true",
-    "Both false",
-    "Both true",
-    "I true; II false"
-   ],
-   "ans": 2,
-   "exp": "Type 2 is the most common form; LADA is autoimmune diabetes in adults that is initially non-insulin requiring but slowly progresses. (Book p919)"
-  },
-  {
-   "id": "MED-C44-030",
-   "sec": "Dirty dozen, classification, diagnostics",
-   "page": 919,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a 'dirty dozen' cause of secondary diabetes?",
-   "opts": [
-    "Pancreatitis-induced (alternative)",
-    "Endocrine (Cushing)",
-    "Drug-induced (glucocorticoids)",
-    "Autoimmune polyglandular syndrome type 2"
-   ],
-   "ans": 3,
-   "exp": "Autoimmune polyglandular syndrome type 2 is associated with autoimmune diabetes (Type 1-like), not classical secondary 'dirty dozen' causes like pancreatitis, Cushing or steroids. (Book p919)"
-  },
-  {
-   "id": "MED-C44-031",
-   "sec": "Dirty dozen, classification, diagnostics",
-   "page": 919,
-   "fmt": "fillup",
-   "q": "Monogenic diabetes caused by HNF1A mutations and responsive to low-dose sulfonylureas is also known as ___.",
-   "opts": [
-    "MODY 2 (GCK-MODY)",
-    "Wolfram syndrome",
-    "Rabson-Mendenhall syndrome",
-    "MODY 3 (HNF1A-MODY)"
-   ],
-   "ans": 3,
-   "exp": "MODY 3 (HNF1A) is the classic sulfonylurea-responsive monogenic diabetes; MODY 2 (GCK) is typically diet-controlled. (Book p919)"
-  },
-  {
-   "id": "MED-C44-032",
-   "sec": "Dirty dozen, classification, diagnostics",
-   "page": 919,
-   "fmt": "match",
-   "q": "Match the following MODY subtype to its key feature — 1) HNF1A-MODY (MODY 3) 2) GCK-MODY (MODY 2) 3) HNF4A-MODY (MODY 1) … A) Sulfonylurea-responsive, progressive B) Mild stable hyperglycaemia, often no Rx C) Macrosomia + neonatal hypoglycaemia then diabetes",
-   "opts": [
-    "1-A, 2-C, 3-B",
-    "1-C, 2-B, 3-A",
     "1-A, 2-B, 3-C",
-    "1-B, 2-A, 3-C"
-   ],
-   "ans": 2,
-   "exp": "HNF1A-MODY (MODY 3) is sulfonylurea-responsive and progressive; GCK-MODY (MODY 2) is mild and usually not treated; HNF4A-MODY is associated with macrosomia and neonatal hypoglycaemia. (Book p919)"
-  },
-  {
-   "id": "MED-C44-033",
-   "sec": "Dirty dozen, classification, diagnostics",
-   "page": 919,
-   "fmt": "scenario",
-   "q": "A 24-year-old with mild fasting hyperglycaemia and a family history of 'mild diabetes' across three generations has HbA1c 6.0%. Genetic testing is most likely to find:",
-   "opts": [
-    "GCK mutation (MODY 2)",
-    "HNF1A mutation (MODY 3)",
-    "GAD antibodies",
-    "Insulin gene mutation"
-   ],
-   "ans": 0,
-   "exp": "Mild stable hyperglycaemia across generations fits GCK-MODY (MODY 2); HNF1A-MODY is progressive and typically requires treatment. (Book p919)"
-  },
-  {
-   "id": "MED-C44-034",
-   "sec": "Dirty dozen, classification, diagnostics",
-   "page": 919,
-   "fmt": "truefalse",
-   "q": "Assess autoimmune screening: I GAD, IA-2 and ZnT8 antibodies classify autoimmune diabetes. II Antibody-negative autoimmune diabetes is impossible.",
-   "opts": [
-    "I true; II false",
-    "I false; II true",
-    "Both true",
-    "Both false"
-   ],
-   "ans": 3,
-   "exp": "GAD, IA-2 and ZnT8 are the principal autoantibodies; a small subset of autoimmune diabetes is antibody-negative (so-called idiopathic Type 1). (Book p919)"
-  },
-  {
-   "id": "MED-C44-035",
-   "sec": "Dirty dozen, classification, diagnostics",
-   "page": 919,
-   "fmt": "match",
-   "q": "Match the following test to its role — 1) Fasting glucose 2) 2-hour OGTT 3) HbA1c 4) C-peptide … A) Screening and diagnosis B) Sensitive for IGT C) Reflects chronic glycemia D) Endogenous insulin secretion",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-B, 3-C, 4-A"
-   ],
-   "ans": 0,
-   "exp": "Fasting glucose is the workhorse screening test; OGTT is most sensitive for IGT; HbA1c reflects chronic glycemia; C-peptide reflects endogenous insulin secretion. (Book p919)"
-  },
-  {
-   "id": "MED-C44-036",
-   "sec": "Dirty dozen, classification, diagnostics",
-   "page": 919,
-   "fmt": "scenario",
-   "q": "A 50-year-old has fasting glucose 105 mg/dL but 2-hour post-load 168 mg/dL. The most consistent label is:",
-   "opts": [
-    "Isolated impaired glucose tolerance",
-    "Combined IFG and IGT",
-    "Diabetes (alternative)",
-    "Normal (alternative)"
-   ],
-   "ans": 0,
-   "exp": "2-hour glucose 140–199 with normal FPG is isolated IGT. (Book p919)"
-  },
-  {
-   "id": "MED-C44-037",
-   "sec": "Dirty dozen, classification, diagnostics",
-   "page": 919,
-   "fmt": "fillup",
-   "q": "The diagnostic 75-g OGTT detects ___ more sensitively than fasting glucose.",
-   "opts": [
-    "Pancreatic cancer",
-    "Insulinoma (alternative)",
-    "Impaired glucose tolerance",
-    "Autoimmune diabetes"
-   ],
-   "ans": 2,
-   "exp": "The 75-g OGTT detects IGT earlier than fasting glucose. (Book p919)"
-  },
-  {
-   "id": "MED-C44-038",
-   "sec": "Dirty dozen, classification, diagnostics",
-   "page": 919,
-   "fmt": "truefalse",
-   "q": "Assess fructosamine and 1,5-AG: I They reflect shorter-term glycemia than HbA1c. II They are useful when HbA1c is unreliable.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Fructosamine and 1,5-AG reflect 2–3 weeks of glycemia, useful in pregnancy or haemoglobinopathies where HbA1c is unreliable. (Book p919)"
-  },
-  {
-   "id": "MED-C44-039",
-   "sec": "Dirty dozen, classification, diagnostics",
-   "page": 919,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a test that does NOT assess chronic glycaemia?",
-   "opts": [
-    "HbA1c (alternative)",
-    "Fructosamine",
-    "1,5-anhydroglucitol",
-    "Random plasma glucose"
-   ],
-   "ans": 3,
-   "exp": "Random plasma glucose is a snapshot; HbA1c, fructosamine and 1,5-AG all integrate glycaemia over different windows. (Book p919)"
-  },
-  {
-   "id": "MED-C44-040",
-   "sec": "Pre-DM treatment, screening, HbA1c targets",
-   "page": 920,
-   "fmt": "match",
-   "q": "Match the following pre-diabetes interventions — 1) Lifestyle 2) Metformin 3) Bariatric surgery 4) Insulin sensitisers (TZDs) … A) 7% weight loss + 150 min/week activity B) Considered in high-risk patients <60 yr C) For BMI ≥35 with comorbidities D) Pioglitazone reduced progression",
-   "opts": [
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-A, 3-B, 4-C",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D"
-   ],
-   "ans": 2,
-   "exp": "Lifestyle with 7% weight loss and 150 min/week activity is first-line; metformin is added in high-risk patients under 60; bariatric surgery is for BMI ≥35 with comorbidities; pioglitazone has RCT evidence for progression reduction. (Book p920)"
-  },
-  {
-   "id": "MED-C44-041",
-   "sec": "Pre-DM treatment, screening, HbA1c targets",
-   "page": 920,
-   "fmt": "scenario",
-   "q": "A 45-year-old BMI 32 has pre-diabetes with HbA1c 6.3%. Three months of lifestyle change produced no improvement. The most consistent next step is:",
-   "opts": [
-    "Start insulin",
-    "Start sulfonylurea",
-    "Start SGLT2 inhibitor",
-    "Add metformin"
-   ],
-   "ans": 3,
-   "exp": "Metformin is added for high-risk pre-diabetes patients with persistent hyperglycaemia despite lifestyle change. (Book p920)"
-  },
-  {
-   "id": "MED-C44-042",
-   "sec": "Pre-DM treatment, screening, HbA1c targets",
-   "page": 920,
-   "fmt": "truefalse",
-   "q": "Assess pre-diabetes screening: I BMI ≥25 (printed as 'overweight') plus another risk factor is the threshold. II Screening begins at age 25–60 (printed '2–60').",
-   "opts": [
-    "Both false",
-    "Both true",
-    "I true; II false",
-    "I false; II true"
-   ],
-   "ans": 1,
-   "exp": "Screening is recommended for BMI ≥25 plus risk factors; ADA typically recommends starting at age 35, not 25–60 (note: the source's 'Age 2-60yrs' is an inconsistency that should be flagged as the typical ADA recommendation is ≥35). (Book p920)"
-  },
-  {
-   "id": "MED-C44-043",
-   "sec": "Pre-DM treatment, screening, HbA1c targets",
-   "page": 920,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out among metformin contraindications?",
-   "opts": [
-    "eGFR <30 mL/min/1.73 m²",
-    "Active hepatic failure",
-    "Acute or chronic alcoholism",
-    "eGFR ≥45 mL/min/1.73 m²"
-   ],
-   "ans": 3,
-   "exp": "eGFR ≥45 is not a contraindication; the others are contraindications or cautions (eGFR <30 contraindication, hepatic failure and alcoholism caution). (Book p920)"
-  },
-  {
-   "id": "MED-C44-044",
-   "sec": "Pre-DM treatment, screening, HbA1c targets",
-   "page": 920,
-   "fmt": "fillup",
-   "q": "The page's metformin dose threshold for withholding in CKD is eGFR < ___ mL/min/1.73 m².",
-   "opts": [
-    "60",
-    "30",
-    "15",
-    "45"
-   ],
-   "ans": 1,
-   "exp": "Metformin is contraindicated at eGFR <30; dose-reduced between 30–45. (Book p920)"
-  },
-  {
-   "id": "MED-C44-045",
-   "sec": "Pre-DM treatment, screening, HbA1c targets",
-   "page": 920,
-   "fmt": "match",
-   "q": "Match the following target to the population — 1) Most non-pregnant adults with diabetes 2) Older / frail with comorbidities 3) Pregnancy with pre-existing diabetes … A) HbA1c <7% B) HbA1c 7.5–8% or higher C) HbA1c <6–6.5% if achievable without hypoglycaemia",
-   "opts": [
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
     "1-C, 2-A, 3-B",
     "1-A, 2-C, 3-B"
    ],
+   "ans": 0,
+   "exp": "The page maps liver to increased gluconeogenesis and glucose output, pancreas to defective beta-cell insulin secretion, and skeletal muscle to impaired receptor function and glucose uptake. (Book p918)"
+  },
+  {
+   "id": "MED-C44-016",
+   "sec": "Pathophysiology: three pillars and ominous octet",
+   "page": 918,
+   "fmt": "fillup",
+   "q": "The skeletal-muscle pillar names insulin-dependent glucose uptake through ___.",
+   "opts": [
+    "GLUT-1",
+    "SGLT-1",
+    "SGLT-2",
+    "GLUT-4"
+   ],
+   "ans": 3,
+   "exp": "The skeletal-muscle column explicitly names GLUT-4 in insulin-dependent glucose uptake. (Book p918)"
+  },
+  {
+   "id": "MED-C44-017",
+   "sec": "Pathophysiology: three pillars and ominous octet",
+   "page": 918,
+   "fmt": "truefalse",
+   "q": "Assess the three-pillar notes: I The liver line calls increased gluconeogenesis the most important factor. II The skeletal-muscle line describes insulin resistance.",
+   "opts": [
+    "Both false",
+    "Both true",
+    "I true; II false",
+    "I false; II true"
+   ],
    "ans": 1,
-   "exp": "Most adults target HbA1c <7%; older frail patients tolerate 7.5–8%; pregnancy pre-existing diabetes aims for <6.5% if achievable safely. (Book p920)"
+   "exp": "The liver column marks increased gluconeogenesis as the most important factor, while the skeletal-muscle column ends in insulin resistance. (Book p918)"
+  },
+  {
+   "id": "MED-C44-018",
+   "sec": "Pathophysiology: three pillars and ominous octet",
+   "page": 918,
+   "fmt": "numeric",
+   "q": "What does the page give for the ominous octet's count?",
+   "opts": [
+    "8 previous and 2 new factors",
+    "5 previous and 5 new factors",
+    "3 previous and 5 new factors",
+    "5 previous and 3 new factors"
+   ],
+   "ans": 1,
+   "exp": "The ominous-octet heading states that it involves previous 5 and 5 new factors. (Book p918)"
+  },
+  {
+   "id": "MED-C44-019",
+   "sec": "Pathophysiology: three pillars and ominous octet",
+   "page": 918,
+   "fmt": "match",
+   "q": "Match the ominous-octet label to the note below it — 1) G 2) P 3) R 4) A … A) Incretin effect B) Pancreas with increased glucagon production C) Renal activation of SGLT-2 D) Adipose tissue with centripetal obesity",
+   "opts": [
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 1,
+   "exp": "The octet row gives G for gut/incretin effect, P for pancreas/increased glucagon, R for renal SGLT-2 activation, and A for adipose tissue/centripetal obesity. (Book p918)"
+  },
+  {
+   "id": "MED-C44-020",
+   "sec": "Pathophysiology: three pillars and ominous octet",
+   "page": 918,
+   "fmt": "scenario",
+   "q": "The renal branch in the printed flowchart shows increased SGLT-2 activation followed by increased absorption of:",
+   "opts": [
+    "Urea, urate and magnesium",
+    "Glucose, sodium and water",
+    "Calcium, chloride and phosphate",
+    "Protein, bicarbonate and potassium"
+   ],
+   "ans": 1,
+   "exp": "The renal branch shows increased SGLT-2 activation, increased glucose, sodium and water absorption, and oedema. (Book p918)"
+  },
+  {
+   "id": "MED-C44-021",
+   "sec": "Pathophysiology: three pillars and ominous octet",
+   "page": 918,
+   "fmt": "management",
+   "q": "Which target is named by the page for the renal component of the ominous octet?",
+   "opts": [
+    "GLUT-4",
+    "Hormone-sensitive lipase",
+    "Carnitine palmitoyl transferase",
+    "SGLT-2"
+   ],
+   "ans": 3,
+   "exp": "The renal arm of the printed octet specifically identifies increased SGLT-2 activation. (Book p918)"
+  },
+  {
+   "id": "MED-C44-022",
+   "sec": "Pathophysiology: three pillars and ominous octet",
+   "page": 918,
+   "fmt": "truefalse",
+   "q": "Assess the adipose-tissue flowchart: I Centripetal obesity converts alpha-3 receptors to beta-3 receptors. II The beta-3 receptor line increases lipolysis by hormone-sensitive lipase.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The adipose-tissue diagram shows centripetal obesity, conversion to beta-3 receptor activity, and increased lipolysis by hormone-sensitive lipase. (Book p918)"
+  },
+  {
+   "id": "MED-C44-023",
+   "sec": "Pathophysiology: three pillars and ominous octet",
+   "page": 918,
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the four tissues explicitly listed in the skeletal-muscle note for GLUT-4?",
+   "opts": [
+    "Adipose tissue",
+    "Liver",
+    "Skeletal muscle",
+    "Heart"
+   ],
+   "ans": 1,
+   "exp": "The GLUT-4 box lists skeletal muscle, heart and adipose tissue; liver is not in that box. (Book p918)"
+  },
+  {
+   "id": "MED-C44-024",
+   "sec": "Pathophysiology: three pillars and ominous octet",
+   "page": 918,
+   "fmt": "recall",
+   "q": "After increased free fatty acids reach the liver through the portal system, the highlighted main substrate for increased gluconeogenesis is:",
+   "opts": [
+    "FFA",
+    "Lactate",
+    "Glycerol only",
+    "Alanine"
+   ],
+   "ans": 0,
+   "exp": "The flowchart labels FFA as the main substrate leading to increased gluconeogenesis in the liver. (Book p918)"
+  },
+  {
+   "id": "MED-C44-025",
+   "sec": "Pathophysiology: three pillars and ominous octet",
+   "page": 918,
+   "fmt": "fillup",
+   "q": "The bottom note states that insulin also plays a role in T2DM by acting on ___.",
+   "opts": [
+    "SGLT-1",
+    "GAD",
+    "HSL",
+    "DPP-4"
+   ],
+   "ans": 2,
+   "exp": "The final note on the page reads that insulin acts on HSL and plays a role in T2DM too. (Book p918)"
+  },
+  {
+   "id": "MED-C44-026",
+   "sec": "Pathophysiology: three pillars and ominous octet",
+   "page": 918,
+   "fmt": "scenario",
+   "q": "In the page's adipose-to-liver sequence, increased lipolysis produces increased ___ that travels through the portal system.",
+   "opts": [
+    "Glucagon",
+    "FFA",
+    "Insulin",
+    "C-peptide"
+   ],
+   "ans": 1,
+   "exp": "The printed sequence runs through increased FFA via the portal system to the liver. (Book p918)"
+  },
+  {
+   "id": "MED-C44-027",
+   "sec": "Newer discoveries, diagnostic criteria and pre-diabetes",
+   "page": 919,
+   "fmt": "recall",
+   "q": "In the mnemonic 'Dirty dozen', the letter D is paired with decreased:",
+   "opts": [
+    "Dopamine receptors",
+    "Dopamine clearance",
+    "Dopamine activity",
+    "Dopamine synthesis"
+   ],
+   "ans": 2,
+   "exp": "Under Dirty dozen, D is written as decreased dopamine activity. (Book p919)"
+  },
+  {
+   "id": "MED-C44-028",
+   "sec": "Newer discoveries, diagnostic criteria and pre-diabetes",
+   "page": 919,
+   "fmt": "match",
+   "q": "Match the mnemonic letter to the printed newer-discovery item — 1) D 2) D (second line) 3) G 4) R … A) Decreased dopamine activity B) Decreased vitamin-D level C) Hypogonadism with decreased testosterone D) Renin–aldosterone-system activation",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 2,
+   "exp": "The Dirty dozen lines list decreased dopamine activity, decreased vitamin-D level, hypogonadism with decreased testosterone, and renin–aldosterone-system activation. (Book p919)"
+  },
+  {
+   "id": "MED-C44-029",
+   "sec": "Newer discoveries, diagnostic criteria and pre-diabetes",
+   "page": 919,
+   "fmt": "fillup",
+   "q": "The 'Treacherous 13' adds serotonin, which increases hormone-sensitive ___.",
+   "opts": [
+    "phosphatase",
+    "transporter",
+    "lipase",
+    "kinase"
+   ],
+   "ans": 2,
+   "exp": "The Treacherous 13 line reads dirty dozen plus serotonin leading to increased hormone-sensitive lipase. (Book p919)"
+  },
+  {
+   "id": "MED-C44-030",
+   "sec": "Newer discoveries, diagnostic criteria and pre-diabetes",
+   "page": 919,
+   "fmt": "truefalse",
+   "q": "Assess the three mnemonic lines: I Treacherous 13 is Dirty dozen plus serotonin. II Faithless 14 adds iron in the beta-cell.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both false",
+    "Both true"
+   ],
+   "ans": 3,
+   "exp": "The page explicitly defines Treacherous 13 as Dirty dozen plus serotonin and Faithless 14 as Treacherous 13 plus iron in the beta-cell. (Book p919)"
+  },
+  {
+   "id": "MED-C44-031",
+   "sec": "Newer discoveries, diagnostic criteria and pre-diabetes",
+   "page": 919,
+   "fmt": "scenario",
+   "q": "In the final mnemonic, iron in the beta-cell is associated on the page with:",
+   "opts": [
+    "Oedema and bradycardia",
+    "Hypocalcemia and tremor",
+    "Polyuria and fever",
+    "Toxicity and resistance"
+   ],
+   "ans": 3,
+   "exp": "Faithless 14 is annotated as iron in the beta-cell causing toxicity and resistance. (Book p919)"
+  },
+  {
+   "id": "MED-C44-032",
+   "sec": "Newer discoveries, diagnostic criteria and pre-diabetes",
+   "page": 919,
+   "fmt": "numeric",
+   "q": "How many of the four diagnostic criteria does the page require for diabetes in its flowchart?",
+   "opts": [
+    "At least 3 out of 4",
+    "All 4 criteria",
+    "At least 1 out of 4",
+    "At least 2 out of 4"
+   ],
+   "ans": 2,
+   "exp": "The diabetes flowchart places '≥1 out of 4' over the four diagnostic branches. (Book p919)"
+  },
+  {
+   "id": "MED-C44-033",
+   "sec": "Newer discoveries, diagnostic criteria and pre-diabetes",
+   "page": 919,
+   "fmt": "match",
+   "q": "Match the diagnostic branch to its printed cut-off — 1) HbA1c 2) Fasting plasma glucose 3) 2-hour postprandial plasma glucose 4) RBS with symptoms … A) ≥6.5% B) ≥126 mg/dL C) 75-g glucose ≥200 mg/dL D) ≥200 mg/dL",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "The four branches are HbA1c ≥6.5%, fasting glucose ≥126 mg/dL, 2-hour postprandial glucose after 75-g glucose ≥200 mg/dL, and RBS ≥200 mg/dL with clinical symptoms. (Book p919)"
+  },
+  {
+   "id": "MED-C44-034",
+   "sec": "Newer discoveries, diagnostic criteria and pre-diabetes",
+   "page": 919,
+   "fmt": "management",
+   "q": "An RBS value reaches the threshold on this page and the patient has the listed classic symptoms. Which action is supported by the flowchart?",
+   "opts": [
+    "Use only the HbA1c branch",
+    "Use only the fasting branch",
+    "Label the value as normal",
+    "Recognize diabetes using RBS ≥200 mg/dL plus clinical symptoms"
+   ],
+   "ans": 3,
+   "exp": "The page's fourth branch pairs RBS ≥200 mg/dL with clinical symptoms for the diabetes diagnosis. (Book p919)"
+  },
+  {
+   "id": "MED-C44-035",
+   "sec": "Newer discoveries, diagnostic criteria and pre-diabetes",
+   "page": 919,
+   "fmt": "truefalse",
+   "q": "Assess the symptom arrows: I Hyperosmotic glucose draws water from the cell. II The page links weight loss with decreased effective-volume depletion.",
+   "opts": [
+    "I true; II false",
+    "Both true",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The page links increased glucose to hyperosmotic water movement from cells and links weight loss to decreased effective volume depletion and increased catabolic effect. (Book p919)"
+  },
+  {
+   "id": "MED-C44-036",
+   "sec": "Newer discoveries, diagnostic criteria and pre-diabetes",
+   "page": 919,
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the classic symptoms written beside the RBS branch?",
+   "opts": [
+    "Hemoptysis",
+    "Polyuria",
+    "Polydipsia",
+    "Weight loss"
+   ],
+   "ans": 0,
+   "exp": "Polyuria, polydipsia and weight loss are listed beside the RBS branch; hemoptysis is not. (Book p919)"
+  },
+  {
+   "id": "MED-C44-037",
+   "sec": "Newer discoveries, diagnostic criteria and pre-diabetes",
+   "page": 919,
+   "fmt": "recall",
+   "q": "The page states that what percentage of patients become diabetic every year in the pre-diabetes section?",
+   "opts": [
+    "25–30%",
+    "50–60%",
+    "10–15%",
+    "1–2%"
+   ],
+   "ans": 2,
+   "exp": "The pre-diabetes heading is followed by the statement that 10–15% of patients become diabetic every year. (Book p919)"
+  },
+  {
+   "id": "MED-C44-038",
+   "sec": "Newer discoveries, diagnostic criteria and pre-diabetes",
+   "page": 919,
+   "fmt": "match",
+   "q": "Match the table row to the pre-diabetes range — 1) Fasting value 2) 2-hour PPBG (75 g) 3) HbA1c values … A) 100–125 mg/dL B) 140–199 mg/dL C) 5.7–6.4%",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The pre-diabetes table gives fasting 100–125 mg/dL, 2-hour PPBG 140–199 mg/dL and HbA1c 5.7–6.4%. (Book p919)"
+  },
+  {
+   "id": "MED-C44-039",
+   "sec": "Newer discoveries, diagnostic criteria and pre-diabetes",
+   "page": 919,
+   "fmt": "fillup",
+   "q": "The normal 2-hour PPBG value in the table is less than ___ mg/dL.",
+   "opts": [
+    "100",
+    "126",
+    "200",
+    "140"
+   ],
+   "ans": 3,
+   "exp": "The normal-value column lists 2-hour PPBG (75 g) as <140 mg/dL. (Book p919)"
+  },
+  {
+   "id": "MED-C44-040",
+   "sec": "Treatment of pre-diabetes and screening",
+   "page": 920,
+   "fmt": "management",
+   "q": "Which patient profile meets the page's listed reasons to start metformin in pre-diabetes?",
+   "opts": [
+    "Normal weight with FBS below 100 mg/dL",
+    "Any age with isolated low triglycerides",
+    "Age 40–60 years, HbA1c ≥6%, FBS ≥110 mg/dL and overweight",
+    "Age under 20 years with HbA1c below 5.7%"
+   ],
+   "ans": 2,
+   "exp": "The page lists age 40–60 years, HbA1c ≥6%, FBS ≥110 mg/dL and overweight under starting metformin. (Book p920)"
+  },
+  {
+   "id": "MED-C44-041",
+   "sec": "Treatment of pre-diabetes and screening",
+   "page": 920,
+   "fmt": "match",
+   "q": "Match the pre-diabetes intervention to the page's note — 1) Metformin 2) Metformin in the pregnancy note 3) Pioglitazone 4) Pioglitazone mechanism … A) Start in the listed high-risk profile B) Treat gestational diabetes C) Added drug that acts through PPAR-γ D) Fights insulin resistance",
+   "opts": [
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-B, 3-C, 4-D"
+   ],
+   "ans": 3,
+   "exp": "The treatment notes list metformin for the specified high-risk profile and for gestational diabetes, and add pioglitazone through PPAR-γ to fight insulin resistance. (Book p920)"
+  },
+  {
+   "id": "MED-C44-042",
+   "sec": "Treatment of pre-diabetes and screening",
+   "page": 920,
+   "fmt": "numeric",
+   "q": "What fasting blood-sugar value is listed as a reason to start metformin in pre-diabetes?",
+   "opts": [
+    "≥200 mg/dL",
+    "≥110 mg/dL",
+    "≥90 mg/dL",
+    "≥126 mg/dL"
+   ],
+   "ans": 1,
+   "exp": "The metformin list includes FBS ≥110 mg/dL. (Book p920)"
+  },
+  {
+   "id": "MED-C44-043",
+   "sec": "Treatment of pre-diabetes and screening",
+   "page": 920,
+   "fmt": "truefalse",
+   "q": "Assess the pioglitazone notes: I The page says it slows cardiovascular risks. II The page says it decreases the risk of stroke.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both false",
+    "Both true"
+   ],
+   "ans": 3,
+   "exp": "The pioglitazone column states that it slows cardiovascular risks and decreases the risk of stroke. (Book p920)"
+  },
+  {
+   "id": "MED-C44-044",
+   "sec": "Treatment of pre-diabetes and screening",
+   "page": 920,
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the listed adverse effects of pioglitazone?",
+   "opts": [
+    "Salt-water retention",
+    "Hyperthyroidism",
+    "Bladder cancer",
+    "Pathological fractures in osteoporosis"
+   ],
+   "ans": 1,
+   "exp": "The page lists bladder cancer, pathological fractures in osteoporosis and salt-water retention as adverse effects; hyperthyroidism is not listed. (Book p920)"
+  },
+  {
+   "id": "MED-C44-045",
+   "sec": "Treatment of pre-diabetes and screening",
+   "page": 920,
+   "fmt": "scenario",
+   "q": "A person belongs to the page's pre-diabetes screening group because of a prior pregnancy-related glucose disorder. How often is screening written for this group?",
+   "opts": [
+    "Every 24 hours",
+    "Once in 6 months",
+    "Once in 6 weeks",
+    "Once in 6 years"
+   ],
+   "ans": 1,
+   "exp": "The screening heading states that screening indicated in ADA guidelines is once in 6 months and includes gestational DM. (Book p920)"
   },
   {
    "id": "MED-C44-046",
-   "sec": "Pre-DM treatment, screening, HbA1c targets",
+   "sec": "Treatment of pre-diabetes and screening",
    "page": 920,
-   "fmt": "scenario",
-   "q": "An 80-year-old nursing-home resident with multimorbidities has T2DM and frequent hypoglycaemia. The most appropriate HbA1c target is:",
+   "fmt": "match",
+   "q": "Match the screening indication to the exact group named — 1) Gestational DM 2) Pre-diabetic population 3) High-risk population 4) General population … A) 50% chance of developing diabetes B) Pre-diabetes C) Stroke, cardiovascular disease, HIV, PCOS or insulin-resistance signs D) Age ≥35 years",
    "opts": [
-    "No target because of age",
-    "Relaxed target ~7.5–8%",
-    "Tight target <6.5%",
-    "Same <7% as a 30-year-old"
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B"
    ],
    "ans": 1,
-   "exp": "Elderly frail patients tolerate a relaxed target of 7.5–8% to avoid hypoglycaemia. (Book p920)"
+   "exp": "The screening flowchart lists gestational DM with a 50% chance of diabetes, pre-diabetic population, high-risk conditions, and population ≥35 years. (Book p920)"
   },
   {
    "id": "MED-C44-047",
-   "sec": "Pre-DM treatment, screening, HbA1c targets",
+   "sec": "Treatment of pre-diabetes and screening",
    "page": 920,
-   "fmt": "truefalse",
-   "q": "Assess targets: I A1c-Derived Average Glucose (ADAG) provides an estimated mean glucose. II SMBG is not needed with HbA1c.",
+   "fmt": "fillup",
+   "q": "The page lists three screening tests: HbA1c, FBS and ___.",
    "opts": [
-    "I false; II true",
-    "Both true",
-    "Both false",
-    "I true; II false"
+    "C-peptide",
+    "Serum insulin",
+    "PPBS",
+    "RBS"
    ],
    "ans": 2,
-   "exp": "ADAG links HbA1c to mean glucose; SMBG remains essential, especially in insulin-treated patients. (Book p920)"
+   "exp": "The screening-tests branch names HbA1c, FBS and PPBS. (Book p920)"
   },
   {
    "id": "MED-C44-048",
-   "sec": "Pre-DM treatment, screening, HbA1c targets",
+   "sec": "Treatment of pre-diabetes and screening",
    "page": 920,
-   "fmt": "match",
-   "q": "Match the following SMBG pattern to population — 1) Type 1 on basal-bolus 2) Type 2 on metformin only 3) Pregnancy with GDM on insulin 4) Stable Type 2 with HbA1c 6.8% … A) ≥4 checks/day B) Less frequent, fasting or paired C) Frequent daily checks D) Routine not required",
+   "fmt": "recall",
+   "q": "Which screening test is described as having the best sensitivity and specificity for pre-diabetes?",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-D, 2-A, 3-B, 4-C"
+    "HbA1c",
+    "FBS",
+    "PPBS",
+    "RBS"
    ],
    "ans": 0,
-   "exp": "Type 1 basal-bolus needs ≥4 checks/day; metformin-only T2DM benefits from fewer paired checks; GDM on insulin needs frequent checks; well-controlled T2DM may not need routine SMBG. (Book p920)"
+   "exp": "The HbA1c subsection calls HbA1c the best sensitivity and specificity test for pre-diabetes. (Book p920)"
   },
   {
    "id": "MED-C44-049",
-   "sec": "Pre-DM treatment, screening, HbA1c targets",
+   "sec": "Treatment of pre-diabetes and screening",
    "page": 920,
-   "fmt": "scenario",
-   "q": "A T1DM patient on basal-bolus has HbA1c 8.5% with frequent hypoglycaemia. The next step is:",
+   "fmt": "numeric",
+   "q": "The HbA1c note is said to reflect approximately how many weeks of control?",
    "opts": [
-    "Tighten targets without CGM",
-    "Stop SMBG and rely on HbA1c",
-    "Switch to oral agents only (alternative)",
-    "Review SMBG data, adjust insulin and consider CGM"
+    "1–2 weeks",
+    "10–12 weeks",
+    "24–48 weeks",
+    "6–8 weeks"
    ],
    "ans": 3,
-   "exp": "Frequent hypoglycaemia with elevated HbA1c prompts review of SMBG data, insulin adjustment and CGM to reduce variability. (Book p920)"
+   "exp": "The page writes 6–8 week control below HbA1c. (Book p920)"
   },
   {
    "id": "MED-C44-050",
-   "sec": "Pre-DM treatment, screening, HbA1c targets",
+   "sec": "Treatment of pre-diabetes and screening",
    "page": 920,
-   "fmt": "fillup",
-   "q": "Pre-diabetes is sometimes treated with ___ in high-risk women with prior gestational diabetes.",
+   "fmt": "truefalse",
+   "q": "Assess HbA1c limitations: I It provides only average values over a long period. II Ideal glycemic control at the target range for 70% of time requires 24-hour monitoring.",
    "opts": [
-    "Insulin",
-    "Pioglitazone",
-    "Sulfonylurea",
-    "Metformin"
+    "I true; II false",
+    "I false; II true",
+    "Both false",
+    "Both true"
    ],
    "ans": 3,
-   "exp": "Metformin is recommended in high-risk patients, including women with prior GDM. (Book p920)"
+   "exp": "Both statements are written in the HbA1c limitation note: average long-period values and 70% target-range time requiring 24-hour monitoring. (Book p920)"
   },
   {
    "id": "MED-C44-051",
-   "sec": "Pre-DM treatment, screening, HbA1c targets",
+   "sec": "Treatment of pre-diabetes and screening",
    "page": 920,
-   "fmt": "truefalse",
-   "q": "Assess pre-diabetes: I A1c 6.0% is normal. II HbA1c ≥6% with risk factors is an indication for intervention.",
+   "fmt": "match",
+   "q": "Match the HbA1c interference group to the printed examples — 1) Lower or increase 2) False lower value 3) False elevated value … A) Hemoglobinopathies, malnutrition B) Hemolytic anemia, blood loss, chronic liver disease C) Renal failure, iron-deficiency anemia, increased bilirubin and triglycerides",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "HbA1c 5.7–6.4% is pre-diabetes; ≥6% with risk factors is sufficient for intervention in many algorithms. (Book p920)"
+   "exp": "The table lists haemoglobinopathies and malnutrition under lower or increase, haemolytic anaemia/blood loss/chronic liver disease under false lower, and renal failure/iron deficiency/increased bilirubin and triglycerides under false elevated. (Book p920)"
   },
   {
    "id": "MED-C44-052",
-   "sec": "Classification: LADA, type 3c, type 4, monogenic",
+   "sec": "Type 1.5 diabetes and diagnostic algorithm",
    "page": 921,
    "fmt": "match",
-   "q": "Match the following diabetes subtype — 1) LADA 2) Type 3c (pancreatogenic) 3) Type 4 (gestational) 4) MODY … A) Slow autoimmune diabetes in adults B) Diabetes following pancreatic disease C) Diabetes diagnosed in pregnancy D) Monogenic autosomal dominant diabetes",
+   "q": "Match the Type 1.5 form to its gender entry — 1) Ketosis-prone/Flatbush diabetes 2) Latent autoimmune diabetes of adults … A) m > F B) m = F",
    "opts": [
-    "1-D, 2-B, 3-C, 4-A",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B"
+    "1-B, 2-B",
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A"
    ],
    "ans": 1,
-   "exp": "LADA is slow autoimmune diabetes in adults; type 3c is pancreatogenic diabetes after pancreatic disease; type 4 is gestational diabetes; MODY is monogenic autosomal dominant diabetes. (Book p921)"
+   "exp": "The table gives m > F for ketosis-prone/Flatbush diabetes and m = F for latent autoimmune diabetes of adults. (Book p921)"
   },
   {
    "id": "MED-C44-053",
-   "sec": "Classification: LADA, type 3c, type 4, monogenic",
+   "sec": "Type 1.5 diabetes and diagnostic algorithm",
    "page": 921,
-   "fmt": "scenario",
-   "q": "A 38-year-old non-obese patient with GAD positivity initially responds to metformin but progresses to insulin within 4 years. The most consistent label is:",
+   "fmt": "numeric",
+   "q": "The ketosis-prone/Flatbush course begins at approximately what age in the table?",
    "opts": [
-    "Type 1 childhood-onset diabetes",
-    "LADA (correct answer)",
-    "Type 2 diabetes (alternative)",
-    "MODY 3 (alternative)"
+    "40 years",
+    "20 years",
+    "10 years",
+    "30 years"
    ],
    "ans": 1,
-   "exp": "Slow autoimmune diabetes in non-obese adults progressing to insulin fits LADA; MODY would be antibody negative and autosomal dominant. (Book p921)"
+   "exp": "The KPD/Flatbush course is written as early age, approximately 20 years, with ketosis. (Book p921)"
   },
   {
    "id": "MED-C44-054",
-   "sec": "Classification: LADA, type 3c, type 4, monogenic",
+   "sec": "Type 1.5 diabetes and diagnostic algorithm",
    "page": 921,
-   "fmt": "truefalse",
-   "q": "Assess LADA: I GAD, IA-2 and ZnT8 antibodies can be present. II Patients usually avoid insulin for years.",
+   "fmt": "scenario",
+   "q": "A person is asymptomatic, is accidentally found hyperglycemic at about 30 years, and is initially treated as Type 2 DM without insulin. Which Type 1.5 form matches the table?",
    "opts": [
-    "Both false",
-    "Both true",
-    "I true; II false",
-    "I false; II true"
+    "MARD",
+    "LADA",
+    "KPD/Flatbush diabetes",
+    "Type 3c diabetes"
    ],
    "ans": 1,
-   "exp": "LADA shares the same antibody panel as Type 1 diabetes; patients often avoid insulin for months to a few years but progress. (Book p921)"
+   "exp": "The LADA column describes an asymptomatic patient around 30 years found hyperglycemic and treated as Type 2 DM without insulin. (Book p921)"
   },
   {
    "id": "MED-C44-055",
-   "sec": "Classification: LADA, type 3c, type 4, monogenic",
+   "sec": "Type 1.5 diabetes and diagnostic algorithm",
    "page": 921,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a feature of LADA rather than Type 2 diabetes?",
+   "fmt": "truefalse",
+   "q": "Assess the Type 1.5 course: I KPD shows reduced insulin requirement after 5–10 years. II LADA shows increased insulin requirement after 5–10 years.",
    "opts": [
-    "Early insulin requirement",
-    "Non-obese phenotype",
-    "Persistent GAD antibody positivity",
-    "Obesity with central adiposity"
+    "I false; II true",
+    "Both false",
+    "Both true",
+    "I true; II false"
    ],
    "ans": 2,
-   "exp": "Obesity with central adiposity is characteristic of Type 2; LADA features persistent antibodies, non-obese phenotype and earlier insulin need. (Book p921)"
+   "exp": "The table shows reduced insulin requirement after 5–10 years for KPD and increased insulin requirement after 5–10 years for LADA. (Book p921)"
   },
   {
    "id": "MED-C44-056",
-   "sec": "Classification: LADA, type 3c, type 4, monogenic",
+   "sec": "Type 1.5 diabetes and diagnostic algorithm",
    "page": 921,
    "fmt": "fillup",
-   "q": "Type 3c diabetes (pancreatogenic) is most commonly due to chronic ___ in adults.",
+   "q": "After the early ketosis phase, KPD is followed by decreased insulin requirement, ___ and good response to oral hypoglycemic agents.",
    "opts": [
-    "Cushing disease",
-    "Haemochromatosis",
-    "Pancreatitis",
-    "Autoimmune insulitis"
+    "Hypoglycemia",
+    "Hyperthyroidism",
+    "Obesity",
+    "Lean habitus"
    ],
    "ans": 2,
-   "exp": "Chronic pancreatitis is the most common cause of pancreatogenic diabetes; cystic fibrosis, pancreatic cancer and haemochromatosis are other causes. (Book p921)"
+   "exp": "The KPD course arrow points to obesity and then good response to OHA after decreased insulin requirement. (Book p921)"
   },
   {
    "id": "MED-C44-057",
-   "sec": "Classification: LADA, type 3c, type 4, monogenic",
+   "sec": "Type 1.5 diabetes and diagnostic algorithm",
    "page": 921,
    "fmt": "match",
-   "q": "Match the following diabetes subtype to its key clue — 1) MODY 2 (GCK) 2) MODY 3 (HNF1A) 3) Mitochondrial diabetes 4) Wolfram syndrome … A) Mild stable hyperglycaemia, low Rx need B) Progressive sulfonylurea-responsive C) Maternal inheritance with deafness D) Diabetes insipidus, optic atrophy, deafness",
+   "q": "Match the LADA table feature to its entry — 1) C-peptide value 2) Antibody level 3) Presentation 4) Clinical build … A) Slightly decreased, slower than T1DM B) Increased markedly C) T1DM behaves like T2DM D) Lean, fair with autoimmune illness stigmata",
    "opts": [
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-B, 3-C, 4-A",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A",
     "1-A, 2-B, 3-C, 4-D"
    ],
    "ans": 3,
-   "exp": "MODY 2 (GCK) is mild; MODY 3 (HNF1A) is sulfonylurea-responsive; mitochondrial diabetes shows maternal inheritance with deafness; Wolfram syndrome has DI, optic atrophy and deafness (DIDMOAD). (Book p921)"
+   "exp": "The LADA column gives slightly decreased C-peptide, markedly increased antibodies, T1DM behaving like T2DM, and a lean fair patient with autoimmune stigmata. (Book p921)"
   },
   {
    "id": "MED-C44-058",
-   "sec": "Classification: LADA, type 3c, type 4, monogenic",
+   "sec": "Type 1.5 diabetes and diagnostic algorithm",
    "page": 921,
-   "fmt": "scenario",
-   "q": "A young patient with diabetes also has sensorineural deafness and a maternal family history. The most likely diagnosis is:",
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the KPD clinical features written in the table?",
    "opts": [
-    "Mitochondrial diabetes (MIDD)",
-    "MODY 3 (alternative)",
-    "Type 1 diabetes (alternative)",
-    "Wolfram syndrome"
+    "Lean fair build",
+    "Dark appearance",
+    "Hirsutism",
+    "Acanthosis nigricans"
    ],
    "ans": 0,
-   "exp": "Maternal inheritance with diabetes and deafness fits mitochondrial diabetes (MIDD, MELAS-related). (Book p921)"
+   "exp": "KPD is described with a dark, hirsute, obese male, acanthosis nigricans/balanoposthitis and hyperinsulinemia; lean fair build belongs to the LADA column. (Book p921)"
   },
   {
    "id": "MED-C44-059",
-   "sec": "Classification: LADA, type 3c, type 4, monogenic",
+   "sec": "Type 1.5 diabetes and diagnostic algorithm",
    "page": 921,
-   "fmt": "truefalse",
-   "q": "Assess Wolfram syndrome: I It includes diabetes insipidus, optic atrophy and deafness. II It is also called DIDMOAD.",
+   "fmt": "recall",
+   "q": "The table says that one third of diagnosed Type 2 DM cases are in reality:",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "LADA",
+    "KPD",
+    "MODY",
+    "GDM"
    ],
    "ans": 0,
-   "exp": "Wolfram syndrome (DIDMOAD) is characterised by DI, optic atrophy, deafness and diabetes mellitus. (Book p921)"
+   "exp": "The clinical-features row states that one third of diagnosed Type 2 DM cases are in reality LADA. (Book p921)"
   },
   {
    "id": "MED-C44-060",
-   "sec": "Classification: LADA, type 3c, type 4, monogenic",
+   "sec": "Type 1.5 diabetes and diagnostic algorithm",
    "page": 921,
    "fmt": "match",
-   "q": "Match the following subtype to its antibody / genetic marker — 1) LADA 2) MODY 3 3) Type 3c (pancreatogenic) 4) Mitochondrial … A) GAD antibody positive B) HNF1A mutation C) Anti-GAD negative, exocrine insufficiency D) mtDNA 3243A>G mutation",
+   "q": "Match each antibody to the table's sensitivity — 1) GAD 2) ICA 3) IAA 4) ZnT8 … A) 70–90% B) 44–100% C) 40–70% D) 50–70%",
    "opts": [
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-D, 2-B, 3-C, 4-A",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C",
     "1-A, 2-B, 3-C, 4-D"
    ],
    "ans": 3,
-   "exp": "LADA is GAD-positive; MODY 3 has HNF1A mutation; pancreatogenic diabetes is GAD-negative with exocrine insufficiency; mitochondrial diabetes is associated with the 3243A>G mutation. (Book p921)"
+   "exp": "The antibody table lists sensitivities of GAD 70–90%, ICA 44–100%, IAA 40–70% and ZnT8 50–70%. (Book p921)"
   },
   {
    "id": "MED-C44-061",
-   "sec": "Classification: LADA, type 3c, type 4, monogenic",
+   "sec": "Type 1.5 diabetes and diagnostic algorithm",
    "page": 921,
-   "fmt": "scenario",
-   "q": "A 45-year-old with chronic pancreatitis and new diabetes has low C-peptide and steatorrhoea. The most consistent diagnosis is:",
+   "fmt": "numeric",
+   "q": "Which antibody specificity is written for GAD in the table?",
    "opts": [
-    "MODY (alternative)",
-    "Type 3c pancreatogenic diabetes",
-    "Type 2 diabetes (alternative)",
-    "LADA (alternative)"
+    "96%",
+    "99%",
+    "70%",
+    "90%"
    ],
    "ans": 1,
-   "exp": "Diabetes following chronic pancreatitis with low C-peptide and exocrine insufficiency fits type 3c pancreatogenic diabetes. (Book p921)"
+   "exp": "The GAD row gives 99% specificity. (Book p921)"
   },
   {
    "id": "MED-C44-062",
-   "sec": "Classification: LADA, type 3c, type 4, monogenic",
+   "sec": "Type 1.5 diabetes and diagnostic algorithm",
    "page": 921,
-   "fmt": "fillup",
-   "q": "Type 3c diabetes is associated with both endocrine and ___ insufficiency.",
+   "fmt": "truefalse",
+   "q": "Assess the antibody notes: I ICA is described as earliest to appear and disappears after a few years. II IAA is described as invalid after therapy and common in new-onset T1DM.",
    "opts": [
-    "Hepatic (alternative)",
-    "Adrenal (alternative)",
-    "Renal (alternative)",
-    "Exocrine pancreatic"
+    "I true; II false",
+    "I false; II true",
+    "Both false",
+    "Both true"
    ],
    "ans": 3,
-   "exp": "Type 3c combines endocrine and exocrine pancreatic insufficiency, distinguishing it from Type 2 diabetes. (Book p921)"
+   "exp": "Both antibody rows carry those exact additional features in the table. (Book p921)"
   },
   {
    "id": "MED-C44-063",
-   "sec": "Classification: LADA, type 3c, type 4, monogenic",
+   "sec": "Type 1.5 diabetes and diagnostic algorithm",
    "page": 921,
-   "fmt": "truefalse",
-   "q": "Assess type 4 diabetes: I Gestational diabetes is diagnosed at 24–28 weeks. II Persisting after delivery is labelled GDM; resolving excludes future risk.",
+   "fmt": "management",
+   "q": "For a young patient in the algorithm with low fasting C-peptide and positive antibodies, which label does the page's flowchart give?",
    "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
+    "LADA",
+    "T1DM",
+    "T2DM/MODY",
+    "KPD"
    ],
    "ans": 0,
-   "exp": "GDM is typically screened at 24–28 weeks; persistence postpartum defines overt diabetes, and even resolving GDM signals long-term risk. (Book p921)"
+   "exp": "The printed diagnostic algorithm maps low fasting C-peptide with positive antibodies to LADA. (Book p921)"
   },
   {
    "id": "MED-C44-064",
-   "sec": "Type 2 history, metabolic syndrome, BMI",
+   "sec": "Type 2 diabetes, metabolic syndrome and BMI",
    "page": 922,
    "fmt": "match",
-   "q": "Match the following metabolic syndrome criterion to the cutoff (per source/standard) — 1) Waist circumference (men) 2) Triglycerides 3) HDL (men) 4) BP … A) ≥90 cm (Asian Indian) B) ≥150 mg/dL C) <40 mg/dL D) ≥130/85 mmHg",
+   "q": "Match the natural-history stage to its position in the diagram — 1) Early stage 2) Middle stage 3) Transitional glucose stage 4) Late stage … A) Genetics/environment B) Obesity C) IFG/IGT D) Late diabetes",
    "opts": [
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-B, 2-C, 3-A, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A",
     "1-A, 2-B, 3-C, 4-D"
    ],
    "ans": 3,
-   "exp": "Asian-Indian waist circumference cut-off for men is ≥90 cm; triglycerides ≥150 mg/dL; HDL <40 mg/dL in men; BP ≥130/85 mmHg. (Book p922)"
+   "exp": "The natural-history diagram proceeds through genetics/environment, obesity, dyslipidemia/hypertension and IFG/IGT before early and late diabetes. (Book p922)"
   },
   {
    "id": "MED-C44-065",
-   "sec": "Type 2 history, metabolic syndrome, BMI",
+   "sec": "Type 2 diabetes, metabolic syndrome and BMI",
    "page": 922,
-   "fmt": "scenario",
-   "q": "A 50-year-old South Asian man has BP 132/86 mmHg, fasting TG 165 mg/dL, HDL 38 mg/dL and waist circumference 95 cm. The diagnostic label is:",
+   "fmt": "recall",
+   "q": "The line labelled above the natural-history diagram that falls with advancing age is:",
    "opts": [
-    "Metabolic syndrome",
-    "Normal (alternative)",
-    "Type 2 diabetes only",
-    "Familial hypercholesterolaemia"
+    "Beta-cell function",
+    "Triglyceride level",
+    "Body temperature",
+    "Serum sodium"
    ],
    "ans": 0,
-   "exp": "Three of five criteria (waist, TG, HDL, BP) are met; this is metabolic syndrome. (Book p922)"
+   "exp": "The vertical axis of the natural-history figure is beta-cell function, which declines across advancing age. (Book p922)"
   },
   {
    "id": "MED-C44-066",
-   "sec": "Type 2 history, metabolic syndrome, BMI",
+   "sec": "Type 2 diabetes, metabolic syndrome and BMI",
    "page": 922,
    "fmt": "truefalse",
-   "q": "Assess BMI categories: I Asian-Indian overweight is BMI ≥23. II Obesity is BMI ≥25 in Asian-Indian classification.",
+   "q": "Assess the natural-history diagram: I Hyperinsulinemia appears before hyperglycemia. II Macrovascular complications are shown before microvascular complications.",
    "opts": [
     "Both false",
     "Both true",
@@ -991,434 +991,434 @@
     "I false; II true"
    ],
    "ans": 1,
-   "exp": "Asian-Indian BMI thresholds: overweight ≥23, obesity ≥25 (compared with WHO ≥25 and ≥30). (Book p922)"
+   "exp": "The diagram places hyperinsulinemia before hyperglycemia and labels macrovascular complications earlier than microvascular complications. (Book p922)"
   },
   {
    "id": "MED-C44-067",
-   "sec": "Type 2 history, metabolic syndrome, BMI",
+   "sec": "Type 2 diabetes, metabolic syndrome and BMI",
    "page": 922,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out among metabolic syndrome criteria?",
+   "fmt": "scenario",
+   "q": "Apart from dyslipidemia and hypertension, which group is explicitly listed as other Type 2 DM comorbidities?",
    "opts": [
-    "Fasting plasma glucose",
-    "Waist circumference",
-    "Triglycerides",
-    "HDL cholesterol"
+    "NAFL, hypogonadism, periodontal disease, fracture and atherosclerosis",
+    "Asthma, migraine, cataract, gout and otitis",
+    "Pneumonia, nephritis, anemia, fever and rash",
+    "Hepatitis, cirrhosis, jaundice, ascites and pruritus"
    ],
    "ans": 0,
-   "exp": "Fasting glucose is a metabolic syndrome criterion in NCEP-ATP III but not in IDF's primary central obesity definition; waist is central to IDF criteria. (Book p922)"
+   "exp": "The right-hand list gives NAFL, hypogonadism, periodontal disease, fracture and atherosclerosis. (Book p922)"
   },
   {
    "id": "MED-C44-068",
-   "sec": "Type 2 history, metabolic syndrome, BMI",
+   "sec": "Type 2 diabetes, metabolic syndrome and BMI",
    "page": 922,
-   "fmt": "fillup",
-   "q": "The page's Asian-Indian BMI cut-off for overweight is ___.",
+   "fmt": "numeric",
+   "q": "How many of the five metabolic-syndrome criteria should be met according to the page?",
    "opts": [
-    "≥30",
-    "≥23",
-    "≥18.5",
-    "≥25"
+    "All 5",
+    "Any 3 of 5",
+    "Any 2 of 5",
+    "Any 4 of 5"
    ],
    "ans": 1,
-   "exp": "Asian-Indian cut-offs: normal <23, overweight ≥23, obese ≥25 (with morbid obesity at higher values). (Book p922)"
+   "exp": "The metabolic-syndrome heading states that any 3 of 5 should be met. (Book p922)"
   },
   {
    "id": "MED-C44-069",
-   "sec": "Type 2 history, metabolic syndrome, BMI",
+   "sec": "Type 2 diabetes, metabolic syndrome and BMI",
    "page": 922,
    "fmt": "match",
-   "q": "Match the following milestone in T2DM history — 1) First clinical use 2) Role of UKPDS 3) Discovery … A) 1921 insulin (later refined for type 2) B) Demonstrated benefit of glycaemic control C) Insulin by Banting and Best",
+   "q": "Match the metabolic-syndrome criterion to the printed cut-off — 1) Male waist circumference 2) Female waist circumference 3) Triglycerides 4) Male HDL … A) >102 cm B) >88 cm C) >150 mg/dL D) <40 mg/dL",
    "opts": [
-    "1-C, 2-A, 3-B",
-    "1-B, 2-C, 3-A",
-    "1-A, 2-C, 3-B",
-    "1-A, 2-B, 3-C"
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-B, 3-C, 4-D"
    ],
    "ans": 3,
-   "exp": "Insulin was discovered in 1921; first clinical use came shortly after; UKPDS established benefit of glycaemic control in T2DM. (Book p922)"
+   "exp": "The criteria list male waist >102 cm, female waist >88 cm, triglycerides >150 mg/dL and male HDL <40 mg/dL. (Book p922)"
   },
   {
    "id": "MED-C44-070",
-   "sec": "Type 2 history, metabolic syndrome, BMI",
+   "sec": "Type 2 diabetes, metabolic syndrome and BMI",
    "page": 922,
-   "fmt": "scenario",
-   "q": "A 50-year-old with BMI 26, BP 138/88, TG 178 mg/dL, HDL 36 mg/dL and FPG 102 mg/dL asks about diabetes risk. The most consistent label is:",
+   "fmt": "fillup",
+   "q": "The fifth metabolic-syndrome criterion on the page is impaired fasting glucose above ___ mg/dL.",
    "opts": [
-    "Type 2 diabetes (alternative)",
-    "Normal (alternative)",
-    "Hypothyroidism (alternative)",
-    "Metabolic syndrome with pre-diabetes"
+    "88",
+    "130",
+    "150",
+    "100"
    ],
    "ans": 3,
-   "exp": "Metabolic syndrome is present; FPG 100–125 places the patient in the pre-diabetes range. (Book p922)"
+   "exp": "The fifth criterion is impaired fasting glucose (IFG) >100 mg/dL. (Book p922)"
   },
   {
    "id": "MED-C44-071",
-   "sec": "Type 2 history, metabolic syndrome, BMI",
+   "sec": "Type 2 diabetes, metabolic syndrome and BMI",
    "page": 922,
    "fmt": "truefalse",
-   "q": "Assess waist cut-offs: I Asian-Indian women use a lower waist cut-off than men. II IDF uses the same Asian waist cut-off for men and women.",
+   "q": "Assess the HDL and blood-pressure entries: I Female HDL is listed as less than 50 mg/dL. II Blood pressure is listed as greater than 130/85.",
    "opts": [
     "I true; II false",
     "I false; II true",
-    "Both true",
-    "Both false"
+    "Both false",
+    "Both true"
    ],
    "ans": 3,
-   "exp": "Asian women use ≥80 cm (vs ≥90 cm men); IDF uses the same Asian-specific cut-off for both sexes but is sex-specific. (Book p922)"
+   "exp": "The metabolic-syndrome list gives female HDL <50 mg/dL and BP >130/85. (Book p922)"
   },
   {
    "id": "MED-C44-072",
-   "sec": "Type 2 history, metabolic syndrome, BMI",
+   "sec": "Type 2 diabetes, metabolic syndrome and BMI",
    "page": 922,
-   "fmt": "match",
-   "q": "Match the following to its discovery timeline — 1) Insulin 2) Sulfonylureas 3) Metformin 4) GLP-1 agonist … A) 1921 B) 1940s–50s C) 1950s (biguanides) D) 2005 onwards",
+   "fmt": "numeric",
+   "q": "What Indian BMI value is used for the obese category in the table?",
    "opts": [
-    "1-D, 2-A, 3-B, 4-C",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B"
+    "18–22.9",
+    ">25",
+    ">30",
+    "23–24.9"
    ],
    "ans": 1,
-   "exp": "Insulin 1921; sulfonylureas mid-20th century; metformin (biguanides) widely adopted mid-century; GLP-1 agonists from 2005. (Book p922)"
+   "exp": "The Indian-criteria column labels obese as >25. (Book p922)"
   },
   {
    "id": "MED-C44-073",
-   "sec": "Type 2 history, metabolic syndrome, BMI",
+   "sec": "Type 2 diabetes, metabolic syndrome and BMI",
    "page": 922,
-   "fmt": "scenario",
-   "q": "An Asian-Indian patient with BMI 27 has BP 128/82, TG 145 mg/dL, HDL 42 mg/dL and FPG 92 mg/dL. The patient meets:",
+   "fmt": "match",
+   "q": "Match the BMI category with the Indian criteria — 1) Normal 2) Overweight 3) Obese … A) 18–22.9 B) 23–24.9 C) >25",
    "opts": [
-    "Only the waist criterion",
-    "Three criteria",
-    "All five criteria",
-    "No criteria (alternative)"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "BMI 27 exceeds the Asian-Indian obesity cut-off ≥25 and waist typically ≥90 cm; BP, TG and HDL do not meet criteria. (Book p922)"
+   "exp": "The table gives Indian BMI normal 18–22.9, overweight 23–24.9 and obese >25. (Book p922)"
   },
   {
    "id": "MED-C44-074",
-   "sec": "Type 2 history, metabolic syndrome, BMI",
+   "sec": "Type 2 diabetes, metabolic syndrome and BMI",
    "page": 922,
-   "fmt": "fillup",
-   "q": "The metabolic syndrome criterion for fasting plasma glucose is ≥ ___ mg/dL.",
+   "fmt": "management",
+   "q": "Which set matches the page's Indian-population diabesity/adiposopathy list?",
    "opts": [
-    "100",
-    "110",
-    "126",
-    "140"
+    "Waist >90 cm in men or >80 cm in women, hyperglycemia, HTN, hyperlipidemia with increased CRP/decreased adiponectin, and a prothrombotic state",
+    "Waist >102 cm in men only with hypoglycemia and low CRP",
+    "BMI below 18 with bradycardia and reduced clotting",
+    "HDL above 50 with isolated post-load glucose rise"
    ],
    "ans": 0,
-   "exp": "Fasting plasma glucose ≥100 mg/dL (or treatment) is one of the metabolic syndrome criteria. (Book p922)"
+   "exp": "The diabesity/adiposopathy list uses male waist >90 cm, female waist >80 cm, hyperglycemia, HTN, hyperlipidemia with increased CRP/decreased adiponectin, and a prothrombotic state. (Book p922)"
   },
   {
    "id": "MED-C44-075",
-   "sec": "Type 2 history, metabolic syndrome, BMI",
+   "sec": "Type 2 diabetes, metabolic syndrome and BMI",
    "page": 922,
-   "fmt": "truefalse",
-   "q": "Assess these facts: I South Asians have higher diabetes risk at lower BMIs. II Metabolic syndrome increases cardiovascular risk beyond its components.",
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the five items in the Indian-population diabesity list?",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "Hypercalcemia",
+    "Hyperglycemia",
+    "HTN",
+    "Prothrombotic state"
    ],
    "ans": 0,
-   "exp": "South Asians have higher risk at lower BMIs (the basis of Asian-Indian cut-offs); metabolic syndrome increases CV risk beyond individual components. (Book p922)"
+   "exp": "Hypercalcemia is not in the printed diabesity/adiposopathy list; hyperglycemia, HTN and prothrombotic state are listed. (Book p922)"
   },
   {
    "id": "MED-C44-076",
-   "sec": "T1DM markers, autoimmunity and antibody interpretation",
+   "sec": "Type 1 DM pathophysiology and Type 1 versus Type 2",
    "page": 923,
-   "fmt": "match",
-   "q": "Match the following Type 1 autoantibody to its prevalence / target — 1) GAD65 2) IA-2 3) ZnT8 4) Anti-insulin … A) ~70–80% at diagnosis B) ~60–70% at diagnosis C) >95% in some populations D) More common in children",
+   "fmt": "recall",
+   "q": "The pathophysiology line for Type 1 DM describes T-cell-mediated destruction of the:",
    "opts": [
-    "1-D, 2-B, 3-C, 4-A",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D"
+    "Acinar cell",
+    "Beta cell",
+    "Alpha cell",
+    "Delta cell"
    ],
    "ans": 1,
-   "exp": "GAD65 is positive in roughly 70–80% at diagnosis; IA-2 in 60–70%; ZnT8 in over 95% in some populations; anti-insulin is more common in children. (Book p923)"
+   "exp": "The page writes T-cell-mediated beta-cell destruction with insulinitis. (Book p923)"
   },
   {
    "id": "MED-C44-077",
-   "sec": "T1DM markers, autoimmunity and antibody interpretation",
+   "sec": "Type 1 DM pathophysiology and Type 1 versus Type 2",
    "page": 923,
-   "fmt": "scenario",
-   "q": "A 22-year-old non-obese patient has new diabetes, positive GAD and rapidly progresses to insulin. The most consistent diagnosis is:",
+   "fmt": "match",
+   "q": "Match the Type 1 versus Type 2 factor to the printed pair — 1) Age 2) Weight 3) Family history 4) DKA … A) Younger / older B) Thinner / obese C) Rare / common D) Common / rare",
    "opts": [
-    "MODY 3 (alternative)",
-    "Type 3c diabetes",
-    "Type 1 diabetes",
-    "Type 2 diabetes"
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C"
    ],
    "ans": 2,
-   "exp": "Non-obese young adult with GAD positivity and rapid progression fits Type 1 diabetes. (Book p923)"
+   "exp": "The comparison table lists younger versus older age, thinner versus obese weight, rare versus common family history, and common versus rare DKA for Type 1 versus Type 2. (Book p923)"
   },
   {
    "id": "MED-C44-078",
-   "sec": "T1DM markers, autoimmunity and antibody interpretation",
+   "sec": "Type 1 DM pathophysiology and Type 1 versus Type 2",
    "page": 923,
    "fmt": "truefalse",
-   "q": "Assess these facts: I HLA-DRB1*04 increases Type 1 risk. IIGAD antibodies are also seen in stiff-person syndrome.",
+   "q": "Assess the marker line: I GAD and ZnT-8 are listed among Type 1 markers. II Anti-insulin antibody is absent from the marker line.",
    "opts": [
     "Both false",
-    "Both true",
     "I true; II false",
+    "Both true",
     "I false; II true"
    ],
    "ans": 1,
-   "exp": "HLA-DRB1*04 is a susceptibility allele for Type 1 diabetes; GAD antibodies also occur in stiff-person syndrome and cerebellar ataxia. (Book p923)"
+   "exp": "The marker line includes GAD, ZnT-8 and anti-insulin antibody. (Book p923)"
   },
   {
    "id": "MED-C44-079",
-   "sec": "T1DM markers, autoimmunity and antibody interpretation",
+   "sec": "Type 1 DM pathophysiology and Type 1 versus Type 2",
    "page": 923,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — an antibody NOT typically associated with Type 1 diabetes?",
+   "fmt": "numeric",
+   "q": "What Type 1 twin-to-twin concordance is written in the final row?",
    "opts": [
-    "ZnT8 (alternative)",
-    "Anti-CCP",
-    "GAD65",
-    "IA-2 (alternative)"
+    "70–90%",
+    "40%",
+    "5%",
+    "15%"
    ],
    "ans": 1,
-   "exp": "Anti-CCP is associated with rheumatoid arthritis, not Type 1 diabetes. (Book p923)"
+   "exp": "The Type 1 column gives twin-to-twin concordance as 40%. (Book p923)"
   },
   {
    "id": "MED-C44-080",
-   "sec": "T1DM markers, autoimmunity and antibody interpretation",
+   "sec": "Type 1 DM pathophysiology and Type 1 versus Type 2",
    "page": 923,
    "fmt": "fillup",
-   "q": "ZnT8 antibodies target the zinc transporter in pancreatic ___ cells.",
+   "q": "The HLA association line shows positive association with DR3–DR___ in the Type 1 note.",
    "opts": [
-    "α (alternative)",
-    "δ (alternative)",
-    "PP",
-    "β (correct answer)"
+    "2",
+    "5",
+    "8",
+    "4"
    ],
    "ans": 3,
-   "exp": "ZnT8 is expressed in pancreatic β-cells, making it a specific autoimmune target. (Book p923)"
+   "exp": "The HLA association diagram shows positive DR3–DR4 and a negative DR1–14 entry. (Book p923)"
   },
   {
    "id": "MED-C44-081",
-   "sec": "T1DM markers, autoimmunity and antibody interpretation",
+   "sec": "Type 1 DM pathophysiology and Type 1 versus Type 2",
    "page": 923,
-   "fmt": "match",
-   "q": "Match the following test to its use in T1DM — 1) C-peptide 2) Autoantibody panel 3) HbA1c 4) Insulin level … A) Reflects endogenous insulin secretion B) Classifies autoimmune diabetes C) Monitors chronic glycaemia D) Affected by exogenous insulin and hepatic clearance",
+   "fmt": "scenario",
+   "q": "A patient has osmotic symptoms, low C-peptide and common DKA. Which column in the comparison table fits best?",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-D, 2-B, 3-C, 4-A"
+    "Type 1 DM",
+    "Type 2 DM",
+    "MODY",
+    "GDM"
    ],
    "ans": 0,
-   "exp": "C-peptide measures endogenous insulin secretion; autoantibody panel classifies autoimmune diabetes; HbA1c monitors chronic glycaemia; insulin level is confounded by exogenous insulin and hepatic clearance. (Book p923)"
+   "exp": "Osmotic symptoms, low C-peptide and common DKA are entries in the Type 1 DM column. (Book p923)"
   },
   {
    "id": "MED-C44-082",
-   "sec": "T1DM markers, autoimmunity and antibody interpretation",
+   "sec": "Type 1 DM pathophysiology and Type 1 versus Type 2",
    "page": 923,
-   "fmt": "scenario",
-   "q": "An 18-year-old with new T1DM has undetectable C-peptide and positive ZnT8. The most consistent interpretation is:",
+   "fmt": "match",
+   "q": "Match the comparison factor to the Type 1 entry — 1) C-peptide 2) Acanthosis nigricans 3) Dyslipidemia 4) Antibodies … A) Low B) Absent C) Absent D) Present",
    "opts": [
-    "Autoimmune β-cell destruction with no residual function",
-    "Type 2 diabetes with severe insulin resistance",
-    "MODY 2 (alternative)",
-    "Pancreatogenic diabetes (alternative)"
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
    ],
    "ans": 0,
-   "exp": "Undetectable C-peptide with ZnT8 indicates autoimmune β-cell failure in Type 1 diabetes. (Book p923)"
+   "exp": "The Type 1 column gives low C-peptide, absent acanthosis nigricans, absent dyslipidemia and present antibodies. (Book p923)"
   },
   {
    "id": "MED-C44-083",
-   "sec": "T1DM markers, autoimmunity and antibody interpretation",
+   "sec": "Type 1 DM pathophysiology and Type 1 versus Type 2",
    "page": 923,
    "fmt": "truefalse",
-   "q": "Assess T1DM genetic risk: I HLA-DR3 and DR4 increase risk. II Most T1DM is monogenic.",
+   "q": "Assess the endocrine-association rows: I PCOS is rare in the Type 1 column and present in Type 2. II HLA association is stronger in Type 1 than Type 2.",
    "opts": [
     "I true; II false",
     "I false; II true",
-    "Both true",
-    "Both false"
+    "Both false",
+    "Both true"
    ],
    "ans": 3,
-   "exp": "HLA-DR3 and DR4 (DRB1*03 and *04) increase susceptibility; most T1DM is polygenic, not monogenic. (Book p923)"
+   "exp": "The table marks PCOS rare/present and HLA association stronger/weaker for Type 1/Type 2. (Book p923)"
   },
   {
    "id": "MED-C44-084",
-   "sec": "T1DM markers, autoimmunity and antibody interpretation",
+   "sec": "Type 1 DM pathophysiology and Type 1 versus Type 2",
    "page": 923,
-   "fmt": "match",
-   "q": "Match the following antibody to the population where it's most useful — 1) Insulin autoantibody 2) GAD 2) ZnT8 3) IA-2 … A) Children <5 yr at onset B) Adults >30 yr at onset C) Combined with GAD for sensitivity D) Highly specific for T1DM",
+   "fmt": "numeric",
+   "q": "If both parents have DM, what risks are printed for Type 1 and Type 2 respectively?",
    "opts": [
-    "1-D, 2-A, 3-B, 4-C",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D"
+    "25% and 15%",
+    "15% and 40%",
+    "5% and 25%",
+    "40% and 70–90%"
    ],
    "ans": 1,
-   "exp": "Insulin autoantibody is most useful in young children; GAD is more often positive in adult-onset T1DM/LADA; ZnT8 combined with GAD improves sensitivity; IA-2 is highly specific for T1DM. (Book p923)"
+   "exp": "The risk rows state 15% for Type 1 and 40% for Type 2 when both parents have DM. (Book p923)"
   },
   {
    "id": "MED-C44-085",
-   "sec": "T1DM markers, autoimmunity and antibody interpretation",
+   "sec": "Type 1 DM pathophysiology and Type 1 versus Type 2",
    "page": 923,
-   "fmt": "scenario",
-   "q": "A 5-year-old with new diabetes has positive insulin autoantibodies but negative GAD and IA-2. The most consistent interpretation is:",
+   "fmt": "recall",
+   "q": "Which Type 1 versus Type 2 factor is labelled stronger for Type 2?",
    "opts": [
-    "MODY (alternative)",
-    "Type 3c diabetes",
-    "Probable autoimmune T1DM",
-    "Type 2 diabetes"
+    "Antibody association",
+    "DKA association",
+    "Genetic factor association",
+    "HLA association"
    ],
    "ans": 2,
-   "exp": "Insulin autoantibodies are common in young children with T1DM; one antibody plus clinical phenotype is sufficient to support diagnosis. (Book p923)"
+   "exp": "The final comparison rows mark genetic-factor association as weaker in Type 1 and stronger in Type 2. (Book p923)"
   },
   {
    "id": "MED-C44-086",
-   "sec": "T1DM markers, autoimmunity and antibody interpretation",
+   "sec": "Type 1 DM pathophysiology and Type 1 versus Type 2",
    "page": 923,
-   "fmt": "fillup",
-   "q": "Triple antibody positivity (GAD, IA-2, ZnT8) in a newly diagnosed adult is highly suggestive of ___ rather than Type 2.",
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the Type 2 entries in the comparison table?",
    "opts": [
-    "Autoimmune (Type 1-like) diabetes",
-    "MODY 2 (alternative)",
-    "Pancreatogenic diabetes",
-    "Cushing-induced diabetes"
+    "Present antibodies",
+    "Older age",
+    "Higher C-peptide",
+    "Present acanthosis nigricans"
    ],
    "ans": 0,
-   "exp": "Triple positivity in adults strongly suggests autoimmune diabetes (Type 1-like or LADA). (Book p923)"
+   "exp": "The Type 2 antibody entry is absent; older age, higher C-peptide and present acanthosis nigricans are listed. (Book p923)"
   },
   {
    "id": "MED-C44-087",
-   "sec": "T1DM markers, autoimmunity and antibody interpretation",
+   "sec": "Type 1 DM pathophysiology and Type 1 versus Type 2",
    "page": 923,
-   "fmt": "truefalse",
-   "q": "Assess C-peptide: I It is cleaved from proinsulin in equimolar amounts. II C-peptide is a surrogate for endogenous insulin.",
+   "fmt": "management",
+   "q": "A family-risk question asks about one parent having DM. Which Type 1/Type 2 risk pair is printed?",
    "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
+    "5% / 25%",
+    "15% / 40%",
+    "40% / 70–90%",
+    "25% / 5%"
    ],
    "ans": 0,
-   "exp": "C-peptide is cleaved from proinsulin in equimolar amounts with insulin and is used as a surrogate for endogenous insulin secretion. (Book p923)"
+   "exp": "The row for either parent having DM gives 5% for Type 1 and 25% for Type 2. (Book p923)"
   },
   {
    "id": "MED-C44-088",
-   "sec": "Insulin-resistance syndromes, MODY, type 4",
+   "sec": "Genetic syndromes associated with DM and MODY",
    "page": 924,
    "fmt": "match",
-   "q": "Match the following insulin-resistance syndrome — 1) Type A 2) Type B 3) HAIR-AN 4) Donohue / Rabson-Mendenhall … A) Defective insulin receptor gene B) Anti-insulin-receptor autoantibodies C) Hyperandrogenism, IR, acanthosis D) Severe insulin-receptor mutations with childhood mortality",
+   "q": "Match the genetic syndrome to its printed feature — 1) Type A resistance 2) Type B resistance 3) Rabson–Mendenhall syndrome … A) Seen in females, acanthosis nigricans and hyperandrogenism B) Type A plus PCOS and HAIR-AN syndrome C) Childhood DM, acanthosis, rapidly growing hair and abnormal dentition",
    "opts": [
-    "1-D, 2-B, 3-C, 4-A",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D"
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
    ],
    "ans": 1,
-   "exp": "Type A insulin-resistance is due to insulin-receptor gene mutations; Type B is autoimmune with anti-receptor antibodies; HAIR-AN combines hyperandrogenism, IR and acanthosis nigricans; Donohue / Rabson-Mendenhall are severe receptor-mutation syndromes with childhood mortality. (Book p924)"
+   "exp": "The table lists the respective feature sets for Type A resistance, Type B resistance and Rabson–Mendenhall syndrome. (Book p924)"
   },
   {
    "id": "MED-C44-089",
-   "sec": "Insulin-resistance syndromes, MODY, type 4",
+   "sec": "Genetic syndromes associated with DM and MODY",
    "page": 924,
-   "fmt": "scenario",
-   "q": "A teenage girl has severe acanthosis nigricans, oligomenorrhoea and elevated testosterone with normal glucose initially but develops diabetes at 18. The most consistent diagnosis is:",
+   "fmt": "recall",
+   "q": "The pathogenesis written for Type A resistance is:",
    "opts": [
-    "Cushing disease",
-    "HAIR-AN syndrome",
-    "Type 1 diabetes",
-    "MODY 3 (alternative)"
+    "Beta-cell iron toxicity",
+    "Insulin-receptor resistance",
+    "Post-binding defect in insulin action",
+    "Insulin-antibody destruction"
    ],
    "ans": 1,
-   "exp": "Hyperandrogenism, insulin resistance and acanthosis nigricans fit HAIR-AN. (Book p924)"
+   "exp": "Type A resistance is paired with insulin-receptor resistance in the table. (Book p924)"
   },
   {
    "id": "MED-C44-090",
-   "sec": "Insulin-resistance syndromes, MODY, type 4",
+   "sec": "Genetic syndromes associated with DM and MODY",
    "page": 924,
    "fmt": "truefalse",
-   "q": "Assess insulin-resistance syndromes: I Type A is autoimmune in origin. II Donohue syndrome presents with intrauterine growth restriction.",
+   "q": "Assess the resistance-syndrome table: I Type B resistance is linked to a post-binding defect in insulin action. II Rabson–Mendenhall syndrome is linked to insulin-receptor mutations.",
    "opts": [
     "I true; II false",
     "I false; II true",
-    "Both true",
-    "Both false"
+    "Both false",
+    "Both true"
    ],
    "ans": 3,
-   "exp": "Type A is genetic (receptor mutations), Type B is autoimmune; Donohue syndrome includes intrauterine growth restriction and severe neonatal features. (Book p924)"
+   "exp": "The pathogenesis column gives a post-binding defect for Type B and insulin-receptor mutations for Rabson–Mendenhall syndrome. (Book p924)"
   },
   {
    "id": "MED-C44-091",
-   "sec": "Insulin-resistance syndromes, MODY, type 4",
+   "sec": "Genetic syndromes associated with DM and MODY",
    "page": 924,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a MODY subtype?",
+   "fmt": "scenario",
+   "q": "A child has diabetes, acanthosis nigricans, rapidly growing hair and abnormal dentition. Which syndrome does the page associate with this pattern?",
    "opts": [
-    "HNF1A-MODY (MODY 3)",
-    "GCK-MODY (MODY 2)",
-    "HNF4A-MODY (MODY 1)",
-    "Type A insulin-resistance"
+    "Type A resistance",
+    "Type B resistance",
+    "MODY 2",
+    "Rabson–Mendenhall syndrome"
    ],
    "ans": 3,
-   "exp": "Type A insulin-resistance is a receptor disorder, not a MODY subtype; the others are common MODY subtypes. (Book p924)"
+   "exp": "Those four findings are the feature list in the Rabson–Mendenhall row. (Book p924)"
   },
   {
    "id": "MED-C44-092",
-   "sec": "Insulin-resistance syndromes, MODY, type 4",
+   "sec": "Genetic syndromes associated with DM and MODY",
    "page": 924,
    "fmt": "fillup",
-   "q": "Donohue and Rabson-Mendenhall syndromes are caused by mutations in the ___ gene.",
+   "q": "Type 4 DM is expanded on this page as middle age related DM, abbreviated ___.",
    "opts": [
-    "Glucokinase (GCK)",
-    "Potassium channel (KCNJ11)",
-    "Insulin receptor (INSR)",
-    "Hepatocyte nuclear factor 1A (HNF1A)"
+    "LADA",
+    "GDM",
+    "MARD",
+    "MODY"
    ],
    "ans": 2,
-   "exp": "Both are due to severe insulin-receptor mutations (INSR). (Book p924)"
+   "exp": "The Other Types of DM section labels Type 4 DM as middle age related DM (MARD). (Book p924)"
   },
   {
    "id": "MED-C44-093",
-   "sec": "Insulin-resistance syndromes, MODY, type 4",
+   "sec": "Genetic syndromes associated with DM and MODY",
    "page": 924,
    "fmt": "match",
-   "q": "Match the following MODY subtype to its genetic defect — 1) MODY 2 2) MODY 3 3) MODY 5 (HNF1B) … A) Glucokinase (GCK) B) HNF1A transcription factor C) HNF1B with renal cysts",
+   "q": "Match the MODY feature to the exact note — 1) Inheritance 2) Insulin dependence 3) Age of manifestation 4) Renal transporter note … A) AD through at least 3 generations B) Not insulin dependent C) Before 25 years D) Decreased SGLT2 leading to glycosuria",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-A, 2-C, 3-B",
-    "1-C, 2-B, 3-A",
-    "1-A, 2-B, 3-C"
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-B, 3-C, 4-D"
    ],
    "ans": 3,
-   "exp": "MODY 2 is GCK; MODY 3 is HNF1A; MODY 5 is HNF1B with renal cysts and genital tract anomalies. (Book p924)"
+   "exp": "The MODY features are AD vertical transmission through at least three generations, not insulin dependent, before 25 years, and decreased SGLT2 with glycosuria. (Book p924)"
   },
   {
    "id": "MED-C44-094",
-   "sec": "Insulin-resistance syndromes, MODY, type 4",
+   "sec": "Genetic syndromes associated with DM and MODY",
    "page": 924,
-   "fmt": "scenario",
-   "q": "A 22-year-old with mild hyperglycaemia, family history of mild diabetes, and renal cysts on ultrasound is most likely to have:",
+   "fmt": "numeric",
+   "q": "MODY is written as manifesting before what age?",
    "opts": [
-    "MODY 3 (HNF1A)",
-    "Type 1 diabetes",
-    "MODY 5 (HNF1B)",
-    "MODY 2 (GCK)"
+    "30 years",
+    "40 years",
+    "25 years",
+    "18 years"
    ],
    "ans": 2,
-   "exp": "MODY 5 (HNF1B) is associated with renal cysts and genital tract malformations. (Book p924)"
+   "exp": "The MODY feature list says it manifests before 25 years. (Book p924)"
   },
   {
    "id": "MED-C44-095",
-   "sec": "Insulin-resistance syndromes, MODY, type 4",
+   "sec": "Genetic syndromes associated with DM and MODY",
    "page": 924,
    "fmt": "truefalse",
-   "q": "Assess MODY: I MODY is typically autosomal dominant. II MODY 3 often progresses and requires sulfonylurea therapy.",
+   "q": "Assess the MODY notes: I The page says MODY has no complications. II The page describes an inappropriate beta-cell response to a rise in blood glucose.",
    "opts": [
     "I true; II false",
     "I false; II true",
@@ -1426,427 +1426,427 @@
     "Both true"
    ],
    "ans": 3,
-   "exp": "MODY is autosomal dominant; HNF1A-MODY (MODY 3) is progressive and sulfonylurea-responsive. (Book p924)"
+   "exp": "Both statements appear in the MODY section. (Book p924)"
   },
   {
    "id": "MED-C44-096",
-   "sec": "Insulin-resistance syndromes, MODY, type 4",
+   "sec": "Genetic syndromes associated with DM and MODY",
    "page": 924,
    "fmt": "match",
-   "q": "Match the following neonatal diabetes gene — 1) KCNJ11 2) ABCC8 3) INS … A) K-ATP channel, sulfonylurea-responsive B) K-ATP channel, sulfonylurea-responsive C) Insulin gene mutation",
+   "q": "Match the MODY type to its defect or feature — 1) MODY 1 2) MODY 2 3) MODY 3 4) MODY 4 … A) HNF-4α B) Glucokinase C) HNF-1α D) IPF-1",
    "opts": [
-    "1-A, 2-C, 3-B",
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
-    "1-C, 2-B, 3-A"
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-D, 4-A"
    ],
    "ans": 2,
-   "exp": "KCNJ11 and ABCC8 encode K-ATP channel subunits and are sulfonylurea-responsive; INS is the insulin gene mutation form. (Book p924)"
+   "exp": "The MODY table pairs MODY 1 with HNF-4α, MODY 2 with glucokinase, MODY 3 with HNF-1α, and MODY 4 with IPF-1. (Book p924)"
   },
   {
    "id": "MED-C44-097",
-   "sec": "Insulin-resistance syndromes, MODY, type 4",
+   "sec": "Genetic syndromes associated with DM and MODY",
    "page": 924,
-   "fmt": "scenario",
-   "q": "A 6-week-old with persistent hyperglycaemia is found to have a KCNJ11 mutation. The most appropriate therapy is:",
+   "fmt": "management",
+   "q": "Which treatment is written for MODY 3 in the table?",
    "opts": [
-    "Metformin (alternative)",
-    "Diet only (alternative)",
-    "Insulin pump only (alternative)",
-    "High-dose sulfonylurea instead of insulin"
+    "Insulin only",
+    "Metformin only",
+    "No treatment",
+    "Sulfonylureas"
    ],
    "ans": 3,
-   "exp": "KCNJ11 mutations causing neonatal diabetes are often successfully switched to high-dose sulfonylureas. (Book p924)"
+   "exp": "The MODY 3 row gives sulfonylureas as the treatment. (Book p924)"
   },
   {
    "id": "MED-C44-098",
-   "sec": "Insulin-resistance syndromes, MODY, type 4",
+   "sec": "Genetic syndromes associated with DM and MODY",
    "page": 924,
-   "fmt": "fillup",
-   "q": "Gestational diabetes mellitus is screened at ___ weeks of gestation.",
+   "fmt": "recall",
+   "q": "Which MODY type is marked as the most common in the table?",
    "opts": [
-    "24–28 (correct answer)",
-    "12 (alternative)",
-    "32 (alternative)",
-    "After delivery only"
+    "MODY 3",
+    "MODY 1",
+    "MODY 2",
+    "MODY 5"
    ],
    "ans": 0,
-   "exp": "Universal GDM screening is recommended at 24–28 weeks; high-risk women are screened earlier. (Book p924)"
+   "exp": "MODY 3 is marked '(m/c)' in the table. (Book p924)"
   },
   {
    "id": "MED-C44-099",
-   "sec": "Insulin-resistance syndromes, MODY, type 4",
+   "sec": "Genetic syndromes associated with DM and MODY",
    "page": 924,
-   "fmt": "truefalse",
-   "q": "Assess GDM: I It is associated with increased future Type 2 diabetes risk. II First-line pharmacotherapy is glyburide.",
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the listed MODY-5 features or associations?",
    "opts": [
-    "I false; II true",
-    "Both true",
-    "Both false",
-    "I true; II false"
+    "Genital anomalies",
+    "MODY 5",
+    "Retinal detachment",
+    "Renal cysts"
    ],
    "ans": 2,
-   "exp": "GDM raises future Type 2 diabetes risk; first-line pharmacotherapy is insulin, with metformin or glyburide as alternatives. (Book p924)"
+   "exp": "The table associates MODY 5 with renal cysts and genital anomalies; retinal detachment is not listed. (Book p924)"
   },
   {
    "id": "MED-C44-100",
-   "sec": "Pancreatic and drug-induced diabetes algorithm",
+   "sec": "Pancreatic and drug-induced diabetes",
    "page": 925,
    "fmt": "match",
-   "q": "Match the following pancreatic disease to its diabetes risk — 1) Chronic pancreatitis 2) Pancreatic ductal adenocarcinoma 3) Cystic fibrosis 4) Haemochromatosis … A) Most common cause of type 3c diabetes B) New-onset diabetes can be a presenting feature C) CFRD with insulin deficiency D) Iron deposition causing β-cell loss",
+   "q": "Match the diagnostic-algorithm branch to the printed result — 1) High C-peptide, Ab positive 2) Low C-peptide, Ab positive 3) Absent C-peptide 4) Absent branch label … A) T1DM B) LADA C) T2DM/MODY D) The algorithm does not add another result",
    "opts": [
-    "1-A, 2-C, 3-B, 4-D",
-    "1-B, 2-A, 3-C, 4-D",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C",
     "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D"
+    "1-B, 2-C, 3-D, 4-A"
    ],
    "ans": 2,
-   "exp": "Chronic pancreatitis is the most common cause of type 3c; pancreatic cancer can present with new-onset diabetes; cystic fibrosis causes CFRD; haemochromatosis deposits iron in β-cells. (Book p925)"
+   "exp": "The flowchart maps high C-peptide with positive antibody to T1DM, low with positive antibody to LADA, and absent to T2DM/MODY. (Book p925)"
   },
   {
    "id": "MED-C44-101",
-   "sec": "Pancreatic and drug-induced diabetes algorithm",
+   "sec": "Pancreatic and drug-induced diabetes",
    "page": 925,
    "fmt": "scenario",
-   "q": "A 65-year-old with new-onset diabetes has weight loss and epigastric pain; CT shows a pancreatic mass. The most consistent interpretation is:",
+   "q": "A young patient reaches the page's diagnostic algorithm after clinical features suggest a young-onset diabetes form. What is checked next?",
    "opts": [
-    "MODY 2 (alternative)",
-    "New-onset diabetes as a presenting sign of pancreatic cancer",
-    "Type 2 diabetes with weight loss from low calorie diet",
-    "LADA (alternative)"
+    "Serum calcium",
+    "Fasting C-peptide levels",
+    "Post-meal triglycerides",
+    "Urinary ketones only"
    ],
    "ans": 1,
-   "exp": "New-onset diabetes with weight loss and pancreatic mass raises suspicion for pancreatic ductal adenocarcinoma. (Book p925)"
+   "exp": "The algorithm says clinical features plus young age, followed by checking fasting C-peptide levels. (Book p925)"
   },
   {
    "id": "MED-C44-102",
-   "sec": "Pancreatic and drug-induced diabetes algorithm",
+   "sec": "Pancreatic and drug-induced diabetes",
    "page": 925,
    "fmt": "truefalse",
-   "q": "Assess type 3c: I Insulin therapy is usually required. II Metformin is the preferred first-line therapy in type 3c.",
+   "q": "Assess the pancreatic-DM cause list: I Tropical chronic calcific pancreatitis is listed. II IgG4-related disease is listed.",
    "opts": [
-    "Both false",
+    "Both true",
     "I true; II false",
     "I false; II true",
-    "Both true"
+    "Both false"
    ],
    "ans": 0,
-   "exp": "Type 3c diabetes usually requires insulin because of combined endocrine and exocrine deficiency; metformin is not first-line. (Book p925)"
+   "exp": "The Type 3 DM cause list includes tropical chronic calcific pancreatitis and IgG4-related disease. (Book p925)"
   },
   {
    "id": "MED-C44-103",
-   "sec": "Pancreatic and drug-induced diabetes algorithm",
+   "sec": "Pancreatic and drug-induced diabetes",
    "page": 925,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a drug that causes hyperglycaemia?",
+   "fmt": "recall",
+   "q": "Type 3c DM on this page is identified with:",
    "opts": [
-    "Metformin (correct answer)",
-    "Glucocorticoids",
-    "Tacrolimus (alternative)",
-    "Antipsychotics (olanzapine)"
+    "Tropical chronic calcific pancreatitis",
+    "Alzheimer’s disease",
+    "Drug-induced diabetes",
+    "Gestational diabetes"
    ],
    "ans": 0,
-   "exp": "Metformin is hypoglycaemic; glucocorticoids, tacrolimus and olanzapine cause hyperglycaemia. (Book p925)"
+   "exp": "The page labels Type 3c as TCCP, tropical chronic calcific pancreatitis. (Book p925)"
   },
   {
    "id": "MED-C44-104",
-   "sec": "Pancreatic and drug-induced diabetes algorithm",
+   "sec": "Pancreatic and drug-induced diabetes",
    "page": 925,
-   "fmt": "fillup",
-   "q": "New-onset diabetes after solid-organ transplantation is most commonly caused by ___ therapy.",
+   "fmt": "numeric",
+   "q": "The clinical-feature section places Type 3c onset chiefly in which decades?",
    "opts": [
-    "HMG-CoA reductase inhibitor (statin)",
-    "Antiplatelet agent (aspirin)",
-    "Calcineurin inhibitor (tacrolimus / ciclosporin)",
-    "Angiotensin-converting enzyme inhibitor"
+    "Fourth and fifth decades",
+    "Sixth and seventh decades",
+    "Second and third decades",
+    "First and second decades"
    ],
    "ans": 2,
-   "exp": "Calcineurin inhibitors, especially tacrolimus, are common causes of post-transplant diabetes. (Book p925)"
+   "exp": "The Type 3c clinical features begin with second–third decade and younger males. (Book p925)"
   },
   {
    "id": "MED-C44-105",
-   "sec": "Pancreatic and drug-induced diabetes algorithm",
+   "sec": "Pancreatic and drug-induced diabetes",
    "page": 925,
    "fmt": "match",
-   "q": "Match the following antibody result to its subtype on the page's algorithm — 1) High antibodies 2) Low antibodies 3) No antibodies … A) T1DM B) LADA C) T2DM or MODY",
+   "q": "Match the Type 3c feature to its printed detail — 1) Ductal change 2) Cancer risk 3) Body/ketosis profile 4) Investigation … A) Large ductal calculi, duct dilation and marked fibrosis B) Increased risk of pancreatic cancer C) Lean young ketosis-negative DM D) ERCP gold standard",
    "opts": [
-    "1-A, 2-C, 3-B",
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C",
-    "1-C, 2-A, 3-B"
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C"
    ],
    "ans": 2,
-   "exp": "The algorithm maps high antibodies to T1DM, low antibodies to LADA and no antibodies to T2DM or MODY. (Book p925)"
+   "exp": "The page describes large ductal calculi with dilation and fibrosis, increased pancreatic-cancer risk, lean young ketosis-negative diabetes, and ERCP as the gold standard. (Book p925)"
   },
   {
    "id": "MED-C44-106",
-   "sec": "Pancreatic and drug-induced diabetes algorithm",
+   "sec": "Pancreatic and drug-induced diabetes",
    "page": 925,
-   "fmt": "scenario",
-   "q": "A 45-year-old non-obese patient has high GAD antibody titre and progresses to insulin within 2 years. The most consistent diagnosis is:",
+   "fmt": "fillup",
+   "q": "The Type 3c clinical combination written on the page is DM with steatorrhea and abdominal ___.",
    "opts": [
-    "LADA (correct answer)",
-    "T2DM (alternative)",
-    "MODY 2 (alternative)",
-    "Type 3c diabetes"
+    "pain",
+    "swelling",
+    "bleeding",
+    "itching"
    ],
    "ans": 0,
-   "exp": "Slow autoimmune progression in non-obese adult fits LADA. (Book p925)"
+   "exp": "The clinical-features list reads DM plus steatorrhea plus abdominal pain. (Book p925)"
   },
   {
    "id": "MED-C44-107",
-   "sec": "Pancreatic and drug-induced diabetes algorithm",
+   "sec": "Pancreatic and drug-induced diabetes",
    "page": 925,
    "fmt": "truefalse",
-   "q": "Assess this caveat: I The page's algorithm labels 'Low antibodies' as T1DM and 'High antibodies' as LADA. II The C-peptide table on p928 reverses these patterns.",
+   "q": "Assess the Type 3c complications: I Nephropathy is listed. II Macrovascular complications are described as common.",
    "opts": [
-    "I true; II false",
+    "Both true",
     "I false; II true",
     "Both false",
-    "Both true"
+    "I true; II false"
    ],
    "ans": 3,
-   "exp": "The page's arrow scheme appears inverted (high antibody → T1DM, low → LADA); the C-peptide table on p928 uses the standard pattern (T1DM low C-peptide, LADA intermediate). Note this inconsistency when teaching. (Book p925)"
+   "exp": "Nephropathy is listed, while macrovascular complications are described as rare. (Book p925)"
   },
   {
    "id": "MED-C44-108",
-   "sec": "Pancreatic and drug-induced diabetes algorithm",
+   "sec": "Pancreatic and drug-induced diabetes",
    "page": 925,
-   "fmt": "match",
-   "q": "Match the following drug to its diabetogenic mechanism — 1) Glucocorticoids 2) Olanzapine 3) Tacrolimus 4) Pentamidine … A) Increase gluconeogenesis and IR B) Weight gain and IR via H1 antagonism C) Direct β-cell toxicity D) β-cell destruction causing hypoglycaemia then diabetes",
+   "fmt": "management",
+   "q": "Which procedure is labelled the gold-standard investigation for the Type 3c pattern?",
    "opts": [
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-B, 3-A, 4-C",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D"
+    "Fasting C-peptide",
+    "Ultrasound of the thyroid",
+    "ERCP",
+    "HbA1c"
    ],
    "ans": 2,
-   "exp": "Steroids drive gluconeogenesis and insulin resistance; olanzapine causes weight gain and IR via histamine antagonism; tacrolimus has direct β-cell effects; pentamidine causes β-cell destruction with biphasic glycaemia. (Book p925)"
+   "exp": "The investigation line labels ERCP as the gold standard. (Book p925)"
   },
   {
    "id": "MED-C44-109",
-   "sec": "Pancreatic and drug-induced diabetes algorithm",
+   "sec": "Pancreatic and drug-induced diabetes",
    "page": 925,
-   "fmt": "scenario",
-   "q": "A patient with Cushing disease has worsening diabetes despite escalating metformin. The most appropriate next step is:",
-   "opts": [
-    "Add SGLT2 inhibitor as monotherapy",
-    "Treat the underlying hypercortisolism first",
-    "Add a sulfonylurea (alternative)",
-    "Switch to insulin only (alternative)"
-   ],
-   "ans": 1,
-   "exp": "Treating the underlying hypercortisolism is essential; insulin is often needed regardless until cortisol is controlled. (Book p925)"
-  },
-  {
-   "id": "MED-C44-110",
-   "sec": "Pancreatic and drug-induced diabetes algorithm",
-   "page": 925,
-   "fmt": "fillup",
-   "q": "Pentamidine is associated with ___ glycaemia initially, then diabetes.",
-   "opts": [
-    "Hypo (correct answer)",
-    "Hyper (alternative)",
-    "No change in",
-    "Erratic but not hypo"
-   ],
-   "ans": 0,
-   "exp": "Pentamidine initially causes hypoglycaemia through β-cell destruction, followed by diabetes. (Book p925)"
-  },
-  {
-   "id": "MED-C44-111",
-   "sec": "Pancreatic and drug-induced diabetes algorithm",
-   "page": 925,
-   "fmt": "truefalse",
-   "q": "Assess these diabetogenic drugs: I Protease inhibitors can cause insulin resistance. II Niacin causes hyperglycaemia.",
-   "opts": [
-    "Both false",
-    "Both true",
-    "I true; II false",
-    "I false; II true"
-   ],
-   "ans": 1,
-   "exp": "Protease inhibitors (especially indinavir) cause insulin resistance; niacin also worsens glycaemia. (Book p925)"
-  },
-  {
-   "id": "MED-C44-112",
-   "sec": "Diabetes associations and review",
-   "page": 926,
    "fmt": "match",
-   "q": "Match the following diabetes association — 1) Haemochromatosis 2) Cushing 3) Acromegaly 4) Pheochromocytoma … A) Bronze diabetes from iron deposition B) Hypercortisolism-induced IR C) Excess GH-induced IR D) Catecholamine-induced hyperglycaemia",
+   "q": "Match the Type 3d drug-associated group to the example — 1) Immunosuppressant 2) Anticancer 3) Psychiatric 4) Diuretic … A) Tacrolimus B) L-asparaginase C) Olanzapine D) Thiazide",
    "opts": [
     "1-D, 2-A, 3-B, 4-C",
     "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D"
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B"
    ],
    "ans": 1,
-   "exp": "Haemochromatosis causes bronze diabetes from iron deposition; Cushing produces hypercortisolism-induced insulin resistance; acromegaly causes GH-induced IR; pheochromocytoma causes catecholamine-induced hyperglycaemia. (Book p926)"
+   "exp": "The Type 3d list gives tacrolimus as immunosuppressant, L-asparaginase as anticancer, olanzapine as psychiatric, and thiazide as diuretic. (Book p925)"
+  },
+  {
+   "id": "MED-C44-110",
+   "sec": "Pancreatic and drug-induced diabetes",
+   "page": 925,
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the insulin-independent drug examples at the bottom of the page?",
+   "opts": [
+    "Tacrolimus",
+    "Nicotinic acid",
+    "Statins",
+    "Aspirin"
+   ],
+   "ans": 0,
+   "exp": "The page places nicotinic acid, statins and aspirin under acting independent of insulin; tacrolimus is listed under immunosuppressants. (Book p925)"
+  },
+  {
+   "id": "MED-C44-111",
+   "sec": "Pancreatic and drug-induced diabetes",
+   "page": 925,
+   "fmt": "recall",
+   "q": "Which drug is listed under the endocrine group of Type 3d drug causes?",
+   "opts": [
+    "Thiazide",
+    "GH",
+    "Tacrolimus",
+    "Olanzapine"
+   ],
+   "ans": 1,
+   "exp": "GH is written under the endocrine group in the Type 3d drug list. (Book p925)"
+  },
+  {
+   "id": "MED-C44-112",
+   "sec": "Conditions associated with diabetes mellitus",
+   "page": 926,
+   "fmt": "match",
+   "q": "Match the endocrine condition to the group on this page — 1) Cushing’s 2) Acromegaly 3) Pheochromocytoma 4) Somatostatinoma … A) Endocrinopathy B) Endocrinopathy C) Endocrinopathy D) Endocrinopathy",
+   "opts": [
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 1,
+   "exp": "All four named conditions appear in the Endocrinopathies list associated with DM. (Book p926)"
   },
   {
    "id": "MED-C44-113",
-   "sec": "Diabetes associations and review",
+   "sec": "Conditions associated with diabetes mellitus",
    "page": 926,
-   "fmt": "scenario",
-   "q": "A 50-year-old with hypertension, centripetal obesity and purple striae has new diabetes. The most likely diagnosis is:",
+   "fmt": "recall",
+   "q": "Which of the following is listed under endocrinopathies associated with DM?",
    "opts": [
-    "Type 2 diabetes",
-    "LADA (alternative)",
-    "MODY 3 (alternative)",
-    "Cushing syndrome"
+    "Osteoarthritis",
+    "Bronchiectasis",
+    "Glomerulonephritis",
+    "Hyperparathyroidism"
    ],
    "ans": 3,
-   "exp": "Centripetal obesity, hypertension and purple striae suggest Cushing syndrome as the secondary cause of diabetes. (Book p926)"
+   "exp": "Hyperparathyroidism is one of the endocrinopathies listed on the page. (Book p926)"
   },
   {
    "id": "MED-C44-114",
-   "sec": "Diabetes associations and review",
+   "sec": "Conditions associated with diabetes mellitus",
    "page": 926,
-   "fmt": "truefalse",
-   "q": "Assess acromegaly: I Diabetes improves with treatment of GH excess. II Diabetes persists despite cure of acromegaly in most patients.",
+   "fmt": "fillup",
+   "q": "The endocrine list includes Cushing’s, acromegaly, hyperthyroidism, hyperparathyroidism, pheochromocytoma, glucagonoma and ___.",
    "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
+    "Somatostatinoma",
+    "Prolactinoma",
+    "Insulinoma",
+    "Thymoma"
    ],
    "ans": 0,
-   "exp": "Diabetes improves with control of GH excess in many acromegaly patients; in some, diabetes persists despite cure. (Book p926)"
+   "exp": "Somatostatinoma is the final endocrine condition in the printed list. (Book p926)"
   },
   {
    "id": "MED-C44-115",
-   "sec": "Diabetes associations and review",
+   "sec": "Conditions associated with diabetes mellitus",
    "page": 926,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a non-pancreatic endocrine cause of diabetes?",
+   "fmt": "truefalse",
+   "q": "Assess the endocrine list: I Glucagonoma is included. II Somatostatinoma is included.",
    "opts": [
-    "Acromegaly",
-    "Pheochromocytoma",
-    "Insulinoma",
-    "Cushing syndrome"
+    "I false; II true",
+    "Both false",
+    "Both true",
+    "I true; II false"
    ],
    "ans": 2,
-   "exp": "Insulinoma is a pancreatic tumour that causes hypoglycaemia, not hyperglycaemia; the others cause hyperglycaemia. (Book p926)"
+   "exp": "Both glucagonoma and somatostatinoma are listed under endocrinopathies associated with DM. (Book p926)"
   },
   {
    "id": "MED-C44-116",
-   "sec": "Diabetes associations and review",
+   "sec": "Conditions associated with diabetes mellitus",
    "page": 926,
-   "fmt": "fillup",
-   "q": "Bronze skin, hepatomegaly and new-onset diabetes suggest ___.",
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the genetic diseases listed on the page?",
    "opts": [
-    "MODY 3 (alternative)",
-    "LADA (alternative)",
-    "Type 1 diabetes",
-    "Hereditary haemochromatosis"
+    "Down’s syndrome",
+    "Klinefelter syndrome",
+    "Friedreich’s ataxia",
+    "Marfan syndrome"
    ],
    "ans": 3,
-   "exp": "Bronze skin with hepatomegaly and diabetes fits hereditary haemochromatosis; iron studies confirm. (Book p926)"
+   "exp": "Marfan syndrome is not in the printed genetic-disease list; Down’s, Klinefelter’s and Friedreich’s ataxia are. (Book p926)"
   },
   {
    "id": "MED-C44-117",
-   "sec": "Diabetes associations and review",
+   "sec": "Conditions associated with diabetes mellitus",
    "page": 926,
    "fmt": "match",
-   "q": "Match the following diagnostic clue to the cause — 1) Elevated transferrin saturation 2) Elevated urinary free cortisol 3) Elevated IGF-1 4) Elevated plasma metanephrines … A) Haemochromatosis B) Cushing syndrome C) Acromegaly D) Pheochromocytoma",
+   "q": "Match the genetic disease to its exact place in the printed list — 1) Down’s syndrome 2) Huntington’s 3) Wolfram syndrome 4) Laurence–Moon–Biedl syndrome … A) Listed genetic disease B) Listed genetic disease C) Listed genetic disease D) Listed genetic disease",
    "opts": [
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-B, 3-A, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A",
     "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D"
+    "1-B, 2-A, 3-D, 4-C"
    ],
    "ans": 2,
-   "exp": "Transferrin saturation supports haemochromatosis; urinary free cortisol supports Cushing; IGF-1 supports acromegaly; plasma metanephrines support pheochromocytoma. (Book p926)"
+   "exp": "Down’s syndrome, Huntington’s, Wolfram syndrome and Laurence–Moon–Biedl syndrome all appear in the genetic-disease list. (Book p926)"
   },
   {
    "id": "MED-C44-118",
-   "sec": "Diabetes associations and review",
+   "sec": "Conditions associated with diabetes mellitus",
    "page": 926,
    "fmt": "scenario",
-   "q": "A patient on protease inhibitors has new diabetes. The mechanism is most consistent with:",
+   "q": "A question asks for a genetic disease associated with DM from the page rather than an endocrinopathy. Which choice belongs to that genetic list?",
    "opts": [
-    "Autoimmune β-cell destruction",
-    "Insulinoma (alternative)",
-    "MODY 2 (alternative)",
-    "Insulin resistance"
+    "Cushing’s",
+    "Acromegaly",
+    "Pheochromocytoma",
+    "Myotonic dystrophy"
    ],
    "ans": 3,
-   "exp": "Protease inhibitors cause insulin resistance rather than autoimmune destruction. (Book p926)"
+   "exp": "Myotonic dystrophy appears under genetic disease; the other three choices are in the endocrinopathy list. (Book p926)"
   },
   {
    "id": "MED-C44-119",
-   "sec": "Diabetes associations and review",
+   "sec": "Conditions associated with diabetes mellitus",
    "page": 926,
-   "fmt": "truefalse",
-   "q": "Assess post-transplant diabetes: I It is associated with worse graft outcomes. II Tacrolimus has a lower diabetogenic potential than ciclosporin.",
+   "fmt": "recall",
+   "q": "Which condition is printed between Prader Willi and myotonic dystrophy in the genetic list?",
    "opts": [
-    "I false; II true",
-    "Both true",
-    "Both false",
-    "I true; II false"
+    "Wolfram syndrome",
+    "Klinefelter syndrome",
+    "Porphyria",
+    "Huntington’s"
    ],
    "ans": 2,
-   "exp": "Post-transplant diabetes worsens graft outcomes; tacrolimus is more diabetogenic than ciclosporin. (Book p926)"
+   "exp": "The genetic list runs Down’s, Klinefelter, Friedreich’s ataxia, Huntington’s, Prader Willi, porphyria, myotonic dystrophy, Wolfram and Laurence–Moon–Biedl. (Book p926)"
   },
   {
    "id": "MED-C44-120",
-   "sec": "Diabetes associations and review",
+   "sec": "Conditions associated with diabetes mellitus",
    "page": 926,
-   "fmt": "match",
-   "q": "Match the following endocrine tumour to its metabolic effect — 1) Glucagonoma 2) Somatostatinoma 3) VIPoma 4) Insulinoma … A) Necrolytic migratory erythema + diabetes B) Inhibits insulin secretion C) WDHA syndrome D) Hypoglycaemia",
+   "fmt": "numeric",
+   "q": "How many genetic diseases are visibly listed under the genetic-disease heading?",
    "opts": [
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-B, 3-C, 4-A",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D"
+    "7",
+    "11",
+    "9",
+    "5"
    ],
    "ans": 2,
-   "exp": "Glucagonoma causes necrolytic migratory erythema with diabetes; somatostatinoma inhibits insulin; VIPoma causes WDHA; insulinoma causes hypoglycaemia. (Book p926)"
+   "exp": "The page lists nine genetic diseases: Down’s, Klinefelter, Friedreich’s ataxia, Huntington’s, Prader Willi, porphyria, myotonic dystrophy, Wolfram syndrome and Laurence–Moon–Biedl syndrome. (Book p926)"
   },
   {
    "id": "MED-C44-121",
-   "sec": "Diabetes associations and review",
-   "page": 926,
-   "fmt": "scenario",
-   "q": "A patient with weight loss, necrolytic migratory erythema and diabetes most likely has:",
-   "opts": [
-    "VIPoma (alternative)",
-    "Insulinoma (insulin-secreting tumour)",
-    "Glucagonoma",
-    "Somatostatinoma"
-   ],
-   "ans": 2,
-   "exp": "Necrolytic migratory erythema with diabetes is the textbook glucagonoma presentation. (Book p926)"
-  },
-  {
-   "id": "MED-C44-122",
-   "sec": "Diabetes associations and review",
-   "page": 926,
-   "fmt": "fillup",
-   "q": "The classic triad of pancreatic cholera is watery diarrhoea, hypokalaemia and ___.",
-   "opts": [
-    "Hypercalcaemia",
-    "Achlorhydria",
-    "Acromegaly",
-    "Alkalosis"
-   ],
-   "ans": 1,
-   "exp": "VIPoma causes WDHA: watery diarrhoea, hypokalaemia and achlorhydria. (Book p926)"
-  },
-  {
-   "id": "MED-C44-123",
-   "sec": "Diabetes associations and review",
+   "sec": "Conditions associated with diabetes mellitus",
    "page": 926,
    "fmt": "truefalse",
-   "q": "Assess these endocrine syndromes: I Acromegaly with diabetes is an indication for IGF-1 measurement. II Pheochromocytoma always presents with sustained hypertension.",
+   "q": "Assess the genetic-disease section: I Porphyria is listed. II Wolfram syndrome is listed.",
    "opts": [
     "I false; II true",
-    "Both true",
     "Both false",
+    "Both true",
     "I true; II false"
    ],
    "ans": 2,
-   "exp": "Acromegaly diagnosis requires elevated IGF-1; pheochromocytoma typically presents with paroxysmal, not always sustained, hypertension. (Book p926)"
+   "exp": "Both porphyria and Wolfram syndrome appear in the genetic-disease list. (Book p926)"
+  },
+  {
+   "id": "MED-C44-122",
+   "sec": "Conditions associated with diabetes mellitus",
+   "page": 926,
+   "fmt": "management",
+   "q": "When sorting the page's associations with DM, which label should be placed under the genetic-disease heading?",
+   "opts": [
+    "Cushing’s",
+    "Prader Willi",
+    "Glucagonoma",
+    "Hyperthyroidism"
+   ],
+   "ans": 1,
+   "exp": "Prader Willi is in the genetic-disease list, while glucagonoma, hyperthyroidism and Cushing’s are in the endocrinopathy list. (Book p926)"
+  },
+  {
+   "id": "MED-C44-123",
+   "sec": "Conditions associated with diabetes mellitus",
+   "page": 926,
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the named genetic diseases on this page?",
+   "opts": [
+    "Wolfram syndrome",
+    "Huntington’s",
+    "Somatostatinoma",
+    "Porphyria"
+   ],
+   "ans": 2,
+   "exp": "Somatostatinoma belongs to the endocrinopathy list; porphyria, Wolfram syndrome and Huntington’s belong to the genetic list. (Book p926)"
   }
  ],
  "units": [
@@ -1854,9 +1854,9 @@
    "id": "MED-U44-1",
    "ch": 44,
    "n": 1,
-   "title": "Diabetes definition and three pillars",
-   "sec": "Diabetes definition and three pillars · p917",
-   "guide": "Anchor the three pillars (FPG ≥126, 2-h PG ≥200, HbA1c ≥6.5%) and pre-diabetes ranges. Asymptomatic diagnosis requires repeat testing; oral glucose tolerance test detects IGT earlier than fasting glucose.",
+   "title": "Introduction and classification",
+   "sec": "Introduction and classification of diabetes mellitus · p917",
+   "guide": "Cover the opening association and symptom, Type 1/2/hybrid/Type 3/Type 4/MODY/GDM classification, the Alzheimer’s branch and the artificial-pancreas note.",
    "qs": [
     "MED-C44-001",
     "MED-C44-002",
@@ -1877,9 +1877,9 @@
    "id": "MED-U44-2",
    "ch": 44,
    "n": 2,
-   "title": "Ominous octet and pathophysiology of T2DM",
-   "sec": "Ominous octet and pathophysiology of T2DM · p918",
-   "guide": "Map the eight defects: pancreas (β/α), liver (gluconeogenesis), muscle (GLUT4), fat (lipolysis), brain, gut (incretin), kidney (SGLT2). Note the schematic's 'CPT-1 absent in liver' is biologically inaccurate; insulin normally suppresses HSL in adipocytes.",
+   "title": "Pathophysiology: three pillars and ominous octet",
+   "sec": "Pathophysiology: three pillars and ominous octet · p918",
+   "guide": "Follow the three pillars, GLUT-4 tissue box, ominous-octet branches, FFA portal flow, CPT-1 drawing and HSL note in page order.",
    "qs": [
     "MED-C44-014",
     "MED-C44-015",
@@ -1900,9 +1900,9 @@
    "id": "MED-U44-3",
    "ch": 44,
    "n": 3,
-   "title": "Dirty dozen, classification, diagnostics",
-   "sec": "Dirty dozen, classification, diagnostics · p919",
-   "guide": "Distinguish Type 1, Type 2, gestational and other specific types. MODY 3 (HNF1A) is sulfonylurea-responsive; MODY 2 (GCK) is mild and rarely treated; autoimmune screening uses GAD, IA-2 and ZnT8.",
+   "title": "Newer discoveries, diagnosis and pre-diabetes",
+   "sec": "Newer discoveries, diagnostic criteria and pre-diabetes · p919",
+   "guide": "Cover Dirty dozen, Treacherous 13, Faithless 14, the four diagnostic branches and the pre-diabetes table.",
    "qs": [
     "MED-C44-027",
     "MED-C44-028",
@@ -1923,9 +1923,9 @@
    "id": "MED-U44-4",
    "ch": 44,
    "n": 4,
-   "title": "Pre-DM treatment, screening, HbA1c targets",
-   "sec": "Pre-DM treatment, screening, HbA1c targets · p920",
-   "guide": "Lifestyle (7% weight loss, 150 min/week) is first-line; metformin is added for high-risk patients; metformin is contraindicated at eGFR <30. Most adults aim HbA1c <7%, elderly 7.5–8%, pregnancy <6.5%.",
+   "title": "Treatment of pre-diabetes and screening",
+   "sec": "Treatment of pre-diabetes and screening · p920",
+   "guide": "Cover the metformin and pioglitazone notes, screening indications and tests, HbA1c limitations and interference table.",
    "qs": [
     "MED-C44-040",
     "MED-C44-041",
@@ -1945,9 +1945,9 @@
    "id": "MED-U44-5",
    "ch": 44,
    "n": 5,
-   "title": "Classification: LADA, type 3c, type 4, monogenic",
-   "sec": "Classification: LADA, type 3c, type 4, monogenic · p921",
-   "guide": "LADA is slow autoimmune diabetes in non-obese adults; Type 3c is pancreatogenic; GDM is pregnancy-onset. Wolfram syndrome (DIDMOAD) and mitochondrial diabetes (MELAS-related) are rare monogenic forms.",
+   "title": "Type 1.5 diabetes and antibody table",
+   "sec": "Type 1.5 diabetes and diagnostic algorithm · p921",
+   "guide": "Compare KPD/Flatbush and LADA line by line, then cover the antibody sensitivity/specificity table and the printed diagnostic algorithm.",
    "qs": [
     "MED-C44-052",
     "MED-C44-053",
@@ -1967,9 +1967,9 @@
    "id": "MED-U44-6",
    "ch": 44,
    "n": 6,
-   "title": "Type 2 history, metabolic syndrome, BMI",
-   "sec": "Type 2 history, metabolic syndrome, BMI · p922",
-   "guide": "South Asians face higher diabetes risk at lower BMIs (overweight ≥23, obese ≥25). Metabolic syndrome combines waist, BP, TG, HDL and fasting glucose criteria; insulin, sulfonylureas, metformin and GLP-1 agonists each mark a discovery milestone.",
+   "title": "Type 2 natural history and metabolic syndrome",
+   "sec": "Type 2 diabetes, metabolic syndrome and BMI · p922",
+   "guide": "Read the natural-history graph, comorbidity list, five metabolic-syndrome criteria, WHO/Indian BMI table and Indian diabesity list.",
    "qs": [
     "MED-C44-064",
     "MED-C44-065",
@@ -1989,9 +1989,9 @@
    "id": "MED-U44-7",
    "ch": 44,
    "n": 7,
-   "title": "T1DM markers, autoimmunity and antibody interpretation",
-   "sec": "T1DM markers, autoimmunity and antibody interpretation · p923",
-   "guide": "GAD, IA-2 and ZnT8 are the principal autoantibodies; ZnT8 positivity exceeds 95% in some populations. C-peptide measures endogenous insulin; insulin level is confounded by exogenous insulin. HLA-DR3/DR4 increase T1DM risk.",
+   "title": "Type 1 DM comparison",
+   "sec": "Type 1 DM pathophysiology and Type 1 versus Type 2 · p923",
+   "guide": "Cover beta-cell destruction, markers, HLA entries and every Type 1/Type 2 comparison row including the percentage risks.",
    "qs": [
     "MED-C44-076",
     "MED-C44-077",
@@ -2011,9 +2011,9 @@
    "id": "MED-U44-8",
    "ch": 44,
    "n": 8,
-   "title": "Insulin-resistance syndromes, MODY, type 4",
-   "sec": "Insulin-resistance syndromes, MODY, type 4 · p924",
-   "guide": "Type A insulin-resistance is genetic (INSR), Type B is autoimmune. HAIR-AN combines hyperandrogenism, IR and acanthosis; Donohue and Rabson-Mendenhall are severe receptor mutations. KCNJ11 and ABCC8 mutations cause sulfonylurea-responsive neonatal diabetes.",
+   "title": "Genetic syndromes and MODY",
+   "sec": "Genetic syndromes associated with DM and MODY · p924",
+   "guide": "Cover the resistance-syndrome table, Type 4 MARD, MODY definition/features, five MODY rows and exact treatments/features.",
    "qs": [
     "MED-C44-088",
     "MED-C44-089",
@@ -2033,9 +2033,9 @@
    "id": "MED-U44-9",
    "ch": 44,
    "n": 9,
-   "title": "Pancreatic and drug-induced diabetes algorithm",
-   "sec": "Pancreatic and drug-induced diabetes algorithm · p925",
-   "guide": "Chronic pancreatitis causes most type 3c diabetes; pancreatic cancer can present with new-onset diabetes. Glucocorticoids, tacrolimus, antipsychotics and pentamidine are notable diabetogenic drugs. Note the algorithm's arrow scheme appears inverted vs the C-peptide table on p928.",
+   "title": "Pancreatic and drug-induced diabetes",
+   "sec": "Pancreatic and drug-induced diabetes · p925",
+   "guide": "Follow the C-peptide/antibody algorithm, Type 3 causes and TCCP features, ERCP note and Type 3d drug examples.",
    "qs": [
     "MED-C44-100",
     "MED-C44-101",
@@ -2055,9 +2055,9 @@
    "id": "MED-U44-10",
    "ch": 44,
    "n": 10,
-   "title": "Diabetes associations and review",
-   "sec": "Diabetes associations and review · p926",
-   "guide": "Haemochromatosis causes 'bronze diabetes'; Cushing, acromegaly and pheochromocytoma are endocrine causes of secondary diabetes. Glucagonoma presents with necrolytic migratory erythema and diabetes; VIPoma causes WDHA.",
+   "title": "Conditions associated with DM",
+   "sec": "Conditions associated with diabetes mellitus · p926",
+   "guide": "Cover both the endocrinopathy list and the complete genetic-disease list exactly as printed.",
    "qs": [
     "MED-C44-112",
     "MED-C44-113",

@@ -1,94 +1,46 @@
 {
  "page": 927,
- "sec": "Insulin: structure, secretion and signalling",
+ "sec": "Physiology of insulin",
  "items": [
   {
-   "fmt": "match",
-   "q": "Match the following insulin features — 1) Chain length 2) Receptor type 3) Receptor kinase 4) Pre-prohormone … A) 51 amino acids in two chains B) Tyrosine kinase receptor C) Insulin receptor substrate (IRS) D) Preproinsulin",
+   "fmt": "numeric",
+   "q": "The islets of Langerhans are written as what percentage of pancreatic volume?",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-B, 2-A, 3-D, 4-C"
+    "2%",
+    "5%",
+    "10%",
+    "20%"
    ],
    "ans": 0,
-   "exp": "Insulin has 51 amino acids in two chains; receptor is a tyrosine kinase; downstream signalling uses IRS proteins; the precursor is preproinsulin. (Book p927)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A neonate has refractory hyperglycaemia with severe insulin resistance and elevated triglycerides. The most likely genetic defect involves the:",
-   "opts": [
-    "Insulin receptor (INSR)",
-    "GCK (alternative)",
-    "HNF1A (alternative)",
-    "KCNJ11 (alternative)"
-   ],
-   "ans": 0,
-   "exp": "Severe insulin resistance with hyperglycaemia in a neonate is consistent with insulin-receptor mutations (Donohue or Rabson-Mendenhall). (Book p927)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess insulin structure: I Insulin is composed of A and B chains linked by disulphide bridges. II C-peptide remains attached in mature insulin.",
-   "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
-   ],
-   "ans": 0,
-   "exp": "Insulin has A and B chains linked by disulphide bonds; C-peptide is cleaved from proinsulin and is not part of mature insulin. (Book p927)"
-  },
-  {
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a step in insulin biosynthesis?",
-   "opts": [
-    "Preproinsulin → proinsulin",
-    "Proinsulin → insulin + C-peptide",
-    "Insulin → glucose (alternative)",
-    "Proinsulin packaged in granules"
-   ],
-   "ans": 0,
-   "exp": "Insulin does not directly produce glucose; it lowers glucose by promoting uptake and inhibiting production. (Book p927)"
+   "exp": "The formation note says islets of Langerhans are 2% of pancreatic volume. (Book p927)"
   },
   {
    "fmt": "fillup",
-   "q": "Insulin lowers blood glucose primarily by stimulating glucose uptake via ___ translocation.",
+   "q": "Insulin is written as a polypeptide of ___ amino acids.",
    "opts": [
-    "GLUT4",
-    "GLUT2",
-    "SGLT2",
-    "GLUT1"
+    "51",
+    "21",
+    "36",
+    "84"
    ],
    "ans": 0,
-   "exp": "GLUT4 translocation to the muscle and adipocyte membrane is insulin's main glucose-lowering step. (Book p927)"
+   "exp": "The formation note identifies insulin as a polypeptide of 51 amino acids. (Book p927)"
   },
   {
    "fmt": "match",
-   "q": "Match the following stimulus — 1) Glucose 2) Amino acids (especially leucine) 3) Incretins (GLP-1, GIP) 4) Vagal stimulation … A) Most potent stimulus for insulin secretion B) Stimulus during protein-rich meals C) Augment glucose-stimulated secretion D) Cephalic-phase insulin release",
+   "q": "Match the insulin physiology item to its printed description — 1) Formation site 2) Structure 3) Receptor 4) Exception … A) Islets of Langerhans B) Chains connected by disulphide bonds C) Tyrosine kinase D) TGF-β uses serine-threonine kinase",
    "opts": [
     "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-B, 3-A, 4-C"
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C"
    ],
    "ans": 0,
-   "exp": "Glucose is the most potent stimulus; amino acids (especially leucine) trigger protein-meal insulin; incretins augment glucose-stimulated secretion; vagal activity drives cephalic-phase release. (Book p927)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A patient has postprandial hypoglycaemia after Roux-en-Y gastric bypass. The most consistent mechanism is:",
-   "opts": [
-    "Exaggerated incretin and insulin response",
-    "Adrenal insufficiency (alternative)",
-    "Insulinoma (alternative)",
-    "Factitious sulfonylurea use"
-   ],
-   "ans": 0,
-   "exp": "Roux-en-Y bypass causes rapid glucose delivery with exaggerated GLP-1 and insulin surges, producing late hypoglycaemia. (Book p927)"
+   "exp": "The page gives islets of Langerhans, chains joined by disulphide bonds, a tyrosine-kinase receptor, and TGF-β as the serine-threonine-kinase exception. (Book p927)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess insulin secretion phases: I First phase peaks within minutes and lasts ~10 minutes. II Second phase is sustained and involves newly synthesised insulin.",
+   "q": "Assess the receptor note: I Insulin acts via a tyrosine-kinase receptor. II TGF-β is listed as an exception using a serine-threonine-kinase pathway.",
    "opts": [
     "Both true",
     "I true; II false",
@@ -96,55 +48,103 @@
     "Both false"
    ],
    "ans": 0,
-   "exp": "First phase releases stored granules within minutes; second phase is sustained and involves newly synthesised insulin. (Book p927)"
+   "exp": "Both receptor statements are written in the physiology notes. (Book p927)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which tissue is included in the page's insulin-dependent GLUT-4 glucose uptake list?",
+   "opts": [
+    "Heart",
+    "Liver",
+    "Brain",
+    "Erythrocyte"
+   ],
+   "ans": 0,
+   "exp": "The GLUT-4 uptake list names skeletal muscle, adipose tissue and heart. (Book p927)"
   },
   {
    "fmt": "match",
-   "q": "Match the following ion channel / enzyme — 1) K-ATP channel 2) Voltage-gated Ca²⁺ channel 3) KIR6.2 subunit 4) SUR1 subunit … A) Closes on ATP rise B) Opens to trigger exocytosis C) Forms pore of K-ATP D) Sulfonylurea receptor",
+   "q": "Match the insulin effect to the carbohydrate-metabolism entry — 1) Glucose uptake 2) Glucose production 3) Gluconeogenesis 4) Glycogenolysis … A) Via GLUT-4 in muscle, adipose tissue and heart B) Regulated by insulin C) Decreased D) Decreased",
    "opts": [
     "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-B, 2-A, 3-C, 4-D"
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C"
    ],
    "ans": 0,
-   "exp": "ATP closes K-ATP channels; depolarisation opens voltage-gated Ca²⁺ channels triggering exocytosis; KIR6.2 forms the pore and SUR1 binds sulfonylureas. (Book p927)"
+   "exp": "The page shows insulin-dependent GLUT-4 uptake, regulation of glucose production, and negative effects on gluconeogenesis and glycogenolysis. (Book p927)"
   },
   {
    "fmt": "scenario",
-   "q": "A patient uses sulfonylurea and experiences hypoglycaemia. The mechanism is most consistent with:",
+   "q": "The page links increased glucose production to hyperglycemia and then to which pair through osmotic diuresis?",
    "opts": [
-    "Closure of K-ATP channels on β-cells",
-    "Opening of voltage-gated Ca²⁺ channels",
-    "Direct GLUT4 activation",
-    "Inhibition of α-glucosidase"
+    "Polyuria and polydipsia",
+    "Hemoptysis and edema",
+    "Jaundice and pruritus",
+    "Bradycardia and syncope"
    ],
    "ans": 0,
-   "exp": "Sulfonylureas bind SUR1, closing K-ATP channels, depolarising the β-cell and triggering insulin release. (Book p927)"
+   "exp": "The flow below increased glucose production reads hyperglycemia followed by polyuria and polydipsia through osmotic diuresis. (Book p927)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the infections specifically labelled as diabetic-mellitus specific?",
+   "opts": [
+    "Meningitis",
+    "Mucormycosis",
+    "Emphysematous cholecystitis",
+    "Malignant otitis externa"
+   ],
+   "ans": 0,
+   "exp": "The page lists mucormycosis, emphysematous cholecystitis, emphysematous pyelonephritis and malignant otitis externa; meningitis is not in that bracket. (Book p927)"
   },
   {
    "fmt": "fillup",
-   "q": "Insulin receptor signalling involves phosphorylation of ___ proteins.",
+   "q": "The protein-metabolism section links decreased amino-acid uptake to ___.",
    "opts": [
-    "Insulin receptor substrate (IRS)",
-    "Glucokinase (alternative)",
-    "Glucagon (alternative)",
-    "GLP-1 (alternative)"
+    "Weakness",
+    "Weight gain",
+    "Polycythemia",
+    "Hypertension"
    ],
    "ans": 0,
-   "exp": "IRS proteins are phosphorylated by the insulin-receptor tyrosine kinase, activating PI3K and downstream metabolic effects. (Book p927)"
+   "exp": "The page shows decreased amino-acid uptake leading to weakness. (Book p927)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess insulin effects: I Insulin suppresses lipolysis in adipocytes. II Insulin stimulates glycogenolysis in liver.",
+   "q": "Assess the protein-metabolism notes: I Decreased amino-acid synthesis is linked to infections. II Increased proteolysis is linked to wasting.",
    "opts": [
-    "Both false",
+    "Both true",
     "I true; II false",
     "I false; II true",
-    "Both true"
+    "Both false"
    ],
    "ans": 0,
-   "exp": "Insulin suppresses lipolysis and gluconeogenesis; it stimulates glycogen synthesis, not glycogenolysis. (Book p927)"
+   "exp": "Both arrows are shown in the protein-metabolism section. (Book p927)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which metabolism is listed after carbohydrate and protein metabolism at the bottom of the page?",
+   "opts": [
+    "Fat metabolism",
+    "Purine metabolism",
+    "Calcium metabolism",
+    "Bilirubin metabolism"
+   ],
+   "ans": 0,
+   "exp": "The third numbered section is fat metabolism and it notes lipolysis. (Book p927)"
+  },
+  {
+   "fmt": "management",
+   "q": "In the insulin-production diagram, what event follows ATP/ADP-related closure of the ATP-sensitive potassium channel?",
+   "opts": [
+    "Depolarization with calcium-channel involvement",
+    "Sodium loss with chloride entry",
+    "Protein degradation with urea release",
+    "Bile secretion with duct dilation"
+   ],
+   "ans": 0,
+   "exp": "The production diagram shows ATP/ADP, the ATP-sensitive K+ channel, depolarization and voltage-gated calcium-channel involvement before secretion. (Book p927)"
   }
  ]
 }

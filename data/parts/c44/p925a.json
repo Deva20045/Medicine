@@ -1,150 +1,150 @@
 {
  "page": 925,
- "sec": "Pancreatic and drug-induced diabetes algorithm",
+ "sec": "Pancreatic and drug-induced diabetes",
  "items": [
   {
    "fmt": "match",
-   "q": "Match the following pancreatic disease to its diabetes risk — 1) Chronic pancreatitis 2) Pancreatic ductal adenocarcinoma 3) Cystic fibrosis 4) Haemochromatosis … A) Most common cause of type 3c diabetes B) New-onset diabetes can be a presenting feature C) CFRD with insulin deficiency D) Iron deposition causing β-cell loss",
+   "q": "Match the diagnostic-algorithm branch to the printed result — 1) High C-peptide, Ab positive 2) Low C-peptide, Ab positive 3) Absent C-peptide 4) Absent branch label … A) T1DM B) LADA C) T2DM/MODY D) The algorithm does not add another result",
    "opts": [
     "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-B, 2-A, 3-C, 4-D"
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C"
    ],
    "ans": 0,
-   "exp": "Chronic pancreatitis is the most common cause of type 3c; pancreatic cancer can present with new-onset diabetes; cystic fibrosis causes CFRD; haemochromatosis deposits iron in β-cells. (Book p925)"
+   "exp": "The flowchart maps high C-peptide with positive antibody to T1DM, low with positive antibody to LADA, and absent to T2DM/MODY. (Book p925)"
   },
   {
    "fmt": "scenario",
-   "q": "A 65-year-old with new-onset diabetes has weight loss and epigastric pain; CT shows a pancreatic mass. The most consistent interpretation is:",
+   "q": "A young patient reaches the page's diagnostic algorithm after clinical features suggest a young-onset diabetes form. What is checked next?",
    "opts": [
-    "New-onset diabetes as a presenting sign of pancreatic cancer",
-    "Type 2 diabetes with weight loss from low calorie diet",
-    "LADA (alternative)",
-    "MODY 2 (alternative)"
+    "Fasting C-peptide levels",
+    "Post-meal triglycerides",
+    "Urinary ketones only",
+    "Serum calcium"
    ],
    "ans": 0,
-   "exp": "New-onset diabetes with weight loss and pancreatic mass raises suspicion for pancreatic ductal adenocarcinoma. (Book p925)"
+   "exp": "The algorithm says clinical features plus young age, followed by checking fasting C-peptide levels. (Book p925)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess type 3c: I Insulin therapy is usually required. II Metformin is the preferred first-line therapy in type 3c.",
+   "q": "Assess the pancreatic-DM cause list: I Tropical chronic calcific pancreatitis is listed. II IgG4-related disease is listed.",
    "opts": [
-    "Both false",
+    "Both true",
     "I true; II false",
     "I false; II true",
-    "Both true"
+    "Both false"
    ],
    "ans": 0,
-   "exp": "Type 3c diabetes usually requires insulin because of combined endocrine and exocrine deficiency; metformin is not first-line. (Book p925)"
+   "exp": "The Type 3 DM cause list includes tropical chronic calcific pancreatitis and IgG4-related disease. (Book p925)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Type 3c DM on this page is identified with:",
+   "opts": [
+    "Tropical chronic calcific pancreatitis",
+    "Alzheimer’s disease",
+    "Drug-induced diabetes",
+    "Gestational diabetes"
+   ],
+   "ans": 0,
+   "exp": "The page labels Type 3c as TCCP, tropical chronic calcific pancreatitis. (Book p925)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The clinical-feature section places Type 3c onset chiefly in which decades?",
+   "opts": [
+    "Second and third decades",
+    "First and second decades",
+    "Fourth and fifth decades",
+    "Sixth and seventh decades"
+   ],
+   "ans": 0,
+   "exp": "The Type 3c clinical features begin with second–third decade and younger males. (Book p925)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the Type 3c feature to its printed detail — 1) Ductal change 2) Cancer risk 3) Body/ketosis profile 4) Investigation … A) Large ductal calculi, duct dilation and marked fibrosis B) Increased risk of pancreatic cancer C) Lean young ketosis-negative DM D) ERCP gold standard",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "The page describes large ductal calculi with dilation and fibrosis, increased pancreatic-cancer risk, lean young ketosis-negative diabetes, and ERCP as the gold standard. (Book p925)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The Type 3c clinical combination written on the page is DM with steatorrhea and abdominal ___.",
+   "opts": [
+    "pain",
+    "swelling",
+    "bleeding",
+    "itching"
+   ],
+   "ans": 0,
+   "exp": "The clinical-features list reads DM plus steatorrhea plus abdominal pain. (Book p925)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the Type 3c complications: I Nephropathy is listed. II Macrovascular complications are described as common.",
+   "opts": [
+    "I true; II false",
+    "Both true",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Nephropathy is listed, while macrovascular complications are described as rare. (Book p925)"
+  },
+  {
+   "fmt": "management",
+   "q": "Which procedure is labelled the gold-standard investigation for the Type 3c pattern?",
+   "opts": [
+    "ERCP",
+    "HbA1c",
+    "Fasting C-peptide",
+    "Ultrasound of the thyroid"
+   ],
+   "ans": 0,
+   "exp": "The investigation line labels ERCP as the gold standard. (Book p925)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the Type 3d drug-associated group to the example — 1) Immunosuppressant 2) Anticancer 3) Psychiatric 4) Diuretic … A) Tacrolimus B) L-asparaginase C) Olanzapine D) Thiazide",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "The Type 3d list gives tacrolimus as immunosuppressant, L-asparaginase as anticancer, olanzapine as psychiatric, and thiazide as diuretic. (Book p925)"
   },
   {
    "fmt": "oddoneout",
-   "q": "Which is the odd one out — a drug that causes hyperglycaemia?",
+   "q": "Which is the odd one out among the insulin-independent drug examples at the bottom of the page?",
    "opts": [
-    "Metformin (correct answer)",
-    "Glucocorticoids",
-    "Tacrolimus (alternative)",
-    "Antipsychotics (olanzapine)"
+    "Tacrolimus",
+    "Nicotinic acid",
+    "Statins",
+    "Aspirin"
    ],
    "ans": 0,
-   "exp": "Metformin is hypoglycaemic; glucocorticoids, tacrolimus and olanzapine cause hyperglycaemia. (Book p925)"
+   "exp": "The page places nicotinic acid, statins and aspirin under acting independent of insulin; tacrolimus is listed under immunosuppressants. (Book p925)"
   },
   {
-   "fmt": "fillup",
-   "q": "New-onset diabetes after solid-organ transplantation is most commonly caused by ___ therapy.",
+   "fmt": "recall",
+   "q": "Which drug is listed under the endocrine group of Type 3d drug causes?",
    "opts": [
-    "Calcineurin inhibitor (tacrolimus / ciclosporin)",
-    "Angiotensin-converting enzyme inhibitor",
-    "HMG-CoA reductase inhibitor (statin)",
-    "Antiplatelet agent (aspirin)"
+    "GH",
+    "Tacrolimus",
+    "Olanzapine",
+    "Thiazide"
    ],
    "ans": 0,
-   "exp": "Calcineurin inhibitors, especially tacrolimus, are common causes of post-transplant diabetes. (Book p925)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following antibody result to its subtype on the page's algorithm — 1) High antibodies 2) Low antibodies 3) No antibodies … A) T1DM B) LADA C) T2DM or MODY",
-   "opts": [
-    "1-A, 2-B, 3-C",
-    "1-C, 2-A, 3-B",
-    "1-A, 2-C, 3-B",
-    "1-B, 2-A, 3-C"
-   ],
-   "ans": 0,
-   "exp": "The algorithm maps high antibodies to T1DM, low antibodies to LADA and no antibodies to T2DM or MODY. (Book p925)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A 45-year-old non-obese patient has high GAD antibody titre and progresses to insulin within 2 years. The most consistent diagnosis is:",
-   "opts": [
-    "LADA (correct answer)",
-    "T2DM (alternative)",
-    "MODY 2 (alternative)",
-    "Type 3c diabetes"
-   ],
-   "ans": 0,
-   "exp": "Slow autoimmune progression in non-obese adult fits LADA. (Book p925)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess this caveat: I The page's algorithm labels 'Low antibodies' as T1DM and 'High antibodies' as LADA. II The C-peptide table on p928 reverses these patterns.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "The page's arrow scheme appears inverted (high antibody → T1DM, low → LADA); the C-peptide table on p928 uses the standard pattern (T1DM low C-peptide, LADA intermediate). Note this inconsistency when teaching. (Book p925)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following drug to its diabetogenic mechanism — 1) Glucocorticoids 2) Olanzapine 3) Tacrolimus 4) Pentamidine … A) Increase gluconeogenesis and IR B) Weight gain and IR via H1 antagonism C) Direct β-cell toxicity D) β-cell destruction causing hypoglycaemia then diabetes",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-B, 3-A, 4-C"
-   ],
-   "ans": 0,
-   "exp": "Steroids drive gluconeogenesis and insulin resistance; olanzapine causes weight gain and IR via histamine antagonism; tacrolimus has direct β-cell effects; pentamidine causes β-cell destruction with biphasic glycaemia. (Book p925)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A patient with Cushing disease has worsening diabetes despite escalating metformin. The most appropriate next step is:",
-   "opts": [
-    "Treat the underlying hypercortisolism first",
-    "Add a sulfonylurea (alternative)",
-    "Switch to insulin only (alternative)",
-    "Add SGLT2 inhibitor as monotherapy"
-   ],
-   "ans": 0,
-   "exp": "Treating the underlying hypercortisolism is essential; insulin is often needed regardless until cortisol is controlled. (Book p925)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "Pentamidine is associated with ___ glycaemia initially, then diabetes.",
-   "opts": [
-    "Hypo (correct answer)",
-    "Hyper (alternative)",
-    "No change in",
-    "Erratic but not hypo"
-   ],
-   "ans": 0,
-   "exp": "Pentamidine initially causes hypoglycaemia through β-cell destruction, followed by diabetes. (Book p925)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess these diabetogenic drugs: I Protease inhibitors can cause insulin resistance. II Niacin causes hyperglycaemia.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Protease inhibitors (especially indinavir) cause insulin resistance; niacin also worsens glycaemia. (Book p925)"
+   "exp": "GH is written under the endocrine group in the Type 3d drug list. (Book p925)"
   }
  ]
 }

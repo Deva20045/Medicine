@@ -1,34 +1,70 @@
 {
  "page": 931,
- "sec": "DKA management, HHS, overlap",
+ "sec": "DKA treatment and hyperosmolar hyperglycemic state",
  "items": [
   {
-   "fmt": "match",
-   "q": "Match the following DKA management step — 1) Fluid 2) Insulin 3) Potassium 4) Dextrose … A) 0.9% saline, switch to 0.45% if hyperNa B) 0.1 U/kg regular IV bolus then 0.1 U/kg/h C) Add KCl once K+ <5.2 mEq/L D) Add when glucose <200 mg/dL to allow continued insulin",
+   "fmt": "management",
+   "q": "The DKA fluid ladder begins by replacing approximately what total volume?",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-A, 3-B, 4-C"
+    "6–9 L",
+    "1–2 L",
+    "12–15 L",
+    "20–25 L"
    ],
    "ans": 0,
-   "exp": "DKA fluids start with 0.9% saline; insulin is regular 0.1 U/kg bolus then 0.1 U/kg/h; KCl is added once K+ <5.2; dextrose is added when glucose <200 mg/dL. (Book p931)"
+   "exp": "The DKA treatment note says fluids replace 6–9 L. (Book p931)"
   },
   {
-   "fmt": "scenario",
-   "q": "A DKA patient on insulin infusion has glucose 190 mg/dL, K+ 4.0 mEq/L, pH 7.22 and anion gap still raised. The most appropriate next step is:",
+   "fmt": "match",
+   "q": "Match the DKA fluid stage to the printed timing — 1) First 3 L 2) Second 3 L 3) Third 3 L … A) Over 3 hours B) Over 9 hours C) Over 12 hours",
    "opts": [
-    "Add dextrose to fluids and continue insulin",
-    "Stop insulin immediately",
-    "Switch to subcutaneous insulin",
-    "Give bicarbonate bolus (alternative)"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Once glucose <200 mg/dL but anion gap is still raised, add dextrose to allow continued insulin infusion to close the gap. (Book p931)"
+   "exp": "The fluid ladder is 3 L over 3 hours, 3 L over 9 hours and 3 L over 12 hours. (Book p931)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "For every litre of DKA fluid, the note gives one ampoule of KCl containing:",
+   "opts": [
+    "10 mL = 20 mEq",
+    "5 mL = 10 mEq",
+    "20 mL = 40 mEq",
+    "1 mL = 2 mEq"
+   ],
+   "ans": 0,
+   "exp": "The page states one amp KCl, 10 mL equal to 20 mEq, for every 1 L fluid after the insulin stat dose. (Book p931)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The regular-insulin stat dose written for DKA is 0.1 U/kg ___.",
+   "opts": [
+    "IV",
+    "IM",
+    "oral",
+    "inhaled"
+   ],
+   "ans": 0,
+   "exp": "The DKA treatment line specifies regular insulin stat dose 0.1 U/kg IV. (Book p931)"
+  },
+  {
+   "fmt": "management",
+   "q": "After the DKA regular-insulin stat dose, what infusion rate is written?",
+   "opts": [
+    "0.1 U/kg/hour",
+    "0.01 U/kg/hour",
+    "1 U/kg/hour",
+    "10 U/kg/hour"
+   ],
+   "ans": 0,
+   "exp": "The page gives a regular-insulin infusion of 0.1 U/kg/hr after the stat dose. (Book p931)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess DKA fluids: I Total fluid deficit is typically 6–9 L. II The 3/3+3/9+3/12 rule (page mnemonic) structures replacement.",
+   "q": "Assess the glucose-monitoring instruction: I Blood glucose is monitored every hour. II At 200 mg/dL, fluids switch from normal saline to 5% dextrose.",
    "opts": [
     "Both true",
     "I true; II false",
@@ -36,115 +72,79 @@
     "Both false"
    ],
    "ans": 0,
-   "exp": "Total fluid deficit is 6–9 L; the page uses a 3/3+3/9+3/12 rule (or similar) to distribute replacement. (Book p931)"
+   "exp": "The DKA treatment box says monitor blood glucose every hour and switch from NS to 5% dextrose at 200 mg/dL. (Book p931)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 50-kg patient is being treated using the page's example. What hourly insulin rate is written first in the example?",
+   "opts": [
+    "5 U/hour",
+    "0.5 U/hour",
+    "10 U/hour",
+    "50 U/hour"
+   ],
+   "ans": 0,
+   "exp": "The example converts 0.1 U/kg/hr for a 50-kg patient to 5 U/hr first. (Book p931)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The DKA section gives what prognosis?",
+   "opts": [
+    "Good",
+    "Relatively poor",
+    "Guarded only in adults",
+    "Not mentioned"
+   ],
+   "ans": 0,
+   "exp": "The prognosis line after the DKA treatment ladder says good. (Book p931)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the HHS feature to the printed note — 1) Insulin deficiency 2) Patient group 3) Precipitating factor example 4) Time course … A) Relative, T2DM > T1DM B) Elderly patient C) LRTI D) One week",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "HHS is described as relative insulin deficiency (T2DM > T1DM), in an elderly patient, with LRTI as an example precipitant, developing over a week. (Book p931)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the HHS pathophysiology: I Mildly increased counter-regulatory hormones are shown. II Ketosis and acidosis are shown as present.",
+   "opts": [
+    "I true; II false",
+    "Both true",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "HHS shows a mild counter-regulatory-hormone increase and explicitly says no ketosis/acidosis. (Book p931)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The HHS flowchart ends with increased fluid loss followed by ___.",
+   "opts": [
+    "Comatose",
+    "Hypoglycemia",
+    "Hypercalcemia",
+    "Hemorrhage"
+   ],
+   "ans": 0,
+   "exp": "The printed sequence is hyperglycemia, osmotic diuresis, hyperosmolarity, increased fluid loss and comatose. (Book p931)"
   },
   {
    "fmt": "oddoneout",
-   "q": "Which is the odd one out — an indication for stopping IV insulin in DKA?",
+   "q": "Which is the odd one out among the HHS flowchart steps?",
    "opts": [
-    "Anion gap closure and bicarbonate >18 mEq/L with pH >7.3",
-    "Glucose <70 mg/dL with no IV dextrose",
-    "Potassium 5.8 mEq/L before insulin",
-    "Patient is alert and eating (alternative)"
+    "Ketone-body formation",
+    "Proteolysis",
+    "Increased gluconeogenesis",
+    "Hyperosmolarity"
    ],
    "ans": 0,
-   "exp": "Anion gap closure, bicarbonate >18 and pH >7.3 are criteria for resolution and transition to subcutaneous insulin; the others are not transition criteria. (Book p931)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "DKA protocols typically add KCl once serum K+ falls below ___ mEq/L.",
-   "opts": [
-    "5.2",
-    "3.0",
-    "6.0",
-    "4.5"
-   ],
-   "ans": 0,
-   "exp": "KCl is added once K+ <5.2; if K+ <3.3, insulin should be held until replacement. (Book p931)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following HHS feature — 1) Typical age 2) Plasma osmolarity 3) Glucose 4) Prognosis … A) Older T2DM patient B) 320–380 mOsm/kg C) >600 mg/dL D) Worse than DKA",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-D, 2-A, 3-B, 4-C"
-   ],
-   "ans": 0,
-   "exp": "HHS occurs in older T2DM, osm 320–380, glucose >600 mg/dL and carries worse prognosis than DKA. (Book p931)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "An 80-year-old with T2DM has glucose 980 mg/dL, plasma osm 360 mOsm/kg, pH 7.38 and minimal ketones. The most consistent diagnosis is:",
-   "opts": [
-    "Hyperosmolar hyperglycaemic state",
-    "DKA (alternative)",
-    "Lactic acidosis (alternative)",
-    "Euglycaemic DKA (alternative)"
-   ],
-   "ans": 0,
-   "exp": "Severe hyperglycaemia, high osmolarity, near-normal pH and minimal ketones fit HHS. (Book p931)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess HHS fluid management: I 0.45% saline is often used after initial 0.9% saline. II HHS fluid deficit averages around 12 L.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Initial 0.9% saline, often followed by 0.45% saline as Na+ normalises; HHS fluid deficit averages around 12 L. (Book p931)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following DKA-vs-HHS lab — 1) Glucose 2) Osmolarity 3) Ketones 4) Anion gap … A) 350–400 vs >800 mg/dL B) 300–320 vs 320–380 mOsm/kg C) +++ vs ± D) ↑ vs N/↓",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-A, 3-B, 4-C"
-   ],
-   "ans": 0,
-   "exp": "DKA: glucose 350–400, osm 300–320, ketones +++, AG raised. HHS: glucose >800, osm 320–380, ketones ±, AG normal or low. (Book p931)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "An SGLT2-inhibitor user has glucose 220 mg/dL with ketoacidosis. The most consistent diagnosis is:",
-   "opts": [
-    "Euglycaemic DKA",
-    "HHS (alternative)",
-    "Lactic acidosis",
-    "DKA without SGLT2 effect"
-   ],
-   "ans": 0,
-   "exp": "SGLT2 inhibitors can cause euglycaemic DKA with glucose <250 mg/dL; recognition requires a high index of suspicion. (Book p931)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "Euglycaemic DKA is most commonly associated with ___ use.",
-   "opts": [
-    "SGLT2 inhibitor",
-    "Metformin (biguanide)",
-    "Sulfonylurea",
-    "Acarbose (alternative)"
-   ],
-   "ans": 0,
-   "exp": "SGLT2 inhibitors are the classical cause of euglycaemic DKA. (Book p931)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess transition off IV insulin: I Subcutaneous insulin should overlap the IV infusion by 1–2 hours. II Bicarbonate correction is routine.",
-   "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
-   ],
-   "ans": 0,
-   "exp": "Overlap subcutaneous insulin with IV for 1–2 hours to prevent rebound ketoacidosis; bicarbonate is reserved for severe acidaemia (pH <6.9). (Book p931)"
+   "exp": "The HHS diagram includes proteolysis, gluconeogenesis and hyperosmolarity but specifically notes no ketosis/acidosis; ketone-body formation is not a step. (Book p931)"
   }
  ]
 }

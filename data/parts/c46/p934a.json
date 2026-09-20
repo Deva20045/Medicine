@@ -1,34 +1,34 @@
 {
  "page": 934,
- "sec": "ADA 2024 drug combinations and insulin indications",
+ "sec": "Dawn phenomenon, Somogyi effect and CGM equipment",
  "items": [
   {
-   "fmt": "match",
-   "q": "Match the following indication — 1) HbA1c ≥1.5–2% above target 2) Glycaemic triad / ketosis 3) Pregnancy hyperglycaemia 4) Vascular complications … A) Dual therapy initially B) Insulin C) Insulin (gestational / T1DM) D) Insulin after failure of dual therapy",
+   "fmt": "recall",
+   "q": "The treatment written below the dawn-phenomenon graph is:",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-A, 3-B, 4-C"
+    "Increase night-time insulin dose",
+    "Decrease night-time insulin dose",
+    "Stop all insulin at night",
+    "Add a morning statin"
    ],
    "ans": 0,
-   "exp": "HbA1c significantly above target warrants dual therapy; ketosis prompts insulin; pregnancy hyperglycaemia needs insulin; vascular complications are not themselves an indication for insulin but guide agent choice. (Book p934)"
+   "exp": "The dawn-phenomenon note gives increase night-time insulin dose. (Book p934)"
   },
   {
-   "fmt": "scenario",
-   "q": "A patient with new T2DM has HbA1c 10.2%, BMI 31 and no contraindications. The ADA 2024 approach is most consistent with:",
+   "fmt": "match",
+   "q": "Match the graph pattern to the page label — 1) Early-morning hyperglycemia without the 3 a.m. low 2) 3 a.m. hypoglycemia followed by morning hyperglycemia 3) Excess night insulin 4) Somogyi treatment … A) Dawn phenomenon B) Somogyi effect C) Midnight hypoglycemia D) Decrease night-time insulin dose",
    "opts": [
-    "Initial dual therapy (metformin + GLP-1 RA or SGLT2i)",
-    "Metformin alone",
-    "Lifestyle only",
-    "Insulin monotherapy"
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
    ],
    "ans": 0,
-   "exp": "HbA1c ≥1.5–2% above target (HbA1c 10.2% vs 7% target) warrants initial dual therapy or combination injectable therapy. (Book p934)"
+   "exp": "The page labels the first graph dawn phenomenon, the second Somogyi effect, links excess night insulin to midnight hypoglycemia, and gives a decreased night dose as treatment. (Book p934)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess insulin indications: I Insulin is mandatory in type 1 diabetes. II Insulin is preferred in pregnancy with hyperglycaemia.",
+   "q": "Assess the Somogyi notes: I Counter-regulatory hormones are linked to early-morning hyperglycemia. II Excess nighttime insulin is linked to midnight hypoglycemia.",
    "opts": [
     "Both true",
     "I true; II false",
@@ -36,115 +36,115 @@
     "Both false"
    ],
    "ans": 0,
-   "exp": "Insulin is the only approved therapy for Type 1 diabetes and the preferred agent in pregnancy when glycaemia is uncontrolled. (Book p934)"
+   "exp": "Both arrows are written under the Somogyi graph. (Book p934)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A glucose tracing shows hypoglycemia at 3 a.m. followed by early-morning hyperglycemia. Which page label fits?",
+   "opts": [
+    "Somogyi effect",
+    "Dawn phenomenon",
+    "Normal fasting response",
+    "Post-lunch hyperglycemia"
+   ],
+   "ans": 0,
+   "exp": "The Somogyi graph explicitly marks hypoglycemia at 3.00 am followed by fasting hyperglycemia. (Book p934)"
+  },
+  {
+   "fmt": "management",
+   "q": "Which regular-insulin schedule is written under insulin regime?",
+   "opts": [
+    "8–8–8",
+    "4–4–4",
+    "16–16–16",
+    "1–2–3"
+   ],
+   "ans": 0,
+   "exp": "The insulin-regime line gives regular insulin 8–8–8. (Book p934)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the basal insulin option to the exact schedule — 1) Glargine 2) Degludec 3) Regular insulin basal option … A) 16 U at 11 PM daily B) 16 U on alternate night C) 16 U twice daily",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The page lists glargine 16 U at night daily, degludec 16 U on alternate nights and regular 16 U BD daily. (Book p934)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "After insulin, base glucose is to be assessed how many times?",
+   "opts": [
+    "6 times",
+    "2 times",
+    "4 times",
+    "8 times"
+   ],
+   "ans": 0,
+   "exp": "The page says base glucose levels should be accessed 6 times. (Book p934)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The six base-glucose checks are pre- and post- breakfast, lunch and ___.",
+   "opts": [
+    "dinner",
+    "exercise",
+    "sleep",
+    "medication"
+   ],
+   "ans": 0,
+   "exp": "The list specifies pre- and post-breakfast, pre- and post-lunch, and pre- and post-dinner. (Book p934)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the dose-adjustment rule: I A dose may be increased by 2 units. II A dose may be decreased by 4 units.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The final insulin-regime bullet gives increase by 2 units or decrease by 4 units. (Book p934)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which item is labelled a component of the continuous glucose monitoring system?",
+   "opts": [
+    "Glucose sensor",
+    "Urinary ketone strip",
+    "Serum C-peptide tube",
+    "Insulin syringe only"
+   ],
+   "ans": 0,
+   "exp": "The CGMS diagram labels continuous glucose monitor, cable, glucose sensor and com-station; glucose sensor is one component. (Book p934)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the CGMS equipment label to its page description — 1) Sensor 2) Charger/com-station 3) Recorder 4) Inserter … A) Skin sensor B) Charging/display unit C) Recording device D) Insertion device",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "The equipment drawings are labelled sensor, charger/com-station, recorder and inserter. (Book p934)"
   },
   {
    "fmt": "oddoneout",
-   "q": "Which is the odd one out — a non-insulin agent with proven cardiovascular benefit?",
+   "q": "Which is the odd one out among the two named overnight glucose patterns?",
    "opts": [
-    "Gliclazide",
-    "Empagliflozin",
-    "Liraglutide",
-    "Semaglutide"
+    "Postprandial hypoglycemia",
+    "Dawn phenomenon",
+    "Somogyi effect",
+    "Fasting hyperglycemia"
    ],
    "ans": 0,
-   "exp": "Gliclazide has cardiovascular safety data but not the same mortality benefit as SGLT2i and GLP-1 RAs. (Book p934)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "ADA 2024 recommends initiating ___ therapy in patients with HbA1c ≥1.5% above target.",
-   "opts": [
-    "Dual",
-    "Mono",
-    "Triple",
-    "Insulin"
-   ],
-   "ans": 0,
-   "exp": "Dual therapy is recommended when HbA1c is ≥1.5% above target to accelerate glycaemic control. (Book p934)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following agent to its specific trial / indication — 1) Empagliflozin 2) Liraglutide 3) Canagliflozin 4) Dapagliflozin … A) EMPA-REG (CV + renal) B) LEADER (CV) C) CREDENCE (renal) D) DAPA-HF (HF, non-diabetic included)",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-A, 3-B, 4-C"
-   ],
-   "ans": 0,
-   "exp": "EMPA-REG (empagliflozin, CV + renal); LEADER (liraglutide, CV); CREDENCE (canagliflozin, renal); DAPA-HF (dapagliflozin, HF including non-DM). (Book p934)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A patient with T2DM and HFpEF is on metformin; the clinician considers adding an SGLT2i for HF hospitalisation benefit. The most appropriate choice is:",
-   "opts": [
-    "Dapagliflozin or empagliflozin",
-    "Saxagliptin",
-    "Glimepiride",
-    "Pioglitazone"
-   ],
-   "ans": 0,
-   "exp": "Dapagliflozin and empagliflozin reduce HF hospitalisation in HF regardless of ejection fraction; saxagliptin has increased HF risk; pioglitazone worsens HF. (Book p934)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess saxagliptin: I Saxagliptin is associated with increased HF hospitalisation. II It is the preferred DPP-4 inhibitor in HF.",
-   "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
-   ],
-   "ans": 0,
-   "exp": "SAVOR-TIMI-53 showed increased HF hospitalisation with saxagliptin; it is not preferred in HF. (Book p934)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following combination to its rationale — 1) Metformin + GLP-1 RA 2) Metformin + SGLT2i 3) GLP-1 RA + basal insulin 4) Metformin + TZD … A) Glycaemia + weight loss + CV benefit B) Glycaemia + cardio-renal + HF benefit C) Glycaemia with low hypoglycaemia D) Glycaemia + insulin sensitisation (watch for HF)",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-A, 3-B, 4-C"
-   ],
-   "ans": 0,
-   "exp": "Metformin + GLP-1 RA gives CV benefit; metformin + SGLT2i gives cardio-renal + HF benefit; GLP-1 + basal insulin gives low hypo; metformin + TZD sensitises with HF caution. (Book p934)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A patient with T2DM on metformin and liraglutide needs further glycaemic control. The most appropriate add-on with cardio-renal benefit is:",
-   "opts": [
-    "SGLT2 inhibitor",
-    "Sulfonylurea",
-    "DPP-4 inhibitor",
-    "Acarbose (α-glucosidase inhibitor)"
-   ],
-   "ans": 0,
-   "exp": "Adding an SGLT2 inhibitor provides additional cardio-renal benefit without much hypoglycaemia risk. (Book p934)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "Insulin should be initiated in T2DM if there is ___, HbA1c ≥10%, or features of the glycaemic triad.",
-   "opts": [
-    "Uncontrolled hyperglycaemia despite combination therapy",
-    "Mild postprandial hyperglycaemia",
-    "New diagnosis in obese patient",
-    "Patient preference"
-   ],
-   "ans": 0,
-   "exp": "Insulin is added when combination oral / injectable therapy fails to control glycaemia, especially with severe hyperglycaemia or ketosis. (Book p934)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess insulin timing: I Basal insulin is preferred over premixed in T2DM. II Basal insulin can be combined with GLP-1 RA.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Basal insulin is preferred for simplicity and lower hypo risk; iDegLira and iGlarLixi are fixed-ratio combinations with GLP-1 RA / GIP. (Book p934)"
+   "exp": "Dawn phenomenon, Somogyi effect and fasting hyperglycemia appear in the overnight tracing notes; postprandial hypoglycemia does not. (Book p934)"
   }
  ]
 }

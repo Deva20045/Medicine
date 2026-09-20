@@ -1,34 +1,34 @@
 {
  "page": 922,
- "sec": "Type 2 history, metabolic syndrome, BMI",
+ "sec": "Type 2 diabetes, metabolic syndrome and BMI",
  "items": [
   {
    "fmt": "match",
-   "q": "Match the following metabolic syndrome criterion to the cutoff (per source/standard) — 1) Waist circumference (men) 2) Triglycerides 3) HDL (men) 4) BP … A) ≥90 cm (Asian Indian) B) ≥150 mg/dL C) <40 mg/dL D) ≥130/85 mmHg",
+   "q": "Match the natural-history stage to its position in the diagram — 1) Early stage 2) Middle stage 3) Transitional glucose stage 4) Late stage … A) Genetics/environment B) Obesity C) IFG/IGT D) Late diabetes",
    "opts": [
     "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-B, 2-C, 3-A, 4-D"
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
    ],
    "ans": 0,
-   "exp": "Asian-Indian waist circumference cut-off for men is ≥90 cm; triglycerides ≥150 mg/dL; HDL <40 mg/dL in men; BP ≥130/85 mmHg. (Book p922)"
+   "exp": "The natural-history diagram proceeds through genetics/environment, obesity, dyslipidemia/hypertension and IFG/IGT before early and late diabetes. (Book p922)"
   },
   {
-   "fmt": "scenario",
-   "q": "A 50-year-old South Asian man has BP 132/86 mmHg, fasting TG 165 mg/dL, HDL 38 mg/dL and waist circumference 95 cm. The diagnostic label is:",
+   "fmt": "recall",
+   "q": "The line labelled above the natural-history diagram that falls with advancing age is:",
    "opts": [
-    "Metabolic syndrome",
-    "Normal (alternative)",
-    "Type 2 diabetes only",
-    "Familial hypercholesterolaemia"
+    "Beta-cell function",
+    "Triglyceride level",
+    "Body temperature",
+    "Serum sodium"
    ],
    "ans": 0,
-   "exp": "Three of five criteria (waist, TG, HDL, BP) are met; this is metabolic syndrome. (Book p922)"
+   "exp": "The vertical axis of the natural-history figure is beta-cell function, which declines across advancing age. (Book p922)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess BMI categories: I Asian-Indian overweight is BMI ≥23. II Obesity is BMI ≥25 in Asian-Indian classification.",
+   "q": "Assess the natural-history diagram: I Hyperinsulinemia appears before hyperglycemia. II Macrovascular complications are shown before microvascular complications.",
    "opts": [
     "Both true",
     "I true; II false",
@@ -36,115 +36,115 @@
     "Both false"
    ],
    "ans": 0,
-   "exp": "Asian-Indian BMI thresholds: overweight ≥23, obesity ≥25 (compared with WHO ≥25 and ≥30). (Book p922)"
+   "exp": "The diagram places hyperinsulinemia before hyperglycemia and labels macrovascular complications earlier than microvascular complications. (Book p922)"
   },
   {
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out among metabolic syndrome criteria?",
+   "fmt": "scenario",
+   "q": "Apart from dyslipidemia and hypertension, which group is explicitly listed as other Type 2 DM comorbidities?",
    "opts": [
-    "Fasting plasma glucose",
-    "Waist circumference",
-    "Triglycerides",
-    "HDL cholesterol"
+    "NAFL, hypogonadism, periodontal disease, fracture and atherosclerosis",
+    "Asthma, migraine, cataract, gout and otitis",
+    "Pneumonia, nephritis, anemia, fever and rash",
+    "Hepatitis, cirrhosis, jaundice, ascites and pruritus"
    ],
    "ans": 0,
-   "exp": "Fasting glucose is a metabolic syndrome criterion in NCEP-ATP III but not in IDF's primary central obesity definition; waist is central to IDF criteria. (Book p922)"
+   "exp": "The right-hand list gives NAFL, hypogonadism, periodontal disease, fracture and atherosclerosis. (Book p922)"
   },
   {
-   "fmt": "fillup",
-   "q": "The page's Asian-Indian BMI cut-off for overweight is ___.",
+   "fmt": "numeric",
+   "q": "How many of the five metabolic-syndrome criteria should be met according to the page?",
    "opts": [
-    "≥23",
-    "≥18.5",
-    "≥25",
-    "≥30"
+    "Any 3 of 5",
+    "Any 2 of 5",
+    "Any 4 of 5",
+    "All 5"
    ],
    "ans": 0,
-   "exp": "Asian-Indian cut-offs: normal <23, overweight ≥23, obese ≥25 (with morbid obesity at higher values). (Book p922)"
+   "exp": "The metabolic-syndrome heading states that any 3 of 5 should be met. (Book p922)"
   },
   {
    "fmt": "match",
-   "q": "Match the following milestone in T2DM history — 1) First clinical use 2) Role of UKPDS 3) Discovery … A) 1921 insulin (later refined for type 2) B) Demonstrated benefit of glycaemic control C) Insulin by Banting and Best",
+   "q": "Match the metabolic-syndrome criterion to the printed cut-off — 1) Male waist circumference 2) Female waist circumference 3) Triglycerides 4) Male HDL … A) >102 cm B) >88 cm C) >150 mg/dL D) <40 mg/dL",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "The criteria list male waist >102 cm, female waist >88 cm, triglycerides >150 mg/dL and male HDL <40 mg/dL. (Book p922)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The fifth metabolic-syndrome criterion on the page is impaired fasting glucose above ___ mg/dL.",
+   "opts": [
+    "100",
+    "88",
+    "130",
+    "150"
+   ],
+   "ans": 0,
+   "exp": "The fifth criterion is impaired fasting glucose (IFG) >100 mg/dL. (Book p922)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the HDL and blood-pressure entries: I Female HDL is listed as less than 50 mg/dL. II Blood pressure is listed as greater than 130/85.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The metabolic-syndrome list gives female HDL <50 mg/dL and BP >130/85. (Book p922)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What Indian BMI value is used for the obese category in the table?",
+   "opts": [
+    ">25",
+    ">30",
+    "23–24.9",
+    "18–22.9"
+   ],
+   "ans": 0,
+   "exp": "The Indian-criteria column labels obese as >25. (Book p922)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the BMI category with the Indian criteria — 1) Normal 2) Overweight 3) Obese … A) 18–22.9 B) 23–24.9 C) >25",
    "opts": [
     "1-A, 2-B, 3-C",
-    "1-C, 2-A, 3-B",
     "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
     "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Insulin was discovered in 1921; first clinical use came shortly after; UKPDS established benefit of glycaemic control in T2DM. (Book p922)"
+   "exp": "The table gives Indian BMI normal 18–22.9, overweight 23–24.9 and obese >25. (Book p922)"
   },
   {
-   "fmt": "scenario",
-   "q": "A 50-year-old with BMI 26, BP 138/88, TG 178 mg/dL, HDL 36 mg/dL and FPG 102 mg/dL asks about diabetes risk. The most consistent label is:",
+   "fmt": "management",
+   "q": "Which set matches the page's Indian-population diabesity/adiposopathy list?",
    "opts": [
-    "Metabolic syndrome with pre-diabetes",
-    "Type 2 diabetes (alternative)",
-    "Normal (alternative)",
-    "Hypothyroidism (alternative)"
+    "Waist >90 cm in men or >80 cm in women, hyperglycemia, HTN, hyperlipidemia with increased CRP/decreased adiponectin, and a prothrombotic state",
+    "Waist >102 cm in men only with hypoglycemia and low CRP",
+    "BMI below 18 with bradycardia and reduced clotting",
+    "HDL above 50 with isolated post-load glucose rise"
    ],
    "ans": 0,
-   "exp": "Metabolic syndrome is present; FPG 100–125 places the patient in the pre-diabetes range. (Book p922)"
+   "exp": "The diabesity/adiposopathy list uses male waist >90 cm, female waist >80 cm, hyperglycemia, HTN, hyperlipidemia with increased CRP/decreased adiponectin, and a prothrombotic state. (Book p922)"
   },
   {
-   "fmt": "truefalse",
-   "q": "Assess waist cut-offs: I Asian-Indian women use a lower waist cut-off than men. II IDF uses the same Asian waist cut-off for men and women.",
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the five items in the Indian-population diabesity list?",
    "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
+    "Hypercalcemia",
+    "Hyperglycemia",
+    "HTN",
+    "Prothrombotic state"
    ],
    "ans": 0,
-   "exp": "Asian women use ≥80 cm (vs ≥90 cm men); IDF uses the same Asian-specific cut-off for both sexes but is sex-specific. (Book p922)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following to its discovery timeline — 1) Insulin 2) Sulfonylureas 3) Metformin 4) GLP-1 agonist … A) 1921 B) 1940s–50s C) 1950s (biguanides) D) 2005 onwards",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-A, 3-B, 4-C"
-   ],
-   "ans": 0,
-   "exp": "Insulin 1921; sulfonylureas mid-20th century; metformin (biguanides) widely adopted mid-century; GLP-1 agonists from 2005. (Book p922)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "An Asian-Indian patient with BMI 27 has BP 128/82, TG 145 mg/dL, HDL 42 mg/dL and FPG 92 mg/dL. The patient meets:",
-   "opts": [
-    "Only the waist criterion",
-    "Three criteria",
-    "All five criteria",
-    "No criteria (alternative)"
-   ],
-   "ans": 0,
-   "exp": "BMI 27 exceeds the Asian-Indian obesity cut-off ≥25 and waist typically ≥90 cm; BP, TG and HDL do not meet criteria. (Book p922)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "The metabolic syndrome criterion for fasting plasma glucose is ≥ ___ mg/dL.",
-   "opts": [
-    "100",
-    "110",
-    "126",
-    "140"
-   ],
-   "ans": 0,
-   "exp": "Fasting plasma glucose ≥100 mg/dL (or treatment) is one of the metabolic syndrome criteria. (Book p922)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess these facts: I South Asians have higher diabetes risk at lower BMIs. II Metabolic syndrome increases cardiovascular risk beyond its components.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "South Asians have higher risk at lower BMIs (the basis of Asian-Indian cut-offs); metabolic syndrome increases CV risk beyond individual components. (Book p922)"
+   "exp": "Hypercalcemia is not in the printed diabesity/adiposopathy list; hyperglycemia, HTN and prothrombotic state are listed. (Book p922)"
   }
  ]
 }

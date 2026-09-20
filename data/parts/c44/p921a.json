@@ -1,34 +1,46 @@
 {
  "page": 921,
- "sec": "Classification: LADA, type 3c, type 4, monogenic",
+ "sec": "Type 1.5 diabetes and diagnostic algorithm",
  "items": [
   {
    "fmt": "match",
-   "q": "Match the following diabetes subtype — 1) LADA 2) Type 3c (pancreatogenic) 3) Type 4 (gestational) 4) MODY … A) Slow autoimmune diabetes in adults B) Diabetes following pancreatic disease C) Diabetes diagnosed in pregnancy D) Monogenic autosomal dominant diabetes",
+   "q": "Match the Type 1.5 form to its gender entry — 1) Ketosis-prone/Flatbush diabetes 2) Latent autoimmune diabetes of adults … A) m > F B) m = F",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-B, 3-C, 4-A"
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
    ],
    "ans": 0,
-   "exp": "LADA is slow autoimmune diabetes in adults; type 3c is pancreatogenic diabetes after pancreatic disease; type 4 is gestational diabetes; MODY is monogenic autosomal dominant diabetes. (Book p921)"
+   "exp": "The table gives m > F for ketosis-prone/Flatbush diabetes and m = F for latent autoimmune diabetes of adults. (Book p921)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The ketosis-prone/Flatbush course begins at approximately what age in the table?",
+   "opts": [
+    "20 years",
+    "10 years",
+    "30 years",
+    "40 years"
+   ],
+   "ans": 0,
+   "exp": "The KPD/Flatbush course is written as early age, approximately 20 years, with ketosis. (Book p921)"
   },
   {
    "fmt": "scenario",
-   "q": "A 38-year-old non-obese patient with GAD positivity initially responds to metformin but progresses to insulin within 4 years. The most consistent label is:",
+   "q": "A person is asymptomatic, is accidentally found hyperglycemic at about 30 years, and is initially treated as Type 2 DM without insulin. Which Type 1.5 form matches the table?",
    "opts": [
-    "LADA (correct answer)",
-    "Type 2 diabetes (alternative)",
-    "MODY 3 (alternative)",
-    "Type 1 childhood-onset diabetes"
+    "LADA",
+    "KPD/Flatbush diabetes",
+    "Type 3c diabetes",
+    "MARD"
    ],
    "ans": 0,
-   "exp": "Slow autoimmune diabetes in non-obese adults progressing to insulin fits LADA; MODY would be antibody negative and autosomal dominant. (Book p921)"
+   "exp": "The LADA column describes an asymptomatic patient around 30 years found hyperglycemic and treated as Type 2 DM without insulin. (Book p921)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess LADA: I GAD, IA-2 and ZnT8 antibodies can be present. II Patients usually avoid insulin for years.",
+   "q": "Assess the Type 1.5 course: I KPD shows reduced insulin requirement after 5–10 years. II LADA shows increased insulin requirement after 5–10 years.",
    "opts": [
     "Both true",
     "I true; II false",
@@ -36,59 +48,83 @@
     "Both false"
    ],
    "ans": 0,
-   "exp": "LADA shares the same antibody panel as Type 1 diabetes; patients often avoid insulin for months to a few years but progress. (Book p921)"
+   "exp": "The table shows reduced insulin requirement after 5–10 years for KPD and increased insulin requirement after 5–10 years for LADA. (Book p921)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "After the early ketosis phase, KPD is followed by decreased insulin requirement, ___ and good response to oral hypoglycemic agents.",
+   "opts": [
+    "Obesity",
+    "Lean habitus",
+    "Hypoglycemia",
+    "Hyperthyroidism"
+   ],
+   "ans": 0,
+   "exp": "The KPD course arrow points to obesity and then good response to OHA after decreased insulin requirement. (Book p921)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the LADA table feature to its entry — 1) C-peptide value 2) Antibody level 3) Presentation 4) Clinical build … A) Slightly decreased, slower than T1DM B) Increased markedly C) T1DM behaves like T2DM D) Lean, fair with autoimmune illness stigmata",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "The LADA column gives slightly decreased C-peptide, markedly increased antibodies, T1DM behaving like T2DM, and a lean fair patient with autoimmune stigmata. (Book p921)"
   },
   {
    "fmt": "oddoneout",
-   "q": "Which is the odd one out — a feature of LADA rather than Type 2 diabetes?",
+   "q": "Which is the odd one out among the KPD clinical features written in the table?",
    "opts": [
-    "Persistent GAD antibody positivity",
-    "Obesity with central adiposity",
-    "Early insulin requirement",
-    "Non-obese phenotype"
+    "Lean fair build",
+    "Dark appearance",
+    "Hirsutism",
+    "Acanthosis nigricans"
    ],
    "ans": 0,
-   "exp": "Obesity with central adiposity is characteristic of Type 2; LADA features persistent antibodies, non-obese phenotype and earlier insulin need. (Book p921)"
+   "exp": "KPD is described with a dark, hirsute, obese male, acanthosis nigricans/balanoposthitis and hyperinsulinemia; lean fair build belongs to the LADA column. (Book p921)"
   },
   {
-   "fmt": "fillup",
-   "q": "Type 3c diabetes (pancreatogenic) is most commonly due to chronic ___ in adults.",
+   "fmt": "recall",
+   "q": "The table says that one third of diagnosed Type 2 DM cases are in reality:",
    "opts": [
-    "Pancreatitis",
-    "Autoimmune insulitis",
-    "Cushing disease",
-    "Haemochromatosis"
+    "LADA",
+    "KPD",
+    "MODY",
+    "GDM"
    ],
    "ans": 0,
-   "exp": "Chronic pancreatitis is the most common cause of pancreatogenic diabetes; cystic fibrosis, pancreatic cancer and haemochromatosis are other causes. (Book p921)"
+   "exp": "The clinical-features row states that one third of diagnosed Type 2 DM cases are in reality LADA. (Book p921)"
   },
   {
    "fmt": "match",
-   "q": "Match the following diabetes subtype to its key clue — 1) MODY 2 (GCK) 2) MODY 3 (HNF1A) 3) Mitochondrial diabetes 4) Wolfram syndrome … A) Mild stable hyperglycaemia, low Rx need B) Progressive sulfonylurea-responsive C) Maternal inheritance with deafness D) Diabetes insipidus, optic atrophy, deafness",
+   "q": "Match each antibody to the table's sensitivity — 1) GAD 2) ICA 3) IAA 4) ZnT8 … A) 70–90% B) 44–100% C) 40–70% D) 50–70%",
    "opts": [
     "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-B, 3-C, 4-A"
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C"
    ],
    "ans": 0,
-   "exp": "MODY 2 (GCK) is mild; MODY 3 (HNF1A) is sulfonylurea-responsive; mitochondrial diabetes shows maternal inheritance with deafness; Wolfram syndrome has DI, optic atrophy and deafness (DIDMOAD). (Book p921)"
+   "exp": "The antibody table lists sensitivities of GAD 70–90%, ICA 44–100%, IAA 40–70% and ZnT8 50–70%. (Book p921)"
   },
   {
-   "fmt": "scenario",
-   "q": "A young patient with diabetes also has sensorineural deafness and a maternal family history. The most likely diagnosis is:",
+   "fmt": "numeric",
+   "q": "Which antibody specificity is written for GAD in the table?",
    "opts": [
-    "Mitochondrial diabetes (MIDD)",
-    "MODY 3 (alternative)",
-    "Type 1 diabetes (alternative)",
-    "Wolfram syndrome"
+    "99%",
+    "70%",
+    "90%",
+    "96%"
    ],
    "ans": 0,
-   "exp": "Maternal inheritance with diabetes and deafness fits mitochondrial diabetes (MIDD, MELAS-related). (Book p921)"
+   "exp": "The GAD row gives 99% specificity. (Book p921)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess Wolfram syndrome: I It includes diabetes insipidus, optic atrophy and deafness. II It is also called DIDMOAD.",
+   "q": "Assess the antibody notes: I ICA is described as earliest to appear and disappears after a few years. II IAA is described as invalid after therapy and common in new-onset T1DM.",
    "opts": [
     "Both true",
     "I true; II false",
@@ -96,55 +132,19 @@
     "Both false"
    ],
    "ans": 0,
-   "exp": "Wolfram syndrome (DIDMOAD) is characterised by DI, optic atrophy, deafness and diabetes mellitus. (Book p921)"
+   "exp": "Both antibody rows carry those exact additional features in the table. (Book p921)"
   },
   {
-   "fmt": "match",
-   "q": "Match the following subtype to its antibody / genetic marker — 1) LADA 2) MODY 3 3) Type 3c (pancreatogenic) 4) Mitochondrial … A) GAD antibody positive B) HNF1A mutation C) Anti-GAD negative, exocrine insufficiency D) mtDNA 3243A>G mutation",
+   "fmt": "management",
+   "q": "For a young patient in the algorithm with low fasting C-peptide and positive antibodies, which label does the page's flowchart give?",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-D, 2-B, 3-C, 4-A"
+    "LADA",
+    "T1DM",
+    "T2DM/MODY",
+    "KPD"
    ],
    "ans": 0,
-   "exp": "LADA is GAD-positive; MODY 3 has HNF1A mutation; pancreatogenic diabetes is GAD-negative with exocrine insufficiency; mitochondrial diabetes is associated with the 3243A>G mutation. (Book p921)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A 45-year-old with chronic pancreatitis and new diabetes has low C-peptide and steatorrhoea. The most consistent diagnosis is:",
-   "opts": [
-    "Type 3c pancreatogenic diabetes",
-    "Type 2 diabetes (alternative)",
-    "LADA (alternative)",
-    "MODY (alternative)"
-   ],
-   "ans": 0,
-   "exp": "Diabetes following chronic pancreatitis with low C-peptide and exocrine insufficiency fits type 3c pancreatogenic diabetes. (Book p921)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "Type 3c diabetes is associated with both endocrine and ___ insufficiency.",
-   "opts": [
-    "Exocrine pancreatic",
-    "Hepatic (alternative)",
-    "Adrenal (alternative)",
-    "Renal (alternative)"
-   ],
-   "ans": 0,
-   "exp": "Type 3c combines endocrine and exocrine pancreatic insufficiency, distinguishing it from Type 2 diabetes. (Book p921)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess type 4 diabetes: I Gestational diabetes is diagnosed at 24–28 weeks. II Persisting after delivery is labelled GDM; resolving excludes future risk.",
-   "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
-   ],
-   "ans": 0,
-   "exp": "GDM is typically screened at 24–28 weeks; persistence postpartum defines overt diabetes, and even resolving GDM signals long-term risk. (Book p921)"
+   "exp": "The printed diagnostic algorithm maps low fasting C-peptide with positive antibodies to LADA. (Book p921)"
   }
  ]
 }

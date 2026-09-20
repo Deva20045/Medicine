@@ -1,150 +1,150 @@
 {
  "page": 926,
- "sec": "Diabetes associations and review",
+ "sec": "Conditions associated with diabetes mellitus",
  "items": [
   {
    "fmt": "match",
-   "q": "Match the following diabetes association — 1) Haemochromatosis 2) Cushing 3) Acromegaly 4) Pheochromocytoma … A) Bronze diabetes from iron deposition B) Hypercortisolism-induced IR C) Excess GH-induced IR D) Catecholamine-induced hyperglycaemia",
+   "q": "Match the endocrine condition to the group on this page — 1) Cushing’s 2) Acromegaly 3) Pheochromocytoma 4) Somatostatinoma … A) Endocrinopathy B) Endocrinopathy C) Endocrinopathy D) Endocrinopathy",
    "opts": [
     "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
     "1-D, 2-A, 3-B, 4-C"
    ],
    "ans": 0,
-   "exp": "Haemochromatosis causes bronze diabetes from iron deposition; Cushing produces hypercortisolism-induced insulin resistance; acromegaly causes GH-induced IR; pheochromocytoma causes catecholamine-induced hyperglycaemia. (Book p926)"
+   "exp": "All four named conditions appear in the Endocrinopathies list associated with DM. (Book p926)"
   },
   {
-   "fmt": "scenario",
-   "q": "A 50-year-old with hypertension, centripetal obesity and purple striae has new diabetes. The most likely diagnosis is:",
+   "fmt": "recall",
+   "q": "Which of the following is listed under endocrinopathies associated with DM?",
    "opts": [
-    "Cushing syndrome",
-    "Type 2 diabetes",
-    "LADA (alternative)",
-    "MODY 3 (alternative)"
+    "Hyperparathyroidism",
+    "Osteoarthritis",
+    "Bronchiectasis",
+    "Glomerulonephritis"
    ],
    "ans": 0,
-   "exp": "Centripetal obesity, hypertension and purple striae suggest Cushing syndrome as the secondary cause of diabetes. (Book p926)"
+   "exp": "Hyperparathyroidism is one of the endocrinopathies listed on the page. (Book p926)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The endocrine list includes Cushing’s, acromegaly, hyperthyroidism, hyperparathyroidism, pheochromocytoma, glucagonoma and ___.",
+   "opts": [
+    "Somatostatinoma",
+    "Prolactinoma",
+    "Insulinoma",
+    "Thymoma"
+   ],
+   "ans": 0,
+   "exp": "Somatostatinoma is the final endocrine condition in the printed list. (Book p926)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess acromegaly: I Diabetes improves with treatment of GH excess. II Diabetes persists despite cure of acromegaly in most patients.",
+   "q": "Assess the endocrine list: I Glucagonoma is included. II Somatostatinoma is included.",
    "opts": [
-    "Both false",
+    "Both true",
     "I true; II false",
     "I false; II true",
-    "Both true"
+    "Both false"
    ],
    "ans": 0,
-   "exp": "Diabetes improves with control of GH excess in many acromegaly patients; in some, diabetes persists despite cure. (Book p926)"
+   "exp": "Both glucagonoma and somatostatinoma are listed under endocrinopathies associated with DM. (Book p926)"
   },
   {
    "fmt": "oddoneout",
-   "q": "Which is the odd one out — a non-pancreatic endocrine cause of diabetes?",
+   "q": "Which is the odd one out among the genetic diseases listed on the page?",
    "opts": [
-    "Insulinoma",
-    "Cushing syndrome",
+    "Marfan syndrome",
+    "Down’s syndrome",
+    "Klinefelter syndrome",
+    "Friedreich’s ataxia"
+   ],
+   "ans": 0,
+   "exp": "Marfan syndrome is not in the printed genetic-disease list; Down’s, Klinefelter’s and Friedreich’s ataxia are. (Book p926)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the genetic disease to its exact place in the printed list — 1) Down’s syndrome 2) Huntington’s 3) Wolfram syndrome 4) Laurence–Moon–Biedl syndrome … A) Listed genetic disease B) Listed genetic disease C) Listed genetic disease D) Listed genetic disease",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Down’s syndrome, Huntington’s, Wolfram syndrome and Laurence–Moon–Biedl syndrome all appear in the genetic-disease list. (Book p926)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A question asks for a genetic disease associated with DM from the page rather than an endocrinopathy. Which choice belongs to that genetic list?",
+   "opts": [
+    "Myotonic dystrophy",
+    "Cushing’s",
     "Acromegaly",
     "Pheochromocytoma"
    ],
    "ans": 0,
-   "exp": "Insulinoma is a pancreatic tumour that causes hypoglycaemia, not hyperglycaemia; the others cause hyperglycaemia. (Book p926)"
+   "exp": "Myotonic dystrophy appears under genetic disease; the other three choices are in the endocrinopathy list. (Book p926)"
   },
   {
-   "fmt": "fillup",
-   "q": "Bronze skin, hepatomegaly and new-onset diabetes suggest ___.",
+   "fmt": "recall",
+   "q": "Which condition is printed between Prader Willi and myotonic dystrophy in the genetic list?",
    "opts": [
-    "Hereditary haemochromatosis",
-    "MODY 3 (alternative)",
-    "LADA (alternative)",
-    "Type 1 diabetes"
+    "Porphyria",
+    "Huntington’s",
+    "Wolfram syndrome",
+    "Klinefelter syndrome"
    ],
    "ans": 0,
-   "exp": "Bronze skin with hepatomegaly and diabetes fits hereditary haemochromatosis; iron studies confirm. (Book p926)"
+   "exp": "The genetic list runs Down’s, Klinefelter, Friedreich’s ataxia, Huntington’s, Prader Willi, porphyria, myotonic dystrophy, Wolfram and Laurence–Moon–Biedl. (Book p926)"
   },
   {
-   "fmt": "match",
-   "q": "Match the following diagnostic clue to the cause — 1) Elevated transferrin saturation 2) Elevated urinary free cortisol 3) Elevated IGF-1 4) Elevated plasma metanephrines … A) Haemochromatosis B) Cushing syndrome C) Acromegaly D) Pheochromocytoma",
+   "fmt": "numeric",
+   "q": "How many genetic diseases are visibly listed under the genetic-disease heading?",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-B, 3-A, 4-C"
+    "9",
+    "5",
+    "7",
+    "11"
    ],
    "ans": 0,
-   "exp": "Transferrin saturation supports haemochromatosis; urinary free cortisol supports Cushing; IGF-1 supports acromegaly; plasma metanephrines support pheochromocytoma. (Book p926)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A patient on protease inhibitors has new diabetes. The mechanism is most consistent with:",
-   "opts": [
-    "Insulin resistance",
-    "Autoimmune β-cell destruction",
-    "Insulinoma (alternative)",
-    "MODY 2 (alternative)"
-   ],
-   "ans": 0,
-   "exp": "Protease inhibitors cause insulin resistance rather than autoimmune destruction. (Book p926)"
+   "exp": "The page lists nine genetic diseases: Down’s, Klinefelter, Friedreich’s ataxia, Huntington’s, Prader Willi, porphyria, myotonic dystrophy, Wolfram syndrome and Laurence–Moon–Biedl syndrome. (Book p926)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess post-transplant diabetes: I It is associated with worse graft outcomes. II Tacrolimus has a lower diabetogenic potential than ciclosporin.",
+   "q": "Assess the genetic-disease section: I Porphyria is listed. II Wolfram syndrome is listed.",
    "opts": [
-    "Both false",
+    "Both true",
     "I true; II false",
     "I false; II true",
-    "Both true"
+    "Both false"
    ],
    "ans": 0,
-   "exp": "Post-transplant diabetes worsens graft outcomes; tacrolimus is more diabetogenic than ciclosporin. (Book p926)"
+   "exp": "Both porphyria and Wolfram syndrome appear in the genetic-disease list. (Book p926)"
   },
   {
-   "fmt": "match",
-   "q": "Match the following endocrine tumour to its metabolic effect — 1) Glucagonoma 2) Somatostatinoma 3) VIPoma 4) Insulinoma … A) Necrolytic migratory erythema + diabetes B) Inhibits insulin secretion C) WDHA syndrome D) Hypoglycaemia",
+   "fmt": "management",
+   "q": "When sorting the page's associations with DM, which label should be placed under the genetic-disease heading?",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-B, 3-C, 4-A"
-   ],
-   "ans": 0,
-   "exp": "Glucagonoma causes necrolytic migratory erythema with diabetes; somatostatinoma inhibits insulin; VIPoma causes WDHA; insulinoma causes hypoglycaemia. (Book p926)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A patient with weight loss, necrolytic migratory erythema and diabetes most likely has:",
-   "opts": [
+    "Prader Willi",
     "Glucagonoma",
+    "Hyperthyroidism",
+    "Cushing’s"
+   ],
+   "ans": 0,
+   "exp": "Prader Willi is in the genetic-disease list, while glucagonoma, hyperthyroidism and Cushing’s are in the endocrinopathy list. (Book p926)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the named genetic diseases on this page?",
+   "opts": [
     "Somatostatinoma",
-    "VIPoma (alternative)",
-    "Insulinoma (insulin-secreting tumour)"
+    "Porphyria",
+    "Wolfram syndrome",
+    "Huntington’s"
    ],
    "ans": 0,
-   "exp": "Necrolytic migratory erythema with diabetes is the textbook glucagonoma presentation. (Book p926)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "The classic triad of pancreatic cholera is watery diarrhoea, hypokalaemia and ___.",
-   "opts": [
-    "Achlorhydria",
-    "Acromegaly",
-    "Alkalosis",
-    "Hypercalcaemia"
-   ],
-   "ans": 0,
-   "exp": "VIPoma causes WDHA: watery diarrhoea, hypokalaemia and achlorhydria. (Book p926)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess these endocrine syndromes: I Acromegaly with diabetes is an indication for IGF-1 measurement. II Pheochromocytoma always presents with sustained hypertension.",
-   "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
-   ],
-   "ans": 0,
-   "exp": "Acromegaly diagnosis requires elevated IGF-1; pheochromocytoma typically presents with paroxysmal, not always sustained, hypertension. (Book p926)"
+   "exp": "Somatostatinoma belongs to the endocrinopathy list; porphyria, Wolfram syndrome and Huntington’s belong to the genetic list. (Book p926)"
   }
  ]
 }
