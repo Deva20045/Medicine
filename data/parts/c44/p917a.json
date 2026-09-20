@@ -1,94 +1,118 @@
 {
  "page": 917,
- "sec": "Diabetes definition and three pillars",
+ "sec": "Introduction and classification of diabetes mellitus",
  "items": [
   {
-   "fmt": "match",
-   "q": "Match the following criteria to the source's diagnostic pillars — 1) Fasting plasma glucose 2) 2-hour post-load 3) HbA1c … A) ≥126 mg/dL B) ≥200 mg/dL C) ≥6.5%",
+   "fmt": "recall",
+   "q": "The common presenting symptom written at the opening of this page is:",
    "opts": [
-    "1-A, 2-B, 3-C",
-    "1-C, 2-A, 3-B",
-    "1-A, 2-C, 3-B",
-    "1-B, 2-A, 3-C"
+    "Hyperglycemia",
+    "Hypoglycemia",
+    "Hypercalcemia",
+    "Hypernatremia"
    ],
    "ans": 0,
-   "exp": "The three pillars are fasting plasma glucose ≥126 mg/dL, 2-hour post-load ≥200 mg/dL and HbA1c ≥6.5%; any one confirms diabetes in the absence of symptoms. (Book p917)"
+   "exp": "The page names hyperglycemia as the common presenting symptom and lists endocrinopathy as the most common association. (Book p917)"
   },
   {
-   "fmt": "scenario",
-   "q": "An asymptomatic 50-year-old has fasting plasma glucose 132 mg/dL on two occasions. Which diagnostic label is most appropriate?",
+   "fmt": "fillup",
+   "q": "The classification notes identify ___ as the common presenting symptom.",
    "opts": [
-    "Diabetes mellitus",
-    "Impaired fasting glucose",
-    "Normal (alternative)",
-    "Hypoglycaemia (alternative)"
+    "Hyperglycemia",
+    "Polyuria alone",
+    "Weight gain",
+    "Fever"
    ],
    "ans": 0,
-   "exp": "FPG ≥126 mg/dL confirmed on repeat testing confirms diabetes in an asymptomatic adult. (Book p917)"
+   "exp": "Hyperglycemia is written as the common presenting symptom. (Book p917)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the following classification to the description — 1) Type 1 DM 2) Type 2 DM 3) Hybrid DM 4) GDM … A) Immune-mediated pancreatic destruction B) Insulin resistance C) Type 1.5 diabetes D) Gestational diabetes mellitus",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "The page defines Type 1 as predominantly immune-mediated pancreatic destruction, Type 2 as insulin resistance, hybrid diabetes as Type 1.5, and GDM as gestational diabetes mellitus. (Book p917)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess these diagnostic facts: I HbA1c ≥6.5% is diagnostic. II A single abnormal test is sufficient if symptomatic.",
+   "q": "Assess the first two classification notes: I Type 1 DM is described as predominantly immune mediated. II Type 2 DM is described as predominantly immune mediated.",
    "opts": [
-    "Both true",
     "I true; II false",
+    "Both true",
     "I false; II true",
     "Both false"
    ],
    "ans": 0,
-   "exp": "HbA1c ≥6.5% is one pillar of diagnosis; in symptomatic patients, a single random glucose ≥200 mg/dL with classic symptoms is diagnostic. (Book p917)"
+   "exp": "Type 1 is described as predominantly immune-mediated pancreatic destruction; Type 2 is described through insulin resistance. (Book p917)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A learner is sorting the note's causes of pancreatic destruction in Type 2 DM. Which pair belongs together in the printed sequence?",
+   "opts": [
+    "Glucotoxicity and lipotoxicity",
+    "Hypoxia and hypercalcemia",
+    "Ketosis and hypothermia",
+    "Bradycardia and anemia"
+   ],
+   "ans": 0,
+   "exp": "The Type 2 line links glucotoxicity and lipotoxicity with pancreatic destruction. (Book p917)"
   },
   {
    "fmt": "oddoneout",
-   "q": "Which is the odd one out — a value NOT diagnostic of diabetes?",
+   "q": "Which is the odd one out among the page's named diabetes categories?",
    "opts": [
-    "HbA1c 5.9%",
-    "HbA1c 7.0%",
-    "FPG 130 mg/dL",
-    "2-h PG 220 mg/dL"
+    "Cushing diabetes",
+    "Type 1 DM",
+    "Type 2 DM",
+    "Hybrid diabetes"
    ],
    "ans": 0,
-   "exp": "HbA1c 5.9% is below the 6.5% threshold; HbA1c 7.0%, FPG 130 mg/dL and 2-h PG 220 mg/dL all meet diabetes criteria. (Book p917)"
+   "exp": "Cushing diabetes is not one of the named categories in the classification list on this page; Type 1, Type 2 and hybrid diabetes are listed. (Book p917)"
   },
   {
-   "fmt": "fillup",
-   "q": "The three pillars of diabetes diagnosis on this page are fasting glucose, 2-hour post-load and ___.",
+   "fmt": "numeric",
+   "q": "What percentage range is written beside Type 2 diabetes mellitus?",
    "opts": [
-    "HbA1c (correct answer)",
-    "C-peptide",
-    "Fructosamine",
-    "1,5-AG (alternative)"
+    "90–95%",
+    "5–10%",
+    "20–25%",
+    "70–75%"
    ],
    "ans": 0,
-   "exp": "HbA1c is the third pillar; C-peptide, fructosamine and 1,5-AG are alternative markers but not part of the three-pillar definition. (Book p917)"
+   "exp": "The Type 2 diabetes mellitus entry is annotated with 90–95%. (Book p917)"
+  },
+  {
+   "fmt": "management",
+   "q": "A patient is using the artificial-pancreas arrangement shown on the page. Which sequence reflects the printed operation?",
+   "opts": [
+    "Sensor measures glucose, pump calculates insulin, smartphone displays readings and accepts carbohydrate input",
+    "Pump measures glucose, sensor injects insulin, smartphone stores ketones",
+    "Smartphone measures glucose, sensor gives glucagon, pump records meals",
+    "Sensor measures carbohydrates, pump gives saline, smartphone checks C-peptide"
+   ],
+   "ans": 0,
+   "exp": "The artificial-pancreas note describes a skin sensor, wireless transmission to a pump that calculates insulin, and smartphone monitoring with carbohydrate input. (Book p917)"
   },
   {
    "fmt": "match",
-   "q": "Match the following glucose state to its FPG / 2-h PG range — 1) Normal 2) Pre-diabetes / IGT 3) Diabetes … A) FPG <100, 2-h PG <140 B) FPG 100–125 or 2-h PG 140–199 C) FPG ≥126 or 2-h PG ≥200",
+   "q": "Match the Type 3 branch to its printed example — 1) Type 3 diabetes 2) Type 3a 3) Type 3c 4) Type 3d … A) Alzheimer’s disease B) Parent category shown above the branches C) Pancreatic diabetes D) Drug-induced diabetes",
    "opts": [
-    "1-A, 2-B, 3-C",
-    "1-C, 2-A, 3-B",
-    "1-A, 2-C, 3-B",
-    "1-B, 2-A, 3-C"
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-C, 3-D, 4-B",
+    "1-C, 2-D, 3-B, 4-A",
+    "1-D, 2-B, 3-A, 4-C"
    ],
    "ans": 0,
-   "exp": "Normal FPG is <100 mg/dL and 2-h PG <140 mg/dL; pre-diabetes (IFG / IGT) is FPG 100–125 or 2-h PG 140–199; diabetes is ≥126 or ≥200. (Book p917)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A 45-year-old has FPG 118 mg/dL, 2-h PG 175 mg/dL and HbA1c 6.1%. The most consistent diagnostic label is:",
-   "opts": [
-    "Pre-diabetes (combined IFG and IGT)",
-    "Diabetes (alternative)",
-    "Normal (alternative)",
-    "Reactive hypoglycaemia"
-   ],
-   "ans": 0,
-   "exp": "Combined IFG (FPG 100–125) and IGT (2-h PG 140–199) with HbA1c 6.1% fits pre-diabetes. (Book p917)"
+   "exp": "The page shows Type 3 branching to Alzheimer’s disease, Type 3c pancreatic diabetes, and Type 3d drug-induced diabetes. (Book p917)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess diagnostic reproducibility: I A diagnosis requires confirmation on repeat testing in asymptomatic patients. II HbA1c can be falsely low in haemoglobinopathies.",
+   "q": "Assess the remaining labels: I Type 4 is called mild age-related diabetes. II MODY is expanded as maturity onset diabetes of young.",
    "opts": [
     "Both true",
     "I true; II false",
@@ -96,67 +120,43 @@
     "Both false"
    ],
    "ans": 0,
-   "exp": "Asymptomatic diagnosis is confirmed on repeat testing; HbA1c can be unreliable with haemoglobin variants, iron deficiency and pregnancy. (Book p917)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following state to its characteristic finding — 1) Normal 2) Pre-diabetes 3) Diabetes 4) Stress hyperglycaemia … A) HbA1c <5.7% B) HbA1c 5.7–6.4% C) HbA1c ≥6.5% D) Transient rise during acute illness",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-B, 2-A, 3-C, 4-D"
-   ],
-   "ans": 0,
-   "exp": "HbA1c <5.7% is normal; 5.7–6.4% is pre-diabetes; ≥6.5% is diabetes; transient stress hyperglycaemia resolves with illness. (Book p917)"
+   "exp": "Type 4 is labelled mild age-related diabetes (MARD), and MODY is expanded as maturity onset diabetes of young. (Book p917)"
   },
   {
    "fmt": "scenario",
-   "q": "An asymptomatic patient has HbA1c 7.2% on one occasion. The next step is:",
+   "q": "The Type 4 note links mild age-related diabetes with which immune-cell association?",
    "opts": [
-    "Repeat the test on a different day to confirm",
-    "Start metformin immediately",
-    "Start insulin immediately",
-    "Diagnose pre-diabetes (alternative)"
+    "T-regulatory cells",
+    "Neutrophils",
+    "Plasma cells",
+    "Eosinophils"
    ],
    "ans": 0,
-   "exp": "Without symptoms, the test should be repeated; if confirmed, lifestyle and metformin are typical first steps. (Book p917)"
+   "exp": "The page places an association with T-regulatory cells below Type 4 mild age-related diabetes. (Book p917)"
   },
   {
    "fmt": "recall",
-   "q": "Which value on this page is the diagnostic cut-off for HbA1c?",
+   "q": "The diagram beside Alzheimer’s disease links insulin-degrading enzyme with degradation of insulin and:",
    "opts": [
-    "6.5%",
-    "5.7%",
-    "7.0%",
-    "8.0%"
+    "APO-Ba",
+    "GLUT-4",
+    "SGLT-2",
+    "HbA1c"
    ],
    "ans": 0,
-   "exp": "HbA1c ≥6.5% is the diagnostic cut-off; 5.7–6.4% defines pre-diabetes. (Book p917)"
+   "exp": "The Alzheimer’s branch depicts insulin-degrading enzyme and shows degradation of insulin and APO-Ba before APO-Ba accumulation. (Book p917)"
   },
   {
    "fmt": "fillup",
-   "q": "An HbA1c of 5.7–6.4% on this page defines ___.",
+   "q": "The abbreviation GDM on this page expands to ___.",
    "opts": [
-    "Pre-diabetes / increased risk",
-    "Diabetes (alternative)",
-    "Normal (alternative)",
-    "Type 1 diabetes only"
+    "Gestational diabetes mellitus",
+    "Glucose-dependent metabolism",
+    "General diabetic mechanism",
+    "Glycogen-depleted muscle"
    ],
    "ans": 0,
-   "exp": "HbA1c 5.7–6.4% indicates increased risk for diabetes (pre-diabetes); 6.5% is the diagnostic cut-off. (Book p917)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess additional tests: I Oral glucose tolerance test is more sensitive than FPG. IIGAD antibody screening is part of routine diagnosis.",
-   "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
-   ],
-   "ans": 0,
-   "exp": "OGTT is more sensitive than FPG for detecting IGT; GAD antibodies are used for classification after diagnosis, not routine diagnosis. (Book p917)"
+   "exp": "GDM is written as gestational diabetes mellitus in the classification list. (Book p917)"
   }
  ]
 }

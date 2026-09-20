@@ -1,34 +1,34 @@
 {
  "page": 930,
- "sec": "DKA: pathophysiology, features, investigations",
+ "sec": "Diabetic ketoacidosis: pathophysiology, features and investigations",
  "items": [
   {
    "fmt": "match",
-   "q": "Match the following DKA feature — 1) Trigger 2) Anion gap 3) Potassium 4) Plasma glucose … A) Infection, MI, missed insulin, pregnancy, cocaine B) Raised with positive ketones C) Total body depletion despite normal/raised serum K+ D) 250–600 mg/dL",
+   "q": "Match the DKA pathophysiology step to the next printed step — 1) Absolute insulin deficiency 2) Increased CPT-1 3) Free fatty acids 4) Acetyl-CoA … A) With counter-regulatory hormones B) Lipolysis and beta-oxidation in mitochondria C) Undergo beta-oxidation D) Increased ketone-body formation",
    "opts": [
     "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
     "1-D, 2-A, 3-B, 4-C"
    ],
    "ans": 0,
-   "exp": "Triggers include infection, MI, missed insulin, pregnancy and cocaine; AG is raised with positive ketones; total body K+ is depleted despite serum K+ often being normal/raised; plasma glucose is typically 250–600 mg/dL. (Book p930)"
+   "exp": "The flow begins with absolute insulin deficiency and counter-regulatory hormones, increased CPT-1, free-fatty-acid beta-oxidation, acetyl-CoA formation and ketone bodies. (Book p930)"
   },
   {
-   "fmt": "scenario",
-   "q": "A patient on insulin has a chest infection and develops Kussmaul breathing, abdominal pain and plasma glucose 380 mg/dL with ketones. The most likely diagnosis is:",
+   "fmt": "fillup",
+   "q": "Free fatty acids undergo ___ in the mitochondria in the DKA flowchart.",
    "opts": [
-    "DKA (correct answer)",
-    "Hyperosmolar hyperglycaemic state",
-    "Lactic acidosis (alternative)",
-    "Salicylate poisoning"
+    "Beta-oxidation",
+    "Glycolysis",
+    "Glycogenesis",
+    "Transamination"
    ],
    "ans": 0,
-   "exp": "Kussmaul breathing, abdominal pain, glucose 380 mg/dL with ketones fit DKA, often precipitated by infection. (Book p930)"
+   "exp": "The DKA diagram states that free fatty acids undergo beta-oxidation in mitochondria. (Book p930)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess DKA: I Insulin deficiency causes lipolysis and ketogenesis. II Hepatic ketogenesis is stimulated by glucagon excess.",
+   "q": "Assess the DKA flow: I Increased acetyl-CoA formation precedes ketone-body formation. II The endpoint shown is ketosis/ketoacidosis.",
    "opts": [
     "Both true",
     "I true; II false",
@@ -36,59 +36,95 @@
     "Both false"
    ],
    "ans": 0,
-   "exp": "Insulin deficiency and glucagon excess together drive lipolysis, FFA delivery to liver, and ketogenesis producing β-hydroxybutyrate and acetoacetate. (Book p930)"
+   "exp": "Both arrows are visible in the DKA pathophysiology sequence. (Book p930)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "In the comparison written at the top of the page, absolute insulin deficiency is greater in which direction?",
+   "opts": [
+    "T1DM much greater than T2DM",
+    "T2DM much greater than T1DM",
+    "Equal in T1DM and T2DM",
+    "Only GDM has absolute deficiency"
+   ],
+   "ans": 0,
+   "exp": "The page annotates absolute insulin deficiency as T1DM >> T2DM. (Book p930)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A child with DKA is being monitored for the page's highlighted complication associated with increased mortality. What is it?",
+   "opts": [
+    "Cerebral edema",
+    "Pulmonary fibrosis",
+    "Pancreatic calcification",
+    "Myocardial rupture"
+   ],
+   "ans": 0,
+   "exp": "The note states that cerebral edema is seen in children and increases mortality. (Book p930)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the DKA clinical item to the printed category — 1) Nausea/vomiting 2) Respiratory distress out of proportion to lung signs 3) Fruity odour 4) High-anion-gap metabolic acidosis … A) Symptom B) Sign C) Acidotic breath sign D) Investigation finding",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 0,
+   "exp": "The page places nausea/vomiting under symptoms, respiratory distress under signs, fruity odour under acidotic breath, and HAGMA under investigations. (Book p930)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which symptom is listed alongside thirst/polyuria in DKA?",
+   "opts": [
+    "Abdominal pain",
+    "Hearing loss",
+    "Hematuria",
+    "Constipation"
+   ],
+   "ans": 0,
+   "exp": "The symptoms list includes nausea/vomiting, thirst/polyuria, abdominal pain and shortness of breath. (Book p930)"
   },
   {
    "fmt": "oddoneout",
-   "q": "Which is the odd one out — a feature more typical of HHS than DKA?",
+   "q": "Which is the odd one out among the DKA signs listed on the page?",
    "opts": [
-    "Severe hyperglycaemia >600 mg/dL with profound dehydration",
-    "Positive serum ketones (alternative)",
-    "Plasma osmolarity >320 mOsm/kg (alternative)",
-    "Absent/little ketoacidosis (alternative)"
+    "Bradycardia",
+    "Dehydration",
+    "Tachycardia",
+    "Abdominal tenderness"
    ],
    "ans": 0,
-   "exp": "Positive serum ketones is a feature of DKA, not HHS; HHS has severe hyperglycaemia, high osmolarity and minimal ketosis. (Book p930)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "The dominant ketone body in DKA is ___.",
-   "opts": [
-    "β-hydroxybutyrate",
-    "Acetoacetate",
-    "Acetone (alternative)",
-    "Pyruvate (alternative)"
-   ],
-   "ans": 0,
-   "exp": "β-hydroxybutyrate predominates in DKA; standard urine dipstick detects acetoacetate preferentially and may underestimate the true ketone load. (Book p930)"
+   "exp": "The signs list dehydration, tachycardia, respiratory distress, acidotic breath and abdominal tenderness; bradycardia is not listed. (Book p930)"
   },
   {
    "fmt": "match",
-   "q": "Match the following DKA workup — 1) Glucose 2) Electrolytes 3) ABG 4) Serum osmolality … A) 250–600 mg/dL B) K+ depletion, Na+ artefact C) pH <7.3, HCO3 <15 D) 300–320 mOsm/kg",
+   "q": "Match the investigation to the exact DKA investigation list — 1) ABG 2) Beta-hydroxybutyrate 3) Urine 4) Blood tests … A) HAGMA B) Level C) Ketones D) CBC, RFT and serum electrolytes",
    "opts": [
     "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
     "1-D, 2-A, 3-B, 4-C"
    ],
    "ans": 0,
-   "exp": "Glucose typically 250–600 mg/dL; electrolytes show K+ depletion and pseudohyponatraemia; ABG shows pH <7.3 and HCO3 <15; serum osmolarity 300–320 mOsm/kg. (Book p930)"
+   "exp": "The investigation list includes ABG showing HAGMA, beta-hydroxybutyrate level, urine ketones, CBC, RFT and serum electrolytes. (Book p930)"
   },
   {
-   "fmt": "scenario",
-   "q": "A DKA patient has serum Na+ 128 mEq/L and glucose 540 mg/dL. The corrected sodium is approximately:",
+   "fmt": "management",
+   "q": "Abdominal tenderness in this DKA page is noted as requiring a differential diagnosis of:",
    "opts": [
-    "136 mEq/L",
-    "128 mEq/L",
-    "120 mEq/L",
-    "144 mEq/L"
+    "Acute pancreatitis",
+    "Acute appendicitis",
+    "Acute hepatitis",
+    "Acute cholelithiasis"
    ],
    "ans": 0,
-   "exp": "Corrected Na+ ≈ measured Na+ + 1.6 × (glucose − 100)/100. With glucose 540, correction ≈ 128 + 7 ≈ 135 mEq/L. (Book p930)"
+   "exp": "The page annotates abdominal tenderness with differential diagnosis of acute pancreatitis. (Book p930)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess potassium in DKA: I Initial serum K+ may be normal or high. II Insulin will further drop K+; replacement is needed.",
+   "q": "Assess the counter-regulatory-hormone note: I Glucagon, epinephrine and cortisol are named. II Proteolysis increases gluconeogenic substrates.",
    "opts": [
     "Both true",
     "I true; II false",
@@ -96,55 +132,19 @@
     "Both false"
    ],
    "ans": 0,
-   "exp": "Total body K+ is depleted even when initial serum K+ is normal/high; insulin therapy will lower K+ and replacement is required. (Book p930)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following DKA investigation to its expected finding — 1) Urine dipstick 2) β-hydroxybutyrate 3) Lactate 4) Anion gap … A) Ketones positive (acetoacetate) B) Elevated (best ketone) C) May be elevated if shock D) Raised (>10)",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-B, 3-A, 4-C"
-   ],
-   "ans": 0,
-   "exp": "Urine dipstick detects acetoacetate; β-hydroxybutyrate is the predominant ketone; lactate may rise with shock; anion gap is raised >10. (Book p930)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A patient with new T1DM has glucose 480 mg/dL, pH 7.18, HCO3 10 mEq/L and K+ 5.6 mEq/L. The first hour of management is most consistent with:",
-   "opts": [
-    "IV fluids, hold insulin until K+ checked, monitor",
-    "Insulin bolus then fluids (alternative)",
-    "Oral rehydration only (alternative)",
-    "Sodium bicarbonate immediately"
-   ],
-   "ans": 0,
-   "exp": "Fluids and insulin are cornerstones; insulin should be withheld if K+ <3.3 until replacement; bicarbonate is not routine. (Book p930)"
+   "exp": "The page names glucagon, epinephrine and cortisol and draws proteolysis leading to increased gluconeogenic substrates. (Book p930)"
   },
   {
    "fmt": "fillup",
-   "q": "The anion gap is calculated as Na+ − (Cl− + ___).",
+   "q": "The right-hand DKA flow runs from uncontrolled hyperglycemia through osmotic diuresis to ECF volume ___.",
    "opts": [
-    "HCO3−",
-    "K+ (alternative)",
-    "Glucose",
-    "Lactate"
+    "depletion",
+    "expansion",
+    "redistribution",
+    "normalization"
    ],
    "ans": 0,
-   "exp": "AG = Na+ − (Cl− + HCO3−); the alternative including K+ is seldom used clinically. (Book p930)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess DKA triggers: I New-onset T1DM can present with DKA. II Pregnancy predisposes to DKA.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "New-onset T1DM commonly presents with DKA; pregnancy increases susceptibility because of hormonal changes. (Book p930)"
+   "exp": "The page's right-hand flow ends osmotic diuresis followed by ECF volume depletion. (Book p930)"
   }
  ]
 }

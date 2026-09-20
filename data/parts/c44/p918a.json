@@ -1,34 +1,46 @@
 {
  "page": 918,
- "sec": "Ominous octet and pathophysiology of T2DM",
+ "sec": "Pathophysiology: three pillars and ominous octet",
  "items": [
   {
-   "fmt": "match",
-   "q": "Match the following organ to its role in the ominous octet — 1) Liver 2) Pancreas (β-cell) 3) Skeletal muscle 4) Adipocyte … A) Increased gluconeogenesis B) Decreased insulin secretion C) Impaired GLUT4 translocation D) Increased lipolysis",
+   "fmt": "recall",
+   "q": "The page's older-discoveries diagram begins with how many pillars?",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-B, 2-A, 3-C, 4-D"
+    "3",
+    "2",
+    "5",
+    "8"
    ],
    "ans": 0,
-   "exp": "The octet identifies liver (↑ gluconeogenesis), pancreas (↓ secretion), muscle (impaired GLUT4) and fat (↑ lipolysis) as four of the eight defects. (Book p918)"
+   "exp": "The heading immediately above the liver, pancreas and skeletal-muscle diagram is 3 pillars. (Book p918)"
   },
   {
-   "fmt": "scenario",
-   "q": "A T2DM patient has fasting hyperglycaemia despite normal insulin sensitivity on clamp. Which octet member is most directly implicated?",
+   "fmt": "match",
+   "q": "Match the three pillar to the printed abnormality — 1) Liver 2) Pancreas 3) Skeletal muscle … A) Increased gluconeogenesis with increased glucose output B) Defective insulin secretion from beta cells C) Impaired receptor function and insulin-dependent glucose-uptake impairment",
    "opts": [
-    "Decreased hepatic gluconeogenesis (correct answer)",
-    "Increased hepatic gluconeogenesis (most important per source)",
-    "Impaired adipocyte lipolysis (alternative)",
-    "Increased intestinal GLP-1 (alternative)"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "The page marks increased hepatic gluconeogenesis as the most important driver of fasting hyperglycaemia in T2DM. (Book p918)"
+   "exp": "The page maps liver to increased gluconeogenesis and glucose output, pancreas to defective beta-cell insulin secretion, and skeletal muscle to impaired receptor function and glucose uptake. (Book p918)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The skeletal-muscle pillar names insulin-dependent glucose uptake through ___.",
+   "opts": [
+    "GLUT-4",
+    "GLUT-1",
+    "SGLT-1",
+    "SGLT-2"
+   ],
+   "ans": 0,
+   "exp": "The skeletal-muscle column explicitly names GLUT-4 in insulin-dependent glucose uptake. (Book p918)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess the octet: I β-cell dysfunction in T2DM is reversible with early therapy. II Skeletal muscle insulin resistance precedes β-cell failure.",
+   "q": "Assess the three-pillar notes: I The liver line calls increased gluconeogenesis the most important factor. II The skeletal-muscle line describes insulin resistance.",
    "opts": [
     "Both true",
     "I true; II false",
@@ -36,127 +48,115 @@
     "Both false"
    ],
    "ans": 0,
-   "exp": "β-cell dysfunction in T2DM is largely irreversible once established; muscle insulin resistance typically precedes β-cell exhaustion. (Book p918)"
+   "exp": "The liver column marks increased gluconeogenesis as the most important factor, while the skeletal-muscle column ends in insulin resistance. (Book p918)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What does the page give for the ominous octet's count?",
+   "opts": [
+    "5 previous and 5 new factors",
+    "3 previous and 5 new factors",
+    "5 previous and 3 new factors",
+    "8 previous and 2 new factors"
+   ],
+   "ans": 0,
+   "exp": "The ominous-octet heading states that it involves previous 5 and 5 new factors. (Book p918)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the ominous-octet label to the note below it — 1) G 2) P 3) R 4) A … A) Incretin effect B) Pancreas with increased glucagon production C) Renal activation of SGLT-2 D) Adipose tissue with centripetal obesity",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "The octet row gives G for gut/incretin effect, P for pancreas/increased glucagon, R for renal SGLT-2 activation, and A for adipose tissue/centripetal obesity. (Book p918)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "The renal branch in the printed flowchart shows increased SGLT-2 activation followed by increased absorption of:",
+   "opts": [
+    "Glucose, sodium and water",
+    "Calcium, chloride and phosphate",
+    "Protein, bicarbonate and potassium",
+    "Urea, urate and magnesium"
+   ],
+   "ans": 0,
+   "exp": "The renal branch shows increased SGLT-2 activation, increased glucose, sodium and water absorption, and oedema. (Book p918)"
+  },
+  {
+   "fmt": "management",
+   "q": "Which target is named by the page for the renal component of the ominous octet?",
+   "opts": [
+    "SGLT-2",
+    "GLUT-4",
+    "Hormone-sensitive lipase",
+    "Carnitine palmitoyl transferase"
+   ],
+   "ans": 0,
+   "exp": "The renal arm of the printed octet specifically identifies increased SGLT-2 activation. (Book p918)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the adipose-tissue flowchart: I Centripetal obesity converts alpha-3 receptors to beta-3 receptors. II The beta-3 receptor line increases lipolysis by hormone-sensitive lipase.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The adipose-tissue diagram shows centripetal obesity, conversion to beta-3 receptor activity, and increased lipolysis by hormone-sensitive lipase. (Book p918)"
   },
   {
    "fmt": "oddoneout",
-   "q": "Which is the odd one out — a tissue where insulin normally increases glucose uptake via GLUT4?",
+   "q": "Which is the odd one out among the four tissues explicitly listed in the skeletal-muscle note for GLUT-4?",
    "opts": [
-    "Liver (correct answer)",
+    "Liver",
     "Skeletal muscle",
-    "Cardiac muscle",
+    "Heart",
     "Adipose tissue"
    ],
    "ans": 0,
-   "exp": "Liver uses GLUT2 (insulin-independent), whereas skeletal muscle, cardiac muscle and adipose tissue depend on insulin-stimulated GLUT4 translocation. (Book p918)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "Per the page, the single most important contributor to fasting hyperglycaemia in T2DM is increased ___.",
-   "opts": [
-    "Hepatic gluconeogenesis",
-    "Renal glucose reabsorption",
-    "Incretin effect",
-    "Adipocyte browning"
-   ],
-   "ans": 0,
-   "exp": "Increased hepatic gluconeogenesis is the most important driver of fasting hyperglycaemia in T2DM on this page. (Book p918)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following organ to its insulin-resistance effect — 1) Liver 2) Muscle 3) Adipocyte 4) Brain … A) ↑Gluconeogenesis B) ↓GLUT4-mediated uptake C) ↑Lipolysis / FFA flux D) Insulin-independent GLUT1 uptake",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-B, 2-A, 3-C, 4-D"
-   ],
-   "ans": 0,
-   "exp": "Insulin resistance in liver drives gluconeogenesis; in muscle impairs GLUT4; in adipose tissue increases lipolysis with FFA flux; brain glucose uptake is insulin-independent via GLUT1. (Book p918)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "An obese T2DM patient has high portal free-fatty-acid flux. The downstream effect on the liver is most consistent with:",
-   "opts": [
-    "Increased hepatic gluconeogenesis and steatosis",
-    "Decreased very-low-density lipoprotein output",
-    "Increased glycogenolysis (alternative)",
-    "Reduced ketogenesis (alternative)"
-   ],
-   "ans": 0,
-   "exp": "Portal FFA flux drives hepatic gluconeogenesis and steatosis; it does not decrease VLDL output. (Book p918)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess this caveat: I CPT-1 is physiologically absent in liver; fatty-acyl-CoA accumulation in the schematic leads to insulin resistance. II Insulin normally suppresses hormone-sensitive lipase in adipocytes.",
-   "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
-   ],
-   "ans": 0,
-   "exp": "The schematic depicts CPT-1 as 'Absent in liver' which is biologically inaccurate; insulin normally suppresses HSL in adipocytes. (Book p918)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following defect to the source's description — 1) β-cell 2) α-cell 3) Incretin axis 4) Kidney … A) Decreased insulin secretion B) Hyperglucagonaemia C) Reduced GLP-1 effect D) Increased glucose reabsorption (SGLT2)",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-A, 3-B, 4-C"
-   ],
-   "ans": 0,
-   "exp": "β-cell defect is decreased insulin secretion; α-cell shows hyperglucagonaemia; incretin axis is reduced GLP-1 effect; the kidney shows increased SGLT2-mediated glucose reabsorption. (Book p918)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "Which drug class targets the kidney component of the ominous octet?",
-   "opts": [
-    "SGLT2 inhibitors",
-    "Sulfonylureas (alternative)",
-    "Thiazolidinediones",
-    "α-Glucosidase inhibitors"
-   ],
-   "ans": 0,
-   "exp": "SGLT2 inhibitors reduce renal glucose reabsorption; sulfonylureas target the β-cell; TZDs target adipose tissue; α-glucosidase inhibitors target intestinal carbohydrate absorption. (Book p918)"
+   "exp": "The GLUT-4 box lists skeletal muscle, heart and adipose tissue; liver is not in that box. (Book p918)"
   },
   {
    "fmt": "recall",
-   "q": "Which organ provides the dominant source of fasting endogenous glucose in T2DM?",
+   "q": "After increased free fatty acids reach the liver through the portal system, the highlighted main substrate for increased gluconeogenesis is:",
    "opts": [
-    "Liver (correct answer)",
-    "Kidney (alternative)",
-    "Skeletal muscle",
-    "Brain (alternative)"
+    "FFA",
+    "Lactate",
+    "Glycerol only",
+    "Alanine"
    ],
    "ans": 0,
-   "exp": "Hepatic gluconeogenesis dominates fasting glucose production in T2DM. (Book p918)"
+   "exp": "The flowchart labels FFA as the main substrate leading to increased gluconeogenesis in the liver. (Book p918)"
   },
   {
    "fmt": "fillup",
-   "q": "The 'ominous octet' highlights defects in pancreas, liver, muscle, fat, brain, gut (incretin), kidney and ___.",
+   "q": "The bottom note states that insulin also plays a role in T2DM by acting on ___.",
    "opts": [
-    "α-cell (hyperglucagonaemia)",
-    "Spleen (alternative)",
-    "Bone marrow (alternative)",
-    "Lymph node (alternative)"
+    "HSL",
+    "DPP-4",
+    "SGLT-1",
+    "GAD"
    ],
    "ans": 0,
-   "exp": "α-cell hyperglucagonaemia is the eighth member; the others include incretin deficiency, SGLT2 upregulation and CNS dysregulation. (Book p918)"
+   "exp": "The final note on the page reads that insulin acts on HSL and plays a role in T2DM too. (Book p918)"
   },
   {
-   "fmt": "truefalse",
-   "q": "Assess incretin physiology: I GLP-1 and GIP are secreted by intestinal cells. II The incretin effect is preserved in T2DM.",
+   "fmt": "scenario",
+   "q": "In the page's adipose-to-liver sequence, increased lipolysis produces increased ___ that travels through the portal system.",
    "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
+    "FFA",
+    "Insulin",
+    "C-peptide",
+    "Glucagon"
    ],
    "ans": 0,
-   "exp": "GLP-1 (L-cells) and GIP (K-cells) are secreted by the gut; the incretin effect is reduced in T2DM, prompting GLP-1 agonist therapy. (Book p918)"
+   "exp": "The printed sequence runs through increased FFA via the portal system to the liver. (Book p918)"
   }
  ]
 }

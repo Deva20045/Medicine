@@ -5,1075 +5,700 @@
  "questions": [
   {
    "id": "MED-C45-001",
-   "sec": "Insulin: structure, secretion and signalling",
+   "sec": "Physiology of insulin",
    "page": 927,
-   "fmt": "match",
-   "q": "Match the following insulin features — 1) Chain length 2) Receptor type 3) Receptor kinase 4) Pre-prohormone … A) 51 amino acids in two chains B) Tyrosine kinase receptor C) Insulin receptor substrate (IRS) D) Preproinsulin",
+   "fmt": "numeric",
+   "q": "The islets of Langerhans are written as what percentage of pancreatic volume?",
    "opts": [
-    "1-B, 2-A, 3-D, 4-C",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C"
+    "20%",
+    "2%",
+    "5%",
+    "10%"
    ],
    "ans": 1,
-   "exp": "Insulin has 51 amino acids in two chains; receptor is a tyrosine kinase; downstream signalling uses IRS proteins; the precursor is preproinsulin. (Book p927)"
+   "exp": "The formation note says islets of Langerhans are 2% of pancreatic volume. (Book p927)"
   },
   {
    "id": "MED-C45-002",
-   "sec": "Insulin: structure, secretion and signalling",
+   "sec": "Physiology of insulin",
    "page": 927,
-   "fmt": "scenario",
-   "q": "A neonate has refractory hyperglycaemia with severe insulin resistance and elevated triglycerides. The most likely genetic defect involves the:",
+   "fmt": "fillup",
+   "q": "Insulin is written as a polypeptide of ___ amino acids.",
    "opts": [
-    "KCNJ11 (alternative)",
-    "Insulin receptor (INSR)",
-    "GCK (alternative)",
-    "HNF1A (alternative)"
+    "84",
+    "51",
+    "21",
+    "36"
    ],
    "ans": 1,
-   "exp": "Severe insulin resistance with hyperglycaemia in a neonate is consistent with insulin-receptor mutations (Donohue or Rabson-Mendenhall). (Book p927)"
+   "exp": "The formation note identifies insulin as a polypeptide of 51 amino acids. (Book p927)"
   },
   {
    "id": "MED-C45-003",
-   "sec": "Insulin: structure, secretion and signalling",
+   "sec": "Physiology of insulin",
    "page": 927,
-   "fmt": "truefalse",
-   "q": "Assess insulin structure: I Insulin is composed of A and B chains linked by disulphide bridges. II C-peptide remains attached in mature insulin.",
+   "fmt": "match",
+   "q": "Match the insulin physiology item to its printed description — 1) Formation site 2) Structure 3) Receptor 4) Exception … A) Islets of Langerhans B) Chains connected by disulphide bonds C) Tyrosine kinase D) TGF-β uses serine-threonine kinase",
    "opts": [
-    "I false; II true",
-    "Both true",
-    "Both false",
-    "I true; II false"
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-D, 4-A"
    ],
    "ans": 2,
-   "exp": "Insulin has A and B chains linked by disulphide bonds; C-peptide is cleaved from proinsulin and is not part of mature insulin. (Book p927)"
+   "exp": "The page gives islets of Langerhans, chains joined by disulphide bonds, a tyrosine-kinase receptor, and TGF-β as the serine-threonine-kinase exception. (Book p927)"
   },
   {
    "id": "MED-C45-004",
-   "sec": "Insulin: structure, secretion and signalling",
+   "sec": "Physiology of insulin",
    "page": 927,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a step in insulin biosynthesis?",
+   "fmt": "truefalse",
+   "q": "Assess the receptor note: I Insulin acts via a tyrosine-kinase receptor. II TGF-β is listed as an exception using a serine-threonine-kinase pathway.",
    "opts": [
-    "Proinsulin packaged in granules",
-    "Preproinsulin → proinsulin",
-    "Proinsulin → insulin + C-peptide",
-    "Insulin → glucose (alternative)"
+    "Both false",
+    "Both true",
+    "I true; II false",
+    "I false; II true"
    ],
    "ans": 1,
-   "exp": "Insulin does not directly produce glucose; it lowers glucose by promoting uptake and inhibiting production. (Book p927)"
+   "exp": "Both receptor statements are written in the physiology notes. (Book p927)"
   },
   {
    "id": "MED-C45-005",
-   "sec": "Insulin: structure, secretion and signalling",
+   "sec": "Physiology of insulin",
    "page": 927,
-   "fmt": "fillup",
-   "q": "Insulin lowers blood glucose primarily by stimulating glucose uptake via ___ translocation.",
+   "fmt": "recall",
+   "q": "Which tissue is included in the page's insulin-dependent GLUT-4 glucose uptake list?",
    "opts": [
-    "SGLT2",
-    "GLUT1",
-    "GLUT4",
-    "GLUT2"
+    "Brain",
+    "Erythrocyte",
+    "Heart",
+    "Liver"
    ],
    "ans": 2,
-   "exp": "GLUT4 translocation to the muscle and adipocyte membrane is insulin's main glucose-lowering step. (Book p927)"
+   "exp": "The GLUT-4 uptake list names skeletal muscle, adipose tissue and heart. (Book p927)"
   },
   {
    "id": "MED-C45-006",
-   "sec": "Insulin: structure, secretion and signalling",
+   "sec": "Physiology of insulin",
    "page": 927,
    "fmt": "match",
-   "q": "Match the following stimulus — 1) Glucose 2) Amino acids (especially leucine) 3) Incretins (GLP-1, GIP) 4) Vagal stimulation … A) Most potent stimulus for insulin secretion B) Stimulus during protein-rich meals C) Augment glucose-stimulated secretion D) Cephalic-phase insulin release",
+   "q": "Match the insulin effect to the carbohydrate-metabolism entry — 1) Glucose uptake 2) Glucose production 3) Gluconeogenesis 4) Glycogenolysis … A) Via GLUT-4 in muscle, adipose tissue and heart B) Regulated by insulin C) Decreased D) Decreased",
    "opts": [
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C",
     "1-A, 2-B, 3-C, 4-D"
    ],
    "ans": 3,
-   "exp": "Glucose is the most potent stimulus; amino acids (especially leucine) trigger protein-meal insulin; incretins augment glucose-stimulated secretion; vagal activity drives cephalic-phase release. (Book p927)"
+   "exp": "The page shows insulin-dependent GLUT-4 uptake, regulation of glucose production, and negative effects on gluconeogenesis and glycogenolysis. (Book p927)"
   },
   {
    "id": "MED-C45-007",
-   "sec": "Insulin: structure, secretion and signalling",
+   "sec": "Physiology of insulin",
    "page": 927,
    "fmt": "scenario",
-   "q": "A patient has postprandial hypoglycaemia after Roux-en-Y gastric bypass. The most consistent mechanism is:",
+   "q": "The page links increased glucose production to hyperglycemia and then to which pair through osmotic diuresis?",
    "opts": [
-    "Exaggerated incretin and insulin response",
-    "Adrenal insufficiency (alternative)",
-    "Insulinoma (alternative)",
-    "Factitious sulfonylurea use"
+    "Polyuria and polydipsia",
+    "Hemoptysis and edema",
+    "Jaundice and pruritus",
+    "Bradycardia and syncope"
    ],
    "ans": 0,
-   "exp": "Roux-en-Y bypass causes rapid glucose delivery with exaggerated GLP-1 and insulin surges, producing late hypoglycaemia. (Book p927)"
+   "exp": "The flow below increased glucose production reads hyperglycemia followed by polyuria and polydipsia through osmotic diuresis. (Book p927)"
   },
   {
    "id": "MED-C45-008",
-   "sec": "Insulin: structure, secretion and signalling",
+   "sec": "Physiology of insulin",
    "page": 927,
-   "fmt": "truefalse",
-   "q": "Assess insulin secretion phases: I First phase peaks within minutes and lasts ~10 minutes. II Second phase is sustained and involves newly synthesised insulin.",
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the infections specifically labelled as diabetic-mellitus specific?",
    "opts": [
-    "I false; II true",
-    "Both false",
-    "Both true",
-    "I true; II false"
+    "Emphysematous cholecystitis",
+    "Malignant otitis externa",
+    "Meningitis",
+    "Mucormycosis"
    ],
    "ans": 2,
-   "exp": "First phase releases stored granules within minutes; second phase is sustained and involves newly synthesised insulin. (Book p927)"
+   "exp": "The page lists mucormycosis, emphysematous cholecystitis, emphysematous pyelonephritis and malignant otitis externa; meningitis is not in that bracket. (Book p927)"
   },
   {
    "id": "MED-C45-009",
-   "sec": "Insulin: structure, secretion and signalling",
+   "sec": "Physiology of insulin",
    "page": 927,
-   "fmt": "match",
-   "q": "Match the following ion channel / enzyme — 1) K-ATP channel 2) Voltage-gated Ca²⁺ channel 3) KIR6.2 subunit 4) SUR1 subunit … A) Closes on ATP rise B) Opens to trigger exocytosis C) Forms pore of K-ATP D) Sulfonylurea receptor",
+   "fmt": "fillup",
+   "q": "The protein-metabolism section links decreased amino-acid uptake to ___.",
    "opts": [
-    "1-B, 2-A, 3-C, 4-D",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B"
+    "Hypertension",
+    "Weakness",
+    "Weight gain",
+    "Polycythemia"
    ],
    "ans": 1,
-   "exp": "ATP closes K-ATP channels; depolarisation opens voltage-gated Ca²⁺ channels triggering exocytosis; KIR6.2 forms the pore and SUR1 binds sulfonylureas. (Book p927)"
+   "exp": "The page shows decreased amino-acid uptake leading to weakness. (Book p927)"
   },
   {
    "id": "MED-C45-010",
-   "sec": "Insulin: structure, secretion and signalling",
+   "sec": "Physiology of insulin",
    "page": 927,
-   "fmt": "scenario",
-   "q": "A patient uses sulfonylurea and experiences hypoglycaemia. The mechanism is most consistent with:",
+   "fmt": "truefalse",
+   "q": "Assess the protein-metabolism notes: I Decreased amino-acid synthesis is linked to infections. II Increased proteolysis is linked to wasting.",
    "opts": [
-    "Inhibition of α-glucosidase",
-    "Closure of K-ATP channels on β-cells",
-    "Opening of voltage-gated Ca²⁺ channels",
-    "Direct GLUT4 activation"
+    "Both false",
+    "Both true",
+    "I true; II false",
+    "I false; II true"
    ],
    "ans": 1,
-   "exp": "Sulfonylureas bind SUR1, closing K-ATP channels, depolarising the β-cell and triggering insulin release. (Book p927)"
+   "exp": "Both arrows are shown in the protein-metabolism section. (Book p927)"
   },
   {
    "id": "MED-C45-011",
-   "sec": "Insulin: structure, secretion and signalling",
+   "sec": "Physiology of insulin",
    "page": 927,
-   "fmt": "fillup",
-   "q": "Insulin receptor signalling involves phosphorylation of ___ proteins.",
+   "fmt": "recall",
+   "q": "Which metabolism is listed after carbohydrate and protein metabolism at the bottom of the page?",
    "opts": [
-    "GLP-1 (alternative)",
-    "Insulin receptor substrate (IRS)",
-    "Glucokinase (alternative)",
-    "Glucagon (alternative)"
+    "Bilirubin metabolism",
+    "Fat metabolism",
+    "Purine metabolism",
+    "Calcium metabolism"
    ],
    "ans": 1,
-   "exp": "IRS proteins are phosphorylated by the insulin-receptor tyrosine kinase, activating PI3K and downstream metabolic effects. (Book p927)"
+   "exp": "The third numbered section is fat metabolism and it notes lipolysis. (Book p927)"
   },
   {
    "id": "MED-C45-012",
-   "sec": "Insulin: structure, secretion and signalling",
+   "sec": "Physiology of insulin",
    "page": 927,
-   "fmt": "truefalse",
-   "q": "Assess insulin effects: I Insulin suppresses lipolysis in adipocytes. II Insulin stimulates glycogenolysis in liver.",
+   "fmt": "management",
+   "q": "In the insulin-production diagram, what event follows ATP/ADP-related closure of the ATP-sensitive potassium channel?",
    "opts": [
-    "I true; II false",
-    "I false; II true",
-    "Both true",
-    "Both false"
+    "Sodium loss with chloride entry",
+    "Protein degradation with urea release",
+    "Bile secretion with duct dilation",
+    "Depolarization with calcium-channel involvement"
    ],
    "ans": 3,
-   "exp": "Insulin suppresses lipolysis and gluconeogenesis; it stimulates glycogen synthesis, not glycogenolysis. (Book p927)"
+   "exp": "The production diagram shows ATP/ADP, the ATP-sensitive K+ channel, depolarization and voltage-gated calcium-channel involvement before secretion. (Book p927)"
   },
   {
    "id": "MED-C45-013",
-   "sec": "GLUT transporters, C-peptide and incretin physiology",
+   "sec": "GLUT transporters, C-peptide and incretin hormones",
    "page": 928,
    "fmt": "match",
-   "q": "Match the following GLUT transporter to its tissue distribution — 1) GLUT1 2) GLUT2 3) GLUT3 4) GLUT4 … A) Brain, kidney, colon, placenta, RBC B) Liver, β-cells, gut, kidney C) Brain, kidney, placenta D) Skeletal muscle, cardiac muscle, adipose",
+   "q": "Match the transporter to the tissue location — 1) GLUT1 2) GLUT2 3) GLUT3 4) GLUT4 … A) Brain, kidney, colon, placenta, erythrocyte B) Liver, pancreatic beta cell, small intestine, kidney C) Brain, kidney, placenta D) Heart, skeletal muscle, adipose tissue",
    "opts": [
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A",
     "1-A, 2-B, 3-C, 4-D"
    ],
    "ans": 3,
-   "exp": "GLUT1 is in brain, kidney, colon, placenta, RBC; GLUT2 in liver, β-cells, gut, kidney; GLUT3 in brain, kidney, placenta; GLUT4 in skeletal muscle, cardiac muscle and adipose tissue. (Book p928)"
+   "exp": "The GLUT table gives the listed tissue distributions for GLUT1, GLUT2, GLUT3 and GLUT4. (Book p928)"
   },
   {
    "id": "MED-C45-014",
-   "sec": "GLUT transporters, C-peptide and incretin physiology",
+   "sec": "GLUT transporters, C-peptide and incretin hormones",
    "page": 928,
-   "fmt": "scenario",
-   "q": "A patient on insulin has unexplained hypoglycaemia; C-peptide is undetectable. The most consistent interpretation is:",
+   "fmt": "recall",
+   "q": "Which transporter is marked as insulin-stimulated uptake of glucose?",
    "opts": [
-    "Sulfonylurea use (alternative)",
-    "MODY 2 (alternative)",
-    "Exogenous insulin administration",
-    "Insulinoma (alternative)"
+    "GLUT2",
+    "GLUT5",
+    "GLUT4",
+    "GLUT1"
    ],
    "ans": 2,
-   "exp": "Undetectable C-peptide with hypoglycaemia indicates exogenous insulin (since C-peptide is cleaved from endogenous insulin in equimolar amounts). (Book p928)"
+   "exp": "The GLUT4 row states insulin-stimulated uptake of glucose. (Book p928)"
   },
   {
    "id": "MED-C45-015",
-   "sec": "GLUT transporters, C-peptide and incretin physiology",
+   "sec": "GLUT transporters, C-peptide and incretin hormones",
    "page": 928,
-   "fmt": "truefalse",
-   "q": "Assess C-peptide: I It is cleaved from proinsulin. II C-peptide is elevated in exogenous insulin use.",
+   "fmt": "fillup",
+   "q": "The small-intestine transporter that takes up fructose is ___.",
    "opts": [
-    "I true; II false",
-    "I false; II true",
-    "Both true",
-    "Both false"
+    "GLUT2",
+    "GLUT3",
+    "SGLT2",
+    "GLUT5"
    ],
    "ans": 3,
-   "exp": "C-peptide is cleaved from proinsulin and is not elevated by exogenous insulin; it is high in insulinoma and sulfonylurea use. (Book p928)"
+   "exp": "The GLUT5 row lists small intestine and uptake of fructose. (Book p928)"
   },
   {
    "id": "MED-C45-016",
-   "sec": "GLUT transporters, C-peptide and incretin physiology",
+   "sec": "GLUT transporters, C-peptide and incretin hormones",
    "page": 928,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a state with raised C-peptide?",
+   "fmt": "truefalse",
+   "q": "Assess the transporter table: I SGLT1 is in small intestine and actively takes up glucose from the lumen. II SGLT2 reabsorbs glucose in the proximal convoluted tubule of the kidney.",
    "opts": [
-    "Insulinoma (alternative)",
-    "Sulfonylurea ingestion",
-    "Insulin resistance (early T2DM)",
-    "Exogenous insulin overdose"
+    "I true; II false",
+    "I false; II true",
+    "Both false",
+    "Both true"
    ],
    "ans": 3,
-   "exp": "Exogenous insulin suppresses C-peptide; the other states raise endogenous insulin (and therefore C-peptide). (Book p928)"
+   "exp": "Both SGLT rows carry those tissue and function labels. (Book p928)"
   },
   {
    "id": "MED-C45-017",
-   "sec": "GLUT transporters, C-peptide and incretin physiology",
-   "page": 928,
-   "fmt": "fillup",
-   "q": "GLUT2 is a bidirectional, low-affinity transporter present on pancreatic ___ cells.",
-   "opts": [
-    "β (correct answer)",
-    "α (alternative)",
-    "δ (alternative)",
-    "PP"
-   ],
-   "ans": 0,
-   "exp": "GLUT2 on β-cells senses glucose and is part of the glucose-stimulated insulin secretion pathway. (Book p928)"
-  },
-  {
-   "id": "MED-C45-018",
-   "sec": "GLUT transporters, C-peptide and incretin physiology",
+   "sec": "GLUT transporters, C-peptide and incretin hormones",
    "page": 928,
    "fmt": "match",
-   "q": "Match the following transporter to its ligand / property — 1) GLUT5 2) SGLT1 3) SGLT2 4) GLUT4 … A) Fructose transporter B) Sodium-glucose cotransporter in gut C) Sodium-glucose cotransporter in PCT D) Insulin-stimulated glucose transporter",
-   "opts": [
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-A, 3-B, 4-C",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D"
-   ],
-   "ans": 2,
-   "exp": "GLUT5 transports fructose; SGLT1 is in gut; SGLT2 in PCT; GLUT4 is insulin-stimulated. (Book p928)"
-  },
-  {
-   "id": "MED-C45-019",
-   "sec": "GLUT transporters, C-peptide and incretin physiology",
-   "page": 928,
-   "fmt": "scenario",
-   "q": "A patient is on empagliflozin. The mechanism is most consistent with:",
-   "opts": [
-    "SGLT2 inhibition in proximal convoluted tubule",
-    "SGLT1 inhibition in gut (alternative)",
-    "GLUT2 blockade in liver (alternative)",
-    "GLUT4 antagonism in muscle"
-   ],
-   "ans": 0,
-   "exp": "Empagliflozin inhibits SGLT2 in the PCT, reducing glucose reabsorption and producing glycosuria. (Book p928)"
-  },
-  {
-   "id": "MED-C45-020",
-   "sec": "GLUT transporters, C-peptide and incretin physiology",
-   "page": 928,
-   "fmt": "truefalse",
-   "q": "Assess incretins: I GLP-1 is secreted by L-cells in the ileum and colon. II GIP is secreted by K-cells in the jejunum.",
-   "opts": [
-    "I false; II true",
-    "Both false",
-    "Both true",
-    "I true; II false"
-   ],
-   "ans": 2,
-   "exp": "GLP-1 is secreted by ileal/colonic L-cells; GIP is secreted by K-cells in the jejunum. (Book p928)"
-  },
-  {
-   "id": "MED-C45-021",
-   "sec": "GLUT transporters, C-peptide and incretin physiology",
-   "page": 928,
-   "fmt": "match",
-   "q": "Match the following GLP-1 / GIP feature — 1) Half-life of GLP-1 2) Half-life of GIP 3) Action of GLP-1 4) Action of GIP … A) 1–2 minutes B) 5–7 minutes C) Glucose-dependent insulin release, satiety D) Insulin release in response to fat",
+   "q": "Match the glucose/C-peptide pattern to the associated condition — 1) C-peptide undetectable, glucose increased 2) C-peptide increased, glucose increased 3) C-peptide increased, glucose decreased 4) C-peptide decreased, glucose decreased … A) T1DM B) T2DM C) Insulinoma D) Exogenous insulin",
    "opts": [
     "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-B, 3-A, 4-C"
-   ],
-   "ans": 0,
-   "exp": "GLP-1 has half-life 1–2 min; GIP has 5–7 min; GLP-1 produces glucose-dependent insulin release and satiety; GIP releases insulin in response to fat. (Book p928)"
-  },
-  {
-   "id": "MED-C45-022",
-   "sec": "GLUT transporters, C-peptide and incretin physiology",
-   "page": 928,
-   "fmt": "scenario",
-   "q": "A patient on semaglutide oral achieves HbA1c reduction with weight loss. The mechanism is most consistent with:",
-   "opts": [
-    "DPP-4 inhibition",
-    "SGLT2 inhibition",
-    "Sulfonylurea action",
-    "GLP-1 receptor agonism"
-   ],
-   "ans": 3,
-   "exp": "Semaglutide is a GLP-1 receptor agonist with weight-loss and HbA1c-reducing effects; DPP-4 inhibitors raise endogenous GLP-1 but cause less weight loss. (Book p928)"
-  },
-  {
-   "id": "MED-C45-023",
-   "sec": "GLUT transporters, C-peptide and incretin physiology",
-   "page": 928,
-   "fmt": "fillup",
-   "q": "C-peptide is high in endogenous hyperinsulinaemia (insulinoma) and low in ___ insulin use.",
-   "opts": [
-    "Glucagon",
-    "Incretin",
-    "Exogenous",
-    "Endogenous"
-   ],
-   "ans": 2,
-   "exp": "Exogenous insulin suppresses C-peptide, whereas insulinoma and sulfonylureas elevate it. (Book p928)"
-  },
-  {
-   "id": "MED-C45-024",
-   "sec": "GLUT transporters, C-peptide and incretin physiology",
-   "page": 928,
-   "fmt": "truefalse",
-   "q": "Assess the table: I Type 1 diabetes has undetectable C-peptide. II Type 2 diabetes has raised C-peptide early in disease.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Type 1 has low/undetectable C-peptide; Type 2 has raised C-peptide early due to insulin resistance, then falls as β-cell function declines. (Book p928)"
-  },
-  {
-   "id": "MED-C45-025",
-   "sec": "Incretin therapies and dual agonists",
-   "page": 929,
-   "fmt": "match",
-   "q": "Match the following GLP-1 agonist to its feature — 1) Exenatide 2) Liraglutide 3) Semaglutide 4) Tirzepatide … A) Twice daily injection B) Once daily injection C) Once weekly oral / injectable D) Dual GLP-1/GIP agonist",
-   "opts": [
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-A, 3-C, 4-B",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D"
-   ],
-   "ans": 2,
-   "exp": "Exenatide is twice daily; liraglutide is once daily; semaglutide is once weekly oral or injectable; tirzepatide is a dual GLP-1/GIP agonist. (Book p929)"
-  },
-  {
-   "id": "MED-C45-026",
-   "sec": "Incretin therapies and dual agonists",
-   "page": 929,
-   "fmt": "scenario",
-   "q": "A patient on a GLP-1 agonist develops acute abdominal pain with elevated lipase. The most consistent drug class complication is:",
-   "opts": [
-    "Heart failure (alternative)",
-    "Pancreatitis (exenatide class warning)",
-    "Thyroid C-cell tumour",
-    "Euglycaemic DKA (alternative)"
-   ],
-   "ans": 1,
-   "exp": "GLP-1 agonists (especially exenatide) carry a class warning for acute pancreatitis. (Book p929)"
-  },
-  {
-   "id": "MED-C45-027",
-   "sec": "Incretin therapies and dual agonists",
-   "page": 929,
-   "fmt": "truefalse",
-   "q": "Assess GLP-1 agonists: I They cause glucose-dependent insulin secretion. II They promote glucagon release in hypoglycaemia.",
-   "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
-   ],
-   "ans": 0,
-   "exp": "GLP-1 agonists stimulate insulin and suppress glucagon in a glucose-dependent manner, limiting hypoglycaemia. (Book p929)"
-  },
-  {
-   "id": "MED-C45-028",
-   "sec": "Incretin therapies and dual agonists",
-   "page": 929,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a non-GLP-1 injectable hypoglycaemic agent?",
-   "opts": [
-    "Insulin glargine",
-    "Insulin detemir",
-    "Tirzepatide",
-    "Insulin degludec"
-   ],
-   "ans": 2,
-   "exp": "Tirzepatide is a dual GLP-1/GIP agonist; the others are basal insulin analogues. (Book p929)"
-  },
-  {
-   "id": "MED-C45-029",
-   "sec": "Incretin therapies and dual agonists",
-   "page": 929,
-   "fmt": "fillup",
-   "q": "The dual incretin agonist tirzepatide combines GLP-1 agonism with ___ agonism.",
-   "opts": [
-    "Amylin",
-    "Secretin",
-    "GIP (correct answer)",
-    "Glucagon (counter-regulatory)"
-   ],
-   "ans": 2,
-   "exp": "Tirzepatide combines GLP-1 and GIP receptor agonism, producing greater HbA1c reduction and weight loss than GLP-1 agonists alone. (Book p929)"
-  },
-  {
-   "id": "MED-C45-030",
-   "sec": "Incretin therapies and dual agonists",
-   "page": 929,
-   "fmt": "match",
-   "q": "Match the following GLP-1 agonist to its main clinical strength — 1) Liraglutide 2) Semaglutide 3) Exenatide LAR 4) Dulaglutide … A) Cardiovascular outcome trial benefit B) HbA1c and weight loss C) Once-weekly injectable D) Easy-to-use pen",
-   "opts": [
-    "1-C, 2-A, 3-B, 4-D",
-    "1-D, 2-B, 3-A, 4-C",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-B, 2-A, 3-C, 4-D"
-   ],
-   "ans": 2,
-   "exp": "Liraglutide has landmark cardiovascular outcome data; semaglutide produces the largest HbA1c and weight loss; exenatide LAR is once-weekly; dulaglutide offers a simple weekly pen. (Book p929)"
-  },
-  {
-   "id": "MED-C45-031",
-   "sec": "Incretin therapies and dual agonists",
-   "page": 929,
-   "fmt": "scenario",
-   "q": "A patient with T2DM and CKD benefits from a GLP-1 agonist. Which renal protective mechanism is most cited?",
-   "opts": [
-    "Reduced renal blood flow (alternative)",
-    "Activation of renal sympathetic tone",
-    "Improvement in albuminuria and slowing of GFR decline",
-    "Increased tubular glucose reabsorption"
-   ],
-   "ans": 2,
-   "exp": "GLP-1 agonists reduce albuminuria and slow GFR decline via metabolic and haemodynamic effects. (Book p929)"
-  },
-  {
-   "id": "MED-C45-032",
-   "sec": "Incretin therapies and dual agonists",
-   "page": 929,
-   "fmt": "truefalse",
-   "q": "Assess GLP-1 adverse effects: I Nausea is common, especially with dose escalation. II GLP-1 agonists are contraindicated in pregnancy.",
-   "opts": [
-    "I false; II true",
-    "Both false",
-    "Both true",
-    "I true; II false"
-   ],
-   "ans": 2,
-   "exp": "Nausea is common during titration; GLP-1 agonists are not approved in pregnancy and are stopped before conception. (Book p929)"
-  },
-  {
-   "id": "MED-C45-033",
-   "sec": "Incretin therapies and dual agonists",
-   "page": 929,
-   "fmt": "match",
-   "q": "Match the following GLP-1 / GIP property — 1) Source of exenatide 2) Source of liraglutide 3) Liraglutide modification 4) Semaglutide modification … A) Exendin-4 from Gila monster B) Modified GLP-1 analogue C) C16 fatty-acid side chain for albumin binding D) Similar acylation for half-life extension",
-   "opts": [
-    "1-D, 2-A, 3-B, 4-C",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C"
-   ],
-   "ans": 1,
-   "exp": "Exenatide is derived from exendin-4 (Gila monster); liraglutide is a modified GLP-1 with a fatty acid side chain for albumin binding; semaglutide has similar acylation to extend half-life. (Book p929)"
-  },
-  {
-   "id": "MED-C45-034",
-   "sec": "Incretin therapies and dual agonists",
-   "page": 929,
-   "fmt": "scenario",
-   "q": "A patient develops medullary thyroid carcinoma while on a GLP-1 agonist. The most consistent mechanism is:",
-   "opts": [
-    "Insulin-like growth factor stimulation",
-    "Direct DNA damage (alternative)",
-    "Autoimmune insulitis (alternative)",
-    "GLP-1 receptor activation on C-cells"
-   ],
-   "ans": 3,
-   "exp": "GLP-1 receptor activation on thyroid C-cells produces calcitonin release and may contribute to C-cell hyperplasia in rodents. (Book p929)"
-  },
-  {
-   "id": "MED-C45-035",
-   "sec": "Incretin therapies and dual agonists",
-   "page": 929,
-   "fmt": "fillup",
-   "q": "Tirzepatide's effect on weight is most consistent with ___ levels of weight loss in trials.",
-   "opts": [
-    "Higher than GLP-1 agonists alone",
-    "Lower than sulfonylureas",
-    "Equivalent to insulin",
-    "Minimal weight loss"
-   ],
-   "ans": 0,
-   "exp": "Tirzepatide produces greater weight loss than GLP-1 agonists alone, with some patients achieving >15% weight reduction. (Book p929)"
-  },
-  {
-   "id": "MED-C45-036",
-   "sec": "Incretin therapies and dual agonists",
-   "page": 929,
-   "fmt": "truefalse",
-   "q": "Assess GLP-1 / GIP cardiovascular outcome trials: I Liraglutide reduced MACE in high-risk patients. II Semaglutide showed cardiovascular benefit in the SUSTAIN-6 trial.",
-   "opts": [
-    "I false; II true",
-    "Both false",
-    "Both true",
-    "I true; II false"
-   ],
-   "ans": 2,
-   "exp": "LEADER (liraglutide) and SUSTAIN-6 (semaglutide) both showed cardiovascular benefit in high-risk T2DM. (Book p929)"
-  },
-  {
-   "id": "MED-C45-037",
-   "sec": "DKA: pathophysiology, features, investigations",
-   "page": 930,
-   "fmt": "match",
-   "q": "Match the following DKA feature — 1) Trigger 2) Anion gap 3) Potassium 4) Plasma glucose … A) Infection, MI, missed insulin, pregnancy, cocaine B) Raised with positive ketones C) Total body depletion despite normal/raised serum K+ D) 250–600 mg/dL",
-   "opts": [
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-A, 3-B, 4-C",
-    "1-A, 2-B, 3-C, 4-D"
-   ],
-   "ans": 3,
-   "exp": "Triggers include infection, MI, missed insulin, pregnancy and cocaine; AG is raised with positive ketones; total body K+ is depleted despite serum K+ often being normal/raised; plasma glucose is typically 250–600 mg/dL. (Book p930)"
-  },
-  {
-   "id": "MED-C45-038",
-   "sec": "DKA: pathophysiology, features, investigations",
-   "page": 930,
-   "fmt": "scenario",
-   "q": "A patient on insulin has a chest infection and develops Kussmaul breathing, abdominal pain and plasma glucose 380 mg/dL with ketones. The most likely diagnosis is:",
-   "opts": [
-    "Lactic acidosis (alternative)",
-    "Salicylate poisoning",
-    "DKA (correct answer)",
-    "Hyperosmolar hyperglycaemic state"
-   ],
-   "ans": 2,
-   "exp": "Kussmaul breathing, abdominal pain, glucose 380 mg/dL with ketones fit DKA, often precipitated by infection. (Book p930)"
-  },
-  {
-   "id": "MED-C45-039",
-   "sec": "DKA: pathophysiology, features, investigations",
-   "page": 930,
-   "fmt": "truefalse",
-   "q": "Assess DKA: I Insulin deficiency causes lipolysis and ketogenesis. II Hepatic ketogenesis is stimulated by glucagon excess.",
-   "opts": [
-    "Both false",
-    "Both true",
-    "I true; II false",
-    "I false; II true"
-   ],
-   "ans": 1,
-   "exp": "Insulin deficiency and glucagon excess together drive lipolysis, FFA delivery to liver, and ketogenesis producing β-hydroxybutyrate and acetoacetate. (Book p930)"
-  },
-  {
-   "id": "MED-C45-040",
-   "sec": "DKA: pathophysiology, features, investigations",
-   "page": 930,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a feature more typical of HHS than DKA?",
-   "opts": [
-    "Absent/little ketoacidosis (alternative)",
-    "Severe hyperglycaemia >600 mg/dL with profound dehydration",
-    "Positive serum ketones (alternative)",
-    "Plasma osmolarity >320 mOsm/kg (alternative)"
-   ],
-   "ans": 1,
-   "exp": "Positive serum ketones is a feature of DKA, not HHS; HHS has severe hyperglycaemia, high osmolarity and minimal ketosis. (Book p930)"
-  },
-  {
-   "id": "MED-C45-041",
-   "sec": "DKA: pathophysiology, features, investigations",
-   "page": 930,
-   "fmt": "fillup",
-   "q": "The dominant ketone body in DKA is ___.",
-   "opts": [
-    "Acetone (alternative)",
-    "Pyruvate (alternative)",
-    "β-hydroxybutyrate",
-    "Acetoacetate"
-   ],
-   "ans": 2,
-   "exp": "β-hydroxybutyrate predominates in DKA; standard urine dipstick detects acetoacetate preferentially and may underestimate the true ketone load. (Book p930)"
-  },
-  {
-   "id": "MED-C45-042",
-   "sec": "DKA: pathophysiology, features, investigations",
-   "page": 930,
-   "fmt": "match",
-   "q": "Match the following DKA workup — 1) Glucose 2) Electrolytes 3) ABG 4) Serum osmolality … A) 250–600 mg/dL B) K+ depletion, Na+ artefact C) pH <7.3, HCO3 <15 D) 300–320 mOsm/kg",
-   "opts": [
-    "1-A, 2-D, 3-B, 4-C",
-    "1-D, 2-A, 3-B, 4-C",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D"
-   ],
-   "ans": 2,
-   "exp": "Glucose typically 250–600 mg/dL; electrolytes show K+ depletion and pseudohyponatraemia; ABG shows pH <7.3 and HCO3 <15; serum osmolarity 300–320 mOsm/kg. (Book p930)"
-  },
-  {
-   "id": "MED-C45-043",
-   "sec": "DKA: pathophysiology, features, investigations",
-   "page": 930,
-   "fmt": "scenario",
-   "q": "A DKA patient has serum Na+ 128 mEq/L and glucose 540 mg/dL. The corrected sodium is approximately:",
-   "opts": [
-    "128 mEq/L",
-    "120 mEq/L",
-    "144 mEq/L",
-    "136 mEq/L"
-   ],
-   "ans": 3,
-   "exp": "Corrected Na+ ≈ measured Na+ + 1.6 × (glucose − 100)/100. With glucose 540, correction ≈ 128 + 7 ≈ 135 mEq/L. (Book p930)"
-  },
-  {
-   "id": "MED-C45-044",
-   "sec": "DKA: pathophysiology, features, investigations",
-   "page": 930,
-   "fmt": "truefalse",
-   "q": "Assess potassium in DKA: I Initial serum K+ may be normal or high. II Insulin will further drop K+; replacement is needed.",
-   "opts": [
-    "Both false",
-    "Both true",
-    "I true; II false",
-    "I false; II true"
-   ],
-   "ans": 1,
-   "exp": "Total body K+ is depleted even when initial serum K+ is normal/high; insulin therapy will lower K+ and replacement is required. (Book p930)"
-  },
-  {
-   "id": "MED-C45-045",
-   "sec": "DKA: pathophysiology, features, investigations",
-   "page": 930,
-   "fmt": "match",
-   "q": "Match the following DKA investigation to its expected finding — 1) Urine dipstick 2) β-hydroxybutyrate 3) Lactate 4) Anion gap … A) Ketones positive (acetoacetate) B) Elevated (best ketone) C) May be elevated if shock D) Raised (>10)",
-   "opts": [
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-B, 3-A, 4-C",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D"
-   ],
-   "ans": 2,
-   "exp": "Urine dipstick detects acetoacetate; β-hydroxybutyrate is the predominant ketone; lactate may rise with shock; anion gap is raised >10. (Book p930)"
-  },
-  {
-   "id": "MED-C45-046",
-   "sec": "DKA: pathophysiology, features, investigations",
-   "page": 930,
-   "fmt": "scenario",
-   "q": "A patient with new T1DM has glucose 480 mg/dL, pH 7.18, HCO3 10 mEq/L and K+ 5.6 mEq/L. The first hour of management is most consistent with:",
-   "opts": [
-    "IV fluids, hold insulin until K+ checked, monitor",
-    "Insulin bolus then fluids (alternative)",
-    "Oral rehydration only (alternative)",
-    "Sodium bicarbonate immediately"
-   ],
-   "ans": 0,
-   "exp": "Fluids and insulin are cornerstones; insulin should be withheld if K+ <3.3 until replacement; bicarbonate is not routine. (Book p930)"
-  },
-  {
-   "id": "MED-C45-047",
-   "sec": "DKA: pathophysiology, features, investigations",
-   "page": 930,
-   "fmt": "fillup",
-   "q": "The anion gap is calculated as Na+ − (Cl− + ___).",
-   "opts": [
-    "Glucose",
-    "Lactate",
-    "HCO3−",
-    "K+ (alternative)"
-   ],
-   "ans": 2,
-   "exp": "AG = Na+ − (Cl− + HCO3−); the alternative including K+ is seldom used clinically. (Book p930)"
-  },
-  {
-   "id": "MED-C45-048",
-   "sec": "DKA: pathophysiology, features, investigations",
-   "page": 930,
-   "fmt": "truefalse",
-   "q": "Assess DKA triggers: I New-onset T1DM can present with DKA. II Pregnancy predisposes to DKA.",
-   "opts": [
-    "I false; II true",
-    "Both false",
-    "Both true",
-    "I true; II false"
-   ],
-   "ans": 2,
-   "exp": "New-onset T1DM commonly presents with DKA; pregnancy increases susceptibility because of hormonal changes. (Book p930)"
-  },
-  {
-   "id": "MED-C45-049",
-   "sec": "DKA management, HHS, overlap",
-   "page": 931,
-   "fmt": "match",
-   "q": "Match the following DKA management step — 1) Fluid 2) Insulin 3) Potassium 4) Dextrose … A) 0.9% saline, switch to 0.45% if hyperNa B) 0.1 U/kg regular IV bolus then 0.1 U/kg/h C) Add KCl once K+ <5.2 mEq/L D) Add when glucose <200 mg/dL to allow continued insulin",
-   "opts": [
-    "1-D, 2-A, 3-B, 4-C",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B"
-   ],
-   "ans": 1,
-   "exp": "DKA fluids start with 0.9% saline; insulin is regular 0.1 U/kg bolus then 0.1 U/kg/h; KCl is added once K+ <5.2; dextrose is added when glucose <200 mg/dL. (Book p931)"
-  },
-  {
-   "id": "MED-C45-050",
-   "sec": "DKA management, HHS, overlap",
-   "page": 931,
-   "fmt": "scenario",
-   "q": "A DKA patient on insulin infusion has glucose 190 mg/dL, K+ 4.0 mEq/L, pH 7.22 and anion gap still raised. The most appropriate next step is:",
-   "opts": [
-    "Give bicarbonate bolus (alternative)",
-    "Add dextrose to fluids and continue insulin",
-    "Stop insulin immediately",
-    "Switch to subcutaneous insulin"
-   ],
-   "ans": 1,
-   "exp": "Once glucose <200 mg/dL but anion gap is still raised, add dextrose to allow continued insulin infusion to close the gap. (Book p931)"
-  },
-  {
-   "id": "MED-C45-051",
-   "sec": "DKA management, HHS, overlap",
-   "page": 931,
-   "fmt": "truefalse",
-   "q": "Assess DKA fluids: I Total fluid deficit is typically 6–9 L. II The 3/3+3/9+3/12 rule (page mnemonic) structures replacement.",
-   "opts": [
-    "I false; II true",
-    "Both false",
-    "Both true",
-    "I true; II false"
-   ],
-   "ans": 2,
-   "exp": "Total fluid deficit is 6–9 L; the page uses a 3/3+3/9+3/12 rule (or similar) to distribute replacement. (Book p931)"
-  },
-  {
-   "id": "MED-C45-052",
-   "sec": "DKA management, HHS, overlap",
-   "page": 931,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — an indication for stopping IV insulin in DKA?",
-   "opts": [
-    "Glucose <70 mg/dL with no IV dextrose",
-    "Potassium 5.8 mEq/L before insulin",
-    "Patient is alert and eating (alternative)",
-    "Anion gap closure and bicarbonate >18 mEq/L with pH >7.3"
-   ],
-   "ans": 3,
-   "exp": "Anion gap closure, bicarbonate >18 and pH >7.3 are criteria for resolution and transition to subcutaneous insulin; the others are not transition criteria. (Book p931)"
-  },
-  {
-   "id": "MED-C45-053",
-   "sec": "DKA management, HHS, overlap",
-   "page": 931,
-   "fmt": "fillup",
-   "q": "DKA protocols typically add KCl once serum K+ falls below ___ mEq/L.",
-   "opts": [
-    "5.2",
-    "3.0",
-    "6.0",
-    "4.5"
-   ],
-   "ans": 0,
-   "exp": "KCl is added once K+ <5.2; if K+ <3.3, insulin should be held until replacement. (Book p931)"
-  },
-  {
-   "id": "MED-C45-054",
-   "sec": "DKA management, HHS, overlap",
-   "page": 931,
-   "fmt": "match",
-   "q": "Match the following HHS feature — 1) Typical age 2) Plasma osmolarity 3) Glucose 4) Prognosis … A) Older T2DM patient B) 320–380 mOsm/kg C) >600 mg/dL D) Worse than DKA",
-   "opts": [
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-D, 2-A, 3-B, 4-C",
-    "1-A, 2-B, 3-C, 4-D"
-   ],
-   "ans": 3,
-   "exp": "HHS occurs in older T2DM, osm 320–380, glucose >600 mg/dL and carries worse prognosis than DKA. (Book p931)"
-  },
-  {
-   "id": "MED-C45-055",
-   "sec": "DKA management, HHS, overlap",
-   "page": 931,
-   "fmt": "scenario",
-   "q": "An 80-year-old with T2DM has glucose 980 mg/dL, plasma osm 360 mOsm/kg, pH 7.38 and minimal ketones. The most consistent diagnosis is:",
-   "opts": [
-    "DKA (alternative)",
-    "Lactic acidosis (alternative)",
-    "Euglycaemic DKA (alternative)",
-    "Hyperosmolar hyperglycaemic state"
-   ],
-   "ans": 3,
-   "exp": "Severe hyperglycaemia, high osmolarity, near-normal pH and minimal ketones fit HHS. (Book p931)"
-  },
-  {
-   "id": "MED-C45-056",
-   "sec": "DKA management, HHS, overlap",
-   "page": 931,
-   "fmt": "truefalse",
-   "q": "Assess HHS fluid management: I 0.45% saline is often used after initial 0.9% saline. II HHS fluid deficit averages around 12 L.",
-   "opts": [
-    "Both false",
-    "Both true",
-    "I true; II false",
-    "I false; II true"
-   ],
-   "ans": 1,
-   "exp": "Initial 0.9% saline, often followed by 0.45% saline as Na+ normalises; HHS fluid deficit averages around 12 L. (Book p931)"
-  },
-  {
-   "id": "MED-C45-057",
-   "sec": "DKA management, HHS, overlap",
-   "page": 931,
-   "fmt": "match",
-   "q": "Match the following DKA-vs-HHS lab — 1) Glucose 2) Osmolarity 3) Ketones 4) Anion gap … A) 350–400 vs >800 mg/dL B) 300–320 vs 320–380 mOsm/kg C) +++ vs ± D) ↑ vs N/↓",
-   "opts": [
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-A, 3-B, 4-C",
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D"
-   ],
-   "ans": 2,
-   "exp": "DKA: glucose 350–400, osm 300–320, ketones +++, AG raised. HHS: glucose >800, osm 320–380, ketones ±, AG normal or low. (Book p931)"
-  },
-  {
-   "id": "MED-C45-058",
-   "sec": "DKA management, HHS, overlap",
-   "page": 931,
-   "fmt": "scenario",
-   "q": "An SGLT2-inhibitor user has glucose 220 mg/dL with ketoacidosis. The most consistent diagnosis is:",
-   "opts": [
-    "HHS (alternative)",
-    "Lactic acidosis",
-    "DKA without SGLT2 effect",
-    "Euglycaemic DKA"
-   ],
-   "ans": 3,
-   "exp": "SGLT2 inhibitors can cause euglycaemic DKA with glucose <250 mg/dL; recognition requires a high index of suspicion. (Book p931)"
-  },
-  {
-   "id": "MED-C45-059",
-   "sec": "DKA management, HHS, overlap",
-   "page": 931,
-   "fmt": "fillup",
-   "q": "Euglycaemic DKA is most commonly associated with ___ use.",
-   "opts": [
-    "SGLT2 inhibitor",
-    "Metformin (biguanide)",
-    "Sulfonylurea",
-    "Acarbose (alternative)"
-   ],
-   "ans": 0,
-   "exp": "SGLT2 inhibitors are the classical cause of euglycaemic DKA. (Book p931)"
-  },
-  {
-   "id": "MED-C45-060",
-   "sec": "DKA management, HHS, overlap",
-   "page": 931,
-   "fmt": "truefalse",
-   "q": "Assess transition off IV insulin: I Subcutaneous insulin should overlap the IV infusion by 1–2 hours. II Bicarbonate correction is routine.",
-   "opts": [
-    "Both true",
-    "Both false",
-    "I true; II false",
-    "I false; II true"
-   ],
-   "ans": 1,
-   "exp": "Overlap subcutaneous insulin with IV for 1–2 hours to prevent rebound ketoacidosis; bicarbonate is reserved for severe acidaemia (pH <6.9). (Book p931)"
-  },
-  {
-   "id": "MED-C45-061",
-   "sec": "Insulin regimens, dawn/Somogyi, CGM",
-   "page": 932,
-   "fmt": "match",
-   "q": "Match the following insulin regimen — 1) Basal-bolus 2) Premixed 3) CSII (pump) 4) Twice-daily NPH … A) Long-acting basal + rapid bolus B) Fixed-ratio biphasic insulin C) Continuous subcutaneous infusion D) Conventional older regimen",
-   "opts": [
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-A, 3-B, 4-C",
-    "1-A, 2-B, 3-C, 4-D"
-   ],
-   "ans": 3,
-   "exp": "Basal-bolus uses long-acting basal + rapid bolus; premixed is fixed-ratio; CSII is continuous infusion; twice-daily NPH is the older conventional regimen. (Book p932)"
-  },
-  {
-   "id": "MED-C45-062",
-   "sec": "Insulin regimens, dawn/Somogyi, CGM",
-   "page": 932,
-   "fmt": "scenario",
-   "q": "A T1DM patient has fasting hyperglycaemia on NPH and normal pre-dinner glucose. The next step is:",
-   "opts": [
-    "Increase the morning NPH (alternative)",
-    "Switch to insulin glargine without evaluation",
-    "Add metformin (alternative)",
-    "Review 3 a.m. glucose to distinguish dawn phenomenon from Somogyi"
-   ],
-   "ans": 3,
-   "exp": "Differentiating dawn phenomenon (high 3 a.m. and fasting) from Somogyi (low 3 a.m., high fasting) requires a 3 a.m. glucose check before changing regimen. (Book p932)"
-  },
-  {
-   "id": "MED-C45-063",
-   "sec": "Insulin regimens, dawn/Somogyi, CGM",
-   "page": 932,
-   "fmt": "truefalse",
-   "q": "Assess dawn vs Somogyi: I Dawn phenomenon is treated by increasing night-time insulin. II Somogyi is treated by reducing night-time insulin.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Dawn phenomenon is treated by increasing basal insulin; Somogyi is treated by reducing night-time insulin to avoid nocturnal hypoglycaemia. (Book p932)"
-  },
-  {
-   "id": "MED-C45-064",
-   "sec": "Insulin regimens, dawn/Somogyi, CGM",
-   "page": 932,
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a long-acting basal insulin?",
-   "opts": [
-    "Insulin degludec",
-    "Insulin aspart",
-    "Insulin glargine",
-    "Insulin detemir"
-   ],
-   "ans": 1,
-   "exp": "Insulin aspart is a rapid-acting analogue; the others are basal analogues. (Book p932)"
-  },
-  {
-   "id": "MED-C45-065",
-   "sec": "Insulin regimens, dawn/Somogyi, CGM",
-   "page": 932,
-   "fmt": "fillup",
-   "q": "The page's '8-8-8 + 16 U' overlap regimen at diagnosis of T1DM combines morning split doses with evening ___.",
-   "opts": [
-    "Oral hypoglycaemic",
-    "Basal insulin",
-    "Rapid-acting only",
-    "Premixed insulin"
-   ],
-   "ans": 1,
-   "exp": "An 8-8-8 short-acting insulin plus 16 U basal insulin covers meals and overnight; this split-mixed regimen allows individual titration. (Book p932)"
-  },
-  {
-   "id": "MED-C45-066",
-   "sec": "Insulin regimens, dawn/Somogyi, CGM",
-   "page": 932,
-   "fmt": "match",
-   "q": "Match the following rapid-acting insulin analogue — 1) Lispro 2) Aspart 3) Glulisine … A) Rapid-acting B) Rapid-acting C) Rapid-acting",
-   "opts": [
-    "1-A, 2-C, 3-B",
-    "1-B, 2-C, 3-A",
-    "1-A, 2-B, 3-C",
-    "1-C, 2-A, 3-B"
-   ],
-   "ans": 2,
-   "exp": "Lispro, aspart and glulisine are all rapid-acting analogues; differences are in excipients and onset (typically 5–15 min). (Book p932)"
-  },
-  {
-   "id": "MED-C45-067",
-   "sec": "Insulin regimens, dawn/Somogyi, CGM",
-   "page": 932,
-   "fmt": "scenario",
-   "q": "A T1DM patient has recurrent nocturnal hypoglycaemia on NPH. The most appropriate change is:",
-   "opts": [
-    "Switch to oral hypoglycaemics (alternative)",
-    "Switch to insulin detemir or glargine with dose titration",
-    "Increase NPH dose at bedtime (alternative)",
-    "Add metformin (alternative)"
-   ],
-   "ans": 1,
-   "exp": "Recurrent nocturnal hypoglycaemia warrants switching from NPH to a flatter basal analogue such as detemir or glargine. (Book p932)"
-  },
-  {
-   "id": "MED-C45-068",
-   "sec": "Insulin regimens, dawn/Somogyi, CGM",
-   "page": 932,
-   "fmt": "truefalse",
-   "q": "Assess CGM: I CGM reduces hypoglycaemia in T1DM. II CGM is not indicated in T2DM.",
-   "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
-   ],
-   "ans": 0,
-   "exp": "CGM reduces hypoglycaemia in T1DM and increasingly is used in insulin-requiring T2DM as well. (Book p932)"
-  },
-  {
-   "id": "MED-C45-069",
-   "sec": "Insulin regimens, dawn/Somogyi, CGM",
-   "page": 932,
-   "fmt": "match",
-   "q": "Match the following SMBG / CGM measure — 1) 6-point profile 2) Time in range 3) Glycaemic variability 4) GMI … A) Pre- and post-meal + bedtime B) Percentage 70–180 mg/dL C) Standard deviation / coefficient of variation D) Glucose management indicator from CGM",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
     "1-D, 2-A, 3-B, 4-C"
    ],
    "ans": 0,
-   "exp": "6-point profile covers pre/post meals and bedtime; TIR is the percentage in 70–180 mg/dL; glycaemic variability uses SD or CV; GMI is the CGM-derived HbA1c estimate. (Book p932)"
+   "exp": "The table pairs undetectable C-peptide/increased glucose with T1DM, increased/increased with T2DM, increased/decreased with insulinoma, and decreased/decreased with exogenous insulin. (Book p928)"
   },
   {
-   "id": "MED-C45-070",
-   "sec": "Insulin regimens, dawn/Somogyi, CGM",
-   "page": 932,
+   "id": "MED-C45-018",
+   "sec": "GLUT transporters, C-peptide and incretin hormones",
+   "page": 928,
    "fmt": "scenario",
-   "q": "A T2DM patient on basal insulin has TIR 80% with low glucose events. The most appropriate next step is:",
+   "q": "A patient has low glucose, low C-peptide and a history suggesting administered insulin. Which association is printed?",
    "opts": [
-    "Increase insulin dose (alternative)",
-    "Switch to oral agents (alternative)",
-    "Add prandial insulin (alternative)",
-    "Maintain current regimen and review CGM data"
+    "T2DM",
+    "T1DM",
+    "Exogenous insulin",
+    "Insulinoma"
    ],
-   "ans": 3,
-   "exp": "TIR 80% with no/low hypoglycaemia is generally considered good control; maintain and review. (Book p932)"
+   "ans": 2,
+   "exp": "The C-peptide table associates decreased C-peptide and decreased glucose with exogenous insulin. (Book p928)"
   },
   {
-   "id": "MED-C45-071",
-   "sec": "Insulin regimens, dawn/Somogyi, CGM",
-   "page": 932,
-   "fmt": "fillup",
-   "q": "CGM-derived HbA1c estimate is called the ___.",
+   "id": "MED-C45-019",
+   "sec": "GLUT transporters, C-peptide and incretin hormones",
+   "page": 928,
+   "fmt": "numeric",
+   "q": "How many incretin hormones are branched from the word 'incretins' in the diagram?",
    "opts": [
-    "Glucose management indicator (GMI)",
-    "Time below range (alternative)",
-    "Mean amplitude of glycaemic excursion",
-    "Hypoglycaemia awareness score"
+    "2",
+    "1",
+    "3",
+    "4"
    ],
    "ans": 0,
-   "exp": "GMI is the CGM-derived estimate of HbA1c; it is useful when laboratory HbA1c is unreliable. (Book p932)"
+   "exp": "The diagram branches incretins to GLP-1 and GIP, making two hormones. (Book p928)"
   },
   {
-   "id": "MED-C45-072",
-   "sec": "Insulin regimens, dawn/Somogyi, CGM",
-   "page": 932,
+   "id": "MED-C45-020",
+   "sec": "GLUT transporters, C-peptide and incretin hormones",
+   "page": 928,
+   "fmt": "recall",
+   "q": "The incretin effect augments insulin production in response to which type of meal entry named on the page?",
+   "opts": [
+    "A protein meal entering the colon",
+    "A saline meal entering the ileum",
+    "A glucose meal entering intrajejunally",
+    "A fat meal entering the stomach"
+   ],
+   "ans": 2,
+   "exp": "The note says incretins augment insulin production in response to a glucose meal, written as intrajejunal glucose. (Book p928)"
+  },
+  {
+   "id": "MED-C45-021",
+   "sec": "GLUT transporters, C-peptide and incretin hormones",
+   "page": 928,
+   "fmt": "management",
+   "q": "Which recombinant GLP-1 application is written as not easily degraded by DPP-4?",
+   "opts": [
+    "Recombinant GLP-1 used in treatment of DM",
+    "Exogenous insulin used in T1DM",
+    "SGLT2 blockade used in CKD",
+    "C-peptide used in insulinoma"
+   ],
+   "ans": 0,
+   "exp": "The applied-aspect note names recombinant GLP-1 for DM and says it is not easily degraded by DPP-4. (Book p928)"
+  },
+  {
+   "id": "MED-C45-022",
+   "sec": "GLUT transporters, C-peptide and incretin hormones",
+   "page": 928,
    "fmt": "truefalse",
-   "q": "Assess adjustments: I +2 / −4 rule (printed) increases dose if above target by 2 units. II Insulin detemir can be dosed twice daily.",
+   "q": "Assess the applied-aspect list: I Exenatide is annotated with pancreatitis risk. II Liraglutide is written as subcutaneous.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both false",
+    "Both true"
+   ],
+   "ans": 3,
+   "exp": "The page lists exenatide with pancreatitis risk and liraglutide s/c. (Book p928)"
+  },
+  {
+   "id": "MED-C45-023",
+   "sec": "GLUT transporters, C-peptide and incretin hormones",
+   "page": 928,
+   "fmt": "match",
+   "q": "Match the applied drug to the page's note — 1) Exenatide 2) Liraglutide 3) Semaglutide 4) Tirzepatide … A) Pancreatitis risk B) Subcutaneous C) Oral with increased weight loss D) Dual GLP-1/GIP analogue",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-D, 4-A"
+   ],
+   "ans": 2,
+   "exp": "The application list gives exenatide with pancreatitis risk, liraglutide s/c, oral semaglutide with increased weight loss, and tirzepatide as a dual GLP-1/GIP analogue. (Book p928)"
+  },
+  {
+   "id": "MED-C45-024",
+   "sec": "GLUT transporters, C-peptide and incretin hormones",
+   "page": 928,
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the abbreviated hormones or transporters explicitly written in the incretin section?",
+   "opts": [
+    "Cortisol",
+    "GLP-1",
+    "GIP",
+    "DPP-4"
+   ],
+   "ans": 0,
+   "exp": "GLP-1, GIP and DPP-4 appear in this page's incretin notes; cortisol does not. (Book p928)"
+  },
+  {
+   "id": "MED-C45-025",
+   "sec": "GLP-1 versus GIP and complications of insulin deficiency",
+   "page": 929,
+   "fmt": "match",
+   "q": "Match the incretin to its source — 1) GLP-1 2) GIP … A) L cells of ileum and colon B) K cells of jejunum",
+   "opts": [
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-A, 2-B",
+    "1-B, 2-A"
+   ],
+   "ans": 2,
+   "exp": "The table gives GLP-1 from L cells of ileum and colon and GIP from K cells of jejunum. (Book p929)"
+  },
+  {
+   "id": "MED-C45-026",
+   "sec": "GLP-1 versus GIP and complications of insulin deficiency",
+   "page": 929,
+   "fmt": "truefalse",
+   "q": "Assess the first GLP-1 versus GIP rows: I Both have +++ glucose-dependent insulin release. II Both have +++ enhancement of beta-cell glucose responsiveness.",
+   "opts": [
+    "Both false",
+    "Both true",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 1,
+   "exp": "Both columns show +++ for glucose-dependent insulin release and for enhancement of beta-cell glucose responsiveness. (Book p929)"
+  },
+  {
+   "id": "MED-C45-027",
+   "sec": "GLP-1 versus GIP and complications of insulin deficiency",
+   "page": 929,
+   "fmt": "recall",
+   "q": "Which incretin column has +++ suppression of glucagon release?",
+   "opts": [
+    "GLP-1",
+    "GIP",
+    "Both equally",
+    "Neither column"
+   ],
+   "ans": 0,
+   "exp": "The table shows +++ under GLP-1 and dashes under GIP for suppression of glucagon release. (Book p929)"
+  },
+  {
+   "id": "MED-C45-028",
+   "sec": "GLP-1 versus GIP and complications of insulin deficiency",
+   "page": 929,
+   "fmt": "match",
+   "q": "Match the listed effect to the stronger incretin column — 1) Stimulates beta-cell expansion 2) Inhibits gastric emptying 3) Enhances satiety 4) Reduces body weight … A) GLP-1 B) GLP-1 C) GLP-1 D) GLP-1",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 2,
+   "exp": "For each of these rows the GLP-1 column is marked +++ while GIP has dashes. (Book p929)"
+  },
+  {
+   "id": "MED-C45-029",
+   "sec": "GLP-1 versus GIP and complications of insulin deficiency",
+   "page": 929,
+   "fmt": "numeric",
+   "q": "What half-life is written for GLP-1 in the table?",
+   "opts": [
+    "10–12 minutes",
+    "30–60 minutes",
+    "1–2 minutes",
+    "5–7 minutes"
+   ],
+   "ans": 2,
+   "exp": "The GLP-1 half-life row states 1–2 minutes and notes rapid degradation by DPP-4. (Book p929)"
+  },
+  {
+   "id": "MED-C45-030",
+   "sec": "GLP-1 versus GIP and complications of insulin deficiency",
+   "page": 929,
+   "fmt": "fillup",
+   "q": "The GIP half-life in the table is written as ___ minutes.",
+   "opts": [
+    "10–15",
+    "20–25",
+    "5–7",
+    "1–2"
+   ],
+   "ans": 2,
+   "exp": "The GIP half-life row reads 5–7 minutes. (Book p929)"
+  },
+  {
+   "id": "MED-C45-031",
+   "sec": "GLP-1 versus GIP and complications of insulin deficiency",
+   "page": 929,
+   "fmt": "scenario",
+   "q": "Which page-listed feature supports choosing recombinant GLP-1 over another hypoglycemic agent?",
+   "opts": [
+    "No cardiovascular effect",
+    "No renal effect",
+    "No risk of hypoglycemia",
+    "Guaranteed weight gain"
+   ],
+   "ans": 2,
+   "exp": "The advantages list includes no risk of hypoglycemia, weight loss, cardio-protection, HbA1c reduction and nephroprotection. (Book p929)"
+  },
+  {
+   "id": "MED-C45-032",
+   "sec": "GLP-1 versus GIP and complications of insulin deficiency",
+   "page": 929,
+   "fmt": "management",
+   "q": "The page says recombinant GLP-1 is used in treatment of which liver-fat condition?",
+   "opts": [
+    "Autoimmune hepatitis",
+    "Biliary obstruction",
+    "NASH/NAFLD",
+    "Acute viral hepatitis"
+   ],
+   "ans": 2,
+   "exp": "The advantages list says recombinant GLP-1 promotes weight loss and is used in treatment of NASH/NAFLD. (Book p929)"
+  },
+  {
+   "id": "MED-C45-033",
+   "sec": "GLP-1 versus GIP and complications of insulin deficiency",
+   "page": 929,
+   "fmt": "truefalse",
+   "q": "Assess the nephron note: I Adult diabetes is associated with nephron underdosing. II Low birth weight is linked to decreased nephron number in Bartter’s theory.",
+   "opts": [
+    "Both false",
+    "Both true",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 1,
+   "exp": "The note links adult diabetes with nephron underdosing, low birth weight, decreased nephron number and Bartter’s theory. (Book p929)"
+  },
+  {
+   "id": "MED-C45-034",
+   "sec": "GLP-1 versus GIP and complications of insulin deficiency",
+   "page": 929,
+   "fmt": "match",
+   "q": "Match the insulin-deficiency complication group to its examples — 1) Acute 2) Chronic 3) Macrovascular … A) DKA and HHS B) Retinopathy, nephropathy and peripheral neuropathy C) Atherosclerotic CVD and CKD",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 3,
+   "exp": "The complication diagram lists DKA/HHS under acute, retinopathy/nephropathy/peripheral neuropathy under chronic, and atherosclerotic CVD/CKD under macrovascular. (Book p929)"
+  },
+  {
+   "id": "MED-C45-035",
+   "sec": "GLP-1 versus GIP and complications of insulin deficiency",
+   "page": 929,
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the acute complications listed under insulin deficiency?",
+   "opts": [
+    "Retinopathy",
+    "Diabetic ketoacidosis",
+    "Hyperglycemic hyperosmolar state",
+    "HHS"
+   ],
+   "ans": 0,
+   "exp": "Retinopathy is in the chronic column; DKA and HHS are listed in the acute column. (Book p929)"
+  },
+  {
+   "id": "MED-C45-036",
+   "sec": "GLP-1 versus GIP and complications of insulin deficiency",
+   "page": 929,
+   "fmt": "recall",
+   "q": "Which precipitating factor for DKA appears in the right-hand list?",
+   "opts": [
+    "NAFL",
+    "Periodontal disease",
+    "Cocaine",
+    "Fracture"
+   ],
+   "ans": 2,
+   "exp": "The DKA precipitating-factor list includes cocaine and non-compliance to treatment. (Book p929)"
+  },
+  {
+   "id": "MED-C45-037",
+   "sec": "Diabetic ketoacidosis: pathophysiology, features and investigations",
+   "page": 930,
+   "fmt": "match",
+   "q": "Match the DKA pathophysiology step to the next printed step — 1) Absolute insulin deficiency 2) Increased CPT-1 3) Free fatty acids 4) Acetyl-CoA … A) With counter-regulatory hormones B) Lipolysis and beta-oxidation in mitochondria C) Undergo beta-oxidation D) Increased ketone-body formation",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D"
+   ],
+   "ans": 3,
+   "exp": "The flow begins with absolute insulin deficiency and counter-regulatory hormones, increased CPT-1, free-fatty-acid beta-oxidation, acetyl-CoA formation and ketone bodies. (Book p930)"
+  },
+  {
+   "id": "MED-C45-038",
+   "sec": "Diabetic ketoacidosis: pathophysiology, features and investigations",
+   "page": 930,
+   "fmt": "fillup",
+   "q": "Free fatty acids undergo ___ in the mitochondria in the DKA flowchart.",
+   "opts": [
+    "Glycogenesis",
+    "Transamination",
+    "Beta-oxidation",
+    "Glycolysis"
+   ],
+   "ans": 2,
+   "exp": "The DKA diagram states that free fatty acids undergo beta-oxidation in mitochondria. (Book p930)"
+  },
+  {
+   "id": "MED-C45-039",
+   "sec": "Diabetic ketoacidosis: pathophysiology, features and investigations",
+   "page": 930,
+   "fmt": "truefalse",
+   "q": "Assess the DKA flow: I Increased acetyl-CoA formation precedes ketone-body formation. II The endpoint shown is ketosis/ketoacidosis.",
+   "opts": [
+    "Both false",
+    "Both true",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 1,
+   "exp": "Both arrows are visible in the DKA pathophysiology sequence. (Book p930)"
+  },
+  {
+   "id": "MED-C45-040",
+   "sec": "Diabetic ketoacidosis: pathophysiology, features and investigations",
+   "page": 930,
+   "fmt": "numeric",
+   "q": "In the comparison written at the top of the page, absolute insulin deficiency is greater in which direction?",
+   "opts": [
+    "Only GDM has absolute deficiency",
+    "T1DM much greater than T2DM",
+    "T2DM much greater than T1DM",
+    "Equal in T1DM and T2DM"
+   ],
+   "ans": 1,
+   "exp": "The page annotates absolute insulin deficiency as T1DM >> T2DM. (Book p930)"
+  },
+  {
+   "id": "MED-C45-041",
+   "sec": "Diabetic ketoacidosis: pathophysiology, features and investigations",
+   "page": 930,
+   "fmt": "scenario",
+   "q": "A child with DKA is being monitored for the page's highlighted complication associated with increased mortality. What is it?",
+   "opts": [
+    "Pancreatic calcification",
+    "Myocardial rupture",
+    "Cerebral edema",
+    "Pulmonary fibrosis"
+   ],
+   "ans": 2,
+   "exp": "The note states that cerebral edema is seen in children and increases mortality. (Book p930)"
+  },
+  {
+   "id": "MED-C45-042",
+   "sec": "Diabetic ketoacidosis: pathophysiology, features and investigations",
+   "page": 930,
+   "fmt": "match",
+   "q": "Match the DKA clinical item to the printed category — 1) Nausea/vomiting 2) Respiratory distress out of proportion to lung signs 3) Fruity odour 4) High-anion-gap metabolic acidosis … A) Symptom B) Sign C) Acidotic breath sign D) Investigation finding",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-D, 4-A"
+   ],
+   "ans": 2,
+   "exp": "The page places nausea/vomiting under symptoms, respiratory distress under signs, fruity odour under acidotic breath, and HAGMA under investigations. (Book p930)"
+  },
+  {
+   "id": "MED-C45-043",
+   "sec": "Diabetic ketoacidosis: pathophysiology, features and investigations",
+   "page": 930,
+   "fmt": "recall",
+   "q": "Which symptom is listed alongside thirst/polyuria in DKA?",
+   "opts": [
+    "Hearing loss",
+    "Hematuria",
+    "Constipation",
+    "Abdominal pain"
+   ],
+   "ans": 3,
+   "exp": "The symptoms list includes nausea/vomiting, thirst/polyuria, abdominal pain and shortness of breath. (Book p930)"
+  },
+  {
+   "id": "MED-C45-044",
+   "sec": "Diabetic ketoacidosis: pathophysiology, features and investigations",
+   "page": 930,
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the DKA signs listed on the page?",
+   "opts": [
+    "Abdominal tenderness",
+    "Bradycardia",
+    "Dehydration",
+    "Tachycardia"
+   ],
+   "ans": 1,
+   "exp": "The signs list dehydration, tachycardia, respiratory distress, acidotic breath and abdominal tenderness; bradycardia is not listed. (Book p930)"
+  },
+  {
+   "id": "MED-C45-045",
+   "sec": "Diabetic ketoacidosis: pathophysiology, features and investigations",
+   "page": 930,
+   "fmt": "match",
+   "q": "Match the investigation to the exact DKA investigation list — 1) ABG 2) Beta-hydroxybutyrate 3) Urine 4) Blood tests … A) HAGMA B) Level C) Ketones D) CBC, RFT and serum electrolytes",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-D, 4-A"
+   ],
+   "ans": 2,
+   "exp": "The investigation list includes ABG showing HAGMA, beta-hydroxybutyrate level, urine ketones, CBC, RFT and serum electrolytes. (Book p930)"
+  },
+  {
+   "id": "MED-C45-046",
+   "sec": "Diabetic ketoacidosis: pathophysiology, features and investigations",
+   "page": 930,
+   "fmt": "management",
+   "q": "Abdominal tenderness in this DKA page is noted as requiring a differential diagnosis of:",
+   "opts": [
+    "Acute pancreatitis",
+    "Acute appendicitis",
+    "Acute hepatitis",
+    "Acute cholelithiasis"
+   ],
+   "ans": 0,
+   "exp": "The page annotates abdominal tenderness with differential diagnosis of acute pancreatitis. (Book p930)"
+  },
+  {
+   "id": "MED-C45-047",
+   "sec": "Diabetic ketoacidosis: pathophysiology, features and investigations",
+   "page": 930,
+   "fmt": "truefalse",
+   "q": "Assess the counter-regulatory-hormone note: I Glucagon, epinephrine and cortisol are named. II Proteolysis increases gluconeogenic substrates.",
    "opts": [
     "I false; II true",
     "Both false",
@@ -1081,7 +706,382 @@
     "I true; II false"
    ],
    "ans": 2,
-   "exp": "Page-print +2/−4 is a titration rule for above/below target; detemir is often twice daily because of slightly shorter duration than glargine. (Book p932)"
+   "exp": "The page names glucagon, epinephrine and cortisol and draws proteolysis leading to increased gluconeogenic substrates. (Book p930)"
+  },
+  {
+   "id": "MED-C45-048",
+   "sec": "Diabetic ketoacidosis: pathophysiology, features and investigations",
+   "page": 930,
+   "fmt": "fillup",
+   "q": "The right-hand DKA flow runs from uncontrolled hyperglycemia through osmotic diuresis to ECF volume ___.",
+   "opts": [
+    "redistribution",
+    "normalization",
+    "depletion",
+    "expansion"
+   ],
+   "ans": 2,
+   "exp": "The page's right-hand flow ends osmotic diuresis followed by ECF volume depletion. (Book p930)"
+  },
+  {
+   "id": "MED-C45-049",
+   "sec": "DKA treatment and hyperosmolar hyperglycemic state",
+   "page": 931,
+   "fmt": "management",
+   "q": "The DKA fluid ladder begins by replacing approximately what total volume?",
+   "opts": [
+    "20–25 L",
+    "6–9 L",
+    "1–2 L",
+    "12–15 L"
+   ],
+   "ans": 1,
+   "exp": "The DKA treatment note says fluids replace 6–9 L. (Book p931)"
+  },
+  {
+   "id": "MED-C45-050",
+   "sec": "DKA treatment and hyperosmolar hyperglycemic state",
+   "page": 931,
+   "fmt": "match",
+   "q": "Match the DKA fluid stage to the printed timing — 1) First 3 L 2) Second 3 L 3) Third 3 L … A) Over 3 hours B) Over 9 hours C) Over 12 hours",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 1,
+   "exp": "The fluid ladder is 3 L over 3 hours, 3 L over 9 hours and 3 L over 12 hours. (Book p931)"
+  },
+  {
+   "id": "MED-C45-051",
+   "sec": "DKA treatment and hyperosmolar hyperglycemic state",
+   "page": 931,
+   "fmt": "numeric",
+   "q": "For every litre of DKA fluid, the note gives one ampoule of KCl containing:",
+   "opts": [
+    "20 mL = 40 mEq",
+    "1 mL = 2 mEq",
+    "10 mL = 20 mEq",
+    "5 mL = 10 mEq"
+   ],
+   "ans": 2,
+   "exp": "The page states one amp KCl, 10 mL equal to 20 mEq, for every 1 L fluid after the insulin stat dose. (Book p931)"
+  },
+  {
+   "id": "MED-C45-052",
+   "sec": "DKA treatment and hyperosmolar hyperglycemic state",
+   "page": 931,
+   "fmt": "fillup",
+   "q": "The regular-insulin stat dose written for DKA is 0.1 U/kg ___.",
+   "opts": [
+    "IM",
+    "oral",
+    "inhaled",
+    "IV"
+   ],
+   "ans": 3,
+   "exp": "The DKA treatment line specifies regular insulin stat dose 0.1 U/kg IV. (Book p931)"
+  },
+  {
+   "id": "MED-C45-053",
+   "sec": "DKA treatment and hyperosmolar hyperglycemic state",
+   "page": 931,
+   "fmt": "management",
+   "q": "After the DKA regular-insulin stat dose, what infusion rate is written?",
+   "opts": [
+    "0.1 U/kg/hour",
+    "0.01 U/kg/hour",
+    "1 U/kg/hour",
+    "10 U/kg/hour"
+   ],
+   "ans": 0,
+   "exp": "The page gives a regular-insulin infusion of 0.1 U/kg/hr after the stat dose. (Book p931)"
+  },
+  {
+   "id": "MED-C45-054",
+   "sec": "DKA treatment and hyperosmolar hyperglycemic state",
+   "page": 931,
+   "fmt": "truefalse",
+   "q": "Assess the glucose-monitoring instruction: I Blood glucose is monitored every hour. II At 200 mg/dL, fluids switch from normal saline to 5% dextrose.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both false",
+    "Both true"
+   ],
+   "ans": 3,
+   "exp": "The DKA treatment box says monitor blood glucose every hour and switch from NS to 5% dextrose at 200 mg/dL. (Book p931)"
+  },
+  {
+   "id": "MED-C45-055",
+   "sec": "DKA treatment and hyperosmolar hyperglycemic state",
+   "page": 931,
+   "fmt": "scenario",
+   "q": "A 50-kg patient is being treated using the page's example. What hourly insulin rate is written first in the example?",
+   "opts": [
+    "0.5 U/hour",
+    "10 U/hour",
+    "50 U/hour",
+    "5 U/hour"
+   ],
+   "ans": 3,
+   "exp": "The example converts 0.1 U/kg/hr for a 50-kg patient to 5 U/hr first. (Book p931)"
+  },
+  {
+   "id": "MED-C45-056",
+   "sec": "DKA treatment and hyperosmolar hyperglycemic state",
+   "page": 931,
+   "fmt": "recall",
+   "q": "The DKA section gives what prognosis?",
+   "opts": [
+    "Not mentioned",
+    "Good",
+    "Relatively poor",
+    "Guarded only in adults"
+   ],
+   "ans": 1,
+   "exp": "The prognosis line after the DKA treatment ladder says good. (Book p931)"
+  },
+  {
+   "id": "MED-C45-057",
+   "sec": "DKA treatment and hyperosmolar hyperglycemic state",
+   "page": 931,
+   "fmt": "match",
+   "q": "Match the HHS feature to the printed note — 1) Insulin deficiency 2) Patient group 3) Precipitating factor example 4) Time course … A) Relative, T2DM > T1DM B) Elderly patient C) LRTI D) One week",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-D, 4-A"
+   ],
+   "ans": 2,
+   "exp": "HHS is described as relative insulin deficiency (T2DM > T1DM), in an elderly patient, with LRTI as an example precipitant, developing over a week. (Book p931)"
+  },
+  {
+   "id": "MED-C45-058",
+   "sec": "DKA treatment and hyperosmolar hyperglycemic state",
+   "page": 931,
+   "fmt": "truefalse",
+   "q": "Assess the HHS pathophysiology: I Mildly increased counter-regulatory hormones are shown. II Ketosis and acidosis are shown as present.",
+   "opts": [
+    "Both true",
+    "I false; II true",
+    "Both false",
+    "I true; II false"
+   ],
+   "ans": 3,
+   "exp": "HHS shows a mild counter-regulatory-hormone increase and explicitly says no ketosis/acidosis. (Book p931)"
+  },
+  {
+   "id": "MED-C45-059",
+   "sec": "DKA treatment and hyperosmolar hyperglycemic state",
+   "page": 931,
+   "fmt": "fillup",
+   "q": "The HHS flowchart ends with increased fluid loss followed by ___.",
+   "opts": [
+    "Comatose",
+    "Hypoglycemia",
+    "Hypercalcemia",
+    "Hemorrhage"
+   ],
+   "ans": 0,
+   "exp": "The printed sequence is hyperglycemia, osmotic diuresis, hyperosmolarity, increased fluid loss and comatose. (Book p931)"
+  },
+  {
+   "id": "MED-C45-060",
+   "sec": "DKA treatment and hyperosmolar hyperglycemic state",
+   "page": 931,
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the HHS flowchart steps?",
+   "opts": [
+    "Hyperosmolarity",
+    "Ketone-body formation",
+    "Proteolysis",
+    "Increased gluconeogenesis"
+   ],
+   "ans": 1,
+   "exp": "The HHS diagram includes proteolysis, gluconeogenesis and hyperosmolarity but specifically notes no ketosis/acidosis; ketone-body formation is not a step. (Book p931)"
+  },
+  {
+   "id": "MED-C45-061",
+   "sec": "DKA versus HHS laboratory values and management",
+   "page": 932,
+   "fmt": "match",
+   "q": "Match the laboratory item to the DKA value shown in the table — 1) Glucose 2) Serum sodium 3) Osmolality 4) Plasma ketones … A) 350–1000 mg/dL B) 125–135 mEq/L C) 300–320 mOsm/mL D) ++++",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D"
+   ],
+   "ans": 3,
+   "exp": "The DKA column gives glucose 350–1000, serum sodium 125–135, osmolality 300–320 and plasma ketones ++++. (Book p932)"
+  },
+  {
+   "id": "MED-C45-062",
+   "sec": "DKA versus HHS laboratory values and management",
+   "page": 932,
+   "fmt": "numeric",
+   "q": "What glucose value is printed for HHS in the DKA-versus-HHS table?",
+   "opts": [
+    ">200 mg/dL",
+    ">350 mg/dL",
+    ">1000 mg/dL",
+    ">800 mg/dL"
+   ],
+   "ans": 3,
+   "exp": "The HHS glucose row is written as >800 mg/dL. (Book p932)"
+  },
+  {
+   "id": "MED-C45-063",
+   "sec": "DKA versus HHS laboratory values and management",
+   "page": 932,
+   "fmt": "fillup",
+   "q": "The HHS serum-sodium range is 135–145 mEq/L, so the table notes that ___ normal saline is used.",
+   "opts": [
+    "half-strength",
+    "double-strength",
+    "one-quarter-strength",
+    "three-quarter-strength"
+   ],
+   "ans": 0,
+   "exp": "The sodium row annotates the HHS 135–145 range with therefore 1/2 NS used. (Book p932)"
+  },
+  {
+   "id": "MED-C45-064",
+   "sec": "DKA versus HHS laboratory values and management",
+   "page": 932,
+   "fmt": "truefalse",
+   "q": "Assess the ketone and pH rows: I DKA plasma ketones are ++++. II HHS pH is written as normal.",
+   "opts": [
+    "Both false",
+    "Both true",
+    "I true; II false",
+    "I false; II true"
+   ],
+   "ans": 1,
+   "exp": "The table shows ++++ plasma ketones for DKA and normal pH for HHS. (Book p932)"
+  },
+  {
+   "id": "MED-C45-065",
+   "sec": "DKA versus HHS laboratory values and management",
+   "page": 932,
+   "fmt": "match",
+   "q": "Match the table finding to its DKA direction — 1) Bicarbonate 2) pH 3) PCO2 4) Anion gap … A) Decreased B) Decreased C) Decreased D) Increased",
+   "opts": [
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 1,
+   "exp": "The DKA column shows decreased bicarbonate, pH and PCO2, with an increased anion gap. (Book p932)"
+  },
+  {
+   "id": "MED-C45-066",
+   "sec": "DKA versus HHS laboratory values and management",
+   "page": 932,
+   "fmt": "scenario",
+   "q": "A patient has HHS with moderate creatinine increase attributed to fluid loss. Which renal consequence is written beside it?",
+   "opts": [
+    "Postrenal obstruction",
+    "Nephrotic syndrome",
+    "Prerenal failure",
+    "Intrinsic nephritis"
+   ],
+   "ans": 2,
+   "exp": "The HHS creatinine cell reads moderate increase with increased fluid loss leading to prerenal failure. (Book p932)"
+  },
+  {
+   "id": "MED-C45-067",
+   "sec": "DKA versus HHS laboratory values and management",
+   "page": 932,
+   "fmt": "management",
+   "q": "The first fluid instruction for HHS is slow fluid correction using:",
+   "opts": [
+    "No intravenous fluid",
+    "Half-normal saline",
+    "5% dextrose only",
+    "Hypertonic saline"
+   ],
+   "ans": 1,
+   "exp": "HHS management begins with slow fluid correction using 1/2 NS. (Book p932)"
+  },
+  {
+   "id": "MED-C45-068",
+   "sec": "DKA versus HHS laboratory values and management",
+   "page": 932,
+   "fmt": "numeric",
+   "q": "The HHS management note replaces approximately what volume over 4–5 days?",
+   "opts": [
+    "12 L, about 3 L/day",
+    "6 L, about 1 L/day",
+    "20 L, about 5 L/day",
+    "2 L, about 0.5 L/day"
+   ],
+   "ans": 0,
+   "exp": "The page says replace 12 L over 4–5 days, approximately 3 L/day. (Book p932)"
+  },
+  {
+   "id": "MED-C45-069",
+   "sec": "DKA versus HHS laboratory values and management",
+   "page": 932,
+   "fmt": "truefalse",
+   "q": "Assess the insulin transition: I IV insulin is shifted to subcutaneous insulin when the patient is awake and taking fluids. II The page says to stop insulin before the patient can drink.",
+   "opts": [
+    "I true; II false",
+    "Both true",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The management arrow says IV insulin, when awake and taking fluids, shifts to subcutaneous insulin. (Book p932)"
+  },
+  {
+   "id": "MED-C45-070",
+   "sec": "DKA versus HHS laboratory values and management",
+   "page": 932,
+   "fmt": "match",
+   "q": "Match the subcutaneous insulin item to the printed schedule — 1) Regular insulin 2) Long-acting insulin 3) Ultra-long-acting insulin 4) Normal body production … A) 8 U–8 U–8 U B) Glargine/detemir daily C) Degludec once in two days D) 40 U",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D"
+   ],
+   "ans": 3,
+   "exp": "The overlap note writes 40 U normal production, regular 8–8–8, glargine/detemir daily and degludec once in two days. (Book p932)"
+  },
+  {
+   "id": "MED-C45-071",
+   "sec": "DKA versus HHS laboratory values and management",
+   "page": 932,
+   "fmt": "recall",
+   "q": "What prognosis is written at the end of the HHS section?",
+   "opts": [
+    "Relatively poor",
+    "Good",
+    "Excellent",
+    "Not stated"
+   ],
+   "ans": 0,
+   "exp": "The final prognosis line on the page reads relatively poor. (Book p932)"
+  },
+  {
+   "id": "MED-C45-072",
+   "sec": "DKA versus HHS laboratory values and management",
+   "page": 932,
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the analytes marked normal in the HHS column?",
+   "opts": [
+    "Serum magnesium",
+    "Serum chloride",
+    "Plasma ketones ++++",
+    "Serum potassium"
+   ],
+   "ans": 2,
+   "exp": "Potassium, magnesium and chloride are marked normal in HHS; plasma ketones are marked ±, not ++++. (Book p932)"
   }
  ],
  "units": [
@@ -1089,9 +1089,9 @@
    "id": "MED-U45-1",
    "ch": 45,
    "n": 1,
-   "title": "Insulin: structure, secretion and signalling",
-   "sec": "Insulin: structure, secretion and signalling · p927",
-   "guide": "Insulin has 51 amino acids in A and B chains with disulphide bonds; the precursor is preproinsulin; receptor is a tyrosine kinase signalling via IRS. Glucose is the most potent stimulus; first and second phases of secretion reflect stored and newly made insulin.",
+   "title": "Physiology of insulin",
+   "sec": "Physiology of insulin · p927",
+   "guide": "Cover formation, receptor, carbohydrate/protein/fat effects, diabetic-specific infections and the insulin-production diagram.",
    "qs": [
     "MED-C45-001",
     "MED-C45-002",
@@ -1111,9 +1111,9 @@
    "id": "MED-U45-2",
    "ch": 45,
    "n": 2,
-   "title": "GLUT transporters, C-peptide and incretin physiology",
-   "sec": "GLUT transporters, C-peptide and incretin physiology · p928",
-   "guide": "GLUT1/3/4 differ in tissue specificity; GLUT2 is the β-cell glucose sensor; GLUT4 is insulin-stimulated. C-peptide tracks endogenous insulin and helps separate insulinoma / sulfonylurea use from exogenous insulin. GLP-1 and GIP are incretins with different half-lives.",
+   "title": "GLUTs, C-peptide and incretins",
+   "sec": "GLUT transporters, C-peptide and incretin hormones · p928",
+   "guide": "Read every GLUT/SGLT row, C-peptide pattern, incretin diagram, applied drugs and graph labels.",
    "qs": [
     "MED-C45-013",
     "MED-C45-014",
@@ -1133,9 +1133,9 @@
    "id": "MED-U45-3",
    "ch": 45,
    "n": 3,
-   "title": "Incretin therapies and dual agonists",
-   "sec": "Incretin therapies and dual agonists · p929",
-   "guide": "GLP-1 agonists (exenatide, liraglutide, semaglutide) and the dual GLP-1/GIP agonist tirzepatide reduce HbA1c with weight loss and cardiovascular benefit. Caution for pancreatitis and medullary thyroid disease.",
+   "title": "GLP-1 versus GIP and insulin deficiency",
+   "sec": "GLP-1 versus GIP and complications of insulin deficiency · p929",
+   "guide": "Cover both columns of the GLP-1/GIP table, advantages, Bartter note, complication groups and DKA precipitants.",
    "qs": [
     "MED-C45-025",
     "MED-C45-026",
@@ -1155,9 +1155,9 @@
    "id": "MED-U45-4",
    "ch": 45,
    "n": 4,
-   "title": "DKA: pathophysiology, features, investigations",
-   "sec": "DKA: pathophysiology, features, investigations · p930",
-   "guide": "DKA arises from insulin deficiency with glucagon excess driving lipolysis and ketogenesis. Triggers include infection, MI, missed insulin, pregnancy and cocaine. β-hydroxybutyrate predominates; urine dipstick detects acetoacetate.",
+   "title": "DKA pathophysiology and work-up",
+   "sec": "Diabetic ketoacidosis: pathophysiology, features and investigations · p930",
+   "guide": "Follow both DKA flowcharts, cerebral-edema note, clinical symptoms/signs and investigation list.",
    "qs": [
     "MED-C45-037",
     "MED-C45-038",
@@ -1177,9 +1177,9 @@
    "id": "MED-U45-5",
    "ch": 45,
    "n": 5,
-   "title": "DKA management, HHS, overlap",
-   "sec": "DKA management, HHS, overlap · p931",
-   "guide": "DKA fluids start with 0.9% saline, regular insulin 0.1 U/kg bolus then 0.1 U/kg/h; add KCl once K+ <5.2 and dextrose when glucose <200 mg/dL. HHS has 12 L deficit, glucose >600 mg/dL and worse prognosis. SGLT2 inhibitors cause euglycaemic DKA.",
+   "title": "DKA treatment and HHS",
+   "sec": "DKA treatment and hyperosmolar hyperglycemic state · p931",
+   "guide": "Cover the fluid ladder, KCl, regular-insulin dosing, glucose switch, prognosis and every HHS pathophysiology feature.",
    "qs": [
     "MED-C45-049",
     "MED-C45-050",
@@ -1199,9 +1199,9 @@
    "id": "MED-U45-6",
    "ch": 45,
    "n": 6,
-   "title": "Insulin regimens, dawn/Somogyi, CGM",
-   "sec": "Insulin regimens, dawn/Somogyi, CGM · p932",
-   "guide": "Basal-bolus, premixed, CSII and twice-daily NPH are the main regimens. Distinguish dawn phenomenon from Somogyi by checking 3 a.m. glucose. CGM reduces hypoglycaemia and provides TIR, variability and GMI metrics.",
+   "title": "DKA versus HHS",
+   "sec": "DKA versus HHS laboratory values and management · p932",
+   "guide": "Read every table row and the slow-fluid/insulin-overlap management note including schedules and prognosis.",
    "qs": [
     "MED-C45-061",
     "MED-C45-062",

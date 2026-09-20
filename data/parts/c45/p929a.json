@@ -1,150 +1,150 @@
 {
  "page": 929,
- "sec": "Incretin therapies and dual agonists",
+ "sec": "GLP-1 versus GIP and complications of insulin deficiency",
  "items": [
   {
    "fmt": "match",
-   "q": "Match the following GLP-1 agonist to its feature — 1) Exenatide 2) Liraglutide 3) Semaglutide 4) Tirzepatide … A) Twice daily injection B) Once daily injection C) Once weekly oral / injectable D) Dual GLP-1/GIP agonist",
+   "q": "Match the incretin to its source — 1) GLP-1 2) GIP … A) L cells of ileum and colon B) K cells of jejunum",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-A, 3-C, 4-B"
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
    ],
    "ans": 0,
-   "exp": "Exenatide is twice daily; liraglutide is once daily; semaglutide is once weekly oral or injectable; tirzepatide is a dual GLP-1/GIP agonist. (Book p929)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A patient on a GLP-1 agonist develops acute abdominal pain with elevated lipase. The most consistent drug class complication is:",
-   "opts": [
-    "Pancreatitis (exenatide class warning)",
-    "Thyroid C-cell tumour",
-    "Euglycaemic DKA (alternative)",
-    "Heart failure (alternative)"
-   ],
-   "ans": 0,
-   "exp": "GLP-1 agonists (especially exenatide) carry a class warning for acute pancreatitis. (Book p929)"
+   "exp": "The table gives GLP-1 from L cells of ileum and colon and GIP from K cells of jejunum. (Book p929)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess GLP-1 agonists: I They cause glucose-dependent insulin secretion. II They promote glucagon release in hypoglycaemia.",
+   "q": "Assess the first GLP-1 versus GIP rows: I Both have +++ glucose-dependent insulin release. II Both have +++ enhancement of beta-cell glucose responsiveness.",
    "opts": [
-    "Both false",
+    "Both true",
     "I true; II false",
     "I false; II true",
-    "Both true"
+    "Both false"
    ],
    "ans": 0,
-   "exp": "GLP-1 agonists stimulate insulin and suppress glucagon in a glucose-dependent manner, limiting hypoglycaemia. (Book p929)"
+   "exp": "Both columns show +++ for glucose-dependent insulin release and for enhancement of beta-cell glucose responsiveness. (Book p929)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which incretin column has +++ suppression of glucagon release?",
+   "opts": [
+    "GLP-1",
+    "GIP",
+    "Both equally",
+    "Neither column"
+   ],
+   "ans": 0,
+   "exp": "The table shows +++ under GLP-1 and dashes under GIP for suppression of glucagon release. (Book p929)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the listed effect to the stronger incretin column — 1) Stimulates beta-cell expansion 2) Inhibits gastric emptying 3) Enhances satiety 4) Reduces body weight … A) GLP-1 B) GLP-1 C) GLP-1 D) GLP-1",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "For each of these rows the GLP-1 column is marked +++ while GIP has dashes. (Book p929)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What half-life is written for GLP-1 in the table?",
+   "opts": [
+    "1–2 minutes",
+    "5–7 minutes",
+    "10–12 minutes",
+    "30–60 minutes"
+   ],
+   "ans": 0,
+   "exp": "The GLP-1 half-life row states 1–2 minutes and notes rapid degradation by DPP-4. (Book p929)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The GIP half-life in the table is written as ___ minutes.",
+   "opts": [
+    "5–7",
+    "1–2",
+    "10–15",
+    "20–25"
+   ],
+   "ans": 0,
+   "exp": "The GIP half-life row reads 5–7 minutes. (Book p929)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Which page-listed feature supports choosing recombinant GLP-1 over another hypoglycemic agent?",
+   "opts": [
+    "No risk of hypoglycemia",
+    "Guaranteed weight gain",
+    "No cardiovascular effect",
+    "No renal effect"
+   ],
+   "ans": 0,
+   "exp": "The advantages list includes no risk of hypoglycemia, weight loss, cardio-protection, HbA1c reduction and nephroprotection. (Book p929)"
+  },
+  {
+   "fmt": "management",
+   "q": "The page says recombinant GLP-1 is used in treatment of which liver-fat condition?",
+   "opts": [
+    "NASH/NAFLD",
+    "Acute viral hepatitis",
+    "Autoimmune hepatitis",
+    "Biliary obstruction"
+   ],
+   "ans": 0,
+   "exp": "The advantages list says recombinant GLP-1 promotes weight loss and is used in treatment of NASH/NAFLD. (Book p929)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the nephron note: I Adult diabetes is associated with nephron underdosing. II Low birth weight is linked to decreased nephron number in Bartter’s theory.",
+   "opts": [
+    "Both true",
+    "I true; II false",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The note links adult diabetes with nephron underdosing, low birth weight, decreased nephron number and Bartter’s theory. (Book p929)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the insulin-deficiency complication group to its examples — 1) Acute 2) Chronic 3) Macrovascular … A) DKA and HHS B) Retinopathy, nephropathy and peripheral neuropathy C) Atherosclerotic CVD and CKD",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The complication diagram lists DKA/HHS under acute, retinopathy/nephropathy/peripheral neuropathy under chronic, and atherosclerotic CVD/CKD under macrovascular. (Book p929)"
   },
   {
    "fmt": "oddoneout",
-   "q": "Which is the odd one out — a non-GLP-1 injectable hypoglycaemic agent?",
+   "q": "Which is the odd one out among the acute complications listed under insulin deficiency?",
    "opts": [
-    "Tirzepatide",
-    "Insulin degludec",
-    "Insulin glargine",
-    "Insulin detemir"
+    "Retinopathy",
+    "Diabetic ketoacidosis",
+    "Hyperglycemic hyperosmolar state",
+    "HHS"
    ],
    "ans": 0,
-   "exp": "Tirzepatide is a dual GLP-1/GIP agonist; the others are basal insulin analogues. (Book p929)"
+   "exp": "Retinopathy is in the chronic column; DKA and HHS are listed in the acute column. (Book p929)"
   },
   {
-   "fmt": "fillup",
-   "q": "The dual incretin agonist tirzepatide combines GLP-1 agonism with ___ agonism.",
+   "fmt": "recall",
+   "q": "Which precipitating factor for DKA appears in the right-hand list?",
    "opts": [
-    "GIP (correct answer)",
-    "Glucagon (counter-regulatory)",
-    "Amylin",
-    "Secretin"
+    "Cocaine",
+    "Fracture",
+    "NAFL",
+    "Periodontal disease"
    ],
    "ans": 0,
-   "exp": "Tirzepatide combines GLP-1 and GIP receptor agonism, producing greater HbA1c reduction and weight loss than GLP-1 agonists alone. (Book p929)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following GLP-1 agonist to its main clinical strength — 1) Liraglutide 2) Semaglutide 3) Exenatide LAR 4) Dulaglutide … A) Cardiovascular outcome trial benefit B) HbA1c and weight loss C) Once-weekly injectable D) Easy-to-use pen",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-B, 2-A, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-D, 2-B, 3-A, 4-C"
-   ],
-   "ans": 0,
-   "exp": "Liraglutide has landmark cardiovascular outcome data; semaglutide produces the largest HbA1c and weight loss; exenatide LAR is once-weekly; dulaglutide offers a simple weekly pen. (Book p929)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A patient with T2DM and CKD benefits from a GLP-1 agonist. Which renal protective mechanism is most cited?",
-   "opts": [
-    "Improvement in albuminuria and slowing of GFR decline",
-    "Increased tubular glucose reabsorption",
-    "Reduced renal blood flow (alternative)",
-    "Activation of renal sympathetic tone"
-   ],
-   "ans": 0,
-   "exp": "GLP-1 agonists reduce albuminuria and slow GFR decline via metabolic and haemodynamic effects. (Book p929)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess GLP-1 adverse effects: I Nausea is common, especially with dose escalation. II GLP-1 agonists are contraindicated in pregnancy.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Nausea is common during titration; GLP-1 agonists are not approved in pregnancy and are stopped before conception. (Book p929)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following GLP-1 / GIP property — 1) Source of exenatide 2) Source of liraglutide 3) Liraglutide modification 4) Semaglutide modification … A) Exendin-4 from Gila monster B) Modified GLP-1 analogue C) C16 fatty-acid side chain for albumin binding D) Similar acylation for half-life extension",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-D, 2-A, 3-B, 4-C"
-   ],
-   "ans": 0,
-   "exp": "Exenatide is derived from exendin-4 (Gila monster); liraglutide is a modified GLP-1 with a fatty acid side chain for albumin binding; semaglutide has similar acylation to extend half-life. (Book p929)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A patient develops medullary thyroid carcinoma while on a GLP-1 agonist. The most consistent mechanism is:",
-   "opts": [
-    "GLP-1 receptor activation on C-cells",
-    "Insulin-like growth factor stimulation",
-    "Direct DNA damage (alternative)",
-    "Autoimmune insulitis (alternative)"
-   ],
-   "ans": 0,
-   "exp": "GLP-1 receptor activation on thyroid C-cells produces calcitonin release and may contribute to C-cell hyperplasia in rodents. (Book p929)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "Tirzepatide's effect on weight is most consistent with ___ levels of weight loss in trials.",
-   "opts": [
-    "Higher than GLP-1 agonists alone",
-    "Lower than sulfonylureas",
-    "Equivalent to insulin",
-    "Minimal weight loss"
-   ],
-   "ans": 0,
-   "exp": "Tirzepatide produces greater weight loss than GLP-1 agonists alone, with some patients achieving >15% weight reduction. (Book p929)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess GLP-1 / GIP cardiovascular outcome trials: I Liraglutide reduced MACE in high-risk patients. II Semaglutide showed cardiovascular benefit in the SUSTAIN-6 trial.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "LEADER (liraglutide) and SUSTAIN-6 (semaglutide) both showed cardiovascular benefit in high-risk T2DM. (Book p929)"
+   "exp": "The DKA precipitating-factor list includes cocaine and non-compliance to treatment. (Book p929)"
   }
  ]
 }

@@ -1,34 +1,46 @@
 {
  "page": 920,
- "sec": "Pre-DM treatment, screening, HbA1c targets",
+ "sec": "Treatment of pre-diabetes and screening",
  "items": [
   {
-   "fmt": "match",
-   "q": "Match the following pre-diabetes interventions — 1) Lifestyle 2) Metformin 3) Bariatric surgery 4) Insulin sensitisers (TZDs) … A) 7% weight loss + 150 min/week activity B) Considered in high-risk patients <60 yr C) For BMI ≥35 with comorbidities D) Pioglitazone reduced progression",
+   "fmt": "management",
+   "q": "Which patient profile meets the page's listed reasons to start metformin in pre-diabetes?",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-C, 4-B",
-    "1-D, 2-A, 3-B, 4-C"
+    "Age 40–60 years, HbA1c ≥6%, FBS ≥110 mg/dL and overweight",
+    "Age under 20 years with HbA1c below 5.7%",
+    "Normal weight with FBS below 100 mg/dL",
+    "Any age with isolated low triglycerides"
    ],
    "ans": 0,
-   "exp": "Lifestyle with 7% weight loss and 150 min/week activity is first-line; metformin is added in high-risk patients under 60; bariatric surgery is for BMI ≥35 with comorbidities; pioglitazone has RCT evidence for progression reduction. (Book p920)"
+   "exp": "The page lists age 40–60 years, HbA1c ≥6%, FBS ≥110 mg/dL and overweight under starting metformin. (Book p920)"
   },
   {
-   "fmt": "scenario",
-   "q": "A 45-year-old BMI 32 has pre-diabetes with HbA1c 6.3%. Three months of lifestyle change produced no improvement. The most consistent next step is:",
+   "fmt": "match",
+   "q": "Match the pre-diabetes intervention to the page's note — 1) Metformin 2) Metformin in the pregnancy note 3) Pioglitazone 4) Pioglitazone mechanism … A) Start in the listed high-risk profile B) Treat gestational diabetes C) Added drug that acts through PPAR-γ D) Fights insulin resistance",
    "opts": [
-    "Add metformin",
-    "Start insulin",
-    "Start sulfonylurea",
-    "Start SGLT2 inhibitor"
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
    ],
    "ans": 0,
-   "exp": "Metformin is added for high-risk pre-diabetes patients with persistent hyperglycaemia despite lifestyle change. (Book p920)"
+   "exp": "The treatment notes list metformin for the specified high-risk profile and for gestational diabetes, and add pioglitazone through PPAR-γ to fight insulin resistance. (Book p920)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What fasting blood-sugar value is listed as a reason to start metformin in pre-diabetes?",
+   "opts": [
+    "≥110 mg/dL",
+    "≥90 mg/dL",
+    "≥126 mg/dL",
+    "≥200 mg/dL"
+   ],
+   "ans": 0,
+   "exp": "The metformin list includes FBS ≥110 mg/dL. (Book p920)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess pre-diabetes screening: I BMI ≥25 (printed as 'overweight') plus another risk factor is the threshold. II Screening begins at age 25–60 (printed '2–60').",
+   "q": "Assess the pioglitazone notes: I The page says it slows cardiovascular risks. II The page says it decreases the risk of stroke.",
    "opts": [
     "Both true",
     "I true; II false",
@@ -36,107 +48,83 @@
     "Both false"
    ],
    "ans": 0,
-   "exp": "Screening is recommended for BMI ≥25 plus risk factors; ADA typically recommends starting at age 35, not 25–60 (note: the source's 'Age 2-60yrs' is an inconsistency that should be flagged as the typical ADA recommendation is ≥35). (Book p920)"
+   "exp": "The pioglitazone column states that it slows cardiovascular risks and decreases the risk of stroke. (Book p920)"
   },
   {
    "fmt": "oddoneout",
-   "q": "Which is the odd one out among metformin contraindications?",
+   "q": "Which is the odd one out among the listed adverse effects of pioglitazone?",
    "opts": [
-    "eGFR ≥45 mL/min/1.73 m²",
-    "eGFR <30 mL/min/1.73 m²",
-    "Active hepatic failure",
-    "Acute or chronic alcoholism"
+    "Hyperthyroidism",
+    "Bladder cancer",
+    "Pathological fractures in osteoporosis",
+    "Salt-water retention"
    ],
    "ans": 0,
-   "exp": "eGFR ≥45 is not a contraindication; the others are contraindications or cautions (eGFR <30 contraindication, hepatic failure and alcoholism caution). (Book p920)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "The page's metformin dose threshold for withholding in CKD is eGFR < ___ mL/min/1.73 m².",
-   "opts": [
-    "30",
-    "15",
-    "45",
-    "60"
-   ],
-   "ans": 0,
-   "exp": "Metformin is contraindicated at eGFR <30; dose-reduced between 30–45. (Book p920)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following target to the population — 1) Most non-pregnant adults with diabetes 2) Older / frail with comorbidities 3) Pregnancy with pre-existing diabetes … A) HbA1c <7% B) HbA1c 7.5–8% or higher C) HbA1c <6–6.5% if achievable without hypoglycaemia",
-   "opts": [
-    "1-A, 2-B, 3-C",
-    "1-C, 2-A, 3-B",
-    "1-A, 2-C, 3-B",
-    "1-B, 2-A, 3-C"
-   ],
-   "ans": 0,
-   "exp": "Most adults target HbA1c <7%; older frail patients tolerate 7.5–8%; pregnancy pre-existing diabetes aims for <6.5% if achievable safely. (Book p920)"
+   "exp": "The page lists bladder cancer, pathological fractures in osteoporosis and salt-water retention as adverse effects; hyperthyroidism is not listed. (Book p920)"
   },
   {
    "fmt": "scenario",
-   "q": "An 80-year-old nursing-home resident with multimorbidities has T2DM and frequent hypoglycaemia. The most appropriate HbA1c target is:",
+   "q": "A person belongs to the page's pre-diabetes screening group because of a prior pregnancy-related glucose disorder. How often is screening written for this group?",
    "opts": [
-    "Relaxed target ~7.5–8%",
-    "Tight target <6.5%",
-    "Same <7% as a 30-year-old",
-    "No target because of age"
+    "Once in 6 months",
+    "Once in 6 weeks",
+    "Once in 6 years",
+    "Every 24 hours"
    ],
    "ans": 0,
-   "exp": "Elderly frail patients tolerate a relaxed target of 7.5–8% to avoid hypoglycaemia. (Book p920)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess targets: I A1c-Derived Average Glucose (ADAG) provides an estimated mean glucose. II SMBG is not needed with HbA1c.",
-   "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
-   ],
-   "ans": 0,
-   "exp": "ADAG links HbA1c to mean glucose; SMBG remains essential, especially in insulin-treated patients. (Book p920)"
+   "exp": "The screening heading states that screening indicated in ADA guidelines is once in 6 months and includes gestational DM. (Book p920)"
   },
   {
    "fmt": "match",
-   "q": "Match the following SMBG pattern to population — 1) Type 1 on basal-bolus 2) Type 2 on metformin only 3) Pregnancy with GDM on insulin 4) Stable Type 2 with HbA1c 6.8% … A) ≥4 checks/day B) Less frequent, fasting or paired C) Frequent daily checks D) Routine not required",
+   "q": "Match the screening indication to the exact group named — 1) Gestational DM 2) Pre-diabetic population 3) High-risk population 4) General population … A) 50% chance of developing diabetes B) Pre-diabetes C) Stroke, cardiovascular disease, HIV, PCOS or insulin-resistance signs D) Age ≥35 years",
    "opts": [
     "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-D, 2-A, 3-B, 4-C"
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
    ],
    "ans": 0,
-   "exp": "Type 1 basal-bolus needs ≥4 checks/day; metformin-only T2DM benefits from fewer paired checks; GDM on insulin needs frequent checks; well-controlled T2DM may not need routine SMBG. (Book p920)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A T1DM patient on basal-bolus has HbA1c 8.5% with frequent hypoglycaemia. The next step is:",
-   "opts": [
-    "Review SMBG data, adjust insulin and consider CGM",
-    "Tighten targets without CGM",
-    "Stop SMBG and rely on HbA1c",
-    "Switch to oral agents only (alternative)"
-   ],
-   "ans": 0,
-   "exp": "Frequent hypoglycaemia with elevated HbA1c prompts review of SMBG data, insulin adjustment and CGM to reduce variability. (Book p920)"
+   "exp": "The screening flowchart lists gestational DM with a 50% chance of diabetes, pre-diabetic population, high-risk conditions, and population ≥35 years. (Book p920)"
   },
   {
    "fmt": "fillup",
-   "q": "Pre-diabetes is sometimes treated with ___ in high-risk women with prior gestational diabetes.",
+   "q": "The page lists three screening tests: HbA1c, FBS and ___.",
    "opts": [
-    "Metformin",
-    "Insulin",
-    "Pioglitazone",
-    "Sulfonylurea"
+    "PPBS",
+    "RBS",
+    "C-peptide",
+    "Serum insulin"
    ],
    "ans": 0,
-   "exp": "Metformin is recommended in high-risk patients, including women with prior GDM. (Book p920)"
+   "exp": "The screening-tests branch names HbA1c, FBS and PPBS. (Book p920)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which screening test is described as having the best sensitivity and specificity for pre-diabetes?",
+   "opts": [
+    "HbA1c",
+    "FBS",
+    "PPBS",
+    "RBS"
+   ],
+   "ans": 0,
+   "exp": "The HbA1c subsection calls HbA1c the best sensitivity and specificity test for pre-diabetes. (Book p920)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The HbA1c note is said to reflect approximately how many weeks of control?",
+   "opts": [
+    "6–8 weeks",
+    "1–2 weeks",
+    "10–12 weeks",
+    "24–48 weeks"
+   ],
+   "ans": 0,
+   "exp": "The page writes 6–8 week control below HbA1c. (Book p920)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess pre-diabetes: I A1c 6.0% is normal. II HbA1c ≥6% with risk factors is an indication for intervention.",
+   "q": "Assess HbA1c limitations: I It provides only average values over a long period. II Ideal glycemic control at the target range for 70% of time requires 24-hour monitoring.",
    "opts": [
     "Both true",
     "I true; II false",
@@ -144,7 +132,19 @@
     "Both false"
    ],
    "ans": 0,
-   "exp": "HbA1c 5.7–6.4% is pre-diabetes; ≥6% with risk factors is sufficient for intervention in many algorithms. (Book p920)"
+   "exp": "Both statements are written in the HbA1c limitation note: average long-period values and 70% target-range time requiring 24-hour monitoring. (Book p920)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the HbA1c interference group to the printed examples — 1) Lower or increase 2) False lower value 3) False elevated value … A) Hemoglobinopathies, malnutrition B) Hemolytic anemia, blood loss, chronic liver disease C) Renal failure, iron-deficiency anemia, increased bilirubin and triglycerides",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The table lists haemoglobinopathies and malnutrition under lower or increase, haemolytic anaemia/blood loss/chronic liver disease under false lower, and renal failure/iron deficiency/increased bilirubin and triglycerides under false elevated. (Book p920)"
   }
  ]
 }

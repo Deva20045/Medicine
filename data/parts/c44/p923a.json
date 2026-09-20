@@ -1,34 +1,94 @@
 {
  "page": 923,
- "sec": "T1DM markers, autoimmunity and antibody interpretation",
+ "sec": "Type 1 DM pathophysiology and Type 1 versus Type 2",
  "items": [
   {
-   "fmt": "match",
-   "q": "Match the following Type 1 autoantibody to its prevalence / target — 1) GAD65 2) IA-2 3) ZnT8 4) Anti-insulin … A) ~70–80% at diagnosis B) ~60–70% at diagnosis C) >95% in some populations D) More common in children",
+   "fmt": "recall",
+   "q": "The pathophysiology line for Type 1 DM describes T-cell-mediated destruction of the:",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-B, 3-C, 4-A"
+    "Beta cell",
+    "Alpha cell",
+    "Delta cell",
+    "Acinar cell"
    ],
    "ans": 0,
-   "exp": "GAD65 is positive in roughly 70–80% at diagnosis; IA-2 in 60–70%; ZnT8 in over 95% in some populations; anti-insulin is more common in children. (Book p923)"
+   "exp": "The page writes T-cell-mediated beta-cell destruction with insulinitis. (Book p923)"
   },
   {
-   "fmt": "scenario",
-   "q": "A 22-year-old non-obese patient has new diabetes, positive GAD and rapidly progresses to insulin. The most consistent diagnosis is:",
+   "fmt": "match",
+   "q": "Match the Type 1 versus Type 2 factor to the printed pair — 1) Age 2) Weight 3) Family history 4) DKA … A) Younger / older B) Thinner / obese C) Rare / common D) Common / rare",
    "opts": [
-    "Type 1 diabetes",
-    "Type 2 diabetes",
-    "MODY 3 (alternative)",
-    "Type 3c diabetes"
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
    ],
    "ans": 0,
-   "exp": "Non-obese young adult with GAD positivity and rapid progression fits Type 1 diabetes. (Book p923)"
+   "exp": "The comparison table lists younger versus older age, thinner versus obese weight, rare versus common family history, and common versus rare DKA for Type 1 versus Type 2. (Book p923)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess these facts: I HLA-DRB1*04 increases Type 1 risk. IIGAD antibodies are also seen in stiff-person syndrome.",
+   "q": "Assess the marker line: I GAD and ZnT-8 are listed among Type 1 markers. II Anti-insulin antibody is absent from the marker line.",
+   "opts": [
+    "I true; II false",
+    "Both true",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The marker line includes GAD, ZnT-8 and anti-insulin antibody. (Book p923)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What Type 1 twin-to-twin concordance is written in the final row?",
+   "opts": [
+    "40%",
+    "5%",
+    "15%",
+    "70–90%"
+   ],
+   "ans": 0,
+   "exp": "The Type 1 column gives twin-to-twin concordance as 40%. (Book p923)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The HLA association line shows positive association with DR3–DR___ in the Type 1 note.",
+   "opts": [
+    "4",
+    "2",
+    "5",
+    "8"
+   ],
+   "ans": 0,
+   "exp": "The HLA association diagram shows positive DR3–DR4 and a negative DR1–14 entry. (Book p923)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient has osmotic symptoms, low C-peptide and common DKA. Which column in the comparison table fits best?",
+   "opts": [
+    "Type 1 DM",
+    "Type 2 DM",
+    "MODY",
+    "GDM"
+   ],
+   "ans": 0,
+   "exp": "Osmotic symptoms, low C-peptide and common DKA are entries in the Type 1 DM column. (Book p923)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the comparison factor to the Type 1 entry — 1) C-peptide 2) Acanthosis nigricans 3) Dyslipidemia 4) Antibodies … A) Low B) Absent C) Absent D) Present",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "The Type 1 column gives low C-peptide, absent acanthosis nigricans, absent dyslipidemia and present antibodies. (Book p923)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the endocrine-association rows: I PCOS is rare in the Type 1 column and present in Type 2. II HLA association is stronger in Type 1 than Type 2.",
    "opts": [
     "Both true",
     "I true; II false",
@@ -36,115 +96,55 @@
     "Both false"
    ],
    "ans": 0,
-   "exp": "HLA-DRB1*04 is a susceptibility allele for Type 1 diabetes; GAD antibodies also occur in stiff-person syndrome and cerebellar ataxia. (Book p923)"
+   "exp": "The table marks PCOS rare/present and HLA association stronger/weaker for Type 1/Type 2. (Book p923)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "If both parents have DM, what risks are printed for Type 1 and Type 2 respectively?",
+   "opts": [
+    "15% and 40%",
+    "5% and 25%",
+    "40% and 70–90%",
+    "25% and 15%"
+   ],
+   "ans": 0,
+   "exp": "The risk rows state 15% for Type 1 and 40% for Type 2 when both parents have DM. (Book p923)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which Type 1 versus Type 2 factor is labelled stronger for Type 2?",
+   "opts": [
+    "Genetic factor association",
+    "HLA association",
+    "Antibody association",
+    "DKA association"
+   ],
+   "ans": 0,
+   "exp": "The final comparison rows mark genetic-factor association as weaker in Type 1 and stronger in Type 2. (Book p923)"
   },
   {
    "fmt": "oddoneout",
-   "q": "Which is the odd one out — an antibody NOT typically associated with Type 1 diabetes?",
+   "q": "Which is the odd one out among the Type 2 entries in the comparison table?",
    "opts": [
-    "Anti-CCP",
-    "GAD65",
-    "IA-2 (alternative)",
-    "ZnT8 (alternative)"
+    "Present antibodies",
+    "Older age",
+    "Higher C-peptide",
+    "Present acanthosis nigricans"
    ],
    "ans": 0,
-   "exp": "Anti-CCP is associated with rheumatoid arthritis, not Type 1 diabetes. (Book p923)"
+   "exp": "The Type 2 antibody entry is absent; older age, higher C-peptide and present acanthosis nigricans are listed. (Book p923)"
   },
   {
-   "fmt": "fillup",
-   "q": "ZnT8 antibodies target the zinc transporter in pancreatic ___ cells.",
+   "fmt": "management",
+   "q": "A family-risk question asks about one parent having DM. Which Type 1/Type 2 risk pair is printed?",
    "opts": [
-    "β (correct answer)",
-    "α (alternative)",
-    "δ (alternative)",
-    "PP"
+    "5% / 25%",
+    "15% / 40%",
+    "40% / 70–90%",
+    "25% / 5%"
    ],
    "ans": 0,
-   "exp": "ZnT8 is expressed in pancreatic β-cells, making it a specific autoimmune target. (Book p923)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following test to its use in T1DM — 1) C-peptide 2) Autoantibody panel 3) HbA1c 4) Insulin level … A) Reflects endogenous insulin secretion B) Classifies autoimmune diabetes C) Monitors chronic glycaemia D) Affected by exogenous insulin and hepatic clearance",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-D, 3-B, 4-C",
-    "1-D, 2-B, 3-C, 4-A"
-   ],
-   "ans": 0,
-   "exp": "C-peptide measures endogenous insulin secretion; autoantibody panel classifies autoimmune diabetes; HbA1c monitors chronic glycaemia; insulin level is confounded by exogenous insulin and hepatic clearance. (Book p923)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "An 18-year-old with new T1DM has undetectable C-peptide and positive ZnT8. The most consistent interpretation is:",
-   "opts": [
-    "Autoimmune β-cell destruction with no residual function",
-    "Type 2 diabetes with severe insulin resistance",
-    "MODY 2 (alternative)",
-    "Pancreatogenic diabetes (alternative)"
-   ],
-   "ans": 0,
-   "exp": "Undetectable C-peptide with ZnT8 indicates autoimmune β-cell failure in Type 1 diabetes. (Book p923)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess T1DM genetic risk: I HLA-DR3 and DR4 increase risk. II Most T1DM is monogenic.",
-   "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
-   ],
-   "ans": 0,
-   "exp": "HLA-DR3 and DR4 (DRB1*03 and *04) increase susceptibility; most T1DM is polygenic, not monogenic. (Book p923)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following antibody to the population where it's most useful — 1) Insulin autoantibody 2) GAD 2) ZnT8 3) IA-2 … A) Children <5 yr at onset B) Adults >30 yr at onset C) Combined with GAD for sensitivity D) Highly specific for T1DM",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-A, 3-B, 4-C"
-   ],
-   "ans": 0,
-   "exp": "Insulin autoantibody is most useful in young children; GAD is more often positive in adult-onset T1DM/LADA; ZnT8 combined with GAD improves sensitivity; IA-2 is highly specific for T1DM. (Book p923)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A 5-year-old with new diabetes has positive insulin autoantibodies but negative GAD and IA-2. The most consistent interpretation is:",
-   "opts": [
-    "Probable autoimmune T1DM",
-    "Type 2 diabetes",
-    "MODY (alternative)",
-    "Type 3c diabetes"
-   ],
-   "ans": 0,
-   "exp": "Insulin autoantibodies are common in young children with T1DM; one antibody plus clinical phenotype is sufficient to support diagnosis. (Book p923)"
-  },
-  {
-   "fmt": "fillup",
-   "q": "Triple antibody positivity (GAD, IA-2, ZnT8) in a newly diagnosed adult is highly suggestive of ___ rather than Type 2.",
-   "opts": [
-    "Autoimmune (Type 1-like) diabetes",
-    "MODY 2 (alternative)",
-    "Pancreatogenic diabetes",
-    "Cushing-induced diabetes"
-   ],
-   "ans": 0,
-   "exp": "Triple positivity in adults strongly suggests autoimmune diabetes (Type 1-like or LADA). (Book p923)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess C-peptide: I It is cleaved from proinsulin in equimolar amounts. II C-peptide is a surrogate for endogenous insulin.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "C-peptide is cleaved from proinsulin in equimolar amounts with insulin and is used as a surrogate for endogenous insulin secretion. (Book p923)"
+   "exp": "The row for either parent having DM gives 5% for Type 1 and 25% for Type 2. (Book p923)"
   }
  ]
 }

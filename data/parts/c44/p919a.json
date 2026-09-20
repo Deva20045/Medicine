@@ -1,34 +1,46 @@
 {
  "page": 919,
- "sec": "Dirty dozen, classification, diagnostics",
+ "sec": "Newer discoveries, diagnostic criteria and pre-diabetes",
  "items": [
   {
-   "fmt": "match",
-   "q": "Match the following classification to its example — 1) Type 1 2) Type 2 3) Gestational 4) Other specific types … A) Autoimmune β-cell destruction B) Insulin resistance with relative insulin deficiency C) Onset in pregnancy D) Monogenic, drug-induced, pancreatic disease",
+   "fmt": "recall",
+   "q": "In the mnemonic 'Dirty dozen', the letter D is paired with decreased:",
    "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-B, 3-C, 4-A"
+    "Dopamine activity",
+    "Dopamine synthesis",
+    "Dopamine receptors",
+    "Dopamine clearance"
    ],
    "ans": 0,
-   "exp": "Type 1 is autoimmune β-cell destruction; Type 2 is insulin resistance with relative insulin deficiency; GDM is diagnosed in pregnancy; 'other specific types' include monogenic, drug-induced and pancreatic diabetes. (Book p919)"
+   "exp": "Under Dirty dozen, D is written as decreased dopamine activity. (Book p919)"
   },
   {
-   "fmt": "scenario",
-   "q": "A 12-year-old presents with polyuria, polydipsia, weight loss and DKA. Anti-GAD is positive. The diagnosis is:",
+   "fmt": "match",
+   "q": "Match the mnemonic letter to the printed newer-discovery item — 1) D 2) D (second line) 3) G 4) R … A) Decreased dopamine activity B) Decreased vitamin-D level C) Hypogonadism with decreased testosterone D) Renin–aldosterone-system activation",
    "opts": [
-    "Type 1 diabetes",
-    "Type 2 diabetes",
-    "MODY (alternative)",
-    "Gestational diabetes"
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
    ],
    "ans": 0,
-   "exp": "Children with DKA and positive GAD have autoimmune Type 1 diabetes, not Type 2 or MODY. (Book p919)"
+   "exp": "The Dirty dozen lines list decreased dopamine activity, decreased vitamin-D level, hypogonadism with decreased testosterone, and renin–aldosterone-system activation. (Book p919)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "The 'Treacherous 13' adds serotonin, which increases hormone-sensitive ___.",
+   "opts": [
+    "lipase",
+    "kinase",
+    "phosphatase",
+    "transporter"
+   ],
+   "ans": 0,
+   "exp": "The Treacherous 13 line reads dirty dozen plus serotonin leading to increased hormone-sensitive lipase. (Book p919)"
   },
   {
    "fmt": "truefalse",
-   "q": "Assess classification: I Type 2 diabetes is the most common form worldwide. II Latent autoimmune diabetes of adults (LADA) is a slow Type 1 variant.",
+   "q": "Assess the three mnemonic lines: I Treacherous 13 is Dirty dozen plus serotonin. II Faithless 14 adds iron in the beta-cell.",
    "opts": [
     "Both true",
     "I true; II false",
@@ -36,127 +48,115 @@
     "Both false"
    ],
    "ans": 0,
-   "exp": "Type 2 is the most common form; LADA is autoimmune diabetes in adults that is initially non-insulin requiring but slowly progresses. (Book p919)"
+   "exp": "The page explicitly defines Treacherous 13 as Dirty dozen plus serotonin and Faithless 14 as Treacherous 13 plus iron in the beta-cell. (Book p919)"
   },
   {
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a 'dirty dozen' cause of secondary diabetes?",
+   "fmt": "scenario",
+   "q": "In the final mnemonic, iron in the beta-cell is associated on the page with:",
    "opts": [
-    "Autoimmune polyglandular syndrome type 2",
-    "Pancreatitis-induced (alternative)",
-    "Endocrine (Cushing)",
-    "Drug-induced (glucocorticoids)"
+    "Toxicity and resistance",
+    "Oedema and bradycardia",
+    "Hypocalcemia and tremor",
+    "Polyuria and fever"
    ],
    "ans": 0,
-   "exp": "Autoimmune polyglandular syndrome type 2 is associated with autoimmune diabetes (Type 1-like), not classical secondary 'dirty dozen' causes like pancreatitis, Cushing or steroids. (Book p919)"
+   "exp": "Faithless 14 is annotated as iron in the beta-cell causing toxicity and resistance. (Book p919)"
   },
   {
-   "fmt": "fillup",
-   "q": "Monogenic diabetes caused by HNF1A mutations and responsive to low-dose sulfonylureas is also known as ___.",
+   "fmt": "numeric",
+   "q": "How many of the four diagnostic criteria does the page require for diabetes in its flowchart?",
    "opts": [
-    "MODY 3 (HNF1A-MODY)",
-    "MODY 2 (GCK-MODY)",
-    "Wolfram syndrome",
-    "Rabson-Mendenhall syndrome"
+    "At least 1 out of 4",
+    "At least 2 out of 4",
+    "At least 3 out of 4",
+    "All 4 criteria"
    ],
    "ans": 0,
-   "exp": "MODY 3 (HNF1A) is the classic sulfonylurea-responsive monogenic diabetes; MODY 2 (GCK) is typically diet-controlled. (Book p919)"
+   "exp": "The diabetes flowchart places '≥1 out of 4' over the four diagnostic branches. (Book p919)"
   },
   {
    "fmt": "match",
-   "q": "Match the following MODY subtype to its key feature — 1) HNF1A-MODY (MODY 3) 2) GCK-MODY (MODY 2) 3) HNF4A-MODY (MODY 1) … A) Sulfonylurea-responsive, progressive B) Mild stable hyperglycaemia, often no Rx C) Macrosomia + neonatal hypoglycaemia then diabetes",
+   "q": "Match the diagnostic branch to its printed cut-off — 1) HbA1c 2) Fasting plasma glucose 3) 2-hour postprandial plasma glucose 4) RBS with symptoms … A) ≥6.5% B) ≥126 mg/dL C) 75-g glucose ≥200 mg/dL D) ≥200 mg/dL",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "The four branches are HbA1c ≥6.5%, fasting glucose ≥126 mg/dL, 2-hour postprandial glucose after 75-g glucose ≥200 mg/dL, and RBS ≥200 mg/dL with clinical symptoms. (Book p919)"
+  },
+  {
+   "fmt": "management",
+   "q": "An RBS value reaches the threshold on this page and the patient has the listed classic symptoms. Which action is supported by the flowchart?",
+   "opts": [
+    "Recognize diabetes using RBS ≥200 mg/dL plus clinical symptoms",
+    "Use only the HbA1c branch",
+    "Use only the fasting branch",
+    "Label the value as normal"
+   ],
+   "ans": 0,
+   "exp": "The page's fourth branch pairs RBS ≥200 mg/dL with clinical symptoms for the diabetes diagnosis. (Book p919)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the symptom arrows: I Hyperosmotic glucose draws water from the cell. II The page links weight loss with decreased effective-volume depletion.",
+   "opts": [
+    "I true; II false",
+    "Both true",
+    "I false; II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "The page links increased glucose to hyperosmotic water movement from cells and links weight loss to decreased effective volume depletion and increased catabolic effect. (Book p919)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is the odd one out among the classic symptoms written beside the RBS branch?",
+   "opts": [
+    "Hemoptysis",
+    "Polyuria",
+    "Polydipsia",
+    "Weight loss"
+   ],
+   "ans": 0,
+   "exp": "Polyuria, polydipsia and weight loss are listed beside the RBS branch; hemoptysis is not. (Book p919)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The page states that what percentage of patients become diabetic every year in the pre-diabetes section?",
+   "opts": [
+    "10–15%",
+    "1–2%",
+    "25–30%",
+    "50–60%"
+   ],
+   "ans": 0,
+   "exp": "The pre-diabetes heading is followed by the statement that 10–15% of patients become diabetic every year. (Book p919)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the table row to the pre-diabetes range — 1) Fasting value 2) 2-hour PPBG (75 g) 3) HbA1c values … A) 100–125 mg/dL B) 140–199 mg/dL C) 5.7–6.4%",
    "opts": [
     "1-A, 2-B, 3-C",
-    "1-B, 2-A, 3-C",
-    "1-A, 2-C, 3-B",
-    "1-C, 2-B, 3-A"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "HNF1A-MODY (MODY 3) is sulfonylurea-responsive and progressive; GCK-MODY (MODY 2) is mild and usually not treated; HNF4A-MODY is associated with macrosomia and neonatal hypoglycaemia. (Book p919)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A 24-year-old with mild fasting hyperglycaemia and a family history of 'mild diabetes' across three generations has HbA1c 6.0%. Genetic testing is most likely to find:",
-   "opts": [
-    "GCK mutation (MODY 2)",
-    "HNF1A mutation (MODY 3)",
-    "GAD antibodies",
-    "Insulin gene mutation"
-   ],
-   "ans": 0,
-   "exp": "Mild stable hyperglycaemia across generations fits GCK-MODY (MODY 2); HNF1A-MODY is progressive and typically requires treatment. (Book p919)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess autoimmune screening: I GAD, IA-2 and ZnT8 antibodies classify autoimmune diabetes. II Antibody-negative autoimmune diabetes is impossible.",
-   "opts": [
-    "Both false",
-    "I true; II false",
-    "I false; II true",
-    "Both true"
-   ],
-   "ans": 0,
-   "exp": "GAD, IA-2 and ZnT8 are the principal autoantibodies; a small subset of autoimmune diabetes is antibody-negative (so-called idiopathic Type 1). (Book p919)"
-  },
-  {
-   "fmt": "match",
-   "q": "Match the following test to its role — 1) Fasting glucose 2) 2-hour OGTT 3) HbA1c 4) C-peptide … A) Screening and diagnosis B) Sensitive for IGT C) Reflects chronic glycemia D) Endogenous insulin secretion",
-   "opts": [
-    "1-A, 2-B, 3-C, 4-D",
-    "1-C, 2-A, 3-B, 4-D",
-    "1-A, 2-C, 3-B, 4-D",
-    "1-D, 2-B, 3-C, 4-A"
-   ],
-   "ans": 0,
-   "exp": "Fasting glucose is the workhorse screening test; OGTT is most sensitive for IGT; HbA1c reflects chronic glycemia; C-peptide reflects endogenous insulin secretion. (Book p919)"
-  },
-  {
-   "fmt": "scenario",
-   "q": "A 50-year-old has fasting glucose 105 mg/dL but 2-hour post-load 168 mg/dL. The most consistent label is:",
-   "opts": [
-    "Isolated impaired glucose tolerance",
-    "Combined IFG and IGT",
-    "Diabetes (alternative)",
-    "Normal (alternative)"
-   ],
-   "ans": 0,
-   "exp": "2-hour glucose 140–199 with normal FPG is isolated IGT. (Book p919)"
+   "exp": "The pre-diabetes table gives fasting 100–125 mg/dL, 2-hour PPBG 140–199 mg/dL and HbA1c 5.7–6.4%. (Book p919)"
   },
   {
    "fmt": "fillup",
-   "q": "The diagnostic 75-g OGTT detects ___ more sensitively than fasting glucose.",
+   "q": "The normal 2-hour PPBG value in the table is less than ___ mg/dL.",
    "opts": [
-    "Impaired glucose tolerance",
-    "Autoimmune diabetes",
-    "Pancreatic cancer",
-    "Insulinoma (alternative)"
+    "140",
+    "100",
+    "126",
+    "200"
    ],
    "ans": 0,
-   "exp": "The 75-g OGTT detects IGT earlier than fasting glucose. (Book p919)"
-  },
-  {
-   "fmt": "truefalse",
-   "q": "Assess fructosamine and 1,5-AG: I They reflect shorter-term glycemia than HbA1c. II They are useful when HbA1c is unreliable.",
-   "opts": [
-    "Both true",
-    "I true; II false",
-    "I false; II true",
-    "Both false"
-   ],
-   "ans": 0,
-   "exp": "Fructosamine and 1,5-AG reflect 2–3 weeks of glycemia, useful in pregnancy or haemoglobinopathies where HbA1c is unreliable. (Book p919)"
-  },
-  {
-   "fmt": "oddoneout",
-   "q": "Which is the odd one out — a test that does NOT assess chronic glycaemia?",
-   "opts": [
-    "Random plasma glucose",
-    "HbA1c (alternative)",
-    "Fructosamine",
-    "1,5-anhydroglucitol"
-   ],
-   "ans": 0,
-   "exp": "Random plasma glucose is a snapshot; HbA1c, fructosamine and 1,5-AG all integrate glycaemia over different windows. (Book p919)"
+   "exp": "The normal-value column lists 2-hour PPBG (75 g) as <140 mg/dL. (Book p919)"
   }
  ]
 }
