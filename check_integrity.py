@@ -66,6 +66,11 @@ LIVE_CHAPTERS = {
     44: ('Introduction to Diabetes Mellitus and Classification', 917, 926, 123, 10),
     45: ('Insulin Physiology and Acute Complications of Diabetes Mellitus', 927, 932, 72, 6),
     46: ('Management of Diabetes Mellitus - 2024 Guidelines', 933, 935, 36, 3),
+    47: ('Basics of Pituitary Gland', 936, 940, 61, 5),
+    48: ('Prolactin', 941, 944, 52, 4),
+    49: ('Growth Hormone', 945, 951, 84, 7),
+    50: ('Acquired Hypopituitarism', 952, 957, 72, 6),
+    51: ('Antidiuretic Hormone', 958, 961, 48, 4),
     60: ("Portal Hypertension", 1001, 1004, 86, 8),
     61: ("Ascites and Hepatorenal Syndrome", 1005, 1009, 81, 8),
 }

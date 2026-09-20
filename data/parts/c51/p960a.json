@@ -1,0 +1,150 @@
+{
+  "page": 960,
+  "sec": "Vasopressin receptors, actions and countercurrent mechanism",
+  "items": [
+    {
+      "fmt": "match",
+      "q": "Match the vasopressin receptor subtype to its intracellular secondary messenger pathway — 1) V1 and V3 receptors 2) V2 receptor … A) IP3 / DAG pathway B) cAMP pathway",
+      "opts": [
+        "1-A, 2-B",
+        "1-B, 2-A",
+        "1-A, 2-A",
+        "1-B, 2-B"
+      ],
+      "ans": 0,
+      "exp": "V1 and V3 signal via IP3/DAG; V2 signals via adenylyl cyclase-cAMP. (Book p960)"
+    },
+    {
+      "fmt": "match",
+      "q": "Match the V1 receptor site to its corresponding physiological action — 1) Blood vessels 2) Liver 3) Heart 4) Platelet … A) Vasoconstriction B) Glycogenolysis C) Hypertrophy D) Aggregation",
+      "opts": [
+        "1-A, 2-B, 3-C, 4-D",
+        "1-B, 2-A, 3-D, 4-C",
+        "1-C, 2-D, 3-A, 4-B",
+        "1-D, 2-C, 3-B, 4-A"
+      ],
+      "ans": 0,
+      "exp": "V1 mediates vasoconstriction in vessels, glycogenolysis in liver, hypertrophy in heart, and aggregation in platelets. (Book p960)"
+    },
+    {
+      "fmt": "recall",
+      "q": "Which vasopressin receptor located on anterior pituitary corticotrophs stimulates ACTH release?",
+      "opts": [
+        "V3 (also designated V1b)",
+        "V1a receptor",
+        "V2 receptor",
+        "V4 receptor"
+      ],
+      "ans": 0,
+      "exp": "V3 (V1b) receptors in the anterior pituitary stimulate ACTH release. (Book p960)"
+    },
+    {
+      "fmt": "scenario",
+      "q": "A 19-year-old male with mild von Willebrand disease is administered desmopressin (DDAVP) prior to dental extraction. Desmopressin acts on which endothelial receptor to stimulate vWF release?",
+      "opts": [
+        "V2 receptor",
+        "V1 receptor",
+        "V3 receptor",
+        "Endothelin ET-A receptor"
+      ],
+      "ans": 0,
+      "exp": "V2 receptors on vascular endothelium stimulate the release of von Willebrand factor (vWF). (Book p960)"
+    },
+    {
+      "fmt": "recall",
+      "q": "In the renal counter-current multiplier system, water reabsorption in the descending limb of Henle increases luminal tubular fluid osmolality by:",
+      "opts": [
+        "4 times",
+        "2 times",
+        "10 times",
+        "8 times"
+      ],
+      "ans": 0,
+      "exp": "Water reabsorption along the descending limb increases tubular fluid osmolality by 4 times (from 300 up to 1200 mOsm/kg). (Book p960)"
+    },
+    {
+      "fmt": "fillup",
+      "q": "In the renal tubular counter-current system, fluid reabsorption along the proximal convoluted tubule (PCT) is strictly ___-osmotic.",
+      "opts": [
+        "Iso",
+        "Hyper",
+        "Hypo",
+        "An"
+      ],
+      "ans": 0,
+      "exp": "PCT fluid reabsorption is iso-osmotic at approximately 300 mOsm/kg. (Book p960)"
+    },
+    {
+      "fmt": "truefalse",
+      "q": "Assess the thick ascending limb of the loop of Henle (THAL): I THAL actively reabsorbs solutes (Na+ and Cl-) while remaining impermeable to water. II THAL delivers hypertonic fluid with osmolality exceeding 800 mOsm/kg into the distal tubule.",
+      "opts": [
+        "Only I is true",
+        "Only II is true",
+        "Both I and II are true",
+        "Both I and II are false"
+      ],
+      "ans": 0,
+      "exp": "THAL reabsorbs solute without water, diluting the fluid to 100-200 mOsm/kg before it reaches the DCT. (Book p960)"
+    },
+    {
+      "fmt": "oddoneout",
+      "q": "Which component is NOT recognized as maintaining the medullary counter-current exchange mechanism?",
+      "opts": [
+        "Active potassium secretion by intercalated cells",
+        "Hypertonic medullary interstitium",
+        "Medullary interstitial osmolality maintained by urea",
+        "Urea concentration gradient maintained by vasa recta"
+      ],
+      "ans": 0,
+      "exp": "Counter-current exchange is maintained by medullary interstitium, urea gradient, and the vasa recta; ADH acts only when interstitial osmolality is maintained. (Book p960)"
+    },
+    {
+      "fmt": "match",
+      "q": "Match the nephron segment to its role in urine concentration — 1) Descending loop of Henle 2) Thick ascending loop of Henle (THAL) 3) Cortical collecting duct (under ADH) … A) Counter-current multiplier reabsorbing water and raising osmolality 4-fold B) Active solute (Na+/Cl-) reabsorption creating a diluting segment C) ADH-mediated water reabsorption producing concentrated urine (800–900 mOsm/kg)",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "Descending limb multiplies osmolality 4-fold; THAL reabsorbs solutes; collecting duct concentrates urine under ADH to 800-900 mOsm/kg. (Book p960)"
+    },
+    {
+      "fmt": "fillup",
+      "q": "Medullary interstitial hypertonicity is preserved by urea recycling, which is maintained by the hairpin capillary loops of the ___.",
+      "opts": [
+        "Vasa recta",
+        "Arcuate arteries",
+        "Interlobular veins",
+        "Afferent arterioles"
+      ],
+      "ans": 0,
+      "exp": "The vasa recta maintain the medullary urea gradient and interstitial osmolality. (Book p960)"
+    },
+    {
+      "fmt": "numeric",
+      "q": "Under maximal ADH stimulation, the collecting duct concentrates tubular urine to an osmolality of:",
+      "opts": [
+        "800 to 900 mOsm/kg",
+        "300 to 400 mOsm/kg",
+        "100 to 200 mOsm/kg",
+        "1500 to 1800 mOsm/kg"
+      ],
+      "ans": 0,
+      "exp": "ADH action in the collecting duct concentrates urine to 800-900 mOsm/kg. (Book p960)"
+    },
+    {
+      "fmt": "recall",
+      "q": "Under what condition does ADH effectively produce antidiuresis in the collecting ducts?",
+      "opts": [
+        "When the hypertonic medullary interstitial osmolality is maintained",
+        "When glomerular filtration rate is reduced by 50%",
+        "When aldosterone secretion is completely suppressed",
+        "When tubular sodium reabsorption in the PCT is inhibited"
+      ],
+      "ans": 0,
+      "exp": "ADH acts to concentrate urine only when the medullary interstitial osmolality is maintained. (Book p960)"
+    }
+  ]
+}

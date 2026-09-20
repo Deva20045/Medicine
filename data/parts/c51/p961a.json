@@ -1,0 +1,150 @@
+{
+  "page": 961,
+  "sec": "Collecting duct aquaporins, cellular mechanism and water homeostasis",
+  "items": [
+    {
+      "fmt": "recall",
+      "q": "On which membrane surface of the cortical collecting duct principal cell does ADH bind to the V2 receptor?",
+      "opts": [
+        "Basolateral membrane",
+        "Apical/luminal membrane",
+        "Tight junction complex",
+        "Nuclear membrane"
+      ],
+      "ans": 0,
+      "exp": "ADH binds to the V2 receptor located on the basolateral membrane of principal cells. (Book p961)"
+    },
+    {
+      "fmt": "match",
+      "q": "Match the signaling cascade step of ADH in the collecting duct to its mediator — 1) Receptor binding on basolateral membrane 2) Secondary messenger activation 3) Luminal water channel expression … A) V2 receptor B) Adenylyl cyclase - cAMP - Protein Kinase A pathway C) Exocytosis of stored aquaporin-2 into apical membrane",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "ADH binds basolateral V2, stimulates cAMP and Protein Kinase A, and promotes insertion of aquaporin-2 into the apical membrane. (Book p961)"
+    },
+    {
+      "fmt": "match",
+      "q": "Match the aquaporin subtype to its nephron localization and physiological regulation — 1) Aquaporin 1 2) Aquaporin 2 3) Aquaporin 3 and 4 … A) Proximal convoluted tubule (ADH-independent obligatory water reabsorption) B) Luminal membrane of cortical collecting duct (ADH-dependent facultative water reabsorption) C) Basolateral membrane of cortical collecting duct (constitutive water exit)",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "AQP1 mediates obligatory PCT water reabsorption; AQP2 mediates facultative ADH-dependent apical reabsorption; AQP3/4 mediate basolateral exit. (Book p961)"
+    },
+    {
+      "fmt": "fillup",
+      "q": "Water reabsorption mediated by aquaporin-1 in the proximal convoluted tubule is termed ___ water reabsorption.",
+      "opts": [
+        "Obligatory",
+        "Facultative",
+        "Translocational",
+        "Electrogenic"
+      ],
+      "ans": 0,
+      "exp": "AQP1 in the PCT mediates obligatory water reabsorption independent of ADH. (Book p961)"
+    },
+    {
+      "fmt": "fillup",
+      "q": "Water reabsorption governed by aquaporin-2 insertion into the luminal membrane of collecting ducts is termed ___ water reabsorption.",
+      "opts": [
+        "Facultative",
+        "Obligatory",
+        "Passive non-osmotic",
+        "Paracellular"
+      ],
+      "ans": 0,
+      "exp": "AQP2 in the CCD mediates facultative water reabsorption dependent on ADH. (Book p961)"
+    },
+    {
+      "fmt": "scenario",
+      "q": "A 24-year-old male with X-linked nephrogenic diabetes insipidus has an inactivating mutation in the AVPR2 gene. Despite high circulating ADH, he excretes 10 liters of dilute urine daily. What step in water reabsorption is defective?",
+      "opts": [
+        "Failure of cAMP-dependent exocytosis of aquaporin-2 into the apical luminal membrane",
+        "Loss of constitutive basolateral aquaporin-3 and aquaporin-4 water channels",
+        "Complete downregulation of proximal tubular aquaporin-1 channels",
+        "Direct inhibition of thick ascending limb solute reabsorption"
+      ],
+      "ans": 0,
+      "exp": "Without functional V2 receptors, cAMP is not generated, preventing the apical expression of aquaporin-2 and free water reabsorption. (Book p961)"
+    },
+    {
+      "fmt": "oddoneout",
+      "q": "Which is NOT one of the three physiological reasons why a healthy person does not normally develop hyponatremia?",
+      "opts": [
+        "Aldosterone stimulates rapid continuous water excretion in the distal tubule",
+        "PCT reabsorption is strictly iso-osmotic",
+        "Only solute is reabsorbed in the thick ascending limb of Henle (THAL)",
+        "Circulating ADH is negligible in the baseline resting state"
+      ],
+      "ans": 0,
+      "exp": "A healthy person resists hyponatremia because PCT reabsorption is iso-osmotic, THAL reabsorbs only solute, and resting ADH is negligible; aldosterone does not excrete water. (Book p961)"
+    },
+    {
+      "fmt": "recall",
+      "q": "Through which aquaporin channels does reabsorbed free water exit the principal cell across the basolateral membrane into the renal interstitium?",
+      "opts": [
+        "Aquaporin 3 and 4",
+        "Aquaporin 1 and 2",
+        "Aquaporin 5 and 6",
+        "Aquaporin 8 and 9"
+      ],
+      "ans": 0,
+      "exp": "Water exits across the basolateral membrane into the interstitium via aquaporin 3 and 4. (Book p961)"
+    },
+    {
+      "fmt": "numeric",
+      "q": "Following maximal ADH-driven free water reabsorption across luminal aquaporin-2 channels, urine osmolality reaches:",
+      "opts": [
+        "800 to 900 mOsm/kg",
+        "285 to 290 mOsm/kg",
+        "100 to 150 mOsm/kg",
+        "400 to 500 mOsm/kg"
+      ],
+      "ans": 0,
+      "exp": "Free water reabsorption concentrates urine up to 800-900 mOsm/kg. (Book p961)"
+    },
+    {
+      "fmt": "truefalse",
+      "q": "Assess aquaporin physiology: I Aquaporin-1 is ADH-independent and drives obligatory water reabsorption. II Aquaporin-2 expression on the apical membrane is strictly ADH-dependent.",
+      "opts": [
+        "Both I and II are true",
+        "Only I is true",
+        "Only II is true",
+        "Both I and II are false"
+      ],
+      "ans": 0,
+      "exp": "AQP1 is ADH-independent (obligatory); AQP2 is ADH-dependent (facultative). (Book p961)"
+    },
+    {
+      "fmt": "match",
+      "q": "Match the nephron water handling characteristic to its anatomical segment — 1) Iso-osmotic reabsorption of fluid 2) Pure solute reabsorption without water 3) ADH-regulated water permeability … A) Proximal convoluted tubule B) Thick ascending limb of Henle (THAL) C) Cortical collecting duct",
+      "opts": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B"
+      ],
+      "ans": 0,
+      "exp": "PCT is iso-osmotic; THAL reabsorbs only solute; collecting duct has ADH-regulated water permeability. (Book p961)"
+    },
+    {
+      "fmt": "recall",
+      "q": "What is the baseline activity of antidiuretic hormone in a healthy, well-hydrated resting individual?",
+      "opts": [
+        "Negligible",
+        "Maximally elevated",
+        "Pulsating every 10 minutes",
+        "Suppressed by 50% from noon peak"
+      ],
+      "ans": 0,
+      "exp": "In the resting baseline state, circulating ADH is negligible, preventing water retention and hyponatremia. (Book p961)"
+    }
+  ]
+}

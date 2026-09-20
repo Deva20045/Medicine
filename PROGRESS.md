@@ -66,17 +66,17 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 38 | Magnesium Metabolism | p892 | **LIVE**
 | 39 | Osteoporosis | p895 | **LIVE**
 | 40 | Basics of Thyroid Gland | p898 | **LIVE**
-| 41 | Thyroid Function Tests | p902 | SOON
-| 42 | Hypothyroidism | p905 | SOON
-| 43 | Thyrotoxicosis and Thyroiditis | p910 | SOON
-| 44 | Introduction to Diabetes Mellitus and Classification | p917 | SOON
-| 45 | Insulin Physiology and Acute Complications of Diabetes Mellitus | p927 | SOON
-| 46 | Management of Diabetes Mellitus - 2024 Guidelines | p933 | SOON
-| 47 | Basics of Pituitary Gland | p936 | SOON
-| 48 | Prolactin | p941 | SOON
-| 49 | Growth Hormone | p945 | SOON
-| 50 | Acquired Hypopituitarism | p952 | SOON
-| 51 | Antidiuretic Hormone | p958 | SOON
+| 41 | Thyroid Function Tests | p902 | **LIVE**
+| 42 | Hypothyroidism | p905 | **LIVE**
+| 43 | Thyrotoxicosis and Thyroiditis | p910 | **LIVE**
+| 44 | Introduction to Diabetes Mellitus and Classification | p917 | **LIVE**
+| 45 | Insulin Physiology and Acute Complications of Diabetes Mellitus | p927 | **LIVE**
+| 46 | Management of Diabetes Mellitus - 2024 Guidelines | p933 | **LIVE**
+| 47 | Basics of Pituitary Gland | p936 | **LIVE**
+| 48 | Prolactin | p941 | **LIVE**
+| 49 | Growth Hormone | p945 | **LIVE**
+| 50 | Acquired Hypopituitarism | p952 | **LIVE**
+| 51 | Antidiuretic Hormone | p958 | **LIVE**
 | 52 | Hyponatremia | p962 | SOON
 | 53 | Polyuria | p965 | SOON
 | 54 | Potassium Metabolism | p968 | SOON
