@@ -102,5 +102,6 @@ Nothing was silently "fixed"; each of these is a question of its own so the lear
 
 * Chapter data: `data/ch52.json` … `data/ch56.json`; part sources under `data/parts/c52…c56/`; unit maps under `data/units/`.
 * `check_integrity.py` now pins this batch with expected counts — 52: 47/3, 53: 53/3, 54: 106/8, 55: 77/6, 56: 55/4 — so any partial regeneration or duplicate append fails loudly.
-* Branch `arena/01a0bf95-medicine` is pushed. Merging it into `main` publishes the batch at https://deva20045.github.io/Medicine/ (Chapters 52–56 flip from "Soon" to live on the roadmap; the app needs no other change because QUESTIONS, UNITS and CHAPTERS are inlined in `pulse-medicine.html`).
+* Shipped through PR #18 from `arena/01a0bf95-medicine` into `main`, which publishes the batch at https://deva20045.github.io/Medicine/ (Chapters 52–56 flip from "Soon" to live; no other app change is needed because QUESTIONS, UNITS and CHAPTERS are inlined in `pulse-medicine.html`).
+* `main` had already received a lighter 81-question sample of the same five chapters (PR #17, 16–17 questions per chapter). This batch **supersedes it**: the merge keeps the full 338-question bank, the pinned expected counts, the rebuilt app and the refreshed report, and the parallel session's README rows were corrected to the real chapter sizes.
 * Bank after this batch: **4,188 questions · 346 units · 58 live chapters**, covering 290 book pages (p705–985 and p1001–1009). Remaining gap before the hepatology tail: Ch 57–59 (p986–1000).
