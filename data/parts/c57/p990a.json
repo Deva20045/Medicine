@@ -1,0 +1,138 @@
+{
+ "page": 990,
+ "sec": "Alkaline phosphatase & cholestasis \u00b7 sources, duct dilation and delta bilirubin",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "What is the normal reference range for serum Alkaline Phosphatase (ALP), and what level signifies cholestasis?",
+   "opts": [
+    "Normal: 40\u2013140 U/L; Cholestasis: >4 times normal (>560 U/L)",
+    "Normal: 10\u201350 U/L; Cholestasis: >2 times normal (>100 U/L)",
+    "Normal: 100\u2013300 U/L; Cholestasis: >10 times normal (>1000 U/L)",
+    "Normal: 20\u201380 U/L; Cholestasis: >3 times normal (>240 U/L)"
+   ],
+   "ans": 0,
+   "exp": "Normal ALP is 40\u2013140 U/L, and levels > 4 times normal (>560 U/L) indicate cholestasis. (Book p990)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Why is serum alkaline phosphatase paradoxically decreased in Wilson's disease?",
+   "opts": [
+    "Excess copper displaces zinc, an essential co-factor required for ALP structure and function",
+    "Direct transcriptional inhibition of the canalicular ALP gene by copper toxicity",
+    "Accelerated urinary clearance of ALP via proximal tubular Fanconi syndrome",
+    "Denaturation of circulating ALP by systemic hemolytic free radicals"
+   ],
+   "ans": 0,
+   "exp": "In Wilson's disease, serum ALP decreases because copper displaces zinc, an essential co-factor for alkaline phosphatase. (Book p990)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed as a physiological tissue source of Alkaline Phosphatase (ALP)?",
+   "opts": [
+    "Skeletal muscle",
+    "Canalicular membrane of hepatocytes",
+    "Bone osteoblasts",
+    "Placenta"
+   ],
+   "ans": 0,
+   "exp": "The sources of ALP listed are Liver (canalicular membrane), Bone, Intestine, Kidney, and Placenta; skeletal muscle is not a source. (Book p990)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each cholestatic enzyme marker with its tissue origin \u2014 1) GGT (gamma-glutamyl transferase) 2) 5'-nucleotidase \u2026 A) Originates from both liver and bone B) Originates exclusively from the liver",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "GGT is specific to the liver ('Source: Only liver'), whereas 5'-nucleotidase originates from both liver and bone. (Book p990)"
+  },
+  {
+   "fmt": "management",
+   "q": "An isolated elevation of serum alkaline phosphatase is identified on routine health screening. What is the most appropriate next investigation to confirm whether the ALP elevation is of hepatic origin?",
+   "opts": [
+    "Serum gamma-glutamyl transferase (GGT) and abdominal ultrasound (USG)",
+    "Bone scintigraphy with 99mTc-MDP",
+    "Serum ceruloplasmin and 24-hour urinary copper",
+    "Endoscopic retrograde cholangiopancreatography (ERCP)"
+   ],
+   "ans": 0,
+   "exp": "To confirm hepatic origin of raised ALP, serum GGT and abdominal ultrasound (USG) are performed. (Book p990)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 36-year-old woman presents with severe generalized pruritus and jaundice. Her direct bilirubin is >50% of total, ALP is 680 U/L (>4x normal), and GGT is markedly elevated. Abdominal ultrasonography reveals completely normal intra- and extra-hepatic bile ducts without dilation. What is the diagnosis?",
+   "opts": [
+    "Intrahepatic cholestasis",
+    "Choledocholithiasis causing extrahepatic obstruction",
+    "Carcinoma of the head of pancreas",
+    "Crigler-Najjar syndrome type II"
+   ],
+   "ans": 0,
+   "exp": "Conjugated hyperbilirubinemia with ALP > 4x normal, raised GGT, and normal duct caliber on USG defines intrahepatic cholestasis. (Book p990)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In intrahepatic cholestasis, the prominent clinical symptom of pruritus is primarily caused by the systemic accumulation of ______.",
+   "opts": [
+    "bile acids",
+    "unconjugated bilirubin",
+    "stercobilinogen",
+    "pyridoxal phosphate"
+   ],
+   "ans": 0,
+   "exp": "Pruritus in intrahepatic cholestasis is due to bile acid accumulation in tissues. (Book p990)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT listed under intrahepatic cholestasis causes on this page?",
+   "opts": [
+    "Choledochal cyst dilation",
+    "Primary biliary cholangitis",
+    "Primary sclerosing cholangitis",
+    "Sarcoidosis and sepsis"
+   ],
+   "ans": 0,
+   "exp": "Causes of intrahepatic cholestasis listed are Drugs, Cholangitis (Primary Biliary, Primary Sclerosing), Sarcoid, and Sepsis; duct dilation indicates extrahepatic cholestasis. (Book p990)"
+  },
+  {
+   "fmt": "management",
+   "q": "In a patient presenting with conjugated hyperbilirubinemia, ALP > 4x normal, and elevated GGT, abdominal ultrasound reveals prominent biliary duct dilation. What is the next management step?",
+   "opts": [
+    "Referral to surgeon for surgical or endoscopic relief of obstruction",
+    "Initiation of oral ursodeoxycholic acid and outpatient follow-up",
+    "Prescription of topical emollients and antihistamines for pruritus",
+    "Initiation of penicillamine chelation therapy"
+   ],
+   "ans": 0,
+   "exp": "Biliary duct dilation on USG indicates extrahepatic cholestasis (obstruction), for which the management flowchart specifies: 'Refer to surgeon'. (Book p990)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What is the elimination half-life (T1/2) of free conjugated bilirubin compared to the delta bilirubin (conjugated bilirubin covalently bound to albumin) complex?",
+   "opts": [
+    "Free conjugated bilirubin: 4 hours; Delta bilirubin complex: 14\u201321 days",
+    "Free conjugated bilirubin: 24 hours; Delta bilirubin complex: 48 hours",
+    "Free conjugated bilirubin: 10 days; Delta bilirubin complex: 30 days",
+    "Free conjugated bilirubin: 1 hour; Delta bilirubin complex: 7 days"
+   ],
+   "ans": 0,
+   "exp": "Free conjugated bilirubin has a half-life of 4 hours, whereas delta bilirubin (bound covalently to albumin) has a half-life of 14\u201321 days. (Book p990)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two statements on delta bilirubin: I Delta bilirubin forms when conjugated bilirubin binds irreversibly and covalently to albumin. II Delta bilirubin is rapidly cleared by the kidneys within 4 hours.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Statement I is true because conjugated bilirubin binds irreversibly and covalently to albumin. Statement II is false because delta bilirubin has a prolonged half-life of 14\u201321 days matching albumin. (Book p990)"
+  }
+ ]
+}

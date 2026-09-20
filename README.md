@@ -61,10 +61,14 @@ rest show a **Soon** badge.
 | Ch 54 · Potassium Metabolism (p968–975) — 8 units, 106 questions | ✅ live |
 | Ch 55 · Management of Hypertension - 2023 Guidelines (p976–981) — 6 units, 77 questions | ✅ live |
 | Ch 56 · Basics of Development and Anatomy of Liver (p982–985) — 4 units, 55 questions | ✅ live |
-| Ch 57–59 (General Hepatology) | 🚧 in progress |
-| Ch 60 · Portal Hypertension (p1001–1004) — 8 units, 86 questions | ✅ live on this branch |
-| Ch 61 · Ascites and Hepatorenal Syndrome (p1005–1009) — 8 units, 81 questions | ✅ live on this branch |
-| Ch 62–74 (Hepatology, Viral Hepatitis, Infectious Diseases) | 🚧 in progress |
+| Ch 57 · Basics of Physiology of Liver (p986–992) — 7 units, 78 questions | ✅ live |
+| Ch 58 · Acute Hepatitis and Acute Liver Failure (p993–996) — 4 units, 47 questions | ✅ live |
+| Ch 59 · Chronic Hepatitis - Cirrhosis (p997–1000) — 4 units, 38 questions | ✅ live |
+| Ch 60 · Portal Hypertension (p1001–1004) — 8 units, 86 questions | ✅ live |
+| Ch 61 · Ascites and Hepatorenal Syndrome (p1005–1009) — 8 units, 81 questions | ✅ live |
+| Ch 62 · Hepatic Encephalopathy (p1010–1012) — 3 units, 32 questions | ✅ live |
+| Ch 63 · Metabolic Diseases of Liver (p1013–1019) — 7 units, 75 questions | ✅ live |
+| Ch 64–74 (Biliary Cirrhosis, Viral Hepatitis, Infectious Diseases) | 🚧 in progress |
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 74-chapter
 roadmap, data schema, per-chapter pipeline, and NEXT step.
@@ -87,6 +91,7 @@ roadmap, data schema, per-chapter pipeline, and NEXT step.
 | `REPORT_CH41-46.md` | Build report for Ch 41–46 (Thyroid Function Tests → DM Management — 2024 Guidelines; coverage, quality metrics, source caveats, verification) |
 | `REPORT_CH60-61.md` | Build report for Ch 60–61 (Portal Hypertension, Ascites and HRS) |
 | `REPORT_CH52-56.md` | Build report for Ch 52–56 (Hyponatremia → Liver Development and Anatomy) |
+| `REPORT_CH57-59_62-63.md` | Build report for Ch 57–59 & 62–63 (Hepatology Physiology, ALF, Cirrhosis, HE, Wilson's & Hemochromatosis) |
 
 ## Run the checks (after any content change)
 ```bash

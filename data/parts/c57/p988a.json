@@ -1,0 +1,150 @@
+{
+ "page": 988,
+ "sec": "Hyperbilirubinemia & transaminases \u00b7 classification, kinetics and ALT vs AST",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "Which cutoff percentages define indirect versus direct forms of elevated bilirubin?",
+   "opts": [
+    "Indirect: >= 85% unconjugated; Direct: >= 50% conjugated",
+    "Indirect: >= 50% unconjugated; Direct: >= 85% conjugated",
+    "Indirect: >= 70% unconjugated; Direct: >= 30% conjugated",
+    "Indirect: >= 95% unconjugated; Direct: >= 10% conjugated"
+   ],
+   "ans": 0,
+   "exp": "Indirect hyperbilirubinemia is defined as indirect bilirubin >= 85% of total bilirubin, whereas direct hyperbilirubinemia is direct bilirubin >= 50% of total bilirubin. (Book p988)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What proportion of the pigment pool is direct in mixed hyperbilirubinemia (hepatic jaundice)?",
+   "opts": [
+    "15% to 50% of total bilirubin",
+    "5% to 10% of total bilirubin",
+    "60% to 80% of total bilirubin",
+    "85% to 100% of total bilirubin"
+   ],
+   "ans": 0,
+   "exp": "Mixed hyperbilirubinemia / hepatic jaundice is defined by direct bilirubin comprising 15\u201350% of total bilirubin. (Book p988)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each inherited unconjugated hyperbilirubinemia with its residual UDP-glucuronosyltransferase activity \u2014 1) Gilbert syndrome 2) Crigler-Najjar syndrome type II \u2026 A) <10% enzyme activity B) Approximately 30% enzyme activity",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "Gilbert syndrome features partial deficiency with ~30% enzyme activity, whereas Crigler-Najjar syndrome type II features severe deficiency with <10% activity. (Book p988)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the most common overall cause of unconjugated (indirect) hyperbilirubinemia?",
+   "opts": [
+    "Extravascular hemolysis",
+    "Gilbert syndrome",
+    "Rifampicin toxicity",
+    "Crigler-Najjar syndrome type I"
+   ],
+   "ans": 0,
+   "exp": "The page annotates extravascular hemolysis with '(m/c)' under the indirect hyperbilirubinemia branch. (Book p988)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following drugs is NOT listed as a cause of unconjugated hyperbilirubinemia on this page?",
+   "opts": [
+    "Chlorpromazine",
+    "Rifampicin",
+    "Probenecid",
+    "Steroids taken in excess to decrease bilirubin"
+   ],
+   "ans": 0,
+   "exp": "Rifampicin and probenecid cause indirect hyperbilirubinemia, and excess steroids are noted in the margin; chlorpromazine causes cholestatic hepatitis (discussed on p991). (Book p988)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What are the normal serum Alanine Aminotransferase (ALT) levels for males and females, and what is the overall average upper limit?",
+   "opts": [
+    "Male < 23 U/L, Female < 19 U/L, Average < 30 U/L",
+    "Male < 45 U/L, Female < 35 U/L, Average < 50 U/L",
+    "Male < 15 U/L, Female < 10 U/L, Average < 20 U/L",
+    "Male < 60 U/L, Female < 40 U/L, Average < 55 U/L"
+   ],
+   "ans": 0,
+   "exp": "Normal ALT values are: male < 23 U/L, female < 19 U/L, with an average upper limit < 30 U/L. (Book p988)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In healthy individuals, the serum concentration of ALT is higher than AST (ALT > AST) because AST is cleared rapidly from circulation by the ______.",
+   "opts": [
+    "reticuloendothelial system",
+    "renal proximal tubule",
+    "pulmonary capillary bed",
+    "splenic red pulp sinusoids only"
+   ],
+   "ans": 0,
+   "exp": "Normally ALT > AST because AST is cleared rapidly from the circulation by the reticuloendothelial system. (Book p988)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each transaminase with its intracellular location and tissue specificity \u2014 1) ALT (SGPT) 2) AST (SGOT) \u2026 A) Cytoplasmic and mitochondrial location; present in liver, cardiac muscle, and skeletal muscle B) Purely cytoplasmic location; liver-specific",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "ALT is purely cytoplasmic and liver-specific; AST is both cytoplasmic and mitochondrial and found in liver, heart, and skeletal muscle. (Book p988)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which co-factor is required by both Alanine Aminotransferase (ALT) and Aspartate Aminotransferase (AST)?",
+   "opts": [
+    "Pyridoxal phosphate (PLP)",
+    "Thiamine pyrophosphate (TPP)",
+    "Tetrahydrofolate (THF)",
+    "Flavin adenine dinucleotide (FAD)"
+   ],
+   "ans": 0,
+   "exp": "Both transaminases require Pyridoxal phosphate (PLP / Vitamin B6) as an essential co-factor. (Book p988)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 26-year-old man presents with malaise, fever, and anorexia for 3 days. Today he notices yellowing of his eyes and dark urine. Laboratory testing demonstrates marked transaminitis with ALT significantly higher than AST. What is the diagnosis?",
+   "opts": [
+    "Acute viral hepatitis in the icteric phase following prodrome",
+    "Chronic alcoholic liver disease with active consumption",
+    "Rhabdomyolysis induced by strenuous exercise",
+    "Decompensated cirrhosis with hepatic encephalopathy"
+   ],
+   "ans": 0,
+   "exp": "Acute hepatitis presents with a 2\u20133 day prodrome followed by mixed jaundice and transaminitis where ALT > AST. (Book p988)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two statements on transaminases: I AST is a specific marker for hepatocellular injury and is not elevated in muscle disease. II ALT is purely cytoplasmic, whereas AST has both cytoplasmic and mitochondrial fractions.",
+   "opts": [
+    "I false; II true",
+    "I true; II false",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Statement I is false because AST is also elevated in rhabdomyolysis and myocardial ischemia. Statement II is true because ALT is cytoplasmic while AST is cytoplasmic and mitochondrial. (Book p988)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In acute hepatitis, hepatocellular inflammation typically produces a prodromal phase of 2\u20133 days, after which the patient develops transaminitis accompanied by ______ jaundice.",
+   "opts": [
+    "mixed",
+    "pure unconjugated",
+    "pure direct",
+    "pre-hepatic"
+   ],
+   "ans": 0,
+   "exp": "The flowchart notes that after a prodromal phase of 2\u20133 days, acute hepatitis leads to mixed jaundice plus transaminitis. (Book p988)"
+  }
+ ]
+}

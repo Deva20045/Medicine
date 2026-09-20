@@ -1,0 +1,126 @@
+{
+ "page": 1012,
+ "sec": "Medical management \u00b7 lactulose MOA, rifaximin and liver transplant",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Which pharmacological intervention is designated as the 'most important' treatment for hepatic encephalopathy?",
+   "opts": [
+    "Lactulose bowel wash (4 times a day)",
+    "High-dose intravenous branched-chain amino acids",
+    "Oral acarbose therapy",
+    "Continuous sodium benzoate infusion"
+   ],
+   "ans": 0,
+   "exp": "Under treatment, Lactulose Bowel wash is explicitly annotated as 'most important' with a frequency of '4 times a day'. (Book p1012)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What are the recommended dosing options for Rifaximin in the management of hepatic encephalopathy?",
+   "opts": [
+    "400 mg TDS or 550 mg BD",
+    "200 mg once daily or 400 mg BD",
+    "800 mg TDS or 1200 mg BD",
+    "100 mg TDS or 250 mg BD"
+   ],
+   "ans": 0,
+   "exp": "The treatment tree specifies Rifaximin dosing as '400mg TDS / 550 mg BD'. (Book p1012)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each pharmacological agent used in hepatic encephalopathy with its therapeutic description \u2014 1) LOLA 2) Sodium benzoate \u2026 A) Promotes non-urea nitrogen clearance by shifting NH3 to ammonium (NH4+) excretion B) L-ornithine L-aspartate, providing substrate for residual urea cycle and glutamine synthesis",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "LOLA (L-ornithine L-aspartate) works alongside branched-chain AAs, while sodium benzoate shifts nitrogen waste via 'NH3 -> NH4+'. (Book p1012)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which oral hypoglycemic agent is included among the medical therapies for hepatic encephalopathy on this page?",
+   "opts": [
+    "Acarbose",
+    "Metformin",
+    "Glimepiride",
+    "Dapagliflozin"
+   ],
+   "ans": 0,
+   "exp": "Under the treatment header, the third branch lists 'Acarbose'. (Book p1012)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In the colon, bacterial fermentation of unabsorbed lactulose produces hydrogen gas and ______.",
+   "opts": [
+    "volatile fatty acids (VFA)",
+    "aromatic amino acids",
+    "bile salts",
+    "mercaptans"
+   ],
+   "ans": 0,
+   "exp": "The diagram states: 'Lactulose fermented by colonic bacteria to H2 and VFA'. (Book p1012)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT part of the mechanism of action (MOA) of lactulose detailed on this page?",
+   "opts": [
+    "Stimulation of canalicular MRP-2 to accelerate bile salt excretion",
+    "Reduction in luminal pH driving conversion of NH3 + H+ -> NH4+ (ammonium trapping)",
+    "Formation of volatile fatty acids as preferred substrate for bacteria, reducing ammonia synthesis",
+    "Laxative effect promoting rapid excretion of ammonia in stool"
+   ],
+   "ans": 0,
+   "exp": "The three MOA points are \u2193 pH (NH3 + H+ -> NH4+), volatile fatty acid formation, and laxative effect; MRP-2 canalicular stimulation is not involved. (Book p1012)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Why does bacterial consumption of volatile fatty acids (VFA) help reduce ammonia levels in hepatic encephalopathy?",
+   "opts": [
+    "Bacteria utilize VFA as a preferred energy substrate, suppressing their breakdown of amino acids into ammonia",
+    "VFA directly binds and neutralizes systemic GABA receptors",
+    "VFA accelerates renal glomerular filtration of urea",
+    "VFA stimulates hepatic sinusoidal nitric oxide production"
+   ],
+   "ans": 0,
+   "exp": "The flowchart explains: 'Bacteria use VFA as preferred substrate, thus reducing production of ammonia'. (Book p1012)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two statements on lactulose: I Lactulose is completely absorbed in the duodenum and jejunum before reaching the colon. II Ionized ammonium (NH4+) formed by luminal acidification cannot easily diffuse back across the colonic mucosa.",
+   "opts": [
+    "I false; II true",
+    "I true; II false",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Statement I is false because lactulose is 'not absorbed in small intestine'. Statement II is true because ionic NH4+ is trapped in the lumen and excreted. (Book p1012)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is designated as the 'Last treatment option' for patients with refractory hepatic encephalopathy?",
+   "opts": [
+    "Liver Transplant",
+    "TIPSS placement",
+    "Surgical splenectomy",
+    "Long-term total parenteral nutrition"
+   ],
+   "ans": 0,
+   "exp": "The bottom note concludes: 'Liver Transplant : Last treatment option.' (Book p1012)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 58-year-old cirrhotic patient with recurrent Grade-II hepatic encephalopathy is managed with lactulose enemas. To further suppress ammoniagenic gut flora without inducing systemic antibiotic toxicity, non-absorbable antibiotic therapy is added. What is the standard drug and oral dosing regimen?",
+   "opts": [
+    "Rifaximin 550 mg BD or 400 mg TDS",
+    "Metronidazole 400 mg TDS continuously for 1 year",
+    "Neomycin 2 g daily with weekly audiometry",
+    "Vancomycin 500 mg QID orally"
+   ],
+   "ans": 0,
+   "exp": "The recommended non-absorbable antibiotic is Rifaximin dosed at 550 mg BD or 400 mg TDS. (Book p1012)"
+  }
+ ]
+}

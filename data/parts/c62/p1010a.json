@@ -1,0 +1,138 @@
+{
+ "page": 1010,
+ "sec": "Hepatic encephalopathy types, neurotoxins and astrocyte pathophysiology",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "What is the alternative medical eponym for hepatic encephalopathy?",
+   "opts": [
+    "Porto-systemic encephalopathy",
+    "Hepatolenticular degeneration",
+    "Wernicke-Korsakoff encephalopathy",
+    "Progressive multifocal leukoencephalopathy"
+   ],
+   "ans": 0,
+   "exp": "The header explicitly notes: 'AKA Porto systemic encephalopathy.' (Book p1010)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each type of hepatic encephalopathy with its underlying etiology \u2014 1) Type A 2) Type B 3) Type C \u2026 A) Cirrhosis with portal hypertension (most common overall) B) Fulminant hepatic failure producing HE, where cerebral edema is the most common cause of death C) Transjugular intrahepatic portosystemic shunt (TIPSS) associated HE",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Classification: Type A = Fulminant failure (cerebral edema m/c cause of death); Type B = TIPSS-associated; Type C = Cirrhosis with Portal HTN (m/c). (Book p1010)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the most common cause of death in patients with Type A hepatic encephalopathy?",
+   "opts": [
+    "Cerebral edema",
+    "Massive variceal hemorrhage",
+    "Refractory metabolic acidosis",
+    "Secondary bacterial peritonitis"
+   ],
+   "ans": 0,
+   "exp": "Under Type A, the book notes: '\u2191 Cerebral edema : m/c cause of death'. (Book p1010)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following neurotoxins is NOT listed under the etiology of hepatic encephalopathy on this page?",
+   "opts": [
+    "Beta-amyloid protein",
+    "Ammonia (NH3)",
+    "Mercaptans and phenols",
+    "Manganese (Mn) and octopamine"
+   ],
+   "ans": 0,
+   "exp": "Neurotoxins listed are NH3 (m/c), mercaptan, phenol, aromatic AA, Mn, GABA, octopamine, and free fatty acids; beta-amyloid is not listed. (Book p1010)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In the colon, high dietary protein intake is converted into glutamine, which is subsequently converted into ammonia by the bacterial enzyme ______.",
+   "opts": [
+    "glutaminase",
+    "glutamine synthetase",
+    "urease",
+    "ornithine transcarbamylase"
+   ],
+   "ans": 0,
+   "exp": "The flowchart notes that colonic bacteria metabolize glutamine via 'Glutaminase' to produce NH3. (Book p1010)"
+  },
+  {
+   "fmt": "recall",
+   "q": "By which biophysical mechanism does gaseous ammonia (NH3) cross the blood-brain barrier to enter the brain?",
+   "opts": [
+    "Non-ionic diffusion",
+    "Primary active ATP-dependent transport",
+    "Carrier-mediated facilitated diffusion via GLUT-1",
+    "Receptor-mediated endocytosis"
+   ],
+   "ans": 0,
+   "exp": "The pathophysiology diagram states: 'NH3 \u2191\u2191 Absorbed by : Non-ionic diffusion damages'. (Book p1010)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What characteristic histopathological astrocyte alteration is observed in hepatic encephalopathy?",
+   "opts": [
+    "Alzheimer type-2 astrocytes",
+    "Alzheimer type-1 cells",
+    "Rosenthal fibers",
+    "Cowdry A inclusion bodies"
+   ],
+   "ans": 0,
+   "exp": "Astrocytes in HE characteristically transform into 'Alzheimer's type-2 astrocyte'. (Book p1010)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Inside astrocytes, ammonia and glutamate are combined by the enzyme ______ to form toxic glutamine, leading to osmotic astrocyte swelling.",
+   "opts": [
+    "glutamine synthetase",
+    "glutaminase",
+    "HOX-1",
+    "alanine aminotransferase"
+   ],
+   "ans": 0,
+   "exp": "The reaction reads: 'NH3 + Glutamate -(Glutamine Synthetase)-> Glutamine (Toxic)'. (Book p1010)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two statements on central neurochemistry in HE: I Glutamate concentration is decreased in systemic blood but increased in cerebrospinal fluid (CSF). II Alzheimer type-1 cells are the classic pathological finding in hepatic encephalopathy.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Statement I is true ('Glutamate: \u2193 in blood, \u2191 in CSF'). Statement II is false because HE features Alzheimer type-2 astrocytes; Alzheimer type-1 cells occur in PMLE. (Book p1010)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 50-year-old man with decompensated cirrhosis and ascites develops severe confusion. Serum ammonia is markedly elevated. In the cerebral cortex, excessive glutamine accumulation within astrocytes leads to osmotic swelling and triggers secondary neuronal injury via which receptor?",
+   "opts": [
+    "NMDA receptors",
+    "Mu-opioid receptors",
+    "Nicotinic acetylcholine receptors",
+    "Beta-2 adrenergic receptors"
+   ],
+   "ans": 0,
+   "exp": "Ammonia and glutamine toxicity leads to 'NMDA -> Secondary Neuronal damage'. (Book p1010)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In which neurological disorder are Alzheimer's type-1 cells characteristically observed according to the margin note?",
+   "opts": [
+    "PMLE (Progressive multifocal leukoencephalopathy)",
+    "Alzheimer's dementia",
+    "Amyotrophic lateral sclerosis",
+    "Wilson's hepatolenticular degeneration"
+   ],
+   "ans": 0,
+   "exp": "The note states: 'Alzheimer's type-1 cell : PMLE (Aggressive multifocal Leukoencephalopathy)'. (Book p1010)"
+  }
+ ]
+}

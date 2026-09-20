@@ -1,0 +1,90 @@
+{
+ "page": 992,
+ "sec": "Coagulation interpretations & imaging elastography",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "In the acute liver disease setting, what prothrombin ratio threshold denotes fulminant failure and adverse prognosis?",
+   "opts": [
+    "Acute INR >= 1.5",
+    "Acute INR >= 1.2",
+    "Acute INR >= 2.5",
+    "Acute INR >= 4.0"
+   ],
+   "ans": 0,
+   "exp": "Under interpretations, the text states: 'Acute INR >= 1.5: Fulminant hepatic failure (FHF): Poor prognosis.' (Book p992)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the clinical significance of an elevated INR in the chronic liver disease setting as annotated on this page?",
+   "opts": [
+    "Not significant in acute prognostic triage",
+    "Immediate indication for urgent liver transplantation",
+    "Pathognomonic for microangiopathic hemolytic anemia",
+    "Diagnostic confirmation of underlying hepatocellular carcinoma"
+   ],
+   "ans": 0,
+   "exp": "The line explicitly reads: 'Chronic setting : Not significant' regarding acute emergency triage. (Book p992)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: FibroScan utilizes transient elastography as a non-invasive tool to differentiate ______ from cirrhosis.",
+   "opts": [
+    "NASH",
+    "focal nodular hyperplasia",
+    "hepatic hemangioma",
+    "biliary atresia"
+   ],
+   "ans": 0,
+   "exp": "FibroScan is described as a 'Non-invasive method differentiating NASH & cirrhosis.' (Book p992)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What liver stiffness measurement on FibroScan (transient elastography) indicates established cirrhosis?",
+   "opts": [
+    "> 7.5 kPa",
+    "> 2.5 kPa",
+    "> 12.5 kPa",
+    "> 20.0 kPa"
+   ],
+   "ans": 0,
+   "exp": "FibroScan measures stiffness where '> 7.5 kPa indicates cirrhosis.' (Book p992)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which modality is designated as the 'Best diagnostic tool' for liver elastography, though expensive?",
+   "opts": [
+    "MR Elastography",
+    "FibroScan (Transient Elastography)",
+    "Contrast-enhanced CT abdomen",
+    "Abdominal duplex Doppler ultrasound"
+   ],
+   "ans": 0,
+   "exp": "MR Elastography is designated as the 'Best diagnostic tool', though expensive and typically done after confirming with FibroScan. (Book p992)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two statements on elastography: I FibroScan is a non-invasive tool that measures liver stiffness to differentiate NASH from cirrhosis. II MR Elastography is cheap and performed routinely prior to basic ultrasound.",
+   "opts": [
+    "I true; II false",
+    "I false; II true",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Statement I is true. Statement II is false because MR elastography is expensive and done after confirming with FibroScan. (Book p992)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 45-year-old woman with metabolic dysfunction-associated steatotic liver disease undergoes transient elastography. The monitor displays a stiffness reading of 6.3 kPa (as shown in the device illustration). What is the clinical interpretation?",
+   "opts": [
+    "The stiffness is <= 7.5 kPa, ruling out cirrhosis",
+    "The stiffness exceeds 7.5 kPa, confirming established cirrhosis",
+    "The value indicates acute fulminant hepatic necrosis",
+    "The test is non-diagnostic and must be repeated by percutaneous biopsy"
+   ],
+   "ans": 0,
+   "exp": "Because cirrhosis is indicated by stiffness > 7.5 kPa, a reading of 6.3 kPa rules out established cirrhosis. (Book p992)"
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "page": 1013,
+ "sec": "Wilson's genetics, Menkes, copper transport and acute presentation",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "What is the pattern of inheritance and genetic locus responsible for Wilson's disease?",
+   "opts": [
+    "Autosomal recessive, caused by mutation in the ATP7B gene on chromosome 13q",
+    "Autosomal dominant, caused by mutation in the HFE gene on chromosome 6p",
+    "X-linked recessive, caused by mutation in the ATP7A gene on the X chromosome",
+    "Autosomal recessive, caused by mutation in the ABCC2 gene on chromosome 10q"
+   ],
+   "ans": 0,
+   "exp": "Wilson's disease is an autosomal recessive disorder caused by dysfunction of ATP7B (Wilson ATPase) located on chromosome 13q. (Book p1013)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each inherited disorder of copper transport with its gene and clinical presentation \u2014 1) Wilson's disease 2) Menkes kinky hair disease \u2026 A) ATP7A on X chromosome, causing severe copper deficiency, seizures, hypotonia, and brittle hair at 3 months B) ATP7B on chromosome 13q, causing copper overload presenting between 3 to 20 years",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "Wilson's is ATP7B on chr 13q presenting between 3\u201320 years; Menkes is ATP7A on the X chromosome causing copper deficiency with brittle hair and seizures at 3 months. (Book p1013)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What are the physiological quantities for daily ingestion of copper and its mucosal entry in the upper small bowel?",
+   "opts": [
+    "Daily intake: 2\u20135 mg; Daily absorbed: approximately 1 mg",
+    "Daily intake: 10\u201315 mg; Daily absorbed: approximately 5 mg",
+    "Daily intake: 0.2\u20130.5 mg; Daily absorbed: approximately 0.1 mg",
+    "Daily intake: 20\u201330 mg; Daily absorbed: approximately 10 mg"
+   ],
+   "ans": 0,
+   "exp": "Daily copper intake is 2\u20135 mg, of which approximately 1 mg is absorbed mainly in the duodenum via DMT1. (Book p1013)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following foods is NOT listed as a copper-rich substance on this page?",
+   "opts": [
+    "Citrus fruits",
+    "Chocolates",
+    "Nuts",
+    "Mushrooms"
+   ],
+   "ans": 0,
+   "exp": "The three copper-rich substances listed are Chocolates, Nuts, and Mushrooms; citrus fruits are not listed. (Book p1013)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Inside the duodenal mucosal cell, absorbed copper is sequestered by the intracellular protein ______.",
+   "opts": [
+    "metallothionein",
+    "ferroportin",
+    "ligandin Y",
+    "apoceruloplasmin"
+   ],
+   "ans": 0,
+   "exp": "The enterocyte diagram labels: 'metallothionase [metallothionein] : Sequestors Cu inside cell'. (Book p1013)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Why is Wilson's disease clinically impossible to diagnose in an infant under 3 years of age?",
+   "opts": [
+    "Intracellular metallothionein requires a minimum of 3 years to become saturated and depleted of binding capacity",
+    "ATP7B expression does not activate until puberty",
+    "Maternal ceruloplasmin persists in neonatal circulation for up to 36 months",
+    "Intestinal DMT1 does not absorb dietary copper during early childhood"
+   ],
+   "ans": 0,
+   "exp": "Metallothionein takes a minimum of 3 years to deplete its capacity, setting the minimum age of Wilson's presentation at 3\u201320 years. (Book p1013)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the fundamental molecular defect underlying ceruloplasmin abnormality in Wilson's disease?",
+   "opts": [
+    "Failure to incorporate copper into apoceruloplasmin, leading to accelerated ceruloplasmin degradation",
+    "Total absence of apoceruloplasmin peptide synthesis by ribosomes",
+    "Autoantibody destruction of circulating holoceruloplasmin",
+    "Excessive renal tubular excretion of intact ceruloplasmin"
+   ],
+   "ans": 0,
+   "exp": "The defect is: 'Cu2+ not being incorporated in ceruloplasmin (fundamental defect) -> \u2193 Ceruloplasmin degradation'. (Book p1013)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What baseline physiological concentration is expected for circulating ceruloplasmin, and below what level is it diagnostic of hepatic copper retention?",
+   "opts": [
+    "Normal: 20\u201335 mg/dL; Wilson's: < 10 mg/dL",
+    "Normal: 50\u201380 mg/dL; Wilson's: < 30 mg/dL",
+    "Normal: 5\u201315 mg/dL; Wilson's: < 1 mg/dL",
+    "Normal: 100\u2013150 mg/dL; Wilson's: < 50 mg/dL"
+   ],
+   "ans": 0,
+   "exp": "Normal serum ceruloplasmin is 20\u201335 mg/dL, whereas in Wilson's disease it is characteristically < 10 mg/dL. (Book p1013)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two statements on copper handling: I Excess systemic copper in healthy humans is cleared primarily via renal tubular filtration and enterohepatic recycling. II Apoceruloplasmin is a positive acute phase reactant and can appear falsely normal or elevated during systemic inflammation.",
+   "opts": [
+    "I false; II true",
+    "I true; II false",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Statement I is false because biliary excretion is the sole physiological route ('Nil renal/enterohepatic circulation'). Statement II is true because apoceruloplasmin is a positive acute phase reactant. (Book p1013)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 16-year-old boy presents with acute jaundice, marked fatigue, and pallor. Laboratory testing reveals low hemoglobin with negative direct Coombs test, low cholinesterase, mildly elevated AST and ALT, and a paradoxically low serum alkaline phosphatase (ALP). What metabolic liver disease must be urgently suspected?",
+   "opts": [
+    "Wilson's disease presenting as acute fulminant hepatitis",
+    "Acute Hepatitis A infection with severe cholestasis",
+    "Hereditary hemochromatosis with iron overload",
+    "Alpha-1 antitrypsin deficiency with panacinar emphysema"
+   ],
+   "ans": 0,
+   "exp": "Acute hepatitis in a patient <20 years with low Hb, low cholinesterase, mild transaminitis, and low ALP strongly indicates acute Wilson's disease. (Book p1013)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following findings is NOT part of the classic constellation that raises suspicion for acute Wilson's disease in an adolescent?",
+   "opts": [
+    "Massively elevated alkaline phosphatase (>1500 U/L)",
+    "Age < 20 years with unexplained fatty liver",
+    "Coombs-negative hemolytic anemia",
+    "Low serum cholinesterase with mild transaminitis"
+   ],
+   "ans": 0,
+   "exp": "Wilson's acute presentation features LOW alkaline phosphatase (due to zinc displacement by copper), not elevated ALP. (Book p1013)"
+  }
+ ]
+}

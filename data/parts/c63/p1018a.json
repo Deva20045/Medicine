@@ -1,0 +1,138 @@
+{
+ "page": 1018,
+ "sec": "Iron transport pathophysiology, screening and liver MRI",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "Fill up: In the duodenum, mucosal iron absorption occurs across the apical enterocyte membrane via the transporter ______.",
+   "opts": [
+    "DMT-1",
+    "ferroportin",
+    "MRP-2",
+    "OATP1B3"
+   ],
+   "ans": 0,
+   "exp": "Fe2+ enters the duodenal cell across the apical membrane via DMT-1. (Book p1018)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which transporter on the basolateral membrane of duodenal enterocytes exports iron into the systemic circulation?",
+   "opts": [
+    "Ferroportin",
+    "DMT-1",
+    "Transferrin receptor-1",
+    "Ceruloplasmin"
+   ],
+   "ans": 0,
+   "exp": "Iron is exported across the basolateral membrane by Ferroportin (Fe2+ -> Fe3+). (Book p1018)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the physiological role of hepatic hepcidin in iron homeostasis?",
+   "opts": [
+    "It binds to and inhibits basolateral ferroportin, downregulating systemic iron absorption",
+    "It promotes apical DMT-1 synthesis in the duodenum",
+    "It directly converts ferrous iron (Fe2+) to ferric iron (Fe3+)",
+    "It stimulates transferrin excretion into bile"
+   ],
+   "ans": 0,
+   "exp": "Hepcidin (produced by the liver) inhibits ferroportin (-), reducing iron absorption. (Book p1018)"
+  },
+  {
+   "fmt": "recall",
+   "q": "How does mutation of the HFE gene cause iron overload in hereditary hemochromatosis?",
+   "opts": [
+    "Loss of HFE-mediated regulation leads to hepcidin deficiency and unchecked ferroportin iron export",
+    "Direct over-activation of splenic macrophage phagocytosis",
+    "Complete failure of ferritin synthesis inside hepatocytes",
+    "Inhibition of urinary iron filtration by the glomerulus"
+   ],
+   "ans": 0,
+   "exp": "HFE regulates hepcidin; HFE mutation leads to 'No regulation over Hepcidin -> excess iron absorption and abnormal deposition'. (Book p1018)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the single best screening test for Hereditary Hemochromatosis?",
+   "opts": [
+    "Transferrin saturation (> 45%)",
+    "Serum ferritin level alone",
+    "Total iron binding capacity (TIBC) alone",
+    "Serum iron concentration alone"
+   ],
+   "ans": 0,
+   "exp": "Transferrin saturation > 45% is explicitly designated as the 'Best screening test'. (Book p1018)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What is the normal percentage for transferrin saturation, and what formula defines it?",
+   "opts": [
+    "(Serum Iron / TIBC) x 100 = 33% (Normal)",
+    "(Serum Ferritin / Serum Iron) x 100 = 50% (Normal)",
+    "(TIBC / Serum Iron) x 100 = 20% (Normal)",
+    "(Serum Iron / Total Protein) x 100 = 10% (Normal)"
+   ],
+   "ans": 0,
+   "exp": "The formula is: (S. Fe / TIBC) x 100, which normally equals 33%. (Book p1018)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match each biochemical iron marker in hemochromatosis with its directional change \u2014 1) Serum Ferritin and Serum Iron 2) Total Iron Binding Capacity (TIBC) \u2026 A) Decreased (\u2193), serving as an indirect marker of serum transferrin B) Elevated (\u2191)",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "In hemochromatosis, S. Ferritin and S. Iron are elevated (\u2191), whereas TIBC is decreased (\u2193) as an indirect marker of transferrin. (Book p1018)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: On liver biopsy, hemosiderosis in hereditary hemochromatosis characteristically demonstrates iron deposition predominantly in ______ hepatocytes, visualized with Prussian blue stain.",
+   "opts": [
+    "periportal (peripheral zone)",
+    "centrilobular (zone 3)",
+    "midzonal (zone 2)",
+    "endothelial"
+   ],
+   "ans": 0,
+   "exp": "Histopathology shows: 'Iron deposition more in peripheral zone ... Iron deposition in periportal hepatocytes (Prussian blue stain)'. (Book p1018)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What histochemical special stain is used to confirm iron accumulation on liver biopsy?",
+   "opts": [
+    "Prussian blue stain",
+    "Rhodanine stain",
+    "Periodic acid-Schiff (PAS) with diastase",
+    "Masson's trichrome"
+   ],
+   "ans": 0,
+   "exp": "The caption specifies: 'Iron deposition in periportal hepatocytes (Prussian blue stain)'. (Book p1018)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 48-year-old man with fatigue and elevated LFTs undergoes abdominal MRI. The scan demonstrates diffuse low signal intensity throughout the liver on T2 sequences, while the spleen shows completely normal signal intensity without iron deposition. What is the diagnosis?",
+   "opts": [
+    "Hereditary hemochromatosis",
+    "Transfusion-related secondary hemosiderosis",
+    "Primary biliary cholangitis",
+    "Wilson's disease with copper overload"
+   ],
+   "ans": 0,
+   "exp": "In hereditary hemochromatosis, MRI shows: 'Iron deposition in liver (low intensity) & not seen in spleen' (sparing the spleen, unlike secondary hemosiderosis). (Book p1018)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Assess the two statements on iron overload: I In hereditary hemochromatosis, iron accumulates heavily in both the liver and the spleen simultaneously. II Total iron binding capacity (TIBC) is an indirect surrogate marker of serum transferrin.",
+   "opts": [
+    "I false; II true",
+    "I true; II false",
+    "Both are true",
+    "Both are false"
+   ],
+   "ans": 0,
+   "exp": "Statement I is false because MRI shows iron is 'not seen in spleen'. Statement II is true ('TIBC: \u2193 (indirect marker of S. transferrin)'). (Book p1018)"
+  }
+ ]
+}
