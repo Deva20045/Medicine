@@ -1,0 +1,90 @@
+{
+ "page": 1025,
+ "sec": "Type-II AIH features and treatment algorithm",
+ "items": [
+  {
+   "fmt": "truefalse",
+   "q": "Type-II AIH — judge: I Seen in children. II Carries a good prognosis. III Associated with HLA DR-7.",
+   "opts": [
+    "I and III true, II false",
+    "All three true",
+    "I true, II and III false",
+    "II and III true, I false"
+   ],
+   "ans": 0,
+   "exp": "'Seen in children; Poor prognosis; A/w HLA DR-7'. (Book p1025)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Disease associations of Type-II AIH — which is NOT printed?",
+   "opts": [
+    "Rheumatoid arthritis",
+    "Diabetes mellitus Type-1",
+    "Vitiligo",
+    "Autoimmune polyendocrine syndrome Type-1"
+   ],
+   "ans": 0,
+   "exp": "'Disease Association : Diabetes mellitus Type-1, Vitiligo, Autoimmune polyendocrine syndrome Type-1.' RA is the HLA-DR04 Type-1 association (p1023). (Book p1025)"
+  },
+  {
+   "fmt": "management",
+   "q": "Treatment flowchart: once AIH is diagnosed, what is checked for by Fibroscan before treatment?",
+   "opts": [
+    "Cirrhosis",
+    "Steatosis grade",
+    "Portal vein thrombosis",
+    "HCC"
+   ],
+   "ans": 0,
+   "exp": "'Diagnosed AIH — Fibroscan, check for → Cirrhosis'. (Book p1025)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What is the printed steroid regimen for AIH and the taper duration?",
+   "opts": [
+    "1 mg/kg/day × 4 weeks, then taper over 12 weeks",
+    "1 mg/kg × 7 days, tapering over 3 weeks",
+    "0.5 mg/kg/day × 4 weeks, taper 4 weeks",
+    "40 mg/day × 6 weeks, taper 8 weeks"
+   ],
+   "ans": 0,
+   "exp": "'Steroid 1 mg/kg/day × 4 weeks → Taper → 12 weeks' +/− Azathioprine. (1 mg/kg × 7 days over 3 weeks is the alcoholic-hepatitis regimen, p1028.) (Book p1025)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: Steroid in AIH is given '+/− ______', and response is assessed 'After ______ months'.",
+   "opts": [
+    "Azathioprine; 3–4",
+    "Mycophenolate; 6",
+    "UDCA; 12",
+    "Pentoxifylline; 1"
+   ],
+   "ans": 0,
+   "exp": "'+/− Azathioprine' and 'After 3–4 months' the outcome branches to remission or relapse. (Book p1025)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT one of the four printed criteria of remission?",
+   "opts": [
+    "Normalisation of IgG / globulin",
+    "Symptomatic improvement",
+    "Histological improvement",
+    "↓ S. bilirubin and liver enzymes back to normal"
+   ],
+   "ans": 0,
+   "exp": "Remission: Symptomatic improvement; Histological improvement; ↓ S. bilirubin; Liver enzyme back to normal. (Book p1025)"
+  },
+  {
+   "fmt": "management",
+   "q": "A patient relapses after 3–4 months of steroid ± azathioprine. What does the flowchart direct, and what caveat follows?",
+   "opts": [
+    "Transplant, with chances of recurrence",
+    "Double the steroid dose indefinitely",
+    "Switch to obeticholic acid",
+    "Add pentoxifylline 400 mg TDS"
+   ],
+   "ans": 0,
+   "exp": "'Relapse → Transplant → Chances of recurrence'. (Book p1025)"
+  }
+ ]
+}

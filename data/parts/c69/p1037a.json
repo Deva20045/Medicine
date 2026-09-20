@@ -1,0 +1,150 @@
+{
+ "page": 1037,
+ "sec": "Acute hepatitis B: transmission, post-transfusion hepatitis, symptoms, investigations, marker curve, interpretation",
+ "items": [
+  {
+   "fmt": "oddoneout",
+   "q": "Mode of transmission tree for acute hepatitis B — which is NOT one of the four printed arms?",
+   "opts": [
+    "Feco-oral",
+    "Vertical",
+    "Percutaneous",
+    "Blood transfusion"
+   ],
+   "ans": 0,
+   "exp": "Arms: Vertical, Percutaneous, Sexual, Blood transfusion. 'No feco-oral / breast milk transmission.' (Book p1037)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Percutaneous risk figures printed for HBV and HCV?",
+   "opts": [
+    "HBV 6–30%; HCV 0.6–6.1%",
+    "HBV 0.3%; HCV 3%",
+    "HBV 30–60%; HCV 6–10%",
+    "HBV 90%; HCV 10%"
+   ],
+   "ans": 0,
+   "exp": "'Percutaneous — Risk : 6 – 30%; HCV Risk : 0.6 – 6.1%'. (Book p1037)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge: I Sexual transmission risk is printed as 'not established'. II Blood-transfusion risk is 1 : 200,000 units and 1 : 1,800,000 with HBV > HBC (HCV).",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "'Sexual : Not established'; 'Blood Transfusion : 1 : 200000 units; 1 : 1800000 [HBV > HBC]'. (Book p1037)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Post-transfusion hepatitis — which hierarchy of agents is printed?",
+   "opts": [
+    "CMV > EBV > HCV",
+    "HBV > HCV > CMV",
+    "HCV > HBV > EBV",
+    "EBV > CMV > HBV"
+   ],
+   "ans": 0,
+   "exp": "'Post Transfusion Hepatitis : Hepatitis following transfusion • CMV > EBV > HCV.' (Book p1037)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Symptoms of acute hepatitis B: duration of prodrome and when it appears?",
+   "opts": [
+    "2–3 days of prodromal phase after 60 days of IP",
+    "2–3 weeks of prodrome after 30 days IP",
+    "7 days of prodrome after 40 days IP",
+    "No prodrome; abrupt jaundice at 60 days"
+   ],
+   "ans": 0,
+   "exp": "'2–3 days of prodromal phase after 60 days of IP. Jaundice + ↑↑ enzymes (ALT/AST).' (Book p1037)"
+  },
+  {
+   "fmt": "match",
+   "q": "Investigations — match — 1) Anti-HAV IgM 2) Anti-HEV IgM … A) m/c cause in adults B) m/c cause in children",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'Anti-HAV IgM (m/c cause : children). Anti-HEV IgM (m/c cause : adults). if both −ve → HBsAg, HBeAg, anti-HBc IgM.' (Book p1037)"
+  },
+  {
+   "fmt": "match",
+   "q": "HBV marker curve — match — 1) dark blue 2) red 3) green 4) purple … A) Anti-HBs B) HBsAg C) Total anti-HBc D) IgM anti-HBc",
+   "opts": [
+    "1-B, 2-D, 3-C, 4-A",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-D, 2-B, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Legend: HBsAg (blue), IgM Anti-HBc (red), Total Anti-HBc (green), Anti-HBs (purple). (Book p1037)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "On the 'HBV infection markers' graph, the boxed window period sits between which weeks after exposure?",
+   "opts": [
+    "Approximately 24–32 weeks",
+    "Approximately 4–8 weeks",
+    "Approximately 12–16 weeks",
+    "Approximately 52–100 weeks"
+   ],
+   "ans": 0,
+   "exp": "The 'Window period' box lies over the 24–32-week span, after HBsAg falls and before anti-HBs rises; upper bands show HBeAg then Anti-HBe. (Book p1037)"
+  },
+  {
+   "fmt": "match",
+   "q": "Interpretation table — match — 1) HBsAg +, HBeAg +, anti-HBc IgM + 2) HBsAg +, HBeAg −, anti-HBc IgM + … A) Low infectivity & replication / pre-core gene mutant (unable to express HBeAg) B) Acute hepatitis with ↑ infectivity & replication",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Column 1 (all +): acute hepatitis with ↑ infectivity & replication. Column 2 (HBeAg −): low infectivity & replication / Pre core gene mutant unable to express HBeAg. (Book p1037)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up (right-hand bullets): S gene / A gene / Escape / Occult gene mutation → ↓ viral load, won't express ______; best test: ______.",
+   "opts": [
+    "HBsAg; anti-HBc IgM",
+    "HBeAg; HBV DNA",
+    "HBcAg; anti-HBs",
+    "HBxAg; HBeAg"
+   ],
+   "ans": 0,
+   "exp": "'Sgene/A gene/Escape/Occult gene mutation : ↓ viral load – Won't express HBsAg. Best test : Anti HBc IgM.' (Book p1037)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Basal core mutant expresses what percentage of HBeAg, per the bullet?",
+   "opts": [
+    "30%",
+    "0%",
+    "90%",
+    "10%"
+   ],
+   "ans": 0,
+   "exp": "'Basal core mutant : Express 30% of HBeAg.' (Book p1037)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is printed as the best marker for acute hepatitis at the bottom of the page?",
+   "opts": [
+    "HBV DNA load (quantitative marker)",
+    "HBeAg (qualitative marker)",
+    "Anti-HBc IgM",
+    "HBsAg titre"
+   ],
+   "ans": 0,
+   "exp": "'Best marker for acute hepatitis : HBV DNA load (Quantitative marker).' (Anti-HBc IgM is the best test for escape/occult mutants.) (Book p1037)"
+  }
+ ]
+}

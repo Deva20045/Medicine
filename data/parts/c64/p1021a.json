@@ -1,0 +1,186 @@
+{
+ "page": 1021,
+ "sec": "PBC laboratory, histopathology, treatment; PSC definition, prevalence, HLA, presentation, UC association, labs",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Laboratory features of PBC — match the marker with its printed positivity — 1) AMA (Type IgM) 2) ANA … A) +ve in 50% B) +ve in 95%",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 0,
+   "exp": "Laboratory features: Raised ALP; AMA (Type IgM) +ve in 95%; ANA +ve in 50%. (Book p1021)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The first laboratory feature listed for PBC is raised ______, and the AMA is printed as being of the ______ isotype.",
+   "opts": [
+    "ALP; IgM",
+    "ALT; IgG",
+    "GGT; IgA",
+    "bilirubin; IgG4"
+   ],
+   "ans": 0,
+   "exp": "'Raised ALP.' and 'AMA (Type IgM) : +ve in 95%.' (Book p1021)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which histopathological feature is labelled the EARLIEST change in PBC?",
+   "opts": [
+    "Loss of the canal of Hering",
+    "Ductopenia",
+    "Florid duct lesion with non-caseating granulomas",
+    "Concentric periductal onion-skin fibrosis"
+   ],
+   "ans": 0,
+   "exp": "Histopathology tree: 'Loss of the canal of Hering : Earliest'. (Book p1021)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which histopathological feature of PBC is labelled most common (m/c)?",
+   "opts": [
+    "Ductopenia",
+    "Loss of the canal of Hering",
+    "Florid duct lesion",
+    "Bridging fibrosis"
+   ],
+   "ans": 0,
+   "exp": "'Ductopenia (m/c)'. (Book p1021)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge: I The most characteristic histological lesion of PBC is the florid duct lesion with granulomas. II These granulomas are caseating.",
+   "opts": [
+    "I true, II false",
+    "I false, II true",
+    "Both true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "'Florid duct lesion with granulomas (Non-caseating) (most characteristic)'. (Book p1021)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the PBC treatments with the printed descriptor — 1) Ursodeoxycholic acid (UDCA) 2) Obeticholic acid … A) Farnesoid receptor agonist B) ↓ progression of biliary cirrhosis",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Treatment: UDCA : ↓ progression of biliary cirrhosis; Obeticholic acid : Farnesoid receptor agonist. (Book p1021)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up (PSC definition): Primary Sclerosing Cholangitis is progressive ______ destruction of intra and extra hepatic bile duct, and is an ______ disease due to leaky gut.",
+   "opts": [
+    "fibrosing; IgG4",
+    "granulomatous; IgM",
+    "suppurative; IgA",
+    "autoimmune T-cell; IgE"
+   ],
+   "ans": 0,
+   "exp": "'Progressive fibrosing destruction of intra and extra hepatic bile duct. IgG4 disease d/t leaky gut.' (Book p1021)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Prevalence of PSC: sex predilection and decade printed?",
+   "opts": [
+    "M > F; 2nd–3rd decade",
+    "F > M 9:1; 4th–5th decade",
+    "M > F; 4th–5th decade",
+    "F > M; 2nd–3rd decade"
+   ],
+   "ans": 0,
+   "exp": "'M > F (2nd – 3rd decade).' (Book p1021)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which HLA associations are printed for PSC?",
+   "opts": [
+    "HLA B-8, DR-3",
+    "HLA DR-4, DR-7",
+    "HLA DR-3 only",
+    "HLA B-27, DR-2"
+   ],
+   "ans": 0,
+   "exp": "'HLA Association : HLA B-8, DR-3.' (Book p1021)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which item is NOT among the four PSC presentation bullets on this page?",
+   "opts": [
+    "Xanthelasma",
+    "Fatigue",
+    "Leaky gut",
+    "Cholestasis"
+   ],
+   "ans": 0,
+   "exp": "Presentation: Fatigue, Pruritis, Leaky gut, Cholestasis. (Book p1021)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which cancer is printed under 'Association with cancer' for PSC?",
+   "opts": [
+    "Cholangiocarcinoma",
+    "Hepatocellular carcinoma",
+    "Gallbladder carcinoma",
+    "Pancreatic adenocarcinoma"
+   ],
+   "ans": 0,
+   "exp": "'Association with cancer : Cholangiocarcinoma.' (Colorectal carcinoma appears separately under the UC association.) (Book p1021)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Interpret the printed figures for the PSC–ulcerative colitis association: '(2/3rd / 5%)'.",
+   "opts": [
+    "2/3rd of PSC cases have UC; 5% of UC cases have PSC",
+    "2/3rd of UC cases have PSC; 5% of PSC cases have UC",
+    "2/3rd of PSC cases develop colorectal carcinoma; 5% die",
+    "Both figures refer to the lifetime cholangiocarcinoma risk"
+   ],
+   "ans": 0,
+   "exp": "'Ulcerative colitis (2/3rd / 5%) (2/3rd cases of PSC have UC & 5% cases of UC have PSC).' (Book p1021)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Regarding the UC that accompanies PSC, judge: I It is associated with atypical p-ANCA. II Its type is pancolitis with rectal sparing. III The only treatment is transplant.",
+   "opts": [
+    "I, II and III all true",
+    "I and II true, III false",
+    "I true, II and III false",
+    "II true, I and III false"
+   ],
+   "ans": 0,
+   "exp": "Sub-bullets under UC: Atypical P. ANCA association; Type: pancolitis with rectal sparing; A/w colorectal carcinoma; Only treatment: transplant. (Book p1021)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: The UC associated with PSC is 'A/w ______ carcinoma'.",
+   "opts": [
+    "colorectal",
+    "cholangio",
+    "hepatocellular",
+    "gastric"
+   ],
+   "ans": 0,
+   "exp": "'A/w colorectal carcinoma.' (Book p1021)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Laboratory features of PSC — which of the following is printed as NEGATIVE?",
+   "opts": [
+    "AMA antibody",
+    "IgG4 antibody",
+    "Atypical p-ANCA antibody",
+    "Both IgG4 and p-ANCA are printed negative"
+   ],
+   "ans": 0,
+   "exp": "Laboratory features: IgG4 antibody; Atypical P. ANCA Ab; 'AMA Ab : −ve'. (Book p1021)"
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "page": 1031,
+ "sec": "Clinical features, investigations, fibroscan figure and enzyme algorithm",
+ "items": [
+  {
+   "fmt": "oddoneout",
+   "q": "Clinical features table, 'Symptoms' column — which is NOT printed?",
+   "opts": [
+    "Pruritus",
+    "Vague RUQ pain",
+    "Fatigue",
+    "Malaise"
+   ],
+   "ans": 0,
+   "exp": "Symptoms: Vague RUQ pain, Fatigue, malaise. (Book p1031)"
+  },
+  {
+   "fmt": "match",
+   "q": "'Sign' column — hepatomegaly, then four rare signs each bracketed with its meaning. Match — 1) Splenomegaly 2) Spider angiomata 3) Ascites … A) Decompensation B) PHTN C) Liver failure",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Rare: Splenomegaly (PHTN), Spider angiomata (Liver failure), Palmar erythema, Ascites (Decompensation). (Book p1031)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge: I Hepatomegaly is the routine sign of NAFLD. II Palmar erythema is listed among the rare signs.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Sign: Hepatomegaly; Rare: splenomegaly, spider angiomata, palmar erythema, ascites. (Book p1031)"
+  },
+  {
+   "fmt": "match",
+   "q": "Investigations 1–4 — match — 1) Biopsy 2) S. Ferritin 3) Imaging 4) Enzymes … A) Elevated B) ALT, AST C) Inflammatory changes D) USG → MR elastography > transient elastography",
+   "opts": [
+    "1-C, 2-A, 3-D, 4-B",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-A, 2-C, 3-D, 4-B",
+    "1-C, 2-A, 3-B, 4-D"
+   ],
+   "ans": 0,
+   "exp": "1. Biopsy: inflammatory changes; 2. S. Ferritin: elevated; 3. Imaging: USG → MR elastography > transient elastography; 4. Enzymes: ALT, AST. (Book p1031)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which imaging modality is ranked higher on this page: MR elastography or transient elastography?",
+   "opts": [
+    "MR elastography > transient elastography",
+    "Transient elastography > MR elastography",
+    "They are ranked equal",
+    "USG is ranked above both"
+   ],
+   "ans": 0,
+   "exp": "'USG → MR Elastography > Transient Elastography'. (Book p1031)"
+  },
+  {
+   "fmt": "match",
+   "q": "Liver fibroscan figure — match — 1) Vs = 1.1 m/s 2) Vs = 1.7 m/s 3) Vs = 3.6 m/s … A) ~ 9 kPa B) ~ 40 kPa C) ~ 3 kPa",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Panels: Vs 1.1 m/s ~3 kPa; Vs 1.7 m/s ~9 kPa; Vs 3.6 m/s ~40 kPa, above the F0–F4 scale. (Book p1031)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The fibroscan figure shows a staging strip from ______ to ______ and the probe illustration cites an explored volume of ______ × ______ cm.",
+   "opts": [
+    "F0 to F4; 2.5 × 4",
+    "F1 to F5; 1 × 2",
+    "S0 to S3; 2.5 × 4",
+    "F0 to F4; 5 × 10"
+   ],
+   "ans": 0,
+   "exp": "Strip F0 F1 F2 F3 F4; the probe inset labels 'Volumen explorado' 2.5 cm and 4 cm. (Book p1031)"
+  },
+  {
+   "fmt": "management",
+   "q": "ALT/AST algorithm: enzymes are normal. What is the printed conclusion?",
+   "opts": [
+    "IFL (isolated fatty liver)",
+    "NASH without cirrhosis",
+    "Cirrhosis",
+    "Repeat in 6 months"
+   ],
+   "ans": 0,
+   "exp": "'ALT, AST → Normal → IFL'. (Book p1031)"
+  },
+  {
+   "fmt": "match",
+   "q": "Enzymes ↑↑ (<150 U/L) — match — 1) AST < ALT 2) AST > ALT … A) Cirrhosis B) NASH (risk & cirrhosis)",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'↑↑ (<150 U/L) → AST<ALT → NASH (Risk & cirrhosis); AST>ALT → Cirrhosis'. (Book p1031)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 45-year-old obese diabetic has ALT 110, AST 70 U/L. Following the algorithm, fibroscan is done and stiffness is markedly raised (↑↑). What is the final printed label?",
+   "opts": [
+    "NASH with cirrhosis",
+    "NASH without cirrhosis",
+    "IFL",
+    "Alcoholic hepatitis"
+   ],
+   "ans": 0,
+   "exp": "AST<ALT → NASH → Fibroscan → (N) NASH without cirrhosis / ↑↑ NASH with cirrhosis. (Book p1031)"
+  }
+ ]
+}

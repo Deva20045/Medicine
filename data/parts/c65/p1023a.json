@@ -1,0 +1,126 @@
+{
+ "page": 1023,
+ "sec": "AIH Type-1: demographics, ANA, HLA associations, lymphoplasmacytic pathology, histological triad and acinus diagram",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "Autoimmune Hepatitis Type-1: which sex predominance and age band are printed?",
+   "opts": [
+    "F >> M; 2nd to 3rd decade female population",
+    "M > F; 2nd to 3rd decade young male population",
+    "F > M 9:1; 4th to 5th decade perimenopausal women",
+    "Children of either sex; 1st decade"
+   ],
+   "ans": 0,
+   "exp": "'F >> M (2nd to 3rd decade female population)'. (Book p1023)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "ANA is printed positive in what proportion of AIH Type-1 cases?",
+   "opts": [
+    "100%",
+    "95%",
+    "50%",
+    "60–65%"
+   ],
+   "ans": 0,
+   "exp": "'ANA +ve (100% cases)' — repeated in the antibody table on p1024. (Book p1023)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "ANA positivity is stated to be 'also in' two other conditions. Which of the following is NOT one of them?",
+   "opts": [
+    "Primary sclerosing cholangitis",
+    "Drug induced erythematosus",
+    "Mixed connective tissue disease",
+    "Both listed conditions are correctly stated"
+   ],
+   "ans": 0,
+   "exp": "'Also in : Drug induced erythematosus. Mixed connective tissue disease.' PSC is not listed. (Book p1023)"
+  },
+  {
+   "fmt": "match",
+   "q": "Associated HLA and diseases — match — 1) HLA-DR03 2) HLA-DR04 … A) Rheumatoid arthritis, Type-1 DM, autoimmune thyroid disorders B) SLE (AKA lupoid hepatitis)",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'HLA-DR03 association +ve : SLE (AKA Lupoid hepatitis)'; 'HLA-DR04 : Rheumatoid arthritis, Type-1 DM, Autoimmune thyroid disorders'. (Book p1023)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: AIH occurring with SLE on an HLA-DR03 background is 'AKA ______ hepatitis'.",
+   "opts": [
+    "Lupoid",
+    "Interphase",
+    "Lymphoplasmacytic",
+    "Piecemeal"
+   ],
+   "ans": 0,
+   "exp": "'HLA-DR03 Association +ve : SLE (AKA Lupoid hepatitis)'. (Book p1023)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The pathophysiology heading of AIH characterises the inflammation as which type?",
+   "opts": [
+    "Lymphoplasmacytic inflammation",
+    "Neutrophilic suppurative inflammation",
+    "Granulomatous non-caseating inflammation",
+    "Eosinophilic inflammation"
+   ],
+   "ans": 0,
+   "exp": "'PATHOPHYSIOLOGY — Lymphoplasmacytic inflammation'. (Book p1023)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Three 'unique features / histological findings' of AIH are branched in the diagram. Which is NOT one of them?",
+   "opts": [
+    "Ductopenia",
+    "Interface hepatitis (piecemeal necrosis)",
+    "Emporipolesis (engulfing cell without killing)",
+    "Rosette formation"
+   ],
+   "ans": 0,
+   "exp": "Branches: Interface Hepatitis (Piecemeal necrosis), Emporipolesis (Engulfing cell without killing), Rosette formation. Ductopenia is PBC (p1021). (Book p1023)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up the printed bracket: 'Emporipolesis (______ cell without ______)'.",
+   "opts": [
+    "Engulfing; killing",
+    "Apoptosing; inflammation",
+    "Fusing; necrosis",
+    "Phagocytosing; digestion"
+   ],
+   "ans": 0,
+   "exp": "'Emporipolesis (Engulfing cell without killing)'. (Book p1023)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match — 1) filled purple circle 2) orange dots 3) blue open circle 4) red open circle … A) Hepatic artery B) Portal vein C) Central vein D) Hepatocytes",
+   "opts": [
+    "1-C, 2-D, 3-B, 4-A",
+    "1-B, 2-D, 3-C, 4-A",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-D, 3-C, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Legend: Central vein (purple filled), Hepatocytes (orange dots), Portal track / Bile duct (open black), Portal vein (blue), Hepatic artery (red). (Book p1023)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "In the second acinus cone of the diagram, inflammation is drawn spilling from the portal tract across a dashed line into the hepatocyte cone. What is that dashed boundary labelled, and what histological term results?",
+   "opts": [
+    "Limiting plate; interface hepatitis (piecemeal necrosis)",
+    "Canal of Hering; ductopenia",
+    "Space of Disse; emporipolesis",
+    "Central vein wall; centrilobular necrosis"
+   ],
+   "ans": 0,
+   "exp": "Labels: 'Limiting plate' (dashed line) and 'Inflammation' (arrow) — inflammation breaching the limiting plate is interface / piecemeal hepatitis, the micrograph caption reading 'Interphase hepatitis'. (Book p1023)"
+  }
+ ]
+}

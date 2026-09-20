@@ -1,0 +1,78 @@
+{
+ "page": 1032,
+ "sec": "Supportive treatment and drugs",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "Supportive treatment of NASH — what weight-loss target and exercise prescription are printed?",
+   "opts": [
+    "Weight loss 10% over 6 months; exercise 30–45 min/day × 5 days/week",
+    "Weight loss 5% over 3 months; exercise 60 min/day × 7 days/week",
+    "Weight loss 15% over 12 months; exercise 20 min/day × 3 days/week",
+    "Weight loss 10% over 1 month; exercise 30 min × 2 days/week"
+   ],
+   "ans": 0,
+   "exp": "'Weight loss : 10% over 6 months. Exercise : 30 – 45 minutes / day × 5 day / wk.' (Book p1032)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up the third supportive bullet: '______ fatty acids, ______'.",
+   "opts": [
+    "Omega 3; caffeine",
+    "Omega 6; green tea",
+    "Saturated; alcohol",
+    "Trans; sucrose"
+   ],
+   "ans": 0,
+   "exp": "'Omega 3 fatty acids, caffeine.' (Book p1032)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Vitamin E is the printed DOC for NASH. What dose is given?",
+   "opts": [
+    "800–1000 unit/day",
+    "400 unit/day",
+    "100–200 unit/day",
+    "2000 unit/day"
+   ],
+   "ans": 0,
+   "exp": "'DOC : Vitamin E — 800–1000 unit/day.' (Book p1032)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the Vitamin E sub-bullets: I Improves NASH. II Its efficacy in cirrhosis is unknown. III Takes about 2 years to show effect.",
+   "opts": [
+    "All three true",
+    "I and II true, III false",
+    "I true, II and III false",
+    "I and III true, II false"
+   ],
+   "ans": 0,
+   "exp": "'improves NASH, unknown efficacy in cirrhosis' and 'takes ~2 years to show effect'. (Book p1032)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Saroglitazar (4 mg) works by which mechanism, per the book?",
+   "opts": [
+    "Dual PPAR-α + PPAR-γ agonist",
+    "PPAR-γ agonist only",
+    "GLP-1 receptor agonist",
+    "Farnesoid X receptor agonist"
+   ],
+   "ans": 0,
+   "exp": "'Saroglitazar (4mg) : Dual PPAR-α + PPAR-γ agonist.' (Book p1032)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match — 1) Pioglitazone 2) Oral semaglutide 3) Saroglitazar … A) GLP-1 RA B) PPAR-γ agonist (may be tried) C) Dual PPAR-α + γ agonist",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Pioglitazone PPAR-γ agonist (may be tried); Oral semaglutide GLP-1 RA (receptor agonist); Saroglitazar dual PPAR-α+γ. (Book p1032)"
+  }
+ ]
+}

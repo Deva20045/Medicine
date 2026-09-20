@@ -135,12 +135,12 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 61 | Ascites and Hepatorenal Syndrome | p1005 | LIVE (81 q, 8 u)
 | 62 | Hepatic Encephalopathy | p1010 | LIVE (32 q, 3 u)
 | 63 | Metabolic Diseases of Liver | p1013 | LIVE (75 q, 7 u)
-| 64 | Biliary Cirrhosis | p1020 | SOON
-| 65 | Autoimmune Hepatitis | p1023 | SOON
-| 66 | Alcoholic Liver Disease | p1026 | SOON
-| 67 | Nonalcoholic Steatohepatitis | p1030 | SOON
-| 68 | Vascular Diseases of Liver | p1033 | SOON
-| 69 | Hepatitis B Virus : Part 1 | p1036 | SOON
+| 64 | Biliary Cirrhosis | p1020 | LIVE (44 q, 3 u)
+| 65 | Autoimmune Hepatitis | p1023 | LIVE (34 q, 3 u)
+| 66 | Alcoholic Liver Disease | p1026 | LIVE (43 q, 4 u)
+| 67 | Nonalcoholic Steatohepatitis | p1030 | LIVE (28 q, 3 u)
+| 68 | Vascular Diseases of Liver | p1033 | LIVE (30 q, 3 u)
+| 69 | Hepatitis B Virus : Part 1 | p1036 | LIVE (40 q, 3 u)
 | 70 | Hepatitis B Virus : Part 2 | p1039 | SOON
 | 71 | Hepatitis C Virus | p1045 | SOON
 | 72 | Infective Endocarditis | p1047 | SOON
@@ -421,3 +421,27 @@ a continuous 315-page span from Book p705 to p1019.
 
 **Next: Ch 64 "Biliary Cirrhosis" (p1020).**
 
+## Latest batch — Chapters 64–69 (2026-09-20)
+
+**219 new questions · 19 units · all 19 pages p1020–1038.**
+Ch 64: 44 q / 3 u; Ch 65: 34 q / 3 u; Ch 66: 43 q / 4 u; Ch 67: 28 q / 3 u;
+Ch 68: 30 q / 3 u; Ch 69: 40 q / 3 u.
+
+Covers PBC/PSC (AMA–PDHE2, hepatic vs cholestatic pattern, diagnostic algorithm, florid duct
+lesion, UDCA/obeticholic acid, PSC–UC 2/3rd vs 5%, MRCP, onion-skin fibrosis, full comparison
+table), autoimmune hepatitis (HLA-DR03/DR04, interface hepatitis/emporipolesis/rosettes,
+presentation tree, Type-I/II antibody tables, LKM-1/2/3, steroid 1 mg/kg × 4 wk + azathioprine),
+alcoholic liver disease (peg/cirrhogenic dose, CDT, HESST, AST:ALT ratios, DF/MELD/Glasgow,
+pentoxifylline, micro- vs macrovesicular mnemonic, Mallory–Denk), NASH (≥5% fat, 80/20 split,
+risk-factor table, 2-hit, fibroscan kPa, enzyme algorithm, vitamin E/saroglitazar/semaglutide),
+vascular liver disease (classification, Budd–Chiari sites/causes/mechanism/CECT caudate
+hypertrophy/TIPSS, EHPVO vs NCPF table), and HBV part 1 (genome, gene table, 90/10 rule,
+transmission risks, marker curve, mutants, chronic DNA thresholds, 8-row serology table).
+
+Authoring scripts `author_c64.py`–`author_c69.py` reproduce the part files. Page-by-page
+coverage and source-fidelity notes: **REPORT_CH64-69.md**.
+
+**Current bank total: 4,933 questions · 390 units · 69 live chapters**, covering a continuous
+334-page span from Book p705 to p1038. Recorded source-review manifests remain 3/74 (Ch 1–3).
+
+**Next: Ch 70 "Hepatitis B Virus : Part 2" (p1039–1044).**

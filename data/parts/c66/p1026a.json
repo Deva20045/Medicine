@@ -1,0 +1,126 @@
+{
+ "page": 1026,
+ "sec": "Peg, cirrhogenic dose, alcoholic hepatitis mortality/marker, progression diagram, alcohol metabolism",
+ "items": [
+  {
+   "fmt": "numeric",
+   "q": "How is '1 peg' defined at the top of the chapter?",
+   "opts": [
+    "60 ml of alcohol (40%)",
+    "30 ml of alcohol (40%)",
+    "60 ml of alcohol (20%)",
+    "100 ml of alcohol (10%)"
+   ],
+   "ans": 0,
+   "exp": "'1 peg = 60 ml Alcohol (40%)'. (Book p1026)"
+  },
+  {
+   "fmt": "match",
+   "q": "Cirrhogenic dose — match — 1) Male 2) Female … A) 20–40 gm/day (1 peg) B) 40–80 g/day (2 pegs)",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Male: 40–80 g/day (2 pegs); Female: 20–40 gm/day (1 peg). (Book p1026)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "The cirrhogenic dose must be consumed for how long to produce cirrhosis?",
+   "opts": [
+    "5 days a week for 15 years",
+    "Daily for 5 years",
+    "3 days a week for 10 years",
+    "5 days a week for 3–5 years"
+   ],
+   "ans": 0,
+   "exp": "'→ 5 days a week for 15 years → Cirrhosis.' (Book p1026)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Alcoholic hepatitis: printed mortality and best serum marker?",
+   "opts": [
+    "Mortality 70%; carbohydrate-deficient transferrin",
+    "Mortality 30%; gamma-glutamyl transferase (GGT)",
+    "Mortality 70%; mean corpuscular volume (MCV)",
+    "Mortality 10%; AST:ALT ratio > 2:1"
+   ],
+   "ans": 0,
+   "exp": "'Mortality 70%' and 'Best Serum marker : Carbohydrate deficient transferrin'. (Book p1026)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "In the progression diagram, alcohol consumption leads to alcoholic fatty liver after how long, and is that stage reversible?",
+   "opts": [
+    "3–5 years; reversible",
+    "15 years; irreversible",
+    "3–5 months; irreversible",
+    "6 weeks; reversible"
+   ],
+   "ans": 0,
+   "exp": "'Alcohol Consumption —3–5 years→ Alcoholic fatty liver (Reversible)'. (Book p1026)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "From the fatty-liver branch point, judge: I Cirrhosis begins micronodular and progresses to macronodular. II In macronodular cirrhosis the nucleus is pushed to the periphery. III Cirrhosis carries risk of HCC.",
+   "opts": [
+    "All three true",
+    "I and III true, II false",
+    "I true, II and III false",
+    "II and III true, I false"
+   ],
+   "ans": 0,
+   "exp": "Cirrhosis → micronodular → Progress → macronodular (Nucleus pushed to periphery); → Risk of HCC. (Book p1026)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The other branch from alcoholic fatty liver is alcoholic hepatitis (high mortality). What cause is printed beneath it?",
+   "opts": [
+    "Binge drinking",
+    "Poor-metaboliser polymorphism",
+    "Malnutrition",
+    "Hepatitis C co-infection"
+   ],
+   "ans": 0,
+   "exp": "'Alcoholic hepatitis (High mortality) — Cause : Binge drinking'. (Book p1026)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Alcohol metabolism — which of the following is NOT one of the three enzymes branched in the diagram?",
+   "opts": [
+    "Alcohol oxidase",
+    "Aldehyde dehydrogenase",
+    "Cyt P2E1",
+    "Catalase"
+   ],
+   "ans": 0,
+   "exp": "Enzyme: Aldehyde dehydrogenase; Cyt P2E1; Catalase. (Book p1026)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up the pathway: Alcohol → ______ (toxic to liver) —aldehyde dehydrogenase→ metabolic products.",
+   "opts": [
+    "Acetaldehyde",
+    "Acetate",
+    "Acetyl-CoA",
+    "Methanol"
+   ],
+   "ans": 0,
+   "exp": "'Alcohol → Acetaldehyde —Aldehyde dehydrogenase→ metabolic products'; 'Acetaldehyde → Toxic to liver'. (Book p1026)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Two men drink identically; one carries an aldehyde-dehydrogenase polymorphism making him a poor metaboliser. Per the diagram, what is his particular risk?",
+   "opts": [
+    "Prone to develop alcohol hepatitis",
+    "Protected, because less acetaldehyde is formed",
+    "Prone to macrovesicular steatosis only",
+    "Higher carbohydrate-deficient transferrin but no liver risk"
+   ],
+   "ans": 0,
+   "exp": "Polymorphism → Efficient metaboliser / Poor metaboliser: 'Prone to develop alcohol hepatitis'. (Book p1026)"
+  }
+ ]
+}

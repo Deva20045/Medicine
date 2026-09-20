@@ -1,0 +1,487 @@
+{
+ "chapter": 67,
+ "title": "Nonalcoholic Steatohepatitis",
+ "pageRange": "1030-1032",
+ "questions": [
+  {
+   "id": "MED-C67-001",
+   "sec": "FLD features, NASH histology, risk-factor table and 2-hit progression",
+   "page": 1030,
+   "fmt": "numeric",
+   "q": "How is NAFLD defined under 'Features' of Fatty Liver Disease?",
+   "opts": [
+    "Macrovesicular fat in ≥ 50% of hepatocytes",
+    "Any fat with ALT > 150 U/L",
+    "Macrovesicular fat / steatosis in ≥ 5% of hepatocytes",
+    "Microvesicular fat in ≥ 30% of hepatocytes"
+   ],
+   "ans": 2,
+   "exp": "'NAFLD : macrovesicular fat / steatosis ≥5% hepatocytes (Non alcoholic FLD)'. The micrograph caption reads 'macrovesicular fat in NAFLD'. (Book p1030)"
+  },
+  {
+   "id": "MED-C67-002",
+   "sec": "FLD features, NASH histology, risk-factor table and 2-hit progression",
+   "page": 1030,
+   "fmt": "match",
+   "q": "NAFLD splits into two groups — match — 1) 80% 2) 20% … A) Fatty liver + inflammation = NASH B) Isolated fatty liver (IFL)",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "80% Isolated fatty liver (IFL); 20% Fatty liver + Inflammation: NASH (non-alcoholic steatohepatitis). (Book p1030)"
+  },
+  {
+   "id": "MED-C67-003",
+   "sec": "FLD features, NASH histology, risk-factor table and 2-hit progression",
+   "page": 1030,
+   "fmt": "oddoneout",
+   "q": "Four histological components branch from NASH. Which is NOT one of them?",
+   "opts": [
+    "Degree of steatosis",
+    "Lobular inflammation",
+    "Mallory–Denk bodies",
+    "Ballooning change"
+   ],
+   "ans": 2,
+   "exp": "Branches: Ballooning change; Degree of steatosis; Lobular inflammation; Chicken-wire fibrosis (Zone 3). (Book p1030)"
+  },
+  {
+   "id": "MED-C67-004",
+   "sec": "FLD features, NASH histology, risk-factor table and 2-hit progression",
+   "page": 1030,
+   "fmt": "fillup",
+   "q": "Fill up: The fibrosis pattern of NASH is '______ fibrosis (Zone ______)'.",
+   "opts": [
+    "Periportal; 1",
+    "Chicken-wire; 3",
+    "Onion-skin; 1",
+    "Bridging; 2"
+   ],
+   "ans": 1,
+   "exp": "'Chicken-wire fibrosis (Zone 3)'. (Book p1030)"
+  },
+  {
+   "id": "MED-C67-005",
+   "sec": "FLD features, NASH histology, risk-factor table and 2-hit progression",
+   "page": 1030,
+   "fmt": "oddoneout",
+   "q": "Risk-factor table, column 'Common conditions with established association' — which is NOT in that column?",
+   "opts": [
+    "Leptin resistance",
+    "Hypothyroidism",
+    "Polycystic ovary syndrome",
+    "Starvation / rapid weight loss"
+   ],
+   "ans": 1,
+   "exp": "Column 1: Obesity, T2DM/insulin resistance, dyslipidemia, metabolic syndrome, PCOS, starvation/rapid weight loss, ↓ adiponectin, leptin resistance. Hypothyroidism is in column 2. (Book p1030)"
+  },
+  {
+   "id": "MED-C67-006",
+   "sec": "FLD features, NASH histology, risk-factor table and 2-hit progression",
+   "page": 1030,
+   "fmt": "truefalse",
+   "q": "Judge from column 1: I Adiponectin levels are printed as decreased. II Leptin is printed as deficient.",
+   "opts": [
+    "I false, II true",
+    "Both true",
+    "Both false",
+    "I true, II false"
+   ],
+   "ans": 3,
+   "exp": "'↓ Adiponectin levels' and 'Leptin Resistance' (not deficiency). (Book p1030)"
+  },
+  {
+   "id": "MED-C67-007",
+   "sec": "FLD features, NASH histology, risk-factor table and 2-hit progression",
+   "page": 1030,
+   "fmt": "oddoneout",
+   "q": "Column 'Other conditions associated with NAFLD' — which is NOT listed?",
+   "opts": [
+    "Psoriasis",
+    "Cushing's syndrome",
+    "Obstructive sleep apnea",
+    "Pancreatoduodenal resection"
+   ],
+   "ans": 1,
+   "exp": "Column 2: Hypothyroidism, OSA, Hypopituitarism, Hypogonadism, Pancreatoduodenal resection, Psoriasis. (Book p1030)"
+  },
+  {
+   "id": "MED-C67-008",
+   "sec": "FLD features, NASH histology, risk-factor table and 2-hit progression",
+   "page": 1030,
+   "fmt": "match",
+   "q": "Match — 1) T2DM / insulin resistance 2) Hypopituitarism 3) Hypogonadism … A) Other conditions associated B) Common established association",
+   "opts": [
+    "1-B, 2-A, 3-A",
+    "1-A, 2-B, 3-B",
+    "1-B, 2-B, 3-A",
+    "1-A, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "T2DM/insulin resistance is column 1; hypopituitarism and hypogonadism are column 2. (Book p1030)"
+  },
+  {
+   "id": "MED-C67-009",
+   "sec": "FLD features, NASH histology, risk-factor table and 2-hit progression",
+   "page": 1030,
+   "fmt": "oddoneout",
+   "q": "Drugs column — which drug is NOT printed among the six NAFLD-associated drugs?",
+   "opts": [
+    "Griseofulvin",
+    "Amiodarone",
+    "Methotrexate",
+    "L-asparaginase"
+   ],
+   "ans": 2,
+   "exp": "Drugs: L-asparaginase, Bleomycin, Tetracycline, Griseofulvin, Valproate, Amiodarone. (Book p1030)"
+  },
+  {
+   "id": "MED-C67-010",
+   "sec": "FLD features, NASH histology, risk-factor table and 2-hit progression",
+   "page": 1030,
+   "fmt": "fillup",
+   "q": "Fill up: NASH progression follows a ______-hit hypothesis; the 1st hit is ______.",
+   "opts": [
+    "3; insulin resistance",
+    "2; unknown",
+    "1; obesity",
+    "2; risk factors"
+   ],
+   "ans": 3,
+   "exp": "'2 hit hypothesis — Normal liver —1st hit: Risk factors→ NASH —2nd hit: unknown R/F→ Cirrhosis'. (Book p1030)"
+  },
+  {
+   "id": "MED-C67-011",
+   "sec": "FLD features, NASH histology, risk-factor table and 2-hit progression",
+   "page": 1030,
+   "fmt": "numeric",
+   "q": "What proportion of NASH patients progress to cirrhosis, and over what period?",
+   "opts": [
+    "20% of patients over 5 years",
+    "1–5% of patients over 10 years",
+    "80% of patients over 15 years",
+    "10–15% of patients over 15 years"
+   ],
+   "ans": 3,
+   "exp": "'2nd hit : unknown R/F — 10–15% pts over 15 yrs → Cirrhosis'. (Book p1030)"
+  },
+  {
+   "id": "MED-C67-012",
+   "sec": "FLD features, NASH histology, risk-factor table and 2-hit progression",
+   "page": 1030,
+   "fmt": "scenario",
+   "q": "In the progression diagram an arrow runs directly from NASH to HCC, bypassing cirrhosis, labelled 'Only in NASH & ______'. Complete it.",
+   "opts": [
+    "Alcoholic liver disease",
+    "Hep B virus infection",
+    "Hep C virus infection",
+    "Hemochromatosis"
+   ],
+   "ans": 1,
+   "exp": "'Only in NASH & Hep B virus infection' — HCC without intervening cirrhosis. Cirrhosis itself branches to portal hypertension, liver failure and HCC. (Book p1030)"
+  },
+  {
+   "id": "MED-C67-013",
+   "sec": "Clinical features, investigations, fibroscan figure and enzyme algorithm",
+   "page": 1031,
+   "fmt": "oddoneout",
+   "q": "Clinical features table, 'Symptoms' column — which is NOT printed?",
+   "opts": [
+    "Vague RUQ pain",
+    "Fatigue",
+    "Malaise",
+    "Pruritus"
+   ],
+   "ans": 3,
+   "exp": "Symptoms: Vague RUQ pain, Fatigue, malaise. (Book p1031)"
+  },
+  {
+   "id": "MED-C67-014",
+   "sec": "Clinical features, investigations, fibroscan figure and enzyme algorithm",
+   "page": 1031,
+   "fmt": "match",
+   "q": "'Sign' column — hepatomegaly, then four rare signs each bracketed with its meaning. Match — 1) Splenomegaly 2) Spider angiomata 3) Ascites … A) Decompensation B) PHTN C) Liver failure",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 1,
+   "exp": "Rare: Splenomegaly (PHTN), Spider angiomata (Liver failure), Palmar erythema, Ascites (Decompensation). (Book p1031)"
+  },
+  {
+   "id": "MED-C67-015",
+   "sec": "Clinical features, investigations, fibroscan figure and enzyme algorithm",
+   "page": 1031,
+   "fmt": "truefalse",
+   "q": "Judge: I Hepatomegaly is the routine sign of NAFLD. II Palmar erythema is listed among the rare signs.",
+   "opts": [
+    "Both false",
+    "Both true",
+    "I true, II false",
+    "I false, II true"
+   ],
+   "ans": 1,
+   "exp": "Sign: Hepatomegaly; Rare: splenomegaly, spider angiomata, palmar erythema, ascites. (Book p1031)"
+  },
+  {
+   "id": "MED-C67-016",
+   "sec": "Clinical features, investigations, fibroscan figure and enzyme algorithm",
+   "page": 1031,
+   "fmt": "match",
+   "q": "Investigations 1–4 — match — 1) Biopsy 2) S. Ferritin 3) Imaging 4) Enzymes … A) Elevated B) ALT, AST C) Inflammatory changes D) USG → MR elastography > transient elastography",
+   "opts": [
+    "1-C, 2-A, 3-B, 4-D",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-A, 2-C, 3-D, 4-B"
+   ],
+   "ans": 1,
+   "exp": "1. Biopsy: inflammatory changes; 2. S. Ferritin: elevated; 3. Imaging: USG → MR elastography > transient elastography; 4. Enzymes: ALT, AST. (Book p1031)"
+  },
+  {
+   "id": "MED-C67-017",
+   "sec": "Clinical features, investigations, fibroscan figure and enzyme algorithm",
+   "page": 1031,
+   "fmt": "recall",
+   "q": "Which imaging modality is ranked higher on this page: MR elastography or transient elastography?",
+   "opts": [
+    "MR elastography > transient elastography",
+    "Transient elastography > MR elastography",
+    "They are ranked equal",
+    "USG is ranked above both"
+   ],
+   "ans": 0,
+   "exp": "'USG → MR Elastography > Transient Elastography'. (Book p1031)"
+  },
+  {
+   "id": "MED-C67-018",
+   "sec": "Clinical features, investigations, fibroscan figure and enzyme algorithm",
+   "page": 1031,
+   "fmt": "match",
+   "q": "Liver fibroscan figure — match — 1) Vs = 1.1 m/s 2) Vs = 1.7 m/s 3) Vs = 3.6 m/s … A) ~ 9 kPa B) ~ 40 kPa C) ~ 3 kPa",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 3,
+   "exp": "Panels: Vs 1.1 m/s ~3 kPa; Vs 1.7 m/s ~9 kPa; Vs 3.6 m/s ~40 kPa, above the F0–F4 scale. (Book p1031)"
+  },
+  {
+   "id": "MED-C67-019",
+   "sec": "Clinical features, investigations, fibroscan figure and enzyme algorithm",
+   "page": 1031,
+   "fmt": "numeric",
+   "q": "The fibroscan figure shows a staging strip from ______ to ______ and the probe illustration cites an explored volume of ______ × ______ cm.",
+   "opts": [
+    "S0 to S3; 2.5 × 4",
+    "F0 to F4; 5 × 10",
+    "F0 to F4; 2.5 × 4",
+    "F1 to F5; 1 × 2"
+   ],
+   "ans": 2,
+   "exp": "Strip F0 F1 F2 F3 F4; the probe inset labels 'Volumen explorado' 2.5 cm and 4 cm. (Book p1031)"
+  },
+  {
+   "id": "MED-C67-020",
+   "sec": "Clinical features, investigations, fibroscan figure and enzyme algorithm",
+   "page": 1031,
+   "fmt": "management",
+   "q": "ALT/AST algorithm: enzymes are normal. What is the printed conclusion?",
+   "opts": [
+    "NASH without cirrhosis",
+    "Cirrhosis",
+    "Repeat in 6 months",
+    "IFL (isolated fatty liver)"
+   ],
+   "ans": 3,
+   "exp": "'ALT, AST → Normal → IFL'. (Book p1031)"
+  },
+  {
+   "id": "MED-C67-021",
+   "sec": "Clinical features, investigations, fibroscan figure and enzyme algorithm",
+   "page": 1031,
+   "fmt": "match",
+   "q": "Enzymes ↑↑ (<150 U/L) — match — 1) AST < ALT 2) AST > ALT … A) Cirrhosis B) NASH (risk & cirrhosis)",
+   "opts": [
+    "1-A, 2-A",
+    "1-B, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-B"
+   ],
+   "ans": 2,
+   "exp": "'↑↑ (<150 U/L) → AST<ALT → NASH (Risk & cirrhosis); AST>ALT → Cirrhosis'. (Book p1031)"
+  },
+  {
+   "id": "MED-C67-022",
+   "sec": "Clinical features, investigations, fibroscan figure and enzyme algorithm",
+   "page": 1031,
+   "fmt": "scenario",
+   "q": "A 45-year-old obese diabetic has ALT 110, AST 70 U/L. Following the algorithm, fibroscan is done and stiffness is markedly raised (↑↑). What is the final printed label?",
+   "opts": [
+    "NASH with cirrhosis",
+    "NASH without cirrhosis",
+    "IFL",
+    "Alcoholic hepatitis"
+   ],
+   "ans": 0,
+   "exp": "AST<ALT → NASH → Fibroscan → (N) NASH without cirrhosis / ↑↑ NASH with cirrhosis. (Book p1031)"
+  },
+  {
+   "id": "MED-C67-023",
+   "sec": "Supportive treatment and drugs",
+   "page": 1032,
+   "fmt": "numeric",
+   "q": "Supportive treatment of NASH — what weight-loss target and exercise prescription are printed?",
+   "opts": [
+    "Weight loss 10% over 6 months; exercise 30–45 min/day × 5 days/week",
+    "Weight loss 5% over 3 months; exercise 60 min/day × 7 days/week",
+    "Weight loss 15% over 12 months; exercise 20 min/day × 3 days/week",
+    "Weight loss 10% over 1 month; exercise 30 min × 2 days/week"
+   ],
+   "ans": 0,
+   "exp": "'Weight loss : 10% over 6 months. Exercise : 30 – 45 minutes / day × 5 day / wk.' (Book p1032)"
+  },
+  {
+   "id": "MED-C67-024",
+   "sec": "Supportive treatment and drugs",
+   "page": 1032,
+   "fmt": "fillup",
+   "q": "Fill up the third supportive bullet: '______ fatty acids, ______'.",
+   "opts": [
+    "Omega 6; green tea",
+    "Saturated; alcohol",
+    "Trans; sucrose",
+    "Omega 3; caffeine"
+   ],
+   "ans": 3,
+   "exp": "'Omega 3 fatty acids, caffeine.' (Book p1032)"
+  },
+  {
+   "id": "MED-C67-025",
+   "sec": "Supportive treatment and drugs",
+   "page": 1032,
+   "fmt": "numeric",
+   "q": "Vitamin E is the printed DOC for NASH. What dose is given?",
+   "opts": [
+    "800–1000 unit/day",
+    "400 unit/day",
+    "100–200 unit/day",
+    "2000 unit/day"
+   ],
+   "ans": 0,
+   "exp": "'DOC : Vitamin E — 800–1000 unit/day.' (Book p1032)"
+  },
+  {
+   "id": "MED-C67-026",
+   "sec": "Supportive treatment and drugs",
+   "page": 1032,
+   "fmt": "truefalse",
+   "q": "Judge the Vitamin E sub-bullets: I Improves NASH. II Its efficacy in cirrhosis is unknown. III Takes about 2 years to show effect.",
+   "opts": [
+    "I true, II and III false",
+    "I and III true, II false",
+    "All three true",
+    "I and II true, III false"
+   ],
+   "ans": 2,
+   "exp": "'improves NASH, unknown efficacy in cirrhosis' and 'takes ~2 years to show effect'. (Book p1032)"
+  },
+  {
+   "id": "MED-C67-027",
+   "sec": "Supportive treatment and drugs",
+   "page": 1032,
+   "fmt": "recall",
+   "q": "Saroglitazar (4 mg) works by which mechanism, per the book?",
+   "opts": [
+    "PPAR-γ agonist only",
+    "GLP-1 receptor agonist",
+    "Farnesoid X receptor agonist",
+    "Dual PPAR-α + PPAR-γ agonist"
+   ],
+   "ans": 3,
+   "exp": "'Saroglitazar (4mg) : Dual PPAR-α + PPAR-γ agonist.' (Book p1032)"
+  },
+  {
+   "id": "MED-C67-028",
+   "sec": "Supportive treatment and drugs",
+   "page": 1032,
+   "fmt": "match",
+   "q": "Match — 1) Pioglitazone 2) Oral semaglutide 3) Saroglitazar … A) GLP-1 RA B) PPAR-γ agonist (may be tried) C) Dual PPAR-α + γ agonist",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 3,
+   "exp": "Pioglitazone PPAR-γ agonist (may be tried); Oral semaglutide GLP-1 RA (receptor agonist); Saroglitazar dual PPAR-α+γ. (Book p1032)"
+  }
+ ],
+ "units": [
+  {
+   "id": "MED-U67-1",
+   "ch": 67,
+   "n": 1,
+   "title": "NAFLD definition, NASH histology, risk factors and progression",
+   "sec": "Features & risk · p1030",
+   "guide": "Macrovesicular fat ≥5% hepatocytes; 80% IFL vs 20% NASH; ballooning, steatosis degree, lobular inflammation, chicken-wire zone-3 fibrosis; established (obesity, T2DM/IR, dyslipidemia, MetS, PCOS, starvation, ↓adiponectin, leptin resistance), other (hypothyroid, OSA, hypopituitarism, hypogonadism, pancreatoduodenal resection, psoriasis), drugs (L-asparaginase, bleomycin, tetracycline, griseofulvin, valproate, amiodarone); 2-hit, 10–15% over 15 yrs, direct HCC only in NASH & HBV.",
+   "qs": [
+    "MED-C67-001",
+    "MED-C67-002",
+    "MED-C67-003",
+    "MED-C67-004",
+    "MED-C67-005",
+    "MED-C67-006",
+    "MED-C67-007",
+    "MED-C67-008",
+    "MED-C67-009",
+    "MED-C67-010",
+    "MED-C67-011",
+    "MED-C67-012"
+   ]
+  },
+  {
+   "id": "MED-U67-2",
+   "ch": 67,
+   "n": 2,
+   "title": "Clinical features, investigations, fibroscan and the ALT/AST algorithm",
+   "sec": "Clinical & work-up · p1031",
+   "guide": "Vague RUQ pain, fatigue, malaise; hepatomegaly; rare splenomegaly (PHTN), spider angiomata (liver failure), palmar erythema, ascites (decompensation); biopsy, ferritin, USG → MR elastography > transient elastography, ALT/AST; Vs 1.1/1.7/3.6 m/s ≈ 3/9/40 kPa, F0–F4; normal → IFL; <150 AST<ALT → NASH → fibroscan N/↑↑; AST>ALT → cirrhosis.",
+   "qs": [
+    "MED-C67-013",
+    "MED-C67-014",
+    "MED-C67-015",
+    "MED-C67-016",
+    "MED-C67-017",
+    "MED-C67-018",
+    "MED-C67-019",
+    "MED-C67-020",
+    "MED-C67-021",
+    "MED-C67-022"
+   ]
+  },
+  {
+   "id": "MED-U67-3",
+   "ch": 67,
+   "n": 3,
+   "title": "Treatment: lifestyle and drugs",
+   "sec": "Treatment · p1032",
+   "guide": "10% weight loss over 6 months; 30–45 min × 5 days/week; omega-3, caffeine; vitamin E DOC 800–1000 U/day, improves NASH, unknown in cirrhosis, ~2 years; saroglitazar 4 mg dual PPAR-α/γ; pioglitazone PPAR-γ may be tried; oral semaglutide GLP-1 RA.",
+   "qs": [
+    "MED-C67-023",
+    "MED-C67-024",
+    "MED-C67-025",
+    "MED-C67-026",
+    "MED-C67-027",
+    "MED-C67-028"
+   ]
+  }
+ ]
+}

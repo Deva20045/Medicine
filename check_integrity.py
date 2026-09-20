@@ -83,6 +83,12 @@ LIVE_CHAPTERS = {
     61: ("Ascites and Hepatorenal Syndrome", 1005, 1009, 81, 8),
     62: ("Hepatic Encephalopathy", 1010, 1012, 32, 3),
     63: ("Metabolic Diseases of Liver", 1013, 1019, 75, 7),
+    64: ("Biliary Cirrhosis", 1020, 1022, 44, 3),
+    65: ("Autoimmune Hepatitis", 1023, 1025, 34, 3),
+    66: ("Alcoholic Liver Disease", 1026, 1029, 43, 4),
+    67: ("Nonalcoholic Steatohepatitis", 1030, 1032, 28, 3),
+    68: ("Vascular Diseases of Liver", 1033, 1035, 30, 3),
+    69: ("Hepatitis B Virus : Part 1", 1036, 1038, 40, 3),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain

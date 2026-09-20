@@ -1,0 +1,126 @@
+{
+ "page": 1035,
+ "sec": "Non-cirrhotic diseases: EHPVO vs NCPF table, PHTN note and images",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "Fill up the alternative names in the table header: NCPF / IPH / Hepatoportal ______ / Obliterative portal ______.",
+   "opts": [
+    "Sclerosis; venopathy",
+    "Fibrosis; arteriopathy",
+    "Cirrhosis; venopathy",
+    "Sclerosis; biliopathy"
+   ],
+   "ans": 0,
+   "exp": "Header: 'NCPF/IPH/Hepatoportal Sclerosis Obliterative portal venopathy)'. (Book p1035)"
+  },
+  {
+   "fmt": "match",
+   "q": "Row 'Outcome' (demographic) — match — 1) EHPVO 2) NCPF … A) 20–40 yr adult Asian male B) 3–8 yr child (m/c cause of UGI bleed in children)",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "EHPVO: 3–8 yr child (m/c cause of UGI bleed in children); NCPF: 20–40 yr adult Asian male. (Book p1035)"
+  },
+  {
+   "fmt": "match",
+   "q": "Rows 'Involvement' and 'Cause' — match — 1) EHPVO 2) NCPF … A) 3rd order portal vein; E. coli / arsenic associations, hypervitaminosis A B) 1st order portal vein; umbilical sepsis > prothrombotic state",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "EHPVO: 1st order portal vein, umbilical sepsis > prothrombotic state. NCPF: 3rd order portal vein, E. coli/arsenic, hypervitaminosis A. (Book p1035)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 6-year-old presents with massive haematemesis and a massive spleen; blood counts show anaemia and thrombocytopenia. Per the table, what explains the cytopenias and which condition is this?",
+   "opts": [
+    "Hypersplenism; EHPVO",
+    "Marrow suppression by arsenic; NCPF",
+    "Portal biliopathy; EHPVO",
+    "Consumptive coagulopathy; BCS"
+   ],
+   "ans": 0,
+   "exp": "EHPVO presentation: 'massive UGI bleed + massive spleen (hypersplenism) → Anemia, thrombocytopenia'. NCPF presents similarly but in 20–40 yr adults. (Book p1035)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Row 'Prognosis' — judge: I EHPVO prognosis is good with no risk for cirrhosis. II NCPF prognosis is good with negligible risk for cirrhosis.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "EHPVO: 'Good, with no risk for cirrhosis'; NCPF: 'Good, negligible risk for cirrhosis'. (Book p1035)"
+  },
+  {
+   "fmt": "match",
+   "q": "Row 'Investigations' — match — 1) EHPVO 2) NCPF … A) IOC Doppler; biopsy (gold standard) shows obliterative portal venopathy B) IOC CT; cavernoma appearance of collaterals",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "EHPVO: IOC CT, cavernoma appearance of collaterals. NCPF: IOC Doppler, biopsy gold std — obliterative portal venopathy. (Book p1035)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up (EHPVO complications): Stunted growth and portal ______ — compression of the biliary system by portal ______.",
+   "opts": [
+    "biliopathy; collaterals",
+    "cholangiopathy; thrombus",
+    "biliopathy; lymph nodes",
+    "venopathy; cavernoma"
+   ],
+   "ans": 0,
+   "exp": "'Portal biliopathy : compression of biliary system by portal collaterals.' NCPF complications: '—'. (Book p1035)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What treatment is printed for EHPVO, and what is printed for NCPF?",
+   "opts": [
+    "EHPVO: endoscopic variceal ligation / endoscopic sclerotherapy; NCPF: '—' (none printed)",
+    "EHPVO: TIPSS after failed angioplasty; NCPF: liver transplant (only treatment)",
+    "EHPVO: mandatory anticoagulation; NCPF: splenectomy with devascularisation",
+    "Both: angioplasty ± stenting, then endoscopic sclerotherapy on failure"
+   ],
+   "ans": 0,
+   "exp": "Treatment row: EHPVO = Endoscopic variceal ligation / Endoscopic sclerotherapy; NCPF = '—'. (Book p1035)"
+  },
+  {
+   "fmt": "match",
+   "q": "Note on the most common cause of portal hypertension — 1) Asia 2) World … A) Biliary atresia B) EHPVO",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'m/c cause of PHTN : Asia: EHPVO; world: Biliary atresia.' (Book p1035)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match — 1) CECT panels 2) Colour Doppler 3) Trichrome/H&E micrograph … A) Obliterative portal venopathy — sclerotic & non-patent portal tracts B) EHPVO showing collaterals C) EHPVO with cavernoma labelled",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "'CECT: EHPVO showing collaterals'; 'Color doppler : EHPVO' with 'Cavernoma' arrow; 'Obliterative portal venopathy' with 'Sclerotic & non patent portal tracts'. (Book p1035)"
+  }
+ ]
+}
