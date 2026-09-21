@@ -1,0 +1,150 @@
+{
+ "page": 1058,
+ "sec": "Scrub typhus: agent, progression, features and treatment; malaria life cycle",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "What is the infectious agent of scrub typhus, as printed?",
+   "opts": [
+    "Orientia tsutsugamushi",
+    "Rickettsia rickettsii",
+    "Leptospira interrogans",
+    "Coxiella burnetii"
+   ],
+   "ans": 0,
+   "exp": "'Infectious agent : Orientia tsutsugamushi'. (Book p1058)"
+  },
+  {
+   "fmt": "match",
+   "q": "Disease progression in scrub typhus — match — 1) Renal lesion 2) Immunological phase … A) Micro-infarcts in kidney with ATN and a thrombotic microangiopathic pattern B) No immunological phase",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'micro infarct in kidney (ATN + Thrombotic microangiopathic pattern)' and 'No immunological phase'. (Book p1058)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is printed as the characteristic feature of scrub typhus?",
+   "opts": [
+    "Eschar",
+    "Rose spots",
+    "Koplik spots",
+    "Target lesion"
+   ],
+   "ans": 0,
+   "exp": "'Characteristic feature : Eschar'. (Book p1058)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the scrub typhus block: I The presentation resembles leptospirosis. II Lymphadenopathy appears at the end of one week.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "'· Similar presentation as leptospirosis' and 'Lymphadenopathy at the end of one week'. (Book p1058)"
+  },
+  {
+   "fmt": "match",
+   "q": "Untreated scrub typhus — match the feature to its timing/type — 1) CNS involvement 2) Hearing 3) Eye movements … A) Sensorineural deafness, reversible B) Opsoclonus and myoclonus C) Within one week",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'If untreated → CNS involvement (within one week) : Sensorineural deafness (Reversible), Opsoclonus, myoclonus'. (Book p1058)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What doxycycline regimen is printed for scrub typhus?",
+   "opts": [
+    "100 mg BD for 7 days",
+    "100 mg BD for 14 days",
+    "200 mg single dose",
+    "500 mg OD for 5 days"
+   ],
+   "ans": 0,
+   "exp": "'Doxycycline 100mg BD × 7 days'. (Book p1058)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What azithromycin regimen is printed as the alternative for scrub typhus?",
+   "opts": [
+    "500 mg once daily for 5 days",
+    "1 g once daily for 7 days",
+    "500 mg BD for 7 days",
+    "250 mg OD for 10 days"
+   ],
+   "ans": 0,
+   "exp": "'Azithromycin 500mg OD × 5 days'. (Book p1058)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the scrub typhus treatment: I Doxycycline 100 mg twice daily for 7 days. II Azithromycin 500 mg once daily for 5 days is the alternative.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Both regimens are printed on the scrap typhus block. (Book p1058)"
+  },
+  {
+   "fmt": "match",
+   "q": "Malaria life cycle — match — 1) Infective form 2) Liver stage 3) Blood stage … A) Pre-erythrocytic schizogony B) Sporozoites C) Erythrocytic schizogony with merozoite release and RBC rupture",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'Sporozoites (Infective form) → Via blood → Liver → Pre-erythrocytic schizogony → Released → merozoites → Rupture RBC's → Erythrocytic schizogony → Fever'. (Book p1058)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is printed as the infective form in the malaria life cycle?",
+   "opts": [
+    "Sporozoites",
+    "Merozoites",
+    "Trophozoites",
+    "Gametocytes"
+   ],
+   "ans": 0,
+   "exp": "'Sporozoites (Infective form)'. (Book p1058)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which stage name is given to hepatic schizogony on this page?",
+   "opts": [
+    "Pre-erythrocytic schizogony",
+    "Exo-erythrocytic schizogony",
+    "Cryptozoite stage",
+    "Hypnozoite stage"
+   ],
+   "ans": 0,
+   "exp": "'Liver → Pre-erythrocytic schizogony'. (Book p1058)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the malaria cycle: I Sporozoites reach the liver through the blood. II Fever coincides with erythrocytic schizogony and RBC rupture.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Both statements follow the printed cycle ending in 'Erythrocytic schizogony → Fever'. (Book p1058)"
+  }
+ ]
+}

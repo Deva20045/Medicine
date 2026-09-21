@@ -44,12 +44,18 @@ Read `PROGRESS.md`, `SOURCE_REVIEW.md`, and `SELF_AUDIT_BOOK_ORDER.md` before co
 - Re-check source coverage and order manually; record exact reviewed scope,
   remaining failures, and limitations in the audit and `PROGRESS.md`.
 
-## Current continuation state (2026-09-20)
+## Current continuation state (updated 2026-09-21)
 - The user requested continuation through **all 74 chapters**, strictly in order.
+- **Ch 70–74, p1039–1068:** built as 391 questions in 22 units on 2026-09-21
+  (`author_c70.py`–`author_c74.py`, report in `REPORT_CH70-74.md`). The roadmap is now
+  **complete: 74/74 chapters live, 5,324 questions, 412 units, all 364 book pages**.
 - **Ch 1–3, p705–725:** rebuilt to 140, 148 and 202 questions with ordered source
   checklists in `data/source_review/`, source caveats, and unchanged unit IDs/history.
-- **Next: Ch 4, Juxtaglomerular Apparatus, p726–729.** There are 71 chapters still pending
-  this source-review standard, including both existing and unbuilt content.
+- **Next (authoritative): the strict recorded line-by-line source review of Ch 4–74.**
+  Recorded review manifests exist for Ch 1–3 only, so
+  `python3 check_source_coverage.py --require-all` fails by design. Ch 4 remains the
+  earliest pending chapter; continue in book order and never describe an incremental
+  merge as whole-book compliance.
 - The initial Ch 1 backward jump is repaired. PR #18 replaced Ch 52–56 with a
   338-question bank; preserve it. Old Ch 54 findings refer to the replaced bank,
   and the replacement must be source-reviewed when reached. Whole-book compliance

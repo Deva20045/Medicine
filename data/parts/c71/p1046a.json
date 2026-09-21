@@ -1,0 +1,222 @@
+{
+ "page": 1046,
+ "sec": "HCV progression, acute disease, serology and interpretation, SVR, drugs and extrahepatic disease",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Progression chain — match — 1) After infection 2) Acute phase 3) Chronic phase 4) End stage … A) Chance for chronic hepatitis B) Cirrhosis / liver failure / portal hypertension C) HCC D) Incubation period of about 50 days",
+   "opts": [
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-D, 2-B, 3-A, 4-C",
+    "1-C, 2-A, 3-B, 4-D"
+   ],
+   "ans": 0,
+   "exp": "'Incubation period : 50 days → Acute → Chance for chronic → Cirrhosis / Liver failure (PHTN) → HCC'. (Book p1046)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Incubation period printed for HCV?",
+   "opts": [
+    "About 50 days",
+    "About 15 days",
+    "About 60 days",
+    "About 6 months"
+   ],
+   "ans": 0,
+   "exp": "'Incubation period : 50 days'. (Book p1046)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the acute phase: I Acute HCV is usually anicteric and therefore usually undiagnosed. II Enzymes are variable and fulminant failure occurs in 0.1 – 1%.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "'Acute : Anicteric hepatitis, usually undiagnosed; Enzymes : variable; Fulminant failure : 0.1-1%'. (Book p1046)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Risk of fulminant hepatic failure printed for acute HCV?",
+   "opts": [
+    "0.1 – 1%",
+    "5 – 20%",
+    "10 – 30%",
+    "0.01%"
+   ],
+   "ans": 0,
+   "exp": "'Fulminant failure : 0.1-1%'. (Book p1046)"
+  },
+  {
+   "fmt": "match",
+   "q": "Serology — match the marker to the window — 1) Earliest marker after infection 2) Appears after the serological window … A) Anti-HCV B) HCV RNA",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "The window phase shows HCV RNA first, with anti-HCV appearing later ('Serologic window', 'HCV RNA', 'Anti-HCV' sequence). (Book p1046)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "An immunosuppressed patient (CKD / haemodialysis / HIV) has a negative anti-HCV EIA. What does this page advise?",
+   "opts": [
+    "Test HCV RNA, because such patients may not produce anti-HCV",
+    "Repeat anti-HCV after 6 months only",
+    "No further testing is needed — the patient is not infected",
+    "Do a liver biopsy to rule out cirrhosis"
+   ],
+   "ans": 0,
+   "exp": "'CKD / Hemodialysis / HIV (Immunosuppressed patients may not produce anti-HCV) → HCV RNA'. (Book p1046)"
+  },
+  {
+   "fmt": "match",
+   "q": "Interpretation of anti-HCV EIA — match — 1) Positive 2) Negative … A) No HCV contact B) Acute / chronic infection or recovered",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'+ve → acute / chronic infection / recovered'; '-ve → No HCV contact'. (Book p1046)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which investigation is printed to rule out cirrhosis in chronic HCV?",
+   "opts": [
+    "Fibroscan",
+    "MRCP",
+    "Liver biopsy",
+    "Ct abdomen"
+   ],
+   "ans": 0,
+   "exp": "'Fibroscan (to rule out cirrhosis)'. (Book p1046)"
+  },
+  {
+   "fmt": "match",
+   "q": "Presentation — match — 1) Acute HCV 2) Chronic HCV … A) Asymptomatic / extrahepatic manifestations B) Fever, flu-like illness, fatigue",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'Acute : Fever / flu like illness, fatigue'; 'Chronic : Asymptomatic / extra hepatic manifestations'. (Book p1046)"
+  },
+  {
+   "fmt": "match",
+   "q": "Sustained viral response — match the condition to the printed SVR — 1) Chronic HCV 2) Cirrhosis 3) Decompensated liver disease … A) 60% B) 75% C) 99.5 – 99.7%",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'Condition : Chronic HCV / Cirrhosis / Decompensated liver disease; Response (SVR) : 99.5-99.7% / 75 / 60%'. (Book p1046)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What age threshold does the page print for treating HCV?",
+   "opts": [
+    "Treat anyone above 12 years of age",
+    "Treat anyone above 18 years of age",
+    "Treat only adults above 40 years",
+    "Treat only after fibrosis stage F2"
+   ],
+   "ans": 0,
+   "exp": "'Treat anyone > 12 years of age'. (Book p1046)"
+  },
+  {
+   "fmt": "match",
+   "q": "Regimen — match the DAA class to the drug printed — 1) NS3 2) NS5A 3) NS5B … A) Sofosbuvir B) Velpatasvir C) Glecaprevir / simeprevir",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "'NS3 (-) : Glecaprevir / simeprevir; NS5A (-) : velpatasvir; NS5B (-) : Sofosbuvir + Ribavirin'. (Book p1046)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Duration printed for the DAA combination in chronic HCV with cirrhosis?",
+   "opts": [
+    "12 weeks",
+    "24 weeks",
+    "8 weeks",
+    "48 weeks"
+   ],
+   "ans": 0,
+   "exp": "'Combination for 12 weeks for chronic HCV with cirrhosis'. (Book p1046)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which DAA component is flagged as not available in India on this page?",
+   "opts": [
+    "Velpatasvir (NS5A)",
+    "Sofosbuvir (NS5B)",
+    "Glecaprevir (NS3)",
+    "Ribavirin"
+   ],
+   "ans": 0,
+   "exp": "'Not available in India' is printed against the NS5A agent velpatasvir. (Book p1046)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is NOT one of the printed extrahepatic manifestations of HCV?",
+   "opts": [
+    "Kayser-Fleischer rings",
+    "Sjogren's syndrome",
+    "Porphyria cutanea tarda",
+    "Lichen planus"
+   ],
+   "ans": 0,
+   "exp": "Printed list: Sjogren's syndrome, extranodal B-cell marginal zone lymphoma, essential mixed cryoglobulinaemia, porphyria cutanea tarda, lichen planus, MPGN, autoimmune thyroid illness. (Book p1046)"
+  },
+  {
+   "fmt": "match",
+   "q": "Extrahepatic manifestations — match — 1) Essential mixed cryoglobulinaemia 2) Extranodal marginal zone lymphoma 3) Renal lesion … A) Salivary gland B) Classical MPGN C) Type 2 and type 3",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'Essential mixed cryoglobulinemia type 2, 3'; 'extranodal B cell marginal zone lymphoma (MZL) : salivary gland'; 'Classical MPGN (membranoproliferative glomerulonephritis)'. (Book p1046)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which thyroid disease is printed among the extrahepatic associations of HCV?",
+   "opts": [
+    "Autoimmune thyroid illness (Hashimoto)",
+    "Graves disease",
+    "Riedel thyroiditis",
+    "Subacute de Quervain thyroiditis"
+   ],
+   "ans": 0,
+   "exp": "'Autoimmune thyroid illness (Hashimoto)'. (Book p1046)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the printed treatment headline for chronic HCV drugs?",
+   "opts": [
+    "New DAAs, pangenotypic drugs with markedly improved SVR",
+    "Interferon plus ribavirin for 48 weeks",
+    "Lamivudine monotherapy",
+    "Tenofovir alafenamide"
+   ],
+   "ans": 0,
+   "exp": "'Drugs : New DAAs, pangenomic drugs with ↑↑ SVR'. (Book p1046)"
+  }
+ ]
+}

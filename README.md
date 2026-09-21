@@ -18,8 +18,8 @@ Only answer options may shuffle; questions must remain in source order.
 > branch previews here). Open `pulse-medicine.html` directly — no build step.
 
 ## Status
-All 74 chapters are listed from day one; live chapters unlock automatically, the
-rest show a **Soon** badge.
+All 74 chapters are listed from day one and **all 74 are now live** (Ch 70–74 completed the
+roadmap on 2026-09-21; see [`REPORT_CH70-74.md`](REPORT_CH70-74.md)).
 
 | Scope | Status |
 |---|---|
@@ -76,7 +76,17 @@ rest show a **Soon** badge.
 | Ch 61 · Ascites and Hepatorenal Syndrome (p1005–1009) — 8 units, 81 questions | ✅ live |
 | Ch 62 · Hepatic Encephalopathy (p1010–1012) — 3 units, 32 questions | ✅ live |
 | Ch 63 · Metabolic Diseases of Liver (p1013–1019) — 7 units, 75 questions | ✅ live |
-| Ch 64–74 (Biliary Cirrhosis, Viral Hepatitis, Infectious Diseases) | 🚧 in progress |
+| Ch 64 · Biliary Cirrhosis (p1020–1022) — 3 units, 44 questions | ✅ live |
+| Ch 65 · Autoimmune Hepatitis (p1023–1025) — 3 units, 34 questions | ✅ live |
+| Ch 66 · Alcoholic Liver Disease (p1026–1029) — 4 units, 43 questions | ✅ live |
+| Ch 67 · Nonalcoholic Steatohepatitis (p1030–1032) — 3 units, 28 questions | ✅ live |
+| Ch 68 · Vascular Diseases of Liver (p1033–1035) — 3 units, 30 questions | ✅ live |
+| Ch 69 · Hepatitis B Virus : Part 1 (p1036–1038) — 3 units, 40 questions | ✅ live |
+| Ch 70 · Hepatitis B Virus : Part 2 (p1039–1044) — 6 units, 91 questions | ✅ live |
+| Ch 71 · Hepatitis C Virus (p1045–1046) — 2 units, 33 questions | ✅ live |
+| Ch 72 · Infective Endocarditis (p1047–1052) — 6 units, 76 questions | ✅ live |
+| Ch 73 · Tropical Infections: Synopsis (p1053–1060) — 4 units, 95 questions | ✅ live |
+| Ch 74 · HIV (p1061–1068) — 4 units, 96 questions | ✅ live |
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 74-chapter
 roadmap, data schema, per-chapter pipeline, and NEXT step.
@@ -104,6 +114,7 @@ roadmap, data schema, per-chapter pipeline, and NEXT step.
 | `REPORT_CH60-61.md` | Build report for Ch 60–61 (Portal Hypertension, Ascites and HRS) |
 | `REPORT_CH52-56.md` | Build report for Ch 52–56 (Hyponatremia → Liver Development and Anatomy) |
 | `REPORT_CH57-59_62-63.md` | Build report for Ch 57–59 & 62–63 (Hepatology Physiology, ALF, Cirrhosis, HE, Wilson's & Hemochromatosis) |
+| `REPORT_CH70-74.md` | Build report for Ch 70–74 (HBV Part 2, HCV, Infective Endocarditis, Tropical Infections, HIV) |
 
 ## Run the checks (after any content change)
 ```bash
@@ -114,6 +125,11 @@ node check_app_smoke.js
 python3 audit_variety.py
 python3 check_source_coverage.py --write-report
 ```
+
+Reading the scan while authoring (`_render/` helpers, not needed to run the app):
+`_render/batch_dump.py <first> <last>` renders pages and OCRs them into ordered lines
+(`_render/ocr/<page>.txt`); `_render/asciiart.py` prints a zoomed region as ASCII for
+verifying numbers, which OCR garbles in these notes.
 
 For a whole-book completion claim, also run:
 ```bash

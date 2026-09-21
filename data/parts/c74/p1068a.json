@@ -1,0 +1,138 @@
+{
+ "page": 1068,
+ "sec": "Preferred regimens, NACO/TLD regimen and post-exposure prophylaxis",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "How many drugs are printed in the preferred antiretroviral combination?",
+   "opts": [
+    "3 drugs",
+    "2 drugs",
+    "4 drugs",
+    "1 drug"
+   ],
+   "ans": 0,
+   "exp": "'3 drug combination : Preferred combination'. (Book p1068)"
+  },
+  {
+   "fmt": "match",
+   "q": "TED regimen — match the drug to the dose — 1) Tenofovir 2) Emtricitabine 3) Dolutegravir … A) 200 mg once daily B) 50 mg once daily C) 300 mg once daily",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'TED regimen : (300 mg OD) + (200 mg OD) + (50 mg OD)' for tenofovir, emtricitabine and dolutegravir. (Book p1068)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What does the 'E' in the TED regimen stand for?",
+   "opts": [
+    "Emtricitabine",
+    "Efavirenz",
+    "Ethambutol",
+    "Enfuvirtide"
+   ],
+   "ans": 0,
+   "exp": "TED = tenofovir, emtricitabine, dolutegravir. (Book p1068)"
+  },
+  {
+   "fmt": "match",
+   "q": "NACO / TLD regimen — match the drug to the dose — 1) Tenofovir 2) Lamivudine 3) Dolutegravir … A) 300 mg B) 50 mg once daily C) 300 mg once daily",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'NACO regimen / TLD regimen : (300 mg OD) + (300 mg) + (50 mg OD)'. (Book p1068)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which backbone drug differs between the TED and the NACO/TLD regimen?",
+   "opts": [
+    "Emtricitabine in TED is replaced by lamivudine in TLD",
+    "Tenofovir is replaced by abacavir",
+    "Dolutegravir is replaced by raltegravir",
+    "The backbones are identical"
+   ],
+   "ans": 0,
+   "exp": "TED uses emtricitabine 200 mg while TLD uses lamivudine 300 mg. (Book p1068)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up (Post-exposure prophylaxis): 'Optimally effective if started within ______ hours.'",
+   "opts": [
+    "72",
+    "24",
+    "48",
+    "96"
+   ],
+   "ans": 0,
+   "exp": "'Prophylaxis (After needle injury) : Optimally effective if started within 72 hours'. (Book p1068)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What regimen and duration are printed for post-exposure prophylaxis after a needlestick?",
+   "opts": [
+    "TED regimen for 4 weeks",
+    "TED regimen for 4 days",
+    "TLD regimen for 2 weeks",
+    "Zidovudine alone for 4 weeks"
+   ],
+   "ans": 0,
+   "exp": "'· TeD regimen for 4 weeks'. (Book p1068)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which adverse effect is printed against tenofovir in this section?",
+   "opts": [
+    "Bone toxicity",
+    "Peripheral neuropathy",
+    "Optic neuritis",
+    "Haemolytic anaemia"
+   ],
+   "ans": 0,
+   "exp": "'S/e : Bone toxicity with tenofovir'. (Book p1068)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the regimen page: I The preferred combination has three drugs, TED being tenofovir, emtricitabine and dolutegravir. II After a needlestick the same TED regimen is given for 4 weeks, ideally started within 72 hours.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "'3 drug combination : Preferred combination : TED regimen' and 'Prophylaxis (After needle injury) : Optimally effective if started within 72 hours · TED regimen for 4 weeks'. (Book p1068)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A health-care worker has a needlestick exposure and presents at 60 hours. What does the page advise?",
+   "opts": [
+    "Start the TED regimen for 4 weeks — it is still within the 72-hour window",
+    "No prophylaxis is useful after 48 hours",
+    "Give zidovudine alone for 1 week",
+    "Wait for the source patient's viral load result before starting"
+   ],
+   "ans": 0,
+   "exp": "'Optimally effective if started within 72 hours · TED regimen for 4 weeks'. (Book p1068)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which two integrase-inhibitor-containing regimens are named on the last page of this chapter?",
+   "opts": [
+    "TED and the NACO / TLD regimen",
+    "TEE and ABC/3TC",
+    "ZDV/3TC/NVP and TDF/FTC/EFV",
+    "Only the TLD regimen"
+   ],
+   "ans": 0,
+   "exp": "Both the TED regimen and the NACO / TLD regimen end with dolutegravir 50 mg once daily. (Book p1068)"
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "page": 1063,
+ "sec": "Structural and non-structural genes, infection sources and modes of transmission",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "Fill up: the HIV genome is printed as '______ copies of ssRNA'.",
+   "opts": [
+    "2",
+    "1",
+    "4",
+    "10"
+   ],
+   "ans": 0,
+   "exp": "'2 Copies of ssRNA'. (Book p1063)"
+  },
+  {
+   "fmt": "match",
+   "q": "Structural genes — match the gene to its product — 1) env 2) pol 3) gag … A) Reverse transcriptase, integrase and protease B) p17 matrix protein and p24 core protein C) gp120 spike protein and gp41 transmembrane pedicle protein",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'Env : codes gp120 (Spike protein), gp41 (Transmembrane pedicle protein); POL : codes Enzymes : Reverse transcriptase, Integrase, Protease; GAG : codes P17 (matrix protein), P24 (Core protein / nucleocapsid protein)'. (Book p1063)"
+  },
+  {
+   "fmt": "match",
+   "q": "Non-structural genes — match — 1) Nef 2) Vif 3) Rev 4) Tat … A) Viral infectivity factor B) Regulation of viral expression C) Transcription activator D) Negative effector, downregulates host CD4 cells",
+   "opts": [
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "'· Nef/P : Negative effector → Downregulates host CD4 cells; · vif : Viral infectivity factor; Rev : Regulation of viral expression; Tat : Transcription activator'. (Book p1063)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which gene is printed as downregulating host CD4 cells?",
+   "opts": [
+    "Nef",
+    "Vif",
+    "Vpr",
+    "Vpu"
+   ],
+   "ans": 0,
+   "exp": "'· Nef/P : Negative effector → Downregulates host CD4 cells'. (Book p1063)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which two accessory proteins are printed at the end of the non-structural gene list?",
+   "opts": [
+    "Vpu and Vpx",
+    "Vpr and Vpu only",
+    "Rev and Tat",
+    "Nef and Vif"
+   ],
+   "ans": 0,
+   "exp": "The list ends with Vpr (viral protein R) and 'Vpu / Vpx'. (Book p1063)"
+  },
+  {
+   "fmt": "match",
+   "q": "Infection sources — match the concentration to the fluid — 1) Highest 2) As high as blood 3) Low … A) Semen and vaginal fluid B) Tears, saliva, urine and breast milk C) Blood, pus from sores and CSF",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'High concentration : · Blood, · Semen/vaginal fluid (As high as blood), · Pus from sores, CSF'; 'Low concentration : Tears, Saliva (SLIP), urine, Breast milk'. (Book p1063)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What expansion is printed for SLIP in the low-concentration list?",
+   "opts": [
+    "Salivary lymphocyte inhibitory protein",
+    "Salivary leukocyte inhibitory peptide",
+    "Secretory lysosomal inhibitor protein",
+    "Salivary lactoferrin inhibitory protein"
+   ],
+   "ans": 0,
+   "exp": "'Saliva (SLIP : Salivary lymphocyte inhibitory protein)'. (Book p1063)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which body fluid is printed as carrying as high a viral concentration as blood?",
+   "opts": [
+    "Semen and vaginal fluid",
+    "Saliva",
+    "Breast milk",
+    "Urine"
+   ],
+   "ans": 0,
+   "exp": "'· Semen/vaginal fluid (As high as blood)'. (Book p1063)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which mode of transmission is printed first in the mode-of-transmission list?",
+   "opts": [
+    "Sexual",
+    "Parent to child",
+    "IV drug abuse",
+    "Blood transfusion"
+   ],
+   "ans": 0,
+   "exp": "'Sexual > Parent to child > IV drug abuse > Blood transfusion > Needle stick'. (Book p1063)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Which exposure is printed as carrying the maximum per-exposure risk, and at what figure?",
+   "opts": [
+    "Blood transfusion, at 9,250 per 10,000",
+    "Needlestick, at 925 per 10,000",
+    "Sexual contact, at 90 per 10,000",
+    "IV drug use, at 9 per 10,000"
+   ],
+   "ans": 0,
+   "exp": "'maximum : Blood transfusion (9250/10,000) > Parent to child > IV drug abuse > Needle stick'. (Book p1063)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the transmission page: I Sexual transmission outranks parent-to-child, IV drug use, transfusion and needlestick in frequency. II Per exposure, transfusion carries the highest risk.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "'Sexual > Parent to child > IV drug abuse > Blood transfusion > Needle stick' and 'maximum : Blood transfusion (9250/10,000)'. (Book p1063)"
+  }
+ ]
+}

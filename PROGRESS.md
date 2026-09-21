@@ -141,13 +141,14 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 67 | Nonalcoholic Steatohepatitis | p1030 | LIVE (28 q, 3 u)
 | 68 | Vascular Diseases of Liver | p1033 | LIVE (30 q, 3 u)
 | 69 | Hepatitis B Virus : Part 1 | p1036 | LIVE (40 q, 3 u)
-| 70 | Hepatitis B Virus : Part 2 | p1039 | SOON
-| 71 | Hepatitis C Virus | p1045 | SOON
-| 72 | Infective Endocarditis | p1047 | SOON
-| 73 | Tropical Infections: Synopsis | p1053 | SOON
-| 74 | HIV | p1061 | SOON
-*(Status column: Ch 1–35, 60, 61 = **LIVE**; the rest = **SOON** — rendered in the app
-as a locked "Soon" row. Update this table as chapters go live.)*
+| 70 | Hepatitis B Virus : Part 2 | p1039 | LIVE (91 q, 6 u)
+| 71 | Hepatitis C Virus | p1045 | LIVE (33 q, 2 u)
+| 72 | Infective Endocarditis | p1047 | LIVE (76 q, 6 u)
+| 73 | Tropical Infections: Synopsis | p1053 | LIVE (95 q, 4 u)
+| 74 | HIV | p1061 | LIVE (96 q, 4 u)
+*(Status column: every chapter 1–74 is now **LIVE** — the roadmap was completed with
+Ch 70–74 on 2026-09-21. The remaining gate is the strict recorded line-by-line source
+review of Ch 4–74 in `SOURCE_REVIEW.md`.)*
 
 ### Section spans
 - **Nephrology** — Ch 1–22 (p705→p815)
@@ -444,4 +445,44 @@ coverage and source-fidelity notes: **REPORT_CH64-69.md**.
 **Current bank total: 4,933 questions · 390 units · 69 live chapters**, covering a continuous
 334-page span from Book p705 to p1038. Recorded source-review manifests remain 3/74 (Ch 1–3).
 
-**Next: Ch 70 "Hepatitis B Virus : Part 2" (p1039–1044).**
+**Next: the roadmap is complete.** Remaining work is the strict recorded line-by-line
+source review of Ch 4–74 (`SOURCE_REVIEW.md`), the only outstanding gate before whole-book
+compliance can be claimed. Reports: `REPORT_CH70-74.md`.
+
+## Latest batch — Chapters 70–74 (2026-09-21)
+
+**391 new questions · 22 units · all 30 pages p1039–1068.**
+Ch 70: 91 q / 6 u; Ch 71: 33 q / 2 u; Ch 72: 76 q / 6 u; Ch 73: 95 q / 4 u; Ch 74: 96 q / 4 u.
+
+Covers HBV Part 2 (vertical transmission and the 90/10 rule, antenatal care at 28–30 weeks
+with HBV DNA > 20,000, newborn HBIg 0.5 ml plus vaccine 0-1-6 within 12 hours, post-exposure
+prophylaxis by anti-HBs level with HBIG 0.06 mL/kg at 14 days for sexual exposure and 24 hours
+for percutaneous exposure, general and CKD vaccination schedules, the five phases of chronic
+HBV, reactivation before immunosuppression, the life cycle with cccDNA, acute and chronic
+treatment thresholds, the drug tables and hepatitis D coinfection versus superinfection),
+HCV (lipoviral particle and steatosis, 9.7 kb polyprotein, DAA suffixes, genotypes,
+transmission risks, serology, SVR by disease stage, pangenotypic DAAs above 12 years and the
+extrahepatic list), infective endocarditis (definition and vegetations, risk factors, sided
+distribution, NBTE pathogenesis, classification, organisms by valve and timing, subacute
+features with Janeway versus Osler, complications, the modified Duke criteria with
+blood-culture technique, echocardiography choice, organism-directed regimens, culture-negative
+disease, surgery and prophylaxis), the tropical-infections synopsis (day-wise fever approach,
+salmonellosis, typhoid treatment, dengue critical phase, leptospirosis, scrub typhus and
+malaria from life cycle to treatment) and HIV (history, CDC staging, AIDS-defining and
+category B conditions, structure, genes, transmission, replication steps with drug classes,
+untreated course, testing algorithm, opportunistic infections by CD4, CMV and MAC, drug
+classes, TED/TLD regimens and post-exposure prophylaxis).
+
+**Current bank total: 5,324 questions · 412 units · 74 live chapters**, covering all 364
+in-scope Book pages (Book p705–1068). Recorded source-review manifests remain 3/74 (Ch 1–3).
+
+Pages were read by whole-page OCR into ordered lines (`_render/batch_dump.py`) plus zoomed
+ASCII renders of individual tokens (`_render/asciiart.py`), because the PP-OCRv4 recogniser
+reads these notes' words well but garbles every digit; restricted-alphabet decoding was
+tried and did not fix digits, so values were verified glyph by glyph. Two printed items
+could not be resolved and are recorded rather than guessed: the low/high replicative branch
+mapping on p1041 and the third congenital risk factor on p1047; the HCV perinatal figure is
+taught qualitatively for the same reason. Page-by-page coverage, source-order handling and
+verification: **REPORT_CH70-74.md**. The runtime regression exercises both correct and
+incorrect paths for all 391 new questions (782 answer paths across 22 units), with no format
+defects in the new chapters.

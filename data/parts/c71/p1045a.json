@@ -1,0 +1,186 @@
+{
+ "page": 1045,
+ "sec": "HCV structure, lipoviral particle, genome, genes and DAA suffixes, genotypes, transmission",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "Fill up (Structure): '______ sense RNA virus : ______ (Family), ______ (Sub family).'",
+   "opts": [
+    "+ve; Flaviviridae; Hepaciviridae",
+    "-ve; Flaviviridae; Hepaciviridae",
+    "+ve; Hepaciviridae; Flaviviridae",
+    "-ve; Retroviridae; Lentivirinae"
+   ],
+   "ans": 0,
+   "exp": "'+ve sense RNA virus : Flaviviridae (Family), Hepaciviridae (Sub family)'. (Book p1045)"
+  },
+  {
+   "fmt": "recall",
+   "q": "How does the page describe the HCV virion?",
+   "opts": [
+    "A lipoviral particle bound to VLDL / LDL",
+    "A 42 nm Dane particle",
+    "A naked icosahedral capsid",
+    "An enveloped DNA nucleocapsid"
+   ],
+   "ans": 0,
+   "exp": "'Virion (lipo viral particle) : Bound to VLDL / LDL — causes Steatosis'. (Book p1045)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Which mechanism does this page give for steatosis in chronic hepatitis C?",
+   "opts": [
+    "The lipoviral particle is bound to VLDL / LDL",
+    "Autoimmune destruction of bile ducts",
+    "Iron overload from repeated phlebotomy",
+    "Alcohol-like acetaldehyde toxicity"
+   ],
+   "ans": 0,
+   "exp": "'Virion (lipo viral particle) : Bound to VLDL/LDL → causes Steatosis'. (Book p1045)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the steatosis note: I Hepatitis A, B and D are listed as not causing steatosis. II HCV causes steatosis through its lipoviral particle.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "'Hepatitis A, B, D & E do not cause steatosis' follows the lipoviral-particle note. (Book p1045)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Genome length and coding capacity printed for HCV?",
+   "opts": [
+    "9.7 kb, coding for about 3,000 amino acids as a polyprotein",
+    "3.2 kb, coding for about 300 amino acids",
+    "9.7 kb, coding for four separate structural proteins only",
+    "1.7 kb, coding for about 900 amino acids"
+   ],
+   "ans": 0,
+   "exp": "'Length : 9.7 kb — codes for ~3000 amino acid polyprotein'. (Book p1045)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which host enzyme is printed as cleaving the structural from the non-structural genes?",
+   "opts": [
+    "Host signal peptidase",
+    "Viral NS3 protease",
+    "Host furin",
+    "Viral NS5B polymerase"
+   ],
+   "ans": 0,
+   "exp": "'Structural genes / Non-structural genes' are separated by 'host signal peptidase'. (Book p1045)"
+  },
+  {
+   "fmt": "match",
+   "q": "DAA drug-name suffixes — match — 1) NS3 2) NS5A 3) NS5B … A) -asvir B) -buvir C) -previr",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "'NS3 (-) : Previr; NS5A (-) : Asvir; NS5B (-) : buvir' under 'New Directly Acting Antivirals (DAAs)'. (Book p1045)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "How many HCV genotypes does the page print, and which one is commonest in India?",
+   "opts": [
+    "7 genotypes; genotype 3 commonest in India",
+    "6 genotypes; genotype 1 commonest in India",
+    "7 genotypes; genotype 4 commonest in India",
+    "3 genotypes; genotype 2 commonest in India"
+   ],
+   "ans": 0,
+   "exp": "'7 genotypes : Genotype 1 : m/c (world); Genotype 3 : m/c (India)'. (Book p1045)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the genotype note: I Genotype 1 is the commonest worldwide. II Genotype 3, commonest in India, carries the worst prognosis and is linked to cirrhosis and HCC.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "'Genotype 1 : m/c (world)'; 'Genotype 3 : m/c (India) — worst prognosis'; 'Note : Associated with Cirrhosis / Hepatocellular carcinoma'. (Book p1045)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The note 'Hepatitis A, B, D & E do not cause steatosis' is printed next to the description of which virus?",
+   "opts": [
+    "Hepatitis C virus",
+    "Hepatitis A virus",
+    "Hepatitis D virus",
+    "Hepatitis E virus"
+   ],
+   "ans": 0,
+   "exp": "The note follows the HCV lipoviral-particle line that explains steatosis. (Book p1045)"
+  },
+  {
+   "fmt": "match",
+   "q": "Transmission — match the route to the printed risk — 1) Transfusion 2) IV drug users 3) Sexual modes … A) 40 – 90% B) Negligible C) 1 in 10,00,000",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'Transfusion : 1/10,00,000'; 'IV drug users (40-90%)'; 'Sexual modes : Negligible'. (Book p1045)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which group is printed as the commonest setting (m/c in) for HCV infection?",
+   "opts": [
+    "CKD patients",
+    "Pregnant women",
+    "Health-care workers after needlestick",
+    "Children of infected mothers"
+   ],
+   "ans": 0,
+   "exp": "'m/c in : CKD patients'. (Book p1045)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What does the page print for post-exposure prophylaxis against HCV?",
+   "opts": [
+    "Unavailable",
+    "HBIG within 24 hours",
+    "Vaccine plus HBIG",
+    "Lamivudine for 4 weeks"
+   ],
+   "ans": 0,
+   "exp": "'Post exposure prophylaxis : unavailable'. (Book p1045)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is NOT one of the printed transmission headings for HCV?",
+   "opts": [
+    "Feco-oral",
+    "Percutaneous",
+    "Transfusion",
+    "Perinatal / breast feeding"
+   ],
+   "ans": 0,
+   "exp": "Printed headings: Percutaneous, Transfusion, Perinatal / Breast feeding, Sexual modes, IV drug users. (Book p1045)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Perinatal / breast-feeding transmission of HCV is printed in which risk band?",
+   "opts": [
+    "A low single-digit percentage — far below the 40 – 90% seen in IV drug users",
+    "40 – 90%, the same as IV drug users",
+    "1 in 10,00,000, the same as transfusion",
+    "Negligible, the same as sexual transmission"
+   ],
+   "ans": 0,
+   "exp": "Perinatal / breast feeding is printed in the single-digit percent range, against 40-90% for IV drug users, negligible for sexual exposure and 1 in 10,00,000 for transfusion. (Book p1045)"
+  }
+ ]
+}

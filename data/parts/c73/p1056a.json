@@ -1,0 +1,150 @@
+{
+ "page": 1056,
+ "sec": "Dengue critical phase: capillary leak, monitoring, platelet thresholds, day-wise chart",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Which days are printed as the most crucial period of dengue?",
+   "opts": [
+    "Day 4 to 7",
+    "Day 1 to 3",
+    "Day 8 to 10",
+    "Day 10 to 14"
+   ],
+   "ans": 0,
+   "exp": "'Day 4-7 : (most crucial period)'. (Book p1056)"
+  },
+  {
+   "fmt": "match",
+   "q": "Critical-phase problems — match — 1) Bleeding 2) Capillary leak … A) Pleural or pericardial effusion and ascites B) Falling platelet count",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'In some patients : ↓ Platelet count (Bleeding), Capillary leak syndrome (Pleural / pericardial effusion, ascites)'. (Book p1056)"
+  },
+  {
+   "fmt": "recall",
+   "q": "How is capillary leak syndrome manifested, according to the page?",
+   "opts": [
+    "Pleural or pericardial effusion and ascites",
+    "Generalised lymphadenopathy",
+    "Pulmonary fibrosis",
+    "Peripheral oedema alone"
+   ],
+   "ans": 0,
+   "exp": "'Capillary leak syndrome (Pleural / pericardial effusion, ascites)'. (Book p1056)"
+  },
+  {
+   "fmt": "match",
+   "q": "Monitoring in the critical phase — match — 1) Circulation 2) Volume status 3) Haemoconcentration … A) IVC diameter B) Haematocrit C) Blood pressure supported with IV fluids",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'monitor and maintenance : · BP by I/V fluids, · IVC diameter, · Hematocrit'. (Book p1056)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What platelet thresholds does the page print for transfusing platelets in dengue?",
+   "opts": [
+    "Below 10,000, or below 20,000 with bleeding",
+    "Below 50,000, or below 1 lakh with bleeding",
+    "Below 1 lakh in every case",
+    "Only below 5,000"
+   ],
+   "ans": 0,
+   "exp": "'Platelets (Administer if < 10,000 OR < 20,000 + bleeding)'. (Book p1056)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What does the page print about steroids in dengue?",
+   "opts": [
+    "No use of steroids",
+    "Steroids for all patients",
+    "Steroids only in shock",
+    "Steroids to raise platelets"
+   ],
+   "ans": 0,
+   "exp": "'No use of steroids'. (Book p1056)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the management block: I Monitoring covers blood pressure, IVC diameter and haematocrit. II Steroids have no role.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Both statements reproduce 'monitor and maintenance' and 'No use of steroids'. (Book p1056)"
+  },
+  {
+   "fmt": "match",
+   "q": "Course of illness phases — match — 1) Early 2) Critical 3) Late … A) Febrile B) Recovery C) Critical",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "'Course of illness : Febrile, Critical, Recovery phases'. (Book p1056)"
+  },
+  {
+   "fmt": "match",
+   "q": "Day-wise chart — match the column to its content — 1) Temperature 2) Potential clinical issues 3) Lab changes 4) Serology and virology … A) Dehydration, shock and bleeding, then reabsorption and fluid overload, organ impairment, platelets B) IgM and IgG, viraemia C) Haematocrit D) Up to 40°C",
+   "opts": [
+    "1-D, 2-A, 3-C, 4-B",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-D, 2-B, 3-A, 4-C",
+    "1-C, 2-A, 3-D, 4-B"
+   ],
+   "ans": 0,
+   "exp": "The chart rows are 'Days of illness 1-10', 'Temperature' (40°), 'Potential clinical issues' (dehydration, shock/bleeding, reabsorption/fluid overload, organ impairment, platelet), 'Lab changes' (haematocrit), 'Serology and virology' (IgM/IgG, viraemia) and 'Course of illness' (febrile, critical, recovery). (Book p1056)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: 'Note : IgM becomes positive from day ______ onwards.'",
+   "opts": [
+    "5",
+    "3",
+    "7",
+    "10"
+   ],
+   "ans": 0,
+   "exp": "'Note : IgM become positive : Day 5 onwards'. (Book p1056)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which warning-sign group is contrasted with 'dengue without warning signs' on this spread?",
+   "opts": [
+    "Dengue with warning signs / organ failure",
+    "Dengue haemorrhagic fever grade IV",
+    "Expanded dengue syndrome",
+    "Dengue shock syndrome only"
+   ],
+   "ans": 0,
+   "exp": "'Dengue with warning signs/organ failure' is the label under the critical-period branch. (Book p1056)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "On day 6 of dengue a patient develops ascites, a falling haematocrit and a platelet count of 15,000 with mucosal bleeding. Which printed intervention applies?",
+   "opts": [
+    "Transfuse platelets, since the count is below 20,000 with bleeding",
+    "No transfusion, since the count is above 10,000",
+    "Start steroids immediately",
+    "Discharge with oral fluids"
+   ],
+   "ans": 0,
+   "exp": "The threshold is 'Administer if < 10,000 OR < 20,000 + bleeding'. (Book p1056)"
+  }
+ ]
+}

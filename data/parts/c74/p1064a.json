@@ -1,0 +1,150 @@
+{
+ "page": 1064,
+ "sec": "Viral replication steps with drug classes, and acute HIV infection",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Viral entry — match the step to its event — 1) First attachment 2) Co-receptor binding 3) Post-binding change 4) Final step … A) Conformational change in gp41 B) Conformational change in gp120 C) CXCR4 on lymphocytes, CCR5 on macrophages D) Fusion and uncoating of the virus",
+   "opts": [
+    "1-B, 2-C, 3-A, 4-D",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "'Step-1 : Viral entry : Conformational change in gp120; b. Co-receptor binding (CXCR4 - lymphocyte, CCR5 - macrophages); Conformational change in gp41; C. Fusion uncoating of virus'. (Book p1064)"
+  },
+  {
+   "fmt": "match",
+   "q": "Co-receptors — match — 1) CXCR4 2) CCR5 … A) Macrophages B) Lymphocytes",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'(CXCR4 - lymphocyfe, CCR5 - macrophages)'. (Book p1064)"
+  },
+  {
+   "fmt": "match",
+   "q": "Drug classes matched to the replication step — match — 1) Entry 2) Fusion 3) Integration 4) Release … A) Fusion inhibitor given subcutaneously B) Protease inhibitors C) Integrase inhibitors given orally D) Co-receptor blocker given orally",
+   "opts": [
+    "1-D, 2-A, 3-C, 4-B",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-D, 2-C, 3-A, 4-B",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 0,
+   "exp": "'Co-receptor blocker (oral)' at entry, 'Fusion inhibitor (s/c)', 'Integrase inhibitors (Oral)' at integration and 'Cleaved by protease … Protease inhibitors' at release. (Book p1064)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which step converts viral RNA into DNA in the printed cycle?",
+   "opts": [
+    "Step 2, viral RNA to DNA",
+    "Step 1, viral entry",
+    "Step 3, integration",
+    "Step 4, proliferation"
+   ],
+   "ans": 0,
+   "exp": "'Viral RNA → DNA' is the step after viral entry and before integration. (Book p1064)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What makes the released virion mature, according to the page?",
+   "opts": [
+    "Cleavage by protease",
+    "Cleavage by integrase",
+    "Phosphorylation by kinase",
+    "Glycosylation in the Golgi"
+   ],
+   "ans": 0,
+   "exp": "'Cleaved by protease → mature virus released'. (Book p1064)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: 'Primary infection → incubation period (______ weeks) → acute infectious syndrome / acute HIV infection.'",
+   "opts": [
+    "3 – 6",
+    "1 – 2",
+    "6 – 12",
+    "12 – 16"
+   ],
+   "ans": 0,
+   "exp": "'Incubation period (3-6 weeks)'. (Book p1064)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What illness does the page print that acute HIV infection mimics?",
+   "opts": [
+    "Infectious mononucleosis",
+    "Influenza with pneumonia",
+    "Secondary syphilis",
+    "Acute hepatitis B"
+   ],
+   "ans": 0,
+   "exp": "'mimics Infectious mononucleosis'. (Book p1064)"
+  },
+  {
+   "fmt": "match",
+   "q": "Acute HIV syndrome — match the symptom group — 1) Constitutional 2) Throat 3) Nodes 4) Gut and skin … A) Sore throat B) Fever C) Lymphadenopathy D) Diarrhoea and rash",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-B, 3-A, 4-C",
+    "1-B, 2-D, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "'Clinical Symptoms : Fever, Sore throat, Lymphadenopathy, · Diarrhea, · Rash'. (Book p1064)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What proportion of acute HIV infections resolve symptomatically, and what proportion are fulminant?",
+   "opts": [
+    "Over 90% resolve; about 10% are fulminant",
+    "Over 50% resolve; half are fulminant",
+    "Over 99% resolve; under 1% are fulminant",
+    "None resolve; all progress rapidly"
+   ],
+   "ans": 0,
+   "exp": "'> 90% : Symptoms resolve'; '≥10% : Fulminant stage (meningoencephalitis)'. (Both figures are printed as given.) (Book p1064)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which form does the fulminant stage take, as printed?",
+   "opts": [
+    "Meningoencephalitis",
+    "Myocarditis",
+    "Fulminant hepatic failure",
+    "Acute respiratory distress"
+   ],
+   "ans": 0,
+   "exp": "'≥10% : Fulminant stage (meningoencephalitis)'. (Book p1064)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the acute-HIV block: I Opportunistic infections are absent in acute HIV infection. II After the acute illness the virus is established in GALT with long subclinical replication (clinical latency).",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "'No opportunistic infections', 'Establishment of infection in GALT' and 'Subclinical replication for long period (clinical latency)'. (Book p1064)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Where is infection established during the long subclinical period?",
+   "opts": [
+    "GALT (gut-associated lymphoid tissue)",
+    "Bone marrow",
+    "Thymus",
+    "Splenic white pulp"
+   ],
+   "ans": 0,
+   "exp": "'Establishment of infection in GALT'. (Book p1064)"
+  }
+ ]
+}

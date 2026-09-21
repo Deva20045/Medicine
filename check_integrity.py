@@ -89,6 +89,11 @@ LIVE_CHAPTERS = {
     67: ("Nonalcoholic Steatohepatitis", 1030, 1032, 28, 3),
     68: ("Vascular Diseases of Liver", 1033, 1035, 30, 3),
     69: ("Hepatitis B Virus : Part 1", 1036, 1038, 40, 3),
+    70: ("Hepatitis B Virus : Part 2", 1039, 1044, 91, 6),
+    71: ("Hepatitis C Virus", 1045, 1046, 33, 2),
+    72: ("Infective Endocarditis", 1047, 1052, 76, 6),
+    73: ("Tropical Infections: Synopsis", 1053, 1060, 95, 4),
+    74: ("HIV", 1061, 1068, 96, 4),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain

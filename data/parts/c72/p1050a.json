@@ -1,0 +1,150 @@
+{
+ "page": 1050,
+ "sec": "Causes of the immune picture, complications, modified Duke major criteria",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Causes listed for the immune/vasculitic picture — match — 1) Low C3 and C4 2) Others … A) Hepatitis C virus, cryoglobulinaemia, leprosy B) Infective endocarditis",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'Causes : · IE (↓C3, ↓C4), · Hep C Virus, · Cryoglobulinemia, · Leprosy'. (Book p1050)"
+  },
+  {
+   "fmt": "match",
+   "q": "Cardiac complications — match — 1) Stroke / ACS 2) Heart failure 3) Perivalvular abscess … A) Due to valvular insufficiency with new-onset adult AR / MR B) Common in aortic position, causes conduction block C) Fragment embolisation into coronaries",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'Stroke / ACS : Fragment embolization into coronaries'; 'Heart failure : d/t Valvular insufficiency, New onset adult AR/MR'; 'Perivalvular abscess : (Common in aorta) → Conduction block'. (Book p1050)"
+  },
+  {
+   "fmt": "match",
+   "q": "Non-cardiac complications — match the group — 1) Embolic 2) Immunological 3) Septic … A) Metastatic infection, mycotic aneurysm B) Embolic occlusion C) Immunological phenomena",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "'Non-cardiac complications : · Embolic occlusion, · Immunological, · metastatic infection, · mycotic aneurysm'. (Book p1050)"
+  },
+  {
+   "fmt": "match",
+   "q": "Right-sided IE complications — match — 1) Pulmonary 2) Cardiac 3) Vascular … A) Right heart failure B) Pulmonary abscess, empyema C) Mycotic aneurysm of pulmonary artery",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'Right-sided IE complications : · Pulmonary abscess, Empyema, · Right heart failure, · mycotic aneurysm of pulmonary artery'. (Book p1050)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which organism group is printed as a cause of perivalvular abscess with conduction block?",
+   "opts": [
+    "Perivalvular abscess is common in the aortic position",
+    "It is common in the tricuspid position",
+    "It is common in the pulmonary position",
+    "It is common in the mitral position"
+   ],
+   "ans": 0,
+   "exp": "'Perivalvular abscess : (Common in aorto) → Conduction block'. (Book p1050)"
+  },
+  {
+   "fmt": "match",
+   "q": "Modified Duke criteria — match the combinations — 1) Definite by majors 2) Major plus minors 3) Minors only … A) 1 major + 3 minor B) 5 minor C) 2 major",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'Criterias : 2 major OR 1 major + 3 minor OR 5 minor'. (Book p1050)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "How many minor criteria are required to satisfy the modified Duke criteria on their own?",
+   "opts": [
+    "5 minor",
+    "3 minor",
+    "2 minor",
+    "4 minor"
+   ],
+   "ans": 0,
+   "exp": "'OR 5 minor'. (Book p1050)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up (Blood-culture technique): '______ sets (______ ml each) from 3 sites.'",
+   "opts": [
+    "3; 20",
+    "2; 10",
+    "3; 10",
+    "5; 30"
+   ],
+   "ans": 0,
+   "exp": "'Blood culture : · 3 sets (20 ml each) from 3 sites'. (Book p1050)"
+  },
+  {
+   "fmt": "match",
+   "q": "Blood-culture volumes and timing — match — 1) Per bottle 2) Interval between sets 3) Repeat interval … A) 30-60 minutes B) 18-24 hours C) 10 ml aerobic plus 10 ml anaerobic",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'Blood (10 ml aerobic + 10 ml anaerobic) taken over 30-60 minutes'; 'Culture to be repeated every 18-24 hours'. (Book p1050)"
+  },
+  {
+   "fmt": "recall",
+   "q": "How does the page define a positive blood-culture major criterion for typical organisms?",
+   "opts": [
+    "Typical organism (MRSA, Streptococcus viridans) from two separate cultures",
+    "Any single culture growing a skin commensal",
+    "Three cultures drawn from one venipuncture",
+    "A positive serology alone"
+   ],
+   "ans": 0,
+   "exp": "'Positive culture : Typical organism (mRSA, Strep. viridans) from 2 separate cultures'. (Book p1050)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which organisms are named as needing only a single positive culture or antibody detection?",
+   "opts": [
+    "HACEK group and Coxiella burnetii",
+    "Enterococci and Listeria",
+    "S. aureus and CoNS",
+    "Candida and Aspergillus"
+   ],
+   "ans": 0,
+   "exp": "'HACeK group (Coxiella burnetii) single positive culture or antibodies detected'. (Book p1050)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the major criteria: I Three sets of 20 ml from three sites are required. II Persistently positive cultures also count as a major criterion.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "'3 sets (20 ml each) from 3 sites' and 'Persistently positive culture' are both printed. (Book p1050)"
+  }
+ ]
+}
