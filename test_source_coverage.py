@@ -21,7 +21,8 @@ class SourceCoverageTests(unittest.TestCase):
         return validate_manifest(self.manifest, self.chapter, 705, 710)
 
     def test_reviewed_chapters_are_valid(self):
-        for number, first, last in [(1, 705, 710), (2, 711, 716), (3, 717, 725)]:
+        for number, first, last in [(1, 705, 710), (2, 711, 716), (3, 717, 725),
+                                    (4, 726, 729), (5, 730, 733)]:
             with self.subTest(chapter=number):
                 chapter = json.loads((ROOT / f'data/ch{number:02d}.json').read_text())
                 manifest = json.loads((ROOT / f'data/source_review/ch{number:02d}.json').read_text())

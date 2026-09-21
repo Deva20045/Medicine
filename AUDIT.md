@@ -1,16 +1,16 @@
 ==============================================================================
 PULSE Medicine — QUESTION VARIETY & PREDICTABILITY AUDIT
 ==============================================================================
-5329 questions · 412 units · 74 live chapter(s)
+5361 questions · 412 units · 74 live chapter(s)
 
 FORMAT MIX (whole bank)
-  recall        1546   29.0%
-  match          876   16.4%
-  fillup         625   11.7%
-  numeric        592   11.1%
-  truefalse      591   11.1%
-  scenario       526    9.9%
-  oddoneout      454    8.5%
+  recall        1553   29.0%
+  match          894   16.7%
+  fillup         626   11.7%
+  truefalse      593   11.1%
+  numeric        593   11.1%
+  scenario       528    9.8%
+  oddoneout      455    8.5%
   management     119    2.2%
 
  Ch   Qs  scen  fill  match   T/F   odd  longest   leak  reuse
@@ -19,7 +19,7 @@ FORMAT MIX (whole bank)
   2  148     4     9     16     4     0    15.5%   0.7%      8
   3  202    12    48      0    19     7    25.2%   0.5%     11
   4   55     3    13      9     7     7    27.3%   0.0%      0
-  5   56     0    15      6     5     6    23.2%   0.0%      1
+  5   88     2    16     24     7     7    20.5%   0.0%      3
   6  133    11    30     11    21    15    21.1%   0.0%      4
   7  135    14    16     16    19    16    28.9%   0.0%      1
   8   83     5     8      5    11     6    36.1%   0.0%      0
@@ -91,7 +91,7 @@ FORMAT MIX (whole bank)
  74   96     5     3     35     3     4    27.1%   1.0%     24
 
 PREDICTABILITY SIGNALS (bank-wide means)
-  longest option is the answer        : 25.4%
+  longest option is the answer        : 25.3%
   answer is the only hedged option    : 0.2%
   answer is the only bracketed option : 4.6%
   question contains filler distractor : 0.0%
@@ -99,7 +99,7 @@ PREDICTABILITY SIGNALS (bank-wide means)
   avg answer length / distractor      : 26.1 / 22.9
   repeated back-to-back stem templates: 2
   longest uninterrupted repeat run    : 3
-  option sets reused across questions : 695
+  option sets reused across questions : 697
 
 MOST REPEATED STEM OPENERS
 

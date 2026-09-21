@@ -1,0 +1,752 @@
+{
+  "chapter": 5,
+  "reviewedAt": "2026-09-21",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part1_pages_705-759.pdf",
+  "pdfSha256": "e2dfab80e25cd81302885cda7e07806117d24e15b03d73f2f6b00952ca2fdeea",
+  "pdfOffset": 692,
+  "pageRange": "730-733",
+  "contentSha256": "f6124fe462e20f61218bf3480e39a41031de564d632ce22caaa07d0c95f52f1e",
+  "method": "All four printed pages read from the supplied Part 1 PDF at 2x-16x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry and caption. Contiguous labels share an item; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "p730: the size and charge rules print 'mm' for all four values ('< 4 mm', '> 8-10mm', '4-8 mm', '7.6 mm') where nanometres are meant (the fenestration sizes on the same page correctly print 'nm'). Values are taught as printed and the unit error is flagged in every affected explanation.",
+    "p730: the figure label prints 'Podocyte 7' - a stray '7' glyph sits just before the leader line and is unexplained; taught as 'Podocyte' with the glyph flagged. 'Post Streptococcal Glomerulo Nephritis' prints as three words and 'No risk for CKD.' is an absolute source claim taught as printed.",
+    "p731: the Alport table header prints 'Immunoflorescence' (one u) and the 10-15% defect cell prints 'alpha3+/ alpha4', a nonstandard notation taught as printed. 'Heparin sulfate proteoglycans' is the print (standard: heparan sulfate). The visualisation tree mixes numbering ('1.' then 'a.') and 'masson's Trichrome' prints lowercase.",
+    "p732: 'Space btw 2 podocytes' uses a script '2' (background OCR read 'a'; confirmed as 2 at 16x zoom). The podocyte protein tree prints 'Inside : alpha actin 4' (standard: alpha-actinin-4) - taught as printed. Figure (b) prints 'Laminin-11' (nonstandard laminin nomenclature) and misspells agrin as 'Argin' on the right label while the left reads 'Agrin'. Legend names print 'NEPH1' and 'Fat-1'. The Rx line prints 'ARBs /ACEI(-)'s ... to block Angiotensin II Receptor', compressing both drug classes into receptor blockade (ACE inhibitors reduce angiotensin II formation) - taught as printed with the flag.",
+    "p733: histology cells print the equivalence sign ('equiv DMS'/'equiv FSGS'), NPHS1 carries a subscript 1 and TRPC6 a subscript 6. The site-disease table prints 'mCD' with a lowercase m and lists 'membranous' as a bare adjective. 'Denys Drash Syndrome' prints without a hyphen. The Finnish-type management cell is a bare dash."
+  ],
+  "pages": [
+    {
+      "page": 730,
+      "pdfPage": 38,
+      "traversal": "Read top-to-bottom: page header and chapter title; 'Parts of Filtration Barrier' section; CAPILLARY ENDOTHELIUM WITH FENESTRATIONS / 'Fenestration Slits' bullets 1-3; 'Disease of capillary endothelium' line with its PSGN parenthesis, then its four sub-bullets; 'Pathophysiology of CKD' chain top-to-bottom (pore-diameter step included), finishing the left terminal branch (tubulotoxicity) before the right branch (interstitial inflammation to TGF-beta to tubulo interstitial fibrosis); 'Factors determining passage through filtration barrier' tree (Size branch complete, then Charge branch complete); then the right-panel glomerular-capillary figure labels top-to-bottom (glomerular basement membrane, podocyte, foot processes, capillary, capillary endothelium, mesangial angle, microfilaments, mesangium, mesangial matrix) with its caption. Timestamp, 'Active space' and footer excluded.",
+      "elements": [
+        {
+          "element": "p730-e001",
+          "page": 730,
+          "source": "Fenestration slits: 50-100nm diameter.",
+          "questionIds": [
+            "MED-C5-001"
+          ]
+        },
+        {
+          "element": "p730-e002",
+          "page": 730,
+          "source": "Fenestration slits coated with podocalyxin giving -ve charge that repels negatively charged proteins (the word 'repels' sits above the arrow).",
+          "questionIds": [
+            "MED-C5-002"
+          ]
+        },
+        {
+          "element": "p730-e003",
+          "page": 730,
+          "source": "Function: prevent proteinuria (albuminuria) -> prevent nephrotoxicity.",
+          "questionIds": [
+            "MED-C5-003"
+          ]
+        },
+        {
+          "element": "p730-e004",
+          "page": 730,
+          "source": "Disease of capillary endothelium line with the parenthesis 'PSGN : Post Streptococcal Glomerulo Nephritis'.",
+          "questionIds": [
+            "MED-C5-004"
+          ]
+        },
+        {
+          "element": "p730-e005",
+          "page": 730,
+          "source": "PSGN findings sub-bullets as a set: microhematuria; minimal proteinuria; exudative neutrophilic infiltration of lumen.",
+          "questionIds": [
+            "MED-C5-005"
+          ]
+        },
+        {
+          "element": "p730-e006",
+          "page": 730,
+          "source": "PSGN sub-bullet: 'No risk for CKD.'",
+          "questionIds": [
+            "MED-C5-006"
+          ]
+        },
+        {
+          "element": "p730-e007",
+          "page": 730,
+          "source": "CKD chain steps 1-6 in printed order: down functional nephrons, hyperfiltration by remaining nephrons, intraglomerular hypertension (HTN), stretching of capillaries, raised capillary pore diameter, proteinuria (albuminuria).",
+          "questionIds": [
+            "MED-C5-007"
+          ]
+        },
+        {
+          "element": "p730-e008",
+          "page": 730,
+          "source": "Chain pair re-tested: stretching of capillaries raises capillary pore diameter.",
+          "questionIds": [
+            "MED-C5-008"
+          ]
+        },
+        {
+          "element": "p730-e009",
+          "page": 730,
+          "source": "Proteinuria branches: tubulotoxicity and interstitial inflammation, the latter leading to TGF-beta formation.",
+          "questionIds": [
+            "MED-C5-009"
+          ]
+        },
+        {
+          "element": "p730-e010",
+          "page": 730,
+          "source": "Terminal step after TGF-beta formation: tubulo interstitial fibrosis.",
+          "questionIds": [
+            "MED-C5-010"
+          ]
+        },
+        {
+          "element": "p730-e011",
+          "page": 730,
+          "source": "Factors tree head and Size branch line 1: effective diameter < 4 mm passes through (printed unit 'mm').",
+          "questionIds": [
+            "MED-C5-011"
+          ]
+        },
+        {
+          "element": "p730-e012",
+          "page": 730,
+          "source": "Size branch line 2: effective diameter > 8-10mm does not pass (printed unit 'mm').",
+          "questionIds": [
+            "MED-C5-012"
+          ]
+        },
+        {
+          "element": "p730-e013",
+          "page": 730,
+          "source": "Charge branch line 1: effective diameter 4-8 mm is repelled if -ve charge (printed unit 'mm'; 'repelled' above the arrow).",
+          "questionIds": [
+            "MED-C5-013"
+          ]
+        },
+        {
+          "element": "p730-e014",
+          "page": 730,
+          "source": "Charge branch example: albumin 7.6 mm, -vely charged (printed unit 'mm').",
+          "questionIds": [
+            "MED-C5-014"
+          ]
+        },
+        {
+          "element": "p730-e015",
+          "page": 730,
+          "source": "Figure labels top-right cluster: glomerular basement membrane; podocyte (printed 'Podocyte 7' with a stray glyph); foot processes.",
+          "questionIds": [
+            "MED-C5-015"
+          ]
+        },
+        {
+          "element": "p730-e016",
+          "page": 730,
+          "source": "Figure labels mid cluster: capillary (lumen in cross-section); capillary endothelium; mesangial angle.",
+          "questionIds": [
+            "MED-C5-016"
+          ]
+        },
+        {
+          "element": "p730-e017",
+          "page": 730,
+          "source": "Figure labels lower cluster: microfilaments; mesangium; mesangial matrix.",
+          "questionIds": [
+            "MED-C5-017"
+          ]
+        },
+        {
+          "element": "p730-e018",
+          "page": 730,
+          "source": "Figure caption: 'Glomerular capillary'.",
+          "questionIds": [
+            "MED-C5-018"
+          ]
+        },
+        {
+          "element": "p730-e019",
+          "page": 730,
+          "source": "Figure-label consolidation (odd one out), positioned after every figure label.",
+          "questionIds": [
+            "MED-C5-019"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 731,
+      "pdfPage": 39,
+      "traversal": "Read top-to-bottom: 'GLOMERULAR BASEMENT MEMBRANE (GBM)' heading; Constituent bullet; 'Type 4 collagen configuration' table (header row left-to-right, then the data row left-to-right); the right column in the same vertical band: 'Type 4 collagen defect' note with its Alport line, then the Alport inheritance table (header row left-to-right, 85% row left-to-right, then 10-15% row left-to-right); Negative charge bullet; 'Visualisation of GBM' tree (left branch '1.' complete, then right branch 'a.' with its stain ranking); 'Thickness' tree (Normal first, then Thin GBM disease); 'Note' mesangial block (supporting-cells line, constituent sub-bullet, violent-contraction branches left then right, mesangial proliferative definition line, IgA prototype line); bottom figures left-to-right: 'Light microscope image' legend then labels top-to-bottom with caption, then 'Juxtaglomerular apparatus' labels top-to-bottom (PCT, GC circles, AA, parietal layer, DCT, visceral layer, EA, macula densa, bracket labels) with caption. Header, 'Active space' and footer excluded.",
+      "elements": [
+        {
+          "element": "p731-e001",
+          "page": 731,
+          "source": "GBM constituent: type 4 collagen (majorly).",
+          "questionIds": [
+            "MED-C5-020"
+          ]
+        },
+        {
+          "element": "p731-e002",
+          "page": 731,
+          "source": "Type 4 collagen configuration table: alpha1alpha1alpha2 (at birth), alpha3alpha4alpha5 (GBM, cochlear Bm, ocular Bm), alpha5alpha5alpha6 (epidermal Bm).",
+          "questionIds": [
+            "MED-C5-021"
+          ]
+        },
+        {
+          "element": "p731-e003",
+          "page": 731,
+          "source": "Type 4 collagen defect: Alport syndrome.",
+          "questionIds": [
+            "MED-C5-022"
+          ]
+        },
+        {
+          "element": "p731-e004",
+          "page": 731,
+          "source": "Alport table rows as printed: 85% X-linked alpha5 with absent skin/epidermal immunoflorescence stain; 10-15% AD/AR with the 'alpha3+/ alpha4' defect cell and normal stain.",
+          "questionIds": [
+            "MED-C5-023"
+          ]
+        },
+        {
+          "element": "p731-e005",
+          "page": 731,
+          "source": "Negative charge: heparin sulfate proteoglycans (eg: perlecan, agrin) - 'Heparin sulfate' as printed.",
+          "questionIds": [
+            "MED-C5-024"
+          ]
+        },
+        {
+          "element": "p731-e006",
+          "page": 731,
+          "source": "Visualisation branch '1.': electron m/s (microscope); the mixed '1.'/'a.' numbering is recorded as a print oddity.",
+          "questionIds": [
+            "MED-C5-025"
+          ]
+        },
+        {
+          "element": "p731-e007",
+          "page": 731,
+          "source": "Visualisation branch 'a.': stains under light m/s - Gomori methenamine Silver Stain > masson's Trichrome.",
+          "questionIds": [
+            "MED-C5-026"
+          ]
+        },
+        {
+          "element": "p731-e008",
+          "page": 731,
+          "source": "Thickness branch 1: normal 350-400nm.",
+          "questionIds": [
+            "MED-C5-027"
+          ]
+        },
+        {
+          "element": "p731-e009",
+          "page": 731,
+          "source": "Thickness branch 2: thin GBM disease < 200nm.",
+          "questionIds": [
+            "MED-C5-028"
+          ]
+        },
+        {
+          "element": "p731-e010",
+          "page": 731,
+          "source": "GBM consolidation (odd one out: podocalyxin versus heparin sulfate), positioned after the GBM lines.",
+          "questionIds": [
+            "MED-C5-029"
+          ]
+        },
+        {
+          "element": "p731-e011",
+          "page": 731,
+          "source": "Note: supporting cells of the filtration barrier = mesangial cells.",
+          "questionIds": [
+            "MED-C5-030"
+          ]
+        },
+        {
+          "element": "p731-e012",
+          "page": 731,
+          "source": "Mesangial cells constituent: microfilaments.",
+          "questionIds": [
+            "MED-C5-031"
+          ]
+        },
+        {
+          "element": "p731-e013",
+          "page": 731,
+          "source": "Violent contraction branch 1: rupture of capillary -> macrohematuria.",
+          "questionIds": [
+            "MED-C5-032"
+          ]
+        },
+        {
+          "element": "p731-e014",
+          "page": 731,
+          "source": "Violent contraction branch 2: down surface area -> down GFR.",
+          "questionIds": [
+            "MED-C5-033"
+          ]
+        },
+        {
+          "element": "p731-e015",
+          "page": 731,
+          "source": "Mesangial proliferative definition line: >3 mesangial cells in a space (with mesangial cell / matrix expansion glosses).",
+          "questionIds": [
+            "MED-C5-034"
+          ]
+        },
+        {
+          "element": "p731-e016",
+          "page": 731,
+          "source": "Prototype disease line: IgA nephropathy (m/c) prototype of mesangial cell/matrix expansion.",
+          "questionIds": [
+            "MED-C5-035"
+          ]
+        },
+        {
+          "element": "p731-e017",
+          "page": 731,
+          "source": "Light-microscope image legend: PT = proximal tubule; CL = capillary lumen.",
+          "questionIds": [
+            "MED-C5-036"
+          ]
+        },
+        {
+          "element": "p731-e018",
+          "page": 731,
+          "source": "Light-microscope image labels: mesangial cells (arrows); Bowman's space; PT (in-photo).",
+          "questionIds": [
+            "MED-C5-037"
+          ]
+        },
+        {
+          "element": "p731-e019",
+          "page": 731,
+          "source": "Light-microscope image labels: open capillary loops (arrows); the four CL labels.",
+          "questionIds": [
+            "MED-C5-038"
+          ]
+        },
+        {
+          "element": "p731-e020",
+          "page": 731,
+          "source": "Light-microscope image label consolidation (odd one out: macula densa belongs to the JGA figure).",
+          "questionIds": [
+            "MED-C5-039"
+          ]
+        },
+        {
+          "element": "p731-e021",
+          "page": 731,
+          "source": "Light-microscope image caption: 'Light microscope image'.",
+          "questionIds": [
+            "MED-C5-040"
+          ]
+        },
+        {
+          "element": "p731-e022",
+          "page": 731,
+          "source": "JGA figure labels: PCT; GC (four capillary circles); AA.",
+          "questionIds": [
+            "MED-C5-041"
+          ]
+        },
+        {
+          "element": "p731-e023",
+          "page": 731,
+          "source": "JGA figure labels: parietal layer; DCT; visceral layer.",
+          "questionIds": [
+            "MED-C5-042"
+          ]
+        },
+        {
+          "element": "p731-e024",
+          "page": 731,
+          "source": "JGA figure labels: EA; macula densa.",
+          "questionIds": [
+            "MED-C5-043"
+          ]
+        },
+        {
+          "element": "p731-e025",
+          "page": 731,
+          "source": "JGA figure bracket labels: JG cells (granular cells); lacis cells (extraglomerular mesangial cells).",
+          "questionIds": [
+            "MED-C5-044"
+          ]
+        },
+        {
+          "element": "p731-e026",
+          "page": 731,
+          "source": "JGA figure caption: 'Juxtaglomerular apparatus'.",
+          "questionIds": [
+            "MED-C5-045"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 732,
+      "pdfPage": 40,
+      "traversal": "Read top-to-bottom: 'SLIT DIAPHRAGM / FILTRATION SLITS' heading and its definition line ('Space btw 2 podocytes'); 'Podocytes' bullets in order (terminally differentiated; anchored to GBM by foot processes; Proteins tree - Inside branch then Surface branch with Podocin then TRPC6; Diameter; Function); 'Nephrins' sub-bullets; then the right-panel figure: panel (a) labels top-to-bottom (macula densa, distal convoluted tubule, afferent arteriole, efferent arteriole, Bowman's capsule, mesangium, podocyte, capillary, fenestrated endothelium, glomerular basement membrane, proximal tubule x2), panel (b) labels top-to-bottom (F-actin, slit diaphragm, podocyte foot process x2, beta/alpha dystro-glycan pair, Laminin-11, alpha3beta1 integrin pair, glomerular basement membrane, Agrin/Argin pair, GEC x3), then the protein legend column by column (column 1, column 2, column 3) and the shared caption; then back to the left column for the angiotensin chain step-by-step to CKD and the closing ARBs/ACEI line. Header and footer excluded.",
+      "elements": [
+        {
+          "element": "p732-e001",
+          "page": 732,
+          "source": "Slit diaphragm / filtration slits definition: space btw 2 podocytes.",
+          "questionIds": [
+            "MED-C5-046"
+          ]
+        },
+        {
+          "element": "p732-e002",
+          "page": 732,
+          "source": "Podocytes: terminally differentiated cells (cannot be regenerated).",
+          "questionIds": [
+            "MED-C5-047"
+          ]
+        },
+        {
+          "element": "p732-e003",
+          "page": 732,
+          "source": "Podocytes: anchored to GBM by foot processes - no filtration.",
+          "questionIds": [
+            "MED-C5-048"
+          ]
+        },
+        {
+          "element": "p732-e004",
+          "page": 732,
+          "source": "Podocyte proteins tree: inside 'alpha actin 4' (as printed); surface podocin and TRPC6.",
+          "questionIds": [
+            "MED-C5-049"
+          ]
+        },
+        {
+          "element": "p732-e005",
+          "page": 732,
+          "source": "Filtration-slit diameter: 30-50nm, coated with podocalyxin.",
+          "questionIds": [
+            "MED-C5-050"
+          ]
+        },
+        {
+          "element": "p732-e006",
+          "page": 732,
+          "source": "Filtration-slit function: filtration.",
+          "questionIds": [
+            "MED-C5-051"
+          ]
+        },
+        {
+          "element": "p732-e007",
+          "page": 732,
+          "source": "Nephrins sub-bullets as a set: proteins contained in the slit diaphragm; prevents protein leak; maintains podocyte integrity.",
+          "questionIds": [
+            "MED-C5-052"
+          ]
+        },
+        {
+          "element": "p732-e008",
+          "page": 732,
+          "source": "Figure (a) labels: macula densa; distal convoluted tubule; afferent arteriole.",
+          "questionIds": [
+            "MED-C5-053"
+          ]
+        },
+        {
+          "element": "p732-e009",
+          "page": 732,
+          "source": "Figure (a) labels: efferent arteriole; Bowman's capsule; mesangium.",
+          "questionIds": [
+            "MED-C5-054"
+          ]
+        },
+        {
+          "element": "p732-e010",
+          "page": 732,
+          "source": "Figure (a) labels: podocyte; capillary; fenestrated endothelium.",
+          "questionIds": [
+            "MED-C5-055"
+          ]
+        },
+        {
+          "element": "p732-e011",
+          "page": 732,
+          "source": "Figure (a) labels: glomerular basement membrane; proximal tubule (labelled twice).",
+          "questionIds": [
+            "MED-C5-056"
+          ]
+        },
+        {
+          "element": "p732-e012",
+          "page": 732,
+          "source": "Figure (b) labels: F-actin; slit diaphragm; podocyte foot process (both sides).",
+          "questionIds": [
+            "MED-C5-057"
+          ]
+        },
+        {
+          "element": "p732-e013",
+          "page": 732,
+          "source": "Figure (b) label: beta/alpha dystro-glycan (both sides).",
+          "questionIds": [
+            "MED-C5-058"
+          ]
+        },
+        {
+          "element": "p732-e014",
+          "page": 732,
+          "source": "Figure (b) labels: Laminin-11; alpha3beta1 integrin (both sides).",
+          "questionIds": [
+            "MED-C5-059"
+          ]
+        },
+        {
+          "element": "p732-e015",
+          "page": 732,
+          "source": "Figure (b) labels: glomerular basement membrane; agrin pair (left 'Agrin', right 'Argin'); GEC x3.",
+          "questionIds": [
+            "MED-C5-060"
+          ]
+        },
+        {
+          "element": "p732-e016",
+          "page": 732,
+          "source": "Figure (b) protein legend, column by column: nephrin/NEPH1/CD2AP/ZO-1/podocin; Fat-1/NCK/ACTN4/ILK; CD151/TRPC6/podocalyxin/synaptopodin.",
+          "questionIds": [
+            "MED-C5-061"
+          ]
+        },
+        {
+          "element": "p732-e017",
+          "page": 732,
+          "source": "Legend consolidation (odd one out: Laminin-11 is a diagram label, not a legend entry).",
+          "questionIds": [
+            "MED-C5-062"
+          ]
+        },
+        {
+          "element": "p732-e018",
+          "page": 732,
+          "source": "Shared caption: 'Slit diaphragm podocytes'.",
+          "questionIds": [
+            "MED-C5-063"
+          ]
+        },
+        {
+          "element": "p732-e019",
+          "page": 732,
+          "source": "Angiotensin chain steps 1-2: angiotensin binds the podocyte angiotensin II binding receptor -> downregulation of nephrin.",
+          "questionIds": [
+            "MED-C5-064"
+          ]
+        },
+        {
+          "element": "p732-e020",
+          "page": 732,
+          "source": "Chain step 3: loss of podocyte integrity (podocytopathies).",
+          "questionIds": [
+            "MED-C5-065"
+          ]
+        },
+        {
+          "element": "p732-e021",
+          "page": 732,
+          "source": "Chain steps 4-6: podocyte detached -> podocyturia -> podocytopenia (clinical scenario positioned at these steps).",
+          "questionIds": [
+            "MED-C5-066"
+          ]
+        },
+        {
+          "element": "p732-e022",
+          "page": 732,
+          "source": "Chain steps 7-8: GBM attaches to parietal epithelial cells -> synechiae formation.",
+          "questionIds": [
+            "MED-C5-067"
+          ]
+        },
+        {
+          "element": "p732-e023",
+          "page": 732,
+          "source": "Chain steps 9-10: glomerulosclerosis -> CKD.",
+          "questionIds": [
+            "MED-C5-068"
+          ]
+        },
+        {
+          "element": "p732-e024",
+          "page": 732,
+          "source": "Whole-chain consolidation, positioned after every chain step.",
+          "questionIds": [
+            "MED-C5-069"
+          ]
+        },
+        {
+          "element": "p732-e025",
+          "page": 732,
+          "source": "Rx line: 'ARBs /ACEI(-)'s used in Rx of diabetic nephropathy to block Angiotensin II Receptor.'",
+          "questionIds": [
+            "MED-C5-070"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 733,
+      "pdfPage": 41,
+      "traversal": "Read top-to-bottom: 'Congenital Nephrotic Syndrome :' heading and the DMS line; congenital-NS table row by row, left cell then right cell (header row, Finnish-type row complete, podocin-type row complete, autosomal dominant-type row complete), then the two cross-row consolidations; the premature-babies line; 'Note' with the Denys Drash line; site-disease table (header row left-to-right then disease row left-to-right), then the pairing consolidations. Header, 'Active space' and footer excluded.",
+      "elements": [
+        {
+          "element": "p733-e001",
+          "page": 733,
+          "source": "Congenital nephrotic syndrome heading and 'DMS : Diffuse mesangial Sclerosis'.",
+          "questionIds": [
+            "MED-C5-071"
+          ]
+        },
+        {
+          "element": "p733-e002",
+          "page": 733,
+          "source": "Table row 1 (Finnish Type Nephrotic Syndrome) cells 2-4: inheritance AR; defect nephrin : NPHS1; age birth.",
+          "questionIds": [
+            "MED-C5-072"
+          ]
+        },
+        {
+          "element": "p733-e003",
+          "page": 733,
+          "source": "Table row 1 outcome: 100% mortality.",
+          "questionIds": [
+            "MED-C5-073"
+          ]
+        },
+        {
+          "element": "p733-e004",
+          "page": 733,
+          "source": "Table row 1 histology and management cells: histology equivalent to DMS; management a bare dash.",
+          "questionIds": [
+            "MED-C5-074"
+          ]
+        },
+        {
+          "element": "p733-e005",
+          "page": 733,
+          "source": "Table row 2 (Podocin type) cells 2-4: inheritance AR; defect podocin; age 3-5 years.",
+          "questionIds": [
+            "MED-C5-075"
+          ]
+        },
+        {
+          "element": "p733-e006",
+          "page": 733,
+          "source": "Table row 2 outcome: 100% steroid resistance -> CKD.",
+          "questionIds": [
+            "MED-C5-076"
+          ]
+        },
+        {
+          "element": "p733-e007",
+          "page": 733,
+          "source": "Table row 2 histology and management cells: equivalent to FSGS; renal transplant (presented as a steroid-resistant child scenario).",
+          "questionIds": [
+            "MED-C5-077"
+          ]
+        },
+        {
+          "element": "p733-e008",
+          "page": 733,
+          "source": "Table row 3 (Autosomal Dominant Type) cells 2-4: inheritance AD; defect alpha actinin 4/TRPC6; age adolescence.",
+          "questionIds": [
+            "MED-C5-078"
+          ]
+        },
+        {
+          "element": "p733-e009",
+          "page": 733,
+          "source": "Table row 3 outcome/histology/management cells: identical to row 2 (100% steroid resistance -> CKD, equivalent to FSGS, renal transplant).",
+          "questionIds": [
+            "MED-C5-079"
+          ]
+        },
+        {
+          "element": "p733-e010",
+          "page": 733,
+          "source": "Cross-row consolidation: the three types matched with defect and age, positioned after every row.",
+          "questionIds": [
+            "MED-C5-080"
+          ]
+        },
+        {
+          "element": "p733-e011",
+          "page": 733,
+          "source": "Cross-row consolidation: table-statements true/false, positioned after every row.",
+          "questionIds": [
+            "MED-C5-081"
+          ]
+        },
+        {
+          "element": "p733-e012",
+          "page": 733,
+          "source": "Line under the table: Finnish type nephrotic syndrome m/c seen in premature babies with large placenta.",
+          "questionIds": [
+            "MED-C5-082"
+          ]
+        },
+        {
+          "element": "p733-e013",
+          "page": 733,
+          "source": "Note line: DMS also seen in Denys Drash Syndrome.",
+          "questionIds": [
+            "MED-C5-083"
+          ]
+        },
+        {
+          "element": "p733-e014",
+          "page": 733,
+          "source": "Site-disease table columns 2-4: endothelium -> PSGN; GBM -> Alport; mesangium -> IgA nephropathy.",
+          "questionIds": [
+            "MED-C5-084"
+          ]
+        },
+        {
+          "element": "p733-e015",
+          "page": 733,
+          "source": "Site-disease column 'Podocyte with podocytopenia': diabetes; FSGS; membranous.",
+          "questionIds": [
+            "MED-C5-085"
+          ]
+        },
+        {
+          "element": "p733-e016",
+          "page": 733,
+          "source": "Site-disease column 'without podocytopenia': mCD.",
+          "questionIds": [
+            "MED-C5-086"
+          ]
+        },
+        {
+          "element": "p733-e017",
+          "page": 733,
+          "source": "Site-disease pairings consolidation (true/false), positioned after the columns.",
+          "questionIds": [
+            "MED-C5-087"
+          ]
+        },
+        {
+          "element": "p733-e018",
+          "page": 733,
+          "source": "Endothelium->PSGN consolidation, positioned after the table.",
+          "questionIds": [
+            "MED-C5-088"
+          ]
+        }
+      ]
+    }
+  ]
+}
