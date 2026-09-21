@@ -1,0 +1,126 @@
+{
+ "page": 1066,
+ "sec": "Testing algorithm and opportunistic infections by CD4 count",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "Which assay does the page print as currently in use for HIV testing?",
+   "opts": [
+    "4th generation combined antigen-antibody assay",
+    "Western blot alone",
+    "Third-generation antibody ELISA",
+    "Viral culture"
+   ],
+   "ans": 0,
+   "exp": "'Currently in use : 4th generation combined antigen antibody assay : HIV-1/HIV-2 antigen/antibody combination immunoassay'. (Book p1066)"
+  },
+  {
+   "fmt": "match",
+   "q": "Algorithm — match the result to the next step — 1) Negative 2) Positive … A) HIV-1/HIV-2 antibody differentiation immunoassay B) No HIV",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'Interpretation : · If negative : No HIV. · If positive : HIV-1/HIV-2 antibody differentiation immunoassay'. (Book p1066)"
+  },
+  {
+   "fmt": "match",
+   "q": "Differentiation assay outcomes — match — 1) HIV-1 antibodies detected 2) HIV-2 antibodies detected 3) No antibodies detected … A) HIV-2 infection B) HIV-1 NAT needed C) HIV-1 infection",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'HIV-1 antibodies detected', 'HIV-2 antibodies detected' and 'No HIV antibodies detected → HIV-1 NAT'. (Book p1066)"
+  },
+  {
+   "fmt": "match",
+   "q": "HIV-1 NAT — match — 1) Positive 2) Negative … A) Negative for HIV-1 B) Acute HIV-1 infection",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'HIV-1 NAT : Positive → Acute HIV-1 infection; Negative → Negative for HIV-1'. (Book p1066)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 4th-generation assay is positive but the HIV-1/HIV-2 differentiation immunoassay detects no antibodies. What is the printed next step and its interpretation?",
+   "opts": [
+    "HIV-1 NAT — positive means acute HIV-1 infection",
+    "Repeat the 4th-generation test in 6 months",
+    "Start antiretroviral therapy immediately without further tests",
+    "Report the patient as HIV negative"
+   ],
+   "ans": 0,
+   "exp": "'No HIV antibodies detected → HIV-1 NAT → Positive : Acute HIV-1 infection; Negative : Negative for HIV-1'. (Book p1066)"
+  },
+  {
+   "fmt": "match",
+   "q": "Opportunistic infections by CD4 — match — 1) Around 600 2) Around 300 3) Around 200 … A) Oral hairy leukoplakia or TB, mucocutaneous herpes, cryptosporidiosis, microsporidiosis B) Pneumocystis jirovecii, miliary TB, oesophageal candidiasis C) Lymphadenopathy and thrombocytopenia",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "The CD4-stratified table lists lymphadenopathy/thrombocytopenia near 600, mucocutaneous herpes and the diarrhoeal parasites around 300, and Pneumocystis, miliary TB and oesophageal candidiasis around 200. (Book p1066)"
+  },
+  {
+   "fmt": "recall",
+   "q": "At what CD4 level is Kaposi's sarcoma printed as occurring?",
+   "opts": [
+    "At any CD4 count",
+    "Below 200 only",
+    "Below 100 only",
+    "Below 50 only"
+   ],
+   "ans": 0,
+   "exp": "'Kaposi sarcoma (At any CD4 count)'. (Book p1066)"
+  },
+  {
+   "fmt": "match",
+   "q": "Low CD4 infections — match — 1) Cerebral toxoplasmosis 2) Cryptococcal meningitis 3) Primary CNS lymphoma … A) CD4 around 100 B) CD4 around 100 C) CD4 50 – 100",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "The table places cerebral toxoplasmosis and cryptococcal meningitis around a CD4 count of 100, with primary CNS lymphoma at 50-100. (Book p1066)"
+  },
+  {
+   "fmt": "match",
+   "q": "Very low CD4 conditions — match — 1) HIV-associated dementia 2) PML 3) CMV retinitis 4) Mycobacterium avium intracellulare … A) Progressive multifocal leukoencephalopathy B) Cytomegalovirus retinitis C) Disseminated MAC disease D) HIV-associated dementia",
+   "opts": [
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-D, 2-C, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "All four are printed at the lowest CD4 stratum of the opportunistic-infection table. (Book p1066)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is NOT printed in the CD4-stratified opportunistic-infection table?",
+   "opts": [
+    "Pulmonary aspergillosis",
+    "Cryptosporidiosis",
+    "Oesophageal candidiasis",
+    "Cerebral toxoplasmosis"
+   ],
+   "ans": 0,
+   "exp": "The table lists lymphadenopathy/thrombocytopenia, Kaposi's sarcoma, oral hairy leukoplakia and TB, mucocutaneous herpes, cryptosporidiosis, microsporidiosis, Pneumocystis, miliary TB, oesophageal candidiasis, cerebral toxoplasmosis, cryptococcal meningitis, primary CNS lymphoma, HIV-associated dementia, PML, CMV retinitis and MAC disease. (Book p1066)"
+  }
+ ]
+}

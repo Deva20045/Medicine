@@ -1,0 +1,138 @@
+{
+ "page": 1053,
+ "sec": "Fever in infections: pattern by day, investigations, day-4 empirical therapy",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Pattern of fever — match the infection to the printed pattern — 1) Salmonella 2) Malaria 3) Leptospirosis / scrub typhus … A) Chills and rigors with fatigue B) Myalgia of the calf muscles and conjunctival suffusion in a farmer C) Step-ladder / rising pattern",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'· Salmonella : Step ladder / Rising pattern. · malaria : Chills and rigors a/w fatigue. · Leptospirosis, scrub typhus : A/w myalgia (Calf muscle), conjunctival suffusion in a farmer'. (Book p1053)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which occupation is printed in the leptospirosis / scrub typhus fever-pattern line?",
+   "opts": [
+    "A farmer",
+    "A sewer worker",
+    "A butcher",
+    "A fisherman"
+   ],
+   "ans": 0,
+   "exp": "'Leptospirosis, scrub typhus : A/w myalgia (Calf muscle), conjunctival suffusion in a farmer'. (Book p1053)"
+  },
+  {
+   "fmt": "match",
+   "q": "Dengue fever — match the symptom group — 1) Grade of fever 2) Pain 3) Gastrointestinal … A) High grade B) Vomiting, described as a few episodes C) Retro-orbital and occipital pain",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "'· Dengue : - High grade fever a/w : a. Retro-orbital pain, b. Occipital pain, c. vomiting'. (Book p1053)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is NOT printed among the pains of dengue on this page?",
+   "opts": [
+    "Loin pain",
+    "Retro-orbital pain",
+    "Occipital pain",
+    "Headache"
+   ],
+   "ans": 0,
+   "exp": "Printed: retro-orbital pain and occipital pain with vomiting. (Book p1053)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which investigation is printed first in the fever work-up?",
+   "opts": [
+    "CBC profile",
+    "Blood culture",
+    "Widal test",
+    "Chest radiograph"
+   ],
+   "ans": 0,
+   "exp": "'Investigations : · CBC profile'. (Book p1053)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up (Malaria testing): 'Quantitative buffy coat (QBC), repeated every ______ hours.'",
+   "opts": [
+    "12",
+    "6",
+    "24",
+    "48"
+   ],
+   "ans": 0,
+   "exp": "'· malaria : Quantitative buffy coat (QBC). Repeated every 12 hours'. (Book p1053)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "How many consecutive negative QBC tests does the page require before malaria is ruled out?",
+   "opts": [
+    "3 consecutive tests",
+    "1 test",
+    "2 tests",
+    "6 tests"
+   ],
+   "ans": 0,
+   "exp": "'Ruled out : If 3 consecutive tests negative'. (Book p1053)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What does the page advise starting on day 4 of fever?",
+   "opts": [
+    "Doxycycline (100 mg BD) plus co-trimoxazole double strength BD",
+    "Intravenous ceftriaxone monotherapy",
+    "Artesunate plus amodiaquine",
+    "Oral amoxicillin"
+   ],
+   "ans": 0,
+   "exp": "'Fever on day 4 : Start on : Doxycycline (100mg BD) + Cotrimoxazole DS (Double strength) BD'. (Book p1053)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The day-4 empirical regimen is printed as covering which infections?",
+   "opts": [
+    "Leptospirosis and scrub typhus",
+    "Dengue and chikungunya",
+    "Malaria and typhoid",
+    "Tuberculosis and brucellosis"
+   ],
+   "ans": 0,
+   "exp": "Under the day-4 regimen the page prints 'Leptospirosis, Scrub typhus'. (Book p1053)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the fever algorithm: I Malaria is excluded only after three consecutive negative QBC tests. II By day 4 the page starts doxycycline plus double-strength co-trimoxazole for leptospirosis and scrub typhus.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "'Ruled out : If 3 consecutive tests negative' and 'Fever on day 4 : Start on : Doxycycline (100mg BD) + Cotrimoxazole DS BD'. (Book p1053)"
+  },
+  {
+   "fmt": "recall",
+   "q": "How is the fever evaluation organised on this page?",
+   "opts": [
+    "Day by day — fever on day 1-2, day 3, day 4 and day 5",
+    "By organ system affected",
+    "By causative organism alphabetically",
+    "Only by the height of the fever"
+   ],
+   "ans": 0,
+   "exp": "The synopsis is headed 'Fever in Infections' and then organised as 'Fever on day 1-2', 'Fever on day 3', 'Fever on day 4' and 'Fever on day 5'. (Book p1053)"
+  }
+ ]
+}

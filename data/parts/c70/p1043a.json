@@ -1,0 +1,222 @@
+{
+ "page": 1043,
+ "sec": "Chronic hepatitis treatment tree, thresholds, targets, available therapies and doses",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Treatment tree — match the cirrhosis status to the printed step — 1) Cirrhosis -ve, low infectivity 2) Cirrhosis +ve, compensated 3) Cirrhosis +ve, decompensated … A) Treatment B) Treatment / transplant C) Follow up",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "'Low infectivity → Follow up'; 'Cirrhosis → Treatment'; 'Decompensated Cirrhosis → Treatment / transplant'. (Book p1043)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Treatment threshold printed for the HBeAg-positive chronic hepatitis branch?",
+   "opts": [
+    "HBV DNA > 20,000 IU/mL and ALT > 2 times the upper limit of normal",
+    "HBV DNA > 2,000 IU/mL and ALT > 2 times the upper limit of normal",
+    "HBV DNA > 20,000 IU/mL with normal ALT",
+    "Any detectable HBV DNA with ALT > 5 times the upper limit"
+   ],
+   "ans": 0,
+   "exp": "'HBeAg +ve : HBV DNA > 20,000 IU/mL; ALT > 2 times of upper limit'. (Book p1043)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Treatment threshold printed for the HBeAg-negative branch?",
+   "opts": [
+    "HBV DNA > 2,000 IU/mL and ALT > 2 times the upper limit of normal",
+    "HBV DNA > 20,000 IU/mL and ALT > 2 times the upper limit of normal",
+    "HBV DNA > 200 IU/mL and ALT > 5 times the upper limit",
+    "HBV DNA undetectable with ALT > 2 times the upper limit"
+   ],
+   "ans": 0,
+   "exp": "'HBeAg -ve : HBV DNA > 2,000 IU/mL; ALT > 2 times of upper limit'. (Book p1043)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the treatment branches: I The HBV DNA threshold for treatment is ten times higher in the HBeAg-positive than in the HBeAg-negative branch. II The ALT criterion is the same in both.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "20,000 vs 2,000 IU/mL, with 'ALT > 2 times of upper limit' in both branches. (Book p1043)"
+  },
+  {
+   "fmt": "match",
+   "q": "Targets of treatment — match — 1) HBeAg positive 2) HBeAg negative … A) Seroconversion B) ALT normal and suppression of HBV DNA",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'Target of treatment : HBeAg -ve : Seroconversion · ALT normal · Suppress HBV DNA' as printed. (Book p1043)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: the two printed aims listed under 'Target of treatment' are ______ and ______.",
+   "opts": [
+    "ALT normal; suppress HBV DNA",
+    "HBsAg loss; anti-HBs seroconversion",
+    "ALT twice normal; detectable HBV DNA",
+    "HBeAg loss; stop all drugs"
+   ],
+   "ans": 0,
+   "exp": "'· ALT normal · Suppress HBV DNA'. (Book p1043)"
+  },
+  {
+   "fmt": "match",
+   "q": "Available therapies — match — 1) IFN-α 2) Lamivudine 3) Tenofovir disoproxil 4) Tenofovir alafenamide … A) 300 mg OD, A/e proximal RTA and bone mineral disease B) S/c, about 30% seroconversion, psychosis / autoimmune thyroiditis / marrow suppression C) DOC, latest, 25 mg OD, fewer side effects D) good initial response but YMDD mutation and resistance",
+   "opts": [
+    "1-B, 2-D, 3-A, 4-C",
+    "1-D, 2-A, 3-C, 4-B",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "IFN-α: S/c, '30% Seroconversion', psychosis, autoimmune thyroiditis, bone marrow suppression. Lamivudine: 'Initially good response', 'YMDD mutation → Resistance, Nephrotoxic'. Tenofovir disoproxil: '300 mg OD Daily', 'A/e : RTA Type 2 (Proximal PCT toxicity), Bone mineral disease'. Tenofovir alafenamide: 'DOC', 'Latest', '25 mg OD Daily', 'Less side effect compared to Tenofovir disoproxil'. (Book p1043)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up (Interferon): given ______, it achieves about ______ seroconversion.",
+   "opts": [
+    "S/c; 30%",
+    "i/m; 3%",
+    " orally; 60%",
+    "S/c; 80%"
+   ],
+   "ans": 0,
+   "exp": "'IFN-α : S/c · 30% Seroconversion'. (Book p1043)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is NOT a printed limitation of interferon therapy in chronic hepatitis B?",
+   "opts": [
+    "Nephrotoxicity",
+    "No role in HBeAg-negative patients",
+    "No role in cirrhosis",
+    "No role in young Asians"
+   ],
+   "ans": 0,
+   "exp": "'Limitation : No role in HBeAg -ve patient · No role in cirrhosis · No role in young asian'; nephrotoxicity is listed under lamivudine. (Book p1043)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is NOT a printed adverse effect of interferon in this list?",
+   "opts": [
+    "Proximal renal tubular acidosis",
+    "Psychosis",
+    "Autoimmune thyroiditis",
+    "Bone marrow suppression"
+   ],
+   "ans": 0,
+   "exp": "'A/e : Psychosis · Autoimmune thyroiditis · Bone marrow suppression'. Proximal RTA is a tenofovir disoproxil adverse effect. (Book p1043)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What is the resistance mechanism printed against lamivudine?",
+   "opts": [
+    "YMDD mutation → resistance",
+    "rtA181T mutation → resistance",
+    "Precore mutation → resistance",
+    "S-gene escape mutant → resistance"
+   ],
+   "ans": 0,
+   "exp": "'YMDD mutation → Resistance'. (Book p1043)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What verdict does the page give for lamivudine plus adefovir combination?",
+   "opts": [
+    "No significant benefit",
+    "DOC for cirrhosis",
+    "Preferred first line",
+    "Only useful in HBeAg-negative disease"
+   ],
+   "ans": 0,
+   "exp": "Against 'Lamivudine + Adefovir' the page prints '· No significant benefit'. (Book p1043)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Dose printed for tenofovir disoproxil fumarate?",
+   "opts": [
+    "300 mg once daily",
+    "25 mg once daily",
+    "0.5 mg once daily",
+    "100 mg twice daily"
+   ],
+   "ans": 0,
+   "exp": "'Tenofovir Disoproxil : 300 mg OD Daily'. (Book p1043)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Dose printed for entecavir?",
+   "opts": [
+    "0.5 mg once daily",
+    "1 mg once daily",
+    "0.5 mg twice daily",
+    "5 mg once daily"
+   ],
+   "ans": 0,
+   "exp": "'Entecavir : 0.5 mg OD Daily'. (Book p1043)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Dose printed for tenofovir alafenamide?",
+   "opts": [
+    "25 mg once daily",
+    "300 mg once daily",
+    "0.5 mg once daily",
+    "245 mg once daily"
+   ],
+   "ans": 0,
+   "exp": "'Tenofovir Alafenamide : · DOC · Latest · 25 mg OD Daily'. (Book p1043)"
+  },
+  {
+   "fmt": "match",
+   "q": "Adverse effects — match — 1) Tenofovir disoproxil 2) Tenofovir alafenamide … A) Fewer side effects than tenofovir disoproxil B) RTA type 2 (proximal PCT toxicity) and bone mineral disease",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Disoproxil: 'A/e : RTA Type 2 (Proximal PCT toxicity) · Bone mineral disease'. Alafenamide: 'Less side effect compared to Tenofovir disoproxil'. (Book p1043)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which drug does the page call the drug of choice and the latest agent?",
+   "opts": [
+    "Tenofovir alafenamide",
+    "Tenofovir disoproxil",
+    "Entecavir",
+    "Lamivudine"
+   ],
+   "ans": 0,
+   "exp": "'Tenofovir Alafenamide : · DOC · Latest'. (Book p1043)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A cirrhotic patient with chronic hepatitis B needs treatment. Which drug is specifically recorded as having no role in cirrhosis?",
+   "opts": [
+    "Interferon-α",
+    "Entecavir",
+    "Tenofovir alafenamide",
+    "Tenofovir disoproxil"
+   ],
+   "ans": 0,
+   "exp": "'Limitation : … · No role in cirrhosis' is printed under IFN-α. (Book p1043)"
+  }
+ ]
+}

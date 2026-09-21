@@ -1,0 +1,126 @@
+{
+ "page": 1044,
+ "sec": "Hepatitis D virus: coinfection vs superinfection, antibodies, prognosis, HEV-in-pregnancy note",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "Fill up: 'Hepatitis D Virus — Delta virus, ______'.",
+   "opts": [
+    "RNA",
+    "DNA",
+    "a defective DNA virus",
+    "a prion"
+   ],
+   "ans": 0,
+   "exp": "'Hepatitis D Virus : Delta virus, RNA'. (Book p1044)"
+  },
+  {
+   "fmt": "match",
+   "q": "HDV — match — 1) Coinfection 2) Superinfection … A) Chronic HBV + acute hepatitis D (acute on chronic) B) Acute HBV infection + acute HDV infection",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'Coinfection : Acute HBV infection + Acute HDV infection'; 'Superinfection (Acute on chronic) : Chronic HBV + Acute Hepatitis D'. (Book p1044)"
+  },
+  {
+   "fmt": "match",
+   "q": "Antibody patterns — match — 1) Coinfection 2) Superinfection … A) HBsAg +ve with anti-HDV IgM B) Anti-HBc IgM +ve with anti-HDV IgM +ve",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Coinfection prints 'Anti HBc IgM +ve' and 'Anti HDV IgM +ve'; superinfection prints 'HBsAg +ve' and 'Anti HDV IgM'. (Book p1044)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Risk of fulminant hepatitis printed in the coinfection column?",
+   "opts": [
+    "5 – 20%",
+    "1 – 2%",
+    "30 – 40%",
+    "60 – 70%"
+   ],
+   "ans": 0,
+   "exp": "'Other features : Chances of fulminant hepatitis 5-20%'. (Book p1044)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What long-term outcome is printed down the superinfection column?",
+   "opts": [
+    "Chronic HDV-related cirrhosis",
+    "Complete recovery in most cases",
+    "Hepatocellular carcinoma within a year",
+    "Inactive carrier state"
+   ],
+   "ans": 0,
+   "exp": "'Chronic HDV related cirrhosis' is the end-point of the superinfection column. (Book p1044)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which autoantibody is printed in the hepatitis D page?",
+   "opts": [
+    "Anti-LKM-3 antibody",
+    "Anti-LKM-1 antibody",
+    "Anti-smooth muscle antibody",
+    "Anti-mitochondrial antibody"
+   ],
+   "ans": 0,
+   "exp": "'Anti LKM-3 Antibody' appears against the delta agent and again in the superinfection column. (Book p1044)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the hepatitis D table: I Coinfection is acute HBV plus acute HDV with anti-HBc IgM positive. II Superinfection is acute HDV on chronic HBV and carries a bad prognosis with chronic HDV cirrhosis.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Coinfection = both infections acute with anti-HBc IgM +ve; superinfection = acute on chronic, '(Bad prognosis)' → 'Chronic HDV related cirrhosis'. (Book p1044)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The closing note on this page flags a high risk of fulminant hepatic failure for which virus in pregnancy?",
+   "opts": [
+    "HEV",
+    "HBV",
+    "HDV",
+    "HAV"
+   ],
+   "ans": 0,
+   "exp": "'Note : HEV in pregnancy also has a high risk of fulminant hepatic failure.' (Book p1044)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with known chronic hepatitis B suddenly deteriorates with jaundice and tests anti-HDV IgM positive. Which pattern and prognosis does the page print?",
+   "opts": [
+    "Superinfection — bad prognosis with chronic HDV-related cirrhosis",
+    "Coinfection — anti-HBc IgM positive with 5-20% fulminant risk",
+    "Resolved HDV with anti-HDV IgG only",
+    "HAV superinfection with no chronic sequelae"
+   ],
+   "ans": 0,
+   "exp": "Chronic HBV + acute hepatitis D is superinfection (acute on chronic), which the page labels '(Bad prognosis)' → 'Chronic HDV related cirrhosis'. (Book p1044)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is NOT printed in the superinfection column?",
+   "opts": [
+    "Anti-HBc IgM positive",
+    "HBsAg positive",
+    "Anti-HDV IgM",
+    "Chronic HDV-related cirrhosis"
+   ],
+   "ans": 0,
+   "exp": "Anti-HBc IgM positivity is printed in the coinfection column, not the superinfection column. (Book p1044)"
+  }
+ ]
+}

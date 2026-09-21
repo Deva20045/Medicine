@@ -1,0 +1,258 @@
+{
+ "page": 1039,
+ "sec": "Progression, vertical transmission, treatment in pregnancy, newborn care, post-exposure prophylaxis, vaccine prophylaxis",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "Fill up (Progression, Part 2): the printed chain runs Acute hepatitis → ______ → Cirrhosis, and cirrhosis ends in the two drawn end-points ______.",
+   "opts": [
+    "Chronic hepatitis; hepatocellular carcinoma and liver failure",
+    "Chronic hepatitis; portal hypertension and variceal bleed",
+    "Fulminant hepatitis; hepatocellular carcinoma and liver failure",
+    "Chronic hepatitis; cholangiocarcinoma and portal vein thrombosis"
+   ],
+   "ans": 0,
+   "exp": "'Acute Hepatitis → Chronic Hepatitis → Cirrhosis', with the cirrhosis box arrowed to 'HCC' and 'Liver failure'. (Book p1039)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "In the p1039 progression diagram, cirrhosis arrows into two end-points. Which of these is NOT one of them?",
+   "opts": [
+    "Cholangiocarcinoma",
+    "Hepatocellular carcinoma",
+    "Liver failure",
+    "HCC"
+   ],
+   "ans": 0,
+   "exp": "Only 'HCC' and 'Liver failure' are drawn from the cirrhosis box. (Book p1039)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the Part-2 progression diagram: I Cirrhosis is drawn downstream of chronic hepatitis. II Recovery is drawn as an end-point of cirrhosis.",
+   "opts": [
+    "I true, II false",
+    "I false, II true",
+    "Both true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Acute → chronic hepatitis → cirrhosis → HCC / liver failure; no recovery branch is drawn from cirrhosis. (Book p1039)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Under 'Transmission (Acute)' the page lists three routes. Which one is NOT among them?",
+   "opts": [
+    "Vertical (mother to child)",
+    "Per-cutaneous",
+    "Blood transfusion",
+    "Sexual"
+   ],
+   "ans": 0,
+   "exp": "The printed arms are Sexual, Per-cutaneous and Blood transfusion; vertical transmission is handled in its own block below. (Book p1039)"
+  },
+  {
+   "fmt": "recall",
+   "q": "How is vertical transmission described in this block?",
+   "opts": [
+    "Transmission : vertical (mother to child)",
+    "Transmission : feco-oral (household contact)",
+    "Transmission : breast milk to infant",
+    "Transmission : airborne within the household"
+   ],
+   "ans": 0,
+   "exp": "'Transmission : vertical (mother to child).' (Book p1039)"
+  },
+  {
+   "fmt": "match",
+   "q": "Vertical transmission block — match — 1) HBeAg positive mother 2) HBeAg negative mother … A) 10% chances B) 90% chances",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Below HBeAg the block prints '90% chances' and '10% chances' for transmission to the child. (Book p1039)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: 'Time of development : ______ trimester (______)'.",
+   "opts": [
+    "3rd; maximum",
+    "1st; maximum",
+    "2nd; minimum",
+    "3rd; minimum"
+   ],
+   "ans": 0,
+   "exp": "'Time of development : 3rd trimester (maximum)'. (Book p1039)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "At what gestation does the pregnancy block advise the check-up?",
+   "opts": [
+    "28 – 30 weeks",
+    "24 – 28 weeks",
+    "32 – 34 weeks",
+    "12 – 16 weeks"
+   ],
+   "ans": 0,
+   "exp": "'Treatment in Pregnancy : At 28 - 30 week → check-up'. (Book p1039)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Antenatal HBV DNA comes back above the printed cut-off. What is the next printed step and the threshold used?",
+   "opts": [
+    "Start treatment once HBV DNA exceeds 20,000",
+    "Start treatment only after delivery, whatever the HBV DNA",
+    "Start treatment once HBV DNA exceeds 2,000",
+    "Give HBIG to the mother immediately, whatever the HBV DNA"
+   ],
+   "ans": 0,
+   "exp": "'check-up → HBV DNA → > 20,000 → Start treatment'. (Book p1039)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the pregnancy block: I The antenatal check-up with HBV DNA is timed at 28–30 weeks. II Treatment is started when HBV DNA crosses 20,000.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Both statements reproduce the printed block: check-up at 28–30 weeks, and 'Start treatment' after HBV DNA > 20,000. (Book p1039)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up (Child after birth): immunoglobulin — HBIg (______ ml); vaccine — ______, with the first dose within ______ hours.",
+   "opts": [
+    "0.5; 0, 1, 6; 12",
+    "0.06; 0, 1, 2; 24",
+    "1.0; 0, 1, 6; 24",
+    "0.5; 0, 1, 2, 6; 24"
+   ],
+   "ans": 0,
+   "exp": "'Child After birth : Immunoglobulin : HBIg (0.5 ml). Vaccine : 0,1,6 / 0,1,6 (1st dose within 12 hours)'. (Book p1039)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Post-exposure prophylaxis after a needlestick from an HBV-positive patient — what risk figure is printed?",
+   "opts": [
+    "6 – 30% chances",
+    "0.6 – 6.1% chances",
+    "90% chances",
+    "1 : 200,000 units"
+   ],
+   "ans": 0,
+   "exp": "'Needle prick : HBV +ve patient (6-30% chances) → Check for Anti HBs levels'. (Book p1039)"
+  },
+  {
+   "fmt": "match",
+   "q": "Needlestick algorithm — match the anti-HBs level to the printed action — 1) > 100 2) 10 – 100 … A) 1 booster to be given B) No need for Ig / vaccine",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'> 100 : No need for Ig/vaccine'; '10-100 : 1 booster to be given'. (Book p1039)"
+  },
+  {
+   "fmt": "recall",
+   "q": "After a needlestick from an HBV-positive source, what is the investigation the page asks for before deciding on prophylaxis?",
+   "opts": [
+    "Check for anti-HBs levels",
+    "Check HBeAg in the source",
+    "Check anti-HBc IgM in the recipient",
+    "Check HBV genotype"
+   ],
+   "ans": 0,
+   "exp": "'Check for Anti HBs levels' is the branch point of the algorithm. (Book p1039)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up (Sexual-contact exposure): HBIG ______ mL/kg given within ______ days.",
+   "opts": [
+    "0.06; 14",
+    "0.06; 24 hours",
+    "0.5; 14",
+    "0.5; 7"
+   ],
+   "ans": 0,
+   "exp": "'Sexual contact : HBIg : 0.06 mL/kg within 14 days'. (Book p1039)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up (Percutaneous / transmucosal exposure): HBIG ______ mL/kg given within ______ hours.",
+   "opts": [
+    "0.06; 24",
+    "0.06; 14 days",
+    "0.5; 24",
+    "0.6; 72"
+   ],
+   "ans": 0,
+   "exp": "'Percutaneous/transmucosal : HBIg : 0.06 ml/kg within 24 hours'. (Book p1039)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Compare the two post-exposure columns: I Sexual contact allows HBIG up to 14 days. II Percutaneous/transmucosal exposure allows HBIG only up to 24 hours.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Sexual contact: 'within 14 days'; percutaneous/transmucosal: 'within 24 hours'. (Book p1039)"
+  },
+  {
+   "fmt": "match",
+   "q": "Post-exposure vaccination — match — 1) Sexual contact 2) Percutaneous/transmucosal … A) Vaccine 0,1,6 months, 1st dose within 1 week B) Vaccine 0,1,6 months, 1st dose within 1 week — identical in both",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Both columns print 'Vaccine : 0,1,6 / 0,1,6 months' and '1st dose within 1 week'. (Book p1039)"
+  },
+  {
+   "fmt": "match",
+   "q": "Vaccine prophylaxis — match — 1) General population 2) In CKD patient … A) Schedule 0,1,2,6 months; 40 μg / 1 ml; both deltoid (double dose) B) Schedule 0,1,6 months; 20 μg / 0.5 ml; deltoid",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "General population: 0,1,6 months, 20 μg / 0.5 ml, deltoid. CKD: 0,1,2,6 months, 40 μg / 1 ml, both deltoid (double dose). (Book p1039)"
+  },
+  {
+   "fmt": "recall",
+   "q": "What route is printed for hepatitis B vaccine prophylaxis in both the general population and the CKD patient?",
+   "opts": [
+    "Intramuscular",
+    "Intradermal",
+    "Subcutaneous",
+    "Oral"
+   ],
+   "ans": 0,
+   "exp": "'Route : im' in both columns. (Book p1039)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of these is NOT printed for the CKD vaccination schedule?",
+   "opts": [
+    "Single deltoid, standard dose",
+    "Schedule 0,1,2,6 months",
+    "40 μg / 1 ml",
+    "Both deltoid (double dose)"
+   ],
+   "ans": 0,
+   "exp": "The CKD column prints 0,1,2,6 months, 40 μg / 1 ml and 'Both Deltoid (double dose)'. (Book p1039)"
+  }
+ ]
+}

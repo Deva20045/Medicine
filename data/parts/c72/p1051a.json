@@ -1,0 +1,114 @@
+{
+ "page": 1051,
+ "sec": "Minor criteria, echocardiography, TTE vs TEE, TEE indications",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Minor criteria — match the number to the item — 1) 2 2) 3 3) 4 4) 5 … A) Immunological phenomenon B) Fever C) Vascular phenomenon (emboli) D) Microbiological evidence not meeting culture criteria",
+   "opts": [
+    "2-B, 3-C, 4-A, 5-D",
+    "2-A, 3-B, 4-C, 5-D",
+    "2-B, 3-A, 4-C, 5-D",
+    "2-D, 3-C, 4-A, 5-B"
+   ],
+   "ans": 0,
+   "exp": "'minor criteria : 1. Predisposition to IE, 2. Fever, 3. vascular phenomenon (Emboli), 4. Immunological phenomenon, 5. microbiological phenomenon not meeting culture criteria'. (Book p1051)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which minor criterion is listed first on this page?",
+   "opts": [
+    "Predisposition to IE",
+    "Fever",
+    "Vascular phenomenon",
+    "Immunological phenomenon"
+   ],
+   "ans": 0,
+   "exp": "'1. Predisposition to IE'. (Book p1051)"
+  },
+  {
+   "fmt": "match",
+   "q": "Echocardiography — match the modality to the printed accuracy — 1) TTE 2) TEE … A) Sensitivity 86-98%, specificity 98% B) Sensitivity 50-70%, specificity 86%",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'TTE (Transthoracic echocardiography) : Sensitivity 50-70, Specificity 86'; 'TEE (Transesophageal echocardiography) : sensitivity 86-98, specificity 98'. (Book p1051)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What sensitivity is printed for transthoracic echocardiography?",
+   "opts": [
+    "50 – 70%",
+    "86 – 98%",
+    "86%",
+    "98%"
+   ],
+   "ans": 0,
+   "exp": "TTE row: 'Sensitivity 50-70'. (Book p1051)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which route does the page print for suspected endocarditis with a prosthetic valve or intracardiac device?",
+   "opts": [
+    "TEE",
+    "TTE",
+    "No imaging is needed",
+    "Chest radiograph"
+   ],
+   "ans": 0,
+   "exp": "'Suspected endocarditis : Native valve → TTE; Prosthetic valve / Intracardiac devices → TEE'. (Book p1051)"
+  },
+  {
+   "fmt": "match",
+   "q": "Echo algorithm — match the result to the action — 1) Positive 2) Negative … A) Observe, repeat echo if required B) Rx for endocarditis",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'Positive → Rx for endocarditis'; 'Negative → Observe, repeat ECHO if required'. (Book p1051)"
+  },
+  {
+   "fmt": "recall",
+   "q": "When should TEE be added even if TTE has been done, according to this page?",
+   "opts": [
+    "When complications are suspected",
+    "In every native-valve case",
+    "Only if blood cultures are positive",
+    "Only after surgery"
+   ],
+   "ans": 0,
+   "exp": "'TEE if complications suspected'. (Book p1051)"
+  },
+  {
+   "fmt": "match",
+   "q": "TEE indications over TTE — match — 1) Vegetation size 2) Structural complications 3) Devices … A) Myocardial abscess, valve perforation, intracardiac fistula B) CIED (cardiovascular implantable electronic device), prosthetic valve C) Vegetations below 2 mm",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'TEE indications over TTE : · vegetations < 2 mm, · myocardial abscess, valve perforation, · Prosthetic valve, · CIED (Cardiovascular implantable electronic device), · Intracardiac fistula'. (Book p1051)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is NOT printed as a TEE indication over TTE?",
+   "opts": [
+    "Uncomplicated native-valve fever with a normal TTE",
+    "Vegetations under 2 mm",
+    "Myocardial abscess",
+    "CIED lead infection"
+   ],
+   "ans": 0,
+   "exp": "Printed indications: vegetations < 2 mm, myocardial abscess, valve perforation, prosthetic valve, CIED and intracardiac fistula. (Book p1051)"
+  }
+ ]
+}

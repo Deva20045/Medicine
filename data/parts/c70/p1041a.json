@@ -1,0 +1,174 @@
+{
+ "page": 1041,
+ "sec": "Seroconversion before immunosuppression, clinical features, extrahepatic disease, replicative load",
+ "items": [
+  {
+   "fmt": "fillup",
+   "q": "Fill up (Seroconversion): 'Both markers should be checked before ______ therapy.'",
+   "opts": [
+    "immunosuppressive",
+    "antiretroviral",
+    "antifungal",
+    "antihypertensive"
+   ],
+   "ans": 0,
+   "exp": "'Seroconversion : Both markers should be checked before immunosuppressive therapy.' (Book p1041)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the two markers the page asks for — 1) First marker 2) Second marker … A) Anti-HBc IgG B) HBsAg",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "The pair printed before immunosuppressive therapy is HBsAg and anti-HBc IgG. (Book p1041)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "Before immunosuppression, screening shows HBsAg negative but anti-HBc IgG positive. What does this page warn about?",
+   "opts": [
+    "Reactivation during immunosuppressive therapy",
+    "No risk at all, because HBsAg is negative",
+    "Acute hepatitis B that needs vaccination",
+    "Immediate need for liver transplantation"
+   ],
+   "ans": 0,
+   "exp": "HBsAg -ve with anti-HBc IgG +ve is the pattern arrowed to 'Immunosuppressive therapy → Reactivation'. (Book p1041)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the seroconversion block: I HBsAg negative with anti-HBc IgG negative is the pattern with no reactivation risk. II HBsAg negative with anti-HBc IgG positive is the carrier pattern that reactivates on immunosuppression.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Two patterns are contrasted: both markers negative, versus HBsAg -ve with anti-HBc IgG +ve, the latter running into reactivation. (Book p1041)"
+  },
+  {
+   "fmt": "match",
+   "q": "Clinical features — match — 1) Acute hepatitis column 2) Chronic hepatitis column … A) Asymptomatic presentation, fatigue (most common symptom), fever, extrahepatic manifestations B) Acute hepatitis B, reactivation",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'Clinical Features' splits into Acute hepatitis (Acute hepatitis B, Reactivation) and Chronic hepatitis (Asymptomatic presentation, Fatigue — most common symptom, Fever, Extrahepatic manifestation). (Book p1041)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which symptom does the page print as the most common symptom of chronic hepatitis B?",
+   "opts": [
+    "Fatigue",
+    "Fever",
+    "Arthralgia",
+    "Jaundice"
+   ],
+   "ans": 0,
+   "exp": "'Fatigue (most common symptom)'. (Book p1041)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which is NOT one of the rare extrahepatic manifestations listed for chronic hepatitis B?",
+   "opts": [
+    "Kayser-Fleischer rings",
+    "Membranous nephropathy",
+    "Polyarteritis nodosa (30%)",
+    "Arthralgia"
+   ],
+   "ans": 0,
+   "exp": "'Extrahepatic manifestation (Rare) : membranous nephropathy, Polyarteritis Nodosa (30%), Arthralgia'. (Book p1041)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What figure is printed alongside polyarteritis nodosa in the extrahepatic list?",
+   "opts": [
+    "30%",
+    "3%",
+    "13%",
+    "60%"
+   ],
+   "ans": 0,
+   "exp": "'Polyarteritis Nodosa (30%)'. (Book p1041)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which investigation is printed next to 'Cirrhosis' in the work-up line?",
+   "opts": [
+    "Fibroscan",
+    "Liver biopsy",
+    "MRCP",
+    "CT abdomen"
+   ],
+   "ans": 0,
+   "exp": "'· Cirrhosis : Fibroscan'. (Book p1041)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The 'Replicative load' section is divided into which two branches?",
+   "opts": [
+    "Low replicative and high replicative",
+    "Replicative and non-replicative",
+    "Infective and non-infective",
+    "Compensated and decompensated"
+   ],
+   "ans": 0,
+   "exp": "Two branches are drawn under 'Replicative load': 'Low Replicative' and 'High Replicative'. (Book p1041)"
+  },
+  {
+   "fmt": "match",
+   "q": "Replicative profiles — match — 1) HBV DNA > 20,000 IU/mL 2) HBV DNA > 2,000 IU/mL … A) HBeAg -ve (precore mutation) B) HBeAg +ve",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'HBeAg +ve : · HBV DNA > 20,000 IU/mL'; 'HBeAg -ve (Precore mutation) : · HBV DNA > 2,000 IU/mL'. (Book p1041)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the profile to its printed consequences — 1) HBeAg +ve profile 2) HBeAg -ve precore-mutant profile … A) Anti-HBc reactive, progressive liver injury, bad prognosis B) High infectivity, risk of liver injury",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "HBeAg +ve profile: 'High infectivity · Risk of liver injury'. Precore-mutant profile: '· Anti-HBc reactive · Progressive liver injury · Bad prognosis'. (Book p1041)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with chronic HBV is HBeAg negative with HBV DNA 3,000 IU/mL. Which printed profile and consequence set applies?",
+   "opts": [
+    "HBeAg -ve precore mutation — anti-HBc reactive, progressive liver injury, bad prognosis",
+    "HBeAg +ve — high infectivity, risk of liver injury",
+    "Inactive carrier — no treatment and no follow-up",
+    "Acute hepatitis B — anti-HBc IgM positive"
+   ],
+   "ans": 0,
+   "exp": "HBeAg -ve with DNA above 2,000 fits the 'HBeAg -ve (Precore mutation)' profile with progressive liver injury and bad prognosis. (Book p1041)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which statement is NOT printed for the HBeAg-negative precore-mutant profile?",
+   "opts": [
+    "High infectivity",
+    "Anti-HBc reactive",
+    "Progressive liver injury",
+    "Bad prognosis"
+   ],
+   "ans": 0,
+   "exp": "'High infectivity' belongs to the HBeAg-positive profile; the precore-mutant profile lists anti-HBc reactive, progressive liver injury and bad prognosis. (Book p1041)"
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "page": 1052,
+ "sec": "Treatment regimens, culture-negative disease, surgery, prophylaxis",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Streptococcus viridans regimen — match — 1) DOC 2) Alternative 3) If penicillin resistant … A) Ceftriaxone 2 g IV once daily or vancomycin 15 mg/kg IV BD B) Vancomycin 15 mg/kg IV BD C) Penicillin G 2-3 million units IV every 4 hours for 4 weeks",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'Streptococcus viridans : DOC : Penicillin G 2-3 million units IV Q4h × 4 wks. Ceftriaxone 2g IV OD × 4 wks OR Vancomycin 15 mg/kg IV BD (if Penicillin resistant : vancomycin 15 mg/kg IV BD × 4-6 wks)'. (Book p1052)"
+  },
+  {
+   "fmt": "match",
+   "q": "Enterococcal regimen — match — 1) Base drug 2) Synergy 3) Penicillin-resistant option … A) Gentamicin 1 mg/kg IV TDS B) Penicillin G 4-5 million units Q4h × 4-6 wks C) Vancomycin 15 mg/kg IV BD × 4-6 wks",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'Enterococci : Penicillin G 4-5 million units Q4h × 4-6 wks; Gentamicin (1 mg/kg IV TDS); (if Penicillin resistant : vancomycin 15 mg/kg IV BD × 4-6 wks)'. (Book p1052)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which organisms are printed as intrinsically resistant to cephalosporins?",
+   "opts": [
+    "Enterococci and Listeria",
+    "Staphylococci and streptococci",
+    "HACEK organisms",
+    "Coxiella burnetii"
+   ],
+   "ans": 0,
+   "exp": "'Note : Intrinsically resistant to cephalosporins · Enterococci, · Listeria'. (Book p1052)"
+  },
+  {
+   "fmt": "match",
+   "q": "MRSA endocarditis — match — 1) Native valve 2) Prosthetic valve … A) Vancomycin 15 mg/kg IV BD plus gentamicin 1 mg/kg IV BD plus rifampicin 300 mg orally TID for 6-8 weeks B) Vancomycin 15 mg/kg IV BD",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'Native valve : vancomycin 15 mg/kg IV BD × 4-6 wks'; 'Prosthetic valve : Vancomycin 15 mg/kg IV BD + Gentamicin 1 mg/kg IV BD + Rifampicin 300 mg oral TID × 6-8 wks'. (Book p1052)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Dose and duration printed for rifampicin in prosthetic-valve MRSA endocarditis?",
+   "opts": [
+    "300 mg orally three times a day for 6 – 8 weeks",
+    "600 mg once daily for 2 weeks",
+    "300 mg twice daily for 4 weeks",
+    "10 mg/kg IV daily for 6 weeks"
+   ],
+   "ans": 0,
+   "exp": "'Rifampicin 300 mg oral TID × 6-8 wks'. (Book p1052)"
+  },
+  {
+   "fmt": "match",
+   "q": "Culture-negative endocarditis — match — 1) Culture report negative 2) True culture negative … A) Rare condition, no prior antibiotics, treated with vancomycin plus gentamicin for 4-6 weeks B) Common condition, prior antibiotics, sterile cultures, treated with ceftriaxone plus gentamicin",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'Culture report negative : m/c condition, H/o treatment medication (antibiotics), Culture sterile, Ceftriaxone + Gentamicin'; 'Culture negative : Rare condition, No Rx, Vancomycin + Gentamicin × 4-6 wks'. (Book p1052)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which regimen is printed for true culture-negative endocarditis?",
+   "opts": [
+    "Vancomycin plus gentamicin for 4 – 6 weeks",
+    "Ceftriaxone plus gentamicin",
+    "Amoxicillin alone",
+    "Doxycycline plus cotrimoxazole"
+   ],
+   "ans": 0,
+   "exp": "'Culture negative … Vancomycin + Gentamicin × 4-6 wks'. (Book p1052)"
+  },
+  {
+   "fmt": "match",
+   "q": "Indications for surgery — match — 1) Native valve 2) Prosthetic valve … A) Dehiscence, increasing obstruction/regurgitation, heart failure B) Acute valvular regurgitation, fungal endocarditis, perivalvular aortic abscess",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'Native valve : · Acute valvular regurgitation, · Fungal endocarditis, · Perivalvular aortic abscess'; 'Prosthetic valve : · Dehiscence, · Increasing obstruction/regurgitation, · Heart failure'. (Book p1052)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which infection is listed as a native-valve indication for surgery?",
+   "opts": [
+    "Fungal endocarditis",
+    "Enterococcal endocarditis",
+    "HACEK endocarditis",
+    "Coxiella endocarditis"
+   ],
+   "ans": 0,
+   "exp": "'Native valve : … · Fungal endocarditis'. (Book p1052)"
+  },
+  {
+   "fmt": "match",
+   "q": "Prophylaxis — who gets it? — match — 1) Valves 2) Congenital disease 3) Other … A) Unrepaired CHD, repaired CHD within 6 months B) Prosthetic valve, previous episode of IE C) Post cardiac transplant",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'Indications : · People with prosthetic valve, · Previous episode of IE, · Post cardiac transplant, · Unrepaired CHD, Repaired CHD (within 6 months)'. (Book p1052)"
+  },
+  {
+   "fmt": "recall",
+   "q": "For how long after repair is CHD still an indication for prophylaxis?",
+   "opts": [
+    "Within 6 months of repair",
+    "Within 6 weeks of repair",
+    "Within 6 years of repair",
+    "Lifelong after repair"
+   ],
+   "ans": 0,
+   "exp": "'Repaired CHD (within 6 months)'. (Book p1052)"
+  },
+  {
+   "fmt": "match",
+   "q": "Procedures needing prophylaxis — match — 1) Dental 2) Respiratory tract … A) Dental procedure B) Adenoidectomy, tonsillectomy, incision and drainage of respiratory mucosa",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'Pre-procedural prophylaxis : Dental procedure; Invasive procedures of respiratory tract : Adenoidectomy, Tonsillectomy, Incision/drainage of respiratory mucosa'. (Book p1052)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up (Regimen): 'Amoxicillin ______ orally, given ______ before the procedure.'",
+   "opts": [
+    "2 g; 30 – 60 minutes",
+    "500 mg; 12 hours",
+    "1 g; 2 hours",
+    "2 g; 7 days"
+   ],
+   "ans": 0,
+   "exp": "'· Amoxicillin 2g oral : 30-60 min before procedure'. (Book p1052)"
+  },
+  {
+   "fmt": "match",
+   "q": "Penicillin-allergy and parenteral options — match — 1) Oral allergy options 2) Unable to take orally 3) Allergy and unable to take orally … A) Ampicillin 2 g IV or ceftriaxone 1 g IV/IM B) Clindamycin 600 mg IV C) Azithromycin 500 mg, cephalexin 2 g or clindamycin 600 mg",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'In penicillin allergy : Azithromycin 500 mg, Cephalexin 2g, Clindamycin 600 mg'; 'unable to take orally : Ampicillin 2g IV / ceftriaxone 1g IV or IM'; 'In penicillin allergy : Clindamycin 600 mg IV'. (Book p1052)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "Dose of clindamycin printed for prophylaxis in penicillin allergy?",
+   "opts": [
+    "600 mg",
+    "60 mg",
+    "300 mg",
+    "900 mg"
+   ],
+   "ans": 0,
+   "exp": "'Clindamycin 600 mg' (oral) and 'Clindamycin 600 mg IV'. (Book p1052)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with a prosthetic valve and penicillin allergy cannot swallow tablets before a dental extraction. Which printed regimen applies?",
+   "opts": [
+    "Clindamycin 600 mg IV",
+    "Amoxicillin 2 g orally",
+    "Azithromycin 500 mg orally",
+    "Ampicillin 2 g IV"
+   ],
+   "ans": 0,
+   "exp": "Penicillin allergy plus inability to take orally: 'In penicillin allergy : Clindamycin 600 mg IV'. (Book p1052)"
+  }
+ ]
+}

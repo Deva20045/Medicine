@@ -1,0 +1,186 @@
+{
+ "page": 1048,
+ "sec": "Pathogenesis, NBTE, classification, predisposing conditions, organisms, acute IE",
+ "items": [
+  {
+   "fmt": "match",
+   "q": "Pathogenesis — match — 1) Mucosal injury 2) Valvular endothelial injury 3) Bacterial seeding … A) Platelet-fibrin clot (NBTE) B) Bacterial adherence to NBTE then proliferation C) Bacteraemia",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'Mucosal injury → Bacterial seeding'; 'valvular endothelial injury → Platelet fibrin clot (NBTE) → Bacterial adherence to NBTE → Bacterial proliferation → vegetation → Endocarditic features'. (Book p1048)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "Fill up: 'NBTE — Non-bacterial thrombotic endocarditis, ______ endocarditis.'",
+   "opts": [
+    "marantic",
+    "Libman-Sacks",
+    "rheumatic",
+    "carcinoid"
+   ],
+   "ans": 0,
+   "exp": "'Note : Non-bacterial thrombotic endocarditis, marantic endocarditis'. (Book p1048)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "Judge the NBTE note: I NBTE is the non-bacterial thrombotic (marantic) endocarditis. II It is the platelet-fibrin clot on which bacteria later adhere.",
+   "opts": [
+    "Both true",
+    "I true, II false",
+    "I false, II true",
+    "Both false"
+   ],
+   "ans": 0,
+   "exp": "Both statements reproduce the printed NBTE note and its place in the pathogenetic chain. (Book p1048)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which condition is printed alongside NBTE in the note on non-bacterial thrombotic endocarditis?",
+   "opts": [
+    "SLE",
+    "Rheumatoid arthritis",
+    "Antiphospholipid-negative APS",
+    "Sarcoidosis"
+   ],
+   "ans": 0,
+   "exp": "'NBTE in SLE : Catheter / …' is printed next to the marantic-endocarditis note. (Book p1048)"
+  },
+  {
+   "fmt": "match",
+   "q": "Classification — match — 1) By valve 2) By exposure … A) Intravenous drug abuse, health-care associated B) Native valve, prosthetic valve",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "'Infective endocarditis : Native valve, Prosthetic valve, Intravenous drug abuse (IVDA), Health care associated'. (Book p1048)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In native-valve endocarditis, which valve does the page print as involved?",
+   "opts": [
+    "Mitral (left sided)",
+    "Tricuspid",
+    "Pulmonary",
+    "Aortic only"
+   ],
+   "ans": 0,
+   "exp": "'· valve involved : mitral (Left sided)'. (Book p1048)"
+  },
+  {
+   "fmt": "match",
+   "q": "Native-valve associations — match — 1) Associated valvular heart disease 2) Congenital heart disease 3) CKD-associated IE … A) Ventricular septal defect B) Tricuspid C) MVP with mitral regurgitation",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'Associated valvular heart disease : MVP + mitral regurgitation'; 'Congenital heart disease : Ventricular septal defect'; 'CKD associated IE : Tricuspid'. (Book p1048)"
+  },
+  {
+   "fmt": "match",
+   "q": "Predisposing conditions in native valves — match — 1) Rheumatic heart disease 2) Congenital heart disease 3) Mitral valve prolapse 4) Degenerative heart disease … A) 10-20% B) Rare C) 10-30% D) 25-30%",
+   "opts": [
+    "1-D, 2-A, 3-C, 4-B",
+    "1-A, 2-D, 3-B, 4-C",
+    "1-D, 2-C, 3-A, 4-B",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Printed percentages: rheumatic heart disease 25-30, congenital heart disease 10-20, mitral valve prolapse 10-30, degenerative heart disease Rare. (Book p1048)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What percentage is printed against parenteral drug abuse in the predisposing-conditions table?",
+   "opts": [
+    "15 – 35%",
+    "25 – 30%",
+    "10 – 20%",
+    "5 – 10%"
+   ],
+   "ans": 0,
+   "exp": "'Parenteral drug abuse : 15-35'. (Book p1048)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What percentage is printed in the 'None' row of the predisposing-conditions table?",
+   "opts": [
+    "25 – 45%",
+    "5 – 10%",
+    "15 – 35%",
+    "50 – 60%"
+   ],
+   "ans": 0,
+   "exp": "'None : 25-45'. (Book p1048)"
+  },
+  {
+   "fmt": "match",
+   "q": "Organisms — match — 1) Native valve 2) Prosthetic valve under 12 months 3) Prosthetic valve over 12 months 4) IV drug use associated … A) CoNS > MRSA > Gram-negative bacilli B) MRSA C) S. aureus > Streptococcus viridans > enterococci D) Streptococcus viridans > S. aureus > enterococci",
+   "opts": [
+    "1-C, 2-A, 3-D, 4-B",
+    "1-D, 2-C, 3-A, 4-B",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 0,
+   "exp": "'Native valve : S. aureus > Streptococcus viridans > enterococci'; 'Prosthetic valve : < 12 months : CoNS > mRSA > Gram -ve bacilli; > 12 months : Streptococcus viridans > S. aureus > enterococci'; 'IV drug users associated IE : mRSA'. (Book p1048)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which organism heads the list for prosthetic-valve endocarditis within 12 months of surgery?",
+   "opts": [
+    "Coagulase-negative staphylococci",
+    "Streptococcus viridans",
+    "Enterococci",
+    "Pseudomonas aeruginosa"
+   ],
+   "ans": 0,
+   "exp": "'· < 12 months : CoNS > mRSA > Gram -ve bacilli'. (Book p1048)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What mortality figure is printed for acute infective endocarditis?",
+   "opts": [
+    "About 60%",
+    "About 6%",
+    "About 16%",
+    "About 90%"
+   ],
+   "ans": 0,
+   "exp": "'ACUTE IE : · very high mortality (60%)'. (Book p1048)"
+  },
+  {
+   "fmt": "match",
+   "q": "Acute IE — match — 1) Associated conditions 2) Valve consequence 3) Management … A) Destroyed valves B) Management of sepsis C) Abscess, osteomyelitis → severe sepsis, septic shock (MRSA)",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "'Associated condition : Abscess, osteomyelitis → Severe sepsis, Septic shock (mRSA)'; 'Destroyed valves'; 'management : of Sepsis'. (Book p1048)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A patient with acute IE, multiple abscesses and MRSA bacteraemia deteriorates with shock. Which printed pair describes the complication and the management priority?",
+   "opts": [
+    "Abscess/osteomyelitis with severe sepsis or septic shock — manage the sepsis",
+    "Immunological vasculitis with Osler nodes — give steroids",
+    "Embolic stroke — thrombolyse immediately",
+    "Drug fever — stop all antibiotics"
+   ],
+   "ans": 0,
+   "exp": "The acute-IE block prints abscess and osteomyelitis leading to severe sepsis / septic shock with MRSA, and 'management : of Sepsis'. (Book p1048)"
+  }
+ ]
+}
