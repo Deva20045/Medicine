@@ -16,16 +16,18 @@
 - See `AGENTS.md` for the persistent authoring rule and
   `SELF_AUDIT_BOOK_ORDER.md` for evidence and verification scope.
 
-**Whole-book verdict: NOT YET COMPLETE.** Ch 1–3 have now been source-reviewed
-and rebuilt in order across **p705–725**. Their banks contain **140 + 148 + 202 =
-490 questions**, with explicit source caveats and ordered element-to-question
-checklists. The original Ch 1 backward jump is repaired. The prior Ch 54 findings
+**Whole-book verdict: NOT YET COMPLETE.** Ch 1–4 have now been source-reviewed
+and rebuilt in order across **p705–729**. Their banks contain **140 + 148 + 202 +
+55 = 545 questions**, with explicit source caveats and ordered element-to-question
+checklists. The original Ch 1 backward jump is repaired, as are the Ch 4
+wrong-page findings citation, the p726→p727 forward jump, a double-answer item
+and a within-page order fault. The prior Ch 54 findings
 concern an older bank; PR #18 replaced Ch 52–56.
 That newer bank still needs the strict recorded review when reached.
 
 **All-chapter scope:** the user requested continuing **all 74 chapters** and
-merging the work. Track all of them in **`SOURCE_REVIEW.md`**; currently **3/74
-chapters, 21/364 pages** have valid recorded source reviews. This is incremental
+merging the work. Track all of them in **`SOURCE_REVIEW.md`**; currently **4/74
+chapters, 25/364 pages** have valid recorded source reviews. This is incremental
 work, not whole-book completion. No background authoring is implied by this queue.
 
 **Current structural inventory:** **4,444 questions · 346 units · 58 live chapters**
@@ -36,14 +38,14 @@ unbuilt. LIVE means available in the app, not line-by-line certified.
 The full-bank DOM-shim smoke test exercises **8,888 correct/incorrect answer paths
 across all 346 units**. It reports **44 legacy format defects** in unreviewed
 chapters, not concealed by runtime PASS. Source review remains separate;
-`check_source_coverage.py --require-all` intentionally fails with 71 chapters
+`check_source_coverage.py --require-all` intentionally fails with 70 chapters
 pending. This completion gate must not be bypassed to claim the merge is complete.
 
-**NEXT (authoritative): Ch 4 — Juxtaglomerular Apparatus, Book p726–729.**
+**NEXT (authoritative): Ch 5 — Glomerulus - Anatomy, Book p730–733.**
 Continue source reading, checklist, repair, rebuild and verification in book order.
-Do not jump to Ch 54 or the unbuilt chapters. Reports: `REAUDIT_CH1_SOURCE_ORDER.md`,
-`REAUDIT_CH2_SOURCE_ORDER.md`, `REAUDIT_CH3_SOURCE_ORDER.md`. Older NEXT/batch notes
-below are historical and do not override this instruction.
+Do not jump ahead or return to earlier chapters. Reports: `REAUDIT_CH1_SOURCE_ORDER.md`,
+`REAUDIT_CH2_SOURCE_ORDER.md`, `REAUDIT_CH3_SOURCE_ORDER.md`, `REAUDIT_CH4_SOURCE_ORDER.md`.
+Older NEXT/batch notes below are historical and do not override this instruction.
 
 ## Goal
 A learner should **not need to read the PDF separately** after solving the questions.
@@ -75,7 +77,7 @@ scope (Book p705–1068) is converted into questions in strict book order.
 | 1 | Development of Kidneys | p705 | **LIVE**
 | 2 | Gross Anatomy of Kidney | p711 | **LIVE**
 | 3 | Tubular Anatomy | p717 | **LIVE**
-| 4 | Juxtaglomerular Apparatus | p726 | **LIVE**
+| 4 | Juxtaglomerular Apparatus | p726 | **LIVE (SOURCE-REVIEWED WITH CAVEATS, 55 q)**
 | 5 | Glomerulus - Anatomy | p730 | **LIVE**
 | 6 | Renal Physiology | p734 | **LIVE (page-anchored re-audit)**
 | 7 | Urine Analysis | p740 | **LIVE (page-anchored re-audit)**
@@ -215,7 +217,7 @@ review of Ch 4–74 in `SOURCE_REVIEW.md`.)*
 - [x] **Ch 1 "Development of Kidneys" (p705–710): 9 units, 140 questions — SOURCE-REVIEWED WITH CAVEATS**
 - [x] **Ch 2 "Gross Anatomy of Kidney" (p711–716): 11 units, 148 questions — SOURCE-REVIEWED WITH CAVEATS**
 - [x] **Ch 3 "Tubular Anatomy" (p717–725): 13 units, 100 questions — BUILT & VERIFIED**
-- [x] **Ch 4 "Juxtaglomerular Apparatus" (p726–729): 7 units, 50 questions — BUILT & VERIFIED**
+- [x] **Ch 4 "Juxtaglomerular Apparatus" (p726–729): 7 units, 55 questions — SOURCE-REVIEWED WITH CAVEATS**
 - [x] **Ch 5 "Glomerulus - Anatomy" (p730–733): 8 units, 56 questions — BUILT & VERIFIED**
 - [x] **Ch 6 "Renal Physiology" (p734–739): 10 units, 133 questions — RE-AUDITED, rebuilt page-by-page**
 - [x] **Ch 7 "Urine Analysis" (p740–747): 10 units, 135 questions — RE-AUDITED, rebuilt page-by-page**

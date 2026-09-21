@@ -3,6 +3,7 @@
 
 usage: python3 _render/asciiart.py <bookpage> <x0> <y0> <x1> <y1> [width] [zoom]
 Coordinates are PDF points (page 595 x 842).
+The source PDF is resolved per book page via parts.py (all six parts supported).
 """
 import sys
 from pathlib import Path
@@ -10,16 +11,18 @@ from pathlib import Path
 import pymupdf
 from PIL import Image
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from parts import part_for
+
 ROOT = Path(__file__).resolve().parent.parent
-PDF = ROOT / "uploads" / "Medicine_Vol3_Part6_pages_1035-1070.pdf"
-K = 1034
 
 RAMP = " .:-=+*#%@"
 
 
 def art(bp, x0, y0, x1, y1, width=180, zoom=12.0, invert=True):
-    d = pymupdf.open(str(PDF))
-    p = d[bp - K - 1]
+    pdf, k = part_for(bp)
+    d = pymupdf.open(str(pdf))
+    p = d[bp - k - 1]
     pix = p.get_pixmap(matrix=pymupdf.Matrix(zoom, zoom),
                        clip=pymupdf.Rect(x0, y0, x1, y1))
     img = Image.frombytes("RGB", (pix.width, pix.height), pix.samples).convert("L")

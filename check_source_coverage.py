@@ -180,7 +180,7 @@ def write_report(rows: list[dict], errors: list[str], root: Path = ROOT) -> None
     lines += [
         "## Known blockers and source evidence", "",
         "- Historical findings: `SELF_AUDIT_BOOK_ORDER.md`. PR #18 replaced Ch 52–56; preserve the newer bank and source-review it when reached rather than applying old Ch 54 IDs to it.",
-        "- Ch 1–3 source repairs and caveats: `REAUDIT_CH1_SOURCE_ORDER.md`, `REAUDIT_CH2_SOURCE_ORDER.md`, `REAUDIT_CH3_SOURCE_ORDER.md`, and their `data/source_review/` manifests.",
+        "- Ch 1–4 source repairs and caveats: `REAUDIT_CH1_SOURCE_ORDER.md`, `REAUDIT_CH2_SOURCE_ORDER.md`, `REAUDIT_CH3_SOURCE_ORDER.md`, `REAUDIT_CH4_SOURCE_ORDER.md`, and their `data/source_review/` manifests.",
         "- Full-bank runtime tests flag 44 legacy match/fill-up format defects; see `CONTENT_FORMAT_ISSUES.md`. These are still pending source review.",
         "- Reviewed content edits invalidate the content hash until the source checklist is rechecked.",
         "- Never generate manifests for pending chapters merely to make `--require-all` pass.", "",
