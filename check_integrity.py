@@ -23,7 +23,7 @@ LIVE_CHAPTERS = {
     1: ("Development of Kidneys", 705, 710, 140, 9),
     2: ("Gross Anatomy of Kidney", 711, 716, 148, 11),
     3: ("Tubular Anatomy", 717, 725, 202, 13),
-    4: ("Juxtaglomerular Apparatus", 726, 729, 50, 7),
+    4: ("Juxtaglomerular Apparatus", 726, 729, 55, 7),
     5: ("Glomerulus - Anatomy", 730, 733, 56, 8),
     6: ("Renal Physiology", 734, 739, 133, 10),
     7: ("Urine Analysis", 740, 747, 135, 10),

@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""OCR-dump a range of book pages (single RapidOCR load) -> /tmp/ocr/<page>.txt
+"""OCR-dump a range of book pages (single RapidOCR load) -> _render/ocr/<page>.txt
 
 Each line:  <y> <x> | <text> | <confidence>   (y is clip-relative: pdf_y = y + 28)
 Groups of tokens on the same visual row are separated by a `--` marker.
+The source PDF is resolved per book page via parts.py (all six parts supported).
 """
 from __future__ import annotations
 
@@ -14,9 +15,10 @@ import pymupdf
 from PIL import Image
 from rapidocr_onnxruntime import RapidOCR
 
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from parts import part_for
+
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-PDF = ROOT / "uploads" / "Medicine_Vol3_Part6_pages_1035-1070.pdf"
-K = 1034
 HEADER = 28.0
 ZOOM = 3.0
 
@@ -24,11 +26,15 @@ ZOOM = 3.0
 def main():
     first, last = int(sys.argv[1]), int(sys.argv[2])
     ocr = RapidOCR()
-    doc = pymupdf.open(str(PDF))
+    docs = {}
     out_dir = pathlib.Path(__file__).resolve().parent / "ocr"
     out_dir.mkdir(exist_ok=True)
     for bp in range(first, last + 1):
-        page = doc[bp - K - 1]
+        pdf, k = part_for(bp)
+        if str(pdf) not in docs:
+            docs[str(pdf)] = (pymupdf.open(str(pdf)), k)
+        doc, kk = docs[str(pdf)]
+        page = doc[bp - kk - 1]
         pix = page.get_pixmap(matrix=pymupdf.Matrix(ZOOM, ZOOM),
                               clip=pymupdf.Rect(page.rect.x0, page.rect.y0 + HEADER,
                                                 page.rect.x1, page.rect.y1 - 28))

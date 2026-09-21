@@ -1,0 +1,489 @@
+{
+  "chapter": 4,
+  "reviewedAt": "2026-09-21",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part1_pages_705-759.pdf",
+  "pdfSha256": "e2dfab80e25cd81302885cda7e07806117d24e15b03d73f2f6b00952ca2fdeea",
+  "pdfOffset": 692,
+  "pageRange": "726-729",
+  "contentSha256": "66a80f52a0a703725e6600eb471e38de45c3bdb5a3047adda92af302a00d7122",
+  "method": "All four printed pages read from the supplied Part 1 PDF at 2x-5x zoom, with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation and caption. Contiguous labels share an item; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "p726: the scan prints 'Cardiac arrythmias' and 'afferent arteriole'; questions use standard 'arrhythmias'/'afferent'. 'Tubulo glomerular' is printed as two words; the bank uses TG feedback.",
+    "p727: the dehydration chain is taught as printed — increased proximal tubular absorption (+) feeds a macula densa signal of decreased Na+/Cl-/K+ load (higher proximal reabsorption lowers distal delivery). The 'ATI/ATN' slash and the edema rationale for fluid monitoring are source wordings.",
+    "p727: JG-cell site 'afferent arteriole > efferent arteriole' is taught as the printed predominance, not an exclusive site.",
+    "p728: 'renal artery (end artery)' and '5 segmental arteries (4 anterior + 1 posterior)' are source simplifications taught as printed. The efferent-arteriole 'sandwiched' note is schematic (a vessel between two capillary beds).",
+    "p728: 'Urine flows into renal papilla' is taught as printed; standard drainage continues via the minor calyx, which the figure does not label.",
+    "p729: the tree arms sum to 90% (85% tubulointerstitial + 5% vascular); glomeruli (10% per the p717 compartment tree) have no arm here. Taught as printed, not completed. The '1. AKI'/'2. CKD' numbering, the m/c cause claims and RTA type 4 as the CKD tubulointerstitial endpoint are source-specific."
+  ],
+  "pages": [
+    {
+      "page": 726,
+      "pdfPage": 34,
+      "traversal": "Read top-to-bottom: chapter title; Components list (3 bullets); 'Macula Densa & JG cells' section; MACULA DENSA text (Composition, Site, Function); JG-apparatus figure labels top-to-bottom with caption; 'Applied aspect of TG feedback' header; phases/MOA table row by row, left cell then right cell (row-2 right cell continues onto p727). Lecture timestamp, 'Active space' and footer excluded.",
+      "elements": [
+        {
+          "element": "p726-e001",
+          "page": 726,
+          "source": "Components list: Juxtaglomerular (JG) cells; macula densa; mesangial/lacis/supporting cells/Polkissen cells.",
+          "questionIds": [
+            "MED-C4-001"
+          ]
+        },
+        {
+          "element": "p726-e002",
+          "page": 726,
+          "source": "Macula densa composition: modified tall columnar cells.",
+          "questionIds": [
+            "MED-C4-002"
+          ]
+        },
+        {
+          "element": "p726-e003",
+          "page": 726,
+          "source": "Macula densa site: cortical portion of thick ascending limb of loop of Henle (TAL)/distal straight tubule.",
+          "questionIds": [
+            "MED-C4-003"
+          ]
+        },
+        {
+          "element": "p726-e004",
+          "page": 726,
+          "source": "Macula densa function: tubulo-glomerular (TG) feedback mediated by adenosine.",
+          "questionIds": [
+            "MED-C4-004"
+          ]
+        },
+        {
+          "element": "p726-e005",
+          "page": 726,
+          "source": "Composition/site/function of macula densa consolidated as a match, positioned after the three lines.",
+          "questionIds": [
+            "MED-C4-005"
+          ]
+        },
+        {
+          "element": "p726-e006",
+          "page": 726,
+          "source": "Macula densa site reconfirmed (true/false), positioned after the figure-independent text.",
+          "questionIds": [
+            "MED-C4-006"
+          ]
+        },
+        {
+          "element": "p726-e007",
+          "page": 726,
+          "source": "JG-apparatus figure: efferent arteriole leaving the glomerulus with its smooth muscle layer.",
+          "questionIds": [
+            "MED-C4-007"
+          ]
+        },
+        {
+          "element": "p726-e008",
+          "page": 726,
+          "source": "JG-apparatus figure labels: internal elastic lamina (top arteriole wall), glomerular epithelium (tuft covering), basement membrane (tubule wall).",
+          "questionIds": [
+            "MED-C4-008"
+          ]
+        },
+        {
+          "element": "p726-e009",
+          "page": 726,
+          "source": "JG-apparatus figure labels: distal tubule (straight) in cross-section, macula densa plaque, JG cells; caption 'JG apparatus'.",
+          "questionIds": [
+            "MED-C4-009"
+          ]
+        },
+        {
+          "element": "p726-e010",
+          "page": 726,
+          "source": "Table row 1: phase of tubular injury; duration < 24 hrs.",
+          "questionIds": [
+            "MED-C4-010"
+          ]
+        },
+        {
+          "element": "p726-e011",
+          "page": 726,
+          "source": "Row-1 MOA: renal tubular injury from tubulotoxic drugs (eg. gentamicin) leading to PCT injury.",
+          "questionIds": [
+            "MED-C4-011"
+          ]
+        },
+        {
+          "element": "p726-e012",
+          "page": 726,
+          "source": "Row-1 MOA: PCT injury lowers reabsorption of solute + H2O, raising their loss in urine.",
+          "questionIds": [
+            "MED-C4-012"
+          ]
+        },
+        {
+          "element": "p726-e013",
+          "page": 726,
+          "source": "Row-2 Findings cell as a set: decreased GFR; raised S.creatinine; raised K+ with cardiac arrhythmias (print 'arrythmias'); raised H+ with metabolic acidosis.",
+          "questionIds": [
+            "MED-C4-013"
+          ]
+        },
+        {
+          "element": "p726-e014",
+          "page": 726,
+          "source": "Row-2 finding line tested directly: raised H+ leads to metabolic acidosis.",
+          "questionIds": [
+            "MED-C4-014"
+          ]
+        },
+        {
+          "element": "p726-e015",
+          "page": 726,
+          "source": "Row-2 MOA: impaired reabsorption of solute + H2O; macula densa senses Cl- > K+ > Na+ load delivered to TAL.",
+          "questionIds": [
+            "MED-C4-015"
+          ]
+        },
+        {
+          "element": "p726-e016",
+          "page": 726,
+          "source": "Row-2 MOA: release of adenosine, which constricts the afferent arteriole (print 'afferent'; arrow continues onto p727).",
+          "questionIds": [
+            "MED-C4-016"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 727,
+      "pdfPage": 35,
+      "traversal": "Table continued: row-2 left cell (Mx) then right cell (MOA chain with its two end branches); row 3 (Recovery phase with dash); B. Dehydration flowchart top-to-bottom including the '+' proximal-absorption input; AKI-causes note (Outside branch complete, then Inside branch); JG Cells (Composition, Site, Function). Header/footer excluded.",
+      "elements": [
+        {
+          "element": "p727-e001",
+          "page": 727,
+          "source": "Row-2 Mx: supportive care; monitor fluid intake because of the raised chance of edema due to renal failure.",
+          "questionIds": [
+            "MED-C4-017"
+          ]
+        },
+        {
+          "element": "p727-e002",
+          "page": 727,
+          "source": "Row-2 MOA: afferent constriction lowers GFR (glomerular filtration rate), raising S.creatinine and preventing further salt + H2O loss due to impaired reabsorption.",
+          "questionIds": [
+            "MED-C4-018"
+          ]
+        },
+        {
+          "element": "p727-e003",
+          "page": 727,
+          "source": "Row 3: recovery phase with only a dash in the MOA column.",
+          "questionIds": [
+            "MED-C4-019"
+          ]
+        },
+        {
+          "element": "p727-e004",
+          "page": 727,
+          "source": "B. Dehydration example (increased vomiting leading to pre-renal failure); first event is loss of intravascular volume.",
+          "questionIds": [
+            "MED-C4-020"
+          ]
+        },
+        {
+          "element": "p727-e005",
+          "page": 727,
+          "source": "Dehydration chain: loss of volume lowers glomerular hydrostatic pressure and therefore GFR.",
+          "questionIds": [
+            "MED-C4-021"
+          ]
+        },
+        {
+          "element": "p727-e006",
+          "page": 727,
+          "source": "Dehydration chain: increased proximal tubular absorption (+) feeds the macula densa sensing of a decreased Na+/Cl-/K+ load.",
+          "questionIds": [
+            "MED-C4-022"
+          ]
+        },
+        {
+          "element": "p727-e007",
+          "page": 727,
+          "source": "Dehydration chain: dilatation of the afferent arteriole, mediated by prostaglandins.",
+          "questionIds": [
+            "MED-C4-023"
+          ]
+        },
+        {
+          "element": "p727-e008",
+          "page": 727,
+          "source": "Dehydration chain outcome: GFR rises.",
+          "questionIds": [
+            "MED-C4-024"
+          ]
+        },
+        {
+          "element": "p727-e009",
+          "page": 727,
+          "source": "AKI-causes note as a set: outside kidney (pre-renal, post-renal) versus inside kidney (ATI/ATN, acute interstitial nephritis).",
+          "questionIds": [
+            "MED-C4-025"
+          ]
+        },
+        {
+          "element": "p727-e010",
+          "page": 727,
+          "source": "AKI cause groups re-tested as a match, positioned after the note.",
+          "questionIds": [
+            "MED-C4-026"
+          ]
+        },
+        {
+          "element": "p727-e011",
+          "page": 727,
+          "source": "JG cells composition: granular cells.",
+          "questionIds": [
+            "MED-C4-027"
+          ]
+        },
+        {
+          "element": "p727-e012",
+          "page": 727,
+          "source": "JG cells site: tunica media of afferent arteriole more than efferent arteriole (print 'afferent').",
+          "questionIds": [
+            "MED-C4-028"
+          ]
+        },
+        {
+          "element": "p727-e013",
+          "page": 727,
+          "source": "JG cells function: produce renin.",
+          "questionIds": [
+            "MED-C4-029"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 728,
+      "pdfPage": 36,
+      "traversal": "Renin-stimulator diagram (three stimuli left-to-right with (+) arrows into JG cells, then Renin); 'Vascular Anatomy of Kidney' section; renal-circulation chain in forward arrow order; cortex-vs-medulla table (Cortex column top-to-bottom, then Medulla column); vascularity-of-nephron figure (left labels top-to-bottom, right 'sandwiched' annotation, bottom urine caption). Timestamp/footer excluded.",
+      "elements": [
+        {
+          "element": "p728-e001",
+          "page": 728,
+          "source": "Renin stimuli: decreased renal perfusion pressure, prostaglandins and beta-1 receptors all act positively (+) on JG cells, which release renin.",
+          "questionIds": [
+            "MED-C4-030"
+          ]
+        },
+        {
+          "element": "p728-e002",
+          "page": 728,
+          "source": "Beta-1 receptor positive drive on JG cells releasing renin.",
+          "questionIds": [
+            "MED-C4-031"
+          ]
+        },
+        {
+          "element": "p728-e003",
+          "page": 728,
+          "source": "Beta-1 drive re-tested through a beta-blocker scenario, positioned with the diagram.",
+          "questionIds": [
+            "MED-C4-032"
+          ]
+        },
+        {
+          "element": "p728-e004",
+          "page": 728,
+          "source": "Renal circulation starts at the renal artery, labelled an end artery.",
+          "questionIds": [
+            "MED-C4-033"
+          ]
+        },
+        {
+          "element": "p728-e005",
+          "page": 728,
+          "source": "Renal artery gives 5 segmental arteries (4 anterior + 1 posterior).",
+          "questionIds": [
+            "MED-C4-034"
+          ]
+        },
+        {
+          "element": "p728-e006",
+          "page": 728,
+          "source": "Chain continues: interlobar artery, arcuate artery, interlobular/cortical radial artery.",
+          "questionIds": [
+            "MED-C4-035"
+          ]
+        },
+        {
+          "element": "p728-e007",
+          "page": 728,
+          "source": "Afferent arteriole supplies the glomerular capillary plexus in the cortex.",
+          "questionIds": [
+            "MED-C4-036"
+          ]
+        },
+        {
+          "element": "p728-e008",
+          "page": 728,
+          "source": "Blood leaves via the efferent arteriole into the peritubular capillary plexus.",
+          "questionIds": [
+            "MED-C4-037"
+          ]
+        },
+        {
+          "element": "p728-e009",
+          "page": 728,
+          "source": "Medullary blood supply is mediated by the vasa recta.",
+          "questionIds": [
+            "MED-C4-038"
+          ]
+        },
+        {
+          "element": "p728-e010",
+          "page": 728,
+          "source": "Venous return: descending limb to ascending limb of vasa recta, renal vein, IVC (inferior vena cava).",
+          "questionIds": [
+            "MED-C4-039"
+          ]
+        },
+        {
+          "element": "p728-e011",
+          "page": 728,
+          "source": "Forward circulation order consolidated (odd-one-out), positioned after the full chain.",
+          "questionIds": [
+            "MED-C4-040"
+          ]
+        },
+        {
+          "element": "p728-e012",
+          "page": 728,
+          "source": "Cortex-vs-medulla table: cortex supplied by the renal artery with good supply; medulla supplied by vasa recta with poor supply.",
+          "questionIds": [
+            "MED-C4-041"
+          ]
+        },
+        {
+          "element": "p728-e013",
+          "page": 728,
+          "source": "Medulla: pars recta/proximal straight tubule is m/c vulnerable to hypoxia.",
+          "questionIds": [
+            "MED-C4-042"
+          ]
+        },
+        {
+          "element": "p728-e014",
+          "page": 728,
+          "source": "Zone-perfusion contrast reconfirmed (true/false), positioned before the figure questions.",
+          "questionIds": [
+            "MED-C4-043"
+          ]
+        },
+        {
+          "element": "p728-e015",
+          "page": 728,
+          "source": "Vascularity-figure upper labels: afferent arteriole entering the tuft, proximal convoluted tubule beside the glomerulus, glomerular capsule cupping the tuft.",
+          "questionIds": [
+            "MED-C4-044"
+          ]
+        },
+        {
+          "element": "p728-e016",
+          "page": 728,
+          "source": "Vascularity-figure vessel labels: interlobular artery (red) with interlobular vein and its venule (blue).",
+          "questionIds": [
+            "MED-C4-045"
+          ]
+        },
+        {
+          "element": "p728-e017",
+          "page": 728,
+          "source": "Vascularity-figure labels as a set: glomerular capsule, peritubular capillary network, loop of the nephron (no macula densa).",
+          "questionIds": [
+            "MED-C4-046"
+          ]
+        },
+        {
+          "element": "p728-e018",
+          "page": 728,
+          "source": "Right annotation: efferent arteriole sandwiched between glomerular and peritubular capillary plexuses.",
+          "questionIds": [
+            "MED-C4-047"
+          ]
+        },
+        {
+          "element": "p728-e019",
+          "page": 728,
+          "source": "Bottom annotation: urine flows into the renal papilla; caption 'Vascularity of nephron'.",
+          "questionIds": [
+            "MED-C4-048"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 729,
+      "pdfPage": 37,
+      "traversal": "Note read as a tree: root 'Renal diseases', left branch completed first (85% arm: AKI with the ATN/AIN pair, then CKD with RTA type 4), then right branch (5% arm: large-vessel disease to RAS, small-vessel disease to TMA with hypertensive crisis progressing to CKD). Header/footer excluded.",
+      "elements": [
+        {
+          "element": "p729-e001",
+          "page": 729,
+          "source": "Tree root and left arm: tubules & interstitium form 85% of the kidney.",
+          "questionIds": [
+            "MED-C4-049"
+          ]
+        },
+        {
+          "element": "p729-e002",
+          "page": 729,
+          "source": "Left arm 1. AKI (hours to days): ATN due to ischemia (m/c); AIN due to drug hypersensitivity (m/c).",
+          "questionIds": [
+            "MED-C4-050"
+          ]
+        },
+        {
+          "element": "p729-e003",
+          "page": 729,
+          "source": "Left arm 2. CKD: chronic tubulointerstitial fibrosis/disease leading to RTA type 4.",
+          "questionIds": [
+            "MED-C4-051"
+          ]
+        },
+        {
+          "element": "p729-e004",
+          "page": 729,
+          "source": "Right arm: vascular disease forms 5% of the kidney; large vessel disorders lead to RAS (renal artery stenosis); small vessel disorders lead to TMA (thrombotic microangiopathy).",
+          "questionIds": [
+            "MED-C4-052"
+          ]
+        },
+        {
+          "element": "p729-e005",
+          "page": 729,
+          "source": "Small-vessel chain: TMA to hypertensive crisis, progressing to CKD (ischemic nephropathy).",
+          "questionIds": [
+            "MED-C4-053"
+          ]
+        },
+        {
+          "element": "p729-e006",
+          "page": 729,
+          "source": "Vascular arm consolidated (true/false), positioned after both branches.",
+          "questionIds": [
+            "MED-C4-054"
+          ]
+        },
+        {
+          "element": "p729-e007",
+          "page": 729,
+          "source": "Vascular arm consolidated (odd-one-out), positioned after both branches.",
+          "questionIds": [
+            "MED-C4-055"
+          ]
+        }
+      ]
+    }
+  ]
+}

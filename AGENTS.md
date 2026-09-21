@@ -48,12 +48,16 @@ Read `PROGRESS.md`, `SOURCE_REVIEW.md`, and `SELF_AUDIT_BOOK_ORDER.md` before co
 - The user requested continuation through **all 74 chapters**, strictly in order.
 - **Ch 70–74, p1039–1068:** built as 391 questions in 22 units on 2026-09-21
   (`author_c70.py`–`author_c74.py`, report in `REPORT_CH70-74.md`). The roadmap is now
-  **complete: 74/74 chapters live, 5,324 questions, 412 units, all 364 book pages**.
-- **Ch 1–3, p705–725:** rebuilt to 140, 148 and 202 questions with ordered source
+  **complete: 74/74 chapters live, 5,329 questions, 412 units, all 364 book pages**
+  (5,324 at roadmap completion plus 5 net new Ch 4 review questions).
+- **Ch 1–4, p705–729:** rebuilt to 140, 148, 202 and 55 questions with ordered source
   checklists in `data/source_review/`, source caveats, and unchanged unit IDs/history.
-- **Next (authoritative): the strict recorded line-by-line source review of Ch 4–74.**
-  Recorded review manifests exist for Ch 1–3 only, so
-  `python3 check_source_coverage.py --require-all` fails by design. Ch 4 remains the
+  The Ch 4 repair (2026-09-21) fixed a wrong-page findings citation, a p726→p727
+  forward jump, a double-answer item and a within-page order fault, and completed
+  every figure label; see `REAUDIT_CH4_SOURCE_ORDER.md`.
+- **Next (authoritative): the strict recorded line-by-line source review of Ch 5–74.**
+  Recorded review manifests exist for Ch 1–4 only, so
+  `python3 check_source_coverage.py --require-all` fails by design. Ch 5 remains the
   earliest pending chapter; continue in book order and never describe an incremental
   merge as whole-book compliance.
 - The initial Ch 1 backward jump is repaired. PR #18 replaced Ch 52–56 with a

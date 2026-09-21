@@ -67,16 +67,16 @@
       "id": "MED-C4-005",
       "sec": "JGA components & macula densa",
       "page": 726,
-      "fmt": "match",
-      "q": "Match each JGA component with its description — 1) Juxtaglomerular cells 2) Macula densa 3) Mesangial/lacis cells … A) Modified tall columnar cells of the TAL B) Granular cells in the arteriolar tunica media C) Also called supporting or Polkissen cells",
+      "q": "Match each macula densa fact with its detail — 1) Composition 2) Site 3) Function … A) TG feedback mediated by adenosine B) Modified tall columnar cells C) Cortical TAL / distal straight tubule",
       "opts": [
-        "1-B, 2-A, 3-C",
-        "1-A, 2-B, 3-C",
         "1-B, 2-C, 3-A",
-        "1-C, 2-A, 3-B"
+        "1-A, 2-C, 3-B",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
       ],
       "ans": 0,
-      "exp": "JG cells = granular cells of the tunica media; macula densa = modified tall columnar TAL cells; mesangial/lacis = supporting/Polkissen cells. (Book p726)"
+      "exp": "Macula densa: modified tall columnar cells (composition) in the cortical TAL/distal straight tubule (site), doing TG feedback via adenosine (function). (Book p726)",
+      "fmt": "match"
     },
     {
       "id": "MED-C4-006",
@@ -110,6 +110,36 @@
     },
     {
       "id": "MED-C4-008",
+      "sec": "JGA components & macula densa",
+      "page": 726,
+      "q": "Match each label in the JG apparatus figure with where its leader points — 1) Internal elastic lamina 2) Glomerular epithelium 3) Basement membrane … A) Wall of the distal tubule in cross-section B) Top wall of the arteriole C) Covering of the glomerular tuft",
+      "opts": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "ans": 0,
+      "exp": "Internal elastic lamina → top arteriole wall; glomerular epithelium → tuft covering; basement membrane → distal tubule wall. (Book p726)",
+      "fmt": "match"
+    },
+    {
+      "id": "MED-C4-009",
+      "sec": "JGA components & macula densa",
+      "page": 726,
+      "q": "All of the following are labelled in the JG apparatus figure EXCEPT:",
+      "opts": [
+        "Thin ascending limb of Henle",
+        "Distal tubule (Straight)",
+        "Macula densa",
+        "Juxtaglomerular cells"
+      ],
+      "ans": 0,
+      "exp": "The figure labels distal tubule (straight), macula densa and JG cells (with efferent arteriole, smooth muscle layer, internal elastic lamina, glomerular epithelium and basement membrane); no thin ascending limb. (Book p726)",
+      "fmt": "oddoneout"
+    },
+    {
+      "id": "MED-C4-010",
       "sec": "TG feedback: tubular injury",
       "page": 726,
       "fmt": "numeric",
@@ -124,22 +154,22 @@
       "exp": "Phase 1 (tubular injury): duration < 24 hrs. (Book p726)"
     },
     {
-      "id": "MED-C4-009",
+      "id": "MED-C4-011",
       "sec": "TG feedback: tubular injury",
       "page": 726,
-      "fmt": "recall",
-      "q": "The book's example of a tubulotoxic drug causing the PCT injury in phase 1 is:",
+      "q": "A patient started on gentamicin develops renal tubular injury with PCT damage in under 24 hours. In the book's phase-1 MOA, gentamicin is the example of:",
       "opts": [
-        "Gentamicin",
-        "Paracetamol",
-        "Amlodipine",
-        "Metformin"
+        "A tubulotoxic drug",
+        "A prostaglandin inhibitor",
+        "A β1-receptor blocker",
+        "An adenosine antagonist"
       ],
       "ans": 0,
-      "exp": "Renal tubular injury from tubulotoxic drugs (eg. gentamicin) → PCT injury. (Book p726)"
+      "exp": "Renal tubular injury from tubulotoxic drugs (eg. gentamicin) → PCT injury within < 24 hrs. (Book p726)",
+      "fmt": "scenario"
     },
     {
-      "id": "MED-C4-010",
+      "id": "MED-C4-012",
       "sec": "TG feedback: tubular injury",
       "page": 726,
       "fmt": "fillup",
@@ -154,7 +184,37 @@
       "exp": "↓ reabsorption of solute + H2O → ↑ loss of solute + H2O in urine. (Book p726)"
     },
     {
-      "id": "MED-C4-011",
+      "id": "MED-C4-013",
+      "sec": "TG feedback: tubular injury",
+      "page": 726,
+      "fmt": "oddoneout",
+      "q": "All of the following are findings of the TG-feedback phase EXCEPT:",
+      "opts": [
+        "Increased GFR",
+        "Decreased GFR",
+        "Raised serum creatinine",
+        "Raised K+ with cardiac arrhythmias"
+      ],
+      "ans": 0,
+      "exp": "TG-feedback phase findings: ↓GFR, ↑S.creatinine, ↑K+ → cardiac arrhythmias, ↑H+ → metabolic acidosis; GFR falls, not rises. (Book p726)"
+    },
+    {
+      "id": "MED-C4-014",
+      "sec": "TG feedback: tubular injury",
+      "page": 726,
+      "q": "In the TG-feedback phase, the raised H+ load leads to:",
+      "opts": [
+        "Metabolic acidosis",
+        "Metabolic alkalosis",
+        "Respiratory acidosis",
+        "Respiratory alkalosis"
+      ],
+      "ans": 0,
+      "exp": "Phase-2 findings: ↑H+ → metabolic acidosis (with ↓GFR, ↑S.creatinine and ↑K+ → cardiac arrhythmias). (Book p726)",
+      "fmt": "recall"
+    },
+    {
+      "id": "MED-C4-015",
       "sec": "TG feedback: tubular injury",
       "page": 726,
       "fmt": "match",
@@ -169,7 +229,7 @@
       "exp": "Macula densa senses Cl- > K+ > Na+ load delivered to the TAL. (Book p726)"
     },
     {
-      "id": "MED-C4-012",
+      "id": "MED-C4-016",
       "sec": "TG feedback: tubular injury",
       "page": 726,
       "fmt": "fillup",
@@ -184,37 +244,7 @@
       "exp": "Impaired reabsorption → macula densa senses load → release of adenosine → constricts afferent arteriole. (Book p726)"
     },
     {
-      "id": "MED-C4-013",
-      "sec": "TG feedback: tubular injury",
-      "page": 727,
-      "fmt": "oddoneout",
-      "q": "All of the following are findings of the TG-feedback phase EXCEPT:",
-      "opts": [
-        "Increased GFR",
-        "Decreased GFR",
-        "Raised serum creatinine",
-        "Raised K+ with cardiac arrhythmias"
-      ],
-      "ans": 0,
-      "exp": "TG-feedback phase findings: ↓GFR, ↑S.creatinine, ↑K+ → cardiac arrhythmias, ↑H+ → metabolic acidosis; GFR falls, not rises. (Book p727)"
-    },
-    {
-      "id": "MED-C4-014",
-      "sec": "TG feedback: tubular injury",
-      "page": 727,
-      "fmt": "truefalse",
-      "q": "Which of the following statements about the TG-feedback phase is TRUE?",
-      "opts": [
-        "Afferent arteriolar constriction lowers GFR and prevents further salt + H2O loss",
-        "Afferent constriction raises GFR to flush the tubule",
-        "Efferent dilatation is the protective step",
-        "The feedback increases urinary salt loss"
-      ],
-      "ans": 0,
-      "exp": "Constricts afferent arteriole → ↓GFR → ↑S.creatinine and prevents further salt + H2O loss due to impaired reabsorption. (Book p727)"
-    },
-    {
-      "id": "MED-C4-015",
+      "id": "MED-C4-017",
       "sec": "TG feedback: tubular injury",
       "page": 727,
       "fmt": "management",
@@ -229,7 +259,22 @@
       "exp": "Mx: supportive care; monitor fluid intake (↑ chance of edema due to renal failure). (Book p727)"
     },
     {
-      "id": "MED-C4-016",
+      "id": "MED-C4-018",
+      "sec": "TG feedback: tubular injury",
+      "page": 727,
+      "fmt": "truefalse",
+      "q": "Which of the following statements about the TG-feedback MOA is TRUE?",
+      "opts": [
+        "Afferent arteriolar constriction lowers GFR (glomerular filtration rate) and prevents further salt + H2O loss",
+        "Afferent constriction raises GFR to flush the tubule",
+        "Efferent dilatation is the protective step",
+        "The feedback increases urinary salt loss"
+      ],
+      "ans": 0,
+      "exp": "Constricts afferent arteriole → ↓GFR (glomerular filtration rate) → ↑S.creatinine and prevents further salt + H2O loss due to impaired reabsorption. (Book p727)"
+    },
+    {
+      "id": "MED-C4-019",
       "sec": "TG feedback: tubular injury",
       "page": 727,
       "fmt": "recall",
@@ -244,7 +289,7 @@
       "exp": "Row 3 'Recovery phase' carries only a dash in the MOA column. (Book p727)"
     },
     {
-      "id": "MED-C4-017",
+      "id": "MED-C4-020",
       "sec": "TG feedback: dehydration & AKI",
       "page": 727,
       "fmt": "scenario",
@@ -259,7 +304,7 @@
       "exp": "Dehydration (eg. ↑ vomiting → pre-renal failure) begins with loss of intravascular volume. (Book p727)"
     },
     {
-      "id": "MED-C4-018",
+      "id": "MED-C4-021",
       "sec": "TG feedback: dehydration & AKI",
       "page": 727,
       "fmt": "fillup",
@@ -274,7 +319,7 @@
       "exp": "Loss of intravascular volume → ↓ glomerular hydrostatic pressure → ↓ GFR. (Book p727)"
     },
     {
-      "id": "MED-C4-019",
+      "id": "MED-C4-022",
       "sec": "TG feedback: dehydration & AKI",
       "page": 727,
       "fmt": "truefalse",
@@ -289,7 +334,7 @@
       "exp": "↑ proximal tubular absorption (+) → macula densa senses ↓Na+/Cl-/K+ → dilatation of afferent arteriole. (Book p727)"
     },
     {
-      "id": "MED-C4-020",
+      "id": "MED-C4-023",
       "sec": "TG feedback: dehydration & AKI",
       "page": 727,
       "fmt": "fillup",
@@ -304,7 +349,7 @@
       "exp": "Dilatation of afferent arteriole is mediated by prostaglandins → ↑ GFR. (Book p727)"
     },
     {
-      "id": "MED-C4-021",
+      "id": "MED-C4-024",
       "sec": "TG feedback: dehydration & AKI",
       "page": 727,
       "fmt": "recall",
@@ -319,22 +364,22 @@
       "exp": "Prostaglandin-mediated afferent dilatation ends with ↑ GFR. (Book p727)"
     },
     {
-      "id": "MED-C4-022",
+      "id": "MED-C4-025",
       "sec": "TG feedback: dehydration & AKI",
       "page": 727,
-      "fmt": "oddoneout",
-      "q": "All of the following are 'inside kidney' causes of AKI in the book's note EXCEPT:",
+      "q": "Which of the following statements about the book's AKI cause groups is TRUE?",
       "opts": [
-        "Pre-renal causes",
-        "ATI/ATN",
-        "Acute interstitial nephritis (AIN)",
-        "Post-renal causes grouped outside the kidney"
+        "Inside-kidney causes are ATI/ATN and acute interstitial nephritis",
+        "Pre-renal causes arise inside the kidney",
+        "Post-renal causes arise inside the kidney",
+        "ATI/ATN arises outside the kidney"
       ],
       "ans": 0,
-      "exp": "Inside kidney: ATI/ATN and AIN; outside kidney: pre-renal and post-renal causes. (Book p727)"
+      "exp": "Outside kidney = pre-renal + post-renal; inside kidney = ATI/ATN + AIN. (Book p727)",
+      "fmt": "truefalse"
     },
     {
-      "id": "MED-C4-023",
+      "id": "MED-C4-026",
       "sec": "TG feedback: dehydration & AKI",
       "page": 727,
       "fmt": "match",
@@ -349,7 +394,7 @@
       "exp": "Outside kidney = pre-renal + post-renal; inside kidney = ATI/ATN + AIN. (Book p727)"
     },
     {
-      "id": "MED-C4-024",
+      "id": "MED-C4-027",
       "sec": "JG cells & renin",
       "page": 727,
       "fmt": "fillup",
@@ -364,7 +409,7 @@
       "exp": "JG cells composition: granular cells. (Book p727)"
     },
     {
-      "id": "MED-C4-025",
+      "id": "MED-C4-028",
       "sec": "JG cells & renin",
       "page": 727,
       "fmt": "fillup",
@@ -379,7 +424,7 @@
       "exp": "Site: tunica media of afferent arteriole > efferent arteriole. (Book p727)"
     },
     {
-      "id": "MED-C4-026",
+      "id": "MED-C4-029",
       "sec": "JG cells & renin",
       "page": 727,
       "fmt": "recall",
@@ -394,7 +439,7 @@
       "exp": "JG cell function: produce renin. (Book p727)"
     },
     {
-      "id": "MED-C4-027",
+      "id": "MED-C4-030",
       "sec": "JG cells & renin",
       "page": 728,
       "fmt": "oddoneout",
@@ -409,7 +454,7 @@
       "exp": "The stimulator diagram shows ↓ renal perfusion pressure, prostaglandins and β1-receptors all (+) JG cells → renin; raised perfusion pressure does not. (Book p728)"
     },
     {
-      "id": "MED-C4-028",
+      "id": "MED-C4-031",
       "sec": "JG cells & renin",
       "page": 728,
       "fmt": "truefalse",
@@ -424,7 +469,7 @@
       "exp": "β1-receptors (with prostaglandins and ↓ perfusion pressure) positively stimulate JG cells to secrete renin. (Book p728)"
     },
     {
-      "id": "MED-C4-029",
+      "id": "MED-C4-032",
       "sec": "JG cells & renin",
       "page": 728,
       "fmt": "scenario",
@@ -439,7 +484,7 @@
       "exp": "β1-receptors (with prostaglandins and ↓ renal perfusion pressure) act positively on JG cells → renin, so β-blockade blunts the response. (Book p728)"
     },
     {
-      "id": "MED-C4-030",
+      "id": "MED-C4-033",
       "sec": "Renal circulation",
       "page": 728,
       "fmt": "recall",
@@ -454,7 +499,7 @@
       "exp": "Renal circulation starts: renal artery (end artery). (Book p728)"
     },
     {
-      "id": "MED-C4-031",
+      "id": "MED-C4-034",
       "sec": "Renal circulation",
       "page": 728,
       "fmt": "numeric",
@@ -469,7 +514,7 @@
       "exp": "Renal artery → 5 segmental arteries (4 anterior + 1 posterior). (Book p728)"
     },
     {
-      "id": "MED-C4-032",
+      "id": "MED-C4-035",
       "sec": "Renal circulation",
       "page": 728,
       "fmt": "match",
@@ -484,7 +529,7 @@
       "exp": "Segmental → interlobar → arcuate → interlobular/cortical radial → afferent arteriole. (Book p728)"
     },
     {
-      "id": "MED-C4-033",
+      "id": "MED-C4-036",
       "sec": "Renal circulation",
       "page": 728,
       "fmt": "fillup",
@@ -499,7 +544,7 @@
       "exp": "Afferent arteriole supplies glomerular capillary plexus (in cortex). (Book p728)"
     },
     {
-      "id": "MED-C4-034",
+      "id": "MED-C4-037",
       "sec": "Renal circulation",
       "page": 728,
       "fmt": "fillup",
@@ -514,7 +559,7 @@
       "exp": "Glomerular plexus → efferent arteriole → peritubular capillary plexus. (Book p728)"
     },
     {
-      "id": "MED-C4-035",
+      "id": "MED-C4-038",
       "sec": "Renal circulation",
       "page": 728,
       "fmt": "recall",
@@ -529,7 +574,7 @@
       "exp": "Peritubular capillary plexus → blood supply to medulla (mediated by vasa recta). (Book p728)"
     },
     {
-      "id": "MED-C4-036",
+      "id": "MED-C4-039",
       "sec": "Renal circulation",
       "page": 728,
       "fmt": "fillup",
@@ -544,7 +589,7 @@
       "exp": "Ascending limb of vasa recta → renal vein → IVC (inferior vena cava). (Book p728)"
     },
     {
-      "id": "MED-C4-037",
+      "id": "MED-C4-040",
       "sec": "Renal circulation",
       "page": 728,
       "fmt": "oddoneout",
@@ -559,7 +604,7 @@
       "exp": "Forward order is interlobar → arcuate (not arcuate → interlobar); the other pairs follow the chain as written. (Book p728)"
     },
     {
-      "id": "MED-C4-038",
+      "id": "MED-C4-041",
       "sec": "Cortex vs medulla supply",
       "page": 728,
       "fmt": "match",
@@ -574,7 +619,7 @@
       "exp": "Cortex: supplied by renal artery, good supply; medulla: supplied by vasa recta, poor supply. (Book p728)"
     },
     {
-      "id": "MED-C4-039",
+      "id": "MED-C4-042",
       "sec": "Cortex vs medulla supply",
       "page": 728,
       "fmt": "fillup",
@@ -587,51 +632,6 @@
       ],
       "ans": 0,
       "exp": "Medulla: poor supply; pars recta/proximal straight tubule is m/c vulnerable to hypoxia. (Book p728)"
-    },
-    {
-      "id": "MED-C4-040",
-      "sec": "Cortex vs medulla supply",
-      "page": 728,
-      "fmt": "recall",
-      "q": "In the vascularity-of-nephron note, the efferent arteriole is sandwiched between the:",
-      "opts": [
-        "Glomerular capillary plexus and peritubular capillary plexus",
-        "Afferent arteriole and arcuate artery",
-        "Vasa recta limbs",
-        "Interlobular artery and venule"
-      ],
-      "ans": 0,
-      "exp": "Efferent arteriole is sandwiched b/w glomerular capillary plexus and peri-tubular capillary plexus. (Book p728)"
-    },
-    {
-      "id": "MED-C4-041",
-      "sec": "Cortex vs medulla supply",
-      "page": 728,
-      "fmt": "oddoneout",
-      "q": "All of the following are labelled in the 'Vascularity of nephron' figure EXCEPT:",
-      "opts": [
-        "Macula densa",
-        "Glomerular capsule",
-        "Peritubular capillary network",
-        "Loop of the nephron"
-      ],
-      "ans": 0,
-      "exp": "Figure labels: glomerular capsule, efferent/afferent arterioles, proximal convoluted tubule, interlobular artery, venule, interlobular vein, loop of the nephron, peritubular capillary network — no macula densa. (Book p728)"
-    },
-    {
-      "id": "MED-C4-042",
-      "sec": "Cortex vs medulla supply",
-      "page": 728,
-      "fmt": "recall",
-      "q": "At the bottom of the vascularity figure, urine flows into the:",
-      "opts": [
-        "Renal papilla",
-        "Renal pelvis directly",
-        "Ureteric junction",
-        "Major calyx only"
-      ],
-      "ans": 0,
-      "exp": "Figure annotation: urine flows into renal papilla. (Book p728)"
     },
     {
       "id": "MED-C4-043",
@@ -650,6 +650,81 @@
     },
     {
       "id": "MED-C4-044",
+      "sec": "Cortex vs medulla supply",
+      "page": 728,
+      "q": "Match each label in the vascularity-of-nephron figure with the structure it names — 1) Afferent arteriole 2) Proximal convoluted tubule 3) Glomerular capsule … A) Vessel entering the glomerular tuft B) Cup around the glomerular tuft C) Tubule segment coiling beside the glomerulus",
+      "opts": [
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B"
+      ],
+      "ans": 0,
+      "exp": "Afferent arteriole enters the tuft; proximal convoluted tubule coils beside the glomerulus; glomerular capsule cups the tuft. (Book p728)",
+      "fmt": "match"
+    },
+    {
+      "id": "MED-C4-045",
+      "sec": "Cortex vs medulla supply",
+      "page": 728,
+      "q": "In the vascularity figure, the red vessel ascending beside the tubule and the blue vessel with its small tributary are labelled:",
+      "opts": [
+        "Interlobular artery, and interlobular vein with venule",
+        "Interlobar artery, and interlobar vein with venule",
+        "Arcuate artery, and arcuate vein with venule",
+        "Segmental artery, and segmental vein with venule"
+      ],
+      "ans": 0,
+      "exp": "Figure labels: interlobular artery (red) with interlobular vein and its venule (blue). (Book p728)",
+      "fmt": "recall"
+    },
+    {
+      "id": "MED-C4-046",
+      "sec": "Cortex vs medulla supply",
+      "page": 728,
+      "fmt": "oddoneout",
+      "q": "All of the following are labelled in the 'Vascularity of nephron' figure EXCEPT:",
+      "opts": [
+        "Macula densa",
+        "Glomerular capsule",
+        "Peritubular capillary network",
+        "Loop of the nephron"
+      ],
+      "ans": 0,
+      "exp": "Figure labels: glomerular capsule, efferent/afferent arterioles, proximal convoluted tubule, interlobular artery, venule, interlobular vein, loop of the nephron, peritubular capillary network — no macula densa. (Book p728)"
+    },
+    {
+      "id": "MED-C4-047",
+      "sec": "Cortex vs medulla supply",
+      "page": 728,
+      "fmt": "recall",
+      "q": "In the vascularity-of-nephron note, the efferent arteriole is sandwiched between the:",
+      "opts": [
+        "Glomerular capillary plexus and peritubular capillary plexus",
+        "Afferent arteriole and arcuate artery",
+        "Vasa recta limbs",
+        "Interlobular artery and venule"
+      ],
+      "ans": 0,
+      "exp": "Efferent arteriole is sandwiched b/w glomerular capillary plexus and peri-tubular capillary plexus. (Book p728)"
+    },
+    {
+      "id": "MED-C4-048",
+      "sec": "Cortex vs medulla supply",
+      "page": 728,
+      "fmt": "recall",
+      "q": "At the bottom of the vascularity figure, urine flows into the:",
+      "opts": [
+        "Renal papilla",
+        "Renal pelvis directly",
+        "Ureteric junction",
+        "Major calyx only"
+      ],
+      "ans": 0,
+      "exp": "Figure annotation: urine flows into renal papilla. (Book p728)"
+    },
+    {
+      "id": "MED-C4-049",
       "sec": "Renal diseases tree",
       "page": 729,
       "fmt": "numeric",
@@ -664,11 +739,11 @@
       "exp": "Renal diseases tree: tubules & interstitium 85% of kidney; vascular 5%. (Book p729)"
     },
     {
-      "id": "MED-C4-045",
+      "id": "MED-C4-050",
       "sec": "Renal diseases tree",
       "page": 729,
       "fmt": "match",
-      "q": "Match each AKI lesion with its m/c cause — 1) ATN 2) AIN … A) Drug hypersensitivity B) Ischemia",
+      "q": "In AKI (hours to days), match each lesion with its m/c cause — 1) ATN 2) AIN … A) Drug hypersensitivity B) Ischemia",
       "opts": [
         "1-B, 2-A",
         "1-A, 2-B",
@@ -679,7 +754,7 @@
       "exp": "AKI (hours to days): ATN d/t ischemia (m/c); AIN d/t drug hypersensitivity (m/c). (Book p729)"
     },
     {
-      "id": "MED-C4-046",
+      "id": "MED-C4-051",
       "sec": "Renal diseases tree",
       "page": 729,
       "fmt": "fillup",
@@ -694,7 +769,7 @@
       "exp": "CKD: chronic tubulointerstitial fibrosis/disease → RTA type 4. (Book p729)"
     },
     {
-      "id": "MED-C4-047",
+      "id": "MED-C4-052",
       "sec": "Renal diseases tree",
       "page": 729,
       "fmt": "match",
@@ -709,7 +784,7 @@
       "exp": "Vascular (5%): large vessel disorders → RAS (renal artery stenosis); small vessel disorders → TMA. (Book p729)"
     },
     {
-      "id": "MED-C4-048",
+      "id": "MED-C4-053",
       "sec": "Renal diseases tree",
       "page": 729,
       "fmt": "recall",
@@ -724,7 +799,7 @@
       "exp": "Small vessel disorders → TMA → hypertensive crisis → progress to CKD (ischemic nephropathy). (Book p729)"
     },
     {
-      "id": "MED-C4-049",
+      "id": "MED-C4-054",
       "sec": "Renal diseases tree",
       "page": 729,
       "fmt": "truefalse",
@@ -739,7 +814,7 @@
       "exp": "Vascular = 5% of kidney with large vessel (RAS) and small vessel (TMA → hypertensive crisis → ischemic nephropathy) disorders; 85% and RTA-4 belong to the tubulointerstitial arm. (Book p729)"
     },
     {
-      "id": "MED-C4-050",
+      "id": "MED-C4-055",
       "sec": "Renal diseases tree",
       "page": 729,
       "fmt": "oddoneout",
@@ -761,7 +836,7 @@
       "n": 1,
       "title": "JGA components & the macula densa",
       "sec": "Macula Densa & JG cells · p726",
-      "guide": "The three JGA components, macula densa composition/site/function (adenosine-mediated TG feedback) and the labels of the JG-apparatus figure.",
+      "guide": "Source-order revision, 21 Sep 2026: questions have been repaired, expanded and reordered. Previous completion badges and XP are retained; replay this unit to cover the revised questions. The three JGA components, macula densa composition/site/function (adenosine-mediated TG feedback) and every label of the JG-apparatus figure.",
       "qs": [
         "MED-C4-001",
         "MED-C4-002",
@@ -769,7 +844,9 @@
         "MED-C4-004",
         "MED-C4-005",
         "MED-C4-006",
-        "MED-C4-007"
+        "MED-C4-007",
+        "MED-C4-008",
+        "MED-C4-009"
       ]
     },
     {
@@ -778,17 +855,18 @@
       "n": 2,
       "title": "TG feedback: sequence of tubular injury",
       "sec": "Macula Densa & JG cells · p726-727",
-      "guide": "The phases/MOA table: <24 h tubular injury (gentamicin → PCT), the Cl->K+>Na+ sensing, adenosine release, afferent constriction consequences, management and the recovery row.",
+      "guide": "Source-order revision, 21 Sep 2026: questions have been repaired, expanded and reordered. Previous completion badges and XP are retained; replay this unit to cover the revised questions. The phases/MOA table: <24 h tubular injury (gentamicin → PCT), TG-feedback findings, Cl->K+>Na+ sensing, adenosine release, afferent-constriction consequences, management and the recovery row.",
       "qs": [
-        "MED-C4-008",
-        "MED-C4-009",
         "MED-C4-010",
         "MED-C4-011",
         "MED-C4-012",
         "MED-C4-013",
         "MED-C4-014",
         "MED-C4-015",
-        "MED-C4-016"
+        "MED-C4-016",
+        "MED-C4-017",
+        "MED-C4-018",
+        "MED-C4-019"
       ]
     },
     {
@@ -797,15 +875,15 @@
       "n": 3,
       "title": "TG feedback in dehydration & AKI cause groups",
       "sec": "Macula Densa & JG cells · p727",
-      "guide": "The dehydration (vomiting → pre-renal) chain with prostaglandin-mediated afferent dilatation, plus the inside/outside-kidney AKI cause note.",
+      "guide": "Source-order revision, 21 Sep 2026: questions have been repaired, expanded and reordered. Previous completion badges and XP are retained; replay this unit to cover the revised questions. The dehydration (vomiting → pre-renal) chain with prostaglandin-mediated afferent dilatation, plus the inside/outside-kidney AKI cause note.",
       "qs": [
-        "MED-C4-017",
-        "MED-C4-018",
-        "MED-C4-019",
         "MED-C4-020",
         "MED-C4-021",
         "MED-C4-022",
-        "MED-C4-023"
+        "MED-C4-023",
+        "MED-C4-024",
+        "MED-C4-025",
+        "MED-C4-026"
       ]
     },
     {
@@ -814,14 +892,14 @@
       "n": 4,
       "title": "JG cells & renin release",
       "sec": "Macula Densa & JG cells · p727-728",
-      "guide": "JG cell composition (granular), site (tunica media, afferent > efferent), function (renin) and the three positive stimulators of renin release.",
+      "guide": "Source-order revision, 21 Sep 2026: questions have been repaired, expanded and reordered. Previous completion badges and XP are retained; replay this unit to cover the revised questions. JG cell composition (granular), site (tunica media, afferent > efferent), function (renin) and the three positive stimulators of renin release.",
       "qs": [
-        "MED-C4-024",
-        "MED-C4-025",
-        "MED-C4-026",
         "MED-C4-027",
         "MED-C4-028",
-        "MED-C4-029"
+        "MED-C4-029",
+        "MED-C4-030",
+        "MED-C4-031",
+        "MED-C4-032"
       ]
     },
     {
@@ -830,16 +908,16 @@
       "n": 5,
       "title": "Renal circulation: artery to IVC",
       "sec": "Vascular Anatomy of Kidney · p728",
-      "guide": "The full circulation chain: end artery, 5 segmental arteries, interlobar/arcuate/interlobular stations, glomerular and peritubular plexuses, vasa recta limbs and venous return to the IVC.",
+      "guide": "Source-order revision, 21 Sep 2026: questions have been repaired, expanded and reordered. Previous completion badges and XP are retained; replay this unit to cover the revised questions. The full circulation chain: end artery, 5 segmental arteries, interlobar/arcuate/interlobular stations, glomerular and peritubular plexuses, vasa recta limbs and venous return to the IVC.",
       "qs": [
-        "MED-C4-030",
-        "MED-C4-031",
-        "MED-C4-032",
         "MED-C4-033",
         "MED-C4-034",
         "MED-C4-035",
         "MED-C4-036",
-        "MED-C4-037"
+        "MED-C4-037",
+        "MED-C4-038",
+        "MED-C4-039",
+        "MED-C4-040"
       ]
     },
     {
@@ -848,14 +926,16 @@
       "n": 6,
       "title": "Cortex vs medulla supply & nephron vascularity",
       "sec": "Vascular Anatomy of Kidney · p728",
-      "guide": "The cortex/medulla supply table, the hypoxia-vulnerable pars recta, the efferent-arteriole 'sandwich' note and every label of the vascularity-of-nephron figure.",
+      "guide": "Source-order revision, 21 Sep 2026: questions have been repaired, expanded and reordered. Previous completion badges and XP are retained; replay this unit to cover the revised questions. The cortex/medulla supply table, the hypoxia-vulnerable pars recta, the efferent-arteriole 'sandwich' note and every label of the vascularity-of-nephron figure.",
       "qs": [
-        "MED-C4-038",
-        "MED-C4-039",
-        "MED-C4-040",
         "MED-C4-041",
         "MED-C4-042",
-        "MED-C4-043"
+        "MED-C4-043",
+        "MED-C4-044",
+        "MED-C4-045",
+        "MED-C4-046",
+        "MED-C4-047",
+        "MED-C4-048"
       ]
     },
     {
@@ -864,15 +944,15 @@
       "n": 7,
       "title": "Renal diseases tree (85% vs 5%)",
       "sec": "Renal diseases note · p729",
-      "guide": "The closing note: tubulointerstitial (85%) AKI/CKD arms with their m/c causes and RTA-4 endpoint, and the vascular (5%) arm with RAS, TMA and hypertensive crisis.",
+      "guide": "Source-order revision, 21 Sep 2026: questions have been repaired, expanded and reordered. Previous completion badges and XP are retained; replay this unit to cover the revised questions. The closing note: tubulointerstitial (85%) AKI/CKD arms with their m/c causes and RTA-4 endpoint, and the vascular (5%) arm with RAS, TMA and hypertensive crisis to ischemic nephropathy.",
       "qs": [
-        "MED-C4-044",
-        "MED-C4-045",
-        "MED-C4-046",
-        "MED-C4-047",
-        "MED-C4-048",
         "MED-C4-049",
-        "MED-C4-050"
+        "MED-C4-050",
+        "MED-C4-051",
+        "MED-C4-052",
+        "MED-C4-053",
+        "MED-C4-054",
+        "MED-C4-055"
       ]
     }
   ]
