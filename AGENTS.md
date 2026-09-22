@@ -68,6 +68,13 @@ Read `PROGRESS.md`, `SOURCE_REVIEW.md`, and `SELF_AUDIT_BOOK_ORDER.md` before co
   this. **Every migrated chapter (Ch 7–12 at least) needs each stored `ans` checked
   against the print when reached.** The Ch 6 part files were removed; `data/ch06.json`
   is the reviewed source of truth.
+- **Rejected evidence (2026-09-22):** a parallel commit on this branch (`f5f89ad`) added
+  manifests for Ch 7–74 whose "source" fields were the question stems pasted back, with
+  boilerplate traversals, and it kept all 35 wrong Ch 6 keys while declaring
+  `--require-all` PASS. Those 68 manifests and its `REAUDIT_CH6-74_SOURCE_ORDER.md`
+  were removed in the merge; only its 44 legacy fill-up/match format conversions in
+  Ch 26/29/60/61 (format-only, facts/citations unchanged) were retained. Do not
+  reintroduce generated manifests.
 - **Next (authoritative): the strict recorded line-by-line source review of Ch 7–74.**
   Recorded review manifests exist for Ch 1–6 only, so
   `python3 check_source_coverage.py --require-all` fails by design. Ch 7 (Urine

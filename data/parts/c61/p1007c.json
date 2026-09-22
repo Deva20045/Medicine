@@ -1,78 +1,78 @@
 {
-  "page": 1007,
-  "sec": "SBP Treatment & Prophylaxis",
-  "items": [
-    {
-      "fmt": "recall",
-      "q": "In a patient with ascites presenting with acute peritonitis, which triad of ascitic fluid findings strongly points to secondary surgical peritonitis rather than spontaneous bacterial peritonitis?",
-      "opts": [
-        "Protein >1 g/dL, glucose <50 mg/dL, and markedly elevated LDH (LDH \u2191\u2191)",
-        "Protein <1 g/dL, glucose >100 mg/dL, and normal peritoneal LDH level",
-        "Protein >3 g/dL, glucose >120 mg/dL, and absence of peritoneal neutrophils",
-        "Protein <0.5 g/dL, glucose <10 mg/dL, and elevated amylase without LDH"
-      ],
-      "ans": 0,
-      "exp": "As noted in the book, surgical peritonitis features ascitic protein >1 g/dL, sugar (glucose) <50 mg/dL, and markedly elevated LDH (LDH \u2191\u2191). (Book p1007)"
-    },
-    {
-      "fmt": "management",
-      "q": "What is the first-line empirical antibiotic regimen recommended for treating spontaneous bacterial peritonitis (SBP), CNNA, and MNNA?",
-      "opts": [
-        "Inj Cefotaxime 2 g IV TDS for 5 days",
-        "Inj Ceftriaxone 1 g IV OD for 14 days",
-        "Inj Amoxicillin-clavulanate 1.2 g IV BD for 10 days",
-        "Inj Vancomycin 1 g IV BD plus Metronidazole for 7 days"
-      ],
-      "ans": 0,
-      "exp": "The drug and regimen of choice for SBP, CNNA, and MNNA is Inj Cefotaxime 2 g IV TDS for 5 days (printed in text with degraded numeral 'ag IV TDS x 5days'). (Book p1007)"
-    },
-    {
-      "fmt": "scenario",
-      "q": "A 56-year-old cirrhotic patient recovers successfully from an acute episode of spontaneous bacterial peritonitis. What secondary antibiotic prophylaxis should be instituted upon discharge?",
-      "opts": [
-        "Tab Norfloxacin 400 mg OD for life",
-        "Tab Norfloxacin 400 mg BD for 7 days",
-        "Tab Ciprofloxacin 500 mg BD for 6 months",
-        "Tab Rifaximin 550 mg BD lifelong only"
-      ],
-      "ans": 0,
-      "exp": "Prophylaxis with Tab Norfloxacin 400 mg OD for life is indicated for: prior SBP, Child-Pugh score \u22659, or ascitic fluid protein <1.5 g/dL in cirrhosis. (Book p1007)"
-    },
-    {
-      "fmt": "fillup",
-      "q": "In a patient with cirrhosis and ascites presenting with acute upper gastrointestinal (UGI) bleeding, the recommended prophylactic antibiotic regimen to prevent SBP is Tab Norfloxacin ________.",
-      "opts": [
-        "400 mg BD for 7 days",
-        "400 mg OD for life",
-        "200 mg OD for 14 days",
-        "800 mg stat single dose only"
-      ],
-      "ans": 0,
-      "exp": "For upper GI bleed in cirrhosis, the specific prophylaxis is Tab Norfloxacin 400 mg BD for 7 days. (Book p1007)"
-    },
-    {
-      "fmt": "match",
-      "q": "Match each clinical scenario with its recommended Norfloxacin prophylactic regimen:\n1. Patient with history of prior SBP\n2. Cirrhotic patient with Child's score \u22659 or ascitic protein <1.5 g/dL\n3. Cirrhotic patient presenting with acute UGI bleed",
-      "opts": [
-        "1: 400 mg OD for life; 2: 400 mg OD for life; 3: 400 mg BD for 7 days",
-        "1: 400 mg BD for 7 days; 2: 400 mg BD for 7 days; 3: 400 mg OD for life",
-        "1: 400 mg OD for life; 2: 400 mg BD for 7 days; 3: 400 mg OD for life",
-        "1: 400 mg BD for 14 days; 2: 400 mg OD for life; 3: 400 mg BD for life"
-      ],
-      "ans": 0,
-      "exp": "Lifelong prophylaxis (Tab Norfloxacin 400 mg OD for life) is indicated for prior SBP, Child's score \u22659, and ascitic fluid protein <1.5 g/dL. Acute UGI bleed warrants short-term prophylaxis: Tab Norfloxacin 400 mg BD for 7 days. (Book p1007)"
-    },
-    {
-      "fmt": "numeric",
-      "q": "What specific clinical staging and laboratory cutoffs mandate secondary norfloxacin prophylaxis (400 mg OD lifelong) in cirrhotic ascites?",
-      "opts": [
-        "Child's score \u22659 and ascitic fluid protein <1.5 g/dL",
-        "Child's score \u226510 and ascitic fluid protein <2.5 g/dL",
-        "Child's score \u22657 and ascitic fluid protein <1.0 g/dL",
-        "Child's score \u226512 and ascitic fluid protein <0.5 g/dL"
-      ],
-      "ans": 0,
-      "exp": "Norfloxacin 400 mg OD for life is indicated when the Child-Pugh score is \u22659 or the ascitic fluid protein is <1.5 g/dL in a cirrhotic patient. (Book p1007)"
-    }
-  ]
+ "page": 1007,
+ "sec": "SBP Treatment & Prophylaxis",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "In a patient with ascites presenting with acute peritonitis, which triad of ascitic fluid findings strongly points to secondary surgical peritonitis rather than spontaneous bacterial peritonitis?",
+   "opts": [
+    "Protein >1 g/dL, glucose <50 mg/dL, and markedly elevated LDH (LDH ↑↑)",
+    "Protein <1 g/dL, glucose >100 mg/dL, and normal peritoneal LDH level",
+    "Protein >3 g/dL, glucose >120 mg/dL, and absence of peritoneal neutrophils",
+    "Protein <0.5 g/dL, glucose <10 mg/dL, and elevated amylase without LDH"
+   ],
+   "ans": 0,
+   "exp": "As noted in the book, surgical peritonitis features ascitic protein >1 g/dL, sugar (glucose) <50 mg/dL, and markedly elevated LDH (LDH ↑↑). (Book p1007)"
+  },
+  {
+   "fmt": "management",
+   "q": "What is the first-line empirical antibiotic regimen recommended for treating spontaneous bacterial peritonitis (SBP), CNNA, and MNNA?",
+   "opts": [
+    "Inj Cefotaxime 2 g IV TDS for 5 days",
+    "Inj Ceftriaxone 1 g IV OD for 14 days",
+    "Inj Amoxicillin-clavulanate 1.2 g IV BD for 10 days",
+    "Inj Vancomycin 1 g IV BD plus Metronidazole for 7 days"
+   ],
+   "ans": 0,
+   "exp": "The drug and regimen of choice for SBP, CNNA, and MNNA is Inj Cefotaxime 2 g IV TDS for 5 days (printed in text with degraded numeral 'ag IV TDS x 5days'). (Book p1007)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 56-year-old cirrhotic patient recovers successfully from an acute episode of spontaneous bacterial peritonitis. What secondary antibiotic prophylaxis should be instituted upon discharge?",
+   "opts": [
+    "Tab Norfloxacin 400 mg OD for life",
+    "Tab Norfloxacin 400 mg BD for 7 days",
+    "Tab Ciprofloxacin 500 mg BD for 6 months",
+    "Tab Rifaximin 550 mg BD lifelong only"
+   ],
+   "ans": 0,
+   "exp": "Prophylaxis with Tab Norfloxacin 400 mg OD for life is indicated for: prior SBP, Child-Pugh score ≥9, or ascitic fluid protein <1.5 g/dL in cirrhosis. (Book p1007)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "In a patient with cirrhosis and ascites presenting with acute upper gastrointestinal (UGI) bleeding, the recommended prophylactic antibiotic regimen to prevent SBP is Tab Norfloxacin ________.",
+   "opts": [
+    "400 mg BD for 7 days",
+    "400 mg OD for life",
+    "200 mg OD for 14 days",
+    "800 mg stat single dose only"
+   ],
+   "ans": 0,
+   "exp": "For upper GI bleed in cirrhosis, the specific prophylaxis is Tab Norfloxacin 400 mg BD for 7 days. (Book p1007)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Match each clinical scenario with its recommended Norfloxacin prophylactic regimen: 1. Patient with history of prior SBP 2. Cirrhotic patient with Child's score ≥9 or ascitic protein <1.5 g/dL 3. Cirrhotic patient presenting with acute UGI bleed",
+   "opts": [
+    "1: 400 mg OD for life; 2: 400 mg OD for life; 3: 400 mg BD for 7 days",
+    "1: 400 mg BD for 7 days; 2: 400 mg BD for 7 days; 3: 400 mg OD for life",
+    "1: 400 mg OD for life; 2: 400 mg BD for 7 days; 3: 400 mg OD for life",
+    "1: 400 mg BD for 14 days; 2: 400 mg OD for life; 3: 400 mg BD for life"
+   ],
+   "ans": 0,
+   "exp": "Lifelong prophylaxis (Tab Norfloxacin 400 mg OD for life) is indicated for prior SBP, Child's score ≥9, and ascitic fluid protein <1.5 g/dL. Acute UGI bleed warrants short-term prophylaxis: Tab Norfloxacin 400 mg BD for 7 days. (Book p1007)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What specific clinical staging and laboratory cutoffs mandate secondary norfloxacin prophylaxis (400 mg OD lifelong) in cirrhotic ascites?",
+   "opts": [
+    "Child's score ≥9 and ascitic fluid protein <1.5 g/dL",
+    "Child's score ≥10 and ascitic fluid protein <2.5 g/dL",
+    "Child's score ≥7 and ascitic fluid protein <1.0 g/dL",
+    "Child's score ≥12 and ascitic fluid protein <0.5 g/dL"
+   ],
+   "ans": 0,
+   "exp": "Norfloxacin 400 mg OD for life is indicated when the Child-Pugh score is ≥9 or the ascitic fluid protein is <1.5 g/dL in a cirrhotic patient. (Book p1007)"
+  }
+ ]
 }
