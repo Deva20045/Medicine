@@ -34,11 +34,11 @@ chapter that passed through the parts pipeline (Ch 7–12 at least) must have ev
 stored key checked against the scan when reached. See `REAUDIT_CH6_SOURCE_ORDER.md`.
 
 **All-chapter scope:** the user requested continuing **all 74 chapters** and
-merging the work. Track all of them in **`SOURCE_REVIEW.md`**; currently **9/74
-chapters, 51/364 pages** have valid recorded source reviews. This is incremental
+merging the work. Track all of them in **`SOURCE_REVIEW.md`**; currently **10/74
+chapters, 57/364 pages** have valid recorded source reviews. This is incremental
 work, not whole-book completion. No background authoring is implied by this queue.
 
-**Current structural inventory:** **5,371 questions · 412 units · 74 live
+**Current structural inventory:** **5,373 questions · 412 units · 74 live
 chapters**, all 364 in-scope pages represented by citation. LIVE means available
 in the app, not line-by-line certified.
 
@@ -47,7 +47,7 @@ The full-bank DOM-shim smoke test exercises **10,742 correct/incorrect answer
 paths across all 412 units**. It reports **44 legacy format defects** in
 unreviewed chapters (Ch 26/29/60/61), not concealed by runtime PASS. Source
 review remains separate; `check_source_coverage.py --require-all` intentionally
-fails with 65 chapters pending. This completion gate must not be bypassed to
+fails with 64 chapters pending. This completion gate must not be bypassed to
 claim the merge is complete.
 
 **Ch 7 (2026-09-22):** source-reviewed, 135 → 140 q; 0 wrong keys, 1 wrong value
@@ -57,11 +57,13 @@ claim the merge is complete.
 
 **Ch 9 (2026-09-22):** source-reviewed, 52 q; 1 wrong key fixed, order corrected. See `REAUDIT_CH9_SOURCE_ORDER.md`.
 
-**NEXT (authoritative): Ch 10 — Glomerular Disease – Patterns, Book p756–761 (Part 1 PDF pp64–69).**
+**Ch 10 (2026-09-22):** source-reviewed, 78 → 80 q; 0 wrong keys, 2 notes added, order corrected. See `REAUDIT_CH10_SOURCE_ORDER.md`.
+
+**NEXT (authoritative): Ch 11 — Podocytopathies, Book p762–769 (Part 2 PDF pp3–10).**
 Continue source reading, checklist, repair, rebuild and verification in book order,
 including a per-item answer-key check against the print (migrated chapter).
 Do not jump ahead or return to earlier chapters. Reports: `REAUDIT_CH1_SOURCE_ORDER.md`
-… `REAUDIT_CH9_SOURCE_ORDER.md`.
+… `REAUDIT_CH10_SOURCE_ORDER.md`.
 Older NEXT/batch notes below are historical and do not override this instruction.
 
 ## Goal
@@ -240,7 +242,7 @@ review of Ch 4–74 in `SOURCE_REVIEW.md`.)*
 - [x] **Ch 7 "Urine Analysis" (p740–747): 10 units, 140 questions — SOURCE-REVIEWED WITH CAVEATS (DI osmolality value fixed 2026-09-22)**
 - [x] **Ch 8 "Basic Approach to Kidney Disease and Renal Artery Stenosis" (p748–752): 8 units, 83 questions — SOURCE-REVIEWED WITH CAVEATS (0 wrong keys, 2026-09-22)**
 - [x] **Ch 9 "Thrombotic Microangiopathy" (p753–755): 5 units, 52 questions — SOURCE-REVIEWED WITH CAVEATS (1 wrong key fixed 2026-09-22)**
-- [x] **Ch 10 "Glomerular Disease - Patterns" (p756–761): 9 units, 78 questions — RE-AUDITED, gap-filled page-by-page**
+- [x] **Ch 10 "Glomerular Disease - Patterns" (p756–761): 9 units, 80 questions — SOURCE-REVIEWED WITH CAVEATS (0 wrong keys, 2026-09-22)**
 - [x] **Ch 11 "Podocytopathies" (p762–769): 8 units, 88 questions — RE-AUDITED; 16 items re-formatted, p769 figures/treatment gap-filled**
 - [x] **Ch 12 "MPGN and IgA Nephropathy" (p770–774): 6 units, 52 questions — RE-AUDITED; 16 items re-formatted, length leak 51.9% → 26.9%**
 - [x] **Ch 13 "Post Streptococcal Glomerulonephritis" (p775–777): 3 units, 73 questions — RE-AUDITED ×2, re-verified in the Ch 6–15 pass**

@@ -32,7 +32,7 @@ roadmap on 2026-09-21; see [`REPORT_CH70-74.md`](REPORT_CH70-74.md)).
 | Ch 7 · Urine Analysis (p740–747) — 10 units, 140 questions | ✅ live (source-reviewed 2026-09-22; DI osmolality <200 fixed, order corrected) |
 | Ch 8 · Basic Approach to Kidney Disease and Renal Artery Stenosis (p748–752) — 8 units, 83 questions | ✅ live (source-reviewed 2026-09-22; 0 wrong keys, order corrected) |
 | Ch 9 · Thrombotic Microangiopathy (p753–755) — 5 units, 52 questions | ✅ live (source-reviewed 2026-09-22; 1 wrong key fixed, order corrected) |
-| Ch 10 · Glomerular Disease - Patterns (p756–761) — 9 units, 78 questions | ✅ live (page-anchored re-audit) |
+| Ch 10 · Glomerular Disease - Patterns (p756–761) — 9 units, 80 questions | ✅ live (source-reviewed 2026-09-22; 0 wrong keys, 2 notes added, order corrected) |
 | Ch 11 · Podocytopathies (p762–769) — 8 units, 88 questions | ✅ live (page-anchored re-audit) |
 | Ch 12 · MPGN and IgA Nephropathy (p770–774) — 6 units, 52 questions | ✅ live (page-anchored re-audit) |
 | Ch 13 · Post Streptococcal Glomerulonephritis (p775–777) — 3 units, 73 questions | ✅ live (re-audited) |

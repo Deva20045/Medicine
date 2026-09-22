@@ -1,0 +1,442 @@
+{
+  "chapter": 10,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part1_pages_705-759.pdf",
+  "pdfSha256": "e2dfab80e25cd81302885cda7e07806117d24e15b03d73f2f6b00952ca2fdeea",
+  "pdfOffset": 692,
+  "secondaryPdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+  "secondaryPdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+  "secondaryPdfOffset": 759,
+  "pageRange": "756-761",
+  "contentSha256": "5065617da012089a09f0bc94a53139e1c284d8cc33830357aa1290a9b188f27f",
+  "method": "Six printed pages read at 2x (p756-759 from Part 1 PDF pp64-67; p760-761 from Part 2 PDF pp1-2), top-to-bottom, flowcharts branch by branch. Every stored answer index checked against the print: all 78 correct. Two uncovered printed notes given items (80 total); questions re-sequenced to the traversal.",
+  "caveats": [
+    "p757: caption printed 'muehrcke's line' (lower case); p761: 'Paraneoplastic snydrome' misprint - taught with standard spelling.",
+    "p758: management boxes are read left-to-right (MCD, FSGS, MN/IgA); the p758 header page number is cropped in the scan but the running head and content confirm p758.",
+    "p759: the SRNS 5-10% arm and 'Features against MCD' note are printed to the right; traversal takes the note after Daily monitoring and before Steroid.",
+    "Photographs (Muehrcke's line, xanthelasma, Maltese crosses, oval fat bodies) tested only through printed captions."
+  ],
+  "pages": [
+    {
+      "page": 756,
+      "pdfPage": 64,
+      "traversal": "Title; PRESENTATIONS 1-6; Note (CKD of vascular / glomerular disease); Indication for biopsy flowchart: asymptomatic urine abnormalities arm (two routes) and macrohematuria arm (40/5/1 rule) -> Biopsy; NEPHROTIC SYNDROME criteria 1-3 with adults/children bracket; Note hyperlipidemia/lipiduria; Nephrotic range proteinuria: total protein adults/children.",
+      "elements": [
+        {
+          "element": "p756-e001",
+          "page": 756,
+          "source": "Presentations 1-6: asymptomatic, macrohematuria, nephrotic syndrome, nephritic syndrome (acute GN), RPGN, CKD (chronic GN).",
+          "questionIds": [
+            "MED-C10-001",
+            "MED-C10-002"
+          ]
+        },
+        {
+          "element": "p756-e002",
+          "page": 756,
+          "source": "Note: CKD of vascular disease ischemic nephropathy; CKD of glomerular disease CKD CGN.",
+          "questionIds": [
+            "MED-C10-003"
+          ]
+        },
+        {
+          "element": "p756-e003",
+          "page": 756,
+          "source": "Asymptomatic urine abnormalities (m/c presentation): proteinuria >500 mg/24 hrs + microhematuria >=3 RBC/HPF; proteinuria alone >1 g/24 hrs.",
+          "questionIds": [
+            "MED-C10-004",
+            "MED-C10-005",
+            "MED-C10-006"
+          ]
+        },
+        {
+          "element": "p756-e004",
+          "page": 756,
+          "source": "Macrohematuria: on urine analysis; 40/5/1 rule (>=40 dysmorphic, >=5 acanthocytes, 1 RBC cast) + significant proteinuria -> biopsy.",
+          "questionIds": [
+            "MED-C10-007",
+            "MED-C10-008"
+          ]
+        },
+        {
+          "element": "p756-e005",
+          "page": 756,
+          "source": "Criteria: 1 nephrotic range proteinuria; 2 hypoalbuminemia <3 g/dl; 3 edema extravascular; adults 1+2+3; children 1+2 or 3.",
+          "questionIds": [
+            "MED-C10-009",
+            "MED-C10-010",
+            "MED-C10-011",
+            "MED-C10-012"
+          ]
+        },
+        {
+          "element": "p756-e006",
+          "page": 756,
+          "source": "Note: hyperlipidemia, lipiduria were previously part of diagnostic criteria.",
+          "questionIds": [
+            "MED-C10-013",
+            "MED-C10-014"
+          ]
+        },
+        {
+          "element": "p756-e007",
+          "page": 756,
+          "source": "Nephrotic range proteinuria - total protein: adults >3500 mg/24 hrs; children >50 mg/kg/day.",
+          "questionIds": [
+            "MED-C10-015"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 757,
+      "pdfPage": 65,
+      "traversal": "PCR adult >=3000 / children >=2000 mg/g; not diagnostic; also seen in (diabetes m/c, 2 degree FSGS, amyloidosis) Rx ACEi/ARB; 'Childhood Nephrotic Syndrome': proteinuria + hypoalbuminemia + edema -> nephrotic range / extravascular > intravascular; HYPOALBUMINEMIA two bullets; Sign: Muehrcke's line photo; EDEMA pathophysiology: underfill > overfill; underfill chain.",
+      "elements": [
+        {
+          "element": "p757-e001",
+          "page": 757,
+          "source": "Urine PCR: adult >=3000 mg/g; children >=2000 mg/g; not diagnostic of nephrotic syndrome.",
+          "questionIds": [
+            "MED-C10-016",
+            "MED-C10-017",
+            "MED-C10-018"
+          ]
+        },
+        {
+          "element": "p757-e002",
+          "page": 757,
+          "source": "Also seen in: diabetes (m/c), 2 degree FSGS, amyloidosis - Rx: ACE inhibitors, ARB.",
+          "questionIds": [
+            "MED-C10-019",
+            "MED-C10-020",
+            "MED-C10-021"
+          ]
+        },
+        {
+          "element": "p757-e003",
+          "page": 757,
+          "source": "Childhood NS: proteinuria + hypoalbuminemia + edema; nephrotic range; extravascular > intravascular.",
+          "questionIds": [
+            "MED-C10-022"
+          ]
+        },
+        {
+          "element": "p757-e004",
+          "page": 757,
+          "source": "HYPOALBUMINEMIA: urinary loss of albumin; down compensation by liver.",
+          "questionIds": [
+            "MED-C10-023",
+            "MED-C10-024"
+          ]
+        },
+        {
+          "element": "p757-e005",
+          "page": 757,
+          "source": "Sign: white transverse line - Muehrcke's line.",
+          "questionIds": [
+            "MED-C10-025"
+          ]
+        },
+        {
+          "element": "p757-e006",
+          "page": 757,
+          "source": "EDEMA pathophysiology: underfill theory > overfill theory.",
+          "questionIds": [
+            "MED-C10-026"
+          ]
+        },
+        {
+          "element": "p757-e007",
+          "page": 757,
+          "source": "Underfill: hypoalbuminemia -> loss of capillary oncotic pressure -> fluid to interstitium -> periorbital puffiness, pedal edema (extravascular) / down effective circulatory volume -> 2 degree RAS -> aldosterone -> Na+, water retention (intravascular).",
+          "questionIds": [
+            "MED-C10-027",
+            "MED-C10-028",
+            "MED-C10-029",
+            "MED-C10-030",
+            "MED-C10-031"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 758,
+      "pdfPage": 66,
+      "traversal": "Overfill theory (nephritic): 1 beta hemolytic streptococci -> plasmin -> ENaC -> 1 degree RAS -> Na+/water retention; 2 ANP resistance; management boxes MCD / FSGS / MN, IgA rare; Risk of thrombosis: albumin <2 g/dl, causes, correction of albumin; Edema manifestation: ascites / pleural effusion / pericardial effusion.",
+      "elements": [
+        {
+          "element": "p758-e001",
+          "page": 758,
+          "source": "Overfill theory: beta hemolytic streptococci -> releases plasmin -> activates ENaC -> 1 degree RAS activation -> retention of Na+, water (intravascular edema).",
+          "questionIds": [
+            "MED-C10-032",
+            "MED-C10-033",
+            "MED-C10-034",
+            "MED-C10-035"
+          ]
+        },
+        {
+          "element": "p758-e002",
+          "page": 758,
+          "source": "2. ANP resistance.",
+          "questionIds": [
+            "MED-C10-036"
+          ]
+        },
+        {
+          "element": "p758-e003",
+          "page": 758,
+          "source": "Management boxes: MCD 85-90%, steroid responsive (95%), no role of biopsy; FSGS genetic form unresponsive to steroid -> renal transplantation; MN, IgA rare.",
+          "questionIds": [
+            "MED-C10-037",
+            "MED-C10-038",
+            "MED-C10-039"
+          ]
+        },
+        {
+          "element": "p758-e004",
+          "page": 758,
+          "source": "Risk of thrombosis: serum albumin <2 g/dl -> renal vessel thrombosis, CVT, DVT.",
+          "questionIds": [
+            "MED-C10-040",
+            "MED-C10-041"
+          ]
+        },
+        {
+          "element": "p758-e005",
+          "page": 758,
+          "source": "Causes: loss of antithrombin III in urine; loss of protein C, S in urine; up platelet aggregation; up fibrinogen; down plasminogen.",
+          "questionIds": [
+            "MED-C10-042",
+            "MED-C10-043"
+          ]
+        },
+        {
+          "element": "p758-e006",
+          "page": 758,
+          "source": "Correction of albumin (to >2 g/dL): 20% albumin 20 g/100 ml; dose 0.5 g/kg; FFP, egg white can also be used.",
+          "questionIds": [
+            "MED-C10-044",
+            "MED-C10-045"
+          ]
+        },
+        {
+          "element": "p758-e007",
+          "page": 758,
+          "source": "Edema manifestation: ascites (moderate to severe) Rx tapping, m/c death pneumococcal peritonitis; pleural effusion (mild); pericardial effusion (rare) disproportional dyspnoea Ix echo.",
+          "questionIds": [
+            "MED-C10-046",
+            "MED-C10-047",
+            "MED-C10-048"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 759,
+      "pdfPage": 67,
+      "traversal": "Treatment for edema four bullets; Daily monitoring three bullets; Note: features against MCD; Steroid regimen -> taper -> stop -> remission 90-95% (two bullets) / SRNS 5-10%; Hyperlipidemia three bullets; pathogenesis four bullets; associated features; xanthelasma photo.",
+      "elements": [
+        {
+          "element": "p759-e001",
+          "page": 759,
+          "source": "Treatment for edema: salt <2 g/day; protein 1 g/kg/day; albumin, FFP; diuretics avoided - only if IVC non-collapsible; precipitates pre-renal AKI.",
+          "questionIds": [
+            "MED-C10-049",
+            "MED-C10-050"
+          ]
+        },
+        {
+          "element": "p759-e002",
+          "page": 759,
+          "source": "Daily monitoring: weight; urine routine examination; urine PCR.",
+          "questionIds": [
+            "MED-C10-051"
+          ]
+        },
+        {
+          "element": "p759-e003",
+          "page": 759,
+          "source": "Note - features against MCD: RBC casts in urine; hypertension; renal failure.",
+          "questionIds": [
+            "MED-C10-052"
+          ]
+        },
+        {
+          "element": "p759-e004",
+          "page": 759,
+          "source": "Steroid: oral prednisolone 2 mg/kg/day (or) 60 mg/m2/day x 6 wks; max 80 mg/day; taper x 6 weeks; stop.",
+          "questionIds": [
+            "MED-C10-053"
+          ]
+        },
+        {
+          "element": "p759-e005",
+          "page": 759,
+          "source": "Remission 90-95%: urine albumin nil/trace x 3 consecutive days; urine PCR <200 mg/g; SRNS 5-10%.",
+          "questionIds": [
+            "MED-C10-054",
+            "MED-C10-055"
+          ]
+        },
+        {
+          "element": "p759-e006",
+          "page": 759,
+          "source": "Hyperlipidemia: resolves with steroid therapy; no risk of atherosclerosis; no role for statin.",
+          "questionIds": [
+            "MED-C10-056"
+          ]
+        },
+        {
+          "element": "p759-e007",
+          "page": 759,
+          "source": "Pathogenesis: loss of HDL in urine; up lipoprotein lipase up TG; down LCAT down HDL; up VLDL, LDL synthesis by liver.",
+          "questionIds": [
+            "MED-C10-057",
+            "MED-C10-058"
+          ]
+        },
+        {
+          "element": "p759-e008",
+          "page": 759,
+          "source": "Associated features: xanthoma, xanthelasma (photo).",
+          "questionIds": [
+            "MED-C10-059"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 760,
+      "pdfPage": 1,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "SRNS: proteinuria despite full dose steroid 4 wk -> biopsy (1st indication in child) -> genetic FSGS (podocin) Rx transplant / MCD treatment CNI (DOC) duration, max; tacrolimus dose and S/E; cyclosporine S/E; Relapse flowchart 25/25/50; steroid sparing drugs; relapse after intermission; SDNS definition; treatment MMF, rituximab.",
+      "elements": [
+        {
+          "element": "p760-e001",
+          "page": 760,
+          "source": "SRNS: proteinuria despite full dose of steroid for 4 wk -> biopsy (1st indication in child).",
+          "questionIds": [
+            "MED-C10-060"
+          ]
+        },
+        {
+          "element": "p760-e002",
+          "page": 760,
+          "source": "Genetic form of FSGS (podocin mutation) -> Rx renal transplantation.",
+          "questionIds": [
+            "MED-C10-061"
+          ]
+        },
+        {
+          "element": "p760-e003",
+          "page": 760,
+          "source": "MCD treatment: calcineurin inhibitors (DOC) duration 6 months, max 2 yrs; tacrolimus 0.1 mg/kg/day S/E neuropathy, DM, alopecia; cyclosporine S/E hirsutism, gingival hyperplasia.",
+          "questionIds": [
+            "MED-C10-062",
+            "MED-C10-063"
+          ]
+        },
+        {
+          "element": "p760-e004",
+          "page": 760,
+          "source": "Relapse: proteinuria after 1 month of steroid; 25% no further relapse (very quick remission); 25% infrequent relapse; 50% FRNS.",
+          "questionIds": [
+            "MED-C10-064",
+            "MED-C10-065",
+            "MED-C10-066"
+          ]
+        },
+        {
+          "element": "p760-e005",
+          "page": 760,
+          "source": "Infrequent relapse -> steroid -> taper over 4 wks during remission.",
+          "questionIds": [
+            "MED-C10-067"
+          ]
+        },
+        {
+          "element": "p760-e006",
+          "page": 760,
+          "source": "FRNS: >=2 relapse within 6 months; >=4 relapse within 1 year; steroid sparing drug: oral cyclophosphamide 2 mg/kg/day x 12 wks + steroid x 2 wks; oral levamisole.",
+          "questionIds": [
+            "MED-C10-068",
+            "MED-C10-069"
+          ]
+        },
+        {
+          "element": "p760-e007",
+          "page": 760,
+          "source": "Relapse: proteinuria reappears after 1 month of intermission.",
+          "questionIds": [
+            "MED-C10-070"
+          ]
+        },
+        {
+          "element": "p760-e008",
+          "page": 760,
+          "source": "SDNS: >=2 consecutive relapses during tapering (or) within 14 days after stopping steroid; treatment MMF 1200 mg/m2/day; rituximab 375 mg/m2/day x 4 doses.",
+          "questionIds": [
+            "MED-C10-071",
+            "MED-C10-072"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 761,
+      "pdfPage": 2,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "'Adult Nephrotic Syndrome' three bullets; CAUSES list with Rare bracket; MANAGEMENT 1-2; Treatment chain steroid -> no response -> SRNS (m/c FSGS); Note figures: maltese crosses in polarized light; oval fat bodies; seen in Fabry's disease.",
+      "elements": [
+        {
+          "element": "p761-e001",
+          "page": 761,
+          "source": "Proteinuria: urine PCR >=3000 mg/d; edema; hypoalbuminemia.",
+          "questionIds": [
+            "MED-C10-073"
+          ]
+        },
+        {
+          "element": "p761-e002",
+          "page": 761,
+          "source": "Causes: membranous nephropathy (m/c); FSGS; MCD (15%); IgA; MPGN, 2 degree amyloidosis - rare.",
+          "questionIds": [
+            "MED-C10-074",
+            "MED-C10-075",
+            "MED-C10-076"
+          ]
+        },
+        {
+          "element": "p761-e003",
+          "page": 761,
+          "source": "Management: 1 biopsy; 2 rule out 2 degree causes (eg paraneoplastic syndrome).",
+          "questionIds": [
+            "MED-C10-077"
+          ]
+        },
+        {
+          "element": "p761-e004",
+          "page": 761,
+          "source": "Treatment: steroid 1 mg/kg/d x 4 months -> no response -> SRNS (m/c FSGS).",
+          "questionIds": [
+            "MED-C10-078",
+            "MED-C10-079"
+          ]
+        },
+        {
+          "element": "p761-e005",
+          "page": 761,
+          "source": "Note: maltese crosses in polarized light; oval fat bodies -> seen in Fabry's disease.",
+          "questionIds": [
+            "MED-C10-080"
+          ]
+        }
+      ]
+    }
+  ]
+}

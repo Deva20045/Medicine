@@ -87,10 +87,14 @@ Read `PROGRESS.md`, `SOURCE_REVIEW.md`, and `SELF_AUDIT_BOOK_ORDER.md` before co
 - **Ch 9, p753–755 (2026-09-22):** source-reviewed (`author_c9_review.py`,
   `write_ch09_manifest.py`, `REAUDIT_CH9_SOURCE_ORDER.md`). 1 of 52 keys wrong (a
   match option built with the pre-renal value); order re-sequenced. Parts removed.
-- **Next (authoritative): the strict recorded line-by-line source review of Ch 10–74.**
-  Recorded review manifests exist for Ch 1–9 only, so
-  `python3 check_source_coverage.py --require-all` fails by design. Ch 10 (p756,
-  Part 1 PDF p64) is the earliest pending chapter — still a migrated chapter, so
+- **Ch 10, p756–761 (2026-09-22):** source-reviewed (`author_c10_review.py`,
+  `write_ch10_manifest.py`, `REAUDIT_CH10_SOURCE_ORDER.md`). All 78 keys correct; 2
+  uncovered notes added (80 q); order re-sequenced. Chapter spans two PDFs — the
+  manifest records per-page `pdf`/`pdfSha256` (checker supports this). Parts removed.
+- **Next (authoritative): the strict recorded line-by-line source review of Ch 11–74.**
+  Recorded review manifests exist for Ch 1–10 only, so
+  `python3 check_source_coverage.py --require-all` fails by design. Ch 11 (p762,
+  Part 2 PDF p3) is the earliest pending chapter — still a migrated chapter, so
   check every key against the scan; continue in book order and never
   describe an incremental merge as whole-book compliance.
 - The initial Ch 1 backward jump is repaired. PR #18 replaced Ch 52–56 with a
