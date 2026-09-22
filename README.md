@@ -28,10 +28,10 @@ roadmap on 2026-09-21; see [`REPORT_CH70-74.md`](REPORT_CH70-74.md)).
 | Ch 3 · Tubular Anatomy (p717–725) — 13 units, 202 questions | ✅ live; source-reviewed with caveats |
 | Ch 4 · Juxtaglomerular Apparatus (p726–729) — 7 units, 50 questions | ✅ live |
 | Ch 5 · Glomerulus - Anatomy (p730–733) — 8 units, 56 questions | ✅ live |
-| Ch 6 · Renal Physiology (p734–739) — 10 units, 133 questions | ✅ live (page-anchored re-audit) |
-| Ch 7 · Urine Analysis (p740–747) — 10 units, 135 questions | ✅ live (page-anchored re-audit) |
-| Ch 8 · Basic Approach to Kidney Disease and Renal Artery Stenosis (p748–752) — 8 units, 83 questions | ✅ live (page-anchored re-audit) |
-| Ch 9 · Thrombotic Microangiopathy (p753–755) — 5 units, 52 questions | ✅ live (page-anchored re-audit) |
+| Ch 6 · Renal Physiology (p734–739) — 10 units, 138 questions | ✅ live (source-reviewed 2026-09-22, 35 wrong keys fixed) |
+| Ch 7 · Urine Analysis (p740–747) — 10 units, 140 questions | ✅ live (source-reviewed 2026-09-22; DI osmolality <200 fixed, order corrected) |
+| Ch 8 · Basic Approach to Kidney Disease and Renal Artery Stenosis (p748–752) — 8 units, 83 questions | ✅ live (source-reviewed 2026-09-22; 0 wrong keys, order corrected) |
+| Ch 9 · Thrombotic Microangiopathy (p753–755) — 5 units, 52 questions | ✅ live (source-reviewed 2026-09-22; 1 wrong key fixed, order corrected) |
 | Ch 10 · Glomerular Disease - Patterns (p756–761) — 9 units, 78 questions | ✅ live (page-anchored re-audit) |
 | Ch 11 · Podocytopathies (p762–769) — 8 units, 88 questions | ✅ live (page-anchored re-audit) |
 | Ch 12 · MPGN and IgA Nephropathy (p770–774) — 6 units, 52 questions | ✅ live (page-anchored re-audit) |

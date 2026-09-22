@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
-"""Migrate a hand-authored data/chNN.json into the ordered, page-anchored part
+"""DEPRECATED — DO NOT USE. See REAUDIT_CH6_SOURCE_ORDER.md.
+
+authored_first() assumes an item came from author.py whenever sha256(id) % 4
+equals its answer index. For hand-authored banks that coincidence (~1 in 4)
+mis-rotates the options and the correct answer is lost: 35/133 Ch 6 keys shipped
+wrong. Any chapter migrated with this script needs a per-item key check.
+
+Migrate a hand-authored data/chNN.json into the ordered, page-anchored part
 pipeline used by author.py (the layout already used for Ch 13-22).
 
 For every unit, its questions are grouped by Book page; each (unit, page) group

@@ -1,0 +1,466 @@
+{
+  "chapter": 8,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part1_pages_705-759.pdf",
+  "pdfSha256": "e2dfab80e25cd81302885cda7e07806117d24e15b03d73f2f6b00952ca2fdeea",
+  "pdfOffset": 692,
+  "pageRange": "748-752",
+  "contentSha256": "ec8d77ae0c5da5a8b455976ffa631c3a38a419a4c5ab18cd2a4c91a7a9819022",
+  "method": "All five printed pages read from the supplied Part 1 PDF at 2x; flowcharts traversed branch by branch left-to-right, figures via their printed captions. Every stored answer index checked against the print: all 83 correct. Two wordings aligned to the print (hydroureteronephrosis; Captopril distractor typo); questions re-sequenced to the traversal.",
+  "caveats": [
+    "p749: prints 'hydroureteronephrosis' and 'diagonising'; ATN/AIN expanded as 'acute tubular nephrosis' / 'acute interstitial nephrosis' - taught as printed and flagged (MED-C8-028).",
+    "p750: prints 'urotension' (urotensin) and 'occulsion'; stems use the standard spelling, explanation quotes the print.",
+    "p752: 'Conventional angiograph' printed without -y; the FMD block's 'Incident' means incidence.",
+    "Ultrasound/angiogram image content tested only through printed captions and labels."
+  ],
+  "pages": [
+    {
+      "page": 748,
+      "pdfPage": 56,
+      "traversal": "Chapter title; INITIAL INVESTIGATION tree left-to-right: USG abdomen; RFT (urea, creatinine, Na+, K+); Urine analysis (24hr protein (Preferred), albumin/creatinine, protein/creatinine); 'Approach': USG abdomen (most important); Look for three bullets; CMD Present -> CKD -> Hemodialysis / Transplant; Absent -> Non-CKD; 'USG ABDOMEN In CKD': normal kidney labels (isoechoic cortex, hypoechoic pyramid, hyperechoic fat/calyx/sinus/vessels) and 'Chronic Kidney Failure' images captioned 'CMD lost'.",
+      "elements": [
+        {
+          "element": "p748-e001",
+          "page": 748,
+          "source": "Initial investigation: USG abdomen; RFT - S. urea, S. creatinine, S. Na+, S. K+.",
+          "questionIds": [
+            "MED-C8-001",
+            "MED-C8-002"
+          ]
+        },
+        {
+          "element": "p748-e002",
+          "page": 748,
+          "source": "Urine analysis: 24hr protein (Preferred); albumin/creatinine; protein/creatinine.",
+          "questionIds": [
+            "MED-C8-003",
+            "MED-C8-004"
+          ]
+        },
+        {
+          "element": "p748-e003",
+          "page": 748,
+          "source": "Approach: USG abdomen (most important).",
+          "questionIds": [
+            "MED-C8-005"
+          ]
+        },
+        {
+          "element": "p748-e004",
+          "page": 748,
+          "source": "Look for: kidney size <8 cm; 8-10 cm loss of CMD.",
+          "questionIds": [
+            "MED-C8-006",
+            "MED-C8-007",
+            "MED-C8-008"
+          ]
+        },
+        {
+          "element": "p748-e005",
+          "page": 748,
+          "source": ">10 cm with loss of CMD with: DM, HIV, amyloidosis.",
+          "questionIds": [
+            "MED-C8-009",
+            "MED-C8-010"
+          ]
+        },
+        {
+          "element": "p748-e006",
+          "page": 748,
+          "source": "CMD Present -> CKD; Absent -> Non-CKD.",
+          "questionIds": [
+            "MED-C8-011",
+            "MED-C8-012"
+          ]
+        },
+        {
+          "element": "p748-e007",
+          "page": 748,
+          "source": "CKD -> Hemodialysis / Transplant.",
+          "questionIds": [
+            "MED-C8-013"
+          ]
+        },
+        {
+          "element": "p748-e008",
+          "page": 748,
+          "source": "Normal kidney: isoechoic cortex; hypoechoic pyramid; hyperechoic fat, calyx, sinus, vessels.",
+          "questionIds": [
+            "MED-C8-014",
+            "MED-C8-015"
+          ]
+        },
+        {
+          "element": "p748-e009",
+          "page": 748,
+          "source": "Chronic kidney failure images: 'Cortico medullary differentiation (CMD) lost'.",
+          "questionIds": [
+            "MED-C8-016"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 749,
+      "pdfPage": 57,
+      "traversal": "'Rule out hydroureteronephrosis before diagnosing CKD' + images captioned 'Calyces becoming prominent and ureter seen'; Non-CKD tree: Days to weeks -> RPRF -> RPGN (m/c, biopsy), severe ATN / TMA (rare cause); Hypertensive crisis: vascular cause -> RAS (large vessel) / TMA (small vessel); Normal RFT with renal disease -> nephrotic syn, RTA type I/II, asymptomatic urine abnormality; Hours to days -> AKI -> postrenal, pre-renal, ATN, AIN; 'Renal Artery Stenosis' heading two bullets.",
+      "elements": [
+        {
+          "element": "p749-e001",
+          "page": 749,
+          "source": "Rule out hydroureteronephrosis before diagnosing CKD; calyces becoming prominent and ureter seen.",
+          "questionIds": [
+            "MED-C8-017"
+          ]
+        },
+        {
+          "element": "p749-e002",
+          "page": 749,
+          "source": "Days to weeks -> RPRF -> RPGN (m/c; diagnosed with biopsy); severe ATN; TMA - rare cause.",
+          "questionIds": [
+            "MED-C8-018",
+            "MED-C8-019",
+            "MED-C8-020",
+            "MED-C8-021"
+          ]
+        },
+        {
+          "element": "p749-e003",
+          "page": 749,
+          "source": "Hypertensive crisis: vascular cause -> RAS (large vessel kidney disease); TMA (small vessel kidney disease).",
+          "questionIds": [
+            "MED-C8-022",
+            "MED-C8-023"
+          ]
+        },
+        {
+          "element": "p749-e004",
+          "page": 749,
+          "source": "Normal RFT with renal disease -> nephrotic syn; renal tubular acidosis type I/II; asymptomatic urine abnormality.",
+          "questionIds": [
+            "MED-C8-024"
+          ]
+        },
+        {
+          "element": "p749-e005",
+          "page": 749,
+          "source": "Hours to days -> AKI: postrenal B/L hydroureteronephrosis (USG); pre-renal investigation: normal urine analysis; ATN; AIN (printed 'nephrosis').",
+          "questionIds": [
+            "MED-C8-025",
+            "MED-C8-026",
+            "MED-C8-027",
+            "MED-C8-028"
+          ]
+        },
+        {
+          "element": "p749-e006",
+          "page": 749,
+          "source": "Non-CKD tempo consolidation (match across the three arms).",
+          "questionIds": [
+            "MED-C8-029"
+          ]
+        },
+        {
+          "element": "p749-e007",
+          "page": 749,
+          "source": "RAS: AKA renovascular HTN (RVH) / renal artery occlusion disease (RAOD); can progress to CKD / ischemic nephropathy.",
+          "questionIds": [
+            "MED-C8-030",
+            "MED-C8-031"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 750,
+      "pdfPage": 58,
+      "traversal": "'most common' tree left-to-right: Overall atherosclerosis (proximal 1-2 cm; symptomatic >80%); Young population FMD (arteriopathy; mid to distal); Indian/Asian Takayasu (F:m 9:1; proximal); Young males PAN (entire length; microaneurysm); TYPES Goldblatt; Unilateral RAS pathogenesis: asymmetric kidney size; clip drawing; affected-kidney chain; normal-kidney chain (pressure natriuresis theory); Note: asymmetric kidney seen in; vasoconstriction potency; C/F; basic investigation.",
+      "elements": [
+        {
+          "element": "p750-e001",
+          "page": 750,
+          "source": "Overall: atherosclerosis - proximal renal artery (1-2 cm) - symptomatic >80% occlusion.",
+          "questionIds": [
+            "MED-C8-032",
+            "MED-C8-033"
+          ]
+        },
+        {
+          "element": "p750-e002",
+          "page": 750,
+          "source": "Young population: fibromuscular dysplasia (arteriopathy) - mid to distal renal artery.",
+          "questionIds": [
+            "MED-C8-034",
+            "MED-C8-035"
+          ]
+        },
+        {
+          "element": "p750-e003",
+          "page": 750,
+          "source": "Indian/Asian: Takayasu arteritis (F:m = 9:1) - proximal renal artery.",
+          "questionIds": [
+            "MED-C8-036",
+            "MED-C8-037"
+          ]
+        },
+        {
+          "element": "p750-e004",
+          "page": 750,
+          "source": "Young males: polyarteritis nodosa - entire length renal artery - microaneurysm; tree consolidation.",
+          "questionIds": [
+            "MED-C8-038",
+            "MED-C8-039",
+            "MED-C8-040"
+          ]
+        },
+        {
+          "element": "p750-e005",
+          "page": 750,
+          "source": "TYPES: explain by Goldblatt: two kidney one clip model.",
+          "questionIds": [
+            "MED-C8-041"
+          ]
+        },
+        {
+          "element": "p750-e006",
+          "page": 750,
+          "source": "Unilateral RAS pathogenesis: asymmetric kidney size (clip drawing).",
+          "questionIds": [
+            "MED-C8-042"
+          ]
+        },
+        {
+          "element": "p750-e007",
+          "page": 750,
+          "source": "Affected kidney: down RBF/perfusion ->(+) renin angiotensin system ->(+) up aldosterone -> up AT-II (up up) -> profound vasoconstriction -> up BP -> HTN/HTN crisis.",
+          "questionIds": [
+            "MED-C8-043",
+            "MED-C8-044",
+            "MED-C8-045"
+          ]
+        },
+        {
+          "element": "p750-e008",
+          "page": 750,
+          "source": "Normal kidney: up RBF/medullary flow -> up RIHP -> down reabsorption from PCT -> up excretion Na+/H2O (pressure natriuresis theory).",
+          "questionIds": [
+            "MED-C8-046",
+            "MED-C8-047"
+          ]
+        },
+        {
+          "element": "p750-e009",
+          "page": 750,
+          "source": "Note: asymmetric kidney seen in vesicoureteral reflux; renal artery stenosis.",
+          "questionIds": [
+            "MED-C8-048"
+          ]
+        },
+        {
+          "element": "p750-e010",
+          "page": 750,
+          "source": "Vasoconstriction potency: urotension > endothelin > AT-II (printed spelling).",
+          "questionIds": [
+            "MED-C8-049"
+          ]
+        },
+        {
+          "element": "p750-e011",
+          "page": 750,
+          "source": "C/F: persistent HTN; basic investigation: RFT, urine analysis - normal range.",
+          "questionIds": [
+            "MED-C8-050"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 751,
+      "pdfPage": 59,
+      "traversal": "Radiological investigation: on USG asymmetric kidney; screening test renal doppler -> Confirm -> IOC CT renal angio or MR angiography (caption 'unilateral renal artery stenosis'); Treatment: ACEi/ARBs (DOC); PTRA only if kidney > 8 cm; Bilateral RAS: poor prognosis; pathogenesis drawing (x - occlusion); left chain RBF -> RAS -> x; right chain loss of pressure natriuresis -> Na+/H2O retention -> volume overload (-) -> recurrent flash pulmonary edema -> Rx B/L PTRA with stenting; image 'Bilateral renal artery stenosis'; Treatment: in BP diuretics (DOC), ACEi/ARBs C/I; stop smoking; start statins.",
+      "elements": [
+        {
+          "element": "p751-e001",
+          "page": 751,
+          "source": "On USG: asymmetric kidney; screening test: renal doppler.",
+          "questionIds": [
+            "MED-C8-051"
+          ]
+        },
+        {
+          "element": "p751-e002",
+          "page": 751,
+          "source": "Confirm -> IOC: CT renal angio or MR angiography; caption 'unilateral renal artery stenosis'.",
+          "questionIds": [
+            "MED-C8-052",
+            "MED-C8-053"
+          ]
+        },
+        {
+          "element": "p751-e003",
+          "page": 751,
+          "source": "Treatment: ACE inhibitors / ARBs (DOC).",
+          "questionIds": [
+            "MED-C8-054"
+          ]
+        },
+        {
+          "element": "p751-e004",
+          "page": 751,
+          "source": "PTRA - only if kidney size > 8 cm.",
+          "questionIds": [
+            "MED-C8-055",
+            "MED-C8-056"
+          ]
+        },
+        {
+          "element": "p751-e005",
+          "page": 751,
+          "source": "Bilateral RAS: poor prognosis; drawing legend x - occlusion.",
+          "questionIds": [
+            "MED-C8-057",
+            "MED-C8-058"
+          ]
+        },
+        {
+          "element": "p751-e006",
+          "page": 751,
+          "source": "Loss of pressure natriuresis / down RIHP -> up Na+/H2O retention -> intravascular volume overload -> recurrent flash pulmonary edema (d/t intravascular edema).",
+          "questionIds": [
+            "MED-C8-059",
+            "MED-C8-060"
+          ]
+        },
+        {
+          "element": "p751-e007",
+          "page": 751,
+          "source": "(-) arrow from intravascular volume overload back to renin angiotensin system (-> x).",
+          "questionIds": [
+            "MED-C8-061"
+          ]
+        },
+        {
+          "element": "p751-e008",
+          "page": 751,
+          "source": "Rx -> B/L percutaneous transluminal renal angioplasty with stenting; image 'Bilateral renal artery stenosis'.",
+          "questionIds": [
+            "MED-C8-062",
+            "MED-C8-063"
+          ]
+        },
+        {
+          "element": "p751-e009",
+          "page": 751,
+          "source": "Treatment: in BP -> diuretics (DOC); ACE inhibitors / ARBs: C/I as they down GFR.",
+          "questionIds": [
+            "MED-C8-064",
+            "MED-C8-065"
+          ]
+        },
+        {
+          "element": "p751-e010",
+          "page": 751,
+          "source": "Stop smoking; start statins.",
+          "questionIds": [
+            "MED-C8-066",
+            "MED-C8-067"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 752,
+      "pdfPage": 60,
+      "traversal": "Top images: 'Stents in renal artery bifurcation stenosis'; Pre-op 'Severe stenosis' / Post-op 'Good flow'; Note on pulmonary edema; Screening test CDU: look for parvus tardus, RI; RI >= 0.8 parenchymal disease CKD; investigation inconclusive; RI < 0.8 PSV > 180 cm/s OR RAR > 3.5 OR delta RI > 0.05 -> CT/MR renal angiography (IOC) -> conventional angiograph (gold standard) diagnostic and therapeutic; 'Fibromuscular dysplasia' block; image 'string of beads'.",
+      "elements": [
+        {
+          "element": "p752-e001",
+          "page": 752,
+          "source": "Captions: 'Stents in renal artery bifurcation stenosis'; Pre-op 'Severe stenosis' / Post-op 'Good flow'.",
+          "questionIds": [
+            "MED-C8-068",
+            "MED-C8-069"
+          ]
+        },
+        {
+          "element": "p752-e002",
+          "page": 752,
+          "source": "Note: every pulmonary edema is cardiac unless proven otherwise.",
+          "questionIds": [
+            "MED-C8-070"
+          ]
+        },
+        {
+          "element": "p752-e003",
+          "page": 752,
+          "source": "Screening test: RAS colour doppler ultrasound (CDU); look for parvus tardus pattern; RI (resistivity index).",
+          "questionIds": [
+            "MED-C8-071"
+          ]
+        },
+        {
+          "element": "p752-e004",
+          "page": 752,
+          "source": "RI >= 0.8 -> parenchymal disease: CKD; middle arrow -> investigation inconclusive.",
+          "questionIds": [
+            "MED-C8-072",
+            "MED-C8-073"
+          ]
+        },
+        {
+          "element": "p752-e005",
+          "page": 752,
+          "source": "RI < 0.8: peak systolic velocity > 180 cm/s OR RAR > 3.5 OR delta RI > 0.05.",
+          "questionIds": [
+            "MED-C8-074",
+            "MED-C8-075",
+            "MED-C8-076"
+          ]
+        },
+        {
+          "element": "p752-e006",
+          "page": 752,
+          "source": "-> CT/MR renal angiography (IOC) -> conventional angiograph (gold standard): diagnostic and therapeutic.",
+          "questionIds": [
+            "MED-C8-077"
+          ]
+        },
+        {
+          "element": "p752-e007",
+          "page": 752,
+          "source": "FMD: non atherosclerotic/non inflammatory arteriopathy; incident: m/c in young girls.",
+          "questionIds": [
+            "MED-C8-078",
+            "MED-C8-079"
+          ]
+        },
+        {
+          "element": "p752-e008",
+          "page": 752,
+          "source": "Pathology: middle to distal renal artery, medial fibroplasia in tunica media; 25% B/L renal artery, 25% cerebral vessels.",
+          "questionIds": [
+            "MED-C8-080",
+            "MED-C8-081"
+          ]
+        },
+        {
+          "element": "p752-e009",
+          "page": 752,
+          "source": "Image: 'The string of beads feature in medial fibromuscular dysplasia'.",
+          "questionIds": [
+            "MED-C8-082"
+          ]
+        },
+        {
+          "element": "p752-e010",
+          "page": 752,
+          "source": "Treatment: PTRA (good prognosis).",
+          "questionIds": [
+            "MED-C8-083"
+          ]
+        }
+      ]
+    }
+  ]
+}

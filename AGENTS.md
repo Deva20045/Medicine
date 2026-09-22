@@ -60,11 +60,39 @@ Read `PROGRESS.md`, `SOURCE_REVIEW.md`, and `SELF_AUDIT_BOOK_ORDER.md` before co
   consolidation behind its steps, un-silenced the printed "α actin 4", flagged the
   'mm' unit error and completed every figure/legend/caption label on p730–732;
   see `REAUDIT_CH5_SOURCE_ORDER.md`.
-- **Next (authoritative): the strict recorded line-by-line source review of Ch 6–74.**
-  Recorded review manifests exist for Ch 1–5 only, so
-  `python3 check_source_coverage.py --require-all` fails by design. Ch 6 remains the
-  earliest pending chapter; continue in book order and never describe an incremental
-  merge as whole-book compliance.
+- **Ch 6, p734–739 (2026-09-22):** source-reviewed and rebuilt to 138 questions
+  (`author_c6_review.py`, `write_ch06_manifest.py`, `REAUDIT_CH6_SOURCE_ORDER.md`).
+  **35 of 133 shipped answer keys were wrong** — `migrate_parts.py` mis-rotated
+  hand-authored options and `author.py` then shipped a distractor as the key while
+  the explanation quoted the right value. Structural/runtime checks cannot detect
+  this. **Every migrated chapter (Ch 7–12 at least) needs each stored `ans` checked
+  against the print when reached.** The Ch 6 part files were removed; `data/ch06.json`
+  is the reviewed source of truth.
+- **Rejected evidence (2026-09-22):** a parallel commit on this branch (`f5f89ad`) added
+  manifests for Ch 7–74 whose "source" fields were the question stems pasted back, with
+  boilerplate traversals, and it kept all 35 wrong Ch 6 keys while declaring
+  `--require-all` PASS. Those 68 manifests and its `REAUDIT_CH6-74_SOURCE_ORDER.md`
+  were removed in the merge; only its 44 legacy fill-up/match format conversions in
+  Ch 26/29/60/61 (format-only, facts/citations unchanged) were retained. Do not
+  reintroduce generated manifests.
+- **Ch 7, p740–747 (2026-09-22):** source-reviewed and rebuilt to 140 questions
+  (`author_c7_review.py`, `write_ch07_manifest.py`, `REAUDIT_CH7_SOURCE_ORDER.md`).
+  All 135 keys were correct (this chapter was authored answer-first); one wrong
+  value fixed (DI urine osmolality printed **< 200** mOsm/kg, bank said 300); order
+  re-sequenced on every page; 5 uncovered captions/rows added. Parts files removed;
+  `data/ch07.json` is the source of truth.
+- **Ch 8, p748–752 (2026-09-22):** source-reviewed (`author_c8_review.py`,
+  `write_ch08_manifest.py`, `REAUDIT_CH8_SOURCE_ORDER.md`). All 83 keys correct; two
+  wordings aligned to print; order re-sequenced on every page. Parts files removed.
+- **Ch 9, p753–755 (2026-09-22):** source-reviewed (`author_c9_review.py`,
+  `write_ch09_manifest.py`, `REAUDIT_CH9_SOURCE_ORDER.md`). 1 of 52 keys wrong (a
+  match option built with the pre-renal value); order re-sequenced. Parts removed.
+- **Next (authoritative): the strict recorded line-by-line source review of Ch 10–74.**
+  Recorded review manifests exist for Ch 1–9 only, so
+  `python3 check_source_coverage.py --require-all` fails by design. Ch 10 (p756,
+  Part 1 PDF p64) is the earliest pending chapter — still a migrated chapter, so
+  check every key against the scan; continue in book order and never
+  describe an incremental merge as whole-book compliance.
 - The initial Ch 1 backward jump is repaired. PR #18 replaced Ch 52–56 with a
   338-question bank; preserve it. Old Ch 54 findings refer to the replaced bank,
   and the replacement must be source-reviewed when reached. Whole-book compliance

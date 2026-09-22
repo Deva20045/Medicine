@@ -2,38 +2,137 @@
  "page": 845,
  "sec": "Other effects, eosinopenia clue and the cause tree · p845",
  "items": [
-  {"fmt": "recall", "q": "The ocular effects of cortisol excess are:",
-   "opts": ["↑ intraocular pressure, cataract and glaucoma", "Retinal detachment only", "Papilloedema", "Night blindness"], "ans": 0,
-   "exp": "Eye: ↑ intraocular pressure — cataract and glaucoma. (Book p845)"},
-  {"fmt": "recall", "q": "Cortisol's anti-inflammatory action is attributed to:",
-   "opts": ["Inhibiting IL-6", "Inhibiting IL-2", "Stimulating TNF-α", "Stimulating COX-2"], "ans": 0,
-   "exp": "Miscellaneous: ↓ linear growth; inhibits IL-6 → anti-inflammatory action. (Book p845)"},
-  {"fmt": "truefalse", "q": "‘Cortisol excess raises the WBC count yet the patient remains prone to infection.’",
-   "opts": ["True", "False — WBC falls", "False — infection risk falls", "True, but only with eosinophilia"], "ans": 0,
-   "exp": "Blood/immune: ↑ WBC count but still prone to infection; eosinopenia and ↑ thrombosis (hypercoagulable state). (Book p845)"},
-  {"fmt": "match", "q": "Match the eosinophil clue — 1) Eosinopenia with +ve infection  2) Eosinopenia with −ve infection  3) Eosinophilia … A) Cushing syndrome  B) Addison's disease  C) Typhoid",
-   "opts": ["1-C, 2-A, 3-B", "1-A, 2-C, 3-B", "1-C, 2-B, 3-A", "1-B, 2-A, 3-C"],
-   "ans": 0, "exp": "Eosinopenia with infection → typhoid; eosinopenia without infection → Cushing syndrome; eosinophilia → Addison's disease. (Book p845)"},
-  {"fmt": "numeric", "q": "ACTH-dependent causes account for what share of Cushing's?",
-   "opts": ["90%", "10%", "75%", "15%"], "ans": 0,
-   "exp": "ACTH dependent 90%; ACTH independent 10%. (Book p845)"},
-  {"fmt": "recall", "q": "The single most common endogenous cause overall is:",
-   "opts": ["Pituitary ACTH-secreting adenoma (Cushing's disease)", "Adrenal adenoma", "Ectopic ACTH from squamous cell carcinoma", "PPNAD"], "ans": 0,
-   "exp": "Pituitary ACTH-secreting adenoma (75%), a.k.a. Cushing's disease (micro/macro-adenoma), is the m/c endogenous cause overall. (Book p845)"},
-  {"fmt": "recall", "q": "The most common paraneoplastic (ectopic ACTH) cause is:",
-   "opts": ["Squamous cell carcinoma", "Thymic carcinoid", "Pheochromocytoma", "Medullary thyroid carcinoma"], "ans": 0,
-   "exp": "Paraneoplastic tumour (15%): squamous cell carcinoma is m/c; also thymic/bronchial carcinoid, pheochromocytoma/medullary Ca thyroid. (Book p845)"},
-  {"fmt": "recall", "q": "The m/c cause of Cushing's in toddlers is:",
-   "opts": ["Adrenal carcinoma", "Adrenal adenoma", "Pituitary adenoma", "McCune-Albright syndrome"], "ans": 0,
-   "exp": "ACTH independent (10%): adrenal adenoma; adrenal carcinoma is the m/c cause in toddlers. (Book p845)"},
-  {"fmt": "match", "q": "Match the McCune-Albright (GSα-subunit defect) triad — pick the correct set:",
-   "opts": ["Precocious puberty, fibrous dysplasia, café-au-lait spots", "Precocious puberty, lentigines, atrial myxoma", "Fibrous dysplasia, café-au-lait spots, atrial myxoma", "Precocious puberty, café-au-lait spots, lens dislocation"], "ans": 0,
-   "exp": "McCune-Albright triad: precocious puberty, fibrous dysplasia, café-au-lait spots; m/c cause in infancy. (Book p845)"},
-  {"fmt": "recall", "q": "Primary pigmented nodular adrenal disease (PPNAD) shows ___ and is part of:",
-   "opts": ["Micronodular hyperplasia; Carney's complex (lentigines, atrial myxomas)", "Macronodular hyperplasia; MEN1", "Adrenal carcinoma; Li-Fraumeni", "Adenoma; MEN2"], "ans": 0,
-   "exp": "PPNAD = micronodular hyperplasia, part of Carney's complex with lentigines and atrial myxomas. (Book p845)"},
-  {"fmt": "recall", "q": "In adult Cushing's the sex preponderance is:",
-   "opts": ["F > M", "M >> F", "Equal", "M > F slightly"], "ans": 0,
-   "exp": "Adult Cushing's: F > M; diagnosis is made on the discriminatory value of symptoms. (Book p845)"}
+  {
+   "fmt": "recall",
+   "q": "The ocular effects of cortisol excess are:",
+   "opts": [
+    "↑ intraocular pressure, cataract and glaucoma",
+    "Retinal detachment only",
+    "Papilloedema",
+    "Night blindness"
+   ],
+   "ans": 0,
+   "exp": "Eye: ↑ intraocular pressure — cataract and glaucoma. (Book p845)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Cortisol's anti-inflammatory action is attributed to:",
+   "opts": [
+    "Inhibiting IL-6",
+    "Inhibiting IL-2",
+    "Stimulating TNF-α",
+    "Stimulating COX-2"
+   ],
+   "ans": 0,
+   "exp": "Miscellaneous: ↓ linear growth; inhibits IL-6 → anti-inflammatory action. (Book p845)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "‘Cortisol excess raises the WBC count yet the patient remains prone to infection.’",
+   "opts": [
+    "True",
+    "False — WBC falls",
+    "False — infection risk falls",
+    "True, but only with eosinophilia"
+   ],
+   "ans": 0,
+   "exp": "Blood/immune: ↑ WBC count but still prone to infection; eosinopenia and ↑ thrombosis (hypercoagulable state). (Book p845)"
+  },
+  {
+   "fmt": "match",
+   "q": "Match the eosinophil clue — 1) Eosinopenia with +ve infection  2) Eosinopenia with −ve infection  3) Eosinophilia … A) Cushing syndrome  B) Addison's disease  C) Typhoid",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Eosinopenia with infection → typhoid; eosinopenia without infection → Cushing syndrome; eosinophilia → Addison's disease. (Book p845)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "ACTH-dependent causes account for what share of Cushing's?",
+   "opts": [
+    "90%",
+    "10%",
+    "75%",
+    "15%"
+   ],
+   "ans": 0,
+   "exp": "ACTH dependent 90%; ACTH independent 10%. (Book p845)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The single most common endogenous cause overall is:",
+   "opts": [
+    "Pituitary ACTH-secreting adenoma (Cushing's disease)",
+    "Adrenal adenoma",
+    "Ectopic ACTH from squamous cell carcinoma",
+    "PPNAD"
+   ],
+   "ans": 0,
+   "exp": "Pituitary ACTH-secreting adenoma (75%), a.k.a. Cushing's disease (micro/macro-adenoma), is the m/c endogenous cause overall. (Book p845)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The most common paraneoplastic (ectopic ACTH) cause is:",
+   "opts": [
+    "Squamous cell carcinoma",
+    "Thymic carcinoid",
+    "Pheochromocytoma",
+    "Medullary thyroid carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Paraneoplastic tumour (15%): squamous cell carcinoma is m/c; also thymic/bronchial carcinoid, pheochromocytoma/medullary Ca thyroid. (Book p845)"
+  },
+  {
+   "fmt": "recall",
+   "q": "The m/c cause of Cushing's in toddlers is:",
+   "opts": [
+    "Adrenal carcinoma",
+    "Adrenal adenoma",
+    "Pituitary adenoma",
+    "McCune-Albright syndrome"
+   ],
+   "ans": 0,
+   "exp": "ACTH independent (10%): adrenal adenoma; adrenal carcinoma is the m/c cause in toddlers. (Book p845)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Match the McCune-Albright (GSα-subunit defect) triad — pick the correct set:",
+   "opts": [
+    "Precocious puberty, fibrous dysplasia, café-au-lait spots",
+    "Precocious puberty, lentigines, atrial myxoma",
+    "Fibrous dysplasia, café-au-lait spots, atrial myxoma",
+    "Precocious puberty, café-au-lait spots, lens dislocation"
+   ],
+   "ans": 0,
+   "exp": "McCune-Albright triad: precocious puberty, fibrous dysplasia, café-au-lait spots; m/c cause in infancy. (Book p845)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Primary pigmented nodular adrenal disease (PPNAD) shows ___ and is part of:",
+   "opts": [
+    "Micronodular hyperplasia; Carney's complex (lentigines, atrial myxomas)",
+    "Macronodular hyperplasia; MEN1",
+    "Adrenal carcinoma; Li-Fraumeni",
+    "Adenoma; MEN2"
+   ],
+   "ans": 0,
+   "exp": "PPNAD = micronodular hyperplasia, part of Carney's complex with lentigines and atrial myxomas. (Book p845)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In adult Cushing's the sex preponderance is:",
+   "opts": [
+    "F > M",
+    "M >> F",
+    "Equal",
+    "M > F slightly"
+   ],
+   "ans": 0,
+   "exp": "Adult Cushing's: F > M; diagnosis is made on the discriminatory value of symptoms. (Book p845)"
+  }
  ]
 }

@@ -5,7 +5,7 @@
  "questions": [
   {
    "id": "MED-C9-001",
-   "sec": "TMA Causes & Malignant Hypertension",
+   "sec": "TMA causes & malignant hypertension · p753",
    "page": 753,
    "fmt": "recall",
    "q": "The listed causes of thrombotic microangiopathy are HUS, HELLP syndrome, malignant hypertension and the rheumatological conditions:",
@@ -20,7 +20,7 @@
   },
   {
    "id": "MED-C9-002",
-   "sec": "TMA Causes & Malignant Hypertension",
+   "sec": "TMA causes & malignant hypertension · p753",
    "page": 753,
    "fmt": "recall",
    "q": "The expansion of HELLP syndrome as written is:",
@@ -35,22 +35,22 @@
   },
   {
    "id": "MED-C9-003",
-   "sec": "TMA Causes & Malignant Hypertension",
+   "sec": "TMA causes & malignant hypertension · p753",
    "page": 753,
-   "fmt": "match",
-   "q": "Match each condition with its renal-vessel category — 1) Catastrophic APS / diffuse scleroderma 2) Takayasu arteritis / polyarteritis nodosa 3) Malignant hypertension … A) Accelerated HTN + papilloedema B) Smaller vessels of kidney C) Larger vessels of kidney",
+   "fmt": "truefalse",
+   "q": "The heading 'Rheumatological Condition' is bracketed against catastrophic APS and diffuse scleroderma, and not against HUS or HELLP.",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-B, 2-C, 3-A",
-    "1-A, 2-B, 3-C",
-    "1-C, 2-B, 3-A"
+    "True — and the same bracket also includes Takayasu arteritis",
+    "True — only those two causes carry that label",
+    "False — HUS is also filed under rheumatological conditions",
+    "False — the label sits beside malignant hypertension"
    ],
    "ans": 1,
-   "exp": "Catastrophic APS/diffuse scleroderma involve smaller vessels of kidney v/s larger vessels (Takayasu, PAN); malignant HTN = accelerated HTN + papilloedema. (Book p753)"
+   "exp": "The causes list runs HUS, HELLP, then the rheumatological bracket over catastrophic APS and diffuse scleroderma (Anti RNA P), then malignant hypertension; Takayasu and PAN appear on the opposite side of the vessel-size comparison. (Book p753)"
   },
   {
    "id": "MED-C9-004",
-   "sec": "TMA Causes & Malignant Hypertension",
+   "sec": "TMA causes & malignant hypertension · p753",
    "page": 753,
    "fmt": "recall",
    "q": "The antibody annotated with diffuse scleroderma in the cause list is:",
@@ -65,7 +65,22 @@
   },
   {
    "id": "MED-C9-005",
-   "sec": "TMA Causes & Malignant Hypertension",
+   "sec": "TMA causes & malignant hypertension · p753",
+   "page": 753,
+   "fmt": "match",
+   "q": "Match each condition with its renal-vessel category — 1) Catastrophic APS / diffuse scleroderma 2) Takayasu arteritis / polyarteritis nodosa 3) Malignant hypertension … A) Accelerated HTN + papilloedema B) Smaller vessels of kidney C) Larger vessels of kidney",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 1,
+   "exp": "Catastrophic APS/diffuse scleroderma involve smaller vessels of kidney v/s larger vessels (Takayasu, PAN); malignant HTN = accelerated HTN + papilloedema. (Book p753)"
+  },
+  {
+   "id": "MED-C9-006",
+   "sec": "TMA causes & malignant hypertension · p753",
    "page": 753,
    "fmt": "recall",
    "q": "Malignant hypertension is defined in the book as accelerated HTN plus:",
@@ -79,23 +94,8 @@
    "exp": "Malignant hypertension = accelerated HTN + papilloedema. (Book p753)"
   },
   {
-   "id": "MED-C9-006",
-   "sec": "TMA Causes & Malignant Hypertension",
-   "page": 753,
-   "fmt": "numeric",
-   "q": "Emergency hypertension in the malignant-HTN note is end-organ damage with a BP of at least:",
-   "opts": [
-    "140/90",
-    "180/120",
-    "160/100",
-    "200/130"
-   ],
-   "ans": 1,
-   "exp": "Emergency HTN: end organ damage + ≥180/120; new onset fundal changes: hemorrhage/exudate. (Book p753)"
-  },
-  {
    "id": "MED-C9-007",
-   "sec": "TMA Causes & Malignant Hypertension · p753",
+   "sec": "TMA causes & malignant hypertension · p753",
    "page": 753,
    "fmt": "fillup",
    "q": "Fill up: In the malignant-hypertension note, the new onset fundal changes are written as hemorrhage/______.",
@@ -110,22 +110,22 @@
   },
   {
    "id": "MED-C9-008",
-   "sec": "TMA Causes & Malignant Hypertension · p753",
+   "sec": "TMA causes & malignant hypertension · p753",
    "page": 753,
-   "fmt": "truefalse",
-   "q": "The heading 'Rheumatological Condition' is bracketed against catastrophic APS and diffuse scleroderma, and not against HUS or HELLP.",
+   "fmt": "numeric",
+   "q": "Emergency hypertension in the malignant-HTN note is end-organ damage with a BP of at least:",
    "opts": [
-    "True — and the same bracket also includes Takayasu arteritis",
-    "True — only those two causes carry that label",
-    "False — HUS is also filed under rheumatological conditions",
-    "False — the label sits beside malignant hypertension"
+    "140/90",
+    "180/120",
+    "160/100",
+    "200/130"
    ],
    "ans": 1,
-   "exp": "The causes list runs HUS, HELLP, then the rheumatological bracket over catastrophic APS and diffuse scleroderma (Anti RNA P), then malignant hypertension; Takayasu and PAN appear on the opposite side of the vessel-size comparison. (Book p753)"
+   "exp": "Emergency HTN: end organ damage + ≥180/120; new onset fundal changes: hemorrhage/exudate. (Book p753)"
   },
   {
    "id": "MED-C9-009",
-   "sec": "HUS Triad, TTP Pentad & Types",
+   "sec": "HUS features, TTP pentad & types · p753",
    "page": 753,
    "fmt": "fillup",
    "q": "Fill up: The HUS triad is thrombocytopenia, renal failure and ______.",
@@ -140,7 +140,7 @@
   },
   {
    "id": "MED-C9-010",
-   "sec": "HUS Triad, TTP Pentad & Types",
+   "sec": "HUS features, TTP pentad & types · p753",
    "page": 753,
    "fmt": "oddoneout",
    "q": "All of the following form the HUS triad EXCEPT:",
@@ -155,7 +155,7 @@
   },
   {
    "id": "MED-C9-011",
-   "sec": "HUS Triad, TTP Pentad & Types",
+   "sec": "HUS features, TTP pentad & types · p753",
    "page": 753,
    "fmt": "recall",
    "q": "Compared with the HUS triad, the TTP pentad adds fever, GI symptoms and:",
@@ -170,67 +170,7 @@
   },
   {
    "id": "MED-C9-012",
-   "sec": "HUS Triad, TTP Pentad & Types",
-   "page": 753,
-   "fmt": "truefalse",
-   "q": "Which statement comparing the two shapes is TRUE?",
-   "opts": [
-    "TTP's pentagon replaces renal failure with neurological symptoms",
-    "Both shapes list exactly the same five features",
-    "The HUS triangle is thrombocytopenia, renal failure and MAHA, while TTP's pentagon adds fever, GI and neurological symptoms",
-    "The HUS triangle includes fever while TTP's pentagon does not"
-   ],
-   "ans": 2,
-   "exp": "Triad vs pentagon as drawn: TTP adds GI symptoms, fever and neurological symptoms [brain]. (Book p753)"
-  },
-  {
-   "id": "MED-C9-013",
-   "sec": "HUS Triad, TTP Pentad & Types",
-   "page": 753,
-   "fmt": "numeric",
-   "q": "Typical HUS/D+ begins in childhood, commonly below the age of:",
-   "opts": [
-    "5 years",
-    "1 year",
-    "10 years",
-    "15 years"
-   ],
-   "ans": 0,
-   "exp": "Typical HUS/D+ onset: childhood, commonly age <5 years; cause: infection i.e dysentery; prognosis good. (Book p753)"
-  },
-  {
-   "id": "MED-C9-014",
-   "sec": "HUS Triad, TTP Pentad & Types",
-   "page": 753,
-   "fmt": "recall",
-   "q": "Atypical HUS/D- differs from typical HUS by:",
-   "opts": [
-    "Childhood onset with dysentery and a good prognosis",
-    "Infection-only causation with no recurrence",
-    "A universally benign course",
-    "Any-age onset, genetic (m/c) or sporadic drug-induced cause, and 50% progressing to ESRD with post-transplant recurrence"
-   ],
-   "ans": 3,
-   "exp": "Atypical HUS/D-: any age; genetic (m/c)/sporadic (drug induced); bad prognosis (50% progress to ESRD); ↑ recurrence after renal transplant. (Book p753)"
-  },
-  {
-   "id": "MED-C9-015",
-   "sec": "HUS Triad, TTP Pentad & Types · p753",
-   "page": 753,
-   "fmt": "oddoneout",
-   "q": "Every corner of the TTP pentagon is listed below EXCEPT:",
-   "opts": [
-    "GI symptoms",
-    "MAHA",
-    "Renal failure",
-    "Fever"
-   ],
-   "ans": 2,
-   "exp": "The pentagon carries thrombocytopenia, fever, MAHA, neurological symptoms (brain) and GI symptoms; renal failure is the third corner of the HUS triangle, not of the pentad. (Book p753)"
-  },
-  {
-   "id": "MED-C9-016",
-   "sec": "HUS Triad, TTP Pentad & Types · p753",
+   "sec": "HUS features, TTP pentad & types · p753",
    "page": 753,
    "fmt": "recall",
    "q": "What is written in square brackets beneath 'Neurological symptoms' in the TTP pentagon?",
@@ -244,8 +184,68 @@
    "exp": "The pentagon's vertex is labelled 'Neurological Symptoms [Brain]', localising the fifth feature of the TTP pentad. (Book p753)"
   },
   {
+   "id": "MED-C9-013",
+   "sec": "HUS features, TTP pentad & types · p753",
+   "page": 753,
+   "fmt": "oddoneout",
+   "q": "Every corner of the TTP pentagon is listed below EXCEPT:",
+   "opts": [
+    "GI symptoms",
+    "MAHA",
+    "Renal failure",
+    "Fever"
+   ],
+   "ans": 2,
+   "exp": "The pentagon carries thrombocytopenia, fever, MAHA, neurological symptoms (brain) and GI symptoms; renal failure is the third corner of the HUS triangle, not of the pentad. (Book p753)"
+  },
+  {
+   "id": "MED-C9-014",
+   "sec": "HUS features, TTP pentad & types · p753",
+   "page": 753,
+   "fmt": "truefalse",
+   "q": "Which statement comparing the two shapes is TRUE?",
+   "opts": [
+    "TTP's pentagon replaces renal failure with neurological symptoms",
+    "Both shapes list exactly the same five features",
+    "The HUS triangle is thrombocytopenia, renal failure and MAHA, while TTP's pentagon adds fever, GI and neurological symptoms",
+    "The HUS triangle includes fever while TTP's pentagon does not"
+   ],
+   "ans": 2,
+   "exp": "Triad vs pentagon as drawn: TTP adds GI symptoms, fever and neurological symptoms [brain]. (Book p753)"
+  },
+  {
+   "id": "MED-C9-015",
+   "sec": "HUS features, TTP pentad & types · p753",
+   "page": 753,
+   "fmt": "numeric",
+   "q": "Typical HUS/D+ begins in childhood, commonly below the age of:",
+   "opts": [
+    "5 years",
+    "1 year",
+    "10 years",
+    "15 years"
+   ],
+   "ans": 0,
+   "exp": "Typical HUS/D+ onset: childhood, commonly age <5 years; cause: infection i.e dysentery; prognosis good. (Book p753)"
+  },
+  {
+   "id": "MED-C9-016",
+   "sec": "HUS features, TTP pentad & types · p753",
+   "page": 753,
+   "fmt": "recall",
+   "q": "Atypical HUS/D- differs from typical HUS by:",
+   "opts": [
+    "Childhood onset with dysentery and a good prognosis",
+    "Infection-only causation with no recurrence",
+    "A universally benign course",
+    "Any-age onset, genetic (m/c) or sporadic drug-induced cause, and 50% progressing to ESRD with post-transplant recurrence"
+   ],
+   "ans": 3,
+   "exp": "Atypical HUS/D-: any age; genetic (m/c)/sporadic (drug induced); bad prognosis (50% progress to ESRD); ↑ recurrence after renal transplant. (Book p753)"
+  },
+  {
    "id": "MED-C9-017",
-   "sec": "HUS Triad, TTP Pentad & Types · p753",
+   "sec": "HUS features, TTP pentad & types · p753",
    "page": 753,
    "fmt": "numeric",
    "q": "In the TYPES table, what proportion of atypical HUS cases progress to ESRD?",
@@ -260,7 +260,7 @@
   },
   {
    "id": "MED-C9-018",
-   "sec": "HUS Triad, TTP Pentad & Types · p753",
+   "sec": "HUS features, TTP pentad & types · p753",
    "page": 753,
    "fmt": "scenario",
    "q": "A 34-year-old with dysentery-negative HUS is counselled before a living-related transplant. Which line of the TYPES table applies to him?",
@@ -275,7 +275,7 @@
   },
   {
    "id": "MED-C9-019",
-   "sec": "Pathophysiology & Typical Toxins",
+   "sec": "Pathophysiology & causes · p754",
    "page": 754,
    "fmt": "recall",
    "q": "The pathophysiology chain starts with endothelial damage, which next causes:",
@@ -290,7 +290,22 @@
   },
   {
    "id": "MED-C9-020",
-   "sec": "Pathophysiology & Typical Toxins",
+   "sec": "Pathophysiology & causes · p754",
+   "page": 754,
+   "fmt": "recall",
+   "q": "In the pathophysiology flowchart, thrombocytopenia is reached by which route?",
+   "opts": [
+    "Complement activation → platelet trapping",
+    "Platelet plug formation → platelet trapped in plug",
+    "Schistocyte formation → MAHA",
+    "VWF release → endothelial damage"
+   ],
+   "ans": 1,
+   "exp": "The diagram drops a branch from platelet plug formation: 'Platelet trapped in plug → Thrombocytopenia', running parallel to the schistocyte/MAHA limb. (Book p754)"
+  },
+  {
+   "id": "MED-C9-021",
+   "sec": "Pathophysiology & causes · p754",
    "page": 754,
    "fmt": "fillup",
    "q": "Fill up: In the TMA flowchart, platelets trapped in the plug produce ______.",
@@ -304,8 +319,8 @@
    "exp": "Platelet trapped in plug → thrombocytopenia. (Book p754)"
   },
   {
-   "id": "MED-C9-021",
-   "sec": "Pathophysiology & Typical Toxins",
+   "id": "MED-C9-022",
+   "sec": "Pathophysiology & causes · p754",
    "page": 754,
    "fmt": "recall",
    "q": "Schistocyte formation and hence MAHA arise because:",
@@ -319,8 +334,8 @@
    "exp": "Schistocyte formation d/t platelet plug circulating erythrocytes damage → MAHA. (Book p754)"
   },
   {
-   "id": "MED-C9-022",
-   "sec": "Pathophysiology & Typical Toxins",
+   "id": "MED-C9-023",
+   "sec": "Pathophysiology & causes · p754",
    "page": 754,
    "fmt": "numeric",
    "q": "Typical/childhood HUS accounts for what proportion of cases?",
@@ -334,23 +349,8 @@
    "exp": "Typical/childhood: 90% cases, toxin driven. (Book p754)"
   },
   {
-   "id": "MED-C9-023",
-   "sec": "Pathophysiology & Typical Toxins",
-   "page": 754,
-   "fmt": "match",
-   "q": "Match each toxin with its organism — 1) Shiga like toxin / verocytotoxin 2) Shiga toxin 3) Neuraminidase toxin … A) Shigella dysentery B) Streptococcus pneumoniae C) Enterohemorrhagic E. coli (O157:H7)",
-   "opts": [
-    "1-A, 2-B, 3-C",
-    "1-B, 2-C, 3-A",
-    "1-C, 2-B, 3-A",
-    "1-C, 2-A, 3-B"
-   ],
-   "ans": 3,
-   "exp": "Shiga like toxin/verocytotoxin – EHEC O157:H7; Shiga toxin – Shigella dysentery; neuraminidase toxin – Streptococcus pneumoniae. (Book p754)"
-  },
-  {
    "id": "MED-C9-024",
-   "sec": "Pathophysiology & Typical Toxins",
+   "sec": "Pathophysiology & causes · p754",
    "page": 754,
    "fmt": "recall",
    "q": "The enterohemorrhagic E. coli strain flagged as m/c is:",
@@ -365,22 +365,22 @@
   },
   {
    "id": "MED-C9-025",
-   "sec": "Pathophysiology & Typical Toxins · p754",
+   "sec": "Pathophysiology & causes · p754",
    "page": 754,
-   "fmt": "recall",
-   "q": "In the pathophysiology flowchart, thrombocytopenia is reached by which route?",
+   "fmt": "match",
+   "q": "Match each toxin with its organism — 1) Shiga like toxin / verocytotoxin 2) Shiga toxin 3) Neuraminidase toxin … A) Shigella dysentery B) Streptococcus pneumoniae C) Enterohemorrhagic E. coli (O157:H7)",
    "opts": [
-    "Complement activation → platelet trapping",
-    "Platelet plug formation → platelet trapped in plug",
-    "Schistocyte formation → MAHA",
-    "VWF release → endothelial damage"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-C, 2-A, 3-B"
    ],
-   "ans": 1,
-   "exp": "The diagram drops a branch from platelet plug formation: 'Platelet trapped in plug → Thrombocytopenia', running parallel to the schistocyte/MAHA limb. (Book p754)"
+   "ans": 3,
+   "exp": "Shiga like toxin/verocytotoxin – EHEC O157:H7; Shiga toxin – Shigella dysentery; neuraminidase toxin – Streptococcus pneumoniae. (Book p754)"
   },
   {
    "id": "MED-C9-026",
-   "sec": "Atypical HUS Genetics, Drugs & Investigations",
+   "sec": "Pathophysiology & causes · p754",
    "page": 754,
    "fmt": "recall",
    "q": "Genetic (atypical) HUS is caused by activation of the alternate complement pathway, with the complement profile:",
@@ -395,7 +395,7 @@
   },
   {
    "id": "MED-C9-027",
-   "sec": "Atypical HUS Genetics, Drugs & Investigations",
+   "sec": "Pathophysiology & causes · p754",
    "page": 754,
    "fmt": "match",
    "q": "Match each genetic type of atypical HUS with its prognostic label — 1) Complement factor-H mutation 2) Complement factor-B 3) Membrane cofactor-P (MCP) … A) Worst prognosis B) Best prognosis C) m/c mutation",
@@ -410,7 +410,7 @@
   },
   {
    "id": "MED-C9-028",
-   "sec": "Atypical HUS Genetics, Drugs & Investigations",
+   "sec": "Pathophysiology & causes · p754",
    "page": 754,
    "fmt": "recall",
    "q": "Among sporadic drug-induced HUS agents, the pair also bracketed to TTP is:",
@@ -425,82 +425,7 @@
   },
   {
    "id": "MED-C9-029",
-   "sec": "Atypical HUS Genetics, Drugs & Investigations",
-   "page": 754,
-   "fmt": "oddoneout",
-   "q": "The immune-mediated HUS list contains quinine, gemcitabine, quetiapine and cotrimoxazole; the odd one out from that list is:",
-   "opts": [
-    "Quetiapine",
-    "Cotrimoxazole",
-    "Mitomycin",
-    "Quinine"
-   ],
-   "ans": 2,
-   "exp": "Mitomycin sits under sporadic drug-induced causes, not immune-mediated HUS. (Book p754)"
-  },
-  {
-   "id": "MED-C9-030",
-   "sec": "Atypical HUS Genetics, Drugs & Investigations",
-   "page": 754,
-   "fmt": "numeric",
-   "q": "On the peripheral blood smear, schistocytes become significant beyond:",
-   "opts": [
-    "0.2%",
-    "5%",
-    "10%",
-    "2%"
-   ],
-   "ans": 3,
-   "exp": "Peripheral blood smear: schistocyte (>2% significant). (Book p754)"
-  },
-  {
-   "id": "MED-C9-031",
-   "sec": "Atypical HUS Genetics, Drugs & Investigations",
-   "page": 754,
-   "fmt": "recall",
-   "q": "The hemolysis work-up in HUS shows:",
-   "opts": [
-    "Normal LDH, negative Coombs, ↑ direct bilirubin, ↓ haptoglobin",
-    "↑ LDH, negative Coombs, prolonged PT/APTT",
-    "↑ LDH, negative Coombs, ↑ indirect bilirubin, ↓ haptoglobin with normal PT/APTT",
-    "↑ LDH, positive Coombs, ↓ indirect bilirubin, ↑ haptoglobin"
-   ],
-   "ans": 2,
-   "exp": "Blood investigation: ↑ LDH, −ve Coombs test, ↑ indirect bilirubin, ↓ haptoglobin level, normal PT/APTT. (Book p754)"
-  },
-  {
-   "id": "MED-C9-032",
-   "sec": "Atypical HUS Genetics, Drugs & Investigations",
-   "page": 754,
-   "fmt": "match",
-   "q": "Match each column with its complement signature — 1) Atypical HUS pathway 2) SLE pathway 3) Atypical HUS C4 … A) Classical B) Alternative C) Normal",
-   "opts": [
-    "1-A, 2-B, 3-C",
-    "1-B, 2-C, 3-A",
-    "1-C, 2-A, 3-B",
-    "1-B, 2-A, 3-C"
-   ],
-   "ans": 3,
-   "exp": "Atypical HUS: alternative pathway, low C3 (N) C4; SLE: classical pathway, low C3 low C4. (Book p754)"
-  },
-  {
-   "id": "MED-C9-033",
-   "sec": "Atypical HUS Genetics, Drugs & Investigations · p754",
-   "page": 754,
-   "fmt": "recall",
-   "q": "In the coagulation line of the blood investigation block, what is stated as normal?",
-   "opts": [
-    "D-dimer",
-    "PT/APTT",
-    "Bleeding time",
-    "Fibrinogen only"
-   ],
-   "ans": 1,
-   "exp": "The blood-investigation list runs: ↑LDH, -ve Coombs test, ↑indirect bilirubin, ↓haptoglobin level, Normal - PT/APTT — normal clotting helps distinguish TMA from DIC. (Book p754)"
-  },
-  {
-   "id": "MED-C9-034",
-   "sec": "Atypical HUS Genetics, Drugs & Investigations · p754",
+   "sec": "Pathophysiology & causes · p754",
    "page": 754,
    "fmt": "match",
    "q": "Match each sporadic drug-induced agent with the position of its listing — 1) Tacrolimus and cyclosporine 2) Ticlopidine and clopidogrel 3) Mitomycin … A) Grouped under calcineurin inhibitors B) Marked 'TTP also' C) The first bullet of the drug list D) Listed under immune-mediated HUS only",
@@ -514,23 +439,8 @@
    "exp": "The sporadic block lists mitomycin first, then gemcitabine and bevacizumab, then 'Calcineurin inhibitors: tacrolimus, cyclosporine', then ticlopidine and clopidogrel bracketed 'TTP also', and cisplatin; quinine, gemcitabine, quetiapine and cotrimoxazole form the separate immune-mediated list. (Book p754)"
   },
   {
-   "id": "MED-C9-035",
-   "sec": "Atypical HUS Genetics, Drugs & Investigations · p754",
-   "page": 754,
-   "fmt": "truefalse",
-   "q": "Gemcitabine appears twice in the causes diagram — once as a sporadic drug-induced agent and once under immune-mediated HUS.",
-   "opts": [
-    "True — and it is also the toxin of streptococcal neuraminidase",
-    "True — the same drug is printed in both lists",
-    "False — it appears only among calcineurin inhibitors",
-    "False — it appears only under immune-mediated HUS"
-   ],
-   "ans": 1,
-   "exp": "Gemcitabine is the second bullet of 'Sporadic: Drug induced' and the second bullet of 'Immune mediated HUS' on the same page. (Book p754)"
-  },
-  {
-   "id": "MED-C9-036",
-   "sec": "Atypical HUS Genetics, Drugs & Investigations · p754",
+   "id": "MED-C9-030",
+   "sec": "Pathophysiology & causes · p754",
    "page": 754,
    "fmt": "oddoneout",
    "q": "All of the following are printed under the sporadic drug-induced column EXCEPT:",
@@ -544,8 +454,98 @@
    "exp": "The drug column lists mitomycin, gemcitabine, bevacizumab, calcineurin inhibitors (tacrolimus, cyclosporine), ticlopidine, clopidogrel and cisplatin; rituximab appears only as post-transplant therapy on p755. (Book p754)"
   },
   {
+   "id": "MED-C9-031",
+   "sec": "Pathophysiology & causes · p754",
+   "page": 754,
+   "fmt": "truefalse",
+   "q": "Gemcitabine appears twice in the causes diagram — once as a sporadic drug-induced agent and once under immune-mediated HUS.",
+   "opts": [
+    "True — and it is also the toxin of streptococcal neuraminidase",
+    "True — the same drug is printed in both lists",
+    "False — it appears only among calcineurin inhibitors",
+    "False — it appears only under immune-mediated HUS"
+   ],
+   "ans": 1,
+   "exp": "Gemcitabine is the second bullet of 'Sporadic: Drug induced' and the second bullet of 'Immune mediated HUS' on the same page. (Book p754)"
+  },
+  {
+   "id": "MED-C9-032",
+   "sec": "Pathophysiology & causes · p754",
+   "page": 754,
+   "fmt": "oddoneout",
+   "q": "The immune-mediated HUS list contains quinine, gemcitabine, quetiapine and cotrimoxazole; the odd one out from that list is:",
+   "opts": [
+    "Quetiapine",
+    "Cotrimoxazole",
+    "Mitomycin",
+    "Quinine"
+   ],
+   "ans": 2,
+   "exp": "Mitomycin sits under sporadic drug-induced causes, not immune-mediated HUS. (Book p754)"
+  },
+  {
+   "id": "MED-C9-033",
+   "sec": "Investigation · p754",
+   "page": 754,
+   "fmt": "numeric",
+   "q": "On the peripheral blood smear, schistocytes become significant beyond:",
+   "opts": [
+    "0.2%",
+    "5%",
+    "10%",
+    "2%"
+   ],
+   "ans": 3,
+   "exp": "Peripheral blood smear: schistocyte (>2% significant). (Book p754)"
+  },
+  {
+   "id": "MED-C9-034",
+   "sec": "Investigation · p754",
+   "page": 754,
+   "fmt": "recall",
+   "q": "The hemolysis work-up in HUS shows:",
+   "opts": [
+    "Normal LDH, negative Coombs, ↑ direct bilirubin, ↓ haptoglobin",
+    "↑ LDH, negative Coombs, prolonged PT/APTT",
+    "↑ LDH, negative Coombs, ↑ indirect bilirubin, ↓ haptoglobin with normal PT/APTT",
+    "↑ LDH, positive Coombs, ↓ indirect bilirubin, ↑ haptoglobin"
+   ],
+   "ans": 2,
+   "exp": "Blood investigation: ↑ LDH, −ve Coombs test, ↑ indirect bilirubin, ↓ haptoglobin level, normal PT/APTT. (Book p754)"
+  },
+  {
+   "id": "MED-C9-035",
+   "sec": "Investigation · p754",
+   "page": 754,
+   "fmt": "recall",
+   "q": "In the coagulation line of the blood investigation block, what is stated as normal?",
+   "opts": [
+    "D-dimer",
+    "PT/APTT",
+    "Bleeding time",
+    "Fibrinogen only"
+   ],
+   "ans": 1,
+   "exp": "The blood-investigation list runs: ↑LDH, -ve Coombs test, ↑indirect bilirubin, ↓haptoglobin level, Normal - PT/APTT — normal clotting helps distinguish TMA from DIC. (Book p754)"
+  },
+  {
+   "id": "MED-C9-036",
+   "sec": "Investigation · p754",
+   "page": 754,
+   "fmt": "match",
+   "q": "Match each column with its complement signature — 1) Atypical HUS pathway 2) SLE pathway 3) Atypical HUS C4 … A) Classical B) Alternative C) Normal",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 3,
+   "exp": "Atypical HUS: alternative pathway, low C3 (N) C4; SLE: classical pathway, low C3 low C4. (Book p754)"
+  },
+  {
    "id": "MED-C9-037",
-   "sec": "Presentation, Treatment & Pre-renal vs ATN",
+   "sec": "Presentation, treatment & pre-renal vs ATN · p755",
    "page": 755,
    "fmt": "recall",
    "q": "The typical HUS timeline runs: abdominal pain, then 2 days later bloody dysentery (evaluate & start antibiotics), and after 5 more days:",
@@ -560,142 +560,7 @@
   },
   {
    "id": "MED-C9-038",
-   "sec": "Presentation, Treatment & Pre-renal vs ATN",
-   "page": 755,
-   "fmt": "numeric",
-   "q": "After the dysentery phase, the proportion that goes on to HUS is:",
-   "opts": [
-    "25-30%",
-    "50%",
-    "5-10%",
-    "1-2%"
-   ],
-   "ans": 2,
-   "exp": "90-95% resolution; 5-10% HUS. (Book p755)"
-  },
-  {
-   "id": "MED-C9-039",
-   "sec": "Presentation, Treatment & Pre-renal vs ATN",
-   "page": 755,
-   "fmt": "management",
-   "q": "The treatment written for typical HUS is:",
-   "opts": [
-    "PLEX within 24 hours",
-    "Eculizumab",
-    "Immediate renal transplant",
-    "Conservative"
-   ],
-   "ans": 3,
-   "exp": "Typical HUS treatment: conservative (evaluate & start antibiotics for the dysentery). (Book p755)"
-  },
-  {
-   "id": "MED-C9-040",
-   "sec": "Presentation, Treatment & Pre-renal vs ATN",
-   "page": 755,
-   "fmt": "recall",
-   "q": "Atypical HUS presents with thrombocytopenia plus features of:",
-   "opts": [
-    "Hepatic failure",
-    "2° HTN (renal/endocrine)",
-    "Septic shock",
-    "Nephrotic syndrome"
-   ],
-   "ans": 1,
-   "exp": "Atypical HUS: features of 2° HTN (renal/endocrine); thrombocytopenia. (Book p755)"
-  },
-  {
-   "id": "MED-C9-041",
-   "sec": "Presentation, Treatment & Pre-renal vs ATN",
-   "page": 755,
-   "fmt": "management",
-   "q": "The mainstay of atypical HUS treatment, to be started within 24 hours, is:",
-   "opts": [
-    "Hemodialysis alone",
-    "PLEX (plasma exchange therapy)",
-    "High-dose steroids",
-    "Rituximab"
-   ],
-   "ans": 1,
-   "exp": "PLEX (plasma exchange therapy): within 24 hr; mainstay of treatment. (Book p755)"
-  },
-  {
-   "id": "MED-C9-042",
-   "sec": "Presentation, Treatment & Pre-renal vs ATN",
-   "page": 755,
-   "fmt": "recall",
-   "q": "In atypical HUS, the costly terminal-complement drug and the immunosuppressant indication written for complement factor H mutation are:",
-   "opts": [
-    "Infliximab; immunosuppressant in factor-B mutation",
-    "Eculizumab; immunosuppressant in CFH mutation",
-    "Rituximab; immunosuppressant in MCP mutation",
-    "Eculizumab; cyclophosphamide for all cases"
-   ],
-   "ans": 1,
-   "exp": "Eculizumab: costly; immunosuppressant in complement factor H mutation; renal transplant listed. (Book p755)"
-  },
-  {
-   "id": "MED-C9-043",
-   "sec": "Presentation, Treatment & Pre-renal vs ATN",
-   "page": 755,
-   "fmt": "recall",
-   "q": "Recurrence of HUS after renal transplant is managed with:",
-   "opts": [
-    "Rituximab and eculizumab",
-    "PLEX and cyclosporine",
-    "Steroids and tacrolimus",
-    "Cisplatin and quinine"
-   ],
-   "ans": 0,
-   "exp": "Recurrence post transplant: rituximab; eculizumab. (Book p755)"
-  },
-  {
-   "id": "MED-C9-044",
-   "sec": "Presentation, Treatment & Pre-renal vs ATN",
-   "page": 755,
-   "fmt": "match",
-   "q": "Match each feature with its column in the pre-renal vs ATN note — 1) Urine output in pre-renal injury 2) BUN/creatinine in ATN 3) Tubular injury in pre-renal injury … A) < 10:1 B) Normal C) Absent (−)",
-   "opts": [
-    "1-C, 2-A, 3-B",
-    "1-C, 2-B, 3-A",
-    "1-B, 2-A, 3-C",
-    "1-A, 2-B, 3-C"
-   ],
-   "ans": 2,
-   "exp": "Pre-renal: normal urine output, − edema, − tubular injury; ATN: decreased output, <10:1 BUN/Cr, + tubular injury. (Book p755)"
-  },
-  {
-   "id": "MED-C9-045",
-   "sec": "Presentation, Treatment & Pre-renal vs ATN",
-   "page": 755,
-   "fmt": "numeric",
-   "q": "The two BUN ratios written side by side in the note table are:",
-   "opts": [
-    "> 20:1 in pre-renal injury vs < 10:1 in ATN",
-    "> 10:1 in pre-renal injury vs < 5:1 in ATN",
-    "> 30:1 in pre-renal injury vs < 20:1 in ATN",
-    "Equal ratios in both"
-   ],
-   "ans": 0,
-   "exp": "BUN/creatinine: >20:1 pre-renal; <10:1 ATN. (Book p755)"
-  },
-  {
-   "id": "MED-C9-046",
-   "sec": "Presentation, Treatment & Pre-renal vs ATN",
-   "page": 755,
-   "fmt": "truefalse",
-   "q": "Which statement from the pre-renal vs ATN table is TRUE?",
-   "opts": [
-    "Edema is positive in pre-renal injury",
-    "Urine output is decreased in pre-renal injury",
-    "Fluids are given in pre-renal injury but withheld in ATN, where edema and tubular injury are positive",
-    "Fluids are withheld in pre-renal injury and given in ATN"
-   ],
-   "ans": 2,
-   "exp": "Pre-renal: fluids given, edema −, tubular injury −; ATN: fluids withhold, edema +, tubular injury +. (Book p755)"
-  },
-  {
-   "id": "MED-C9-047",
-   "sec": "Presentation timeline, treatment & the note table · p755",
+   "sec": "Presentation, treatment & pre-renal vs ATN · p755",
    "page": 755,
    "fmt": "fillup",
    "q": "Fill up: In the typical HUS timeline, the bloody dysentery stage carries the instruction 'Evaluate & ______'.",
@@ -709,8 +574,8 @@
    "exp": "The flow reads: Abdominal pain → 2 days → Bloody dysentery (Evaluate & start antibiotics) → 5 days → 90–95% Resolution or 5–10% HUS. (Book p755)"
   },
   {
-   "id": "MED-C9-048",
-   "sec": "Presentation timeline, treatment & the note table · p755",
+   "id": "MED-C9-039",
+   "sec": "Presentation, treatment & pre-renal vs ATN · p755",
    "page": 755,
    "fmt": "numeric",
    "q": "How long after the onset of bloody dysentery does the timeline allow before the child resolves or develops HUS?",
@@ -724,8 +589,83 @@
    "exp": "Two intervals are printed: 2 days from abdominal pain to bloody dysentery, then 5 days from dysentery to the 90–95% resolution versus 5–10% HUS split. (Book p755)"
   },
   {
-   "id": "MED-C9-049",
-   "sec": "Presentation timeline, treatment & the note table · p755",
+   "id": "MED-C9-040",
+   "sec": "Presentation, treatment & pre-renal vs ATN · p755",
+   "page": 755,
+   "fmt": "numeric",
+   "q": "After the dysentery phase, the proportion that goes on to HUS is:",
+   "opts": [
+    "25-30%",
+    "50%",
+    "5-10%",
+    "1-2%"
+   ],
+   "ans": 2,
+   "exp": "90-95% resolution; 5-10% HUS. (Book p755)"
+  },
+  {
+   "id": "MED-C9-041",
+   "sec": "Presentation, treatment & pre-renal vs ATN · p755",
+   "page": 755,
+   "fmt": "management",
+   "q": "The treatment written for typical HUS is:",
+   "opts": [
+    "PLEX within 24 hours",
+    "Eculizumab",
+    "Immediate renal transplant",
+    "Conservative"
+   ],
+   "ans": 3,
+   "exp": "Typical HUS treatment: conservative (evaluate & start antibiotics for the dysentery). (Book p755)"
+  },
+  {
+   "id": "MED-C9-042",
+   "sec": "Presentation, treatment & pre-renal vs ATN · p755",
+   "page": 755,
+   "fmt": "recall",
+   "q": "Atypical HUS presents with thrombocytopenia plus features of:",
+   "opts": [
+    "Hepatic failure",
+    "2° HTN (renal/endocrine)",
+    "Septic shock",
+    "Nephrotic syndrome"
+   ],
+   "ans": 1,
+   "exp": "Atypical HUS: features of 2° HTN (renal/endocrine); thrombocytopenia. (Book p755)"
+  },
+  {
+   "id": "MED-C9-043",
+   "sec": "Presentation, treatment & pre-renal vs ATN · p755",
+   "page": 755,
+   "fmt": "management",
+   "q": "The mainstay of atypical HUS treatment, to be started within 24 hours, is:",
+   "opts": [
+    "Hemodialysis alone",
+    "PLEX (plasma exchange therapy)",
+    "High-dose steroids",
+    "Rituximab"
+   ],
+   "ans": 1,
+   "exp": "PLEX (plasma exchange therapy): within 24 hr; mainstay of treatment. (Book p755)"
+  },
+  {
+   "id": "MED-C9-044",
+   "sec": "Presentation, treatment & pre-renal vs ATN · p755",
+   "page": 755,
+   "fmt": "recall",
+   "q": "In atypical HUS, the costly terminal-complement drug and the immunosuppressant indication written for complement factor H mutation are:",
+   "opts": [
+    "Infliximab; immunosuppressant in factor-B mutation",
+    "Eculizumab; immunosuppressant in CFH mutation",
+    "Rituximab; immunosuppressant in MCP mutation",
+    "Eculizumab; cyclophosphamide for all cases"
+   ],
+   "ans": 1,
+   "exp": "Eculizumab: costly; immunosuppressant in complement factor H mutation; renal transplant listed. (Book p755)"
+  },
+  {
+   "id": "MED-C9-045",
+   "sec": "Presentation, treatment & pre-renal vs ATN · p755",
    "page": 755,
    "fmt": "oddoneout",
    "q": "Each of these is a listed treatment line for atypical HUS EXCEPT:",
@@ -739,8 +679,23 @@
    "exp": "The atypical list runs PLEX (within 24hr; mainstay of treatment), eculizumab (costly), immunosuppressant in complement factor H mutation, renal transplant, and recurrence post transplant with rituximab and eculizumab; antibiotics belong to the dysentery stage of typical HUS. (Book p755)"
   },
   {
-   "id": "MED-C9-050",
-   "sec": "Presentation timeline, treatment & the note table · p755",
+   "id": "MED-C9-046",
+   "sec": "Presentation, treatment & pre-renal vs ATN · p755",
+   "page": 755,
+   "fmt": "recall",
+   "q": "Recurrence of HUS after renal transplant is managed with:",
+   "opts": [
+    "Rituximab and eculizumab",
+    "PLEX and cyclosporine",
+    "Steroids and tacrolimus",
+    "Cisplatin and quinine"
+   ],
+   "ans": 0,
+   "exp": "Recurrence post transplant: rituximab; eculizumab. (Book p755)"
+  },
+  {
+   "id": "MED-C9-047",
+   "sec": "Presentation, treatment & pre-renal vs ATN · p755",
    "page": 755,
    "fmt": "truefalse",
    "q": "In the note table, eculizumab is printed twice — once as a treatment line and once under 'Recurrence post transplant'.",
@@ -754,11 +709,56 @@
    "exp": "Eculizumab is the second treatment bullet ('Costly') and reappears beneath 'Recurrence post transplant' with rituximab. (Book p755)"
   },
   {
-   "id": "MED-C9-051",
-   "sec": "Presentation timeline, treatment & the note table · p755",
+   "id": "MED-C9-048",
+   "sec": "Presentation, treatment & pre-renal vs ATN · p755",
    "page": 755,
    "fmt": "match",
-   "q": "Match each row of the note table with what is printed for acute tubular necrosis — 1) Urine output 2) Edema 3) BUN/Creatinine … A) > 20:1 B) Decreased C) + D) −",
+   "q": "Match each feature with its column in the pre-renal vs ATN note — 1) Urine output in pre-renal injury 2) BUN/creatinine in ATN 3) Tubular injury in pre-renal injury … A) < 10:1 B) Normal C) Absent (−)",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 2,
+   "exp": "Pre-renal: normal urine output, − edema, − tubular injury; ATN: decreased output, <10:1 BUN/Cr, + tubular injury. (Book p755)"
+  },
+  {
+   "id": "MED-C9-049",
+   "sec": "Presentation, treatment & pre-renal vs ATN · p755",
+   "page": 755,
+   "fmt": "numeric",
+   "q": "The two BUN ratios written side by side in the note table are:",
+   "opts": [
+    "> 20:1 in pre-renal injury vs < 10:1 in ATN",
+    "> 10:1 in pre-renal injury vs < 5:1 in ATN",
+    "> 30:1 in pre-renal injury vs < 20:1 in ATN",
+    "Equal ratios in both"
+   ],
+   "ans": 0,
+   "exp": "BUN/creatinine: >20:1 pre-renal; <10:1 ATN. (Book p755)"
+  },
+  {
+   "id": "MED-C9-050",
+   "sec": "Presentation, treatment & pre-renal vs ATN · p755",
+   "page": 755,
+   "fmt": "truefalse",
+   "q": "Which statement from the pre-renal vs ATN table is TRUE?",
+   "opts": [
+    "Edema is positive in pre-renal injury",
+    "Urine output is decreased in pre-renal injury",
+    "Fluids are given in pre-renal injury but withheld in ATN, where edema and tubular injury are positive",
+    "Fluids are withheld in pre-renal injury and given in ATN"
+   ],
+   "ans": 2,
+   "exp": "Pre-renal: fluids given, edema −, tubular injury −; ATN: fluids withhold, edema +, tubular injury +. (Book p755)"
+  },
+  {
+   "id": "MED-C9-051",
+   "sec": "Presentation, treatment & pre-renal vs ATN · p755",
+   "page": 755,
+   "fmt": "match",
+   "q": "Match each row of the note table with what is printed for acute tubular necrosis — 1) Urine output 2) Edema 3) BUN/Creatinine … A) < 10:1 B) Decreased C) + D) −",
    "opts": [
     "1-A, 2-B, 3-C",
     "1-B, 2-D, 3-A",
@@ -766,11 +766,11 @@
     "1-B, 2-C, 3-A"
    ],
    "ans": 3,
-   "exp": "The necrosis column reads: urine output decreased, edema +, BUN/creatinine < 10:1, fluids withhold, tubular injury +; the pre-renal column reverses edema and tubular injury to minus and puts urine output as normal with > 20:1 and fluids given. (Book p755)"
+   "exp": "The necrosis column reads: urine output decreased, edema +, BUN/creatinine < 10:1, fluids withhold, tubular injury +; the pre-renal column carries normal / − / > 20:1 / given / −. (Book p755)"
   },
   {
    "id": "MED-C9-052",
-   "sec": "Presentation timeline, treatment & the note table · p755",
+   "sec": "Presentation, treatment & pre-renal vs ATN · p755",
    "page": 755,
    "fmt": "fillup",
    "q": "Fill up: The second column of the note table is headed acute tubular ______, exactly as printed.",
@@ -789,9 +789,9 @@
    "id": "MED-U9-1",
    "ch": 9,
    "n": 1,
-   "title": "TMA causes, HELLP & malignant hypertension",
-   "sec": "TMA Causes & Malignant Hypertension · p753",
-   "guide": "HUS, HELLP (hemolysis, elevated liver enzyme, low platelet), the rheumatological pair of catastrophic APS and diffuse scleroderma (Anti RNA P, smaller renal vessels versus Takayasu/PAN in larger vessels), and malignant hypertension = accelerated HTN + papilloedema with new-onset fundal haemorrhage/exudate and emergency HTN at ≥180/120 with end-organ damage.",
+   "title": "TMA causes & malignant hypertension",
+   "sec": "TMA causes & malignant hypertension · p753",
+   "guide": "Source-order revision, 22 Sep 2026: questions were reordered to the printed sequence and one mis-built match option corrected against the print. Previous completion badges and XP are retained; replay this unit. HUS, HELLP, the rheumatological bracket (catastrophic APS, diffuse scleroderma – anti RNA P) small vs large vessels, malignant hypertension = accelerated HTN + papilloedema with the fundal/emergency bracket.",
    "qs": [
     "MED-C9-001",
     "MED-C9-002",
@@ -807,9 +807,9 @@
    "id": "MED-U9-2",
    "ch": 9,
    "n": 2,
-   "title": "The HUS triangle, the TTP pentagon and the TYPES table",
-   "sec": "HUS Triad, TTP Pentad & Types · p753",
-   "guide": "Triangle = thrombocytopenia, renal failure, MAHA; pentagon adds fever, GI symptoms and neurological symptoms (brain). Typical/D+ starts in childhood (<5 y) after dysentery with good prognosis; atypical/D− affects any age, is genetic (m/c) or drug induced, and 50% progress to ESRD with a higher post-transplant recurrence rate.",
+   "title": "HUS features, TTP pentad & types",
+   "sec": "HUS features, TTP pentad & types · p753",
+   "guide": "Source-order revision, 22 Sep 2026: questions were reordered to the printed sequence and one mis-built match option corrected against the print. Previous completion badges and XP are retained; replay this unit. The triad triangle, the TTP pentagon (with [Brain]), then the TYPES table row by row: onset, cause, prognosis.",
    "qs": [
     "MED-C9-009",
     "MED-C9-010",
@@ -827,9 +827,9 @@
    "id": "MED-U9-3",
    "ch": 9,
    "n": 3,
-   "title": "Pathophysiology, typical toxins & the 90% rule",
-   "sec": "Pathophysiology & Typical Toxins · p754",
-   "guide": "Endothelial damage → VWF release → platelet plug → schistocytes (MAHA) and, through platelets trapped in the plug, thrombocytopenia. Typical/childhood (90%) is toxin driven: Shiga-like/verocytotoxin from EHEC O157:H7 (m/c), Shiga toxin from Shigella dysenteriae and neuraminidase from Streptococcus pneumoniae.",
+   "title": "Pathophysiology & causes",
+   "sec": "Pathophysiology & causes · p754",
+   "guide": "Source-order revision, 22 Sep 2026: questions were reordered to the printed sequence and one mis-built match option corrected against the print. Previous completion badges and XP are retained; replay this unit. Endothelial damage → VWF → platelet plug → thrombocytopenia / schistocytes → MAHA; typical toxins (90%); genetic atypical (alternate pathway, low C3 normal C4, factor H/B/MCP/I); sporadic drugs; immune-mediated HUS.",
    "qs": [
     "MED-C9-019",
     "MED-C9-020",
@@ -837,24 +837,24 @@
     "MED-C9-022",
     "MED-C9-023",
     "MED-C9-024",
-    "MED-C9-025"
-   ]
-  },
-  {
-   "id": "MED-U9-4",
-   "ch": 9,
-   "n": 4,
-   "title": "Atypical HUS: genetics, drugs & laboratory work-up",
-   "sec": "Atypical HUS Genetics, Drugs & Investigations · p754",
-   "guide": "Genetic (m/c) alternate-pathway activation with low C3 and normal C4 — factor H mutation (m/c), factor B (worst prognosis), MCP (best prognosis), factor I. Sporadic drug-induced: mitomycin, gemcitabine, bevacizumab, calcineurin inhibitors, ticlopidine/clopidogrel (TTP also), cisplatin; immune-mediated: quinine, gemcitabine, quetiapine, cotrimoxazole. Smear schistocytes >2%, ↑LDH, ↑indirect bilirubin, ↓haptoglobin, negative Coombs, normal PT/APTT; SLE instead shows classical pathway with low C3 and low C4.",
-   "qs": [
+    "MED-C9-025",
     "MED-C9-026",
     "MED-C9-027",
     "MED-C9-028",
     "MED-C9-029",
     "MED-C9-030",
     "MED-C9-031",
-    "MED-C9-032",
+    "MED-C9-032"
+   ]
+  },
+  {
+   "id": "MED-U9-4",
+   "ch": 9,
+   "n": 4,
+   "title": "Investigation",
+   "sec": "Investigation · p754",
+   "guide": "Source-order revision, 22 Sep 2026: questions were reordered to the printed sequence and one mis-built match option corrected against the print. Previous completion badges and XP are retained; replay this unit. Schistocytes > 2%; ↑LDH, −ve Coombs, ↑indirect bilirubin, ↓haptoglobin, normal PT/APTT; the atypical-HUS vs SLE complement note.",
+   "qs": [
     "MED-C9-033",
     "MED-C9-034",
     "MED-C9-035",
@@ -865,9 +865,9 @@
    "id": "MED-U9-5",
    "ch": 9,
    "n": 5,
-   "title": "Presentation, treatment & the pre-renal/ATN note",
-   "sec": "Presentation, Treatment & Pre-renal vs ATN · p755",
-   "guide": "Typical HUS: abdominal pain → 2 days → bloody dysentery (evaluate & start antibiotics) → 5 days → 90–95% resolve, 5–10% HUS; treatment conservative. Atypical: thrombocytopenia with features of secondary hypertension; PLEX within 24h is the mainstay, eculizumab is costly, immunosuppression for factor H mutation, transplant, and rituximab plus eculizumab for post-transplant recurrence. The closing note separates pre-renal injury from acute tubular necrosis on urine output, edema, BUN/creatinine ratio, fluids and tubular injury.",
+   "title": "Presentation, treatment & pre-renal vs ATN",
+   "sec": "Presentation, treatment & pre-renal vs ATN · p755",
+   "guide": "Source-order revision, 22 Sep 2026: questions were reordered to the printed sequence and one mis-built match option corrected against the print. Previous completion badges and XP are retained; replay this unit. Typical HUS timeline and conservative treatment; atypical HUS features and treatment list (PLEX, eculizumab, immunosuppressant, transplant, recurrence); the pre-renal vs ATN note table.",
    "qs": [
     "MED-C9-037",
     "MED-C9-038",

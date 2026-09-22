@@ -1,0 +1,260 @@
+{
+  "chapter": 9,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part1_pages_705-759.pdf",
+  "pdfSha256": "e2dfab80e25cd81302885cda7e07806117d24e15b03d73f2f6b00952ca2fdeea",
+  "pdfOffset": 692,
+  "pageRange": "753-755",
+  "contentSha256": "bdcc601304d890fe858cf757b4db57fa5922c45b8914ad7981d15ae334dae11c",
+  "method": "All three printed pages read from the supplied Part 1 PDF at 2x, top-to-bottom, tables row by row. Every stored answer index checked against the print: 51/52 correct; one match item had a mis-built option (ATN BUN/creatinine offered as > 20:1) and was corrected to the printed < 10:1. Questions re-sequenced to the traversal.",
+  "caveats": [
+    "p753: prints 'Papilloedema' and 'Anti RNA P' (anti-RNA polymerase); TTP is presented as a five-cornered figure labelled only in the Note.",
+    "p754: prints 'Streptococcus pneumonia', 'Worst progosis', 'Ecoli'; taught with standard spelling in stems.",
+    "p755: 'Withhold' printed for ATN fluids; the note table is a general pre-renal vs ATN aide placed at the chapter end.",
+    "Blood-smear photograph tested only via its printed legend."
+  ],
+  "pages": [
+    {
+      "page": 753,
+      "pdfPage": 61,
+      "traversal": "Title; Causes list: HUS; HELLP (expansion); rheumatological bracket catastrophic APS / diffuse scleroderma (anti RNA P) -> smaller vessels v/s larger vessels (Takayasu, PAN); malignant hypertension = accelerated HTN + papilloedema (fundal changes bracket, emergency HTN >=180/120); 'Hemolytic Uremic Syndrome' FEATURES triangle; Note TTP pentagon; TYPES table rows.",
+      "elements": [
+        {
+          "element": "p753-e001",
+          "page": 753,
+          "source": "Causes: HUS; HELLP syndrome (hemolysis, elevated liver enzyme, low platelet).",
+          "questionIds": [
+            "MED-C9-001",
+            "MED-C9-002"
+          ]
+        },
+        {
+          "element": "p753-e002",
+          "page": 753,
+          "source": "Rheumatological condition: catastrophic APS; diffuse scleroderma (anti RNA P) - smaller vessels v/s larger vessels (Takayasu, PAN).",
+          "questionIds": [
+            "MED-C9-003",
+            "MED-C9-004",
+            "MED-C9-005"
+          ]
+        },
+        {
+          "element": "p753-e003",
+          "page": 753,
+          "source": "Malignant hypertension = accelerated HTN + papilloedema (new onset fundal changes: hemorrhage/exudate + emergency HTN: end organ damage + >=180/120).",
+          "questionIds": [
+            "MED-C9-006",
+            "MED-C9-007",
+            "MED-C9-008"
+          ]
+        },
+        {
+          "element": "p753-e004",
+          "page": 753,
+          "source": "FEATURES triad: thrombocytopenia, renal failure, MAHA.",
+          "questionIds": [
+            "MED-C9-009",
+            "MED-C9-010"
+          ]
+        },
+        {
+          "element": "p753-e005",
+          "page": 753,
+          "source": "Note TTP pentagon: thrombocytopenia, fever, MAHA, neurological symptoms [Brain], GI symptoms.",
+          "questionIds": [
+            "MED-C9-011",
+            "MED-C9-012",
+            "MED-C9-013",
+            "MED-C9-014"
+          ]
+        },
+        {
+          "element": "p753-e006",
+          "page": 753,
+          "source": "TYPES onset: childhood commonly <5 years / any age; cause: infection i.e dysentery / genetic (m/c), sporadic (drug induced).",
+          "questionIds": [
+            "MED-C9-015",
+            "MED-C9-016"
+          ]
+        },
+        {
+          "element": "p753-e007",
+          "page": 753,
+          "source": "Prognosis: good / bad (50% progress to ESRD), up chances of recurrence after renal transplant.",
+          "questionIds": [
+            "MED-C9-017",
+            "MED-C9-018"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 754,
+      "pdfPage": 62,
+      "traversal": "PATHOPHYSIOLOGY chain; Causes: typical/childhood toxins (90% cases) three toxins; atypical/adult genetic (m/c) cause, A/w, types factor H (m/c), B worst, MCP best, factor I; sporadic drug induced list (TTP also bracket); immune mediated HUS list; INVESTIGATION smear, blood investigation; Note table atypical HUS vs SLE.",
+      "elements": [
+        {
+          "element": "p754-e001",
+          "page": 754,
+          "source": "Endothelial damage -> VWF release -> platelet plug formation; platelet trapped in plug -> thrombocytopenia.",
+          "questionIds": [
+            "MED-C9-019",
+            "MED-C9-020",
+            "MED-C9-021"
+          ]
+        },
+        {
+          "element": "p754-e002",
+          "page": 754,
+          "source": "Schistocyte formation (d/t platelet plug circulating erythrocytes damage) -> MAHA.",
+          "questionIds": [
+            "MED-C9-022"
+          ]
+        },
+        {
+          "element": "p754-e003",
+          "page": 754,
+          "source": "Typical/childhood toxins 90% cases: Shiga like toxin/verocytotoxin EHEC O157:H7 (m/c); Shiga toxin Shigella dysentery; neuraminidase toxin Streptococcus pneumonia.",
+          "questionIds": [
+            "MED-C9-023",
+            "MED-C9-024",
+            "MED-C9-025"
+          ]
+        },
+        {
+          "element": "p754-e004",
+          "page": 754,
+          "source": "Genetic (m/c): alternate complement pathway activation; A/w low C3, normal C4.",
+          "questionIds": [
+            "MED-C9-026"
+          ]
+        },
+        {
+          "element": "p754-e005",
+          "page": 754,
+          "source": "Types: complement factor-H (m/c) mutation; factor-B worst prognosis; MCP best prognosis; factor-I.",
+          "questionIds": [
+            "MED-C9-027"
+          ]
+        },
+        {
+          "element": "p754-e006",
+          "page": 754,
+          "source": "Sporadic drug induced: mitomycin, gemcitabine, bevacizumab, calcineurin inhibitors (tacrolimus, cyclosporine), ticlopidine/clopidogrel (TTP also), cisplatin.",
+          "questionIds": [
+            "MED-C9-028",
+            "MED-C9-029",
+            "MED-C9-030"
+          ]
+        },
+        {
+          "element": "p754-e007",
+          "page": 754,
+          "source": "Immune mediated HUS: quinine, gemcitabine, quetiapine, cotrimoxazole.",
+          "questionIds": [
+            "MED-C9-031",
+            "MED-C9-032"
+          ]
+        },
+        {
+          "element": "p754-e008",
+          "page": 754,
+          "source": "INVESTIGATION: peripheral blood smear - schistocyte (>2% significant).",
+          "questionIds": [
+            "MED-C9-033"
+          ]
+        },
+        {
+          "element": "p754-e009",
+          "page": 754,
+          "source": "Blood investigation: up LDH, -ve Coombs, up indirect bilirubin, down haptoglobin, normal PT/APTT.",
+          "questionIds": [
+            "MED-C9-034",
+            "MED-C9-035"
+          ]
+        },
+        {
+          "element": "p754-e010",
+          "page": 754,
+          "source": "Note: atypical HUS alternative pathway, low C3 (N) C4; SLE classical, low C3 low C4.",
+          "questionIds": [
+            "MED-C9-036"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 755,
+      "pdfPage": 63,
+      "traversal": "PRESENTATION AND TREATMENT: typical HUS timeline (abdominal pain -2 days-> bloody dysentery (evaluate & start antibiotics) -5 days-> 90-95% resolution / 5-10% HUS; treatment conservative); atypical HUS two features; treatment list; Note table pre renal injury vs acute tubular necrosis, five rows.",
+      "elements": [
+        {
+          "element": "p755-e001",
+          "page": 755,
+          "source": "Typical HUS: abdominal pain -> 2 days -> bloody dysentery (evaluate & start antibiotics) -> 5 days -> 90-95% resolution / 5-10% HUS.",
+          "questionIds": [
+            "MED-C9-037",
+            "MED-C9-038",
+            "MED-C9-039",
+            "MED-C9-040"
+          ]
+        },
+        {
+          "element": "p755-e002",
+          "page": 755,
+          "source": "Treatment: conservative.",
+          "questionIds": [
+            "MED-C9-041"
+          ]
+        },
+        {
+          "element": "p755-e003",
+          "page": 755,
+          "source": "Atypical HUS: features of 2 degree HTN (renal/endocrine); thrombocytopenia.",
+          "questionIds": [
+            "MED-C9-042"
+          ]
+        },
+        {
+          "element": "p755-e004",
+          "page": 755,
+          "source": "PLEX: within 24 hr; mainstay of treatment.",
+          "questionIds": [
+            "MED-C9-043"
+          ]
+        },
+        {
+          "element": "p755-e005",
+          "page": 755,
+          "source": "Eculizumab: costly; immunosuppressant: in complement factor H mutation; renal transplant.",
+          "questionIds": [
+            "MED-C9-044",
+            "MED-C9-045"
+          ]
+        },
+        {
+          "element": "p755-e006",
+          "page": 755,
+          "source": "Recurrence post transplant: rituximab; eculizumab.",
+          "questionIds": [
+            "MED-C9-046",
+            "MED-C9-047"
+          ]
+        },
+        {
+          "element": "p755-e007",
+          "page": 755,
+          "source": "Note table rows: urine output normal/decreased; edema -/+; BUN/creatinine >20:1 / <10:1; fluids given/withhold; tubular injury -/+.",
+          "questionIds": [
+            "MED-C9-048",
+            "MED-C9-049",
+            "MED-C9-050",
+            "MED-C9-051",
+            "MED-C9-052"
+          ]
+        }
+      ]
+    }
+  ]
+}

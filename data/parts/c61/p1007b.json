@@ -1,90 +1,90 @@
 {
-  "page": 1007,
-  "sec": "Spontaneous Bacterial Peritonitis (SBP) & Variants",
-  "items": [
-    {
-      "fmt": "recall",
-      "q": "What is the most common causative organism and bacterial class responsible for spontaneous bacterial peritonitis (SBP)?",
-      "opts": [
-        "Gram-negative bacilli: Escherichia coli",
-        "Gram-positive cocci: Streptococcus pneumoniae",
-        "Anaerobic bacilli: Bacteroides fragilis",
-        "Atypical organisms: Mycoplasma hominis"
-      ],
-      "ans": 0,
-      "exp": "The primary cause of spontaneous bacterial peritonitis (SBP) is Gram-negative bacteria, most commonly Escherichia coli. (Book p1007)"
-    },
-    {
-      "fmt": "fillup",
-      "q": "In the diagnostic criteria for spontaneous bacterial peritonitis (SBP), the ascitic fluid analysis must demonstrate a total WBC count of at least ________ or a polymorphonuclear (PMN) neutrophil count of at least ________.",
-      "opts": [
-        "≥500 cells/mL total WBCs; ≥250 cells/mL PMNs",
-        "≥1000 cells/mL total WBCs; ≥500 cells/mL PMNs",
-        "≥250 cells/mL total WBCs; ≥100 cells/mL PMNs",
-        "≥500 cells/mL total WBCs; ≥100 cells/mL PMNs"
-      ],
-      "ans": 0,
-      "exp": "Diagnostic criteria for SBP require: (1) Ascitic fluid WBC ≥500 cells/mL OR PMNs ≥250 cells/mL, (2) positive ascitic fluid culture, and (3) no surgically treatable source of infection. (Book p1007)"
-    },
-    {
-      "fmt": "oddoneout",
-      "q": "Which of the following is NOT one of the three established diagnostic criteria for spontaneous bacterial peritonitis (SBP)?",
-      "opts": [
-        "Ascitic fluid serum-ascites albumin gradient (SAAG) less than 1.1 g/dL",
-        "Ascitic fluid WBC count ≥500 cells/mL or PMN count ≥250 cells/mL",
-        "Positive monobacterial culture from ascitic fluid inoculation",
-        "Absence of any surgically treatable intra-abdominal infection source"
-      ],
-      "ans": 0,
-      "exp": "The 3 criteria for SBP are: (1) ascitic fluid WBC ≥500 cells/mL OR PMNs ≥250 cells/mL, (2) positive culture, and (3) absence of a surgically treatable source of infection. SAAG <1.1 g/dL is not a criterion (cirrhotic ascites has high SAAG ≥1.1). (Book p1007)"
-    },
-    {
-      "fmt": "scenario",
-      "q": "A 58-year-old cirrhotic patient presents with fever and diffuse abdominal pain. Diagnostic paracentesis reveals an ascitic fluid PMN count of 380 cells/mL (elevated). Ascitic fluid cultures show no bacterial growth at 48 hours, and surgical abdominal sources are ruled out. This entity represents:",
-      "opts": [
-        "Culture-negative neutrocytic ascites (CNNA): criteria 1 and 3 present, 2 absent",
-        "Monobacterial non-neutrocytic ascites (MNNA): criteria 2 and 3 present, 1 absent",
-        "Secondary bacterial peritonitis requiring emergent exploratory laparotomy",
-        "Pseudochylous ascites secondary to thoracic duct obstruction"
-      ],
-      "ans": 0,
-      "exp": "Culture Negative Neutrocytic Ascites (CNNA) is defined by presence of criteria 1 (PMN ≥250) and 3 (no surgical source), with absence of criterion 2 (culture negative). It represents a milder degree of SBP seen in patients with minimal immunity and good opsonization. (Book p1007)"
-    },
-    {
-      "fmt": "match",
-      "q": "Match each variant of SBP with its criteria profile and characteristic microbiology:\n1. Culture Negative Neutrocytic Ascites (CNNA)\n2. Monobacterial Non-Neutrocytic Ascites (MNNA)",
-      "opts": [
-        "1: Criteria 1+3 present (2 absent); 2: Criteria 2+3 present (1 absent), Gram-positive > Gram-negative",
-        "1: Criteria 2+3 present (1 absent); 2: Criteria 1+3 present (2 absent), Gram-negative > Gram-positive",
-        "1: Criteria 1+2 present (3 absent); 2: Criteria 1+3 present (2 absent), Anaerobic > Aerobic",
-        "1: Criteria 1+3 present (2 absent); 2: Criteria 1+2 present (3 absent), Polymicrobial > Monomicrobial"
-      ],
-      "ans": 0,
-      "exp": "CNNA has criteria 1+3 present (PMN elevated, no surgical source) and criterion 2 absent (culture negative). MNNA has criteria 2+3 present (culture positive, no surgical source) and criterion 1 absent (PMN <250/mL), with Gram-positive organisms predominating over Gram-negative. (Book p1007)"
-    },
-    {
-      "fmt": "truefalse",
-      "q": "True or False: Differentials of SBP criteria such as CNNA and MNNA represent milder degrees of SBP observed in patients possessing minimal host immunity combined with good opsonization capacity.",
-      "opts": [
-        "True: Milder SBP spectrum seen with minimal immunity and good opsonization",
-        "False: Severe fulminant peritonitis observed only in patients lacking opsonization",
-        "False: Iatrogenic contamination artifacts occurring strictly after repeated taps",
-        "False: Secondary surgical catastrophes requiring emergency surgical peritoneal toilet"
-      ],
-      "ans": 0,
-      "exp": "As documented under differentials of criteria, CNNA and MNNA represent a milder degree of SBP seen in patients with minimal immunity plus good opsonization (+). (Book p1007)"
-    },
-    {
-      "fmt": "recall",
-      "q": "In monobacterial non-neutrocytic ascites (MNNA), how does the microbiological profile characteristically contrast with classic SBP?",
-      "opts": [
-        "Gram-positive organisms are isolated more frequently than Gram-negative organisms",
-        "Polymicrobial anaerobic enteric flora predominate over single aerobes",
-        "Strict anaerobes such as Clostridium species account for nearly all isolates",
-        "Fungal hyphae such as Candida albicans predominate over bacterial pathogens"
-      ],
-      "ans": 0,
-      "exp": "In MNNA, isolated pathogens characteristically show Gram-positive organisms > Gram-negative organisms, contrasting with classic SBP where Gram-negative E. coli predominates. (Book p1007)"
-    }
-  ]
+ "page": 1007,
+ "sec": "Spontaneous Bacterial Peritonitis (SBP) & Variants",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "What is the most common causative organism and bacterial class responsible for spontaneous bacterial peritonitis (SBP)?",
+   "opts": [
+    "Gram-negative bacilli: Escherichia coli",
+    "Gram-positive cocci: Streptococcus pneumoniae",
+    "Anaerobic bacilli: Bacteroides fragilis",
+    "Atypical organisms: Mycoplasma hominis"
+   ],
+   "ans": 0,
+   "exp": "The primary cause of spontaneous bacterial peritonitis (SBP) is Gram-negative bacteria, most commonly Escherichia coli. (Book p1007)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "In the diagnostic criteria for spontaneous bacterial peritonitis (SBP), the ascitic fluid analysis must demonstrate a total WBC count of at least ________ or a polymorphonuclear (PMN) neutrophil count of at least ________.",
+   "opts": [
+    "≥500 cells/mL total WBCs; ≥250 cells/mL PMNs",
+    "≥1000 cells/mL total WBCs; ≥500 cells/mL PMNs",
+    "≥250 cells/mL total WBCs; ≥100 cells/mL PMNs",
+    "≥500 cells/mL total WBCs; ≥100 cells/mL PMNs"
+   ],
+   "ans": 0,
+   "exp": "Diagnostic criteria for SBP require: (1) Ascitic fluid WBC ≥500 cells/mL OR PMNs ≥250 cells/mL, (2) positive ascitic fluid culture, and (3) no surgically treatable source of infection. (Book p1007)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "Which of the following is NOT one of the three established diagnostic criteria for spontaneous bacterial peritonitis (SBP)?",
+   "opts": [
+    "Ascitic fluid serum-ascites albumin gradient (SAAG) less than 1.1 g/dL",
+    "Ascitic fluid WBC count ≥500 cells/mL or PMN count ≥250 cells/mL",
+    "Positive monobacterial culture from ascitic fluid inoculation",
+    "Absence of any surgically treatable intra-abdominal infection source"
+   ],
+   "ans": 0,
+   "exp": "The 3 criteria for SBP are: (1) ascitic fluid WBC ≥500 cells/mL OR PMNs ≥250 cells/mL, (2) positive culture, and (3) absence of a surgically treatable source of infection. SAAG <1.1 g/dL is not a criterion (cirrhotic ascites has high SAAG ≥1.1). (Book p1007)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 58-year-old cirrhotic patient presents with fever and diffuse abdominal pain. Diagnostic paracentesis reveals an ascitic fluid PMN count of 380 cells/mL (elevated). Ascitic fluid cultures show no bacterial growth at 48 hours, and surgical abdominal sources are ruled out. This entity represents:",
+   "opts": [
+    "Culture-negative neutrocytic ascites (CNNA): criteria 1 and 3 present, 2 absent",
+    "Monobacterial non-neutrocytic ascites (MNNA): criteria 2 and 3 present, 1 absent",
+    "Secondary bacterial peritonitis requiring emergent exploratory laparotomy",
+    "Pseudochylous ascites secondary to thoracic duct obstruction"
+   ],
+   "ans": 0,
+   "exp": "Culture Negative Neutrocytic Ascites (CNNA) is defined by presence of criteria 1 (PMN ≥250) and 3 (no surgical source), with absence of criterion 2 (culture negative). It represents a milder degree of SBP seen in patients with minimal immunity and good opsonization. (Book p1007)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Match each variant of SBP with its criteria profile and characteristic microbiology: 1. Culture Negative Neutrocytic Ascites (CNNA) 2. Monobacterial Non-Neutrocytic Ascites (MNNA)",
+   "opts": [
+    "1: Criteria 1+3 present (2 absent); 2: Criteria 2+3 present (1 absent), Gram-positive > Gram-negative",
+    "1: Criteria 2+3 present (1 absent); 2: Criteria 1+3 present (2 absent), Gram-negative > Gram-positive",
+    "1: Criteria 1+2 present (3 absent); 2: Criteria 1+3 present (2 absent), Anaerobic > Aerobic",
+    "1: Criteria 1+3 present (2 absent); 2: Criteria 1+2 present (3 absent), Polymicrobial > Monomicrobial"
+   ],
+   "ans": 0,
+   "exp": "CNNA has criteria 1+3 present (PMN elevated, no surgical source) and criterion 2 absent (culture negative). MNNA has criteria 2+3 present (culture positive, no surgical source) and criterion 1 absent (PMN <250/mL), with Gram-positive organisms predominating over Gram-negative. (Book p1007)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "True or False: Differentials of SBP criteria such as CNNA and MNNA represent milder degrees of SBP observed in patients possessing minimal host immunity combined with good opsonization capacity.",
+   "opts": [
+    "True: Milder SBP spectrum seen with minimal immunity and good opsonization",
+    "False: Severe fulminant peritonitis observed only in patients lacking opsonization",
+    "False: Iatrogenic contamination artifacts occurring strictly after repeated taps",
+    "False: Secondary surgical catastrophes requiring emergency surgical peritoneal toilet"
+   ],
+   "ans": 0,
+   "exp": "As documented under differentials of criteria, CNNA and MNNA represent a milder degree of SBP seen in patients with minimal immunity plus good opsonization (+). (Book p1007)"
+  },
+  {
+   "fmt": "recall",
+   "q": "In monobacterial non-neutrocytic ascites (MNNA), how does the microbiological profile characteristically contrast with classic SBP?",
+   "opts": [
+    "Gram-positive organisms are isolated more frequently than Gram-negative organisms",
+    "Polymicrobial anaerobic enteric flora predominate over single aerobes",
+    "Strict anaerobes such as Clostridium species account for nearly all isolates",
+    "Fungal hyphae such as Candida albicans predominate over bacterial pathogens"
+   ],
+   "ans": 0,
+   "exp": "In MNNA, isolated pathogens characteristically show Gram-positive organisms > Gram-negative organisms, contrasting with classic SBP where Gram-negative E. coli predominates. (Book p1007)"
+  }
+ ]
 }

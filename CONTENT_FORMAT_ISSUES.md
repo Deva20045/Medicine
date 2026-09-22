@@ -58,3 +58,5 @@ validate clinical scenarios, true/false substance, or source completeness.
 - MED-C61-062: match label without a parseable matching list
 - MED-C61-067: match label without a parseable matching list
 - MED-C61-073: match label without a parseable matching list
+
+> Update 2026-09-22: the 44 items were converted to `recall` format (or given a parseable match list) in commit f5f89ad; `check_app_smoke.js` now reports 0 format warnings. These chapters remain pending source review.

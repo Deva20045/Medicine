@@ -1,102 +1,102 @@
 {
-  "page": 1008,
-  "sec": "Hepatorenal Syndrome Pathogenesis & Diagnosis",
-  "items": [
-    {
-      "fmt": "recall",
-      "q": "In the pathogenesis of hepatorenal syndrome (HRS), what is the initial vascular event that subsequently triggers severe compensatory neurohumoral activation?",
-      "opts": [
-        "Marked splanchnic arterial vasodilation",
-        "Diffuse pulmonary vasoconstriction",
-        "Intrarenal efferent arteriolar dilation",
-        "Systemic peripheral hypertension"
-      ],
-      "ans": 0,
-      "exp": "Splanchnic vasodilation is the primary event, which stimulates ADH, SNS, and RAAS pathways, resulting in renal vasoconstriction. (Book p1008)"
-    },
-    {
-      "fmt": "fillup",
-      "q": "In hepatorenal syndrome, splanchnic vasodilation stimulates three primary neurohormonal systems that mediate renal vasoconstriction: ________, ________, and ________.",
-      "opts": [
-        "ADH, SNS, and RAAS",
-        "ANP, BNP, and CNP",
-        "Endothelin, histamine, and serotonin",
-        "Gastrin, secretin, and motilin"
-      ],
-      "ans": 0,
-      "exp": "Splanchnic vasodilation stimulates ADH (antidiuretic hormone), SNS (sympathetic nervous system), and RAAS (renin-angiotensin-aldosterone system). (Book p1008)"
-    },
-    {
-      "fmt": "match",
-      "q": "Match each hepatorenal syndrome subtype with its progression pathway and clinical outcome:\n1. HRS-AKI (Acute Kidney Injury)\n2. HRS-NAKI (Non-AKI)",
-      "opts": [
-        "1: Mediated by acute renal vasoconstriction and pre-renal failure, has terrible prognosis with 100% mortality without transplant; 2: Develops over time in the setting of chronic refractory ascites",
-        "1: Develops over time in the setting of chronic refractory ascites; 2: Mediated by acute renal vasoconstriction and pre-renal failure, has terrible prognosis with 100% mortality without transplant",
-        "1: Resolves spontaneously without medical therapy; 2: Characterized by massive glomerular basement membrane immune deposits",
-        "1: Exclusively caused by direct nephrotoxicity of paracetamol; 2: Caused by bacterial invasion of the renal parenchyma"
-      ],
-      "ans": 0,
-      "exp": "HRS-AKI arises from severe renal vasoconstriction and pre-renal failure, carrying a terrible prognosis and 100% mortality without liver transplant. HRS-NAKI develops over time in association with refractory ascites. (Book p1008)"
-    },
-    {
-      "fmt": "truefalse",
-      "q": "True or False: In patients who develop HRS-AKI, the prognosis is universally dismal, with 100% mortality expected in the absence of liver transplantation.",
-      "opts": [
-        "True: Terrible prognosis with 100% mortality without liver transplantation",
-        "False: Benign self-limiting condition with less than 5% mortality on saline hydration",
-        "False: Fully cured in over 90% of cases by oral loop diuretics alone",
-        "False: Fatal only when accompanied by overt hepatic encephalopathy grade 4"
-      ],
-      "ans": 0,
-      "exp": "As emphasized in the text, HRS-AKI has a 'terrible prognosis' and '100% mortality without transplant'. (Book p1008)"
-    },
-    {
-      "fmt": "recall",
-      "q": "Hepatorenal syndrome is fundamentally a diagnosis of exclusion established in a patient who must have which foundational underlying clinical triad?",
-      "opts": [
-        "Cirrhosis, portal hypertension (PHTN), and ascites",
-        "Hepatomegaly, normal portal pressures, and pleural effusion",
-        "Acute viral hepatitis, splenomegaly, and macroscopic hematuria",
-        "Biliary atresia, normal spleen size, and lower limb edema"
-      ],
-      "ans": 0,
-      "exp": "HRS is a diagnosis of exclusion in a patient with the triad of Cirrhosis, PHTN, and Ascites. (Book p1008)"
-    },
-    {
-      "fmt": "oddoneout",
-      "q": "To confirm hepatorenal syndrome, pre-renal and intra-renal etiologies must be systematically excluded. Which of the following is NOT an intra-renal condition listed in the diagnostic workup?",
-      "opts": [
-        "Severe hypoalbuminemia (marked reduction in serum albumin)",
-        "Significant proteinuria",
-        "Overt microscopic or gross hematuria",
-        "Structural renal parenchymal abnormalities on USG"
-      ],
-      "ans": 0,
-      "exp": "Marked hypoalbuminemia (↓↓ S. albumin) is classified under pre-renal causes to rule out, along with diuretic excess and UGI bleed. Proteinuria and hematuria are intra-renal markers, and USG rules out structural abnormality. (Book p1008)"
-    },
-    {
-      "fmt": "scenario",
-      "q": "A 54-year-old man with cirrhosis, ascites, and portal hypertension develops a serum creatinine rise to 2.8 mg/dL. Urinalysis shows no proteinuria or hematuria, renal ultrasonography shows normal kidney morphology, there is no history of shock or nephrotoxic drug ingestion, and diuretic withdrawal with volume expansion does not reverse the renal dysfunction. This confirms:",
-      "opts": [
-        "Hepatorenal syndrome diagnosed after ruling out pre-renal, intra-renal, and structural etiologies",
-        "Acute post-streptococcal glomerulonephritis with persistent nephrotic proteinuria",
-        "Contrast-induced acute tubular necrosis responding rapidly to furosemide diuresis",
-        "Primary bilateral polycystic kidney disease complicated by infected renal cysts"
-      ],
-      "ans": 0,
-      "exp": "HRS is a diagnosis of exclusion in a patient with cirrhosis, PHTN, and ascites after ruling out pre-renal failure (diuretic excess, UGI bleed, hypoalbuminemia), intra-renal disease (proteinuria, hematuria), structural abnormalities on USG, shock, and nephrotoxic drugs (diuretics, NSAIDs). (Book p1008)"
-    },
-    {
-      "fmt": "match",
-      "q": "Match the diagnostic exclusion category with the specific factors that must be ruled out when evaluating for HRS:\n1. Pre-renal etiologies\n2. Intra-renal etiologies\n3. Nephrotoxic exposures",
-      "opts": [
-        "1: Diuretic excess, marked hypoalbuminemia, and UGI bleed; 2: Proteinuria and hematuria; 3: Diuretics and NSAIDs",
-        "1: Proteinuria and hematuria; 2: Diuretic excess and UGI bleed; 3: Hypoalbuminemia and shock",
-        "1: Structural abnormalities on USG; 2: NSAIDs; 3: Marked hypoalbuminemia and hematuria",
-        "1: Diuretics and NSAIDs; 2: Diuretic excess; 3: Proteinuria and hematuria"
-      ],
-      "ans": 0,
-      "exp": "Pre-renal factors to rule out are diuretic excess, severe hypoalbuminemia (↓↓ S. albumin), and UGI bleed; intra-renal factors are proteinuria and hematuria; nephrotoxic drugs include diuretics and NSAIDs. (Book p1008)"
-    }
-  ]
+ "page": 1008,
+ "sec": "Hepatorenal Syndrome Pathogenesis & Diagnosis",
+ "items": [
+  {
+   "fmt": "recall",
+   "q": "In the pathogenesis of hepatorenal syndrome (HRS), what is the initial vascular event that subsequently triggers severe compensatory neurohumoral activation?",
+   "opts": [
+    "Marked splanchnic arterial vasodilation",
+    "Diffuse pulmonary vasoconstriction",
+    "Intrarenal efferent arteriolar dilation",
+    "Systemic peripheral hypertension"
+   ],
+   "ans": 0,
+   "exp": "Splanchnic vasodilation is the primary event, which stimulates ADH, SNS, and RAAS pathways, resulting in renal vasoconstriction. (Book p1008)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "In hepatorenal syndrome, splanchnic vasodilation stimulates three primary neurohormonal systems that mediate renal vasoconstriction: ________, ________, and ________.",
+   "opts": [
+    "ADH, SNS, and RAAS",
+    "ANP, BNP, and CNP",
+    "Endothelin, histamine, and serotonin",
+    "Gastrin, secretin, and motilin"
+   ],
+   "ans": 0,
+   "exp": "Splanchnic vasodilation stimulates ADH (antidiuretic hormone), SNS (sympathetic nervous system), and RAAS (renin-angiotensin-aldosterone system). (Book p1008)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Match each hepatorenal syndrome subtype with its progression pathway and clinical outcome: 1. HRS-AKI (Acute Kidney Injury) 2. HRS-NAKI (Non-AKI)",
+   "opts": [
+    "1: Mediated by acute renal vasoconstriction and pre-renal failure, has terrible prognosis with 100% mortality without transplant; 2: Develops over time in the setting of chronic refractory ascites",
+    "1: Develops over time in the setting of chronic refractory ascites; 2: Mediated by acute renal vasoconstriction and pre-renal failure, has terrible prognosis with 100% mortality without transplant",
+    "1: Resolves spontaneously without medical therapy; 2: Characterized by massive glomerular basement membrane immune deposits",
+    "1: Exclusively caused by direct nephrotoxicity of paracetamol; 2: Caused by bacterial invasion of the renal parenchyma"
+   ],
+   "ans": 0,
+   "exp": "HRS-AKI arises from severe renal vasoconstriction and pre-renal failure, carrying a terrible prognosis and 100% mortality without liver transplant. HRS-NAKI develops over time in association with refractory ascites. (Book p1008)"
+  },
+  {
+   "fmt": "truefalse",
+   "q": "True or False: In patients who develop HRS-AKI, the prognosis is universally dismal, with 100% mortality expected in the absence of liver transplantation.",
+   "opts": [
+    "True: Terrible prognosis with 100% mortality without liver transplantation",
+    "False: Benign self-limiting condition with less than 5% mortality on saline hydration",
+    "False: Fully cured in over 90% of cases by oral loop diuretics alone",
+    "False: Fatal only when accompanied by overt hepatic encephalopathy grade 4"
+   ],
+   "ans": 0,
+   "exp": "As emphasized in the text, HRS-AKI has a 'terrible prognosis' and '100% mortality without transplant'. (Book p1008)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Hepatorenal syndrome is fundamentally a diagnosis of exclusion established in a patient who must have which foundational underlying clinical triad?",
+   "opts": [
+    "Cirrhosis, portal hypertension (PHTN), and ascites",
+    "Hepatomegaly, normal portal pressures, and pleural effusion",
+    "Acute viral hepatitis, splenomegaly, and macroscopic hematuria",
+    "Biliary atresia, normal spleen size, and lower limb edema"
+   ],
+   "ans": 0,
+   "exp": "HRS is a diagnosis of exclusion in a patient with the triad of Cirrhosis, PHTN, and Ascites. (Book p1008)"
+  },
+  {
+   "fmt": "oddoneout",
+   "q": "To confirm hepatorenal syndrome, pre-renal and intra-renal etiologies must be systematically excluded. Which of the following is NOT an intra-renal condition listed in the diagnostic workup?",
+   "opts": [
+    "Severe hypoalbuminemia (marked reduction in serum albumin)",
+    "Significant proteinuria",
+    "Overt microscopic or gross hematuria",
+    "Structural renal parenchymal abnormalities on USG"
+   ],
+   "ans": 0,
+   "exp": "Marked hypoalbuminemia (↓↓ S. albumin) is classified under pre-renal causes to rule out, along with diuretic excess and UGI bleed. Proteinuria and hematuria are intra-renal markers, and USG rules out structural abnormality. (Book p1008)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 54-year-old man with cirrhosis, ascites, and portal hypertension develops a serum creatinine rise to 2.8 mg/dL. Urinalysis shows no proteinuria or hematuria, renal ultrasonography shows normal kidney morphology, there is no history of shock or nephrotoxic drug ingestion, and diuretic withdrawal with volume expansion does not reverse the renal dysfunction. This confirms:",
+   "opts": [
+    "Hepatorenal syndrome diagnosed after ruling out pre-renal, intra-renal, and structural etiologies",
+    "Acute post-streptococcal glomerulonephritis with persistent nephrotic proteinuria",
+    "Contrast-induced acute tubular necrosis responding rapidly to furosemide diuresis",
+    "Primary bilateral polycystic kidney disease complicated by infected renal cysts"
+   ],
+   "ans": 0,
+   "exp": "HRS is a diagnosis of exclusion in a patient with cirrhosis, PHTN, and ascites after ruling out pre-renal failure (diuretic excess, UGI bleed, hypoalbuminemia), intra-renal disease (proteinuria, hematuria), structural abnormalities on USG, shock, and nephrotoxic drugs (diuretics, NSAIDs). (Book p1008)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Match the diagnostic exclusion category with the specific factors that must be ruled out when evaluating for HRS: 1. Pre-renal etiologies 2. Intra-renal etiologies 3. Nephrotoxic exposures",
+   "opts": [
+    "1: Diuretic excess, marked hypoalbuminemia, and UGI bleed; 2: Proteinuria and hematuria; 3: Diuretics and NSAIDs",
+    "1: Proteinuria and hematuria; 2: Diuretic excess and UGI bleed; 3: Hypoalbuminemia and shock",
+    "1: Structural abnormalities on USG; 2: NSAIDs; 3: Marked hypoalbuminemia and hematuria",
+    "1: Diuretics and NSAIDs; 2: Diuretic excess; 3: Proteinuria and hematuria"
+   ],
+   "ans": 0,
+   "exp": "Pre-renal factors to rule out are diuretic excess, severe hypoalbuminemia (↓↓ S. albumin), and UGI bleed; intra-renal factors are proteinuria and hematuria; nephrotoxic drugs include diuretics and NSAIDs. (Book p1008)"
+  }
+ ]
 }

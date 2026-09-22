@@ -5,7 +5,7 @@
  "questions": [
   {
    "id": "MED-C7-001",
-   "sec": "Urine Collection",
+   "sec": "Urine Collection · p740",
    "page": 740,
    "fmt": "recall",
    "q": "For routine urine analysis, the sample the book recommends is:",
@@ -20,7 +20,7 @@
   },
   {
    "id": "MED-C7-002",
-   "sec": "Urine Collection",
+   "sec": "Urine Collection · p740",
    "page": 740,
    "fmt": "fillup",
    "q": "Fill up: Urine must be analysed within ______ hours at room temperature, while the pH should be checked immediately.",
@@ -35,22 +35,7 @@
   },
   {
    "id": "MED-C7-003",
-   "sec": "Urine Collection",
-   "page": 740,
-   "fmt": "numeric",
-   "q": "Up to how long may a urine sample be stored at 2-8°C before analysis?",
-   "opts": [
-    "12 hours",
-    "6 hours",
-    "24 hours",
-    "48 hours"
-   ],
-   "ans": 0,
-   "exp": "Storage: 2-8°C upto 12 hours. (Book p740)"
-  },
-  {
-   "id": "MED-C7-004",
-   "sec": "Urine Collection",
+   "sec": "Urine Collection · p740",
    "page": 740,
    "fmt": "recall",
    "q": "The preservatives listed for a urine sample are:",
@@ -64,8 +49,23 @@
    "exp": "Preservation: Formaldehyde, Glutaraldehyde. (Book p740)"
   },
   {
+   "id": "MED-C7-004",
+   "sec": "Urine Collection · p740",
+   "page": 740,
+   "fmt": "numeric",
+   "q": "Up to how long may a urine sample be stored at 2-8°C before analysis?",
+   "opts": [
+    "12 hours",
+    "6 hours",
+    "24 hours",
+    "48 hours"
+   ],
+   "ans": 0,
+   "exp": "Storage: 2-8°C upto 12 hours. (Book p740)"
+  },
+  {
    "id": "MED-C7-005",
-   "sec": "Urine Collection",
+   "sec": "Urine Collection · p740",
    "page": 740,
    "fmt": "scenario",
    "q": "A marathon runner is scheduled for a routine urine check. To avoid false results from rhabdomyolysis, strenuous physical activity must be avoided for how long before collection?",
@@ -80,7 +80,7 @@
   },
   {
    "id": "MED-C7-006",
-   "sec": "Urine Collection",
+   "sec": "Urine Collection · p740",
    "page": 740,
    "fmt": "truefalse",
    "q": "Which statement about urine collection is TRUE?",
@@ -95,7 +95,7 @@
   },
   {
    "id": "MED-C7-007",
-   "sec": "Urine Collection",
+   "sec": "Urine Collection · p740",
    "page": 740,
    "fmt": "fillup",
    "q": "Fill up: In catheterised patients, urine must always be collected ______ and never from the urobag.",
@@ -110,67 +110,22 @@
   },
   {
    "id": "MED-C7-008",
-   "sec": "Physical Properties - Appearance",
+   "sec": "Urine Collection · p740",
    "page": 740,
-   "fmt": "match",
-   "q": "Match each urine colour with its listed cause — 1) Green 2) Brown 3) Orange … A) Nitrofurantoin B) Rifampicin, entacapone C) Triamterene (ENaC blocker)",
+   "q": "The photograph beside the collection instructions, showing gloved hands with a specimen, is captioned:",
    "opts": [
-    "1-C, 2-A, 3-B",
-    "1-A, 2-B, 3-C",
-    "1-A, 2-C, 3-B",
-    "1-B, 2-A, 3-C"
+    "Collection of urine",
+    "Midstream technique",
+    "Catheterised patient",
+    "Urobag sampling"
    ],
    "ans": 0,
-   "exp": "Green – triamterene (ENaC blocker); brown – nitrofurantoin; orange – rifampicin, entacapone (COMT inhibitor). (Book p740)"
+   "exp": "The photo to the right of the 'Instructions: To Avoid' list carries the caption 'Collection of urine'. (Book p740)",
+   "fmt": "recall"
   },
   {
    "id": "MED-C7-009",
-   "sec": "Physical Properties - Appearance",
-   "page": 740,
-   "fmt": "recall",
-   "q": "Pink urine on the appearance table is attributed to:",
-   "opts": [
-    "Nitrofurantoin and desferrioxamine",
-    "Desferrioxamine and beetroot",
-    "Rifampicin and entacapone",
-    "Triamterene and beetroot"
-   ],
-   "ans": 1,
-   "exp": "Pink: Desferrioxamine, beetroot. (Book p740)"
-  },
-  {
-   "id": "MED-C7-010",
-   "sec": "Physical Properties - Appearance",
-   "page": 740,
-   "fmt": "recall",
-   "q": "Urine that darkens on long standing points to which drug combination?",
-   "opts": [
-    "Rifampicin + entacapone",
-    "Nitrofurantoin + triamterene",
-    "Desferrioxamine + cilastatin",
-    "Imipenem + cilastatin"
-   ],
-   "ans": 3,
-   "exp": "Darkening on long standing: Imipenem + cilastatin. (Book p740)"
-  },
-  {
-   "id": "MED-C7-011",
-   "sec": "Physical Properties - Appearance",
-   "page": 740,
-   "fmt": "oddoneout",
-   "q": "Which colour-drug pair is NOT as written in the appearance table?",
-   "opts": [
-    "Nitrofurantoin - brown urine",
-    "Entacapone - orange urine",
-    "Desferrioxamine - green urine",
-    "Triamterene - green urine"
-   ],
-   "ans": 2,
-   "exp": "Desferrioxamine gives pink urine; green is triamterene (ENaC blocker). (Book p740)"
-  },
-  {
-   "id": "MED-C7-012",
-   "sec": "Physical Properties: appearance & odour · p740",
+   "sec": "Physical Properties: appearance · p740",
    "page": 740,
    "fmt": "truefalse",
    "q": "In the appearance table, 'pale/white' urine is paired with increased water intake while 'light yellow' is labelled normal.",
@@ -184,8 +139,38 @@
    "exp": "Rows 1 and 2 of the APPEARANCE table: Light yellow → Normal; Pale/white → ↑ water intake (the photo beside the table is captioned 'Normal urine colour'). (Book p740)"
   },
   {
-   "id": "MED-C7-013",
-   "sec": "Physical Properties: appearance & odour · p740",
+   "id": "MED-C7-010",
+   "sec": "Physical Properties: appearance · p740",
+   "page": 740,
+   "fmt": "recall",
+   "q": "Pink urine on the appearance table is attributed to:",
+   "opts": [
+    "Nitrofurantoin and desferrioxamine",
+    "Desferrioxamine and beetroot",
+    "Rifampicin and entacapone",
+    "Triamterene and beetroot"
+   ],
+   "ans": 1,
+   "exp": "Pink: Desferrioxamine, beetroot. (Book p740)"
+  },
+  {
+   "id": "MED-C7-011",
+   "sec": "Physical Properties: appearance · p740",
+   "page": 740,
+   "fmt": "recall",
+   "q": "Urine that darkens on long standing points to which drug combination?",
+   "opts": [
+    "Rifampicin + entacapone",
+    "Nitrofurantoin + triamterene",
+    "Desferrioxamine + cilastatin",
+    "Imipenem + cilastatin"
+   ],
+   "ans": 3,
+   "exp": "Darkening on long standing: Imipenem + cilastatin. (Book p740)"
+  },
+  {
+   "id": "MED-C7-012",
+   "sec": "Physical Properties: appearance · p740",
    "page": 740,
    "fmt": "fillup",
    "q": "Fill up: Green urine in the appearance table is attributed to triamterene, which the page brackets as a ______ blocker.",
@@ -199,8 +184,23 @@
    "exp": "The row reads 'Green — Triamterene (ENaC blocker)'. (Book p740)"
   },
   {
+   "id": "MED-C7-013",
+   "sec": "Physical Properties: appearance · p740",
+   "page": 740,
+   "q": "Fill up: In the APPEARANCE table, brown urine is attributed to ______.",
+   "opts": [
+    "Nitrofurantoin",
+    "Rifampicin",
+    "Triamterene",
+    "Imipenem + cilastatin"
+   ],
+   "ans": 0,
+   "exp": "Row 6 of the table: Brown — Nitrofurantoin. (Book p740)",
+   "fmt": "fillup"
+  },
+  {
    "id": "MED-C7-014",
-   "sec": "Physical Properties: appearance & odour · p740",
+   "sec": "Physical Properties: appearance · p740",
    "page": 740,
    "fmt": "recall",
    "q": "Orange urine in the table is attributed to rifampicin together with:",
@@ -215,7 +215,7 @@
   },
   {
    "id": "MED-C7-015",
-   "sec": "Physical Properties: appearance & odour · p740",
+   "sec": "Physical Properties: appearance · p740",
    "page": 740,
    "fmt": "scenario",
    "q": "A patient on anti-tuberculosis therapy complains that her urine has turned orange but the dipstick is negative for blood. The table's explanation is:",
@@ -230,7 +230,52 @@
   },
   {
    "id": "MED-C7-016",
-   "sec": "Physical Properties - Odour",
+   "sec": "Physical Properties: appearance · p740",
+   "page": 740,
+   "fmt": "match",
+   "q": "Match each urine colour with its listed cause — 1) Green 2) Brown 3) Orange … A) Nitrofurantoin B) Rifampicin, entacapone C) Triamterene (ENaC blocker)",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Green – triamterene (ENaC blocker); brown – nitrofurantoin; orange – rifampicin, entacapone (COMT inhibitor). (Book p740)"
+  },
+  {
+   "id": "MED-C7-017",
+   "sec": "Physical Properties: appearance · p740",
+   "page": 740,
+   "fmt": "oddoneout",
+   "q": "Which colour-drug pair is NOT as written in the appearance table?",
+   "opts": [
+    "Nitrofurantoin - brown urine",
+    "Entacapone - orange urine",
+    "Desferrioxamine - green urine",
+    "Triamterene - green urine"
+   ],
+   "ans": 2,
+   "exp": "Desferrioxamine gives pink urine; green is triamterene (ENaC blocker). (Book p740)"
+  },
+  {
+   "id": "MED-C7-018",
+   "sec": "Physical Properties: appearance · p740",
+   "page": 740,
+   "q": "The jar photographed beside the appearance table is captioned:",
+   "opts": [
+    "Normal urine colour",
+    "High coloured urine",
+    "Pale/white urine",
+    "Collection of urine"
+   ],
+   "ans": 0,
+   "exp": "The photo of a jar of light-yellow urine to the right of the colour table is captioned 'Normal urine colour'; 'High coloured urine' is the p742 photo. (Book p740)",
+   "fmt": "recall"
+  },
+  {
+   "id": "MED-C7-019",
+   "sec": "Physical Properties: odour · p740-741",
    "page": 740,
    "fmt": "recall",
    "q": "A pungent urine odour, unless proven otherwise, signifies infection because bacteria generate:",
@@ -244,8 +289,8 @@
    "exp": "Pungent: infection (unless proven otherwise) d/t ammonia produced by bacteria. (Book p740)"
   },
   {
-   "id": "MED-C7-017",
-   "sec": "Physical Properties - Odour",
+   "id": "MED-C7-020",
+   "sec": "Physical Properties: odour · p740-741",
    "page": 740,
    "fmt": "match",
    "q": "Match each odour with its condition — 1) Musty/mousy 2) Curry/maple syrup 3) Sweaty feet … A) Maple syrup urine disease (MSUD) B) Isovaleric acidemia, glutaric aciduria type II C) Phenylketonuria",
@@ -259,8 +304,8 @@
    "exp": "Musty/mousy – phenylketonuria; curry/maple syrup – MSUD; sweaty feet – isovaleric acidemia, glutaric aciduria type II. (Book p740)"
   },
   {
-   "id": "MED-C7-018",
-   "sec": "Physical Properties - Odour",
+   "id": "MED-C7-021",
+   "sec": "Physical Properties: odour · p740-741",
    "page": 740,
    "fmt": "scenario",
    "q": "A neonate's urine smells of sweaty feet. The differential given is:",
@@ -274,68 +319,8 @@
    "exp": "Sweaty feet odour: isovaleric acidemia; glutaric aciduria type II. (Book p740)"
   },
   {
-   "id": "MED-C7-019",
-   "sec": "Physical Properties - Odour",
-   "page": 741,
-   "fmt": "match",
-   "q": "Match each odour with its condition — 1) Cabbage-like / rancid butter 2) Cat urine 3) Swimming pool … A) Hawkinsinuria B) Tyrosinemia type 1 C) Multiple carboxylase deficiency (MCD)",
-   "opts": [
-    "1-C, 2-B, 3-A",
-    "1-B, 2-C, 3-A",
-    "1-A, 2-B, 3-C",
-    "1-C, 2-A, 3-B"
-   ],
-   "ans": 1,
-   "exp": "Cabbage-like/rancid butter – tyrosinemia type 1; cat urine – MCD; swimming pool – hawkinsinuria. (Book p741)"
-  },
-  {
-   "id": "MED-C7-020",
-   "sec": "Physical Properties - Odour",
-   "page": 741,
-   "fmt": "match",
-   "q": "Match each odour with its condition — 1) Fish urine 2) Sulfurous 3) Sweet … A) Beta ketothiolase deficiency B) Trimethylaminuria C) Cystinuria",
-   "opts": [
-    "1-C, 2-B, 3-A",
-    "1-B, 2-C, 3-A",
-    "1-A, 2-C, 3-B",
-    "1-C, 2-A, 3-B"
-   ],
-   "ans": 1,
-   "exp": "Fish urine – trimethylaminuria; sulfurous – cystinuria; sweet – beta ketothiolase deficiency. (Book p741)"
-  },
-  {
-   "id": "MED-C7-021",
-   "sec": "Physical Properties - Odour",
-   "page": 741,
-   "fmt": "oddoneout",
-   "q": "All of the following odour-disease pairs are as printed EXCEPT:",
-   "opts": [
-    "Sulfurous - cystinuria",
-    "Sweet - beta ketothiolase deficiency",
-    "Acid smell - cystinuria",
-    "Acid smell - methyl malonic acidemia (MMA)"
-   ],
-   "ans": 2,
-   "exp": "Acid smell belongs to methyl malonic acidemia; cystinuria gives a sulfurous odour. (Book p741)"
-  },
-  {
    "id": "MED-C7-022",
-   "sec": "Physical Properties - Odour",
-   "page": 741,
-   "fmt": "truefalse",
-   "q": "Which odour statement is TRUE as per the table?",
-   "opts": [
-    "Cabbage-like odour marks hawkinsinuria",
-    "Swimming pool odour marks tyrosinemia type 1",
-    "Cat urine odour marks multiple carboxylase deficiency",
-    "Cat urine odour marks trimethylaminuria"
-   ],
-   "ans": 2,
-   "exp": "Cat urine – MCD; cabbage-like/rancid butter – tyrosinemia type 1; swimming pool – hawkinsinuria. (Book p741)"
-  },
-  {
-   "id": "MED-C7-023",
-   "sec": "Physical Properties: odour table · p741",
+   "sec": "Physical Properties: odour · p740-741",
    "page": 741,
    "fmt": "truefalse",
    "q": "The odour table gives cabbage-like and rancid-butter odour as two separate rows sharing a single condition, tyrosinemia type I.",
@@ -349,23 +334,38 @@
    "exp": "The table brackets 'Cabbage-like' and 'Rancid butter' against one entry: Tyrosinemia type I. Swimming pool is hawkinsinuria and fish urine is trimethylaminuria. (Book p741)"
   },
   {
-   "id": "MED-C7-024",
-   "sec": "Physical Properties: odour table · p741",
+   "id": "MED-C7-023",
+   "sec": "Physical Properties: odour · p740-741",
    "page": 741,
-   "fmt": "match",
-   "q": "Match each odour in the second half of the table with its condition — 1) Acid smell 2) Sulfurous 3) Sweet … A) Beta ketothiolase deficiency B) Methyl malonic acidemia (MMA) C) Cystinuria D) Multiple carboxylase deficiency",
+   "fmt": "truefalse",
+   "q": "Which odour statement is TRUE as per the table?",
    "opts": [
-    "1-B, 2-A, 3-D",
-    "1-D, 2-C, 3-B",
-    "1-B, 2-C, 3-A",
-    "1-C, 2-B, 3-A"
+    "Cabbage-like odour marks hawkinsinuria",
+    "Swimming pool odour marks tyrosinemia type 1",
+    "Cat urine odour marks multiple carboxylase deficiency",
+    "Cat urine odour marks trimethylaminuria"
    ],
    "ans": 2,
-   "exp": "As printed: acid smell → methyl malonic acidemia (MMA), sulfurous → cystinuria, sweet → beta ketothiolase deficiency; the cat-urine odour belongs to multiple carboxylase deficiency. (Book p741)"
+   "exp": "Cat urine – MCD; cabbage-like/rancid butter – tyrosinemia type 1; swimming pool – hawkinsinuria. (Book p741)"
+  },
+  {
+   "id": "MED-C7-024",
+   "sec": "Physical Properties: odour · p740-741",
+   "page": 741,
+   "fmt": "oddoneout",
+   "q": "All of the following odour-disease pairs are as printed EXCEPT:",
+   "opts": [
+    "Sulfurous - cystinuria",
+    "Sweet - beta ketothiolase deficiency",
+    "Acid smell - cystinuria",
+    "Acid smell - methyl malonic acidemia (MMA)"
+   ],
+   "ans": 2,
+   "exp": "Acid smell belongs to methyl malonic acidemia; cystinuria gives a sulfurous odour. (Book p741)"
   },
   {
    "id": "MED-C7-025",
-   "sec": "Physical Properties: odour table · p741",
+   "sec": "Physical Properties: odour · p740-741",
    "page": 741,
    "fmt": "scenario",
    "q": "A mother brings an infant whose urine smells of boiled fish; the child is otherwise well and the dipstick is unremarkable. The table directs you to:",
@@ -380,157 +380,52 @@
   },
   {
    "id": "MED-C7-026",
-   "sec": "Other Properties & Urine Regulation",
+   "sec": "Physical Properties: odour · p740-741",
    "page": 741,
    "fmt": "match",
-   "q": "Match each parameter with its normal urine value — 1) pH 2) Specific gravity 3) Osmolality (mOsm/kg) … A) 1.020-1.040 B) 800-900 C) 4-4.5 (acidic)",
+   "q": "Match each odour with its condition — 1) Fish urine 2) Sulfurous 3) Sweet … A) Beta ketothiolase deficiency B) Trimethylaminuria C) Cystinuria",
    "opts": [
     "1-C, 2-B, 3-A",
-    "1-C, 2-A, 3-B",
-    "1-A, 2-B, 3-C",
-    "1-B, 2-A, 3-C"
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B"
    ],
    "ans": 1,
-   "exp": "Urine pH 4-4.5 (acidic); specific gravity 1.020-1.040; osmolality 800-900 mOsm/kg. (Book p741)"
+   "exp": "Fish urine – trimethylaminuria; sulfurous – cystinuria; sweet – beta ketothiolase deficiency. (Book p741)"
   },
   {
    "id": "MED-C7-027",
-   "sec": "Other Properties & Urine Regulation",
+   "sec": "Physical Properties: odour · p740-741",
    "page": 741,
-   "fmt": "numeric",
-   "q": "The normal blood osmolality quoted beside the urine column is:",
+   "fmt": "match",
+   "q": "Match each odour in the second half of the table with its condition — 1) Acid smell 2) Sulfurous 3) Sweet … A) Beta ketothiolase deficiency B) Methyl malonic acidemia (MMA) C) Cystinuria D) Multiple carboxylase deficiency",
    "opts": [
-    "800-900 mOsm/kg",
-    "300-310 mOsm/kg",
-    "250-260 mOsm/kg",
-    "285-290 mOsm/kg"
+    "1-B, 2-A, 3-D",
+    "1-D, 2-C, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
    ],
-   "ans": 3,
-   "exp": "Blood osmolality 285-290 mOsm/kg against urine 800-900 mOsm/kg. (Book p741)"
+   "ans": 2,
+   "exp": "As printed: acid smell → methyl malonic acidemia (MMA), sulfurous → cystinuria, sweet → beta ketothiolase deficiency; the cat-urine odour belongs to multiple carboxylase deficiency. (Book p741)"
   },
   {
    "id": "MED-C7-028",
-   "sec": "Other Properties & Urine Regulation",
+   "sec": "Physical Properties: odour · p740-741",
    "page": 741,
-   "fmt": "recall",
-   "q": "In the acidification diagram, the cell and luminal pump responsible are:",
+   "fmt": "match",
+   "q": "Match each odour with its condition — 1) Cabbage-like / rancid butter 2) Cat urine 3) Swimming pool … A) Hawkinsinuria B) Tyrosinemia type 1 C) Multiple carboxylase deficiency (MCD)",
    "opts": [
-    "Alpha-intercalated cells of the cortical collecting duct with H+ ATPase",
-    "Principal cells of the cortical collecting duct with Na-K ATPase",
-    "Beta-intercalated cells of the proximal tubule with H+ ATPase",
-    "Podocytes of the glomerulus with aquaporin-2"
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B"
    ],
-   "ans": 0,
-   "exp": "Alpha-intercalated cells of cortical collecting duct (CCD) secrete H+ via the luminal H+ ATPase. (Book p741)"
+   "ans": 1,
+   "exp": "Cabbage-like/rancid butter – tyrosinemia type 1; cat urine – MCD; swimming pool – hawkinsinuria. (Book p741)"
   },
   {
    "id": "MED-C7-029",
-   "sec": "Other Properties & Urine Regulation",
-   "page": 741,
-   "fmt": "fillup",
-   "q": "Fill up: Secreted H+ buffered by NH3 forms the non-titratable, major acid ______.",
-   "opts": [
-    "HPO4 2-",
-    "H2CO3",
-    "NH4+",
-    "H2PO4-"
-   ],
-   "ans": 2,
-   "exp": "NH3 + H+ → NH4+ : non titratable, major acid. (Book p741)"
-  },
-  {
-   "id": "MED-C7-030",
-   "sec": "Other Properties & Urine Regulation",
-   "page": 741,
-   "fmt": "fillup",
-   "q": "Fill up: Buffering of secreted H+ by HPO4 2- yields the titratable acid ______.",
-   "opts": [
-    "H2PO4-",
-    "NH4+",
-    "NH3",
-    "HCO3-"
-   ],
-   "ans": 0,
-   "exp": "HPO4 2- + H+ → H2PO4- : titratable acid. (Book p741)"
-  },
-  {
-   "id": "MED-C7-031",
-   "sec": "Other Properties & Urine Regulation",
-   "page": 741,
-   "fmt": "recall",
-   "q": "Urinary concentration rests on ADH from the posterior pituitary, the vasa recta and a medullary interstitium whose osmolality is raised by:",
-   "opts": [
-    "Sodium alone",
-    "Creatinine",
-    "Urea",
-    "Glucose"
-   ],
-   "ans": 2,
-   "exp": "Medullary interstitium: ↑ osmolality d/t urea; ADH → free water reabsorption; vasa recta. (Book p741)"
-  },
-  {
-   "id": "MED-C7-032",
-   "sec": "Other Properties & Urine Regulation",
-   "page": 741,
-   "fmt": "scenario",
-   "q": "A patient's urine pH stays above 5.5 for 3 days while the RFT remains normal. The label for this picture is:",
-   "opts": [
-    "Diabetes insipidus",
-    "Acute tubular necrosis",
-    "Type-2 renal tubular acidosis",
-    "Type-1 renal tubular acidosis"
-   ],
-   "ans": 3,
-   "exp": "Urine pH > 5.5 for 3 days + normal RFT → Type-1 renal tubular acidosis (RTA). (Book p741)"
-  },
-  {
-   "id": "MED-C7-033",
-   "sec": "Other Properties & Urine Regulation",
-   "page": 741,
-   "fmt": "numeric",
-   "q": "Diabetes insipidus (dilute urine) is flagged when specific gravity and osmolality fall below:",
-   "opts": [
-    "1.005 and 300 mOsm/kg",
-    "1.010 and 500 mOsm/kg",
-    "1.003 and 200 mOsm/kg",
-    "1.015 and 400 mOsm/kg"
-   ],
-   "ans": 0,
-   "exp": "Urine specific gravity < 1.005 and urine osmolality < 300 mOsm/kg → diabetes insipidus (↑ dilute urine). (Book p741)"
-  },
-  {
-   "id": "MED-C7-034",
-   "sec": "Other Properties & Urine Regulation",
-   "page": 741,
-   "fmt": "recall",
-   "q": "Isosthenuria, defined as urinary parameters equal to blood parameters, points to:",
-   "opts": [
-    "Prerenal azotemia and bladder outlet obstruction",
-    "Acute tubular necrosis and chronic tubulo-interstitial disease",
-    "Diabetes insipidus and type-1 RTA",
-    "Post-streptococcal GN and IgA nephropathy"
-   ],
-   "ans": 1,
-   "exp": "Isosthenuria (urinary parameters = blood parameters): ATN; chronic tubulo-interstitial disease (CTID). (Book p741)"
-  },
-  {
-   "id": "MED-C7-035",
-   "sec": "Other properties & urine regulation · p741",
-   "page": 741,
-   "fmt": "numeric",
-   "q": "In the 'Other Properties' table, the specific gravity printed for BLOOD is:",
-   "opts": [
-    "1.030",
-    "1.010",
-    "1.005",
-    "1.020"
-   ],
-   "ans": 1,
-   "exp": "The table pairs urine 1.020–1.040 with blood 1.010; 1.005 is the diabetes-insipidus cut-off in the abnormal-values table below. (Book p741)"
-  },
-  {
-   "id": "MED-C7-036",
-   "sec": "Other properties & urine regulation · p741",
+   "sec": "Other properties & clinical significance · p741",
    "page": 741,
    "fmt": "fillup",
    "q": "Fill up: The normal urine pH printed in this table is ______, described as acidic.",
@@ -544,8 +439,68 @@
    "exp": "Row 1: pH — urine 4–4.5 (Acidic) against blood 7.35–7.40. (Book p741)"
   },
   {
-   "id": "MED-C7-037",
-   "sec": "Other properties & urine regulation · p741",
+   "id": "MED-C7-030",
+   "sec": "Other properties & clinical significance · p741",
+   "page": 741,
+   "fmt": "numeric",
+   "q": "In the 'Other Properties' table, the specific gravity printed for BLOOD is:",
+   "opts": [
+    "1.030",
+    "1.010",
+    "1.005",
+    "1.020"
+   ],
+   "ans": 1,
+   "exp": "The table pairs urine 1.020–1.040 with blood 1.010; 1.005 is the diabetes-insipidus cut-off in the abnormal-values table below. (Book p741)"
+  },
+  {
+   "id": "MED-C7-031",
+   "sec": "Other properties & clinical significance · p741",
+   "page": 741,
+   "fmt": "numeric",
+   "q": "The normal blood osmolality quoted beside the urine column is:",
+   "opts": [
+    "800-900 mOsm/kg",
+    "300-310 mOsm/kg",
+    "250-260 mOsm/kg",
+    "285-290 mOsm/kg"
+   ],
+   "ans": 3,
+   "exp": "Blood osmolality 285-290 mOsm/kg against urine 800-900 mOsm/kg. (Book p741)"
+  },
+  {
+   "id": "MED-C7-032",
+   "sec": "Other properties & clinical significance · p741",
+   "page": 741,
+   "fmt": "match",
+   "q": "Match each parameter with its normal urine value — 1) pH 2) Specific gravity 3) Osmolality (mOsm/kg) … A) 1.020-1.040 B) 800-900 C) 4-4.5 (acidic)",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 1,
+   "exp": "Urine pH 4-4.5 (acidic); specific gravity 1.020-1.040; osmolality 800-900 mOsm/kg. (Book p741)"
+  },
+  {
+   "id": "MED-C7-033",
+   "sec": "Other properties & clinical significance · p741",
+   "page": 741,
+   "fmt": "recall",
+   "q": "In the acidification diagram, the cell and luminal pump responsible are:",
+   "opts": [
+    "Alpha-intercalated cells of the cortical collecting duct with H+ ATPase",
+    "Principal cells of the cortical collecting duct with Na-K ATPase",
+    "Beta-intercalated cells of the proximal tubule with H+ ATPase",
+    "Podocytes of the glomerulus with aquaporin-2"
+   ],
+   "ans": 0,
+   "exp": "Alpha-intercalated cells of cortical collecting duct (CCD) secrete H+ via the luminal H+ ATPase. (Book p741)"
+  },
+  {
+   "id": "MED-C7-034",
+   "sec": "Other properties & clinical significance · p741",
    "page": 741,
    "fmt": "truefalse",
    "q": "In the acidification diagram, K+ is drawn entering the α-intercalated cell at the luminal membrane while H+ leaves through the H+ ATPase.",
@@ -559,8 +514,53 @@
    "exp": "The figure labels the luminal membrane H+ ATPase with H+ exiting, a second ATPase with K+ entering, and the boxed cell as the α-intercalated cell of the cortical collecting duct (CCD). (Book p741)"
   },
   {
+   "id": "MED-C7-035",
+   "sec": "Other properties & clinical significance · p741",
+   "page": 741,
+   "fmt": "fillup",
+   "q": "Fill up: Secreted H+ buffered by NH3 forms the non-titratable, major acid ______.",
+   "opts": [
+    "HPO4 2-",
+    "H2CO3",
+    "NH4+",
+    "H2PO4-"
+   ],
+   "ans": 2,
+   "exp": "NH3 + H+ → NH4+ : non titratable, major acid. (Book p741)"
+  },
+  {
+   "id": "MED-C7-036",
+   "sec": "Other properties & clinical significance · p741",
+   "page": 741,
+   "fmt": "fillup",
+   "q": "Fill up: Buffering of secreted H+ by HPO4 2- yields the titratable acid ______.",
+   "opts": [
+    "H2PO4-",
+    "NH4+",
+    "NH3",
+    "HCO3-"
+   ],
+   "ans": 0,
+   "exp": "HPO4 2- + H+ → H2PO4- : titratable acid. (Book p741)"
+  },
+  {
+   "id": "MED-C7-037",
+   "sec": "Other properties & clinical significance · p741",
+   "page": 741,
+   "fmt": "recall",
+   "q": "Urinary concentration rests on ADH from the posterior pituitary, the vasa recta and a medullary interstitium whose osmolality is raised by:",
+   "opts": [
+    "Sodium alone",
+    "Creatinine",
+    "Urea",
+    "Glucose"
+   ],
+   "ans": 2,
+   "exp": "Medullary interstitium: ↑ osmolality d/t urea; ADH → free water reabsorption; vasa recta. (Book p741)"
+  },
+  {
    "id": "MED-C7-038",
-   "sec": "Other properties & urine regulation · p741",
+   "sec": "Other properties & clinical significance · p741",
    "page": 741,
    "fmt": "oddoneout",
    "q": "Urinary concentration on this page is credited to all of the following EXCEPT:",
@@ -575,22 +575,67 @@
   },
   {
    "id": "MED-C7-039",
-   "sec": "Other properties & urine regulation · p741",
+   "sec": "Other properties & clinical significance · p741",
    "page": 741,
    "fmt": "scenario",
-   "q": "A patient with 4 L/day of dilute urine has urine osmolality 250 mOsm/kg and specific gravity 1.003, with a normal serum creatinine. Which row of the abnormal-values table does this match?",
+   "q": "A patient's urine pH stays above 5.5 for 3 days while the RFT remains normal. The label for this picture is:",
+   "opts": [
+    "Diabetes insipidus",
+    "Acute tubular necrosis",
+    "Type-2 renal tubular acidosis",
+    "Type-1 renal tubular acidosis"
+   ],
+   "ans": 3,
+   "exp": "Urine pH > 5.5 for 3 days + normal RFT → Type-1 renal tubular acidosis (RTA). (Book p741)"
+  },
+  {
+   "id": "MED-C7-040",
+   "sec": "Other properties & clinical significance · p741",
+   "page": 741,
+   "fmt": "numeric",
+   "q": "Diabetes insipidus (↑ dilute urine) is flagged in the abnormal-values table when urine specific gravity and urine osmolality fall below:",
+   "opts": [
+    "1.005 and 200 mOsm/kg",
+    "1.010 and 500 mOsm/kg",
+    "1.003 and 300 mOsm/kg",
+    "1.015 and 400 mOsm/kg"
+   ],
+   "ans": 0,
+   "exp": "Rows 2-3 read: urine specific gravity < 1.005; urine osmolality < 200 mOsm/kg → Diabetes insipidus (↑ dilute urine). The earlier bank printed 300; the scan shows 200. (Book p741)"
+  },
+  {
+   "id": "MED-C7-041",
+   "sec": "Other properties & clinical significance · p741",
+   "page": 741,
+   "fmt": "scenario",
+   "q": "A patient with 4 L/day of dilute urine has urine osmolality 150 mOsm/kg and specific gravity 1.003, with a normal serum creatinine. Which row of the abnormal-values table does this match?",
    "opts": [
     "Normal concentration, since both values are simply dilute",
-    "Diabetes insipidus — specific gravity <1.005 and osmolality <300 mOsm/kg",
+    "Diabetes insipidus — specific gravity <1.005 and osmolality <200 mOsm/kg",
     "Isosthenuria — urinary parameters equal to blood parameters",
     "Type-1 RTA — urine pH above 5.5 for 3 days"
    ],
    "ans": 1,
-   "exp": "The table flags diabetes insipidus (↑ dilute urine) when urine specific gravity falls below 1.005 and osmolality below 300 mOsm/kg; isosthenuria instead equals blood parameters and points to ATN/CTID. (Book p741)"
+   "exp": "The table flags diabetes insipidus (↑ dilute urine) when urine specific gravity falls below 1.005 and osmolality below 200 mOsm/kg; isosthenuria instead equals blood parameters and points to ATN/CTID. (Book p741)"
   },
   {
-   "id": "MED-C7-040",
-   "sec": "High Colored Urine",
+   "id": "MED-C7-042",
+   "sec": "Other properties & clinical significance · p741",
+   "page": 741,
+   "fmt": "recall",
+   "q": "Isosthenuria, defined as urinary parameters equal to blood parameters, points to:",
+   "opts": [
+    "Prerenal azotemia and bladder outlet obstruction",
+    "Acute tubular necrosis and chronic tubulo-interstitial disease",
+    "Diabetes insipidus and type-1 RTA",
+    "Post-streptococcal GN and IgA nephropathy"
+   ],
+   "ans": 1,
+   "exp": "Isosthenuria (urinary parameters = blood parameters): ATN; chronic tubulo-interstitial disease (CTID). (Book p741)"
+  },
+  {
+   "id": "MED-C7-043",
+   "sec": "High Colored Urine · p742",
    "page": 742,
    "fmt": "recall",
    "q": "High colored urine may present as:",
@@ -604,278 +649,8 @@
    "exp": "High colored urine can be hematuria, red, pink, tea, cola colored urine. (Book p742)"
   },
   {
-   "id": "MED-C7-041",
-   "sec": "High Colored Urine",
-   "page": 742,
-   "fmt": "numeric",
-   "q": "The cause-wise split of high colored urine is urological, nephrological and hematological at:",
-   "opts": [
-    "95%, 4% and 1%",
-    "90%, 9% and 1%",
-    "80%, 15% and 5%",
-    "70%, 25% and 5%"
-   ],
-   "ans": 1,
-   "exp": "Urological (90%), nephrological (9%), hematological (1%). (Book p742)"
-  },
-  {
-   "id": "MED-C7-042",
-   "sec": "High Colored Urine",
-   "page": 742,
-   "fmt": "recall",
-   "q": "The commonest urological cause highlighted for high colored urine is:",
-   "opts": [
-    "Carcinoma bladder",
-    "Renal cell carcinoma",
-    "Ureteric stone",
-    "Benign prostatic hyperplasia"
-   ],
-   "ans": 0,
-   "exp": "Urological (90%): carcinoma bladder (m/c). (Book p742)"
-  },
-  {
-   "id": "MED-C7-043",
-   "sec": "High Colored Urine",
-   "page": 742,
-   "fmt": "recall",
-   "q": "The hematological (1%) category of high colored urine corresponds to:",
-   "opts": [
-    "Thrombocytopenic bleeding",
-    "Intravascular hemolysis",
-    "Extravascular hemolysis",
-    "Iron deficiency anemia"
-   ],
-   "ans": 1,
-   "exp": "Hematological (1%): intravascular hemolysis. (Book p742)"
-  },
-  {
    "id": "MED-C7-044",
-   "sec": "High Colored Urine",
-   "page": 742,
-   "fmt": "recall",
-   "q": "A red-tinged urine with a negative dipstick for blood should raise suspicion of:",
-   "opts": [
-    "Glomerular hematuria",
-    "Rhabdomyolysis",
-    "Porphyria or high beetroot intake",
-    "Carcinoma bladder"
-   ],
-   "ans": 2,
-   "exp": "Dipstick negative: porphyria; ↑ beetroot intake. (Book p742)"
-  },
-  {
-   "id": "MED-C7-045",
-   "sec": "High Colored Urine",
-   "page": 742,
-   "fmt": "numeric",
-   "q": "The centrifugation step of the high-colored-urine approach uses:",
-   "opts": [
-    "1600 rpm for 5 minutes",
-    "3000 rpm for 10 minutes",
-    "800 rpm for 2 minutes",
-    "5000 rpm for 15 minutes"
-   ],
-   "ans": 0,
-   "exp": "Centrifugation of urine at 1600 rpm × 5 minutes. (Book p742)"
-  },
-  {
-   "id": "MED-C7-046",
-   "sec": "High Colored Urine",
-   "page": 742,
-   "fmt": "recall",
-   "q": "After centrifugation, a clear supernatant tells us that the colour came from:",
-   "opts": [
-    "Urate crystals",
-    "RBCs that settle down",
-    "Free myoglobin",
-    "Free hemoglobin"
-   ],
-   "ans": 1,
-   "exp": "Clear supernatant → RBC (settles down); high colored supernatant → pigments. (Book p742)"
-  },
-  {
-   "id": "MED-C7-047",
-   "sec": "High Colored Urine - Approach",
-   "page": 742,
-   "fmt": "oddoneout",
-   "q": "All of the following define glomerular hematuria in the flowchart EXCEPT:",
-   "opts": [
-    "≥ 5 % acanthocytes",
-    "Single RBC cast with proteinuria",
-    "≥ 40 % isomorphic RBCs",
-    "≥ 40 % dysmorphic RBCs"
-   ],
-   "ans": 2,
-   "exp": "Glomerular hematuria: ≥ 40% dysmorphic RBCs / ≥ 5% acanthocytes / single RBC cast + proteinuria. (Book p742)"
-  },
-  {
-   "id": "MED-C7-048",
-   "sec": "High Colored Urine - Approach",
-   "page": 742,
-   "fmt": "fillup",
-   "q": "Fill up: Glomerular hematuria criteria include ≥ 40 % dysmorphic RBCs or ≥ ______ % acanthocytes or a single RBC cast with proteinuria.",
-   "opts": [
-    "10",
-    "20",
-    "40",
-    "5"
-   ],
-   "ans": 3,
-   "exp": "≥ 40% dysmorphic RBCs / ≥ 5% acanthocytes / single RBC cast + proteinuria. (Book p742)"
-  },
-  {
-   "id": "MED-C7-049",
-   "sec": "High Colored Urine - Approach",
-   "page": 742,
-   "fmt": "management",
-   "q": "Once glomerular hematuria is established, the next step in the flowchart is biopsy, which typically reveals:",
-   "opts": [
-    "Minimal change disease",
-    "Membranous nephropathy",
-    "Focal segmental glomerulosclerosis",
-    "Mesangial disease (IgA nephropathy)"
-   ],
-   "ans": 3,
-   "exp": "Biopsy → mesangial disease (IgA nephropathy). (Book p742)"
-  },
-  {
-   "id": "MED-C7-050",
-   "sec": "High Colored Urine - Approach",
-   "page": 742,
-   "fmt": "recall",
-   "q": "The mechanism written for hematuria in IgA nephropathy is:",
-   "opts": [
-    "Podocyte effacement → slit diaphragm loss",
-    "Crescent formation → Bowman's capsule rupture",
-    "Mesangial proliferation + matrix expansion → capillary rupture",
-    "Subepithelial spikes → basement membrane tear"
-   ],
-   "ans": 2,
-   "exp": "Mesangial proliferation + matrix expansion → capillary rupture. (Book p742)"
-  },
-  {
-   "id": "MED-C7-051",
-   "sec": "High Colored Urine - Approach",
-   "page": 742,
-   "fmt": "management",
-   "q": "When the settled RBCs point to a urological cause, the appropriate next step is:",
-   "opts": [
-    "Repeat dipstick after 6 hours",
-    "Radiological investigation with USG abdomen and CT",
-    "Renal biopsy",
-    "Cystoscopy with biopsy as first step"
-   ],
-   "ans": 1,
-   "exp": "Urological cause → radiological Ix (USG abdomen, CT). (Book p742)"
-  },
-  {
-   "id": "MED-C7-052",
-   "sec": "High Colored Urine - Approach",
-   "page": 742,
-   "fmt": "numeric",
-   "q": "A still high-colored supernatant is left undisturbed for how long before judging the colour?",
-   "opts": [
-    "2-3 days",
-    "3-6 hours",
-    "30-60 minutes",
-    "12-24 hours"
-   ],
-   "ans": 1,
-   "exp": "Sample undisturbed for 3-6 hours, then observe whether the colour fades or persists. (Book p742)"
-  },
-  {
-   "id": "MED-C7-053",
-   "sec": "High Colored Urine - Approach",
-   "page": 742,
-   "fmt": "scenario",
-   "q": "A crushed-limb injury patient passes dark urine; the supernatant colour fades over a few hours. The pigment and its source are:",
-   "opts": [
-    "Hemoglobin (long half-life) from hemolysis",
-    "Myoglobin (long half-life) from hemolysis",
-    "Hemoglobin (short half-life) from rhabdomyolysis",
-    "Myoglobin (short half-life) from rhabdomyolysis"
-   ],
-   "ans": 3,
-   "exp": "Colour fades → myoglobin (short t½): rhabdomyolysis. (Book p742)"
-  },
-  {
-   "id": "MED-C7-054",
-   "sec": "High Colored Urine - Approach",
-   "page": 742,
-   "fmt": "truefalse",
-   "q": "Which statement about the standing-supernatant test is TRUE?",
-   "opts": [
-    "A fading colour implies hemoglobin from hemolysis",
-    "The test distinguishes porphyria from beetroot intake",
-    "A persistent colour implies hemoglobin with a long half-life from hemolysis",
-    "A persistent colour implies myoglobin from rhabdomyolysis"
-   ],
-   "ans": 2,
-   "exp": "Persistent colour → hemoglobin (long t½): hemolysis; fading → myoglobin (short t½). (Book p742)"
-  },
-  {
-   "id": "MED-C7-055",
-   "sec": "High Colored Urine — approach flowchart · p742",
-   "page": 742,
-   "fmt": "recall",
-   "q": "In the printed approach, which action carries the number 3?",
-   "opts": [
-    "Leaving the sample undisturbed",
-    "Biopsy",
-    "Centrifugation of urine",
-    "Dipstick test"
-   ],
-   "ans": 1,
-   "exp": "The flowchart is numbered 1. Dipstick test, 2. Centrifugation of urine (1600 rpm × 5 minutes), 3. Biopsy, 4. Sample undisturbed for 3–6 hours — the fourth step sits on the right-hand, high-coloured branch. (Book p742)"
-  },
-  {
-   "id": "MED-C7-056",
-   "sec": "High Colored Urine — approach flowchart · p742",
-   "page": 742,
-   "fmt": "truefalse",
-   "q": "Of the three branches under 'Causes', the nephrological (9%) branch is the only one left without a named disease on this page.",
-   "opts": [
-    "False — nephrological names glomerulonephritis in brackets",
-    "False — the hematological branch also lacks an example",
-    "True — and the nephrological share is printed as 1%",
-    "True — urological names carcinoma bladder and hematological names intravascular hemolysis"
-   ],
-   "ans": 3,
-   "exp": "Causes: urological (90%) — carcinoma bladder (m/c); Nephrological (9%) with nothing printed under it; Hematological (1%) — intravascular hemolysis. (Book p742)"
-  },
-  {
-   "id": "MED-C7-057",
-   "sec": "High Colored Urine — approach flowchart · p742",
-   "page": 742,
-   "fmt": "fillup",
-   "q": "Fill up: The glomerular-hematuria box requires ≥40% dysmorphic RBCs, ≥5% acanthocytes, or a ______ RBC cast with proteinuria.",
-   "opts": [
-    "Single",
-    "Granular",
-    "Fatty",
-    "Broad"
-   ],
-   "ans": 0,
-   "exp": "Printed criteria: ≥40 % dysmorphic RBCs / ≥5 % acanthocytes / single RBC cast + proteinuria → 3. Biopsy. (Book p742)"
-  },
-  {
-   "id": "MED-C7-058",
-   "sec": "High Colored Urine — approach flowchart · p742",
-   "page": 742,
-   "fmt": "scenario",
-   "q": "Tea-coloured urine shows blood on dipstick; after centrifugation the supernatant is clear, but microscopy reports 25% dysmorphic RBCs, no casts and no proteinuria. Following the flowchart, the next step is:",
-   "opts": [
-    "Leave the sample undisturbed for 3–6 hours and re-examine the colour",
-    "Measure serum complement, because the picture fits nephrological disease",
-    "Treat it as a urological cause and send radiological investigation — USG abdomen and CT",
-    "Proceed to biopsy, since any dysmorphic cells make it glomerular"
-   ],
-   "ans": 2,
-   "exp": "The glomerular criteria need ≥40% dysmorphic cells, ≥5% acanthocytes, or a single RBC cast plus proteinuria; none is met, so the left branch runs to 'urological cause → radiological Ix (USG abdomen, CT)'. (Book p742)"
-  },
-  {
-   "id": "MED-C7-059",
-   "sec": "High Colored Urine — approach flowchart · p742",
+   "sec": "High Colored Urine · p742",
    "page": 742,
    "fmt": "oddoneout",
    "q": "The opening line lists all of these presentations of high-coloured urine EXCEPT:",
@@ -889,128 +664,308 @@
    "exp": "'Can be hematuria, red, pink, tea, cola colored urine' — a milky white urine belongs to the pale/white row of the appearance table on p740, not to this line. (Book p742)"
   },
   {
-   "id": "MED-C7-060",
-   "sec": "RBC Morphology & Dipstick Parameters",
-   "page": 743,
-   "fmt": "match",
-   "q": "Match each urinary RBC description with its label — 1) Crenated, isomorphic cells 2) Dysmorphic cells 3) Acanthocytes … A) \"Mickey mouse\" RBCs B) Urological category C) Nephrological category",
+   "id": "MED-C7-045",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "q": "The photograph of a dark-brown specimen jar at the top right of this page is captioned:",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-A, 2-B, 3-C",
-    "1-A, 2-C, 3-B",
-    "1-C, 2-B, 3-A"
+    "High coloured urine",
+    "Cola coloured urine",
+    "Normal urine colour",
+    "Hematuria"
    ],
    "ans": 0,
-   "exp": "Urological: crenated, isomorphic; nephrological: dysmorphic; acanthocytes = Mickey mouse RBCs. (Book p743)"
+   "exp": "Caption under the jar photo: 'High coloured urine'. (Book p742)",
+   "fmt": "recall"
+  },
+  {
+   "id": "MED-C7-046",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "fmt": "numeric",
+   "q": "The cause-wise split of high colored urine is urological, nephrological and hematological at:",
+   "opts": [
+    "95%, 4% and 1%",
+    "90%, 9% and 1%",
+    "80%, 15% and 5%",
+    "70%, 25% and 5%"
+   ],
+   "ans": 1,
+   "exp": "Urological (90%), nephrological (9%), hematological (1%). (Book p742)"
+  },
+  {
+   "id": "MED-C7-047",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "fmt": "recall",
+   "q": "The commonest urological cause highlighted for high colored urine is:",
+   "opts": [
+    "Carcinoma bladder",
+    "Renal cell carcinoma",
+    "Ureteric stone",
+    "Benign prostatic hyperplasia"
+   ],
+   "ans": 0,
+   "exp": "Urological (90%): carcinoma bladder (m/c). (Book p742)"
+  },
+  {
+   "id": "MED-C7-048",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "fmt": "recall",
+   "q": "The hematological (1%) category of high colored urine corresponds to:",
+   "opts": [
+    "Thrombocytopenic bleeding",
+    "Intravascular hemolysis",
+    "Extravascular hemolysis",
+    "Iron deficiency anemia"
+   ],
+   "ans": 1,
+   "exp": "Hematological (1%): intravascular hemolysis. (Book p742)"
+  },
+  {
+   "id": "MED-C7-049",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "fmt": "truefalse",
+   "q": "Of the three branches under 'Causes', the nephrological (9%) branch is the only one left without a named disease on this page.",
+   "opts": [
+    "False — nephrological names glomerulonephritis in brackets",
+    "False — the hematological branch also lacks an example",
+    "True — and the nephrological share is printed as 1%",
+    "True — urological names carcinoma bladder and hematological names intravascular hemolysis"
+   ],
+   "ans": 3,
+   "exp": "Causes: urological (90%) — carcinoma bladder (m/c); Nephrological (9%) with nothing printed under it; Hematological (1%) — intravascular hemolysis. (Book p742)"
+  },
+  {
+   "id": "MED-C7-050",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "q": "Fill up: In the approach, a positive dipstick test is followed by the box '______ in urine'.",
+   "opts": [
+    "Blood",
+    "Myoglobin",
+    "Porphyrin",
+    "Protein"
+   ],
+   "ans": 0,
+   "exp": "1. Dipstick test → Positive → 'Blood in urine' → 2. Centrifugation; the Negative branch lists porphyria and ↑ beetroot intake. (Book p742)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "MED-C7-051",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "fmt": "recall",
+   "q": "A red-tinged urine with a negative dipstick for blood should raise suspicion of:",
+   "opts": [
+    "Glomerular hematuria",
+    "Rhabdomyolysis",
+    "Porphyria or high beetroot intake",
+    "Carcinoma bladder"
+   ],
+   "ans": 2,
+   "exp": "Dipstick negative: porphyria; ↑ beetroot intake. (Book p742)"
+  },
+  {
+   "id": "MED-C7-052",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "fmt": "numeric",
+   "q": "The centrifugation step of the high-colored-urine approach uses:",
+   "opts": [
+    "1600 rpm for 5 minutes",
+    "3000 rpm for 10 minutes",
+    "800 rpm for 2 minutes",
+    "5000 rpm for 15 minutes"
+   ],
+   "ans": 0,
+   "exp": "Centrifugation of urine at 1600 rpm × 5 minutes. (Book p742)"
+  },
+  {
+   "id": "MED-C7-053",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "fmt": "recall",
+   "q": "After centrifugation, a clear supernatant tells us that the colour came from:",
+   "opts": [
+    "Urate crystals",
+    "RBCs that settle down",
+    "Free myoglobin",
+    "Free hemoglobin"
+   ],
+   "ans": 1,
+   "exp": "Clear supernatant → RBC (settles down); high colored supernatant → pigments. (Book p742)"
+  },
+  {
+   "id": "MED-C7-054",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "fmt": "oddoneout",
+   "q": "All of the following define glomerular hematuria in the flowchart EXCEPT:",
+   "opts": [
+    "≥ 5 % acanthocytes",
+    "Single RBC cast with proteinuria",
+    "≥ 40 % isomorphic RBCs",
+    "≥ 40 % dysmorphic RBCs"
+   ],
+   "ans": 2,
+   "exp": "Glomerular hematuria: ≥ 40% dysmorphic RBCs / ≥ 5% acanthocytes / single RBC cast + proteinuria. (Book p742)"
+  },
+  {
+   "id": "MED-C7-055",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "fmt": "fillup",
+   "q": "Fill up: Glomerular hematuria criteria include ≥ 40 % dysmorphic RBCs or ≥ ______ % acanthocytes or a single RBC cast with proteinuria.",
+   "opts": [
+    "10",
+    "20",
+    "40",
+    "5"
+   ],
+   "ans": 3,
+   "exp": "≥ 40% dysmorphic RBCs / ≥ 5% acanthocytes / single RBC cast + proteinuria. (Book p742)"
+  },
+  {
+   "id": "MED-C7-056",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "fmt": "fillup",
+   "q": "Fill up: The glomerular-hematuria box requires ≥40% dysmorphic RBCs, ≥5% acanthocytes, or a ______ RBC cast with proteinuria.",
+   "opts": [
+    "Single",
+    "Granular",
+    "Fatty",
+    "Broad"
+   ],
+   "ans": 0,
+   "exp": "Printed criteria: ≥40 % dysmorphic RBCs / ≥5 % acanthocytes / single RBC cast + proteinuria → 3. Biopsy. (Book p742)"
+  },
+  {
+   "id": "MED-C7-057",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "fmt": "management",
+   "q": "Once glomerular hematuria is established, the next step in the flowchart is biopsy, which typically reveals:",
+   "opts": [
+    "Minimal change disease",
+    "Membranous nephropathy",
+    "Focal segmental glomerulosclerosis",
+    "Mesangial disease (IgA nephropathy)"
+   ],
+   "ans": 3,
+   "exp": "Biopsy → mesangial disease (IgA nephropathy). (Book p742)"
+  },
+  {
+   "id": "MED-C7-058",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "fmt": "recall",
+   "q": "The mechanism written for hematuria in IgA nephropathy is:",
+   "opts": [
+    "Podocyte effacement → slit diaphragm loss",
+    "Crescent formation → Bowman's capsule rupture",
+    "Mesangial proliferation + matrix expansion → capillary rupture",
+    "Subepithelial spikes → basement membrane tear"
+   ],
+   "ans": 2,
+   "exp": "Mesangial proliferation + matrix expansion → capillary rupture. (Book p742)"
+  },
+  {
+   "id": "MED-C7-059",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "fmt": "management",
+   "q": "When the settled RBCs point to a urological cause, the appropriate next step is:",
+   "opts": [
+    "Repeat dipstick after 6 hours",
+    "Radiological investigation with USG abdomen and CT",
+    "Renal biopsy",
+    "Cystoscopy with biopsy as first step"
+   ],
+   "ans": 1,
+   "exp": "Urological cause → radiological Ix (USG abdomen, CT). (Book p742)"
+  },
+  {
+   "id": "MED-C7-060",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "fmt": "scenario",
+   "q": "Tea-coloured urine shows blood on dipstick; after centrifugation the supernatant is clear, but microscopy reports 25% dysmorphic RBCs, no casts and no proteinuria. Following the flowchart, the next step is:",
+   "opts": [
+    "Leave the sample undisturbed for 3–6 hours and re-examine the colour",
+    "Measure serum complement, because the picture fits nephrological disease",
+    "Treat it as a urological cause and send radiological investigation — USG abdomen and CT",
+    "Proceed to biopsy, since any dysmorphic cells make it glomerular"
+   ],
+   "ans": 2,
+   "exp": "The glomerular criteria need ≥40% dysmorphic cells, ≥5% acanthocytes, or a single RBC cast plus proteinuria; none is met, so the left branch runs to 'urological cause → radiological Ix (USG abdomen, CT)'. (Book p742)"
   },
   {
    "id": "MED-C7-061",
-   "sec": "RBC Morphology & Dipstick Parameters",
-   "page": 743,
-   "fmt": "recall",
-   "q": "The nephrological RBCs nicknamed after a famous cartoon mouse are:",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "fmt": "numeric",
+   "q": "A still high-colored supernatant is left undisturbed for how long before judging the colour?",
    "opts": [
-    "Crenated cells",
-    "Isomorphic cells",
-    "Schistocytes",
-    "Acanthocytes"
+    "2-3 days",
+    "3-6 hours",
+    "30-60 minutes",
+    "12-24 hours"
    ],
-   "ans": 3,
-   "exp": "Acanthocytes are called Mickey mouse RBCs, seen in the nephrological category. (Book p743)"
+   "ans": 1,
+   "exp": "Sample undisturbed for 3-6 hours, then observe whether the colour fades or persists. (Book p742)"
   },
   {
    "id": "MED-C7-062",
-   "sec": "RBC Morphology & Dipstick Parameters",
-   "page": 743,
-   "fmt": "truefalse",
-   "q": "Which statement about the leukocyte/nitrite dipstick for UTI is TRUE?",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "fmt": "scenario",
+   "q": "A crushed-limb injury patient passes dark urine; the supernatant colour fades over a few hours. The pigment and its source are:",
    "opts": [
-    "It is equally sensitive and specific",
-    "It detects only nitrite-producing viruses",
-    "It has high specificity but poor sensitivity",
-    "It has high sensitivity but poor specificity"
+    "Hemoglobin (long half-life) from hemolysis",
+    "Myoglobin (long half-life) from hemolysis",
+    "Hemoglobin (short half-life) from rhabdomyolysis",
+    "Myoglobin (short half-life) from rhabdomyolysis"
    ],
-   "ans": 2,
-   "exp": "Leukocytes + nitrites for urinary tract infections: high specificity, poor sensitivity. (Book p743)"
+   "ans": 3,
+   "exp": "Colour fades → myoglobin (short t½): rhabdomyolysis. (Book p742)"
   },
   {
    "id": "MED-C7-063",
-   "sec": "RBC Morphology & Dipstick Parameters",
-   "page": 743,
-   "fmt": "recall",
-   "q": "A positive urobilinogen pad on the dipstick points to:",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "fmt": "truefalse",
+   "q": "Which statement about the standing-supernatant test is TRUE?",
    "opts": [
-    "Intravascular hemolysis",
-    "Glomerular hematuria",
-    "Renal glycosuria",
-    "Extravascular hemolysis"
+    "A fading colour implies hemoglobin from hemolysis",
+    "The test distinguishes porphyria from beetroot intake",
+    "A persistent colour implies hemoglobin with a long half-life from hemolysis",
+    "A persistent colour implies myoglobin from rhabdomyolysis"
    ],
-   "ans": 3,
-   "exp": "Urobilinogen on dipstick: extravascular hemolysis. (Book p743)"
+   "ans": 2,
+   "exp": "Persistent colour → hemoglobin (long t½): hemolysis; fading → myoglobin (short t½). (Book p742)"
   },
   {
    "id": "MED-C7-064",
-   "sec": "RBC Morphology & Dipstick Parameters",
-   "page": 743,
-   "fmt": "scenario",
-   "q": "A type-2 diabetic started on an SGLT2 inhibitor shows urine ketones; the glycemic pattern the book pairs with this drug is:",
+   "sec": "High Colored Urine · p742",
+   "page": 742,
+   "fmt": "recall",
+   "q": "In the printed approach, which action carries the number 3?",
    "opts": [
-    "Euglycemic ketosis",
-    "Hyperglycemic ketosis",
-    "Euglycemic glycosuria",
-    "Fasting hypoglycemia"
+    "Leaving the sample undisturbed",
+    "Biopsy",
+    "Centrifugation of urine",
+    "Dipstick test"
    ],
-   "ans": 0,
-   "exp": "SGLT2 inhibitors: euglycemic ketosis (proximal RTA gives euglycemic glycosuria). (Book p743)"
+   "ans": 1,
+   "exp": "The flowchart is numbered 1. Dipstick test, 2. Centrifugation of urine (1600 rpm × 5 minutes), 3. Biopsy, 4. Sample undisturbed for 3–6 hours — the fourth step sits on the right-hand, high-coloured branch. (Book p742)"
   },
   {
    "id": "MED-C7-065",
-   "sec": "RBC Morphology & Dipstick Parameters",
-   "page": 743,
-   "fmt": "recall",
-   "q": "Euglycemic glycosuria on the dipstick glucose row is the marker of:",
-   "opts": [
-    "Distal RTA",
-    "Proximal RTA",
-    "Diabetes mellitus",
-    "Diabetes insipidus"
-   ],
-   "ans": 1,
-   "exp": "Proximal RTA: euglycemic glycosuria. (Book p743)"
-  },
-  {
-   "id": "MED-C7-066",
-   "sec": "RBC Morphology & Dipstick Parameters",
-   "page": 743,
-   "fmt": "oddoneout",
-   "q": "All of the following affect the leukocyte urine dipstick test EXCEPT:",
-   "opts": [
-    "High relative density",
-    "Tobramycin",
-    "Amoxicillin",
-    "Concentrated urine"
-   ],
-   "ans": 2,
-   "exp": "Listed factors: concentrated urine, high relative density, proteinuria, glucosuria, cephalothin & tetracycline, cephalexin, tobramycin. (Book p743)"
-  },
-  {
-   "id": "MED-C7-067",
-   "sec": "RBC Morphology & Dipstick Parameters",
-   "page": 743,
-   "fmt": "fillup",
-   "q": "Fill up: Cephalothin, tetracycline, cephalexin and tobramycin are listed as drugs affecting the urine ______ dipstick test.",
-   "opts": [
-    "Bilirubin",
-    "Leukocyte",
-    "Glucose",
-    "Ketone"
-   ],
-   "ans": 1,
-   "exp": "These drugs are listed under factors affecting the leukocyte urine dipstick test. (Book p743)"
-  },
-  {
-   "id": "MED-C7-068",
-   "sec": "RBC Morphology & Dipstick Parameters",
+   "sec": "Types of RBC & dipstick parameters · p743",
    "page": 743,
    "fmt": "truefalse",
    "q": "Which RBC-morphology statement is TRUE as per the figure?",
@@ -1024,8 +979,8 @@
    "exp": "Urological: crenated, isomorphic; nephrological: dysmorphic, acanthocytes. (Book p743)"
   },
   {
-   "id": "MED-C7-069",
-   "sec": "RBC morphology & dipstick parameters · p743",
+   "id": "MED-C7-066",
+   "sec": "Types of RBC & dipstick parameters · p743",
    "page": 743,
    "fmt": "recall",
    "q": "In the 'Types of RBC' note, the photographs labelled B and C belong to which category?",
@@ -1039,23 +994,53 @@
    "exp": "Panel A is placed under urological (crenated and isomorphic cells), while panels B and C sit under Nephrological, carrying the dysmorphic cells and the acanthocytes. (Book p743)"
   },
   {
-   "id": "MED-C7-070",
-   "sec": "RBC morphology & dipstick parameters · p743",
+   "id": "MED-C7-067",
+   "sec": "Types of RBC & dipstick parameters · p743",
    "page": 743,
-   "fmt": "oddoneout",
-   "q": "Every dipstick row on this page has a clinical condition written against it EXCEPT:",
+   "fmt": "recall",
+   "q": "The nephrological RBCs nicknamed after a famous cartoon mouse are:",
    "opts": [
-    "Ketones",
-    "Leukocytes",
-    "Nitrites",
-    "Urobilinogen"
+    "Crenated cells",
+    "Isomorphic cells",
+    "Schistocytes",
+    "Acanthocytes"
    ],
-   "ans": 0,
-   "exp": "Leukocytes and nitrites share the UTI cell, urobilinogen is matched to extravascular hemolysis and glucose to proximal RTA and SGLT2 inhibitors; the protein, pH, blood, S.G, ketone and conjugated-bilirubin rows are left with a dash. (Book p743)"
+   "ans": 3,
+   "exp": "Acanthocytes are called Mickey mouse RBCs, seen in the nephrological category. (Book p743)"
   },
   {
-   "id": "MED-C7-071",
-   "sec": "RBC morphology & dipstick parameters · p743",
+   "id": "MED-C7-068",
+   "sec": "Types of RBC & dipstick parameters · p743",
+   "page": 743,
+   "fmt": "match",
+   "q": "Match each urinary RBC description with its label — 1) Crenated, isomorphic cells 2) Dysmorphic cells 3) Acanthocytes … A) \"Mickey mouse\" RBCs B) Urological category C) Nephrological category",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Urological: crenated, isomorphic; nephrological: dysmorphic; acanthocytes = Mickey mouse RBCs. (Book p743)"
+  },
+  {
+   "id": "MED-C7-069",
+   "sec": "Types of RBC & dipstick parameters · p743",
+   "page": 743,
+   "fmt": "truefalse",
+   "q": "Which statement about the leukocyte/nitrite dipstick for UTI is TRUE?",
+   "opts": [
+    "It is equally sensitive and specific",
+    "It detects only nitrite-producing viruses",
+    "It has high specificity but poor sensitivity",
+    "It has high sensitivity but poor specificity"
+   ],
+   "ans": 2,
+   "exp": "Leukocytes + nitrites for urinary tract infections: high specificity, poor sensitivity. (Book p743)"
+  },
+  {
+   "id": "MED-C7-070",
+   "sec": "Types of RBC & dipstick parameters · p743",
    "page": 743,
    "fmt": "truefalse",
    "q": "The leukocyte and nitrite rows of the dipstick table are printed as two tests sharing one clinical condition, urinary tract infection.",
@@ -1069,23 +1054,68 @@
    "exp": "The table merges Leukocytes and Nitrites against 'urinary tract infections (UTI) (High specificity, poor sensitivity)'. (Book p743)"
   },
   {
-   "id": "MED-C7-072",
-   "sec": "RBC morphology & dipstick parameters · p743",
+   "id": "MED-C7-071",
+   "sec": "Types of RBC & dipstick parameters · p743",
    "page": 743,
-   "fmt": "oddoneout",
-   "q": "All of the following are listed under 'Factors affecting leukocyte urine dipstick test' EXCEPT:",
+   "fmt": "recall",
+   "q": "A positive urobilinogen pad on the dipstick points to:",
    "opts": [
-    "High relative density",
-    "Proteinuria",
-    "Glucosuria",
-    "Dilute urine"
+    "Intravascular hemolysis",
+    "Glomerular hematuria",
+    "Renal glycosuria",
+    "Extravascular hemolysis"
    ],
    "ans": 3,
-   "exp": "The left-hand column reads concentrated urine, high relative density, proteinuria and glucosuria; the right-hand column lists cephalothin, tetracycline, cephalexin and tobramycin. (Book p743)"
+   "exp": "Urobilinogen on dipstick: extravascular hemolysis. (Book p743)"
+  },
+  {
+   "id": "MED-C7-072",
+   "sec": "Types of RBC & dipstick parameters · p743",
+   "page": 743,
+   "fmt": "recall",
+   "q": "Euglycemic glycosuria on the dipstick glucose row is the marker of:",
+   "opts": [
+    "Distal RTA",
+    "Proximal RTA",
+    "Diabetes mellitus",
+    "Diabetes insipidus"
+   ],
+   "ans": 1,
+   "exp": "Proximal RTA: euglycemic glycosuria. (Book p743)"
   },
   {
    "id": "MED-C7-073",
-   "sec": "RBC morphology & dipstick parameters · p743",
+   "sec": "Types of RBC & dipstick parameters · p743",
+   "page": 743,
+   "fmt": "scenario",
+   "q": "A type-2 diabetic started on an SGLT2 inhibitor shows urine ketones; the glycemic pattern the book pairs with this drug is:",
+   "opts": [
+    "Euglycemic ketosis",
+    "Hyperglycemic ketosis",
+    "Euglycemic glycosuria",
+    "Fasting hypoglycemia"
+   ],
+   "ans": 0,
+   "exp": "SGLT2 inhibitors: euglycemic ketosis (proximal RTA gives euglycemic glycosuria). (Book p743)"
+  },
+  {
+   "id": "MED-C7-074",
+   "sec": "Types of RBC & dipstick parameters · p743",
+   "page": 743,
+   "fmt": "oddoneout",
+   "q": "Every dipstick row on this page has a clinical condition written against it EXCEPT:",
+   "opts": [
+    "Ketones",
+    "Leukocytes",
+    "Nitrites",
+    "Urobilinogen"
+   ],
+   "ans": 0,
+   "exp": "Leukocytes and nitrites share the UTI cell, urobilinogen is matched to extravascular hemolysis and glucose to proximal RTA and SGLT2 inhibitors; the protein, pH, blood, S.G, ketone and conjugated-bilirubin rows are left with a dash. (Book p743)"
+  },
+  {
+   "id": "MED-C7-075",
+   "sec": "Types of RBC & dipstick parameters · p743",
    "page": 743,
    "fmt": "match",
    "q": "Match each dipstick row with the note printed in its condition cell — 1) Leukocytes and nitrites 2) Urobilinogen 3) Glucose … A) Proximal RTA and SGLT2 inhibitors B) Extravascular hemolysis C) High specificity, poor sensitivity",
@@ -1099,23 +1129,53 @@
    "exp": "The merged leukocyte/nitrite cell carries the 'high specificity, poor sensitivity' parenthetical; urobilinogen is paired with extravascular hemolysis; glucose with proximal RTA (euglycemic glycosuria) and SGLT2 inhibitors (euglycemic ketosis). (Book p743)"
   },
   {
-   "id": "MED-C7-074",
-   "sec": "Proteinuria - Uromodulin & Levels",
-   "page": 744,
-   "fmt": "recall",
-   "q": "Uromodulin (Tamm-Horsfall protein) is produced by the:",
+   "id": "MED-C7-076",
+   "sec": "Types of RBC & dipstick parameters · p743",
+   "page": 743,
+   "fmt": "oddoneout",
+   "q": "All of the following affect the leukocyte urine dipstick test EXCEPT:",
    "opts": [
-    "Thick ascending limb of loop of Henle",
-    "Proximal convoluted tubule",
-    "Cortical collecting duct",
-    "Glomerular podocytes"
+    "High relative density",
+    "Tobramycin",
+    "Amoxicillin",
+    "Concentrated urine"
    ],
-   "ans": 0,
-   "exp": "Produced by thick ascending limb of loop of Henle. (Book p744)"
+   "ans": 2,
+   "exp": "Listed factors: concentrated urine, high relative density, proteinuria, glucosuria, cephalothin & tetracycline, cephalexin, tobramycin. (Book p743)"
   },
   {
-   "id": "MED-C7-075",
-   "sec": "Proteinuria - Uromodulin & Levels",
+   "id": "MED-C7-077",
+   "sec": "Types of RBC & dipstick parameters · p743",
+   "page": 743,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed under 'Factors affecting leukocyte urine dipstick test' EXCEPT:",
+   "opts": [
+    "High relative density",
+    "Proteinuria",
+    "Glucosuria",
+    "Dilute urine"
+   ],
+   "ans": 3,
+   "exp": "The left-hand column reads concentrated urine, high relative density, proteinuria and glucosuria; the right-hand column lists cephalothin, tetracycline, cephalexin and tobramycin. (Book p743)"
+  },
+  {
+   "id": "MED-C7-078",
+   "sec": "Types of RBC & dipstick parameters · p743",
+   "page": 743,
+   "fmt": "fillup",
+   "q": "Fill up: Cephalothin, tetracycline, cephalexin and tobramycin are listed as drugs affecting the urine ______ dipstick test.",
+   "opts": [
+    "Bilirubin",
+    "Leukocyte",
+    "Glucose",
+    "Ketone"
+   ],
+   "ans": 1,
+   "exp": "These drugs are listed under factors affecting the leukocyte urine dipstick test. (Book p743)"
+  },
+  {
+   "id": "MED-C7-079",
+   "sec": "Proteinuria · p744",
    "page": 744,
    "fmt": "numeric",
    "q": "The daily excretion of uromodulin quoted is:",
@@ -1129,8 +1189,8 @@
    "exp": "Uromodulin/Tamm Horsfall protein: 70-80 mg/day. (Book p744)"
   },
   {
-   "id": "MED-C7-076",
-   "sec": "Proteinuria - Uromodulin & Levels",
+   "id": "MED-C7-080",
+   "sec": "Proteinuria · p744",
    "page": 744,
    "fmt": "truefalse",
    "q": "Which statement about uromodulin is TRUE?",
@@ -1144,8 +1204,23 @@
    "exp": "Most abundant component of normal urine; forms matrix of casts. (Book p744)"
   },
   {
-   "id": "MED-C7-077",
-   "sec": "Proteinuria - Uromodulin & Levels",
+   "id": "MED-C7-081",
+   "sec": "Proteinuria · p744",
+   "page": 744,
+   "fmt": "recall",
+   "q": "Uromodulin (Tamm-Horsfall protein) is produced by the:",
+   "opts": [
+    "Thick ascending limb of loop of Henle",
+    "Proximal convoluted tubule",
+    "Cortical collecting duct",
+    "Glomerular podocytes"
+   ],
+   "ans": 0,
+   "exp": "Produced by thick ascending limb of loop of Henle. (Book p744)"
+  },
+  {
+   "id": "MED-C7-082",
+   "sec": "Proteinuria · p744",
    "page": 744,
    "fmt": "match",
    "q": "Match each urine protein range (mg/day) with its label — 1) <150 2) 150-500 3) >500 … A) Significant proteinuria B) Normal C) Functional proteinuria",
@@ -1159,8 +1234,8 @@
    "exp": "<150 normal; 150-500 functional proteinuria; >500 significant proteinuria. (Book p744)"
   },
   {
-   "id": "MED-C7-078",
-   "sec": "Proteinuria - Uromodulin & Levels",
+   "id": "MED-C7-083",
+   "sec": "Proteinuria · p744",
    "page": 744,
    "fmt": "scenario",
    "q": "An anxious student presents before exams with urine protein of 300 mg/day. The book's category for this level is:",
@@ -1174,98 +1249,23 @@
    "exp": "150-500 mg/day: functional proteinuria (stress, anxiety, menses, protein supplements). (Book p744)"
   },
   {
-   "id": "MED-C7-079",
-   "sec": "Proteinuria - Uromodulin & Levels",
-   "page": 744,
-   "fmt": "fillup",
-   "q": "Fill up: In pregnancy, significant proteinuria is defined as urine protein greater than ______ mg/day.",
-   "opts": [
-    "3000",
-    "300",
-    "150",
-    "500"
-   ],
-   "ans": 1,
-   "exp": ">300 mg/day: significant proteinuria in pregnancy (vs >500 otherwise). (Book p744)"
-  },
-  {
-   "id": "MED-C7-080",
-   "sec": "Proteinuria - Albumin & Tests",
-   "page": 744,
-   "fmt": "recall",
-   "q": "The injury chain written for albuminuria runs: albumin → tubular injury → inflammation → ______ → fibrosis.",
-   "opts": [
-    "Endothelin-1",
-    "TGF-β",
-    "Angiotensin II",
-    "Aldosterone"
-   ],
-   "ans": 1,
-   "exp": "Albumin → tubular injury → inflammation → TGF-β → fibrosis. (Book p744)"
-  },
-  {
-   "id": "MED-C7-081",
-   "sec": "Proteinuria - Albumin & Tests",
-   "page": 744,
-   "fmt": "numeric",
-   "q": "Microalbuminuria (moderately elevated albumin) spans urinary albumin of:",
-   "opts": [
-    "150-500",
-    "30-300",
-    "3-30",
-    "300-3000"
-   ],
-   "ans": 1,
-   "exp": "<30 normal; 30-300 microalbuminuria; >300 albuminuria. (Book p744)"
-  },
-  {
-   "id": "MED-C7-082",
-   "sec": "Proteinuria - Albumin & Tests",
-   "page": 744,
-   "fmt": "recall",
-   "q": "Moderately elevated urine albumin matters because it is a:",
-   "opts": [
-    "Benign finding that needs no further evaluation",
-    "Sign of glomerular hyperfiltration only",
-    "Marker of vascular integrity with higher thrombosis (CVA, CAD) risk from endothelial injury",
-    "Marker of isolated lower urinary tract infection"
-   ],
-   "ans": 2,
-   "exp": "Marker of vascular integrity; ↑ risk of thrombosis (CVA, CAD) d/t endothelial injury; requires further evaluation. (Book p744)"
-  },
-  {
-   "id": "MED-C7-083",
-   "sec": "Proteinuria - Albumin & Tests",
+   "id": "MED-C7-084",
+   "sec": "Proteinuria · p744",
    "page": 744,
    "fmt": "oddoneout",
-   "q": "All of the following are listed tests for proteinuria EXCEPT:",
+   "q": "Each of these is listed against 'functional proteinuria' in the levels table EXCEPT:",
    "opts": [
-    "24 hour urine protein",
-    "Spot urine protein-creatinine ratio (PCR)",
-    "Spot urine albumin-creatinine ratio (ACR)",
-    "Serum albumin estimation"
-   ],
-   "ans": 3,
-   "exp": "Tests: 24 hour urine protein; spot PCR; spot ACR; urine dipstick test. (Book p744)"
-  },
-  {
-   "id": "MED-C7-084",
-   "sec": "Proteinuria - Albumin & Tests",
-   "page": 744,
-   "fmt": "recall",
-   "q": "The urine dipstick test turns positive only when proteinuria reaches roughly:",
-   "opts": [
-    "300 mg",
-    "3.5 g",
-    "800 mg",
-    "150 mg"
+    "Menses",
+    "Protein supplements",
+    "Fever",
+    "Anxiety"
    ],
    "ans": 2,
-   "exp": "Dipstick: qualitative; positive only when there is ↑ proteinuria (~800 mg); detects only albumin. (Book p744)"
+   "exp": "The 150–500 mg/day row reads: Functional proteinuria — stress, anxiety, menses, protein supplements; fever is not printed there (it belongs to the febrile proteinuria teaching elsewhere). (Book p744)"
   },
   {
    "id": "MED-C7-085",
-   "sec": "Proteinuria - Albumin & Tests",
+   "sec": "Proteinuria · p744",
    "page": 744,
    "fmt": "fillup",
    "q": "Fill up: Significant proteinuria in a non-pregnant adult is urine protein above ______ mg/day.",
@@ -1280,82 +1280,37 @@
   },
   {
    "id": "MED-C7-086",
-   "sec": "Proteinuria - Albumin & Tests",
+   "sec": "Proteinuria · p744",
    "page": 744,
-   "fmt": "truefalse",
-   "q": "Which statement about the dipstick test for protein is TRUE?",
+   "fmt": "fillup",
+   "q": "Fill up: In pregnancy, significant proteinuria is defined as urine protein greater than ______ mg/day.",
    "opts": [
-    "It quantifies protein accurately in mg/day",
-    "It is positive at microalbuminuric levels",
-    "It detects only albumin and should be supplemented with PCR/ACR/24 hrs urine protein",
-    "It detects globulins better than albumin"
+    "3000",
+    "300",
+    "150",
+    "500"
    ],
-   "ans": 2,
-   "exp": "Dipstick detects only albumin; should be supplemented with PCR/ACR/24 hrs urine protein. (Book p744)"
+   "ans": 1,
+   "exp": ">300 mg/day: significant proteinuria in pregnancy (vs >500 otherwise). (Book p744)"
   },
   {
    "id": "MED-C7-087",
-   "sec": "Proteinuria — levels, albumin & tests · p744",
+   "sec": "Proteinuria · p744",
    "page": 744,
-   "fmt": "oddoneout",
-   "q": "Each of these is listed against 'functional proteinuria' in the levels table EXCEPT:",
+   "fmt": "recall",
+   "q": "The injury chain written for albuminuria runs: albumin → tubular injury → inflammation → ______ → fibrosis.",
    "opts": [
-    "Menses",
-    "Protein supplements",
-    "Fever",
-    "Anxiety"
+    "Endothelin-1",
+    "TGF-β",
+    "Angiotensin II",
+    "Aldosterone"
    ],
-   "ans": 2,
-   "exp": "The 150–500 mg/day row reads: Functional proteinuria — stress, anxiety, menses, protein supplements; fever is not printed there (it belongs to the febrile proteinuria teaching elsewhere). (Book p744)"
+   "ans": 1,
+   "exp": "Albumin → tubular injury → inflammation → TGF-β → fibrosis. (Book p744)"
   },
   {
    "id": "MED-C7-088",
-   "sec": "Proteinuria — levels, albumin & tests · p744",
-   "page": 744,
-   "fmt": "numeric",
-   "q": "A 24-hour urinary albumin of 450 mg falls into which row of the albumin table?",
-   "opts": [
-    ">300 — albuminuria",
-    "30–300 — microalbuminuria",
-    "<30 — normal",
-    "150–500 — functional proteinuria"
-   ],
-   "ans": 0,
-   "exp": "Urinary albumin rows: <30 normal, 30–300 microalbuminuria (moderately elevated albumin in urine), >300 albuminuria. The 150–500 band is the total-protein table, not the albumin table. (Book p744)"
-  },
-  {
-   "id": "MED-C7-089",
-   "sec": "Proteinuria — levels, albumin & tests · p744",
-   "page": 744,
-   "fmt": "match",
-   "q": "Match each numbered test with what it measures — 1) Test 1 2) Test 2 3) Test 3 … A) Spot urine albumin–creatinine ratio B) Spot urine protein–creatinine ratio C) 24 hour urine protein D) Qualitative dipstick reading",
-   "opts": [
-    "1-C, 2-B, 3-A",
-    "1-B, 2-C, 3-A",
-    "1-C, 2-A, 3-B",
-    "1-D, 2-B, 3-C"
-   ],
-   "ans": 0,
-   "exp": "The list is 1. 24 hour urine protein, 2. spot urine protein–creatinine ratio (PCR), 3. spot urine albumin–creatinine ratio (ACR), 4. urine dipstick test. (Book p744)"
-  },
-  {
-   "id": "MED-C7-090",
-   "sec": "Proteinuria — levels, albumin & tests · p744",
-   "page": 744,
-   "fmt": "fillup",
-   "q": "Fill up: The urine dipstick test for protein is described under 'Tests for proteinuria' as a ______ analysis.",
-   "opts": [
-    "Qualitative",
-    "Quantitative",
-    "Semi-quantitative 24-hour",
-    "Albumin-specific quantitative"
-   ],
-   "ans": 0,
-   "exp": "Entry 4 reads 'urine dipstick test — qualitative analysis', with the two disadvantages branching from it: positive only around 800 mg and detecting only albumin. (Book p744)"
-  },
-  {
-   "id": "MED-C7-091",
-   "sec": "Proteinuria — levels, albumin & tests · p744",
+   "sec": "Proteinuria · p744",
    "page": 744,
    "fmt": "truefalse",
    "q": "The flow of injury printed on this page runs albumin → tubular injury → inflammation → TGF-β → fibrosis.",
@@ -1369,8 +1324,128 @@
    "exp": "'Albumin levels' section: Albumin → Tubular injury → Inflammation → TGF-β → Fibrosis; this is why even moderately elevated albumin requires further evaluation. (Book p744)"
   },
   {
+   "id": "MED-C7-089",
+   "sec": "Proteinuria · p744",
+   "page": 744,
+   "fmt": "numeric",
+   "q": "Microalbuminuria (moderately elevated albumin) spans urinary albumin of:",
+   "opts": [
+    "150-500",
+    "30-300",
+    "3-30",
+    "300-3000"
+   ],
+   "ans": 1,
+   "exp": "<30 normal; 30-300 microalbuminuria; >300 albuminuria. (Book p744)"
+  },
+  {
+   "id": "MED-C7-090",
+   "sec": "Proteinuria · p744",
+   "page": 744,
+   "fmt": "numeric",
+   "q": "A 24-hour urinary albumin of 450 mg falls into which row of the albumin table?",
+   "opts": [
+    ">300 — albuminuria",
+    "30–300 — microalbuminuria",
+    "<30 — normal",
+    "150–500 — functional proteinuria"
+   ],
+   "ans": 0,
+   "exp": "Urinary albumin rows: <30 normal, 30–300 microalbuminuria (moderately elevated albumin in urine), >300 albuminuria. The 150–500 band is the total-protein table, not the albumin table. (Book p744)"
+  },
+  {
+   "id": "MED-C7-091",
+   "sec": "Proteinuria · p744",
+   "page": 744,
+   "fmt": "recall",
+   "q": "Moderately elevated urine albumin matters because it is a:",
+   "opts": [
+    "Benign finding that needs no further evaluation",
+    "Sign of glomerular hyperfiltration only",
+    "Marker of vascular integrity with higher thrombosis (CVA, CAD) risk from endothelial injury",
+    "Marker of isolated lower urinary tract infection"
+   ],
+   "ans": 2,
+   "exp": "Marker of vascular integrity; ↑ risk of thrombosis (CVA, CAD) d/t endothelial injury; requires further evaluation. (Book p744)"
+  },
+  {
    "id": "MED-C7-092",
-   "sec": "Microscopic Examination",
+   "sec": "Proteinuria · p744",
+   "page": 744,
+   "fmt": "match",
+   "q": "Match each numbered test with what it measures — 1) Test 1 2) Test 2 3) Test 3 … A) Spot urine albumin–creatinine ratio B) Spot urine protein–creatinine ratio C) 24 hour urine protein D) Qualitative dipstick reading",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-D, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "The list is 1. 24 hour urine protein, 2. spot urine protein–creatinine ratio (PCR), 3. spot urine albumin–creatinine ratio (ACR), 4. urine dipstick test. (Book p744)"
+  },
+  {
+   "id": "MED-C7-093",
+   "sec": "Proteinuria · p744",
+   "page": 744,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed tests for proteinuria EXCEPT:",
+   "opts": [
+    "24 hour urine protein",
+    "Spot urine protein-creatinine ratio (PCR)",
+    "Spot urine albumin-creatinine ratio (ACR)",
+    "Serum albumin estimation"
+   ],
+   "ans": 3,
+   "exp": "Tests: 24 hour urine protein; spot PCR; spot ACR; urine dipstick test. (Book p744)"
+  },
+  {
+   "id": "MED-C7-094",
+   "sec": "Proteinuria · p744",
+   "page": 744,
+   "fmt": "fillup",
+   "q": "Fill up: The urine dipstick test for protein is described under 'Tests for proteinuria' as a ______ analysis.",
+   "opts": [
+    "Qualitative",
+    "Quantitative",
+    "Semi-quantitative 24-hour",
+    "Albumin-specific quantitative"
+   ],
+   "ans": 0,
+   "exp": "Entry 4 reads 'urine dipstick test — qualitative analysis', with the two disadvantages branching from it: positive only around 800 mg and detecting only albumin. (Book p744)"
+  },
+  {
+   "id": "MED-C7-095",
+   "sec": "Proteinuria · p744",
+   "page": 744,
+   "fmt": "recall",
+   "q": "The urine dipstick test turns positive only when proteinuria reaches roughly:",
+   "opts": [
+    "300 mg",
+    "3.5 g",
+    "800 mg",
+    "150 mg"
+   ],
+   "ans": 2,
+   "exp": "Dipstick: qualitative; positive only when there is ↑ proteinuria (~800 mg); detects only albumin. (Book p744)"
+  },
+  {
+   "id": "MED-C7-096",
+   "sec": "Proteinuria · p744",
+   "page": 744,
+   "fmt": "truefalse",
+   "q": "Which statement about the dipstick test for protein is TRUE?",
+   "opts": [
+    "It quantifies protein accurately in mg/day",
+    "It is positive at microalbuminuric levels",
+    "It detects only albumin and should be supplemented with PCR/ACR/24 hrs urine protein",
+    "It detects globulins better than albumin"
+   ],
+   "ans": 2,
+   "exp": "Dipstick detects only albumin; should be supplemented with PCR/ACR/24 hrs urine protein. (Book p744)"
+  },
+  {
+   "id": "MED-C7-097",
+   "sec": "Microscopic Examination · p745",
    "page": 745,
    "fmt": "recall",
    "q": "The size order of urinary cells written is:",
@@ -1384,68 +1459,8 @@
    "exp": "Cell size: RBC < WBC < epithelial cell. (Book p745)"
   },
   {
-   "id": "MED-C7-093",
-   "sec": "Microscopic Examination",
-   "page": 745,
-   "fmt": "recall",
-   "q": "Tubular epithelial cells on microscopy are described with:",
-   "opts": [
-    "Granular cytoplasm and lobulated nucleus",
-    "Clear cytoplasm and round eccentric nucleus",
-    "Foamy cytoplasm and absent nucleus",
-    "Spindle shape with multiple flagella"
-   ],
-   "ans": 0,
-   "exp": "Tubular epithelial cell with nucleus: granular cytoplasm & lobulated nucleus. (Book p745)"
-  },
-  {
-   "id": "MED-C7-094",
-   "sec": "Microscopic Examination",
-   "page": 745,
-   "fmt": "recall",
-   "q": "Oval fat bodies under the polarizing microscope show the:",
-   "opts": [
-    "Broom brush appearance",
-    "Hexagonal plate appearance",
-    "Maltese cross appearance",
-    "Coffin lid appearance"
-   ],
-   "ans": 2,
-   "exp": "Polarizing microscope: Maltese cross appearance of oval fat bodies. (Book p745)"
-  },
-  {
-   "id": "MED-C7-095",
-   "sec": "Microscopic Examination",
-   "page": 745,
-   "fmt": "oddoneout",
-   "q": "The Maltese cross in the kidney is associated with all of the following EXCEPT:",
-   "opts": [
-    "Babesiosis",
-    "Fabry's disease",
-    "ADPKD",
-    "Prerenal azotemia"
-   ],
-   "ans": 0,
-   "exp": "In blood: babesiosis; in kidney: Fabry's, ADPKD, acute/chronic interstitial nephritis, prerenal azotemia. (Book p745)"
-  },
-  {
-   "id": "MED-C7-096",
-   "sec": "Microscopic Examination",
-   "page": 745,
-   "fmt": "recall",
-   "q": "Phase contrast microscopy with monomorphic red cells in the figure illustrates the category of:",
-   "opts": [
-    "Urological (monomorphic) hematuria",
-    "Nephrological (dysmorphic) hematuria",
-    "Pigment nephropathy",
-    "Nephrotic syndrome"
-   ],
-   "ans": 0,
-   "exp": "Phase contrast microscopy with monomorphic red cells corresponds to the urological pattern (vs dysmorphic/acanthocytes). (Book p745)"
-  },
-  {
-   "id": "MED-C7-097",
-   "sec": "Microscopic Examination",
+   "id": "MED-C7-098",
+   "sec": "Microscopic Examination · p745",
    "page": 745,
    "fmt": "recall",
    "q": "On the phase-contrast photo, the arrow-labelled cell larger than the surrounding red cells is a:",
@@ -1459,83 +1474,68 @@
    "exp": "The figure labels a large white cell among the monomorphic red cells (RBC < WBC < epithelial cell). (Book p745)"
   },
   {
-   "id": "MED-C7-098",
-   "sec": "Casts in Urine - Formation & Basics",
-   "page": 745,
-   "fmt": "fillup",
-   "q": "Fill up: Urinary casts are formed in the ______.",
-   "opts": [
-    "Distal convoluted tubule (DCT)",
-    "Proximal convoluted tubule",
-    "Bowman's capsule",
-    "Urinary bladder"
-   ],
-   "ans": 0,
-   "exp": "Cast formation: distal convoluted tubule (DCT). (Book p745)"
-  },
-  {
    "id": "MED-C7-099",
-   "sec": "Casts in Urine - Formation & Basics",
+   "sec": "Microscopic Examination · p745",
    "page": 745,
-   "fmt": "match",
-   "q": "Match each finding with its association — 1) Hyaline cast 2) Fine/coarse granular cast 3) Oval fat bodies … A) Maltese cross on polarizing microscopy B) Normal as well as kidney disease C) Kidney disease",
+   "fmt": "recall",
+   "q": "Phase contrast microscopy with monomorphic red cells in the figure illustrates the category of:",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-A, 2-B, 3-C",
-    "1-B, 2-A, 3-C",
-    "1-C, 2-B, 3-A"
+    "Urological (monomorphic) hematuria",
+    "Nephrological (dysmorphic) hematuria",
+    "Pigment nephropathy",
+    "Nephrotic syndrome"
    ],
    "ans": 0,
-   "exp": "Hyaline: normal + kidney disease; granular: kidney disease; oval fat bodies: Maltese cross. (Book p745)"
+   "exp": "Phase contrast microscopy with monomorphic red cells corresponds to the urological pattern (vs dysmorphic/acanthocytes). (Book p745)"
   },
   {
    "id": "MED-C7-100",
-   "sec": "Casts in Urine - Formation & Basics",
+   "sec": "Microscopic Examination · p745",
    "page": 745,
    "fmt": "recall",
-   "q": "Hyaline casts are seen in:",
+   "q": "The caption printed beneath the first pair of photographs on this page reads:",
    "opts": [
-    "Hemolysis only",
-    "Normal individuals and kidney disease",
-    "Kidney disease only",
-    "Normal individuals only"
+    "Polarized oval fat bodies with maltese cross",
+    "Tubular epithelial cell with nucleus",
+    "Granular cytoplasm & lobulated nucleus",
+    "Phase contrast microscopy with monomorphic red cells"
    ],
-   "ans": 1,
-   "exp": "Hyaline cast: normal; kidney disease. (Book p745)"
+   "ans": 3,
+   "exp": "The caption under the large orange field (with the arrow to a large white cell) is 'Phase contrast microscopy with monomorphic red cells'; the other three captions sit on the remaining figures of the page. (Book p745)"
   },
   {
    "id": "MED-C7-101",
-   "sec": "Casts in Urine - Formation & Basics",
+   "sec": "Microscopic Examination · p745",
    "page": 745,
    "fmt": "recall",
-   "q": "Coarse and fine granular casts signify:",
+   "q": "Tubular epithelial cells on microscopy are described with:",
    "opts": [
-    "Diabetes insipidus",
-    "Kidney disease",
-    "Normal urine",
-    "Bladder carcinoma"
+    "Granular cytoplasm and lobulated nucleus",
+    "Clear cytoplasm and round eccentric nucleus",
+    "Foamy cytoplasm and absent nucleus",
+    "Spindle shape with multiple flagella"
    ],
-   "ans": 1,
-   "exp": "Coarse/fine granular casts: kidney disease. (Book p745)"
+   "ans": 0,
+   "exp": "Tubular epithelial cell with nucleus: granular cytoplasm & lobulated nucleus. (Book p745)"
   },
   {
    "id": "MED-C7-102",
-   "sec": "Microscopy, Maltese cross & casts · p745",
+   "sec": "Microscopic Examination · p745",
    "page": 745,
-   "fmt": "oddoneout",
-   "q": "The Maltese cross seen in the kidney on polarizing microscopy is listed for all of the following EXCEPT:",
+   "fmt": "recall",
+   "q": "Oval fat bodies under the polarizing microscope show the:",
    "opts": [
-    "Nephrotic syndrome",
-    "Fabry's disease",
-    "ADPKD",
-    "Prerenal azotemia"
+    "Broom brush appearance",
+    "Hexagonal plate appearance",
+    "Maltese cross appearance",
+    "Coffin lid appearance"
    ],
-   "ans": 0,
-   "exp": "The 'In kidney' list is Fabry's disease, ADPKD, acute/chronic interstitial nephritis and prerenal azotemia; lipiduria of nephrotic syndrome produces oval fat bodies but is not one of the printed kidney causes on this page. (Book p745)"
+   "ans": 2,
+   "exp": "Polarizing microscope: Maltese cross appearance of oval fat bodies. (Book p745)"
   },
   {
    "id": "MED-C7-103",
-   "sec": "Microscopy, Maltese cross & casts · p745",
+   "sec": "Microscopic Examination · p745",
    "page": 745,
    "fmt": "truefalse",
    "q": "The same Maltese-cross appearance is attributed in blood to babesiosis.",
@@ -1550,7 +1550,37 @@
   },
   {
    "id": "MED-C7-104",
-   "sec": "Microscopy, Maltese cross & casts · p745",
+   "sec": "Microscopic Examination · p745",
+   "page": 745,
+   "fmt": "oddoneout",
+   "q": "The Maltese cross in the kidney is associated with all of the following EXCEPT:",
+   "opts": [
+    "Babesiosis",
+    "Fabry's disease",
+    "ADPKD",
+    "Prerenal azotemia"
+   ],
+   "ans": 0,
+   "exp": "In blood: babesiosis; in kidney: Fabry's, ADPKD, acute/chronic interstitial nephritis, prerenal azotemia. (Book p745)"
+  },
+  {
+   "id": "MED-C7-105",
+   "sec": "Microscopic Examination · p745",
+   "page": 745,
+   "fmt": "oddoneout",
+   "q": "The Maltese cross seen in the kidney on polarizing microscopy is listed for all of the following EXCEPT:",
+   "opts": [
+    "Nephrotic syndrome",
+    "Fabry's disease",
+    "ADPKD",
+    "Prerenal azotemia"
+   ],
+   "ans": 0,
+   "exp": "The 'In kidney' list is Fabry's disease, ADPKD, acute/chronic interstitial nephritis and prerenal azotemia; lipiduria of nephrotic syndrome produces oval fat bodies but is not one of the printed kidney causes on this page. (Book p745)"
+  },
+  {
+   "id": "MED-C7-106",
+   "sec": "Microscopic Examination · p745",
    "page": 745,
    "fmt": "scenario",
    "q": "A patient with polycystic kidneys has urine microscopy performed under polarized light and the technologist reports Maltese-cross bodies. Reading this page, the correct interpretation is:",
@@ -1564,23 +1594,38 @@
    "exp": "ADPKD is one of the four listed renal causes of a Maltese cross on polarizing microscopy, so the finding fits the underlying cystic disease rather than an artefact or a blood parasite. (Book p745)"
   },
   {
-   "id": "MED-C7-105",
-   "sec": "Microscopy, Maltese cross & casts · p745",
+   "id": "MED-C7-107",
+   "sec": "Microscopic Examination · p745",
    "page": 745,
-   "fmt": "recall",
-   "q": "The caption printed beneath the first pair of photographs on this page reads:",
+   "fmt": "fillup",
+   "q": "Fill up: Urinary casts are formed in the ______.",
    "opts": [
-    "Polarized oval fat bodies with maltese cross",
-    "Tubular epithelial cell with nucleus",
-    "Granular cytoplasm & lobulated nucleus",
-    "Phase contrast microscopy with monomorphic red cells"
+    "Distal convoluted tubule (DCT)",
+    "Proximal convoluted tubule",
+    "Bowman's capsule",
+    "Urinary bladder"
    ],
-   "ans": 3,
-   "exp": "The caption under the large orange field (with the arrow to a large white cell) is 'Phase contrast microscopy with monomorphic red cells'; the other three captions sit on the remaining figures of the page. (Book p745)"
+   "ans": 0,
+   "exp": "Cast formation: distal convoluted tubule (DCT). (Book p745)"
   },
   {
-   "id": "MED-C7-106",
-   "sec": "Microscopy, Maltese cross & casts · p745",
+   "id": "MED-C7-108",
+   "sec": "Microscopic Examination · p745",
+   "page": 745,
+   "fmt": "recall",
+   "q": "Hyaline casts are seen in:",
+   "opts": [
+    "Hemolysis only",
+    "Normal individuals and kidney disease",
+    "Kidney disease only",
+    "Normal individuals only"
+   ],
+   "ans": 1,
+   "exp": "Hyaline cast: normal; kidney disease. (Book p745)"
+  },
+  {
+   "id": "MED-C7-109",
+   "sec": "Microscopic Examination · p745",
    "page": 745,
    "fmt": "truefalse",
    "q": "In this page's cast table, 'Coarse granular cast' is printed as a row label without its own clinical-association cell.",
@@ -1594,23 +1639,38 @@
    "exp": "The table on p745 shows a hyaline-cast photo against 'Normal, Kidney disease', then a bare 'Coarse granular cast' label, then the fine granular photo against 'Kidney disease'. (Book p745)"
   },
   {
-   "id": "MED-C7-107",
-   "sec": "Casts in Urine - Specific Associations",
-   "page": 746,
-   "fmt": "match",
-   "q": "Match each cast with its association — 1) RBC cast 2) WBC cast 3) Fatty cast … A) Lipiduria (nephrotic syndrome), Fabry's B) Glomerular hematuria C) Acute pyelonephritis, PSGN, ATN/AIN",
+   "id": "MED-C7-110",
+   "sec": "Microscopic Examination · p745",
+   "page": 745,
+   "fmt": "recall",
+   "q": "Coarse and fine granular casts signify:",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-A, 2-C, 3-B",
-    "1-B, 2-A, 3-C",
-    "1-C, 2-A, 3-B"
+    "Diabetes insipidus",
+    "Kidney disease",
+    "Normal urine",
+    "Bladder carcinoma"
    ],
-   "ans": 0,
-   "exp": "RBC cast – glomerular hematuria; WBC cast – acute pyelonephritis, PSGN, ATN/AIN; fatty cast – lipiduria, Fabry's. (Book p746)"
+   "ans": 1,
+   "exp": "Coarse/fine granular casts: kidney disease. (Book p745)"
   },
   {
-   "id": "MED-C7-108",
-   "sec": "Casts in Urine - Specific Associations",
+   "id": "MED-C7-111",
+   "sec": "Microscopic Examination · p745",
+   "page": 745,
+   "fmt": "match",
+   "q": "Match each finding with its association — 1) Hyaline cast 2) Fine/coarse granular cast 3) Oval fat bodies … A) Maltese cross on polarizing microscopy B) Normal as well as kidney disease C) Kidney disease",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Hyaline: normal + kidney disease; granular: kidney disease; oval fat bodies: Maltese cross. (Book p745)"
+  },
+  {
+   "id": "MED-C7-112",
+   "sec": "Casts in urine · p746",
    "page": 746,
    "fmt": "recall",
    "q": "Pigment fine granular casts point to pigment nephropathy caused by:",
@@ -1624,68 +1684,8 @@
    "exp": "Pigment fine granular cast: pigment nephropathy – hemolysis; rhabdomyolysis. (Book p746)"
   },
   {
-   "id": "MED-C7-109",
-   "sec": "Casts in Urine - Specific Associations",
-   "page": 746,
-   "fmt": "recall",
-   "q": "The cast described as most specific for ATN/AIN is the:",
-   "opts": [
-    "Tubular epithelial (muddy brown) cast",
-    "Hyaline cast",
-    "Waxy cast",
-    "Eosinophil cast"
-   ],
-   "ans": 0,
-   "exp": "Tubular epithelial cast (muddy brown): ATN/AIN (most specific). (Book p746)"
-  },
-  {
-   "id": "MED-C7-110",
-   "sec": "Casts in Urine - Specific Associations",
-   "page": 746,
-   "fmt": "recall",
-   "q": "Broad casts and waxy casts are the markers of:",
-   "opts": [
-    "Glomerular hematuria",
-    "Pigment nephropathy",
-    "Chronic kidney disease",
-    "Acute pyelonephritis"
-   ],
-   "ans": 2,
-   "exp": "Broad cast and waxy cast: chronic kidney disease. (Book p746)"
-  },
-  {
-   "id": "MED-C7-111",
-   "sec": "Casts in Urine - Specific Associations",
-   "page": 746,
-   "fmt": "recall",
-   "q": "Fractured casts, seen on biopsy, are associated with:",
-   "opts": [
-    "Myeloma",
-    "Myoglobinuria",
-    "Minimal change disease",
-    "Membranous nephropathy"
-   ],
-   "ans": 0,
-   "exp": "Fractured cast (on biopsy): myeloma. (Book p746)"
-  },
-  {
-   "id": "MED-C7-112",
-   "sec": "Casts in Urine - Specific Associations",
-   "page": 746,
-   "fmt": "scenario",
-   "q": "A patient with drug-induced interstitial injury shows casts packed with eosinophils. The association listed is:",
-   "opts": [
-    "Nephrotic syndrome",
-    "ATN/AIN",
-    "CKD",
-    "Glomerular hematuria"
-   ],
-   "ans": 1,
-   "exp": "Eosinophil cast: ATN/AIN. (Book p746)"
-  },
-  {
    "id": "MED-C7-113",
-   "sec": "Casts in Urine - Specific Associations",
+   "sec": "Casts in urine · p746",
    "page": 746,
    "fmt": "oddoneout",
    "q": "Pigment nephropathy with pigment fine granular casts arises from all of the following EXCEPT:",
@@ -1700,22 +1700,22 @@
   },
   {
    "id": "MED-C7-114",
-   "sec": "Casts in Urine - Specific Associations",
+   "sec": "Casts in urine · p746",
    "page": 746,
-   "fmt": "fillup",
-   "q": "Fill up: The muddy brown cast of ATN/AIN is a ______ cast.",
+   "fmt": "oddoneout",
+   "q": "Each cast row on this page is followed by a bullet list of several associations EXCEPT:",
    "opts": [
-    "Hyaline",
-    "Waxy",
-    "Eosinophil",
-    "Tubular epithelial"
+    "Pigment fine granular cast",
+    "RBC cast, whose cell carries one unbulleted line",
+    "WBC cast",
+    "Fatty cast"
    ],
-   "ans": 3,
-   "exp": "Tubular epithelial cast (muddy brown): ATN/AIN (most specific). (Book p746)"
+   "ans": 1,
+   "exp": "The RBC cast row shows a single line — 'Glomerular hematuria' — whereas the WBC cast, fatty cast and pigment fine granular rows each carry bulleted lists. (Book p746)"
   },
   {
    "id": "MED-C7-115",
-   "sec": "Casts in Urine - Specific Associations",
+   "sec": "Casts in urine · p746",
    "page": 746,
    "fmt": "truefalse",
    "q": "Which cast statement is TRUE as per the table?",
@@ -1730,52 +1730,7 @@
   },
   {
    "id": "MED-C7-116",
-   "sec": "Casts in Urine - Specific Associations",
-   "page": 746,
-   "fmt": "match",
-   "q": "Match each cast with its association — 1) Broad & waxy casts 2) Fractured cast (on biopsy) 3) Eosinophil cast … A) ATN/AIN B) Myeloma C) Chronic kidney disease",
-   "opts": [
-    "1-A, 2-B, 3-C",
-    "1-A, 2-C, 3-B",
-    "1-B, 2-A, 3-C",
-    "1-C, 2-B, 3-A"
-   ],
-   "ans": 3,
-   "exp": "Broad/waxy – CKD; fractured – myeloma; eosinophil – ATN/AIN. (Book p746)"
-  },
-  {
-   "id": "MED-C7-117",
-   "sec": "Casts in Urine - Specific Associations",
-   "page": 746,
-   "fmt": "recall",
-   "q": "Fatty casts are associated with:",
-   "opts": [
-    "CKD and myeloma",
-    "Lipiduria (nephrotic syndrome) and Fabry's",
-    "Hemolysis and rhabdomyolysis",
-    "Pyelonephritis and PSGN"
-   ],
-   "ans": 1,
-   "exp": "Fatty cast: lipiduria (nephrotic syndrome); Fabry's. (Book p746)"
-  },
-  {
-   "id": "MED-C7-118",
-   "sec": "Casts — table structure & wording · p746",
-   "page": 746,
-   "fmt": "recall",
-   "q": "Which two casts are drawn side by side in a single cell that shares the one association 'Chronic kidney disease'?",
-   "opts": [
-    "RBC cast and WBC cast",
-    "Fatty cast and eosinophil cast",
-    "Hyaline cast and fine granular cast",
-    "Broad cast and waxy cast"
-   ],
-   "ans": 3,
-   "exp": "The row contains two photographs captioned Broad cast and Waxy cast against a single merged cell reading 'Chronic kidney disease'. (Book p746)"
-  },
-  {
-   "id": "MED-C7-119",
-   "sec": "Casts — table structure & wording · p746",
+   "sec": "Casts in urine · p746",
    "page": 746,
    "fmt": "fillup",
    "q": "Fill up: In the WBC-cast row, the page expands AIN as acute interstitial ______.",
@@ -1789,8 +1744,53 @@
    "exp": "The third bullet of that row is printed as 'Acute Tubular Necrosis (ATN)/Acute Interstitial Necrosis (AIN)' — the abbreviation is expanded as necrosis on this page even though the cast is classically linked with interstitial nephritis. (Book p746)"
   },
   {
+   "id": "MED-C7-117",
+   "sec": "Casts in urine · p746",
+   "page": 746,
+   "fmt": "recall",
+   "q": "The cast described as most specific for ATN/AIN is the:",
+   "opts": [
+    "Tubular epithelial (muddy brown) cast",
+    "Hyaline cast",
+    "Waxy cast",
+    "Eosinophil cast"
+   ],
+   "ans": 0,
+   "exp": "Tubular epithelial cast (muddy brown): ATN/AIN (most specific). (Book p746)"
+  },
+  {
+   "id": "MED-C7-118",
+   "sec": "Casts in urine · p746",
+   "page": 746,
+   "fmt": "fillup",
+   "q": "Fill up: The muddy brown cast of ATN/AIN is a ______ cast.",
+   "opts": [
+    "Hyaline",
+    "Waxy",
+    "Eosinophil",
+    "Tubular epithelial"
+   ],
+   "ans": 3,
+   "exp": "Tubular epithelial cast (muddy brown): ATN/AIN (most specific). (Book p746)"
+  },
+  {
+   "id": "MED-C7-119",
+   "sec": "Casts in urine · p746",
+   "page": 746,
+   "fmt": "scenario",
+   "q": "A post-operative oliguric patient has muddy-brown pigmented casts with renal tubular cells on microscopy. According to this table, that cast is:",
+   "opts": [
+    "A broad cast, which marks chronic kidney disease",
+    "A fractured cast, which marks myeloma",
+    "The tubular epithelial cast, the most specific marker of ATN/AIN",
+    "A pigment fine granular cast, which marks pigment nephropathy"
+   ],
+   "ans": 2,
+   "exp": "The row reads 'Tubular epithelial cast (muddy brown) — ATN/AIN (most specific)', the phrase in brackets being the page's qualifier for this cast alone. (Book p746)"
+  },
+  {
    "id": "MED-C7-120",
-   "sec": "Casts — table structure & wording · p746",
+   "sec": "Casts in urine · p746",
    "page": 746,
    "fmt": "truefalse",
    "q": "The wording 'ATN/AIN' is written against more than one cast row in this table.",
@@ -1805,97 +1805,127 @@
   },
   {
    "id": "MED-C7-121",
-   "sec": "Casts — table structure & wording · p746",
+   "sec": "Casts in urine · p746",
    "page": 746,
-   "fmt": "scenario",
-   "q": "A post-operative oliguric patient has muddy-brown pigmented casts with renal tubular cells on microscopy. According to this table, that cast is:",
+   "fmt": "recall",
+   "q": "Broad casts and waxy casts are the markers of:",
    "opts": [
-    "A broad cast, which marks chronic kidney disease",
-    "A fractured cast, which marks myeloma",
-    "The tubular epithelial cast, the most specific marker of ATN/AIN",
-    "A pigment fine granular cast, which marks pigment nephropathy"
+    "Glomerular hematuria",
+    "Pigment nephropathy",
+    "Chronic kidney disease",
+    "Acute pyelonephritis"
    ],
    "ans": 2,
-   "exp": "The row reads 'Tubular epithelial cast (muddy brown) — ATN/AIN (most specific)', the phrase in brackets being the page's qualifier for this cast alone. (Book p746)"
+   "exp": "Broad cast and waxy cast: chronic kidney disease. (Book p746)"
   },
   {
    "id": "MED-C7-122",
-   "sec": "Casts — table structure & wording · p746",
+   "sec": "Casts in urine · p746",
    "page": 746,
-   "fmt": "oddoneout",
-   "q": "Each cast row on this page is followed by a bullet list of several associations EXCEPT:",
+   "fmt": "recall",
+   "q": "Which two casts are drawn side by side in a single cell that shares the one association 'Chronic kidney disease'?",
    "opts": [
-    "Pigment fine granular cast",
-    "RBC cast, whose cell carries one unbulleted line",
-    "WBC cast",
-    "Fatty cast"
+    "RBC cast and WBC cast",
+    "Fatty cast and eosinophil cast",
+    "Hyaline cast and fine granular cast",
+    "Broad cast and waxy cast"
    ],
-   "ans": 1,
-   "exp": "The RBC cast row shows a single line — 'Glomerular hematuria' — whereas the WBC cast, fatty cast and pigment fine granular rows each carry bulleted lists. (Book p746)"
+   "ans": 3,
+   "exp": "The row contains two photographs captioned Broad cast and Waxy cast against a single merged cell reading 'Chronic kidney disease'. (Book p746)"
   },
   {
    "id": "MED-C7-123",
-   "sec": "Crystals in Urine",
-   "page": 747,
-   "fmt": "match",
-   "q": "Match each crystal with its shape — 1) Uric acid 2) Calcium oxalate dihydrate 3) Struvite (MgNH4PO4) … A) Coffin lid appearance B) Rhomboid crystals C) Bipyramidal / envelope shaped",
+   "sec": "Casts in urine · p746",
+   "page": 746,
+   "fmt": "recall",
+   "q": "Fatty casts are associated with:",
    "opts": [
-    "1-B, 2-C, 3-A",
-    "1-A, 2-B, 3-C",
-    "1-A, 2-C, 3-B",
-    "1-C, 2-A, 3-B"
+    "CKD and myeloma",
+    "Lipiduria (nephrotic syndrome) and Fabry's",
+    "Hemolysis and rhabdomyolysis",
+    "Pyelonephritis and PSGN"
    ],
-   "ans": 0,
-   "exp": "Uric acid – rhomboid; calcium oxalate dihydrate – bipyramidal/envelope; struvite – coffin lid. (Book p747)"
+   "ans": 1,
+   "exp": "Fatty cast: lipiduria (nephrotic syndrome); Fabry's. (Book p746)"
   },
   {
    "id": "MED-C7-124",
-   "sec": "Crystals in Urine",
-   "page": 747,
+   "sec": "Casts in urine · p746",
+   "page": 746,
    "fmt": "match",
-   "q": "Match each crystal with its description — 1) Calcium oxalate monohydrate 2) Calcium phosphate 3) Cystine … A) Hexagonal crystal B) Dumb bell shaped C) Star shaped in alkaline urine",
+   "q": "Match each cast with its association — 1) RBC cast 2) WBC cast 3) Fatty cast … A) Lipiduria (nephrotic syndrome), Fabry's B) Glomerular hematuria C) Acute pyelonephritis, PSGN, ATN/AIN",
    "opts": [
-    "1-B, 2-A, 3-C",
-    "1-C, 2-B, 3-A",
     "1-B, 2-C, 3-A",
-    "1-A, 2-C, 3-B"
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B"
    ],
-   "ans": 2,
-   "exp": "Calcium oxalate monohydrate – dumb bell; calcium phosphate – star shaped (alkaline urine); cystine – hexagonal. (Book p747)"
+   "ans": 0,
+   "exp": "RBC cast – glomerular hematuria; WBC cast – acute pyelonephritis, PSGN, ATN/AIN; fatty cast – lipiduria, Fabry's. (Book p746)"
   },
   {
    "id": "MED-C7-125",
-   "sec": "Crystals in Urine",
-   "page": 747,
-   "fmt": "recall",
-   "q": "The coffin-lid crystal with the formula MgNH4PO4 is:",
+   "sec": "Casts in urine · p746",
+   "page": 746,
+   "fmt": "scenario",
+   "q": "A patient with drug-induced interstitial injury shows casts packed with eosinophils. The association listed is:",
    "opts": [
-    "Calcium oxalate",
-    "Cystine",
-    "Struvite",
-    "Uric acid"
+    "Nephrotic syndrome",
+    "ATN/AIN",
+    "CKD",
+    "Glomerular hematuria"
    ],
-   "ans": 2,
-   "exp": "Struvite (MgNH4PO4): coffin lid appearance. (Book p747)"
+   "ans": 1,
+   "exp": "Eosinophil cast: ATN/AIN. (Book p746)"
   },
   {
    "id": "MED-C7-126",
-   "sec": "Crystals in Urine",
-   "page": 747,
+   "sec": "Casts in urine · p746",
+   "page": 746,
    "fmt": "recall",
-   "q": "Star-shaped crystals forming in alkaline urine are:",
+   "q": "Fractured casts, seen on biopsy, are associated with:",
    "opts": [
-    "Calcium oxalate monohydrate",
-    "Uric acid",
-    "Struvite",
-    "Calcium phosphate"
+    "Myeloma",
+    "Myoglobinuria",
+    "Minimal change disease",
+    "Membranous nephropathy"
    ],
-   "ans": 3,
-   "exp": "Calcium phosphate (in alkaline urine): star shaped. (Book p747)"
+   "ans": 0,
+   "exp": "Fractured cast (on biopsy): myeloma. (Book p746)"
   },
   {
    "id": "MED-C7-127",
-   "sec": "Crystals in Urine",
+   "sec": "Casts in urine · p746",
+   "page": 746,
+   "fmt": "match",
+   "q": "Match each cast with its association — 1) Broad & waxy casts 2) Fractured cast (on biopsy) 3) Eosinophil cast … A) ATN/AIN B) Myeloma C) Chronic kidney disease",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 3,
+   "exp": "Broad/waxy – CKD; fractured – myeloma; eosinophil – ATN/AIN. (Book p746)"
+  },
+  {
+   "id": "MED-C7-128",
+   "sec": "Crystals in urine · p747",
+   "page": 747,
+   "fmt": "truefalse",
+   "q": "Panels A, B and C form the top row of the figure and are captioned uric acid, calcium oxalate dihydrate and calcium oxalate monohydrate in that order.",
+   "opts": [
+    "True — and all three are described as envelope shaped",
+    "True — that is the sequence of the three captions",
+    "False — panel B is calcium oxalate monohydrate and C is dihydrate",
+    "False — panel A is captioned calcium phosphate"
+   ],
+   "ans": 1,
+   "exp": "Top row: A uric acid (rhomboid), B calcium oxalate dihydrate (bipyramidal/envelope), C calcium oxalate monohydrate (dumb bell). (Book p747)"
+  },
+  {
+   "id": "MED-C7-129",
+   "sec": "Crystals in urine · p747",
    "page": 747,
    "fmt": "oddoneout",
    "q": "All of the following crystal-shape pairs are as printed EXCEPT:",
@@ -1909,53 +1939,8 @@
    "exp": "Uric acid crystals are rhomboid; envelope shape belongs to calcium oxalate dihydrate. (Book p747)"
   },
   {
-   "id": "MED-C7-128",
-   "sec": "Crystals in Urine",
-   "page": 747,
-   "fmt": "recall",
-   "q": "The broom brush appearance on urine microscopy belongs to crystals of:",
-   "opts": [
-    "Amoxicillin",
-    "Acyclovir",
-    "Sulfadiazine",
-    "Indinavir"
-   ],
-   "ans": 0,
-   "exp": "Amoxicillin crystal: broom brush appearance. (Book p747)"
-  },
-  {
-   "id": "MED-C7-129",
-   "sec": "Crystals in Urine",
-   "page": 747,
-   "fmt": "fillup",
-   "q": "Fill up: The hexagonal crystals seen on urine microscopy are ______ crystals.",
-   "opts": [
-    "Cholesterol",
-    "Cystine",
-    "Uric acid",
-    "Struvite"
-   ],
-   "ans": 1,
-   "exp": "Hexagonal cystine crystal. (Book p747)"
-  },
-  {
    "id": "MED-C7-130",
-   "sec": "Crystals in Urine",
-   "page": 747,
-   "fmt": "truefalse",
-   "q": "Which crystal statement is TRUE as per the figure labels?",
-   "opts": [
-    "Calcium oxalate monohydrate is envelope shaped while the dihydrate is dumb bell shaped",
-    "Cholesterol crystals are hexagonal",
-    "Struvite crystals are star shaped",
-    "Calcium oxalate monohydrate is dumb bell shaped while the dihydrate is envelope shaped"
-   ],
-   "ans": 3,
-   "exp": "Monohydrate – dumb bell; dihydrate – bipyramidal/envelope; cholesterol crystals are listed without those shapes. (Book p747)"
-  },
-  {
-   "id": "MED-C7-131",
-   "sec": "Crystals in Urine",
+   "sec": "Crystals in urine · p747",
    "page": 747,
    "fmt": "scenario",
    "q": "A stone former's microscopy shows bipyramidal, envelope-shaped crystals. The crystal type is:",
@@ -1969,8 +1954,68 @@
    "exp": "Calcium oxalate dihydrate: bipyramidal/envelope shaped. (Book p747)"
   },
   {
+   "id": "MED-C7-131",
+   "sec": "Crystals in urine · p747",
+   "page": 747,
+   "fmt": "truefalse",
+   "q": "Which crystal statement is TRUE as per the figure labels?",
+   "opts": [
+    "Calcium oxalate monohydrate is envelope shaped while the dihydrate is dumb bell shaped",
+    "Cholesterol crystals are hexagonal",
+    "Struvite crystals are star shaped",
+    "Calcium oxalate monohydrate is dumb bell shaped while the dihydrate is envelope shaped"
+   ],
+   "ans": 3,
+   "exp": "Monohydrate – dumb bell; dihydrate – bipyramidal/envelope; cholesterol crystals are listed without those shapes. (Book p747)"
+  },
+  {
    "id": "MED-C7-132",
-   "sec": "Crystals in urine — figure panels · p747",
+   "sec": "Crystals in urine · p747",
+   "page": 747,
+   "fmt": "recall",
+   "q": "Star-shaped crystals forming in alkaline urine are:",
+   "opts": [
+    "Calcium oxalate monohydrate",
+    "Uric acid",
+    "Struvite",
+    "Calcium phosphate"
+   ],
+   "ans": 3,
+   "exp": "Calcium phosphate (in alkaline urine): star shaped. (Book p747)"
+  },
+  {
+   "id": "MED-C7-133",
+   "sec": "Crystals in urine · p747",
+   "page": 747,
+   "fmt": "recall",
+   "q": "The coffin-lid crystal with the formula MgNH4PO4 is:",
+   "opts": [
+    "Calcium oxalate",
+    "Cystine",
+    "Struvite",
+    "Uric acid"
+   ],
+   "ans": 2,
+   "exp": "Struvite (MgNH4PO4): coffin lid appearance. (Book p747)"
+  },
+  {
+   "id": "MED-C7-134",
+   "sec": "Crystals in urine · p747",
+   "page": 747,
+   "fmt": "match",
+   "q": "Match each crystal with its shape — 1) Uric acid 2) Calcium oxalate dihydrate 3) Struvite (MgNH4PO4) … A) Coffin lid appearance B) Rhomboid crystals C) Bipyramidal / envelope shaped",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Uric acid – rhomboid; calcium oxalate dihydrate – bipyramidal/envelope; struvite – coffin lid. (Book p747)"
+  },
+  {
+   "id": "MED-C7-135",
+   "sec": "Crystals in urine · p747",
    "page": 747,
    "fmt": "recall",
    "q": "Which panel of this figure page names its crystal but prints no shape descriptor at all?",
@@ -1984,8 +2029,8 @@
    "exp": "Panel F is captioned simply 'Cholesterol crystal', while every other caption carries a shape: rhomboid, bipyramidal/envelope, dumb bell, star shaped, coffin lid and hexagonal. (Book p747)"
   },
   {
-   "id": "MED-C7-133",
-   "sec": "Crystals in urine — figure panels · p747",
+   "id": "MED-C7-136",
+   "sec": "Crystals in urine · p747",
    "page": 747,
    "fmt": "match",
    "q": "Match each figure letter with its printed caption — 1) D 2) E 3) F … A) Cholesterol crystal B) Calcium phosphate (in alkaline urine), star shaped C) Struvite (MgNH4PO4), coffin lid appearance D) Amoxicillin crystal, broom brush appearance",
@@ -1999,8 +2044,53 @@
    "exp": "The second row of photographs runs D — calcium phosphate in alkaline urine (star shaped), E — struvite (MgNH4PO4, coffin lid), F — cholesterol; the broom-brush amoxicillin panel sits in the bottom row. (Book p747)"
   },
   {
-   "id": "MED-C7-134",
-   "sec": "Crystals in urine — figure panels · p747",
+   "id": "MED-C7-137",
+   "sec": "Crystals in urine · p747",
+   "page": 747,
+   "fmt": "recall",
+   "q": "The broom brush appearance on urine microscopy belongs to crystals of:",
+   "opts": [
+    "Amoxicillin",
+    "Acyclovir",
+    "Sulfadiazine",
+    "Indinavir"
+   ],
+   "ans": 0,
+   "exp": "Amoxicillin crystal: broom brush appearance. (Book p747)"
+  },
+  {
+   "id": "MED-C7-138",
+   "sec": "Crystals in urine · p747",
+   "page": 747,
+   "fmt": "fillup",
+   "q": "Fill up: The hexagonal crystals seen on urine microscopy are ______ crystals.",
+   "opts": [
+    "Cholesterol",
+    "Cystine",
+    "Uric acid",
+    "Struvite"
+   ],
+   "ans": 1,
+   "exp": "Hexagonal cystine crystal. (Book p747)"
+  },
+  {
+   "id": "MED-C7-139",
+   "sec": "Crystals in urine · p747",
+   "page": 747,
+   "fmt": "match",
+   "q": "Match each crystal with its description — 1) Calcium oxalate monohydrate 2) Calcium phosphate 3) Cystine … A) Hexagonal crystal B) Dumb bell shaped C) Star shaped in alkaline urine",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 2,
+   "exp": "Calcium oxalate monohydrate – dumb bell; calcium phosphate – star shaped (alkaline urine); cystine – hexagonal. (Book p747)"
+  },
+  {
+   "id": "MED-C7-140",
+   "sec": "Crystals in urine · p747",
    "page": 747,
    "fmt": "oddoneout",
    "q": "Every crystal below is paired with the shape descriptor printed under its photograph EXCEPT:",
@@ -2012,21 +2102,6 @@
    ],
    "ans": 2,
    "exp": "The coffin-lid appearance belongs to struvite; the cholesterol caption carries no shape at all. (Book p747)"
-  },
-  {
-   "id": "MED-C7-135",
-   "sec": "Crystals in urine — figure panels · p747",
-   "page": 747,
-   "fmt": "truefalse",
-   "q": "Panels A, B and C form the top row of the figure and are captioned uric acid, calcium oxalate dihydrate and calcium oxalate monohydrate in that order.",
-   "opts": [
-    "True — and all three are described as envelope shaped",
-    "True — that is the sequence of the three captions",
-    "False — panel B is calcium oxalate monohydrate and C is dihydrate",
-    "False — panel A is captioned calcium phosphate"
-   ],
-   "ans": 1,
-   "exp": "Top row: A uric acid (rhomboid), B calcium oxalate dihydrate (bipyramidal/envelope), C calcium oxalate monohydrate (dumb bell). (Book p747)"
   }
  ],
  "units": [
@@ -2036,7 +2111,7 @@
    "n": 1,
    "title": "Urine collection, analysis window & preservatives",
    "sec": "Urine Collection · p740",
-   "guide": "Second morning sample by midstream technique; analyse within 2–4 h at room temperature and check pH immediately; formaldehyde or glutaraldehyde as preservatives, 2–8°C for up to 12 h; no strenuous exercise for 72 h, no collection during menses, and in catheterised patients always fresh urine — never from the urobag.",
+   "guide": "Source-order revision, 22 Sep 2026: questions were reordered to the printed sequence, one wrong value (<200 mOsm/kg) corrected and missing captions/rows added. Previous completion badges and XP are retained; replay this unit. Sample, analysis window, preservatives, storage, the two things to avoid, the two catheter rules and the photo caption, in printed order.",
    "qs": [
     "MED-C7-001",
     "MED-C7-002",
@@ -2044,7 +2119,8 @@
     "MED-C7-004",
     "MED-C7-005",
     "MED-C7-006",
-    "MED-C7-007"
+    "MED-C7-007",
+    "MED-C7-008"
    ]
   },
   {
@@ -2052,17 +2128,19 @@
    "ch": 7,
    "n": 2,
    "title": "Appearance: colour table & its drug causes",
-   "sec": "Physical Properties — Appearance · p740",
-   "guide": "Light yellow is normal and pale/white means high water intake; pink = desferrioxamine or beetroot; imipenem + cilastatin darkens on standing; triamterene (ENaC blocker) greens, nitrofurantoin browns, rifampicin and entacapone (COMT inhibitor) orange.",
+   "sec": "Physical Properties: appearance · p740",
+   "guide": "Source-order revision, 22 Sep 2026: questions were reordered to the printed sequence, one wrong value (<200 mOsm/kg) corrected and missing captions/rows added. Previous completion badges and XP are retained; replay this unit. The seven colour rows top-to-bottom (light yellow, pale/white, pink, darkening on standing, green, brown, orange) and the jar caption.",
    "qs": [
-    "MED-C7-008",
     "MED-C7-009",
     "MED-C7-010",
     "MED-C7-011",
     "MED-C7-012",
     "MED-C7-013",
     "MED-C7-014",
-    "MED-C7-015"
+    "MED-C7-015",
+    "MED-C7-016",
+    "MED-C7-017",
+    "MED-C7-018"
    ]
   },
   {
@@ -2070,19 +2148,19 @@
    "ch": 7,
    "n": 3,
    "title": "Odour table: metabolic diseases and their smells",
-   "sec": "Physical Properties — Odour · p740-741",
-   "guide": "Pungent = infection until proven otherwise (bacterial ammonia); musty/mousy PKU; curry/maple syrup MSUD; sweaty feet isovaleric acidemia or glutaric aciduria II; cabbage-like and rancid butter both = tyrosinemia type I; cat urine MCD; acid smell MMA; fish trimethylaminuria; sulfurous cystinuria; sweet beta-ketothiolase deficiency; swimming pool hawkinsinuria.",
+   "sec": "Physical Properties: odour · p740-741",
+   "guide": "Source-order revision, 22 Sep 2026: questions were reordered to the printed sequence, one wrong value (<200 mOsm/kg) corrected and missing captions/rows added. Previous completion badges and XP are retained; replay this unit. Pungent, musty/mousy, curry/maple syrup, sweaty feet (p740), then cabbage-like/rancid butter, cat urine, acid, fish, sulfurous, sweet, swimming pool (p741).",
    "qs": [
-    "MED-C7-016",
-    "MED-C7-017",
-    "MED-C7-018",
     "MED-C7-019",
     "MED-C7-020",
     "MED-C7-021",
     "MED-C7-022",
     "MED-C7-023",
     "MED-C7-024",
-    "MED-C7-025"
+    "MED-C7-025",
+    "MED-C7-026",
+    "MED-C7-027",
+    "MED-C7-028"
    ]
   },
   {
@@ -2090,12 +2168,9 @@
    "ch": 7,
    "n": 4,
    "title": "Other properties, acidification & concentration",
-   "sec": "Other Properties & Regulation · p741",
-   "guide": "Urine pH 4–4.5, SG 1.020–1.040, osmolality 800–900 against blood 7.35–7.40 / 1.010 / 285–290. α-Intercalated cells of the CCD secrete H+ (NH4+ = non-titratable major acid, H2PO4− = titratable); concentration needs ADH, urea-driven medullary osmolality and vasa recta. pH >5.5 × 3 days with normal RFT = type-1 RTA; SG <1.005 with osmolality <300 = DI; isosthenuria = ATN/CTID.",
+   "sec": "Other properties & clinical significance · p741",
+   "guide": "Source-order revision, 22 Sep 2026: questions were reordered to the printed sequence, one wrong value (<200 mOsm/kg) corrected and missing captions/rows added. Previous completion badges and XP are retained; replay this unit. pH, specific gravity and osmolality rows; the α-intercalated-cell diagram; the three concentration bullets; the abnormal-values table (Type-1 RTA, DI at <1.005 and <200 mOsm/kg, isosthenuria).",
    "qs": [
-    "MED-C7-026",
-    "MED-C7-027",
-    "MED-C7-028",
     "MED-C7-029",
     "MED-C7-030",
     "MED-C7-031",
@@ -2106,7 +2181,10 @@
     "MED-C7-036",
     "MED-C7-037",
     "MED-C7-038",
-    "MED-C7-039"
+    "MED-C7-039",
+    "MED-C7-040",
+    "MED-C7-041",
+    "MED-C7-042"
    ]
   },
   {
@@ -2115,11 +2193,8 @@
    "n": 5,
    "title": "High-coloured urine: causes & the dipstick–spin–biopsy approach",
    "sec": "High Colored Urine · p742",
-   "guide": "90% urological (carcinoma bladder m/c), 9% nephrological, 1% hematological (intravascular hemolysis). Dipstick positive → spin at 1600 rpm × 5 min: clear supernatant = RBCs (glomerular if ≥40% dysmorphic, ≥5% acanthocytes or a single RBC cast with proteinuria → biopsy → mesangial disease/IgA; else radiological), coloured supernatant left 3–6 h fades with myoglobin and stays with haemoglobin.",
+   "guide": "Source-order revision, 22 Sep 2026: questions were reordered to the printed sequence, one wrong value (<200 mOsm/kg) corrected and missing captions/rows added. Previous completion badges and XP are retained; replay this unit. Presentation line and photo; the 90/9/1 causes; dipstick positive/negative; centrifugation; clear → RBC → glomerular criteria → biopsy → IgA, urological → imaging; high-coloured → 3–6 h → fades/persists.",
    "qs": [
-    "MED-C7-040",
-    "MED-C7-041",
-    "MED-C7-042",
     "MED-C7-043",
     "MED-C7-044",
     "MED-C7-045",
@@ -2136,7 +2211,12 @@
     "MED-C7-056",
     "MED-C7-057",
     "MED-C7-058",
-    "MED-C7-059"
+    "MED-C7-059",
+    "MED-C7-060",
+    "MED-C7-061",
+    "MED-C7-062",
+    "MED-C7-063",
+    "MED-C7-064"
    ]
   },
   {
@@ -2144,14 +2224,9 @@
    "ch": 7,
    "n": 6,
    "title": "RBC morphology & the dipstick parameter table",
-   "sec": "RBC Morphology & Dipstick Parameters · p743",
-   "guide": "Panel A (urological) = crenated, isomorphic; panels B and C (nephrological) = dysmorphic and acanthocyte 'mickey mouse' cells. Leukocytes and nitrites share one UTI cell (high specificity, poor sensitivity), urobilinogen = extravascular hemolysis, glucose = proximal RTA (euglycemic glycosuria) and SGLT2 inhibitors (euglycemic ketosis); protein/pH/blood/SG/ketones/bilirubin carry a dash. Concentrated urine, high density, proteinuria, glucosuria, cephalothin, tetracycline, cephalexin and tobramycin disturb the leukocyte pad.",
+   "sec": "Types of RBC & dipstick parameters · p743",
+   "guide": "Source-order revision, 22 Sep 2026: questions were reordered to the printed sequence, one wrong value (<200 mOsm/kg) corrected and missing captions/rows added. Previous completion badges and XP are retained; replay this unit. Urological (crenated, isomorphic) then nephrological (dysmorphic, acanthocytes/Mickey mouse); the dipstick rows with conditions; the leucocyte-test factors.",
    "qs": [
-    "MED-C7-060",
-    "MED-C7-061",
-    "MED-C7-062",
-    "MED-C7-063",
-    "MED-C7-064",
     "MED-C7-065",
     "MED-C7-066",
     "MED-C7-067",
@@ -2160,7 +2235,12 @@
     "MED-C7-070",
     "MED-C7-071",
     "MED-C7-072",
-    "MED-C7-073"
+    "MED-C7-073",
+    "MED-C7-074",
+    "MED-C7-075",
+    "MED-C7-076",
+    "MED-C7-077",
+    "MED-C7-078"
    ]
   },
   {
@@ -2169,13 +2249,8 @@
    "n": 7,
    "title": "Proteinuria: uromodulin, cut-offs, albumin & tests",
    "sec": "Proteinuria · p744",
-   "guide": "Uromodulin (Tamm-Horsfall) is 70–80 mg/day from the thick ascending limb, the commonest urinary protein and the cast matrix. <150 normal; 150–500 functional (stress, anxiety, menses, protein supplements); >500 significant, >300 in pregnancy. Albumin: <30 normal, 30–300 microalbuminuria (a vascular-integrity marker needing evaluation), >300 albuminuria; albumin → tubular injury → inflammation → TGF-β → fibrosis. Four tests; the dipstick is qualitative, only lights up near 800 mg, sees albumin only, and must be supplemented.",
+   "guide": "Source-order revision, 22 Sep 2026: questions were reordered to the printed sequence, one wrong value (<200 mOsm/kg) corrected and missing captions/rows added. Previous completion badges and XP are retained; replay this unit. Uromodulin's four bullets; the protein-levels table row by row; the albumin injury chain; the albumin table; moderately elevated albumin; the four tests with the dipstick's disadvantages.",
    "qs": [
-    "MED-C7-074",
-    "MED-C7-075",
-    "MED-C7-076",
-    "MED-C7-077",
-    "MED-C7-078",
     "MED-C7-079",
     "MED-C7-080",
     "MED-C7-081",
@@ -2188,7 +2263,12 @@
     "MED-C7-088",
     "MED-C7-089",
     "MED-C7-090",
-    "MED-C7-091"
+    "MED-C7-091",
+    "MED-C7-092",
+    "MED-C7-093",
+    "MED-C7-094",
+    "MED-C7-095",
+    "MED-C7-096"
    ]
   },
   {
@@ -2196,14 +2276,9 @@
    "ch": 7,
    "n": 8,
    "title": "Microscopy: cells, Maltese cross & cast formation",
-   "sec": "Microscopic Examination & Casts · p745",
-   "guide": "RBC < WBC < epithelial cell. Phase contrast shows monomorphic cells in urological bleeding; tubular epithelial cells have granular cytoplasm and a lobulated nucleus; oval fat bodies show the Maltese cross — in blood with babesiosis, in kidney with Fabry's, ADPKD, acute/chronic interstitial nephritis and prerenal azotemia. Casts form in the DCT; hyaline = normal or kidney disease, granular = kidney disease.",
+   "sec": "Microscopic Examination · p745",
+   "guide": "Source-order revision, 22 Sep 2026: questions were reordered to the printed sequence, one wrong value (<200 mOsm/kg) corrected and missing captions/rows added. Previous completion badges and XP are retained; replay this unit. Cell size; the four photographs and captions; the polarizing-microscope list (blood: babesiosis; kidney: four causes); cast formation in the DCT; hyaline, coarse and fine granular rows.",
    "qs": [
-    "MED-C7-092",
-    "MED-C7-093",
-    "MED-C7-094",
-    "MED-C7-095",
-    "MED-C7-096",
     "MED-C7-097",
     "MED-C7-098",
     "MED-C7-099",
@@ -2213,7 +2288,12 @@
     "MED-C7-103",
     "MED-C7-104",
     "MED-C7-105",
-    "MED-C7-106"
+    "MED-C7-106",
+    "MED-C7-107",
+    "MED-C7-108",
+    "MED-C7-109",
+    "MED-C7-110",
+    "MED-C7-111"
    ]
   },
   {
@@ -2221,14 +2301,9 @@
    "ch": 7,
    "n": 9,
    "title": "Casts and their clinical associations",
-   "sec": "Casts in Urine · p746",
-   "guide": "Pigment fine granular = pigment nephropathy (hemolysis, rhabdomyolysis); RBC = glomerular hematuria; WBC = acute pyelonephritis, PSGN, ATN/AIN; tubular epithelial (muddy brown) = most specific for ATN/AIN; broad + waxy = CKD; fatty = lipiduria of nephrotic syndrome and Fabry's; eosinophil = ATN/AIN; fractured (on biopsy) = myeloma.",
+   "sec": "Casts in urine · p746",
+   "guide": "Source-order revision, 22 Sep 2026: questions were reordered to the printed sequence, one wrong value (<200 mOsm/kg) corrected and missing captions/rows added. Previous completion badges and XP are retained; replay this unit. Pigment fine granular, RBC, WBC, tubular epithelial (muddy brown), broad/waxy, fatty, eosinophil and fractured casts in table order.",
    "qs": [
-    "MED-C7-107",
-    "MED-C7-108",
-    "MED-C7-109",
-    "MED-C7-110",
-    "MED-C7-111",
     "MED-C7-112",
     "MED-C7-113",
     "MED-C7-114",
@@ -2239,7 +2314,12 @@
     "MED-C7-119",
     "MED-C7-120",
     "MED-C7-121",
-    "MED-C7-122"
+    "MED-C7-122",
+    "MED-C7-123",
+    "MED-C7-124",
+    "MED-C7-125",
+    "MED-C7-126",
+    "MED-C7-127"
    ]
   },
   {
@@ -2247,14 +2327,9 @@
    "ch": 7,
    "n": 10,
    "title": "Urinary crystals, shapes and panels",
-   "sec": "Crystals in Urine · p747",
-   "guide": "A uric acid rhomboid; B calcium oxalate dihydrate bipyramidal/envelope; C monohydrate dumb-bell; D calcium phosphate star-shaped in alkaline urine; E struvite (MgNH4PO4) coffin-lid; F cholesterol (no shape given); G hexagonal cystine; plus the broom-brush amoxicillin crystals.",
+   "sec": "Crystals in urine · p747",
+   "guide": "Source-order revision, 22 Sep 2026: questions were reordered to the printed sequence, one wrong value (<200 mOsm/kg) corrected and missing captions/rows added. Previous completion badges and XP are retained; replay this unit. Panels A–G in printed order: uric acid, calcium oxalate dihydrate and monohydrate, calcium phosphate, struvite, cholesterol, amoxicillin, cystine.",
    "qs": [
-    "MED-C7-123",
-    "MED-C7-124",
-    "MED-C7-125",
-    "MED-C7-126",
-    "MED-C7-127",
     "MED-C7-128",
     "MED-C7-129",
     "MED-C7-130",
@@ -2262,7 +2337,12 @@
     "MED-C7-132",
     "MED-C7-133",
     "MED-C7-134",
-    "MED-C7-135"
+    "MED-C7-135",
+    "MED-C7-136",
+    "MED-C7-137",
+    "MED-C7-138",
+    "MED-C7-139",
+    "MED-C7-140"
    ]
   }
  ]

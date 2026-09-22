@@ -1,5 +1,12 @@
 # Re-audit & rebuild report — Chapters 6–15 (Book p734–785)
 
+> **SUPERSEDED WARNING (2026-09-22).** The strict source review of Ch 6 found
+> **35 of its 133 answer keys wrong** despite this report's green gates: the
+> `migrate_parts.py` un-rotation step moved the correct option out of slot 0 for
+> hand-authored items. Ch 7–12 went through the same pipeline and are NOT
+> certified until each stored key is checked against the scan in book order.
+> Ch 6 is now covered by `REAUDIT_CH6_SOURCE_ORDER.md`.
+
 Scope of this batch: **Ch 6 → Ch 15** of Marrow Ed 8, Medicine Vol 3 — i.e. Renal
 Physiology (p734–739), Urine Analysis (p740–747), Basic Approach to Kidney Disease &
 Renal Artery Stenosis (p748–752), Thrombotic Microangiopathy (p753–755), Glomerular

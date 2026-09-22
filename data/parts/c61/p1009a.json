@@ -1,78 +1,78 @@
 {
-  "page": 1009,
-  "sec": "Treatment of Hepatorenal Syndrome",
-  "items": [
-    {
-      "fmt": "management",
-      "q": "What is the definitive and curative management for hepatorenal syndrome (HRS)?",
-      "opts": [
-        "Liver transplantation",
-        "Lifelong hemodialysis",
-        "Bilateral renal artery stenting",
-        "Peritoneovenous shunt placement"
-      ],
-      "ans": 0,
-      "exp": "Liver transplantation is the definitive management for hepatorenal syndrome. (Book p1009)"
-    },
-    {
-      "fmt": "numeric",
-      "q": "What is the recommended dosing and titration schedule for intravenous terlipressin used to reverse splanchnic vasodilation prior to liver transplantation in HRS?",
-      "opts": [
-        "1 mg IV every 4–6 hours, titrating up to 2 mg IV every 4–6 hours (max 12 mg/day)",
-        "2 mg IV stat followed by 1 mg IV every 12 hours (maximum 4 mg/day)",
-        "0.5 mg IV continuous infusion doubling every 24 hours (max 6 mg/day)",
-        "4 mg IV every 8 hours with rapid taper after 48 hours (max 16 mg/day)"
-      ],
-      "ans": 0,
-      "exp": "Terlipressin is administered as 1 mg IV every 4-6 hours, titrated up to 2 mg IV every 4-6 hours, with a maximum dose of 12 mg/day. (Book p1009)"
-    },
-    {
-      "fmt": "recall",
-      "q": "Which medical regimens are used to counter splanchnic vasodilation and serve as a pharmacological bridge to liver transplantation in HRS?",
-      "opts": [
-        "Terlipressin, subcutaneous Octreotide plus oral Midodrine, or Norepinephrine",
-        "Dopamine infusion, oral furosemide, and intravenous loop diuretics",
-        "Nitroprusside, oral hydralazine, and intravenous labetalol",
-        "Spironolactone, amiloride, and intravenous hydrochlorothiazide"
-      ],
-      "ans": 0,
-      "exp": "Medical therapy to prevent splanchnic vasodilation until transplant includes: Terlipressin, subcutaneous Octreotide + oral Midodrine (oral alpha agonist), or Norepinephrine. (Book p1009)"
-    },
-    {
-      "fmt": "fillup",
-      "q": "In the medical management of hepatorenal syndrome, midodrine is administered as an ________ and functions pharmacologically as an ________.",
-      "opts": [
-        "Oral agent; alpha-adrenergic agonist",
-        "Intravenous infusion; beta-2 agonist",
-        "Subcutaneous injection; somatostatin analog",
-        "Intramuscular depot; calcium channel blocker"
-      ],
-      "ans": 0,
-      "exp": "Midodrine is an oral alpha-agonist (oral α agonist) used in combination with subcutaneous octreotide. (Book p1009)"
-    },
-    {
-      "fmt": "scenario",
-      "q": "A 49-year-old patient with decompensated cirrhosis and type 1 hepatorenal syndrome (HRS-AKI) is listed for urgent orthotopic liver transplantation. While awaiting donor organ availability, what medical regimen should be instituted immediately to reverse splanchnic vasodilation?",
-      "opts": [
-        "Terlipressin 1 mg IV Q4-6H titrated up to 2 mg Q4-6H (or octreotide plus midodrine)",
-        "Aggressive volume resuscitation with 5% dextrose and forced furosemide diuresis",
-        "Empirical high-dose oral spironolactone 400 mg daily with potassium chloride",
-        "Bilateral renal denervation via catheter-based radiofrequency ablation"
-      ],
-      "ans": 0,
-      "exp": "Medical management to counter splanchnic vasodilation until liver transplant includes terlipressin (1 mg IV Q4-6h up to 2 mg Q4-6h, max 12 mg/d), octreotide plus midodrine, or norepinephrine. (Book p1009)"
-    },
-    {
-      "fmt": "match",
-      "q": "Match each pharmacological agent used in hepatorenal syndrome with its specific administration detail:\n1. Terlipressin\n2. Midodrine\n3. Octreotide",
-      "opts": [
-        "1: 1 mg IV Q4-6h titrating to 2 mg IV Q4-6h (max 12 mg/d); 2: Oral alpha agonist; 3: Subcutaneous (S/C) administration",
-        "1: Subcutaneous administration; 2: 1 mg IV Q4-6h (max 12 mg/d); 3: Oral alpha agonist",
-        "1: Oral alpha agonist; 2: Subcutaneous administration; 3: 1 mg IV Q4-6h titrating to 2 mg",
-        "1: 1 mg IV Q4-6h; 2: Subcutaneous administration; 3: Oral alpha agonist"
-      ],
-      "ans": 0,
-      "exp": "Terlipressin is given IV 1 mg Q4-6h up to 2 mg Q4-6h (max 12 mg/d); midodrine is an oral alpha agonist; octreotide is given subcutaneously (S/C) in combination with midodrine. (Book p1009)"
-    }
-  ]
+ "page": 1009,
+ "sec": "Treatment of Hepatorenal Syndrome",
+ "items": [
+  {
+   "fmt": "management",
+   "q": "What is the definitive and curative management for hepatorenal syndrome (HRS)?",
+   "opts": [
+    "Liver transplantation",
+    "Lifelong hemodialysis",
+    "Bilateral renal artery stenting",
+    "Peritoneovenous shunt placement"
+   ],
+   "ans": 0,
+   "exp": "Liver transplantation is the definitive management for hepatorenal syndrome. (Book p1009)"
+  },
+  {
+   "fmt": "numeric",
+   "q": "What is the recommended dosing and titration schedule for intravenous terlipressin used to reverse splanchnic vasodilation prior to liver transplantation in HRS?",
+   "opts": [
+    "1 mg IV every 4–6 hours, titrating up to 2 mg IV every 4–6 hours (max 12 mg/day)",
+    "2 mg IV stat followed by 1 mg IV every 12 hours (maximum 4 mg/day)",
+    "0.5 mg IV continuous infusion doubling every 24 hours (max 6 mg/day)",
+    "4 mg IV every 8 hours with rapid taper after 48 hours (max 16 mg/day)"
+   ],
+   "ans": 0,
+   "exp": "Terlipressin is administered as 1 mg IV every 4-6 hours, titrated up to 2 mg IV every 4-6 hours, with a maximum dose of 12 mg/day. (Book p1009)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Which medical regimens are used to counter splanchnic vasodilation and serve as a pharmacological bridge to liver transplantation in HRS?",
+   "opts": [
+    "Terlipressin, subcutaneous Octreotide plus oral Midodrine, or Norepinephrine",
+    "Dopamine infusion, oral furosemide, and intravenous loop diuretics",
+    "Nitroprusside, oral hydralazine, and intravenous labetalol",
+    "Spironolactone, amiloride, and intravenous hydrochlorothiazide"
+   ],
+   "ans": 0,
+   "exp": "Medical therapy to prevent splanchnic vasodilation until transplant includes: Terlipressin, subcutaneous Octreotide + oral Midodrine (oral alpha agonist), or Norepinephrine. (Book p1009)"
+  },
+  {
+   "fmt": "fillup",
+   "q": "In the medical management of hepatorenal syndrome, midodrine is administered as an ________ and functions pharmacologically as an ________.",
+   "opts": [
+    "Oral agent; alpha-adrenergic agonist",
+    "Intravenous infusion; beta-2 agonist",
+    "Subcutaneous injection; somatostatin analog",
+    "Intramuscular depot; calcium channel blocker"
+   ],
+   "ans": 0,
+   "exp": "Midodrine is an oral alpha-agonist (oral α agonist) used in combination with subcutaneous octreotide. (Book p1009)"
+  },
+  {
+   "fmt": "scenario",
+   "q": "A 49-year-old patient with decompensated cirrhosis and type 1 hepatorenal syndrome (HRS-AKI) is listed for urgent orthotopic liver transplantation. While awaiting donor organ availability, what medical regimen should be instituted immediately to reverse splanchnic vasodilation?",
+   "opts": [
+    "Terlipressin 1 mg IV Q4-6H titrated up to 2 mg Q4-6H (or octreotide plus midodrine)",
+    "Aggressive volume resuscitation with 5% dextrose and forced furosemide diuresis",
+    "Empirical high-dose oral spironolactone 400 mg daily with potassium chloride",
+    "Bilateral renal denervation via catheter-based radiofrequency ablation"
+   ],
+   "ans": 0,
+   "exp": "Medical management to counter splanchnic vasodilation until liver transplant includes terlipressin (1 mg IV Q4-6h up to 2 mg Q4-6h, max 12 mg/d), octreotide plus midodrine, or norepinephrine. (Book p1009)"
+  },
+  {
+   "fmt": "recall",
+   "q": "Match each pharmacological agent used in hepatorenal syndrome with its specific administration detail: 1. Terlipressin 2. Midodrine 3. Octreotide",
+   "opts": [
+    "1: 1 mg IV Q4-6h titrating to 2 mg IV Q4-6h (max 12 mg/d); 2: Oral alpha agonist; 3: Subcutaneous (S/C) administration",
+    "1: Subcutaneous administration; 2: 1 mg IV Q4-6h (max 12 mg/d); 3: Oral alpha agonist",
+    "1: Oral alpha agonist; 2: Subcutaneous administration; 3: 1 mg IV Q4-6h titrating to 2 mg",
+    "1: 1 mg IV Q4-6h; 2: Subcutaneous administration; 3: Oral alpha agonist"
+   ],
+   "ans": 0,
+   "exp": "Terlipressin is given IV 1 mg Q4-6h up to 2 mg Q4-6h (max 12 mg/d); midodrine is an oral alpha agonist; octreotide is given subcutaneously (S/C) in combination with midodrine. (Book p1009)"
+  }
+ ]
 }
