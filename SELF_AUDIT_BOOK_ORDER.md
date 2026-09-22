@@ -10,7 +10,7 @@ Date: **2026-09-20**
 > and the `REAUDIT_CH*_SOURCE_ORDER.md` reports for current scope; Ch 1–7 are
 > reviewed (Ch 6 on 2026-09-22 found 35 wrong answer keys — see
 > `REAUDIT_CH6_SOURCE_ORDER.md`; Ch 7 found 0 wrong keys, 1 wrong value — see
-> `REAUDIT_CH7_SOURCE_ORDER.md`; Ch 8 found 0 wrong keys — see `REAUDIT_CH8_SOURCE_ORDER.md`); next is Ch 9, p753.
+> `REAUDIT_CH7_SOURCE_ORDER.md`; Ch 8 found 0 wrong keys — see `REAUDIT_CH8_SOURCE_ORDER.md`; Ch 9 found 1 wrong key — see `REAUDIT_CH9_SOURCE_ORDER.md`); next is Ch 10, p756.
 
 ## Verdict: NOT COMPLIANT
 
