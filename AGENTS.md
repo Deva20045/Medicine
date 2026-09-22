@@ -81,10 +81,13 @@ Read `PROGRESS.md`, `SOURCE_REVIEW.md`, and `SELF_AUDIT_BOOK_ORDER.md` before co
   value fixed (DI urine osmolality printed **< 200** mOsm/kg, bank said 300); order
   re-sequenced on every page; 5 uncovered captions/rows added. Parts files removed;
   `data/ch07.json` is the source of truth.
-- **Next (authoritative): the strict recorded line-by-line source review of Ch 8–74.**
-  Recorded review manifests exist for Ch 1–7 only, so
-  `python3 check_source_coverage.py --require-all` fails by design. Ch 8 (p748,
-  Part 1 PDF p56) is the earliest pending chapter — still a migrated chapter, so
+- **Ch 8, p748–752 (2026-09-22):** source-reviewed (`author_c8_review.py`,
+  `write_ch08_manifest.py`, `REAUDIT_CH8_SOURCE_ORDER.md`). All 83 keys correct; two
+  wordings aligned to print; order re-sequenced on every page. Parts files removed.
+- **Next (authoritative): the strict recorded line-by-line source review of Ch 9–74.**
+  Recorded review manifests exist for Ch 1–8 only, so
+  `python3 check_source_coverage.py --require-all` fails by design. Ch 9 (p753,
+  Part 1 PDF p61) is the earliest pending chapter — still a migrated chapter, so
   check every key against the scan; continue in book order and never
   describe an incremental merge as whole-book compliance.
 - The initial Ch 1 backward jump is repaired. PR #18 replaced Ch 52–56 with a

@@ -34,8 +34,8 @@ chapter that passed through the parts pipeline (Ch 7–12 at least) must have ev
 stored key checked against the scan when reached. See `REAUDIT_CH6_SOURCE_ORDER.md`.
 
 **All-chapter scope:** the user requested continuing **all 74 chapters** and
-merging the work. Track all of them in **`SOURCE_REVIEW.md`**; currently **7/74
-chapters, 43/364 pages** have valid recorded source reviews. This is incremental
+merging the work. Track all of them in **`SOURCE_REVIEW.md`**; currently **8/74
+chapters, 48/364 pages** have valid recorded source reviews. This is incremental
 work, not whole-book completion. No background authoring is implied by this queue.
 
 **Current structural inventory:** **5,371 questions · 412 units · 74 live
@@ -47,17 +47,19 @@ The full-bank DOM-shim smoke test exercises **10,742 correct/incorrect answer
 paths across all 412 units**. It reports **44 legacy format defects** in
 unreviewed chapters (Ch 26/29/60/61), not concealed by runtime PASS. Source
 review remains separate; `check_source_coverage.py --require-all` intentionally
-fails with 67 chapters pending. This completion gate must not be bypassed to
+fails with 66 chapters pending. This completion gate must not be bypassed to
 claim the merge is complete.
 
 **Ch 7 (2026-09-22):** source-reviewed, 135 → 140 q; 0 wrong keys, 1 wrong value
 (DI osmolality < 200 mOsm/kg) fixed, order corrected. See `REAUDIT_CH7_SOURCE_ORDER.md`.
 
-**NEXT (authoritative): Ch 8 — Basic Approach to Kidney Disease and Renal Artery Stenosis, Book p748–752 (Part 1 PDF pp56–60).**
+**Ch 8 (2026-09-22):** source-reviewed, 83 q; 0 wrong keys, 2 wordings aligned, order corrected. See `REAUDIT_CH8_SOURCE_ORDER.md`.
+
+**NEXT (authoritative): Ch 9 — Thrombotic Microangiopathy, Book p753–755 (Part 1 PDF pp61–63).**
 Continue source reading, checklist, repair, rebuild and verification in book order,
 including a per-item answer-key check against the print (migrated chapter).
 Do not jump ahead or return to earlier chapters. Reports: `REAUDIT_CH1_SOURCE_ORDER.md`
-… `REAUDIT_CH7_SOURCE_ORDER.md`.
+… `REAUDIT_CH8_SOURCE_ORDER.md`.
 Older NEXT/batch notes below are historical and do not override this instruction.
 
 ## Goal
@@ -234,7 +236,7 @@ review of Ch 4–74 in `SOURCE_REVIEW.md`.)*
 - [x] **Ch 5 "Glomerulus - Anatomy" (p730–733): 8 units, 88 questions — SOURCE-REVIEWED WITH CAVEATS**
 - [x] **Ch 6 "Renal Physiology" (p734–739): 10 units, 138 questions — SOURCE-REVIEWED WITH CAVEATS (35 wrong keys fixed 2026-09-22)**
 - [x] **Ch 7 "Urine Analysis" (p740–747): 10 units, 140 questions — SOURCE-REVIEWED WITH CAVEATS (DI osmolality value fixed 2026-09-22)**
-- [x] **Ch 8 "Basic Approach to Kidney Disease and Renal Artery Stenosis" (p748–752): 8 units, 83 questions — RE-AUDITED, rebuilt page-by-page**
+- [x] **Ch 8 "Basic Approach to Kidney Disease and Renal Artery Stenosis" (p748–752): 8 units, 83 questions — SOURCE-REVIEWED WITH CAVEATS (0 wrong keys, 2026-09-22)**
 - [x] **Ch 9 "Thrombotic Microangiopathy" (p753–755): 5 units, 52 questions — RE-AUDITED, rebuilt page-by-page**
 - [x] **Ch 10 "Glomerular Disease - Patterns" (p756–761): 9 units, 78 questions — RE-AUDITED, gap-filled page-by-page**
 - [x] **Ch 11 "Podocytopathies" (p762–769): 8 units, 88 questions — RE-AUDITED; 16 items re-formatted, p769 figures/treatment gap-filled**

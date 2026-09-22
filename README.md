@@ -30,7 +30,7 @@ roadmap on 2026-09-21; see [`REPORT_CH70-74.md`](REPORT_CH70-74.md)).
 | Ch 5 · Glomerulus - Anatomy (p730–733) — 8 units, 56 questions | ✅ live |
 | Ch 6 · Renal Physiology (p734–739) — 10 units, 138 questions | ✅ live (source-reviewed 2026-09-22, 35 wrong keys fixed) |
 | Ch 7 · Urine Analysis (p740–747) — 10 units, 140 questions | ✅ live (source-reviewed 2026-09-22; DI osmolality <200 fixed, order corrected) |
-| Ch 8 · Basic Approach to Kidney Disease and Renal Artery Stenosis (p748–752) — 8 units, 83 questions | ✅ live (page-anchored re-audit) |
+| Ch 8 · Basic Approach to Kidney Disease and Renal Artery Stenosis (p748–752) — 8 units, 83 questions | ✅ live (source-reviewed 2026-09-22; 0 wrong keys, order corrected) |
 | Ch 9 · Thrombotic Microangiopathy (p753–755) — 5 units, 52 questions | ✅ live (page-anchored re-audit) |
 | Ch 10 · Glomerular Disease - Patterns (p756–761) — 9 units, 78 questions | ✅ live (page-anchored re-audit) |
 | Ch 11 · Podocytopathies (p762–769) — 8 units, 88 questions | ✅ live (page-anchored re-audit) |
