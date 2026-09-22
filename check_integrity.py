@@ -25,7 +25,7 @@ LIVE_CHAPTERS = {
     3: ("Tubular Anatomy", 717, 725, 202, 13),
     4: ("Juxtaglomerular Apparatus", 726, 729, 55, 7),
     5: ("Glomerulus - Anatomy", 730, 733, 88, 8),
-    6: ("Renal Physiology", 734, 739, 133, 10),
+    6: ("Renal Physiology", 734, 739, 138, 10),
     7: ("Urine Analysis", 740, 747, 135, 10),
     8: ("Basic Approach to Kidney Disease and Renal Artery Stenosis", 748, 752, 83, 8),
     9: ("Thrombotic Microangiopathy", 753, 755, 52, 5),
