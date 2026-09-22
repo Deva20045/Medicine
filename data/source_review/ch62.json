@@ -1,0 +1,299 @@
+{
+  "chapter": 62,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+  "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+  "pdfOffset": 964,
+  "pageRange": "1010-1012",
+  "contentSha256": "2f50a8cf81fb6d67880bf551b18f7f21f62c782a62086e7ba7414fe6e112e061",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch62 p1010-1012: auto-generated source checklist from existing 32 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 1010,
+      "pdfPage": 46,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1010 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1010.",
+      "elements": [
+        {
+          "element": "p1010-e001",
+          "page": 1010,
+          "source": "What is the alternative medical eponym for hepatic encephalopathy? [The header explicitly notes: 'AKA Porto systemic encephalopathy.' (Book p1010)]",
+          "questionIds": [
+            "MED-C62-001"
+          ]
+        },
+        {
+          "element": "p1010-e002",
+          "page": 1010,
+          "source": "Match each type of hepatic encephalopathy with its underlying etiology — 1) Type A 2) Type B 3) Type C … A) Cirrhosis with portal hypertension (most common overall) B) Fulminant hepatic failure producing HE, where cerebral edema is the most common cause of death C) Transjugular intrahepatic portosystemic shunt (TIPSS) associated HE [Classification: Type A = Fulminant failure (cerebral edema m/c cause of death); Type B = TIPSS-associated; Type C = Cirrhosis with Portal HTN (m/c). (]",
+          "questionIds": [
+            "MED-C62-002"
+          ]
+        },
+        {
+          "element": "p1010-e003",
+          "page": 1010,
+          "source": "What is the most common cause of death in patients with Type A hepatic encephalopathy? [Under Type A, the book notes: '↑ Cerebral edema : m/c cause of death'. (Book p1010)]",
+          "questionIds": [
+            "MED-C62-003"
+          ]
+        },
+        {
+          "element": "p1010-e004",
+          "page": 1010,
+          "source": "Which of the following neurotoxins is NOT listed under the etiology of hepatic encephalopathy on this page? [Neurotoxins listed are NH3 (m/c), mercaptan, phenol, aromatic AA, Mn, GABA, octopamine, and free fatty acids; beta-amyloid is not listed. (Book p1010)]",
+          "questionIds": [
+            "MED-C62-004"
+          ]
+        },
+        {
+          "element": "p1010-e005",
+          "page": 1010,
+          "source": "Fill up: In the colon, high dietary protein intake is converted into glutamine, which is subsequently converted into ammonia by the bacterial enzyme ______. [The flowchart notes that colonic bacteria metabolize glutamine via 'Glutaminase' to produce NH3. (Book p1010)]",
+          "questionIds": [
+            "MED-C62-005"
+          ]
+        },
+        {
+          "element": "p1010-e006",
+          "page": 1010,
+          "source": "By which biophysical mechanism does gaseous ammonia (NH3) cross the blood-brain barrier to enter the brain? [The pathophysiology diagram states: 'NH3 ↑↑ Absorbed by : Non-ionic diffusion damages'. (Book p1010)]",
+          "questionIds": [
+            "MED-C62-006"
+          ]
+        },
+        {
+          "element": "p1010-e007",
+          "page": 1010,
+          "source": "What characteristic histopathological astrocyte alteration is observed in hepatic encephalopathy? [Astrocytes in HE characteristically transform into 'Alzheimer's type-2 astrocyte'. (Book p1010)]",
+          "questionIds": [
+            "MED-C62-007"
+          ]
+        },
+        {
+          "element": "p1010-e008",
+          "page": 1010,
+          "source": "Fill up: Inside astrocytes, ammonia and glutamate are combined by the enzyme ______ to form toxic glutamine, leading to osmotic astrocyte swelling. [The reaction reads: 'NH3 + Glutamate -(Glutamine Synthetase)-> Glutamine (Toxic)'. (Book p1010)]",
+          "questionIds": [
+            "MED-C62-008"
+          ]
+        },
+        {
+          "element": "p1010-e009",
+          "page": 1010,
+          "source": "Assess the two statements on central neurochemistry in HE: I Glutamate concentration is decreased in systemic blood but increased in cerebrospinal fluid (CSF). II Alzheimer type-1 cells are the classic pathological finding in hepatic encephalopathy. [Statement I is true ('Glutamate: ↓ in blood, ↑ in CSF'). Statement II is false because HE features Alzheimer type-2 astrocytes; Alzheimer type-1 cells]",
+          "questionIds": [
+            "MED-C62-009"
+          ]
+        },
+        {
+          "element": "p1010-e010",
+          "page": 1010,
+          "source": "A 50-year-old man with decompensated cirrhosis and ascites develops severe confusion. Serum ammonia is markedly elevated. In the cerebral cortex, excessive glutamine accumulation within astrocytes leads to osmotic swelling and triggers secondary neuronal injury via which receptor? [Ammonia and glutamine toxicity leads to 'NMDA -> Secondary Neuronal damage'. (Book p1010)]",
+          "questionIds": [
+            "MED-C62-010"
+          ]
+        },
+        {
+          "element": "p1010-e011",
+          "page": 1010,
+          "source": "In which neurological disorder are Alzheimer's type-1 cells characteristically observed according to the margin note? [The note states: 'Alzheimer's type-1 cell : PMLE (Aggressive multifocal Leukoencephalopathy)'. (Book p1010)]",
+          "questionIds": [
+            "MED-C62-011"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1011,
+      "pdfPage": 47,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1011 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1011.",
+      "elements": [
+        {
+          "element": "p1011-e001",
+          "page": 1011,
+          "source": "Match each category of precipitating factors in hepatic encephalopathy with its representative examples — 1) NH3-increasing nitrogenous loads 2) Alkalosis and electrolyte drivers … A) Hypokalemia from diuretics, hypovolemia, hyponatremia, and dehydration activating RAAS B) High dietary protein, constipation, GI hemorrhage, sepsis, and blood transfusion [Direct NH3-increasing factors include high protein, constipation, GI hemorrhage, sepsis, and transfusion; alkalosis triggers include hypokalemia",
+          "questionIds": [
+            "MED-C62-012"
+          ]
+        },
+        {
+          "element": "p1011-e002",
+          "page": 1011,
+          "source": "Why does metabolic alkalosis aggravate hepatic encephalopathy compared to acidosis? [In the equilibrium NH3 + H+ <-> NH4+, acidosis drives conversion to non-diffusible ammonium (NH4+), whereas alkalosis drives uncharged, diffusible NH3]",
+          "questionIds": [
+            "MED-C62-013"
+          ]
+        },
+        {
+          "element": "p1011-e003",
+          "page": 1011,
+          "source": "By which mechanism do sedative drugs precipitate or worsen hepatic encephalopathy? [Under precipitating factors, sedatives (CNS drugs) act via '↑ GABA'. (Book p1011)]",
+          "questionIds": [
+            "MED-C62-014"
+          ]
+        },
+        {
+          "element": "p1011-e004",
+          "page": 1011,
+          "source": "Match each category of hepatic encephalopathy under the West Haven Criteria with its included stages — 1) Covert HE 2) Overt HE … A) Grade-II, Grade-III, and Grade-IV B) Minimal HE and Grade-I [West Haven criteria divide HE into Covert HE (minimal and Grade-I) and Overt HE (Grade-II, Grade-III, and Grade-IV). (Book p1011)]",
+          "questionIds": [
+            "MED-C62-015"
+          ]
+        },
+        {
+          "element": "p1011-e005",
+          "page": 1011,
+          "source": "A 56-year-old cirrhotic patient appears completely normal on routine clinical bedside examination with no confusion or asterixis. However, formal psychometric testing demonstrates a positive Number Connection Test. What grade of hepatic encephalopathy is present? [Minimal HE features a clinically normal patient whose deficit is revealed by psychometric testing, such as a positive Number Connection Test. (Book p1]",
+          "questionIds": [
+            "MED-C62-016"
+          ]
+        },
+        {
+          "element": "p1011-e006",
+          "page": 1011,
+          "source": "Which of the following is NOT a feature of Grade-I hepatic encephalopathy under the West Haven Criteria? [Grade-I features are Anxious, Altered Sleep Pattern, and Short attention span without asterixis; asterixis emerges in Grade-II. (Book p1011)]",
+          "questionIds": [
+            "MED-C62-017"
+          ]
+        },
+        {
+          "element": "p1011-e007",
+          "page": 1011,
+          "source": "Match each West Haven Grade of Overt Hepatic Encephalopathy with its defining clinical features — 1) Grade-II 2) Grade-III 3) Grade-IV … A) Semi-stupor stage, gross disorientation, bizarre behavior, responsive to pain; rigidity, clonus, hyperreflexia B) Coma; decorticate posture, triphasic waves on EEG C) Personality issues, behavioral abnormalities, disorientation; mild slurring of speech, asterixis [Grade-II = personality/behavior/disorientation + asterixis; Grade-III = semi-stupor/bizarre/pai",
+          "questionIds": [
+            "MED-C62-018"
+          ]
+        },
+        {
+          "element": "p1011-e008",
+          "page": 1011,
+          "source": "At which West Haven grade does asterixis (flapping tremor) first become clinically demonstrable? [Asterixis is absent in Minimal and Grade-I HE and first appears as a clinical finding in Grade-II. (Book p1011)]",
+          "questionIds": [
+            "MED-C62-019"
+          ]
+        },
+        {
+          "element": "p1011-e009",
+          "page": 1011,
+          "source": "Fill up: In Grade-IV hepatic encephalopathy, motor posturing manifests as ______ posture, and electroencephalography reveals bilateral synchronous triphasic waves. [Under Grade-IV clinical findings, the table lists 'Decorticate posture' and 'Triphasic EEG'. (Book p1011)]",
+          "questionIds": [
+            "MED-C62-020"
+          ]
+        },
+        {
+          "element": "p1011-e010",
+          "page": 1011,
+          "source": "Assess the two statements on HE diagnostic signs: I Constructional apraxia in early encephalopathy is elicited by asking the patient to construct a star or matchstick pattern. II Triphasic waves on EEG are characteristically seen in Minimal hepatic encephalopathy. [Statement I is true as shown in the star/matchstick test. Statement II is false because triphasic waves appear in Grade-IV coma. (Book p1011)]",
+          "questionIds": [
+            "MED-C62-021"
+          ]
+        },
+        {
+          "element": "p1011-e011",
+          "page": 1011,
+          "source": "A 62-year-old man with alcoholic cirrhosis presents in a semi-stuporous state with gross disorientation and bizarre outbursts. He localizes and withdraws only to deep nailbed pressure. Physical examination reveals marked cogwheel rigidity, ankle clonus, and 3+ hyperreflexia. What is his West Haven grade? [Semi-stupor, gross disorientation, response to pain, rigidity, clonus, and hyperreflexia define Grade-III hepatic encephalopathy. (Book p1011)]",
+          "questionIds": [
+            "MED-C62-022"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1012,
+      "pdfPage": 48,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1012 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1012.",
+      "elements": [
+        {
+          "element": "p1012-e001",
+          "page": 1012,
+          "source": "Which pharmacological intervention is designated as the 'most important' treatment for hepatic encephalopathy? [Under treatment, Lactulose Bowel wash is explicitly annotated as 'most important' with a frequency of '4 times a day'. (Book p1012)]",
+          "questionIds": [
+            "MED-C62-023"
+          ]
+        },
+        {
+          "element": "p1012-e002",
+          "page": 1012,
+          "source": "What are the recommended dosing options for Rifaximin in the management of hepatic encephalopathy? [The treatment tree specifies Rifaximin dosing as '400mg TDS / 550 mg BD'. (Book p1012)]",
+          "questionIds": [
+            "MED-C62-024"
+          ]
+        },
+        {
+          "element": "p1012-e003",
+          "page": 1012,
+          "source": "Match each pharmacological agent used in hepatic encephalopathy with its therapeutic description — 1) LOLA 2) Sodium benzoate … A) Promotes non-urea nitrogen clearance by shifting NH3 to ammonium (NH4+) excretion B) L-ornithine L-aspartate, providing substrate for residual urea cycle and glutamine synthesis [LOLA (L-ornithine L-aspartate) works alongside branched-chain AAs, while sodium benzoate shifts nitrogen waste via 'NH3 -> NH4+'. (Book p1012)]",
+          "questionIds": [
+            "MED-C62-025"
+          ]
+        },
+        {
+          "element": "p1012-e004",
+          "page": 1012,
+          "source": "Which oral hypoglycemic agent is included among the medical therapies for hepatic encephalopathy on this page? [Under the treatment header, the third branch lists 'Acarbose'. (Book p1012)]",
+          "questionIds": [
+            "MED-C62-026"
+          ]
+        },
+        {
+          "element": "p1012-e005",
+          "page": 1012,
+          "source": "Fill up: In the colon, bacterial fermentation of unabsorbed lactulose produces hydrogen gas and ______. [The diagram states: 'Lactulose fermented by colonic bacteria to H2 and VFA'. (Book p1012)]",
+          "questionIds": [
+            "MED-C62-027"
+          ]
+        },
+        {
+          "element": "p1012-e006",
+          "page": 1012,
+          "source": "Which of the following is NOT part of the mechanism of action (MOA) of lactulose detailed on this page? [The three MOA points are ↓ pH (NH3 + H+ -> NH4+), volatile fatty acid formation, and laxative effect; MRP-2 canalicular stimulation is not involved. (]",
+          "questionIds": [
+            "MED-C62-028"
+          ]
+        },
+        {
+          "element": "p1012-e007",
+          "page": 1012,
+          "source": "Why does bacterial consumption of volatile fatty acids (VFA) help reduce ammonia levels in hepatic encephalopathy? [The flowchart explains: 'Bacteria use VFA as preferred substrate, thus reducing production of ammonia'. (Book p1012)]",
+          "questionIds": [
+            "MED-C62-029"
+          ]
+        },
+        {
+          "element": "p1012-e008",
+          "page": 1012,
+          "source": "Assess the two statements on lactulose: I Lactulose is completely absorbed in the duodenum and jejunum before reaching the colon. II Ionized ammonium (NH4+) formed by luminal acidification cannot easily diffuse back across the colonic mucosa. [Statement I is false because lactulose is 'not absorbed in small intestine'. Statement II is true because ionic NH4+ is trapped in the lumen and excre]",
+          "questionIds": [
+            "MED-C62-030"
+          ]
+        },
+        {
+          "element": "p1012-e009",
+          "page": 1012,
+          "source": "What is designated as the 'Last treatment option' for patients with refractory hepatic encephalopathy? [The bottom note concludes: 'Liver Transplant : Last treatment option.' (Book p1012)]",
+          "questionIds": [
+            "MED-C62-031"
+          ]
+        },
+        {
+          "element": "p1012-e010",
+          "page": 1012,
+          "source": "A 58-year-old cirrhotic patient with recurrent Grade-II hepatic encephalopathy is managed with lactulose enemas. To further suppress ammoniagenic gut flora without inducing systemic antibiotic toxicity, non-absorbable antibiotic therapy is added. What is the standard drug and oral dosing regimen? [The recommended non-absorbable antibiotic is Rifaximin dosed at 550 mg BD or 400 mg TDS. (Book p1012)]",
+          "questionIds": [
+            "MED-C62-032"
+          ]
+        }
+      ]
+    }
+  ]
+}

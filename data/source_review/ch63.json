@@ -1,0 +1,679 @@
+{
+  "chapter": 63,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+  "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+  "pdfOffset": 964,
+  "pageRange": "1013-1019",
+  "contentSha256": "5823d9b3546f5abf74403e6f1325fca7dff8d65aa0336886ad031c1274503fa3",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch63 p1013-1019: auto-generated source checklist from existing 75 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 1013,
+      "pdfPage": 49,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1013 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1013.",
+      "elements": [
+        {
+          "element": "p1013-e001",
+          "page": 1013,
+          "source": "What is the pattern of inheritance and genetic locus responsible for Wilson's disease? [Wilson's disease is an autosomal recessive disorder caused by dysfunction of ATP7B (Wilson ATPase) located on chromosome 13q. (Book p1013)]",
+          "questionIds": [
+            "MED-C63-001"
+          ]
+        },
+        {
+          "element": "p1013-e002",
+          "page": 1013,
+          "source": "Match each inherited disorder of copper transport with its gene and clinical presentation — 1) Wilson's disease 2) Menkes kinky hair disease … A) ATP7A on X chromosome, causing severe copper deficiency, seizures, hypotonia, and brittle hair at 3 months B) ATP7B on chromosome 13q, causing copper overload presenting between 3 to 20 years [Wilson's is ATP7B on chr 13q presenting between 3–20 years; Menkes is ATP7A on the X chromosome causing copper deficiency with brittle hair and seizur]",
+          "questionIds": [
+            "MED-C63-002"
+          ]
+        },
+        {
+          "element": "p1013-e003",
+          "page": 1013,
+          "source": "What are the physiological quantities for daily ingestion of copper and its mucosal entry in the upper small bowel? [Daily copper intake is 2–5 mg, of which approximately 1 mg is absorbed mainly in the duodenum via DMT1. (Book p1013)]",
+          "questionIds": [
+            "MED-C63-003"
+          ]
+        },
+        {
+          "element": "p1013-e004",
+          "page": 1013,
+          "source": "Which of the following foods is NOT listed as a copper-rich substance on this page? [The three copper-rich substances listed are Chocolates, Nuts, and Mushrooms; citrus fruits are not listed. (Book p1013)]",
+          "questionIds": [
+            "MED-C63-004"
+          ]
+        },
+        {
+          "element": "p1013-e005",
+          "page": 1013,
+          "source": "Fill up: Inside the duodenal mucosal cell, absorbed copper is sequestered by the intracellular protein ______. [The enterocyte diagram labels: 'metallothionase [metallothionein] : Sequestors Cu inside cell'. (Book p1013)]",
+          "questionIds": [
+            "MED-C63-005"
+          ]
+        },
+        {
+          "element": "p1013-e006",
+          "page": 1013,
+          "source": "Why is Wilson's disease clinically impossible to diagnose in an infant under 3 years of age? [Metallothionein takes a minimum of 3 years to deplete its capacity, setting the minimum age of Wilson's presentation at 3–20 years. (Book p1013)]",
+          "questionIds": [
+            "MED-C63-006"
+          ]
+        },
+        {
+          "element": "p1013-e007",
+          "page": 1013,
+          "source": "What is the fundamental molecular defect underlying ceruloplasmin abnormality in Wilson's disease? [The defect is: 'Cu2+ not being incorporated in ceruloplasmin (fundamental defect) -> ↓ Ceruloplasmin degradation'. (Book p1013)]",
+          "questionIds": [
+            "MED-C63-007"
+          ]
+        },
+        {
+          "element": "p1013-e008",
+          "page": 1013,
+          "source": "What baseline physiological concentration is expected for circulating ceruloplasmin, and below what level is it diagnostic of hepatic copper retention? [Normal serum ceruloplasmin is 20–35 mg/dL, whereas in Wilson's disease it is characteristically < 10 mg/dL. (Book p1013)]",
+          "questionIds": [
+            "MED-C63-008"
+          ]
+        },
+        {
+          "element": "p1013-e009",
+          "page": 1013,
+          "source": "Assess the two statements on copper handling: I Excess systemic copper in healthy humans is cleared primarily via renal tubular filtration and enterohepatic recycling. II Apoceruloplasmin is a positive acute phase reactant and can appear falsely normal or elevated during systemic inflammation. [Statement I is false because biliary excretion is the sole physiological route ('Nil renal/enterohepatic circulation'). Statement II is true because a]",
+          "questionIds": [
+            "MED-C63-009"
+          ]
+        },
+        {
+          "element": "p1013-e010",
+          "page": 1013,
+          "source": "A 16-year-old boy presents with acute jaundice, marked fatigue, and pallor. Laboratory testing reveals low hemoglobin with negative direct Coombs test, low cholinesterase, mildly elevated AST and ALT, and a paradoxically low serum alkaline phosphatase (ALP). What metabolic liver disease must be urgently suspected? [Acute hepatitis in a patient <20 years with low Hb, low cholinesterase, mild transaminitis, and low ALP strongly indicates acute Wilson's disease. (Bo]",
+          "questionIds": [
+            "MED-C63-010"
+          ]
+        },
+        {
+          "element": "p1013-e011",
+          "page": 1013,
+          "source": "Which of the following findings is NOT part of the classic constellation that raises suspicion for acute Wilson's disease in an adolescent? [Wilson's acute presentation features LOW alkaline phosphatase (due to zinc displacement by copper), not elevated ALP. (Book p1013)]",
+          "questionIds": [
+            "MED-C63-011"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1014,
+      "pdfPage": 50,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1014 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1014.",
+      "elements": [
+        {
+          "element": "p1014-e001",
+          "page": 1014,
+          "source": "Why does fulminant hepatic failure in Wilson's disease characteristically exhibit a depressed serum Alkaline Phosphatase (ALP)? [The text explains low ALP as: '(Zn2+ & Cu2+ competing for ALP)' where excess copper displaces zinc. (Book p1014)]",
+          "questionIds": [
+            "MED-C63-012"
+          ]
+        },
+        {
+          "element": "p1014-e002",
+          "page": 1014,
+          "source": "What is the typical presentation of chronic Wilson's disease before overt cirrhosis? [Chronic presentation has no specific symptoms: 'Fatigue + enzymes (<150 U/L) ALT > AST ... Young asymptomatic pt. with rise in serum enzymes'. (Book p]",
+          "questionIds": [
+            "MED-C63-013"
+          ]
+        },
+        {
+          "element": "p1014-e003",
+          "page": 1014,
+          "source": "Fill up: On abdominal ultrasound, cirrhotic Wilson's disease characteristically displays a mixed cirrhosis pattern with ______ nodules predominating over micronodules. [Ultrasound reveals 'mixed cirrhosis (macro > micro)'. (Book p1014)]",
+          "questionIds": [
+            "MED-C63-014"
+          ]
+        },
+        {
+          "element": "p1014-e004",
+          "page": 1014,
+          "source": "Which metabolic liver disease carries the 'maximum jaundice tendency' among all hepatic disorders? [The header explicitly highlights: 'Jaundice in Wilson's disease : maximum jaundice tendency'. (Book p1014)]",
+          "questionIds": [
+            "MED-C63-015"
+          ]
+        },
+        {
+          "element": "p1014-e005",
+          "page": 1014,
+          "source": "Match each type of jaundice observed in Wilson's disease with its specific etiology — 1) Pre-hepatic / Hemolytic 2) Hepatic 3) Post-hepatic / Obstructive … A) Acute and chronic hepatocellular necrosis (disease proper) B) Gallstones and cholestasis C) Coombs-negative hemolytic anemia in fulminant failure [Wilson's produces all 3 jaundice types: pre-hepatic via Coombs-negative hemolysis, hepatic via disease proper, and post-hepatic via gallstones/cholest]",
+          "questionIds": [
+            "MED-C63-016"
+          ]
+        },
+        {
+          "element": "p1014-e006",
+          "page": 1014,
+          "source": "What ultrastructural mitochondrial abnormality on electron microscopy is characteristic of Wilson's disease? [Electron microscopy shows 'Tennis racquet appearance (mitochondria involved) d/t dilatation of tips of cristae.' (Book p1014)]",
+          "questionIds": [
+            "MED-C63-017"
+          ]
+        },
+        {
+          "element": "p1014-e007",
+          "page": 1014,
+          "source": "Fill up: On liver histology, hepatocytes in Wilson's disease characteristically exhibit ______ nuclei due to glycogenic degeneration. [Histopathology lists: 'Glycogenated nucleus inside hepatocyte ... vacuolation of nuclei (glycogenic degradation)'. (Book p1014)]",
+          "questionIds": [
+            "MED-C63-018"
+          ]
+        },
+        {
+          "element": "p1014-e008",
+          "page": 1014,
+          "source": "Match each hepatotoxin or metabolic disorder with the specific hepatic lobular zone it affects — 1) Paracetamol and ischemia 2) Yellow phosphorus 3) Wilson's disease … A) Zone 2 (midzonal) B) Zone 3 (centrilobular) C) Zone 1 (periportal) [Zone involvement: Paracetamol is centrilobular (Zone 3), phosphorus is midzonal (Zone 2), and Wilson's disease affects periportal (Zone 1) hepatocytes]",
+          "questionIds": [
+            "MED-C63-019"
+          ]
+        },
+        {
+          "element": "p1014-e009",
+          "page": 1014,
+          "source": "Besides hepatocytes, in which hepatic sinusoidal cell type does excess copper deposit in Wilson's disease? [Histopathology notes: 'Cu2+ deposition inside Kuffer [Kupffer] cell.' (Book p1014)]",
+          "questionIds": [
+            "MED-C63-020"
+          ]
+        },
+        {
+          "element": "p1014-e010",
+          "page": 1014,
+          "source": "How many years typically elapse before neurological manifestations emerge in Wilson's disease (Neuro-Wilson's)? [Under Neuro-Wilson's, the text notes: '10 years for presentation.' (Book p1014)]",
+          "questionIds": [
+            "MED-C63-021"
+          ]
+        },
+        {
+          "element": "p1014-e011",
+          "page": 1014,
+          "source": "Assess the two statements on Wilson's disease: I Steatosis (fatty liver-like change) is a recognized histological feature of both Hepatitis C and Wilson's disease. II Neurological Wilson's primarily involves the head of the caudate nucleus while sparing the lenticular nucleus. [Statement I is true ('Steatosis: HCV & Wilson's disease'). Statement II is false because Neuro-Wilson's is hepatolenticular degeneration involving the]",
+          "questionIds": [
+            "MED-C63-022"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1015,
+      "pdfPage": 51,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1015 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1015.",
+      "elements": [
+        {
+          "element": "p1015-e001",
+          "page": 1015,
+          "source": "What is the most common (m/c) clinical neurological manifestation in Wilson's disease? [Under classical neurological manifestations, item 4 lists 'Dysarthria (m/c)'. (Book p1015)]",
+          "questionIds": [
+            "MED-C63-023"
+          ]
+        },
+        {
+          "element": "p1015-e002",
+          "page": 1015,
+          "source": "Match each neurological feature of Wilson's disease with its clinical sign — 1) Facial grimacing posturing 2) Coarse arm tremor … A) Wing-beating tremors B) Risus sardonicus (dysphonic vacuous posturing) [Facial dystonia manifests as 'Dysphonic posturing (Risus sardonicus)', and tremor presents as 'Wing beating tremors'. (Book p1015)]",
+          "questionIds": [
+            "MED-C63-024"
+          ]
+        },
+        {
+          "element": "p1015-e003",
+          "page": 1015,
+          "source": "Which of the following is NOT listed as a rare neurological manifestation of Wilson's disease on this page? [Rare neurological features listed are ANS involvement, memory loss, and migraine; trigeminal neuralgia is not mentioned. (Book p1015)]",
+          "questionIds": [
+            "MED-C63-025"
+          ]
+        },
+        {
+          "element": "p1015-e004",
+          "page": 1015,
+          "source": "Fill up: In Wilson's disease, the Kayser-Fleischer (K-F) ring is caused by copper deposition in the ______ membrane of the cornea near the limbus. [The K-F ring is defined as 'Cu2+ deposits in descemet membrane near limbus especially in superior and inferior poles.' (Book p1015)]",
+          "questionIds": [
+            "MED-C63-026"
+          ]
+        },
+        {
+          "element": "p1015-e005",
+          "page": 1015,
+          "source": "What respective association rates are documented for corneal copper rings in patients presenting with liver versus brain disease? [K-F ring association is 60–65% in hepatic presentations and 95–99% in neurological presentations. (Book p1015)]",
+          "questionIds": [
+            "MED-C63-027"
+          ]
+        },
+        {
+          "element": "p1015-e006",
+          "page": 1015,
+          "source": "Besides Wilson's disease, in which of the following cholestatic conditions can a corneal Kayser-Fleischer ring occasionally be seen? [K-F rings can occur in prolonged cholestasis: Wilson's, PBC, PSC, and Familial cholestatic syndrome; not in acute hepatitis A. (Book p1015)]",
+          "questionIds": [
+            "MED-C63-028"
+          ]
+        },
+        {
+          "element": "p1015-e007",
+          "page": 1015,
+          "source": "What characteristic lens abnormality is produced by copper deposition in Wilson's disease? [Item 2 under ophthalmic findings is 'Sunflower cataract'. (Book p1015)]",
+          "questionIds": [
+            "MED-C63-029"
+          ]
+        },
+        {
+          "element": "p1015-e008",
+          "page": 1015,
+          "source": "Match each organ system with its extrahepatic manifestation in Wilson's disease — 1) Endocrine 2) Renal 3) Blood … A) Proximal Renal Tubular Acidosis (Type-2 RTA) B) Coombs-negative hemolytic anemia C) Hypoparathyroidism [Other manifestations: Endocrine = Hypoparathyroid; Renal = Proximal RTA Type-2; Blood = Coombs negative hemolysis. (Book p1015)]",
+          "questionIds": [
+            "MED-C63-030"
+          ]
+        },
+        {
+          "element": "p1015-e009",
+          "page": 1015,
+          "source": "Which gastrointestinal organ complication is listed among the systemic manifestations of Wilson's disease? [Under other manifestations, the 'GI' branch lists 'Pancreatitis'. (Book p1015)]",
+          "questionIds": [
+            "MED-C63-031"
+          ]
+        },
+        {
+          "element": "p1015-e010",
+          "page": 1015,
+          "source": "Assess the two statements on Wilson's disease: I Kayser-Fleischer rings characteristically disappear or regress following effective copper chelation therapy. II Wilson's disease produces distal Type-1 renal tubular acidosis with nephrocalcinosis. [Statement I is true ('Rx: Chelation therapy' leads to regression). Statement II is false because Wilson's produces Proximal RTA Type-2 (Fanconi syndro]",
+          "questionIds": [
+            "MED-C63-032"
+          ]
+        },
+        {
+          "element": "p1015-e011",
+          "page": 1015,
+          "source": "A 19-year-old woman presents with secondary amenorrhea, a history of two spontaneous abortions, dysarthria, and bilateral wing-beating tremor. Slit-lamp biomicroscopy reveals a golden-brown ring at the superior and inferior limbus. What is the definitive initial medical management? [The clinical picture demonstrates neurological Wilson's disease with K-F ring, managed with chelation therapy. (Book p1015)]",
+          "questionIds": [
+            "MED-C63-033"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1016,
+      "pdfPage": 52,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1016 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1016.",
+      "elements": [
+        {
+          "element": "p1016-e001",
+          "page": 1016,
+          "source": "What serum ceruloplasmin screening thresholds rule out versus confirm Wilson's disease? [Screening ceruloplasmin: > 20 mg/dL 'rule out wilsons', 10–20 mg/dL is intermediate, and < 10 mg/dL is 'Confirmatory'. (Book p1016)]",
+          "questionIds": [
+            "MED-C63-034"
+          ]
+        },
+        {
+          "element": "p1016-e002",
+          "page": 1016,
+          "source": "In a patient with an intermediate ceruloplasmin level (10–20 mg/dL), what is the status of total serum copper versus non-ceruloplasmin-bound (free) copper? [Total serum Cu is decreased because ceruloplasmin-bound Cu (90% normal) is markedly decreased (↓↓), whereas free copper is increased (↑), driving high]",
+          "questionIds": [
+            "MED-C63-035"
+          ]
+        },
+        {
+          "element": "p1016-e003",
+          "page": 1016,
+          "source": "What is the critical diagnostic hepatic copper concentration on liver biopsy in Wilson's disease? [Quantitative copper estimation on liver biopsy has a 'Critical value : >250 µg/g dry wt.' (Book p1016)]",
+          "questionIds": [
+            "MED-C63-036"
+          ]
+        },
+        {
+          "element": "p1016-e004",
+          "page": 1016,
+          "source": "Which two analytical techniques are specified for quantitative hepatic copper measurement? [Quantitative hepatic copper is 'estimated by : Neutron activation Analysis or Atomic absorption spectrometry'. (Book p1016)]",
+          "questionIds": [
+            "MED-C63-037"
+          ]
+        },
+        {
+          "element": "p1016-e005",
+          "page": 1016,
+          "source": "Assess the two statements on serum ceruloplasmin: I Serum ceruloplasmin can be falsely elevated into the normal range during acute inflammation and high-estrogen states like pregnancy. II Non-ceruloplasmin bound copper (NCBC) is used to monitor compliance and efficacy following copper chelation therapy. [Both statements are true as noted in the box: acute inflammation/pregnancy cause false elevations, and NCBC monitors therapy. (Book p1016)]",
+          "questionIds": [
+            "MED-C63-038"
+          ]
+        },
+        {
+          "element": "p1016-e006",
+          "page": 1016,
+          "source": "Match each biochemical parameter in Wilson's disease with its diagnostic directional shift — 1) Serum ceruloplasmin and total serum copper 2) Basal 24-hour urine copper and liver biopsy copper … A) Increased (↑) B) Decreased (↓) [Biochemical parameters: Serum Ceruloplasmin ↓, Serum Copper ↓, Basal 24 hr urine Cu ↑, and Liver copper ↑. (Book p1016)]",
+          "questionIds": [
+            "MED-C63-039"
+          ]
+        },
+        {
+          "element": "p1016-e007",
+          "page": 1016,
+          "source": "Which triad of laboratory variables forms the Nazar prognostic index for Wilson's acute liver failure? [The Nazar prognostic index comprises S. bilirubin, AST, and PT. (Book p1016)]",
+          "questionIds": [
+            "MED-C63-040"
+          ]
+        },
+        {
+          "element": "p1016-e008",
+          "page": 1016,
+          "source": "What is the drug of choice (DOC) for Wilson's disease, and what is its standard starting and maintenance dose range? [D-Penicillamine is DOC; starting dose is 250 mg/day, increased to 1.5 g/day. (Book p1016)]",
+          "questionIds": [
+            "MED-C63-041"
+          ]
+        },
+        {
+          "element": "p1016-e009",
+          "page": 1016,
+          "source": "Why must oral D-Penicillamine always be taken on an empty stomach? [The instructions explicitly specify: 'To be taken empty stomach' because food interferes with bioavailability. (Book p1016)]",
+          "questionIds": [
+            "MED-C63-042"
+          ]
+        },
+        {
+          "element": "p1016-e010",
+          "page": 1016,
+          "source": "Which of the following adverse effects is NOT listed under D-penicillamine therapy? [Adverse risks listed are Drug induced lupus erythematosus, membranous nephropathy, myasthenia crisis, Aplastic anemia, and Pyridoxine deficiency (give]",
+          "questionIds": [
+            "MED-C63-043"
+          ]
+        },
+        {
+          "element": "p1016-e011",
+          "page": 1016,
+          "source": "What dose of pyridoxine (Vitamin B6) should be co-prescribed with D-penicillamine to prevent deficiency? [The book notes: 'Pyridoxine deficiency (Pyridoxine 25 mg to be given)'. (Book p1016)]",
+          "questionIds": [
+            "MED-C63-044"
+          ]
+        },
+        {
+          "element": "p1016-e012",
+          "page": 1016,
+          "source": "Match each anti-copper agent with its specific clinical niche — 1) Trientine 2) Tetrathiomolybdate 3) Zinc … A) 50 mg TDS; induces metallothionein, competes with Cu for DMT-1, preferred in pregnancy B) Chelator for Neurological Wilson's disease (not widely available) C) 1–1.2 g/day; lesser side effects, not available in India, preferred in pregnancy [Trientine (1–1.2 g/day) has fewer side effects and is preferred in pregnancy; Tetrathiomolybdate is for Neuro-Wilson's; Zinc (50 mg TDS) induces me",
+          "questionIds": [
+            "MED-C63-045"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1017,
+      "pdfPage": 53,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1017 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1017.",
+      "elements": [
+        {
+          "element": "p1017-e001",
+          "page": 1017,
+          "source": "Which classic midbrain sign on T2-weighted brain MRI is characteristic of neurological Wilson's disease? [The midbrain MRI photo and caption highlight the 'Face of giant panda' sign. (Book p1017)]",
+          "questionIds": [
+            "MED-C63-046"
+          ]
+        },
+        {
+          "element": "p1017-e002",
+          "page": 1017,
+          "source": "Match each brain MRI finding in Wilson's disease with its neuroanatomical location — 1) Mercedes-Benz sign 2) Bright Claustrum sign … A) Hyperintensity in the thin gray matter claustrum lateral to the putamen B) Trisected hyperintensity in the pons [The Mercedes-Benz sign corresponds to 'Trisected pontine' hyperintensity; the Bright Claustrum sign shows bilateral claustrum hyperintensity. (Book p1]",
+          "questionIds": [
+            "MED-C63-047"
+          ]
+        },
+        {
+          "element": "p1017-e003",
+          "page": 1017,
+          "source": "Which of the following MRI abnormalities is NOT illustrated on this page for Wilson's disease? [Illustrated MRI signs are Basal ganglia hyperintensity, Face of giant panda, Thalamic hyperintensity, Bisected pontine hyperintensity, Mercedes Benz s]",
+          "questionIds": [
+            "MED-C63-048"
+          ]
+        },
+        {
+          "element": "p1017-e004",
+          "page": 1017,
+          "source": "What is the mode of inheritance and responsible gene in classic adult hereditary hemochromatosis? [Hereditary hemochromatosis is autosomal recessive, caused by a defect in the HFE gene on chromosome 6p. (Book p1017)]",
+          "questionIds": [
+            "MED-C63-049"
+          ]
+        },
+        {
+          "element": "p1017-e005",
+          "page": 1017,
+          "source": "At what stage of life does classic adult hereditary hemochromatosis typically become clinically manifest? [The book notes: 'Adult : 4th to 5th decade' for HFE-related hemochromatosis. (Book p1017)]",
+          "questionIds": [
+            "MED-C63-050"
+          ]
+        },
+        {
+          "element": "p1017-e006",
+          "page": 1017,
+          "source": "Match each genotype of the C282Y HFE mutation with its clinical association — 1) Homozygous C282Y 2) Heterozygous C282Y … A) Porphyria cutanea tarda (PCT) and NASH B) Full-blown hereditary hemochromatosis [Homozygous C282Y causes hemochromatosis, whereas heterozygous C282Y is associated with PCT (Porphyria cutanea tarda) and NASH. (Book p1017)]",
+          "questionIds": [
+            "MED-C63-051"
+          ]
+        },
+        {
+          "element": "p1017-e007",
+          "page": 1017,
+          "source": "Which non-HFE genes are responsible for early-onset Juvenile Hemochromatosis? [Non-HFE juvenile hemochromatosis involves 'Hemojuvelin transferrin receptor-2' and 'Hepcidin'. (Book p1017)]",
+          "questionIds": [
+            "MED-C63-052"
+          ]
+        },
+        {
+          "element": "p1017-e008",
+          "page": 1017,
+          "source": "Assess the two statements: I Co-existing alcohol consumption markedly accelerates the progression to cirrhosis in patients with hereditary hemochromatosis. II The Bright Claustrum sign on MRI is pathognomonic for Wilson's disease. [Both statements are true: alcohol increases cirrhosis risk in hemochromatosis, and the Bright Claustrum sign is demonstrated in Wilson's disease. (Boo]",
+          "questionIds": [
+            "MED-C63-053"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1018,
+      "pdfPage": 54,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1018 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1018.",
+      "elements": [
+        {
+          "element": "p1018-e001",
+          "page": 1018,
+          "source": "Fill up: In the duodenum, mucosal iron absorption occurs across the apical enterocyte membrane via the transporter ______. [Fe2+ enters the duodenal cell across the apical membrane via DMT-1. (Book p1018)]",
+          "questionIds": [
+            "MED-C63-054"
+          ]
+        },
+        {
+          "element": "p1018-e002",
+          "page": 1018,
+          "source": "Which transporter on the basolateral membrane of duodenal enterocytes exports iron into the systemic circulation? [Iron is exported across the basolateral membrane by Ferroportin (Fe2+ -> Fe3+). (Book p1018)]",
+          "questionIds": [
+            "MED-C63-055"
+          ]
+        },
+        {
+          "element": "p1018-e003",
+          "page": 1018,
+          "source": "What is the physiological role of hepatic hepcidin in iron homeostasis? [Hepcidin (produced by the liver) inhibits ferroportin (-), reducing iron absorption. (Book p1018)]",
+          "questionIds": [
+            "MED-C63-056"
+          ]
+        },
+        {
+          "element": "p1018-e004",
+          "page": 1018,
+          "source": "How does mutation of the HFE gene cause iron overload in hereditary hemochromatosis? [HFE regulates hepcidin; HFE mutation leads to 'No regulation over Hepcidin -> excess iron absorption and abnormal deposition'. (Book p1018)]",
+          "questionIds": [
+            "MED-C63-057"
+          ]
+        },
+        {
+          "element": "p1018-e005",
+          "page": 1018,
+          "source": "What is the single best screening test for Hereditary Hemochromatosis? [Transferrin saturation > 45% is explicitly designated as the 'Best screening test'. (Book p1018)]",
+          "questionIds": [
+            "MED-C63-058"
+          ]
+        },
+        {
+          "element": "p1018-e006",
+          "page": 1018,
+          "source": "What is the normal percentage for transferrin saturation, and what formula defines it? [The formula is: (S. Fe / TIBC) x 100, which normally equals 33%. (Book p1018)]",
+          "questionIds": [
+            "MED-C63-059"
+          ]
+        },
+        {
+          "element": "p1018-e007",
+          "page": 1018,
+          "source": "Match each biochemical iron marker in hemochromatosis with its directional change — 1) Serum Ferritin and Serum Iron 2) Total Iron Binding Capacity (TIBC) … A) Decreased (↓), serving as an indirect marker of serum transferrin B) Elevated (↑) [In hemochromatosis, S. Ferritin and S. Iron are elevated (↑), whereas TIBC is decreased (↓) as an indirect marker of transferrin. (Book p1018)]",
+          "questionIds": [
+            "MED-C63-060"
+          ]
+        },
+        {
+          "element": "p1018-e008",
+          "page": 1018,
+          "source": "Fill up: On liver biopsy, hemosiderosis in hereditary hemochromatosis characteristically demonstrates iron deposition predominantly in ______ hepatocytes, visualized with Prussian blue stain. [Histopathology shows: 'Iron deposition more in peripheral zone ... Iron deposition in periportal hepatocytes (Prussian blue stain)'. (Book p1018)]",
+          "questionIds": [
+            "MED-C63-061"
+          ]
+        },
+        {
+          "element": "p1018-e009",
+          "page": 1018,
+          "source": "What histochemical special stain is used to confirm iron accumulation on liver biopsy? [The caption specifies: 'Iron deposition in periportal hepatocytes (Prussian blue stain)'. (Book p1018)]",
+          "questionIds": [
+            "MED-C63-062"
+          ]
+        },
+        {
+          "element": "p1018-e010",
+          "page": 1018,
+          "source": "A 48-year-old man with fatigue and elevated LFTs undergoes abdominal MRI. The scan demonstrates diffuse low signal intensity throughout the liver on T2 sequences, while the spleen shows completely normal signal intensity without iron deposition. What is the diagnosis? [In hereditary hemochromatosis, MRI shows: 'Iron deposition in liver (low intensity) & not seen in spleen' (sparing the spleen, unlike secondary hemosi]",
+          "questionIds": [
+            "MED-C63-063"
+          ]
+        },
+        {
+          "element": "p1018-e011",
+          "page": 1018,
+          "source": "Assess the two statements on iron overload: I In hereditary hemochromatosis, iron accumulates heavily in both the liver and the spleen simultaneously. II Total iron binding capacity (TIBC) is an indirect surrogate marker of serum transferrin. [Statement I is false because MRI shows iron is 'not seen in spleen'. Statement II is true ('TIBC: ↓ (indirect marker of S. transferrin)'). (Book p1018]",
+          "questionIds": [
+            "MED-C63-064"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1019,
+      "pdfPage": 55,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1019 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1019.",
+      "elements": [
+        {
+          "element": "p1019-e001",
+          "page": 1019,
+          "source": "Match each organ involved in hereditary hemochromatosis with its characteristic clinical manifestation — 1) Pancreas 2) Heart 3) Skin … A) Slate grey hyperpigmentation and bronzing B) Dilated cardiomyopathy (DCM) in juveniles > restrictive cardiomyopathy (RCMP) C) Type 3c Diabetes Mellitus (bronze diabetes) [Pancreas involvement causes Type 3c DM; heart causes DCM (juvenile) > RCMP; skin causes slate grey hyperpigmentation and bronzing. (Book p1019)]",
+          "questionIds": [
+            "MED-C63-065"
+          ]
+        },
+        {
+          "element": "p1019-e002",
+          "page": 1019,
+          "source": "What type of crystal arthropathy and radiographic sign are seen in hemochromatosis arthropathy? [Joint involvement features 'CPPD crystal deposition -> Pseudo osteoarthritis, Hook like osteophytes, Involvement of mcp/wrist joints'. (Book p1019)]",
+          "questionIds": [
+            "MED-C63-066"
+          ]
+        },
+        {
+          "element": "p1019-e003",
+          "page": 1019,
+          "source": "Which of the following joints is characteristically affected by pseudogout and hook-like osteophytes in hemochromatosis? [Hemochromatosis characteristically affects the 2nd/3rd MCP, wrist, and MTP joints; isolated 1st MTP podagra is classic for gout. (Book p1019)]",
+          "questionIds": [
+            "MED-C63-067"
+          ]
+        },
+        {
+          "element": "p1019-e004",
+          "page": 1019,
+          "source": "Why do patients with hemochromatosis develop hypogonadotropic hypogonadism? [Gonadal failure is 'Hypogonadotropic Hypogonadism (↓ GNRH -> ↓ FSH, ↓ LH)' caused by 'Pituitary deposition -> Acquired hypopituitarism : stalk involve]",
+          "questionIds": [
+            "MED-C63-068"
+          ]
+        },
+        {
+          "element": "p1019-e005",
+          "page": 1019,
+          "source": "Which triad of disorders is highlighted as causing acquired hypopituitarism with pituitary stalk involvement? [The three stalk involvement causes listed are Langerhans cell histiocytosis, Sarcoidosis, and Hemochromatosis. (Book p1019)]",
+          "questionIds": [
+            "MED-C63-069"
+          ]
+        },
+        {
+          "element": "p1019-e006",
+          "page": 1019,
+          "source": "What is the confirmatory investigation of choice (IOC) for hereditary hemochromatosis? [The confirmatory test is explicitly labeled: 'Confirmatory test : HFE gene mutation analysis (IOC). For C282Y mutation.' (Book p1019)]",
+          "questionIds": [
+            "MED-C63-070"
+          ]
+        },
+        {
+          "element": "p1019-e007",
+          "page": 1019,
+          "source": "What is the first-line treatment of choice for hereditary hemochromatosis, and what is the target serum ferritin endpoint for transitioning to monthly maintenance? [Treatment: 'Weekly phlebotomy -> S. ferritin value < 50-500 ng/mL -> monthly once.' (Book p1019)]",
+          "questionIds": [
+            "MED-C63-071"
+          ]
+        },
+        {
+          "element": "p1019-e008",
+          "page": 1019,
+          "source": "For a patient with hereditary hemochromatosis who cannot tolerate phlebotomy due to severe congestive cardiac failure, what alternative therapy is indicated? [If intolerant to phlebotomy, the book specifies: 'S/C Desferrioxamine x 5 days a week'. (Book p1019)]",
+          "questionIds": [
+            "MED-C63-072"
+          ]
+        },
+        {
+          "element": "p1019-e009",
+          "page": 1019,
+          "source": "Which two organ complications in hereditary hemochromatosis produce IRREVERSIBLE damage that fails to improve despite aggressive iron depletion? [The note emphasizes: 'Irreversible organ damage : Joint and gonads.' (Book p1019)]",
+          "questionIds": [
+            "MED-C63-073"
+          ]
+        },
+        {
+          "element": "p1019-e010",
+          "page": 1019,
+          "source": "Assess the two statements on hemochromatosis: I In patients with hemochromatosis and established cirrhosis who undergo successful liver transplantation, the risk of hepatocellular carcinoma (HCC) is completely eliminated. II Weekly phlebotomy yields very good clinical response if initiated before cirrhosis develops. [Statement I is false because 'Post transplant risk of HCC present'. Statement II is true ('Response is good if cirrhosis absent'). (Book p1019)]",
+          "questionIds": [
+            "MED-C63-074"
+          ]
+        },
+        {
+          "element": "p1019-e011",
+          "page": 1019,
+          "source": "A 52-year-old man presents with chronic pain in his 2nd and 3rd MCP joints, loss of libido, and dark slate-grey skin bronzing. Transferrin saturation is 72% and serum ferritin is 2400 ng/mL. HFE testing confirms homozygous C282Y mutation. Which of his clinical manifestations is irreversible despite phlebotomy? [Joint arthritis and gonadal damage are irreversible manifestations of hereditary hemochromatosis. (Book p1019)]",
+          "questionIds": [
+            "MED-C63-075"
+          ]
+        }
+      ]
+    }
+  ]
+}

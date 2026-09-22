@@ -1,0 +1,892 @@
+{
+  "chapter": 25,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+  "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+  "pdfOffset": 823,
+  "pageRange": "826-829",
+  "contentSha256": "cd0dc504f17b7198493aa0a62e2868460c4e0e400b248f32885d80d028ba491a",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch25 p826-829: auto-generated source checklist from existing 105 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 826,
+      "pdfPage": 3,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p826 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p826.",
+      "elements": [
+        {
+          "element": "p826-e001",
+          "page": 826,
+          "source": "Match the ABG equipment list — 1) 1 ml syringe with needle  2) Antiseptic  3) Personal protection … A) Gloves and cover roll  B) 0.5 ml heparinized, without excess heparin in the syringe  C) 70% alcohol wipe and gauze [Equipment: ABG analyzer; 1 ml syringe with needle (0.5 ml heparinized — do not leave excess heparin within the syringe); 70% alcohol wipe and gauze; g]",
+          "questionIds": [
+            "MED-C25-001"
+          ]
+        },
+        {
+          "element": "p826-e002",
+          "page": 826,
+          "source": "Regarding the heparin in the ABG syringe, the chapter instructs: [A 0.5 ml heparinized syringe is specified, with the instruction not to leave excess heparin within the syringe. (Book p826)]",
+          "questionIds": [
+            "MED-C25-002"
+          ]
+        },
+        {
+          "element": "p826-e003",
+          "page": 826,
+          "source": "For a valid sample, the syringe should contain more than what proportion of blood? [Pre-requisite: the syringe should have > 50% of blood. (Book p826)]",
+          "questionIds": [
+            "MED-C25-003"
+          ]
+        },
+        {
+          "element": "p826-e004",
+          "page": 826,
+          "source": "The syringe size recommended for ABG sampling is: [Pre-requisite: syringe should be 3 ml or less; it should also hold > 50% blood with no air bubbles. (Book p826)]",
+          "questionIds": [
+            "MED-C25-004"
+          ]
+        },
+        {
+          "element": "p826-e005",
+          "page": 826,
+          "source": "Match the pre-requisites of ABG sampling — 1) Air bubbles  2) Their effect  3) Cold chain … A) Must be maintained during transport  B) Should not be present  C) ↑PO₂ and ↓PCO₂ [The sample should not contain air bubbles because they raise PO₂ and lower PCO₂, and the cold chain must be maintained. (Book p826)]",
+          "questionIds": [
+            "MED-C25-005"
+          ]
+        },
+        {
+          "element": "p826-e006",
+          "page": 826,
+          "source": "‘Air bubbles in an ABG syringe raise the PCO₂ and lower the PO₂ of the sample.’ [Air bubbles are listed as a pre-requisite violation because of ↑PO₂ and ↓PCO₂ in the sample. (Book p826)]",
+          "questionIds": [
+            "MED-C25-006"
+          ]
+        },
+        {
+          "element": "p826-e007",
+          "page": 826,
+          "source": "A colleague collects an ABG into a 5 ml syringe filled to one-third, with visible bubbles. How many printed pre-requisites are broken? [The printed pre-requisites are: > 50% blood, syringe 3 ml or less, no air bubbles, and maintenance of the cold chain — so this sample breaks three of ]",
+          "questionIds": [
+            "MED-C25-007"
+          ]
+        },
+        {
+          "element": "p826-e008",
+          "page": 826,
+          "source": "All but one of the following are listed as ABG equipment. Which is the odd one out? [Equipment list: ABG analyzer, 1 ml heparinized syringe with needle (0.5 ml heparinized), 70% alcohol wipe and gauze, gloves and cover roll. (Book p826]",
+          "questionIds": [
+            "MED-C25-008"
+          ]
+        },
+        {
+          "element": "p826-e009",
+          "page": 826,
+          "source": "Allen's test is performed to determine: [Allen's test: determines patency of radial artery (both ulnar and radial arteries are occluded with a clenched blanched palm). (Book p826)]",
+          "questionIds": [
+            "MED-C25-009"
+          ]
+        },
+        {
+          "element": "p826-e010",
+          "page": 826,
+          "source": "Match the steps of the ABG procedure as printed — 1) Wrist position  2) Palpation  3) Sterilisation  4) Needle angle … A) 45°  B) Non-dominant hand extended by 20–30°  C) Radial artery palpated  D) Area sterilised [Steps: wrist of the non-dominant hand extended by 20–30°, radial artery palpated, area sterilised, sample taken with the needle at 45°. (Book p826)]",
+          "questionIds": [
+            "MED-C25-010"
+          ]
+        },
+        {
+          "element": "p826-e011",
+          "page": 826,
+          "source": "The needle is inserted at which angle for radial ABG sampling? [The sample is taken with the needle at 45 degrees. (Book p826)]",
+          "questionIds": [
+            "MED-C25-011"
+          ]
+        },
+        {
+          "element": "p826-e012",
+          "page": 826,
+          "source": "How far is the wrist extended for radial puncture? [The wrist of the non-dominant hand is extended by 20–30°; the needle enters at 45°. (Book p826)]",
+          "questionIds": [
+            "MED-C25-012"
+          ]
+        },
+        {
+          "element": "p826-e013",
+          "page": 826,
+          "source": "Match the figure labels of the Allen's test — 1) Clenched blanched palm  2) Radial artery  3) Ulnar artery … A) Occluded along with the radial artery in the figure  B) The arm whose patency is being tested  C) Sign of the hand posture used [The figure labels the clenched blanched palm, the radial artery occluded, and the ulnar artery also occluded — the test determines patency of the radi]",
+          "questionIds": [
+            "MED-C25-013"
+          ]
+        },
+        {
+          "element": "p826-e014",
+          "page": 826,
+          "source": "Which artery is palpated with the index finger in the procedure figure? [The procedural figure shows palpation of the radial artery with the index finger before the 45° puncture. (Book p826)]",
+          "questionIds": [
+            "MED-C25-014"
+          ]
+        },
+        {
+          "element": "p826-e015",
+          "page": 826,
+          "source": "‘The ABG procedure is performed on the dominant hand, with the wrist flexed, using a 45° needle angle.’ [The wrist of the non-dominant hand is extended by 20–30° and the sample is taken with the needle at 45°. (Book p826)]",
+          "questionIds": [
+            "MED-C25-015"
+          ]
+        },
+        {
+          "element": "p826-e016",
+          "page": 826,
+          "source": "After the puncture, the sample is capped and transported. What does the figure show next? [The third panel of the procedure figure is labelled ‘Needle capped and transported’. (Book p826)]",
+          "questionIds": [
+            "MED-C25-016"
+          ]
+        },
+        {
+          "element": "p826-e017",
+          "page": 826,
+          "source": "All but one of these are printed steps of the ABG procedure. Which is the odd one out? [The printed steps are wrist extension by 20–30°, palpation of the radial artery, sterilisation of the area, and sampling with the needle at 45° — no l]",
+          "questionIds": [
+            "MED-C25-017"
+          ]
+        },
+        {
+          "element": "p826-e018",
+          "page": 826,
+          "source": "Match the heparin precaution chain — 1) Syringe flushed with 2) Solution used  3) Effect of excess heparin … A) ↓HCO₃⁻ and ↓PCO₂  B) 0.5 ml of 1 : 1000 heparin  C) Emptied before sampling [Precaution: the syringe should be flushed with 0.5 ml (1 : 1000 heparin) solution and emptied; excess heparin gives a dilutional effect with ↓HCO₃⁻ an]",
+          "questionIds": [
+            "MED-C25-018"
+          ]
+        },
+        {
+          "element": "p826-e019",
+          "page": 826,
+          "source": "Excess heparin in the ABG syringe produces which changes? [Excess heparin → ↑ dilutional effect → ↓HCO₃⁻ and ↓PCO₂. (Book p826)]",
+          "questionIds": [
+            "MED-C25-019"
+          ]
+        },
+        {
+          "element": "p826-e020",
+          "page": 826,
+          "source": "Fill up: The sample must be transported earliest via ______. [The sample must be transported earliest via the cold chain, since delay changes the measured values. (Book p826)]",
+          "questionIds": [
+            "MED-C25-020"
+          ]
+        },
+        {
+          "element": "p826-e021",
+          "page": 826,
+          "source": "Match the change in value per 10 minutes of delay — 1) pH  2) pCO₂  3) pO₂ … A) 1 mmHg un-iced vs 0.1 mmHg iced  B) 0.01 un-iced vs 0.001 iced  C) 0.1% un-iced vs 0.01% iced [Delay table (per 10 minutes): pH 0.01 un-iced at 37°C versus 0.001 iced at 4°C; pCO₂ 1 mmHg versus 0.1 mmHg; pO₂ 0.1% versus 0.01%. (Book p826)]",
+          "questionIds": [
+            "MED-C25-021"
+          ]
+        },
+        {
+          "element": "p826-e022",
+          "page": 826,
+          "source": "How much does pH change every 10 minutes in an un-iced sample kept at 37°C? [Un-iced sample at 37°C: pH changes by 0.01 every 10 minutes, versus 0.001 in an iced sample at 4°C. (Book p826)]",
+          "questionIds": [
+            "MED-C25-022"
+          ]
+        },
+        {
+          "element": "p826-e023",
+          "page": 826,
+          "source": "In an iced sample at 4°C, the change in pH per 10 minutes is: [Iced samples slow the change tenfold: pH 0.001, pCO₂ 0.1 mmHg and pO₂ 0.01% per 10 minutes. (Book p826)]",
+          "questionIds": [
+            "MED-C25-023"
+          ]
+        },
+        {
+          "element": "p826-e024",
+          "page": 826,
+          "source": "An ABG is left at room temperature for 20 minutes and pH values are compared. What does the printed table predict? [At 37°C the change is 0.01 pH per 10 minutes (so ~0.02 over 20 minutes) and 1 mmHg pCO₂ per 10 minutes (~2 mmHg); the pO₂ change is 0.1% per 10 minute]",
+          "questionIds": [
+            "MED-C25-024"
+          ]
+        },
+        {
+          "element": "p826-e025",
+          "page": 826,
+          "source": "‘Icing the sample at 4°C reduces the per-10-minute change in pCO₂ to 0.1 mmHg.’ [Delay table: pCO₂ changes 1 mmHg per 10 minutes un-iced at 37°C but only 0.1 mmHg iced at 4°C. (Book p826)]",
+          "questionIds": [
+            "MED-C25-025"
+          ]
+        },
+        {
+          "element": "p826-e026",
+          "page": 826,
+          "source": "All but one of the following are printed precautions for ABG sampling. Which is the odd one out? [The printed precautions are heparin flushing and emptying (0.5 ml of 1 : 1000), earliest transport via the cold chain, and awareness of delay-induced ]",
+          "questionIds": [
+            "MED-C25-026"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 827,
+      "pdfPage": 4,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p827 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p827.",
+      "elements": [
+        {
+          "element": "p827-e001",
+          "page": 827,
+          "source": "Match the contraindications for ABG puncture — 1) Vascular test  2) Local factor  3) Systemic vascular disease  4) Vasospastic disorder … A) Active Raynaud's syndrome  B) Abnormal Allen's test  C) Severe peripheral vascular artery disease  D) Local infection or distorted anatomy at the puncture site [Contraindications: abnormal Allen's test; local infection or distorted anatomy at the puncture site; severe peripheral vascular artery disease; active]",
+          "questionIds": [
+            "MED-C25-027"
+          ]
+        },
+        {
+          "element": "p827-e002",
+          "page": 827,
+          "source": "A patient's Allen's test is abnormal but the radial pulse is easily felt. What does the chapter advise? [An abnormal Allen's test is the first printed contraindication to ABG puncture. (Book p827)]",
+          "questionIds": [
+            "MED-C25-028"
+          ]
+        },
+        {
+          "element": "p827-e003",
+          "page": 827,
+          "source": "Match the puncture sites printed — 1) First-listed site  2) Thigh-level site  3) Arm sites  4) Foot site … A) Dorsalis pedis  B) Radial artery  C) Brachial and axillary arteries  D) Femoral artery [Site of puncture list: radial artery, femoral artery, brachial artery, axillary artery and dorsalis pedis. (Book p827)]",
+          "questionIds": [
+            "MED-C25-029"
+          ]
+        },
+        {
+          "element": "p827-e004",
+          "page": 827,
+          "source": "Which site of puncture is listed first in the chapter? [The list begins with the radial artery, followed by femoral, brachial, axillary and dorsalis pedis. (Book p827)]",
+          "questionIds": [
+            "MED-C25-030"
+          ]
+        },
+        {
+          "element": "p827-e005",
+          "page": 827,
+          "source": "Match the ABG parameters — 1) Measured parameters  2) Derived parameters  3) Example of a derived parameter set … A) HCO₃⁻, anion gap and base excess  B) pH, pCO₂, pO₂, cCa²⁺, cCl⁻, cK⁺, cNa⁺, cGlucose and hematocrit  C) HCO₃⁻ only [Measured: pH, pCO₂, pO₂, cCa²⁺, cCl⁻, cK⁺, cNa⁺, cGlucose and hematocrit. Derived: HCO₃⁻, anion gap and base excess. (Book p827)]",
+          "questionIds": [
+            "MED-C25-031"
+          ]
+        },
+        {
+          "element": "p827-e006",
+          "page": 827,
+          "source": "All but one of these are listed as MEASURED (not derived) ABG parameters. Which is the odd one out? [Base excess belongs to the derived group with HCO₃⁻ and the anion gap; cCa²⁺, cGlucose and hematocrit are all measured directly. (Book p827)]",
+          "questionIds": [
+            "MED-C25-032"
+          ]
+        },
+        {
+          "element": "p827-e007",
+          "page": 827,
+          "source": "‘HCO₃⁻ is a measured parameter on the blood gas analyzer, whereas pH is derived from it.’ [The arrow runs from measured (pH, pCO₂, pO₂, electrolytes, glucose, hematocrit) to derived (HCO₃⁻, anion gap, base excess). (Book p827)]",
+          "questionIds": [
+            "MED-C25-033"
+          ]
+        },
+        {
+          "element": "p827-e008",
+          "page": 827,
+          "source": "The ‘primary problem’ tree of ABG interpretation ends in how many primary abnormalities? [The tree gives four primary problems: metabolic acidosis and metabolic alkalosis (bicarbonate arms) and respiratory acidosis and alkalosis (PaCO₂ arms]",
+          "questionIds": [
+            "MED-C25-034"
+          ]
+        },
+        {
+          "element": "p827-e009",
+          "page": 827,
+          "source": "Match the respiratory arms of the primary-problem tree — 1) Respiratory acidosis  2) Respiratory alkalosis  3) Each respiratory disorder is further labelled … A) Acute or chronic  B) ↑PaCO₂  C) ↓PaCO₂ [Respiratory acidosis ↑PaCO₂ and respiratory alkalosis ↓PaCO₂; both branches are further divided into acute and chronic forms. (Book p827)]",
+          "questionIds": [
+            "MED-C25-035"
+          ]
+        },
+        {
+          "element": "p827-e010",
+          "page": 827,
+          "source": "‘In the primary-problem tree, only the respiratory disorders are further divided into acute and chronic.’ [The printed tree brackets the two respiratory arms together with ‘Acute’ and ‘Chronic’. (Book p827)]",
+          "questionIds": [
+            "MED-C25-036"
+          ]
+        },
+        {
+          "element": "p827-e011",
+          "page": 827,
+          "source": "Match the ABG reading methods printed — 1) Boston  2) Copenhagen  3) Stewarts … A) Third-listed method  B) First-listed method  C) Second-listed method [ABG reading methods listed left to right: Boston, Copenhagen, Stewarts. (Book p827)]",
+          "questionIds": [
+            "MED-C25-037"
+          ]
+        },
+        {
+          "element": "p827-e012",
+          "page": 827,
+          "source": "‘On p827 the metabolic arms are drawn as “metabolic acidosis ↑HCO₃⁻” and “metabolic alkalosis ↓HCO₃⁻”, while the step-2 flowchart on p828 gives ↓HCO₃⁻ for metabolic acidosis and ↑HCO₃⁻ for metabolic alkalosis.’ [The p827 primary-problem tree prints the bicarbonate arrows under the metabolic labels in the reverse sense, whereas the step-2 flowchart on p828 uses]",
+          "questionIds": [
+            "MED-C25-038"
+          ]
+        },
+        {
+          "element": "p827-e013",
+          "page": 827,
+          "source": "All but one of the following are printed ABG reading methods. Which is the odd one out? [Only three reading methods are listed — Boston, Copenhagen and Stewarts. (Book p827)]",
+          "questionIds": [
+            "MED-C25-039"
+          ]
+        },
+        {
+          "element": "p827-e014",
+          "page": 827,
+          "source": "An ABG report shows pH 7.30 with a high PaCO₂ and a high HCO₃⁻. Using the primary-problem tree, which arm is being reported? [A high PaCO₂ places the report on the respiratory-acidosis arm of the tree, which is then labelled acute or chronic. (Book p827)]",
+          "questionIds": [
+            "MED-C25-040"
+          ]
+        },
+        {
+          "element": "p827-e015",
+          "page": 827,
+          "source": "Match the Boston method normal values — 1) pH  2) pCO₂  3) HCO₃⁻ … A) 40 mmHg  B) 24 mEq/L  C) 7.4 [Boston normal values: pH 7.4, pCO₂ 40 mmHg and HCO₃⁻ 24 mEq/L. (Book p827)]",
+          "questionIds": [
+            "MED-C25-041"
+          ]
+        },
+        {
+          "element": "p827-e016",
+          "page": 827,
+          "source": "Fill up: [H⁺] = 24 × ______. [The Boston method uses [H⁺] = 24 × PaCO₂/HCO₃⁻, rearranged as [HCO₃⁻] = 24 × PaCO₂/H⁺. (Book p827)]",
+          "questionIds": [
+            "MED-C25-042"
+          ]
+        },
+        {
+          "element": "p827-e017",
+          "page": 827,
+          "source": "Fill up: [HCO₃⁻] = 24 × ______. [The second printed form of the Boston relation is [HCO₃⁻] = 24 × PaCO₂/H⁺. (Book p827)]",
+          "questionIds": [
+            "MED-C25-043"
+          ]
+        },
+        {
+          "element": "p827-e018",
+          "page": 827,
+          "source": "To be a valid ABG, the calculated [HCO₃⁻] should match the venous blood [HCO₃⁻] within: [Valid ABG: calculated [HCO₃⁻] = ±2 mEq of [HCO₃⁻] in a venous blood sample. (Book p827)]",
+          "questionIds": [
+            "MED-C25-044"
+          ]
+        },
+        {
+          "element": "p827-e019",
+          "page": 827,
+          "source": "An ABG reports a calculated HCO₃⁻ of 24 mEq/L while the venous sample gives 28 mEq/L. Is the gas valid? [Validity requires the calculated [HCO₃⁻] to be within ±2 mEq of the venous blood [HCO₃⁻]. (Book p827)]",
+          "questionIds": [
+            "MED-C25-045"
+          ]
+        },
+        {
+          "element": "p827-e020",
+          "page": 827,
+          "source": "Match step 1 of interpretation — 1) pH < 7.4  2) pH > 7.4  3) Normal pH of the Boston method … A) 7.4  B) Alkalosis  C) Acidosis [Step 1: a pH below 7.4 is acidosis and a pH above 7.4 is alkalosis. (Book p827)]",
+          "questionIds": [
+            "MED-C25-046"
+          ]
+        },
+        {
+          "element": "p827-e021",
+          "page": 827,
+          "source": "According to step 1 of the Boston method, the pH cut-off used to separate acidosis from alkalosis is: [Step 1 uses 7.4 as the cut-off (< 7.4 acidosis, > 7.4 alkalosis), the Boston method's normal pH. (Book p827)]",
+          "questionIds": [
+            "MED-C25-047"
+          ]
+        },
+        {
+          "element": "p827-e022",
+          "page": 827,
+          "source": "All but one of these belong to the Boston method's normal values and validity rules. Which is the odd one out? [Validity is defined by comparing the calculated [HCO₃⁻] with the [HCO₃⁻] of a venous blood sample (±2 mEq), so a venous comparison is explicitly requi]",
+          "questionIds": [
+            "MED-C25-048"
+          ]
+        },
+        {
+          "element": "p827-e023",
+          "page": 827,
+          "source": "‘Step 1 of the Boston method uses pH to decide whether the primary problem is an acidosis or an alkalosis.’ [Step 1 — pH: < 7.4 acidosis, > 7.4 alkalosis. (Book p827)]",
+          "questionIds": [
+            "MED-C25-049"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 828,
+      "pdfPage": 5,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p828 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p828.",
+      "elements": [
+        {
+          "element": "p828-e001",
+          "page": 828,
+          "source": "Step 2 states that the primary diagnosis is indicated by HCO₃⁻ and PaCO₂ moving: [Step 2: HCO₃⁻ and PaCO₂ following along the line of pH indicates the primary diagnosis (the metabolic abnormality). (Book p828)]",
+          "questionIds": [
+            "MED-C25-050"
+          ]
+        },
+        {
+          "element": "p828-e002",
+          "page": 828,
+          "source": "Match the step-2 flowchart when pH is DECREASED — 1) ↓HCO₃⁻  2) ↑PaCO₂  3) Direction of the pH branch … A) Decreased  B) Respiratory acidosis  C) Metabolic acidosis [With a decreased pH: ↓HCO₃⁻ = metabolic acidosis; ↑PaCO₂ = respiratory acidosis. (Book p828)]",
+          "questionIds": [
+            "MED-C25-051"
+          ]
+        },
+        {
+          "element": "p828-e003",
+          "page": 828,
+          "source": "Match the step-2 flowchart when pH is INCREASED — 1) ↑HCO₃⁻  2) ↓PaCO₂  3) Direction of the pH branch … A) Increased  B) Respiratory alkalosis  C) Metabolic alkalosis [With an increased pH: ↑HCO₃⁻ = metabolic alkalosis; ↓PaCO₂ = respiratory alkalosis. (Book p828)]",
+          "questionIds": [
+            "MED-C25-052"
+          ]
+        },
+        {
+          "element": "p828-e004",
+          "page": 828,
+          "source": "An ABG shows pH 7.28, HCO₃⁻ 16 mEq/L and PaCO₂ 36 mmHg. Applying step 2, what is the primary abnormality? [With a decreased pH, a fall in HCO₃⁻ gives metabolic acidosis on the step-2 flowchart. (Book p828)]",
+          "questionIds": [
+            "MED-C25-053"
+          ]
+        },
+        {
+          "element": "p828-e005",
+          "page": 828,
+          "source": "An ABG shows pH 7.50, HCO₃⁻ 28 mEq/L and PaCO₂ 30 mmHg. Which two abnormalities are competing for the primary role? [An increased pH branch splits into ↑HCO₃⁻ (metabolic alkalosis) and ↓PaCO₂ (respiratory alkalosis). (Book p828)]",
+          "questionIds": [
+            "MED-C25-054"
+          ]
+        },
+        {
+          "element": "p828-e006",
+          "page": 828,
+          "source": "‘In step 2, a rise in PaCO₂ with a decreased pH identifies a respiratory acidosis.’ [Step-2 flowchart: decreased pH with ↑PaCO₂ = respiratory acidosis; decreased pH with ↓HCO₃⁻ = metabolic acidosis. (Book p828)]",
+          "questionIds": [
+            "MED-C25-055"
+          ]
+        },
+        {
+          "element": "p828-e007",
+          "page": 828,
+          "source": "All but one of these pairings from the step-2 flowchart are correct. Which is the odd one out? [A low HCO₃⁻ belongs to the *decreased* pH branch (metabolic acidosis); with an increased pH, the metabolic arm is ↑HCO₃⁻ = metabolic alkalosis. (Book ]",
+          "questionIds": [
+            "MED-C25-056"
+          ]
+        },
+        {
+          "element": "p828-e008",
+          "page": 828,
+          "source": "Match the metabolic abnormalities to their compensation — 1) Metabolic acidosis  2) Metabolic alkalosis  3) Compensation for metabolic acidosis  4) Compensation for metabolic alkalosis … A) Respiratory acidosis  B) ↓HCO₃⁻ with ↓PaCO₂  C) Respiratory alkalosis  D) ↑HCO₃⁻ with ↑PaCO₂ [Metabolic acidosis (↓HCO₃⁻, ↓PaCO₂) is compensated by respiratory alkalosis, and metabolic alkalosis (↑HCO₃⁻, ↑PaCO₂) by respiratory acidosis. (Book p]",
+          "questionIds": [
+            "MED-C25-057"
+          ]
+        },
+        {
+          "element": "p828-e009",
+          "page": 828,
+          "source": "In metabolic acidosis, the direction of the compensatory PaCO₂ change is: [Metabolic acidosis table row: HCO₃⁻ ↓, PaCO₂ ↓, compensation = respiratory alkalosis. (Book p828)]",
+          "questionIds": [
+            "MED-C25-058"
+          ]
+        },
+        {
+          "element": "p828-e010",
+          "page": 828,
+          "source": "For every 1 mEq/L fall in HCO₃⁻, the expected fall in PaCO₂ is: [For ↓1 mEq/L HCO₃⁻ → ↓1.2 mmHg pCO₂; for ↑1 mEq/L HCO₃⁻ → ↑0.7 mmHg pCO₂. (Book p828)]",
+          "questionIds": [
+            "MED-C25-059"
+          ]
+        },
+        {
+          "element": "p828-e011",
+          "page": 828,
+          "source": "For every 1 mEq/L rise in HCO₃⁻, the expected rise in PaCO₂ is: [For ↑1 mEq/L HCO₃⁻ → ↑0.7 mmHg pCO₂ (the metabolic alkalosis compensation rule). (Book p828)]",
+          "questionIds": [
+            "MED-C25-060"
+          ]
+        },
+        {
+          "element": "p828-e012",
+          "page": 828,
+          "source": "A patient's HCO₃⁻ falls by 10 mEq/L from normal. Using the printed rule, what PaCO₂ change do you expect? [Using ↓1.2 mmHg pCO₂ per 1 mEq/L fall in HCO₃⁻, a 10 mEq/L fall predicts a 12 mmHg fall in PaCO₂. (Book p828)]",
+          "questionIds": [
+            "MED-C25-061"
+          ]
+        },
+        {
+          "element": "p828-e013",
+          "page": 828,
+          "source": "Match the respiratory abnormalities to their compensation — 1) Respiratory acidosis  2) Respiratory alkalosis  3) Compensation for respiratory acidosis  4) Compensation for respiratory alkalosis … A) Metabolic alkalosis  B) ↑PaCO₂ with ↑HCO₃⁻  C) Metabolic acidosis  D) ↓PaCO₂ with ↓HCO₃⁻ [Respiratory acidosis (↑PaCO₂, ↑HCO₃⁻) is compensated by metabolic alkalosis; respiratory alkalosis (↓PaCO₂, ↓HCO₃⁻) by metabolic acidosis. (Book p828)]",
+          "questionIds": [
+            "MED-C25-062"
+          ]
+        },
+        {
+          "element": "p828-e014",
+          "page": 828,
+          "source": "For an ACUTE rise in PaCO₂ of 10 mmHg, the expected HCO₃⁻ change is: [↑10 mmHg PaCO₂ → ↑1 mEq/L HCO₃⁻ (acute) or ↑4 mEq/L HCO₃⁻ (chronic). (Book p828)]",
+          "questionIds": [
+            "MED-C25-063"
+          ]
+        },
+        {
+          "element": "p828-e015",
+          "page": 828,
+          "source": "For a CHRONIC rise in PaCO₂ of 10 mmHg, the expected HCO₃⁻ change is: [↑10 mmHg PaCO₂ → ↑4 mEq/L HCO₃⁻ in the chronic state (versus ↑1 mEq/L acutely). (Book p828)]",
+          "questionIds": [
+            "MED-C25-064"
+          ]
+        },
+        {
+          "element": "p828-e016",
+          "page": 828,
+          "source": "Match the fall in PaCO₂ to its HCO₃⁻ change — 1) ↓10 mmHg acute  2) ↓10 mmHg chronic  3) Difference between them … A) ↓2 mEq/L  B) The chronic state compensates more  C) ↓4 mEq/L [↓10 mmHg PaCO₂ → ↓2 mEq/L HCO₃⁻ acutely and ↓4 mEq/L chronically, i.e. the chronic state compensates more. (Book p828)]",
+          "questionIds": [
+            "MED-C25-065"
+          ]
+        },
+        {
+          "element": "p828-e017",
+          "page": 828,
+          "source": "A patient with chronic obstructive lung disease has a PaCO₂ 10 mmHg above normal with an HCO₃⁻ 4 mEq/L above normal. What does the table call this? [A 10 mmHg PaCO₂ rise producing a 4 mEq/L HCO₃⁻ rise matches the chronic row; the acute row would give only 1 mEq/L. (Book p828)]",
+          "questionIds": [
+            "MED-C25-066"
+          ]
+        },
+        {
+          "element": "p828-e018",
+          "page": 828,
+          "source": "‘For a fall in PaCO₂ the acute change in HCO₃⁻ (2 mEq/L per 10 mmHg) is larger than the chronic change.’ [The table prints ↓10 mmHg PaCO₂ → ↓2 mEq/L HCO₃⁻ (acute) and ↓4 mEq/L (chronic): chronic compensation is greater. (Book p828)]",
+          "questionIds": [
+            "MED-C25-067"
+          ]
+        },
+        {
+          "element": "p828-e019",
+          "page": 828,
+          "source": "All but one of these step-3 compensation rules are printed. Which is the odd one out? [The acute value is 1 mEq/L and the chronic value 4 mEq/L — the option reverses them. (Book p828)]",
+          "questionIds": [
+            "MED-C25-068"
+          ]
+        },
+        {
+          "element": "p828-e020",
+          "page": 828,
+          "source": "The adequacy-of-compensation flowchart is built around which quantity? [The flowchart tracks the compensatory metabolite, comparing it with the expected value and with the normal value. (Book p828)]",
+          "questionIds": [
+            "MED-C25-069"
+          ]
+        },
+        {
+          "element": "p828-e021",
+          "page": 828,
+          "source": "Match the compensation verdicts for metabolic acidosis/respiratory alkalosis — 1) ≤ expected value  2) Between expected and normal value  3) Group of disorders this arm covers … A) Partial compensation  B) Metabolic acidosis and respiratory alkalosis  C) Adequate compensation [In metabolic acidosis/respiratory alkalosis, a compensatory metabolite ≤ expected value = adequate compensation, while a value between expected and no]",
+          "questionIds": [
+            "MED-C25-070"
+          ]
+        },
+        {
+          "element": "p828-e022",
+          "page": 828,
+          "source": "Match the compensation verdicts for metabolic alkalosis/respiratory acidosis — 1) ≥ expected value  2) Between expected and normal value  3) Group of disorders this arm covers … A) Metabolic alkalosis and respiratory acidosis  B) Adequate compensation  C) Partial compensation [For metabolic alkalosis/respiratory acidosis the mirrored rule applies: ≥ expected value = adequate compensation, between expected and normal = partia]",
+          "questionIds": [
+            "MED-C25-071"
+          ]
+        },
+        {
+          "element": "p828-e023",
+          "page": 828,
+          "source": "A patient with metabolic acidosis has a compensatory metabolite that lies exactly between the expected value and the normal value. What does the flowchart call this? [A compensatory metabolite between the expected and normal values is labelled partial compensation in both arms of the flowchart. (Book p828)]",
+          "questionIds": [
+            "MED-C25-072"
+          ]
+        },
+        {
+          "element": "p828-e024",
+          "page": 828,
+          "source": "‘The two arms of the compensation flowchart are mirror images: ≤ expected value is adequate in one arm and ≥ expected value is adequate in the other.’ [The flowchart is mirrored: ≤ expected value = adequate for metabolic acidosis/respiratory alkalosis, while ≥ expected value = adequate for metabolic a]",
+          "questionIds": [
+            "MED-C25-073"
+          ]
+        },
+        {
+          "element": "p828-e025",
+          "page": 828,
+          "source": "All but one of these pairings of the two compensation arms are printed. Which is the odd one out? [The ≥ expected value rule belongs to the metabolic alkalosis/respiratory acidosis arm; the ≤ rule belongs to the metabolic acidosis/respiratory alkalo]",
+          "questionIds": [
+            "MED-C25-074"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 829,
+      "pdfPage": 6,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p829 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p829.",
+      "elements": [
+        {
+          "element": "p829-e001",
+          "page": 829,
+          "source": "Match the compensatory limits table — 1) Respiratory acidosis, acute  2) Respiratory acidosis, chronic  3) Respiratory alkalosis, acute  4) Respiratory alkalosis, chronic … A) ↓up to 12–14 mEq/L HCO₃⁻  B) ↑up to 30 mEq/L HCO₃⁻  C) ↓up to 20 mEq/L HCO₃⁻  D) ↑up to 45 mEq/L HCO₃⁻ [Compensatory limits: respiratory acidosis acute ↑up to 30 and chronic ↑up to 45 mEq/L HCO₃⁻; respiratory alkalosis acute ↓up to 20 and chronic ↓up to ]",
+          "questionIds": [
+            "MED-C25-075"
+          ]
+        },
+        {
+          "element": "p829-e002",
+          "page": 829,
+          "source": "In chronic respiratory acidosis, HCO₃⁻ compensates up to: [Chronic respiratory acidosis: ↑up to 45 mEq/L HCO₃⁻ (acute: ↑up to 30 mEq/L). (Book p829)]",
+          "questionIds": [
+            "MED-C25-076"
+          ]
+        },
+        {
+          "element": "p829-e003",
+          "page": 829,
+          "source": "In acute respiratory acidosis, the HCO₃⁻ ceiling is: [Acute respiratory acidosis: ↑up to 30 mEq/L HCO₃⁻. (Book p829)]",
+          "questionIds": [
+            "MED-C25-077"
+          ]
+        },
+        {
+          "element": "p829-e004",
+          "page": 829,
+          "source": "In acute respiratory alkalosis, HCO₃⁻ compensates down to a floor of: [Acute respiratory alkalosis: ↓up to 20 mEq/L HCO₃⁻; the chronic state falls further. (Book p829)]",
+          "questionIds": [
+            "MED-C25-078"
+          ]
+        },
+        {
+          "element": "p829-e005",
+          "page": 829,
+          "source": "The lowest printed HCO₃⁻ value in the compensatory limits table is: [Chronic respiratory alkalosis: ↓up to 12–14 mEq/L HCO₃⁻ — the lowest value in the table. (Book p829)]",
+          "questionIds": [
+            "MED-C25-079"
+          ]
+        },
+        {
+          "element": "p829-e006",
+          "page": 829,
+          "source": "A patient with chronic respiratory alkalosis has an HCO₃⁻ of 11 mEq/L. How do you read this against the table? [Chronic respiratory alkalosis compensates only down to 12–14 mEq/L; a value of 11 mEq/L lies beyond that printed limit. (Book p829)]",
+          "questionIds": [
+            "MED-C25-080"
+          ]
+        },
+        {
+          "element": "p829-e007",
+          "page": 829,
+          "source": "‘Chronic respiratory acidosis allows a higher bicarbonate ceiling (45 mEq/L) than acute respiratory acidosis (30 mEq/L).’ [Table: respiratory acidosis ↑up to 30 mEq/L (acute) and ↑up to 45 mEq/L (chronic). (Book p829)]",
+          "questionIds": [
+            "MED-C25-081"
+          ]
+        },
+        {
+          "element": "p829-e008",
+          "page": 829,
+          "source": "All but one of these row values of the compensatory limits table are correctly quoted. Which is the odd one out? [The chronic respiratory alkalosis limit is ↓up to 12–14 mEq/L; the 20 mEq/L figure belongs to the acute row. (Book p829)]",
+          "questionIds": [
+            "MED-C25-082"
+          ]
+        },
+        {
+          "element": "p829-e009",
+          "page": 829,
+          "source": "Match the anion gap derivation — 1) measured cation + unmeasured cation  2) mc − ma  3) Anion gap  4) Formula … A) = unmeasured anion − unmeasured cation  B) = measured anion + unmeasured anion  C) = uc − ua  D) = Na⁺ − (HCO₃⁻ + Cl⁻) [measured cation + unmeasured cation = measured anion + unmeasured anion; rearranged as mc − ma = ua − uc, so anion gap = uc − ua = Na⁺ − (HCO₃⁻ + Cl⁻)]",
+          "questionIds": [
+            "MED-C25-083"
+          ]
+        },
+        {
+          "element": "p829-e010",
+          "page": 829,
+          "source": "The normal anion gap is given as: [AG = 12 ± 2 mEq/L. (Book p829)]",
+          "questionIds": [
+            "MED-C25-084"
+          ]
+        },
+        {
+          "element": "p829-e011",
+          "page": 829,
+          "source": "Fill up: Corrected AG (AGc) = AG + 2.5 × ______. [AGc (corrected AG) = AG + 2.5 (4.5 − S.albumin). (Book p829)]",
+          "questionIds": [
+            "MED-C25-085"
+          ]
+        },
+        {
+          "element": "p829-e012",
+          "page": 829,
+          "source": "A patient has an anion gap of 10 mEq/L and a serum albumin of 2.0 g/dL. Using the printed formula, what is the corrected anion gap? [AGc = AG + 2.5 (4.5 − S.albumin) = 10 + 2.5 (4.5 − 2.0) = 10 + 6.25 = 16.25 mEq/L, unmasking a high anion gap. (Book p829)]",
+          "questionIds": [
+            "MED-C25-086"
+          ]
+        },
+        {
+          "element": "p829-e013",
+          "page": 829,
+          "source": "Which measured cation is used in the printed anion gap formula? [AG = Na⁺ − (HCO₃⁻ + Cl⁻) — potassium is not included in the printed formula. (Book p829)]",
+          "questionIds": [
+            "MED-C25-087"
+          ]
+        },
+        {
+          "element": "p829-e014",
+          "page": 829,
+          "source": "‘The corrected anion gap is used because albumin contributes to the measured/unmeasured charge balance.’ [AGc = AG + 2.5 (4.5 − S.albumin); a low albumin lowers the measured gap, so the corrected value unmasks a high anion gap. (Book p829)]",
+          "questionIds": [
+            "MED-C25-088"
+          ]
+        },
+        {
+          "element": "p829-e015",
+          "page": 829,
+          "source": "All but one of these statements about the anion gap are printed on p829. Which is the odd one out? [The gap is unmeasured anion minus unmeasured cation, so unmeasured *cations* lower it — they do not raise it. (Book p829)]",
+          "questionIds": [
+            "MED-C25-089"
+          ]
+        },
+        {
+          "element": "p829-e016",
+          "page": 829,
+          "source": "The osmolal gap is defined as: [Osmolal gap = measured osmolality (osmomoter) − calculated osmolality. (Book p829)]",
+          "questionIds": [
+            "MED-C25-090"
+          ]
+        },
+        {
+          "element": "p829-e017",
+          "page": 829,
+          "source": "Fill up: Calculated osmolality = 2(Na) + BUN/2.8 + ______ + 1.25 × EtOH (in mmol/L). [Calculated osmolality: 2(Na) + BUN/2.8 + Glucose/18 + 1.25 × EtOH (in mmol/L). (Book p829)]",
+          "questionIds": [
+            "MED-C25-091"
+          ]
+        },
+        {
+          "element": "p829-e018",
+          "page": 829,
+          "source": "Match the calculated-osmolality terms to their divisors — 1) BUN  2) Glucose  3) Ethanol … A) Multiplied by 1.25  B) Divided by 2.8  C) Divided by 18 [2(Na) + BUN/2.8 + Glucose/18 + 1.25 × EtOH — BUN divided by 2.8, glucose by 18, ethanol multiplied by 1.25. (Book p829)]",
+          "questionIds": [
+            "MED-C25-092"
+          ]
+        },
+        {
+          "element": "p829-e019",
+          "page": 829,
+          "source": "The normal value of the osmolal gap is: [Normal osmolal gap < 10 mOsm/kg; a value ≥ 10 mOsm/kg indicates unmeasured osmotically active molecules. (Book p829)]",
+          "questionIds": [
+            "MED-C25-093"
+          ]
+        },
+        {
+          "element": "p829-e020",
+          "page": 829,
+          "source": "A value at or above which osmolal gap indicates unmeasured osmotically active molecules is: [Value ≥ 10 mOsm/kg → presence of unmeasured osmotically active molecules, e.g. methanol or ethylene glycol. (Book p829)]",
+          "questionIds": [
+            "MED-C25-094"
+          ]
+        },
+        {
+          "element": "p829-e021",
+          "page": 829,
+          "source": "A patient with an unexplained high anion gap acidosis has an osmolal gap of 22 mOsm/kg. Which printed example fits? [A raised osmolal gap points to unmeasured osmotically active molecules, the printed examples being methanol and ethylene glycol — both HAGMA causes th]",
+          "questionIds": [
+            "MED-C25-095"
+          ]
+        },
+        {
+          "element": "p829-e022",
+          "page": 829,
+          "source": "‘The osmolal gap is calculated with the sodium term doubled and ethanol factored in.’ [Calculated osmolality = 2(Na) + BUN/2.8 + Glucose/18 + 1.25 × EtOH (mmol/L), and it is subtracted from the measured value to give the gap. (Book p829)]",
+          "questionIds": [
+            "MED-C25-096"
+          ]
+        },
+        {
+          "element": "p829-e023",
+          "page": 829,
+          "source": "All but one of these belong to the osmolal gap section. Which is the odd one out? [The printed formula is 2(Na) + BUN/2.8 + Glucose/18 + 1.25 × EtOH — chloride is not part of it. (Book p829)]",
+          "questionIds": [
+            "MED-C25-097"
+          ]
+        },
+        {
+          "element": "p829-e024",
+          "page": 829,
+          "source": "Fill up: Delta (Δ) AG = measured AG − ______. [Delta (Δ) AG = measured AG − normal AG. (Book p829)]",
+          "questionIds": [
+            "MED-C25-098"
+          ]
+        },
+        {
+          "element": "p829-e025",
+          "page": 829,
+          "source": "Fill up: Delta ratio = ______. [Delta ratio = ΔAG / ΔHCO₃⁻. (Book p829)]",
+          "questionIds": [
+            "MED-C25-099"
+          ]
+        },
+        {
+          "element": "p829-e026",
+          "page": 829,
+          "source": "Match the delta ratio to its interpretation — 1) < 1  2) 1–2  3) > 2 … A) HAGMA + metabolic alkalosis  B) HAGMA + NAGMA  C) HAGMA alone [Delta ratio < 1: HAGMA + NAGMA; 1–2: HAGMA; > 2: HAGMA + metabolic alkalosis. (Book p829)]",
+          "questionIds": [
+            "MED-C25-100"
+          ]
+        },
+        {
+          "element": "p829-e027",
+          "page": 829,
+          "source": "A patient has a HAGMA with a delta ratio of 0.6. What does this suggest? [A delta ratio below 1 indicates HAGMA plus NAGMA, i.e. a second, normal anion gap acidosis alongside the raised gap. (Book p829)]",
+          "questionIds": [
+            "MED-C25-101"
+          ]
+        },
+        {
+          "element": "p829-e028",
+          "page": 829,
+          "source": "A patient with a HAGMA has a delta ratio of 2.4. Which additional disorder does the printed table suggest? [A delta ratio above 2 indicates HAGMA plus metabolic alkalosis. (Book p829)]",
+          "questionIds": [
+            "MED-C25-102"
+          ]
+        },
+        {
+          "element": "p829-e029",
+          "page": 829,
+          "source": "Which delta ratio range corresponds to a pure high anion gap metabolic acidosis? [Delta ratio 1–2 indicates HAGMA alone — values < 1 add NAGMA and values > 2 add metabolic alkalosis. (Book p829)]",
+          "questionIds": [
+            "MED-C25-103"
+          ]
+        },
+        {
+          "element": "p829-e030",
+          "page": 829,
+          "source": "‘The delta ratio uses the change in anion gap divided by the change in bicarbonate.’ [Delta (Δ) AG = measured AG − normal AG, and Delta ratio = ΔAG/ΔHCO₃⁻. (Book p829)]",
+          "questionIds": [
+            "MED-C25-104"
+          ]
+        },
+        {
+          "element": "p829-e031",
+          "page": 829,
+          "source": "All but one of these delta ratio interpretations are printed. Which is the odd one out? [A ratio > 2 means HAGMA plus metabolic alkalosis; the coexisting NAGMA belongs to the < 1 range. (Book p829)]",
+          "questionIds": [
+            "MED-C25-105"
+          ]
+        }
+      ]
+    }
+  ]
+}

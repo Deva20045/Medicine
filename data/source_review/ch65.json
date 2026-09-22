@@ -1,0 +1,315 @@
+{
+  "chapter": 65,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+  "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+  "pdfOffset": 964,
+  "pageRange": "1023-1025",
+  "contentSha256": "dbca044654de04d64c07786e3b3d9564ad6732fc1a925f09559039424fd332e9",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch65 p1023-1025: auto-generated source checklist from existing 34 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 1023,
+      "pdfPage": 59,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1023 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1023.",
+      "elements": [
+        {
+          "element": "p1023-e001",
+          "page": 1023,
+          "source": "Autoimmune Hepatitis Type-1: which sex predominance and age band are printed? ['F >> M (2nd to 3rd decade female population)'. (Book p1023)]",
+          "questionIds": [
+            "MED-C65-001"
+          ]
+        },
+        {
+          "element": "p1023-e002",
+          "page": 1023,
+          "source": "ANA is printed positive in what proportion of AIH Type-1 cases? ['ANA +ve (100% cases)' — repeated in the antibody table on p1024. (Book p1023)]",
+          "questionIds": [
+            "MED-C65-002"
+          ]
+        },
+        {
+          "element": "p1023-e003",
+          "page": 1023,
+          "source": "ANA positivity is stated to be 'also in' two other conditions. Which of the following is NOT one of them? ['Also in : Drug induced erythematosus. Mixed connective tissue disease.' PSC is not listed. (Book p1023)]",
+          "questionIds": [
+            "MED-C65-003"
+          ]
+        },
+        {
+          "element": "p1023-e004",
+          "page": 1023,
+          "source": "Associated HLA and diseases — match — 1) HLA-DR03 2) HLA-DR04 … A) Rheumatoid arthritis, Type-1 DM, autoimmune thyroid disorders B) SLE (AKA lupoid hepatitis) ['HLA-DR03 association +ve : SLE (AKA Lupoid hepatitis)'; 'HLA-DR04 : Rheumatoid arthritis, Type-1 DM, Autoimmune thyroid disorders'. (Book p1023)]",
+          "questionIds": [
+            "MED-C65-004"
+          ]
+        },
+        {
+          "element": "p1023-e005",
+          "page": 1023,
+          "source": "Fill up: AIH occurring with SLE on an HLA-DR03 background is 'AKA ______ hepatitis'. ['HLA-DR03 Association +ve : SLE (AKA Lupoid hepatitis)'. (Book p1023)]",
+          "questionIds": [
+            "MED-C65-005"
+          ]
+        },
+        {
+          "element": "p1023-e006",
+          "page": 1023,
+          "source": "The pathophysiology heading of AIH characterises the inflammation as which type? ['PATHOPHYSIOLOGY — Lymphoplasmacytic inflammation'. (Book p1023)]",
+          "questionIds": [
+            "MED-C65-006"
+          ]
+        },
+        {
+          "element": "p1023-e007",
+          "page": 1023,
+          "source": "Three 'unique features / histological findings' of AIH are branched in the diagram. Which is NOT one of them? [Branches: Interface Hepatitis (Piecemeal necrosis), Emporipolesis (Engulfing cell without killing), Rosette formation. Ductopenia is PBC (p1021). (Boo]",
+          "questionIds": [
+            "MED-C65-007"
+          ]
+        },
+        {
+          "element": "p1023-e008",
+          "page": 1023,
+          "source": "Fill up the printed bracket: 'Emporipolesis (______ cell without ______)'. ['Emporipolesis (Engulfing cell without killing)'. (Book p1023)]",
+          "questionIds": [
+            "MED-C65-008"
+          ]
+        },
+        {
+          "element": "p1023-e009",
+          "page": 1023,
+          "source": "Match — 1) filled purple circle 2) orange dots 3) blue open circle 4) red open circle … A) Hepatic artery B) Portal vein C) Central vein D) Hepatocytes [Legend: Central vein (purple filled), Hepatocytes (orange dots), Portal track / Bile duct (open black), Portal vein (blue), Hepatic artery (red). (Boo]",
+          "questionIds": [
+            "MED-C65-009"
+          ]
+        },
+        {
+          "element": "p1023-e010",
+          "page": 1023,
+          "source": "In the second acinus cone of the diagram, inflammation is drawn spilling from the portal tract across a dashed line into the hepatocyte cone. What is that dashed boundary labelled, and what histological term results? [Labels: 'Limiting plate' (dashed line) and 'Inflammation' (arrow) — inflammation breaching the limiting plate is interface / piecemeal hepatitis, the ]",
+          "questionIds": [
+            "MED-C65-010"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1024,
+      "pdfPage": 60,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1024 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1024.",
+      "elements": [
+        {
+          "element": "p1024-e001",
+          "page": 1024,
+          "source": "The presentation tree of AIH has three arms. Which is NOT one of them? [Arms: Acute Hepatitis; Chronic hepatitis; Cirrhosis with complications. Cholestasis is explicitly 'Not seen in AIH' (bottom note). (Book p1024)]",
+          "questionIds": [
+            "MED-C65-011"
+          ]
+        },
+        {
+          "element": "p1024-e002",
+          "page": 1024,
+          "source": "Acute-hepatitis arm — judge: I Presents with waxing and waning of jaundice. II Presents as non-resolving acute hepatitis. ['Waxing & waning of jaundice' and 'Non-resolving acute hepatitis' are the two printed bullets. (Book p1024)]",
+          "questionIds": [
+            "MED-C65-012"
+          ]
+        },
+        {
+          "element": "p1024-e003",
+          "page": 1024,
+          "source": "In the acute-hepatitis arm, what does the book instruct as the '1st rule out'? ['1st Rule out → HAV, HBV, HEV'. (Book p1024)]",
+          "questionIds": [
+            "MED-C65-013"
+          ]
+        },
+        {
+          "element": "p1024-e004",
+          "page": 1024,
+          "source": "If HAV, HBV and HEV are all negative in that arm, which three entities does the flowchart then say to rule out / consider? ['If all are negative then rule out → Wilson's ds / Autoimmune disease (ANA +ve) / Fulminant hepatic failure (rare)'. (Book p1024)]",
+          "questionIds": [
+            "MED-C65-014"
+          ]
+        },
+        {
+          "element": "p1024-e005",
+          "page": 1024,
+          "source": "Chronic-hepatitis arm: which symptom–sign pair is highlighted first? ['Fatigue & Hepatomegaly' + 'With autoimmune background: Rheumatoid arthritis, SLE'. (Book p1024)]",
+          "questionIds": [
+            "MED-C65-015"
+          ]
+        },
+        {
+          "element": "p1024-e006",
+          "page": 1024,
+          "source": "Fill up: In the chronic arm the arrow toward cirrhosis is annotated 'Jaundice + Splenomegaly — ______/______ progression'. [The connecting arrow reads 'Jaundice + Splenomegaly — Rare/slow progression' toward cirrhosis with complications. (Book p1024)]",
+          "questionIds": [
+            "MED-C65-016"
+          ]
+        },
+        {
+          "element": "p1024-e007",
+          "page": 1024,
+          "source": "'Then do LFT' in the chronic arm yields what typical enzyme pattern? ['↑ ALT and AST (<150 U/ltr), ALT > AST' → then Fibroscan. (Book p1024)]",
+          "questionIds": [
+            "MED-C65-017"
+          ]
+        },
+        {
+          "element": "p1024-e008",
+          "page": 1024,
+          "source": "After LFT in the chronic-hepatitis arm, what is the next arrow in the flowchart? [LFT → 'Fibroscan'. (Book p1024)]",
+          "questionIds": [
+            "MED-C65-018"
+          ]
+        },
+        {
+          "element": "p1024-e009",
+          "page": 1024,
+          "source": "Cirrhosis-with-complications arm lists three complications. Which is NOT printed? ['Portal HTN; Liver failure; Hepatocellular carcinoma: (Significant risk) – Also in Hemochromatosis.' (Book p1024)]",
+          "questionIds": [
+            "MED-C65-019"
+          ]
+        },
+        {
+          "element": "p1024-e010",
+          "page": 1024,
+          "source": "Fill up: Under HCC in the AIH cirrhosis arm the book notes the significant risk is 'Also in ______'. ['Hepatocellular carcinoma : (Significant risk) – Also in Hemochromatosis.' (Book p1024)]",
+          "questionIds": [
+            "MED-C65-020"
+          ]
+        },
+        {
+          "element": "p1024-e011",
+          "page": 1024,
+          "source": "Laboratory markers: A/G ratio reversal with ↑ globulin leads to which confirmatory test and finding? ['A/G ratio reversal : ↑ Globulin → Immunoelectrophoresis / Protein electrophoresis : Polyclonal hypergammaglobulinemia'. (Book p1024)]",
+          "questionIds": [
+            "MED-C65-021"
+          ]
+        },
+        {
+          "element": "p1024-e012",
+          "page": 1024,
+          "source": "Type-I AIH antibody table — match — 1) ANA 2) Anti actin antibody (AAA) 3) Anti SLA … A) Most specific, poor prognosis B) 100% +ve C) Poor prognosis [ANA = 100% +ve; Anti SMA (no feature printed); AAA = Poor prognosis; Anti SLA (soluble liver antigen) = most specific, poor prognosis. (Book p1024)]",
+          "questionIds": [
+            "MED-C65-022"
+          ]
+        },
+        {
+          "element": "p1024-e013",
+          "page": 1024,
+          "source": "Fill up: 'Anti SLA' in the Type-I table stands for anti ______ antigen. ['Anti SLA (Soluble liver antigen) — most specific, poor prognosis'. (Book p1024)]",
+          "questionIds": [
+            "MED-C65-023"
+          ]
+        },
+        {
+          "element": "p1024-e014",
+          "page": 1024,
+          "source": "Atypical p-ANCA in the Type-I table is 'seen in' three conditions. Which is NOT one of them? ['Seen in : AIH, Primary Sclerosing Cholangitis, Ulcerative colitis.' PBC is the AMA condition in the note below. (Book p1024)]",
+          "questionIds": [
+            "MED-C65-024"
+          ]
+        },
+        {
+          "element": "p1024-e015",
+          "page": 1024,
+          "source": "Type-II AIH table — match — 1) Anti LKM-1 2) Anti liver cytosol type-1 … A) Poor prognosis B) Also seen in HCV infection [Anti LKM-1 : Also seen HCV infection; Anti liver cytosol type-1 : Poor prognosis. (Book p1024)]",
+          "questionIds": [
+            "MED-C65-025"
+          ]
+        },
+        {
+          "element": "p1024-e016",
+          "page": 1024,
+          "source": "Note beside the Type-II table — match — 1) Anti LKM-2 2) Anti LKM-3 … A) HDV infection B) Drug induced hepatitis ['Anti LKM-2 : Drug induced hepatitis; Anti LKM-3 : HDV infection'. (Book p1024)]",
+          "questionIds": [
+            "MED-C65-026"
+          ]
+        },
+        {
+          "element": "p1024-e017",
+          "page": 1024,
+          "source": "A young woman with suspected AIH has pruritus, hyperpigmentation and weight loss, and her serum is AMA-positive. Per the bottom Note on this page, how should this be read? [Note: 'Antimitochondrial Antibody : Primary biliary cirrhosis. Cholestasis : Pruritis + hyperpigmentation + weightloss (Not seen in AIH)'. (Book p1024]",
+          "questionIds": [
+            "MED-C65-027"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1025,
+      "pdfPage": 61,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1025 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1025.",
+      "elements": [
+        {
+          "element": "p1025-e001",
+          "page": 1025,
+          "source": "Type-II AIH — judge: I Seen in children. II Carries a good prognosis. III Associated with HLA DR-7. ['Seen in children; Poor prognosis; A/w HLA DR-7'. (Book p1025)]",
+          "questionIds": [
+            "MED-C65-028"
+          ]
+        },
+        {
+          "element": "p1025-e002",
+          "page": 1025,
+          "source": "Disease associations of Type-II AIH — which is NOT printed? ['Disease Association : Diabetes mellitus Type-1, Vitiligo, Autoimmune polyendocrine syndrome Type-1.' RA is the HLA-DR04 Type-1 association (p1023). (]",
+          "questionIds": [
+            "MED-C65-029"
+          ]
+        },
+        {
+          "element": "p1025-e003",
+          "page": 1025,
+          "source": "Treatment flowchart: once AIH is diagnosed, what is checked for by Fibroscan before treatment? ['Diagnosed AIH — Fibroscan, check for → Cirrhosis'. (Book p1025)]",
+          "questionIds": [
+            "MED-C65-030"
+          ]
+        },
+        {
+          "element": "p1025-e004",
+          "page": 1025,
+          "source": "What is the printed steroid regimen for AIH and the taper duration? ['Steroid 1 mg/kg/day × 4 weeks → Taper → 12 weeks' +/− Azathioprine. (1 mg/kg × 7 days over 3 weeks is the alcoholic-hepatitis regimen, p1028.) (Book ]",
+          "questionIds": [
+            "MED-C65-031"
+          ]
+        },
+        {
+          "element": "p1025-e005",
+          "page": 1025,
+          "source": "Fill up: Steroid in AIH is given '+/− ______', and response is assessed 'After ______ months'. ['+/− Azathioprine' and 'After 3–4 months' the outcome branches to remission or relapse. (Book p1025)]",
+          "questionIds": [
+            "MED-C65-032"
+          ]
+        },
+        {
+          "element": "p1025-e006",
+          "page": 1025,
+          "source": "Which of the following is NOT one of the four printed criteria of remission? [Remission: Symptomatic improvement; Histological improvement; ↓ S. bilirubin; Liver enzyme back to normal. (Book p1025)]",
+          "questionIds": [
+            "MED-C65-033"
+          ]
+        },
+        {
+          "element": "p1025-e007",
+          "page": 1025,
+          "source": "A patient relapses after 3–4 months of steroid ± azathioprine. What does the flowchart direct, and what caveat follows? ['Relapse → Transplant → Chances of recurrence'. (Book p1025)]",
+          "questionIds": [
+            "MED-C65-034"
+          ]
+        }
+      ]
+    }
+  ]
+}

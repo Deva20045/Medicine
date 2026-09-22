@@ -1,0 +1,267 @@
+{
+  "chapter": 67,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+  "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+  "pdfOffset": 964,
+  "pageRange": "1030-1032",
+  "contentSha256": "bc4014f1e8b5c69bee56e63d9bcdf20d51e9f4c1d4986e5b1d59b1fb7da12902",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch67 p1030-1032: auto-generated source checklist from existing 28 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 1030,
+      "pdfPage": 66,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1030 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1030.",
+      "elements": [
+        {
+          "element": "p1030-e001",
+          "page": 1030,
+          "source": "How is NAFLD defined under 'Features' of Fatty Liver Disease? ['NAFLD : macrovesicular fat / steatosis ≥5% hepatocytes (Non alcoholic FLD)'. The micrograph caption reads 'macrovesicular fat in NAFLD'. (Book p1030)]",
+          "questionIds": [
+            "MED-C67-001"
+          ]
+        },
+        {
+          "element": "p1030-e002",
+          "page": 1030,
+          "source": "NAFLD splits into two groups — match — 1) 80% 2) 20% … A) Fatty liver + inflammation = NASH B) Isolated fatty liver (IFL) [80% Isolated fatty liver (IFL); 20% Fatty liver + Inflammation: NASH (non-alcoholic steatohepatitis). (Book p1030)]",
+          "questionIds": [
+            "MED-C67-002"
+          ]
+        },
+        {
+          "element": "p1030-e003",
+          "page": 1030,
+          "source": "Four histological components branch from NASH. Which is NOT one of them? [Branches: Ballooning change; Degree of steatosis; Lobular inflammation; Chicken-wire fibrosis (Zone 3). (Book p1030)]",
+          "questionIds": [
+            "MED-C67-003"
+          ]
+        },
+        {
+          "element": "p1030-e004",
+          "page": 1030,
+          "source": "Fill up: The fibrosis pattern of NASH is '______ fibrosis (Zone ______)'. ['Chicken-wire fibrosis (Zone 3)'. (Book p1030)]",
+          "questionIds": [
+            "MED-C67-004"
+          ]
+        },
+        {
+          "element": "p1030-e005",
+          "page": 1030,
+          "source": "Risk-factor table, column 'Common conditions with established association' — which is NOT in that column? [Column 1: Obesity, T2DM/insulin resistance, dyslipidemia, metabolic syndrome, PCOS, starvation/rapid weight loss, ↓ adiponectin, leptin resistance. Hy]",
+          "questionIds": [
+            "MED-C67-005"
+          ]
+        },
+        {
+          "element": "p1030-e006",
+          "page": 1030,
+          "source": "Judge from column 1: I Adiponectin levels are printed as decreased. II Leptin is printed as deficient. ['↓ Adiponectin levels' and 'Leptin Resistance' (not deficiency). (Book p1030)]",
+          "questionIds": [
+            "MED-C67-006"
+          ]
+        },
+        {
+          "element": "p1030-e007",
+          "page": 1030,
+          "source": "Column 'Other conditions associated with NAFLD' — which is NOT listed? [Column 2: Hypothyroidism, OSA, Hypopituitarism, Hypogonadism, Pancreatoduodenal resection, Psoriasis. (Book p1030)]",
+          "questionIds": [
+            "MED-C67-007"
+          ]
+        },
+        {
+          "element": "p1030-e008",
+          "page": 1030,
+          "source": "Match — 1) T2DM / insulin resistance 2) Hypopituitarism 3) Hypogonadism … A) Other conditions associated B) Common established association [T2DM/insulin resistance is column 1; hypopituitarism and hypogonadism are column 2. (Book p1030)]",
+          "questionIds": [
+            "MED-C67-008"
+          ]
+        },
+        {
+          "element": "p1030-e009",
+          "page": 1030,
+          "source": "Drugs column — which drug is NOT printed among the six NAFLD-associated drugs? [Drugs: L-asparaginase, Bleomycin, Tetracycline, Griseofulvin, Valproate, Amiodarone. (Book p1030)]",
+          "questionIds": [
+            "MED-C67-009"
+          ]
+        },
+        {
+          "element": "p1030-e010",
+          "page": 1030,
+          "source": "Fill up: NASH progression follows a ______-hit hypothesis; the 1st hit is ______. ['2 hit hypothesis — Normal liver —1st hit: Risk factors→ NASH —2nd hit: unknown R/F→ Cirrhosis'. (Book p1030)]",
+          "questionIds": [
+            "MED-C67-010"
+          ]
+        },
+        {
+          "element": "p1030-e011",
+          "page": 1030,
+          "source": "What proportion of NASH patients progress to cirrhosis, and over what period? ['2nd hit : unknown R/F — 10–15% pts over 15 yrs → Cirrhosis'. (Book p1030)]",
+          "questionIds": [
+            "MED-C67-011"
+          ]
+        },
+        {
+          "element": "p1030-e012",
+          "page": 1030,
+          "source": "In the progression diagram an arrow runs directly from NASH to HCC, bypassing cirrhosis, labelled 'Only in NASH & ______'. Complete it. ['Only in NASH & Hep B virus infection' — HCC without intervening cirrhosis. Cirrhosis itself branches to portal hypertension, liver failure and HCC. (]",
+          "questionIds": [
+            "MED-C67-012"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1031,
+      "pdfPage": 67,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1031 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1031.",
+      "elements": [
+        {
+          "element": "p1031-e001",
+          "page": 1031,
+          "source": "Clinical features table, 'Symptoms' column — which is NOT printed? [Symptoms: Vague RUQ pain, Fatigue, malaise. (Book p1031)]",
+          "questionIds": [
+            "MED-C67-013"
+          ]
+        },
+        {
+          "element": "p1031-e002",
+          "page": 1031,
+          "source": "'Sign' column — hepatomegaly, then four rare signs each bracketed with its meaning. Match — 1) Splenomegaly 2) Spider angiomata 3) Ascites … A) Decompensation B) PHTN C) Liver failure [Rare: Splenomegaly (PHTN), Spider angiomata (Liver failure), Palmar erythema, Ascites (Decompensation). (Book p1031)]",
+          "questionIds": [
+            "MED-C67-014"
+          ]
+        },
+        {
+          "element": "p1031-e003",
+          "page": 1031,
+          "source": "Judge: I Hepatomegaly is the routine sign of NAFLD. II Palmar erythema is listed among the rare signs. [Sign: Hepatomegaly; Rare: splenomegaly, spider angiomata, palmar erythema, ascites. (Book p1031)]",
+          "questionIds": [
+            "MED-C67-015"
+          ]
+        },
+        {
+          "element": "p1031-e004",
+          "page": 1031,
+          "source": "Investigations 1–4 — match — 1) Biopsy 2) S. Ferritin 3) Imaging 4) Enzymes … A) Elevated B) ALT, AST C) Inflammatory changes D) USG → MR elastography > transient elastography [1. Biopsy: inflammatory changes; 2. S. Ferritin: elevated; 3. Imaging: USG → MR elastography > transient elastography; 4. Enzymes: ALT, AST. (Book p10]",
+          "questionIds": [
+            "MED-C67-016"
+          ]
+        },
+        {
+          "element": "p1031-e005",
+          "page": 1031,
+          "source": "Which imaging modality is ranked higher on this page: MR elastography or transient elastography? ['USG → MR Elastography > Transient Elastography'. (Book p1031)]",
+          "questionIds": [
+            "MED-C67-017"
+          ]
+        },
+        {
+          "element": "p1031-e006",
+          "page": 1031,
+          "source": "Liver fibroscan figure — match — 1) Vs = 1.1 m/s 2) Vs = 1.7 m/s 3) Vs = 3.6 m/s … A) ~ 9 kPa B) ~ 40 kPa C) ~ 3 kPa [Panels: Vs 1.1 m/s ~3 kPa; Vs 1.7 m/s ~9 kPa; Vs 3.6 m/s ~40 kPa, above the F0–F4 scale. (Book p1031)]",
+          "questionIds": [
+            "MED-C67-018"
+          ]
+        },
+        {
+          "element": "p1031-e007",
+          "page": 1031,
+          "source": "The fibroscan figure shows a staging strip from ______ to ______ and the probe illustration cites an explored volume of ______ × ______ cm. [Strip F0 F1 F2 F3 F4; the probe inset labels 'Volumen explorado' 2.5 cm and 4 cm. (Book p1031)]",
+          "questionIds": [
+            "MED-C67-019"
+          ]
+        },
+        {
+          "element": "p1031-e008",
+          "page": 1031,
+          "source": "ALT/AST algorithm: enzymes are normal. What is the printed conclusion? ['ALT, AST → Normal → IFL'. (Book p1031)]",
+          "questionIds": [
+            "MED-C67-020"
+          ]
+        },
+        {
+          "element": "p1031-e009",
+          "page": 1031,
+          "source": "Enzymes ↑↑ (<150 U/L) — match — 1) AST < ALT 2) AST > ALT … A) Cirrhosis B) NASH (risk & cirrhosis) ['↑↑ (<150 U/L) → AST<ALT → NASH (Risk & cirrhosis); AST>ALT → Cirrhosis'. (Book p1031)]",
+          "questionIds": [
+            "MED-C67-021"
+          ]
+        },
+        {
+          "element": "p1031-e010",
+          "page": 1031,
+          "source": "A 45-year-old obese diabetic has ALT 110, AST 70 U/L. Following the algorithm, fibroscan is done and stiffness is markedly raised (↑↑). What is the final printed label? [AST<ALT → NASH → Fibroscan → (N) NASH without cirrhosis / ↑↑ NASH with cirrhosis. (Book p1031)]",
+          "questionIds": [
+            "MED-C67-022"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1032,
+      "pdfPage": 68,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1032 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1032.",
+      "elements": [
+        {
+          "element": "p1032-e001",
+          "page": 1032,
+          "source": "Supportive treatment of NASH — what weight-loss target and exercise prescription are printed? ['Weight loss : 10% over 6 months. Exercise : 30 – 45 minutes / day × 5 day / wk.' (Book p1032)]",
+          "questionIds": [
+            "MED-C67-023"
+          ]
+        },
+        {
+          "element": "p1032-e002",
+          "page": 1032,
+          "source": "Fill up the third supportive bullet: '______ fatty acids, ______'. ['Omega 3 fatty acids, caffeine.' (Book p1032)]",
+          "questionIds": [
+            "MED-C67-024"
+          ]
+        },
+        {
+          "element": "p1032-e003",
+          "page": 1032,
+          "source": "Vitamin E is the printed DOC for NASH. What dose is given? ['DOC : Vitamin E — 800–1000 unit/day.' (Book p1032)]",
+          "questionIds": [
+            "MED-C67-025"
+          ]
+        },
+        {
+          "element": "p1032-e004",
+          "page": 1032,
+          "source": "Judge the Vitamin E sub-bullets: I Improves NASH. II Its efficacy in cirrhosis is unknown. III Takes about 2 years to show effect. ['improves NASH, unknown efficacy in cirrhosis' and 'takes ~2 years to show effect'. (Book p1032)]",
+          "questionIds": [
+            "MED-C67-026"
+          ]
+        },
+        {
+          "element": "p1032-e005",
+          "page": 1032,
+          "source": "Saroglitazar (4 mg) works by which mechanism, per the book? ['Saroglitazar (4mg) : Dual PPAR-α + PPAR-γ agonist.' (Book p1032)]",
+          "questionIds": [
+            "MED-C67-027"
+          ]
+        },
+        {
+          "element": "p1032-e006",
+          "page": 1032,
+          "source": "Match — 1) Pioglitazone 2) Oral semaglutide 3) Saroglitazar … A) GLP-1 RA B) PPAR-γ agonist (may be tried) C) Dual PPAR-α + γ agonist [Pioglitazone PPAR-γ agonist (may be tried); Oral semaglutide GLP-1 RA (receptor agonist); Saroglitazar dual PPAR-α+γ. (Book p1032)]",
+          "questionIds": [
+            "MED-C67-028"
+          ]
+        }
+      ]
+    }
+  ]
+}

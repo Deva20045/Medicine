@@ -1,0 +1,283 @@
+{
+  "chapter": 68,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+  "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+  "pdfOffset": 964,
+  "pageRange": "1033-1035",
+  "contentSha256": "c796363f30d43a041cd6a1df0802502e0a566c0fb7f5c33d6f7a99725138ba7d",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch68 p1033-1035: auto-generated source checklist from existing 30 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 1033,
+      "pdfPage": 69,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1033 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1033.",
+      "elements": [
+        {
+          "element": "p1033-e001",
+          "page": 1033,
+          "source": "Opening classification — match — 1) Extrahepatic 2) Intrahepatic pre-sinusoidal 3) Post hepatic … A) 3rd order vein B) 1st order portal vein involvement C) Hepatic venous obstruction [Extrahepatic: 1st order portal vein involvement; Pre-sinusoidal: 3rd order vein; Post hepatic: hepatic venous obstruction. (Book p1033)]",
+          "questionIds": [
+            "MED-C68-001"
+          ]
+        },
+        {
+          "element": "p1033-e002",
+          "page": 1033,
+          "source": "Fill up: The extrahepatic entity is Extrahepatic portal vein occlusion (______), described as ______. ['Extrahepatic portal vein occlusion (EHPVO). • Non cirrhotic'. (Book p1033)]",
+          "questionIds": [
+            "MED-C68-002"
+          ]
+        },
+        {
+          "element": "p1033-e003",
+          "page": 1033,
+          "source": "Intrahepatic sub-types — match — 1) Pre-sinusoidal 2) Sinusoidal 3) Post-sinusoidal … A) Cirrhosis PH B) Sinusoidal obstruction syndrome (veno-occlusive) C) Non-cirrhotic portal fibrosis (NCPF) [Pre-sinusoidal: 3rd order vein, NCPF; Sinusoidal: Cirrhosis PH; Post sinusoidal: Sinusoidal obstruction syndrome (veno occlusive). (Book p1033)]",
+          "questionIds": [
+            "MED-C68-003"
+          ]
+        },
+        {
+          "element": "p1033-e004",
+          "page": 1033,
+          "source": "Post-hepatic hepatic venous obstruction is exemplified by which condition, and what does the arrow beneath it lead to? ['Post hepatic: Hepatic venous obstruction: • Budd Chiari syndrome → Cirrhosis.' (Book p1033)]",
+          "questionIds": [
+            "MED-C68-004"
+          ]
+        },
+        {
+          "element": "p1033-e005",
+          "page": 1033,
+          "source": "Fill up (BCS pathogenesis): Vasculature — ______ ductule of acinus → right atrium; hepatic venous occlusion / thrombosis anywhere → ______ entry into right atrium. ['Vasculature : efferent ductule of acinus — Hepatic venous occlusion / Thrombosis anywhere → IVC entry into Right atrium.' (Book p1033)]",
+          "questionIds": [
+            "MED-C68-005"
+          ]
+        },
+        {
+          "element": "p1033-e006",
+          "page": 1033,
+          "source": "Site of BCS — match — 1) Hepatic vein 2) Terminal IVC … A) 2nd most common B) Most common ['Hepatic vein : m/c. Terminal IVC : 2nd m/c.' (Book p1033)]",
+          "questionIds": [
+            "MED-C68-006"
+          ]
+        },
+        {
+          "element": "p1033-e007",
+          "page": 1033,
+          "source": "Among the inherited deficiencies causing BCS, which hierarchy is printed? ['Deficiency : Anti thrombin 3 > Protein C/Protein S.' (Book p1033)]",
+          "questionIds": [
+            "MED-C68-007"
+          ]
+        },
+        {
+          "element": "p1033-e008",
+          "page": 1033,
+          "source": "Which of the following is NOT one of the six printed causes of BCS? [Causes: Factor V Leiden mutation; deficiency AT3 > protein C/S; MPN; polycythemia rubra vera (PCRV); PNH; pregnancy/post partum. (Book p1033)]",
+          "questionIds": [
+            "MED-C68-008"
+          ]
+        },
+        {
+          "element": "p1033-e009",
+          "page": 1033,
+          "source": "Classification of BCS — judge: I Secondary is far commoner than primary (2° >> 1°). II Secondary is subdivided into inherited and acquired. ['Primary / Secondary (2° >> 1°) → Inherited / Acquired.' (Book p1033)]",
+          "questionIds": [
+            "MED-C68-009"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1034,
+      "pdfPage": 70,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1034 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1034.",
+      "elements": [
+        {
+          "element": "p1034-e001",
+          "page": 1034,
+          "source": "Most common presentation demographic of BCS printed? ['m/c : 30–40 years post partum female.' (Book p1034)]",
+          "questionIds": [
+            "MED-C68-010"
+          ]
+        },
+        {
+          "element": "p1034-e002",
+          "page": 1034,
+          "source": "Fill up: Ascites in BCS arises from zone ______ involvement → sinusoidal ______ + pooling. ['Ascites : zone 3 involvement → sinusoidal distension + pooling.' (Book p1034)]",
+          "questionIds": [
+            "MED-C68-011"
+          ]
+        },
+        {
+          "element": "p1034-e003",
+          "page": 1034,
+          "source": "Subacute BCS — judge: I It is the most common presentation. II It causes refractory ascites with collaterals. III The ascites is high-SAAG, high-protein. ['1. Subacute : m/c presentation; Refractory ascites + collaterals; High SAAG, high protein ascites.' (Book p1034)]",
+          "questionIds": [
+            "MED-C68-012"
+          ]
+        },
+        {
+          "element": "p1034-e004",
+          "page": 1034,
+          "source": "A patient's ascitic fluid shows high SAAG and LOW protein. Per the Note on this page, what does this pattern indicate? ['Note : High SAAG, low protein ascites : Sinusoidal cause.' (BCS gives high SAAG, high protein.) (Book p1034)]",
+          "questionIds": [
+            "MED-C68-013"
+          ]
+        },
+        {
+          "element": "p1034-e005",
+          "page": 1034,
+          "source": "Acute hepatitis presentation of BCS: what jaundice frequency is printed and how common is fulminant hepatic failure? ['2. Acute Hepatitis : Abdominal pain + hepatomegaly + ascites; Jaundice : <10% patients; Fulminant hepatic failure : Rare.' Then '3. Cirrhosis'. (Book]",
+          "questionIds": [
+            "MED-C68-014"
+          ]
+        },
+        {
+          "element": "p1034-e006",
+          "page": 1034,
+          "source": "Prognosis of BCS as printed? ['PROGNOSIS • very poor : 3yr survival rate < 10%.' (Book p1034)]",
+          "questionIds": [
+            "MED-C68-015"
+          ]
+        },
+        {
+          "element": "p1034-e007",
+          "page": 1034,
+          "source": "Mechanism flowchart, LEFT column — put in order: A) Extravasation of fluid from hepatic vein > sinusoids B) Increased sinusoidal & portal pressure C) High SAAG, high protein ascites D) Sinusoidal distension [Hepatic venous outflow obstruction → Increased sinusoidal & portal pressure → Sinusoidal distension → Extravasation of fluid from hepatic vein > sinus]",
+          "questionIds": [
+            "MED-C68-016"
+          ]
+        },
+        {
+          "element": "p1034-e008",
+          "page": 1034,
+          "source": "Mechanism flowchart, RIGHT column — put in order: A) Fibrosis, nodular regenerative hyperplasia B) Venous stasis and congestion C) Hepatocyte necrosis (centrilobular) leading to lobar collapse D) Hypoxic damage to hepatocytes, zone 3 involvement [Venous stasis and congestion → Hypoxic damage to hepatocytes, zone 3 → Hepatocyte necrosis (centrilobular) leading to lobar collapse → Fibrosis, nodul]",
+          "questionIds": [
+            "MED-C68-017"
+          ]
+        },
+        {
+          "element": "p1034-e009",
+          "page": 1034,
+          "source": "Investigations — match — 1) Hepatic venous Doppler 2) CECT 3) MRI … A) IOC B) Nodules / hemorrhagic liver C) Screening test; obstruction + portosystemic collaterals [Doppler: screening test, obstruction + portosystemic collaterals; CECT: IOC; MRI: nodules/hemorrhagic liver. (Book p1034)]",
+          "questionIds": [
+            "MED-C68-018"
+          ]
+        },
+        {
+          "element": "p1034-e010",
+          "page": 1034,
+          "source": "What does the red arrow on the 'CECT image in BCS' point to? [Label: 'Caudate lobe hypertrophy' — CECT image in BCS. (Book p1034)]",
+          "questionIds": [
+            "MED-C68-019"
+          ]
+        },
+        {
+          "element": "p1034-e011",
+          "page": 1034,
+          "source": "Management of BCS: which statement matches the printed text? ['mandatory anticoagulation to all. Non decompensated patients : Angioplasty +/− stenting —Failure→ TIPSS (Transjugular Intrahepatic Porto-systemic Shu]",
+          "questionIds": [
+            "MED-C68-020"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1035,
+      "pdfPage": 1,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1035 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1035.",
+      "elements": [
+        {
+          "element": "p1035-e001",
+          "page": 1035,
+          "source": "Fill up the alternative names in the table header: NCPF / IPH / Hepatoportal ______ / Obliterative portal ______. [Header: 'NCPF/IPH/Hepatoportal Sclerosis Obliterative portal venopathy)'. (Book p1035)]",
+          "questionIds": [
+            "MED-C68-021"
+          ]
+        },
+        {
+          "element": "p1035-e002",
+          "page": 1035,
+          "source": "Row 'Outcome' (demographic) — match — 1) EHPVO 2) NCPF … A) 20–40 yr adult Asian male B) 3–8 yr child (m/c cause of UGI bleed in children) [EHPVO: 3–8 yr child (m/c cause of UGI bleed in children); NCPF: 20–40 yr adult Asian male. (Book p1035)]",
+          "questionIds": [
+            "MED-C68-022"
+          ]
+        },
+        {
+          "element": "p1035-e003",
+          "page": 1035,
+          "source": "Rows 'Involvement' and 'Cause' — match — 1) EHPVO 2) NCPF … A) 3rd order portal vein; E. coli / arsenic associations, hypervitaminosis A B) 1st order portal vein; umbilical sepsis > prothrombotic state [EHPVO: 1st order portal vein, umbilical sepsis > prothrombotic state. NCPF: 3rd order portal vein, E. coli/arsenic, hypervitaminosis A. (Book p1035)]",
+          "questionIds": [
+            "MED-C68-023"
+          ]
+        },
+        {
+          "element": "p1035-e004",
+          "page": 1035,
+          "source": "A 6-year-old presents with massive haematemesis and a massive spleen; blood counts show anaemia and thrombocytopenia. Per the table, what explains the cytopenias and which condition is this? [EHPVO presentation: 'massive UGI bleed + massive spleen (hypersplenism) → Anemia, thrombocytopenia'. NCPF presents similarly but in 20–40 yr adults. (]",
+          "questionIds": [
+            "MED-C68-024"
+          ]
+        },
+        {
+          "element": "p1035-e005",
+          "page": 1035,
+          "source": "Row 'Prognosis' — judge: I EHPVO prognosis is good with no risk for cirrhosis. II NCPF prognosis is good with negligible risk for cirrhosis. [EHPVO: 'Good, with no risk for cirrhosis'; NCPF: 'Good, negligible risk for cirrhosis'. (Book p1035)]",
+          "questionIds": [
+            "MED-C68-025"
+          ]
+        },
+        {
+          "element": "p1035-e006",
+          "page": 1035,
+          "source": "Row 'Investigations' — match — 1) EHPVO 2) NCPF … A) IOC Doppler; biopsy (gold standard) shows obliterative portal venopathy B) IOC CT; cavernoma appearance of collaterals [EHPVO: IOC CT, cavernoma appearance of collaterals. NCPF: IOC Doppler, biopsy gold std — obliterative portal venopathy. (Book p1035)]",
+          "questionIds": [
+            "MED-C68-026"
+          ]
+        },
+        {
+          "element": "p1035-e007",
+          "page": 1035,
+          "source": "Fill up (EHPVO complications): Stunted growth and portal ______ — compression of the biliary system by portal ______. ['Portal biliopathy : compression of biliary system by portal collaterals.' NCPF complications: '—'. (Book p1035)]",
+          "questionIds": [
+            "MED-C68-027"
+          ]
+        },
+        {
+          "element": "p1035-e008",
+          "page": 1035,
+          "source": "What treatment is printed for EHPVO, and what is printed for NCPF? [Treatment row: EHPVO = Endoscopic variceal ligation / Endoscopic sclerotherapy; NCPF = '—'. (Book p1035)]",
+          "questionIds": [
+            "MED-C68-028"
+          ]
+        },
+        {
+          "element": "p1035-e009",
+          "page": 1035,
+          "source": "Note on the most common cause of portal hypertension — 1) Asia 2) World … A) Biliary atresia B) EHPVO ['m/c cause of PHTN : Asia: EHPVO; world: Biliary atresia.' (Book p1035)]",
+          "questionIds": [
+            "MED-C68-029"
+          ]
+        },
+        {
+          "element": "p1035-e010",
+          "page": 1035,
+          "source": "Match — 1) CECT panels 2) Colour Doppler 3) Trichrome/H&E micrograph … A) Obliterative portal venopathy — sclerotic & non-patent portal tracts B) EHPVO showing collaterals C) EHPVO with cavernoma labelled ['CECT: EHPVO showing collaterals'; 'Color doppler : EHPVO' with 'Cavernoma' arrow; 'Obliterative portal venopathy' with 'Sclerotic & non patent portal]",
+          "questionIds": [
+            "MED-C68-030"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "chapter": 31,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+  "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+  "pdfOffset": 823,
+  "pageRange": "852-857",
+  "contentSha256": "435e4aa3e084e9c5915d35ce3ccdff5cd23c041f4ba5e09e7d0b3d6df384ac21",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch31 p852-857: auto-generated source checklist from existing 53 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 852,
+      "pdfPage": 29,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p852 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p852.",
+      "elements": [
+        {
+          "element": "p852-e001",
+          "page": 852,
+          "source": "Match adrenal embryology — 1) Adrenal medulla  2) Adrenal cortex … A) Mesoderm (80%)  B) Neuroectoderm (20%) [Medulla (20%) is neuroectodermal; cortex (80%) mesodermal; development completed by the 45th day of IUL. (Book p852)]",
+          "questionIds": [
+            "MED-C31-001"
+          ]
+        },
+        {
+          "element": "p852-e002",
+          "page": 852,
+          "source": "Adrenal development is completed by the ___ day of intra-uterine life. [Development is completed on the 45th day of IUL. (Book p852)]",
+          "questionIds": [
+            "MED-C31-002"
+          ]
+        },
+        {
+          "element": "p852-e003",
+          "page": 852,
+          "source": "By the 80/20 rule, adrenaline (epinephrine) forms what share of medullary catecholamines? [Adrenaline/epinephrine 80% (smaller granules), noradrenaline/norepinephrine 20% (larger dense granules); secretion is pulsatile. (Book p852)]",
+          "questionIds": [
+            "MED-C31-003"
+          ]
+        },
+        {
+          "element": "p852-e004",
+          "page": 852,
+          "source": "Match catecholamine to metabolite — 1) Adrenaline  2) Dopamine  3) Noradrenaline … A) Homovanillic acid (HVA)  B) Normetanephrine  C) Metanephrine and VMA [Adrenaline → metanephrine/VMA; dopamine → HVA; noradrenaline → normetanephrine (metabolites are easier to measure). (Book p852)]",
+          "questionIds": [
+            "MED-C31-004"
+          ]
+        },
+        {
+          "element": "p852-e005",
+          "page": 852,
+          "source": "The rate-limiting step of catecholamine biosynthesis (tyrosine → DOPA) is catalysed by ___. [Tyrosine hydroxylase is the rate-limiting step; the ladder is tyrosine → DOPA → dopamine → NE → epinephrine. (Book p852)]",
+          "questionIds": [
+            "MED-C31-005"
+          ]
+        },
+        {
+          "element": "p852-e006",
+          "page": 852,
+          "source": "The enzyme converting norepinephrine to epinephrine is: [PNMT (phenylethanolamine N-methyltransferase) converts NE to epinephrine. (Book p852)]",
+          "questionIds": [
+            "MED-C31-006"
+          ]
+        },
+        {
+          "element": "p852-e007",
+          "page": 852,
+          "source": "‘PNMT is present only in the adrenal gland, so extra-adrenal pheochromocytomas produce only norepinephrine.’ [PNMT is adrenal-only; extra-adrenal pheochromocytoma lacks it and produces only NE. (Book p852)]",
+          "questionIds": [
+            "MED-C31-007"
+          ]
+        },
+        {
+          "element": "p852-e008",
+          "page": 852,
+          "source": "The metabolic relation between cortex and medulla is: [Cortisol from the cortex stimulates medullary PNMT. (Book p852)]",
+          "questionIds": [
+            "MED-C31-008"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 853,
+      "pdfPage": 30,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p853 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p853.",
+      "elements": [
+        {
+          "element": "p853-e001",
+          "page": 853,
+          "source": "Adrenomedullin is produced from the: [Adrenomedullin is produced from endothelium; it causes vasodilation and inhibits endothelial cell apoptosis (prevents septic shock). (Book p853)]",
+          "questionIds": [
+            "MED-C31-009"
+          ]
+        },
+        {
+          "element": "p853-e002",
+          "page": 853,
+          "source": "The other granule contents of the medulla listed are: [Other contents of granules: opioids and chromogranin A. (Book p853)]",
+          "questionIds": [
+            "MED-C31-010"
+          ]
+        },
+        {
+          "element": "p853-e003",
+          "page": 853,
+          "source": "Pheochromocytoma typically presents in which decades, with what sex ratio? [Age 4th to 5th decade; male:female 1:1. (Book p853)]",
+          "questionIds": [
+            "MED-C31-011"
+          ]
+        },
+        {
+          "element": "p853-e004",
+          "page": 853,
+          "source": "Pheochromocytoma is defined as a neural-crest cell tumour producing: [Definition: neural crest cell tumour producing catecholamines (pulsatile) and catecholamine metabolites. (Book p853)]",
+          "questionIds": [
+            "MED-C31-012"
+          ]
+        },
+        {
+          "element": "p853-e005",
+          "page": 853,
+          "source": "By origin, adrenal pheochromocytoma and extra-adrenal paraganglioma split as: [Adrenal 75%; extra-adrenal pheochromocytoma/paraganglioma 25% with high malignant potential. (Book p853)]",
+          "questionIds": [
+            "MED-C31-013"
+          ]
+        },
+        {
+          "element": "p853-e006",
+          "page": 853,
+          "source": "The m/c site of sympathetic-ganglia paraganglioma (20%) is the: [Sympathetic ganglia (20%): m/c site organ of Zuckerkandl. (Book p853)]",
+          "questionIds": [
+            "MED-C31-014"
+          ]
+        },
+        {
+          "element": "p853-e007",
+          "page": 853,
+          "source": "Parasympathetic paragangliomas (5%) are typically non-functional; their m/c site is: [Parasympathetic ganglia (5%): non-functional; m/c site carotid body > jugular bulb. (Book p853)]",
+          "questionIds": [
+            "MED-C31-015"
+          ]
+        },
+        {
+          "element": "p853-e008",
+          "page": 853,
+          "source": "‘Page 852 says extra-adrenal tumours secrete only NE (no PNMT), yet the p853 types tree prints ‘produce only NA’ under the adrenal branch and ‘adrenaline > NA’ under extra-adrenal — the PNMT mechanism (p852) is the one to apply in answers.’ [The book's own p852 mechanism (PNMT adrenal-only, extra-adrenal = NE only) conflicts with the printed p853 tree labels; learn the mechanism. (Book p85]",
+          "questionIds": [
+            "MED-C31-016"
+          ]
+        },
+        {
+          "element": "p853-e009",
+          "page": 853,
+          "source": "The CURRENT statistics that replaced the obsolete ‘rule of 10’ are: [Obsolete rule of 10 = 10% each; current: bilateral 40%, extra-adrenal 25%, familial 40%, malignant 50%. (Book p853)]",
+          "questionIds": [
+            "MED-C31-017"
+          ]
+        },
+        {
+          "element": "p853-e010",
+          "page": 853,
+          "source": "Familial pheochromocytoma (40% currently) is associated with, and the STRONGEST association is: [Familial cases occur in young patients; associated with MEN (strongest association), VHL (von Hippel-Lindau), NF-1 (neurofibromatosis). (Book p853)]",
+          "questionIds": [
+            "MED-C31-018"
+          ]
+        },
+        {
+          "element": "p853-e011",
+          "page": 853,
+          "source": "Familial pheochromocytomas are usually bilateral EXCEPT when associated with: [Usually B/L except NF-1 associated (U/L). (Book p853)]",
+          "questionIds": [
+            "MED-C31-019"
+          ]
+        },
+        {
+          "element": "p853-e012",
+          "page": 853,
+          "source": "The surest sign of malignant pheochromocytoma and the mutation raising metastatic potential are: [Surest sign = metastasis; SDH-B ↑ metastatic potential. (Book p853)]",
+          "questionIds": [
+            "MED-C31-020"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 854,
+      "pdfPage": 31,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p854 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p854.",
+      "elements": [
+        {
+          "element": "p854-e001",
+          "page": 854,
+          "source": "Sustained sympathetic activity in pheochromocytoma leads to: [Leads to ↑ intravascular volume (with ↓GFR → hypercalcaemia → acute abdominal pain, and postural hypotension), DM and weight loss. (Book p854)]",
+          "questionIds": [
+            "MED-C31-021"
+          ]
+        },
+        {
+          "element": "p854-e002",
+          "page": 854,
+          "source": "Pheochromocytoma causes 2° paraneoplastic polycythaemia by producing: [Pheochromocytoma produces erythropoietin (EPO) → 2° paraneoplastic polycythemia. (Book p854)]",
+          "questionIds": [
+            "MED-C31-022"
+          ]
+        },
+        {
+          "element": "p854-e003",
+          "page": 854,
+          "source": "The m/c symptom of the classic triad — episodic headache — occurs in: [Triad: episodic headache (95%, m/c symptom), palpitation/tachycardia, profuse sweating. (Book p854)]",
+          "questionIds": [
+            "MED-C31-023"
+          ]
+        },
+        {
+          "element": "p854-e004",
+          "page": 854,
+          "source": "The other two corners of the symptom triad are: [Palpitation/tachycardia and profuse sweating complete the triad. (Book p854)]",
+          "questionIds": [
+            "MED-C31-024"
+          ]
+        },
+        {
+          "element": "p854-e005",
+          "page": 854,
+          "source": "Pallor during spells in pheochromocytoma should raise suspicion of: [Pallor: suspect malignancy. Other features: abdominal pain, palpitation (sinus tachy), perspiration, panic attack (75%), postural hypotension, weight ]",
+          "questionIds": [
+            "MED-C31-025"
+          ]
+        },
+        {
+          "element": "p854-e006",
+          "page": 854,
+          "source": "The m/c SIGN — episodic hypertension — is seen in: [Episodic hypertension (75–85%) is the m/c sign; sustained only in 20%, giving resistant young hypertension. (Book p854)]",
+          "questionIds": [
+            "MED-C31-026"
+          ]
+        },
+        {
+          "element": "p854-e007",
+          "page": 854,
+          "source": "Sustained hypertension occurs in only: [Sustained only in 20% — resistant young hypertension. (Book p854)]",
+          "questionIds": [
+            "MED-C31-027"
+          ]
+        },
+        {
+          "element": "p854-e008",
+          "page": 854,
+          "source": "Normal BP between spells is found in: [Normal BP in 15%. (Book p854)]",
+          "questionIds": [
+            "MED-C31-028"
+          ]
+        },
+        {
+          "element": "p854-e009",
+          "page": 854,
+          "source": "Match postural hypotension criteria (any one) — 1) Heart rate  2) Systolic BP  3) Diastolic BP … A) ↓ >20 mmHg  B) ↑ >30/min  C) ↓ >10 mmHg [Supine then standing (2–5 min): ↑HR >30/min, ↓systolic >20 mmHg or ↓diastolic >10 mmHg = postural hypotension (75%). (Book p854)]",
+          "questionIds": [
+            "MED-C31-029"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 855,
+      "pdfPage": 32,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p855 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p855.",
+      "elements": [
+        {
+          "element": "p855-e001",
+          "page": 855,
+          "source": "Among benign adrenal incidentalomas, the functional tumour order is: [Benign (m/c) incidentalomas are endocrine-inactive or functional; functional: cortisol-producing > pheochromocytoma. (Book p855)]",
+          "questionIds": [
+            "MED-C31-030"
+          ]
+        },
+        {
+          "element": "p855-e002",
+          "page": 855,
+          "source": "The alarm signs in a NON-functioning adrenal tumour prompting adrenalectomy (any one) are: [Alarm signs: size >4 cm; CT density >20 HU; CT contrast washout <40% — any 1 (+) → adrenalectomy. (Book p855)]",
+          "questionIds": [
+            "MED-C31-031"
+          ]
+        },
+        {
+          "element": "p855-e003",
+          "page": 855,
+          "source": "Catecholamine excess affects the heart by raising: [Heart: ↑ rate, ↑ excitability, ↑ O2 consumption, ↑ force. (Book p855)]",
+          "questionIds": [
+            "MED-C31-032"
+          ]
+        },
+        {
+          "element": "p855-e004",
+          "page": 855,
+          "source": "Pheochromocytoma is a named cause of which cardiomyopathy (the other being sarcoidosis)? [Cause for dilated cardiomyopathy (other cause: sarcoidosis). (Book p855)]",
+          "questionIds": [
+            "MED-C31-033"
+          ]
+        },
+        {
+          "element": "p855-e005",
+          "page": 855,
+          "source": "Which is NOT in the book's hypercalcaemia-associated disease list? [Listed: Addison's disease, pheochromocytoma, thyrotoxicosis, acromegaly — not Cushing's. (Book p855)]",
+          "questionIds": [
+            "MED-C31-034"
+          ]
+        },
+        {
+          "element": "p855-e006",
+          "page": 855,
+          "source": "‘The m/c cause of panic attack is NOT pheochromocytoma.’ [Note: m/c cause of panic attack is not pheochromocytoma (though panic attack occurs in 75% of pheo patients). (Book p855)]",
+          "questionIds": [
+            "MED-C31-035"
+          ]
+        },
+        {
+          "element": "p855-e007",
+          "page": 855,
+          "source": "The histopathology pattern of pheochromocytoma is the ___. [Histopathology: Zellballen pattern. (Book p855)]",
+          "questionIds": [
+            "MED-C31-036"
+          ]
+        },
+        {
+          "element": "p855-e008",
+          "page": 855,
+          "source": "The immunohistochemical markers listed are: [Markers: chromogranin, synaptophysin, S100. (Book p855)]",
+          "questionIds": [
+            "MED-C31-037"
+          ]
+        },
+        {
+          "element": "p855-e009",
+          "page": 855,
+          "source": "Before biochemical testing, which drugs must be stopped because they interfere? [Stop tricyclic antidepressants, L-Dopa and NSAIDs before testing (they interfere with the test). (Book p855)]",
+          "questionIds": [
+            "MED-C31-038"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 856,
+      "pdfPage": 33,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p856 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p856.",
+      "elements": [
+        {
+          "element": "p856-e001",
+          "page": 856,
+          "source": "The SCREENING test for pheochromocytoma (98% sensitivity and specificity) is: [24 hr fractionated metanephrine/NM is the screening test with 98% sensitivity and 98% specificity. (Book p856)]",
+          "questionIds": [
+            "MED-C31-039"
+          ]
+        },
+        {
+          "element": "p856-e002",
+          "page": 856,
+          "source": "Plasma fractionated metanephrine/NM has what sensitivity (no false negatives)? [Plasma fractionated metanephrine/NM: 100% sensitivity; done along with 24 hr urine if very strong family history. (Book p856)]",
+          "questionIds": [
+            "MED-C31-040"
+          ]
+        },
+        {
+          "element": "p856-e003",
+          "page": 856,
+          "source": "The IOC for adrenal pheochromocytoma on imaging is: [MRI abdomen is IOC, showing T2 hyperintensities with hemorrhagic/cystic changes. (Book p856)]",
+          "questionIds": [
+            "MED-C31-041"
+          ]
+        },
+        {
+          "element": "p856-e004",
+          "page": 856,
+          "source": "Which two imaging modalities are now obsolete? [MIBG and FDG-PET are obsolete now. (Book p856)]",
+          "questionIds": [
+            "MED-C31-042"
+          ]
+        },
+        {
+          "element": "p856-e005",
+          "page": 856,
+          "source": "Gallium DOTATATE PET scan is the IOC when: [Ga-DOTATATE PET is IOC if MRI negative but biochemically positive (paraganglioma). (Book p856)]",
+          "questionIds": [
+            "MED-C31-043"
+          ]
+        },
+        {
+          "element": "p856-e006",
+          "page": 856,
+          "source": "The DOTATATE principle is: DOTA–octreotate binds to: [DOTA → octreotate binds somatostatin receptor type 2 on the tumour surface. (Book p856)]",
+          "questionIds": [
+            "MED-C31-044"
+          ]
+        },
+        {
+          "element": "p856-e007",
+          "page": 856,
+          "source": "The treatment of choice for pheochromocytoma is: [Laparoscopic retroperitoneal adrenalectomy is TOC. (Book p856)]",
+          "questionIds": [
+            "MED-C31-045"
+          ]
+        },
+        {
+          "element": "p856-e008",
+          "page": 856,
+          "source": "Pre-surgical preparation begins how many days before surgery (admit + liberal fluids)? [10 days before surgery: admit patient and give liberal fluid intake (then BP control). (Book p856)]",
+          "questionIds": [
+            "MED-C31-046"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 857,
+      "pdfPage": 34,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p857 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p857.",
+      "elements": [
+        {
+          "element": "p857-e001",
+          "page": 857,
+          "source": "The DOC α-blocker for pre-operative BP control is: [Phenoxybenzamine (10 mg OD step-up to 10 mg TDS): non-selective, irreversible, long-lasting, non-competitive inhibitor. (Book p857)]",
+          "questionIds": [
+            "MED-C31-047"
+          ]
+        },
+        {
+          "element": "p857-e002",
+          "page": 857,
+          "source": "Phenoxybenzamine is best described as a: [It is non-selective, irreversible, long-lasting and non-competitive. (Book p857)]",
+          "questionIds": [
+            "MED-C31-048"
+          ]
+        },
+        {
+          "element": "p857-e003",
+          "page": 857,
+          "source": "Other α-blockers used, and the step-up dose for prazosin, are: [Others: prazosin (2.5 mg OD → 5 mg BD), terazosin. (Book p857)]",
+          "questionIds": [
+            "MED-C31-049"
+          ]
+        },
+        {
+          "element": "p857-e004",
+          "page": 857,
+          "source": "If adequate BP control is not achieved, the added drug class is: [Ca channel blockers amlodipine/nicardipine if adequate BP control not achieved; metyrosine rarely used. (Book p857)]",
+          "questionIds": [
+            "MED-C31-050"
+          ]
+        },
+        {
+          "element": "p857-e005",
+          "page": 857,
+          "source": "HR control with β-blockers is added how many days before surgery (atenolol 12.5 mg BD → 25 mg BD)? [3 days before surgery: β-blockers (atenolol 12.5 mg BD → 25 mg BD) — always after α-blockade. (Book p857)]",
+          "questionIds": [
+            "MED-C31-051"
+          ]
+        },
+        {
+          "element": "p857-e006",
+          "page": 857,
+          "source": "The intraoperative hypertensive crisis is managed with: [Intraoperative hypertensive crisis: sodium nitroprusside/nicardipine. (Book p857)]",
+          "questionIds": [
+            "MED-C31-052"
+          ]
+        },
+        {
+          "element": "p857-e007",
+          "page": 857,
+          "source": "Which drug is NOT part of the pre-operative preparation list? [Metyrosine is rarely used, not first-line; phenoxybenzamine DOC, prazosin/terazosin others, atenolol for HR. (Book p857)]",
+          "questionIds": [
+            "MED-C31-053"
+          ]
+        }
+      ]
+    }
+  ]
+}

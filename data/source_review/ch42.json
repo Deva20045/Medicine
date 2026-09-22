@@ -1,0 +1,565 @@
+{
+  "chapter": 42,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+  "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+  "pdfOffset": 893,
+  "pageRange": "905-909",
+  "contentSha256": "4702963ea2f60b0ab7c1dd3e93316945a8b2f1dd81f8f484ec3b93ef2cdc7fe5",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch42 p905-909: auto-generated source checklist from existing 63 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 905,
+      "pdfPage": 12,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p905 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p905.",
+      "elements": [
+        {
+          "element": "p905-e001",
+          "page": 905,
+          "source": "What is the most common (m/c) cause of primary hypothyroidism on page 905? [Under Primary Hypothyroidism: '1. Autoimmune hypothyroidism (m/c) AKA Hashimoto thyroiditis'. (Book p905)]",
+          "questionIds": [
+            "MED-C42-001"
+          ]
+        },
+        {
+          "element": "p905-e002",
+          "page": 905,
+          "source": "Autoimmune hypothyroidism is associated with Autoimmune Polyendocrine Syndromes (APS); clinicians should specifically check for ___ before initiating treatment. [Autoimmune hypothyroidism is associated with APS-1/2; clinicians 'Should check for APS2 before treatment'. (Book p905)]",
+          "questionIds": [
+            "MED-C42-002"
+          ]
+        },
+        {
+          "element": "p905-e003",
+          "page": 905,
+          "source": "A patient with undetected coexisting adrenal insufficiency (APS-2) is prescribed L-thyroxine without prior cortisol supplementation. What acute consequence is cautioned on page 905? [If L-thyroxine is given without cortisol supplementation in APS-2, it precipitates adrenal insufficiency: shock in children, and profound adrenal insu]",
+          "questionIds": [
+            "MED-C42-003"
+          ]
+        },
+        {
+          "element": "p905-e004",
+          "page": 905,
+          "source": "Match the pharmacologic agent causing hypothyroidism to its specific clinical characteristic — 1) Lithium 2) Interferon-alpha (IFN-α) 3) Amiodarone … A) Associated with nephrogenic diabetes insipidus (DI) B) Drug-associated thyroid destruction (irreversible side effect) C) Can produce both hypothyroidism and hyperthyroidism [Lithium causes hypothyroidism and nephrogenic DI; IFN-α causes irreversible thyroid destruction; amiodarone can produce both hypothyroidism and hypert]",
+          "questionIds": [
+            "MED-C42-004"
+          ]
+        },
+        {
+          "element": "p905-e005",
+          "page": 905,
+          "source": "Regarding side effects of interferon-alpha (IFN-α): I Thyroid destruction is an irreversible side effect. II Flu-like syndrome is a reversible side effect. [Page 905 notes for IFN-α: 'Irreversible S/E: thyroid destruction' and 'Reversible S/E : Flu like syndrome'. (Book p905)]",
+          "questionIds": [
+            "MED-C42-005"
+          ]
+        },
+        {
+          "element": "p905-e006",
+          "page": 905,
+          "source": "Which of the following is NOT listed under causes of primary hypothyroidism on page 905? [Pituitary mass effect is a cause of secondary hypothyroidism, not primary hypothyroidism. (Book p905)]",
+          "questionIds": [
+            "MED-C42-006"
+          ]
+        },
+        {
+          "element": "p905-e007",
+          "page": 905,
+          "source": "In secondary hypothyroidism due to a pituitary mass effect, what is the most common (m/c) underlying etiology listed? [Under Secondary Hypothyroidism: 'Pituitary cause : No significant hypothyroidism; Primary Cause - MASS effect - (m/c) Lymphocytic hypophysitis'. (Book]",
+          "questionIds": [
+            "MED-C42-007"
+          ]
+        },
+        {
+          "element": "p905-e008",
+          "page": 905,
+          "source": "Assess secondary hypothyroidism from pituitary disease: I It characteristically causes severe, profound isolated hypothyroidism. II Its primary mechanism is mass effect, most commonly from lymphocytic hypophysitis. [Page 905 states: 'No significant hypothyroidism' for pituitary cause, and its primary cause is mass effect, most commonly lymphocytic hypophysitis. (B]",
+          "questionIds": [
+            "MED-C42-008"
+          ]
+        },
+        {
+          "element": "p905-e009",
+          "page": 905,
+          "source": "A 2-month-old infant with a large hepatic hemangioma develops profound hypothyroidism requiring massive doses of levothyroxine. What is the mechanism of this consumptive hypothyroidism? [Consumptive hypothyroidism in hemangioma is driven by increased deiodinase-III expression leading to decreased active hormones and increased reverse T]",
+          "questionIds": [
+            "MED-C42-009"
+          ]
+        },
+        {
+          "element": "p905-e010",
+          "page": 905,
+          "source": "Consumptive hypothyroidism associated with hemangioma is mediated by increased expression of ___, which accelerates the formation of ___. [Hemangioma -> ↑ Deiodinase-III expression -> ↓ Hormones (↑ formation of Reverse T3). (Book p905)]",
+          "questionIds": [
+            "MED-C42-010"
+          ]
+        },
+        {
+          "element": "p905-e011",
+          "page": 905,
+          "source": "What is the primary underlying cause of congenital hypothyroidism on page 905? [Under Congenital Hypothyroidism: 'mostly due to thyroid dysgenesis'. (Book p905)]",
+          "questionIds": [
+            "MED-C42-011"
+          ]
+        },
+        {
+          "element": "p905-e012",
+          "page": 905,
+          "source": "Match the newborn physical sign of congenital hypothyroidism to its system — 1) Cranial sign 2) Gastrointestinal sign 3) Hepatic sign … A) Open posterior fontanelle B) Delay in passing meconium C) Prolonged physiological jaundice [Features of congenital hypothyroidism listed on page 905 are: open posterior fontanelle, delay in passing meconium, and prolonged physiological jaundi]",
+          "questionIds": [
+            "MED-C42-012"
+          ]
+        },
+        {
+          "element": "p905-e013",
+          "page": 905,
+          "source": "Which of the following is NOT listed on page 905 as a feature of congenital hypothyroidism? [Features of congenital hypothyroidism are open posterior fontanelle, delay in passing meconium, prolonged physiological jaundice, very little crying, ]",
+          "questionIds": [
+            "MED-C42-013"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 906,
+      "pdfPage": 13,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p906 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p906.",
+      "elements": [
+        {
+          "element": "p906-e001",
+          "page": 906,
+          "source": "In which demographic group is Hashimoto's thyroiditis most common? [Under Hashimoto's Thyroiditis FEATURES: 'most common in middle-aged female'. (Book p906)]",
+          "questionIds": [
+            "MED-C42-014"
+          ]
+        },
+        {
+          "element": "p906-e002",
+          "page": 906,
+          "source": "Match the immunogenetic associations of Hashimoto's thyroiditis — 1) HLA alleles 2) Immune checkpoint polymorphisms … A) HLA-DR3, DR4, DR5 (can be ANA positive) B) CTLA-4 and PTPN-22 polymorphisms [HLA associations are DR-3 / DR-4 / DR5 (can be ANA +ve); non-HLA gene polymorphisms are CTLA-4 / PTPN-22. (Book p906)]",
+          "questionIds": [
+            "MED-C42-015"
+          ]
+        },
+        {
+          "element": "p906-e003",
+          "page": 906,
+          "source": "Assess gland changes in Hashimoto's thyroiditis: I The thyroid gland is commonly not enlarged. II When goitre is present, it is characteristically an irregular, firm, heterogeneous, non-tender enlargement. [Gland changes: 'Commonly not enlarged' and 'If goitre present : Irregular/ firm/ heterogeneous non tender enlargement of gland'. (Book p906)]",
+          "questionIds": [
+            "MED-C42-016"
+          ]
+        },
+        {
+          "element": "p906-e004",
+          "page": 906,
+          "source": "On gross examination of a resected thyroid from a middle-aged woman with autoimmune hypothyroidism, the gland appears fibrosed, pale, and firm. What accounts for the pale appearance? [Under Gross appearance: 'Fibrosed gland' and 'Pale gland d/t lymphoid infiltration'. (Book p906)]",
+          "questionIds": [
+            "MED-C42-017"
+          ]
+        },
+        {
+          "element": "p906-e005",
+          "page": 906,
+          "source": "On microscopic examination of Hashimoto's thyroiditis, the prominent lymphocytic infiltration characteristically organizes into ___ formation. [Microscopic appearance: 'Lymphocytic infiltration -> Germinal center formation'. (Book p906)]",
+          "questionIds": [
+            "MED-C42-018"
+          ]
+        },
+        {
+          "element": "p906-e006",
+          "page": 906,
+          "source": "What are the transformed, hypereosinophilic epithelial cells with abundant granular cytoplasm seen in Hashimoto's thyroiditis called? [Page 906 notes: 'Hypereosinophilic cells : Hürthle cells' and 'Oxyphilic metaplasia'. (Book p906)]",
+          "questionIds": [
+            "MED-C42-019"
+          ]
+        },
+        {
+          "element": "p906-e007",
+          "page": 906,
+          "source": "Regarding the microscopic findings in Hashimoto's thyroiditis: I The follicular lumen characteristically shows an absence of colloid. II Oxyphilic metaplasia with Hürthle cells is a key hallmark. [Microscopic hallmarks on page 906 include: 'Absence of colloid' and 'Oxyphilic metaplasia' with Hürthle cells. (Book p906)]",
+          "questionIds": [
+            "MED-C42-020"
+          ]
+        },
+        {
+          "element": "p906-e008",
+          "page": 906,
+          "source": "Which malignancy has the highest associated relative risk in patients with longstanding Hashimoto's thyroiditis? [Under Associated malignancy: 'Extranodal marginal zone lymphoma > papillary carcinoma thyroid'. (Book p906)]",
+          "questionIds": [
+            "MED-C42-021"
+          ]
+        },
+        {
+          "element": "p906-e009",
+          "page": 906,
+          "source": "Match the malignancy associated with Hashimoto's thyroiditis to its relative frequency order — 1) Most strongly associated malignancy 2) Secondary associated thyroid carcinoma … A) Extranodal marginal zone lymphoma B) Papillary carcinoma thyroid [Associated malignancy hierarchy: Extranodal marginal zone lymphoma is more strongly associated than papillary carcinoma of thyroid. (Book p906)]",
+          "questionIds": [
+            "MED-C42-022"
+          ]
+        },
+        {
+          "element": "p906-e010",
+          "page": 906,
+          "source": "The cellular and cytokine mediators driving thyroid destruction in Hashimoto's include T-cells (both CD-8 and ___), plasma cells, and the cytokine ___. [Pathological mediators: 'T-cell (CD-8, CD-4)', 'IFN-gamma', and 'Plasma cell'. (Book p906)]",
+          "questionIds": [
+            "MED-C42-023"
+          ]
+        },
+        {
+          "element": "p906-e011",
+          "page": 906,
+          "source": "Which of the following is NOT listed on page 906 as a histological feature or mediator of Hashimoto's thyroiditis? [In Hashimoto's, there is characteristically an 'Absence of colloid', not abundant colloid retention. (Book p906)]",
+          "questionIds": [
+            "MED-C42-024"
+          ]
+        },
+        {
+          "element": "p906-e012",
+          "page": 906,
+          "source": "A 50-year-old woman with a 15-year history of Hashimoto's thyroiditis presents with a rapidly enlarging thyroid goiter. Biopsy demonstrates extranodal marginal zone B-cell lymphoma. What is the classic risk hierarchy noted on page 906? [Page 906 explicitly highlights: 'Associated malignancy : Extranodal marginal zone lymphoma > papillary carcinoma thyroid'. (Book p906)]",
+          "questionIds": [
+            "MED-C42-025"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 907,
+      "pdfPage": 14,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p907 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p907.",
+      "elements": [
+        {
+          "element": "p907-e001",
+          "page": 907,
+          "source": "What is the most common (m/c) presenting symptom of generalized slowing (decreased BMR) in primary and secondary hypothyroidism? [Under Classical Symptoms: '1. Generalized slowing (↓ BMR) : Fatigue/tiredness (m/c)'. (Book p907)]",
+          "questionIds": [
+            "MED-C42-026"
+          ]
+        },
+        {
+          "element": "p907-e002",
+          "page": 907,
+          "source": "Match the manifestations of generalized slowing in hypothyroidism — 1) Speech & Gait 2) Bowel movements 3) Neurologic reflexes 4) Body weight … A) Slow speech and slow gait B) Constipation C) Delayed deep tendon reflexes (DTR) D) Poor appetite with weight gain [Generalized slowing affects: speech/gait (slow), bowel (constipation), reflexes (delayed DTR), and weight (poor appetite with weight gain). (Book p907]",
+          "questionIds": [
+            "MED-C42-027"
+          ]
+        },
+        {
+          "element": "p907-e003",
+          "page": 907,
+          "source": "In primary hypothyroidism, elevated TSH stimulates fibroblasts to produce matrix ___, which trap water and cause non-pitting myxedema. [In 1° Hypothyroidism: ↑ TSH elevation -> Stimulates Fibroblast -> Stimulates Accumulation of matrix GAG's -> Traps water -> Nonpitting edema. (Book p9]",
+          "questionIds": [
+            "MED-C42-028"
+          ]
+        },
+        {
+          "element": "p907-e004",
+          "page": 907,
+          "source": "Assess the clinical consequences of matrix GAG accumulation trapping water in 1° hypothyroidism: I Facial puffiness, periorbital edema, and hoarse voice. II Macroglossia leading to obstructive sleep apnea syndrome. [Trapped water from matrix GAGs causes puffiness (face), periorbital edema, macroglossia -> obstructive sleep apnea syndrome, hoarse voice, and nonpitt]",
+          "questionIds": [
+            "MED-C42-029"
+          ]
+        },
+        {
+          "element": "p907-e005",
+          "page": 907,
+          "source": "Which of the following is NOT listed on page 907 as a symptom predominant in young females with hypothyroidism? [Symptoms predominant in young females are hair loss, irregular menstrual cycle, dry skin, and mood swings. (Book p907)]",
+          "questionIds": [
+            "MED-C42-030"
+          ]
+        },
+        {
+          "element": "p907-e006",
+          "page": 907,
+          "source": "Which endocrine disorder is noted on page 907 as causing 'False positive Hypothyroidism' (transiently elevated TSH)? [Page 907 explicitly contains the note: 'Note : False positive Hypothyroidism -> Addison's disease'. (Book p907)]",
+          "questionIds": [
+            "MED-C42-031"
+          ]
+        },
+        {
+          "element": "p907-e007",
+          "page": 907,
+          "source": "An adult with severe longstanding primary hypothyroidism presents with prominent pseudohypertrophy of both calf muscles accompanied by slowness and muscle stiffness. What eponymous disorder is depicted in the photo on page 907? [The clinical photo on page 907 demonstrates: 'Hoffman syndrome Pseudohypertrophy in calf muscle'. (Book p907)]",
+          "questionIds": [
+            "MED-C42-032"
+          ]
+        },
+        {
+          "element": "p907-e008",
+          "page": 907,
+          "source": "Match the serous cavity effusions seen in hypothyroid polyserositis — 1) Pleural cavity 2) Pericardial space 3) Peritoneal cavity … A) Pleural effusion B) Pericardial effusion C) Ascites [Complications of hypothyroidism include serous effusions in three spaces: pleural effusion, pericardial effusion, and ascites. (Book p907)]",
+          "questionIds": [
+            "MED-C42-033"
+          ]
+        },
+        {
+          "element": "p907-e009",
+          "page": 907,
+          "source": "What is the most common cause of Carpal Tunnel Syndrome (CTS) in females versus males on page 907? [Carpal tunnel syndrome (CTS): 'm/c cause in females : Hypothyroidism' and 'm/c cause in males : Amyloidosis'. (Book p907)]",
+          "questionIds": [
+            "MED-C42-034"
+          ]
+        },
+        {
+          "element": "p907-e010",
+          "page": 907,
+          "source": "Regarding Carpal Tunnel Syndrome (CTS) epidemiology on page 907: I Hypothyroidism is the most common cause in females. II Amyloidosis is the most common cause in males. [Page 907 notes for CTS: - m/c cause in females : Hypothyroidism, - m/c cause in males : Amyloidosis. (Book p907)]",
+          "questionIds": [
+            "MED-C42-035"
+          ]
+        },
+        {
+          "element": "p907-e011",
+          "page": 907,
+          "source": "A 48-year-old obese woman with untreated hypothyroidism presents with severe loud snoring, daytime sleepiness, and witnessed nocturnal apneas. What anatomical mechanism links this to her thyroid disease? [GAG accumulation traps water, producing macroglossia that leads directly to obstructive sleep apnea syndrome. (Book p907)]",
+          "questionIds": [
+            "MED-C42-036"
+          ]
+        },
+        {
+          "element": "p907-e012",
+          "page": 907,
+          "source": "Although page 907 prints 'Hypocholesterolaemia' among complications (an editorial misprint in the scan), the classical metabolic consequence of reduced LDL clearance in hypothyroidism is ___. [Page 907 lists 'Hypocholesterolemia' in its complications column, but clinically and on page 903, impaired cholesterol clearance classically causes hy]",
+          "questionIds": [
+            "MED-C42-037"
+          ]
+        },
+        {
+          "element": "p907-e013",
+          "page": 907,
+          "source": "Which of the following is NOT listed on page 907 as a complication of hypothyroidism? [Hypercalcemia and nephrolithiasis are complications of severe thyrotoxicosis (p903), not hypothyroidism. Complications on p907 are myxedema coma, ence]",
+          "questionIds": [
+            "MED-C42-038"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 908,
+      "pdfPage": 15,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p908 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p908.",
+      "elements": [
+        {
+          "element": "p908-e001",
+          "page": 908,
+          "source": "In a patient presenting with newly identified hypothyroidism, autoantibody screening returns completely negative. What diagnostic entity is considered on page 908? [In the workup for Hashimoto's, negative autoantibodies indicate: 'Transient Hypothyroidism : Thyroiditis (Postviral / Post vaccine) -> may/may not req]",
+          "questionIds": [
+            "MED-C42-039"
+          ]
+        },
+        {
+          "element": "p908-e002",
+          "page": 908,
+          "source": "Match the autoantibody in Hashimoto's disease to its percentage association on page 908 — 1) Thyroid peroxidase (TPO) antibody 2) Thyroglobulin antibody 3) TSH Receptor Antibody … A) 90 - 100% B) 80 - 90% C) 10 - 20% [Autoantibody associations in Hashimoto's: TPO Ab 90 - 100%, Thyroglobulin Ab 80 - 90%, and TSH Receptor Ab 10 - 20%. (Book p908)]",
+          "questionIds": [
+            "MED-C42-040"
+          ]
+        },
+        {
+          "element": "p908-e003",
+          "page": 908,
+          "source": "The single most sensitive and prevalent autoantibody in Hashimoto's disease is ___, present in ___ of cases. [Thyroid peroxidase antibody is the most strongly associated antibody, present in 90 - 100% of Hashimoto's patients. (Book p908)]",
+          "questionIds": [
+            "MED-C42-041"
+          ]
+        },
+        {
+          "element": "p908-e004",
+          "page": 908,
+          "source": "Match the combination of elevated TSH (↑ TSH) and free T4 level to the diagnosis — 1) ↓ Free T4 2) ↑ Free T4 3) Normal Free T4 … A) 1° Hypothyroidism B) TSH Secreting Adenoma C) Subclinical 1° Hypothyroidism [↑ TSH + ↓ Free T4 = 1° Hypothyroidism; ↑ TSH + ↑ Free T4 = TSH Secreting Adenoma; ↑ TSH + Normal Free T4 = Subclinical 1° Hypothyroidism. (Book p908)]",
+          "questionIds": [
+            "MED-C42-042"
+          ]
+        },
+        {
+          "element": "p908-e005",
+          "page": 908,
+          "source": "What is the definitive TSH cut-off value that provides an absolute indication for L-thyroxine treatment in confirmed Hashimoto's disease regardless of symptoms? [Under Treatment Indications: 'Confirmed Hashimoto's (TSH value > 10 mcu/ltr)'. (Book p908)]",
+          "questionIds": [
+            "MED-C42-043"
+          ]
+        },
+        {
+          "element": "p908-e006",
+          "page": 908,
+          "source": "For patients with a TSH value between 5 and 10 mcu/ltr: I Treatment is indicated if vague symptoms are present with TPO positivity, positive family history, or pregnancy. II Treatment is indicated if severe symptoms are present. [When TSH is 5 - 10 mcu/ltr, treatment is indicated for vague symptoms + (TPO +ve, Family history, Pregnancy) or severe symptoms. (Book p908)]",
+          "questionIds": [
+            "MED-C42-044"
+          ]
+        },
+        {
+          "element": "p908-e007",
+          "page": 908,
+          "source": "A 27-year-old woman in early pregnancy is found to have a TSH of 6.8 mcu/ltr with normal free T4. Her anti-TPO antibody titre is elevated. What is the correct management per page 908? [In pregnancy with TSH 5 - 10 mcu/ltr and TPO positivity, L-thyroxine treatment is explicitly indicated. (Book p908)]",
+          "questionIds": [
+            "MED-C42-045"
+          ]
+        },
+        {
+          "element": "p908-e008",
+          "page": 908,
+          "source": "What is the recommended starting dose of L-thyroxine for a symptomatic hypothyroid patient under 60 years of age? [For < 60 yr + symptomatic: 'L-Thyroxine 1.6-1.8 µg/kg/day (Approx 100µg/day)'. (Book p908)]",
+          "questionIds": [
+            "MED-C42-046"
+          ]
+        },
+        {
+          "element": "p908-e009",
+          "page": 908,
+          "source": "In patients under 60 years of age on L-thyroxine, subsequent dosage adjustments should be titrated by ___ µg/day. [Under drugs: 'Dose change can be by 25-50 µg/day' for patients under 60 years. (Book p908)]",
+          "questionIds": [
+            "MED-C42-047"
+          ]
+        },
+        {
+          "element": "p908-e010",
+          "page": 908,
+          "source": "In elderly patients (> 60 years of age), what is the recommended starting dose and dose adjustment step for L-thyroxine? [In elderly (>60 yr): starting dose is '25 µg/day' and 'Dose change by 25 µg/day'. (Book p908)]",
+          "questionIds": [
+            "MED-C42-048"
+          ]
+        },
+        {
+          "element": "p908-e011",
+          "page": 908,
+          "source": "Why must elderly patients (> 60 years) be started on a low dose of L-thyroxine (25 µg/day)? [Elderly patients start at 25 µg/day explicitly '(Due to cardiotoxicity)'. (Book p908)]",
+          "questionIds": [
+            "MED-C42-049"
+          ]
+        },
+        {
+          "element": "p908-e012",
+          "page": 908,
+          "source": "Which of the following is NOT an indication to treat subclinical hypothyroidism with TSH 5 - 10 mcu/ltr on page 908? [Indications for TSH 5-10 mcu/ltr are: vague symptoms + TPO +ve, family history, pregnancy, or severe symptoms. (Book p908)]",
+          "questionIds": [
+            "MED-C42-050"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 909,
+      "pdfPage": 16,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p909 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p909.",
+      "elements": [
+        {
+          "element": "p909-e001",
+          "page": 909,
+          "source": "What specific administration instructions must be given to patients taking oral L-thyroxine on page 909? [Instructions: 'Empty stomach (morning 7-7:30 am) with glass of water. Take meal after 30 minutes'. (Book p909)]",
+          "questionIds": [
+            "MED-C42-051"
+          ]
+        },
+        {
+          "element": "p909-e002",
+          "page": 909,
+          "source": "Match the drug that inhibits L-thyroxine absorption to its formulation — 1) FeSO4 2) CaCO3 3) Al(OH)3 / Sucralfate … A) Ferrous sulfate iron salt B) Calcium carbonate C) Aluminum hydroxide antacid / mucosal protectant [Drugs to be avoided because they inhibit absorption include FeSO4, CaCO3, Al(OH)3, and Sucralfate. (Book p909)]",
+          "questionIds": [
+            "MED-C42-052"
+          ]
+        },
+        {
+          "element": "p909-e003",
+          "page": 909,
+          "source": "The single most common (m/c) cause of treatment failure in hypothyroid patients prescribed L-thyroxine is ___. [Under follow-up: 'm/c cause of treatment failure : Non-compliance'. (Book p909)]",
+          "questionIds": [
+            "MED-C42-053"
+          ]
+        },
+        {
+          "element": "p909-e004",
+          "page": 909,
+          "source": "How long after the serum TSH value normalizes does the patient typically achieve clinical symptomatic relief? [Page 909 explicitly notes: 'Clinical relief : 3-6 months after TSH value becomes normal'. (Book p909)]",
+          "questionIds": [
+            "MED-C42-054"
+          ]
+        },
+        {
+          "element": "p909-e005",
+          "page": 909,
+          "source": "What is the mortality rate of myxedema coma reported on page 909? [Under Emergency Conditions: 'myxedema coma : mortality 40%'. (Book p909)]",
+          "questionIds": [
+            "MED-C42-055"
+          ]
+        },
+        {
+          "element": "p909-e006",
+          "page": 909,
+          "source": "What are the primary trigger factors listed for precipitating myxedema coma? [Trigger factors for myxedema coma: 'Non-compliance, infection (i.e. covid, LRI)'. (Book p909)]",
+          "questionIds": [
+            "MED-C42-056"
+          ]
+        },
+        {
+          "element": "p909-e007",
+          "page": 909,
+          "source": "Match the characteristic 'Hypo' presenting features of myxedema coma — 1) Respiratory 2) Glucose metabolism 3) Electrolytes 4) Body temperature … A) Hypoventilation B) Hypoglycemia C) Hyponatremia D) Hypothermia [The 'Hypo' tetrad of myxedema coma consists of Hypoventilation, Hypoglycemia, Hyponatremia, and Hypothermia. (Book p909)]",
+          "questionIds": [
+            "MED-C42-057"
+          ]
+        },
+        {
+          "element": "p909-e008",
+          "page": 909,
+          "source": "An elderly woman with myxedema coma is admitted with severe bradycardia, hypothermia (34°C), and low-voltage ECG complexes. Which intravenous fluid is indicated, and which must be avoided? [Treatment specifies: 'Hypertonic saline (Avoid hypotonic saline)'. (Book p909)]",
+          "questionIds": [
+            "MED-C42-058"
+          ]
+        },
+        {
+          "element": "p909-e009",
+          "page": 909,
+          "source": "What is the complete medical treatment regimen for myxedema coma on page 909? [Treatment for myxedema coma: IV L-thyroxine 500 µg OD -> 50-100 µg/day, Steroid, IV T3 5-20 µg, and Hypertonic saline. (Book p909)]",
+          "questionIds": [
+            "MED-C42-059"
+          ]
+        },
+        {
+          "element": "p909-e010",
+          "page": 909,
+          "source": "Steroid-responsive encephalopathy associated with autoimmune thyroid illness (SREAT / Hashimoto encephalopathy) is an autoimmune vasculitis that is ___ to thyroid function, and can be seen in ___ status. [SREAT: 'Can be seen in euthyroid status' and is an 'Autoimmune vasculitis unrelated to thyroid function'. (Book p909)]",
+          "questionIds": [
+            "MED-C42-060"
+          ]
+        },
+        {
+          "element": "p909-e011",
+          "page": 909,
+          "source": "Which autoantibody and HLA allele are characteristically elevated and associated with SREAT on page 909? [SREAT is characterized by '↑↑ Antibodies (Anti-enolase Ab)' and 'HLA -B8'. (Book p909)]",
+          "questionIds": [
+            "MED-C42-061"
+          ]
+        },
+        {
+          "element": "p909-e012",
+          "page": 909,
+          "source": "Match the clinical presentations of SREAT — 1) Progressive cognitive decline 2) Paroxysmal motor events 3) Vascular mimic … A) Altered level of consciousness B) Seizure & myoclonus C) Stroke-like presentation [Presentations of SREAT include: slowly progressive cognitive decline (altered level of consciousness), seizure & myoclonus, and stroke-like presentati]",
+          "questionIds": [
+            "MED-C42-062"
+          ]
+        },
+        {
+          "element": "p909-e013",
+          "page": 909,
+          "source": "Assess SREAT management on page 909: I The primary and definitive pharmacologic management is corticosteroids (steroids). II Patients must immediately receive high-dose intravenous levothyroxine. [Management of SREAT is explicitly stated as 'management : Steroids'. Thyroid hormone therapy is not the primary treatment since SREAT is vasculitic an]",
+          "questionIds": [
+            "MED-C42-063"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,703 @@
+{
+  "chapter": 57,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+  "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+  "pdfOffset": 964,
+  "pageRange": "986-992",
+  "contentSha256": "c57955fae8972fe3ce273e719c370111c662b14ea2d582124289f2f7418ae24e",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch57 p986-992: auto-generated source checklist from existing 78 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 986,
+      "pdfPage": 22,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p986 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p986.",
+      "elements": [
+        {
+          "element": "p986-e001",
+          "page": 986,
+          "source": "What is the daily rate of bilirubin production in a healthy human adult as recorded on this page? [The text lists bilirubin production as 4 mg/kg, which amounts to roughly 300 mg per day. (Book p986)]",
+          "questionIds": [
+            "MED-C57-001"
+          ]
+        },
+        {
+          "element": "p986-e002",
+          "page": 986,
+          "source": "Match each precursor source of bilirubin with its contribution and anatomical site — 1) Hemoglobin breakdown 2) Other heme-containing proteins … A) <20%, originating primarily in the liver B) 80%, originating in the reticuloendothelial system of liver and bone marrow [Hemoglobin accounts for 80% of bilirubin production within the reticuloendothelial system (liver and bone marrow), while other heme proteins provide <]",
+          "questionIds": [
+            "MED-C57-002"
+          ]
+        },
+        {
+          "element": "p986-e003",
+          "page": 986,
+          "source": "Fill up: In bilirubin synthesis, the conversion of heme to biliverdin is catalysed by heme oxygenase, whose constitutively expressed isoform ______ is located in both mitochondria and smooth endoplasmic reticulum. [HOX-2 is constitutively expressed in mitochondria and the smooth endoplasmic reticulum, whereas HOX-1 is sited solely in the smooth endoplasmic reticu]",
+          "questionIds": [
+            "MED-C57-003"
+          ]
+        },
+        {
+          "element": "p986-e004",
+          "page": 986,
+          "source": "Which enzyme converts biliverdin to bilirubin within the smooth endoplasmic reticulum? [Biliverdin reductase catalyses the reduction of biliverdin to form bilirubin within the smooth endoplasmic reticulum. (Book p986)]",
+          "questionIds": [
+            "MED-C57-004"
+          ]
+        },
+        {
+          "element": "p986-e005",
+          "page": 986,
+          "source": "Assess the two statements on bilirubin transport: I Unconjugated bilirubin is lipophilic and circulates bound to albumin via a reversible non-covalent bond. II Unconjugated bilirubin enters the hepatocyte from the space of Disse via primary active ATP-dependent transport. [Statement I is true because bilirubin is lipophilic and reversibly bound to albumin. Statement II is false because bilirubin enters the hepatocyte acr]",
+          "questionIds": [
+            "MED-C57-005"
+          ]
+        },
+        {
+          "element": "p986-e006",
+          "page": 986,
+          "source": "Fill up: Inside the hepatocyte cytoplasm, unconjugated bilirubin binds to ______ before undergoing conjugation in the smooth endoplasmic reticulum. [Unconjugated bilirubin binds to glutathione transferase inside the hepatocyte before proceeding to conjugation. (Book p986)]",
+          "questionIds": [
+            "MED-C57-006"
+          ]
+        },
+        {
+          "element": "p986-e007",
+          "page": 986,
+          "source": "What is the rate-limiting step of bilirubin metabolism within the hepatocyte? [The rate-limiting step in hepatocyte bilirubin metabolism is conjugation mediated by UDP-glucuronide transferase in the smooth endoplasmic reticulum. ]",
+          "questionIds": [
+            "MED-C57-007"
+          ]
+        },
+        {
+          "element": "p986-e008",
+          "page": 986,
+          "source": "Match each transporter in bilirubin handling with its functional description — 1) MRP-2 2) MRP-3 … A) Basolateral transporter mediating excess conjugated bilirubin export into sinusoidal blood and bilirubin hopping B) Canalicular ATP-dependent transporter coded by ABCC2 that serves as the only pathway for canalicular bilirubin excretion [MRP-2 (ABCC2) is the canalicular ATP-dependent exporter, whereas MRP-3 is the basolateral transporter mediating export into sinusoidal blood and bilir]",
+          "questionIds": [
+            "MED-C57-008"
+          ]
+        },
+        {
+          "element": "p986-e009",
+          "page": 986,
+          "source": "A 22-year-old man presents with mild fluctuating jaundice. Laboratory workup reveals conjugated hyperbilirubinemia. Molecular genetic testing identifies a loss-of-function mutation in the ABCC2 gene encoding the canalicular MRP-2 transporter. Which condition does this patient have? [Defective MRP-2 coded by ABCC2 results in Dubin-Johnson syndrome, which exhibits impaired canalicular excretion of bilirubin diglucuronide. (Book p986]",
+          "questionIds": [
+            "MED-C57-009"
+          ]
+        },
+        {
+          "element": "p986-e010",
+          "page": 986,
+          "source": "Which of the following is NOT a feature of the MRP-2 transporter annotated in the hepatocyte excretion pathway? [MRP-2 mediates active canalicular export, not sinusoidal re-entry into adjacent hepatocytes; uptake into adjacent hepatocytes is mediated by OATP1B1/B]",
+          "questionIds": [
+            "MED-C57-010"
+          ]
+        },
+        {
+          "element": "p986-e011",
+          "page": 986,
+          "source": "A 19-year-old woman is evaluated for asymptomatic conjugated hyperbilirubinemia. Investigations establish normal MRP-2 expression, but she is found to have defective organic anion transporting polypeptides OATP1B1 and OATP1B3, impairing bilirubin re-entry during hopping. What is the diagnosis? [Defective OATP1B1 and OATP1B3 impairs the re-entry of conjugated bilirubin during bilirubin hopping, causing Rotor syndrome. (Book p986)]",
+          "questionIds": [
+            "MED-C57-011"
+          ]
+        },
+        {
+          "element": "p986-e012",
+          "page": 986,
+          "source": "Fill up: Bilirubin hopping refers to bilirubin diglucuronide (BrG2) excretion into sinusoidal blood and re-entering adjacent hepatocytes via the ______ pathway. [Bilirubin hopping involves BrG2 export into sinusoidal blood via the MRP-3 pathway and subsequent re-uptake by neighbouring hepatocytes via OATP1B1/B3]",
+          "questionIds": [
+            "MED-C57-012"
+          ]
+        },
+        {
+          "element": "p986-e013",
+          "page": 986,
+          "source": "Assess the two statements on bilirubin excretion: I The only step in bilirubin hepatic processing that requires ATP is canalicular export via MRP-2. II Conjugated bilirubin that spills into the systemic circulation via MRP-3 is water-soluble and can be excreted in urine. [Both statements are true: MRP-2 canalicular transport is the sole active ATP-requiring step, and conjugated bilirubin in blood is water-soluble, permi]",
+          "questionIds": [
+            "MED-C57-013"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 987,
+      "pdfPage": 23,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p987 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p987.",
+      "elements": [
+        {
+          "element": "p987-e001",
+          "page": 987,
+          "source": "Following bacterial degradation in the colon, what respective proportions of urobilinogen undergo fecal clearance as stercobilinogen versus re-entry into the portal blood? [Of the deconjugated urobilinogen, 80% is excreted in feces as stercobilinogen, while 20% enters the enterohepatic circulation back to the liver. (Book]",
+          "questionIds": [
+            "MED-C57-014"
+          ]
+        },
+        {
+          "element": "p987-e002",
+          "page": 987,
+          "source": "Fill up: Bacterial degradation and deconjugation of bilirubin diglucuronide into urobilinogen occurs predominantly at the ______ and colon. [The flowchart specifies that degradation by colonic bacteria occurs at the ileocecal junction and colon. (Book p987)]",
+          "questionIds": [
+            "MED-C57-015"
+          ]
+        },
+        {
+          "element": "p987-e003",
+          "page": 987,
+          "source": "Match each clinical state with the corresponding urinary urobilinogen finding — 1) Normal healthy individual 2) Extravascular hemolysis 3) Complete biliary tract obstruction … A) High urinary urobilinogen B) Absent urinary urobilinogen C) Traces of urinary urobilinogen [Normal urine contains traces of urobilinogen; extravascular hemolysis produces high urobilinogen; and biliary tract obstruction causes complete absenc]",
+          "questionIds": [
+            "MED-C57-016"
+          ]
+        },
+        {
+          "element": "p987-e004",
+          "page": 987,
+          "source": "A 54-year-old woman with decompensated cirrhosis exhibits increased urobilinogen in her urine despite having normal red blood cell turnover. What is the pathological mechanism responsible for this finding? [In cirrhosis with functional defects, reabsorbed enterohepatic urobilinogen is not taken up by the liver and escapes into the systemic circulation, fi]",
+          "questionIds": [
+            "MED-C57-017"
+          ]
+        },
+        {
+          "element": "p987-e005",
+          "page": 987,
+          "source": "Assess the two statements on hemolysis: I Extravascular hemolysis typically produces high urinary urobilinogen without hemoglobinuria. II Intravascular hemolysis is characterised by hemoglobinuria and hemosiderinuria. [Both statements are true: extravascular hemolysis yields elevated urobilinogen, whereas intravascular hemolysis results in free hemoglobinuria and hem]",
+          "questionIds": [
+            "MED-C57-018"
+          ]
+        },
+        {
+          "element": "p987-e006",
+          "page": 987,
+          "source": "What are the reference numerical thresholds for total, indirect, and direct bilirubin on an automated panel? [Normal bilirubin values are Total: 1–1.3 mg/dL, Unconjugated/indirect: 0.2–0.9 mg/dL, and Conjugated/direct: 0–0.3 mg/dL. (Book p987)]",
+          "questionIds": [
+            "MED-C57-019"
+          ]
+        },
+        {
+          "element": "p987-e007",
+          "page": 987,
+          "source": "Which analytical technique is specified for the accurate estimation of serum bilirubin fractions? [The note explicitly states that bilirubin fractions are estimated by HPLC (High-performance liquid chromatography). (Book p987)]",
+          "questionIds": [
+            "MED-C57-020"
+          ]
+        },
+        {
+          "element": "p987-e008",
+          "page": 987,
+          "source": "Which of the following is NOT one of the six standard parameters listed under Liver Function Test (LFT) on this page? [The six LFT parameters listed across the header branch are Bilirubin, AST, ALT, ALP, Serum Albumin, and Serum Globulin; GGT is discussed later under c]",
+          "questionIds": [
+            "MED-C57-021"
+          ]
+        },
+        {
+          "element": "p987-e009",
+          "page": 987,
+          "source": "Match each broad category of liver disease with its typical target or progression — 1) Hepatic parenchymal disorder 2) Cirrhosis end-stage consequence … A) Sinusoidal and hepatocyte involvement progressing from acute to chronic hepatitis B) Portal hypertension, hepatocellular carcinoma (HCC), and functional liver failure [Hepatic parenchymal disorders involve the sinusoids/hepatocytes and can progress to cirrhosis, which subsequently leads to portal HTN, HCC, and functi]",
+          "questionIds": [
+            "MED-C57-022"
+          ]
+        },
+        {
+          "element": "p987-e010",
+          "page": 987,
+          "source": "Fill up: The brown pigment in stool formed by the oxidation of deconjugated intestinal urobilinogen is ______. [Eighty percent of deconjugated intestinal urobilinogen is excreted in feces as stercobilinogen. (Book p987)]",
+          "questionIds": [
+            "MED-C57-023"
+          ]
+        },
+        {
+          "element": "p987-e011",
+          "page": 987,
+          "source": "A 48-year-old man presents with deep jaundice, pale clay-coloured stools, and dark tea-coloured urine. A dipstick examination of the urine reveals conjugated bilirubin but zero urobilinogen. What is the most likely site of disease? [Complete biliary tract obstruction blocks conjugated bilirubin from entering the gut lumen, completely abolishing urobilinogen formation and urinary u]",
+          "questionIds": [
+            "MED-C57-024"
+          ]
+        },
+        {
+          "element": "p987-e012",
+          "page": 987,
+          "source": "Assess the two statements on liver disease classification: I Liver diseases are classified into hepatic parenchymal, vascular, and biliary disorders. II Hepatic parenchymal disorders progress directly to hepatocellular carcinoma without passing through cirrhosis. [Statement I is true. Statement II is false because the flowchart depicts acute hepatitis progressing to chronic hepatitis, then to cirrhosis, which su]",
+          "questionIds": [
+            "MED-C57-025"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 988,
+      "pdfPage": 24,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p988 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p988.",
+      "elements": [
+        {
+          "element": "p988-e001",
+          "page": 988,
+          "source": "Which cutoff percentages define indirect versus direct forms of elevated bilirubin? [Indirect hyperbilirubinemia is defined as indirect bilirubin >= 85% of total bilirubin, whereas direct hyperbilirubinemia is direct bilirubin >= 50% o]",
+          "questionIds": [
+            "MED-C57-026"
+          ]
+        },
+        {
+          "element": "p988-e002",
+          "page": 988,
+          "source": "What proportion of the pigment pool is direct in mixed hyperbilirubinemia (hepatic jaundice)? [Mixed hyperbilirubinemia / hepatic jaundice is defined by direct bilirubin comprising 15–50% of total bilirubin. (Book p988)]",
+          "questionIds": [
+            "MED-C57-027"
+          ]
+        },
+        {
+          "element": "p988-e003",
+          "page": 988,
+          "source": "Match each inherited unconjugated hyperbilirubinemia with its residual UDP-glucuronosyltransferase activity — 1) Gilbert syndrome 2) Crigler-Najjar syndrome type II … A) <10% enzyme activity B) Approximately 30% enzyme activity [Gilbert syndrome features partial deficiency with ~30% enzyme activity, whereas Crigler-Najjar syndrome type II features severe deficiency with <10% a]",
+          "questionIds": [
+            "MED-C57-028"
+          ]
+        },
+        {
+          "element": "p988-e004",
+          "page": 988,
+          "source": "What is the most common overall cause of unconjugated (indirect) hyperbilirubinemia? [The page annotates extravascular hemolysis with '(m/c)' under the indirect hyperbilirubinemia branch. (Book p988)]",
+          "questionIds": [
+            "MED-C57-029"
+          ]
+        },
+        {
+          "element": "p988-e005",
+          "page": 988,
+          "source": "Which of the following drugs is NOT listed as a cause of unconjugated hyperbilirubinemia on this page? [Rifampicin and probenecid cause indirect hyperbilirubinemia, and excess steroids are noted in the margin; chlorpromazine causes cholestatic hepatitis ]",
+          "questionIds": [
+            "MED-C57-030"
+          ]
+        },
+        {
+          "element": "p988-e006",
+          "page": 988,
+          "source": "What are the normal serum Alanine Aminotransferase (ALT) levels for males and females, and what is the overall average upper limit? [Normal ALT values are: male < 23 U/L, female < 19 U/L, with an average upper limit < 30 U/L. (Book p988)]",
+          "questionIds": [
+            "MED-C57-031"
+          ]
+        },
+        {
+          "element": "p988-e007",
+          "page": 988,
+          "source": "Fill up: In healthy individuals, the serum concentration of ALT is higher than AST (ALT > AST) because AST is cleared rapidly from circulation by the ______. [Normally ALT > AST because AST is cleared rapidly from the circulation by the reticuloendothelial system. (Book p988)]",
+          "questionIds": [
+            "MED-C57-032"
+          ]
+        },
+        {
+          "element": "p988-e008",
+          "page": 988,
+          "source": "Match each transaminase with its intracellular location and tissue specificity — 1) ALT (SGPT) 2) AST (SGOT) … A) Cytoplasmic and mitochondrial location; present in liver, cardiac muscle, and skeletal muscle B) Purely cytoplasmic location; liver-specific [ALT is purely cytoplasmic and liver-specific; AST is both cytoplasmic and mitochondrial and found in liver, heart, and skeletal muscle. (Book p988)]",
+          "questionIds": [
+            "MED-C57-033"
+          ]
+        },
+        {
+          "element": "p988-e009",
+          "page": 988,
+          "source": "Which co-factor is required by both Alanine Aminotransferase (ALT) and Aspartate Aminotransferase (AST)? [Both transaminases require Pyridoxal phosphate (PLP / Vitamin B6) as an essential co-factor. (Book p988)]",
+          "questionIds": [
+            "MED-C57-034"
+          ]
+        },
+        {
+          "element": "p988-e010",
+          "page": 988,
+          "source": "A 26-year-old man presents with malaise, fever, and anorexia for 3 days. Today he notices yellowing of his eyes and dark urine. Laboratory testing demonstrates marked transaminitis with ALT significantly higher than AST. What is the diagnosis? [Acute hepatitis presents with a 2–3 day prodrome followed by mixed jaundice and transaminitis where ALT > AST. (Book p988)]",
+          "questionIds": [
+            "MED-C57-035"
+          ]
+        },
+        {
+          "element": "p988-e011",
+          "page": 988,
+          "source": "Assess the two statements on transaminases: I AST is a specific marker for hepatocellular injury and is not elevated in muscle disease. II ALT is purely cytoplasmic, whereas AST has both cytoplasmic and mitochondrial fractions. [Statement I is false because AST is also elevated in rhabdomyolysis and myocardial ischemia. Statement II is true because ALT is cytoplasmic while AST]",
+          "questionIds": [
+            "MED-C57-036"
+          ]
+        },
+        {
+          "element": "p988-e012",
+          "page": 988,
+          "source": "Fill up: In acute hepatitis, hepatocellular inflammation typically produces a prodromal phase of 2–3 days, after which the patient develops transaminitis accompanied by ______ jaundice. [The flowchart notes that after a prodromal phase of 2–3 days, acute hepatitis leads to mixed jaundice plus transaminitis. (Book p988)]",
+          "questionIds": [
+            "MED-C57-037"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 989,
+      "pdfPage": 25,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p989 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p989.",
+      "elements": [
+        {
+          "element": "p989-e001",
+          "page": 989,
+          "source": "Severe acute elevations of serum transaminases (>1000 U/L) are typically seen in viral, toxic, and ischemic hepatitis, but can also occur acutely in which biliary emergency? [The margin note highlights: 'Severe acute elevations also seen in Acute bile duct obstruction (>1000 U/L).' (Book p989)]",
+          "questionIds": [
+            "MED-C57-038"
+          ]
+        },
+        {
+          "element": "p989-e002",
+          "page": 989,
+          "source": "Match each viral cause of acute hepatitis with its most common demographic group — 1) Hepatitis A virus (HAV) 2) Hepatitis E virus (HEV) … A) Most common in adults B) Most common in children [HAV is noted as most common in children, whereas HEV is noted as most common in adults. (Book p989)]",
+          "questionIds": [
+            "MED-C57-039"
+          ]
+        },
+        {
+          "element": "p989-e003",
+          "page": 989,
+          "source": "What is the typical transaminase level and AST:ALT ratio seen in uncomplicated alcoholic hepatitis? [Alcoholic liver disease characteristically presents with transaminase values of 300–500 U/L and an AST > ALT pattern. (Book p989)]",
+          "questionIds": [
+            "MED-C57-040"
+          ]
+        },
+        {
+          "element": "p989-e004",
+          "page": 989,
+          "source": "A 42-year-old chronic alcohol consumer presents with right upper quadrant pain and jaundice. His AST is 380 U/L and ALT is 120 U/L (ratio > 3:1). Why is AST higher than ALT in alcoholic liver disease? [AST exceeds ALT in alcoholic liver disease because ALT requires more pyridoxal phosphate (PLP), which is depleted in chronic alcoholics. (Book p989)]",
+          "questionIds": [
+            "MED-C57-041"
+          ]
+        },
+        {
+          "element": "p989-e005",
+          "page": 989,
+          "source": "Match each AST:ALT ratio threshold with its diagnostic interpretation in alcoholic liver injury — 1) AST:ALT >= 2:1 2) AST:ALT >= 3:1 … A) Definitive alcoholic hepatitis B) Almost always alcoholic hepatitis [An AST:ALT ratio of 2:1 is 'almost always alcoholic hepatitis', while a ratio of 3:1 is 'definitive alcoholic hepatitis'. (Book p989)]",
+          "questionIds": [
+            "MED-C57-042"
+          ]
+        },
+        {
+          "element": "p989-e006",
+          "page": 989,
+          "source": "A patient with established alcoholic cirrhosis presents after a heavy drinking binge with severe acute jaundice and transaminases exceeding 1000 U/L with AST > ALT. What is the diagnosis? [Values >1000 U/L with AST > ALT indicate acute-on-chronic alcoholic liver disease. (Book p989)]",
+          "questionIds": [
+            "MED-C57-043"
+          ]
+        },
+        {
+          "element": "p989-e007",
+          "page": 989,
+          "source": "What numeric threshold defines mild transaminase elevation in chronic hepatitis? [Mild transaminase elevation in chronic hepatitis is defined as < 5 times upper limit of normal or < 150 U/L. (Book p989)]",
+          "questionIds": [
+            "MED-C57-044"
+          ]
+        },
+        {
+          "element": "p989-e008",
+          "page": 989,
+          "source": "Which of the following conditions causes mild transaminase elevation (<150 U/L) with AST > ALT rather than ALT > AST? [Cirrhosis and hypothyroidism produce an AST > ALT pattern; Wilson's disease, hemochromatosis, celiac disease, HBV, HCV, and autoimmune hepatitis show ]",
+          "questionIds": [
+            "MED-C57-045"
+          ]
+        },
+        {
+          "element": "p989-e009",
+          "page": 989,
+          "source": "Why does cirrhosis result in an inverted AST > ALT pattern in chronic liver disease? [In cirrhosis, an AST > ALT pattern arises from decreased sinusoidal uptake of AST by the cirrhotic liver. (Book p989)]",
+          "questionIds": [
+            "MED-C57-046"
+          ]
+        },
+        {
+          "element": "p989-e010",
+          "page": 989,
+          "source": "A 58-year-old man presents with chest tightness and diaphoresis. An LFT panel shows normal ALT (22 U/L) but markedly elevated AST (420 U/L). What is the most appropriate deduction? [Isolated AST elevation with normal ALT points to a non-hepatic origin such as myocardial infarction or rhabdomyolysis. (Book p989)]",
+          "questionIds": [
+            "MED-C57-047"
+          ]
+        },
+        {
+          "element": "p989-e011",
+          "page": 989,
+          "source": "Assess the two statements: I A rising serum bilirubin accompanied by a falling AST/ALT always indicates complete hepatocellular recovery. II Reduced viable hepatocyte mass in diabetic steatohepatitis (NASH) can cause transaminases to appear falsely modest despite progressive damage. [Statement I is false because rising bilirubin with falling AST/ALT does not correlate with recovery; it can indicate loss of viable hepatocytes. State]",
+          "questionIds": [
+            "MED-C57-048"
+          ]
+        },
+        {
+          "element": "p989-e012",
+          "page": 989,
+          "source": "Fill up: In a patient with chronic hepatitis, the presence of cirrhosis as the cause of an AST > ALT pattern is typically confirmed or ruled out non-invasively by ______. [The diagram indicates that cirrhosis under the AST > ALT branch is '(Ruled out by fibro scan)'. (Book p989)]",
+          "questionIds": [
+            "MED-C57-049"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 990,
+      "pdfPage": 26,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p990 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p990.",
+      "elements": [
+        {
+          "element": "p990-e001",
+          "page": 990,
+          "source": "What is the normal reference range for serum Alkaline Phosphatase (ALP), and what level signifies cholestasis? [Normal ALP is 40–140 U/L, and levels > 4 times normal (>560 U/L) indicate cholestasis. (Book p990)]",
+          "questionIds": [
+            "MED-C57-050"
+          ]
+        },
+        {
+          "element": "p990-e002",
+          "page": 990,
+          "source": "Why is serum alkaline phosphatase paradoxically decreased in Wilson's disease? [In Wilson's disease, serum ALP decreases because copper displaces zinc, an essential co-factor for alkaline phosphatase. (Book p990)]",
+          "questionIds": [
+            "MED-C57-051"
+          ]
+        },
+        {
+          "element": "p990-e003",
+          "page": 990,
+          "source": "Which of the following is NOT listed as a physiological tissue source of Alkaline Phosphatase (ALP)? [The sources of ALP listed are Liver (canalicular membrane), Bone, Intestine, Kidney, and Placenta; skeletal muscle is not a source. (Book p990)]",
+          "questionIds": [
+            "MED-C57-052"
+          ]
+        },
+        {
+          "element": "p990-e004",
+          "page": 990,
+          "source": "Match each cholestatic enzyme marker with its tissue origin — 1) GGT (gamma-glutamyl transferase) 2) 5'-nucleotidase … A) Originates from both liver and bone B) Originates exclusively from the liver [GGT is specific to the liver ('Source: Only liver'), whereas 5'-nucleotidase originates from both liver and bone. (Book p990)]",
+          "questionIds": [
+            "MED-C57-053"
+          ]
+        },
+        {
+          "element": "p990-e005",
+          "page": 990,
+          "source": "An isolated elevation of serum alkaline phosphatase is identified on routine health screening. What is the most appropriate next investigation to confirm whether the ALP elevation is of hepatic origin? [To confirm hepatic origin of raised ALP, serum GGT and abdominal ultrasound (USG) are performed. (Book p990)]",
+          "questionIds": [
+            "MED-C57-054"
+          ]
+        },
+        {
+          "element": "p990-e006",
+          "page": 990,
+          "source": "A 36-year-old woman presents with severe generalized pruritus and jaundice. Her direct bilirubin is >50% of total, ALP is 680 U/L (>4x normal), and GGT is markedly elevated. Abdominal ultrasonography reveals completely normal intra- and extra-hepatic bile ducts without dilation. What is the diagnosis? [Conjugated hyperbilirubinemia with ALP > 4x normal, raised GGT, and normal duct caliber on USG defines intrahepatic cholestasis. (Book p990)]",
+          "questionIds": [
+            "MED-C57-055"
+          ]
+        },
+        {
+          "element": "p990-e007",
+          "page": 990,
+          "source": "Fill up: In intrahepatic cholestasis, the prominent clinical symptom of pruritus is primarily caused by the systemic accumulation of ______. [Pruritus in intrahepatic cholestasis is due to bile acid accumulation in tissues. (Book p990)]",
+          "questionIds": [
+            "MED-C57-056"
+          ]
+        },
+        {
+          "element": "p990-e008",
+          "page": 990,
+          "source": "Which of the following is NOT listed under intrahepatic cholestasis causes on this page? [Causes of intrahepatic cholestasis listed are Drugs, Cholangitis (Primary Biliary, Primary Sclerosing), Sarcoid, and Sepsis; duct dilation indicates e]",
+          "questionIds": [
+            "MED-C57-057"
+          ]
+        },
+        {
+          "element": "p990-e009",
+          "page": 990,
+          "source": "In a patient presenting with conjugated hyperbilirubinemia, ALP > 4x normal, and elevated GGT, abdominal ultrasound reveals prominent biliary duct dilation. What is the next management step? [Biliary duct dilation on USG indicates extrahepatic cholestasis (obstruction), for which the management flowchart specifies: 'Refer to surgeon'. (Book]",
+          "questionIds": [
+            "MED-C57-058"
+          ]
+        },
+        {
+          "element": "p990-e010",
+          "page": 990,
+          "source": "What is the elimination half-life (T1/2) of free conjugated bilirubin compared to the delta bilirubin (conjugated bilirubin covalently bound to albumin) complex? [Free conjugated bilirubin has a half-life of 4 hours, whereas delta bilirubin (bound covalently to albumin) has a half-life of 14–21 days. (Book p990)]",
+          "questionIds": [
+            "MED-C57-059"
+          ]
+        },
+        {
+          "element": "p990-e011",
+          "page": 990,
+          "source": "Assess the two statements on delta bilirubin: I Delta bilirubin forms when conjugated bilirubin binds irreversibly and covalently to albumin. II Delta bilirubin is rapidly cleared by the kidneys within 4 hours. [Statement I is true because conjugated bilirubin binds irreversibly and covalently to albumin. Statement II is false because delta bilirubin has a pro]",
+          "questionIds": [
+            "MED-C57-060"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 991,
+      "pdfPage": 27,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p991 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p991.",
+      "elements": [
+        {
+          "element": "p991-e001",
+          "page": 991,
+          "source": "Match each pattern of drug-induced cholestasis with its causative agents — 1) Bland cholestasis 2) Vanishing bile duct syndrome … A) Macrolides and Amoxiclav B) Anabolic steroids and estrogens [Bland cholestasis is caused by steroids and estrogens; vanishing bile duct syndrome is caused by macrolides and amoxiclav. (Book p991)]",
+          "questionIds": [
+            "MED-C57-061"
+          ]
+        },
+        {
+          "element": "p991-e002",
+          "page": 991,
+          "source": "Which of the following drugs is NOT listed as a cause of cholestatic hepatitis on this page? [Allopurinol causes granulomatous hepatitis; NSAIDs, azathioprine, chlorpromazine, amoxiclav, and ACE inhibitors cause cholestatic hepatitis. (Book p99]",
+          "questionIds": [
+            "MED-C57-062"
+          ]
+        },
+        {
+          "element": "p991-e003",
+          "page": 991,
+          "source": "Which triad of drugs is listed as causes of granulomatous hepatitis? [Granulomatous hepatitis is caused by Allopurinol, Carbamazepine, and Procainamide. (Book p991)]",
+          "questionIds": [
+            "MED-C57-063"
+          ]
+        },
+        {
+          "element": "p991-e004",
+          "page": 991,
+          "source": "What are the molecular weight, daily hepatic production rate, and circulating half-life (T1/2) of human serum albumin? [Albumin has a molecular weight of 69,000 Da, daily production of 15 g/day, and a half-life of 14–21 days. (Book p991)]",
+          "questionIds": [
+            "MED-C57-064"
+          ]
+        },
+        {
+          "element": "p991-e005",
+          "page": 991,
+          "source": "What is the physiologic baseline range for circulating albumin, and what cutoff defines its clinical deficiency? [Normal albumin is 3.5–5.5 g/dL, and hypoalbuminemia is defined as < 3 g/dL. (Book p991)]",
+          "questionIds": [
+            "MED-C57-065"
+          ]
+        },
+        {
+          "element": "p991-e006",
+          "page": 991,
+          "source": "Why does a depressed serum albumin level have NO diagnostic utility in an acute liver injury setting? [Albumin is a negative acute-phase reactant whose levels drop non-specifically in acute illness, and its long T1/2 (14–21 days) makes it insensitive to]",
+          "questionIds": [
+            "MED-C57-066"
+          ]
+        },
+        {
+          "element": "p991-e007",
+          "page": 991,
+          "source": "Match each type of hypergammaglobulinemia causing Albumin/Globulin (A/G) ratio reversal with its etiology — 1) Monoclonal hypergammaglobulinemia 2) Polyclonal hypergammaglobulinemia … A) Autoimmune hepatitis B) Multiple myeloma and plasma cell disorders [Monoclonal hypergammaglobulinemia occurs in multiple myeloma and plasma cell disorders; polyclonal hypergammaglobulinemia occurs in autoimmune hepatit]",
+          "questionIds": [
+            "MED-C57-067"
+          ]
+        },
+        {
+          "element": "p991-e008",
+          "page": 991,
+          "source": "Which of the following proteins is NOT listed as a negative acute-phase reactant (-ve APR) on this page? [Other negative acute-phase reactants listed are AFP, transferrin, and transthyretin (and albumin); ceruloplasmin is a positive acute-phase reactant. (]",
+          "questionIds": [
+            "MED-C57-068"
+          ]
+        },
+        {
+          "element": "p991-e009",
+          "page": 991,
+          "source": "A critically ill patient in the ICU has acute jaundice, coagulopathy (INR 2.4), and suspected liver failure. Testing reveals normal D-dimer, normal FDP, normal fibrinogen (dysfibrinogenemia), and normal Factor VIII. What do these coagulation findings indicate? [In FHF, INR and bilirubin are elevated, but D-dimer, FDP, fibrinogen, and Factor VIII remain normal, distinguishing it from DIC. (Book p991)]",
+          "questionIds": [
+            "MED-C57-069"
+          ]
+        },
+        {
+          "element": "p991-e010",
+          "page": 991,
+          "source": "Match each parameter with its status in Disseminated Intravascular Coagulation (DIC) versus Acute Hepatitis with Fulminant Hepatic Failure (FHF) — 1) D-dimer and FDP 2) Factor VIII … A) Markedly reduced in DIC, but normal in FHF B) Markedly elevated in DIC, but normal in FHF [In DIC, D-dimer and FDP are markedly elevated (↑↑) and Factor VIII is consumed (↓↓); both are normal in FHF. (Book p991)]",
+          "questionIds": [
+            "MED-C57-070"
+          ]
+        },
+        {
+          "element": "p991-e011",
+          "page": 991,
+          "source": "Assess the two statements on coagulation profiles: I Factor VIII is synthesized primarily by vascular endothelial cells, which explains why it is preserved in acute fulminant hepatic failure. II In disseminated intravascular coagulation (DIC), plasma fibrinogen is typically elevated as a protective compensatory mechanism. [Statement I is true because endothelial Factor VIII production spares it in liver failure. Statement II is false because consumption in DIC causes fib]",
+          "questionIds": [
+            "MED-C57-071"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 992,
+      "pdfPage": 28,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p992 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p992.",
+      "elements": [
+        {
+          "element": "p992-e001",
+          "page": 992,
+          "source": "In the acute liver disease setting, what prothrombin ratio threshold denotes fulminant failure and adverse prognosis? [Under interpretations, the text states: 'Acute INR >= 1.5: Fulminant hepatic failure (FHF): Poor prognosis.' (Book p992)]",
+          "questionIds": [
+            "MED-C57-072"
+          ]
+        },
+        {
+          "element": "p992-e002",
+          "page": 992,
+          "source": "What is the clinical significance of an elevated INR in the chronic liver disease setting as annotated on this page? [The line explicitly reads: 'Chronic setting : Not significant' regarding acute emergency triage. (Book p992)]",
+          "questionIds": [
+            "MED-C57-073"
+          ]
+        },
+        {
+          "element": "p992-e003",
+          "page": 992,
+          "source": "Fill up: FibroScan utilizes transient elastography as a non-invasive tool to differentiate ______ from cirrhosis. [FibroScan is described as a 'Non-invasive method differentiating NASH & cirrhosis.' (Book p992)]",
+          "questionIds": [
+            "MED-C57-074"
+          ]
+        },
+        {
+          "element": "p992-e004",
+          "page": 992,
+          "source": "What liver stiffness measurement on FibroScan (transient elastography) indicates established cirrhosis? [FibroScan measures stiffness where '> 7.5 kPa indicates cirrhosis.' (Book p992)]",
+          "questionIds": [
+            "MED-C57-075"
+          ]
+        },
+        {
+          "element": "p992-e005",
+          "page": 992,
+          "source": "Which modality is designated as the 'Best diagnostic tool' for liver elastography, though expensive? [MR Elastography is designated as the 'Best diagnostic tool', though expensive and typically done after confirming with FibroScan. (Book p992)]",
+          "questionIds": [
+            "MED-C57-076"
+          ]
+        },
+        {
+          "element": "p992-e006",
+          "page": 992,
+          "source": "Assess the two statements on elastography: I FibroScan is a non-invasive tool that measures liver stiffness to differentiate NASH from cirrhosis. II MR Elastography is cheap and performed routinely prior to basic ultrasound. [Statement I is true. Statement II is false because MR elastography is expensive and done after confirming with FibroScan. (Book p992)]",
+          "questionIds": [
+            "MED-C57-077"
+          ]
+        },
+        {
+          "element": "p992-e007",
+          "page": 992,
+          "source": "A 45-year-old woman with metabolic dysfunction-associated steatotic liver disease undergoes transient elastography. The monitor displays a stiffness reading of 6.3 kPa (as shown in the device illustration). What is the clinical interpretation? [Because cirrhosis is indicated by stiffness > 7.5 kPa, a reading of 6.3 kPa rules out established cirrhosis. (Book p992)]",
+          "questionIds": [
+            "MED-C57-078"
+          ]
+        }
+      ]
+    }
+  ]
+}

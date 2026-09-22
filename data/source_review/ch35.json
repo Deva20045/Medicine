@@ -1,0 +1,582 @@
+{
+  "chapter": 35,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+  "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+  "pdfOffset": 823,
+  "pageRange": "877-882",
+  "contentSha256": "141da529ce801cfce8790b63f122f1b601a8f38c42be6b9258e1d663ff45a68f",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch35 p877-882: auto-generated source checklist from existing 64 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 877,
+      "pdfPage": 54,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p877 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p877.",
+      "elements": [
+        {
+          "element": "p877-e001",
+          "page": 877,
+          "source": "The serum calcium threshold above which hypercalcemia evaluation should begin (mg/dl) is: [Adjusted Ca 8.6–10.3 mg/dl; hypercalcemia >10.5 mg/dl starts evaluation. (Book p877)]",
+          "questionIds": [
+            "MED-C35-001"
+          ]
+        },
+        {
+          "element": "p877-e002",
+          "page": 877,
+          "source": "0.25 mmol of calcium corresponds to: [0.25 mmol = 0.5 meq/l = 1 mg/dl of calcium. (Book p877)]",
+          "questionIds": [
+            "MED-C35-002"
+          ]
+        },
+        {
+          "element": "p877-e003",
+          "page": 877,
+          "source": "Match shares — 1) Parathyroid gland dependent  2) Vit-D related … A) 80%  B) 20% [Parathyroid dependent 80%; Vit-D related 20%. (Book p877)]",
+          "questionIds": [
+            "MED-C35-003"
+          ]
+        },
+        {
+          "element": "p877-e004",
+          "page": 877,
+          "source": "The most common cause of hypercalcemia overall is: [Primary hyperparathyroidism is m/c overall. (Book p877)]",
+          "questionIds": [
+            "MED-C35-004"
+          ]
+        },
+        {
+          "element": "p877-e005",
+          "page": 877,
+          "source": "Primary hyperparathyroidism classically affects: [F > M, 6th decade. (Book p877)]",
+          "questionIds": [
+            "MED-C35-005"
+          ]
+        },
+        {
+          "element": "p877-e006",
+          "page": 877,
+          "source": "Primary parathyroid adenomas (85%) most commonly arise in the: [Primary adenomas 85%, inferior parathyroid. (Book p877)]",
+          "questionIds": [
+            "MED-C35-006"
+          ]
+        },
+        {
+          "element": "p877-e007",
+          "page": 877,
+          "source": "Hyperplasia associations — 1) MEN  2) MEON … A) CDC73 (carcinoma)  B) Type 1 > Type 2A [MEN type 1 > type 2A; MEON: CDC73 (carcinoma); also sporadic. (Book p877)]",
+          "questionIds": [
+            "MED-C35-007"
+          ]
+        },
+        {
+          "element": "p877-e008",
+          "page": 877,
+          "source": "Familial hypocalciuric hypercalcemia (FHH) is: [FHH: AD, CaSR loss of mutation, low 24 hr urine calcium. (Book p877)]",
+          "questionIds": [
+            "MED-C35-008"
+          ]
+        },
+        {
+          "element": "p877-e009",
+          "page": 877,
+          "source": "Lithium therapy causes hypercalcemia by: [Lithium inhibits CaSR. (Book p877)]",
+          "questionIds": [
+            "MED-C35-009"
+          ]
+        },
+        {
+          "element": "p877-e010",
+          "page": 877,
+          "source": "Tertiary hyperparathyroidism develops in: [Tertiary hyperparathyroidism: in CKD. (Book p877)]",
+          "questionIds": [
+            "MED-C35-010"
+          ]
+        },
+        {
+          "element": "p877-e011",
+          "page": 877,
+          "source": "PTHrP-dependent hypercalcemia is classically associated with: [PTHrP (↓↓): squamous cell carcinoma lung, head and neck. (Book p877)]",
+          "questionIds": [
+            "MED-C35-011"
+          ]
+        },
+        {
+          "element": "p877-e012",
+          "page": 877,
+          "source": "Tumors producing 1α-hydroxylase (Vit-D related hypercalcemia) include: [1α-hydroxylase producers: lymphoma, sarcoidosis, acromegaly. (Book p877)]",
+          "questionIds": [
+            "MED-C35-012"
+          ]
+        },
+        {
+          "element": "p877-e013",
+          "page": 877,
+          "source": "Miscellaneous ENDOCRINE causes listed are Addison's disease, pheochromocytoma and thyrotoxicosis. Pick the ODD ONE OUT: [Endocrine: Addison's, pheochromocytoma, thyrotoxicosis — Cushing's is not listed. (Book p877)]",
+          "questionIds": [
+            "MED-C35-013"
+          ]
+        },
+        {
+          "element": "p877-e014",
+          "page": 877,
+          "source": "Osteolytic hypercalcemia causes listed are Ca breast (m/c), Ca lung and multiple myeloma. Pick the ODD ONE OUT: [Osteolytic: breast (m/c), lung, myeloma — prostate not listed. (Book p877)]",
+          "questionIds": [
+            "MED-C35-014"
+          ]
+        },
+        {
+          "element": "p877-e015",
+          "page": 877,
+          "source": "‘Thiazide-induced hypercalcemia and milk-alkali syndrome are miscellaneous causes of hypercalcemia.’ [Miscellaneous includes milk-alkali syndrome and thiazide-induced. (Book p877)]",
+          "questionIds": [
+            "MED-C35-015"
+          ]
+        },
+        {
+          "element": "p877-e016",
+          "page": 877,
+          "source": "The adjusted (corrected) calcium value range is ___ mg/dl. [Adjusted calcium value 8.6–10.3 mg/dl. (Book p877)]",
+          "questionIds": [
+            "MED-C35-016"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 878,
+      "pdfPage": 55,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p878 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p878.",
+      "elements": [
+        {
+          "element": "p878-e001",
+          "page": 878,
+          "source": "The most common presentation of hypercalcemia is: [M/c asymptomatic. (Book p878)]",
+          "questionIds": [
+            "MED-C35-017"
+          ]
+        },
+        {
+          "element": "p878-e002",
+          "page": 878,
+          "source": "The second most common (chronic) symptom of hypercalcemia is: [Fatigue is the 2nd m/c (chronic). (Book p878)]",
+          "questionIds": [
+            "MED-C35-018"
+          ]
+        },
+        {
+          "element": "p878-e003",
+          "page": 878,
+          "source": "Match the mnemonic — 1) Painful 2) Renal 3) Abdominal 4) Psychotic 5) Fatigue … A) Groan B) Bone C) Moans D) Stone E) Overtone [Painful-Bone, Renal-Stone, Abdominal-Groan, Psychotic-Moans, Fatigue-Overtone. (Book p878)]",
+          "questionIds": [
+            "MED-C35-019"
+          ]
+        },
+        {
+          "element": "p878-e004",
+          "page": 878,
+          "source": "The acute abdominal features (pain, vomiting, constipation) of hypercalcemia mimic: [Acute abdominal triad mimics pancreatitis. (Book p878)]",
+          "questionIds": [
+            "MED-C35-020"
+          ]
+        },
+        {
+          "element": "p878-e005",
+          "page": 878,
+          "source": "Neuropsychiatric features of acute hypercalcemia include: [Drowsiness, lethargy, confusion, disorientation. (Book p878)]",
+          "questionIds": [
+            "MED-C35-021"
+          ]
+        },
+        {
+          "element": "p878-e006",
+          "page": 878,
+          "source": "ECG — 1) Hypercalcemia  2) Hypocalcemia … A) Long QT interval  B) Short QT interval [Hypercalcemia: short QT; hypocalcemia: long QT. (Book p878)]",
+          "questionIds": [
+            "MED-C35-022"
+          ]
+        },
+        {
+          "element": "p878-e007",
+          "page": 878,
+          "source": "‘Diarrhea and seizures are expected findings in hypercalcemia.’ [In hypercalcemia diarrhea and seizures are NOT seen. (Book p878)]",
+          "questionIds": [
+            "MED-C35-023"
+          ]
+        },
+        {
+          "element": "p878-e008",
+          "page": 878,
+          "source": "Chronic renal manifestations of hypercalcemia include: [Renal: recurrent stone, recurrent UTI. (Book p878)]",
+          "questionIds": [
+            "MED-C35-024"
+          ]
+        },
+        {
+          "element": "p878-e009",
+          "page": 878,
+          "source": "Chronic features include painful bones, myopathy, band keratopathy and pseudoclubbing. Pick the ODD ONE OUT: [Drowsiness is acute; band keratopathy, pseudoclubbing, myopathy are chronic. (Book p878)]",
+          "questionIds": [
+            "MED-C35-025"
+          ]
+        },
+        {
+          "element": "p878-e010",
+          "page": 878,
+          "source": "Neurogenic diabetes insipidus in hypercalcemia leads sequentially to: [Neurogenic DI → polyuria → dehydration → pre-renal AKI. (Book p878)]",
+          "questionIds": [
+            "MED-C35-026"
+          ]
+        },
+        {
+          "element": "p878-e011",
+          "page": 878,
+          "source": "The other renal presentation of hypercalcemia, besides neurogenic DI, is: [Renal presentation: neurogenic DI and chronic tubulointerstitial disease. (Book p878)]",
+          "questionIds": [
+            "MED-C35-027"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 879,
+      "pdfPage": 56,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p879 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p879.",
+      "elements": [
+        {
+          "element": "p879-e001",
+          "page": 879,
+          "source": "Additional features in CTD are hypokalemia, hyperoxaluria and hyperuricosuria. Pick the ODD ONE OUT: [CTD adds hypokalemia, hyperoxaluria, hyperuricosuria — not hyperkalemia. (Book p879)]",
+          "questionIds": [
+            "MED-C35-028"
+          ]
+        },
+        {
+          "element": "p879-e002",
+          "page": 879,
+          "source": "The normal intact PTH range (pg/ml) is: [iPTH normal range 50–100 pg/ml by 2nd gen immunoradiometric cold chain. (Book p879)]",
+          "questionIds": [
+            "MED-C35-029"
+          ]
+        },
+        {
+          "element": "p879-e003",
+          "page": 879,
+          "source": "Intact PTH is estimated by: [2nd gen immunoradiometric cold chain. (Book p879)]",
+          "questionIds": [
+            "MED-C35-030"
+          ]
+        },
+        {
+          "element": "p879-e004",
+          "page": 879,
+          "source": "A ‘normal’ PTH value in the presence of raised serum calcium should make you suspect: [High Ca2+ should inhibit PTH; a normal PTH with high Ca = suspect parathyroid-dependent causes. (Book p879)]",
+          "questionIds": [
+            "MED-C35-031"
+          ]
+        },
+        {
+          "element": "p879-e005",
+          "page": 879,
+          "source": "iPTH >50 pg/ml profile — 1) Serum phosphate  2) 24 hr urine calcium … A) ↑↑  B) ↓ [Parathyroid dependent: S.phosphate ↓, 24 hr urine calcium ↑↑. (Book p879)]",
+          "questionIds": [
+            "MED-C35-032"
+          ]
+        },
+        {
+          "element": "p879-e006",
+          "page": 879,
+          "source": "iPTH >50 pg/ml with ↓ phosphate and ↑↑ urine calcium points to: [→ Parathyroid adenoma, m/c inferior parathyroid gland. (Book p879)]",
+          "questionIds": [
+            "MED-C35-033"
+          ]
+        },
+        {
+          "element": "p879-e007",
+          "page": 879,
+          "source": "Tc99 sestamibi scan (IOC for parathyroid adenoma) localizes the gland because it binds: [Tc99 sestamibi binds with oxyphil cells; IOC for adenoma. (Book p879)]",
+          "questionIds": [
+            "MED-C35-034"
+          ]
+        },
+        {
+          "element": "p879-e008",
+          "page": 879,
+          "source": "Vitamin D metabolites — 1) 25(OH)D3 ↑ + 1,25(OH)2D3 ↑  2) 25(OH)D3 N + 1,25(OH)2D3 ↑ … A) Tumor ↑1α-hydroxylase (lymphoma, acromegaly, sarcoidosis)  B) Hypervitaminosis D [Both raised = hypervitaminosis D; 25 N with 1,25 ↑ = tumor ↑1α-hydroxylase. (Book p879)]",
+          "questionIds": [
+            "MED-C35-035"
+          ]
+        },
+        {
+          "element": "p879-e009",
+          "page": 879,
+          "source": "Hypercalcemia with iPTH <20 pg/ml is related to: [<20 pg/ml related to PTH-rp → paraneoplastic tumor, m/c SCC lung. (Book p879)]",
+          "questionIds": [
+            "MED-C35-036"
+          ]
+        },
+        {
+          "element": "p879-e010",
+          "page": 879,
+          "source": "The investigation advised for paraneoplastic tumor hypercalcemia is: [Paraneoplastic tumor: investigation CT/PET. (Book p879)]",
+          "questionIds": [
+            "MED-C35-037"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 880,
+      "pdfPage": 57,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p880 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p880.",
+      "elements": [
+        {
+          "element": "p880-e001",
+          "page": 880,
+          "source": "PTH levels — 1) 1°  2) 2°  3) 3° … A) 500-1000 pg/ml  B) >1000 pg/ml  C) >50 pg/ml [1° >50; 2° 500–1000; 3° >1000 pg/ml. (Book p880)]",
+          "questionIds": [
+            "MED-C35-038"
+          ]
+        },
+        {
+          "element": "p880-e002",
+          "page": 880,
+          "source": "Sr. Ca/PO4 — 1) 1°  2) 2°  3) 3° … A) Ca↓ PO4↑  B) Ca↑↑ PO4↑↑  C) Ca↑ PO4↓ [1° Ca↑ PO4↓; 2° Ca↓ PO4↑; 3° Ca↑↑ PO4↑↑. (Book p880)]",
+          "questionIds": [
+            "MED-C35-039"
+          ]
+        },
+        {
+          "element": "p880-e003",
+          "page": 880,
+          "source": "Cause — 1) 1°  2) 2°  3) 3° … A) Seen in CKD  B) Long-standing CKD  C) Adenoma (m/c) / hyperplasia (MEN 1/2A) [1° adenoma (m/c)/hyperplasia MEN 1/2A; 2° CKD; 3° long-standing CKD. (Book p880)]",
+          "questionIds": [
+            "MED-C35-040"
+          ]
+        },
+        {
+          "element": "p880-e004",
+          "page": 880,
+          "source": "The MOST characteristic bone change of hyperparathyroidism is: [Subperiosteal resorption, radial side of proximal or middle phalanx of index and middle finger — most characteristic. (Book p880)]",
+          "questionIds": [
+            "MED-C35-041"
+          ]
+        },
+        {
+          "element": "p880-e005",
+          "page": 880,
+          "source": "The most common (m/c) bone change in hyperparathyroidism is: [Diffuse bone resorption is m/c. (Book p880)]",
+          "questionIds": [
+            "MED-C35-042"
+          ]
+        },
+        {
+          "element": "p880-e006",
+          "page": 880,
+          "source": "Rugger jersey spine reflects: [Rugger jersey spine = intercortical bone resorption. (Book p880)]",
+          "questionIds": [
+            "MED-C35-043"
+          ]
+        },
+        {
+          "element": "p880-e007",
+          "page": 880,
+          "source": "Book-listed radiological bone changes include diffuse resorption, rugger jersey spine, brown tumor, salt-and-pepper skull, endosteal scalloping and acral osteolysis. Pick the ODD ONE OUT: [Listed: 1–6 as above; ground-glass matrix is not among them. (Book p880)]",
+          "questionIds": [
+            "MED-C35-044"
+          ]
+        },
+        {
+          "element": "p880-e008",
+          "page": 880,
+          "source": "The number of radiological bone changes listed in the book (diffuse resorption to osteitis fibrosa cystica) is: [Seven: diffuse resorption, rugger jersey spine, brown tumor, salt-and-pepper skull, endosteal scalloping, acral osteolysis, osteitis fibrosa cystica. ]",
+          "questionIds": [
+            "MED-C35-045"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 881,
+      "pdfPage": 58,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p881 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p881.",
+      "elements": [
+        {
+          "element": "p881-e001",
+          "page": 881,
+          "source": "Osteitis fibrosa cystica results from: [Bone resorption > formation → fracture → fibrous & cystic changes. (Book p881)]",
+          "questionIds": [
+            "MED-C35-046"
+          ]
+        },
+        {
+          "element": "p881-e002",
+          "page": 881,
+          "source": "The absolute treatment of parathyroid adenoma is: [Absolute treatment: surgery; excision of single large gland curative. (Book p881)]",
+          "questionIds": [
+            "MED-C35-047"
+          ]
+        },
+        {
+          "element": "p881-e003",
+          "page": 881,
+          "source": "‘Medical management has a definitive role in parathyroid adenoma.’ [No role of medical management; surgery is absolute. (Book p881)]",
+          "questionIds": [
+            "MED-C35-048"
+          ]
+        },
+        {
+          "element": "p881-e004",
+          "page": 881,
+          "source": "Asymptomatic surgery indications are <50 yr age, renal failure, >400 mg/day urine Ca, osteoporosis and S.Ca >1 mg/dl from baseline. Pick the ODD ONE OUT: [Indications: <50 yr, renal failure, urine Ca >400 mg/day, osteoporosis, S.Ca >1 mg/dl above baseline — age >65 is not one. (Book p881)]",
+          "questionIds": [
+            "MED-C35-049"
+          ]
+        },
+        {
+          "element": "p881-e005",
+          "page": 881,
+          "source": "The 24 hr urine calcium threshold indicating surgery in asymptomatic primary HPT (mg/day) is: [>400 mg/day 24 hr urine Ca2+. (Book p881)]",
+          "questionIds": [
+            "MED-C35-050"
+          ]
+        },
+        {
+          "element": "p881-e006",
+          "page": 881,
+          "source": "The serum calcium rise from baseline that indicates surgery (mg/dl) is: [S. Ca2+ >1 mg/dl from baseline. (Book p881)]",
+          "questionIds": [
+            "MED-C35-051"
+          ]
+        },
+        {
+          "element": "p881-e007",
+          "page": 881,
+          "source": "The continuous IV fluid rate in hypercalcemic crisis (ml/hr) is: [Fluids 300–400 ml/hr continuous. (Book p881)]",
+          "questionIds": [
+            "MED-C35-052"
+          ]
+        },
+        {
+          "element": "p881-e008",
+          "page": 881,
+          "source": "The calcitonin dose in hypercalcemic crisis is: [Calcitonin 4 U/kg S/C BD. (Book p881)]",
+          "questionIds": [
+            "MED-C35-053"
+          ]
+        },
+        {
+          "element": "p881-e009",
+          "page": 881,
+          "source": "‘IV Lasix is recommended as routine first-line therapy in hypercalcemic crisis.’ [IV Lasix: not recommended. (Book p881)]",
+          "questionIds": [
+            "MED-C35-054"
+          ]
+        },
+        {
+          "element": "p881-e010",
+          "page": 881,
+          "source": "The preferred IV bisphosphonate regimen in hypercalcemic crisis is: [Zoledronate 4 mg IV in 50 ml saline + 50 ml dextrose 5% (preferred); pamidronate alternative. (Book p881)]",
+          "questionIds": [
+            "MED-C35-055"
+          ]
+        },
+        {
+          "element": "p881-e011",
+          "page": 881,
+          "source": "Second-line oral prednisolone is used only in: [Steroid (oral prednisolone) used only in osteolysis and Vit-D dependent cause. (Book p881)]",
+          "questionIds": [
+            "MED-C35-056"
+          ]
+        },
+        {
+          "element": "p881-e012",
+          "page": 881,
+          "source": "The second-line agent listed alongside steroids in hypercalcemic crisis is: [2nd line: steroid + denosumab. (Book p881)]",
+          "questionIds": [
+            "MED-C35-057"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 882,
+      "pdfPage": 59,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p882 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p882.",
+      "elements": [
+        {
+          "element": "p882-e001",
+          "page": 882,
+          "source": "Malignancy mechanisms — 1) PTH-rp (m/c)  2) Lymphoma  3) Osteolysis … A) 1α-hydroxylase  B) Humoral hypercalcemia of malignancy, a/w SCC lung  C) Hypercalcemic crisis [PTH-rp humoral (m/c, a/w SCC lung); lymphoma 1α-hydroxylase; osteolysis → hypercalcemic crisis. (Book p882)]",
+          "questionIds": [
+            "MED-C35-058"
+          ]
+        },
+        {
+          "element": "p882-e002",
+          "page": 882,
+          "source": "Osteolytic hypercalcemia causes (m/c first) are: [Osteolysis causes: Ca breast (m/c), multiple myeloma, Ca lung. (Book p882)]",
+          "questionIds": [
+            "MED-C35-059"
+          ]
+        },
+        {
+          "element": "p882-e003",
+          "page": 882,
+          "source": "Inheritance — 1) Jansen disease  2) FHH … A) AD  B) X-linked [Jansen X-linked; FHH AD. (Book p882)]",
+          "questionIds": [
+            "MED-C35-060"
+          ]
+        },
+        {
+          "element": "p882-e004",
+          "page": 882,
+          "source": "Defect — 1) Jansen disease  2) FHH … A) Loss of function of CaSR  B) Activation mutation of PTH type 1 receptor [Jansen: activation mutation of PTH type 1 receptor; FHH: loss of function of CaSR. (Book p882)]",
+          "questionIds": [
+            "MED-C35-061"
+          ]
+        },
+        {
+          "element": "p882-e005",
+          "page": 882,
+          "source": "Jansen features are short stature, dementia, disorientation, abnormal facies and severe bone involvement. Pick the ODD ONE OUT: [Mild symptoms/fatigue/weakness belong to FHH; Jansen is severe. (Book p882)]",
+          "questionIds": [
+            "MED-C35-062"
+          ]
+        },
+        {
+          "element": "p882-e006",
+          "page": 882,
+          "source": "FHH in children typically presents with: [FHH: mild symptom, fatigue, weakness. (Book p882)]",
+          "questionIds": [
+            "MED-C35-063"
+          ]
+        },
+        {
+          "element": "p882-e007",
+          "page": 882,
+          "source": "A child presents with hypercalcemia, X-linked inheritance, short stature and severe bone involvement. The underlying defect is: [Jansen disease: X-linked, activation mutation of PTH type 1 receptor, severe bone involvement. (Book p882)]",
+          "questionIds": [
+            "MED-C35-064"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,827 @@
+{
+  "chapter": 33,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+  "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+  "pdfOffset": 823,
+  "pageRange": "863-873",
+  "contentSha256": "48a562b77deed1f7ade489188331a2205bb92706d263063be2340251e99d2483",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch33 p863-873: auto-generated source checklist from existing 89 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 863,
+      "pdfPage": 40,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p863 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p863.",
+      "elements": [
+        {
+          "element": "p863-e001",
+          "page": 863,
+          "source": "The skeletal system receives what share of total cardiac output? [The skeletal system is highly vascular — 10% of total cardiac output. (Book p863)]",
+          "questionIds": [
+            "MED-C33-001"
+          ]
+        },
+        {
+          "element": "p863-e002",
+          "page": 863,
+          "source": "Match cortical vs trabecular bone — 1) Cortical contribution  2) Trabecular contribution  3) Cortical unit  4) Trabecular unit … A) Trabeculae  B) 20%  C) 80%  D) Osteon [Cortical bone = 80% of mass, osteon unit; trabecular = 20%, trabeculae. (Book p863)]",
+          "questionIds": [
+            "MED-C33-002"
+          ]
+        },
+        {
+          "element": "p863-e003",
+          "page": 863,
+          "source": "Cortical bone is seen in ___ and trabecular bone in ___. [Cortical in diaphysis of long bones; trabecular in epiphysis and vertebrae. (Book p863)]",
+          "questionIds": [
+            "MED-C33-003"
+          ]
+        },
+        {
+          "element": "p863-e004",
+          "page": 863,
+          "source": "‘The Haversian system is present in cortical bone but absent in trabecular bone.’ [Haversian system (+) cortical, (−) trabecular. (Book p863)]",
+          "questionIds": [
+            "MED-C33-004"
+          ]
+        },
+        {
+          "element": "p863-e005",
+          "page": 863,
+          "source": "Match hormone action on bone type — 1) Cortical bone  2) Trabecular bone … A) Steroid hormones  B) PTH and thyroid [PTH and thyroid act on cortical bone; steroid hormones on trabecular bone. (Book p863)]",
+          "questionIds": [
+            "MED-C33-005"
+          ]
+        },
+        {
+          "element": "p863-e006",
+          "page": 863,
+          "source": "Trabecular bone has a HIGH remodelling rate because of: [High remodelling/bone turnover d/t ↑ surface area to mass ratio; also high metabolic activity and porosity. (Book p863)]",
+          "questionIds": [
+            "MED-C33-006"
+          ]
+        },
+        {
+          "element": "p863-e007",
+          "page": 863,
+          "source": "Osteoporosis is evaluated on trabecular bone using: [BMD plus the newer trabecular bone score (TBS). (Book p863)]",
+          "questionIds": [
+            "MED-C33-007"
+          ]
+        },
+        {
+          "element": "p863-e008",
+          "page": 863,
+          "source": "Two patients have near-identical BMD (L1–L4 ≈ 0.99) but TBS 1.432 vs 1.124. The patient with TBS 1.124 has: [Normal TBS (1.432) = good micro-architecture; low TBS (1.124) = degraded micro-architecture → osteoporosis. (Book p863)]",
+          "questionIds": [
+            "MED-C33-008"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 864,
+      "pdfPage": 41,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p864 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p864.",
+      "elements": [
+        {
+          "element": "p864-e001",
+          "page": 864,
+          "source": "Cells contribute what percentage of bone, with matrix making the rest? [Cells 2% (osteoblasts, osteoclasts, osteocytes); matrix 98%. (Book p864)]",
+          "questionIds": [
+            "MED-C33-009"
+          ]
+        },
+        {
+          "element": "p864-e002",
+          "page": 864,
+          "source": "Match matrix fraction — 1) Organic  2) Inorganic … A) Calcium, phosphorous, magnesium (60–70%)  B) Type I collagen + non-collagenous proteins (30–40%) [Organic 30–40% (type I collagen predominant); inorganic 60–70% (Ca, P, Mg). (Book p864)]",
+          "questionIds": [
+            "MED-C33-010"
+          ]
+        },
+        {
+          "element": "p864-e003",
+          "page": 864,
+          "source": "The predominant organic constituent of bone matrix is: [Type I collagen is predominant among organic constituents. (Book p864)]",
+          "questionIds": [
+            "MED-C33-011"
+          ]
+        },
+        {
+          "element": "p864-e004",
+          "page": 864,
+          "source": "Matrix GLA protein functions as an inhibitor of vascular calcification; it is inhibited by: [Matrix GLA protein inhibits vascular calcification; warfarin (vit K antagonist) inhibits it → precipitates calcification. (Book p864)]",
+          "questionIds": [
+            "MED-C33-012"
+          ]
+        },
+        {
+          "element": "p864-e005",
+          "page": 864,
+          "source": "The non-collagenous proteins listed are osteopontin, osteocalcin, thrombospondin, matrix GLA protein, fibronectin and: [The sixth listed non-collagenous protein is proteoglycans. (Book p864)]",
+          "questionIds": [
+            "MED-C33-013"
+          ]
+        },
+        {
+          "element": "p864-e006",
+          "page": 864,
+          "source": "Match collagen type to disorder — 1) Type I  2) Type III  3) Type IV  4) Type VII … A) EDS type IV (vascular)  B) Epidermolysis bullosa  C) Osteogenesis imperfecta  D) Alport/Goodpasture [Type I → OI (also EDS VII/arthrochalasia, osteoporosis); type III → EDS IV vascular; type IV → Alport/Goodpasture; type VII → epidermolysis bullosa. (]",
+          "questionIds": [
+            "MED-C33-014"
+          ]
+        },
+        {
+          "element": "p864-e007",
+          "page": 864,
+          "source": "Type II collagen is distributed in cartilage and vitreous humor; its disorder association is: [Type II (cartilage, vitreous humor) → chondrodysplasia. (Book p864)]",
+          "questionIds": [
+            "MED-C33-015"
+          ]
+        },
+        {
+          "element": "p864-e008",
+          "page": 864,
+          "source": "Which collagen type is NOT linked to a named disorder in the table? [Type 8 (endothelium) has no listed disorder (−). (Book p864)]",
+          "questionIds": [
+            "MED-C33-016"
+          ]
+        },
+        {
+          "element": "p864-e009",
+          "page": 864,
+          "source": "EDS classical type is associated with which minor collagen? [Type 5 (minor) → EDS classical type. (Book p864)]",
+          "questionIds": [
+            "MED-C33-017"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 865,
+      "pdfPage": 42,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p865 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p865.",
+      "elements": [
+        {
+          "element": "p865-e001",
+          "page": 865,
+          "source": "The bone mineral is formed as ___ from the amorphous calcium phosphate precursor. [Amorphous calcium phosphate (precursor) → calcium hydroxy apatite (bone). (Book p865)]",
+          "questionIds": [
+            "MED-C33-018"
+          ]
+        },
+        {
+          "element": "p865-e002",
+          "page": 865,
+          "source": "In the OLD hypothesis, mineralisation at the metaphyseal end is driven by which enzymes? [Old hypothesis: osteoblast lays matrix (type I collagen) then mineralisation by ALP, annexin, 5'-nucleotidase; osteoblast → osteocyte. (Book p865)]",
+          "questionIds": [
+            "MED-C33-019"
+          ]
+        },
+        {
+          "element": "p865-e003",
+          "page": 865,
+          "source": "Alkaline phosphatase promotes mineralisation by: [ALP hydrolyses inhibitors of mineralisation; ↑ mineralisation → ↑ ALP. (Book p865)]",
+          "questionIds": [
+            "MED-C33-020"
+          ]
+        },
+        {
+          "element": "p865-e004",
+          "page": 865,
+          "source": "‘Serum ALP is NOT raised in multiple myeloma because mineralisation is decreased there.’ [ALP is not ↑ in multiple myeloma as mineralisation is ↓. (Book p865)]",
+          "questionIds": [
+            "MED-C33-021"
+          ]
+        },
+        {
+          "element": "p865-e005",
+          "page": 865,
+          "source": "The sources of ALP listed are: [Sources of ALP: bone, kidney, placenta. (Book p865)]",
+          "questionIds": [
+            "MED-C33-022"
+          ]
+        },
+        {
+          "element": "p865-e006",
+          "page": 865,
+          "source": "The NEW hypothesis of bone formation states that: [New hypothesis: osteoblast → osteocyte; osteocyte lays down matrix → mineralisation (bone added outside-to-inside by osteocytes). (Book p865)]",
+          "questionIds": [
+            "MED-C33-023"
+          ]
+        },
+        {
+          "element": "p865-e007",
+          "page": 865,
+          "source": "Which enzyme has ONLY a liver source and helps confirm the hepatic origin of a raised ALP? [GGT is only liver source and confirms hepatic origin of ↑ALP; ALP and 5'-nucleotidase are not specific (other sources). (Book p865)]",
+          "questionIds": [
+            "MED-C33-024"
+          ]
+        },
+        {
+          "element": "p865-e008",
+          "page": 865,
+          "source": "Which is NOT a cholestatic liver enzyme in the note? [Cholestatic liver enzymes: ALP, 5'-nucleotidase (not specific), GGT (liver-only) — not ALT. (Book p865)]",
+          "questionIds": [
+            "MED-C33-025"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 866,
+      "pdfPage": 43,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p866 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p866.",
+      "elements": [
+        {
+          "element": "p866-e001",
+          "page": 866,
+          "source": "Osteoblasts arise from: [Osteoblasts are of mesenchymal origin. (Book p866)]",
+          "questionIds": [
+            "MED-C33-026"
+          ]
+        },
+        {
+          "element": "p866-e002",
+          "page": 866,
+          "source": "Match bone formation route — 1) Mesenchymal → chondroblast  2) Mesenchymal → osteoblast via RUNX2 … A) Intramembranous (skull bones, clavicle)  B) Endochondral bone formation [Chondroblasts → endochondral; RUNX2-driven osteoblasts → intramembranous (skull, clavicle). (Book p866)]",
+          "questionIds": [
+            "MED-C33-027"
+          ]
+        },
+        {
+          "element": "p866-e003",
+          "page": 866,
+          "source": "The transcription factor driving osteoblast differentiation (intramembranous) is: [RUNX2 (transcription factor); its defect causes cleido-cranial dysplasia. (Book p866)]",
+          "questionIds": [
+            "MED-C33-028"
+          ]
+        },
+        {
+          "element": "p866-e004",
+          "page": 866,
+          "source": "A RUNX2 defect causes: [RUNX2 defect → cleido-cranial dysplasia. (Book p866)]",
+          "questionIds": [
+            "MED-C33-029"
+          ]
+        },
+        {
+          "element": "p866-e005",
+          "page": 866,
+          "source": "The osteocyte is described as the: [Osteocyte = master regulator of bone formation & resorption; mechanoreceptor for loading/unloading and estrogen. (Book p866)]",
+          "questionIds": [
+            "MED-C33-030"
+          ]
+        },
+        {
+          "element": "p866-e006",
+          "page": 866,
+          "source": "Estrogen reduces osteoclast numbers by: [Estrogen kills osteoclasts → ↓ osteoclast numbers (at the level of the joint). (Book p866)]",
+          "questionIds": [
+            "MED-C33-031"
+          ]
+        },
+        {
+          "element": "p866-e007",
+          "page": 866,
+          "source": "Unloading forces or estrogen deficiency make osteocytes secrete: [Osteocytes produce sclerostin under unloading/estrogen deficiency. (Book p866)]",
+          "questionIds": [
+            "MED-C33-032"
+          ]
+        },
+        {
+          "element": "p866-e008",
+          "page": 866,
+          "source": "Match sclerostin actions — 1) Inhibits WNT1  2) Activates osteoclast … A) ↑ bone resorption  B) Inhibits osteoblast differentiation from mesenchymal stem cells [Sclerostin inhibits WNT1 (osteoblast formation/action) → blocks osteoblast differentiation, and activates osteoclasts. (Book p866)]",
+          "questionIds": [
+            "MED-C33-033"
+          ]
+        },
+        {
+          "element": "p866-e009",
+          "page": 866,
+          "source": "FGF23 produced by osteocytes is the most potent: [FGF23 inhibits phosphorus reabsorption at PCT → phosphaturic (most potent). (Book p866)]",
+          "questionIds": [
+            "MED-C33-034"
+          ]
+        },
+        {
+          "element": "p866-e010",
+          "page": 866,
+          "source": "Osteoclasts are of ___ origin and use ___ to generate protons for resorption. [Osteoclasts: macrophage origin; carbonic anhydrase type 2 generates protons → bone resorption with irregular Howship lacunae. (Book p866)]",
+          "questionIds": [
+            "MED-C33-035"
+          ]
+        },
+        {
+          "element": "p866-e011",
+          "page": 866,
+          "source": "The irregular resorption pits made by osteoclasts are called ___. [Irregular activity produces Howship lacunae. (Book p866)]",
+          "questionIds": [
+            "MED-C33-036"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 867,
+      "pdfPage": 44,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p867 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p867.",
+      "elements": [
+        {
+          "element": "p867-e001",
+          "page": 867,
+          "source": "On the osteoblast surface, PTH and vitamin D upregulate RANKL, which binds ___ on pre-osteoclasts (with M-CSF) to activate osteoclasts. [RANKL (from osteoblasts) binds RANK on preosteoclasts with M-CSF → active osteoclast (acid secretion, lysosome, ruffled membrane). (Book p867)]",
+          "questionIds": [
+            "MED-C33-037"
+          ]
+        },
+        {
+          "element": "p867-e002",
+          "page": 867,
+          "source": "OPG (osteoprotegerin) acts by: [OPG physiologically inhibits RANK–RANKL interaction. (Book p867)]",
+          "questionIds": [
+            "MED-C33-038"
+          ]
+        },
+        {
+          "element": "p867-e003",
+          "page": 867,
+          "source": "Calcitonin binds receptors on the basal surface of osteoclasts to: [Calcitonin inhibits osteoclast → inhibits bone resorption. (Book p867)]",
+          "questionIds": [
+            "MED-C33-039"
+          ]
+        },
+        {
+          "element": "p867-e004",
+          "page": 867,
+          "source": "Calcitonin is used to treat hypercalcaemia because it also: [It stimulates renal calcium clearance causing hypocalcaemia, hence used in hypercalcaemia. (Book p867)]",
+          "questionIds": [
+            "MED-C33-040"
+          ]
+        },
+        {
+          "element": "p867-e005",
+          "page": 867,
+          "source": "Match the bone cycle steps to duration — 1) Osteoclast activation + bone resorption  2) Reversal + bone formation + mineralisation … A) 3 months  B) 3 weeks [Resorption phase (steps 1–2) ~3 weeks; reversal/formation/mineralisation (3–5) ~3 months. (Book p867)]",
+          "questionIds": [
+            "MED-C33-041"
+          ]
+        },
+        {
+          "element": "p867-e006",
+          "page": 867,
+          "source": "The correct order of the bone remodelling cycle is: [Steps: 1 osteoclast activation, 2 bone resorption, 3 reversal, 4 bone formation, 5 mineralisation. (Book p867)]",
+          "questionIds": [
+            "MED-C33-042"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 868,
+      "pdfPage": 45,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p868 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p868.",
+      "elements": [
+        {
+          "element": "p868-e001",
+          "page": 868,
+          "source": "Match marker to category — 1) TRAP  2) CTP  3) NTX  4) Osteocalcin … A) Formation  B) Resorption [Resorption markers: TRAP, CTP, NTX; formation: total/bone ALP, osteocalcin, PICP, PINP. (Book p868)]",
+          "questionIds": [
+            "MED-C33-043"
+          ]
+        },
+        {
+          "element": "p868-e002",
+          "page": 868,
+          "source": "Which is a bone FORMATION marker (odd one out among resorption markers)? [bsALP is a formation marker; TRAP, CTP, NTX are resorption markers. (Book p868)]",
+          "questionIds": [
+            "MED-C33-044"
+          ]
+        },
+        {
+          "element": "p868-e003",
+          "page": 868,
+          "source": "The formation markers PICP and PINP are propeptides of: [PICP/PINP = C- and N-terminal propeptides of procollagen type I. (Book p868)]",
+          "questionIds": [
+            "MED-C33-045"
+          ]
+        },
+        {
+          "element": "p868-e004",
+          "page": 868,
+          "source": "Vitamin D is a Group I hormone acting via: [Group I hormone with intracellular receptor in nucleus — heterodimer receptor type 2. (Book p868)]",
+          "questionIds": [
+            "MED-C33-046"
+          ]
+        },
+        {
+          "element": "p868-e005",
+          "page": 868,
+          "source": "Match the vitamin D receptor complex — 1) Activated VDR partner  2) DNA element bound … A) VDRE  B) RXR [1,25-OH vit D activates VDR which heterodimerizes with RXR and binds VDRE to drive gene transcription. (Book p868)]",
+          "questionIds": [
+            "MED-C33-047"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 869,
+      "pdfPage": 46,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p869 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p869.",
+      "elements": [
+        {
+          "element": "p869-e001",
+          "page": 869,
+          "source": "The plant source of vitamin D is: [Plant source = ergocalciferol; animal/skin/diet = cholecalciferol (vit D3). (Book p869)]",
+          "questionIds": [
+            "MED-C33-048"
+          ]
+        },
+        {
+          "element": "p869-e002",
+          "page": 869,
+          "source": "The liver enzyme converting cholecalciferol to calcidiol is: [Liver vit D3 25-hydroxylase makes calcidiol/25-OH D3. (Book p869)]",
+          "questionIds": [
+            "MED-C33-049"
+          ]
+        },
+        {
+          "element": "p869-e003",
+          "page": 869,
+          "source": "The form used to MEASURE blood vitamin D levels (long t½, major circulating/storage form) is: [Calcidiol has long t½, is the major circulating & storage form, and is used to measure vit D levels. (Book p869)]",
+          "questionIds": [
+            "MED-C33-050"
+          ]
+        },
+        {
+          "element": "p869-e004",
+          "page": 869,
+          "source": "The inactive shunt product formed by 24-α-hydroxylase is: [24-α-hydroxylase yields 24,25(OH)2 D3 (inactive form). (Book p869)]",
+          "questionIds": [
+            "MED-C33-051"
+          ]
+        },
+        {
+          "element": "p869-e005",
+          "page": 869,
+          "source": "The renal (PCT) enzyme making the ACTIVE form, stimulated by PTH, is: [Kidney PCT 1α-hydroxylase (activated by PTH) makes 1,25-dihydroxycholecalciferol/calcitriol (active). (Book p869)]",
+          "questionIds": [
+            "MED-C33-052"
+          ]
+        },
+        {
+          "element": "p869-e006",
+          "page": 869,
+          "source": "Calcitriol in intestinal epithelium induces which trio to absorb calcium? [It induces calcium-binding protein, calcium-stimulated ATPase and alkaline phosphatase → intestinal Ca absorption → raises plasma Ca, inhibiting PTH. ]",
+          "questionIds": [
+            "MED-C33-053"
+          ]
+        },
+        {
+          "element": "p869-e007",
+          "page": 869,
+          "source": "Match drug to vitamin D effect — 1) Phenytoin  2) INH  3) Steroids & ketoconazole … A) Inhibits 25-hydroxylase  B) Causes vit D resistance  C) Inhibit 1α-hydroxylase [Phenytoin causes vit D resistance; INH inhibits 25-hydroxylase; steroids & ketoconazole inhibit 1α-hydroxylase. (Book p869)]",
+          "questionIds": [
+            "MED-C33-054"
+          ]
+        },
+        {
+          "element": "p869-e008",
+          "page": 869,
+          "source": "‘In nephrotic syndrome, vitamin D binding globulin is lost in urine while the vitamin D level stays normal.’ [Vit D binding globulin is lost in urine in nephrotic syndrome (vit D level normal). (Book p869)]",
+          "questionIds": [
+            "MED-C33-055"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 870,
+      "pdfPage": 47,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p870 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p870.",
+      "elements": [
+        {
+          "element": "p870-e001",
+          "page": 870,
+          "source": "Vitamin D increases Ca2+ absorption predominantly in the: [↑ Ca2+ absorption predominantly in jejunum (TRPV5/6, calbindin-D, NCX1, PMCA1b). (Book p870)]",
+          "questionIds": [
+            "MED-C33-056"
+          ]
+        },
+        {
+          "element": "p870-e002",
+          "page": 870,
+          "source": "VDR has anti-proliferative (protective against malignancy) effects on: [VDR anti-proliferative on skin, breast, prostate — vit D protective against malignancies. (Book p870)]",
+          "questionIds": [
+            "MED-C33-057"
+          ]
+        },
+        {
+          "element": "p870-e003",
+          "page": 870,
+          "source": "PTH is an ___ amino-acid molecule; its related peptide (PTHrP) has ___ aa. [PTH = 84 aa; PTH-related peptide = 139 aa. (Book p870)]",
+          "questionIds": [
+            "MED-C33-058"
+          ]
+        },
+        {
+          "element": "p870-e004",
+          "page": 870,
+          "source": "The bioactive form of PTH comprises the: [Bioactive form = first 34 aa. (Book p870)]",
+          "questionIds": [
+            "MED-C33-059"
+          ]
+        },
+        {
+          "element": "p870-e005",
+          "page": 870,
+          "source": "PTH's short half-life is: [t½ 2–4 min, so the sample must be collected and transported via cold chain. (Book p870)]",
+          "questionIds": [
+            "MED-C33-060"
+          ]
+        },
+        {
+          "element": "p870-e006",
+          "page": 870,
+          "source": "Intact PTH is measured using: [2nd generation assays (double antibody IRMA / two-site binding) measure intact PTH; normal 50–100 pg/mL. (Book p870)]",
+          "questionIds": [
+            "MED-C33-061"
+          ]
+        },
+        {
+          "element": "p870-e007",
+          "page": 870,
+          "source": "The normal intact PTH value is: [Normal intact PTH 50–100 pg/mL. (Book p870)]",
+          "questionIds": [
+            "MED-C33-062"
+          ]
+        },
+        {
+          "element": "p870-e008",
+          "page": 870,
+          "source": "The overall effect of PTH on calcium and phosphorus is: [Overall: ↑ Ca2+, ↓ P. (Book p870)]",
+          "questionIds": [
+            "MED-C33-063"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 871,
+      "pdfPage": 48,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p871 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p871.",
+      "elements": [
+        {
+          "element": "p871-e001",
+          "page": 871,
+          "source": "Match parathyroid development — 1) 3rd pharyngeal pouch  2) 4th pharyngeal pouch … A) Superior parathyroid  B) Inferior parathyroid (ectopic intrathyroid m/c) [3rd pouch → inferior parathyroid (ectopic, intrathyroid m/c); 4th pouch → superior parathyroid; endodermal origin at 5–7 weeks. (Book p871)]",
+          "questionIds": [
+            "MED-C33-064"
+          ]
+        },
+        {
+          "element": "p871-e002",
+          "page": 871,
+          "source": "A Tbx1 defect causes: [Tbx1 defect → Di George syndrome (22q microdeletion). (Book p871)]",
+          "questionIds": [
+            "MED-C33-065"
+          ]
+        },
+        {
+          "element": "p871-e003",
+          "page": 871,
+          "source": "A GATA3 defect produces the triad of: [GATA3 defect → hypoparathyroidism, SNHL, renal dysfunction. (Book p871)]",
+          "questionIds": [
+            "MED-C33-066"
+          ]
+        },
+        {
+          "element": "p871-e004",
+          "page": 871,
+          "source": "GCMB and SOX3 defects lead to: [GCMB & SOX3 defect → hypoparathyroidism. (Book p871)]",
+          "questionIds": [
+            "MED-C33-067"
+          ]
+        },
+        {
+          "element": "p871-e005",
+          "page": 871,
+          "source": "The parathyroid cell with abundant mitochondria and affinity for 99mTc-sestamibi is the: [Oxyntic cells contain large mitochondria and take up 99mTc-sestamibi. (Book p871)]",
+          "questionIds": [
+            "MED-C33-068"
+          ]
+        },
+        {
+          "element": "p871-e006",
+          "page": 871,
+          "source": "A sestamibi scan shows a hot parathyroid focus. The applied principle is that adenoma has: [Adenoma → ↑ oxyntic cells → ↑ uptake of 99mTc-sestamibi (taken up by oxyntic cells). (Book p871)]",
+          "questionIds": [
+            "MED-C33-069"
+          ]
+        },
+        {
+          "element": "p871-e007",
+          "page": 871,
+          "source": "Match the PTH–VitD–FGF23 loop — 1) FGF23 on Vit D & PTH  2) PTH on Vit D & FGF23  3) Vit D on PTH & FGF23 … A) (+) Vit D, (+) FGF23  B) (−) PTH, (+) FGF23  C) (−) Vit D, (−) PTH [FGF23 inhibits Vit D and PTH; PTH stimulates Vit D and FGF23; Vit D inhibits PTH and stimulates FGF23. (Book p871)]",
+          "questionIds": [
+            "MED-C33-070"
+          ]
+        },
+        {
+          "element": "p871-e008",
+          "page": 871,
+          "source": "PTH stimulates vitamin D by activating: [PTH (+) 1α-hydroxylase → stimulates Vit D; Vit D (−) parathyroid proliferation → inhibits PTH. (Book p871)]",
+          "questionIds": [
+            "MED-C33-071"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 872,
+      "pdfPage": 49,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p872 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p872.",
+      "elements": [
+        {
+          "element": "p872-e001",
+          "page": 872,
+          "source": "FGF23 is beneficial because of P excretion but harmful because it: [FGF23 harmful as it (−) vit D; beneficial d/t P excretion. (Book p872)]",
+          "questionIds": [
+            "MED-C33-072"
+          ]
+        },
+        {
+          "element": "p872-e002",
+          "page": 872,
+          "source": "Match FGF23 actions — 1) Na-P cotransporter type 2a (PCT)  2) 1α-hydroxylase  3) PTH … A) (−) via Klotho receptor (lost in CKD d/t Klotho resistance)  B) (−) → ↓ vit D  C) (−) → phosphaturic [FGF23 inhibits the Na-P cotransporter (phosphaturic), 1α-hydroxylase (↓vit D) and PTH via Klotho (not seen in CKD due to Klotho resistance). (Book p87]",
+          "questionIds": [
+            "MED-C33-073"
+          ]
+        },
+        {
+          "element": "p872-e003",
+          "page": 872,
+          "source": "Match PTH vs vitamin D on the kidney — 1) PTH  2) Vitamin D … A) ↓ Ca/P excretion (by 25(OH)D3 & 1,25(OH)2D3)  B) ↑ Ca reabsorption and ↑ P excretion [PTH ↑ Ca reabsorption & ↑ P excretion; vit D ↓ Ca/P excretion. (Book p872)]",
+          "questionIds": [
+            "MED-C33-074"
+          ]
+        },
+        {
+          "element": "p872-e004",
+          "page": 872,
+          "source": "On bone, intermittent LOW doses of PTH cause: [PTH normally ↑ resorption (mobilises Ca); intermittent low doses ↑ bone formation. (Book p872)]",
+          "questionIds": [
+            "MED-C33-075"
+          ]
+        },
+        {
+          "element": "p872-e005",
+          "page": 872,
+          "source": "Match vitamin D metabolite to bone effect — 1) 1,25(OH)2 D3  2) 24,25(OH)2 D3 … A) ↑ bone formation  B) ↑ bone resorption [1,25(OH)2D3 ↑ resorption; 24,25(OH)2D3 ↑ formation. (Book p872)]",
+          "questionIds": [
+            "MED-C33-076"
+          ]
+        },
+        {
+          "element": "p872-e006",
+          "page": 872,
+          "source": "By the Endocrine Society of India, a vitamin D level <12 ng/ml (deficient) is treated with: [Deficient: 50000 IU/week ×6–8 wks, maintenance 600–2000 IU/day. (Book p872)]",
+          "questionIds": [
+            "MED-C33-077"
+          ]
+        },
+        {
+          "element": "p872-e007",
+          "page": 872,
+          "source": "Vitamin D insufficiency (12–19 ng/ml) is managed with at least: [Insufficient: ≥400 IU/day; >20 ng/ml = sufficient. (Book p872)]",
+          "questionIds": [
+            "MED-C33-078"
+          ]
+        },
+        {
+          "element": "p872-e008",
+          "page": 872,
+          "source": "The RDA of vitamin D is 600 IU till 70 years and ___ after 70 years. [RDA 600 IU till 70 yrs; 800 IU after 70 yrs. (Book p872)]",
+          "questionIds": [
+            "MED-C33-079"
+          ]
+        },
+        {
+          "element": "p872-e009",
+          "page": 872,
+          "source": "When hydroxylation is impaired, the active drug and maintenance dose are: [Hydroxylation impaired → calcitriol 0.25–0.5 µg/day; maintenance 0.25 µg alternate day. (Book p872)]",
+          "questionIds": [
+            "MED-C33-080"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 873,
+      "pdfPage": 50,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p873 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p873.",
+      "elements": [
+        {
+          "element": "p873-e001",
+          "page": 873,
+          "source": "Adverse effects of PTH on the CVS include: [CVS adverse effects: medial calcification, atherosclerosis, HTN. (Book p873)]",
+          "questionIds": [
+            "MED-C33-081"
+          ]
+        },
+        {
+          "element": "p873-e002",
+          "page": 873,
+          "source": "PTH receptors signal through: [PTH receptors are GPCR (cAMP/PKA). (Book p873)]",
+          "questionIds": [
+            "MED-C33-082"
+          ]
+        },
+        {
+          "element": "p873-e003",
+          "page": 873,
+          "source": "The PTH receptor type on which PTHrP also acts, mediating paraneoplastic hypercalcaemia (squamous cell carcinoma of head & neck, lung), is: [Type 1 receptor: PTHrp also acts here → paraneoplastic role (SCC head & neck, lung). (Book p873)]",
+          "questionIds": [
+            "MED-C33-083"
+          ]
+        },
+        {
+          "element": "p873-e004",
+          "page": 873,
+          "source": "‘A fall in ionised calcium is the MORE sensitive stimulus, inhibiting CaSR and raising PTH; a rise activates CaSR and lowers PTH.’ [Sigmoid rule: ↑Ca2+ activates CaSR → ↓PTH; ↓Ca2+ (more sensitive) inhibits CaSR → ↑PTH. (Book p873)]",
+          "questionIds": [
+            "MED-C33-084"
+          ]
+        },
+        {
+          "element": "p873-e005",
+          "page": 873,
+          "source": "The most important regulator of PTH is: [Ionised Ca2+ is the most important regulator; basal PTH secretion is always present. (Book p873)]",
+          "questionIds": [
+            "MED-C33-085"
+          ]
+        },
+        {
+          "element": "p873-e006",
+          "page": 873,
+          "source": "‘Phosphate deficiency impairs PTH release.’ [Deficiency of P impairs PTH release. (Book p873)]",
+          "questionIds": [
+            "MED-C33-086"
+          ]
+        },
+        {
+          "element": "p873-e007",
+          "page": 873,
+          "source": "Match CaSR mutation — 1) Loss of function  2) Gain of function … A) Bartter syndrome type 5  B) Familial hypocalciuric hypercalcaemia [CaSR loss-of-function → familial hypocalciuric hypercalcaemia; gain-of-function → Bartter syndrome type 5. (Book p873)]",
+          "questionIds": [
+            "MED-C33-087"
+          ]
+        },
+        {
+          "element": "p873-e008",
+          "page": 873,
+          "source": "Senile osteoporosis arises because mesenchymal stem cells differentiate into: [Senile osteoporosis: mesenchymal stem cells → adipocyte instead of osteoblast. (Book p873)]",
+          "questionIds": [
+            "MED-C33-088"
+          ]
+        },
+        {
+          "element": "p873-e009",
+          "page": 873,
+          "source": "___ helps in Ca2+ reabsorption from the kidney. [Claudin 16 helps in Ca2+ reabsorption from kidney. (Book p873)]",
+          "questionIds": [
+            "MED-C33-089"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "chapter": 38,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+  "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+  "pdfOffset": 823,
+  "pageRange": "892-894",
+  "contentSha256": "079fb6bd6dc99e07ef1e479d146e38e7caa8a3e24f1ac25441037e44f9bd38a4",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch38 p892-894: auto-generated source checklist from existing 48 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 892,
+      "pdfPage": 69,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p892 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p892.",
+      "elements": [
+        {
+          "element": "p892-e001",
+          "page": 892,
+          "source": "The normal magnesium interval printed here is ___ mEq/L. [The chapter uses 1.5–2 mEq/L; units must be checked before comparing numerical values. (Book p892)]",
+          "questionIds": [
+            "MED-C38-001"
+          ]
+        },
+        {
+          "element": "p892-e002",
+          "page": 892,
+          "source": "A magnesium result of 1 mmol/L is equivalent to which pair? [Divalent magnesium gives 2 mEq per mmol, and its molar mass gives approximately 2.4 mg/dL per mmol/L. (Book p892)]",
+          "questionIds": [
+            "MED-C38-002"
+          ]
+        },
+        {
+          "element": "p892-e003",
+          "page": 892,
+          "source": "Magnesium is the ___ most abundant intracellular cation, after ___. [The source ranks intracellular potassium first and magnesium second. (Book p892)]",
+          "questionIds": [
+            "MED-C38-003"
+          ]
+        },
+        {
+          "element": "p892-e004",
+          "page": 892,
+          "source": "Match the following magnesium absorption entries — 1) Principal intestinal site 2) Net dietary absorption 3) Paracellular share … A) 80–90% B) Ileum C) 30% [The chapter assigns the ileum, 30% net absorption and 80–90% paracellular transport. (Book p892)]",
+          "questionIds": [
+            "MED-C38-004"
+          ]
+        },
+        {
+          "element": "p892-e005",
+          "page": 892,
+          "source": "Which is the odd one out in the page's ileal-absorption association? [The source groups magnesium with ileal B12 and bile-acid absorption, while its calcium comparison emphasizes the jejunum. (Book p892)]",
+          "questionIds": [
+            "MED-C38-005"
+          ]
+        },
+        {
+          "element": "p892-e006",
+          "page": 892,
+          "source": "The channels named for transcellular intestinal magnesium uptake are ___ and ___. [The source identifies TRPM6/7 for magnesium, unlike TRPV channels used in calcium transport. (Book p892)]",
+          "questionIds": [
+            "MED-C38-006"
+          ]
+        },
+        {
+          "element": "p892-e007",
+          "page": 892,
+          "source": "A patient with an inherited thiazide-like salt-wasting phenotype develops hypomagnesemia. Which defect fits the source link? [Gitelman syndrome involves the DCT Na–Cl cotransporter, and thiazides can produce a related magnesium-wasting phenotype. (Book p892)]",
+          "questionIds": [
+            "MED-C38-007"
+          ]
+        },
+        {
+          "element": "p892-e008",
+          "page": 892,
+          "source": "Match the following renal magnesium shares — 1) TAL 2) PCT 3) DCT … A) 65% B) 25% C) 10% [The table gives TAL 65%, PCT 25% and DCT 10%; do not confuse this order with calcium handling. (Book p892)]",
+          "questionIds": [
+            "MED-C38-008"
+          ]
+        },
+        {
+          "element": "p892-e009",
+          "page": 892,
+          "source": "Assess renal magnesium transport: I TAL and PCT uptake are described as active/transcellular. II DCT uptake is described as active/transcellular. [These route distinctions explain why the DCT uses regulated magnesium channels while bulk TAL transport follows the paracellular pathway. (Book p892)]",
+          "questionIds": [
+            "MED-C38-009"
+          ]
+        },
+        {
+          "element": "p892-e010",
+          "page": 892,
+          "source": "A patient receiving cetuximab develops magnesium wasting. Which pathway is most directly implicated? [EGF regulates TRPM6 in the DCT; EGFR blockade by cetuximab interferes with magnesium conservation. (Book p892)]",
+          "questionIds": [
+            "MED-C38-010"
+          ]
+        },
+        {
+          "element": "p892-e011",
+          "page": 892,
+          "source": "The TAL paracellular proteins carrying calcium and magnesium are claudin ___ and ___. [The schematic names claudin-16/19; defects can impair renal divalent-cation handling. (Book p892)]",
+          "questionIds": [
+            "MED-C38-011"
+          ]
+        },
+        {
+          "element": "p892-e012",
+          "page": 892,
+          "source": "Blood calcium rises and activates the TAL calcium-sensing receptor. What direction of calcium reabsorption is shown? [The diagram shows high blood calcium activating CaSR, which inhibits calcium reabsorption; TAL salt transport supplies the driving force for paracellu]",
+          "questionIds": [
+            "MED-C38-012"
+          ]
+        },
+        {
+          "element": "p892-e013",
+          "page": 892,
+          "source": "Match the following TAL diagram components — 1) NKCC2 2) ROMK 3) ClC-Kb/Barttin … A) Potassium recycling B) Basolateral chloride exit machinery C) Na–K–2Cl entry [NKCC2 and ROMK support the lumen-positive driving force; ClC-Kb and its Barttin partner provide basolateral chloride handling in the figure. (Book p89]",
+          "questionIds": [
+            "MED-C38-013"
+          ]
+        },
+        {
+          "element": "p892-e014",
+          "page": 892,
+          "source": "For Bartter type 1, assess: I The source highlights hypercalciuria. II Its written hypomagnesuria label is a reliable description of a magnesium-wasting mechanism. [The note associates type 1 with hypercalciuria and gives a 20% frequency for a magnesium abnormality, but writes hypomagnesuria. That word means low u]",
+          "questionIds": [
+            "MED-C38-014"
+          ]
+        },
+        {
+          "element": "p892-e015",
+          "page": 892,
+          "source": "Match the following DCT diagram labels to roles — 1) EGFR 2) Na/K-ATPase 3) TRPM6/7 … A) Apical magnesium entry B) Basolateral sodium/potassium gradient C) EGF signaling receptor [These labeled components connect growth-factor signaling and basolateral ion gradients to magnesium entry through TRPM channels. (Book p892)]",
+          "questionIds": [
+            "MED-C38-015"
+          ]
+        },
+        {
+          "element": "p892-e016",
+          "page": 892,
+          "source": "The DCT figure labels SLC41A1 or CNNM2 near the basolateral ___ pathway. [The figure places these magnesium-handling proteins at the basolateral side, not at the apical TRPM entry site. (Book p892)]",
+          "questionIds": [
+            "MED-C38-016"
+          ]
+        },
+        {
+          "element": "p892-e017",
+          "page": 892,
+          "source": "Assess the DCT illustration: I Kir4.1/Kir5.1 are shown as basolateral potassium-channel partners. II HNF1B/PCBD1 are presented as regulatory labels, not luminal magnesium pores. [The diagram separates basolateral potassium handling and regulatory factors from TRPM-mediated apical magnesium entry. (Book p892)]",
+          "questionIds": [
+            "MED-C38-017"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 893,
+      "pdfPage": 70,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p893 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p893.",
+      "elements": [
+        {
+          "element": "p893-e001",
+          "page": 893,
+          "source": "Match the following magnesium-lowering drugs — 1) PPI 2) Cisplatin 3) Thiazide … A) Transport-pump inhibition B) Impaired intestinal absorption C) Tubular injury [The page separates intestinal malabsorption from tubular injury and defective transport-pump mechanisms. (Book p893)]",
+          "questionIds": [
+            "MED-C38-018"
+          ]
+        },
+        {
+          "element": "p893-e002",
+          "page": 893,
+          "source": "The source orders tubular-injury drug associations as cisplatin > ___ > ___. [Cisplatin, aminoglycosides and calcineurin inhibitors form the printed tubular-injury ranking. (Book p893)]",
+          "questionIds": [
+            "MED-C38-019"
+          ]
+        },
+        {
+          "element": "p893-e003",
+          "page": 893,
+          "source": "For the transport-pump subgroup, assess: I PPIs are placed with renal transport-pump inhibitors. II The source ranks thiazides above loop diuretics. [Thiazides > loops appears under transport pumps; PPIs are separately listed under impaired GI absorption. (Book p893)]",
+          "questionIds": [
+            "MED-C38-020"
+          ]
+        },
+        {
+          "element": "p893-e004",
+          "page": 893,
+          "source": "A patient with advanced renal failure repeatedly uses magnesium-containing laxatives and becomes lethargic with reduced reflexes. What combination explains the electrolyte risk? [Magnesium laxatives/purgatives/enemas increase intake; renal failure reduces clearance and predisposes to hypermagnesemia. (Book p893)]",
+          "questionIds": [
+            "MED-C38-021"
+          ]
+        },
+        {
+          "element": "p893-e005",
+          "page": 893,
+          "source": "Which is the odd one out among extracellular magnesium-shift causes listed? [Cell lysis releases magnesium; refeeding instead favors intracellular shifts and depletion. (Book p893)]",
+          "questionIds": [
+            "MED-C38-022"
+          ]
+        },
+        {
+          "element": "p893-e006",
+          "page": 893,
+          "source": "Match the following hypermagnesemia associations — 1) FHH 2) Addison disease 3) Acromegaly … A) Increased mineral absorption B) CaSR loss with reduced Ca/Mg excretion C) Volume loss with mineral conservation [The page distinguishes CaSR-mediated renal conservation, volume-loss-related conservation and increased absorption. (Book p893)]",
+          "questionIds": [
+            "MED-C38-023"
+          ]
+        },
+        {
+          "element": "p893-e007",
+          "page": 893,
+          "source": "During magnesium therapy for pre-eclampsia, deep tendon reflexes become sluggish. Which interpretation is most appropriate? [Therapeutic magnesium can cause hypermagnesemia; reduced reflexes are a toxicity warning, not an indication for blind escalation. (Book p893)]",
+          "questionIds": [
+            "MED-C38-024"
+          ]
+        },
+        {
+          "element": "p893-e008",
+          "page": 893,
+          "source": "Match the following source magnesium bands — 1) 4–6 mEq/L 2) 6–10 mEq/L 3) >10 mEq/L … A) Flaccid paralysis/respiratory failure B) Hypotension/bradycardia/depressed reflexes C) Flushing/headache/sluggish reflexes [The table describes progressive toxicity in these ranges, with PTH resistance and hypocalcemia in the 6–10 band. These are approximate teaching bands,]",
+          "questionIds": [
+            "MED-C38-025"
+          ]
+        },
+        {
+          "element": "p893-e009",
+          "page": 893,
+          "source": "The source places arrest at >2 mEq/L but flushing/sluggish reflexes at 4–6 mEq/L. What is the most defensible interpretation? [The >2 entry is internally inconsistent with the rest of the table and the stated normal range. It is flagged rather than silently repaired to an unve]",
+          "questionIds": [
+            "MED-C38-026"
+          ]
+        },
+        {
+          "element": "p893-e010",
+          "page": 893,
+          "source": "A patient with marked magnesium excess has hypotension, bradycardia and hypocalcemia. What endocrine mechanism is listed for the calcium change? [The 6–10 mEq/L row links hypermagnesemia with PTH resistance and hypocalcemia. (Book p893)]",
+          "questionIds": [
+            "MED-C38-027"
+          ]
+        },
+        {
+          "element": "p893-e011",
+          "page": 893,
+          "source": "Evaluate: I This source specifies one diagnostic ECG signature for magnesium excess. II An ECG without that signature excludes toxicity. [The page calls the arrhythmic findings nonspecific; absence of a signature tracing does not rule out toxicity. (Book p893)]",
+          "questionIds": [
+            "MED-C38-028"
+          ]
+        },
+        {
+          "element": "p893-e012",
+          "page": 893,
+          "source": "Match the following interventions — 1) Severe magnesium excess with CKD 2) Immediate antagonism of magnesium toxicity 3) Search for a cause of refractory low K/Ca … A) IV calcium gluconate B) Dialysis C) Measure magnesium [Dialysis removes magnesium when clearance is impaired, calcium antagonizes acute effects, and magnesium assessment is essential in refractory electrol]",
+          "questionIds": [
+            "MED-C38-029"
+          ]
+        },
+        {
+          "element": "p893-e013",
+          "page": 893,
+          "source": "Potassium remains low despite replacement in a magnesium-depleted patient. Which channel mechanism explains this? [The source describes a patulous ROMK channel causing renal potassium loss with severe magnesium depletion. (Book p893)]",
+          "questionIds": [
+            "MED-C38-030"
+          ]
+        },
+        {
+          "element": "p893-e014",
+          "page": 893,
+          "source": "Profound magnesium deficiency lowers calcium by impaired ___ and by ___. [The effect tree shows both reduced PTH secretion and end-organ resistance leading to hypocalcemia. (Book p893)]",
+          "questionIds": [
+            "MED-C38-031"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 894,
+      "pdfPage": 1,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p894 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p894.",
+      "elements": [
+        {
+          "element": "p894-e001",
+          "page": 894,
+          "source": "Match the following deficiency settings — 1) Refeeding 2) Acute pancreatitis 3) Cetuximab … A) Redistribution B) Combined marked Ca/Mg depletion C) EGFR-related renal loss [The page separates intracellular redistribution, pancreatitis-associated low Ca/Mg and drug-related renal loss. (Book p894)]",
+          "questionIds": [
+            "MED-C38-032"
+          ]
+        },
+        {
+          "element": "p894-e002",
+          "page": 894,
+          "source": "Which is the odd one out among the listed intracellular redistribution settings for low magnesium? [The source lists DKA, hungry bone and refeeding under redistribution; FHH is linked to reduced renal magnesium excretion. DKA also involves total-body]",
+          "questionIds": [
+            "MED-C38-033"
+          ]
+        },
+        {
+          "element": "p894-e003",
+          "page": 894,
+          "source": "Match the following inherited magnesium defects — 1) Gitelman 2) Bartter type 1 3) Isolated TRPM6-related disease … A) Na–K–2Cl cotransporter B) Magnesium-channel defect C) Na–Cl cotransporter [The chapter connects Gitelman with NCC, Bartter's NKCC2 form with the TAL, and isolated inherited magnesium deficiency with TRPM6. (Book p894)]",
+          "questionIds": [
+            "MED-C38-034"
+          ]
+        },
+        {
+          "element": "p894-e004",
+          "page": 894,
+          "source": "A child has hypomagnesemia, nephrocalcinosis and a claudin-16/19 defect. Which urine-calcium pattern is physiologically consistent despite the source's 'hypocalciuria' wording? [Claudin-16/19 disease is familial hypomagnesemia with hypercalciuria and nephrocalcinosis. The source's hypocalciuria label conflicts with this mechan]",
+          "questionIds": [
+            "MED-C38-035"
+          ]
+        },
+        {
+          "element": "p894-e005",
+          "page": 894,
+          "source": "The neuromuscular pathway linked to magnesium-deficiency seizures is increased ___-mediated excitability. [The page associates magnesium deficiency with increased glutamate-mediated excitability and seizures. (Book p894)]",
+          "questionIds": [
+            "MED-C38-036"
+          ]
+        },
+        {
+          "element": "p894-e006",
+          "page": 894,
+          "source": "A patient with low magnesium has an unusual ocular movement abnormality. Which finding is specifically listed? [Vertical nystagmus appears in the neuromuscular feature list, alongside seizures. (Book p894)]",
+          "questionIds": [
+            "MED-C38-037"
+          ]
+        },
+        {
+          "element": "p894-e007",
+          "page": 894,
+          "source": "Match the following hypomagnesemia systems — 1) Cardiac 2) Neuromuscular 3) Musculoskeletal … A) Seizures/nystagmus B) Reduced bone mass C) Tachyarrhythmia/long QT [The symptoms tree connects magnesium deficiency to all three systems, not just a serum laboratory abnormality. (Book p894)]",
+          "questionIds": [
+            "MED-C38-038"
+          ]
+        },
+        {
+          "element": "p894-e008",
+          "page": 894,
+          "source": "An ECG in a magnesium-depleted patient shows QT prolongation followed by polymorphic VT. Which rhythm is the key risk highlighted? [The ECG illustration and branch list emphasize long QT, polymorphic VT and torsades. (Book p894)]",
+          "questionIds": [
+            "MED-C38-039"
+          ]
+        },
+        {
+          "element": "p894-e009",
+          "page": 894,
+          "source": "Assess digitalis interactions: I Hypomagnesemia and hypokalemia increase susceptibility to digitalis toxicity. II The source's separate high-K/high-Mg digoxin note means every case of digoxin toxicity has those values. [Low Mg/K are susceptibility factors. Acute severe digoxin poisoning can produce hyperkalemia, but the handwritten high-Mg note is not a universal diag]",
+          "questionIds": [
+            "MED-C38-040"
+          ]
+        },
+        {
+          "element": "p894-e010",
+          "page": 894,
+          "source": "Which is not included in this page's associated-condition list for magnesium deficiency? [The source lists MI, hypertension, severe low K/Ca, insulin resistance, migraine and colon cancer. Association does not prove magnesium replacement pr]",
+          "questionIds": [
+            "MED-C38-041"
+          ]
+        },
+        {
+          "element": "p894-e011",
+          "page": 894,
+          "source": "The magnesium intake figure printed for adults is approximately ___ per day. [The page gives 420 mg or about 8.5 mEq/day; dietary requirements vary with age and sex. (Book p894)]",
+          "questionIds": [
+            "MED-C38-042"
+          ]
+        },
+        {
+          "element": "p894-e012",
+          "page": 894,
+          "source": "The mild-deficiency entry lists three MgO tablets at 140 mg each. What stated daily total does that arithmetic give? [Three times 140 mg is 420 mg. The source does not clearly distinguish tablet salt mass from elemental magnesium, so check the actual formulation befor]",
+          "questionIds": [
+            "MED-C38-043"
+          ]
+        },
+        {
+          "element": "p894-e013",
+          "page": 894,
+          "source": "Severe magnesium deficiency is accompanied by ventricular arrhythmia. Which replacement route does the page select? [The severe/arrhythmia branch selects IV MgSO4; oral replacement belongs to mild disease. (Book p894)]",
+          "questionIds": [
+            "MED-C38-044"
+          ]
+        },
+        {
+          "element": "p894-e014",
+          "page": 894,
+          "source": "Assess the MgSO4 entry: I The scan prints a 1–2 mg loading dose. II That milligram quantity is an appropriate standard adult dose for a life-threatening magnesium-responsive arrhythmia. [The printed milligram loading dose is unsafe to learn as a clinical regimen. Emergency magnesium protocols use gram quantities; infusion timing depend]",
+          "questionIds": [
+            "MED-C38-045"
+          ]
+        },
+        {
+          "element": "p894-e015",
+          "page": 894,
+          "source": "The source's continuation entry after initial IV magnesium is ___ over the next ___. [The continuation line reads 4 g over 24 hours. This is a source reference, not a substitute for renal-adjusted monitored prescribing. (Book p894)]",
+          "questionIds": [
+            "MED-C38-046"
+          ]
+        },
+        {
+          "element": "p894-e016",
+          "page": 894,
+          "source": "Assess replacement follow-up: I Serum normalization always proves full intracellular repletion. II The page advises continuing replacement after serum levels normalize. [Serum normalization can precede restoration of tissue stores, which explains the continuation note; duration still requires clinical monitoring. (Book]",
+          "questionIds": [
+            "MED-C38-047"
+          ]
+        },
+        {
+          "element": "p894-e017",
+          "page": 894,
+          "source": "The potassium-sparing agents mentioned as possible adjuncts for magnesium wasting are ___ and ___. [The source names amiloride and triamterene; loop and thiazide agents can instead aggravate magnesium losses. (Book p894)]",
+          "questionIds": [
+            "MED-C38-048"
+          ]
+        }
+      ]
+    }
+  ]
+}

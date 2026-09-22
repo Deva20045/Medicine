@@ -1,0 +1,475 @@
+{
+  "chapter": 15,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+  "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+  "pdfOffset": 759,
+  "pageRange": "783-785",
+  "contentSha256": "a6e5574f0f8a966d8aef5bc4744b125234f4ec4bf4c818e6b465a1b4cb4ee4c3",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry and caption. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch15 p783-785: auto-generated source checklist from existing 54 questions, each mapped to its printed line in book order. Visual scan was read at 3x zoom; any printed unit errors or ambiguous glyphs are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan."
+  ],
+  "pages": [
+    {
+      "page": 783,
+      "pdfPage": 24,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p783 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p783.",
+      "elements": [
+        {
+          "element": "p783-e001",
+          "page": 783,
+          "source": "Alport syndrome is also known as hereditary nephritis and is caused by a mutation in: [Alport syndrome = hereditary nephritis; the mutation is in collagen IV (COL4A5), with deletion as the commonest type. (Book p783)]",
+          "questionIds": [
+            "MED-C15-001"
+          ]
+        },
+        {
+          "element": "p783-e002",
+          "page": 783,
+          "source": "Fill up: In Alport syndrome the commonest type of COL4A5 mutation is a ______. [Mutation in collagen IV (COL4A5): the commonest is a deletion. (Book p783)]",
+          "questionIds": [
+            "MED-C15-002"
+          ]
+        },
+        {
+          "element": "p783-e003",
+          "page": 783,
+          "source": "Match each type IV collagen heterotrimer with the basement membrane in which it is seen — 1) α1–α1–α2  2) α3–α4–α5  3) α5–α5–α6 … A) Seen from birth  B) Skin basement membrane  C) GBM, cochlea and ocular BM [Type IV collagen table: α1-α1-α2 is seen from birth; α3-α4-α5 is found in the GBM, cochlea and ocular BM; α5-α5-α6 is found in skin basement membrane.]",
+          "questionIds": [
+            "MED-C15-003"
+          ]
+        },
+        {
+          "element": "p783-e004",
+          "page": 783,
+          "source": "Alport syndrome damages the glomerular basement membrane, cochlea and ocular basement membrane but the skin basement membrane is spared in the classical form. Which collagen chain combination explains this distribution? [The α3-α4-α5 heterotrimer is seen in the GBM, cochlea and ocular BM — the three sites involved in Alport syndrome. α5-α5-α6 marks skin basement membra]",
+          "questionIds": [
+            "MED-C15-004"
+          ]
+        },
+        {
+          "element": "p783-e005",
+          "page": 783,
+          "source": "The α1–α1–α2 collagen IV trimer is present in basement membranes from birth. [The type IV collagen table lists α1-α1-α2 against 'birth'. (Book p783)]",
+          "questionIds": [
+            "MED-C15-005"
+          ]
+        },
+        {
+          "element": "p783-e006",
+          "page": 783,
+          "source": "Which site is NOT listed as a location of the α3–α4–α5 collagen IV network? [α3-α4-α5 is seen in GBM, cochlea and ocular BM; skin basement membrane contains α5-α5-α6. (Book p783)]",
+          "questionIds": [
+            "MED-C15-006"
+          ]
+        },
+        {
+          "element": "p783-e007",
+          "page": 783,
+          "source": "Match the mode of inheritance with the affected chain in Alport syndrome — 1) X-linked (80%)  2) Autosomal recessive (15%)  3) Autosomal dominant (5%) … A) α3/α4  B) α3/α4  C) α5 [Inheritance table: X-linked (80%) affects the α5 chain; AR (15%) and AD (5%) both affect α3/α4. (Book p783)]",
+          "questionIds": [
+            "MED-C15-007"
+          ]
+        },
+        {
+          "element": "p783-e008",
+          "page": 783,
+          "source": "The commonest mode of inheritance in Alport syndrome, X-linked, accounts for: [X-linked inheritance accounts for 80% of Alport syndrome, affecting the α5 chain, with ESRD by 30 years in males and females as carriers. (Book p783)]",
+          "questionIds": [
+            "MED-C15-008"
+          ]
+        },
+        {
+          "element": "p783-e009",
+          "page": 783,
+          "source": "A man with X-linked Alport syndrome reaches end-stage renal disease. According to the table, ESRD occurs: [X-linked (80%) Alport syndrome: ESRD by 30 years in males (♂), with females (♀) as carriers. (Book p783)]",
+          "questionIds": [
+            "MED-C15-009"
+          ]
+        },
+        {
+          "element": "p783-e010",
+          "page": 783,
+          "source": "In the AR form of Alport syndrome, ESRD occurs by 40 years and affects both females and males. [AR (15%) affects α3/α4 and causes ESRD by 40 years in both ♀ and ♂. (Book p783)]",
+          "questionIds": [
+            "MED-C15-010"
+          ]
+        },
+        {
+          "element": "p783-e011",
+          "page": 783,
+          "source": "Match each Alport inheritance pattern with its features — 1) X-linked (80%)  2) Autosomal recessive (15%)  3) Autosomal dominant (5%) … A) ESRD by 30 years in males; females are carriers  B) Mild disease in females and males  C) ESRD by 40 years in females and males [Inheritance table: X-linked (80%, α5) gives ESRD by 30 years in males with females as carriers; AR (15%, α3/α4) gives ESRD by 40 years in both sexes; ]",
+          "questionIds": [
+            "MED-C15-011"
+          ]
+        },
+        {
+          "element": "p783-e012",
+          "page": 783,
+          "source": "Fill up: Autosomal dominant Alport syndrome (5%) produces ______ disease in females and males. [AD (5%) Alport syndrome affects α3/α4 and produces mild disease in both females and males. (Book p783)]",
+          "questionIds": [
+            "MED-C15-012"
+          ]
+        },
+        {
+          "element": "p783-e013",
+          "page": 783,
+          "source": "Autosomal recessive Alport syndrome accounts for what proportion of cases? [Alport inheritance: X-linked 80%, AR 15%, AD 5%. (Book p783)]",
+          "questionIds": [
+            "MED-C15-013"
+          ]
+        },
+        {
+          "element": "p783-e014",
+          "page": 783,
+          "source": "Match the timeline in Alport syndrome with the feature — 1) 5 years  2) 10 years  3) 10–15 years  4) 25–30 years … A) Asymptomatic microhematuria  B) Proteinuria + hypertension  C) ESRD  D) Creatinine rises [Timeline: 5 years asymptomatic microhaematuria; 10 years proteinuria + hypertension; 10–15 years rising creatinine; 25–30 years ESRD. (Book p783)]",
+          "questionIds": [
+            "MED-C15-014"
+          ]
+        },
+        {
+          "element": "p783-e015",
+          "page": 783,
+          "source": "A 12-year-old boy with a strong family history of renal failure has a rising serum creatinine. On the clinical-features table, at which point in the timeline does this occur? [The Alport timeline places 'creatinine ↑' at 10–15 years, after microhaematuria at 5 years and proteinuria with HTN at 10 years. (Book p783)]",
+          "questionIds": [
+            "MED-C15-015"
+          ]
+        },
+        {
+          "element": "p783-e016",
+          "page": 783,
+          "source": "The earliest renal manifestation in Alport syndrome (5 years) is asymptomatic microhematuria. [Timeline, 5 years: asymptomatic microhaematuria; proteinuria with hypertension appears only at 10 years. (Book p783)]",
+          "questionIds": [
+            "MED-C15-016"
+          ]
+        },
+        {
+          "element": "p783-e017",
+          "page": 783,
+          "source": "The ENT manifestation of Alport syndrome at 15 years is sensorineural hearing loss that characteristically begins at: [ENT manifestation at 15 years: SNHL of low frequency (m/c) which subsequently becomes high frequency. (Book p783)]",
+          "questionIds": [
+            "MED-C15-017"
+          ]
+        },
+        {
+          "element": "p783-e018",
+          "page": 783,
+          "source": "Fill up: The hearing loss of Alport syndrome is sensorineural, abbreviated ______. [Alport syndrome produces SNHL (sensorineural hearing loss), initially low frequency, later high frequency. (Book p783)]",
+          "questionIds": [
+            "MED-C15-018"
+          ]
+        },
+        {
+          "element": "p783-e019",
+          "page": 783,
+          "source": "A 20-year-old man with Alport syndrome is examined at the slit lamp. The pathognomonic ocular sign is: [Ocular manifestations at 20 years: anterior lenticonus (pathognomonic), with an oil droplet appearance on slit lamp. (Book p783)]",
+          "questionIds": [
+            "MED-C15-019"
+          ]
+        },
+        {
+          "element": "p783-e020",
+          "page": 783,
+          "source": "Fill up: The pathognomonic ocular manifestation of Alport syndrome is anterior ______. [Anterior lenticonus — marked pathognomonic in the table — with an oil droplet appearance on slit lamp at 20 years. (Book p783)]",
+          "questionIds": [
+            "MED-C15-020"
+          ]
+        },
+        {
+          "element": "p783-e021",
+          "page": 783,
+          "source": "The ocular findings described in Alport syndrome are an oil droplet appearance on slit lamp and anterior lenticonus. [Ocular manifestations at 20 years: anterior lenticonus (pathognomonic) and oil droplet appearance on slit lamp. (Book p783)]",
+          "questionIds": [
+            "MED-C15-021"
+          ]
+        },
+        {
+          "element": "p783-e022",
+          "page": 783,
+          "source": "All but one of the following appear in the Alport clinical-features timeline. Which is the odd one out? [The 5-year entry is asymptomatic microhaematuria; proteinuria (with HTN) appears at 10 years, and ESRD at 25–30 years. (Book p783)]",
+          "questionIds": [
+            "MED-C15-022"
+          ]
+        },
+        {
+          "element": "p783-e023",
+          "page": 783,
+          "source": "A patient with Alport syndrome presents at 27 years with uraemic symptoms — fitting the last row of the clinical-features table, which reads: [The final timeline row of the Alport table is ESRD at 25–30 years. (Book p783)]",
+          "questionIds": [
+            "MED-C15-023"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 784,
+      "pdfPage": 25,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p784 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p784.",
+      "elements": [
+        {
+          "element": "p784-e001",
+          "page": 784,
+          "source": "Match each Alport syndrome finding with the investigation that shows it — 1) Splitting and lamellation of the lamina densa  2) No immune deposits  3) Normal glomerular architecture on routine staining … A) Immunofluorescence  B) Light microscopy  C) Electron microscopy [In Alport syndrome light microscopy and immunofluorescence are normal, the diagnosis resting on electron microscopy, which shows splitting and lamella]",
+          "questionIds": [
+            "MED-C15-024"
+          ]
+        },
+        {
+          "element": "p784-e002",
+          "page": 784,
+          "source": "The electron-microscopy appearance described in Alport syndrome is: [EM in Alport syndrome: splitting + lamellation of the lamina densa, alternating thick and thin foci, giving a basket-weave appearance. (Book p784)]",
+          "questionIds": [
+            "MED-C15-025"
+          ]
+        },
+        {
+          "element": "p784-e003",
+          "page": 784,
+          "source": "Light microscopy and immunofluorescence are typically normal in Alport syndrome, the diagnosis resting on electron microscopy. [Investigation in Alport syndrome: LM and IF are normal; EM shows splitting/lamellation of the lamina densa with a basket-weave pattern. (Book p784)]",
+          "questionIds": [
+            "MED-C15-026"
+          ]
+        },
+        {
+          "element": "p784-e004",
+          "page": 784,
+          "source": "The treatment given for Alport syndrome in the book is: [Rx in Alport syndrome: transplant — with the post-transplant complication of Goodpasture syndrome (antibody against α3). (Book p784)]",
+          "questionIds": [
+            "MED-C15-027"
+          ]
+        },
+        {
+          "element": "p784-e005",
+          "page": 784,
+          "source": "What percentage of Alport patients develop Goodpasture syndrome as a complication after transplantation? [Complication post-transplant in Alport syndrome: 5% develop Goodpasture syndrome, from antibodies against α3 (collagen). (Book p784)]",
+          "questionIds": [
+            "MED-C15-028"
+          ]
+        },
+        {
+          "element": "p784-e006",
+          "page": 784,
+          "source": "A man with Alport syndrome received a kidney transplant; 8 months later anti-GBM antibody is detected. Which explanation fits the book? [Alport syndrome post-transplant: 5% develop Goodpasture syndrome due to antibody against α3, because the native α3 had never been 'seen' by the immune]",
+          "questionIds": [
+            "MED-C15-029"
+          ]
+        },
+        {
+          "element": "p784-e007",
+          "page": 784,
+          "source": "Thin GBM disease is inherited as and caused by: [Thin GBM disease: AD, COL4A4/A3 mutation. (Book p784)]",
+          "questionIds": [
+            "MED-C15-030"
+          ]
+        },
+        {
+          "element": "p784-e008",
+          "page": 784,
+          "source": "Match thin GBM disease features with their descriptions — 1) Clinical features  2) Light microscopy and IF  3) Electron microscopy … A) Uniformly thin (<200–300 nm)  B) Normal  C) Microscopic haematuria (<5 years) with good prognosis [Thin GBM disease: microscopic haematuria (<5 years) with good prognosis; LM and IF normal; EM shows a uniformly thin GBM (<200–300 nm). (Book p784)]",
+          "questionIds": [
+            "MED-C15-031"
+          ]
+        },
+        {
+          "element": "p784-e009",
+          "page": 784,
+          "source": "On electron microscopy, the glomerular basement membrane in thin GBM disease measures: [EM in thin GBM disease: uniformly thin GBM, <200–300 nm. (Book p784)]",
+          "questionIds": [
+            "MED-C15-032"
+          ]
+        },
+        {
+          "element": "p784-e010",
+          "page": 784,
+          "source": "Thin GBM disease usually has a good prognosis, presenting with microscopic haematuria below 5 years of age. [Thin GBM disease clinical features: microscopic haematuria (<5 years) and good prognosis; LM/IF are normal with EM showing a uniformly thin GBM. (Book]",
+          "questionIds": [
+            "MED-C15-033"
+          ]
+        },
+        {
+          "element": "p784-e011",
+          "page": 784,
+          "source": "All but one of the following are seen in thin GBM disease. Which is the odd one out? [Basket-weave splitting/lamellation of the lamina densa belongs to Alport syndrome; thin GBM disease simply shows a uniformly thin GBM on EM. (Book p78]",
+          "questionIds": [
+            "MED-C15-034"
+          ]
+        },
+        {
+          "element": "p784-e012",
+          "page": 784,
+          "source": "Fabry disease is an X-linked lysosomal storage disease caused by a defect in: [Fabry disease is an X-linked lysosomal storage disease caused by a defect in α-galactosidase. (Book p784)]",
+          "questionIds": [
+            "MED-C15-035"
+          ]
+        },
+        {
+          "element": "p784-e013",
+          "page": 784,
+          "source": "Match each Fabry feature with its description — 1) Angiokeratoma  2) Accumulation in vessels  3) Renal involvement … A) Appears in the 2nd decade  B) Asymptomatic microhaematuria + proteinuria, the earliest, with ESRD by the 4th–5th decade  C) Heart, cerebrovascular and cornea verticillata [Fabry features: acroparesthesia; angiokeratoma (2nd decade); accumulation in vessels of heart, cerebrovascular system and cornea verticillata; renal —]",
+          "questionIds": [
+            "MED-C15-036"
+          ]
+        },
+        {
+          "element": "p784-e014",
+          "page": 784,
+          "source": "The earliest renal abnormality in Fabry disease is: [Renal involvement in Fabry disease: asymptomatic microhaematuria + proteinuria is the earliest, culminating in ESRD by the 4th–5th decade. (Book p784)]",
+          "questionIds": [
+            "MED-C15-037"
+          ]
+        },
+        {
+          "element": "p784-e015",
+          "page": 784,
+          "source": "In Fabry disease, ESRD develops by the: [Renal feature of Fabry disease: asymptomatic microhaematuria + proteinuria (earliest) with ESRD by the 4th–5th decade. (Book p784)]",
+          "questionIds": [
+            "MED-C15-038"
+          ]
+        },
+        {
+          "element": "p784-e016",
+          "page": 784,
+          "source": "Fill up: The skin lesion of Fabry disease shown in the figure is ______, appearing in the 2nd decade. [Fabry disease produces angiokeratoma (in the 2nd decade), shown in the accompanying figure. (Book p784)]",
+          "questionIds": [
+            "MED-C15-039"
+          ]
+        },
+        {
+          "element": "p784-e017",
+          "page": 784,
+          "source": "All but one of the following are listed as sites of vessel accumulation in Fabry disease. Which is the odd one out? [Accumulation in vessels is described for heart, cerebrovascular system and cornea verticillata; the renal features are microhaematuria/proteinuria and]",
+          "questionIds": [
+            "MED-C15-040"
+          ]
+        },
+        {
+          "element": "p784-e018",
+          "page": 784,
+          "source": "A 32-year-old man has acroparesthesia, angiokeratomas over the bathing-trunk area and proteinuria. Urine microscopy under polarised light shows lipid deposits. Which investigation matches Fabry disease? [Investigations in Fabry disease: urine shows maltese cross deposits under polarised light; renal biopsy shows vacuolation of podocytes. (Book p784)]",
+          "questionIds": [
+            "MED-C15-041"
+          ]
+        },
+        {
+          "element": "p784-e019",
+          "page": 784,
+          "source": "Match each Fabry disease finding with its investigation — 1) Maltese cross deposits  2) Vacuolation of podocytes  3) Angiokeratoma in the 2nd decade … A) Skin examination  B) Renal biopsy  C) Urine under polarised light [Fabry investigations: maltese cross lipid deposits in urine under polarised light and vacuolation of podocytes on renal biopsy; angiokeratoma appears ]",
+          "questionIds": [
+            "MED-C15-042"
+          ]
+        },
+        {
+          "element": "p784-e020",
+          "page": 784,
+          "source": "Fill up: The lipid deposits in the urine of Fabry disease appear as ______ crosses under polarised light. [Urine in Fabry disease: maltese cross deposits under polarised light, from lipid-laden cells. (Book p784)]",
+          "questionIds": [
+            "MED-C15-043"
+          ]
+        },
+        {
+          "element": "p784-e021",
+          "page": 784,
+          "source": "A young man with Fabry disease has both renal and extrarenal disease. Which extrarenal symptom is listed first among his features? [The features list of Fabry disease begins with acroparesthesia, then angiokeratoma (2nd decade), vessel accumulation in heart/cerebrovascular/cornea, ]",
+          "questionIds": [
+            "MED-C15-044"
+          ]
+        },
+        {
+          "element": "p784-e022",
+          "page": 784,
+          "source": "Fabry disease is inherited in an X-linked manner and is a lysosomal storage disorder. [Fabry disease: X-linked lysosomal storage disease due to α-galactosidase defect. (Book p784)]",
+          "questionIds": [
+            "MED-C15-045"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 785,
+      "pdfPage": 26,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p785 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p785.",
+      "elements": [
+        {
+          "element": "p785-e001",
+          "page": 785,
+          "source": "Nail-patella syndrome is inherited as and caused by: [Nail-patella syndrome: AD, LMX1B mutation. (Book p785)]",
+          "questionIds": [
+            "MED-C15-046"
+          ]
+        },
+        {
+          "element": "p785-e002",
+          "page": 785,
+          "source": "Match the nail-patella syndrome features — 1) Nails  2) Knee  3) Pelvis X-ray  4) Renal … A) Absent patella  B) Adolescent microhaematuria + proteinuria, usually benign  C) Dystrophic nails  D) Iliac horn [Clinical features of nail-patella syndrome: dystrophic nails, absent patella, iliac horn, and renal manifestation — adolescent microhaematuria + prote]",
+          "questionIds": [
+            "MED-C15-047"
+          ]
+        },
+        {
+          "element": "p785-e003",
+          "page": 785,
+          "source": "A 16-year-old has microhaematuria and mild proteinuria with absent patellae and dystrophic nails. A pelvic radiograph shows an iliac horn. The renal prognosis is: [Renal manifestation of nail-patella syndrome: adolescent microhaematuria + proteinuria, benign, rarely progressing to ESRD. (Book p785)]",
+          "questionIds": [
+            "MED-C15-048"
+          ]
+        },
+        {
+          "element": "p785-e004",
+          "page": 785,
+          "source": "Fill up: On X-ray, nail-patella syndrome shows an iliac ______. [Nail-patella syndrome features include the iliac horn, shown in the pelvic radiograph labelled 'iliac horns'. (Book p785)]",
+          "questionIds": [
+            "MED-C15-049"
+          ]
+        },
+        {
+          "element": "p785-e005",
+          "page": 785,
+          "source": "The investigation finding on electron microscopy in nail-patella syndrome is: [Investigation in nail-patella syndrome: EM shows a moth-eaten appearance (figure 'moth eaten appearance'). (Book p785)]",
+          "questionIds": [
+            "MED-C15-050"
+          ]
+        },
+        {
+          "element": "p785-e006",
+          "page": 785,
+          "source": "Match each familial glomerular syndrome with its electron-microscopy signature — 1) Alport syndrome  2) Thin GBM disease  3) Nail-patella syndrome … A) Uniformly thin basement membrane (<200–300 nm)  B) Moth-eaten appearance  C) Splitting + lamellation of lamina densa (basket weave) [EM signatures: Alport → splitting/lamellation of the lamina densa with basket-weave and alternate thick/thin foci; thin GBM disease → uniformly thin (]",
+          "questionIds": [
+            "MED-C15-051"
+          ]
+        },
+        {
+          "element": "p785-e007",
+          "page": 785,
+          "source": "Dystrophic nails and an absent patella are clinical features of nail-patella syndrome along with an iliac horn. [Nail-patella syndrome features: dystrophic nails, absent patella, iliac horn and renal (adolescent microhaematuria + proteinuria, benign). (Book p785)]",
+          "questionIds": [
+            "MED-C15-052"
+          ]
+        },
+        {
+          "element": "p785-e008",
+          "page": 785,
+          "source": "Nail-patella syndrome's renal involvement (adolescent microhaematuria + proteinuria) is classified as: [Renal manifestation of nail-patella syndrome: adolescent microhaematuria + proteinuria — benign (rarely progress to ESRD). (Book p785)]",
+          "questionIds": [
+            "MED-C15-053"
+          ]
+        },
+        {
+          "element": "p785-e009",
+          "page": 785,
+          "source": "All but one of the following belong to nail-patella syndrome. Which is the odd one out? [Anterior lenticonus is the pathognomonic ocular sign of Alport syndrome; nail-patella syndrome shows dystrophic nails, absent patella, iliac horn and ]",
+          "questionIds": [
+            "MED-C15-054"
+          ]
+        }
+      ]
+    }
+  ]
+}

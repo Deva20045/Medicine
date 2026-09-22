@@ -1,0 +1,275 @@
+{
+  "chapter": 34,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+  "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+  "pdfOffset": 823,
+  "pageRange": "874-876",
+  "contentSha256": "ab07517888a296e3322f4bdb31c91fcc8849bd281613ad84b0ea5ff17958e0a8",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch34 p874-876: auto-generated source checklist from existing 29 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 874,
+      "pdfPage": 51,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p874 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p874.",
+      "elements": [
+        {
+          "element": "p874-e001",
+          "page": 874,
+          "source": "Total body calcium (1000–1300 g) resides in bones to the extent of: [99.3% bones, 0.6% soft tissue, 0.1% ECF. (Book p874)]",
+          "questionIds": [
+            "MED-C34-001"
+          ]
+        },
+        {
+          "element": "p874-e002",
+          "page": 874,
+          "source": "Match the soft-tissue calcium fractions — 1) Free (ionized)  2) Bound to albumin  3) Bound to other proteins … A) 40%  B) 12%  C) 48% [Soft-tissue calcium: 48% free ionized, 40% albumin-bound, 12% other proteins. (Book p874)]",
+          "questionIds": [
+            "MED-C34-002"
+          ]
+        },
+        {
+          "element": "p874-e003",
+          "page": 874,
+          "source": "The normal corrected calcium range is: [Normal corrected Ca2+ 8.6–10.3 mg/dL. (Book p874)]",
+          "questionIds": [
+            "MED-C34-003"
+          ]
+        },
+        {
+          "element": "p874-e004",
+          "page": 874,
+          "source": "Corrected Ca2+ = Total Ca2+ + ___. [Corrected Ca = Total Ca + 0.8 (4 − albumin level). (Book p874)]",
+          "questionIds": [
+            "MED-C34-004"
+          ]
+        },
+        {
+          "element": "p874-e005",
+          "page": 874,
+          "source": "Corrected calcium defines hypocalcaemia below and hypercalcaemia above: [<8.4 mg/dL hypocalcaemia; >10.5 mg/dL hypercalcaemia. (Book p874)]",
+          "questionIds": [
+            "MED-C34-005"
+          ]
+        },
+        {
+          "element": "p874-e006",
+          "page": 874,
+          "source": "Free ionized calcium functions include sensitizing CaSR, myocyte contractility, neuromuscular activity and: [Functions: sensitize CaSR, myocyte contractility, neuromuscular activity, bone mineralization. (Book p874)]",
+          "questionIds": [
+            "MED-C34-006"
+          ]
+        },
+        {
+          "element": "p874-e007",
+          "page": 874,
+          "source": "‘In acidosis, H+ competes with calcium for albumin, raising the free Ca2+.’ [↑ H+ (acidosis) → ↑ free Ca2+; ↓ pH by 0.1 unit → ↑ Ca2+ by 0.1 meq/L. (Book p874)]",
+          "questionIds": [
+            "MED-C34-007"
+          ]
+        },
+        {
+          "element": "p874-e008",
+          "page": 874,
+          "source": "A fall in pH by 0.1 unit raises ionized calcium by: [↓ pH 0.1 unit → ↑ Ca2+ 0.1 meq/L. (Book p874)]",
+          "questionIds": [
+            "MED-C34-008"
+          ]
+        },
+        {
+          "element": "p874-e009",
+          "page": 874,
+          "source": "Plasma calcium equals: [Plasma Ca = free Ca2+ + Ca2+ complexed to anions. (Book p874)]",
+          "questionIds": [
+            "MED-C34-009"
+          ]
+        },
+        {
+          "element": "p874-e010",
+          "page": 874,
+          "source": "Calcium absorption occurs in the proximal small intestine with the order: [Site: proximal small intestine (jejunum > duodenum); ~20% net absorption (~200 mg), enhanced by acid. (Book p874)]",
+          "questionIds": [
+            "MED-C34-010"
+          ]
+        },
+        {
+          "element": "p874-e011",
+          "page": 874,
+          "source": "Match absorption route — 1) 95% active transcellular  2) 5% passive paracellular … A) Independent of calcitriol  B) Tightly controlled by calcitriol [95% active transcellular (calcitriol-controlled); 5% passive paracellular (independent). (Book p874)]",
+          "questionIds": [
+            "MED-C34-011"
+          ]
+        },
+        {
+          "element": "p874-e012",
+          "page": 874,
+          "source": "Calcitriol drives transcellular calcium absorption by: [Calcitriol binds nuclear receptors, releases calbindin, activates TRPV5/6; calcium exits via Ca2+ ATPase. (Book p874)]",
+          "questionIds": [
+            "MED-C34-012"
+          ]
+        },
+        {
+          "element": "p874-e013",
+          "page": 874,
+          "source": "Free ionized calcium functions listed are sensitizing CaSR, myocyte contractility, neuromuscular activity and bone mineralization. Pick the ODD ONE OUT: [Ionized Ca sensitizes CaSR and drives contractility, neuromuscular activity and mineralization — suppression is the odd one. (Book p874)]",
+          "questionIds": [
+            "MED-C34-013"
+          ]
+        },
+        {
+          "element": "p874-e014",
+          "page": 874,
+          "source": "A patient's ABG shows pH 7.25. The expected effect on serum calcium is: [H+ competes for albumin: acidosis increases free Ca; ↓pH 0.1 → ↑Ca 0.1 meq/L. (Book p874)]",
+          "questionIds": [
+            "MED-C34-014"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 875,
+      "pdfPage": 52,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p875 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p875.",
+      "elements": [
+        {
+          "element": "p875-e001",
+          "page": 875,
+          "source": "Daily urinary calcium loss is approximately: [~200 mg lost in urine; 4 mg/kg/24 hours; >4 mg/kg/day = hypercalciuria. (Book p875)]",
+          "questionIds": [
+            "MED-C34-015"
+          ]
+        },
+        {
+          "element": "p875-e002",
+          "page": 875,
+          "source": "Match the ‘4/7/11’ stone thresholds — 1) >4 mg/kg/24 hr  2) >7 mg/24 hr  3) <11 mg/kg/24 hr … A) Hyperuricosuria (2nd m/c)  B) Hypocitraturia  C) Hypercalciuria (m/c) [m/c causes of stones: hypercalciuria >4 mg/kg/24 hr (m/c), hyperuricosuria >7 mg/24 hr (2nd m/c), hypocitraturia <11 mg/kg/24 hr. (Book p875)]",
+          "questionIds": [
+            "MED-C34-016"
+          ]
+        },
+        {
+          "element": "p875-e003",
+          "page": 875,
+          "source": "Milk-alkali syndrome begins with excess calcium consumption above: [Excess Ca2+ consumption >4 g/day → ↑ paracellular Ca2+ entry. (Book p875)]",
+          "questionIds": [
+            "MED-C34-017"
+          ]
+        },
+        {
+          "element": "p875-e004",
+          "page": 875,
+          "source": "In milk-alkali syndrome, hypercalcaemia activates CaSR which then: [Hypercalcaemia (+) CaSR (−) → ↓ Ca2+ absorption and ↓ ADH → volume depletion → RAAS → metabolic alkalosis; also hypercalciuria → stones. (Book p875)]",
+          "questionIds": [
+            "MED-C34-018"
+          ]
+        },
+        {
+          "element": "p875-e005",
+          "page": 875,
+          "source": "Match renal calcium handling — 1) PCT  2) TAL  3) DCT … A) 25%, paracellular, PTH-dependent  B) 10%, active transport, most dependent  C) 65%, paracellular, PTH-independent [PCT 65% paracellular independent; TAL 25% paracellular dependent; DCT 10% active transport most dependent. (Book p875)]",
+          "questionIds": [
+            "MED-C34-019"
+          ]
+        },
+        {
+          "element": "p875-e006",
+          "page": 875,
+          "source": "A rise in ionized calcium triggers, within SECONDS, the: [Within seconds: parathyroid CaSR (−) PTH release → hypocalcaemia (immediate). (Book p875)]",
+          "questionIds": [
+            "MED-C34-020"
+          ]
+        },
+        {
+          "element": "p875-e007",
+          "page": 875,
+          "source": "Within a FEW DAYS, raised ionized calcium acts on the kidney (TAL) CaSR to cause: [Delayed response: kidney (TAL) CaSR (−) Ca2+ reabsorption → hypercalciuria; vice-versa when ionized calcium falls. (Book p875)]",
+          "questionIds": [
+            "MED-C34-021"
+          ]
+        },
+        {
+          "element": "p875-e008",
+          "page": 875,
+          "source": "In the TAL diagram, the claudins shown regulating paracellular calcium are: [TAL regulation involves CLDN 16/19 and claudin-14, with PTH raising absorption and CaSR raising excretion. (Book p875)]",
+          "questionIds": [
+            "MED-C34-022"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 876,
+      "pdfPage": 53,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p876 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p876.",
+      "elements": [
+        {
+          "element": "p876-e001",
+          "page": 876,
+          "source": "Match half-lives — 1) PTH  2) Calcitriol  3) 25(OH)D3 … A) 6–8 hours  B) 2–3 weeks  C) 2–4 minutes [PTH 2–4 min; calcitriol 6–8 hours; 25(OH)D3 2–3 weeks (used for blood level estimations). (Book p876)]",
+          "questionIds": [
+            "MED-C34-023"
+          ]
+        },
+        {
+          "element": "p876-e002",
+          "page": 876,
+          "source": "The metabolite used for blood-level estimation of vitamin D (longest half-life) is: [25(OH)D3 (2–3 weeks) is used for blood level estimations. (Book p876)]",
+          "questionIds": [
+            "MED-C34-024"
+          ]
+        },
+        {
+          "element": "p876-e003",
+          "page": 876,
+          "source": "A GAIN-of-function CaSR mutation causes: [Gain-of-function CaSR → Bartter type V, AD (all other Bartter types AR). (Book p876)]",
+          "questionIds": [
+            "MED-C34-025"
+          ]
+        },
+        {
+          "element": "p876-e004",
+          "page": 876,
+          "source": "‘Bartter syndrome type V is autosomal dominant, whereas all other Bartter types are autosomal recessive.’ [Type V AD; all other Bartter types AR. (Book p876)]",
+          "questionIds": [
+            "MED-C34-026"
+          ]
+        },
+        {
+          "element": "p876-e005",
+          "page": 876,
+          "source": "In Bartter type V, excessive CaSR activation causes: [Excessive CaSR activation → ↑↑↑ excretion → hypocalcaemia; all other Bartters show hypercalcaemia. (Book p876)]",
+          "questionIds": [
+            "MED-C34-027"
+          ]
+        },
+        {
+          "element": "p876-e006",
+          "page": 876,
+          "source": "A LOSS-of-function CaSR mutation (seen in children, AD) produces: [Loss-of-function → FHH, autosomal dominant, seen in children. (Book p876)]",
+          "questionIds": [
+            "MED-C34-028"
+          ]
+        },
+        {
+          "element": "p876-e007",
+          "page": 876,
+          "source": "The FHH pathway is: [Failure of CaSR activation → no excretion → complete reabsorption → hypocalciuria + hypercalcaemia. (Book p876)]",
+          "questionIds": [
+            "MED-C34-029"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,798 @@
+{
+  "chapter": 70,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+  "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+  "pdfOffset": 1034,
+  "pageRange": "1039-1044",
+  "contentSha256": "bd9c9a74f12ae6dddd6a09017d5f058d4aac5ddcf1d4699e4ff403bc83eb1efb",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch70 p1039-1044: auto-generated source checklist from existing 91 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 1039,
+      "pdfPage": 5,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1039 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1039.",
+      "elements": [
+        {
+          "element": "p1039-e001",
+          "page": 1039,
+          "source": "Fill up (Progression, Part 2): the printed chain runs Acute hepatitis → ______ → Cirrhosis, and cirrhosis ends in the two drawn end-points ______. ['Acute Hepatitis → Chronic Hepatitis → Cirrhosis', with the cirrhosis box arrowed to 'HCC' and 'Liver failure'. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-001"
+          ]
+        },
+        {
+          "element": "p1039-e002",
+          "page": 1039,
+          "source": "In the p1039 progression diagram, cirrhosis arrows into two end-points. Which of these is NOT one of them? [Only 'HCC' and 'Liver failure' are drawn from the cirrhosis box. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-002"
+          ]
+        },
+        {
+          "element": "p1039-e003",
+          "page": 1039,
+          "source": "Judge the Part-2 progression diagram: I Cirrhosis is drawn downstream of chronic hepatitis. II Recovery is drawn as an end-point of cirrhosis. [Acute → chronic hepatitis → cirrhosis → HCC / liver failure; no recovery branch is drawn from cirrhosis. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-003"
+          ]
+        },
+        {
+          "element": "p1039-e004",
+          "page": 1039,
+          "source": "Under 'Transmission (Acute)' the page lists three routes. Which one is NOT among them? [The printed arms are Sexual, Per-cutaneous and Blood transfusion; vertical transmission is handled in its own block below. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-004"
+          ]
+        },
+        {
+          "element": "p1039-e005",
+          "page": 1039,
+          "source": "How is vertical transmission described in this block? ['Transmission : vertical (mother to child).' (Book p1039)]",
+          "questionIds": [
+            "MED-C70-005"
+          ]
+        },
+        {
+          "element": "p1039-e006",
+          "page": 1039,
+          "source": "Vertical transmission block — match — 1) HBeAg positive mother 2) HBeAg negative mother … A) 10% chances B) 90% chances [Below HBeAg the block prints '90% chances' and '10% chances' for transmission to the child. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-006"
+          ]
+        },
+        {
+          "element": "p1039-e007",
+          "page": 1039,
+          "source": "Fill up: 'Time of development : ______ trimester (______)'. ['Time of development : 3rd trimester (maximum)'. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-007"
+          ]
+        },
+        {
+          "element": "p1039-e008",
+          "page": 1039,
+          "source": "At what gestation does the pregnancy block advise the check-up? ['Treatment in Pregnancy : At 28 - 30 week → check-up'. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-008"
+          ]
+        },
+        {
+          "element": "p1039-e009",
+          "page": 1039,
+          "source": "Antenatal HBV DNA comes back above the printed cut-off. What is the next printed step and the threshold used? ['check-up → HBV DNA → > 20,000 → Start treatment'. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-009"
+          ]
+        },
+        {
+          "element": "p1039-e010",
+          "page": 1039,
+          "source": "Judge the pregnancy block: I The antenatal check-up with HBV DNA is timed at 28–30 weeks. II Treatment is started when HBV DNA crosses 20,000. [Both statements reproduce the printed block: check-up at 28–30 weeks, and 'Start treatment' after HBV DNA > 20,000. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-010"
+          ]
+        },
+        {
+          "element": "p1039-e011",
+          "page": 1039,
+          "source": "Fill up (Child after birth): immunoglobulin — HBIg (______ ml); vaccine — ______, with the first dose within ______ hours. ['Child After birth : Immunoglobulin : HBIg (0.5 ml). Vaccine : 0,1,6 / 0,1,6 (1st dose within 12 hours)'. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-011"
+          ]
+        },
+        {
+          "element": "p1039-e012",
+          "page": 1039,
+          "source": "Post-exposure prophylaxis after a needlestick from an HBV-positive patient — what risk figure is printed? ['Needle prick : HBV +ve patient (6-30% chances) → Check for Anti HBs levels'. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-012"
+          ]
+        },
+        {
+          "element": "p1039-e013",
+          "page": 1039,
+          "source": "Needlestick algorithm — match the anti-HBs level to the printed action — 1) > 100 2) 10 – 100 … A) 1 booster to be given B) No need for Ig / vaccine ['> 100 : No need for Ig/vaccine'; '10-100 : 1 booster to be given'. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-013"
+          ]
+        },
+        {
+          "element": "p1039-e014",
+          "page": 1039,
+          "source": "After a needlestick from an HBV-positive source, what is the investigation the page asks for before deciding on prophylaxis? ['Check for Anti HBs levels' is the branch point of the algorithm. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-014"
+          ]
+        },
+        {
+          "element": "p1039-e015",
+          "page": 1039,
+          "source": "Fill up (Sexual-contact exposure): HBIG ______ mL/kg given within ______ days. ['Sexual contact : HBIg : 0.06 mL/kg within 14 days'. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-015"
+          ]
+        },
+        {
+          "element": "p1039-e016",
+          "page": 1039,
+          "source": "Fill up (Percutaneous / transmucosal exposure): HBIG ______ mL/kg given within ______ hours. ['Percutaneous/transmucosal : HBIg : 0.06 ml/kg within 24 hours'. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-016"
+          ]
+        },
+        {
+          "element": "p1039-e017",
+          "page": 1039,
+          "source": "Compare the two post-exposure columns: I Sexual contact allows HBIG up to 14 days. II Percutaneous/transmucosal exposure allows HBIG only up to 24 hours. [Sexual contact: 'within 14 days'; percutaneous/transmucosal: 'within 24 hours'. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-017"
+          ]
+        },
+        {
+          "element": "p1039-e018",
+          "page": 1039,
+          "source": "Post-exposure vaccination — match — 1) Sexual contact 2) Percutaneous/transmucosal … A) Vaccine 0,1,6 months, 1st dose within 1 week B) Vaccine 0,1,6 months, 1st dose within 1 week — identical in both [Both columns print 'Vaccine : 0,1,6 / 0,1,6 months' and '1st dose within 1 week'. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-018"
+          ]
+        },
+        {
+          "element": "p1039-e019",
+          "page": 1039,
+          "source": "Vaccine prophylaxis — match — 1) General population 2) In CKD patient … A) Schedule 0,1,2,6 months; 40 μg / 1 ml; both deltoid (double dose) B) Schedule 0,1,6 months; 20 μg / 0.5 ml; deltoid [General population: 0,1,6 months, 20 μg / 0.5 ml, deltoid. CKD: 0,1,2,6 months, 40 μg / 1 ml, both deltoid (double dose). (Book p1039)]",
+          "questionIds": [
+            "MED-C70-019"
+          ]
+        },
+        {
+          "element": "p1039-e020",
+          "page": 1039,
+          "source": "What route is printed for hepatitis B vaccine prophylaxis in both the general population and the CKD patient? ['Route : im' in both columns. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-020"
+          ]
+        },
+        {
+          "element": "p1039-e021",
+          "page": 1039,
+          "source": "Which of these is NOT printed for the CKD vaccination schedule? [The CKD column prints 0,1,2,6 months, 40 μg / 1 ml and 'Both Deltoid (double dose)'. (Book p1039)]",
+          "questionIds": [
+            "MED-C70-021"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1040,
+      "pdfPage": 6,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1040 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1040.",
+      "elements": [
+        {
+          "element": "p1040-e001",
+          "page": 1040,
+          "source": "The p1040 phase table is built on marker rows. Which is NOT one of the printed row labels? [Printed row labels are HBeAg, Anti-HBe, HBV DNA (and ALT); anti-HBs is not a row label here. (Book p1040)]",
+          "questionIds": [
+            "MED-C70-022"
+          ]
+        },
+        {
+          "element": "p1040-e002",
+          "page": 1040,
+          "source": "Match the phase to the immune state printed under it — 1) Phase I 2) Phase II … A) Immune clearance B) Immune tolerant [Phase I is labelled 'Immune tolerant', Phase II 'Immune clearance'. (Book p1040)]",
+          "questionIds": [
+            "MED-C70-023"
+          ]
+        },
+        {
+          "element": "p1040-e003",
+          "page": 1040,
+          "source": "Fill up: Phase I is 'HBeAg positive ______ infection', lasting ______ years. ['Phase I / HBeAg Positive chronic infection : · 10 - 30 years'. (Book p1040)]",
+          "questionIds": [
+            "MED-C70-024"
+          ]
+        },
+        {
+          "element": "p1040-e004",
+          "page": 1040,
+          "source": "Judge Phase I: I HBsAg and HBeAg are both positive with HBV DNA markedly raised. II ALT is normal, so the page concludes no treatment. [Phase I prints 'HBsAg +ve', 'HBeAg +ve', 'HBV DNA ↑↑' and 'ALT : Normal → No [treatment]'. (Book p1040)]",
+          "questionIds": [
+            "MED-C70-025"
+          ]
+        },
+        {
+          "element": "p1040-e005",
+          "page": 1040,
+          "source": "Which phase is captioned the 'optimal treatment time'? [Phase II carries 'Optimal treatment time'. (Book p1040)]",
+          "questionIds": [
+            "MED-C70-026"
+          ]
+        },
+        {
+          "element": "p1040-e006",
+          "page": 1040,
+          "source": "Match the phase to its descriptor — 1) Phase II 2) Phase III … A) Inactive carrier state B) Mildly symptomatic chronic hepatitis with ALT ↑↑ [Phase II: 'chronic hepatitis : · mildly Symptomatic … ALT ↑ ↑'. Phase III: 'Inactive carrier state'. (Book p1040)]",
+          "questionIds": [
+            "MED-C70-027"
+          ]
+        },
+        {
+          "element": "p1040-e007",
+          "page": 1040,
+          "source": "Phase III (HBeAg-negative chronic infection) is qualified by which population note? ['Phase III / HBeAg Negative chronic infection : · majority population'. (Book p1040)]",
+          "questionIds": [
+            "MED-C70-028"
+          ]
+        },
+        {
+          "element": "p1040-e008",
+          "page": 1040,
+          "source": "Fill up: in Phase III, HBeAg is ______ and HBV DNA is at its ______. ['HBeAg - Normal' with 'HBV DNA : lowest'. (Book p1040)]",
+          "questionIds": [
+            "MED-C70-029"
+          ]
+        },
+        {
+          "element": "p1040-e009",
+          "page": 1040,
+          "source": "An HBeAg-negative patient presents like acute hepatitis — fever, malaise, vomiting, raised serum bilirubin and raised liver enzymes. Which phase does the page label this as? [Phase IV is 'HBeAg Negative chronic hepatitis' with 'Presentation — Acute symptoms : Fever, malaise, Vomiting' and 'Laboratory features : ↑ s. bilirub]",
+          "questionIds": [
+            "MED-C70-030"
+          ]
+        },
+        {
+          "element": "p1040-e010",
+          "page": 1040,
+          "source": "Phase IV presentation — match — 1) Symptoms 2) Laboratory … A) ↑ s. bilirubin, ↑ liver enzyme B) Fever, malaise, vomiting ['Presentation — Acute symptoms : Fever, malaise, Vomiting'; 'Laboratory features : ↑ s. bilirubin, ↑ liver enzyme'. (Book p1040)]",
+          "questionIds": [
+            "MED-C70-031"
+          ]
+        },
+        {
+          "element": "p1040-e011",
+          "page": 1040,
+          "source": "What is printed for Phase V (HBsAg negative)? ['Phase V / HBsAg negative : chronic infection : · No inflammation · minimal fibrosis'. (Book p1040)]",
+          "questionIds": [
+            "MED-C70-032"
+          ]
+        },
+        {
+          "element": "p1040-e012",
+          "page": 1040,
+          "source": "Which finding is NOT printed under Phase V (HBsAg negative)? [Phase V prints 'chronic infection', 'No inflammation' and 'minimal fibrosis' only. (Book p1040)]",
+          "questionIds": [
+            "MED-C70-033"
+          ]
+        },
+        {
+          "element": "p1040-e013",
+          "page": 1040,
+          "source": "A patient looks like acute hepatitis B, but you suspect it is really chronic hepatitis phase IV. Which test does the page print to settle it? [The left block prints 'Acute hepatitis B — Anti HBc IgM +ve'. (Book p1040)]",
+          "questionIds": [
+            "MED-C70-034"
+          ]
+        },
+        {
+          "element": "p1040-e014",
+          "page": 1040,
+          "source": "In the 'Chronic hepatitis phase IV' block, what quantitative HBsAg cut-off is printed for confirmation? ['For confirmation : · quantitative HBs Ag ( > 1000 IU/mL)'. (Book p1040)]",
+          "questionIds": [
+            "MED-C70-035"
+          ]
+        },
+        {
+          "element": "p1040-e015",
+          "page": 1040,
+          "source": "Which is NOT one of the three items printed under 'For confirmation' in the chronic hepatitis phase IV block? [The block lists quantitative HBsAg > 1000 IU/mL, 'Severely Symptomatic' and 'Very high HBV DNA load'; anti-HBc IgM belongs to the acute hepatitis B bl]",
+          "questionIds": [
+            "MED-C70-036"
+          ]
+        },
+        {
+          "element": "p1040-e016",
+          "page": 1040,
+          "source": "Judge the two bottom blocks: I Acute hepatitis B is confirmed by anti-HBc IgM positivity. II Chronic hepatitis phase IV is confirmed by quantitative HBsAg above 1000 IU/mL. [Left block: 'Acute hepatitis B — Anti HBc IgM +ve'. Right block: 'Chronic hepatitis phase IV : For confirmation : · quantitative HBs Ag ( > 1000 IU/mL]",
+          "questionIds": [
+            "MED-C70-037"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1041,
+      "pdfPage": 7,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1041 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1041.",
+      "elements": [
+        {
+          "element": "p1041-e001",
+          "page": 1041,
+          "source": "Fill up (Seroconversion): 'Both markers should be checked before ______ therapy.' ['Seroconversion : Both markers should be checked before immunosuppressive therapy.' (Book p1041)]",
+          "questionIds": [
+            "MED-C70-038"
+          ]
+        },
+        {
+          "element": "p1041-e002",
+          "page": 1041,
+          "source": "Match the two markers the page asks for — 1) First marker 2) Second marker … A) Anti-HBc IgG B) HBsAg [The pair printed before immunosuppressive therapy is HBsAg and anti-HBc IgG. (Book p1041)]",
+          "questionIds": [
+            "MED-C70-039"
+          ]
+        },
+        {
+          "element": "p1041-e003",
+          "page": 1041,
+          "source": "Before immunosuppression, screening shows HBsAg negative but anti-HBc IgG positive. What does this page warn about? [HBsAg -ve with anti-HBc IgG +ve is the pattern arrowed to 'Immunosuppressive therapy → Reactivation'. (Book p1041)]",
+          "questionIds": [
+            "MED-C70-040"
+          ]
+        },
+        {
+          "element": "p1041-e004",
+          "page": 1041,
+          "source": "Judge the seroconversion block: I HBsAg negative with anti-HBc IgG negative is the pattern with no reactivation risk. II HBsAg negative with anti-HBc IgG positive is the carrier pattern that reactivates on immunosuppression. [Two patterns are contrasted: both markers negative, versus HBsAg -ve with anti-HBc IgG +ve, the latter running into reactivation. (Book p1041)]",
+          "questionIds": [
+            "MED-C70-041"
+          ]
+        },
+        {
+          "element": "p1041-e005",
+          "page": 1041,
+          "source": "Clinical features — match — 1) Acute hepatitis column 2) Chronic hepatitis column … A) Asymptomatic presentation, fatigue (most common symptom), fever, extrahepatic manifestations B) Acute hepatitis B, reactivation ['Clinical Features' splits into Acute hepatitis (Acute hepatitis B, Reactivation) and Chronic hepatitis (Asymptomatic presentation, Fatigue — most com]",
+          "questionIds": [
+            "MED-C70-042"
+          ]
+        },
+        {
+          "element": "p1041-e006",
+          "page": 1041,
+          "source": "Which symptom does the page print as the most common symptom of chronic hepatitis B? ['Fatigue (most common symptom)'. (Book p1041)]",
+          "questionIds": [
+            "MED-C70-043"
+          ]
+        },
+        {
+          "element": "p1041-e007",
+          "page": 1041,
+          "source": "Which is NOT one of the rare extrahepatic manifestations listed for chronic hepatitis B? ['Extrahepatic manifestation (Rare) : membranous nephropathy, Polyarteritis Nodosa (30%), Arthralgia'. (Book p1041)]",
+          "questionIds": [
+            "MED-C70-044"
+          ]
+        },
+        {
+          "element": "p1041-e008",
+          "page": 1041,
+          "source": "What figure is printed alongside polyarteritis nodosa in the extrahepatic list? ['Polyarteritis Nodosa (30%)'. (Book p1041)]",
+          "questionIds": [
+            "MED-C70-045"
+          ]
+        },
+        {
+          "element": "p1041-e009",
+          "page": 1041,
+          "source": "Which investigation is printed next to 'Cirrhosis' in the work-up line? ['· Cirrhosis : Fibroscan'. (Book p1041)]",
+          "questionIds": [
+            "MED-C70-046"
+          ]
+        },
+        {
+          "element": "p1041-e010",
+          "page": 1041,
+          "source": "The 'Replicative load' section is divided into which two branches? [Two branches are drawn under 'Replicative load': 'Low Replicative' and 'High Replicative'. (Book p1041)]",
+          "questionIds": [
+            "MED-C70-047"
+          ]
+        },
+        {
+          "element": "p1041-e011",
+          "page": 1041,
+          "source": "Replicative profiles — match — 1) HBV DNA > 20,000 IU/mL 2) HBV DNA > 2,000 IU/mL … A) HBeAg -ve (precore mutation) B) HBeAg +ve ['HBeAg +ve : · HBV DNA > 20,000 IU/mL'; 'HBeAg -ve (Precore mutation) : · HBV DNA > 2,000 IU/mL'. (Book p1041)]",
+          "questionIds": [
+            "MED-C70-048"
+          ]
+        },
+        {
+          "element": "p1041-e012",
+          "page": 1041,
+          "source": "Match the profile to its printed consequences — 1) HBeAg +ve profile 2) HBeAg -ve precore-mutant profile … A) Anti-HBc reactive, progressive liver injury, bad prognosis B) High infectivity, risk of liver injury [HBeAg +ve profile: 'High infectivity · Risk of liver injury'. Precore-mutant profile: '· Anti-HBc reactive · Progressive liver injury · Bad prognosis']",
+          "questionIds": [
+            "MED-C70-049"
+          ]
+        },
+        {
+          "element": "p1041-e013",
+          "page": 1041,
+          "source": "A patient with chronic HBV is HBeAg negative with HBV DNA 3,000 IU/mL. Which printed profile and consequence set applies? [HBeAg -ve with DNA above 2,000 fits the 'HBeAg -ve (Precore mutation)' profile with progressive liver injury and bad prognosis. (Book p1041)]",
+          "questionIds": [
+            "MED-C70-050"
+          ]
+        },
+        {
+          "element": "p1041-e014",
+          "page": 1041,
+          "source": "Which statement is NOT printed for the HBeAg-negative precore-mutant profile? ['High infectivity' belongs to the HBeAg-positive profile; the precore-mutant profile lists anti-HBc reactive, progressive liver injury and bad prognos]",
+          "questionIds": [
+            "MED-C70-051"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1042,
+      "pdfPage": 8,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1042 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1042.",
+      "elements": [
+        {
+          "element": "p1042-e001",
+          "page": 1042,
+          "source": "Fill up (Life cycle): the sub genomic mRNA is translated to give the ______ protein / ______ antigen, which is labelled carcinogenic. ['① Sub genomic mRNA → Translation → x-Protein → HbxAg (Carcinogenic)'. (Book p1042)]",
+          "questionIds": [
+            "MED-C70-052"
+          ]
+        },
+        {
+          "element": "p1042-e002",
+          "page": 1042,
+          "source": "Life cycle — match — 1) Pre genomic mRNA 2) DNA … A) DNA dependent DNA polymerase B) RNA dependent DNA polymerase (reverse transcriptase) ['(a) Pre genomic mRNA' leads to 'RNA dependent DNA polymerase (Reverse transcriptase)' → DNA, then 'DNA dependent DNA polymerase'. (Book p1042)]",
+          "questionIds": [
+            "MED-C70-053"
+          ]
+        },
+        {
+          "element": "p1042-e003",
+          "page": 1042,
+          "source": "Judge the life-cycle diagram: I The pre-genomic RNA step needs the viral RNA-dependent DNA polymerase (reverse transcriptase). II The host enzyme is shown acting on the sub-genomic mRNA branch. ['+ Host enzyme' is drawn on the sub-genomic (x-protein) branch; the pre-genomic branch runs through reverse transcriptase. (Book p1042)]",
+          "questionIds": [
+            "MED-C70-054"
+          ]
+        },
+        {
+          "element": "p1042-e004",
+          "page": 1042,
+          "source": "Which receptor is printed for entry of the Dane particle into the hepatocyte? ['Virion / Dane particle : Na-taurocholate receptor' (NTCP). (Book p1042)]",
+          "questionIds": [
+            "MED-C70-055"
+          ]
+        },
+        {
+          "element": "p1042-e005",
+          "page": 1042,
+          "source": "Fill up: the nuclear form printed in the life cycle is ______ (cccDNA), and its strands are labelled ______. ['Covalent closed circular DNA (cccDNA)' and 'Strands +/-'. (Book p1042)]",
+          "questionIds": [
+            "MED-C70-056"
+          ]
+        },
+        {
+          "element": "p1042-e006",
+          "page": 1042,
+          "source": "Judge the printed note: I Integration of HBV cccDNA with the host genome makes eradication impossible. II It confers a risk of malignancy. ['Note : HBV cccDNA integration with host genome makes it impossible to eradicate. Confers risk of malignancy.' (Book p1042)]",
+          "questionIds": [
+            "MED-C70-057"
+          ]
+        },
+        {
+          "element": "p1042-e007",
+          "page": 1042,
+          "source": "Which viral product is specifically flagged as carcinogenic in the life-cycle diagram? ['x-Protein → HbxAg (Carcinogenic)'. (Book p1042)]",
+          "questionIds": [
+            "MED-C70-058"
+          ]
+        },
+        {
+          "element": "p1042-e008",
+          "page": 1042,
+          "source": "Indication of treatment in acute hepatitis B — the bilirubin criterion as printed? ['Acute hepatitis : Indication of treatment : · S. Bilirubin > 3 mg/dl for 4 weeks'. (Book p1042)]",
+          "questionIds": [
+            "MED-C70-059"
+          ]
+        },
+        {
+          "element": "p1042-e009",
+          "page": 1042,
+          "source": "The second treatment indication printed for acute hepatitis B? ['INR ≥ 1.5' is the second indication listed. (Book p1042)]",
+          "questionIds": [
+            "MED-C70-060"
+          ]
+        },
+        {
+          "element": "p1042-e010",
+          "page": 1042,
+          "source": "Judge the treatment indications for acute hepatitis B: I Serum bilirubin above 3 mg/dl persisting for 4 weeks. II INR of 1.5 or more. [Both are printed under 'Acute hepatitis : Indication of treatment'. (Book p1042)]",
+          "questionIds": [
+            "MED-C70-061"
+          ]
+        },
+        {
+          "element": "p1042-e011",
+          "page": 1042,
+          "source": "Histology captions — match — 1) H&E 2) Immunohistochemistry … A) Immunohistochemical stain for HBsAg showing brownish inclusion B) Hepatocytes with ground glass inclusions ['Hepatocytes with ground glass inclusions' and 'Immunohistochemical stain for HBsAg showing brownish inclusion'. (Book p1042)]",
+          "questionIds": [
+            "MED-C70-062"
+          ]
+        },
+        {
+          "element": "p1042-e012",
+          "page": 1042,
+          "source": "Which stain is used to demonstrate the ground-glass hepatocytes of HBV on this page? [The paired caption reads 'Immunohistochemical stain for HBsAg showing brownish inclusion'. (Book p1042)]",
+          "questionIds": [
+            "MED-C70-063"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1043,
+      "pdfPage": 9,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1043 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1043.",
+      "elements": [
+        {
+          "element": "p1043-e001",
+          "page": 1043,
+          "source": "Treatment tree — match the cirrhosis status to the printed step — 1) Cirrhosis -ve, low infectivity 2) Cirrhosis +ve, compensated 3) Cirrhosis +ve, decompensated … A) Treatment B) Treatment / transplant C) Follow up ['Low infectivity → Follow up'; 'Cirrhosis → Treatment'; 'Decompensated Cirrhosis → Treatment / transplant'. (Book p1043)]",
+          "questionIds": [
+            "MED-C70-064"
+          ]
+        },
+        {
+          "element": "p1043-e002",
+          "page": 1043,
+          "source": "Treatment threshold printed for the HBeAg-positive chronic hepatitis branch? ['HBeAg +ve : HBV DNA > 20,000 IU/mL; ALT > 2 times of upper limit'. (Book p1043)]",
+          "questionIds": [
+            "MED-C70-065"
+          ]
+        },
+        {
+          "element": "p1043-e003",
+          "page": 1043,
+          "source": "Treatment threshold printed for the HBeAg-negative branch? ['HBeAg -ve : HBV DNA > 2,000 IU/mL; ALT > 2 times of upper limit'. (Book p1043)]",
+          "questionIds": [
+            "MED-C70-066"
+          ]
+        },
+        {
+          "element": "p1043-e004",
+          "page": 1043,
+          "source": "Judge the treatment branches: I The HBV DNA threshold for treatment is ten times higher in the HBeAg-positive than in the HBeAg-negative branch. II The ALT criterion is the same in both. [20,000 vs 2,000 IU/mL, with 'ALT > 2 times of upper limit' in both branches. (Book p1043)]",
+          "questionIds": [
+            "MED-C70-067"
+          ]
+        },
+        {
+          "element": "p1043-e005",
+          "page": 1043,
+          "source": "Targets of treatment — match — 1) HBeAg positive 2) HBeAg negative … A) Seroconversion B) ALT normal and suppression of HBV DNA ['Target of treatment : HBeAg -ve : Seroconversion · ALT normal · Suppress HBV DNA' as printed. (Book p1043)]",
+          "questionIds": [
+            "MED-C70-068"
+          ]
+        },
+        {
+          "element": "p1043-e006",
+          "page": 1043,
+          "source": "Fill up: the two printed aims listed under 'Target of treatment' are ______ and ______. ['· ALT normal · Suppress HBV DNA'. (Book p1043)]",
+          "questionIds": [
+            "MED-C70-069"
+          ]
+        },
+        {
+          "element": "p1043-e007",
+          "page": 1043,
+          "source": "Available therapies — match — 1) IFN-α 2) Lamivudine 3) Tenofovir disoproxil 4) Tenofovir alafenamide … A) 300 mg OD, A/e proximal RTA and bone mineral disease B) S/c, about 30% seroconversion, psychosis / autoimmune thyroiditis / marrow suppression C) DOC, latest, 25 mg OD, fewer side effects D) good initial response but YMDD mutation and resistance [IFN-α: S/c, '30% Seroconversion', psychosis, autoimmune thyroiditis, bone marrow suppression. Lamivudine: 'Initially good response', 'YMDD mutatio",
+          "questionIds": [
+            "MED-C70-070"
+          ]
+        },
+        {
+          "element": "p1043-e008",
+          "page": 1043,
+          "source": "Fill up (Interferon): given ______, it achieves about ______ seroconversion. ['IFN-α : S/c · 30% Seroconversion'. (Book p1043)]",
+          "questionIds": [
+            "MED-C70-071"
+          ]
+        },
+        {
+          "element": "p1043-e009",
+          "page": 1043,
+          "source": "Which is NOT a printed limitation of interferon therapy in chronic hepatitis B? ['Limitation : No role in HBeAg -ve patient · No role in cirrhosis · No role in young asian'; nephrotoxicity is listed under lamivudine. (Book p1043)]",
+          "questionIds": [
+            "MED-C70-072"
+          ]
+        },
+        {
+          "element": "p1043-e010",
+          "page": 1043,
+          "source": "Which is NOT a printed adverse effect of interferon in this list? ['A/e : Psychosis · Autoimmune thyroiditis · Bone marrow suppression'. Proximal RTA is a tenofovir disoproxil adverse effect. (Book p1043)]",
+          "questionIds": [
+            "MED-C70-073"
+          ]
+        },
+        {
+          "element": "p1043-e011",
+          "page": 1043,
+          "source": "What is the resistance mechanism printed against lamivudine? ['YMDD mutation → Resistance'. (Book p1043)]",
+          "questionIds": [
+            "MED-C70-074"
+          ]
+        },
+        {
+          "element": "p1043-e012",
+          "page": 1043,
+          "source": "What verdict does the page give for lamivudine plus adefovir combination? [Against 'Lamivudine + Adefovir' the page prints '· No significant benefit'. (Book p1043)]",
+          "questionIds": [
+            "MED-C70-075"
+          ]
+        },
+        {
+          "element": "p1043-e013",
+          "page": 1043,
+          "source": "Dose printed for tenofovir disoproxil fumarate? ['Tenofovir Disoproxil : 300 mg OD Daily'. (Book p1043)]",
+          "questionIds": [
+            "MED-C70-076"
+          ]
+        },
+        {
+          "element": "p1043-e014",
+          "page": 1043,
+          "source": "Dose printed for entecavir? ['Entecavir : 0.5 mg OD Daily'. (Book p1043)]",
+          "questionIds": [
+            "MED-C70-077"
+          ]
+        },
+        {
+          "element": "p1043-e015",
+          "page": 1043,
+          "source": "Dose printed for tenofovir alafenamide? ['Tenofovir Alafenamide : · DOC · Latest · 25 mg OD Daily'. (Book p1043)]",
+          "questionIds": [
+            "MED-C70-078"
+          ]
+        },
+        {
+          "element": "p1043-e016",
+          "page": 1043,
+          "source": "Adverse effects — match — 1) Tenofovir disoproxil 2) Tenofovir alafenamide … A) Fewer side effects than tenofovir disoproxil B) RTA type 2 (proximal PCT toxicity) and bone mineral disease [Disoproxil: 'A/e : RTA Type 2 (Proximal PCT toxicity) · Bone mineral disease'. Alafenamide: 'Less side effect compared to Tenofovir disoproxil'. (Book]",
+          "questionIds": [
+            "MED-C70-079"
+          ]
+        },
+        {
+          "element": "p1043-e017",
+          "page": 1043,
+          "source": "Which drug does the page call the drug of choice and the latest agent? ['Tenofovir Alafenamide : · DOC · Latest'. (Book p1043)]",
+          "questionIds": [
+            "MED-C70-080"
+          ]
+        },
+        {
+          "element": "p1043-e018",
+          "page": 1043,
+          "source": "A cirrhotic patient with chronic hepatitis B needs treatment. Which drug is specifically recorded as having no role in cirrhosis? ['Limitation : … · No role in cirrhosis' is printed under IFN-α. (Book p1043)]",
+          "questionIds": [
+            "MED-C70-081"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1044,
+      "pdfPage": 10,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1044 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1044.",
+      "elements": [
+        {
+          "element": "p1044-e001",
+          "page": 1044,
+          "source": "Fill up: 'Hepatitis D Virus — Delta virus, ______'. ['Hepatitis D Virus : Delta virus, RNA'. (Book p1044)]",
+          "questionIds": [
+            "MED-C70-082"
+          ]
+        },
+        {
+          "element": "p1044-e002",
+          "page": 1044,
+          "source": "HDV — match — 1) Coinfection 2) Superinfection … A) Chronic HBV + acute hepatitis D (acute on chronic) B) Acute HBV infection + acute HDV infection ['Coinfection : Acute HBV infection + Acute HDV infection'; 'Superinfection (Acute on chronic) : Chronic HBV + Acute Hepatitis D'. (Book p1044)]",
+          "questionIds": [
+            "MED-C70-083"
+          ]
+        },
+        {
+          "element": "p1044-e003",
+          "page": 1044,
+          "source": "Antibody patterns — match — 1) Coinfection 2) Superinfection … A) HBsAg +ve with anti-HDV IgM B) Anti-HBc IgM +ve with anti-HDV IgM +ve [Coinfection prints 'Anti HBc IgM +ve' and 'Anti HDV IgM +ve'; superinfection prints 'HBsAg +ve' and 'Anti HDV IgM'. (Book p1044)]",
+          "questionIds": [
+            "MED-C70-084"
+          ]
+        },
+        {
+          "element": "p1044-e004",
+          "page": 1044,
+          "source": "Risk of fulminant hepatitis printed in the coinfection column? ['Other features : Chances of fulminant hepatitis 5-20%'. (Book p1044)]",
+          "questionIds": [
+            "MED-C70-085"
+          ]
+        },
+        {
+          "element": "p1044-e005",
+          "page": 1044,
+          "source": "What long-term outcome is printed down the superinfection column? ['Chronic HDV related cirrhosis' is the end-point of the superinfection column. (Book p1044)]",
+          "questionIds": [
+            "MED-C70-086"
+          ]
+        },
+        {
+          "element": "p1044-e006",
+          "page": 1044,
+          "source": "Which autoantibody is printed in the hepatitis D page? ['Anti LKM-3 Antibody' appears against the delta agent and again in the superinfection column. (Book p1044)]",
+          "questionIds": [
+            "MED-C70-087"
+          ]
+        },
+        {
+          "element": "p1044-e007",
+          "page": 1044,
+          "source": "Judge the hepatitis D table: I Coinfection is acute HBV plus acute HDV with anti-HBc IgM positive. II Superinfection is acute HDV on chronic HBV and carries a bad prognosis with chronic HDV cirrhosis. [Coinfection = both infections acute with anti-HBc IgM +ve; superinfection = acute on chronic, '(Bad prognosis)' → 'Chronic HDV related cirrhosis'. (Bo]",
+          "questionIds": [
+            "MED-C70-088"
+          ]
+        },
+        {
+          "element": "p1044-e008",
+          "page": 1044,
+          "source": "The closing note on this page flags a high risk of fulminant hepatic failure for which virus in pregnancy? ['Note : HEV in pregnancy also has a high risk of fulminant hepatic failure.' (Book p1044)]",
+          "questionIds": [
+            "MED-C70-089"
+          ]
+        },
+        {
+          "element": "p1044-e009",
+          "page": 1044,
+          "source": "A patient with known chronic hepatitis B suddenly deteriorates with jaundice and tests anti-HDV IgM positive. Which pattern and prognosis does the page print? [Chronic HBV + acute hepatitis D is superinfection (acute on chronic), which the page labels '(Bad prognosis)' → 'Chronic HDV related cirrhosis'. (Book]",
+          "questionIds": [
+            "MED-C70-090"
+          ]
+        },
+        {
+          "element": "p1044-e010",
+          "page": 1044,
+          "source": "Which is NOT printed in the superinfection column? [Anti-HBc IgM positivity is printed in the coinfection column, not the superinfection column. (Book p1044)]",
+          "questionIds": [
+            "MED-C70-091"
+          ]
+        }
+      ]
+    }
+  ]
+}

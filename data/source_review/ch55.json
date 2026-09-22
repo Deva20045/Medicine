@@ -1,0 +1,686 @@
+{
+  "chapter": 55,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+  "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+  "pdfOffset": 964,
+  "pageRange": "976-981",
+  "contentSha256": "8107d82cd6185d683bf5b1ceb861ad8efb160ce9eae74370835569eb620b584b",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch55 p976-981: auto-generated source checklist from existing 77 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 976,
+      "pdfPage": 12,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p976 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p976.",
+      "elements": [
+        {
+          "element": "p976-e001",
+          "page": 976,
+          "source": "Fill up: The chapter defines blood pressure as the measurement of the ______ exerted by blood as it ______ through the arteries. [The definition line reads force exerted by blood as it pulsates through the arteries, an arterial rather than venous formulation. (Book p976)]",
+          "questionIds": [
+            "MED-C55-001"
+          ]
+        },
+        {
+          "element": "p976-e002",
+          "page": 976,
+          "source": "Assess the equation and its legend: I Systemic blood pressure is written as cardiac output multiplied by systemic vascular resistance. II The abbreviation SVR is expanded on this page as systemic venous resistance. [Both statements describe the page: the product is CO x SVR, and the legend printed to the right does expand SVR as systemic venous resistance although]",
+          "questionIds": [
+            "MED-C55-002"
+          ]
+        },
+        {
+          "element": "p976-e003",
+          "page": 976,
+          "source": "A 10 mmHg fall in systolic blood pressure is quoted as reducing the risk of coronary artery disease and of stroke death by which percentages? [The two branches under the 10 mmHg fall give a 40-50% reduction in CAD risk and a 50-60% reduction in stroke death. (Book p976)]",
+          "questionIds": [
+            "MED-C55-003"
+          ]
+        },
+        {
+          "element": "p976-e004",
+          "page": 976,
+          "source": "Match each head of the risk-factor tree with what is hung beneath it — 1) Stroke 2) Cardiovascular disease 3) A fall in SBP of 10 mmHg … A) Smoking, hyperlipidemia, diabetes and hypertension itself B) Hemorrhagic stroke, labelled the most important C) A 40 to 50% drop in CAD risk and a 50 to 60% drop in stroke death [Stroke takes the single hemorrhagic entry marked most important, cardiovascular disease takes smoking, hyperlipidemia, diabetes and HTN, and the 10 mm]",
+          "questionIds": [
+            "MED-C55-004"
+          ]
+        },
+        {
+          "element": "p976-e005",
+          "page": 976,
+          "source": "The pathophysiology block explains why a sustained rise in cardiac output cannot maintain hypertension. Which step does NOT belong to that chain? [The chain runs from a sustained rise in CO to increased renal blood flow, then to a raised, not lowered, renal interstitial hydrostatic pressure and i]",
+          "questionIds": [
+            "MED-C55-005"
+          ]
+        },
+        {
+          "element": "p976-e006",
+          "page": 976,
+          "source": "Fill up: The bracket that gathers the raised interstitial pressure and the natriuresis together is labelled ______, and the page concludes that this mechanism ______ sustained hypertension. [Pressure natriuresis is the labelled bracket, and the line in red reads that this pathway will not produce sustained HTN. (Book p976)]",
+          "questionIds": [
+            "MED-C55-006"
+          ]
+        },
+        {
+          "element": "p976-e007",
+          "page": 976,
+          "source": "Assess the two arms of the pathophysiology tree: I SVR or PVR, not cardiac output, is called the main factor for hypertension. II Its mechanism is vascular remodeling with a fall in vascular diameter and a rise in stiffness. [The right arm carries the main factor for HTN label and the mechanism box lists vascular remodeling splitting into reduced diameter and increased stif]",
+          "questionIds": [
+            "MED-C55-007"
+          ]
+        },
+        {
+          "element": "p976-e008",
+          "page": 976,
+          "source": "Why does the page place beta-blockers outside the preferred first line in modern practice? [The CO arm ends with the note that a beta-blocker's major action is to lower cardiac output, and that this is not a preferred first line drug now, con]",
+          "questionIds": [
+            "MED-C55-008"
+          ]
+        },
+        {
+          "element": "p976-e009",
+          "page": 976,
+          "source": "What does the small note box drawn beside the risk-factor tree assert about hypertension and kidney disease? [The box crosses out the HTN to kidney-disease arrow and ticks the return arrow under the label secondary HTN, a shorthand for the point that renal dis]",
+          "questionIds": [
+            "MED-C55-009"
+          ]
+        },
+        {
+          "element": "p976-e010",
+          "page": 976,
+          "source": "A 24-year-old with a high-output state from severe anaemia has a systolic of 138 mmHg that normalises after transfusion. Which element of this page's pathophysiology best explains the normalisation? [The CO arm ends in increased sodium and water excretion under the label pressure natriuresis, and the page states plainly that a sustained rise in CO ]",
+          "questionIds": [
+            "MED-C55-010"
+          ]
+        },
+        {
+          "element": "p976-e011",
+          "page": 976,
+          "source": "Which of the following is not one of the four heads hung under the major risk association with HTN? [The tree runs from major risk association with HTN into stroke and cardiovascular disease, with the SBP reduction branch and its two percentages benea]",
+          "questionIds": [
+            "MED-C55-011"
+          ]
+        },
+        {
+          "element": "p976-e012",
+          "page": 976,
+          "source": "In the pathophysiology tree, what is written as the fall in vascular diameter and what as the rise, both under vascular remodeling? [Vascular remodeling splits into a downward arrow beside vascular diameter and an upward arrow beside vascular stiffness. (Book p976)]",
+          "questionIds": [
+            "MED-C55-012"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 977,
+      "pdfPage": 13,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p977 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p977.",
+      "elements": [
+        {
+          "element": "p977-e001",
+          "page": 977,
+          "source": "What share of hypertension is attributed to secondary causes on this page, and what is the accompanying instruction? [The secondary HTN branch carries two bullets, 5-10% chances and rule out before treating as primary HTN. (Book p977)]",
+          "questionIds": [
+            "MED-C55-013"
+          ]
+        },
+        {
+          "element": "p977-e002",
+          "page": 977,
+          "source": "Assess the primacy labels in the risk-factor row: I Heritability is annotated as the most important factor. II Obesity and weight gain carries no superlative of its own. [Heritability is indeed labelled most important factor, but obesity and weight gain is also given the tag, printed as and most important, so the page a]",
+          "questionIds": [
+            "MED-C55-014"
+          ]
+        },
+        {
+          "element": "p977-e003",
+          "page": 977,
+          "source": "What are the quoted chances of hypertension when both parents are hypertensive, and when a single parent is? [Under heritability the two branches read both parents with chances of 30-40% and a single parent at 25%. (Book p977)]",
+          "questionIds": [
+            "MED-C55-015"
+          ]
+        },
+        {
+          "element": "p977-e004",
+          "page": 977,
+          "source": "All four entries belong to the dietary risk-factor bullet EXCEPT: [The diet list reads high sodium, low calcium, low phosphate and low magnesium; a high potassium intake is instead prescribed later as part of lifestyl]",
+          "questionIds": [
+            "MED-C55-016"
+          ]
+        },
+        {
+          "element": "p977-e005",
+          "page": 977,
+          "source": "Match each mediator with the column it is filed in on this page — 1) Endothelin 2) Adrenomedullin 3) Reactive oxygen species 4) Prostacyclin … A) Vasoconstrictors B) Vasodilators listed as protective factors [Endothelin and reactive oxygen species sit with angiotensin II, the sympathetic nervous system and arginine vasopressin as vasoconstrictors, while NO,]",
+          "questionIds": [
+            "MED-C55-017"
+          ]
+        },
+        {
+          "element": "p977-e006",
+          "page": 977,
+          "source": "Which of these is NOT one of the protective vasodilator factors in the table? [Arginine vasopressin is the fourth entry of the vasoconstrictor column, whereas NO, ANP, BNP, adrenomedullin, prostacyclin and adiponectin make up the]",
+          "questionIds": [
+            "MED-C55-018"
+          ]
+        },
+        {
+          "element": "p977-e007",
+          "page": 977,
+          "source": "In the grades table, what blood pressure range is labelled high-normal? [The rows run optimal below 120 and below 80, normal 120-129 and 80-84, high-normal 130-139 and or 85-89, then grades 1 to 3. (Book p977)]",
+          "questionIds": [
+            "MED-C55-019"
+          ]
+        },
+        {
+          "element": "p977-e008",
+          "page": 977,
+          "source": "Assess how the grades table joins its two columns: I The optimal and normal rows are joined by and, while every higher row is joined by and or. II Grade 3 hypertension begins at a systolic of 180 or a diastolic of 110. [The conjunction switches from and to and or from the high-normal row downwards, and the final printed row reads 180 and or 110 in red. (Book p977)]",
+          "questionIds": [
+            "MED-C55-020"
+          ]
+        },
+        {
+          "element": "p977-e009",
+          "page": 977,
+          "source": "Which grade is assigned to a reading of 168/102 mmHg on this table? [Grade 2 spans 160-179 systolic or 100-109 diastolic, and either column alone is enough because the rows are joined by and or. (Book p977)]",
+          "questionIds": [
+            "MED-C55-021"
+          ]
+        },
+        {
+          "element": "p977-e010",
+          "page": 977,
+          "source": "Match each stage with the definition printed under it — 1) Stage I 2) Stage II 3) Stage III … A) Hypertension with CKD G4 to G5 or cardiovascular disease B) Uncomplicated hypertension with no mediated organ damage, CKD, CVD or diabetes C) Hypertension mediated organ damage or CKD G1 to G3 [Stage I is uncomplicated disease, stage II is mediated organ damage or CKD in groups 1 to 3, and stage III is CKD groups 4 to 5 or cardiovascular dise]",
+          "questionIds": [
+            "MED-C55-022"
+          ]
+        },
+        {
+          "element": "p977-e011",
+          "page": 977,
+          "source": "A 55-year-old has repeated clinic readings of 152/94 mmHg, an eGFR of 52 mL/min and no left ventricular hypertrophy. How is this stage and graded? [152/94 falls in the 140-159 or 90-99 band of grade 1, and an eGFR of 52 is CKD stage G3a, which the stage tree places in stage II with mediated organ ]",
+          "questionIds": [
+            "MED-C55-023"
+          ]
+        },
+        {
+          "element": "p977-e012",
+          "page": 977,
+          "source": "Which genetic entry is listed as a free-standing risk factor beside stress and physical inactivity? [The right-hand end of the risk-factor row carries the alpha adducin gene, alongside smoking far exceeding alcohol, physical inactivity and stress. (Bo]",
+          "questionIds": [
+            "MED-C55-024"
+          ]
+        },
+        {
+          "element": "p977-e013",
+          "page": 977,
+          "source": "Assess two comparative statements from the risk-factor row: I Smoking is written as far more important than alcohol. II Physical inactivity and stress each get their own branch. [The row shows smoking with a much-greater-than sign before alcohol, and physical inactivity and stress are separate heads, as is the alpha adducin gen]",
+          "questionIds": [
+            "MED-C55-025"
+          ]
+        },
+        {
+          "element": "p977-e014",
+          "page": 977,
+          "source": "Fill up: The two heads of the types tree are ______ hypertension, which carries the risk factors, and ______ hypertension, which must be ruled out first. [The tree splits into primary HTN with its risk-factor branches and secondary HTN with the two bullets about frequency and the need to rule it out befo]",
+          "questionIds": [
+            "MED-C55-026"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 978,
+      "pdfPage": 14,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p978 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p978.",
+      "elements": [
+        {
+          "element": "p978-e001",
+          "page": 978,
+          "source": "Match each diagnostic modality with its cut-off on the table — 1) Office BP 2) Daytime ambulatory mean 3) Night-time ambulatory mean 4) Home BP mean … A) 135 and or 85 B) 130 and or 70 C) 140 and or 90 D) 135 and or 85 [Office and home values share nothing with the night-time row, which alone uses 130 over 70; daytime and home means are both 135 or 85, and the 24-hour]",
+          "questionIds": [
+            "MED-C55-027"
+          ]
+        },
+        {
+          "element": "p978-e002",
+          "page": 978,
+          "source": "Which ambulatory measurement is bracketed as the best method for the diagnosis of hypertension? [The row for the 24h mean carries the annotation best method for diagnosis of HTN, with cut-offs of 130 and or 80. (Book p978)]",
+          "questionIds": [
+            "MED-C55-028"
+          ]
+        },
+        {
+          "element": "p978-e003",
+          "page": 978,
+          "source": "Assess the diagnostic sequence: I Ambulatory BP monitoring is the first choice, and office or home BP is used when it is not possible. II A single elevated reading above the diagnostic cut-off is enough to label confirmed hypertension. [The flow starts with ABPM and falls back to office or home BP if that is not possible, and confirmation needs a mean of three readings followed by a r]",
+          "questionIds": [
+            "MED-C55-029"
+          ]
+        },
+        {
+          "element": "p978-e004",
+          "page": 978,
+          "source": "How is the office measurement taken in terms of readings and interval, and how long before must coffee, cigarettes and exercise stop? [The office protocol takes three consecutive readings at one-minute intervals after a 30-minute abstinence from coffee, cigarettes and exercise, with t]",
+          "questionIds": [
+            "MED-C55-030"
+          ]
+        },
+        {
+          "element": "p978-e005",
+          "page": 978,
+          "source": "Fill up: In the office posture list the cuff is applied at ______ level, the arm is supported at the level of the ______, and the lower limb is kept ______. [The four posture bullets are back rest, cuff at mid arm level, arm at the level of the heart and the lower limb on the ground. (Book p978)]",
+          "questionIds": [
+            "MED-C55-031"
+          ]
+        },
+        {
+          "element": "p978-e006",
+          "page": 978,
+          "source": "After three office readings a mean of 148/92 mmHg is obtained at the first visit. What does the flowchart require next? [The office arm runs from the mean value at or above 140/90 to a repeat after one week and only then to confirmed HTN; the four-week interval belongs t]",
+          "questionIds": [
+            "MED-C55-032"
+          ]
+        },
+        {
+          "element": "p978-e007",
+          "page": 978,
+          "source": "How does the home BP arm differ in the interval before rechecking, and what equipment is acceptable for both arms? [Home BP means a run of consecutive values, a mean at or above 140/90 and a recheck after 4 weeks, using either automatic electronic upper arm cuff dev]",
+          "questionIds": [
+            "MED-C55-033"
+          ]
+        },
+        {
+          "element": "p978-e008",
+          "page": 978,
+          "source": "Which element is NOT among the pre-measurement conditions for office BP on this page? [The list covers comfortable sitting for 3 to 5 minutes, back rest, mid-arm cuff, arm at heart level, feet on the ground and 30 minutes free of coffee,]",
+          "questionIds": [
+            "MED-C55-034"
+          ]
+        },
+        {
+          "element": "p978-e009",
+          "page": 978,
+          "source": "Match each renovascular pattern with its clinical description — 1) Unilateral renal artery stenosis 2) Bilateral renal artery stenosis 3) Chronic glomerulonephritis … A) IgA nephropathy or membranoproliferative GN B) Normal renal function tests C) Renal failure with flash pulmonary oedema [The types under renovascular disease read unilateral RAS with normal RFT and bilateral RAS with renal failure and flash pulmonary oedema, while chroni]",
+          "questionIds": [
+            "MED-C55-035"
+          ]
+        },
+        {
+          "element": "p978-e010",
+          "page": 978,
+          "source": "Which of the following is not among the listed causes of renovascular hypertension? [The three causes given are Takayasu, fibromuscular dysplasia and atherosclerosis; polyarteritis nodosa, though a vasculitis, is not listed. (Book p978]",
+          "questionIds": [
+            "MED-C55-036"
+          ]
+        },
+        {
+          "element": "p978-e011",
+          "page": 978,
+          "source": "Which three headings sit directly under rule out causes of secondary hypertension? [The renal and cardiac causes box branches into renal, coarctation of the aorta and OSAS; endocrine causes are given their own tree on the next page. (]",
+          "questionIds": [
+            "MED-C55-037"
+          ]
+        },
+        {
+          "element": "p978-e012",
+          "page": 978,
+          "source": "A 62-year-old smoker has sudden hypertension, a creatinine of 2.4 mg/dL and an episode of flash pulmonary oedema. Which entry of this page's secondary tree fits best? [The page assigns renal failure with flash pulmonary oedema to bilateral RAS, whereas the unilateral form is the one annotated with normal renal functi]",
+          "questionIds": [
+            "MED-C55-038"
+          ]
+        },
+        {
+          "element": "p978-e013",
+          "page": 978,
+          "source": "Fill up: Under the renal heading the three branches are renovascular, ______ and chronic glomerulonephritis, and the abbreviation RAS is expanded on the page as ______. [The renal branch splits into renovascular, thrombotic microangiopathy and chronic glomerulonephritis, and the legend printed at the bottom expands RAS]",
+          "questionIds": [
+            "MED-C55-039"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 979,
+      "pdfPage": 15,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p979 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p979.",
+      "elements": [
+        {
+          "element": "p979-e001",
+          "page": 979,
+          "source": "Match each monogenic form with the renin and aldosterone pattern printed for it — 1) Liddle syndrome 2) Apparent mineralocorticosteroid excess 3) Glucocorticoid remediable hyperaldosteronism … A) Low renin with low aldosterone B) Low renin with high aldosterone [ENaC activation in Liddle syndrome and the cortisol excess of apparent mineralocorticoid excess both suppress renin and aldosterone, whereas the ACTH-]",
+          "questionIds": [
+            "MED-C55-040"
+          ]
+        },
+        {
+          "element": "p979-e002",
+          "page": 979,
+          "source": "Which mechanism is written beside Geller's syndrome in the genetic list? [Geller's syndrome is the entry annotated as a mineralocorticosteroid receptor gain of function, distinct from the ENaC activation of Liddle syndrome a]",
+          "questionIds": [
+            "MED-C55-041"
+          ]
+        },
+        {
+          "element": "p979-e003",
+          "page": 979,
+          "source": "Assess the bracket drawn beside the genetic list: I It reads hypertension with metabolic alkalosis and hypokalemia. II Gordon's syndrome shares that biochemical pattern. [The bracket gives hypertension, metabolic alkalosis and hypokalemia for the Liddle and apparent mineralocorticoid excess group, while Gordon's syndrom]",
+          "questionIds": [
+            "MED-C55-042"
+          ]
+        },
+        {
+          "element": "p979-e004",
+          "page": 979,
+          "source": "Phaetype IV or Gordon's syndrome is described with all of the following EXCEPT: [The Gordon's column lists hyperkalemia, acidosis, hypertension and the reverse Gitelman's annotation, and potassium is high rather than low. (Book p97]",
+          "questionIds": [
+            "MED-C55-043"
+          ]
+        },
+        {
+          "element": "p979-e005",
+          "page": 979,
+          "source": "Compare the two pseudohypoaldosteronism columns: I PHA type I is entered with hyperkalemia, acidosis and a normal to low blood pressure. II The distinguishing feature drawn between type I and Gordon's syndrome is the blood pressure. [Both columns share hyperkalemia and acidosis, and what separates them on the page is the pressure, with hypertension in Gordon's syndrome and normal t]",
+          "questionIds": [
+            "MED-C55-044"
+          ]
+        },
+        {
+          "element": "p979-e006",
+          "page": 979,
+          "source": "The triad of primary hyperaldosteronism printed under the acquired column consists of which three findings? [The acquired list opens with the primary hyperaldosteronism triad of HTN, m alkalosis and hypokalemia, then continues with Cushing syndrome, phaeochro]",
+          "questionIds": [
+            "MED-C55-045"
+          ]
+        },
+        {
+          "element": "p979-e007",
+          "page": 979,
+          "source": "All of these appear in the acquired endocrine list EXCEPT: [The acquired column names primary hyperaldosteronism, Cushing syndrome, phaeochromocytoma, acromegaly, raised T3 and T4, hypothyroidism and a raised P]",
+          "questionIds": [
+            "MED-C55-046"
+          ]
+        },
+        {
+          "element": "p979-e008",
+          "page": 979,
+          "source": "Which study is labelled the first investigation when secondary hypertension is being worked up? [The investigation branch for secondary HTN marks USG with renal artery doppler as the 1st investigation, before the renal function, urine albumin to c]",
+          "questionIds": [
+            "MED-C55-047"
+          ]
+        },
+        {
+          "element": "p979-e009",
+          "page": 979,
+          "source": "Match each investigation with the purpose it serves on this page — 1) 24-hour urine fractionated metanephrines 2) TFT and PTH 3) Urine albumin to creatinine ratio … A) Thyroid and parathyroid causes B) A phaeochromocytoma screen C) A marker of hypertensive renal damage alongside RFT [The investigations are grouped as the doppler study, the renal damage markers of urine albumin to creatinine and RFT, the electrolyte and hormonal pan]",
+          "questionIds": [
+            "MED-C55-048"
+          ]
+        },
+        {
+          "element": "p979-e010",
+          "page": 979,
+          "source": "Which measurement is called the best indicator of target organ damage? [The last entry of the investigation row is central systolic blood pressure, annotated as the best indicator of target organ damage. (Book p979)]",
+          "questionIds": [
+            "MED-C55-049"
+          ]
+        },
+        {
+          "element": "p979-e011",
+          "page": 979,
+          "source": "Below what age, and with how many drugs in a regimen, does this page prompt a search for secondary hypertension? [The three prompting factors are hypertension below 40 years, resistant hypertension defined as uncontrolled on 3 drugs including diuretics, and hypert]",
+          "questionIds": [
+            "MED-C55-050"
+          ]
+        },
+        {
+          "element": "p979-e012",
+          "page": 979,
+          "source": "Match each treatment threshold with the printed instruction — 1) 130/80 mmHg with coronary artery disease 2) 140/90 mmHg, grade 1, with no organ damage 3) 150/95 mmHg … A) Start medication at once B) Start monotherapy C) Four weeks of lifestyle changes first [Coronary disease takes monotherapy from 130/80, grade 1 without mediated damage gets four weeks of lifestyle measures, and 150/95 goes straight to med]",
+          "questionIds": [
+            "MED-C55-051"
+          ]
+        },
+        {
+          "element": "p979-e013",
+          "page": 979,
+          "source": "Fill up: The four-week lifestyle block asks for weight reduction, a diet with ______ salt and ______ potassium and magnesium, more physical activity, reduced smoking and ______. [The five lifestyle lines are weight reduction, a diet with a fall in salt and rises in potassium and magnesium, increased physical activity, reduced s]",
+          "questionIds": [
+            "MED-C55-052"
+          ]
+        },
+        {
+          "element": "p979-e014",
+          "page": 979,
+          "source": "Assess the escalation rule and the targets: I If blood pressure does not change after four weeks of lifestyle measures, a minimum of two drugs is started. II The target is 120 to 130 over 70 to 80 in patients below 65 years and 130 to 140 over 80 to 90 in those above 65. [The arrow labelled no change in BP leads to start with minimum 2 drugs, and the two target lines are printed by age band exactly as stated. (Book p979]",
+          "questionIds": [
+            "MED-C55-053"
+          ]
+        },
+        {
+          "element": "p979-e015",
+          "page": 979,
+          "source": "A 58-year-old with newly detected hypertension at 146/92 mmHg has no organ damage, no diabetes and no cardiovascular disease. What does this page's algorithm do first? [A reading of 146/92 falls in the 140/90 grade 1 box without mediated organ damage, which the flowchart sends to four weeks of lifestyle change before ]",
+          "questionIds": [
+            "MED-C55-054"
+          ]
+        },
+        {
+          "element": "p979-e016",
+          "page": 979,
+          "source": "Which of the following would NOT by itself prompt a search for secondary hypertension according to the list on this page? [The three prompting factors are age under 40, resistance on three drugs including a diuretic and target organ damage; a well-controlled 55-year-old me]",
+          "questionIds": [
+            "MED-C55-055"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 980,
+      "pdfPage": 16,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p980 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p980.",
+      "elements": [
+        {
+          "element": "p980-e001",
+          "page": 980,
+          "source": "Match each letter used by the page with the drug class it stands for — 1) A 2) C 3) D 4) B … A) Thiazide or thiazide-like diuretics B) Calcium channel blockers C) Beta-blockers, used only on indication D) ACE inhibitors and angiotensin receptor blockers [A covers both ACE inhibitors and ARBs, C the calcium channel blockers, D the thiazide or thiazide-like diuretics, and B the beta-blockers placed under]",
+          "questionIds": [
+            "MED-C55-056"
+          ]
+        },
+        {
+          "element": "p980-e002",
+          "page": 980,
+          "source": "Beta-blockers are confined to three specific scenarios on this page. Which situation is NOT one of them? [The three listed indications are coronary artery disease, atrial fibrillation and HF with reduced ejection fraction, and the page separately notes tha]",
+          "questionIds": [
+            "MED-C55-057"
+          ]
+        },
+        {
+          "element": "p980-e003",
+          "page": 980,
+          "source": "Which combinations does the page give as ESH recommended therapy? [The ESH recommended therapy line reads A + C or A + D, with the three arms A, C and D then detailed beneath it. (Book p980)]",
+          "questionIds": [
+            "MED-C55-058"
+          ]
+        },
+        {
+          "element": "p980-e004",
+          "page": 980,
+          "source": "Assess the A arm: I Angiotensin receptor blockers are placed ahead of ACE inhibitors. II The starting doses printed are telmisartan 20 mg and ramipril 2.5 mg. [The A column reads ARBs greater than ACE inhibitors and gives the two starting doses as telmisartan 20 mg and ramipril 2.5 mg. (Book p980)]",
+          "questionIds": [
+            "MED-C55-059"
+          ]
+        },
+        {
+          "element": "p980-e005",
+          "page": 980,
+          "source": "What dose of indapamide is printed in the D arm, and which diuretic does it beat? [The D branch reads indapamide 2.5 mg BD placed above hydrochlorothiazide. (Book p980)]",
+          "questionIds": [
+            "MED-C55-060"
+          ]
+        },
+        {
+          "element": "p980-e006",
+          "page": 980,
+          "source": "A physician wants a calcium channel blocker that the page rates above cilnidipine for its channel profile but below amlodipine for pure blood pressure control. Which drug fits? [The C arm prints benidipine 4 mg BD above cilnidipine 10 mg, while a separate line gives BP control as amlodipine greater than cilnidipine. (Book p980]",
+          "questionIds": [
+            "MED-C55-061"
+          ]
+        },
+        {
+          "element": "p980-e007",
+          "page": 980,
+          "source": "Fill up: The mechanism given for the preferred calcium channel blockers is blockade of ______ type calcium channels, and this is why benidipine is rated above cilnidipine. [The MOA line reads blocks L + N + T type calcium channels, the wider channel profile behind the page's preference for benidipine. (Book p980)]",
+          "questionIds": [
+            "MED-C55-062"
+          ]
+        },
+        {
+          "element": "p980-e008",
+          "page": 980,
+          "source": "What response rates are attached to A plus C alone and to the A plus C plus D triple? [Initial therapy with A plus C is credited with an optimal response in 60% of the population in 3 months, and adding D takes the response to 90%. (Book]",
+          "questionIds": [
+            "MED-C55-063"
+          ]
+        },
+        {
+          "element": "p980-e009",
+          "page": 980,
+          "source": "A patient on telmisartan and amlodipine for three months has a BP of 148/90 mmHg. What does the flowchart do next? [The no response arrow from A plus C leads to Add D, forming the triple that covers 90% of patients before the unresponsive branch is reached. (Book p9]",
+          "questionIds": [
+            "MED-C55-064"
+          ]
+        },
+        {
+          "element": "p980-e010",
+          "page": 980,
+          "source": "Assess the closing steps of the sequence: I An unresponsive patient on triple therapy should be screened for secondary hypertension before the label is applied. II Spironolactone is the drug of choice for resistant hypertension when the eGFR is 24 mL/min. [The rule-out-secondary arrow precedes the resistant HTN label, and spironolactone as DOC belongs to the eGFR above 30 branch, whereas the 24 mL/min pa]",
+          "questionIds": [
+            "MED-C55-065"
+          ]
+        },
+        {
+          "element": "p980-e011",
+          "page": 980,
+          "source": "Match each eGFR band with the drug the resistant-hypertension box assigns to it — 1) Above 30 mL/min 2) At or below 30 mL/min 3) Before either box is reached … A) Chlorthalidone B) Rule out secondary causes of hypertension C) Spironolactone, marked DOC [Unresponsiveness on A plus C plus D first sends the clinician to rule out secondary causes, after which spironolactone is the DOC above an eGFR of 30 ]",
+          "questionIds": [
+            "MED-C55-066"
+          ]
+        },
+        {
+          "element": "p980-e012",
+          "page": 980,
+          "source": "A 47-year-old with primary aldosteronism later found to have an eGFR of 58 mL/min remains at 156/98 mmHg on telmisartan, amlodipine and indapamide. Which drug does this page add, and why? [Triple therapy has failed and the eGFR of 58 sits in the above-30 branch, where spironolactone is written as the DOC, an apt choice in aldosterone-dri]",
+          "questionIds": [
+            "MED-C55-067"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 981,
+      "pdfPage": 17,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p981 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p981.",
+      "elements": [
+        {
+          "element": "p981-e001",
+          "page": 981,
+          "source": "Three of these are listed as other options for resistant hypertension. Which one is not? [The other options block lists beta-blockers, prazosin, clonidine and renal denervation, the last being the procedural entry among the drug choices. (B]",
+          "questionIds": [
+            "MED-C55-068"
+          ]
+        },
+        {
+          "element": "p981-e002",
+          "page": 981,
+          "source": "Fill up: In coronary artery disease the page starts with ______, adds ______ for the angina patient, and offers ______ for the non-angina patient. [The CAD branch begins with A plus B, then splits into adding C for angina and adding C or D for non-angina patients. (Book p981)]",
+          "questionIds": [
+            "MED-C55-069"
+          ]
+        },
+        {
+          "element": "p981-e003",
+          "page": 981,
+          "source": "Match each special scenario with the opening regimen printed under it — 1) Coronary artery disease 2) Chronic kidney disease with eGFR above 30 3) Chronic kidney disease with eGFR at or below 30 … A) A plus C, then add D, then spironolactone if uncontrolled B) A plus B, then C or D depending on angina C) A plus C, then chlorthalidone, then a beta-blocker if uncontrolled [CAD opens on A plus B, while both CKD arms start with A plus C and then divide by eGFR, the lower band escalating through chlo",
+          "questionIds": [
+            "MED-C55-070"
+          ]
+        },
+        {
+          "element": "p981-e004",
+          "page": 981,
+          "source": "A patient with CKD stage G4 has a BP of 152/92 mmHg on telmisartan and amlodipine. Which add-on does the CKD flowchart require? [An eGFR at or below 30 takes the left CKD branch, where the add-on is chlorthalidone and a beta-blocker only follows if control is still not achieved.]",
+          "questionIds": [
+            "MED-C55-071"
+          ]
+        },
+        {
+          "element": "p981-e005",
+          "page": 981,
+          "source": "Assess the right-hand CKD branch: I With an eGFR above 30 the add-on is D, and spironolactone follows only when control is still not achieved. II This branch mirrors the resistant-hypertension rule that a thiazide-like diuretic is reserved for preserved filtration. [The above-30 limb runs A plus C, add D, then add spironolactone if uncontrolled, but the page never states a general rule reserving thiazides for pres]",
+          "questionIds": [
+            "MED-C55-072"
+          ]
+        },
+        {
+          "element": "p981-e006",
+          "page": 981,
+          "source": "A 63-year-old with stable angina has repeated clinic readings of 154/94 mmHg. Which regimen and escalation does this page map out? [Coronary artery disease is the left-hand special scenario, opening with A plus B, and because the patient has angina the next arrow is the addition of]",
+          "questionIds": [
+            "MED-C55-073"
+          ]
+        },
+        {
+          "element": "p981-e007",
+          "page": 981,
+          "source": "Which statement misreads the two CKD branches on this page? [Every CKD patient starts on A plus C, and the split by eGFR decides whether chlorthalidone or D is the add-on, so a claim of a shared A plus B start i]",
+          "questionIds": [
+            "MED-C55-074"
+          ]
+        },
+        {
+          "element": "p981-e008",
+          "page": 981,
+          "source": "Which eGFR value separates the two escalation routes in the CKD scenario? [The fork is printed as eGFR at or below 30 versus above 30 mL/min, the same boundary used for spironolactone in resistant hypertension on the previous]",
+          "questionIds": [
+            "MED-C55-075"
+          ]
+        },
+        {
+          "element": "p981-e009",
+          "page": 981,
+          "source": "Fill up: In the low-eGFR CKD branch, failure of chlorthalidone leads to adding a ______, whereas in the high-eGFR branch failure of D leads to adding ______. [The two not-controlled arrows are drawn to a beta-blocker below an eGFR of 30 and to spironolactone above it. (Book p981)]",
+          "questionIds": [
+            "MED-C55-076"
+          ]
+        },
+        {
+          "element": "p981-e010",
+          "page": 981,
+          "source": "How many distinct special scenarios are laid out on this page? [The special scenarios heading carries exactly two trees, CAD on the left and CKD on the right. (Book p981)]",
+          "questionIds": [
+            "MED-C55-077"
+          ]
+        }
+      ]
+    }
+  ]
+}

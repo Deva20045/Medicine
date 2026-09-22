@@ -1,0 +1,395 @@
+{
+  "chapter": 64,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+  "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+  "pdfOffset": 964,
+  "pageRange": "1020-1022",
+  "contentSha256": "19a83d5ae0639d297a8e9dff3c1d226303b0ded6edea4e63da5cf21542213860",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch64 p1020-1022: auto-generated source checklist from existing 44 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 1020,
+      "pdfPage": 56,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1020 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1020.",
+      "elements": [
+        {
+          "element": "p1020-e001",
+          "page": 1020,
+          "source": "Fill up (opening line of the chapter): Primary Biliary Cirrhosis / Primary Biliary Cholangitis is the cardinal example of ______ cholestasis. [The chapter opens: 'Cardinal example of intrahepatic cholestasis.' (Book p1020)]",
+          "questionIds": [
+            "MED-C64-001"
+          ]
+        },
+        {
+          "element": "p1020-e002",
+          "page": 1020,
+          "source": "Judge the two statements from the printed definition of PBC: I It is an autoimmune disease with chronic progressive non-suppurative inflammatory destruction. II The target is the large extrahepatic bile ducts. [Definition: autoimmune, chronic progressive non-suppurative inflammatory destruction of SMALL intrahepatic / intralobular bile ducts — not the large e]",
+          "questionIds": [
+            "MED-C64-002"
+          ]
+        },
+        {
+          "element": "p1020-e003",
+          "page": 1020,
+          "source": "According to the printed definition, the destruction of small intrahepatic / intralobular bile ducts in PBC is mediated by which immune arm? [The arrow below the definition reads 'mediated by both T-cell > B-cell'. (Book p1020)]",
+          "questionIds": [
+            "MED-C64-003"
+          ]
+        },
+        {
+          "element": "p1020-e004",
+          "page": 1020,
+          "source": "Antimitochondrial antibody (AMA) is printed as positive in what proportion of PBC patients? ['Antimitochondrial Ab (AMA) 95%.' (ANA is the 50% antibody listed later on p1021.) (Book p1020)]",
+          "questionIds": [
+            "MED-C64-004"
+          ]
+        },
+        {
+          "element": "p1020-e005",
+          "page": 1020,
+          "source": "Fill up: In PBC the antimitochondrial antibody is directed against ______. ['Against : PDHE2.' The footnote to the Note table expands it: 'PDHE2 : Pyruvate dehydrogenase enzyme type-2'. (Book p1020)]",
+          "questionIds": [
+            "MED-C64-005"
+          ]
+        },
+        {
+          "element": "p1020-e006",
+          "page": 1020,
+          "source": "Match each column of the Note table (Hepatic vs Cholestatic pattern) with its printed content — 1) Hepatic 2) Cholestatic … A) Fatigue and pruritus, progressing through complete destruction of bile duct to jaundice (poor prognosis) B) Jaundice as the predominant feature [Note table: Hepatic column = 'Jaundice (predominant feature)'; Cholestatic column = 'Fatigue & pruritus → complete destruction of bile duct → Jaundice]",
+          "questionIds": [
+            "MED-C64-006"
+          ]
+        },
+        {
+          "element": "p1020-e007",
+          "page": 1020,
+          "source": "A patient with PBC who for years had only fatigue and pruritus now develops jaundice. Per the Note table's cholestatic column, what does this jaundice signify? [In the cholestatic column the arrow runs fatigue & pruritus → 'Complete destruction of bile duct' → 'Jaundice (Poor prognosis)'. (Book p1020)]",
+          "questionIds": [
+            "MED-C64-007"
+          ]
+        },
+        {
+          "element": "p1020-e008",
+          "page": 1020,
+          "source": "What female-to-male ratio and age band are printed under 'Prevalence' of PBC? [Prevalence: 'F > M = 9 : 1. 4th – 5th decade.' (Book p1020)]",
+          "questionIds": [
+            "MED-C64-008"
+          ]
+        },
+        {
+          "element": "p1020-e009",
+          "page": 1020,
+          "source": "Which of the following is NOT one of the three disease associations listed for PBC on this page? [Disease association list: Sjogren syndrome with arthritis, Distal RTA (Type 1), Gallstones. Ulcerative colitis is the PSC association (p1021). (Book p]",
+          "questionIds": [
+            "MED-C64-009"
+          ]
+        },
+        {
+          "element": "p1020-e010",
+          "page": 1020,
+          "source": "Diagnostic algorithm: a patient with cholestasis undergoes ultrasound. Duct dilatation is ABSENT. What is the next printed step? [Algorithm: Patient with cholestasis → Ultrasound: look for duct dilatation → −ve → AMA Ab → +ve → PBC. (Book p1020)]",
+          "questionIds": [
+            "MED-C64-010"
+          ]
+        },
+        {
+          "element": "p1020-e011",
+          "page": 1020,
+          "source": "In the same algorithm, ultrasound shows duct dilatation (+ve). What does the book direct? [Ultrasound +ve for duct dilatation → 'Refer to surgery' (obstructive / extrahepatic cause). (Book p1020)]",
+          "questionIds": [
+            "MED-C64-011"
+          ]
+        },
+        {
+          "element": "p1020-e012",
+          "page": 1020,
+          "source": "Presentation of PBC — judge: I Asymptomatic is the most common presentation. II Pruritus is the most common symptom. ['Asymptomatic (m/c presentation)', 'Fatigue (m/c symptom)', then Pruritus as a separate bullet. (Book p1020)]",
+          "questionIds": [
+            "MED-C64-012"
+          ]
+        },
+        {
+          "element": "p1020-e013",
+          "page": 1020,
+          "source": "Jaundice occurs in what percentage of PBC patients, and how is it characterised in the presentation list? ['Jaundice (10%) : Late presentation (Poor prognosis).' (Book p1020)]",
+          "questionIds": [
+            "MED-C64-013"
+          ]
+        },
+        {
+          "element": "p1020-e014",
+          "page": 1020,
+          "source": "Fill up the bracket exactly as printed beside hypercholesterolemia in the PBC presentation list: 'Hypercholesterolemia (Against : ______)'. [The bullet reads 'Hypercholesterolemia (Against : Dihydrolipoyl transacetylase)' — the printed bracket names the E2 (dihydrolipoyl transacetylase) com]",
+          "questionIds": [
+            "MED-C64-014"
+          ]
+        },
+        {
+          "element": "p1020-e015",
+          "page": 1020,
+          "source": "Match the printed frequencies in the PBC presentation list — 1) Hepatomegaly 2) Splenomegaly 3) Jaundice … A) <15% B) 10% C) 30–40% [Hepatomegaly (30–40%), Splenomegaly (<15%), Jaundice (10%). (Book p1020)]",
+          "questionIds": [
+            "MED-C64-015"
+          ]
+        },
+        {
+          "element": "p1020-e016",
+          "page": 1020,
+          "source": "Which of the following is NOT listed among the PBC presentation bullets on this page? [The list: asymptomatic, fatigue, pruritus, jaundice, hypercholesterolemia, xanthelasmas, hyperpigmentation, hepatomegaly, splenomegaly, steatorrhea. K]",
+          "questionIds": [
+            "MED-C64-016"
+          ]
+        },
+        {
+          "element": "p1020-e017",
+          "page": 1020,
+          "source": "Steatorrhea in PBC is attributed on this page to which mechanism? ['Steatorrhea (↓ Bile acid)'. (Book p1020)]",
+          "questionIds": [
+            "MED-C64-017"
+          ]
+        },
+        {
+          "element": "p1020-e018",
+          "page": 1020,
+          "source": "The flowchart under steatorrhea lists three consequences of fat malabsorption and one downstream effect. Match — 1) Diarrhea 2) ↓ Fat soluble vitamin 3) ↓ Vitamin D absorption … A) leads to metabolic bone disease B) direct consequence of fat malabsorption (first arrow) C) direct consequence of fat malabsorption (second arrow) [Fat malabsorption → Diarrhea; → ↓ Fat soluble vitamin; → ↓ Vitamin D absorption → metabolic bone disease. (Book p1020)]",
+          "questionIds": [
+            "MED-C64-018"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1021,
+      "pdfPage": 57,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1021 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1021.",
+      "elements": [
+        {
+          "element": "p1021-e001",
+          "page": 1021,
+          "source": "Laboratory features of PBC — match the marker with its printed positivity — 1) AMA (Type IgM) 2) ANA … A) +ve in 50% B) +ve in 95% [Laboratory features: Raised ALP; AMA (Type IgM) +ve in 95%; ANA +ve in 50%. (Book p1021)]",
+          "questionIds": [
+            "MED-C64-019"
+          ]
+        },
+        {
+          "element": "p1021-e002",
+          "page": 1021,
+          "source": "Fill up: The first laboratory feature listed for PBC is raised ______, and the AMA is printed as being of the ______ isotype. ['Raised ALP.' and 'AMA (Type IgM) : +ve in 95%.' (Book p1021)]",
+          "questionIds": [
+            "MED-C64-020"
+          ]
+        },
+        {
+          "element": "p1021-e003",
+          "page": 1021,
+          "source": "Which histopathological feature is labelled the EARLIEST change in PBC? [Histopathology tree: 'Loss of the canal of Hering : Earliest'. (Book p1021)]",
+          "questionIds": [
+            "MED-C64-021"
+          ]
+        },
+        {
+          "element": "p1021-e004",
+          "page": 1021,
+          "source": "Which histopathological feature of PBC is labelled most common (m/c)? ['Ductopenia (m/c)'. (Book p1021)]",
+          "questionIds": [
+            "MED-C64-022"
+          ]
+        },
+        {
+          "element": "p1021-e005",
+          "page": 1021,
+          "source": "Judge: I The most characteristic histological lesion of PBC is the florid duct lesion with granulomas. II These granulomas are caseating. ['Florid duct lesion with granulomas (Non-caseating) (most characteristic)'. (Book p1021)]",
+          "questionIds": [
+            "MED-C64-023"
+          ]
+        },
+        {
+          "element": "p1021-e006",
+          "page": 1021,
+          "source": "Match the PBC treatments with the printed descriptor — 1) Ursodeoxycholic acid (UDCA) 2) Obeticholic acid … A) Farnesoid receptor agonist B) ↓ progression of biliary cirrhosis [Treatment: UDCA : ↓ progression of biliary cirrhosis; Obeticholic acid : Farnesoid receptor agonist. (Book p1021)]",
+          "questionIds": [
+            "MED-C64-024"
+          ]
+        },
+        {
+          "element": "p1021-e007",
+          "page": 1021,
+          "source": "Fill up (PSC definition): Primary Sclerosing Cholangitis is progressive ______ destruction of intra and extra hepatic bile duct, and is an ______ disease due to leaky gut. ['Progressive fibrosing destruction of intra and extra hepatic bile duct. IgG4 disease d/t leaky gut.' (Book p1021)]",
+          "questionIds": [
+            "MED-C64-025"
+          ]
+        },
+        {
+          "element": "p1021-e008",
+          "page": 1021,
+          "source": "Prevalence of PSC: sex predilection and decade printed? ['M > F (2nd – 3rd decade).' (Book p1021)]",
+          "questionIds": [
+            "MED-C64-026"
+          ]
+        },
+        {
+          "element": "p1021-e009",
+          "page": 1021,
+          "source": "Which HLA associations are printed for PSC? ['HLA Association : HLA B-8, DR-3.' (Book p1021)]",
+          "questionIds": [
+            "MED-C64-027"
+          ]
+        },
+        {
+          "element": "p1021-e010",
+          "page": 1021,
+          "source": "Which item is NOT among the four PSC presentation bullets on this page? [Presentation: Fatigue, Pruritis, Leaky gut, Cholestasis. (Book p1021)]",
+          "questionIds": [
+            "MED-C64-028"
+          ]
+        },
+        {
+          "element": "p1021-e011",
+          "page": 1021,
+          "source": "Which cancer is printed under 'Association with cancer' for PSC? ['Association with cancer : Cholangiocarcinoma.' (Colorectal carcinoma appears separately under the UC association.) (Book p1021)]",
+          "questionIds": [
+            "MED-C64-029"
+          ]
+        },
+        {
+          "element": "p1021-e012",
+          "page": 1021,
+          "source": "Interpret the printed figures for the PSC–ulcerative colitis association: '(2/3rd / 5%)'. ['Ulcerative colitis (2/3rd / 5%) (2/3rd cases of PSC have UC & 5% cases of UC have PSC).' (Book p1021)]",
+          "questionIds": [
+            "MED-C64-030"
+          ]
+        },
+        {
+          "element": "p1021-e013",
+          "page": 1021,
+          "source": "Regarding the UC that accompanies PSC, judge: I It is associated with atypical p-ANCA. II Its type is pancolitis with rectal sparing. III The only treatment is transplant. [Sub-bullets under UC: Atypical P. ANCA association; Type: pancolitis with rectal sparing; A/w colorectal carcinoma; Only treatment: transplant. (Book ]",
+          "questionIds": [
+            "MED-C64-031"
+          ]
+        },
+        {
+          "element": "p1021-e014",
+          "page": 1021,
+          "source": "Fill up: The UC associated with PSC is 'A/w ______ carcinoma'. ['A/w colorectal carcinoma.' (Book p1021)]",
+          "questionIds": [
+            "MED-C64-032"
+          ]
+        },
+        {
+          "element": "p1021-e015",
+          "page": 1021,
+          "source": "Laboratory features of PSC — which of the following is printed as NEGATIVE? [Laboratory features: IgG4 antibody; Atypical P. ANCA Ab; 'AMA Ab : −ve'. (Book p1021)]",
+          "questionIds": [
+            "MED-C64-033"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1022,
+      "pdfPage": 58,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1022 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1022.",
+      "elements": [
+        {
+          "element": "p1022-e001",
+          "page": 1022,
+          "source": "Which radiological investigation is marked the investigation of choice (IOC) for PSC? ['MRCP (IOC)' with ERCP listed beneath; both point to 'Strictures/Ectasia'. (Book p1022)]",
+          "questionIds": [
+            "MED-C64-034"
+          ]
+        },
+        {
+          "element": "p1022-e002",
+          "page": 1022,
+          "source": "Fill up: Both MRCP and ERCP in PSC demonstrate ______ / ______ of the bile ducts (image caption). ['→ Strictures/Ectasia' and the cholangiogram caption 'Strictures/Ectasia'. (Book p1022)]",
+          "questionIds": [
+            "MED-C64-035"
+          ]
+        },
+        {
+          "element": "p1022-e003",
+          "page": 1022,
+          "source": "What histological feature is printed for PSC (and labelled in the micrograph)? ['Histological Features : Concentric periductal onion skin fibrosis.' Micrograph caption: 'Concentric periductal fibrosis'. (Book p1022)]",
+          "questionIds": [
+            "MED-C64-036"
+          ]
+        },
+        {
+          "element": "p1022-e004",
+          "page": 1022,
+          "source": "Treatment of PSC on this page is surgery — what recurrence figure is printed? ['Treatment : Surgery (25% recurrence).' (Book p1022)]",
+          "questionIds": [
+            "MED-C64-037"
+          ]
+        },
+        {
+          "element": "p1022-e005",
+          "page": 1022,
+          "source": "PBC vs PSC table, row 'Population incidence' — match — 1) PBC 2) PSC … A) Young male B) Perimenopausal females [Population incidence: PBC = Perimenopausal females; PSC = Young male. (Book p1022)]",
+          "questionIds": [
+            "MED-C64-038"
+          ]
+        },
+        {
+          "element": "p1022-e006",
+          "page": 1022,
+          "source": "Rows 'Disease type' and 'HLA association' — match — 1) PBC 2) PSC … A) Autoimmune disease; HLA association absent B) Fibrosing disease; HLA association present [Disease type: PBC autoimmune, PSC fibrosing. HLA association: PBC absent, PSC present (B-8, DR-3). (Book p1022)]",
+          "questionIds": [
+            "MED-C64-039"
+          ]
+        },
+        {
+          "element": "p1022-e007",
+          "page": 1022,
+          "source": "Row 'Smoking' — judge: I Smoking increases the risk of PBC. II Smoking is protective in PSC. [Smoking: PBC = Increase risk; PSC = Protective. (Book p1022)]",
+          "questionIds": [
+            "MED-C64-040"
+          ]
+        },
+        {
+          "element": "p1022-e008",
+          "page": 1022,
+          "source": "Rows 'Disease association' and 'Diagnostic feature' — match — 1) PBC 2) PSC … A) Sjogren's syndrome; AMA Ab B) Ulcerative colitis; MRCP [Disease association: PBC Sjogren's, PSC UC. Diagnostic feature: PBC AMA Ab, PSC MRCP (printed 'IOP' in the table, 'IOC' on the same page above). (Book]",
+          "questionIds": [
+            "MED-C64-041"
+          ]
+        },
+        {
+          "element": "p1022-e009",
+          "page": 1022,
+          "source": "A young man with ulcerative colitis has raised ALP; MRCP shows multifocal strictures and ectasia. Per the comparison table, what is the treatment listed for his condition? [The picture is PSC. Table row 'Treatment': PBC = UDCA; PSC = Transplant. (Book p1022)]",
+          "questionIds": [
+            "MED-C64-042"
+          ]
+        },
+        {
+          "element": "p1022-e010",
+          "page": 1022,
+          "source": "Row 'Carcinoma association' — judge: I PBC is not premalignant. II PSC is associated with cholangiocarcinoma. [Carcinoma association: PBC = Not premalignant; PSC = A/w cholangiocarcinoma. (Book p1022)]",
+          "questionIds": [
+            "MED-C64-043"
+          ]
+        },
+        {
+          "element": "p1022-e011",
+          "page": 1022,
+          "source": "Which of the following row pairings from the PBC vs PSC table is WRONGLY stated? [The smoking row is reversed in this option: the book prints PBC = increase risk, PSC = protective. The other three pairings are correct. (Book p1022)]",
+          "questionIds": [
+            "MED-C64-044"
+          ]
+        }
+      ]
+    }
+  ]
+}

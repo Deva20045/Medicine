@@ -1,0 +1,651 @@
+{
+  "chapter": 20,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+  "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+  "pdfOffset": 759,
+  "pageRange": "808-810",
+  "contentSha256": "d5404373f7606c9fcafd3331d7aa6a0299a6e291df8b31b167671f765de2459e",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch20 p808-810: auto-generated source checklist from existing 76 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 808,
+      "pdfPage": 49,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p808 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p808.",
+      "elements": [
+        {
+          "element": "p808-e001",
+          "page": 808,
+          "source": "The consequences of CKD branch into access for dialysis, acidosis and: [Consequences of CKD: access dialysis, acidosis, anemia. (Book p808)]",
+          "questionIds": [
+            "MED-C20-001"
+          ]
+        },
+        {
+          "element": "p808-e002",
+          "page": 808,
+          "source": "In the acidosis branch, the CKD acidosis starts as NAGMA and can progress to: [Acidosis: NAGMA → progress → HAGMA. (Book p808)]",
+          "questionIds": [
+            "MED-C20-002"
+          ]
+        },
+        {
+          "element": "p808-e003",
+          "page": 808,
+          "source": "CKD acidosis is listed as a myocardial depressant. [Acidosis: myocardial depressant. (Book p808)]",
+          "questionIds": [
+            "MED-C20-003"
+          ]
+        },
+        {
+          "element": "p808-e004",
+          "page": 808,
+          "source": "The normal range for the monitored venous HCO₃⁻ is: [Monitor venous HCO₃⁻ (normal: 20-22 mEq/L). (Book p808)]",
+          "questionIds": [
+            "MED-C20-004"
+          ]
+        },
+        {
+          "element": "p808-e005",
+          "page": 808,
+          "source": "The treatment written for CKD acidosis is: [Rx: oral/IV sodium bicarbonate. (Book p808)]",
+          "questionIds": [
+            "MED-C20-005"
+          ]
+        },
+        {
+          "element": "p808-e006",
+          "page": 808,
+          "source": "Fill up: In the acidosis branch, the parameter to monitor is venous ______ (normal 20-22 mEq/L). [Monitor venous HCO₃⁻ (normal: 20-22 mEq/L); Rx: oral/IV sodium bicarbonate. (Book p808)]",
+          "questionIds": [
+            "MED-C20-006"
+          ]
+        },
+        {
+          "element": "p808-e007",
+          "page": 808,
+          "source": "Anemia appears when GFR falls below ______ in males. [Anemia appears: ↓ GFR — male: <75 ml/min; female: <40 ml/min. (Book p808)]",
+          "questionIds": [
+            "MED-C20-007"
+          ]
+        },
+        {
+          "element": "p808-e008",
+          "page": 808,
+          "source": "Anemia appears when GFR falls below ______ in females. [Anemia appears: female: <40 ml/min. (Book p808)]",
+          "questionIds": [
+            "MED-C20-008"
+          ]
+        },
+        {
+          "element": "p808-e009",
+          "page": 808,
+          "source": "The Indian Society of Nephrology advises starting evaluation of anemia below: [Indian Society of Nephrology: <11 gm/dl (start evaluation). (Book p808)]",
+          "questionIds": [
+            "MED-C20-009"
+          ]
+        },
+        {
+          "element": "p808-e010",
+          "page": 808,
+          "source": "Match the following guideline to its anemia cutoff — 1) ISN  2) KDIGO male  3) KDIGO female … A) <13 g/dl  B) <11 gm/dl  C) <12 g/dl [ISN: <11 gm/dl (start evaluation); KDIGO: male <13 g/dl, female <12 g/dl. (Book p808)]",
+          "questionIds": [
+            "MED-C20-010"
+          ]
+        },
+        {
+          "element": "p808-e011",
+          "page": 808,
+          "source": "The target Hb value while using exogenous erythropoietin (ESA) is: [Target Hb value: 11.5-12.5 g/dl by using exogenous erythropoietin (ESA). (Book p808)]",
+          "questionIds": [
+            "MED-C20-011"
+          ]
+        },
+        {
+          "element": "p808-e012",
+          "page": 808,
+          "source": "Pushing the Hb above 13 g/dl with ESA invites which pair of complications? [>13 gm/dl → stroke, thrombosis. (Book p808)]",
+          "questionIds": [
+            "MED-C20-012"
+          ]
+        },
+        {
+          "element": "p808-e013",
+          "page": 808,
+          "source": "The target Hb on ESA should exceed 13 g/dl for best outcomes. [Target 11.5-12.5 g/dl; >13 gm/dl → stroke, thrombosis. (Book p808)]",
+          "questionIds": [
+            "MED-C20-013"
+          ]
+        },
+        {
+          "element": "p808-e014",
+          "page": 808,
+          "source": "A CKD man's GFR is 68 ml/min. Per this page's thresholds, is anemia expected to be a concern? [Anemia appears: male <75 ml/min; female <40 ml/min. (Book p808)]",
+          "questionIds": [
+            "MED-C20-014"
+          ]
+        },
+        {
+          "element": "p808-e015",
+          "page": 808,
+          "source": "Match the following erythropoiesis stage to its full name — 1) BFU-E  2) CFU  3) The final cell … A) Colony forming unit  B) Burst forming unit-erythroid  C) Erythrocyte (RBC) [Erythropoiesis: hematopoietic stem cell → BFU-E (burst forming unit-erythroid) → CFU (colony forming unit) → erythroblast → reticulocyte → erythrocyte]",
+          "questionIds": [
+            "MED-C20-015"
+          ]
+        },
+        {
+          "element": "p808-e016",
+          "page": 808,
+          "source": "Match the following erythropoiesis phase to its dependency — 1) Hematopoietic stem cell → BFU-E  2) BFU-E → CFU → erythroblast  3) Erythroblast → reticulocyte → RBC … A) Iron and erythropoietin dependent  B) Erythropoietin dependent  C) EPO independent [EPO independent: stem cell → BFU-E; erythropoietin dependent: BFU-E → CFU → erythroblast; iron and erythropoietin dependent: erythroblast → reticulocy]",
+          "questionIds": [
+            "MED-C20-016"
+          ]
+        },
+        {
+          "element": "p808-e017",
+          "page": 808,
+          "source": "The erythropoietin-dependent span (BFU-E through erythroblast) is labelled as taking: [10-14 days erythropoiesis labels the erythropoietin-dependent span. (Book p808)]",
+          "questionIds": [
+            "MED-C20-017"
+          ]
+        },
+        {
+          "element": "p808-e018",
+          "page": 808,
+          "source": "Erythroblast maturation to reticulocyte takes: [4 days: erythroblast → reticulocyte. (Book p808)]",
+          "questionIds": [
+            "MED-C20-018"
+          ]
+        },
+        {
+          "element": "p808-e019",
+          "page": 808,
+          "source": "Reticulocyte to erythrocyte (RBC) takes: [1-2 days: reticulocyte → erythrocyte (RBC). (Book p808)]",
+          "questionIds": [
+            "MED-C20-019"
+          ]
+        },
+        {
+          "element": "p808-e020",
+          "page": 808,
+          "source": "The full sequence of erythropoiesis on the page is: [Sequence as drawn: hematopoietic stem cell → BFU-E → CFU → erythroblast → reticulocyte → erythrocyte (RBC). (Book p808)]",
+          "questionIds": [
+            "MED-C20-020"
+          ]
+        },
+        {
+          "element": "p808-e021",
+          "page": 808,
+          "source": "All but one are named stages in the erythropoiesis diagram. Which is the odd one out? [Named stages: hematopoietic stem cell, BFU-E, CFU, erythroblast, reticulocyte, erythrocyte (RBC). (Book p808)]",
+          "questionIds": [
+            "MED-C20-021"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 809,
+      "pdfPage": 50,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p809 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p809.",
+      "elements": [
+        {
+          "element": "p809-e001",
+          "page": 809,
+          "source": "Anemia in CKD is described as: [CAUSES: anemia (normocytic normochromic). (Book p809)]",
+          "questionIds": [
+            "MED-C20-022"
+          ]
+        },
+        {
+          "element": "p809-e002",
+          "page": 809,
+          "source": "Reduced RBC production is the lesser contributor to CKD anemia compared with raised RBC destruction. [↓ RBC production (more common) >> ↑ RBC destruction (less common; ↓ red cell survival span). (Book p809)]",
+          "questionIds": [
+            "MED-C20-023"
+          ]
+        },
+        {
+          "element": "p809-e003",
+          "page": 809,
+          "source": "The EPO defect in CKD anemia is described as: [↓ EPO: inappropriately low EPO to the degree of anemia/hypoxia. (Book p809)]",
+          "questionIds": [
+            "MED-C20-024"
+          ]
+        },
+        {
+          "element": "p809-e004",
+          "page": 809,
+          "source": "Under normal oxygen, the fate of HIF-α is: [HIF-α pathway: normal O₂ → HIF-α degradation. (Book p809)]",
+          "questionIds": [
+            "MED-C20-025"
+          ]
+        },
+        {
+          "element": "p809-e005",
+          "page": 809,
+          "source": "Under hypoxia, HIF-α pairs with HIF-β to drive: [Hypoxia: HIF-α + HIF-β → erythropoietin production. (Book p809)]",
+          "questionIds": [
+            "MED-C20-026"
+          ]
+        },
+        {
+          "element": "p809-e006",
+          "page": 809,
+          "source": "HIF-PH stands for HIF prolyl hydroxylase. [HIF-PH: HIF prolyl hydroxylase. (Book p809)]",
+          "questionIds": [
+            "MED-C20-027"
+          ]
+        },
+        {
+          "element": "p809-e007",
+          "page": 809,
+          "source": "The site of EPO production named in the flowchart is the: [Inappropriate production of EPO (site: peritubular interstitial fibroblasts in cortex > outer medulla). (Book p809)]",
+          "questionIds": [
+            "MED-C20-028"
+          ]
+        },
+        {
+          "element": "p809-e008",
+          "page": 809,
+          "source": "Match the following cause of low iron to its detail — 1) Anorexia  2) Absorption  3) Blood loss … A) ↓ absorption  B) 1 ml = 0.5 mg Fe  C) Poor intake [Low iron: anorexia, ↓ absorption, blood loss (1 ml = 0.5 mg Fe). (Book p809)]",
+          "questionIds": [
+            "MED-C20-029"
+          ]
+        },
+        {
+          "element": "p809-e009",
+          "page": 809,
+          "source": "Each millilitre of blood loss represents how much iron? [Blood loss: 1 ml = 0.5 mg Fe. (Book p809)]",
+          "questionIds": [
+            "MED-C20-030"
+          ]
+        },
+        {
+          "element": "p809-e010",
+          "page": 809,
+          "source": "In anemia of chronic disease, inflammation drives production of: [Inflammation: production of activin, CRP, interleukin → ↑ hepcidin → ↓ response to EPO. (Book p809)]",
+          "questionIds": [
+            "MED-C20-031"
+          ]
+        },
+        {
+          "element": "p809-e011",
+          "page": 809,
+          "source": "The final step in that anemia-of-chronic-disease chain is: [↑ hepcidin → ↓ response to EPO. (Book p809)]",
+          "questionIds": [
+            "MED-C20-032"
+          ]
+        },
+        {
+          "element": "p809-e012",
+          "page": 809,
+          "source": "Raised PTH causes anemia in CKD through: [Raised PTH level → bone marrow fibrosis → anemia. (Book p809)]",
+          "questionIds": [
+            "MED-C20-033"
+          ]
+        },
+        {
+          "element": "p809-e013",
+          "page": 809,
+          "source": "The deficiency causes listed under RBC production are: [Deficiency: vitamin B₆, folic acid. (Book p809)]",
+          "questionIds": [
+            "MED-C20-034"
+          ]
+        },
+        {
+          "element": "p809-e014",
+          "page": 809,
+          "source": "All but one are named in the note box about uremic toxins and RBC survival. Which is the odd one out? [Note: uremic toxins are inhibitors of erythropoiesis; RBC glutathione depleted d/t ↓ survival; EPO effect ↑↑ after dialysis. (Book p809)]",
+          "questionIds": [
+            "MED-C20-035"
+          ]
+        },
+        {
+          "element": "p809-e015",
+          "page": 809,
+          "source": "Uremic toxins act as inhibitors of erythropoiesis. [Note: uremic toxins: inhibitors of erythropoiesis. (Book p809)]",
+          "questionIds": [
+            "MED-C20-036"
+          ]
+        },
+        {
+          "element": "p809-e016",
+          "page": 809,
+          "source": "After dialysis, the EPO effect is: [RBC glutathione depleted d/t ↓ survival; therefore EPO effect ↑↑ after dialysis. (Book p809)]",
+          "questionIds": [
+            "MED-C20-037"
+          ]
+        },
+        {
+          "element": "p809-e017",
+          "page": 809,
+          "source": "A CKD patient has Hb 9.5 g/dl with a modest EPO level. The page's label for this EPO response is: [↓ EPO: inappropriately low EPO to the degree of anemia/hypoxia. (Book p809)]",
+          "questionIds": [
+            "MED-C20-038"
+          ]
+        },
+        {
+          "element": "p809-e018",
+          "page": 809,
+          "source": "An independent effect of anemia in CKD is a raised risk of: [Effect of anemia: independent effect — risk of fall in GFR. (Book p809)]",
+          "questionIds": [
+            "MED-C20-039"
+          ]
+        },
+        {
+          "element": "p809-e019",
+          "page": 809,
+          "source": "The cardiovascular-mortality branch of anemia in CKD lists which causes? [Cardiovascular mortality (m/c cause of death) — causes: LVH, calcification, endothelial dysfunction. (Book p809)]",
+          "questionIds": [
+            "MED-C20-040"
+          ]
+        },
+        {
+          "element": "p809-e020",
+          "page": 809,
+          "source": "All but one are the causes listed under cardiovascular mortality from anemia. Which is the odd one out? [Causes: LVH, calcification, endothelial dysfunction. (Book p809)]",
+          "questionIds": [
+            "MED-C20-041"
+          ]
+        },
+        {
+          "element": "p809-e021",
+          "page": 809,
+          "source": "Cardiovascular mortality is labelled the m/c cause of death in this anemia flowchart. [Cardiovascular mortality (m/c cause of death). (Book p809)]",
+          "questionIds": [
+            "MED-C20-042"
+          ]
+        },
+        {
+          "element": "p809-e022",
+          "page": 809,
+          "source": "Management STEP 1 is to: [STEP 1: replenish iron store. (Book p809)]",
+          "questionIds": [
+            "MED-C20-043"
+          ]
+        },
+        {
+          "element": "p809-e023",
+          "page": 809,
+          "source": "Fill up: Replenish iron store = 2.2 × BW × (Hb deficit) + ______. [Formula as printed: 2.2 × BW × (Hb deficit) + 1000 mg; BW = body weight. (Book p809)]",
+          "questionIds": [
+            "MED-C20-044"
+          ]
+        },
+        {
+          "element": "p809-e024",
+          "page": 809,
+          "source": "The multiplier in the iron-store replenishment formula, as printed on the page, is: [The page prints 2.2 × BW × (Hb deficit) + 1000 mg — note the common Ganzoni 2.4 is NOT the value listed here. (Book p809)]",
+          "questionIds": [
+            "MED-C20-045"
+          ]
+        },
+        {
+          "element": "p809-e025",
+          "page": 809,
+          "source": "The fixed add-on in the iron formula is: [… + 1000 mg. (Book p809)]",
+          "questionIds": [
+            "MED-C20-046"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 810,
+      "pdfPage": 51,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p810 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p810.",
+      "elements": [
+        {
+          "element": "p810-e001",
+          "page": 810,
+          "source": "Oral iron is listed as ferrous sulfate providing: [Oral: ferrous sulfate: 60 mg elemental iron. (Book p810)]",
+          "questionIds": [
+            "MED-C20-047"
+          ]
+        },
+        {
+          "element": "p810-e002",
+          "page": 810,
+          "source": "Oral iron on this page is: [Oral: can be given in non-dialysable patients; less effective. (Book p810)]",
+          "questionIds": [
+            "MED-C20-048"
+          ]
+        },
+        {
+          "element": "p810-e003",
+          "page": 810,
+          "source": "Match the following IV iron to its dose detail — 1) Ferric carboxymaltose  2) Iron sucrose  3) Iron isomaltose … A) 200 mg  B) 1 gm  C) 1 gm in 100 ml NS over 10-15 min [IV: ferric carboxymaltose 1 gm in 100 ml NS over 10-15 min; iron sucrose 200 mg; iron isomaltose 1 gm. (Book p810)]",
+          "questionIds": [
+            "MED-C20-049"
+          ]
+        },
+        {
+          "element": "p810-e004",
+          "page": 810,
+          "source": "Ferric carboxymaltose is infused over: [1 gm in 100 ml NS over 10-15 min. (Book p810)]",
+          "questionIds": [
+            "MED-C20-050"
+          ]
+        },
+        {
+          "element": "p810-e005",
+          "page": 810,
+          "source": "In the iron note, when serum ferritin is normal but anemia persists, the next step is to check: [Note: s. ferritin — low → anemia; normal → anemia ± → TSAT = s. iron / TIBC × 100. (Book p810)]",
+          "questionIds": [
+            "MED-C20-051"
+          ]
+        },
+        {
+          "element": "p810-e006",
+          "page": 810,
+          "source": "Fill up: TSAT = s. iron ÷ ______ × 100. [TSAT = s. iron / TIBC × 100; TSAT: transferrin saturation; TIBC: total iron binding capacity. (Book p810)]",
+          "questionIds": [
+            "MED-C20-052"
+          ]
+        },
+        {
+          "element": "p810-e007",
+          "page": 810,
+          "source": "TIBC stands for: [TIBC: total iron binding capacity. (Book p810)]",
+          "questionIds": [
+            "MED-C20-053"
+          ]
+        },
+        {
+          "element": "p810-e008",
+          "page": 810,
+          "source": "A fall in serum iron means a fall in TSAT. [S. iron ↓ = TSAT ↓ — confirms anemia. (Book p810)]",
+          "questionIds": [
+            "MED-C20-054"
+          ]
+        },
+        {
+          "element": "p810-e009",
+          "page": 810,
+          "source": "All but one are the IV iron preparations named on this page. Which is the odd one out? [IV: ferric carboxymaltose, iron sucrose, iron isomaltose. (Book p810)]",
+          "questionIds": [
+            "MED-C20-055"
+          ]
+        },
+        {
+          "element": "p810-e010",
+          "page": 810,
+          "source": "Management STEP 2 is: [STEP 2: EPO stimulating agents (ESA). (Book p810)]",
+          "questionIds": [
+            "MED-C20-056"
+          ]
+        },
+        {
+          "element": "p810-e011",
+          "page": 810,
+          "source": "The prerequisite TSAT to start EPO is: [Prerequisite to start EPO: TSAT ≥30%. (Book p810)]",
+          "questionIds": [
+            "MED-C20-057"
+          ]
+        },
+        {
+          "element": "p810-e012",
+          "page": 810,
+          "source": "The prerequisite serum ferritin to start EPO is: [Prerequisite: s. ferritin ≥500 ng/ml. (Book p810)]",
+          "questionIds": [
+            "MED-C20-058"
+          ]
+        },
+        {
+          "element": "p810-e013",
+          "page": 810,
+          "source": "The two prerequisites to start EPO, bracketed as 'enough iron store', are: [Prerequisite to start EPO: TSAT ≥30%, s. ferritin ≥500 ng/ml → enough iron store. (Book p810)]",
+          "questionIds": [
+            "MED-C20-059"
+          ]
+        },
+        {
+          "element": "p810-e014",
+          "page": 810,
+          "source": "The absolute contraindication to ESA listed is: [Contraindications: absolute — stroke; relative — malignancy. (Book p810)]",
+          "questionIds": [
+            "MED-C20-060"
+          ]
+        },
+        {
+          "element": "p810-e015",
+          "page": 810,
+          "source": "The relative contraindication to ESA listed is: [Relative: malignancy. (Book p810)]",
+          "questionIds": [
+            "MED-C20-061"
+          ]
+        },
+        {
+          "element": "p810-e016",
+          "page": 810,
+          "source": "The preferred ESA route, SC, requires how much less dose? [Route: SC (preferred) — 30% less dose required. (Book p810)]",
+          "questionIds": [
+            "MED-C20-062"
+          ]
+        },
+        {
+          "element": "p810-e017",
+          "page": 810,
+          "source": "The half-life of first-generation EPO-α (recombinant human erythropoietin) is: [EPO-α: T½ 8.5 hrs. (Book p810)]",
+          "questionIds": [
+            "MED-C20-063"
+          ]
+        },
+        {
+          "element": "p810-e018",
+          "page": 810,
+          "source": "The starting EPO-α dose is: [50-100 U/kg/week or 4000-10000 U/week; increase dose up to 300 U/kg/week. (Book p810)]",
+          "questionIds": [
+            "MED-C20-064"
+          ]
+        },
+        {
+          "element": "p810-e019",
+          "page": 810,
+          "source": "The EPO-α dose can be increased up to: [Increase dose up to 300 U/kg/week. (Book p810)]",
+          "questionIds": [
+            "MED-C20-065"
+          ]
+        },
+        {
+          "element": "p810-e020",
+          "page": 810,
+          "source": "No response to ESA is labelled: [No response: ESA hyporesponsiveness. (Book p810)]",
+          "questionIds": [
+            "MED-C20-066"
+          ]
+        },
+        {
+          "element": "p810-e021",
+          "page": 810,
+          "source": "The most common cause of ESA hyporesponsiveness is: [Cause: iron deficiency (m/c), chronic disease. (Book p810)]",
+          "questionIds": [
+            "MED-C20-067"
+          ]
+        },
+        {
+          "element": "p810-e022",
+          "page": 810,
+          "source": "All but one appear in the ESA drug block. Which is the odd one out? [The ESA block lists daprodustat (newer drug), darbepoetin α and EPO-β (CERA). (Book p810)]",
+          "questionIds": [
+            "MED-C20-068"
+          ]
+        },
+        {
+          "element": "p810-e023",
+          "page": 810,
+          "source": "Daprodustat's mechanism of action is: [Daprodustat: MOA — prolyl hydroxylase inhibitor; route oral; limitations — high cost. (Book p810)]",
+          "questionIds": [
+            "MED-C20-069"
+          ]
+        },
+        {
+          "element": "p810-e024",
+          "page": 810,
+          "source": "Daprodustat is given by the IV route. [Route: oral. (Book p810)]",
+          "questionIds": [
+            "MED-C20-070"
+          ]
+        },
+        {
+          "element": "p810-e025",
+          "page": 810,
+          "source": "Fill up: Second-generation ESAs carry two extra ______-linked glycosylation chains. [2nd generation: (2 extra N-linked glycosylation chains). (Book p810)]",
+          "questionIds": [
+            "MED-C20-071"
+          ]
+        },
+        {
+          "element": "p810-e026",
+          "page": 810,
+          "source": "Match the following ESA to its half-life — 1) EPO-α  2) Darbepoetin α  3) EPO-β (CERA) … A) 25.3 hrs  B) 8.5 hrs  C) 130 hrs [T½: EPO-α 8.5 hrs; darbepoetin α 25.3 hrs; CERA 130 hrs. (Book p810)]",
+          "questionIds": [
+            "MED-C20-072"
+          ]
+        },
+        {
+          "element": "p810-e027",
+          "page": 810,
+          "source": "Darbepoetin α is dosed at: [Darbepoetin α: T½ 25.3 hrs; 60-200 µg/2 weekly. (Book p810)]",
+          "questionIds": [
+            "MED-C20-073"
+          ]
+        },
+        {
+          "element": "p810-e028",
+          "page": 810,
+          "source": "CERA (EPO-β / methoxy polyethylene glycol-β) is dosed at: [EPO-β (CERA): T½ 130 hrs; 0.6 µg/kg/2 weekly. (Book p810)]",
+          "questionIds": [
+            "MED-C20-074"
+          ]
+        },
+        {
+          "element": "p810-e029",
+          "page": 810,
+          "source": "A CKD patient with Hb 10.2 g/dl, TSAT 22% and ferritin 380 ng/ml wants to start an ESA. The correct next step is: [Prerequisite to start EPO: TSAT ≥30% and s. ferritin ≥500 ng/ml (enough iron store) — both unmet here. (Book p810)]",
+          "questionIds": [
+            "MED-C20-075"
+          ]
+        },
+        {
+          "element": "p810-e030",
+          "page": 810,
+          "source": "An anemic CKD patient with a history of completed stroke needs therapy. ESA status is: [Absolute contraindication: stroke. (Book p810)]",
+          "questionIds": [
+            "MED-C20-076"
+          ]
+        }
+      ]
+    }
+  ]
+}

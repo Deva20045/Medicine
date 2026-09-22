@@ -1,0 +1,419 @@
+{
+  "chapter": 52,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+  "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+  "pdfOffset": 893,
+  "pageRange": "962-964",
+  "contentSha256": "8ce695a525f73c41296174477c22293099e948970b280e49ef2a1c4c8a925da3",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch52 p962-964: auto-generated source checklist from existing 47 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 962,
+      "pdfPage": 69,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p962 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p962.",
+      "elements": [
+        {
+          "element": "p962-e001",
+          "page": 962,
+          "source": "Fill up: The opening of the hyponatremia page names three regulators of water balance — the proximal convoluted tubule, the ______, and ADH, the last of which is annotated as ______. [The three regulators listed are PCT, TAL (thick ascending limb)/DCT (distal convoluted tubule) and ADH, and ADH carries the annotation 'minimal'. (Boo]",
+          "questionIds": [
+            "MED-C52-001"
+          ]
+        },
+        {
+          "element": "p962-e002",
+          "page": 962,
+          "source": "For the severity bands on Book p962, which serum sodium range defines the 'severe' category of hyponatremia? [Severe is 100-119, moderate 120-129, mild 130-134 and very severe <100; the page prints these numbers with the unit mg/dL although sodium is expressed]",
+          "questionIds": [
+            "MED-C52-002"
+          ]
+        },
+        {
+          "element": "p962-e003",
+          "page": 962,
+          "source": "Assess the following about the classification of hyponatremia on Book p962: I The four bands are expressed in mg/dL rather than mEq/L. II A sodium of 96 falls in the band labelled 'severe'. [The page does print mg/dL for mild 130-134, moderate 120-129, severe 100-119 and very severe <100; a sodium of 96 is therefore 'very severe', not 'sev]",
+          "questionIds": [
+            "MED-C52-003"
+          ]
+        },
+        {
+          "element": "p962-e004",
+          "page": 962,
+          "source": "Match each serum sodium value with the severity band it occupies on this page — 1) 132 2) 124 3) 105 4) 96 … A) Mild B) Moderate C) Severe D) Very severe [130-134 is mild, 120-129 moderate, 100-119 severe and anything below 100 very severe hyponatremia. (Book p962)]",
+          "questionIds": [
+            "MED-C52-004"
+          ]
+        },
+        {
+          "element": "p962-e005",
+          "page": 962,
+          "source": "Fill up: The first listed cause of hyponatremia is a central defect in thirst regulation due to ______, described as a water intake of about ______ per day. [Cause 1 is a central defect in thirst regulation due to psychogenic polydipsia, with consumption of 15-20 L of water per day. (Book p962)]",
+          "questionIds": [
+            "MED-C52-005"
+          ]
+        },
+        {
+          "element": "p962-e006",
+          "page": 962,
+          "source": "Every statement below fits the book's account of diuretic-induced hyponatremia EXCEPT: [The hierarchy is the reverse: thiazide > loop diuretics, because thiazides block the DCT so that ADH continues to act and hyponatremia follows. (Book ]",
+          "questionIds": [
+            "MED-C52-006"
+          ]
+        },
+        {
+          "element": "p962-e007",
+          "page": 962,
+          "source": "A 66-year-old woman on hydrochlorothiazide for hypertension presents with a serum sodium of 123 mEq/L and normal renal function. Nephron-wise, which segment's blockade explains her hyponatremia? [Thiazides act on the DCT; blocking this diluting segment leaves ADH free to act, which is the mechanism the page gives for thiazide hyponatremia. (Boo]",
+          "questionIds": [
+            "MED-C52-007"
+          ]
+        },
+        {
+          "element": "p962-e008",
+          "page": 962,
+          "source": "Match each route of sodium loss in hypovolemic hyponatremia with its examples in the tree — 1) Renal loss 2) GI loss 3) 3rd space loss … A) Diarrhea, vomiting B) Tubular injury, mineralocorticoid insufficiency, cerebral salt wasting C) Burns, pancreatitis [Renal loss lists tubular injury, mineralocorticoid insufficiency and CSW; GI loss lists diarrhea and vomiting; third-space loss lists burns and pancre]",
+          "questionIds": [
+            "MED-C52-008"
+          ]
+        },
+        {
+          "element": "p962-e009",
+          "page": 962,
+          "source": "In the increased-ADH branch, hypervolemic hyponatremia is attributed to which haemodynamic abnormality and which two exemplars? [The tree separates reduced circulating (true) volume, which gives hypovolemic hyponatremia, from reduced effective volume, which gives hypervolemic hy]",
+          "questionIds": [
+            "MED-C52-009"
+          ]
+        },
+        {
+          "element": "p962-e010",
+          "page": 962,
+          "source": "Assess the two findings listed for hypovolemic hyponatremia: I A reduced IVC diameter with tachycardia and postural hypotension is expected. II Urine output rises while skin turgor is preserved. [The listed findings are reduced IVC diameter with tachycardia and postural hypotension, together with reduced urine output and reduced skin turgor. (B]",
+          "questionIds": [
+            "MED-C52-010"
+          ]
+        },
+        {
+          "element": "p962-e011",
+          "page": 962,
+          "source": "A hyponatremic, volume-depleted man has a urine sodium of 38 mEq/L and a urine potassium of 30 mEq/L. Per the findings table, this electrolyte pattern indicates which cause? [Urine Na+ and K+ both above 20 mEq/L is the row assigned to tubular injury; Na+ >20 with K+ <10 is the row for mineralocorticoid insufficiency/CSW. (B]",
+          "questionIds": [
+            "MED-C52-011"
+          ]
+        },
+        {
+          "element": "p962-e012",
+          "page": 962,
+          "source": "Match each urine electrolyte finding in the hypovolemic table with its cause — 1) Urine Na+ >20 mEq/L 2) Urine Na+ and K+ both >20 mEq/L 3) Urine Na+ >20 with K+ <10 mEq/L … A) Renal B) Tubular injury C) Mineralocorticoid insufficiency/CSW [The three rows read: urine Na+ >20 as a renal cause, urine Na+ and K+ >20 as tubular injury, and urine Na+ >20 with K+ <10 as mineralocorticoid insuff]",
+          "questionIds": [
+            "MED-C52-012"
+          ]
+        },
+        {
+          "element": "p962-e013",
+          "page": 962,
+          "source": "Fill up: SIADH and cortisol or thyroid hormone insufficiency appear under the heading of ______ ADH and are the two entries given for ______ hyponatremia. [Branch 3b is 'Inappropriate ADH', and the two causes listed beneath it — cortisol/thyroid hormone insufficiency and SIADH — produce euvolemic hyponatr]",
+          "questionIds": [
+            "MED-C52-013"
+          ]
+        },
+        {
+          "element": "p962-e014",
+          "page": 962,
+          "source": "Assess the two severity lists in this volume: I This hyponatremia page caps mild at 134, whereas the ADH chapter's classification table caps mild at 135. II Both pages use identical upper limits for every band. [Book p962 gives mild as 130-134 while Book p959 gave 130-135; moderate, severe and very severe bands agree, so the two lists are not identical. (Book ]",
+          "questionIds": [
+            "MED-C52-014"
+          ]
+        },
+        {
+          "element": "p962-e015",
+          "page": 962,
+          "source": "All of the following are grouped under the renal loss arm of hypovolemic hyponatremia EXCEPT: [Renal loss lists tubular injury, mineralocorticoid insufficiency and cerebral salt wasting; vomiting is placed under GI loss along with diarrhea. (Boo]",
+          "questionIds": [
+            "MED-C52-015"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 963,
+      "pdfPage": 70,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p963 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p963.",
+      "elements": [
+        {
+          "element": "p963-e001",
+          "page": 963,
+          "source": "Assess the two pyramids drawn on Book p963: I The vomiting pyramid pairs hyponatremia and hypokalemia with alkalosis. II The diarrhea pyramid, illustrated with VIPoma, pairs them with a normal anion gap metabolic acidosis. [Vomiting gives hyponatremia + hypokalemia + alkalosis, whereas diarrhea (VIPoma) gives hypokalemia with acidosis, annotated NAGMA for normal anion gap]",
+          "questionIds": [
+            "MED-C52-016"
+          ]
+        },
+        {
+          "element": "p963-e002",
+          "page": 963,
+          "source": "Each abnormality below completes one of the two triangles on this page EXCEPT: [Both triangles carry hyponatremia and hypokalemia, with alkalosis in vomiting and NAGMA in diarrhea; potassium is never raised in either. (Book p963)]",
+          "questionIds": [
+            "MED-C52-017"
+          ]
+        },
+        {
+          "element": "p963-e003",
+          "page": 963,
+          "source": "A 41-year-old woman has 5 weeks of secretory diarrhea; sodium 132 mEq/L, potassium 2.7 mEq/L, pH 7.31 with a normal anion gap. A VIPoma is suspected. Which combination does the diarrhea triangle on this page predict? [The diarrhea (VIPoma) triangle is drawn with hyponatremia, hypokalemia and acidosis labelled NAGMA, exactly the picture in this patient. (Book p963)]",
+          "questionIds": [
+            "MED-C52-018"
+          ]
+        },
+        {
+          "element": "p963-e004",
+          "page": 963,
+          "source": "A euvolemic patient with hyponatremia is being worked up for SIADH. Which pair of deficiencies must the page have you rule out first? [The euvolemic algorithm is a single step: rule out cortisol/thyroid hormone insufficiency, and only then call the picture SIADH. (Book p963)]",
+          "questionIds": [
+            "MED-C52-019"
+          ]
+        },
+        {
+          "element": "p963-e005",
+          "page": 963,
+          "source": "Match each SIADH criterion with the direction or cut-off given — 1) Serum osmolality 2) Urine osmolality 3) Urine sodium … A) Decreased B) Increased, greater than serum C) Increased, above 20 mEq/l [The criteria are reduced serum osmolality, urine osmolality higher than serum, and urine Na+ above 20 mEq/l, together with clinical euvolemia and abse]",
+          "questionIds": [
+            "MED-C52-020"
+          ]
+        },
+        {
+          "element": "p963-e006",
+          "page": 963,
+          "source": "What urine sodium cut-off is written into the SIADH criteria on this page? [Criterion four is a doubled urine Na+ of more than 20 mEq/l, reflecting the natriuresis of euvolemia. (Book p963)]",
+          "questionIds": [
+            "MED-C52-021"
+          ]
+        },
+        {
+          "element": "p963-e007",
+          "page": 963,
+          "source": "Assess two SIADH criteria: I Clinical euvolemia is explained as the effect of increased ANF with an unstimulated renin-angiotensin system. II The last criterion requires the presence of pituitary, adrenal, thyroid, renal or liver disease. [Euvolemia is attributed to increased ANF plus a negative RAS; the fifth criterion is the ABSENCE of pituitary, adrenal, thyroid, renal or liver diseas]",
+          "questionIds": [
+            "MED-C52-022"
+          ]
+        },
+        {
+          "element": "p963-e008",
+          "page": 963,
+          "source": "A patient with cirrhosis has a serum sodium of 128 mEq/L with urine Na+ 8 mEq/L. Which SIADH criterion does this patient fail? [SIADH may only be diagnosed when pituitary, adrenal, thyroid, renal and liver disease are all absent, and cirrhosis also produces a hypervolemic hypon]",
+          "questionIds": [
+            "MED-C52-023"
+          ]
+        },
+        {
+          "element": "p963-e009",
+          "page": 963,
+          "source": "Match each SIADH cause category with the examples listed under it — 1) Trauma 2) Paraneoplastic 3) Infections … A) Necrotising pneumonia, meningo-encephalitis B) Head injury C) Small cell carcinoma of lung, pancreatic cancer, duodenal malignancy, lymphoma [Trauma lists head injury, paraneoplastic lists small cell carcinoma of lung, pancreatic cancer, duodenal malignancy and lymphoma, and infections list ]",
+          "questionIds": [
+            "MED-C52-024"
+          ]
+        },
+        {
+          "element": "p963-e010",
+          "page": 963,
+          "source": "All of these tumours appear in the paraneoplastic list for SIADH EXCEPT: [The paraneoplastic list names small cell carcinoma of lung, pancreatic cancer, duodenal malignancy and lymphoma; squamous lung cancer is not included.]",
+          "questionIds": [
+            "MED-C52-025"
+          ]
+        },
+        {
+          "element": "p963-e011",
+          "page": 963,
+          "source": "Fill up: The five drug causes of SIADH grouped as the '5 C's' are chlorpropamide, chlorpromazine, cyclophosphamide, ______ and ______. [The 5 C's are chlorpropamide, chlorpromazine, cyclophosphamide, carbamazepine and clofibrate. (Book p963)]",
+          "questionIds": [
+            "MED-C52-026"
+          ]
+        },
+        {
+          "element": "p963-e012",
+          "page": 963,
+          "source": "Which agent appears in the 'Others' drug list for SIADH rather than among the 5 C's? [The Others list holds oxytocin, nicotine, NSAIDs, psychiatric drugs and vincristine; the other three are members of the 5 C's. (Book p963)]",
+          "questionIds": [
+            "MED-C52-027"
+          ]
+        },
+        {
+          "element": "p963-e013",
+          "page": 963,
+          "source": "A 58-year-old on ABVD chemotherapy for lymphoma has sodium 119 mEq/L, serum osmolality 258 mOsm/kg, urine osmolality 520 mOsm/kg and urine Na+ 46 mEq/L, with normal cortisol and thyroid profiles. Which listed drug mechanism best explains this? [Drugs are a named SIADH category on this page, with vincristine in the Others list; the biochemical pattern satisfies all five SIADH criteria. (Book p]",
+          "questionIds": [
+            "MED-C52-028"
+          ]
+        },
+        {
+          "element": "p963-e014",
+          "page": 963,
+          "source": "Assess the CSW and SIADH comparison table: I CSW is described as hypovolemic with an increased serum potassium. II A raised brain natriuretic peptide is entered in the SIADH column, opposite a dash in the CSW column. [CSW is the hypovolemic column with increased serum K+ and increased BNP; SIADH is euvolemic with normal serum K+, and BNP carries a dash in the SIADH ]",
+          "questionIds": [
+            "MED-C52-029"
+          ]
+        },
+        {
+          "element": "p963-e015",
+          "page": 963,
+          "source": "Below which serum uric acid value does the SIADH column of the CSW versus SIADH table place its doubled fall? [Both columns record a fall in serum uric acid, but only SIADH quantifies it as below 4 mg/dl. (Book p963)]",
+          "questionIds": [
+            "MED-C52-030"
+          ]
+        },
+        {
+          "element": "p963-e016",
+          "page": 963,
+          "source": "Fill up: The first row of the comparison table attributes CSW to a loss of ______ tone, entered with a negative ______ entry, while the SIADH column simply carries a dash. [The CSW entry reads loss of adrenergic tone with a negative RAS, a distinction not made for SIADH, which is left as a dash. (Book p963)]",
+          "questionIds": [
+            "MED-C52-031"
+          ]
+        },
+        {
+          "element": "p963-e017",
+          "page": 963,
+          "source": "Six days after a craniotomy a patient has sodium 121 mEq/L, urine output 4 L/day, tachycardia, a collapsed IVC and urine Na+ 90 mEq/L. Which immediate step does the CSW pattern demand? [Cerebral salt wasting is the hypovolemic column of the table, so the priority is volume repletion with saline; fluid restriction and vaptans are treat]",
+          "questionIds": [
+            "MED-C52-032"
+          ]
+        },
+        {
+          "element": "p963-e018",
+          "page": 963,
+          "source": "Patients from all of these groups are listed as prone to develop hyponatremia with seizures EXCEPT: [The three seizure-prone groups named are psychogenic polydipsia, post-traumatic or head injury patients, and post-operative patients. (Book p963)]",
+          "questionIds": [
+            "MED-C52-033"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 964,
+      "pdfPage": 71,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p964 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p964.",
+      "elements": [
+        {
+          "element": "p964-e001",
+          "page": 964,
+          "source": "Fill up: The management table splits at 48 hours, labelling the acute column as ______ and the chronic-onset column as ______. [The headings are '< 48 Hours (Acute, symptomatic)' and '>48 Hours/Chronic Onset (Compensated)'. (Book p964)]",
+          "questionIds": [
+            "MED-C52-034"
+          ]
+        },
+        {
+          "element": "p964-e002",
+          "page": 964,
+          "source": "Fill up: The acute column warns that a raised ______ carries a risk of ______, and that risk is stated to exceed the risk of osmotic demyelination from rapid correction. [The listed sequence is raised ICT (intracranial tension) leading to a risk of herniation, and herniation is ranked above osmotic demyelination on rapi]",
+          "questionIds": [
+            "MED-C52-035"
+          ]
+        },
+        {
+          "element": "p964-e003",
+          "page": 964,
+          "source": "How is 3% saline prescribed in the acute symptomatic column of the management table? [Rx in the acute column is 3% saline as 3 bottles of 100 ml, each given over 10 minutes for a total of 30 minutes. (Book p964)]",
+          "questionIds": [
+            "MED-C52-036"
+          ]
+        },
+        {
+          "element": "p964-e004",
+          "page": 964,
+          "source": "A patient with an acute symptomatic hyponatremia has completed the three 100 ml bottles of 3% saline within half an hour. Which feature on this page authorises repeating that regimen? [The acute column adds a single instruction: repeat if still under 48 hours, or if there is a fresh seizure. (Book p964)]",
+          "questionIds": [
+            "MED-C52-037"
+          ]
+        },
+        {
+          "element": "p964-e005",
+          "page": 964,
+          "source": "Assess the acute column: I Rapid correction is accepted because herniation is judged the greater hazard. II The same column prescribes 3% saline as a continuous infusion at 15-30 ml/hr. [Statement I is the page's own justification, but the acute regimen is three 100 ml bottles over 10 minutes each; the 15-30 ml/hr infusion belongs to t]",
+          "questionIds": [
+            "MED-C52-038"
+          ]
+        },
+        {
+          "element": "p964-e006",
+          "page": 964,
+          "source": "A 23-year-old is brought in 4 hours after a fitness challenge during which she drank about 18 L of water; sodium is 111 mEq/L and she has a generalised tonic-clonic seizure. What does this page's acute algorithm specify first? [Onset is well within 48 hours with seizures, so the acute column applies: 3% saline, 3 bottles of 100 ml, each over 10 minutes. (Book p964)]",
+          "questionIds": [
+            "MED-C52-039"
+          ]
+        },
+        {
+          "element": "p964-e007",
+          "page": 964,
+          "source": "For a severe hyponatremia of chronic onset, the page offers 3% saline as 100 ml bottles in two alternative regimens. Which pair of limits does it give? [The chronic column reads: if severe, 3 bottles of 100 ml 3% saline, 6 bottles/24 hours OR 25 ml/hr. (Book p964)]",
+          "questionIds": [
+            "MED-C52-040"
+          ]
+        },
+        {
+          "element": "p964-e008",
+          "page": 964,
+          "source": "Match each branch of the chronic-onset column with its instruction — 1) Reduced IVC diameter 2) Euvolemic with sodium under 120 3) Euvolemic with sodium above 120 … A) Admit and start normal saline B) 3% saline infusion at 15-30 ml/hr C) Fluid restriction, with a vaptan as the second option [Hypovolaemia signalled by a collapsed IVC is admitted for normal saline; euvolemic sodium below 120 gets 3% saline at 15-30 ml/hr; above 120 gets flui]",
+          "questionIds": [
+            "MED-C52-041"
+          ]
+        },
+        {
+          "element": "p964-e009",
+          "page": 964,
+          "source": "A 71-year-old with chronic SIADH has sodium 127 mEq/L, clinically euvolemic and asymptomatic. What is the page's first-line measure? [For chronic euvolemic hyponatremia above 120, the first entry is fluid restriction; vaptans are listed after it, with baseline LFT required. (Book p96]",
+          "questionIds": [
+            "MED-C52-042"
+          ]
+        },
+        {
+          "element": "p964-e010",
+          "page": 964,
+          "source": "Assess the two cautions attached to tolvaptan on this page: I Liver function tests should be checked before starting it. II It may be given freely to a dehydrated patient provided the sodium is above 120 mEq/L. [The two caveats printed under vaptans are to check LFT before starting and not to give the drug in dehydration. (Book p964)]",
+          "questionIds": [
+            "MED-C52-043"
+          ]
+        },
+        {
+          "element": "p964-e011",
+          "page": 964,
+          "source": "How is the vaptan receptor labelled on this management page, and which receptor does the ADH chapter's receptor table assign to cAMP-mediated aquaporin insertion? [The vaptan line is printed as V_a antagonists although tolvaptan and friends block the V2 receptor, the cAMP-coupled receptor listed for collecting du]",
+          "questionIds": [
+            "MED-C52-044"
+          ]
+        },
+        {
+          "element": "p964-e012",
+          "page": 964,
+          "source": "Every instruction below belongs to the greater-than-48-hour column EXCEPT: [The rapid three-bottle regimen over 30 minutes is the acute symptomatic arm; the other three are all branches of the compensated chronic column. (Book]",
+          "questionIds": [
+            "MED-C52-045"
+          ]
+        },
+        {
+          "element": "p964-e013",
+          "page": 964,
+          "source": "A 64-year-old on chlorpropamide has sodium 116 mEq/L discovered incidentally, present for an estimated 3 weeks, euvolemic with no seizures. Which regimen fits this page? [Chronic onset with a euvolemic sodium below 120 is managed by a 3% saline infusion at 15-30 ml/hr, not by boluses and not by fluid restriction, which ]",
+          "questionIds": [
+            "MED-C52-046"
+          ]
+        },
+        {
+          "element": "p964-e014",
+          "page": 964,
+          "source": "In the chronic column, recognition of a reduced IVC diameter leads directly to which decision? [A reduced IVC diameter marks hypovolaemia, and the arrow from that box points to admitting the patient and starting normal saline. (Book p964)]",
+          "questionIds": [
+            "MED-C52-047"
+          ]
+        }
+      ]
+    }
+  ]
+}

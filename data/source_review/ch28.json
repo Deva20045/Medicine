@@ -1,0 +1,275 @@
+{
+  "chapter": 28,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+  "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+  "pdfOffset": 823,
+  "pageRange": "841-843",
+  "contentSha256": "ed2e142299d21777799b0dd351e04a128979ecebc749e130e0a7608b13d10709",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch28 p841-843: auto-generated source checklist from existing 29 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 841,
+      "pdfPage": 18,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p841 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p841.",
+      "elements": [
+        {
+          "element": "p841-e001",
+          "page": 841,
+          "source": "The acquired forms account for what share of primary hyperaldosteronism (PHA)? [PHA is 90% acquired and 10% familial. (Book p841)]",
+          "questionIds": [
+            "MED-C28-001"
+          ]
+        },
+        {
+          "element": "p841-e002",
+          "page": 841,
+          "source": "Match the acquired PHA cause to its frequency — 1) B/L adrenal micronodular hyperplasia  2) U/L adrenal adenoma … A) 30%  B) 60% [Bilateral micronodular hyperplasia is 60%; unilateral adrenal adenoma (Conn's syndrome) is 30%. (Book p841)]",
+          "questionIds": [
+            "MED-C28-002"
+          ]
+        },
+        {
+          "element": "p841-e003",
+          "page": 841,
+          "source": "‘Conn's syndrome’ is the eponym for: [U/L adrenal adenoma (30%) is a.k.a. Conn's syndrome. (Book p841)]",
+          "questionIds": [
+            "MED-C28-003"
+          ]
+        },
+        {
+          "element": "p841-e004",
+          "page": 841,
+          "source": "Match familial PHA — 1) Type I  2) Type II … A) ClCN2 mutation  B) Glucocorticoid remediable aldosteronism (GRA), autosomal dominant [Familial (10%): Type I = GRA (AD); Type II = ClCN2 mutation. (Book p841)]",
+          "questionIds": [
+            "MED-C28-004"
+          ]
+        },
+        {
+          "element": "p841-e005",
+          "page": 841,
+          "source": "In the cortical collecting duct P-cell, aldosterone acts via MR to induce AIP, which then activates: [MR–Aldo (+) induces AIP (aldosterone-induced protein) which (+) activates ENaC, retaining Na+ and losing K+/H+. (Book p841)]",
+          "questionIds": [
+            "MED-C28-005"
+          ]
+        },
+        {
+          "element": "p841-e006",
+          "page": 841,
+          "source": "AIP in the P-cell diagram stands for ___. [AIP = aldosterone-induced protein. (Book p841)]",
+          "questionIds": [
+            "MED-C28-006"
+          ]
+        },
+        {
+          "element": "p841-e007",
+          "page": 841,
+          "source": "Despite salt and water retention, PHA causes no edema because: [Salt & water retention stimulates ANP, so there is no edema. (Book p841)]",
+          "questionIds": [
+            "MED-C28-007"
+          ]
+        },
+        {
+          "element": "p841-e008",
+          "page": 841,
+          "source": "The classic triad of PHA is hypertension with: [Triad: HTN, hypokalaemia, metabolic alkalosis. (Book p841)]",
+          "questionIds": [
+            "MED-C28-008"
+          ]
+        },
+        {
+          "element": "p841-e009",
+          "page": 841,
+          "source": "In PHA-associated hypertension, the book notes: [The hypertension shows diastolic > systolic. (Book p841)]",
+          "questionIds": [
+            "MED-C28-009"
+          ]
+        },
+        {
+          "element": "p841-e010",
+          "page": 841,
+          "source": "Match AME vs GRA — 1) AME inheritance  2) GRA inheritance  3) AME cause  4) GRA cause … A) Autosomal dominant  B) Autosomal recessive  C) 11β-HSD2 defect  D) Chimeric ACTH-driven aldosterone secretion [AME is AR with 11β-HSD2 defect; GRA is AD with a chimeric effect where ACTH drives aldosterone. Both give HTN + mA + hypokalaemia. (Book p841)]",
+          "questionIds": [
+            "MED-C28-010"
+          ]
+        },
+        {
+          "element": "p841-e011",
+          "page": 841,
+          "source": "‘GRA is treated with steroids, which suppress the ACTH driving the aldosterone.’ [Rx steroids (−) suppress ACTH and hence the chimeric aldosterone secretion in GRA. (Book p841)]",
+          "questionIds": [
+            "MED-C28-011"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 842,
+      "pdfPage": 19,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p842 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p842.",
+      "elements": [
+        {
+          "element": "p842-e001",
+          "page": 842,
+          "source": "The typical presentation of PHA pairs hypertension with: [HTN with proximal/distal severe muscle weakness + loss of power (fatigue) from hypokalaemia. (Book p842)]",
+          "questionIds": [
+            "MED-C28-012"
+          ]
+        },
+        {
+          "element": "p842-e002",
+          "page": 842,
+          "source": "Renal potassium loss is confirmed by: [Confirmed by 1. urine K+/creatinine and 2. urine spot K+ ↑. (Book p842)]",
+          "questionIds": [
+            "MED-C28-013"
+          ]
+        },
+        {
+          "element": "p842-e003",
+          "page": 842,
+          "source": "Match the ABG branch in a hypokalaemic patient — 1) Metabolic acidosis  2) Metabolic alkalosis … A) Leads to the PHA/AME/GRA/Liddle/Cushing work-up  B) Renal tubular acidosis (RTA) [Hypokalaemia with metabolic acidosis → RTA; with metabolic alkalosis → the hyperaldosterone spectrum. (Book p842)]",
+          "questionIds": [
+            "MED-C28-014"
+          ]
+        },
+        {
+          "element": "p842-e004",
+          "page": 842,
+          "source": "Hypokalaemia + metabolic alkalosis with NORMAL blood pressure points to: [Note: hypokalaemia + metabolic alkalosis + normal BP = Gitelman/Bartter syndromes. (Book p842)]",
+          "questionIds": [
+            "MED-C28-015"
+          ]
+        },
+        {
+          "element": "p842-e005",
+          "page": 842,
+          "source": "Match cause of hypokalaemic metabolic alkalosis with HTN — 1) Acquired  2) Inherited … A) AME (AR), GRA (AD), Liddle (AD)  B) Cushing syndrome and PHA [Acquired: Cushing syndrome, PHA; inherited: AME (AR), GRA (AD), Liddle syndrome (AD). (Book p842)]",
+          "questionIds": [
+            "MED-C28-016"
+          ]
+        },
+        {
+          "element": "p842-e006",
+          "page": 842,
+          "source": "Liddle syndrome is caused by: [Liddle syndrome (AD) = gain-of-function mutation of the ENaC channel. (Book p842)]",
+          "questionIds": [
+            "MED-C28-017"
+          ]
+        },
+        {
+          "element": "p842-e007",
+          "page": 842,
+          "source": "‘The Endocrine Society recommends screening every newly diagnosed hypertensive for PHA, irrespective of age.’ [Every newly diagnosed HTN irrespective of age is screened for PHA. (Book p842)]",
+          "questionIds": [
+            "MED-C28-018"
+          ]
+        },
+        {
+          "element": "p842-e008",
+          "page": 842,
+          "source": "HTN plus target-organ damage at diagnosis or disproportionate should prompt: [HTN + TOD should be considered secondary HTN unless proven otherwise (renal or endocrine cause, incl. PHA). (Book p842)]",
+          "questionIds": [
+            "MED-C28-019"
+          ]
+        },
+        {
+          "element": "p842-e009",
+          "page": 842,
+          "source": "Which is NOT listed among the target-organ-damage markers? [TOD = LVH, fundus changes, microalbuminuria, increased central SYSTOLIC BP. (Book p842)]",
+          "questionIds": [
+            "MED-C28-020"
+          ]
+        },
+        {
+          "element": "p842-e010",
+          "page": 842,
+          "source": "The old screening method, now obsolete because drugs interfere, was: [ARR is obsolete as drugs interfere with the result. (Book p842)]",
+          "questionIds": [
+            "MED-C28-021"
+          ]
+        },
+        {
+          "element": "p842-e011",
+          "page": 842,
+          "source": "Match ARR interference — 1) False positive  2) False negative … A) ACE inhibitors, ARBs, spironolactone, dihydropyridine CCB  B) β-blocker, NSAIDs, clonidine [False positives: β-blocker, NSAIDs, clonidine; false negatives: ACEi, ARB, spironolactone, dihydropyridine (CCB). (Book p842)]",
+          "questionIds": [
+            "MED-C28-022"
+          ]
+        },
+        {
+          "element": "p842-e012",
+          "page": 842,
+          "source": "While being screened, the patient should be shifted to: [Shift to α-blocker, hydralazine, non-dihydropyridine to avoid interference. (Book p842)]",
+          "questionIds": [
+            "MED-C28-023"
+          ]
+        },
+        {
+          "element": "p842-e013",
+          "page": 842,
+          "source": "The newer screening test on an early-morning sample is positive when PAC and PRA are respectively: [Early morning sample: PAC ≥10 ng/dl and PRA ≤1 ng/ml/hr → proceed to confirmatory test. (Book p842)]",
+          "questionIds": [
+            "MED-C28-024"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 843,
+      "pdfPage": 20,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p843 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p843.",
+      "elements": [
+        {
+          "element": "p843-e001",
+          "page": 843,
+          "source": "The confirmatory test for PHA is the saline infusion test, performed as: [Saline infusion test: infuse 2 litres NS over 4 hr to expand intravascular volume. (Book p843)]",
+          "questionIds": [
+            "MED-C28-025"
+          ]
+        },
+        {
+          "element": "p843-e002",
+          "page": 843,
+          "source": "‘In PHA the post-saline aldosterone remains unsuppressed (>10 ng/dL); a normal response is a fall in aldosterone.’ [Volume expansion suppresses aldosterone normally (−); in PHA it stays >10 ng/dL (+). (Book p843)]",
+          "questionIds": [
+            "MED-C28-026"
+          ]
+        },
+        {
+          "element": "p843-e003",
+          "page": 843,
+          "source": "After a positive screen, 2 L saline is infused over 4 h and the repeat PAC is 14 ng/dL. The next best step is: [Repeat PAC ≥10 ng/dl confirms PHA; CT abdomen (IOC) then distinguishes B/L hyperplasia from U/L adenoma in the adrenal gland. (Book p843)]",
+          "questionIds": [
+            "MED-C28-027"
+          ]
+        },
+        {
+          "element": "p843-e004",
+          "page": 843,
+          "source": "The imaging of choice to localise the adrenal lesion in confirmed PHA is: [CT abdomen is the IOC, showing either B/L hyperplasia or U/L adenoma. (Book p843)]",
+          "questionIds": [
+            "MED-C28-028"
+          ]
+        },
+        {
+          "element": "p843-e005",
+          "page": 843,
+          "source": "On the confirmatory saline test, a post-infusion PAC above what value supports PHA? [Aldosterone >10 ng/dL after saline (unsuppressed) is positive for PHA. (Book p843)]",
+          "questionIds": [
+            "MED-C28-029"
+          ]
+        }
+      ]
+    }
+  ]
+}

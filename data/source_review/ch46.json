@@ -1,0 +1,331 @@
+{
+  "chapter": 46,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+  "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+  "pdfOffset": 893,
+  "pageRange": "933-935",
+  "contentSha256": "c7ea662d74a1c5254074643ec4a7dafe5c8d0be07fcaa9d648807a63327487ec",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch46 p933-935: auto-generated source checklist from existing 36 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 933,
+      "pdfPage": 40,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p933 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p933.",
+      "elements": [
+        {
+          "element": "p933-e001",
+          "page": 933,
+          "source": "Match the oral drug class to the mechanism or note in the page columns — 1) Biguanide 2) Sulfonylurea 3) Oral GLP-1 analogue 4) SGLT-2 antagonist … A) Metformin/AMP kinase B) Gliclazide with K+ channel action in the column C) Semaglutide, liraglutide and tirzepatide D) Dapagliflozin and empagliflozin [The four page columns are biguanide/metformin, sulfonylurea/gliclazide, oral GLP-1 analogues and SGLT-2 antagonists with the listed examples. (Book p9]",
+          "questionIds": [
+            "MED-C46-001"
+          ]
+        },
+        {
+          "element": "p933-e002",
+          "page": 933,
+          "source": "The metformin column says it acts by increasing ___ kinase. [Metformin is annotated as acting by increased AMP kinase. (Book p933)]",
+          "questionIds": [
+            "MED-C46-002"
+          ]
+        },
+        {
+          "element": "p933-e003",
+          "page": 933,
+          "source": "What HbA1c-reduction range is written in the metformin column? [The metformin column gives good HbA1c reduction of 1–2%. (Book p933)]",
+          "questionIds": [
+            "MED-C46-003"
+          ]
+        },
+        {
+          "element": "p933-e004",
+          "page": 933,
+          "source": "Assess the metformin notes: I There is no hypoglycemia risk in the column. II The cardiac line points to no risk. [The metformin column says no hypoglycemia risk and shows the cardiac line leading to no risk. (Book p933)]",
+          "questionIds": [
+            "MED-C46-004"
+          ]
+        },
+        {
+          "element": "p933-e005",
+          "page": 933,
+          "source": "A patient has the renal function threshold written in the metformin column. Which page instruction applies? [The metformin column lists contraindication at GFR <30 mL/min. (Book p933)]",
+          "questionIds": [
+            "MED-C46-005"
+          ]
+        },
+        {
+          "element": "p933-e006",
+          "page": 933,
+          "source": "Match the drug column to its distinctive page note — 1) Metformin 2) Gliclazide 3) Oral GLP-1 analogue 4) SGLT-2 antagonist … A) Combats resistance B) Only drug in use, antioxidant and vasodilator C) Used in NASH and protective glycemic/cardio/renal notes D) Blocks NLRP3 inflammasome pathway [Those distinctive notes appear in the respective four oral-drug columns. (Book p933)]",
+          "questionIds": [
+            "MED-C46-006"
+          ]
+        },
+        {
+          "element": "p933-e007",
+          "page": 933,
+          "source": "What HbA1c-reduction range is written for the oral GLP-1 analogue column? [The oral GLP-1 analogue column states HbA1c reduction of 2–5%. (Book p933)]",
+          "questionIds": [
+            "MED-C46-007"
+          ]
+        },
+        {
+          "element": "p933-e008",
+          "page": 933,
+          "source": "Assess the SGLT-2 notes: I Dapagliflozin and empagliflozin are named. II The column says blockade of the NLRP3 inflammasome pathway blocks atherosclerosis. [The SGLT-2 column names dapagliflozin and empagliflozin and draws NLRP3 inflammasome-pathway blockade toward blocked atherosclerosis. (Book p933)]",
+          "questionIds": [
+            "MED-C46-008"
+          ]
+        },
+        {
+          "element": "p933-e009",
+          "page": 933,
+          "source": "Which group is listed under indications of insulin therapy? [The insulin-indications list includes hybrid form, T1DM, GDM, HbA1c ≥9.5%, macro/microvascular involvement, ketosis and significant polyuria/polydipsi]",
+          "questionIds": [
+            "MED-C46-009"
+          ]
+        },
+        {
+          "element": "p933-e010",
+          "page": 933,
+          "source": "Match the insulin type to its page example — 1) Ultra short 2) Short 3) Intermediate 4) Long/ultralong … A) Lispro and Aspart B) Regular C) NPH D) Glargine, Detemir / Degludec [The insulin-type line gives ultra-short lispro/aspart, short regular, intermediate NPH, long glargine/detemir and ultralong degludec. (Book p933)]",
+          "questionIds": [
+            "MED-C46-010"
+          ]
+        },
+        {
+          "element": "p933-e011",
+          "page": 933,
+          "source": "Which is the odd one out among the names printed in the oral GLP-1 analogue column? [Semaglutide, liraglutide and tirzepatide are in the oral GLP-1 analogue column; gliclazide is in the sulfonylurea column. (Book p933)]",
+          "questionIds": [
+            "MED-C46-011"
+          ]
+        },
+        {
+          "element": "p933-e012",
+          "page": 933,
+          "source": "The final line on this page says CGM should be done before starting: [The CGM line states that continuous blood glucose monitoring should be done before starting insulin therapy. (Book p933)]",
+          "questionIds": [
+            "MED-C46-012"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 934,
+      "pdfPage": 41,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p934 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p934.",
+      "elements": [
+        {
+          "element": "p934-e001",
+          "page": 934,
+          "source": "The treatment written below the dawn-phenomenon graph is: [The dawn-phenomenon note gives increase night-time insulin dose. (Book p934)]",
+          "questionIds": [
+            "MED-C46-013"
+          ]
+        },
+        {
+          "element": "p934-e002",
+          "page": 934,
+          "source": "Match the graph pattern to the page label — 1) Early-morning hyperglycemia without the 3 a.m. low 2) 3 a.m. hypoglycemia followed by morning hyperglycemia 3) Excess night insulin 4) Somogyi treatment … A) Dawn phenomenon B) Somogyi effect C) Midnight hypoglycemia D) Decrease night-time insulin dose [The page labels the first graph dawn phenomenon, the second Somogyi effect, links excess night insulin to midnight hypoglycemia, and gives a decreased]",
+          "questionIds": [
+            "MED-C46-014"
+          ]
+        },
+        {
+          "element": "p934-e003",
+          "page": 934,
+          "source": "Assess the Somogyi notes: I Counter-regulatory hormones are linked to early-morning hyperglycemia. II Excess nighttime insulin is linked to midnight hypoglycemia. [Both arrows are written under the Somogyi graph. (Book p934)]",
+          "questionIds": [
+            "MED-C46-015"
+          ]
+        },
+        {
+          "element": "p934-e004",
+          "page": 934,
+          "source": "A glucose tracing shows hypoglycemia at 3 a.m. followed by early-morning hyperglycemia. Which page label fits? [The Somogyi graph explicitly marks hypoglycemia at 3.00 am followed by fasting hyperglycemia. (Book p934)]",
+          "questionIds": [
+            "MED-C46-016"
+          ]
+        },
+        {
+          "element": "p934-e005",
+          "page": 934,
+          "source": "Which regular-insulin schedule is written under insulin regime? [The insulin-regime line gives regular insulin 8–8–8. (Book p934)]",
+          "questionIds": [
+            "MED-C46-017"
+          ]
+        },
+        {
+          "element": "p934-e006",
+          "page": 934,
+          "source": "Match the basal insulin option to the exact schedule — 1) Glargine 2) Degludec 3) Regular insulin basal option … A) 16 U at 11 PM daily B) 16 U on alternate night C) 16 U twice daily [The page lists glargine 16 U at night daily, degludec 16 U on alternate nights and regular 16 U BD daily. (Book p934)]",
+          "questionIds": [
+            "MED-C46-018"
+          ]
+        },
+        {
+          "element": "p934-e007",
+          "page": 934,
+          "source": "After insulin, base glucose is to be assessed how many times? [The page says base glucose levels should be accessed 6 times. (Book p934)]",
+          "questionIds": [
+            "MED-C46-019"
+          ]
+        },
+        {
+          "element": "p934-e008",
+          "page": 934,
+          "source": "The six base-glucose checks are pre- and post- breakfast, lunch and ___. [The list specifies pre- and post-breakfast, pre- and post-lunch, and pre- and post-dinner. (Book p934)]",
+          "questionIds": [
+            "MED-C46-020"
+          ]
+        },
+        {
+          "element": "p934-e009",
+          "page": 934,
+          "source": "Assess the dose-adjustment rule: I A dose may be increased by 2 units. II A dose may be decreased by 4 units. [The final insulin-regime bullet gives increase by 2 units or decrease by 4 units. (Book p934)]",
+          "questionIds": [
+            "MED-C46-021"
+          ]
+        },
+        {
+          "element": "p934-e010",
+          "page": 934,
+          "source": "Which item is labelled a component of the continuous glucose monitoring system? [The CGMS diagram labels continuous glucose monitor, cable, glucose sensor and com-station; glucose sensor is one component. (Book p934)]",
+          "questionIds": [
+            "MED-C46-022"
+          ]
+        },
+        {
+          "element": "p934-e011",
+          "page": 934,
+          "source": "Match the CGMS equipment label to its page description — 1) Sensor 2) Charger/com-station 3) Recorder 4) Inserter … A) Skin sensor B) Charging/display unit C) Recording device D) Insertion device [The equipment drawings are labelled sensor, charger/com-station, recorder and inserter. (Book p934)]",
+          "questionIds": [
+            "MED-C46-023"
+          ]
+        },
+        {
+          "element": "p934-e012",
+          "page": 934,
+          "source": "Which is the odd one out among the two named overnight glucose patterns? [Dawn phenomenon, Somogyi effect and fasting hyperglycemia appear in the overnight tracing notes; postprandial hypoglycemia does not. (Book p934)]",
+          "questionIds": [
+            "MED-C46-024"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 935,
+      "pdfPage": 42,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p935 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p935.",
+      "elements": [
+        {
+          "element": "p935-e001",
+          "page": 935,
+          "source": "Match the macro-priority to the page's comorbidity marker — 1) Heart 2) Kidney 3) Glycemic/weight line 4) Better-outcome addition … A) HF/ASCVD B) Albuminuria C) HbA1c and weight to metformin D) SGLT-2 inhibitor ± GLP-1 analogue [The treatment flow marks HbA1c/weight leading to metformin, heart HF/ASCVD and kidney albuminuria as macro priorities, and SGLT-2 inhibitor ± GLP-1 an]",
+          "questionIds": [
+            "MED-C46-025"
+          ]
+        },
+        {
+          "element": "p935-e002",
+          "page": 935,
+          "source": "Assess the SGLT-2 counselling list: I Euglycemic ketoacidosis is listed. II Mycotic and genital infection are listed. [The SGLT-2 side-effect advice lists euglycemic ketoacidosis, mycotic infection and genital infection. (Book p935)]",
+          "questionIds": [
+            "MED-C46-026"
+          ]
+        },
+        {
+          "element": "p935-e003",
+          "page": 935,
+          "source": "Which blood-pressure targets are written under comorbidity-driven treatment? [The page gives <130/80 without kidney disease and <120/80 with kidney disease. (Book p935)]",
+          "questionIds": [
+            "MED-C46-027"
+          ]
+        },
+        {
+          "element": "p935-e004",
+          "page": 935,
+          "source": "What LDL target is written for a diabetic patient over 40 years with cardiovascular, peripheral vascular or heart disease? [The LDL target branch for CVD/PVD/heart disease is <55 mg/dL. (Book p935)]",
+          "questionIds": [
+            "MED-C46-028"
+          ]
+        },
+        {
+          "element": "p935-e005",
+          "page": 935,
+          "source": "Match the LDL-risk branch to the printed target — 1) Normally 2) Diabetic over 40 without risk factors 3) Diabetic over 40 with one risk factor 4) CVD/PVD/heart disease … A) <130 mg/dL B) <100 mg/dL C) <70 mg/dL D) <55 mg/dL [The LDL flowchart gives normally <130, no risk factors <100, one risk factor <70, and CVD/PVD/heart disease <55 mg/dL. (Book p935)]",
+          "questionIds": [
+            "MED-C46-029"
+          ]
+        },
+        {
+          "element": "p935-e006",
+          "page": 935,
+          "source": "Which statin doses are written below the LDL target flowchart? [The treatment line states rosuvastatin 20 mg and atorvastatin 40 mg. (Book p935)]",
+          "questionIds": [
+            "MED-C46-030"
+          ]
+        },
+        {
+          "element": "p935-e007",
+          "page": 935,
+          "source": "What aspirin dose is written for a diabetic patient over 40 years with one risk factor? [The aspirin line says add 75 mg aspirin for the listed over-40 diabetic patient with one risk factor. (Book p935)]",
+          "questionIds": [
+            "MED-C46-031"
+          ]
+        },
+        {
+          "element": "p935-e008",
+          "page": 935,
+          "source": "A patient with the page's NASH label is being managed. Which investigation and treatment pair is written? [The NASH line recommends Fibroscan and lists semaglutide and saroglitazar. (Book p935)]",
+          "questionIds": [
+            "MED-C46-032"
+          ]
+        },
+        {
+          "element": "p935-e009",
+          "page": 935,
+          "source": "Saroglitazar is labelled a dual PPAR-___ + γ agonist. [The NASH treatment line calls saroglitazar a dual PPAR-α + γ agonist. (Book p935)]",
+          "questionIds": [
+            "MED-C46-033"
+          ]
+        },
+        {
+          "element": "p935-e010",
+          "page": 935,
+          "source": "Assess the proteinuria rule: I ACE inhibitor, SGLT-2 inhibitor and finerenone are listed. II Finerenone is labelled a nonsteroidal mineralocorticoid receptor antagonist. [The proteinuria line lists ACE inhibitor, SGLT-2 inhibitor and finerenone, identifying finerenone as a nonsteroidal mineralocorticoid receptor antagon]",
+          "questionIds": [
+            "MED-C46-034"
+          ]
+        },
+        {
+          "element": "p935-e011",
+          "page": 935,
+          "source": "Match the over-40 diabetic risk factor to the exact examples — 1) First 2) Second 3) Third 4) Fourth … A) Hypertension B) Dyslipidemia C) Swelling D) Family history of CKD [The risk-factor line lists hypertension, dyslipidemia, swelling and family history of CKD before the 75-mg aspirin instruction. (Book p935)]",
+          "questionIds": [
+            "MED-C46-035"
+          ]
+        },
+        {
+          "element": "p935-e012",
+          "page": 935,
+          "source": "Which is the odd one out among the treatments named for proteinuria? [ACE inhibitor, SGLT-2 inhibitor and finerenone are listed for proteinuria; semaglutide appears in the NASH line. (Book p935)]",
+          "questionIds": [
+            "MED-C46-036"
+          ]
+        }
+      ]
+    }
+  ]
+}

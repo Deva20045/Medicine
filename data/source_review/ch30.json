@@ -1,0 +1,307 @@
+{
+  "chapter": 30,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+  "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+  "pdfOffset": 823,
+  "pageRange": "849-851",
+  "contentSha256": "c14d7329c5258d2c25dc7578f8da36ed3e4a2e77a189428a87d8231728546a8b",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch30 p849-851: auto-generated source checklist from existing 33 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 849,
+      "pdfPage": 26,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p849 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p849.",
+      "elements": [
+        {
+          "element": "p849-e001",
+          "page": 849,
+          "source": "Primary adrenal insufficiency is eponymously: [1° adrenal insufficiency = Addison's disease; 2° (m/c) follows abrupt steroid withdrawal, pituitary or hypothalamic dysfunction. (Book p849)]",
+          "questionIds": [
+            "MED-C30-001"
+          ]
+        },
+        {
+          "element": "p849-e002",
+          "page": 849,
+          "source": "The most common cause of SECONDARY adrenal insufficiency is: [2° adrenal insufficiency (m/c overall pattern): abrupt steroid withdrawal is m/c, then pituitary and hypothalamic dysfunction. (Book p849)]",
+          "questionIds": [
+            "MED-C30-002"
+          ]
+        },
+        {
+          "element": "p849-e003",
+          "page": 849,
+          "source": "The most common cause of Addison's overall is: [Autoimmune is m/c overall: polyglandular autoimmune syndrome (PGA)/(APS) type 1 & 2 with anti 21-OH hydroxylase antibody (+), or isolated autoimmune a]",
+          "questionIds": [
+            "MED-C30-003"
+          ]
+        },
+        {
+          "element": "p849-e004",
+          "page": 849,
+          "source": "Match the inherited cause — 1) Aladin gene mutation  2) X-linked adrenoleukodystrophy  3) T-pit mutation … A) ↑ very long chain fatty acid  B) Affects only corticotrophs  C) 3A/4A syndrome (alacrimia, achalasia cardia, Addison's, ANS) [Aladin mutation → 3A/4A syndrome (alacrimia, achalasia cardia, Addison's, 4th A = ANS); X-ALD → ↑ VLCFA; T-pit affects only corticotrophs. (Book p849)]",
+          "questionIds": [
+            "MED-C30-004"
+          ]
+        },
+        {
+          "element": "p849-e005",
+          "page": 849,
+          "source": "The m/c infective cause of Addison's in India is: [TB is m/c in India; meningococcaemia (children) causes Waterhouse-Friderichsen syndrome. (Book p849)]",
+          "questionIds": [
+            "MED-C30-005"
+          ]
+        },
+        {
+          "element": "p849-e006",
+          "page": 849,
+          "source": "Meningococcaemia in children causing adrenal haemorrhage is called: [Meningococcaemia (in children) → Waterhouse-Friderichsen syndrome. (Book p849)]",
+          "questionIds": [
+            "MED-C30-006"
+          ]
+        },
+        {
+          "element": "p849-e007",
+          "page": 849,
+          "source": "The adrenal gland size in Addison's may be: [Size in Addison's: enlarged, normal, atrophic, or asymmetrical. (Book p849)]",
+          "questionIds": [
+            "MED-C30-007"
+          ]
+        },
+        {
+          "element": "p849-e008",
+          "page": 849,
+          "source": "Which group of features belongs to glucocorticoid (GC) deficiency? [GC ↓↓↓: asthenia, anorexia, weakness, weight loss, fatigue, joint pain, hypoglycaemia + hypotension, postural hypotension, euvolemic hyponatremia, eos]",
+          "questionIds": [
+            "MED-C30-008"
+          ]
+        },
+        {
+          "element": "p849-e009",
+          "page": 849,
+          "source": "Hyperkalaemia, acidosis, hypovolemic hyponatremia, salt craving and ↑BUN/creatinine (pre-renal) reflect deficiency of: [MC ↓↓↓: hyperkalaemia, acidosis, hypovolemic hyponatremia, salt cravings, ↑BUN & creatinine (d/t pre-renal failure). (Book p849)]",
+          "questionIds": [
+            "MED-C30-009"
+          ]
+        },
+        {
+          "element": "p849-e010",
+          "page": 849,
+          "source": "Dry atrophic skin, loss of axillary/pubic hair and loss of libido reflect loss of: [SS ↓↓↓: dry atrophic skin, loss of axillary & pubic hair, loss of libido. (Book p849)]",
+          "questionIds": [
+            "MED-C30-010"
+          ]
+        },
+        {
+          "element": "p849-e011",
+          "page": 849,
+          "source": "Hyperpigmentation in Addison's (from ↑ACTH) is seen in about: [ACTH ↑↑ → hyperpigmentation (90%) in sun-exposed areas and oral mucosa. (Book p849)]",
+          "questionIds": [
+            "MED-C30-011"
+          ]
+        },
+        {
+          "element": "p849-e012",
+          "page": 849,
+          "source": "The additional features listed are normocytic normochromic anemia and hypercalcaemia with: [Additional: normocytic normochromic anemia; hypercalcaemia → auricular calcification, while calcification is absent in the adrenal gland. (Book p849)]",
+          "questionIds": [
+            "MED-C30-012"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 850,
+      "pdfPage": 27,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p850 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p850.",
+      "elements": [
+        {
+          "element": "p850-e001",
+          "page": 850,
+          "source": "The listed causes of weakness, fatigue and weight loss include TB, HIV, malignancy, lymphoma and: [Note: causes of weakness, fatigue & weight loss — TB, HIV, malignancy, lymphoma, Addison's disease. (Book p850)]",
+          "questionIds": [
+            "MED-C30-013"
+          ]
+        },
+        {
+          "element": "p850-e002",
+          "page": 850,
+          "source": "Addisonian crisis is precipitated by: [Precipitated by infection (any stress) and abrupt steroid withdrawal. (Book p850)]",
+          "questionIds": [
+            "MED-C30-014"
+          ]
+        },
+        {
+          "element": "p850-e003",
+          "page": 850,
+          "source": "Features of Addisonian crisis include acute abdominal pain, vomiting, constipation, hypoglycaemia and: [Crisis features: acute abdominal pain, vomiting, constipation, hypoglycaemia, hypotension/circulatory failure; Rx fluids + steroids. (Book p850)]",
+          "questionIds": [
+            "MED-C30-015"
+          ]
+        },
+        {
+          "element": "p850-e004",
+          "page": 850,
+          "source": "Match 1° vs 2° adrenal insufficiency — 1) MC axis  2) ACTH  3) Hyperpigmentation … A) ↑ in 1°, ↓ in 2°  B) ↓ in 1°, normal (ACTH-independent) in 2°  C) + in 1°, − in 2° [MC is ↓ in 1° but normal (ACTH independent) in 2°; ACTH ↑ in 1°, ↓ in 2°; hyperpigmentation + in 1°, − in 2°. (Book p850)]",
+          "questionIds": [
+            "MED-C30-016"
+          ]
+        },
+        {
+          "element": "p850-e005",
+          "page": 850,
+          "source": "‘Serum sodium falls in BOTH primary and secondary adrenal insufficiency.’ [S. sodium ↓↓ in both; S. potassium ↑ only in 1° (normal in 2°). (Book p850)]",
+          "questionIds": [
+            "MED-C30-017"
+          ]
+        },
+        {
+          "element": "p850-e006",
+          "page": 850,
+          "source": "Which pair of findings is present in 1° but ABSENT in 2° insufficiency? [Salt craving/postural hypotension (+/−) and hyperpigmentation (+/−) distinguish 1° from 2°; axillary hair loss is ++ vs +. (Book p850)]",
+          "questionIds": [
+            "MED-C30-018"
+          ]
+        },
+        {
+          "element": "p850-e007",
+          "page": 850,
+          "source": "Vitiligo (autoimmune) is seen in: [Vitiligo (autoimmune) + in 1°, − in 2°. (Book p850)]",
+          "questionIds": [
+            "MED-C30-019"
+          ]
+        },
+        {
+          "element": "p850-e008",
+          "page": 850,
+          "source": "A fasting cortisol below what value diagnoses Addison's disease directly? [Fasting cortisol <3 µg/dL = Addison's; >20 µg/dL rules it out; 3–20 needs the Synacthen test. (Book p850)]",
+          "questionIds": [
+            "MED-C30-020"
+          ]
+        },
+        {
+          "element": "p850-e009",
+          "page": 850,
+          "source": "A fasting cortisol above what value rules out Addison's? [>20 µg/dL rules out Addison's. (Book p850)]",
+          "questionIds": [
+            "MED-C30-021"
+          ]
+        },
+        {
+          "element": "p850-e010",
+          "page": 850,
+          "source": "The Synacthen/ACTH stimulation test injects: [Inject 250 µg IM/IV synacthen (cosyntropin/synthetic ACTH); measure cortisol at 30 and 60 min (consider highest value). (Book p850)]",
+          "questionIds": [
+            "MED-C30-022"
+          ]
+        },
+        {
+          "element": "p850-e011",
+          "page": 850,
+          "source": "On the ACTH stimulation test, a peak cortisol below what value confirms Addison's? [<18 µg/dL confirms Addison's; >18 µg/dL rules it out. (Book p850)]",
+          "questionIds": [
+            "MED-C30-023"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 851,
+      "pdfPage": 28,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p851 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p851.",
+      "elements": [
+        {
+          "element": "p851-e001",
+          "page": 851,
+          "source": "The drug of choice for maintenance in Addison's is: [Oral hydrocortisone is DOC; others prednisolone, dexamethasone; fludrocortisone if MC deficiency present. (Book p851)]",
+          "questionIds": [
+            "MED-C30-024"
+          ]
+        },
+        {
+          "element": "p851-e002",
+          "page": 851,
+          "source": "The maintenance hydrocortisone schedule (10 mg + 5 mg + 5 mg) totals: [10 mg (8–8:30 am) + 5 mg (1–1:30 pm) + 5 mg (4–4:30 pm) = 20 mg/day. (Book p851)]",
+          "questionIds": [
+            "MED-C30-025"
+          ]
+        },
+        {
+          "element": "p851-e003",
+          "page": 851,
+          "source": "Fludrocortisone (when MC deficiency is present) is dosed at: [Fludrocortisone dose: 50–100 µg. (Book p851)]",
+          "questionIds": [
+            "MED-C30-026"
+          ]
+        },
+        {
+          "element": "p851-e004",
+          "page": 851,
+          "source": "During fever or infection, the maintenance steroid dose should be: [Fever or infection: double the dose. (Book p851)]",
+          "questionIds": [
+            "MED-C30-027"
+          ]
+        },
+        {
+          "element": "p851-e005",
+          "page": 851,
+          "source": "On the day of surgery, the book advises: [On day of surgery: 50 to 100 mg IV hydrocortisone; hospitalisation ↑ dose to 50–75 mg/day. (Book p851)]",
+          "questionIds": [
+            "MED-C30-028"
+          ]
+        },
+        {
+          "element": "p851-e006",
+          "page": 851,
+          "source": "Match equivalent glucocorticoid doses — 1) Dexamethasone  2) Methylprednisolone  3) Prednisolone  4) Hydrocortisone … A) 20 mg  B) 0.75 mg  C) 4 mg  D) 5 mg [0.75 mg dexamethasone = 4 mg methylprednisolone = 5 mg prednisolone = 20 mg hydrocortisone = 25 mg cortisol. (Book p851)]",
+          "questionIds": [
+            "MED-C30-029"
+          ]
+        },
+        {
+          "element": "p851-e007",
+          "page": 851,
+          "source": "In crisis, the FIRST-day hydrocortisone total (100 mg IV stat + 50 mg IV Q6H) equals: [100 mg immediately + 50 mg IV Q6H = 1st day 300 mg; then 200 mg (2nd), 100 mg (3rd), 50 mg (4th). (Book p851)]",
+          "questionIds": [
+            "MED-C30-030"
+          ]
+        },
+        {
+          "element": "p851-e008",
+          "page": 851,
+          "source": "Match the crisis taper by day — 1) 2nd day  2) 3rd day  3) 4th day … A) 100 mg IV  B) 200 mg IV  C) 50 mg IV [Day 2 = 200 mg IV, day 3 = 100 mg IV, day 4 = 50 mg IV, then oral 25 mg (10,10,5) for a week and 20 mg (10,5,5) maintenance ± fludrocortisone. (Book p]",
+          "questionIds": [
+            "MED-C30-031"
+          ]
+        },
+        {
+          "element": "p851-e009",
+          "page": 851,
+          "source": "Crisis IV fluids are given as: [IV fluids: 0.9% NS/DNS 1 L over 1 hour, then 2–3 L over next 12 hours. (Book p851)]",
+          "questionIds": [
+            "MED-C30-032"
+          ]
+        },
+        {
+          "element": "p851-e010",
+          "page": 851,
+          "source": "After a crisis is controlled, the oral step-down before maintenance is: [Oral hydrocortisone 25 mg (10,10,5) for 1 week, then 20 mg (10,5,5) maintenance ± fludrocortisone. (Book p851)]",
+          "questionIds": [
+            "MED-C30-033"
+          ]
+        }
+      ]
+    }
+  ]
+}

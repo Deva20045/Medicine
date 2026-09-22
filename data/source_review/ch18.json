@@ -1,0 +1,1545 @@
+{
+  "chapter": 18,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+  "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+  "pdfOffset": 759,
+  "pageRange": "796-804",
+  "contentSha256": "e10e2c14c067fe7189a1009bd4d9954d195be9da90c4599e7f3b8ffdaac71656",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch18 p796-804: auto-generated source checklist from existing 181 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 796,
+      "pdfPage": 37,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p796 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p796.",
+      "elements": [
+        {
+          "element": "p796-e001",
+          "page": 796,
+          "source": "Acute kidney injury is defined as an abrupt decrease in renal function over hours to days resulting in: [AKI: abrupt decrease in renal function over hours to days resulting in (a) ECF volume expansion, (b) uremia, (c) hyperkalemia and (d) acidosis. (Book ]",
+          "questionIds": [
+            "MED-C18-001"
+          ]
+        },
+        {
+          "element": "p796-e002",
+          "page": 796,
+          "source": "Fill up: The four consequences of AKI listed are ECF volume expansion, uremia, hyperkalemia and ______. [AKI results in ECF volume expansion, uremia, hyperkalemia and acidosis. (Book p796)]",
+          "questionIds": [
+            "MED-C18-002"
+          ]
+        },
+        {
+          "element": "p796-e003",
+          "page": 796,
+          "source": "Match the KDIGO stage with its urine-output criterion — 1) KDIGO 1  2) KDIGO 2  3) KDIGO 3 … A) <0.5 mL/kg/hr for ≥12 hrs  B) <0.5 mL/kg/hr for ≥6 hrs  C) <0.3 mL/kg/hr for ≥24 hrs or anuria (≤100 mL) for ≥12 hrs [KDIGO urine-output criteria: stage 1 — <0.5 mL/kg/hr for ≥6 hrs; stage 2 — <0.5 mL/kg/hr for ≥12 hrs; stage 3 — <0.3 mL/kg/hr for ≥24 hrs or anuria (≤]",
+          "questionIds": [
+            "MED-C18-003"
+          ]
+        },
+        {
+          "element": "p796-e004",
+          "page": 796,
+          "source": "KDIGO stage 1 is met by a urine output of less than 0.5 mL/kg/hr for at least: [KDIGO 1: urine output <0.5 mL/kg/hr for ≥6 hrs. (Book p796)]",
+          "questionIds": [
+            "MED-C18-004"
+          ]
+        },
+        {
+          "element": "p796-e005",
+          "page": 796,
+          "source": "Match the KDIGO stage with its creatinine criterion — 1) KDIGO 1  2) KDIGO 2  3) KDIGO 3 … A) Raised by >2 times the baseline  B) Raised by >0.3 mg/dL or >50% in 7 days (1.5–1.9 times baseline)  C) Raised by >3 times the baseline [KDIGO creatinine criteria: stage 1 — rise >0.3 mg/dL or >50% in 7 days (1.5–1.9 times baseline); stage 2 — >2 times baseline; stage 3 — >3 times basel]",
+          "questionIds": [
+            "MED-C18-005"
+          ]
+        },
+        {
+          "element": "p796-e006",
+          "page": 796,
+          "source": "A patient's creatinine rises from 1.0 to 2.3 mg/dL over 3 days with urine output of 0.4 mL/kg/hr for 14 hours. The KDIGO stage is: [Creatinine >2 times baseline (stage 2 creatinine) with urine output <0.5 mL/kg/hr for ≥12 hrs (stage 2 urine criterion) = KDIGO 2. (Book p796)]",
+          "questionIds": [
+            "MED-C18-006"
+          ]
+        },
+        {
+          "element": "p796-e007",
+          "page": 796,
+          "source": "A man with creatinine 1.2 mg/dL develops anuria with 90 mL of urine over the last 14 hours. KDIGO stage is: [KDIGO 3 urine criterion: <0.3 mL/kg/hr for ≥24 hrs OR anuria (≤100 mL) for ≥12 hrs. (Book p796)]",
+          "questionIds": [
+            "MED-C18-007"
+          ]
+        },
+        {
+          "element": "p796-e008",
+          "page": 796,
+          "source": "Which set lists only the newer markers of AKI given in the note? [Note: the newer markers in AKI are NGAL, KIM-1, LFABP and IL-18. (Book p796)]",
+          "questionIds": [
+            "MED-C18-008"
+          ]
+        },
+        {
+          "element": "p796-e009",
+          "page": 796,
+          "source": "All but one of the following are listed as newer markers of AKI. Which is the odd one out? [Newer AKI markers listed: NGAL, KIM-1, LFABP and IL-18. (Book p796)]",
+          "questionIds": [
+            "MED-C18-009"
+          ]
+        },
+        {
+          "element": "p796-e010",
+          "page": 796,
+          "source": "In the CAUSES flowchart, the renal causes of AKI are: [The CAUSES flowchart divides AKI into pre-renal, renal and post-renal; the renal branch names acute tubular necrosis (ATN) and acute interstitial neph]",
+          "questionIds": [
+            "MED-C18-010"
+          ]
+        },
+        {
+          "element": "p796-e011",
+          "page": 796,
+          "source": "Pre-renal AKI is labelled as: [Pre-renal AKI is marked as the commonest cause of hospital AKI, with the causes grouped from intravascular volume depletion to compartment syndrome. (]",
+          "questionIds": [
+            "MED-C18-011"
+          ]
+        },
+        {
+          "element": "p796-e012",
+          "page": 796,
+          "source": "Match each pre-renal cause with its category — 1) Hemorrhage/blood loss  2) Cirrhosis  3) Cardiorenal syndrome  4) Sepsis … A) ↓Cardiac output  B) Widespread systemic vasodilation  C) Reduced effective intravascular volume  D) Intravascular volume depletion [Pre-renal causes: intravascular volume depletion (haemorrhage, upper GI bleeding, vomiting/diarrhoea, NG loss, diuretic overuse, diabetes insipidus); ]",
+          "questionIds": [
+            "MED-C18-012"
+          ]
+        },
+        {
+          "element": "p796-e013",
+          "page": 796,
+          "source": "All but one of the following are causes of intravascular volume depletion in pre-renal AKI. Which is the odd one out? [Cirrhosis acts through reduced effective intravascular volume (splanchnic vasodilation), not true volume depletion, which is caused by haemorrhage, GI]",
+          "questionIds": [
+            "MED-C18-013"
+          ]
+        },
+        {
+          "element": "p796-e014",
+          "page": 796,
+          "source": "A patient with cirrhosis has a rising creatinine. The proposed mechanism in the list of pre-renal causes is: [Pre-renal AKI group 2: reduced effective intravascular volume — cirrhosis (due to splanchnic vasodilation), cardiac failure and hypoalbuminemia/nephro]",
+          "questionIds": [
+            "MED-C18-014"
+          ]
+        },
+        {
+          "element": "p796-e015",
+          "page": 796,
+          "source": "Fill up: In the pre-renal causes list, burns, rhabdomyolysis and acute pancreatitis are grouped under ______ sequestration. [Reduced effective intravascular volume from third-space sequestration is bracketed to list burns, rhabdomyolysis and acute pancreatitis. (Book p796)]",
+          "questionIds": [
+            "MED-C18-015"
+          ]
+        },
+        {
+          "element": "p796-e016",
+          "page": 796,
+          "source": "A patient with acute pancreatitis develops oliguric AKI. Which group of pre-renal causes covers this? [Burns, rhabdomyolysis and acute pancreatitis are grouped under third-space sequestration, a component of reduced effective intravascular volume. (Book]",
+          "questionIds": [
+            "MED-C18-016"
+          ]
+        },
+        {
+          "element": "p796-e017",
+          "page": 796,
+          "source": "Match the renal vasoconstriction causes — 1) Hepatorenal syndrome  2) Hypercalcemia  3) Drugs … A) Hepatorenal syndrome  B) NSAIDs, calcineurin inhibitors, ACEi/ARBs  C) Hypercalcemia [Renal vasoconstriction (pre-renal cause 5): hepatorenal syndrome, hypercalcemia and drugs — NSAIDs, calcineurin inhibitors and ACE inhibitors/ARBs. (B]",
+          "questionIds": [
+            "MED-C18-017"
+          ]
+        },
+        {
+          "element": "p796-e018",
+          "page": 796,
+          "source": "Fill up: Among the drugs causing pre-renal AKI by renal vasoconstriction, the book lists NSAIDs, calcineurin inhibitors and ______/ARBs. [Renal vasoconstriction drugs: NSAIDs, calcineurin inhibitors and ACEi/ARBs — all impair renal autoregulation. (Book p796)]",
+          "questionIds": [
+            "MED-C18-018"
+          ]
+        },
+        {
+          "element": "p796-e019",
+          "page": 796,
+          "source": "Sepsis produces pre-renal AKI by widespread systemic vasodilation. [Pre-renal cause 4: widespread systemic vasodilation — sepsis. (Book p796)]",
+          "questionIds": [
+            "MED-C18-019"
+          ]
+        },
+        {
+          "element": "p796-e020",
+          "page": 796,
+          "source": "All but one of the following are listed pre-renal causes of AKI. Which is the odd one out? [Pre-renal causes listed include diabetes insipidus, cardiorenal syndrome and compartment syndrome (cause 6). Renal lymphoma is a renal (AIN by infiltr]",
+          "questionIds": [
+            "MED-C18-020"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 797,
+      "pdfPage": 38,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p797 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p797.",
+      "elements": [
+        {
+          "element": "p797-e001",
+          "page": 797,
+          "source": "The three conditions bracketed together as 'pre-renal >> ATN' in insult/drug-induced AKI are: [The bracket 'pre-renal >> ATN' covers NSAIDs, rhabdomyolysis and polyuria (contrast-induced AKI) — in these the pre-renal component predominates over ]",
+          "questionIds": [
+            "MED-C18-021"
+          ]
+        },
+        {
+          "element": "p797-e002",
+          "page": 797,
+          "source": "Which is the commonest form of pre-renal failure described in the pathophysiology section? [Pathophysiology 1: non-oliguric failure (m/c). Oliguric pre-renal failure occurs only with renal vasoconstriction (NSAIDs/hypercalcemia/HRS). (Book p7]",
+          "questionIds": [
+            "MED-C18-022"
+          ]
+        },
+        {
+          "element": "p797-e003",
+          "page": 797,
+          "source": "Oliguric pre-renal failure occurs only with renal vasoconstriction, as with NSAIDs, hypercalcemia or hepatorenal syndrome. [Oliguric pre-renal failure occurs only with renal vasoconstriction (NSAIDs/hypercalcemia/HRS); otherwise pre-renal failure is non-oliguric. (Book p797]",
+          "questionIds": [
+            "MED-C18-023"
+          ]
+        },
+        {
+          "element": "p797-e004",
+          "page": 797,
+          "source": "Complete the flowchart of long-standing profound pre-renal failure — 1) Tubular lesion  2) Feedback mediator  3) Result … A) Fall in GFR with decreased urine output  B) Ischemic ATN  C) Tubuloglomerular feedback by the macula densa [Flowchart: long-standing profound pre-renal failure produces ischemic ATN; tubuloglomerular feedback by the macula densa then lowers GFR and urine out]",
+          "questionIds": [
+            "MED-C18-024"
+          ]
+        },
+        {
+          "element": "p797-e005",
+          "page": 797,
+          "source": "Fill up: In ischemic ATN, tubuloglomerular feedback is mediated by the ______. [Tubuloglomerular feedback by the macula densa causes ↓GFR and ↓urine output in ischemic ATN. (Book p797)]",
+          "questionIds": [
+            "MED-C18-025"
+          ]
+        },
+        {
+          "element": "p797-e006",
+          "page": 797,
+          "source": "The two broad mechanisms of ATN are: [Renal AKI — ATN: ischemia and toxins (the toxins being endogenous and exogenous). (Book p797)]",
+          "questionIds": [
+            "MED-C18-026"
+          ]
+        },
+        {
+          "element": "p797-e007",
+          "page": 797,
+          "source": "Match each endogenous toxin with its source — 1) Hemoglobin  2) Myoglobin  3) Uric acid  4) Light chains … A) Rhabdomyolysis  B) Hemolysis  C) Uric acid nephropathy  D) Multiple myeloma [Endogenous toxins causing ATN: hemoglobin (hemolysis), myoglobin (rhabdomyolysis), uric acid (uric acid nephropathy) and light chains (multiple myelom]",
+          "questionIds": [
+            "MED-C18-027"
+          ]
+        },
+        {
+          "element": "p797-e008",
+          "page": 797,
+          "source": "A patient in a crush injury develops AKI with pigmented urine. Which endogenous toxin is responsible? [Endogenous toxin list: hemoglobin (hemolysis), myoglobin (rhabdomyolysis), uric acid (uric acid nephropathy) and light chains (multiple myeloma). (Boo]",
+          "questionIds": [
+            "MED-C18-028"
+          ]
+        },
+        {
+          "element": "p797-e009",
+          "page": 797,
+          "source": "Fill up: In ATN, the two listed exogenous toxins are drugs and ______. [Exogenous toxins in ATN: drugs and contrast. (Book p797)]",
+          "questionIds": [
+            "MED-C18-029"
+          ]
+        },
+        {
+          "element": "p797-e010",
+          "page": 797,
+          "source": "The ATN histology figure is labelled with flattened epithelium and intraluminal debris. These changes correspond to: [The ATN figure labels flattened epithelium and intraluminal debris, the histological correlates of tubular injury in ATN. (Book p797)]",
+          "questionIds": [
+            "MED-C18-030"
+          ]
+        },
+        {
+          "element": "p797-e011",
+          "page": 797,
+          "source": "Acute interstitial nephritis (AIN) is caused by: [AIN (hypersensitivity reactions): drugs; infections — leptospirosis and scrub typhus; infiltration — lymphoma and sarcoidosis. (Book p797)]",
+          "questionIds": [
+            "MED-C18-031"
+          ]
+        },
+        {
+          "element": "p797-e012",
+          "page": 797,
+          "source": "Match each AIN cause with its AIN subgroup — 1) Leptospirosis and scrub typhus  2) Lymphoma and sarcoidosis  3) Beta-lactams and PPIs … A) Infections  B) Drugs  C) Infiltration [AIN is a hypersensitivity reaction to drugs, to infections (leptospirosis, scrub typhus) or to infiltration (lymphoma, sarcoidosis). (Book p797)]",
+          "questionIds": [
+            "MED-C18-032"
+          ]
+        },
+        {
+          "element": "p797-e013",
+          "page": 797,
+          "source": "All but one of the following are listed causes of acute interstitial nephritis. Which is the odd one out? [Leptospirosis/scrub typhus (infections) and lymphoma (infiltration) cause AIN; ethylene glycol is an ATN toxin producing oxalate urine crystals. (Book]",
+          "questionIds": [
+            "MED-C18-033"
+          ]
+        },
+        {
+          "element": "p797-e014",
+          "page": 797,
+          "source": "Rhabdomyolysis is listed both as a pre-renal cause (third-space sequestration) and as a cause of ATN through myoglobin. [Rhabdomyolysis appears under third-space sequestration (pre-renal) and as an endogenous ATN toxin (myoglobin), explaining why 'pre-renal >> ATN' is br]",
+          "questionIds": [
+            "MED-C18-034"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 798,
+      "pdfPage": 39,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p798 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p798.",
+      "elements": [
+        {
+          "element": "p798-e001",
+          "page": 798,
+          "source": "Match each drug class with its column in the drug-induced AKI chart — 1) NSAIDs  2) Vancomycin and aminoglycosides  3) Methotrexate and indinavir  4) PPIs and beta-lactams … A) Pre-renal failure  B) AIN  C) Intratubular obstruction (oliguric AKI)  D) ATN [Drug chart: pre-renal failure — NSAIDs, drugs causing ↑Ca²⁺, ACEi/ARB, calcineurin inhibitors; ATN — vancomycin, aminoglycosides, amphotericin B, cisp]",
+          "questionIds": [
+            "MED-C18-035"
+          ]
+        },
+        {
+          "element": "p798-e002",
+          "page": 798,
+          "source": "All but one of the following drugs cause ATN. Which is the odd one out? [Triamterene is grouped under intratubular obstruction (oliguric AKI) along with methotrexate, indinavir, acyclovir and sulfonamides; vancomycin, amino]",
+          "questionIds": [
+            "MED-C18-036"
+          ]
+        },
+        {
+          "element": "p798-e003",
+          "page": 798,
+          "source": "Match the mnemonic letters in the ATN column — 1) V  2) A  3) C  4) E … A) Vancomycin  B) Cisplatin, cyclophosphamide, cidofovir  C) Ethylene glycol (oxalate urine crystals)  D) Aminoglycosides, adefovir, amphotericin B [ATN mnemonic: V — vancomycin; A — aminoglycosides, adefovir, amphotericin B; C — cisplatin, cyclophosphamide, cidofovir; E — ethylene glycol (oxalate ]",
+          "questionIds": [
+            "MED-C18-037"
+          ]
+        },
+        {
+          "element": "p798-e004",
+          "page": 798,
+          "source": "A patient with ethylene glycol poisoning has oxalate crystals in the urine. In the drug chart, ethylene glycol is classified under: [Ethylene glycol is listed in the ATN column with the annotation 'oxalate urine crystals'. (Book p798)]",
+          "questionIds": [
+            "MED-C18-038"
+          ]
+        },
+        {
+          "element": "p798-e005",
+          "page": 798,
+          "source": "Match the mnemonic letters in the intratubular obstruction column — 1) m  2) I  3) T  4) A  5) S … A) Methotrexate (increased dose)  B) Triamterene  C) Acyclovir  D) Sulfonamides  E) Indinavir [Intratubular obstruction (oliguric AKI) mnemonic: m — methotrexate (increased dose); I — indinavir; T — triamterene; A — acyclovir; S — sulfonamides. ]",
+          "questionIds": [
+            "MED-C18-039"
+          ]
+        },
+        {
+          "element": "p798-e006",
+          "page": 798,
+          "source": "Which set lists the drugs appearing in the AIN column of the drug-induced AKI chart? [The AIN column mnemonic is P-B-R-A-N-D: PPIs, beta-lactams, rifampicin, allopurinol with anticonvulsants, NSAIDs and diuretics. The other options are ]",
+          "questionIds": [
+            "MED-C18-040"
+          ]
+        },
+        {
+          "element": "p798-e007",
+          "page": 798,
+          "source": "A patient started on indinavir for HIV develops oliguric AKI. The mechanism in the drug chart is: [Indinavir is listed in the intratubular obstruction column, which is described as oliguric AKI. (Book p798)]",
+          "questionIds": [
+            "MED-C18-041"
+          ]
+        },
+        {
+          "element": "p798-e008",
+          "page": 798,
+          "source": "NSAIDs appear in the drug chart both as a pre-renal cause and in the AIN column. [NSAIDs are listed under pre-renal failure and again in the AIN column (with diuretics), reflecting their dual mechanisms. (Book p798)]",
+          "questionIds": [
+            "MED-C18-042"
+          ]
+        },
+        {
+          "element": "p798-e009",
+          "page": 798,
+          "source": "All but one of the following drugs cause intratubular obstruction. Which is the odd one out? [Adefovir is in the ATN column (with aminoglycosides and amphotericin B); methotrexate, acyclovir, sulfonamides and triamterene cause intratubular obst]",
+          "questionIds": [
+            "MED-C18-043"
+          ]
+        },
+        {
+          "element": "p798-e010",
+          "page": 798,
+          "source": "Which drug group is listed under pre-renal failure as causing ↑serum calcium in the drug chart? [Pre-renal failure column: NSAIDs; drugs causing ↑Ca²⁺ (hypercalcemia); ACEi/ARB; calcineurin inhibitors. (Book p798)]",
+          "questionIds": [
+            "MED-C18-044"
+          ]
+        },
+        {
+          "element": "p798-e011",
+          "page": 798,
+          "source": "Match the urine output and albumin in the pre-renal vs ATN table — 1) Pre-renal AKI urine output  2) Pre-renal urine albumin  3) ATN urine albumin … A) (–) absent  B) ↓  C) Normal  D) 1+ [Table: pre-renal — urine output normal, urine albumin absent (–); ATN — urine output ↓, urine albumin 1+. (Book p798)]",
+          "questionIds": [
+            "MED-C18-045"
+          ]
+        },
+        {
+          "element": "p798-e012",
+          "page": 798,
+          "source": "Urine microscopy shows muddy brown epithelial casts. According to the table this finding belongs to: [Table: urine microscopy is (–) in pre-renal AKI and shows muddy brown epithelial casts in ATN. (Book p798)]",
+          "questionIds": [
+            "MED-C18-046"
+          ]
+        },
+        {
+          "element": "p798-e013",
+          "page": 798,
+          "source": "The BUN/creatinine ratio in pre-renal AKI is: [Table: BUN/creatinine ratio >20 in pre-renal AKI and <10 in ATN. (Book p798)]",
+          "questionIds": [
+            "MED-C18-047"
+          ]
+        },
+        {
+          "element": "p798-e014",
+          "page": 798,
+          "source": "In the pre-renal vs ATN table, the urine sodium in ATN is: [Table: urine Na⁺ <20 mEq/L in pre-renal AKI and >40 mEq/L in ATN. (Book p798)]",
+          "questionIds": [
+            "MED-C18-048"
+          ]
+        },
+        {
+          "element": "p798-e015",
+          "page": 798,
+          "source": "Match urine creatinine and FeNa in the table — 1) Pre-renal urine creatinine  2) ATN urine creatinine  3) Pre-renal FeNa  4) ATN FeNa … A) <1%  B) <20  C) >2%  D) >40 [Table: urine creatinine >40 (pre-renal) versus <20 (ATN); FeNa <1% (pre-renal) versus >2% (ATN) — FeNa being marked as the best parameter. (Book p798)]",
+          "questionIds": [
+            "MED-C18-049"
+          ]
+        },
+        {
+          "element": "p798-e016",
+          "page": 798,
+          "source": "The table marks FeNa as the best discriminator between pre-renal AKI and ATN. [In the table, FeNa carries the annotation '(Best)' — urine osmolality and specific gravity are normal in pre-renal AKI and ↓ in ATN, while urine pH is]",
+          "questionIds": [
+            "MED-C18-050"
+          ]
+        },
+        {
+          "element": "p798-e017",
+          "page": 798,
+          "source": "Match urine osmolality, specific gravity and pH — 1) Pre-renal urine osmolality  2) ATN urine specific gravity  3) ATN urine pH … A) ↑  B) Normal  C) ↓ [Table: pre-renal — urine osmolality normal, specific gravity normal, pH normal; ATN — osmolality ↓, specific gravity ↓, pH ↑. (Book p798)]",
+          "questionIds": [
+            "MED-C18-051"
+          ]
+        },
+        {
+          "element": "p798-e018",
+          "page": 798,
+          "source": "The treatment row of the pre-renal versus ATN table is: [Rx row: fluids for pre-renal AKI; Rx of cause for ATN. (Book p798)]",
+          "questionIds": [
+            "MED-C18-052"
+          ]
+        },
+        {
+          "element": "p798-e019",
+          "page": 798,
+          "source": "Fill up: The formula for fractional excretion of sodium (FeNa) is (u.Na/u.Creatinine) × (______/S.Na). [FeNa = (u. Na / u. Creatinine) × (S. Creatinine / S. Na); normal is 1–2%. (Book p798)]",
+          "questionIds": [
+            "MED-C18-053"
+          ]
+        },
+        {
+          "element": "p798-e020",
+          "page": 798,
+          "source": "The normal value of FeNa is: [Normal FeNa: 1–2%. (Book p798)]",
+          "questionIds": [
+            "MED-C18-054"
+          ]
+        },
+        {
+          "element": "p798-e021",
+          "page": 798,
+          "source": "Why is FeNa reduced in pre-renal failure? [↓FeNa in pre-renal failure occurs because Na⁺ reabsorption is increased (↓u.Na) and creatinine secretion is increased (↑u.Creatinine). (Book p798)]",
+          "questionIds": [
+            "MED-C18-055"
+          ]
+        },
+        {
+          "element": "p798-e022",
+          "page": 798,
+          "source": "In which conditions can ATN show a FeNa below 1% because a pre-renal component predominates? [ATN with FeNa <1: NSAIDs, rhabdomyolysis and contrast AKI, grouped because the pre-renal component is predominant. (Book p798)]",
+          "questionIds": [
+            "MED-C18-056"
+          ]
+        },
+        {
+          "element": "p798-e023",
+          "page": 798,
+          "source": "All but one of the following favour ATN over pre-renal AKI. Which is the odd one out? [Urine Na⁺ <20 mEq/L favours pre-renal AKI; muddy brown casts, BUN/creatinine <10 and FeNa >2% all favour ATN. (Book p798)]",
+          "questionIds": [
+            "MED-C18-057"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 799,
+      "pdfPage": 40,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p799 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p799.",
+      "elements": [
+        {
+          "element": "p799-e001",
+          "page": 799,
+          "source": "Acute interstitial nephritis is: [AIN: hypersensitivity reaction (T₄ mediated), causing reversible AKI. (Book p799)]",
+          "questionIds": [
+            "MED-C18-058"
+          ]
+        },
+        {
+          "element": "p799-e002",
+          "page": 799,
+          "source": "Fill up: AIN is a ______ reaction, T₄ mediated, causing reversible AKI. [AIN is a hypersensitivity reaction that is T₄ mediated and produces reversible AKI. (Book p799)]",
+          "questionIds": [
+            "MED-C18-059"
+          ]
+        },
+        {
+          "element": "p799-e003",
+          "page": 799,
+          "source": "Match the AIN clinical features — 1) Rash, eosinophilia  2) Renal failure  3) Edema and hypertension  4) Flank pain, haematuria, pyuria … A) Asymptomatic  B) Rare  C) Absent  D) Present with eosinophilia [AIN clinical features: rash and eosinophilia; renal failure may be asymptomatic; no edema or HTN; flank pain, haematuria and pyuria are rare. (Book p7]",
+          "questionIds": [
+            "MED-C18-060"
+          ]
+        },
+        {
+          "element": "p799-e004",
+          "page": 799,
+          "source": "Edema and hypertension are characteristically absent in acute interstitial nephritis. [AIN clinical features: no edema, no HTN (in contrast with glomerular and volume-overload AKI). (Book p799)]",
+          "questionIds": [
+            "MED-C18-061"
+          ]
+        },
+        {
+          "element": "p799-e005",
+          "page": 799,
+          "source": "A patient started on an antibiotic 10 days ago now has a maculopapular rash, eosinophilia and a rising creatinine with no oedema or hypertension. Which diagnosis fits? [AIN: hypersensitivity reaction with rash and eosinophilia, asymptomatic renal failure without oedema/HTN (maculopapular rash figure). (Book p799)]",
+          "questionIds": [
+            "MED-C18-062"
+          ]
+        },
+        {
+          "element": "p799-e006",
+          "page": 799,
+          "source": "Match the AIN investigations — 1) RFT  2) Urinalysis  3) Renal biopsy … A) Mild proteinuria with occasional WBC casts  B) Interstitial infiltrates with a normal glomerulus  C) Impaired [AIN investigations: impaired RFT; urinalysis — mild proteinuria with occasional WBC casts; renal biopsy — interstitial infiltrates with a normal glome]",
+          "questionIds": [
+            "MED-C18-063"
+          ]
+        },
+        {
+          "element": "p799-e007",
+          "page": 799,
+          "source": "The renal biopsy finding in acute interstitial nephritis is: [Renal biopsy in AIN: interstitial infiltrates + normal glomerulus. (Book p799)]",
+          "questionIds": [
+            "MED-C18-064"
+          ]
+        },
+        {
+          "element": "p799-e008",
+          "page": 799,
+          "source": "Fill up: The urinalysis in AIN shows mild proteinuria and occasional ______ casts. [Urinalysis in AIN: mild proteinuria with occasional WBC casts (not RBC or muddy brown casts). (Book p799)]",
+          "questionIds": [
+            "MED-C18-065"
+          ]
+        },
+        {
+          "element": "p799-e009",
+          "page": 799,
+          "source": "The treatment of acute interstitial nephritis consists of: [Treatment of AIN: stop the insult; after 1 week, steroids (mainstay). (Book p799)]",
+          "questionIds": [
+            "MED-C18-066"
+          ]
+        },
+        {
+          "element": "p799-e010",
+          "page": 799,
+          "source": "In the treatment of AIN, steroids are started after: [AIN treatment: stop the insult, and after 1 week steroids are the mainstay — the delay allows spontaneous recovery from the hypersensitivity. (Book p7]",
+          "questionIds": [
+            "MED-C18-067"
+          ]
+        },
+        {
+          "element": "p799-e011",
+          "page": 799,
+          "source": "All but one of the following are features of AIN. Which is the odd one out? [AIN is characterised by the absence of oedema and HTN; rash, eosinophilia, WBC casts and interstitial infiltrates with normal glomeruli all belong to ]",
+          "questionIds": [
+            "MED-C18-068"
+          ]
+        },
+        {
+          "element": "p799-e012",
+          "page": 799,
+          "source": "Complete the NSAID pathophysiology flowchart — 1) NSAIDs act on PGE₂/PGI₂  2) Effect on RAAS  3) Final step … A) Stimulation of RAAS  B) ↑K⁺ excretion via aldosterone  C) (–) inhibition [NSAID flowchart: NSAIDs (–) PGE₂/PGI₂ → stimulates RAAS → aldosterone → ↑K⁺ excretion. (Book p799)]",
+          "questionIds": [
+            "MED-C18-069"
+          ]
+        },
+        {
+          "element": "p799-e013",
+          "page": 799,
+          "source": "A 60-year-old on long-term NSAIDs develops AKI with a urine output of 400 mL/day, FeNa of 0.7% and a K⁺ of 6.4 mEq/L. Which statement matches the book's description? [NSAID nephropathy clinical features: oliguria, FeNa <1 and hyperkalemia out of proportion. (Book p799)]",
+          "questionIds": [
+            "MED-C18-070"
+          ]
+        },
+        {
+          "element": "p799-e014",
+          "page": 799,
+          "source": "All but one of the following are features of NSAID-induced nephropathy. Which is the odd one out? [NSAID nephropathy: oliguria, FeNa <1 and hyperkalemia out of proportion; FeNa >2% indicates established ATN. (Book p799)]",
+          "questionIds": [
+            "MED-C18-071"
+          ]
+        },
+        {
+          "element": "p799-e015",
+          "page": 799,
+          "source": "Complete the aminoglycoside pathophysiology flowchart — 1) Cationic amino groups on the drug  2) Target  3) Intracellular effect … A) Anionic megalin  B) Accumulates in lysosomes after endocytosis causing oxidative stress  C) Binds anionic megalin in the brush border of the PCT [Aminoglycoside flowchart: cationic amino groups on the drug bind anionic megalin in the brush border of the PCT; after endocytosis the drug accumulate]",
+          "questionIds": [
+            "MED-C18-072"
+          ]
+        },
+        {
+          "element": "p799-e016",
+          "page": 799,
+          "source": "Aminoglycosides are taken up into proximal tubular cells by binding to: [Cationic amino groups on aminoglycosides bind anionic megalin in the brush border of the PCT, are endocytosed, and accumulate in lysosomes causing oxi]",
+          "questionIds": [
+            "MED-C18-073"
+          ]
+        },
+        {
+          "element": "p799-e017",
+          "page": 799,
+          "source": "A patient given gentamicin develops non-oliguric AKI on day 7 of therapy. Which drug-related pattern is described? [Aminoglycoside clinical features: non-oliguric AKI 5–10 days after the drug — hence renal function must be monitored in this window. (Book p799)]",
+          "questionIds": [
+            "MED-C18-074"
+          ]
+        },
+        {
+          "element": "p799-e018",
+          "page": 799,
+          "source": "How is aminoglycoside nephrotoxicity prevented according to the page? [Prevention: administer the aminoglycoside as a single dose, following concentration-dependent killing, rather than by sustained divided dosing. (Book ]",
+          "questionIds": [
+            "MED-C18-075"
+          ]
+        },
+        {
+          "element": "p799-e019",
+          "page": 799,
+          "source": "Aminoglycoside-induced non-oliguric AKI typically appears how long after the drug? [Aminoglycoside clinical features: non-oliguric AKI 5–10 days after the drug. (Book p799)]",
+          "questionIds": [
+            "MED-C18-076"
+          ]
+        },
+        {
+          "element": "p799-e020",
+          "page": 799,
+          "source": "All but one of the following are correct about aminoglycoside nephropathy. Which is the odd one out? [Aminoglycosides cause non-oliguric AKI (5–10 days after the drug), with the megalin-lysosome-oxidative stress mechanism. (Book p799)]",
+          "questionIds": [
+            "MED-C18-077"
+          ]
+        },
+        {
+          "element": "p799-e021",
+          "page": 799,
+          "source": "Both NSAID and aminoglycoside nephropathy involve active reabsorption pathways in the proximal nephron. [Aminoglycosides are endocytosed after binding anionic megalin in the PCT brush border; NSAIDs act by inhibiting PGE₂/PGI₂, stimulating RAAS. (Book p79]",
+          "questionIds": [
+            "MED-C18-078"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 800,
+      "pdfPage": 41,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p800 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p800.",
+      "elements": [
+        {
+          "element": "p800-e001",
+          "page": 800,
+          "source": "Match the three phases of ATN described — 1) Phase 1 tubular injury  2) Phase 2 tubuloglomerular feedback  3) Phase 3 … A) ↓GFR from adenosine-mediated afferent arteriolar vasoconstriction  B) Recovery  C) Loss of solutes and water [ATN phases: 1 — tubular injury with loss of solutes and water; 2 — tubuloglomerular feedback → ↓GFR; 3 — recovery. (Book p800)]",
+          "questionIds": [
+            "MED-C18-079"
+          ]
+        },
+        {
+          "element": "p800-e002",
+          "page": 800,
+          "source": "In ATN, the fall in urine output is mediated by: [ATN phase 2: ↓urine output from adenosine-mediated afferent arteriolar vasoconstriction, with ↑S. phosphorus, ↓S. Ca²⁺, ↑mg²⁺ and hyponatremia all red]",
+          "questionIds": [
+            "MED-C18-080"
+          ]
+        },
+        {
+          "element": "p800-e003",
+          "page": 800,
+          "source": "Match each ATN electrolyte acid-base change — 1) Serum phosphorus  2) Serum calcium  3) Serum magnesium  4) Serum sodium … A) ↓ (hyponatremia)  B) ↑  C) ↓  D) ↑ [ATN phase 2: ↑S. phosphorus, ↓S. Ca²⁺, ↑mg²⁺ and hyponatremia, all grouped with the fall in GFR. (Book p800)]",
+          "questionIds": [
+            "MED-C18-081"
+          ]
+        },
+        {
+          "element": "p800-e004",
+          "page": 800,
+          "source": "Match the complications of ATN — 1) Uremia  2) Volume overload  3) Acidosis  4) Potassium … A) ↑K⁺  B) Present  C) NAGMA  D) Present [ATN complications: uremia, volume overload, acidosis (NAGMA — normal anion gap metabolic acidosis) and ↑K⁺. (Book p800)]",
+          "questionIds": [
+            "MED-C18-082"
+          ]
+        },
+        {
+          "element": "p800-e005",
+          "page": 800,
+          "source": "Fill up: The acidosis of ATN is described as ______. [ATN complications include acidosis (NAGMA) and ↑K⁺ along with uremia and volume overload. (Book p800)]",
+          "questionIds": [
+            "MED-C18-083"
+          ]
+        },
+        {
+          "element": "p800-e006",
+          "page": 800,
+          "source": "Hypercalcemia and hypernatremia are not seen in AKI. [Note: hypercalcemia and hypernatremia are not seen in AKI (indeed calcium falls and hyponatremia occurs), whereas hyperkalaemia and acidosis are chara]",
+          "questionIds": [
+            "MED-C18-084"
+          ]
+        },
+        {
+          "element": "p800-e007",
+          "page": 800,
+          "source": "A patient with ATN is in the recovery phase. Which phase number and description apply? [ATN phases are 1 — tubular injury, 2 — tubuloglomerular feedback with ↓GFR, 3 — recovery. (Book p800)]",
+          "questionIds": [
+            "MED-C18-085"
+          ]
+        },
+        {
+          "element": "p800-e008",
+          "page": 800,
+          "source": "All but one of the following biochemical changes are seen in ATN. Which is the odd one out? [In ATN, S. Ca²⁺ falls (↓); phosphorus, magnesium and uric acid rise with hyponatremia. (Book p800)]",
+          "questionIds": [
+            "MED-C18-086"
+          ]
+        },
+        {
+          "element": "p800-e009",
+          "page": 800,
+          "source": "Complete the sepsis pathophysiology flowchart — 1) Pre-renal component  2) Macrovascular change  3) Microvascular change … A) Predominant over ATN  B) Microthrombi + endothelial leak  C) Widespread systemic vasodilation [Sepsis flowchart: pre-renal (predominant) >> ATN; widespread systemic vasodilation (macrovascular) + microthrombi + endothelial leak (microvascular) →]",
+          "questionIds": [
+            "MED-C18-087"
+          ]
+        },
+        {
+          "element": "p800-e010",
+          "page": 800,
+          "source": "In sepsis, the pre-renal component predominates over ATN, and microthrombi with endothelial leak cause ↓↓ kidney perfusion. [Sepsis flowchart: pre-renal (predominant) >> ATN, with vasodilation plus microthrombi and endothelial leak reducing kidney perfusion. (Book p800)]",
+          "questionIds": [
+            "MED-C18-088"
+          ]
+        },
+        {
+          "element": "p800-e011",
+          "page": 800,
+          "source": "Match the sepsis ATN pathway — 1) ↑PAMPs, DAMPs  2) Next step  3) Result … A) Inflammatory cascade  B) Released in ATN  C) Oxidative stress [ATN arm of the sepsis flowchart: ↑PAMPs, DAMPs → inflammatory cascade → oxidative stress. (Book p800)]",
+          "questionIds": [
+            "MED-C18-089"
+          ]
+        },
+        {
+          "element": "p800-e012",
+          "page": 800,
+          "source": "Match the causes of sepsis-associated AKI — 1) Urosepsis  2) CRBSI  3) Diabetic nephropathy with soft tissue infection (cellulitis) … A) Urosepsis  B) Catheter related bloodstream infection  C) Cellulitis [Causes of sepsis in this section: urosepsis; CRBSI (catheter related blood stream infection); DM nephropathy with soft tissue infection (cellulitis); ]",
+          "questionIds": [
+            "MED-C18-090"
+          ]
+        },
+        {
+          "element": "p800-e013",
+          "page": 800,
+          "source": "The sepsis causes listed besides urosepsis, CRBSI and cellulitis are: [Causes list: urosepsis, CRBSI, DM nephropathy with soft tissue infection (cellulitis), renal allograft recipients, UTI and post-operative. (Book p800)]",
+          "questionIds": [
+            "MED-C18-091"
+          ]
+        },
+        {
+          "element": "p800-e014",
+          "page": 800,
+          "source": "In early sepsis, why may the skin feel warm despite poor end-organ perfusion? [Signs of poor end-organ perfusion: HR >90/min, cool skin (redirection of blood flow) — warm in the early phase — with ↓urine output and restlessness. ]",
+          "questionIds": [
+            "MED-C18-092"
+          ]
+        },
+        {
+          "element": "p800-e015",
+          "page": 800,
+          "source": "Match each sign of poor end-organ perfusion in sepsis — 1) Heart rate  2) Skin  3) Urine output  4) Sensorium … A) ↓  B) Restlessness  C) >90/min  D) Cool skin (warm early) [Sepsis clinical features (signs of poor end-organ perfusion): HR >90/min; cool skin (redirection of blood flow), warm in the early phase; ↓urine outpu]",
+          "questionIds": [
+            "MED-C18-093"
+          ]
+        },
+        {
+          "element": "p800-e016",
+          "page": 800,
+          "source": "The heart-rate threshold given among the signs of poor end-organ perfusion in sepsis is: [Signs of poor end-organ perfusion: HR >90/min, plus cool skin, ↓urine output and restlessness. (Book p800)]",
+          "questionIds": [
+            "MED-C18-094"
+          ]
+        },
+        {
+          "element": "p800-e017",
+          "page": 800,
+          "source": "All but one of the following are listed as causes of sepsis-related AKI. Which is the odd one out? [Listed causes: urosepsis, CRBSI, DM nephropathy with soft tissue infection (cellulitis), renal allograft recipients, UTI and post-operative state. (Bo]",
+          "questionIds": [
+            "MED-C18-095"
+          ]
+        },
+        {
+          "element": "p800-e018",
+          "page": 800,
+          "source": "The normal IVC diameter used to determine the amount of fluid required is: [Investigations in sepsis-AKI: IVC diameter 2–2.5 cm is normal and determines the amount of fluid required. (Book p800)]",
+          "questionIds": [
+            "MED-C18-096"
+          ]
+        },
+        {
+          "element": "p800-e019",
+          "page": 800,
+          "source": "Match each sepsis-AKI parameter with its interpretation — 1) S. lactate >1 mmol/L  2) S. lactate >4 mmol/L  3) IVC diameter 2-2.5 cm … A) Normal value, determining the amount of fluid required  B) Organ hypoperfusion  C) Severe sepsis [Investigations in sepsis-AKI: an IVC diameter of 2-2.5 cm is normal and determines the fluid requirement; lactate >1 mmol/L indicates organ hypoperfus]",
+          "questionIds": [
+            "MED-C18-097"
+          ]
+        },
+        {
+          "element": "p800-e020",
+          "page": 800,
+          "source": "A serum lactate above which value indicates severe sepsis? [Serum lactate >4 mmol/L indicates severe sepsis, while >1 mmol/L denotes organ hypoperfusion. (Book p800)]",
+          "questionIds": [
+            "MED-C18-098"
+          ]
+        },
+        {
+          "element": "p800-e021",
+          "page": 800,
+          "source": "The passive leg raising test (PLR) is described as: [Passive leg raising test (PLR): a test for fluid responsiveness, marked obsolete in the book, illustrated by the graph with the 30 mL/kg VE fluid chal]",
+          "questionIds": [
+            "MED-C18-099"
+          ]
+        },
+        {
+          "element": "p800-e022",
+          "page": 800,
+          "source": "Match each sepsis investigation with its purpose — 1) IVC diameter  2) S. Lactate  3) Passive leg raising test … A) Assesses organ hypoperfusion/severe sepsis  B) Determines amount of fluid required  C) Test for fluid responsiveness (obsolete) [Sepsis investigations: IVC diameter (normal 2–2.5 cm) determines the amount of fluid required; serum lactate >1 mmol/L = organ hypoperfusion and >4 mm]",
+          "questionIds": [
+            "MED-C18-100"
+          ]
+        },
+        {
+          "element": "p800-e023",
+          "page": 800,
+          "source": "A patient in the ICU has a lactate of 5 mmol/L. According to the book this indicates: [Serum lactate >4 mmol/L indicates severe sepsis (levels >1 mmol/L indicate organ hypoperfusion). (Book p800)]",
+          "questionIds": [
+            "MED-C18-101"
+          ]
+        },
+        {
+          "element": "p800-e024",
+          "page": 800,
+          "source": "The passive leg raising test as a test of fluid responsiveness is described as obsolete. [PLR is a test for fluid responsiveness, described as obsolete, while IVC diameter and serum lactate remain the listed investigations. (Book p800)]",
+          "questionIds": [
+            "MED-C18-102"
+          ]
+        },
+        {
+          "element": "p800-e025",
+          "page": 800,
+          "source": "All but one of the following are listed among the investigations for sepsis-associated AKI. Which is the odd one out? [The listed investigations are IVC diameter (2–2.5 cm normal), serum lactate (>1 and >4 mmol/L thresholds) and the passive leg raising test. (Book p800]",
+          "questionIds": [
+            "MED-C18-103"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 801,
+      "pdfPage": 42,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p801 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p801.",
+      "elements": [
+        {
+          "element": "p801-e001",
+          "page": 801,
+          "source": "Match the treatment steps for sepsis-associated AKI — 1) First line  2) Second line  3) Third line  4) Fourth line … A) Cortisol  B) Vasopressor  C) Crystalloid  D) Dobutamine [Treatment ladder for sepsis-AKI: crystalloid (1st line) → vasopressor (2nd line) with norepinephrine > dopamine → dobutamine → cortisol. (Book p801)]",
+          "questionIds": [
+            "MED-C18-104"
+          ]
+        },
+        {
+          "element": "p801-e002",
+          "page": 801,
+          "source": "The first-line treatment for sepsis-associated AKI is: [Treatment: crystalloid (1st line) → vasopressor (2nd line) → dobutamine → cortisol. (Book p801)]",
+          "questionIds": [
+            "MED-C18-105"
+          ]
+        },
+        {
+          "element": "p801-e003",
+          "page": 801,
+          "source": "A patient with septic shock remains hypotensive after adequate crystalloid. According to the ladder, the next agent is: [Second line: vasopressor — norepinephrine > dopamine; then dobutamine; then cortisol. (Book p801)]",
+          "questionIds": [
+            "MED-C18-106"
+          ]
+        },
+        {
+          "element": "p801-e004",
+          "page": 801,
+          "source": "In sepsis-associated AKI, dopamine is preferred over norepinephrine as the vasopressor. [The treatment ladder reads: vasopressor (2nd line) — norepinephrine > dopamine. (Book p801)]",
+          "questionIds": [
+            "MED-C18-107"
+          ]
+        },
+        {
+          "element": "p801-e005",
+          "page": 801,
+          "source": "The trial quoted to establish the efficacy of crystalloids and colloids in sepsis is: [Note: efficacy of crystalloids & colloids established by the SAFE trial — Saline versus Albumin Fluid Evaluation. (Book p801)]",
+          "questionIds": [
+            "MED-C18-108"
+          ]
+        },
+        {
+          "element": "p801-e006",
+          "page": 801,
+          "source": "Diuretics are not used in the prevention or treatment of AKI. [Note: diuretics are not used in the prevention or treatment of AKI — they do not improve renal recovery. (Book p801)]",
+          "questionIds": [
+            "MED-C18-109"
+          ]
+        },
+        {
+          "element": "p801-e007",
+          "page": 801,
+          "source": "A resident suggests furosemide to 'convert oliguric AKI to non-oliguric AKI and improve outcome'. The correct response based on the note is: [Note: diuretics not used in prevention or treatment of AKI. (Book p801)]",
+          "questionIds": [
+            "MED-C18-110"
+          ]
+        },
+        {
+          "element": "p801-e008",
+          "page": 801,
+          "source": "The ultrasound figure labelled IVC on this page is used to assess: [The IVC ultrasound is shown to assess volume status; the normal IVC diameter is 2–2.5 cm and it determines the amount of fluid required. (Book p801)]",
+          "questionIds": [
+            "MED-C18-111"
+          ]
+        },
+        {
+          "element": "p801-e009",
+          "page": 801,
+          "source": "In the passive leg raising figure, fluid is transferred from the legs and abdominal compartments. The stated purpose is: [The PLR figure shows transfer of blood from the legs and abdominal compartments, labelled as a test for fluid responsiveness, with the 30 mL/kg VE (vo]",
+          "questionIds": [
+            "MED-C18-112"
+          ]
+        },
+        {
+          "element": "p801-e010",
+          "page": 801,
+          "source": "All but one of the following appear in the sepsis-AKI treatment ladder. Which is the odd one out? [The ladder is crystalloid → vasopressor (norepinephrine > dopamine) → dobutamine → cortisol; diuretics are explicitly not used in prevention or treatm]",
+          "questionIds": [
+            "MED-C18-113"
+          ]
+        },
+        {
+          "element": "p801-e011",
+          "page": 801,
+          "source": "Uric acid nephropathy is also known as: [Uric acid nephropathy AKA tumour lysis syndrome — a renal cause of AKI. (Book p801)]",
+          "questionIds": [
+            "MED-C18-114"
+          ]
+        },
+        {
+          "element": "p801-e012",
+          "page": 801,
+          "source": "Uric acid nephropathy occurs in: [Cause: hematological malignancies within a few days of onset of Rx (chemotherapy). (Book p801)]",
+          "questionIds": [
+            "MED-C18-115"
+          ]
+        },
+        {
+          "element": "p801-e013",
+          "page": 801,
+          "source": "Complete the pathophysiology flowchart of uric acid nephropathy — 1) Leukemia/lymphoma  2) Tumour cells  3) Effect … A) ↑Uric acid filtered by the glomerulus  B) Underlying malignancy  C) Rapid multiplication [Flowchart: leukemia/lymphoma → rapid multiplication of tumour cells → ↑uric acid filtered by the glomerulus. (Book p801)]",
+          "questionIds": [
+            "MED-C18-116"
+          ]
+        },
+        {
+          "element": "p801-e014",
+          "page": 801,
+          "source": "Match the features of uric acid nephropathy — 1) Renal presentation  2) Serum uric acid  3) Other electrolytes  4) Serum calcium … A) ↑  B) Oliguric AKI  C) ↓S.Ca²⁺  D) S.K⁺/S.PO₄³⁻/S.mg²⁺ ↑ [Features of uric acid nephropathy: oliguric AKI; S. uric acid ↑↑; S. K⁺/S. PO₄³⁻/S. mg²⁺ ↑; ↓S. Ca²⁺. (Book p801)]",
+          "questionIds": [
+            "MED-C18-117"
+          ]
+        },
+        {
+          "element": "p801-e015",
+          "page": 801,
+          "source": "A 24-year-old with Burkitt lymphoma develops oliguric AKI 3 days after starting chemotherapy, with a uric acid of 14 mg/dL, K⁺ 6.2, PO₄³⁻ 7 mg/dL and Ca²⁺ 7.4 mg/dL. The diagnosis is: [Uric acid nephropathy (TLS): oliguric AKI with ↑↑uric acid, ↑K⁺/PO₄³⁻/mg²⁺ and ↓Ca²⁺, occurring within days of starting treatment of a haematological ]",
+          "questionIds": [
+            "MED-C18-118"
+          ]
+        },
+        {
+          "element": "p801-e016",
+          "page": 801,
+          "source": "Hypocalcemia is a described feature of uric acid nephropathy. [Features: oliguric AKI, S. uric acid ↑↑, ↑S.K⁺/S.PO₄³⁻/S.mg²⁺ and ↓S.Ca²⁺. (Book p801)]",
+          "questionIds": [
+            "MED-C18-119"
+          ]
+        },
+        {
+          "element": "p801-e017",
+          "page": 801,
+          "source": "Fill up: In uric acid nephropathy the serum potassium, phosphate and magnesium are ______, while the serum calcium is ______. [Features of uric acid nephropathy (tumour lysis syndrome): oliguric AKI, markedly raised serum uric acid, raised S.K+/S.PO4(3-)/S.mg2+ and a low serum]",
+          "questionIds": [
+            "MED-C18-120"
+          ]
+        },
+        {
+          "element": "p801-e018",
+          "page": 801,
+          "source": "All but one of the following are features of uric acid nephropathy. Which is the odd one out? [Uric acid nephropathy: oliguric AKI with ↑↑uric acid, ↑K⁺/PO₄/mg²⁺ and ↓Ca²⁺ — calcium falls, so hypercalcemia is not a feature. (Book p801)]",
+          "questionIds": [
+            "MED-C18-121"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 802,
+      "pdfPage": 43,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p802 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p802.",
+      "elements": [
+        {
+          "element": "p802-e001",
+          "page": 802,
+          "source": "Match each aspect of uric acid nephropathy management — 1) Drug treatment  2) Renal replacement  3) Prevention … A) Hydration with 5-6 L/day, alkalinisation and allopurinol  B) IV rasburicase  C) Dialysis [Treatment of uric acid nephropathy: IV rasburicase and dialysis. Prevention before chemotherapy: adequate hydration (5-6 L/day), adequate alkalinisati]",
+          "questionIds": [
+            "MED-C18-122"
+          ]
+        },
+        {
+          "element": "p802-e002",
+          "page": 802,
+          "source": "The IV drug used to treat uric acid nephropathy is: [Treatment: IV rasburicase along with dialysis; allopurinol appears under prevention (prophylaxis before chemotherapy). (Book p802)]",
+          "questionIds": [
+            "MED-C18-123"
+          ]
+        },
+        {
+          "element": "p802-e003",
+          "page": 802,
+          "source": "The hydration advised before chemotherapy to prevent uric acid nephropathy is: [Prevention: adequate hydration (5–6 L/day) before chemotherapy, adequate alkalinization and allopurinol. (Book p802)]",
+          "questionIds": [
+            "MED-C18-124"
+          ]
+        },
+        {
+          "element": "p802-e004",
+          "page": 802,
+          "source": "A patient with Burkitt lymphoma is due to start chemotherapy. Which preventive plan matches the book? [Prevention of uric acid nephropathy before chemotherapy: adequate hydration (5-6 L/day), adequate alkalinisation and allopurinol; rasburicase and dial]",
+          "questionIds": [
+            "MED-C18-125"
+          ]
+        },
+        {
+          "element": "p802-e005",
+          "page": 802,
+          "source": "All but one of the following are preventive measures against uric acid nephropathy before chemotherapy. Which is the odd one out? [Rasburicase is the IV treatment of established uric acid nephropathy; prevention consists of hydration 5–6 L/day, alkalinization and allopurinol. (Boo]",
+          "questionIds": [
+            "MED-C18-126"
+          ]
+        },
+        {
+          "element": "p802-e006",
+          "page": 802,
+          "source": "Allopurinol is listed under prevention of uric acid nephropathy rather than as the treatment of established disease. [Prevention before chemotherapy: hydration 5–6 L/day, alkalinization and allopurinol; established disease is treated with IV rasburicase and dialysis. ]",
+          "questionIds": [
+            "MED-C18-127"
+          ]
+        },
+        {
+          "element": "p802-e007",
+          "page": 802,
+          "source": "Fill up: Besides electric shock, seizures, alcohol/cocaine/heroin, statins/zidovudine, hypothyroidism and polymyositis/dermatomyositis, the two electrolyte causes of rhabdomyolysis listed are ______ and hypophosphatemia. [Causes of rhabdomyolysis include decreased K+ and decreased PO4(3-); hyperkalemia is a consequence of rhabdomyolysis, not a cause. The list also inclu]",
+          "questionIds": [
+            "MED-C18-128"
+          ]
+        },
+        {
+          "element": "p802-e008",
+          "page": 802,
+          "source": "Fill up: Glycogen storage disease type 5, also called ______ disease, is a listed cause of rhabdomyolysis. [Glycogen storage disease type 5 (McArdle disease) is a listed cause, along with hypothyroidism and polymyositis/dermatomyositis. (Book p802)]",
+          "questionIds": [
+            "MED-C18-129"
+          ]
+        },
+        {
+          "element": "p802-e009",
+          "page": 802,
+          "source": "All but one of the following are listed causes of rhabdomyolysis. Which is the odd one out? [The list includes ↓K⁺/↓PO₄³⁻ (hypokalemia/hypophosphatemia) as a cause; hyperkalemia is a consequence, not a cause. (Book p802)]",
+          "questionIds": [
+            "MED-C18-130"
+          ]
+        },
+        {
+          "element": "p802-e010",
+          "page": 802,
+          "source": "Match the pathophysiology of rhabdomyolysis — 1) Tubular effect  2) Vascular effect  3) Obstructive effect … A) Cast formation decreasing tubular flow  B) Hypovolemia and decreased renal perfusion  C) Direct toxicity of myoglobin in tubular cells [Rhabdomyolysis pathophysiology: PCT injury + vasoconstriction + tubular obstruction with uric acid; the diagram shows direct myoglobin toxicity, cast ]",
+          "questionIds": [
+            "MED-C18-131"
+          ]
+        },
+        {
+          "element": "p802-e011",
+          "page": 802,
+          "source": "A young man with a crush injury has CK of 20,000 U/L and a creatinine that continues to rise beyond day 5. According to the note this suggests: [CPK assay: >1500 units, rising after 2–12 hrs, peaking in 1–3 days, falling in 3–5 days — if there is no fall, suspect compartment syndrome. (Book p80]",
+          "questionIds": [
+            "MED-C18-132"
+          ]
+        },
+        {
+          "element": "p802-e012",
+          "page": 802,
+          "source": "The CPK level described as significant in rhabdomyolysis is: [CPK assay >1500 units rises after 2–12 hrs, peaks in 1–3 days and falls in 3–5 days. (Book p802)]",
+          "questionIds": [
+            "MED-C18-133"
+          ]
+        },
+        {
+          "element": "p802-e013",
+          "page": 802,
+          "source": "Match the rhabdomyolysis clinical features — 1) Muscles  2) Urine colour  3) Renal failure type  4) Urine sediment … A) Pigmented granular casts  B) Non-oliguric AKI (pre-renal failure)  C) Proximal muscle swelling  D) Upper/lower-limb muscle cramps with high coloured urine [Clinical features: upper/lower-limb muscle cramps with high coloured urine (2); proximal muscle swelling (4); non-oliguric AKI — pre-renal failure (3)]",
+          "questionIds": [
+            "MED-C18-134"
+          ]
+        },
+        {
+          "element": "p802-e014",
+          "page": 802,
+          "source": "All but one of the following investigations are raised in rhabdomyolysis. Which is the odd one out? [Investigations in rhabdomyolysis: ↑S.K⁺, ↑S.PO₄³⁻, ↑S.mg²⁺ and ↑S. uric acid, with ↓S.Ca²⁺, acidosis (HAGMA) and FeNa <1. (Book p802)]",
+          "questionIds": [
+            "MED-C18-135"
+          ]
+        },
+        {
+          "element": "p802-e015",
+          "page": 802,
+          "source": "Match the urine findings in rhabdomyolysis — 1) Benzidine test  2) Urine microscopy  3) FeNa … A) Pigmented granular brown casts and renal tubular epithelial cell casts, with no RBCs  B) Positive (3+) for blood  C) Less than 1 [In rhabdomyolysis the benzidine (dipstick) test is 3+ positive for blood while urine microscopy shows no RBCs but pigmented granular brown casts and r]",
+          "questionIds": [
+            "MED-C18-136"
+          ]
+        },
+        {
+          "element": "p802-e016",
+          "page": 802,
+          "source": "Urine dipstick is positive for blood in a patient with rhabdomyolysis, but microscopy shows no RBCs. The explanation is: [Benzidine test 3+ with no RBC on microscopy indicates myoglobinuria; casts seen are pigmented granular brown casts and renal tubular epithelial casts.]",
+          "questionIds": [
+            "MED-C18-137"
+          ]
+        },
+        {
+          "element": "p802-e017",
+          "page": 802,
+          "source": "The treatment of rhabdomyolysis consists of: [Treatment of rhabdomyolysis: vigorous & intense hydration, alkalinization of urine and hemodialysis. (Book p802)]",
+          "questionIds": [
+            "MED-C18-138"
+          ]
+        },
+        {
+          "element": "p802-e018",
+          "page": 802,
+          "source": "The acidosis of rhabdomyolysis is a high anion gap metabolic acidosis (HAGMA), unlike the NAGMA of ATN. [Investigations in rhabdomyolysis: acidosis (HAGMA) with FeNa <1; the ATN complication list specifies acidosis (NAGMA). (Book p802)]",
+          "questionIds": [
+            "MED-C18-139"
+          ]
+        },
+        {
+          "element": "p802-e019",
+          "page": 802,
+          "source": "All but one of the following belong to the rhabdomyolysis picture. Which is the odd one out? [Rhabdomyolysis has FeNa <1 (pre-renal component predominant), non-oliguric AKI and pigmented granular brown casts. (Book p802)]",
+          "questionIds": [
+            "MED-C18-140"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 803,
+      "pdfPage": 44,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p803 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p803.",
+      "elements": [
+        {
+          "element": "p803-e001",
+          "page": 803,
+          "source": "The incidence of contrast-induced AKI is reduced by using: [Contrast induced AKI: reduced incidence with low volume iso-osmolar contrast (iohexol/iopamidol). (Book p803)]",
+          "questionIds": [
+            "MED-C18-141"
+          ]
+        },
+        {
+          "element": "p803-e002",
+          "page": 803,
+          "source": "Fill up: The iso-osmolar contrast agents named for reducing contrast-induced AKI are ______ and iopamidol. [Low volume iso-osmolar contrast: iohexol/iopamidol. (Book p803)]",
+          "questionIds": [
+            "MED-C18-142"
+          ]
+        },
+        {
+          "element": "p803-e003",
+          "page": 803,
+          "source": "Complete the aetiology of contrast-induced AKI — 1) Primary mechanism  2) Secondary mechanism  3) Histology … A) Medullary hypoxia  B) Vacuolar degeneration  C) Tubular injury beside the medullary hypoxia [Contrast-induced AKI: medullary hypoxia is written as the primary mechanism (>>>) with tubular injury beside it, and the histology figure shows vacuol]",
+          "questionIds": [
+            "MED-C18-143"
+          ]
+        },
+        {
+          "element": "p803-e004",
+          "page": 803,
+          "source": "In contrast-induced AKI, the creatinine first rises at what time? [Contrast-induced AKI: creatinine ↑ in 24–48 hours, peaks in 3–5 days and normalises in 7–10 days. (Book p803)]",
+          "questionIds": [
+            "MED-C18-144"
+          ]
+        },
+        {
+          "element": "p803-e005",
+          "page": 803,
+          "source": "Match the creatinine timeline of contrast-induced AKI — 1) Rise  2) Peak  3) Normal … A) 7–10 days  B) 3–5 days  C) 24–48 hours [Contrast-induced AKI: creatinine ↑ in 24–48 hours, peaks at 3–5 days, normal in 7–10 days. (Book p803)]",
+          "questionIds": [
+            "MED-C18-145"
+          ]
+        },
+        {
+          "element": "p803-e006",
+          "page": 803,
+          "source": "A patient who underwent contrast angiography 36 hours ago has a creatinine rise from 1.1 to 1.6 mg/dL. Which statement matches the book's course? [Contrast-induced AKI: creatinine ↑ in 24–48 hours, peak 3–5 days, normal in 7–10 days. (Book p803)]",
+          "questionIds": [
+            "MED-C18-146"
+          ]
+        },
+        {
+          "element": "p803-e007",
+          "page": 803,
+          "source": "The management of contrast-induced AKI is: [Management of contrast-induced AKI: Rx not required; prevention — adequate hydration. (Book p803)]",
+          "questionIds": [
+            "MED-C18-147"
+          ]
+        },
+        {
+          "element": "p803-e008",
+          "page": 803,
+          "source": "The histology figure for contrast-induced AKI shows vacuolar degeneration. This corresponds to which aetiological mechanism? [The figure is labelled 'vacuolar degeneration in contrast induced AKI', the tubular injury that follows medullary hypoxia. (Book p803)]",
+          "questionIds": [
+            "MED-C18-148"
+          ]
+        },
+        {
+          "element": "p803-e009",
+          "page": 803,
+          "source": "Contrast-induced AKI requires no specific drug treatment, and its prevention rests on adequate hydration. [Management of contrast-induced AKI: Rx not required; prevention by adequate hydration. (Book p803)]",
+          "questionIds": [
+            "MED-C18-149"
+          ]
+        },
+        {
+          "element": "p803-e010",
+          "page": 803,
+          "source": "All but one of the following statements about contrast-induced AKI are correct. Which is the odd one out? [Pre-renal AKI is marked as the commonest cause of hospital AKI; contrast-induced AKI follows medullary hypoxia with tubular injury, peaking at 3–5 day]",
+          "questionIds": [
+            "MED-C18-150"
+          ]
+        },
+        {
+          "element": "p803-e011",
+          "page": 803,
+          "source": "Athero-embolic renal disease is also known as: [Athero-embolic renal disease AKA cholesterol embolism, seen in patients with extensive aortic atherosclerosis. (Book p803)]",
+          "questionIds": [
+            "MED-C18-151"
+          ]
+        },
+        {
+          "element": "p803-e012",
+          "page": 803,
+          "source": "Which patient is most at risk of athero-embolic renal disease? [Athero-embolic renal disease occurs in patients with extensive aortic atherosclerosis after endovascular intervention — angiography, anticoagulation, ]",
+          "questionIds": [
+            "MED-C18-152"
+          ]
+        },
+        {
+          "element": "p803-e013",
+          "page": 803,
+          "source": "Fill up: Besides angiography, anticoagulation, thrombolysis and surgery, athero-embolic renal disease can also occur ______. [Athero-embolism is seen in patients with extensive aortic atherosclerosis after endovascular intervention (angiography, anticoagulation, thrombolysis,]",
+          "questionIds": [
+            "MED-C18-153"
+          ]
+        },
+        {
+          "element": "p803-e014",
+          "page": 803,
+          "source": "Complete the pathophysiology of athero-embolic renal disease — 1) Atherosclerotic plaque  2) Consequence  3) Vessel calibre affected … A) Breaks off  B) Embolize distally  C) Multiple small vessel occlusion (no large vessel occlusion) [Pathophysiology: atherosclerotic plaque breaks off → embolizes distally → multiple small vessel occlusion (no large vessel occlusion). (Book p803)]",
+          "questionIds": [
+            "MED-C18-154"
+          ]
+        },
+        {
+          "element": "p803-e015",
+          "page": 803,
+          "source": "Athero-embolic renal disease causes multiple small vessel occlusions rather than occlusion of a large vessel. [Pathophysiology: plaque breaks off, embolizes distally and causes multiple small vessel occlusion — with no large vessel occlusion. (Book p803)]",
+          "questionIds": [
+            "MED-C18-155"
+          ]
+        },
+        {
+          "element": "p803-e016",
+          "page": 803,
+          "source": "A patient develops renal failure over several weeks after cardiac catheterisation. Which feature of athero-embolic renal disease fits? [Clinical features: subacute renal failure over several weeks — 75% renal involvement. (Book p803)]",
+          "questionIds": [
+            "MED-C18-156"
+          ]
+        },
+        {
+          "element": "p803-e017",
+          "page": 803,
+          "source": "In the clinical-features list, renal involvement in athero-embolic renal disease occurs in: [Clinical features: subacute renal failure over several weeks with 75% renal involvement. (Book p803)]",
+          "questionIds": [
+            "MED-C18-157"
+          ]
+        },
+        {
+          "element": "p803-e018",
+          "page": 803,
+          "source": "Match each clinical sign of athero-embolism with its site — 1) Skin  2) Retina  3) Gut … A) Mesenteric ischemia  B) Blue toe syndrome and livedo reticularis  C) Hollenhorst plaque [Clinical features: skin — blue toe syndrome and livedo reticularis; retina — Hollenhorst plaque; and mesenteric ischemia. (Book p803)]",
+          "questionIds": [
+            "MED-C18-158"
+          ]
+        },
+        {
+          "element": "p803-e019",
+          "page": 803,
+          "source": "Fill up: The retinal finding in athero-embolic renal disease is a ______ plaque. [Retinal finding: Hollenhorst plaque, shown in the fundus figure of athero-embolic renal disease. (Book p803)]",
+          "questionIds": [
+            "MED-C18-159"
+          ]
+        },
+        {
+          "element": "p803-e020",
+          "page": 803,
+          "source": "A 68-year-old man with aortic atherosclerosis has blue toes, livedo reticularis and a Hollenhorst plaque. What is the renal prognosis? [Clinical features of athero-embolic renal disease end with ↑risk of ESRD (end stage renal disease) and poor prognosis. (Book p803)]",
+          "questionIds": [
+            "MED-C18-160"
+          ]
+        },
+        {
+          "element": "p803-e021",
+          "page": 803,
+          "source": "All but one of the following are clinical features of athero-embolic renal disease. Which is the odd one out? [Features listed: subacute renal failure over weeks (75% renal), blue toe syndrome, livedo reticularis, mesenteric ischemia, Hollenhorst plaque, ↑ESRD ]",
+          "questionIds": [
+            "MED-C18-161"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 804,
+      "pdfPage": 45,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p804 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p804.",
+      "elements": [
+        {
+          "element": "p804-e001",
+          "page": 804,
+          "source": "Match the lab investigations of athero-embolic renal disease — 1) Complement  2) Eosinophils  3) WBC count  4) S. Amylase … A) ↑  B) Eosinophiluria with Hansel's stain  C) Eosinophilia  D) Hypocomplementemia (↓C3, ↓C4) [Lab investigations in athero-embolic renal disease: hypocomplementemia (↓C3, ↓C4); eosinophilia; eosinophiluria with Hansel's stain; ↑WBC count; ↑S. a]",
+          "questionIds": [
+            "MED-C18-162"
+          ]
+        },
+        {
+          "element": "p804-e002",
+          "page": 804,
+          "source": "Eosinophiluria in athero-embolic renal disease is demonstrated with: [Lab investigations: eosinophiluria with Hansel's stain, along with eosinophilia, hypocomplementemia, ↑WBC count and ↑S. amylase. (Book p804)]",
+          "questionIds": [
+            "MED-C18-163"
+          ]
+        },
+        {
+          "element": "p804-e003",
+          "page": 804,
+          "source": "A patient with suspected athero-embolic renal disease has raised amylase but no abdominal pain. What does this indicate? [Lab investigations in athero-embolic renal disease include ↑S. amylase (along with mesenteric ischemia in the clinical features). (Book p804)]",
+          "questionIds": [
+            "MED-C18-164"
+          ]
+        },
+        {
+          "element": "p804-e004",
+          "page": 804,
+          "source": "If the diagnosis of athero-embolic renal disease is in doubt, biopsy should be taken from: [Biopsy (if in doubt) of skin — never kidney — in athero-embolic renal disease. (Book p804)]",
+          "questionIds": [
+            "MED-C18-165"
+          ]
+        },
+        {
+          "element": "p804-e005",
+          "page": 804,
+          "source": "In suspected athero-embolic renal disease, skin biopsy is preferred and renal biopsy is avoided. [The book states: biopsy (if in doubt) of skin (never kidney) — avoiding renal biopsy in a disease with multiple small-vessel occlusion and poor progno]",
+          "questionIds": [
+            "MED-C18-166"
+          ]
+        },
+        {
+          "element": "p804-e006",
+          "page": 804,
+          "source": "The biopsy figure in athero-embolic renal disease shows birefringent, biconvex, elongated cholesterol crystals. These are seen in: [The figure is labelled 'birefringent, biconvex elongated cholesterol crystals' — the embolic material that occludes small vessels in athero-embolic re]",
+          "questionIds": [
+            "MED-C18-167"
+          ]
+        },
+        {
+          "element": "p804-e007",
+          "page": 804,
+          "source": "Fill up: The cholesterol crystals of athero-embolic renal disease are described as birefringent, biconvex and ______. [Skin/lesion biopsy shows birefringent, biconvex, elongated cholesterol crystals (figure). (Book p804)]",
+          "questionIds": [
+            "MED-C18-168"
+          ]
+        },
+        {
+          "element": "p804-e008",
+          "page": 804,
+          "source": "The treatment specified for athero-embolic renal disease on this page is: [Treatment: ACE (–) — ACE inhibitors are avoided in athero-embolic renal disease (as in renal artery stenosis). (Book p804)]",
+          "questionIds": [
+            "MED-C18-169"
+          ]
+        },
+        {
+          "element": "p804-e009",
+          "page": 804,
+          "source": "All but one of the following are lab features of athero-embolic renal disease. Which is the odd one out? [Athero-embolic renal disease produces hypocomplementemia (↓C3, ↓C4), eosinophilia, eosinophiluria with Hansel's stain, ↑WBC count and ↑S. amylase. (Bo]",
+          "questionIds": [
+            "MED-C18-170"
+          ]
+        },
+        {
+          "element": "p804-e010",
+          "page": 804,
+          "source": "Match the CRS type with its name — 1) Type 1  2) Type 2  3) Type 3  4) Type 4  5) Type 5 … A) Acute renocardiac  B) Chronic renocardiac  C) Acute cardiorenal  D) Chronic cardiorenal  E) Secondary [CRS types: 1 — acute cardiorenal; 2 — chronic cardiorenal; 3 — acute renocardiac; 4 — chronic renocardiac; 5 — secondary. (Book p804)]",
+          "questionIds": [
+            "MED-C18-171"
+          ]
+        },
+        {
+          "element": "p804-e011",
+          "page": 804,
+          "source": "Match the CRS type with its description — 1) Type 1  2) Type 2  3) Type 3  4) Type 4  5) Type 5 … A) Acute cardiac dysfunction leading to AKI  B) Chronic renal failure leading to cardiac dysfunction  C) AKI leading to acute cardiac dysfunction  D) Chronic heart failure leading to renal dysfunction  E) Systemic condition causing cardiac and renal dysfunction [Descriptions: type 1 — acute cardiac dysfunction leading to AKI; type 2 — chronic heart failure leading to renal dysfunction; type 3 — AKI ",
+          "questionIds": [
+            "MED-C18-172"
+          ]
+        },
+        {
+          "element": "p804-e012",
+          "page": 804,
+          "source": "A patient with acute decompensated heart failure develops AKI. Which cardiorenal syndrome type is this? [CRS type 1 (acute cardiorenal): acute cardiac dysfunction leading to AKI. (Book p804)]",
+          "questionIds": [
+            "MED-C18-173"
+          ]
+        },
+        {
+          "element": "p804-e013",
+          "page": 804,
+          "source": "A patient with chronic kidney disease develops cardiac dysfunction in the absence of an acute cardiac event. Which CRS type is this? [CRS type 4 (chronic renocardiac): chronic renal failure leading to cardiac dysfunction. (Book p804)]",
+          "questionIds": [
+            "MED-C18-174"
+          ]
+        },
+        {
+          "element": "p804-e014",
+          "page": 804,
+          "source": "Fill up: Cardiorenal syndrome type 3 is acute ______. [CRS type 3 is acute renocardiac: acute kidney injury leading to acute cardiac dysfunction. (Book p804)]",
+          "questionIds": [
+            "MED-C18-175"
+          ]
+        },
+        {
+          "element": "p804-e015",
+          "page": 804,
+          "source": "A patient with sepsis has both cardiac and renal dysfunction from the systemic illness. Which CRS type is this? [CRS type 5 (secondary): a systemic condition causing cardiac and renal dysfunction. (Book p804)]",
+          "questionIds": [
+            "MED-C18-176"
+          ]
+        },
+        {
+          "element": "p804-e016",
+          "page": 804,
+          "source": "Match the note on acute cortical necrosis — 1) Causes  2) Definition  3) Consequence … A) Urine output failing to recover  B) Can progress to CKD  C) Snake bite, placental abruption, pancreatitis [Note: snake bite, placental abruption and pancreatitis cause acute cortical necrosis (urine output failing to recover), which can progress to CKD. (Bo]",
+          "questionIds": [
+            "MED-C18-177"
+          ]
+        },
+        {
+          "element": "p804-e017",
+          "page": 804,
+          "source": "Acute cortical necrosis is characterised by: [Note: snake bite, placental abruption and pancreatitis → acute cortical necrosis (urine output failing to recover) → can progress to CKD. (Book p804)]",
+          "questionIds": [
+            "MED-C18-178"
+          ]
+        },
+        {
+          "element": "p804-e018",
+          "page": 804,
+          "source": "A woman with placental abruption remains anuric for 3 weeks with a rising creatinine despite fluid therapy. The likely lesion and its consequence are: [Note: placental abruption (along with snake bite and pancreatitis) causes acute cortical necrosis with urine output failing to recover, progressing to]",
+          "questionIds": [
+            "MED-C18-179"
+          ]
+        },
+        {
+          "element": "p804-e019",
+          "page": 804,
+          "source": "All but one of the following are correct pairing of cardiorenal syndrome types. Which is the odd one out? [Type 2 is chronic cardiorenal (chronic heart failure leading to renal dysfunction); AKI leading to acute cardiac dysfunction is type 3. (Book p804)]",
+          "questionIds": [
+            "MED-C18-180"
+          ]
+        },
+        {
+          "element": "p804-e020",
+          "page": 804,
+          "source": "Acute cortical necrosis in AKI can progress to chronic kidney disease. [The note states that acute cortical necrosis (urine output failing to recover) can progress to CKD. (Book p804)]",
+          "questionIds": [
+            "MED-C18-181"
+          ]
+        }
+      ]
+    }
+  ]
+}

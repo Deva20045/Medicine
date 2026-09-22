@@ -1,0 +1,792 @@
+{
+  "chapter": 11,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+  "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+  "pdfOffset": 759,
+  "pageRange": "762-769",
+  "contentSha256": "7f157fe5a6c33463991b330fb9191a67f096ede117ad168d87bbcab7a260b474",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry and caption. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch11 p762-769: auto-generated source checklist from existing 88 questions, each mapped to its printed line in book order. Visual scan was read at 3x zoom; any printed unit errors or ambiguous glyphs are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan."
+  ],
+  "pages": [
+    {
+      "page": 762,
+      "pdfPage": 3,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p762 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p762.",
+      "elements": [
+        {
+          "element": "p762-e001",
+          "page": 762,
+          "source": "The definition of a podocytopathy on this page places the primary injury on the podocyte. [Glomerular diseases that primarily affect podocytes. (Book p762)]",
+          "questionIds": [
+            "MED-C11-001"
+          ]
+        },
+        {
+          "element": "p762-e002",
+          "page": 762,
+          "source": "The clinical presentation list of glomerular diseases repeated here runs from asymptomatic and macroscopic hematuria through nephrotic/nephritic syndromes to RPGN and: [Presentation list ends with chronic glomerulonephritis. (Book p762)]",
+          "questionIds": [
+            "MED-C11-002"
+          ]
+        },
+        {
+          "element": "p762-e003",
+          "page": 762,
+          "source": "Match each podocytopathy with its CKD-risk label — 1) Minimal change disease 2) FSGS 3) Membranous nephropathy … A) >2/3rd → CKD even with Rx B) No risk for CKD C) 1/3rd → CKD if not treated [Without podocytopenia: MCD (no CKD risk); with podocytopenia: FSGS >2/3rd → CKD even with Rx; MN 1/3rd → CKD if not treated. (Book p762)]",
+          "questionIds": [
+            "MED-C11-003"
+          ]
+        },
+        {
+          "element": "p762-e004",
+          "page": 762,
+          "source": "The with-podocytopenia branch (the CKD-risk branch) names FSGS, membranous nephropathy and diabetic nephropathy; the entity NOT placed on that branch is: [With podocytopenia: FSGS, MN, diabetic nephropathy (DN). (Book p762)]",
+          "questionIds": [
+            "MED-C11-004"
+          ]
+        },
+        {
+          "element": "p762-e005",
+          "page": 762,
+          "source": "Match each 2° MCD item with its book annotation — 1) NSAIDs 2) Gold 3) Highlighted malignancy … A) Hodgkin's disease B) MN > MCD C) MCD > MN [NSAIDs (MCD > MN); gold (MN > MCD); malignancy highlight: Hodgkin's disease. (Book p762)]",
+          "questionIds": [
+            "MED-C11-005"
+          ]
+        },
+        {
+          "element": "p762-e006",
+          "page": 762,
+          "source": "The allergy branch of 2° MCD causes lists atopic rhinitis, atopic dermatitis, asthma and: [Allergy: atopic rhinitis, atopic dermatitis, asthma, post-immunization. (Book p762)]",
+          "questionIds": [
+            "MED-C11-006"
+          ]
+        },
+        {
+          "element": "p762-e007",
+          "page": 762,
+          "source": "Sezary syndrome, bracketed inside the malignancy line for minimal change disease, is described as a cutaneous T cell lymphoma. [Malignancy: Hodgkin's disease; Sezary syndrome (cutaneous T cell lymphoma); CLL. (Book p762)]",
+          "questionIds": [
+            "MED-C11-007"
+          ]
+        },
+        {
+          "element": "p762-e008",
+          "page": 762,
+          "source": "The 100/0 rule of MCD presentation states that every patient of MCD presents with: [100/0 rule: every patient of MCD → nephrotic syndrome. (Book p762)]",
+          "questionIds": [
+            "MED-C11-008"
+          ]
+        },
+        {
+          "element": "p762-e009",
+          "page": 762,
+          "source": "Hypertension, AKI and microhematuria are written as absent in MCD; the feature that IS expected is: [Hypertension, AKI & microhematuria absent; nephrotic syndrome present (100/0 rule). (Book p762)]",
+          "questionIds": [
+            "MED-C11-009"
+          ]
+        },
+        {
+          "element": "p762-e010",
+          "page": 762,
+          "source": "Which MCD presentation statement is TRUE? [100/0 rule; hypertension, AKI & microhematuria absent. (Book p762)]",
+          "questionIds": [
+            "MED-C11-010"
+          ]
+        },
+        {
+          "element": "p762-e011",
+          "page": 762,
+          "source": "Fill up: The MCD rule that every patient presents with nephrotic syndrome is the ______ rule. [100/0 rule: every patient of MCD → nephrotic syndrome. (Book p762)]",
+          "questionIds": [
+            "MED-C11-011"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 763,
+      "pdfPage": 4,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p763 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p763.",
+      "elements": [
+        {
+          "element": "p763-e001",
+          "page": 763,
+          "source": "Every one of these drugs appears in the drug line for secondary FSGS EXCEPT: [Dasatinib (tyrosine kinase inhibitor (TKI)) among 2° FSGS drugs. (Book p763)]",
+          "questionIds": [
+            "MED-C11-012"
+          ]
+        },
+        {
+          "element": "p763-e002",
+          "page": 763,
+          "source": "All of the following sit in the 2° FSGS drug list EXCEPT: [Gold belongs to the MN/MCD drug lists; FSGS drugs are pamidronate, anabolic steroids, heroin, sirolimus, dasatinib, IFN α. (Book p763)]",
+          "questionIds": [
+            "MED-C11-013"
+          ]
+        },
+        {
+          "element": "p763-e003",
+          "page": 763,
+          "source": "A 28-year-old with HIV develops nephrotic-range proteinuria and a rising creatinine; the infection line of the secondary FSGS list is read. Which diseases sit on that line? [Infections: HIVAN, parvo B19, EBV, CMV. (Book p763)]",
+          "questionIds": [
+            "MED-C11-014"
+          ]
+        },
+        {
+          "element": "p763-e004",
+          "page": 763,
+          "source": "The miscellaneous causes of secondary FSGS include all of the following EXCEPT: [Miscellaneous: sickle cell anemia, obesity, congenital cyanotic heart disease. (Book p763)]",
+          "questionIds": [
+            "MED-C11-015"
+          ]
+        },
+        {
+          "element": "p763-e005",
+          "page": 763,
+          "source": "Fill up: In primary FSGS, soluble urokinase plasminogen activator receptor and cardiotrophin-like cytokine 1 are bracketed together as a circulating ______ factor. [suPAR + CLC-1 bracketed as circulating permeability factor. (Book p763)]",
+          "questionIds": [
+            "MED-C11-016"
+          ]
+        },
+        {
+          "element": "p763-e006",
+          "page": 763,
+          "source": "Match each genetic form with its gene product — 1) NPHS1 gene 2) NPHS2 gene 3) α actin 4, TRPC 6 … A) Podocin B) Nephrin C) Autosomal dominant adolescent form [NPHS1 → nephrin; NPHS2 → podocin; α actin 4, TRPC 6 = autosomal dominant. (Book p763)]",
+          "questionIds": [
+            "MED-C11-017"
+          ]
+        },
+        {
+          "element": "p763-e007",
+          "page": 763,
+          "source": "Match each congenital-NS column with its feature — 1) NPHS1 histology 2) NPHS2 histology 3) α actin 4 / TRPC 6 inheritance … A) Autosomal dominant B) Diffuse mesangial sclerosis C) FSGS [NPHS1: present at birth, diffuse mesangial sclerosis; NPHS2: by 3-5 years, FSGS; α actin 4/TRPC 6: autosomal dominant, adolescents. (Book p763)]",
+          "questionIds": [
+            "MED-C11-018"
+          ]
+        },
+        {
+          "element": "p763-e008",
+          "page": 763,
+          "source": "The genetic forms of congenital nephrotic syndrome are resistant to immunosuppression therapy; the only Rx written is: [Resistant to immunosuppression therapy; only Rx: transplantation. (Book p763)]",
+          "questionIds": [
+            "MED-C11-019"
+          ]
+        },
+        {
+          "element": "p763-e009",
+          "page": 763,
+          "source": "Secondary perihilar FSGS after removal of a pathological kidney is attributed on this page to hyperfiltration injury with glomerular hypertrophy. [Removal of pathological kidney → remaining nephrons undergo hyperfiltration injury (glomerular hypertrophy) → 2° perihilar FSGS. (Book p763)]",
+          "questionIds": [
+            "MED-C11-020"
+          ]
+        },
+        {
+          "element": "p763-e010",
+          "page": 763,
+          "source": "2° perihilar FSGS runs a slow course with good prognosis and asymptomatic proteinuria; its causes are VUR, U/l RAS and stone/mass, and progression can be slowed using: [Causes: VUR, U/l RAS, stone/mass; progression can be slowed using ACE (−). (Book p763)]",
+          "questionIds": [
+            "MED-C11-021"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 764,
+      "pdfPage": 5,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p764 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p764.",
+      "elements": [
+        {
+          "element": "p764-e001",
+          "page": 764,
+          "source": "The FSGS 75/25 rule states that 75% present with nephrotic syndrome while 25% show: [75%: nephrotic syndrome; 25%: asymptomatic/nephrotic proteinuria without syndrome. (Book p764)]",
+          "questionIds": [
+            "MED-C11-022"
+          ]
+        },
+        {
+          "element": "p764-e002",
+          "page": 764,
+          "source": "The 25% asymptomatic arm of the 75/25 rule points to 2° perihilar FSGS (other cause: DM); the instruction written for this arm is: [2° perihilar FSGS (other cause: DM) → do not give immunosuppression. (Book p764)]",
+          "questionIds": [
+            "MED-C11-023"
+          ]
+        },
+        {
+          "element": "p764-e003",
+          "page": 764,
+          "source": "The drug causes of 2° MN are gold, NSAIDs, d-penicillamine, captopril and: [MN drugs: gold, NSAIDs, d-penicillamine, captopril, mercury. (Book p764)]",
+          "questionIds": [
+            "MED-C11-024"
+          ]
+        },
+        {
+          "element": "p764-e004",
+          "page": 764,
+          "source": "The infection causes of 2° MN are hepatitis B virus, syphilis and: [Infections: HBV, syphilis, schistosomiasis. (Book p764)]",
+          "questionIds": [
+            "MED-C11-025"
+          ]
+        },
+        {
+          "element": "p764-e005",
+          "page": 764,
+          "source": "For rheumatoid arthritis, the ranking of glomerular lesions printed on this page puts secondary amyloidosis ahead of membranous nephropathy. [Rheumatoid arthritis: m/c glomerular manifestations: 2° amyloidosis > MN. (Book p764)]",
+          "questionIds": [
+            "MED-C11-026"
+          ]
+        },
+        {
+          "element": "p764-e006",
+          "page": 764,
+          "source": "Sarcoidosis and IgG4-related disease, among MN autoimmune associations, produce: [Sarcoidosis, IgG4 related disease: tubulointerstitial disease > glomerular (MN). (Book p764)]",
+          "questionIds": [
+            "MED-C11-027"
+          ]
+        },
+        {
+          "element": "p764-e007",
+          "page": 764,
+          "source": "The malignancy linked to 2° MN is solid organ adenocarcinoma, and the most important one listed is: [Solid organ adenocarcinoma: colorectal carcinoma (most important). (Book p764)]",
+          "questionIds": [
+            "MED-C11-028"
+          ]
+        },
+        {
+          "element": "p764-e008",
+          "page": 764,
+          "source": "1° MN is antibody-associated; the antibody written is: [1° MN: anti PLA2R (anti phospholipase A2 receptor antibody). (Book p764)]",
+          "questionIds": [
+            "MED-C11-029"
+          ]
+        },
+        {
+          "element": "p764-e009",
+          "page": 764,
+          "source": "The MN presentation 70/30 rule splits into 70% nephrotic syndrome and 30% asymptomatic (microhematuria & proteinuria); the thrombosis note says MN carries: [70/30 rule; maximum risk of thrombosis. (Book p764)]",
+          "questionIds": [
+            "MED-C11-030"
+          ]
+        },
+        {
+          "element": "p764-e010",
+          "page": 764,
+          "source": "The note on this page lists membranous nephropathy among the diseases associated with d-penicillamine, beside Wilson's disease, aplastic anemia and myasthenia gravis. [d-penicillamine: Wilson's disease, aplastic anemia, myasthenia gravis, MN. (Book p764)]",
+          "questionIds": [
+            "MED-C11-031"
+          ]
+        },
+        {
+          "element": "p764-e011",
+          "page": 764,
+          "source": "The m/c cause of adult-onset nephrotic syndrome and of NS in children are respectively: [m/c cause of adult onset nephrotic syndrome: MN; m/c cause of NS in children: MCD. (Book p764)]",
+          "questionIds": [
+            "MED-C11-032"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 765,
+      "pdfPage": 6,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p765 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p765.",
+      "elements": [
+        {
+          "element": "p765-e001",
+          "page": 765,
+          "source": "Alongside the 90% of childhood nephrotic syndrome, what share of ADULT nephrotic syndrome is attributed to minimal change disease on this page? [AKA lipoid nephrosis; 90% of childhood NS; 10-15% of adult NS. (Book p765)]",
+          "questionIds": [
+            "MED-C11-033"
+          ]
+        },
+        {
+          "element": "p765-e002",
+          "page": 765,
+          "source": "The peak age group for MCD and its sex preponderance are: [Boys > girls; peak age group: 2-7 yrs. (Book p765)]",
+          "questionIds": [
+            "MED-C11-034"
+          ]
+        },
+        {
+          "element": "p765-e003",
+          "page": 765,
+          "source": "Selective proteinuria, losing only albumin & transferrin, is seen in few cases of MCD; the bullet for MCD proteinuria in general reads: [MCD bullet: non-selective proteinuria; selective (albumin & transferrin only) in few cases. (Book p765)]",
+          "questionIds": [
+            "MED-C11-035"
+          ]
+        },
+        {
+          "element": "p765-e004",
+          "page": 765,
+          "source": "The podocyte changes in MCD are effacement of foot process with ↑ CD80 expression and ↑ angiopoietin-like 4 peptide, causing: [↑ CD80 and ↑ angiopoietin like 4 peptide → loss of negative charges → leaking of proteins. (Book p765)]",
+          "questionIds": [
+            "MED-C11-036"
+          ]
+        },
+        {
+          "element": "p765-e005",
+          "page": 765,
+          "source": "Fill up: In MCD the podocyte surface molecule whose expression rises, alongside angiopoietin-like 4 peptide, is ______. [↑ CD80 expression. (Book p765)]",
+          "questionIds": [
+            "MED-C11-037"
+          ]
+        },
+        {
+          "element": "p765-e006",
+          "page": 765,
+          "source": "Two-thirds of MCD relapses follow URTI/LRTI; the relapse-prevention Rx written at onset of URTI/LRTI is: [Relapse 2/3rd d/t URTI/LRTI; Rx: prednisolone (0.5 mg/kg) at onset of URTI/LRTI. (Book p765)]",
+          "questionIds": [
+            "MED-C11-038"
+          ]
+        },
+        {
+          "element": "p765-e007",
+          "page": 765,
+          "source": "After 4 weeks of steroids, the steroid-resistance share that triggers a biopsy to r/o FSGS is: [5-10% resistance → biopsy taken to r/o FSGS (can cause CKD). (Book p765)]",
+          "questionIds": [
+            "MED-C11-039"
+          ]
+        },
+        {
+          "element": "p765-e008",
+          "page": 765,
+          "source": "Among steroid responders, the flowchart splits into 25% cured with no relapse, 25% infrequent relapse (steroid & taper off) and: [Respond to steroids: 25% cured, 25% infrequent relapse, 50% FRNS (≥2 in 6 months, ≥4 in 1 year). (Book p765)]",
+          "questionIds": [
+            "MED-C11-040"
+          ]
+        },
+        {
+          "element": "p765-e009",
+          "page": 765,
+          "source": "FRNS is started on steroid-sparing agents; the preferred one written is: [FRNS: steroid sparing agents: oral cyclophosphamide (preferred). (Book p765)]",
+          "questionIds": [
+            "MED-C11-041"
+          ]
+        },
+        {
+          "element": "p765-e010",
+          "page": 765,
+          "source": "SDNS (≥2 relapses within 14 days of stopping steroid or while tapering) is treated with the agent labelled best, which is: [SDNS treated using: MMF (best); rituximab. (Book p765)]",
+          "questionIds": [
+            "MED-C11-042"
+          ]
+        },
+        {
+          "element": "p765-e011",
+          "page": 765,
+          "source": "In the resistant arm, a normal biopsy may still miss FSGS; genetic studies then decide, with a normal result starting CNI and a positive FSGS result leading to: [Normal (sometimes FSGS can be missed) → genetic studies; normal → CNI; FSGS → transplant. (Book p765)]",
+          "questionIds": [
+            "MED-C11-043"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 766,
+      "pdfPage": 7,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p766 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p766.",
+      "elements": [
+        {
+          "element": "p766-e001",
+          "page": 766,
+          "source": "In MCD, biopsy (light microscopy, PAS) and immunofluorescence are both: [Biopsy: normal; IF: normal (light microscopy: normal glomerulus, PAS stain). (Book p766)]",
+          "questionIds": [
+            "MED-C11-044"
+          ]
+        },
+        {
+          "element": "p766-e002",
+          "page": 766,
+          "source": "IgM nephropathy, a variant of MCD, shows mesangial matrix expansion on biopsy, IgM +ve on IF and: [IgM nephropathy: variant of MCD; mesangial matrix expansion; IF IgM +ve; poor prognosis compared to MCD. (Book p766)]",
+          "questionIds": [
+            "MED-C11-045"
+          ]
+        },
+        {
+          "element": "p766-e003",
+          "page": 766,
+          "source": "With Apo L1 polymorphisms in FSGS, what proportion of patients develop CKD by 10 years? [Associated with Apo L1 polymorphisms; 70% develop CKD by 10 years. (Book p766)]",
+          "questionIds": [
+            "MED-C11-046"
+          ]
+        },
+        {
+          "element": "p766-e004",
+          "page": 766,
+          "source": "Fill up: In the biopsy definitions of FSGS, 'focal' means fewer than ______ percent of glomeruli are involved. [Focal: <50% glomeruli involved; segmental: only a portion of glomeruli involved. (Book p766)]",
+          "questionIds": [
+            "MED-C11-047"
+          ]
+        },
+        {
+          "element": "p766-e005",
+          "page": 766,
+          "source": "The sclerosis chain written for FSGS runs: podocyte lost in urine → podocytopenia → GBM synechiae with parietal epithelial cell → [Eosinophilic hyaline material obliterating glomeruli: podocyte lost in urine → podocytopenia → GBM synechiae with parietal epithelial cell → sclerosis]",
+          "questionIds": [
+            "MED-C11-048"
+          ]
+        },
+        {
+          "element": "p766-e006",
+          "page": 766,
+          "source": "IF in FSGS shows focal IgM ± C3; in 2° FSGS the IF is: [IF: focal IgM ± C3; 2° FSGS: IF negative. (Book p766)]",
+          "questionIds": [
+            "MED-C11-049"
+          ]
+        },
+        {
+          "element": "p766-e007",
+          "page": 766,
+          "source": "The FSGS treatment ladder uses steroid 1 mg/kg/day for how long before declaring SRNS? [Steroid (1 mg/kg/day) → 4 months → if no response: SRNS → CNI/MMF → CKD → transplant. (Book p766)]",
+          "questionIds": [
+            "MED-C11-050"
+          ]
+        },
+        {
+          "element": "p766-e008",
+          "page": 766,
+          "source": "A 12-year-old with steroid-resistant FSGS receives a living-related graft and develops nephrotic-range proteinuria on day 10. The warning printed on this biopsy page that fits is: [Even after transplant, recurrence can occur: transplant recurrence FSGS. (Book p766)]",
+          "questionIds": [
+            "MED-C11-051"
+          ]
+        },
+        {
+          "element": "p766-e009",
+          "page": 766,
+          "source": "Which IF statement is TRUE as per this page? [Focal IgM ± C3 in FSGS; 2° FSGS IF negative; MCD IF normal; IgM +ve belongs to IgM nephropathy. (Book p766)]",
+          "questionIds": [
+            "MED-C11-052"
+          ]
+        },
+        {
+          "element": "p766-e010",
+          "page": 766,
+          "source": "Match each entity with its IF/biopsy signature — 1) MCD 2) IgM nephropathy 3) Primary FSGS … A) Focal IgM ± C3 B) Normal biopsy and IF C) Mesangial matrix expansion with IgM +ve [MCD normal; IgM nephropathy mesangial expansion + IgM; FSGS focal IgM ± C3. (Book p766)]",
+          "questionIds": [
+            "MED-C11-053"
+          ]
+        },
+        {
+          "element": "p766-e011",
+          "page": 766,
+          "source": "The light-microscopy figure labels on this page include normal glomerulus (PAS), IgM nephropathy and segmental sclerosis; the odd one out not labelled here is: [Labels: normal glomerulus (PAS), IgM nephropathy, FSGS with segmental sclerosis; spikes belong to the MN pages. (Book p766)]",
+          "questionIds": [
+            "MED-C11-054"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 767,
+      "pdfPage": 8,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p767 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p767.",
+      "elements": [
+        {
+          "element": "p767-e001",
+          "page": 767,
+          "source": "The four histological variants of FSGS listed are classical, 2° perihilar, tip variant and: [Variants: classical, 2° perihilar, tip variant, collapsing FSGS. (Book p767)]",
+          "questionIds": [
+            "MED-C11-055"
+          ]
+        },
+        {
+          "element": "p767-e002",
+          "page": 767,
+          "source": "The tip variant FSGS is described with lesion only at tip, features like MCD and: [Tip variant: lesion only at tip; features like MCD; good prognosis. (Book p767)]",
+          "questionIds": [
+            "MED-C11-056"
+          ]
+        },
+        {
+          "element": "p767-e003",
+          "page": 767,
+          "source": "The FSGS variant carrying the worst prognosis is: [Collapsing FSGS: worst prognosis. (Book p767)]",
+          "questionIds": [
+            "MED-C11-057"
+          ]
+        },
+        {
+          "element": "p767-e004",
+          "page": 767,
+          "source": "Each of these is listed as an association of collapsing FSGS EXCEPT: [Associated with: HIV, HIVAN, heroin, IFN α, parvo virus B19, pamidronate. (Book p767)]",
+          "questionIds": [
+            "MED-C11-058"
+          ]
+        },
+        {
+          "element": "p767-e005",
+          "page": 767,
+          "source": "Collapsing FSGS shows complete collapse of glomeruli with hypertrophy of podocyte, nicknamed: [Complete collapse of glomeruli with hypertrophy of podocyte (pseudocrescent); dilated tubules & microcysts. (Book p767)]",
+          "questionIds": [
+            "MED-C11-059"
+          ]
+        },
+        {
+          "element": "p767-e006",
+          "page": 767,
+          "source": "Fill up: The dilated cisternae of endoplasmic reticulum seen on electron microscopy in collapsing FSGS are called ______ footprints. [Electron microscope: dilated cisternae of endoplasmic reticulum (IFN footprints). (Book p767)]",
+          "questionIds": [
+            "MED-C11-060"
+          ]
+        },
+        {
+          "element": "p767-e007",
+          "page": 767,
+          "source": "The note distinguishes the pseudocrescent of collapsing FSGS from the true crescent, which is: [Hypertrophy of parietal epithelial cell: true crescent. (Book p767)]",
+          "questionIds": [
+            "MED-C11-061"
+          ]
+        },
+        {
+          "element": "p767-e008",
+          "page": 767,
+          "source": "Conditions listed with the IFN footprint are SLE and: [Condition with IFN footprint: SLE; FSGS (collapsing variant). (Book p767)]",
+          "questionIds": [
+            "MED-C11-062"
+          ]
+        },
+        {
+          "element": "p767-e009",
+          "page": 767,
+          "source": "All of the following are associated with collapsing FSGS EXCEPT: [Collapsing associations: HIV/HIVAN, heroin, IFN α, parvo B19, pamidronate; gold is an MN drug. (Book p767)]",
+          "questionIds": [
+            "MED-C11-063"
+          ]
+        },
+        {
+          "element": "p767-e010",
+          "page": 767,
+          "source": "Which crescent statement is TRUE as per the note? [Parietal epithelial cell hypertrophy = true crescent; collapsing podocyte hypertrophy = pseudocrescent. (Book p767)]",
+          "questionIds": [
+            "MED-C11-064"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 768,
+      "pdfPage": 9,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p768 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p768.",
+      "elements": [
+        {
+          "element": "p768-e001",
+          "page": 768,
+          "source": "The 1959 milestone on the MN antigen timeline is the: [1959 Heymann nephritis model. (Book p768)]",
+          "questionIds": [
+            "MED-C11-065"
+          ]
+        },
+        {
+          "element": "p768-e002",
+          "page": 768,
+          "source": "The 2009 antigen, usually in primary MN, is: [2009: M type PLA2R (usually in primary MN). (Book p768)]",
+          "questionIds": [
+            "MED-C11-066"
+          ]
+        },
+        {
+          "element": "p768-e003",
+          "page": 768,
+          "source": "The 2014 antigen, anti-thrombospondin 7A, which can also be seen in secondary MN, is: [2014: THSD7A, anti thrombospondin 7A (can be seen in secondary MN also). (Book p768)]",
+          "questionIds": [
+            "MED-C11-067"
+          ]
+        },
+        {
+          "element": "p768-e004",
+          "page": 768,
+          "source": "Match each year with its MN antigens — 1) 2019 2) 2020 3) 2021 … A) Neural cell adhesion molecule 1 (NCAM 1), HTRA-1, contactin-1 B) Exostosin 1/2 C) NELL-1, sema 3b, PCDH7 [2019 exostosin 1/2; 2020 NELL-1, sema 3b, PCDH7; 2021 NCAM 1, HTRA-1, contactin-1. (Book p768)]",
+          "questionIds": [
+            "MED-C11-068"
+          ]
+        },
+        {
+          "element": "p768-e005",
+          "page": 768,
+          "source": "The 2020 antigen associated with mercury-containing creams is: [NELL-1: associated with mercury containing creams. (Book p768)]",
+          "questionIds": [
+            "MED-C11-069"
+          ]
+        },
+        {
+          "element": "p768-e006",
+          "page": 768,
+          "source": "The only extrinsic antigen listed in MN is the: [Bovine specific antigen: only extrinsic antigen. (Book p768)]",
+          "questionIds": [
+            "MED-C11-070"
+          ]
+        },
+        {
+          "element": "p768-e007",
+          "page": 768,
+          "source": "The MN rule of 1/3 divides outcomes into spontaneous remission, CKD and: [1/3 spontaneous remission; 1/3 continue heavy proteinuria with normal kidney function; 1/3 CKD. (Book p768)]",
+          "questionIds": [
+            "MED-C11-071"
+          ]
+        },
+        {
+          "element": "p768-e008",
+          "page": 768,
+          "source": "On light microscopy, MN shows ↑ thickening of capillary wall, described as: [Uniform thickening of glomerular basement membrane. (Book p768)]",
+          "questionIds": [
+            "MED-C11-072"
+          ]
+        },
+        {
+          "element": "p768-e009",
+          "page": 768,
+          "source": "Match each IF feature with its MN column — 1) 1° MN IgG subclass 2) 2° MN (SLE) IgG subclasses 3) Full house effect … A) + in 2° MN, − in 1° MN B) IgG4 C) IgG1, G2, G3 [1° MN: IgG4; 2° MN (SLE): IgG1, G2, G3 with full house +. (Book p768)]",
+          "questionIds": [
+            "MED-C11-073"
+          ]
+        },
+        {
+          "element": "p768-e010",
+          "page": 768,
+          "source": "In the IF comparison table, anti PLA2R antibody is positive in 1° MN and negative in 2° MN, while mesangial staining is: [Anti PLA2R: − in 2°, + in 1°; mesangial staining: + in 2°, − in 1°. (Book p768)]",
+          "questionIds": [
+            "MED-C11-074"
+          ]
+        },
+        {
+          "element": "p768-e011",
+          "page": 768,
+          "source": "On electron microscopy MN shows effacement of podocytes, subepithelial deposits and spikes; 2° MN additionally deposits in the: [2° MN: deposits in both subepithelial space & mesangial space. (Book p768)]",
+          "questionIds": [
+            "MED-C11-075"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 769,
+      "pdfPage": 10,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p769 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p769.",
+      "elements": [
+        {
+          "element": "p769-e001",
+          "page": 769,
+          "source": "The MN page figures contrast normal thin-walled capillaries with thick capillary walls, show granular IF, and label the schematic with effaced foot processes, thickened basement membrane, subepithelial deposits and: [Schematic labels: podocyte with effaced foot processes, thickened BM, subepithelial deposits, spikes. (Book p769)]",
+          "questionIds": [
+            "MED-C11-076"
+          ]
+        },
+        {
+          "element": "p769-e002",
+          "page": 769,
+          "source": "In the modified Ponticelli regimen for the 70% with NS, steroids are given on months: [Steroids on months 1, 3, 5. (Book p769)]",
+          "questionIds": [
+            "MED-C11-077"
+          ]
+        },
+        {
+          "element": "p769-e003",
+          "page": 769,
+          "source": "Oral cyclophosphamide in the Ponticelli regimen is dosed at 2 mg/kg on months 2, 4, 6, and the regimen ends with: [Oral cyclophosphamide (2 mg/kg) on months 2, 4, 6 → abrupt stop. (Book p769)]",
+          "questionIds": [
+            "MED-C11-078"
+          ]
+        },
+        {
+          "element": "p769-e004",
+          "page": 769,
+          "source": "If there is no response to the Ponticelli regimen, the next agent written is: [Rituximab: if no response to Ponticelli regimen. (Book p769)]",
+          "questionIds": [
+            "MED-C11-079"
+          ]
+        },
+        {
+          "element": "p769-e005",
+          "page": 769,
+          "source": "The 30% asymptomatic MN arm is managed with ACE (−)/ARBs, salt restriction and protein at: [30% asymptomatic: ACE (−)/ARBs; salt restriction; 1 gm/kg/day protein. (Book p769)]",
+          "questionIds": [
+            "MED-C11-080"
+          ]
+        },
+        {
+          "element": "p769-e006",
+          "page": 769,
+          "source": "Match each MN treatment item with its arm — 1) Modified Ponticelli regimen 2) Rituximab 3) ACE (−)/ARBs … A) 30% asymptomatic arm B) 70% with NS arm C) No response to Ponticelli [70% with NS → Ponticelli; no response → rituximab; 30% asymptomatic → ACE (−)/ARBs. (Book p769)]",
+          "questionIds": [
+            "MED-C11-081"
+          ]
+        },
+        {
+          "element": "p769-e007",
+          "page": 769,
+          "source": "All of the following belong to the 30% asymptomatic MN arm EXCEPT: [Steroids on months 1, 3, 5 belong to the Ponticelli regimen of the NS arm. (Book p769)]",
+          "questionIds": [
+            "MED-C11-082"
+          ]
+        },
+        {
+          "element": "p769-e008",
+          "page": 769,
+          "source": "Which Ponticelli statement is TRUE as drawn? [Steroids months 1, 3, 5; cyclophosphamide months 2, 4, 6; abrupt stop. (Book p769)]",
+          "questionIds": [
+            "MED-C11-083"
+          ]
+        },
+        {
+          "element": "p769-e009",
+          "page": 769,
+          "source": "In the Ponticelli arm of the treatment chart, oral cyclophosphamide is given at 2 mg/kg on which months? [Steroids are printed as 'On months 1,3,5' and oral cyclophosphamide (2 mg/kg) as 'On months 2,4,6', with the two brackets closing on 'Abrupt stop'. (B]",
+          "questionIds": [
+            "MED-C11-084"
+          ]
+        },
+        {
+          "element": "p769-e010",
+          "page": 769,
+          "source": "Fill up: The bracket that groups the alternating steroid and cyclophosphamide months in the modified Ponticelli regimen ends with the instruction ______ stop. [The brace beside the two drug lines is captioned 'Abrupt stop', i.e. the alternating cycles are stopped rather than tapered on this page. (Book p769)]",
+          "questionIds": [
+            "MED-C11-085"
+          ]
+        },
+        {
+          "element": "p769-e011",
+          "page": 769,
+          "source": "Match each label of the membranous nephropathy diagram with what it points to — 1) Podocyte 2) Basement membrane 3) Deposits … A) Effaced foot processes B) Thickened C) Subepithelial, with spikes [The diagram is labelled Podocyte with effaced foot processes, Thickened basement membrane, Subepithelial deposits and Spikes, and is captioned 'membra]",
+          "questionIds": [
+            "MED-C11-086"
+          ]
+        },
+        {
+          "element": "p769-e012",
+          "page": 769,
+          "source": "The green capillary-loop photograph on this page carries which caption? [The immunofluorescence photograph along the glomerular capillary loops is captioned 'IF in MN', sitting between the two light-microscopy photographs a]",
+          "questionIds": [
+            "MED-C11-087"
+          ]
+        },
+        {
+          "element": "p769-e013",
+          "page": 769,
+          "source": "A 45-year-old with biopsy-proven MN has only trace proteinuria, normal albumin and no edema. Per the treatment chart's right-hand arm, the plan is: [The 30% asymptomatic arm is managed with ACE(−)/ARBs, salt restriction and 1 gm/kg/day protein; the Ponticelli regimen and rituximab belong to the 70%]",
+          "questionIds": [
+            "MED-C11-088"
+          ]
+        }
+      ]
+    }
+  ]
+}

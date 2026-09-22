@@ -1,0 +1,848 @@
+{
+  "chapter": 73,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+  "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+  "pdfOffset": 1034,
+  "pageRange": "1053-1060",
+  "contentSha256": "72904ac866bb5f340d139b6bf1d22d034eb6f848c72779c7ccdbe439e199c73b",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch73 p1053-1060: auto-generated source checklist from existing 95 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 1053,
+      "pdfPage": 19,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1053 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1053.",
+      "elements": [
+        {
+          "element": "p1053-e001",
+          "page": 1053,
+          "source": "Pattern of fever — match the infection to the printed pattern — 1) Salmonella 2) Malaria 3) Leptospirosis / scrub typhus … A) Chills and rigors with fatigue B) Myalgia of the calf muscles and conjunctival suffusion in a farmer C) Step-ladder / rising pattern ['· Salmonella : Step ladder / Rising pattern. · malaria : Chills and rigors a/w fatigue. · Leptospirosis, scrub typhus : A/w myalgia (Calf muscle), co]",
+          "questionIds": [
+            "MED-C73-001"
+          ]
+        },
+        {
+          "element": "p1053-e002",
+          "page": 1053,
+          "source": "Which occupation is printed in the leptospirosis / scrub typhus fever-pattern line? ['Leptospirosis, scrub typhus : A/w myalgia (Calf muscle), conjunctival suffusion in a farmer'. (Book p1053)]",
+          "questionIds": [
+            "MED-C73-002"
+          ]
+        },
+        {
+          "element": "p1053-e003",
+          "page": 1053,
+          "source": "Dengue fever — match the symptom group — 1) Grade of fever 2) Pain 3) Gastrointestinal … A) High grade B) Vomiting, described as a few episodes C) Retro-orbital and occipital pain ['· Dengue : - High grade fever a/w : a. Retro-orbital pain, b. Occipital pain, c. vomiting'. (Book p1053)]",
+          "questionIds": [
+            "MED-C73-003"
+          ]
+        },
+        {
+          "element": "p1053-e004",
+          "page": 1053,
+          "source": "Which is NOT printed among the pains of dengue on this page? [Printed: retro-orbital pain and occipital pain with vomiting. (Book p1053)]",
+          "questionIds": [
+            "MED-C73-004"
+          ]
+        },
+        {
+          "element": "p1053-e005",
+          "page": 1053,
+          "source": "Which investigation is printed first in the fever work-up? ['Investigations : · CBC profile'. (Book p1053)]",
+          "questionIds": [
+            "MED-C73-005"
+          ]
+        },
+        {
+          "element": "p1053-e006",
+          "page": 1053,
+          "source": "Fill up (Malaria testing): 'Quantitative buffy coat (QBC), repeated every ______ hours.' ['· malaria : Quantitative buffy coat (QBC). Repeated every 12 hours'. (Book p1053)]",
+          "questionIds": [
+            "MED-C73-006"
+          ]
+        },
+        {
+          "element": "p1053-e007",
+          "page": 1053,
+          "source": "How many consecutive negative QBC tests does the page require before malaria is ruled out? ['Ruled out : If 3 consecutive tests negative'. (Book p1053)]",
+          "questionIds": [
+            "MED-C73-007"
+          ]
+        },
+        {
+          "element": "p1053-e008",
+          "page": 1053,
+          "source": "What does the page advise starting on day 4 of fever? ['Fever on day 4 : Start on : Doxycycline (100mg BD) + Cotrimoxazole DS (Double strength) BD'. (Book p1053)]",
+          "questionIds": [
+            "MED-C73-008"
+          ]
+        },
+        {
+          "element": "p1053-e009",
+          "page": 1053,
+          "source": "The day-4 empirical regimen is printed as covering which infections? [Under the day-4 regimen the page prints 'Leptospirosis, Scrub typhus'. (Book p1053)]",
+          "questionIds": [
+            "MED-C73-009"
+          ]
+        },
+        {
+          "element": "p1053-e010",
+          "page": 1053,
+          "source": "Judge the fever algorithm: I Malaria is excluded only after three consecutive negative QBC tests. II By day 4 the page starts doxycycline plus double-strength co-trimoxazole for leptospirosis and scrub typhus. ['Ruled out : If 3 consecutive tests negative' and 'Fever on day 4 : Start on : Doxycycline (100mg BD) + Cotrimoxazole DS BD'. (Book p1053)]",
+          "questionIds": [
+            "MED-C73-010"
+          ]
+        },
+        {
+          "element": "p1053-e011",
+          "page": 1053,
+          "source": "How is the fever evaluation organised on this page? [The synopsis is headed 'Fever in Infections' and then organised as 'Fever on day 1-2', 'Fever on day 3', 'Fever on day 4' and 'Fever on day 5'. (Book ]",
+          "questionIds": [
+            "MED-C73-011"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1054,
+      "pdfPage": 20,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1054 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1054.",
+      "elements": [
+        {
+          "element": "p1054-e001",
+          "page": 1054,
+          "source": "Salmonellosis by week — match — 1) Week 1 2) Week 3 … A) Ileocaecal hyperplasia with GI perforation and bleeding, encephalopathy B) Step-ladder fever with or without chills, relative bradycardia, vague abdominal pain and GI upset [Week 1: '· Step ladder fever ± chills, · Relative bradycardia, Vague abdominal pain, GI disturbances'. Week 3: 'Ileocoecal hyperplasia > GI perforatio]",
+          "questionIds": [
+            "MED-C73-012"
+          ]
+        },
+        {
+          "element": "p1054-e002",
+          "page": 1054,
+          "source": "Which pulse-temperature relationship is printed for the first week of salmonellosis? ['· Relative bradycardia' is listed under week 1. (Book p1054)]",
+          "questionIds": [
+            "MED-C73-013"
+          ]
+        },
+        {
+          "element": "p1054-e003",
+          "page": 1054,
+          "source": "Judge the week-3 column: I Ileocaecal hyperplasia can progress to GI perforation and bleeding. II Encephalopathy is listed as a week-3 complication. [Week 3 prints 'Ileocoecal hyperplasia > GI perforation, bleeding' and 'Encephalopathy'. (Book p1054)]",
+          "questionIds": [
+            "MED-C73-014"
+          ]
+        },
+        {
+          "element": "p1054-e004",
+          "page": 1054,
+          "source": "Which complication is printed for the chronic carrier state of Salmonella? ['Complication : Gall stones in chronic carrier state'. (Book p1054)]",
+          "questionIds": [
+            "MED-C73-015"
+          ]
+        },
+        {
+          "element": "p1054-e005",
+          "page": 1054,
+          "source": "Incubation period printed for salmonellosis? ['Incubation period : 5-20 days'. (Book p1054)]",
+          "questionIds": [
+            "MED-C73-016"
+          ]
+        },
+        {
+          "element": "p1054-e006",
+          "page": 1054,
+          "source": "Investigations — match the test to its printed yield — 1) Widal 2) Blood culture … A) 90% positivity in the first week B) Low positivity in the first and second weeks, 80-100% positivity by the third week [Widal: '· Low positivity (1st and 2nd week), 80-100% positivity (3rd week)'. Blood culture: '· 90% positivity (1st week)'. (Book p1054)]",
+          "questionIds": [
+            "MED-C73-017"
+          ]
+        },
+        {
+          "element": "p1054-e007",
+          "page": 1054,
+          "source": "What positivity does the page print for Widal in the third week? ['80-100% positivity (3rd week)'. (Book p1054)]",
+          "questionIds": [
+            "MED-C73-018"
+          ]
+        },
+        {
+          "element": "p1054-e008",
+          "page": 1054,
+          "source": "Which culture medium is printed as giving jet-black colonies for Salmonella? ['Wilson Blair bismuth sulphite agar : Jet black colonies'. (Book p1054)]",
+          "questionIds": [
+            "MED-C73-019"
+          ]
+        },
+        {
+          "element": "p1054-e009",
+          "page": 1054,
+          "source": "Which medium is NOT printed in the salmonellosis investigations? [Printed: blood culture (90% first week), MacConkey agar and Wilson-Blair bismuth sulphite agar. (Book p1054)]",
+          "questionIds": [
+            "MED-C73-020"
+          ]
+        },
+        {
+          "element": "p1054-e010",
+          "page": 1054,
+          "source": "Rose spots are illustrated on this page next to which disease section? [The 'Rose spots' label sits in the salmonellosis page image. (Book p1054)]",
+          "questionIds": [
+            "MED-C73-021"
+          ]
+        },
+        {
+          "element": "p1054-e011",
+          "page": 1054,
+          "source": "A patient in the third week of enteric fever has abdominal guarding and a drop in blood pressure. Which week-3 complication does the page list? [Week 3: 'Ileocoecal hyperplasia > GI perforation, bleeding'. (Book p1054)]",
+          "questionIds": [
+            "MED-C73-022"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1055,
+      "pdfPage": 21,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1055 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1055.",
+      "elements": [
+        {
+          "element": "p1055-e001",
+          "page": 1055,
+          "source": "Pathogenesis of typhoid — match — 1) Entry 2) Multiplication 3) Seeding 4) Re-entry … A) Liver, spleen and bone marrow B) Via the bloodstream C) Gallbladder, biliary system and lymphatic system of bowel D) Intestinal tract with ileocaecal hyperplasia ['Via blood stream (m/c) → In liver, spleen & bone marrow multiply, re-enter → Invades & multiplies in Gallbladder, Biliary system, Lymphatic system of]",
+          "questionIds": [
+            "MED-C73-023"
+          ]
+        },
+        {
+          "element": "p1055-e002",
+          "page": 1055,
+          "source": "Which route does the page print as the most common for dissemination in typhoid? ['Via blood stream (m/c)'. (Book p1055)]",
+          "questionIds": [
+            "MED-C73-024"
+          ]
+        },
+        {
+          "element": "p1055-e003",
+          "page": 1055,
+          "source": "Judge the pathogenesis: I The organism multiplies in liver, spleen and bone marrow. II The gallbladder and biliary system are seeded and the organism later re-enters the bowel. [Both statements follow the printed chain through the gallbladder, biliary system and bowel lymphatics. (Book p1055)]",
+          "questionIds": [
+            "MED-C73-025"
+          ]
+        },
+        {
+          "element": "p1055-e004",
+          "page": 1055,
+          "source": "Which anatomical site is printed as the site of the lesion produced after intestinal re-entry? ['Pass into intestinal tract and causes ileocaecal hyperplasia'. (Book p1055)]",
+          "questionIds": [
+            "MED-C73-026"
+          ]
+        },
+        {
+          "element": "p1055-e005",
+          "page": 1055,
+          "source": "Treatment — match — 1) Uncomplicated 2) Complicated … A) Ceftriaxone 2 g IV for 14 days B) Co-trimoxazole double strength BD for 14 days, or azithromycin 1 g once daily for 7 days ['Uncomplicated cases : Cotrimoxazole (DS) BD × 14 days OR Azithromycin 1g OD × 7 days'; 'Complicated cases : Ceftriaxone 2g I/V × 14 days'. (Book p105]",
+          "questionIds": [
+            "MED-C73-027"
+          ]
+        },
+        {
+          "element": "p1055-e006",
+          "page": 1055,
+          "source": "Duration printed for azithromycin in uncomplicated enteric fever? ['Azithromycin 1g OD × 7 days'. (Book p1055)]",
+          "questionIds": [
+            "MED-C73-028"
+          ]
+        },
+        {
+          "element": "p1055-e007",
+          "page": 1055,
+          "source": "Duration printed for intravenous ceftriaxone in complicated enteric fever? ['Ceftriaxone 2g I/V × 14 days'. (Book p1055)]",
+          "questionIds": [
+            "MED-C73-029"
+          ]
+        },
+        {
+          "element": "p1055-e008",
+          "page": 1055,
+          "source": "Fill up (Dengue): 'Incubation period : ______ days.' ['Incubation period : 7-10 days'. (Book p1055)]",
+          "questionIds": [
+            "MED-C73-030"
+          ]
+        },
+        {
+          "element": "p1055-e009",
+          "page": 1055,
+          "source": "Dengue disease course — match — 1) Day 1 to 3 2) Day 4 onwards … A) NS1 antigen negative, fever subsides, rash appears B) NS1 antigen positive ['Day 1 to 3 : NS-1 antigen positive'; 'Day 4 onwards : NS-1 antigen negative; Fever subsides; Rash'. (Book p1055)]",
+          "questionIds": [
+            "MED-C73-031"
+          ]
+        },
+        {
+          "element": "p1055-e010",
+          "page": 1055,
+          "source": "Dengue symptoms — match — 1) Fever 2) Pain 3) Gut … A) High grade B) Vomiting C) Headache and retro-orbital pain ['Symptoms : High grade fever, Headache, · Retro-orbital pain, · vomiting'. (Book p1055)]",
+          "questionIds": [
+            "MED-C73-032"
+          ]
+        },
+        {
+          "element": "p1055-e011",
+          "page": 1055,
+          "source": "What does the page print about the platelet count in dengue without warning signs? ['Day 4 onwards : ↓ Platelet counts (Not < 50,000)' with '· Leucopenia' and 'Dengue without warning signs'. (Book p1055)]",
+          "questionIds": [
+            "MED-C73-033"
+          ]
+        },
+        {
+          "element": "p1055-e012",
+          "page": 1055,
+          "source": "Which white-cell change is printed on day 4 onwards in dengue? ['Day 4 onwards : … · Leucopenia'. (Book p1055)]",
+          "questionIds": [
+            "MED-C73-034"
+          ]
+        },
+        {
+          "element": "p1055-e013",
+          "page": 1055,
+          "source": "Judge the dengue block: I NS1 antigen is positive from day 1 to day 3 and negative from day 4. II The fever subsides and the rash appears from day 4 onwards. ['Day 1 to 3 : NS-1 antigen positive'; 'Day 4 onwards : NS-1 antigen negative', 'Fever subsides', 'Rash'. (Book p1055)]",
+          "questionIds": [
+            "MED-C73-035"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1056,
+      "pdfPage": 22,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1056 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1056.",
+      "elements": [
+        {
+          "element": "p1056-e001",
+          "page": 1056,
+          "source": "Which days are printed as the most crucial period of dengue? ['Day 4-7 : (most crucial period)'. (Book p1056)]",
+          "questionIds": [
+            "MED-C73-036"
+          ]
+        },
+        {
+          "element": "p1056-e002",
+          "page": 1056,
+          "source": "Critical-phase problems — match — 1) Bleeding 2) Capillary leak … A) Pleural or pericardial effusion and ascites B) Falling platelet count ['In some patients : ↓ Platelet count (Bleeding), Capillary leak syndrome (Pleural / pericardial effusion, ascites)'. (Book p1056)]",
+          "questionIds": [
+            "MED-C73-037"
+          ]
+        },
+        {
+          "element": "p1056-e003",
+          "page": 1056,
+          "source": "How is capillary leak syndrome manifested, according to the page? ['Capillary leak syndrome (Pleural / pericardial effusion, ascites)'. (Book p1056)]",
+          "questionIds": [
+            "MED-C73-038"
+          ]
+        },
+        {
+          "element": "p1056-e004",
+          "page": 1056,
+          "source": "Monitoring in the critical phase — match — 1) Circulation 2) Volume status 3) Haemoconcentration … A) IVC diameter B) Haematocrit C) Blood pressure supported with IV fluids ['monitor and maintenance : · BP by I/V fluids, · IVC diameter, · Hematocrit'. (Book p1056)]",
+          "questionIds": [
+            "MED-C73-039"
+          ]
+        },
+        {
+          "element": "p1056-e005",
+          "page": 1056,
+          "source": "What platelet thresholds does the page print for transfusing platelets in dengue? ['Platelets (Administer if < 10,000 OR < 20,000 + bleeding)'. (Book p1056)]",
+          "questionIds": [
+            "MED-C73-040"
+          ]
+        },
+        {
+          "element": "p1056-e006",
+          "page": 1056,
+          "source": "What does the page print about steroids in dengue? ['No use of steroids'. (Book p1056)]",
+          "questionIds": [
+            "MED-C73-041"
+          ]
+        },
+        {
+          "element": "p1056-e007",
+          "page": 1056,
+          "source": "Judge the management block: I Monitoring covers blood pressure, IVC diameter and haematocrit. II Steroids have no role. [Both statements reproduce 'monitor and maintenance' and 'No use of steroids'. (Book p1056)]",
+          "questionIds": [
+            "MED-C73-042"
+          ]
+        },
+        {
+          "element": "p1056-e008",
+          "page": 1056,
+          "source": "Course of illness phases — match — 1) Early 2) Critical 3) Late … A) Febrile B) Recovery C) Critical ['Course of illness : Febrile, Critical, Recovery phases'. (Book p1056)]",
+          "questionIds": [
+            "MED-C73-043"
+          ]
+        },
+        {
+          "element": "p1056-e009",
+          "page": 1056,
+          "source": "Day-wise chart — match the column to its content — 1) Temperature 2) Potential clinical issues 3) Lab changes 4) Serology and virology … A) Dehydration, shock and bleeding, then reabsorption and fluid overload, organ impairment, platelets B) IgM and IgG, viraemia C) Haematocrit D) Up to 40°C [The chart rows are 'Days of illness 1-10', 'Temperature' (40°), 'Potential clinical issues' (dehydration, shock/bleeding, reabsorption/fluid overload,]",
+          "questionIds": [
+            "MED-C73-044"
+          ]
+        },
+        {
+          "element": "p1056-e010",
+          "page": 1056,
+          "source": "Fill up: 'Note : IgM becomes positive from day ______ onwards.' ['Note : IgM become positive : Day 5 onwards'. (Book p1056)]",
+          "questionIds": [
+            "MED-C73-045"
+          ]
+        },
+        {
+          "element": "p1056-e011",
+          "page": 1056,
+          "source": "Which warning-sign group is contrasted with 'dengue without warning signs' on this spread? ['Dengue with warning signs/organ failure' is the label under the critical-period branch. (Book p1056)]",
+          "questionIds": [
+            "MED-C73-046"
+          ]
+        },
+        {
+          "element": "p1056-e012",
+          "page": 1056,
+          "source": "On day 6 of dengue a patient develops ascites, a falling haematocrit and a platelet count of 15,000 with mucosal bleeding. Which printed intervention applies? [The threshold is 'Administer if < 10,000 OR < 20,000 + bleeding'. (Book p1056)]",
+          "questionIds": [
+            "MED-C73-047"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1057,
+      "pdfPage": 23,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1057 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1057.",
+      "elements": [
+        {
+          "element": "p1057-e001",
+          "page": 1057,
+          "source": "Leptospirosis features — match — 1) Onset 2) Muscles 3) Eyes … A) Conjunctival congestion and suffusion B) Calf muscle tenderness C) Abrupt onset fever of low to intermediate grade ['Features : · Abrupt onset fever (Low to intermediate grade), myalgia — Calf muscle tenderness, Conjunctival congestion' and 'Conjunctival suffusion'.]",
+          "questionIds": [
+            "MED-C73-048"
+          ]
+        },
+        {
+          "element": "p1057-e002",
+          "page": 1057,
+          "source": "How is the fever of leptospirosis described on this page? ['· Abrupt onset fever (Low to intermediate grade)'. (Book p1057)]",
+          "questionIds": [
+            "MED-C73-049"
+          ]
+        },
+        {
+          "element": "p1057-e003",
+          "page": 1057,
+          "source": "Complications — match — 1) Hepatorenal syndrome 2) Renal lesion 3) Electrolytes … A) Non-oliguric AKI with hypokalaemia and hypomagnesaemia B) Hepatitis with jaundice plus acute tubular necrosis C) Thrombocytopenia ['Hepatorenal syndrome : Hepatitis with jaundice + Acute tubular necrosis'; 'Non-oliguric AKI with : 1. Hypokalemia, 2. Hypomagnesemia'; 'Thrombocytope]",
+          "questionIds": [
+            "MED-C73-050"
+          ]
+        },
+        {
+          "element": "p1057-e004",
+          "page": 1057,
+          "source": "Which electrolyte disturbances are printed under non-oliguric AKI in leptospirosis? ['Non-oliguric AKI with : 1. Hypokalemia, 2. Hypomagnesemia'. (Book p1057)]",
+          "questionIds": [
+            "MED-C73-051"
+          ]
+        },
+        {
+          "element": "p1057-e005",
+          "page": 1057,
+          "source": "Immunological manifestations — match — 1) Cardiac 2) Neurological 3) Muscle … A) Myocarditis with secondary MR / AR, and aseptic meningitis B) Rhabdomyolysis C) Aseptic meningitis ['Immunological manifestations : myocarditis, · Secondary MR/AR, + Aseptic meningitis'; 'Rhabdomyolysis'. (Book p1057)]",
+          "questionIds": [
+            "MED-C73-052"
+          ]
+        },
+        {
+          "element": "p1057-e006",
+          "page": 1057,
+          "source": "Which is NOT printed among the leptospirosis complications? [Printed complications: hepatorenal syndrome, non-oliguric AKI with hypokalaemia and hypomagnesaemia, thrombocytopenia, myocarditis with secondary MR/A]",
+          "questionIds": [
+            "MED-C73-053"
+          ]
+        },
+        {
+          "element": "p1057-e007",
+          "page": 1057,
+          "source": "Which diagnostic criteria are printed for leptospirosis? ['Criteria : modified Faine's criteria'. (Book p1057)]",
+          "questionIds": [
+            "MED-C73-054"
+          ]
+        },
+        {
+          "element": "p1057-e008",
+          "page": 1057,
+          "source": "Which test is printed as the gold standard for leptospirosis? ['Gold standard test : microscopic agglutination test (MAT)'. (Book p1057)]",
+          "questionIds": [
+            "MED-C73-055"
+          ]
+        },
+        {
+          "element": "p1057-e009",
+          "page": 1057,
+          "source": "Fill up (Treatment): 'Doxycycline + Inj Ceftriaxone ______ IV OD.' ['Treatment : Doxycycline + Inj Ceftriaxone 2g IV OD'. (Book p1057)]",
+          "questionIds": [
+            "MED-C73-056"
+          ]
+        },
+        {
+          "element": "p1057-e010",
+          "page": 1057,
+          "source": "Which period does the page print as the vital period in leptospirosis? ['4-7 days (Vital period)'. (Book p1057)]",
+          "questionIds": [
+            "MED-C73-057"
+          ]
+        },
+        {
+          "element": "p1057-e011",
+          "page": 1057,
+          "source": "A farmer presents with abrupt fever, tender calf muscles, conjunctival suffusion, jaundice and non-oliguric renal failure. Which diagnosis and confirmatory test does the page support? [The fever pattern page names leptospirosis in a farmer with calf myalgia and conjunctival suffusion; the gold standard here is MAT. (Book p1057)]",
+          "questionIds": [
+            "MED-C73-058"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1058,
+      "pdfPage": 24,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1058 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1058.",
+      "elements": [
+        {
+          "element": "p1058-e001",
+          "page": 1058,
+          "source": "What is the infectious agent of scrub typhus, as printed? ['Infectious agent : Orientia tsutsugamushi'. (Book p1058)]",
+          "questionIds": [
+            "MED-C73-059"
+          ]
+        },
+        {
+          "element": "p1058-e002",
+          "page": 1058,
+          "source": "Disease progression in scrub typhus — match — 1) Renal lesion 2) Immunological phase … A) Micro-infarcts in kidney with ATN and a thrombotic microangiopathic pattern B) No immunological phase ['micro infarct in kidney (ATN + Thrombotic microangiopathic pattern)' and 'No immunological phase'. (Book p1058)]",
+          "questionIds": [
+            "MED-C73-060"
+          ]
+        },
+        {
+          "element": "p1058-e003",
+          "page": 1058,
+          "source": "What is printed as the characteristic feature of scrub typhus? ['Characteristic feature : Eschar'. (Book p1058)]",
+          "questionIds": [
+            "MED-C73-061"
+          ]
+        },
+        {
+          "element": "p1058-e004",
+          "page": 1058,
+          "source": "Judge the scrub typhus block: I The presentation resembles leptospirosis. II Lymphadenopathy appears at the end of one week. ['· Similar presentation as leptospirosis' and 'Lymphadenopathy at the end of one week'. (Book p1058)]",
+          "questionIds": [
+            "MED-C73-062"
+          ]
+        },
+        {
+          "element": "p1058-e005",
+          "page": 1058,
+          "source": "Untreated scrub typhus — match the feature to its timing/type — 1) CNS involvement 2) Hearing 3) Eye movements … A) Sensorineural deafness, reversible B) Opsoclonus and myoclonus C) Within one week ['If untreated → CNS involvement (within one week) : Sensorineural deafness (Reversible), Opsoclonus, myoclonus'. (Book p1058)]",
+          "questionIds": [
+            "MED-C73-063"
+          ]
+        },
+        {
+          "element": "p1058-e006",
+          "page": 1058,
+          "source": "What doxycycline regimen is printed for scrub typhus? ['Doxycycline 100mg BD × 7 days'. (Book p1058)]",
+          "questionIds": [
+            "MED-C73-064"
+          ]
+        },
+        {
+          "element": "p1058-e007",
+          "page": 1058,
+          "source": "What azithromycin regimen is printed as the alternative for scrub typhus? ['Azithromycin 500mg OD × 5 days'. (Book p1058)]",
+          "questionIds": [
+            "MED-C73-065"
+          ]
+        },
+        {
+          "element": "p1058-e008",
+          "page": 1058,
+          "source": "Judge the scrub typhus treatment: I Doxycycline 100 mg twice daily for 7 days. II Azithromycin 500 mg once daily for 5 days is the alternative. [Both regimens are printed on the scrap typhus block. (Book p1058)]",
+          "questionIds": [
+            "MED-C73-066"
+          ]
+        },
+        {
+          "element": "p1058-e009",
+          "page": 1058,
+          "source": "Malaria life cycle — match — 1) Infective form 2) Liver stage 3) Blood stage … A) Pre-erythrocytic schizogony B) Sporozoites C) Erythrocytic schizogony with merozoite release and RBC rupture ['Sporozoites (Infective form) → Via blood → Liver → Pre-erythrocytic schizogony → Released → merozoites → Rupture RBC's → Erythrocytic schizogony → Fe]",
+          "questionIds": [
+            "MED-C73-067"
+          ]
+        },
+        {
+          "element": "p1058-e010",
+          "page": 1058,
+          "source": "What is printed as the infective form in the malaria life cycle? ['Sporozoites (Infective form)'. (Book p1058)]",
+          "questionIds": [
+            "MED-C73-068"
+          ]
+        },
+        {
+          "element": "p1058-e011",
+          "page": 1058,
+          "source": "Which stage name is given to hepatic schizogony on this page? ['Liver → Pre-erythrocytic schizogony'. (Book p1058)]",
+          "questionIds": [
+            "MED-C73-069"
+          ]
+        },
+        {
+          "element": "p1058-e012",
+          "page": 1058,
+          "source": "Judge the malaria cycle: I Sporozoites reach the liver through the blood. II Fever coincides with erythrocytic schizogony and RBC rupture. [Both statements follow the printed cycle ending in 'Erythrocytic schizogony → Fever'. (Book p1058)]",
+          "questionIds": [
+            "MED-C73-070"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1059,
+      "pdfPage": 25,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1059 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1059.",
+      "elements": [
+        {
+          "element": "p1059-e001",
+          "page": 1059,
+          "source": "Malaria — match the clinical group to its content — 1) Symptoms 2) Signs 3) Complication mechanism … A) Extreme fatigue B) Organ ischaemia C) Tachypnoea, tachycardia, splenomegaly ['clinical features : · Extreme fatigue'; 'Tachypnea / tachycardia / splenomegaly'; 'complication : Organ ischemia'. (Book p1059)]",
+          "questionIds": [
+            "MED-C73-071"
+          ]
+        },
+        {
+          "element": "p1059-e002",
+          "page": 1059,
+          "source": "What mechanism is printed for the complications of falciparum malaria? ['Cyto-adherence, rosetting, agglutination of RBCs'. (Book p1059)]",
+          "questionIds": [
+            "MED-C73-072"
+          ]
+        },
+        {
+          "element": "p1059-e003",
+          "page": 1059,
+          "source": "Which organ is printed as the major site of RBC trapping? ['· major organ involved in trapping RBCs : Spleen'. (Book p1059)]",
+          "questionIds": [
+            "MED-C73-073"
+          ]
+        },
+        {
+          "element": "p1059-e004",
+          "page": 1059,
+          "source": "Which investigation is printed for malaria on this page? ['Investigation : quantitative buffy coat (QBC)'. (Book p1059)]",
+          "questionIds": [
+            "MED-C73-074"
+          ]
+        },
+        {
+          "element": "p1059-e005",
+          "page": 1059,
+          "source": "Species characteristics — match — 1) P. falciparum 2) P. vivax 3) P. ovale 4) P. malariae … A) Reticulocytes, up to 2 weeks old B) Reticulocytes C) Older cells D) Younger cells ['Red cell preference : Younger cells (falciparum); Reticulocytes and cells up to 2 weeks old (vivax); Reticulocytes (ovale); Older cells (malariae)'. ]",
+          "questionIds": [
+            "MED-C73-075"
+          ]
+        },
+        {
+          "element": "p1059-e006",
+          "page": 1059,
+          "source": "Duration of the erythrocytic cycle printed for P. falciparum and P. vivax? ['Duration of erythrocytic cycle (Hours) : 48 (falciparum), 48 (vivax), 48 (ovale), 72 (malariae)'. (Book p1059)]",
+          "questionIds": [
+            "MED-C73-076"
+          ]
+        },
+        {
+          "element": "p1059-e007",
+          "page": 1059,
+          "source": "Which species is printed with a 72-hour erythrocytic cycle? ['Duration of erythrocytic cycle (Hours) : … P. malariae 72'. (Book p1059)]",
+          "questionIds": [
+            "MED-C73-077"
+          ]
+        },
+        {
+          "element": "p1059-e008",
+          "page": 1059,
+          "source": "Pigment colour — match — 1) P. falciparum 2) P. vivax 3) P. ovale 4) P. malariae … A) Yellow-brown B) Dark-brown C) Brown-black D) Black ['Pigment color : Black (falciparum), Yellow-brown (vivax), Dark-brown (ovale), Brown-black (malariae)'. (Book p1059)]",
+          "questionIds": [
+            "MED-C73-078"
+          ]
+        },
+        {
+          "element": "p1059-e009",
+          "page": 1059,
+          "source": "Relapses — match the species to its ability — 1) P. vivax 2) P. ovale 3) P. falciparum 4) P. malariae … A) Yes B) Yes C) No D) No ['Ability to cause relapses : No (falciparum), Yes (vivax), Yes (ovale), No (malariae)'. (Book p1059)]",
+          "questionIds": [
+            "MED-C73-079"
+          ]
+        },
+        {
+          "element": "p1059-e010",
+          "page": 1059,
+          "source": "Uncomplicated versus complicated — match — 1) Uncomplicated 2) Complicated … A) Due to P. falciparum, with anaemia, cerebral malaria, hypoglycaemia, shock, haemoglobinuria and jaundice B) Due to P. falciparum or P. vivax, with fever and chills, fatigue, diaphoresis and mild myalgia ['Uncomplicated malaria : (d/t P. falciparum / P. vivax) — Fever with chills / fatigue / diaphoresis, Tachypnea / tachycardia / splenomegaly, myalgia (]",
+          "questionIds": [
+            "MED-C73-080"
+          ]
+        },
+        {
+          "element": "p1059-e011",
+          "page": 1059,
+          "source": "Which colour name is given to the haemoglobinuria of complicated malaria? ['· Hemoglobinuria (black water fever)'. (Book p1059)]",
+          "questionIds": [
+            "MED-C73-081"
+          ]
+        },
+        {
+          "element": "p1059-e012",
+          "page": 1059,
+          "source": "Which is NOT printed among the features of complicated malaria? [Printed: anaemia, cerebral malaria (convulsions, seizures), hypoglycaemia, hypotension/shock, haemoglobinuria and jaundice. (Book p1059)]",
+          "questionIds": [
+            "MED-C73-082"
+          ]
+        },
+        {
+          "element": "p1059-e013",
+          "page": 1059,
+          "source": "A patient with falciparum malaria has seizures and hypoglycaemia. Which group and species does the page assign this to? [Cerebral malaria with convulsions, seizures and hypoglycaemia is listed under 'Complicated malaria : (d/t P. falciparum)'. (Book p1059)]",
+          "questionIds": [
+            "MED-C73-083"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1060,
+      "pdfPage": 26,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1060 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1060.",
+      "elements": [
+        {
+          "element": "p1060-e001",
+          "page": 1060,
+          "source": "Microscopy — match — 1) Thick smear 2) Thin smear … A) Not sensitive B) Gold standard with Giemsa staining and light microscopy ['Thick smear : Gold standard, Giemsa staining and light microscopy'; 'Thin smear : Not sensitive'. (Book p1060)]",
+          "questionIds": [
+            "MED-C73-084"
+          ]
+        },
+        {
+          "element": "p1060-e002",
+          "page": 1060,
+          "source": "Which stain is printed for the QBC test? ['QBC test : · Stain : Acridine orange'. (Book p1060)]",
+          "questionIds": [
+            "MED-C73-085"
+          ]
+        },
+        {
+          "element": "p1060-e003",
+          "page": 1060,
+          "source": "How many QBC tests and at what spacing does the page require before declaring no malaria? ['· 3 QBC tests 12 hours apart → Negative → No malaria'. (Book p1060)]",
+          "questionIds": [
+            "MED-C73-086"
+          ]
+        },
+        {
+          "element": "p1060-e004",
+          "page": 1060,
+          "source": "What is printed about the rapid diagnostic test based on HRP2? ['Rapid diagnostic test : HRP2 (Not validated)'. (Book p1060)]",
+          "questionIds": [
+            "MED-C73-087"
+          ]
+        },
+        {
+          "element": "p1060-e005",
+          "page": 1060,
+          "source": "Uncomplicated malaria therapy — match — 1) First line 2) Alternatives … A) Artemether 80 mg plus lumefantrine 480 mg, four tablets twice daily for 3 days B) Atovaquone plus proguanil, clindamycin plus mefloquine, doxycycline plus quinine, artesunate plus amodiaquine, artesunate plus mefloquine ['Uncomplicated malaria : (oral therapy) · Artemether 80mg + Lumefantrine 480mg (First line) — 4 tablets BD × 3 days', then the listed alternatives. (B]",
+          "questionIds": [
+            "MED-C73-088"
+          ]
+        },
+        {
+          "element": "p1060-e006",
+          "page": 1060,
+          "source": "How is the artemether-lumefantrine course printed? ['- 4 tablets BD × 3 days'. (Book p1060)]",
+          "questionIds": [
+            "MED-C73-089"
+          ]
+        },
+        {
+          "element": "p1060-e007",
+          "page": 1060,
+          "source": "Fill up (Complicated malaria): 'Day 1 : 3 doses IV artesunate (120 mg / ______ mg per kg) at 0, 12 and 24 hours.' ['Day 1 : 3 doses I/V Artesunate (120mg / 2.4mg per kg) at 0, 12 and 24 hours'. (Book p1060)]",
+          "questionIds": [
+            "MED-C73-090"
+          ]
+        },
+        {
+          "element": "p1060-e008",
+          "page": 1060,
+          "source": "What artesunate dose is printed for days 2 and 3? ['Day 2 : 2.4 mg/kg single dose. Day 3 : 2.4 mg/kg single dose'. (Book p1060)]",
+          "questionIds": [
+            "MED-C73-091"
+          ]
+        },
+        {
+          "element": "p1060-e009",
+          "page": 1060,
+          "source": "Judge the treatment block: I Uncomplicated malaria is treated with oral therapy, artemether-lumefantrine first line. II Complicated malaria is treated with intravenous artesunate for three days. ['Uncomplicated malaria : (oral therapy)' with artemether-lumefantrine first line, and 'Complicated : (I/V therapy)' with day 1-3 artesunate. (Book p10]",
+          "questionIds": [
+            "MED-C73-092"
+          ]
+        },
+        {
+          "element": "p1060-e010",
+          "page": 1060,
+          "source": "A patient reports fever on day 3 of illness and microscopy is planned. Which smear and stain does the page call the gold standard? ['microscopy (Day 3) : Thick smear : Gold standard, Giemsa staining and light microscopy'; the thin smear is 'Not sensitive'. (Book p1060)]",
+          "questionIds": [
+            "MED-C73-093"
+          ]
+        },
+        {
+          "element": "p1060-e011",
+          "page": 1060,
+          "source": "Which combination is printed as atovaquone-based therapy? ['Atovaquone + Proguanil'. (Book p1060)]",
+          "questionIds": [
+            "MED-C73-094"
+          ]
+        },
+        {
+          "element": "p1060-e012",
+          "page": 1060,
+          "source": "Which is NOT printed among the oral options for uncomplicated malaria? [Printed oral options: artemether-lumefantrine, atovaquone-proguanil, clindamycin-mefloquine, doxycycline-quinine, artesunate-amodiaquine and artesunat]",
+          "questionIds": [
+            "MED-C73-095"
+          ]
+        }
+      ]
+    }
+  ]
+}

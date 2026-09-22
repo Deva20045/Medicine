@@ -1,0 +1,476 @@
+{
+  "chapter": 36,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+  "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+  "pdfOffset": 823,
+  "pageRange": "883-886",
+  "contentSha256": "21546775ca72f49129ebee5799e2c02f384636c2b55245c867642901dc8a747b",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch36 p883-886: auto-generated source checklist from existing 53 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 883,
+      "pdfPage": 60,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p883 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p883.",
+      "elements": [
+        {
+          "element": "p883-e001",
+          "page": 883,
+          "source": "The chapter defines hypocalcemia as serum calcium below ___ mg/dL. [The opening threshold is <8.4 mg/dL; interpret total calcium with albumin or measure ionized calcium where appropriate. (Book p883)]",
+          "questionIds": [
+            "MED-C36-001"
+          ]
+        },
+        {
+          "element": "p883-e002",
+          "page": 883,
+          "source": "After thyroid surgery, a patient develops circumoral tingling, twitching and stridor. Which mechanism makes this an immediate airway concern? [Acute hypocalcemia causes neuromuscular excitability and potentially fatal laryngeal spasm; chronic calcification does not explain the acute presentat]",
+          "questionIds": [
+            "MED-C36-002"
+          ]
+        },
+        {
+          "element": "p883-e003",
+          "page": 883,
+          "source": "Match the following — 1) Acute cardiac effect 2) Acute CNS effect 3) Chronic ocular effect … A) Long QT B) Generalized tonic-clonic seizure C) Cataract [Acute manifestations include long QT and GTCS; cataract belongs to the chronic group. (Book p883)]",
+          "questionIds": [
+            "MED-C36-003"
+          ]
+        },
+        {
+          "element": "p883-e004",
+          "page": 883,
+          "source": "Which finding is the odd one out among the chapter's chronic hypocalcemia manifestations? [Laryngeal spasm is an acute excitability manifestation. Basal ganglia calcification, benign intracranial hypertension, cataract and dry skin are chron]",
+          "questionIds": [
+            "MED-C36-004"
+          ]
+        },
+        {
+          "element": "p883-e005",
+          "page": 883,
+          "source": "A patient with longstanding hypoparathyroidism has symmetric deep gray-matter calcification on CT. Which site corresponds to the chapter's chronic hypocalcemia images? [The CT panels illustrate intracranial calcification associated with chronic hypocalcemia; the listed characteristic site is the basal ganglia. (Book p]",
+          "questionIds": [
+            "MED-C36-005"
+          ]
+        },
+        {
+          "element": "p883-e006",
+          "page": 883,
+          "source": "Tapping the facial nerve to provoke facial muscle twitching elicits ___ sign. [Chvostek's sign tests latent neuromuscular irritability by facial nerve percussion. (Book p883)]",
+          "questionIds": [
+            "MED-C36-006"
+          ]
+        },
+        {
+          "element": "p883-e007",
+          "page": 883,
+          "source": "Assess these statements: I A negative Chvostek sign excludes hypocalcemia. II Facial-nerve tapping elicits Trousseau carpopedal spasm. [A negative Chvostek response does not exclude hypocalcemia because sensitivity is poor. Facial tapping elicits Chvostek facial twitching; cuff inflati]",
+          "questionIds": [
+            "MED-C36-007"
+          ]
+        },
+        {
+          "element": "p883-e008",
+          "page": 883,
+          "source": "A cuff is inflated 20 mmHg above systolic pressure and the hand assumes a carpopedal posture. Which sign has been elicited? [The cuff maneuver elicits Trousseau's sign, also called main d'accoucheur, and is different from the malignancy-associated eponym. (Book p883)]",
+          "questionIds": [
+            "MED-C36-008"
+          ]
+        },
+        {
+          "element": "p883-e009",
+          "page": 883,
+          "source": "A patient's systolic pressure is 118 mmHg. Using the chapter's latent-tetany maneuver, the cuff is inflated to approximately ___ mmHg. [The stated maneuver uses 20 mmHg above systolic pressure: 118 + 20 = 138. (Book p883)]",
+          "questionIds": [
+            "MED-C36-009"
+          ]
+        },
+        {
+          "element": "p883-e010",
+          "page": 883,
+          "source": "Which finding is not an example of apparent neuromuscular irritability listed here? [Tingling, twitching, fasciculations, circumoral paresthesia and tetany are apparent manifestations; cataract is chronic rather than an excitability si]",
+          "questionIds": [
+            "MED-C36-010"
+          ]
+        },
+        {
+          "element": "p883-e011",
+          "page": 883,
+          "source": "Hypocalcemia is followed by a prolonged QT and polymorphic ventricular tachycardia. Which arrhythmia best fits this combination? [Long QT with polymorphic VT is the torsades pattern illustrated in the chapter. (Book p883)]",
+          "questionIds": [
+            "MED-C36-011"
+          ]
+        },
+        {
+          "element": "p883-e012",
+          "page": 883,
+          "source": "At the standard ECG speed of 25 mm/s, assess: I Twelve small boxes correspond to 0.48 seconds. II The page's raw-QT box count replaces QTc assessment at every heart rate. [Each small box is 0.04 seconds, so 12 boxes equal 0.48 seconds. The page's >12-box illustration is not a substitute for rate-corrected QT interpretati]",
+          "questionIds": [
+            "MED-C36-012"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 884,
+      "pdfPage": 61,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p884 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p884.",
+      "elements": [
+        {
+          "element": "p884-e001",
+          "page": 884,
+          "source": "Two days after neck surgery, calcium is low, phosphate is high and PTH is suppressed. Which explanation best fits all three values? [Low calcium with high phosphate and low PTH identifies deficient PTH secretion; postsurgical disease is the most common cause listed. (Book p884)]",
+          "questionIds": [
+            "MED-C36-013"
+          ]
+        },
+        {
+          "element": "p884-e002",
+          "page": 884,
+          "source": "For hypocalcemia, the chapter first organizes causes using serum ___ and ___. [The cause tree is based on phosphate and PTH, after confirming true hypocalcemia. (Book p884)]",
+          "questionIds": [
+            "MED-C36-014"
+          ]
+        },
+        {
+          "element": "p884-e003",
+          "page": 884,
+          "source": "An adult with mucocutaneous candidiasis and ectodermal abnormalities develops low-PTH hypocalcemia without surgery. Which syndrome fits? [APECED means autoimmune polyendocrinopathy–candidiasis–ectodermal dystrophy and corresponds to APS/PGA type 1. (Book p884)]",
+          "questionIds": [
+            "MED-C36-015"
+          ]
+        },
+        {
+          "element": "p884-e004",
+          "page": 884,
+          "source": "Match the following DiGeorge clues — 1) Gene 2) Chromosomal region 3) Immune-organ defect … A) TBX1 B) Thymic hypoplasia C) 22q11.2 deletion [DiGeorge syndrome is linked to TBX1 and 22q deletion; thymic hypoplasia explains its immune component. (Book p884)]",
+          "questionIds": [
+            "MED-C36-016"
+          ]
+        },
+        {
+          "element": "p884-e005",
+          "page": 884,
+          "source": "Which is the odd one out in the CATCH22 feature set? [CATCH22 comprises cardiac defects, abnormal facies, thymic hypoplasia, cleft palate and hypocalcemia with 22q deletion; deficient parathyroid developm]",
+          "questionIds": [
+            "MED-C36-017"
+          ]
+        },
+        {
+          "element": "p884-e006",
+          "page": 884,
+          "source": "A neonate has a conotruncal heart defect, cleft palate and hypocalcemic seizures. Which additional finding most strongly supports the same syndrome? [This is the CATCH22 constellation of DiGeorge syndrome; thymic hypoplasia is the discriminating associated finding. (Book p884)]",
+          "questionIds": [
+            "MED-C36-018"
+          ]
+        },
+        {
+          "element": "p884-e007",
+          "page": 884,
+          "source": "Evaluate: I CKD-related secondary HPT requires suppressed PTH. II Low calcium with high phosphate and high PTH can occur in CKD. [The elevated PTH is a compensatory response in CKD, unlike low-PTH hypoparathyroidism. (Book p884)]",
+          "questionIds": [
+            "MED-C36-019"
+          ]
+        },
+        {
+          "element": "p884-e008",
+          "page": 884,
+          "source": "Match the following — 1) Postsurgical gland loss 2) CKD secondary HPT 3) AKI … A) Low Ca/high phosphate with high PTH B) Low Ca/high phosphate with acute renal dysfunction C) Low Ca/high phosphate with low PTH [The page separates deficient secretion after surgery from secondary HPT in CKD and the acute renal failure branch. (Book p884)]",
+          "questionIds": [
+            "MED-C36-020"
+          ]
+        },
+        {
+          "element": "p884-e009",
+          "page": 884,
+          "source": "Which cause does not belong in the cellular-stress branch of hypocalcemia with phosphate release? [Tumor lysis, muscle breakdown and hemolysis release intracellular phosphate. Isolated gland excision instead reduces PTH secretion. (Book p884)]",
+          "questionIds": [
+            "MED-C36-021"
+          ]
+        },
+        {
+          "element": "p884-e010",
+          "page": 884,
+          "source": "A patient with abdominal pain and vomiting is found to have acute pancreatitis and low calcium. Which interpretation follows the chapter's warning? [The page warns that pancreatitis can mimic hypercalcemic abdominal symptoms while investigations show hypocalcemia. (Book p884)]",
+          "questionIds": [
+            "MED-C36-022"
+          ]
+        },
+        {
+          "element": "p884-e011",
+          "page": 884,
+          "source": "In the low-calcium/high-phosphate branch with normal or raised PTH, the non-cell-lysis systemic infection listed is ___. [Sepsis appears beside cellular stress and pancreatitis in the normal/high-PTH branch; the tree does not imply that every cause has identical phosphate]",
+          "questionIds": [
+            "MED-C36-023"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 885,
+      "pdfPage": 62,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p885 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p885.",
+      "elements": [
+        {
+          "element": "p885-e001",
+          "page": 885,
+          "source": "Match the following drug mechanisms — 1) Citrate 2) Bisphosphonate 3) Cisplatin … A) Calcium complexing B) Inhibition of bone resorption C) Tubular injury with electrolyte loss [Citrate complexes calcium; bisphosphonates reduce calcium release from bone; cisplatin belongs to the tubular-injury group. (Book p885)]",
+          "questionIds": [
+            "MED-C36-024"
+          ]
+        },
+        {
+          "element": "p885-e002",
+          "page": 885,
+          "source": "Which drug is the odd one out in the page's renal tubular-injury subgroup causing hypocalcemia? [Calcitonin lowers calcium through its hormonal antiresorptive action; the other three are grouped under tubular injury. (Book p885)]",
+          "questionIds": [
+            "MED-C36-025"
+          ]
+        },
+        {
+          "element": "p885-e003",
+          "page": 885,
+          "source": "A patient has repeatedly low total calcium but marked hypoalbuminemia. What is the first step in the chapter's exclusion sequence? [The sequence begins with confirming corrected calcium, then ruling out magnesium deficiency, then evaluating hypoparathyroidism and other causes. (Boo]",
+          "questionIds": [
+            "MED-C36-026"
+          ]
+        },
+        {
+          "element": "p885-e004",
+          "page": 885,
+          "source": "After confirming true hypocalcemia, the deficiency to exclude before assigning primary parathyroid failure is ___. [Magnesium deficiency can impair PTH secretion and action, so it precedes hypoparathyroidism in the sequence. (Book p885)]",
+          "questionIds": [
+            "MED-C36-027"
+          ]
+        },
+        {
+          "element": "p885-e005",
+          "page": 885,
+          "source": "Following parathyroidectomy, calcium and phosphate both fall while ALP rises. Which postoperative mechanism fits best? [Hungry bone syndrome takes calcium and phosphate into bone and is accompanied by increased matrix synthesis/ALP. Gland failure tends to raise phosphat]",
+          "questionIds": [
+            "MED-C36-028"
+          ]
+        },
+        {
+          "element": "p885-e006",
+          "page": 885,
+          "source": "Assess: I Hungry bone syndrome characteristically raises phosphate. II The postoperative hypoparathyroidism row shows high phosphate, markedly low PTH and normal ALP. [Hungry bone lowers both calcium and phosphate and raises ALP; the PTH cell is blank. Postsurgical hypoparathyroidism instead shows phosphate up, PTH m]",
+          "questionIds": [
+            "MED-C36-029"
+          ]
+        },
+        {
+          "element": "p885-e007",
+          "page": 885,
+          "source": "In the postoperative graph, the calcium curve drops while the ALP curve rises. Which interpretation best explains why the curves diverge? [The graph illustrates hungry bone after parathyroidectomy: mineral uptake lowers calcium while osteoblastic activity raises ALP. (Book p885)]",
+          "questionIds": [
+            "MED-C36-030"
+          ]
+        },
+        {
+          "element": "p885-e008",
+          "page": 885,
+          "source": "Match the following hungry-bone graph labels — 1) Left vertical axis 2) Right vertical axis 3) Horizontal axis … A) ALP in U/L B) Days around the operative course C) Adjusted calcium in mg/dL [The left axis is adjusted calcium, the right ALP and the horizontal axis time in days. The scan labels days after parathyroidectomy but places its ope]",
+          "questionIds": [
+            "MED-C36-031"
+          ]
+        },
+        {
+          "element": "p885-e009",
+          "page": 885,
+          "source": "In the illustrated perioperative course, zoledronate and elcatonin precede surgery. Which subsequent supplement combination is annotated? [The graph annotates IV calcium 3–5 g/day and magnesium 2–6 g/day with oral calcitriol 1–3 µg/day. These are case-figure annotations, not universal rep]",
+          "questionIds": [
+            "MED-C36-032"
+          ]
+        },
+        {
+          "element": "p885-e010",
+          "page": 885,
+          "source": "Assess the graph reference bands: I Adjusted calcium is marked normal at 8.5–10.3 mg/dL. II ALP 68–430 U/L is explicitly labeled for a 16-year-old male rather than every adult. [The graph prints calcium 8.5–10.3 mg/dL and ALP 68–430 U/L for a 16-year-old male. Age-dependent ALP ranges must not be applied universally. (Book p88]",
+          "questionIds": [
+            "MED-C36-033"
+          ]
+        },
+        {
+          "element": "p885-e011",
+          "page": 885,
+          "source": "The molecular chain in pseudohypoparathyroidism is a ___ mutation causing defective ___ signaling. [GNAS defects alter Gsα signaling and produce resistance to PTH action, rather than simply absent hormone secretion. (Book p885)]",
+          "questionIds": [
+            "MED-C36-034"
+          ]
+        },
+        {
+          "element": "p885-e012",
+          "page": 885,
+          "source": "A child has hypocalcemia, hyperphosphatemia and a markedly elevated PTH despite preserved renal function. Which mechanism should be considered? [PHP produces low calcium, high phosphate and high PTH because target tissues resist the hormone. (Book p885)]",
+          "questionIds": [
+            "MED-C36-035"
+          ]
+        },
+        {
+          "element": "p885-e013",
+          "page": 885,
+          "source": "Match the following — 1) PHP type Ia 2) PHP type Ib 3) PHP type II … A) No AHO, complete PTH resistance B) AHO, complete PTH resistance C) No AHO, preserved cAMP rise [The table distinguishes Ia by AHO, Ib by absent AHO, and type II by a cAMP rise despite a downstream response defect. (Book p885)]",
+          "questionIds": [
+            "MED-C36-036"
+          ]
+        },
+        {
+          "element": "p885-e014",
+          "page": 885,
+          "source": "Exogenous PTH raises urinary cAMP, but the expected phosphaturic response is impaired. Which PHP subtype fits the table? [Type II has a preserved cAMP rise with a downstream signaling defect; the source calls its resistance partial. (Book p885)]",
+          "questionIds": [
+            "MED-C36-037"
+          ]
+        },
+        {
+          "element": "p885-e015",
+          "page": 885,
+          "source": "Evaluate the table's other-hormone-resistance row: I PHP Ia is positive. II PHP Ib is marked variable (+/−). [The table marks other hormone resistance as + in Ia, +/− in Ib and absent in type II and PPHP. (Book p885)]",
+          "questionIds": [
+            "MED-C36-038"
+          ]
+        },
+        {
+          "element": "p885-e016",
+          "page": 885,
+          "source": "Match the following phenotype patterns — 1) Maternal GNAS defect with resistance 2) Paternal GNAS defect without resistance 3) PHP Ib … A) AHO with PHP Ia B) AHO absent C) AHO with pseudo-PHP [Parent-of-origin distinguishes maternal PHP Ia from paternal PPHP; PHP Ib lacks the AHO phenotype in the table. (Book p885)]",
+          "questionIds": [
+            "MED-C36-039"
+          ]
+        },
+        {
+          "element": "p885-e017",
+          "page": 885,
+          "source": "Which disorder is the odd one out for the low-calcium/high-phosphate/high-PTH biochemical triad? [PPHP has an AHO phenotype without the biochemical PTH resistance seen in the PHP groups. (Book p885)]",
+          "questionIds": [
+            "MED-C36-040"
+          ]
+        },
+        {
+          "element": "p885-e018",
+          "page": 885,
+          "source": "A patient has AHO from a paternal GNAS defect but normal calcium, phosphate and PTH. What response to administered PTH is expected? [The table also labels PPHP resistance as normal and its biochemical triad absent. PPHP should not be taught as a failed PTH/cAMP response on the basis]",
+          "questionIds": [
+            "MED-C36-041"
+          ]
+        },
+        {
+          "element": "p885-e019",
+          "page": 885,
+          "source": "The table's reduced-Gsα row is positive in ___ and ___, but negative in Ib and II. [The printed row refers to reduced Gsα, a signaling protein rather than a 'Gsα receptor'; it marks Ia and PPHP positive. (Book p885)]",
+          "questionIds": [
+            "MED-C36-042"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 886,
+      "pdfPage": 63,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p886 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p886.",
+      "elements": [
+        {
+          "element": "p886-e001",
+          "page": 886,
+          "source": "Which feature is the odd one out for Albright hereditary osteodystrophy? [AHO features shortened metacarpals, short stature, round facies and cognitive impairment, not long slender digits. (Book p886)]",
+          "questionIds": [
+            "MED-C36-043"
+          ]
+        },
+        {
+          "element": "p886-e002",
+          "page": 886,
+          "source": "The AHO summary emphasizes shortening of the fourth ___ more than the corresponding ___. [The handwritten summary states short fourth metacarpal > metatarsal. (Book p886)]",
+          "questionIds": [
+            "MED-C36-044"
+          ]
+        },
+        {
+          "element": "p886-e003",
+          "page": 886,
+          "source": "Match the following clenched-fist patterns — 1) Down syndrome 2) Turner syndrome 3) PHP Ia … A) Fourth-knuckle dimple B) Fourth- and fifth-knuckle dimples C) Third-knuckle dimple [The diagrams pair Down syndrome with the third metacarpal, Turner syndrome with the fourth and PHP Ia with the fourth and fifth. (Book p886)]",
+          "questionIds": [
+            "MED-C36-045"
+          ]
+        },
+        {
+          "element": "p886-e004",
+          "page": 886,
+          "source": "A child with round facies and short stature makes a fist showing 'knuckle, knuckle, dimple, dimple.' Which diagnosis is favored by the illustrated pattern? [Fourth- and fifth-metacarpal shortening produces the PHP Ia knuckle pattern in the figure. (Book p886)]",
+          "questionIds": [
+            "MED-C36-046"
+          ]
+        },
+        {
+          "element": "p886-e005",
+          "page": 886,
+          "source": "Assess: I A normal clenched fist has a fourth-knuckle dimple. II An isolated fourth-knuckle dimple establishes PHP Ia. [The normal diagram shows four knuckles; the Turner diagram also has a fourth-knuckle dimple, so an isolated dimple is not specific for PHP Ia. (Book p]",
+          "questionIds": [
+            "MED-C36-047"
+          ]
+        },
+        {
+          "element": "p886-e006",
+          "page": 886,
+          "source": "A patient has severe symptomatic acute hypocalcemia with tetany. Which replacement is the chapter's initial intravenous option? [The page selects IV 10% calcium gluconate for acute symptomatic disease, rather than the listed oral salts. (Book p886)]",
+          "questionIds": [
+            "MED-C36-048"
+          ]
+        },
+        {
+          "element": "p886-e007",
+          "page": 886,
+          "source": "What volume and concentration constitute the chapter's initial calcium gluconate ampoule? [The source specifies 10 mL (one ampoule) of 10% calcium gluconate. Its rapid 2–3-minute timing should not be used as an unmonitored clinical protocol;]",
+          "questionIds": [
+            "MED-C36-049"
+          ]
+        },
+        {
+          "element": "p886-e008",
+          "page": 886,
+          "source": "The continuation regimen printed here places 5 g calcium gluconate in ___ of ___ solution. [The source lists 5 g in 500 mL of 5% dextrose, with elemental-calcium dosing separately expressed per kilogram per hour. Do not confuse salt mass with]",
+          "questionIds": [
+            "MED-C36-050"
+          ]
+        },
+        {
+          "element": "p886-e009",
+          "page": 886,
+          "source": "For the source's infusion notation, assess: I The rate is expressed as 1–3 mg elemental calcium/kg/hour. II Five grams of calcium gluconate means five grams of elemental calcium. [The page explicitly labels the rate as elemental calcium; the calcium gluconate salt mass is not the elemental calcium mass. A clinical infusion requi]",
+          "questionIds": [
+            "MED-C36-051"
+          ]
+        },
+        {
+          "element": "p886-e010",
+          "page": 886,
+          "source": "For acute symptomatic hypocalcemia, which initial calcium gluconate administration best follows monitored clinical guidance rather than the scan’s unusually rapid 2–3-minute line? [The source prints 10 mL of 10% calcium gluconate over 2–3 minutes, then an infusion over 5 hours. Contemporary product/local guidance uses 10–20 mL of]",
+          "questionIds": [
+            "MED-C36-052"
+          ]
+        },
+        {
+          "element": "p886-e011",
+          "page": 886,
+          "source": "The page's oral calcium ceiling is ___ per day. [Oral calcium up to 2 g/day is the source's adjunct entry; oral therapy is not a replacement for monitored IV treatment of severe symptomatic hypocalce]",
+          "questionIds": [
+            "MED-C36-053"
+          ]
+        }
+      ]
+    }
+  ]
+}

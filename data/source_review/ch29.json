@@ -1,0 +1,461 @@
+{
+  "chapter": 29,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+  "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+  "pdfOffset": 823,
+  "pageRange": "844-848",
+  "contentSha256": "191fa65eef3f62fa4dc48f346df779fdbaff69f4bd38922547cc964eeff82e6c",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom, with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch29 p844-848: source checklist from existing 50 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors or ambiguous glyphs are taught as printed and flagged in explanations where known. Format defects (missing blanks/malformed matches) were repaired by converting to recall format without changing the underlying fact or citation."
+  ],
+  "pages": [
+    {
+      "page": 844,
+      "pdfPage": 21,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p844 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p844.",
+      "elements": [
+        {
+          "element": "p844-e001",
+          "page": 844,
+          "source": "Cushing's syndrome is a.k.a.: [Cushing's syndrome = hypercortisolism (↑↑cortisol), secreted by the zona fasciculata (75% of adrenal cortex). (Book p844)]",
+          "questionIds": [
+            "MED-C29-001"
+          ]
+        },
+        {
+          "element": "p844-e002",
+          "page": 844,
+          "source": "Match cause category — 1) Cushing exogenous (m/c)  2) Cushing inherited defect  3) Pseudocushing … A) Chronic stress of obesity, alcohol, depression  B) Exogenous steroid  C) AME [Cushing: exogenous steroid (m/c), inherited defect AME, acquired ↑cortisol; pseudocushing = chronic stress from obesity, alcohol, depression. (Book p8]",
+          "questionIds": [
+            "MED-C29-002"
+          ]
+        },
+        {
+          "element": "p844-e003",
+          "page": 844,
+          "source": "In the causes table, cortisol (G.C. + M.C.) is inactivated to cortisone (G.C.) by: [Cortisol → cortisone via 11β (OH) steroid dehydrogenase type-2. (Book p844)]",
+          "questionIds": [
+            "MED-C29-003"
+          ]
+        },
+        {
+          "element": "p844-e004",
+          "page": 844,
+          "source": "On protein metabolism, hypercortisolism causes: [↑ protein catabolism, ↓ AA uptake in extrahepatic tissue (muscles), ↓ muscle protein synthesis → proximal muscle myopathy. (Book p844)]",
+          "questionIds": [
+            "MED-C29-004"
+          ]
+        },
+        {
+          "element": "p844-e005",
+          "page": 844,
+          "source": "The carbohydrate effect of cortisol is a.k.a. ___. [The carbohydrate arm is a.k.a. adrenal diabetes mellitus: ↑ hepatic AA (alanine) uptake, ↑ gluconeogenesis (alanine >> FFA), ↑ FFA. (Book p844)]",
+          "questionIds": [
+            "MED-C29-005"
+          ]
+        },
+        {
+          "element": "p844-e006",
+          "page": 844,
+          "source": "For gluconeogenesis, the preferred substrate order stated is: [Gluconeogenesis uses alanine >> FFA. (Book p844)]",
+          "questionIds": [
+            "MED-C29-006"
+          ]
+        },
+        {
+          "element": "p844-e007",
+          "page": 844,
+          "source": "The fat effect of cortisol is best described as: [Fat redistributes centripetally (buffalo hump) with minimal ↑ lipolysis. (Book p844)]",
+          "questionIds": [
+            "MED-C29-007"
+          ]
+        },
+        {
+          "element": "p844-e008",
+          "page": 844,
+          "source": "The mineralocorticoid-action triad of cortisol excess is: [Mineralocorticoid action triad: HTN, metabolic alkalosis, hypokalaemia. (Book p844)]",
+          "questionIds": [
+            "MED-C29-008"
+          ]
+        },
+        {
+          "element": "p844-e009",
+          "page": 844,
+          "source": "The sex-steroid actions listed are acne, hirsutism and, reproductively: [Sex steroid action: acne, hirsutism; reproductive amenorrhoea > oligomenorrhoea (m/c). (Book p844)]",
+          "questionIds": [
+            "MED-C29-009"
+          ]
+        },
+        {
+          "element": "p844-e010",
+          "page": 844,
+          "source": "The CNS effect of steroid excess described is: [CNS effect: steroid-induced psychosis — depression (frank to hypomanic). (Book p844)]",
+          "questionIds": [
+            "MED-C29-010"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 845,
+      "pdfPage": 22,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p845 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p845.",
+      "elements": [
+        {
+          "element": "p845-e001",
+          "page": 845,
+          "source": "The ocular effects of cortisol excess are: [Eye: ↑ intraocular pressure — cataract and glaucoma. (Book p845)]",
+          "questionIds": [
+            "MED-C29-011"
+          ]
+        },
+        {
+          "element": "p845-e002",
+          "page": 845,
+          "source": "Cortisol's anti-inflammatory action is attributed to: [Miscellaneous: ↓ linear growth; inhibits IL-6 → anti-inflammatory action. (Book p845)]",
+          "questionIds": [
+            "MED-C29-012"
+          ]
+        },
+        {
+          "element": "p845-e003",
+          "page": 845,
+          "source": "‘Cortisol excess raises the WBC count yet the patient remains prone to infection.’ [Blood/immune: ↑ WBC count but still prone to infection; eosinopenia and ↑ thrombosis (hypercoagulable state). (Book p845)]",
+          "questionIds": [
+            "MED-C29-013"
+          ]
+        },
+        {
+          "element": "p845-e004",
+          "page": 845,
+          "source": "Match the eosinophil clue — 1) Eosinopenia with +ve infection  2) Eosinopenia with −ve infection  3) Eosinophilia … A) Cushing syndrome  B) Addison's disease  C) Typhoid [Eosinopenia with infection → typhoid; eosinopenia without infection → Cushing syndrome; eosinophilia → Addison's disease. (Book p845)]",
+          "questionIds": [
+            "MED-C29-014"
+          ]
+        },
+        {
+          "element": "p845-e005",
+          "page": 845,
+          "source": "ACTH-dependent causes account for what share of Cushing's? [ACTH dependent 90%; ACTH independent 10%. (Book p845)]",
+          "questionIds": [
+            "MED-C29-015"
+          ]
+        },
+        {
+          "element": "p845-e006",
+          "page": 845,
+          "source": "The single most common endogenous cause overall is: [Pituitary ACTH-secreting adenoma (75%), a.k.a. Cushing's disease (micro/macro-adenoma), is the m/c endogenous cause overall. (Book p845)]",
+          "questionIds": [
+            "MED-C29-016"
+          ]
+        },
+        {
+          "element": "p845-e007",
+          "page": 845,
+          "source": "The most common paraneoplastic (ectopic ACTH) cause is: [Paraneoplastic tumour (15%): squamous cell carcinoma is m/c; also thymic/bronchial carcinoid, pheochromocytoma/medullary Ca thyroid. (Book p845)]",
+          "questionIds": [
+            "MED-C29-017"
+          ]
+        },
+        {
+          "element": "p845-e008",
+          "page": 845,
+          "source": "The m/c cause of Cushing's in toddlers is: [ACTH independent (10%): adrenal adenoma; adrenal carcinoma is the m/c cause in toddlers. (Book p845)]",
+          "questionIds": [
+            "MED-C29-018"
+          ]
+        },
+        {
+          "element": "p845-e009",
+          "page": 845,
+          "source": "Match the McCune-Albright (GSα-subunit defect) triad — pick the correct set: [McCune-Albright triad: precocious puberty, fibrous dysplasia, café-au-lait spots; m/c cause in infancy. (Book p845)]",
+          "questionIds": [
+            "MED-C29-019"
+          ]
+        },
+        {
+          "element": "p845-e010",
+          "page": 845,
+          "source": "Primary pigmented nodular adrenal disease (PPNAD) shows ___ and is part of: [PPNAD = micronodular hyperplasia, part of Carney's complex with lentigines and atrial myxomas. (Book p845)]",
+          "questionIds": [
+            "MED-C29-020"
+          ]
+        },
+        {
+          "element": "p845-e011",
+          "page": 845,
+          "source": "In adult Cushing's the sex preponderance is: [Adult Cushing's: F > M; diagnosis is made on the discriminatory value of symptoms. (Book p845)]",
+          "questionIds": [
+            "MED-C29-021"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 846,
+      "pdfPage": 23,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p846 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p846.",
+      "elements": [
+        {
+          "element": "p846-e001",
+          "page": 846,
+          "source": "The proximal myopathy of Cushing's is characteristically: [Proximal myopathy is B/L, proximal, symmetric, LL > UL. (Book p846)]",
+          "questionIds": [
+            "MED-C29-022"
+          ]
+        },
+        {
+          "element": "p846-e002",
+          "page": 846,
+          "source": "Facial plethora in Cushing's results from: [Facial plethora follows thinning of skin and loss of subcutaneous fat. (Book p846)]",
+          "questionIds": [
+            "MED-C29-023"
+          ]
+        },
+        {
+          "element": "p846-e003",
+          "page": 846,
+          "source": "The violaceous striae of Cushing's are due to: [Violaceous striae occur d/t loss of collagen. (Book p846)]",
+          "questionIds": [
+            "MED-C29-024"
+          ]
+        },
+        {
+          "element": "p846-e004",
+          "page": 846,
+          "source": "A child with obesity, short stature and delayed bone age presents with fractures. The book links young-onset osteoporosis and fractures to: [Young-onset osteoporosis → fractures, with short stature, obesity and delayed bone age, are important protein-catabolism features. (Book p846)]",
+          "questionIds": [
+            "MED-C29-025"
+          ]
+        },
+        {
+          "element": "p846-e005",
+          "page": 846,
+          "source": "Which combination plus central obesity should trigger screening per the Endocrine Society of India? [Protein catabolism signs, diabetes/HTN metabolic syndrome and incidental adrenal mass + central obesity → screening. (Book p846)]",
+          "questionIds": [
+            "MED-C29-026"
+          ]
+        },
+        {
+          "element": "p846-e006",
+          "page": 846,
+          "source": "Match adult vs childhood Cushing's — 1) Adult sex  2) Childhood sex  3) Childhood cause order … A) m >> F  B) Adrenal > pituitary  C) F > M [Adult F > M; childhood m >> F with adrenal > pituitary causes. (Book p846)]",
+          "questionIds": [
+            "MED-C29-027"
+          ]
+        },
+        {
+          "element": "p846-e007",
+          "page": 846,
+          "source": "Childhood Cushing's shows LESS of which feature? [Childhood Cushing's: less protein catabolism, obesity, ↑ adrenal androgen → precocious puberty. (Book p846)]",
+          "questionIds": [
+            "MED-C29-028"
+          ]
+        },
+        {
+          "element": "p846-e008",
+          "page": 846,
+          "source": "The treatment named for childhood Cushing's with a good response is: [Treatment of childhood Cushing's: radiotherapy (good response). (Book p846)]",
+          "questionIds": [
+            "MED-C29-029"
+          ]
+        },
+        {
+          "element": "p846-e009",
+          "page": 846,
+          "source": "Cushing's syndrome is ruled out when midnight serum cortisol and midnight salivary cortisol are respectively: [If midnight serum cortisol ≤1.8 µg/dL and midnight salivary cortisol ≤5.5 mmol/L → Cushing's ruled out; otherwise do 8 AM plasma cortisol. (Book p846)]",
+          "questionIds": [
+            "MED-C29-030"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 847,
+      "pdfPage": 24,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p847 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p847.",
+      "elements": [
+        {
+          "element": "p847-e001",
+          "page": 847,
+          "source": "The EARLIEST finding of endogenous hypercortisolism on the 8 AM plasma cortisol is: [8 AM plasma cortisol >1.8 µg/dl = loss of diurnal variation, the earliest finding; too low suggests exogenous hypercortisolism. (Book p847)]",
+          "questionIds": [
+            "MED-C29-031"
+          ]
+        },
+        {
+          "element": "p847-e002",
+          "page": 847,
+          "source": "The over-night dexamethasone suppression test (ONDST) is performed as: [ONDST: 1 mg oral dexamethasone at 11 pm; next-day 8 AM cortisol <1.8 rules out, >1.8 = endogenous hypercortisolism. (Book p847)]",
+          "questionIds": [
+            "MED-C29-032"
+          ]
+        },
+        {
+          "element": "p847-e003",
+          "page": 847,
+          "source": "On the ONDST, a next-morning cortisol below what value rules out Cushing's? [<1.8 µg/dl rules out Cushing's; >1.8 µg/dl indicates endogenous hypercortisolism. (Book p847)]",
+          "questionIds": [
+            "MED-C29-033"
+          ]
+        },
+        {
+          "element": "p847-e004",
+          "page": 847,
+          "source": "The low-dose DST (0.5 mg Q6H for 2 days) is reserved for: [LDDST is used in suspected pseudocushing, obesity, hyperestrogenism, PCOS or OCP use; >1.8 µg/dl = endogenous hypercortisolism. (Book p847)]",
+          "questionIds": [
+            "MED-C29-034"
+          ]
+        },
+        {
+          "element": "p847-e005",
+          "page": 847,
+          "source": "In the ACTH evaluation, a value <10 pg/ml indicates: [ACTH <10 pg/ml = ACTH independent, adrenal cause (10%); >10 pg/ml = ACTH dependent. (Book p847)]",
+          "questionIds": [
+            "MED-C29-035"
+          ]
+        },
+        {
+          "element": "p847-e006",
+          "page": 847,
+          "source": "Match ACTH-dependent levels — 1) 10–50 pg/ml  2) 50–100 pg/ml  3) >100 pg/ml … A) Both pituitary & adrenal cause  B) Paraneoplastic syndrome (PNS)  C) Pituitary cause [10–50 pg/ml pituitary cause; 50–100 both; >100 paraneoplastic (PNS) → PET scan. (Book p847)]",
+          "questionIds": [
+            "MED-C29-036"
+          ]
+        },
+        {
+          "element": "p847-e007",
+          "page": 847,
+          "source": "For an ACTH-independent adrenal cause, the imaging step is: [ACTH independent → CT adrenal, showing U/L adenoma or (rarely) B/L hyperplasia. (Book p847)]",
+          "questionIds": [
+            "MED-C29-037"
+          ]
+        },
+        {
+          "element": "p847-e008",
+          "page": 847,
+          "source": "After bilateral adrenalectomy, loss of negative feedback risks ↑↑ACTH and an ACTH adenoma known as: [B/L hyperplasia → B/L adrenalectomy carries the risk of ↑↑ACTH (↓−ve feedback) → ACTH adenoma (Nelson syndrome). (Book p847)]",
+          "questionIds": [
+            "MED-C29-038"
+          ]
+        },
+        {
+          "element": "p847-e009",
+          "page": 847,
+          "source": "Match treatment to lesion — 1) U/L adrenal adenoma  2) B/L hyperplasia  3) Pituitary adenoma (≥6 mm) … A) B/L adrenalectomy  B) Trans-sphenoidal hypophysectomy  C) Unilateral adrenalectomy [U/L adenoma → unilateral adrenalectomy; B/L hyperplasia → B/L adrenalectomy; pituitary adenoma → trans-sphenoidal hypophysectomy. (Book p847)]",
+          "questionIds": [
+            "MED-C29-039"
+          ]
+        },
+        {
+          "element": "p847-e010",
+          "page": 847,
+          "source": "On MRI brain with gadolinium, a pituitary mass of what size is taken as a pituitary adenoma directly? [≥6 mm mass → pituitary adenoma → trans-sphenoidal hypophysectomy; <6 mm → inferior petrosal sinus sampling; no mass → PET scan. (Book p847)]",
+          "questionIds": [
+            "MED-C29-040"
+          ]
+        },
+        {
+          "element": "p847-e011",
+          "page": 847,
+          "source": "When MRI shows NO pituitary mass, the next step is: [No mass → PET scan: −ve (with high-dose DST +ve) → inferior petrosal sinus sampling; +ve → Dx PNS. (Book p847)]",
+          "questionIds": [
+            "MED-C29-041"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 848,
+      "pdfPage": 25,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p848 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p848.",
+      "elements": [
+        {
+          "element": "p848-e001",
+          "page": 848,
+          "source": "On inferior petrosal sinus sampling, a petrosal/peripheral ACTH ratio above what value is significant for a pituitary adenoma? [Petrosal/peripheral ACTH ratio >2:1 (significant) → pituitary adenoma → trans-sphenoidal hypophysectomy; <2 → PET scan → PNS. (Book p848)]",
+          "questionIds": [
+            "MED-C29-042"
+          ]
+        },
+        {
+          "element": "p848-e002",
+          "page": 848,
+          "source": "A petrosal/peripheral ACTH ratio <2 directs the work-up to: [<2 ratio → PET scan → Dx PNS (paraneoplastic syndrome). (Book p848)]",
+          "questionIds": [
+            "MED-C29-043"
+          ]
+        },
+        {
+          "element": "p848-e003",
+          "page": 848,
+          "source": "The high-dose DST regimen and its positive result are: [High-dose DST 2 mg Q6H × 2d with >50% suppression indicates a pituitary cause. (Book p848)]",
+          "questionIds": [
+            "MED-C29-044"
+          ]
+        },
+        {
+          "element": "p848-e004",
+          "page": 848,
+          "source": "The clinical features of paraneoplastic (ectopic ACTH) syndrome include: [PNS: hyperpigmentation, less protein catabolism, mineralocorticoid action — HTN, mA, hypokalaemia. (Book p848)]",
+          "questionIds": [
+            "MED-C29-045"
+          ]
+        },
+        {
+          "element": "p848-e005",
+          "page": 848,
+          "source": "The treatment of choice for Cushing's disease (and relapse-fit patients) is: [Trans-sphenoidal surgery is TOC with a 75% remission rate; radiotherapy is 3rd line if unfit for surgery. (Book p848)]",
+          "questionIds": [
+            "MED-C29-046"
+          ]
+        },
+        {
+          "element": "p848-e006",
+          "page": 848,
+          "source": "The remission rate after trans-sphenoidal surgery is: [75% remission rate after trans-sphenoidal surgery. (Book p848)]",
+          "questionIds": [
+            "MED-C29-047"
+          ]
+        },
+        {
+          "element": "p848-e007",
+          "page": 848,
+          "source": "Match the medical therapy — 1) Glucocorticoid receptor inhibitor  2) Adrenolytic in adrenal cancer  3) Prevents relapse (listed first) … A) Mifepristone  B) Mitotane  C) Ketoconazole [Mifepristone = glucocorticoid receptor inhibitor; mitotane = adrenolytic in adrenal cancer; ketoconazole (with pasireotide, cabergoline, metyrapone) p]",
+          "questionIds": [
+            "MED-C29-048"
+          ]
+        },
+        {
+          "element": "p848-e008",
+          "page": 848,
+          "source": "For patients unfit for surgery, the third-line option is: [If not fit for surgery → radiotherapy (3rd line). (Book p848)]",
+          "questionIds": [
+            "MED-C29-049"
+          ]
+        },
+        {
+          "element": "p848-e009",
+          "page": 848,
+          "source": "Which drug is NOT listed among the relapse-preventing medical therapies? [Listed: ketoconazole, pasireotide, cabergoline, metyrapone (II doc), mifepristone, mitotane — not spironolactone. (Book p848)]",
+          "questionIds": [
+            "MED-C29-050"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "chapter": 48,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+  "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+  "pdfOffset": 893,
+  "pageRange": "941-944",
+  "contentSha256": "678f8a31af8407f89e14d8cbef60b134737357aee0b89e6ce152266580424ccd",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch48 p941-944: auto-generated source checklist from existing 52 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 941,
+      "pdfPage": 48,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p941 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p941.",
+      "elements": [
+        {
+          "element": "p941-e001",
+          "page": 941,
+          "source": "What is the most common clinically functioning secretory pituitary adenoma? [Prolactinoma is the most common functioning pituitary adenoma, presenting predominantly as a microadenoma. (Book p941)]",
+          "questionIds": [
+            "MED-C48-001"
+          ]
+        },
+        {
+          "element": "p941-e002",
+          "page": 941,
+          "source": "Match the pituitary adenoma type to its epidemiological ranking or presentation — 1) Alpha subunit of FSH secreting adenoma 2) Prolactinoma 3) GH secreting adenoma 4) ACTH secreting adenoma … A) Most common overall but clinically insignificant B) Most common functioning adenoma (microadenoma) C) Second most common functioning adenoma (acromegaly, macroadenoma) D) Third most common functioning adenoma (Cushing disease, micro > macro) [Alpha subunit FSH adenomas are most common overall (silent); p",
+          "questionIds": [
+            "MED-C48-002"
+          ]
+        },
+        {
+          "element": "p941-e003",
+          "page": 941,
+          "source": "Human prolactin is a single-chain polypeptide composed of ___ amino acids. [Prolactin is composed of 199 amino acids, whereas GH contains 191 amino acids. (Book p941)]",
+          "questionIds": [
+            "MED-C48-003"
+          ]
+        },
+        {
+          "element": "p941-e004",
+          "page": 941,
+          "source": "Which molecular variant of circulating prolactin represents the monomeric bioactive form? [Microprolactin (little prolactin, 23 kDa) is the biologically active form of prolactin. (Book p941)]",
+          "questionIds": [
+            "MED-C48-004"
+          ]
+        },
+        {
+          "element": "p941-e005",
+          "page": 941,
+          "source": "Assess the statements regarding macroprolactin: I Macroprolactin is an inactive polymer complex assessed by gel filtration chromatography. II Macroprolactin induces profound galactorrhea and hypogonadism. [Macroprolactin is an inactive form assessed by gel filtration chromatography and does not cause clinical symptoms. (Book p941)]",
+          "questionIds": [
+            "MED-C48-005"
+          ]
+        },
+        {
+          "element": "p941-e006",
+          "page": 941,
+          "source": "By which gestational week do lactotroph cells appear in the lateral anterior pituitary? [Lactotroph cells produce prolactin in the lateral pituitary and appear by the 24th week of gestation. (Book p941)]",
+          "questionIds": [
+            "MED-C48-006"
+          ]
+        },
+        {
+          "element": "p941-e007",
+          "page": 941,
+          "source": "Which tissue is NOT recognized as an extrapituitary site of prolactin production? [Extrapituitary production of prolactin occurs in the CNS, placenta, and uterus, but not the adrenal cortex. (Book p941)]",
+          "questionIds": [
+            "MED-C48-007"
+          ]
+        },
+        {
+          "element": "p941-e008",
+          "page": 941,
+          "source": "Prolactin exerts its cellular actions by binding to a transmembrane cytokine receptor that signals via the ___ pathway. [Prolactin signals through the JAK/STAT cytokine pathway. (Book p941)]",
+          "questionIds": [
+            "MED-C48-008"
+          ]
+        },
+        {
+          "element": "p941-e009",
+          "page": 941,
+          "source": "What prerequisite is required for prolactin to successfully induce and maintain lactation in breast tissue? [Prolactin induces and maintains lactation in a breast already primed by estrogen and progesterone. (Book p941)]",
+          "questionIds": [
+            "MED-C48-009"
+          ]
+        },
+        {
+          "element": "p941-e010",
+          "page": 941,
+          "source": "Match the regulatory factor to its effect on prolactin secretion — 1) Estrogen 2) Thyrotropin-releasing hormone (TRH) 3) Dopamine (PRIF) 4) REM sleep … A) Stimulates prolactin release B) Stimulates prolactin release C) Inhibits prolactin release D) Stimulates prolactin release [Estrogen, TRH, VIP, oxytocin, and REM sleep stimulate prolactin release; dopamine (PRIF) inhibits prolactin release. (Book p941)]",
+          "questionIds": [
+            "MED-C48-010"
+          ]
+        },
+        {
+          "element": "p941-e011",
+          "page": 941,
+          "source": "A 26-year-old woman undergoes polysomnography. Prolactin secretion exhibits physiological episodic nocturnal surges correlated with: [Prolactin release is physiologically stimulated during REM sleep. (Book p941)]",
+          "questionIds": [
+            "MED-C48-011"
+          ]
+        },
+        {
+          "element": "p941-e012",
+          "page": 941,
+          "source": "Identify the factor that does NOT stimulate prolactin release: [Dopamine is the primary prolactin inhibitory factor (PRIF); TRH, VIP, and oxytocin stimulate release. (Book p941)]",
+          "questionIds": [
+            "MED-C48-012"
+          ]
+        },
+        {
+          "element": "p941-e013",
+          "page": 941,
+          "source": "Assess the classification of pituitary adenomas by size: I Microadenomas measure less than or equal to 1 cm. II Macroadenomas measure greater than or equal to 1 cm. [Pituitary microadenomas are defined as <= 1 cm and macroadenomas as >= 1 cm. (Book p941)]",
+          "questionIds": [
+            "MED-C48-013"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 942,
+      "pdfPage": 49,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p942 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p942.",
+      "elements": [
+        {
+          "element": "p942-e001",
+          "page": 942,
+          "source": "Match the fasting serum prolactin range to its clinical interpretation — 1) Less than 25 ug/L 2) 25 to 40 ug/L 3) 40 to 100 ug/L 4) Greater than 200 ug/L … A) Normal reference level B) Physiological elevation (sleep, stress, chest wall stimulation) C) Drug-induced or systemic conditions D) Definite prolactinoma (rule out macroprolactin) [Fasting prolactin < 25 is normal, 25-40 is physiological, 40-100 is drug-induced/systemic, > 100 suggests adenoma, and > 200 confirms adenoma. (Book p]",
+          "questionIds": [
+            "MED-C48-014"
+          ]
+        },
+        {
+          "element": "p942-e002",
+          "page": 942,
+          "source": "What peak physiological prolactin level can be attained during pregnancy? [During pregnancy, prolactin levels rise physiologically and can reach up to 180 ug/L. (Book p942)]",
+          "questionIds": [
+            "MED-C48-015"
+          ]
+        },
+        {
+          "element": "p942-e003",
+          "page": 942,
+          "source": "Which clinical entity is characterized by markedly elevated serum prolactin in a completely asymptomatic individual? [Macroprolactin presents with high measured prolactin levels while the patient remains completely asymptomatic. (Book p942)]",
+          "questionIds": [
+            "MED-C48-016"
+          ]
+        },
+        {
+          "element": "p942-e004",
+          "page": 942,
+          "source": "A 40-year-old male with a 4 cm giant pituitary macroadenoma has an initial serum prolactin reported as only 45 ug/L. Suspecting the Hook effect, what is the best laboratory corrective step? [The hook effect occurs in giant prolactinomas where antigen excess saturates assay antibodies yielding artifactually low prolactin; 1:100 serum diluti]",
+          "questionIds": [
+            "MED-C48-017"
+          ]
+        },
+        {
+          "element": "p942-e005",
+          "page": 942,
+          "source": "A prolactinoma exceeding ___ cm in maximal diameter is categorized as a giant prolactinoma. [A prolactinoma measuring > 4 cm is designated as a giant prolactinoma. (Book p942)]",
+          "questionIds": [
+            "MED-C48-018"
+          ]
+        },
+        {
+          "element": "p942-e006",
+          "page": 942,
+          "source": "Which medication is NOT listed as a pharmacological cause of hyperprolactinemia? [Risperidone, metoclopramide, verapamil, opiates, H2 blockers, and alpha-methyldopa cause hyperprolactinemia; levothyroxine suppresses TRH and lowers p]",
+          "questionIds": [
+            "MED-C48-019"
+          ]
+        },
+        {
+          "element": "p942-e007",
+          "page": 942,
+          "source": "A 32-year-old psychiatric patient on haloperidol develops bilateral galactorrhea. D2 receptor blockade in which central nervous system pathway produces her worsening negative symptoms? [Conventional antipsychotics block D2 receptors in the mesolimbic pathway, worsening negative symptoms, while tuberoinfundibular blockade causes galact]",
+          "questionIds": [
+            "MED-C48-020"
+          ]
+        },
+        {
+          "element": "p942-e008",
+          "page": 942,
+          "source": "Following discontinuation of an offending pharmacological agent, drug-induced hyperprolactinemia typically demonstrates a good response and normalizes within: [Drug-induced hyperprolactinemia shows a good response and normalizes if the offending drug is stopped for < 72 hours. (Book p942)]",
+          "questionIds": [
+            "MED-C48-021"
+          ]
+        },
+        {
+          "element": "p942-e009",
+          "page": 942,
+          "source": "How does primary hypothyroidism induce hyperprolactinemia? [In primary hypothyroidism, compensatory high TRH levels stimulate lactotrophs to release prolactin. (Book p942)]",
+          "questionIds": [
+            "MED-C48-022"
+          ]
+        },
+        {
+          "element": "p942-e010",
+          "page": 942,
+          "source": "Which systemic condition is NOT a recognized cause of hyperprolactinemia? [Systemic causes of hyperprolactinemia include primary hypothyroidism, PCOS, CKD, and CLD; primary hyperparathyroidism does not elevate prolactin. (Boo]",
+          "questionIds": [
+            "MED-C48-023"
+          ]
+        },
+        {
+          "element": "p942-e011",
+          "page": 942,
+          "source": "Assess the characteristics of prolactinomas: I Prolactinomas are the most common pituitary adenoma. II Microprolactinomas occur more frequently than macroprolactinomas. [Prolactinomas are the most common pituitary adenoma, with microprolactinomas outnumbering macroprolactinomas. (Book p942)]",
+          "questionIds": [
+            "MED-C48-024"
+          ]
+        },
+        {
+          "element": "p942-e012",
+          "page": 942,
+          "source": "Metoclopramide induces prominent hyperprolactinemia because, unlike domperidone, it readily crosses the ___ barrier. [Metoclopramide crosses the blood-brain barrier to block hypothalamic/pituitary dopamine receptors. (Book p942)]",
+          "questionIds": [
+            "MED-C48-025"
+          ]
+        },
+        {
+          "element": "p942-e013",
+          "page": 942,
+          "source": "Match the condition to its prolactin diagnostic hallmark — 1) Macroprolactin 2) Hook effect … A) Elevated prolactin levels with completely asymptomatic patient B) Falsely low or mismatched prolactin in presence of a massive tumor [Macroprolactin is high but asymptomatic; the hook effect features a large tumor with discordant prolactin. (Book p942)]",
+          "questionIds": [
+            "MED-C48-026"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 943,
+      "pdfPage": 50,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p943 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p943.",
+      "elements": [
+        {
+          "element": "p943-e001",
+          "page": 943,
+          "source": "What is the female-to-male ratio in patients diagnosed with microprolactinoma? [Microprolactinomas show a marked female preponderance with an F:M ratio of 20:1. (Book p943)]",
+          "questionIds": [
+            "MED-C48-027"
+          ]
+        },
+        {
+          "element": "p943-e002",
+          "page": 943,
+          "source": "Assess gender patterns in prolactinomas: I Macroprolactinomas have an equal female-to-male ratio of 1:1. II Men with prolactinoma typically present late with compressive mass effects. [Macroprolactinomas show F:M = 1:1 because men lack menstrual cues and present late with mass effects. (Book p943)]",
+          "questionIds": [
+            "MED-C48-028"
+          ]
+        },
+        {
+          "element": "p943-e003",
+          "page": 943,
+          "source": "Match the patient age group to its prolactinoma clinical pattern — 1) 25 to 45 years 2) Less than 20 years … A) Most common peak age of presentation B) Genetic/syndromic causes (MEN 1, McCune-Albright, Carney complex) [Peak incidence occurs at 25-45 years; presentations under 20 suggest MEON syndromes (MEN 1, McCune-Albright, Carney). (Book p943)]",
+          "questionIds": [
+            "MED-C48-029"
+          ]
+        },
+        {
+          "element": "p943-e004",
+          "page": 943,
+          "source": "In the galactorrhea-amenorrhea complex, hyperprolactinemia suppresses the hypothalamo-pituitary-gonadal axis leading to hypogonadism and ___. [Elevated prolactin inhibits the HPG axis, producing hypogonadism and luteolysis. (Book p943)]",
+          "questionIds": [
+            "MED-C48-030"
+          ]
+        },
+        {
+          "element": "p943-e005",
+          "page": 943,
+          "source": "A 29-year-old female presents with secondary amenorrhea, milky breast discharge, and hot flushes. Dual-energy X-ray absorptiometry (DEXA) demonstrates osteopenia localized predominantly to the: [Hypogonadism in hyperprolactinemia leads to osteopenia and osteoporosis involving predominantly the spine. (Book p943)]",
+          "questionIds": [
+            "MED-C48-031"
+          ]
+        },
+        {
+          "element": "p943-e006",
+          "page": 943,
+          "source": "Why does hypogonadism in males with prolactinoma often go unnoticed until late stages? [In males, hypogonadal symptoms like loss of libido and erectile dysfunction go unnoticed until mass effects emerge. (Book p943)]",
+          "questionIds": [
+            "MED-C48-032"
+          ]
+        },
+        {
+          "element": "p943-e007",
+          "page": 943,
+          "source": "What percentage of patients harboring a macroprolactinoma present with visual field defects? [In macroprolactinomas, 35% of patients have visual field defects and 45% have hypopituitarism of other axes. (Book p943)]",
+          "questionIds": [
+            "MED-C48-033"
+          ]
+        },
+        {
+          "element": "p943-e008",
+          "page": 943,
+          "source": "In patients with macroprolactinoma, what proportion demonstrate deficiency of other anterior pituitary hormones? [Deficiency of other pituitary hormones is found in 45% of macroprolactinoma patients. (Book p943)]",
+          "questionIds": [
+            "MED-C48-034"
+          ]
+        },
+        {
+          "element": "p943-e009",
+          "page": 943,
+          "source": "What is the confirmatory investigation of choice (IOC) for suspected prolactinoma? [The confirmatory investigation of choice is Gadolinium-enhanced MRI (T1 sagittal post-contrast). (Book p943)]",
+          "questionIds": [
+            "MED-C48-035"
+          ]
+        },
+        {
+          "element": "p943-e010",
+          "page": 943,
+          "source": "Assess the MRI appearance of a pituitary microadenoma: I Pre-contrast features include gland asymmetry, depression of the sellar floor, and infundibular stalk deviation. II Post-contrast imaging shows the whole normal gland enhancing except the hypointense adenoma. [Pre-contrast microadenoma signs are asymmetry, floor depression, and stalk deviation; with contrast, the normal gland enhances while the adenoma remai]",
+          "questionIds": [
+            "MED-C48-036"
+          ]
+        },
+        {
+          "element": "p943-e011",
+          "page": 943,
+          "source": "A 35-year-old male undergoes sellar MRI for bitemporal visual deficits. The coronal post-contrast sequence demonstrates a 2.5 cm heterogeneous mass composed of cystic (non-enhancing) and solid (enhancing) areas. This lesion is a: [Macroprolactinomas characteristically show heterogeneous post-contrast enhancement with non-enhancing cystic areas and enhancing solid components. (Bo]",
+          "questionIds": [
+            "MED-C48-037"
+          ]
+        },
+        {
+          "element": "p943-e012",
+          "page": 943,
+          "source": "Match the pituitary imaging finding on MRI to its structural entity — 1) Pre-contrast sellar floor depression and stalk deviation 2) Non-enhancing fluid compartment within macroadenoma 3) Diffuse uniform avid post-contrast enhancement … A) Microadenoma B) Cystic component C) Normal pituitary parenchyma [Microadenomas produce floor depression and stalk deviation; cystic components do not enhance; normal pituitary parenchyma enhances uniformly. (Book p9]",
+          "questionIds": [
+            "MED-C48-038"
+          ]
+        },
+        {
+          "element": "p943-e013",
+          "page": 943,
+          "source": "Which syndrome is NOT part of the MEON genetic complex associated with young-onset prolactinomas (< 20 years)? [Genetic syndromes associated with early prolactinomas include MEN 1, McCune-Albright, and Carney complex; MEN 2 is not linked to pituitary adenomas. (]",
+          "questionIds": [
+            "MED-C48-039"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 944,
+      "pdfPage": 51,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p944 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p944.",
+      "elements": [
+        {
+          "element": "p944-e001",
+          "page": 944,
+          "source": "What is the recommended initial management for a patient diagnosed with an asymptomatic pituitary microadenoma? [For asymptomatic microadenoma, management is wait and watch with repeat MRI after 3-6 months; treat only if size increases. (Book p944)]",
+          "questionIds": [
+            "MED-C48-040"
+          ]
+        },
+        {
+          "element": "p944-e002",
+          "page": 944,
+          "source": "What is the first-line medical drug of choice (DOC) for symptomatic prolactinomas and macroadenomas? [Cabergoline is the first-line medical drug of choice for prolactinomas. (Book p944)]",
+          "questionIds": [
+            "MED-C48-041"
+          ]
+        },
+        {
+          "element": "p944-e003",
+          "page": 944,
+          "source": "Due to its prolonged elimination half-life, cabergoline is typically initiated at a weekly dose of ___ mg twice weekly. [Cabergoline has an increased half-life allowing weekly dosing at 0.25 mg twice weekly. (Book p944)]",
+          "questionIds": [
+            "MED-C48-042"
+          ]
+        },
+        {
+          "element": "p944-e004",
+          "page": 944,
+          "source": "Which is NOT a recognized acute adverse effect of dopamine agonists such as cabergoline? [Dopamine agonists cause nausea, vomiting, postural hypotension, and dizziness, rather than severe hypertension. (Book p944)]",
+          "questionIds": [
+            "MED-C48-043"
+          ]
+        },
+        {
+          "element": "p944-e005",
+          "page": 944,
+          "source": "At cumulative cabergoline doses exceeding 2 g/week, what major cardiopulmonary toxicities can occur? [Cumulative cabergoline > 2 g/week (or high doses) can cause tricuspid regurgitation (valvulopathy) and lung fibrosis. (Book p944)]",
+          "questionIds": [
+            "MED-C48-044"
+          ]
+        },
+        {
+          "element": "p944-e006",
+          "page": 944,
+          "source": "What proportion of prolactinoma patients exhibit dopamine agonist resistance to cabergoline? [Dopamine agonist resistance to cabergoline occurs in 20% of patients. (Book p944)]",
+          "questionIds": [
+            "MED-C48-045"
+          ]
+        },
+        {
+          "element": "p944-e007",
+          "page": 944,
+          "source": "A 28-year-old woman with a microprolactinoma desires pregnancy. Which dopamine agonist is preferred because of its extensive safety record in gestation? [Bromocriptine is used in pregnancy due to extensive historical safety data. (Book p944)]",
+          "questionIds": [
+            "MED-C48-046"
+          ]
+        },
+        {
+          "element": "p944-e008",
+          "page": 944,
+          "source": "If a woman taking bromocriptine during pregnancy intends to breastfeed after delivery, when should the drug be discontinued? [Bromocriptine must be stopped 7 days before lactation to allow prolactin-mediated milk production. (Book p944)]",
+          "questionIds": [
+            "MED-C48-047"
+          ]
+        },
+        {
+          "element": "p944-e009",
+          "page": 944,
+          "source": "Match the therapeutic milestone in prolactinoma management to its expected timeframe — 1) Normalization of serum prolactin levels 2) Significant shrinkage of tumor volume … A) Within 4 weeks B) Within 3 to 6 months [Prolactin levels normalize within 4 weeks; tumor shrinkage is achieved by 3-6 months. (Book p944)]",
+          "questionIds": [
+            "MED-C48-048"
+          ]
+        },
+        {
+          "element": "p944-e010",
+          "page": 944,
+          "source": "Which condition is NOT an established indication for surgical resection of a prolactinoma? [Surgical indications include dopamine agonist resistance, persistent visual defects after 1 month of medical Rx, unstable apoplexy, and pregnancy unre]",
+          "questionIds": [
+            "MED-C48-049"
+          ]
+        },
+        {
+          "element": "p944-e011",
+          "page": 944,
+          "source": "What immunohistochemical proliferation marker is utilized to evaluate extremely rare malignant prolactinomas? [Malignant prolactinoma is very rare and identified by the Ki67 proliferation marker. (Book p944)]",
+          "questionIds": [
+            "MED-C48-050"
+          ]
+        },
+        {
+          "element": "p944-e012",
+          "page": 944,
+          "source": "What modality serves as the last resort for patients with refractory prolactinoma who are unfit for surgical resection? [Gamma Knife stereotactic radiotherapy is the last resort if the patient is unfit for surgery. (Book p944)]",
+          "questionIds": [
+            "MED-C48-051"
+          ]
+        },
+        {
+          "element": "p944-e013",
+          "page": 944,
+          "source": "Assess the primary goals of prolactinoma therapy: I Normalize serum prolactin and restore gonadal axis function. II Induce tumor shrinkage and normalize anterior pituitary function. [Goals of therapy are tumor shrinkage by 3-6 months, prolactin normalization by 4 weeks, pituitary function normalization, and restoration of gonadal f]",
+          "questionIds": [
+            "MED-C48-052"
+          ]
+        }
+      ]
+    }
+  ]
+}

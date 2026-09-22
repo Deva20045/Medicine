@@ -1,0 +1,1090 @@
+{
+  "chapter": 44,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+  "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+  "pdfOffset": 893,
+  "pageRange": "917-926",
+  "contentSha256": "a1f69330f9f4be5b8f7db1e62762d8e94a241d33d6948132db2477653bcb0096",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch44 p917-926: auto-generated source checklist from existing 123 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 917,
+      "pdfPage": 24,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p917 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p917.",
+      "elements": [
+        {
+          "element": "p917-e001",
+          "page": 917,
+          "source": "The common presenting symptom written at the opening of this page is: [The page names hyperglycemia as the common presenting symptom and lists endocrinopathy as the most common association. (Book p917)]",
+          "questionIds": [
+            "MED-C44-001"
+          ]
+        },
+        {
+          "element": "p917-e002",
+          "page": 917,
+          "source": "The classification notes identify ___ as the common presenting symptom. [Hyperglycemia is written as the common presenting symptom. (Book p917)]",
+          "questionIds": [
+            "MED-C44-002"
+          ]
+        },
+        {
+          "element": "p917-e003",
+          "page": 917,
+          "source": "Match the following classification to the description — 1) Type 1 DM 2) Type 2 DM 3) Hybrid DM 4) GDM … A) Immune-mediated pancreatic destruction B) Insulin resistance C) Type 1.5 diabetes D) Gestational diabetes mellitus [The page defines Type 1 as predominantly immune-mediated pancreatic destruction, Type 2 as insulin resistance, hybrid diabetes as Type 1.5, and GDM as]",
+          "questionIds": [
+            "MED-C44-003"
+          ]
+        },
+        {
+          "element": "p917-e004",
+          "page": 917,
+          "source": "Assess the first two classification notes: I Type 1 DM is described as predominantly immune mediated. II Type 2 DM is described as predominantly immune mediated. [Type 1 is described as predominantly immune-mediated pancreatic destruction; Type 2 is described through insulin resistance. (Book p917)]",
+          "questionIds": [
+            "MED-C44-004"
+          ]
+        },
+        {
+          "element": "p917-e005",
+          "page": 917,
+          "source": "A learner is sorting the note's causes of pancreatic destruction in Type 2 DM. Which pair belongs together in the printed sequence? [The Type 2 line links glucotoxicity and lipotoxicity with pancreatic destruction. (Book p917)]",
+          "questionIds": [
+            "MED-C44-005"
+          ]
+        },
+        {
+          "element": "p917-e006",
+          "page": 917,
+          "source": "Which is the odd one out among the page's named diabetes categories? [Cushing diabetes is not one of the named categories in the classification list on this page; Type 1, Type 2 and hybrid diabetes are listed. (Book p917]",
+          "questionIds": [
+            "MED-C44-006"
+          ]
+        },
+        {
+          "element": "p917-e007",
+          "page": 917,
+          "source": "What percentage range is written beside Type 2 diabetes mellitus? [The Type 2 diabetes mellitus entry is annotated with 90–95%. (Book p917)]",
+          "questionIds": [
+            "MED-C44-007"
+          ]
+        },
+        {
+          "element": "p917-e008",
+          "page": 917,
+          "source": "A patient is using the artificial-pancreas arrangement shown on the page. Which sequence reflects the printed operation? [The artificial-pancreas note describes a skin sensor, wireless transmission to a pump that calculates insulin, and smartphone monitoring with carbohyd]",
+          "questionIds": [
+            "MED-C44-008"
+          ]
+        },
+        {
+          "element": "p917-e009",
+          "page": 917,
+          "source": "Match the Type 3 branch to its printed example — 1) Type 3 diabetes 2) Type 3a 3) Type 3c 4) Type 3d … A) Alzheimer’s disease B) Parent category shown above the branches C) Pancreatic diabetes D) Drug-induced diabetes [The page shows Type 3 branching to Alzheimer’s disease, Type 3c pancreatic diabetes, and Type 3d drug-induced diabetes. (Book p917)]",
+          "questionIds": [
+            "MED-C44-009"
+          ]
+        },
+        {
+          "element": "p917-e010",
+          "page": 917,
+          "source": "Assess the remaining labels: I Type 4 is called mild age-related diabetes. II MODY is expanded as maturity onset diabetes of young. [Type 4 is labelled mild age-related diabetes (MARD), and MODY is expanded as maturity onset diabetes of young. (Book p917)]",
+          "questionIds": [
+            "MED-C44-010"
+          ]
+        },
+        {
+          "element": "p917-e011",
+          "page": 917,
+          "source": "The Type 4 note links mild age-related diabetes with which immune-cell association? [The page places an association with T-regulatory cells below Type 4 mild age-related diabetes. (Book p917)]",
+          "questionIds": [
+            "MED-C44-011"
+          ]
+        },
+        {
+          "element": "p917-e012",
+          "page": 917,
+          "source": "The diagram beside Alzheimer’s disease links insulin-degrading enzyme with degradation of insulin and: [The Alzheimer’s branch depicts insulin-degrading enzyme and shows degradation of insulin and APO-Ba before APO-Ba accumulation. (Book p917)]",
+          "questionIds": [
+            "MED-C44-012"
+          ]
+        },
+        {
+          "element": "p917-e013",
+          "page": 917,
+          "source": "The abbreviation GDM on this page expands to ___. [GDM is written as gestational diabetes mellitus in the classification list. (Book p917)]",
+          "questionIds": [
+            "MED-C44-013"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 918,
+      "pdfPage": 25,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p918 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p918.",
+      "elements": [
+        {
+          "element": "p918-e001",
+          "page": 918,
+          "source": "The page's older-discoveries diagram begins with how many pillars? [The heading immediately above the liver, pancreas and skeletal-muscle diagram is 3 pillars. (Book p918)]",
+          "questionIds": [
+            "MED-C44-014"
+          ]
+        },
+        {
+          "element": "p918-e002",
+          "page": 918,
+          "source": "Match the three pillar to the printed abnormality — 1) Liver 2) Pancreas 3) Skeletal muscle … A) Increased gluconeogenesis with increased glucose output B) Defective insulin secretion from beta cells C) Impaired receptor function and insulin-dependent glucose-uptake impairment [The page maps liver to increased gluconeogenesis and glucose output, pancreas to defective beta-cell insulin secretion, and skeletal muscle to impaire]",
+          "questionIds": [
+            "MED-C44-015"
+          ]
+        },
+        {
+          "element": "p918-e003",
+          "page": 918,
+          "source": "The skeletal-muscle pillar names insulin-dependent glucose uptake through ___. [The skeletal-muscle column explicitly names GLUT-4 in insulin-dependent glucose uptake. (Book p918)]",
+          "questionIds": [
+            "MED-C44-016"
+          ]
+        },
+        {
+          "element": "p918-e004",
+          "page": 918,
+          "source": "Assess the three-pillar notes: I The liver line calls increased gluconeogenesis the most important factor. II The skeletal-muscle line describes insulin resistance. [The liver column marks increased gluconeogenesis as the most important factor, while the skeletal-muscle column ends in insulin resistance. (Book p918]",
+          "questionIds": [
+            "MED-C44-017"
+          ]
+        },
+        {
+          "element": "p918-e005",
+          "page": 918,
+          "source": "What does the page give for the ominous octet's count? [The ominous-octet heading states that it involves previous 5 and 5 new factors. (Book p918)]",
+          "questionIds": [
+            "MED-C44-018"
+          ]
+        },
+        {
+          "element": "p918-e006",
+          "page": 918,
+          "source": "Match the ominous-octet label to the note below it — 1) G 2) P 3) R 4) A … A) Incretin effect B) Pancreas with increased glucagon production C) Renal activation of SGLT-2 D) Adipose tissue with centripetal obesity [The octet row gives G for gut/incretin effect, P for pancreas/increased glucagon, R for renal SGLT-2 activation, and A for adipose tissue/centripetal ]",
+          "questionIds": [
+            "MED-C44-019"
+          ]
+        },
+        {
+          "element": "p918-e007",
+          "page": 918,
+          "source": "The renal branch in the printed flowchart shows increased SGLT-2 activation followed by increased absorption of: [The renal branch shows increased SGLT-2 activation, increased glucose, sodium and water absorption, and oedema. (Book p918)]",
+          "questionIds": [
+            "MED-C44-020"
+          ]
+        },
+        {
+          "element": "p918-e008",
+          "page": 918,
+          "source": "Which target is named by the page for the renal component of the ominous octet? [The renal arm of the printed octet specifically identifies increased SGLT-2 activation. (Book p918)]",
+          "questionIds": [
+            "MED-C44-021"
+          ]
+        },
+        {
+          "element": "p918-e009",
+          "page": 918,
+          "source": "Assess the adipose-tissue flowchart: I Centripetal obesity converts alpha-3 receptors to beta-3 receptors. II The beta-3 receptor line increases lipolysis by hormone-sensitive lipase. [The adipose-tissue diagram shows centripetal obesity, conversion to beta-3 receptor activity, and increased lipolysis by hormone-sensitive lipase. (Bo]",
+          "questionIds": [
+            "MED-C44-022"
+          ]
+        },
+        {
+          "element": "p918-e010",
+          "page": 918,
+          "source": "Which is the odd one out among the four tissues explicitly listed in the skeletal-muscle note for GLUT-4? [The GLUT-4 box lists skeletal muscle, heart and adipose tissue; liver is not in that box. (Book p918)]",
+          "questionIds": [
+            "MED-C44-023"
+          ]
+        },
+        {
+          "element": "p918-e011",
+          "page": 918,
+          "source": "After increased free fatty acids reach the liver through the portal system, the highlighted main substrate for increased gluconeogenesis is: [The flowchart labels FFA as the main substrate leading to increased gluconeogenesis in the liver. (Book p918)]",
+          "questionIds": [
+            "MED-C44-024"
+          ]
+        },
+        {
+          "element": "p918-e012",
+          "page": 918,
+          "source": "The bottom note states that insulin also plays a role in T2DM by acting on ___. [The final note on the page reads that insulin acts on HSL and plays a role in T2DM too. (Book p918)]",
+          "questionIds": [
+            "MED-C44-025"
+          ]
+        },
+        {
+          "element": "p918-e013",
+          "page": 918,
+          "source": "In the page's adipose-to-liver sequence, increased lipolysis produces increased ___ that travels through the portal system. [The printed sequence runs through increased FFA via the portal system to the liver. (Book p918)]",
+          "questionIds": [
+            "MED-C44-026"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 919,
+      "pdfPage": 26,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p919 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p919.",
+      "elements": [
+        {
+          "element": "p919-e001",
+          "page": 919,
+          "source": "In the mnemonic 'Dirty dozen', the letter D is paired with decreased: [Under Dirty dozen, D is written as decreased dopamine activity. (Book p919)]",
+          "questionIds": [
+            "MED-C44-027"
+          ]
+        },
+        {
+          "element": "p919-e002",
+          "page": 919,
+          "source": "Match the mnemonic letter to the printed newer-discovery item — 1) D 2) D (second line) 3) G 4) R … A) Decreased dopamine activity B) Decreased vitamin-D level C) Hypogonadism with decreased testosterone D) Renin–aldosterone-system activation [The Dirty dozen lines list decreased dopamine activity, decreased vitamin-D level, hypogonadism with decreased testosterone, and renin–aldosterone-sys]",
+          "questionIds": [
+            "MED-C44-028"
+          ]
+        },
+        {
+          "element": "p919-e003",
+          "page": 919,
+          "source": "The 'Treacherous 13' adds serotonin, which increases hormone-sensitive ___. [The Treacherous 13 line reads dirty dozen plus serotonin leading to increased hormone-sensitive lipase. (Book p919)]",
+          "questionIds": [
+            "MED-C44-029"
+          ]
+        },
+        {
+          "element": "p919-e004",
+          "page": 919,
+          "source": "Assess the three mnemonic lines: I Treacherous 13 is Dirty dozen plus serotonin. II Faithless 14 adds iron in the beta-cell. [The page explicitly defines Treacherous 13 as Dirty dozen plus serotonin and Faithless 14 as Treacherous 13 plus iron in the beta-cell. (Book p919)]",
+          "questionIds": [
+            "MED-C44-030"
+          ]
+        },
+        {
+          "element": "p919-e005",
+          "page": 919,
+          "source": "In the final mnemonic, iron in the beta-cell is associated on the page with: [Faithless 14 is annotated as iron in the beta-cell causing toxicity and resistance. (Book p919)]",
+          "questionIds": [
+            "MED-C44-031"
+          ]
+        },
+        {
+          "element": "p919-e006",
+          "page": 919,
+          "source": "How many of the four diagnostic criteria does the page require for diabetes in its flowchart? [The diabetes flowchart places '≥1 out of 4' over the four diagnostic branches. (Book p919)]",
+          "questionIds": [
+            "MED-C44-032"
+          ]
+        },
+        {
+          "element": "p919-e007",
+          "page": 919,
+          "source": "Match the diagnostic branch to its printed cut-off — 1) HbA1c 2) Fasting plasma glucose 3) 2-hour postprandial plasma glucose 4) RBS with symptoms … A) ≥6.5% B) ≥126 mg/dL C) 75-g glucose ≥200 mg/dL D) ≥200 mg/dL [The four branches are HbA1c ≥6.5%, fasting glucose ≥126 mg/dL, 2-hour postprandial glucose after 75-g glucose ≥200 mg/dL, and RBS ≥200 mg/dL with clin]",
+          "questionIds": [
+            "MED-C44-033"
+          ]
+        },
+        {
+          "element": "p919-e008",
+          "page": 919,
+          "source": "An RBS value reaches the threshold on this page and the patient has the listed classic symptoms. Which action is supported by the flowchart? [The page's fourth branch pairs RBS ≥200 mg/dL with clinical symptoms for the diabetes diagnosis. (Book p919)]",
+          "questionIds": [
+            "MED-C44-034"
+          ]
+        },
+        {
+          "element": "p919-e009",
+          "page": 919,
+          "source": "Assess the symptom arrows: I Hyperosmotic glucose draws water from the cell. II The page links weight loss with decreased effective-volume depletion. [The page links increased glucose to hyperosmotic water movement from cells and links weight loss to decreased effective volume depletion and increased]",
+          "questionIds": [
+            "MED-C44-035"
+          ]
+        },
+        {
+          "element": "p919-e010",
+          "page": 919,
+          "source": "Which is the odd one out among the classic symptoms written beside the RBS branch? [Polyuria, polydipsia and weight loss are listed beside the RBS branch; hemoptysis is not. (Book p919)]",
+          "questionIds": [
+            "MED-C44-036"
+          ]
+        },
+        {
+          "element": "p919-e011",
+          "page": 919,
+          "source": "The page states that what percentage of patients become diabetic every year in the pre-diabetes section? [The pre-diabetes heading is followed by the statement that 10–15% of patients become diabetic every year. (Book p919)]",
+          "questionIds": [
+            "MED-C44-037"
+          ]
+        },
+        {
+          "element": "p919-e012",
+          "page": 919,
+          "source": "Match the table row to the pre-diabetes range — 1) Fasting value 2) 2-hour PPBG (75 g) 3) HbA1c values … A) 100–125 mg/dL B) 140–199 mg/dL C) 5.7–6.4% [The pre-diabetes table gives fasting 100–125 mg/dL, 2-hour PPBG 140–199 mg/dL and HbA1c 5.7–6.4%. (Book p919)]",
+          "questionIds": [
+            "MED-C44-038"
+          ]
+        },
+        {
+          "element": "p919-e013",
+          "page": 919,
+          "source": "The normal 2-hour PPBG value in the table is less than ___ mg/dL. [The normal-value column lists 2-hour PPBG (75 g) as <140 mg/dL. (Book p919)]",
+          "questionIds": [
+            "MED-C44-039"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 920,
+      "pdfPage": 27,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p920 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p920.",
+      "elements": [
+        {
+          "element": "p920-e001",
+          "page": 920,
+          "source": "Which patient profile meets the page's listed reasons to start metformin in pre-diabetes? [The page lists age 40–60 years, HbA1c ≥6%, FBS ≥110 mg/dL and overweight under starting metformin. (Book p920)]",
+          "questionIds": [
+            "MED-C44-040"
+          ]
+        },
+        {
+          "element": "p920-e002",
+          "page": 920,
+          "source": "Match the pre-diabetes intervention to the page's note — 1) Metformin 2) Metformin in the pregnancy note 3) Pioglitazone 4) Pioglitazone mechanism … A) Start in the listed high-risk profile B) Treat gestational diabetes C) Added drug that acts through PPAR-γ D) Fights insulin resistance [The treatment notes list metformin for the specified high-risk profile and for gestational diabetes, and add pioglitazone through PPAR-γ to fight insu]",
+          "questionIds": [
+            "MED-C44-041"
+          ]
+        },
+        {
+          "element": "p920-e003",
+          "page": 920,
+          "source": "What fasting blood-sugar value is listed as a reason to start metformin in pre-diabetes? [The metformin list includes FBS ≥110 mg/dL. (Book p920)]",
+          "questionIds": [
+            "MED-C44-042"
+          ]
+        },
+        {
+          "element": "p920-e004",
+          "page": 920,
+          "source": "Assess the pioglitazone notes: I The page says it slows cardiovascular risks. II The page says it decreases the risk of stroke. [The pioglitazone column states that it slows cardiovascular risks and decreases the risk of stroke. (Book p920)]",
+          "questionIds": [
+            "MED-C44-043"
+          ]
+        },
+        {
+          "element": "p920-e005",
+          "page": 920,
+          "source": "Which is the odd one out among the listed adverse effects of pioglitazone? [The page lists bladder cancer, pathological fractures in osteoporosis and salt-water retention as adverse effects; hyperthyroidism is not listed. (Boo]",
+          "questionIds": [
+            "MED-C44-044"
+          ]
+        },
+        {
+          "element": "p920-e006",
+          "page": 920,
+          "source": "A person belongs to the page's pre-diabetes screening group because of a prior pregnancy-related glucose disorder. How often is screening written for this group? [The screening heading states that screening indicated in ADA guidelines is once in 6 months and includes gestational DM. (Book p920)]",
+          "questionIds": [
+            "MED-C44-045"
+          ]
+        },
+        {
+          "element": "p920-e007",
+          "page": 920,
+          "source": "Match the screening indication to the exact group named — 1) Gestational DM 2) Pre-diabetic population 3) High-risk population 4) General population … A) 50% chance of developing diabetes B) Pre-diabetes C) Stroke, cardiovascular disease, HIV, PCOS or insulin-resistance signs D) Age ≥35 years [The screening flowchart lists gestational DM with a 50% chance of diabetes, pre-diabetic population, high-risk conditions, and population ≥35 years. (]",
+          "questionIds": [
+            "MED-C44-046"
+          ]
+        },
+        {
+          "element": "p920-e008",
+          "page": 920,
+          "source": "The page lists three screening tests: HbA1c, FBS and ___. [The screening-tests branch names HbA1c, FBS and PPBS. (Book p920)]",
+          "questionIds": [
+            "MED-C44-047"
+          ]
+        },
+        {
+          "element": "p920-e009",
+          "page": 920,
+          "source": "Which screening test is described as having the best sensitivity and specificity for pre-diabetes? [The HbA1c subsection calls HbA1c the best sensitivity and specificity test for pre-diabetes. (Book p920)]",
+          "questionIds": [
+            "MED-C44-048"
+          ]
+        },
+        {
+          "element": "p920-e010",
+          "page": 920,
+          "source": "The HbA1c note is said to reflect approximately how many weeks of control? [The page writes 6–8 week control below HbA1c. (Book p920)]",
+          "questionIds": [
+            "MED-C44-049"
+          ]
+        },
+        {
+          "element": "p920-e011",
+          "page": 920,
+          "source": "Assess HbA1c limitations: I It provides only average values over a long period. II Ideal glycemic control at the target range for 70% of time requires 24-hour monitoring. [Both statements are written in the HbA1c limitation note: average long-period values and 70% target-range time requiring 24-hour monitoring. (Book p92]",
+          "questionIds": [
+            "MED-C44-050"
+          ]
+        },
+        {
+          "element": "p920-e012",
+          "page": 920,
+          "source": "Match the HbA1c interference group to the printed examples — 1) Lower or increase 2) False lower value 3) False elevated value … A) Hemoglobinopathies, malnutrition B) Hemolytic anemia, blood loss, chronic liver disease C) Renal failure, iron-deficiency anemia, increased bilirubin and triglycerides [The table lists haemoglobinopathies and malnutrition under lower or increase, haemolytic anaemia/blood loss/chronic liver disease under false lower, a]",
+          "questionIds": [
+            "MED-C44-051"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 921,
+      "pdfPage": 28,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p921 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p921.",
+      "elements": [
+        {
+          "element": "p921-e001",
+          "page": 921,
+          "source": "Match the Type 1.5 form to its gender entry — 1) Ketosis-prone/Flatbush diabetes 2) Latent autoimmune diabetes of adults … A) m > F B) m = F [The table gives m > F for ketosis-prone/Flatbush diabetes and m = F for latent autoimmune diabetes of adults. (Book p921)]",
+          "questionIds": [
+            "MED-C44-052"
+          ]
+        },
+        {
+          "element": "p921-e002",
+          "page": 921,
+          "source": "The ketosis-prone/Flatbush course begins at approximately what age in the table? [The KPD/Flatbush course is written as early age, approximately 20 years, with ketosis. (Book p921)]",
+          "questionIds": [
+            "MED-C44-053"
+          ]
+        },
+        {
+          "element": "p921-e003",
+          "page": 921,
+          "source": "A person is asymptomatic, is accidentally found hyperglycemic at about 30 years, and is initially treated as Type 2 DM without insulin. Which Type 1.5 form matches the table? [The LADA column describes an asymptomatic patient around 30 years found hyperglycemic and treated as Type 2 DM without insulin. (Book p921)]",
+          "questionIds": [
+            "MED-C44-054"
+          ]
+        },
+        {
+          "element": "p921-e004",
+          "page": 921,
+          "source": "Assess the Type 1.5 course: I KPD shows reduced insulin requirement after 5–10 years. II LADA shows increased insulin requirement after 5–10 years. [The table shows reduced insulin requirement after 5–10 years for KPD and increased insulin requirement after 5–10 years for LADA. (Book p921)]",
+          "questionIds": [
+            "MED-C44-055"
+          ]
+        },
+        {
+          "element": "p921-e005",
+          "page": 921,
+          "source": "After the early ketosis phase, KPD is followed by decreased insulin requirement, ___ and good response to oral hypoglycemic agents. [The KPD course arrow points to obesity and then good response to OHA after decreased insulin requirement. (Book p921)]",
+          "questionIds": [
+            "MED-C44-056"
+          ]
+        },
+        {
+          "element": "p921-e006",
+          "page": 921,
+          "source": "Match the LADA table feature to its entry — 1) C-peptide value 2) Antibody level 3) Presentation 4) Clinical build … A) Slightly decreased, slower than T1DM B) Increased markedly C) T1DM behaves like T2DM D) Lean, fair with autoimmune illness stigmata [The LADA column gives slightly decreased C-peptide, markedly increased antibodies, T1DM behaving like T2DM, and a lean fair patient with autoimmune st]",
+          "questionIds": [
+            "MED-C44-057"
+          ]
+        },
+        {
+          "element": "p921-e007",
+          "page": 921,
+          "source": "Which is the odd one out among the KPD clinical features written in the table? [KPD is described with a dark, hirsute, obese male, acanthosis nigricans/balanoposthitis and hyperinsulinemia; lean fair build belongs to the LADA colu]",
+          "questionIds": [
+            "MED-C44-058"
+          ]
+        },
+        {
+          "element": "p921-e008",
+          "page": 921,
+          "source": "The table says that one third of diagnosed Type 2 DM cases are in reality: [The clinical-features row states that one third of diagnosed Type 2 DM cases are in reality LADA. (Book p921)]",
+          "questionIds": [
+            "MED-C44-059"
+          ]
+        },
+        {
+          "element": "p921-e009",
+          "page": 921,
+          "source": "Match each antibody to the table's sensitivity — 1) GAD 2) ICA 3) IAA 4) ZnT8 … A) 70–90% B) 44–100% C) 40–70% D) 50–70% [The antibody table lists sensitivities of GAD 70–90%, ICA 44–100%, IAA 40–70% and ZnT8 50–70%. (Book p921)]",
+          "questionIds": [
+            "MED-C44-060"
+          ]
+        },
+        {
+          "element": "p921-e010",
+          "page": 921,
+          "source": "Which antibody specificity is written for GAD in the table? [The GAD row gives 99% specificity. (Book p921)]",
+          "questionIds": [
+            "MED-C44-061"
+          ]
+        },
+        {
+          "element": "p921-e011",
+          "page": 921,
+          "source": "Assess the antibody notes: I ICA is described as earliest to appear and disappears after a few years. II IAA is described as invalid after therapy and common in new-onset T1DM. [Both antibody rows carry those exact additional features in the table. (Book p921)]",
+          "questionIds": [
+            "MED-C44-062"
+          ]
+        },
+        {
+          "element": "p921-e012",
+          "page": 921,
+          "source": "For a young patient in the algorithm with low fasting C-peptide and positive antibodies, which label does the page's flowchart give? [The printed diagnostic algorithm maps low fasting C-peptide with positive antibodies to LADA. (Book p921)]",
+          "questionIds": [
+            "MED-C44-063"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 922,
+      "pdfPage": 29,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p922 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p922.",
+      "elements": [
+        {
+          "element": "p922-e001",
+          "page": 922,
+          "source": "Match the natural-history stage to its position in the diagram — 1) Early stage 2) Middle stage 3) Transitional glucose stage 4) Late stage … A) Genetics/environment B) Obesity C) IFG/IGT D) Late diabetes [The natural-history diagram proceeds through genetics/environment, obesity, dyslipidemia/hypertension and IFG/IGT before early and late diabetes. (Boo]",
+          "questionIds": [
+            "MED-C44-064"
+          ]
+        },
+        {
+          "element": "p922-e002",
+          "page": 922,
+          "source": "The line labelled above the natural-history diagram that falls with advancing age is: [The vertical axis of the natural-history figure is beta-cell function, which declines across advancing age. (Book p922)]",
+          "questionIds": [
+            "MED-C44-065"
+          ]
+        },
+        {
+          "element": "p922-e003",
+          "page": 922,
+          "source": "Assess the natural-history diagram: I Hyperinsulinemia appears before hyperglycemia. II Macrovascular complications are shown before microvascular complications. [The diagram places hyperinsulinemia before hyperglycemia and labels macrovascular complications earlier than microvascular complications. (Book p922)]",
+          "questionIds": [
+            "MED-C44-066"
+          ]
+        },
+        {
+          "element": "p922-e004",
+          "page": 922,
+          "source": "Apart from dyslipidemia and hypertension, which group is explicitly listed as other Type 2 DM comorbidities? [The right-hand list gives NAFL, hypogonadism, periodontal disease, fracture and atherosclerosis. (Book p922)]",
+          "questionIds": [
+            "MED-C44-067"
+          ]
+        },
+        {
+          "element": "p922-e005",
+          "page": 922,
+          "source": "How many of the five metabolic-syndrome criteria should be met according to the page? [The metabolic-syndrome heading states that any 3 of 5 should be met. (Book p922)]",
+          "questionIds": [
+            "MED-C44-068"
+          ]
+        },
+        {
+          "element": "p922-e006",
+          "page": 922,
+          "source": "Match the metabolic-syndrome criterion to the printed cut-off — 1) Male waist circumference 2) Female waist circumference 3) Triglycerides 4) Male HDL … A) >102 cm B) >88 cm C) >150 mg/dL D) <40 mg/dL [The criteria list male waist >102 cm, female waist >88 cm, triglycerides >150 mg/dL and male HDL <40 mg/dL. (Book p922)]",
+          "questionIds": [
+            "MED-C44-069"
+          ]
+        },
+        {
+          "element": "p922-e007",
+          "page": 922,
+          "source": "The fifth metabolic-syndrome criterion on the page is impaired fasting glucose above ___ mg/dL. [The fifth criterion is impaired fasting glucose (IFG) >100 mg/dL. (Book p922)]",
+          "questionIds": [
+            "MED-C44-070"
+          ]
+        },
+        {
+          "element": "p922-e008",
+          "page": 922,
+          "source": "Assess the HDL and blood-pressure entries: I Female HDL is listed as less than 50 mg/dL. II Blood pressure is listed as greater than 130/85. [The metabolic-syndrome list gives female HDL <50 mg/dL and BP >130/85. (Book p922)]",
+          "questionIds": [
+            "MED-C44-071"
+          ]
+        },
+        {
+          "element": "p922-e009",
+          "page": 922,
+          "source": "What Indian BMI value is used for the obese category in the table? [The Indian-criteria column labels obese as >25. (Book p922)]",
+          "questionIds": [
+            "MED-C44-072"
+          ]
+        },
+        {
+          "element": "p922-e010",
+          "page": 922,
+          "source": "Match the BMI category with the Indian criteria — 1) Normal 2) Overweight 3) Obese … A) 18–22.9 B) 23–24.9 C) >25 [The table gives Indian BMI normal 18–22.9, overweight 23–24.9 and obese >25. (Book p922)]",
+          "questionIds": [
+            "MED-C44-073"
+          ]
+        },
+        {
+          "element": "p922-e011",
+          "page": 922,
+          "source": "Which set matches the page's Indian-population diabesity/adiposopathy list? [The diabesity/adiposopathy list uses male waist >90 cm, female waist >80 cm, hyperglycemia, HTN, hyperlipidemia with increased CRP/decreased adiponect]",
+          "questionIds": [
+            "MED-C44-074"
+          ]
+        },
+        {
+          "element": "p922-e012",
+          "page": 922,
+          "source": "Which is the odd one out among the five items in the Indian-population diabesity list? [Hypercalcemia is not in the printed diabesity/adiposopathy list; hyperglycemia, HTN and prothrombotic state are listed. (Book p922)]",
+          "questionIds": [
+            "MED-C44-075"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 923,
+      "pdfPage": 30,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p923 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p923.",
+      "elements": [
+        {
+          "element": "p923-e001",
+          "page": 923,
+          "source": "The pathophysiology line for Type 1 DM describes T-cell-mediated destruction of the: [The page writes T-cell-mediated beta-cell destruction with insulinitis. (Book p923)]",
+          "questionIds": [
+            "MED-C44-076"
+          ]
+        },
+        {
+          "element": "p923-e002",
+          "page": 923,
+          "source": "Match the Type 1 versus Type 2 factor to the printed pair — 1) Age 2) Weight 3) Family history 4) DKA … A) Younger / older B) Thinner / obese C) Rare / common D) Common / rare [The comparison table lists younger versus older age, thinner versus obese weight, rare versus common family history, and common versus rare DKA for Ty]",
+          "questionIds": [
+            "MED-C44-077"
+          ]
+        },
+        {
+          "element": "p923-e003",
+          "page": 923,
+          "source": "Assess the marker line: I GAD and ZnT-8 are listed among Type 1 markers. II Anti-insulin antibody is absent from the marker line. [The marker line includes GAD, ZnT-8 and anti-insulin antibody. (Book p923)]",
+          "questionIds": [
+            "MED-C44-078"
+          ]
+        },
+        {
+          "element": "p923-e004",
+          "page": 923,
+          "source": "What Type 1 twin-to-twin concordance is written in the final row? [The Type 1 column gives twin-to-twin concordance as 40%. (Book p923)]",
+          "questionIds": [
+            "MED-C44-079"
+          ]
+        },
+        {
+          "element": "p923-e005",
+          "page": 923,
+          "source": "The HLA association line shows positive association with DR3–DR___ in the Type 1 note. [The HLA association diagram shows positive DR3–DR4 and a negative DR1–14 entry. (Book p923)]",
+          "questionIds": [
+            "MED-C44-080"
+          ]
+        },
+        {
+          "element": "p923-e006",
+          "page": 923,
+          "source": "A patient has osmotic symptoms, low C-peptide and common DKA. Which column in the comparison table fits best? [Osmotic symptoms, low C-peptide and common DKA are entries in the Type 1 DM column. (Book p923)]",
+          "questionIds": [
+            "MED-C44-081"
+          ]
+        },
+        {
+          "element": "p923-e007",
+          "page": 923,
+          "source": "Match the comparison factor to the Type 1 entry — 1) C-peptide 2) Acanthosis nigricans 3) Dyslipidemia 4) Antibodies … A) Low B) Absent C) Absent D) Present [The Type 1 column gives low C-peptide, absent acanthosis nigricans, absent dyslipidemia and present antibodies. (Book p923)]",
+          "questionIds": [
+            "MED-C44-082"
+          ]
+        },
+        {
+          "element": "p923-e008",
+          "page": 923,
+          "source": "Assess the endocrine-association rows: I PCOS is rare in the Type 1 column and present in Type 2. II HLA association is stronger in Type 1 than Type 2. [The table marks PCOS rare/present and HLA association stronger/weaker for Type 1/Type 2. (Book p923)]",
+          "questionIds": [
+            "MED-C44-083"
+          ]
+        },
+        {
+          "element": "p923-e009",
+          "page": 923,
+          "source": "If both parents have DM, what risks are printed for Type 1 and Type 2 respectively? [The risk rows state 15% for Type 1 and 40% for Type 2 when both parents have DM. (Book p923)]",
+          "questionIds": [
+            "MED-C44-084"
+          ]
+        },
+        {
+          "element": "p923-e010",
+          "page": 923,
+          "source": "Which Type 1 versus Type 2 factor is labelled stronger for Type 2? [The final comparison rows mark genetic-factor association as weaker in Type 1 and stronger in Type 2. (Book p923)]",
+          "questionIds": [
+            "MED-C44-085"
+          ]
+        },
+        {
+          "element": "p923-e011",
+          "page": 923,
+          "source": "Which is the odd one out among the Type 2 entries in the comparison table? [The Type 2 antibody entry is absent; older age, higher C-peptide and present acanthosis nigricans are listed. (Book p923)]",
+          "questionIds": [
+            "MED-C44-086"
+          ]
+        },
+        {
+          "element": "p923-e012",
+          "page": 923,
+          "source": "A family-risk question asks about one parent having DM. Which Type 1/Type 2 risk pair is printed? [The row for either parent having DM gives 5% for Type 1 and 25% for Type 2. (Book p923)]",
+          "questionIds": [
+            "MED-C44-087"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 924,
+      "pdfPage": 31,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p924 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p924.",
+      "elements": [
+        {
+          "element": "p924-e001",
+          "page": 924,
+          "source": "Match the genetic syndrome to its printed feature — 1) Type A resistance 2) Type B resistance 3) Rabson–Mendenhall syndrome … A) Seen in females, acanthosis nigricans and hyperandrogenism B) Type A plus PCOS and HAIR-AN syndrome C) Childhood DM, acanthosis, rapidly growing hair and abnormal dentition [The table lists the respective feature sets for Type A resistance, Type B resistance and Rabson–Mendenhall syndrome. (Book p924)]",
+          "questionIds": [
+            "MED-C44-088"
+          ]
+        },
+        {
+          "element": "p924-e002",
+          "page": 924,
+          "source": "The pathogenesis written for Type A resistance is: [Type A resistance is paired with insulin-receptor resistance in the table. (Book p924)]",
+          "questionIds": [
+            "MED-C44-089"
+          ]
+        },
+        {
+          "element": "p924-e003",
+          "page": 924,
+          "source": "Assess the resistance-syndrome table: I Type B resistance is linked to a post-binding defect in insulin action. II Rabson–Mendenhall syndrome is linked to insulin-receptor mutations. [The pathogenesis column gives a post-binding defect for Type B and insulin-receptor mutations for Rabson–Mendenhall syndrome. (Book p924)]",
+          "questionIds": [
+            "MED-C44-090"
+          ]
+        },
+        {
+          "element": "p924-e004",
+          "page": 924,
+          "source": "A child has diabetes, acanthosis nigricans, rapidly growing hair and abnormal dentition. Which syndrome does the page associate with this pattern? [Those four findings are the feature list in the Rabson–Mendenhall row. (Book p924)]",
+          "questionIds": [
+            "MED-C44-091"
+          ]
+        },
+        {
+          "element": "p924-e005",
+          "page": 924,
+          "source": "Type 4 DM is expanded on this page as middle age related DM, abbreviated ___. [The Other Types of DM section labels Type 4 DM as middle age related DM (MARD). (Book p924)]",
+          "questionIds": [
+            "MED-C44-092"
+          ]
+        },
+        {
+          "element": "p924-e006",
+          "page": 924,
+          "source": "Match the MODY feature to the exact note — 1) Inheritance 2) Insulin dependence 3) Age of manifestation 4) Renal transporter note … A) AD through at least 3 generations B) Not insulin dependent C) Before 25 years D) Decreased SGLT2 leading to glycosuria [The MODY features are AD vertical transmission through at least three generations, not insulin dependent, before 25 years, and decreased SGLT2 with gl]",
+          "questionIds": [
+            "MED-C44-093"
+          ]
+        },
+        {
+          "element": "p924-e007",
+          "page": 924,
+          "source": "MODY is written as manifesting before what age? [The MODY feature list says it manifests before 25 years. (Book p924)]",
+          "questionIds": [
+            "MED-C44-094"
+          ]
+        },
+        {
+          "element": "p924-e008",
+          "page": 924,
+          "source": "Assess the MODY notes: I The page says MODY has no complications. II The page describes an inappropriate beta-cell response to a rise in blood glucose. [Both statements appear in the MODY section. (Book p924)]",
+          "questionIds": [
+            "MED-C44-095"
+          ]
+        },
+        {
+          "element": "p924-e009",
+          "page": 924,
+          "source": "Match the MODY type to its defect or feature — 1) MODY 1 2) MODY 2 3) MODY 3 4) MODY 4 … A) HNF-4α B) Glucokinase C) HNF-1α D) IPF-1 [The MODY table pairs MODY 1 with HNF-4α, MODY 2 with glucokinase, MODY 3 with HNF-1α, and MODY 4 with IPF-1. (Book p924)]",
+          "questionIds": [
+            "MED-C44-096"
+          ]
+        },
+        {
+          "element": "p924-e010",
+          "page": 924,
+          "source": "Which treatment is written for MODY 3 in the table? [The MODY 3 row gives sulfonylureas as the treatment. (Book p924)]",
+          "questionIds": [
+            "MED-C44-097"
+          ]
+        },
+        {
+          "element": "p924-e011",
+          "page": 924,
+          "source": "Which MODY type is marked as the most common in the table? [MODY 3 is marked '(m/c)' in the table. (Book p924)]",
+          "questionIds": [
+            "MED-C44-098"
+          ]
+        },
+        {
+          "element": "p924-e012",
+          "page": 924,
+          "source": "Which is the odd one out among the listed MODY-5 features or associations? [The table associates MODY 5 with renal cysts and genital anomalies; retinal detachment is not listed. (Book p924)]",
+          "questionIds": [
+            "MED-C44-099"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 925,
+      "pdfPage": 32,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p925 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p925.",
+      "elements": [
+        {
+          "element": "p925-e001",
+          "page": 925,
+          "source": "Match the diagnostic-algorithm branch to the printed result — 1) High C-peptide, Ab positive 2) Low C-peptide, Ab positive 3) Absent C-peptide 4) Absent branch label … A) T1DM B) LADA C) T2DM/MODY D) The algorithm does not add another result [The flowchart maps high C-peptide with positive antibody to T1DM, low with positive antibody to LADA, and absent to T2DM/MODY. (Book p925)]",
+          "questionIds": [
+            "MED-C44-100"
+          ]
+        },
+        {
+          "element": "p925-e002",
+          "page": 925,
+          "source": "A young patient reaches the page's diagnostic algorithm after clinical features suggest a young-onset diabetes form. What is checked next? [The algorithm says clinical features plus young age, followed by checking fasting C-peptide levels. (Book p925)]",
+          "questionIds": [
+            "MED-C44-101"
+          ]
+        },
+        {
+          "element": "p925-e003",
+          "page": 925,
+          "source": "Assess the pancreatic-DM cause list: I Tropical chronic calcific pancreatitis is listed. II IgG4-related disease is listed. [The Type 3 DM cause list includes tropical chronic calcific pancreatitis and IgG4-related disease. (Book p925)]",
+          "questionIds": [
+            "MED-C44-102"
+          ]
+        },
+        {
+          "element": "p925-e004",
+          "page": 925,
+          "source": "Type 3c DM on this page is identified with: [The page labels Type 3c as TCCP, tropical chronic calcific pancreatitis. (Book p925)]",
+          "questionIds": [
+            "MED-C44-103"
+          ]
+        },
+        {
+          "element": "p925-e005",
+          "page": 925,
+          "source": "The clinical-feature section places Type 3c onset chiefly in which decades? [The Type 3c clinical features begin with second–third decade and younger males. (Book p925)]",
+          "questionIds": [
+            "MED-C44-104"
+          ]
+        },
+        {
+          "element": "p925-e006",
+          "page": 925,
+          "source": "Match the Type 3c feature to its printed detail — 1) Ductal change 2) Cancer risk 3) Body/ketosis profile 4) Investigation … A) Large ductal calculi, duct dilation and marked fibrosis B) Increased risk of pancreatic cancer C) Lean young ketosis-negative DM D) ERCP gold standard [The page describes large ductal calculi with dilation and fibrosis, increased pancreatic-cancer risk, lean young ketosis-negative diabetes, and ERCP a]",
+          "questionIds": [
+            "MED-C44-105"
+          ]
+        },
+        {
+          "element": "p925-e007",
+          "page": 925,
+          "source": "The Type 3c clinical combination written on the page is DM with steatorrhea and abdominal ___. [The clinical-features list reads DM plus steatorrhea plus abdominal pain. (Book p925)]",
+          "questionIds": [
+            "MED-C44-106"
+          ]
+        },
+        {
+          "element": "p925-e008",
+          "page": 925,
+          "source": "Assess the Type 3c complications: I Nephropathy is listed. II Macrovascular complications are described as common. [Nephropathy is listed, while macrovascular complications are described as rare. (Book p925)]",
+          "questionIds": [
+            "MED-C44-107"
+          ]
+        },
+        {
+          "element": "p925-e009",
+          "page": 925,
+          "source": "Which procedure is labelled the gold-standard investigation for the Type 3c pattern? [The investigation line labels ERCP as the gold standard. (Book p925)]",
+          "questionIds": [
+            "MED-C44-108"
+          ]
+        },
+        {
+          "element": "p925-e010",
+          "page": 925,
+          "source": "Match the Type 3d drug-associated group to the example — 1) Immunosuppressant 2) Anticancer 3) Psychiatric 4) Diuretic … A) Tacrolimus B) L-asparaginase C) Olanzapine D) Thiazide [The Type 3d list gives tacrolimus as immunosuppressant, L-asparaginase as anticancer, olanzapine as psychiatric, and thiazide as diuretic. (Book p925)]",
+          "questionIds": [
+            "MED-C44-109"
+          ]
+        },
+        {
+          "element": "p925-e011",
+          "page": 925,
+          "source": "Which is the odd one out among the insulin-independent drug examples at the bottom of the page? [The page places nicotinic acid, statins and aspirin under acting independent of insulin; tacrolimus is listed under immunosuppressants. (Book p925)]",
+          "questionIds": [
+            "MED-C44-110"
+          ]
+        },
+        {
+          "element": "p925-e012",
+          "page": 925,
+          "source": "Which drug is listed under the endocrine group of Type 3d drug causes? [GH is written under the endocrine group in the Type 3d drug list. (Book p925)]",
+          "questionIds": [
+            "MED-C44-111"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 926,
+      "pdfPage": 33,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p926 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p926.",
+      "elements": [
+        {
+          "element": "p926-e001",
+          "page": 926,
+          "source": "Match the endocrine condition to the group on this page — 1) Cushing’s 2) Acromegaly 3) Pheochromocytoma 4) Somatostatinoma … A) Endocrinopathy B) Endocrinopathy C) Endocrinopathy D) Endocrinopathy [All four named conditions appear in the Endocrinopathies list associated with DM. (Book p926)]",
+          "questionIds": [
+            "MED-C44-112"
+          ]
+        },
+        {
+          "element": "p926-e002",
+          "page": 926,
+          "source": "Which of the following is listed under endocrinopathies associated with DM? [Hyperparathyroidism is one of the endocrinopathies listed on the page. (Book p926)]",
+          "questionIds": [
+            "MED-C44-113"
+          ]
+        },
+        {
+          "element": "p926-e003",
+          "page": 926,
+          "source": "The endocrine list includes Cushing’s, acromegaly, hyperthyroidism, hyperparathyroidism, pheochromocytoma, glucagonoma and ___. [Somatostatinoma is the final endocrine condition in the printed list. (Book p926)]",
+          "questionIds": [
+            "MED-C44-114"
+          ]
+        },
+        {
+          "element": "p926-e004",
+          "page": 926,
+          "source": "Assess the endocrine list: I Glucagonoma is included. II Somatostatinoma is included. [Both glucagonoma and somatostatinoma are listed under endocrinopathies associated with DM. (Book p926)]",
+          "questionIds": [
+            "MED-C44-115"
+          ]
+        },
+        {
+          "element": "p926-e005",
+          "page": 926,
+          "source": "Which is the odd one out among the genetic diseases listed on the page? [Marfan syndrome is not in the printed genetic-disease list; Down’s, Klinefelter’s and Friedreich’s ataxia are. (Book p926)]",
+          "questionIds": [
+            "MED-C44-116"
+          ]
+        },
+        {
+          "element": "p926-e006",
+          "page": 926,
+          "source": "Match the genetic disease to its exact place in the printed list — 1) Down’s syndrome 2) Huntington’s 3) Wolfram syndrome 4) Laurence–Moon–Biedl syndrome … A) Listed genetic disease B) Listed genetic disease C) Listed genetic disease D) Listed genetic disease [Down’s syndrome, Huntington’s, Wolfram syndrome and Laurence–Moon–Biedl syndrome all appear in the genetic-disease list. (Book p926)]",
+          "questionIds": [
+            "MED-C44-117"
+          ]
+        },
+        {
+          "element": "p926-e007",
+          "page": 926,
+          "source": "A question asks for a genetic disease associated with DM from the page rather than an endocrinopathy. Which choice belongs to that genetic list? [Myotonic dystrophy appears under genetic disease; the other three choices are in the endocrinopathy list. (Book p926)]",
+          "questionIds": [
+            "MED-C44-118"
+          ]
+        },
+        {
+          "element": "p926-e008",
+          "page": 926,
+          "source": "Which condition is printed between Prader Willi and myotonic dystrophy in the genetic list? [The genetic list runs Down’s, Klinefelter, Friedreich’s ataxia, Huntington’s, Prader Willi, porphyria, myotonic dystrophy, Wolfram and Laurence–Moon–B]",
+          "questionIds": [
+            "MED-C44-119"
+          ]
+        },
+        {
+          "element": "p926-e009",
+          "page": 926,
+          "source": "How many genetic diseases are visibly listed under the genetic-disease heading? [The page lists nine genetic diseases: Down’s, Klinefelter, Friedreich’s ataxia, Huntington’s, Prader Willi, porphyria, myotonic dystrophy, Wolfram syn]",
+          "questionIds": [
+            "MED-C44-120"
+          ]
+        },
+        {
+          "element": "p926-e010",
+          "page": 926,
+          "source": "Assess the genetic-disease section: I Porphyria is listed. II Wolfram syndrome is listed. [Both porphyria and Wolfram syndrome appear in the genetic-disease list. (Book p926)]",
+          "questionIds": [
+            "MED-C44-121"
+          ]
+        },
+        {
+          "element": "p926-e011",
+          "page": 926,
+          "source": "When sorting the page's associations with DM, which label should be placed under the genetic-disease heading? [Prader Willi is in the genetic-disease list, while glucagonoma, hyperthyroidism and Cushing’s are in the endocrinopathy list. (Book p926)]",
+          "questionIds": [
+            "MED-C44-122"
+          ]
+        },
+        {
+          "element": "p926-e012",
+          "page": 926,
+          "source": "Which is the odd one out among the named genetic diseases on this page? [Somatostatinoma belongs to the endocrinopathy list; porphyria, Wolfram syndrome and Huntington’s belong to the genetic list. (Book p926)]",
+          "questionIds": [
+            "MED-C44-123"
+          ]
+        }
+      ]
+    }
+  ]
+}

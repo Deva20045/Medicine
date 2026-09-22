@@ -1,0 +1,396 @@
+{
+  "chapter": 66,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+  "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+  "pdfOffset": 964,
+  "pageRange": "1026-1029",
+  "contentSha256": "27f812f27eb7173361699b9ed0a2ec097b156636b0382951562ce49f2b5b534d",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch66 p1026-1029: auto-generated source checklist from existing 43 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 1026,
+      "pdfPage": 62,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1026 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1026.",
+      "elements": [
+        {
+          "element": "p1026-e001",
+          "page": 1026,
+          "source": "How is '1 peg' defined at the top of the chapter? ['1 peg = 60 ml Alcohol (40%)'. (Book p1026)]",
+          "questionIds": [
+            "MED-C66-001"
+          ]
+        },
+        {
+          "element": "p1026-e002",
+          "page": 1026,
+          "source": "Cirrhogenic dose — match — 1) Male 2) Female … A) 20–40 gm/day (1 peg) B) 40–80 g/day (2 pegs) [Male: 40–80 g/day (2 pegs); Female: 20–40 gm/day (1 peg). (Book p1026)]",
+          "questionIds": [
+            "MED-C66-002"
+          ]
+        },
+        {
+          "element": "p1026-e003",
+          "page": 1026,
+          "source": "The cirrhogenic dose must be consumed for how long to produce cirrhosis? ['→ 5 days a week for 15 years → Cirrhosis.' (Book p1026)]",
+          "questionIds": [
+            "MED-C66-003"
+          ]
+        },
+        {
+          "element": "p1026-e004",
+          "page": 1026,
+          "source": "Alcoholic hepatitis: printed mortality and best serum marker? ['Mortality 70%' and 'Best Serum marker : Carbohydrate deficient transferrin'. (Book p1026)]",
+          "questionIds": [
+            "MED-C66-004"
+          ]
+        },
+        {
+          "element": "p1026-e005",
+          "page": 1026,
+          "source": "In the progression diagram, alcohol consumption leads to alcoholic fatty liver after how long, and is that stage reversible? ['Alcohol Consumption —3–5 years→ Alcoholic fatty liver (Reversible)'. (Book p1026)]",
+          "questionIds": [
+            "MED-C66-005"
+          ]
+        },
+        {
+          "element": "p1026-e006",
+          "page": 1026,
+          "source": "From the fatty-liver branch point, judge: I Cirrhosis begins micronodular and progresses to macronodular. II In macronodular cirrhosis the nucleus is pushed to the periphery. III Cirrhosis carries risk of HCC. [Cirrhosis → micronodular → Progress → macronodular (Nucleus pushed to periphery); → Risk of HCC. (Book p1026)]",
+          "questionIds": [
+            "MED-C66-006"
+          ]
+        },
+        {
+          "element": "p1026-e007",
+          "page": 1026,
+          "source": "The other branch from alcoholic fatty liver is alcoholic hepatitis (high mortality). What cause is printed beneath it? ['Alcoholic hepatitis (High mortality) — Cause : Binge drinking'. (Book p1026)]",
+          "questionIds": [
+            "MED-C66-007"
+          ]
+        },
+        {
+          "element": "p1026-e008",
+          "page": 1026,
+          "source": "Alcohol metabolism — which of the following is NOT one of the three enzymes branched in the diagram? [Enzyme: Aldehyde dehydrogenase; Cyt P2E1; Catalase. (Book p1026)]",
+          "questionIds": [
+            "MED-C66-008"
+          ]
+        },
+        {
+          "element": "p1026-e009",
+          "page": 1026,
+          "source": "Fill up the pathway: Alcohol → ______ (toxic to liver) —aldehyde dehydrogenase→ metabolic products. ['Alcohol → Acetaldehyde —Aldehyde dehydrogenase→ metabolic products'; 'Acetaldehyde → Toxic to liver'. (Book p1026)]",
+          "questionIds": [
+            "MED-C66-009"
+          ]
+        },
+        {
+          "element": "p1026-e010",
+          "page": 1026,
+          "source": "Two men drink identically; one carries an aldehyde-dehydrogenase polymorphism making him a poor metaboliser. Per the diagram, what is his particular risk? [Polymorphism → Efficient metaboliser / Poor metaboliser: 'Prone to develop alcohol hepatitis'. (Book p1026)]",
+          "questionIds": [
+            "MED-C66-010"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1027,
+      "pdfPage": 63,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1027 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1027.",
+      "elements": [
+        {
+          "element": "p1027-e001",
+          "page": 1027,
+          "source": "Fill up: The adverse-effects mnemonic printed for acetaldehyde/alcohol injury is ______. ['mnemonic : HESST' — Hypoxia, Endoplasmic reticulum stress, Superoxide, ↓SAM/↑SAH, Toxic effect of acetaldehyde. (Book p1027)]",
+          "questionIds": [
+            "MED-C66-011"
+          ]
+        },
+        {
+          "element": "p1027-e002",
+          "page": 1027,
+          "source": "HESST — match — 1) Hypoxia 2) Endoplasmic reticulum stress 3) Superoxide … A) Mallory hyaline bodies B) Reactive oxygen species produced by Cyt P2E1 C) Mitochondrial injury in zone 3 (centrilobular hepatocyte) [Hypoxia: mitochondrial injury in Zone 3 (centrilobular); ER stress: Mallory hyaline bodies; Superoxide: ROS produced by Cyt P2E1. (Book p1027)]",
+          "questionIds": [
+            "MED-C66-012"
+          ]
+        },
+        {
+          "element": "p1027-e003",
+          "page": 1027,
+          "source": "'↓SAM / ↑SAH' in the HESST list is linked to which factor labelled the most important pathogenic factor, and which drug is given as its Rx? ['↓SAM/↑SAH : ↑ TNFα most important pathogenic factor' and 'Rx : Pentoxifylline'. (Book p1027)]",
+          "questionIds": [
+            "MED-C66-013"
+          ]
+        },
+        {
+          "element": "p1027-e004",
+          "page": 1027,
+          "source": "Fill up the chain printed for the toxic effect of acetaldehyde: ↑ NADH → ↓ ______ → ______ gut. ['Toxic effect of acetaldehyde : ↑ NADH → ↓ glutathione → leaky gut'. (Book p1027)]",
+          "questionIds": [
+            "MED-C66-014"
+          ]
+        },
+        {
+          "element": "p1027-e005",
+          "page": 1027,
+          "source": "Match — 1) Left image 2) Right image … A) Centrilobular necrosis, balloon degeneration, hepatocyte Mallory bodies B) Eosinophilic body inside hepatocyte: Mallory's hyaline bodies (endoplasmic reticulum stress) [Left caption: 'Eosinophilic body inside hepatocyte : Mallory's hyaline bodies (Endoplasmic reticulum stress)'. Right: 'Centrilobular necrosis, Balloon]",
+          "questionIds": [
+            "MED-C66-015"
+          ]
+        },
+        {
+          "element": "p1027-e006",
+          "page": 1027,
+          "source": "Under the right micrograph, fatty liver disease is defined by fat in what proportion of hepatocytes, and what does fat pushing the nucleus to the periphery denote? ['Fat in >5% Hepatocytes : Fatty liver disease. Fat pushes nucleus to periphery : macronodular.' (printed wording is macronodular). (Book p1027)]",
+          "questionIds": [
+            "MED-C66-016"
+          ]
+        },
+        {
+          "element": "p1027-e007",
+          "page": 1027,
+          "source": "Laboratory features of alcoholic hepatitis — what is the first bullet and what enzyme range is given? ['Neutrophilia : TC ↑' and 'Liver enzymes : 300 – 500 U/L'. (Book p1027)]",
+          "questionIds": [
+            "MED-C66-017"
+          ]
+        },
+        {
+          "element": "p1027-e008",
+          "page": 1027,
+          "source": "AST:ALT ratio — match — 1) > 2 : 1 2) > 3 : 1 … A) Highly suggestive of alcoholic hepatitis B) Likely alcoholic hepatitis ['>2:1 Likely Alcoholic hepatitis; >3:1 Highly suggestive of Alcoholic hepatitis'. (Book p1027)]",
+          "questionIds": [
+            "MED-C66-018"
+          ]
+        },
+        {
+          "element": "p1027-e009",
+          "page": 1027,
+          "source": "Judge the remaining lab bullets: I S. albumin is a significant marker (positive acute-phase reactant). II PT/INR is raised. III MCV is raised (macrocytosis). ['S. Albumin : Not significant (Negative acute phase reactant)'; 'PT/INR : ↑'; 'MCV ↑ : macrocytosis'. (Book p1027)]",
+          "questionIds": [
+            "MED-C66-019"
+          ]
+        },
+        {
+          "element": "p1027-e010",
+          "page": 1027,
+          "source": "Thiamine depletion in alcoholics is drawn as inhibiting (−) two reactions. Which pair? ['Thiamine depletion (−) (−) → Pyruvate ✗→ Acyl-CoA ; Transketolase Reaction' (printed Acyl-CoA; the physiological product is acetyl-CoA). (Book p1027)]",
+          "questionIds": [
+            "MED-C66-020"
+          ]
+        },
+        {
+          "element": "p1027-e011",
+          "page": 1027,
+          "source": "Clinical features listed on this page — which is NOT printed? [Clinical features: Jaundice; P/A Soft, Painful; Hepatomegaly. (Book p1027)]",
+          "questionIds": [
+            "MED-C66-021"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1028,
+      "pdfPage": 64,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1028 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1028.",
+      "elements": [
+        {
+          "element": "p1028-e001",
+          "page": 1028,
+          "source": "Histopathological features of alcoholic hepatitis: where is the fatty infiltration located? ['Centrilobular fatty infiltration (Zone III involvement)'. (Book p1028)]",
+          "questionIds": [
+            "MED-C66-022"
+          ]
+        },
+        {
+          "element": "p1028-e002",
+          "page": 1028,
+          "source": "Fill up the 'classical features' bullet: Ballooning degeneration / Alcoholic hyaline surrounding ______ infiltrate. ['Ballooning degeneration/Alcoholic hyaline surrounding polymorphonuclear infiltrate (Classical features)'. (Book p1028)]",
+          "questionIds": [
+            "MED-C66-023"
+          ]
+        },
+        {
+          "element": "p1028-e003",
+          "page": 1028,
+          "source": "The Note under histopathology says which viral hepatitis shows fatty liver-like changes / hepatic steatosis? ['Note : Hepatitis C : fatty liver-like changes / hepatic steatosis.' (Book p1028)]",
+          "questionIds": [
+            "MED-C66-024"
+          ]
+        },
+        {
+          "element": "p1028-e004",
+          "page": 1028,
+          "source": "What does the trichrome micrograph on p1028 illustrate, per its caption? [Caption: 'Alcoholic hepatitis : Nodules with fibrous septation'. (Book p1028)]",
+          "questionIds": [
+            "MED-C66-025"
+          ]
+        },
+        {
+          "element": "p1028-e005",
+          "page": 1028,
+          "source": "Fill up the complications chain: Alcoholic hepatitis → Fulminant hepatitis / Decompensated → Encephalopathy + Coagulopathy (Portal HTN) → ↑ ______ → Death. ['… → Encephalopathy + Coagulopathy → ↑ ICT → Death', with 'Portal HTN' bracketed beneath. (Book p1028)]",
+          "questionIds": [
+            "MED-C66-026"
+          ]
+        },
+        {
+          "element": "p1028-e006",
+          "page": 1028,
+          "source": "Discriminant factor (DF) — state the formula and poor-prognosis cut-off exactly as printed. ['Discriminant factor : 4.6 × (PT(PE) − PT(C)) + S. bilirubin — Poor prognosis : ≥ 32'. (Book p1028)]",
+          "questionIds": [
+            "MED-C66-027"
+          ]
+        },
+        {
+          "element": "p1028-e007",
+          "page": 1028,
+          "source": "Prognostic scores — match — 1) MELD 2) Glasgow 3) Discriminant factor … A) ≥ 32 B) ≥ 9 C) ≥ 18 [MELD ≥ 18; Glasgow ≥ 9; DF ≥ 32. (Book p1028)]",
+          "questionIds": [
+            "MED-C66-028"
+          ]
+        },
+        {
+          "element": "p1028-e008",
+          "page": 1028,
+          "source": "Treatment: what is the printed indication for steroid in alcoholic hepatitis, and the regimen? ['Indication to steroid : DF Score ≥ 32 → Start → 1 mg/kg × 7 days tapering over 3 weeks.' (Book p1028)]",
+          "questionIds": [
+            "MED-C66-029"
+          ]
+        },
+        {
+          "element": "p1028-e009",
+          "page": 1028,
+          "source": "Which of the following is NOT printed as 'unfit for steroid'? [Unfit for steroid: Sepsis; Renal failure; Ongoing GI disease. (Book p1028)]",
+          "questionIds": [
+            "MED-C66-030"
+          ]
+        },
+        {
+          "element": "p1028-e010",
+          "page": 1028,
+          "source": "A binge drinker with DF 40 develops sepsis. Steroids are unsuitable. What alternative does the flowchart give, with its mechanism and dose? [Unfit for steroid → Pentoxifylline: 'Inhibits TNF-α; 400 mg TDS × 4 weeks'. (Book p1028)]",
+          "questionIds": [
+            "MED-C66-031"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1029,
+      "pdfPage": 65,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1029 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1029.",
+      "elements": [
+        {
+          "element": "p1029-e001",
+          "page": 1029,
+          "source": "Miscellaneous note: what is printed as the most common cause of cirrhosis? ['m/c cause of cirrhosis : NASH'. (Book p1029)]",
+          "questionIds": [
+            "MED-C66-032"
+          ]
+        },
+        {
+          "element": "p1029-e002",
+          "page": 1029,
+          "source": "Causes of micronodular cirrhosis — which is NOT in the printed list? [Micronodular: Alcoholic hepatitis, Biliary cirrhosis, ICC, Cystic fibrosis, Budd Chiari syndrome, Hemochromatosis. Wilson's is the printed macronodula]",
+          "questionIds": [
+            "MED-C66-033"
+          ]
+        },
+        {
+          "element": "p1029-e003",
+          "page": 1029,
+          "source": "Which single cause is printed for macronodular cirrhosis? ['Causes of macronodular cirrhosis : Wilson's disease'. (Book p1029)]",
+          "questionIds": [
+            "MED-C66-034"
+          ]
+        },
+        {
+          "element": "p1029-e004",
+          "page": 1029,
+          "source": "Fill up the mnemonic for microvesicular steatosis: 'Pretty visits ______ with Alcohol and ______'. ['mnemonic : Pretty visits Jamaica with Alcohol and Acid.' (Book p1029)]",
+          "questionIds": [
+            "MED-C66-035"
+          ]
+        },
+        {
+          "element": "p1029-e005",
+          "page": 1029,
+          "source": "Decode the mnemonic letters — match — 1) P 2) R 3) T 4) V … A) Tetracycline B) Reye's syndrome C) Valproate D) Pregnancy [Microvesicular column: Pregnancy, Reye's syndrome, Tetracycline, Valproate, Jamaican vomiting sickness, Alcoholic liver disease, Acid lipase deficienc]",
+          "questionIds": [
+            "MED-C66-036"
+          ]
+        },
+        {
+          "element": "p1029-e006",
+          "page": 1029,
+          "source": "Which condition is listed under MACROvesicular (not microvesicular) steatosis? [Macrovesicular: HCV, NASH, Wilson's disease. (Book p1029)]",
+          "questionIds": [
+            "MED-C66-037"
+          ]
+        },
+        {
+          "element": "p1029-e007",
+          "page": 1029,
+          "source": "Judge: I Alcoholic liver disease is placed in the microvesicular column. II HCV and NASH are in the macrovesicular column. [Alcoholic liver disease is in the microvesicular list (the 'Alcohol' of the mnemonic); HCV, NASH, Wilson's are macrovesicular. (Book p1029)]",
+          "questionIds": [
+            "MED-C66-038"
+          ]
+        },
+        {
+          "element": "p1029-e008",
+          "page": 1029,
+          "source": "How is Reye's syndrome characterised in the bullet after the table? ['Reye's syndrome : Swollen mitochondria with reduced number.' (Book p1029)]",
+          "questionIds": [
+            "MED-C66-039"
+          ]
+        },
+        {
+          "element": "p1029-e009",
+          "page": 1029,
+          "source": "Fill up: 'Nutmeg liver : Chronic ______ condition.' ['Nutmeg liver : Chronic venous condition.' (Book p1029)]",
+          "questionIds": [
+            "MED-C66-040"
+          ]
+        },
+        {
+          "element": "p1029-e010",
+          "page": 1029,
+          "source": "Mallory–Denk bodies are defined as what, and located where? ['Mallory denk bodies : Endoplasmic reticulum stress (Eosinophilic inclusion bodies) In hepatocytes.' (Book p1029)]",
+          "questionIds": [
+            "MED-C66-041"
+          ]
+        },
+        {
+          "element": "p1029-e011",
+          "page": 1029,
+          "source": "Mallory–Denk bodies are 'seen in' a printed list. Which is NOT in that list? [Seen in: Wilson's, ICC, NASH, Cholestasis, Alcohol/Alpha-1 antitrypsin deficiency, PBC, HCC. 'Not seen in HBV / HCV.' (Book p1029)]",
+          "questionIds": [
+            "MED-C66-042"
+          ]
+        },
+        {
+          "element": "p1029-e012",
+          "page": 1029,
+          "source": "Judge: I Mallory–Denk bodies are seen in HCC. II They are seen in alpha-1 antitrypsin deficiency. III They are seen in HBV. [HCC and Alcohol/Alpha-1 antitrypsin deficiency are in the seen-in list; 'Not seen in HBV / HCV'. (Book p1029)]",
+          "questionIds": [
+            "MED-C66-043"
+          ]
+        }
+      ]
+    }
+  ]
+}

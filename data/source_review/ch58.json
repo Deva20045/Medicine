@@ -1,0 +1,428 @@
+{
+  "chapter": 58,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+  "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+  "pdfOffset": 964,
+  "pageRange": "993-996",
+  "contentSha256": "0cdb1bb0432ccff6db897ae111047bbf99599eac7ff97916923c6af321edd614",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch58 p993-996: auto-generated source checklist from existing 47 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 993,
+      "pdfPage": 29,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p993 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p993.",
+      "elements": [
+        {
+          "element": "p993-e001",
+          "page": 993,
+          "source": "What is the most common clinical outcome of acute hepatitis? [Under acute hepatitis outcomes, recovery is explicitly annotated with '(m/c)', followed by chronic hepatitis and rare fulminant failure. (Book p993)]",
+          "questionIds": [
+            "MED-C58-001"
+          ]
+        },
+        {
+          "element": "p993-e002",
+          "page": 993,
+          "source": "Match each demographic group with the most common viral cause of acute hepatitis — 1) Children 2) Adults … A) Hepatitis E virus (HEV) B) Hepatitis A virus (HAV) [Under viral causes of acute hepatitis, HAV is noted as '(m/c in children)' and HEV as '(m/c in adults)'. (Book p993)]",
+          "questionIds": [
+            "MED-C58-002"
+          ]
+        },
+        {
+          "element": "p993-e003",
+          "page": 993,
+          "source": "Which of the following toxins is NOT listed under acute hepatitis causes on this page? [The toxins listed are Rat poison (Yellow Phosphorus), Mushroom, and Alcohol; carbon tetrachloride is not among them. (Book p993)]",
+          "questionIds": [
+            "MED-C58-003"
+          ]
+        },
+        {
+          "element": "p993-e004",
+          "page": 993,
+          "source": "Which two pharmaceutical classes are highlighted under the drug causes of acute hepatitis on this page? [Under drug causes, the page lists Paracetamol and ATT (Anti-tubercular therapy). (Book p993)]",
+          "questionIds": [
+            "MED-C58-004"
+          ]
+        },
+        {
+          "element": "p993-e005",
+          "page": 993,
+          "source": "Match each hepatitis virus with its taxonomic family and physical property — 1) Hepatitis A virus (HAV) 2) Hepatitis E virus (HEV) … A) Calicivirus family (Hepeviridae) with 4 genotypes B) Picornaviridae family; single-stranded RNA virus that is heat sensitive (>85°C) [HAV belongs to Picornaviridae, is ssRNA and heat sensitive (>85°C); HEV belongs to the Calicivirus-like Hepeviridae family and has 4 genotypes. (Book ]",
+          "questionIds": [
+            "MED-C58-005"
+          ]
+        },
+        {
+          "element": "p993-e006",
+          "page": 993,
+          "source": "What are the average incubation periods of Hepatitis A virus (HAV) and Hepatitis E virus (HEV)? [In the comparison table, the incubation period is 30 days for HAV and 40 days for HEV. (Book p993)]",
+          "questionIds": [
+            "MED-C58-006"
+          ]
+        },
+        {
+          "element": "p993-e007",
+          "page": 993,
+          "source": "Match each virus with its primary mechanism of hepatocellular injury — 1) Hepatitis A virus 2) Hepatitis E virus … A) Immune-mediated damage B) Direct cytopathic effect [The table specifies the injury mechanism as 'Cytopathic effect' for HAV and 'Immune mediated' for HEV. (Book p993)]",
+          "questionIds": [
+            "MED-C58-007"
+          ]
+        },
+        {
+          "element": "p993-e008",
+          "page": 993,
+          "source": "Assess the two statements comparing HAV and HEV: I Cholestatic hepatitis with prominent pruritus is rare in HAV but marked (+++) in HEV. II Hepatitis A frequently progresses to chronic carrier status in adults. [Statement I is true because cholestatic hepatitis is rare in HAV and marked in HEV. Statement II is false because progression to chronicity is 'Not se]",
+          "questionIds": [
+            "MED-C58-008"
+          ]
+        },
+        {
+          "element": "p993-e009",
+          "page": 993,
+          "source": "A 10-year-old child presents with a 3-day prodrome of low-grade fever, nausea, and vomiting, followed by mild jaundice. Physical examination reveals tender hepatomegaly extending 1.5 cm below the costal margin and transient cutaneous lesions with joint pain. What is the most common extrahepatic feature of this infection? [In HAV, tender hepatomegaly (max 2 cm) is found, and rash/arthralgia is explicitly annotated as the most common '(m/c)' extrahepatic feature. (Book p9]",
+          "questionIds": [
+            "MED-C58-009"
+          ]
+        },
+        {
+          "element": "p993-e010",
+          "page": 993,
+          "source": "Match each viral hepatitis with its characteristic diagnostic serology — 1) Acute Hepatitis A 2) Acute Hepatitis E … A) Anti-HEV IgM positive, which can persist up to 4 months B) Anti-HAV IgM positive with mixed pattern serum bilirubin elevation [Acute HAV shows Anti-HAV IgM (+) with mixed bilirubin; acute HEV shows Anti-HEV IgM (+) that persists up to 4 months with conjugated bilirubin. (Book ]",
+          "questionIds": [
+            "MED-C58-010"
+          ]
+        },
+        {
+          "element": "p993-e011",
+          "page": 993,
+          "source": "Fill up: In acute hepatitis E, the serum bilirubin characteristically exhibits a predominantly ______ pattern accompanied by prominent pruritus. [Under lab investigations for HEV, serum bilirubin is specified as '(conjugated)' and accompanied by cholestatic pruritus. (Book p993)]",
+          "questionIds": [
+            "MED-C58-011"
+          ]
+        },
+        {
+          "element": "p993-e012",
+          "page": 993,
+          "source": "Which of the following non-viral conditions is NOT listed under 'Others' as a cause of acute hepatitis? [The 'Others' category lists Autoimmune hepatitis, Wilson's disease, AFLP, and Budd-Chiari syndrome; hemochromatosis is a cause of chronic liver diseas]",
+          "questionIds": [
+            "MED-C58-012"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 994,
+      "pdfPage": 30,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p994 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p994.",
+      "elements": [
+        {
+          "element": "p994-e001",
+          "page": 994,
+          "source": "What is the incidence of fulminant hepatic failure in acute Hepatitis A versus acute Hepatitis E in pregnancy? [Risk of fulminant failure is rare in HAV (1 in 2 lakhs), whereas in HEV it is 1–2% in general but reaches 20% in pregnancy. (Book p994)]",
+          "questionIds": [
+            "MED-C58-013"
+          ]
+        },
+        {
+          "element": "p994-e002",
+          "page": 994,
+          "source": "What are the typical recovery durations for acute Hepatitis A versus acute Hepatitis E infections? [The comparison table notes a recovery time of 8 weeks for HAV and 12 weeks for HEV. (Book p994)]",
+          "questionIds": [
+            "MED-C58-014"
+          ]
+        },
+        {
+          "element": "p994-e003",
+          "page": 994,
+          "source": "Match each hepatitis virus with its specific medical therapy — 1) Hepatitis A fluid and glucose repletion 2) Hepatitis E with long-standing cholestasis … A) Oral or systemic steroids B) 150 mL of 10% Dextrose [Conservative glucose repletion for HAV uses 150 mL 10% Dextrose, whereas long-standing cholestasis in HEV is treated with steroids. (Book p994)]",
+          "questionIds": [
+            "MED-C58-015"
+          ]
+        },
+        {
+          "element": "p994-e004",
+          "page": 994,
+          "source": "Fill up: Acute relapsing hepatitis occurring > 6–12 months after the initial infection is observed in ______ but is absent in Hepatitis E. [The table notes '+ (Relapse >6–12 months)' under HAV for acute relapsing hepatitis, while HEV has a dash. (Book p994)]",
+          "questionIds": [
+            "MED-C58-016"
+          ]
+        },
+        {
+          "element": "p994-e005",
+          "page": 994,
+          "source": "What is the recommended dosing schedule and pre-exposure timing for the HAVRIX Hepatitis A vaccine? [HAVRIX is given as 1 mL IM in 2 doses 6–12 months apart; pre-exposure prophylaxis is >= 2 weeks before travel, and post-exposure within 4 weeks. (Book]",
+          "questionIds": [
+            "MED-C58-017"
+          ]
+        },
+        {
+          "element": "p994-e006",
+          "page": 994,
+          "source": "Which three laboratory parameters constitute the Model for End-Stage Liver Disease (MELD) score noted on this page? [The MELD score components are explicitly listed as INR, Serum Bilirubin, and Serum Creatinine. (Book p994)]",
+          "questionIds": [
+            "MED-C58-018"
+          ]
+        },
+        {
+          "element": "p994-e007",
+          "page": 994,
+          "source": "A traveler returns from an endemic zone with acute viral hepatitis A. Serological plotting over the 20-week exposure window demonstrates stool virus shedding followed by jaundice. At what post-exposure time frame does fecal HAV shedding peak and drop, and which antibody provides lifelong immunity? [The graph shows fecal HAV peaking before week 4 and dropping by week 6; IgG Anti-HAV rises after weeks 8–12 conferring lifelong protection. (Book p994]",
+          "questionIds": [
+            "MED-C58-019"
+          ]
+        },
+        {
+          "element": "p994-e008",
+          "page": 994,
+          "source": "What is the clinical definition of Acute Liver Failure (ALF)? [ALF is defined as acute hepatitis plus encephalopathy (cerebral edema) and coagulopathy (INR >= 1.5) in the absence of pre-existing liver disease. (Bo]",
+          "questionIds": [
+            "MED-C58-020"
+          ]
+        },
+        {
+          "element": "p994-e009",
+          "page": 994,
+          "source": "Match each classification of acute liver failure with its onset interval from jaundice to encephalopathy — 1) Fulminant (Hyperacute) 2) Acute 3) Subacute … A) 7–21 days B) 21 days to 26 weeks C) < 7 days [Onset intervals are Fulminant (Hyperacute): < 7 days; Acute: 7–21 days; and Subacute: 21 days to 26 weeks. (Book p994)]",
+          "questionIds": [
+            "MED-C58-021"
+          ]
+        },
+        {
+          "element": "p994-e010",
+          "page": 994,
+          "source": "What is the most common cause of Acute Liver Failure in India? [Under viral causes of ALF, HEV (1–2%) is explicitly tagged as '(m/c in India)'. (Book p994)]",
+          "questionIds": [
+            "MED-C58-022"
+          ]
+        },
+        {
+          "element": "p994-e011",
+          "page": 994,
+          "source": "What is the risk of developing acute liver failure in patients with Hepatitis B and Hepatitis D virus coinfection? [The risk of ALF in HBV + HDV coinfection is listed as 5–20% (compared to 0.1–1% for isolated HBV). (Book p994)]",
+          "questionIds": [
+            "MED-C58-023"
+          ]
+        },
+        {
+          "element": "p994-e012",
+          "page": 994,
+          "source": "Assess the two statements: I Hepatitis E carries no commercial vaccine approved for routine clinical prevention. II Post-exposure prophylaxis for Hepatitis A using HAVRIX vaccine must be administered within 4 weeks of exposure. [Both statements are true: HEV has 'No vaccine' listed, and HAVRIX post-exposure prophylaxis is given 'within 4 wks'. (Book p994)]",
+          "questionIds": [
+            "MED-C58-024"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 995,
+      "pdfPage": 31,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p995 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p995.",
+      "elements": [
+        {
+          "element": "p995-e001",
+          "page": 995,
+          "source": "Match each etiology of drug-induced acute liver failure with its geographic epidemiology or mechanism — 1) Paracetamol 2) Rifampicin … A) Idiosyncratic dose-independent toxicity that can occur after a single dose B) Most common cause of acute liver failure in Europe [Paracetamol is the most common cause of ALF in Europe ('m/c in Europe'), while Rifampicin is an idiosyncratic reaction that can occur after a single d]",
+          "questionIds": [
+            "MED-C58-025"
+          ]
+        },
+        {
+          "element": "p995-e002",
+          "page": 995,
+          "source": "What are the maximum daily therapeutic dose and the acute toxic threshold dose for paracetamol (acetaminophen)? [The book specifies for Paracetamol: max dose 4 g/day and toxic dose > 7.5 g/day. (Book p995)]",
+          "questionIds": [
+            "MED-C58-026"
+          ]
+        },
+        {
+          "element": "p995-e003",
+          "page": 995,
+          "source": "Which of the following drugs is NOT listed as causing dose-independent (idiosyncratic) Acute Liver Failure? [Mushroom toxin is listed under dose-dependent causes along with paracetamol; carbamazepine, PTU, valproate, nitrofurantoin, phenytoin, INH, and single]",
+          "questionIds": [
+            "MED-C58-027"
+          ]
+        },
+        {
+          "element": "p995-e004",
+          "page": 995,
+          "source": "What is the primary pathophysiological driver of hepatic encephalopathy and seizures in acute liver failure? [In ALF, hepatic encephalopathy is due to '↑ ICT & Cerebral edema -> Seizures'. (Book p995)]",
+          "questionIds": [
+            "MED-C58-028"
+          ]
+        },
+        {
+          "element": "p995-e005",
+          "page": 995,
+          "source": "Assess the two clinical features of acute liver failure: I Coagulopathy is defined by an INR > 1.5, yet the clinical risk of spontaneous overt bleeding is rare. II Active alcohol consumption decreases overall mortality in acute liver failure. [Statement I is true because coagulopathy has INR > 1.5 but bleeding is rare. Statement II is false because alcohol causes '↑ mortality'. (Book p995)]",
+          "questionIds": [
+            "MED-C58-029"
+          ]
+        },
+        {
+          "element": "p995-e006",
+          "page": 995,
+          "source": "Fill up: In paracetamol hepatotoxicity, excessive metabolism by cytochrome ______ in Zone 3 hepatocytes generates the toxic metabolite NAPQI. [Paracetamol is converted to NAPQI by CYP2E1 in Zone 3 hepatocytes. (Book p995)]",
+          "questionIds": [
+            "MED-C58-030"
+          ]
+        },
+        {
+          "element": "p995-e007",
+          "page": 995,
+          "source": "Why does NAPQI cause hepatocellular necrosis in paracetamol poisoning? [Accumulated NAPQI is not metabolized because of depletion in hepatic glutathione stores, leading to hepatotoxicity. (Book p995)]",
+          "questionIds": [
+            "MED-C58-031"
+          ]
+        },
+        {
+          "element": "p995-e008",
+          "page": 995,
+          "source": "Match each clinical stage of paracetamol poisoning with its post-ingestion timeline — 1) Stage I 2) Stage II 3) Stage III 4) Stage IV … A) 72–96 hours B) < 24 hours C) > 96 hours D) 24–72 hours [Timeline: Stage I is <24 hr, Stage II is 24–72 hr, Stage III is 72–96 hr, and Stage IV is >96 hr. (Book p995)]",
+          "questionIds": [
+            "MED-C58-032"
+          ]
+        },
+        {
+          "element": "p995-e009",
+          "page": 995,
+          "source": "A 24-year-old man is brought to the emergency department 80 hours after ingesting a large handful of acetaminophen tablets. He is in Stage III toxicity. Which laboratory and clinical features characterise this critical stage? [Stage III (72–96 hrs, which determines survival) features encephalopathy, cerebral edema, coagulopathy, bilirubin > 4.5 mg/dL, ATN, hypoglycemia, hypo]",
+          "questionIds": [
+            "MED-C58-033"
+          ]
+        },
+        {
+          "element": "p995-e010",
+          "page": 995,
+          "source": "Which stage of paracetamol toxicity is explicitly identified as the stage that 'Determines survival'? [Stage III (72–96 hrs) is specifically annotated with '(Determines survival)'. (Book p995)]",
+          "questionIds": [
+            "MED-C58-034"
+          ]
+        },
+        {
+          "element": "p995-e011",
+          "page": 995,
+          "source": "Fill up: In Stage III paracetamol toxicity, acute renal failure characteristically arises from ______ complicated by sepsis. [The table lists 'ATN (Acute Tubular Necrosis) : sepsis + renal failure' in Stage III. (Book p995)]",
+          "questionIds": [
+            "MED-C58-035"
+          ]
+        },
+        {
+          "element": "p995-e012",
+          "page": 995,
+          "source": "What serum bilirubin cut-off is listed as a feature of Stage III paracetamol poisoning? [Stage III features explicitly include 'Bilirubin > 4.5 mg/dL'. (Book p995)]",
+          "questionIds": [
+            "MED-C58-036"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 996,
+      "pdfPage": 32,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p996 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p996.",
+      "elements": [
+        {
+          "element": "p996-e001",
+          "page": 996,
+          "source": "Which graphic assessment tool is used to evaluate the severity of acetaminophen intoxication and determine the need for antidote therapy? [The nomogram is titled 'Rumack Matthew Nomogram: Severity of acetaminophen intoxication'. (Book p996)]",
+          "questionIds": [
+            "MED-C58-037"
+          ]
+        },
+        {
+          "element": "p996-e002",
+          "page": 996,
+          "source": "Match each axis of the Rumack-Matthew nomogram with the physiological parameter it plots — 1) X-axis 2) Y-axis … A) Plasma acetaminophen concentration (µg/mL and µmol/L) B) Hours after ingestion (from 0 to 24 hours) [The X-axis plots hours after ingestion (0 to 24), and the Y-axis plots plasma acetaminophen concentration in µg/mL and µmol/L. (Book p996)]",
+          "questionIds": [
+            "MED-C58-038"
+          ]
+        },
+        {
+          "element": "p996-e003",
+          "page": 996,
+          "source": "According to King's College Hospital criteria for acetaminophen-induced acute liver failure, what arterial pH cut-off is an independent indicator of poor prognosis? [The first major criterion is 'Arterial pH < 7.25 more than 24 hours after drug ingestion'. (Book p996)]",
+          "questionIds": [
+            "MED-C58-039"
+          ]
+        },
+        {
+          "element": "p996-e004",
+          "page": 996,
+          "source": "In the absence of arterial pH < 7.25, which of the following is NOT one of the King's College triad criteria for poor prognosis in acetaminophen ALF? [The three concurrent King's College criteria are PT > 100 s (INR > 6.5), Creatinine > 3.4 mg/dL (300 µmol/L) or anuria, and Grade 3–4 encephalopathy; ]",
+          "questionIds": [
+            "MED-C58-040"
+          ]
+        },
+        {
+          "element": "p996-e005",
+          "page": 996,
+          "source": "A patient presents within 4 hours of ingesting a massive acute overdose of paracetamol. What is the initial decontamination procedure indicated before antidote administration? [For presentations < 4 hrs, the first treatment listed is 'Charcoal hemoperfusion'. (Book p996)]",
+          "questionIds": [
+            "MED-C58-041"
+          ]
+        },
+        {
+          "element": "p996-e006",
+          "page": 996,
+          "source": "What is the drug of choice (DOC) for paracetamol overdose? [N-acetyl Cysteine (NAC) is designated as 'DOC' for acetaminophen toxicity. (Book p996)]",
+          "questionIds": [
+            "MED-C58-042"
+          ]
+        },
+        {
+          "element": "p996-e007",
+          "page": 996,
+          "source": "What post-ingestion deadline is recommended for optimal hepatoprotective efficacy when administering N-acetylcysteine (NAC)? [The protocol states: 'Given within 15 hours'. (Book p996)]",
+          "questionIds": [
+            "MED-C58-043"
+          ]
+        },
+        {
+          "element": "p996-e008",
+          "page": 996,
+          "source": "Match each infusion phase of the standard IV N-acetylcysteine protocol with its exact dose and duration — 1) Phase 1 2) Phase 2 3) Phase 3 … A) 100 mg/kg in 1 L of 5% Dextrose over the next 16 hours B) 150 mg/kg in 200 mL of 5% Dextrose over 15–60 minutes C) 50 mg/kg in 500 mL of 5% Dextrose over 4 hours [The 3-stage infusion is: 1) 150 mg/kg in 200 mL 5% Dextrose over 15–60 min; 2) 50 mg/kg in 500 mL 5% Dextrose over 4 hr; 3) 100 mg/kg in 1 L 5% Dextro]",
+          "questionIds": [
+            "MED-C58-044"
+          ]
+        },
+        {
+          "element": "p996-e009",
+          "page": 996,
+          "source": "Which oral sulfur-containing amino acid is listed as an alternative therapeutic option to N-acetylcysteine in paracetamol toxicity? [Under treatment options, item c lists 'methionine'. (Book p996)]",
+          "questionIds": [
+            "MED-C58-045"
+          ]
+        },
+        {
+          "element": "p996-e010",
+          "page": 996,
+          "source": "Assess the two statements on N-acetylcysteine: I N-acetylcysteine is also used therapeutically in non-acetaminophen drug-induced hepatotoxicity. II King's College criteria for poor prognosis in acetaminophen cases require both pH < 7.25 AND Grade 3 encephalopathy to be present together. [Statement I is true because the note states NAC is used in other drug-induced hepatotoxicity. Statement II is false because pH < 7.25 is an independen]",
+          "questionIds": [
+            "MED-C58-046"
+          ]
+        },
+        {
+          "element": "p996-e011",
+          "page": 996,
+          "source": "A 30-year-old woman is admitted 30 hours after an intentional acetaminophen overdose. Her arterial blood gas shows pH 7.21, serum creatinine 1.8 mg/dL, and INR 3.2. She is drowsy but conversant (Grade 1 encephalopathy). How does she meet the King's College poor prognosis criteria? [Arterial pH < 7.25 after 24 hours alone fulfills the King's College poor prognosis criteria, irrespective of encephalopathy grade or creatinine. (Book]",
+          "questionIds": [
+            "MED-C58-047"
+          ]
+        }
+      ]
+    }
+  ]
+}

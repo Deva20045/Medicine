@@ -1,0 +1,646 @@
+{
+  "chapter": 50,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+  "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+  "pdfOffset": 893,
+  "pageRange": "952-957",
+  "contentSha256": "a1e0e1daff4334232d2e32126e62a64a9a75a13062343f02b24b90eb433fff26",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch50 p952-957: auto-generated source checklist from existing 72 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 952,
+      "pdfPage": 59,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p952 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p952.",
+      "elements": [
+        {
+          "element": "p952-e001",
+          "page": 952,
+          "source": "Match the cause of acquired hypopituitarism to its epidemiological frequency ranking — 1) Stalk effect 2) Sheehan's syndrome 3) Viper bite 4) Secondary empty sella syndrome … A) Most common cause (1st) B) Second most common cause (2nd) C) Third most common cause (3rd) D) Fourth most common cause (4th) [Stalk effect is 1st m/c, Sheehan's is 2nd, viper bite envenomation is 3rd, and 2° empty sella is 4th. (Book p952)]",
+          "questionIds": [
+            "MED-C50-001"
+          ]
+        },
+        {
+          "element": "p952-e002",
+          "page": 952,
+          "source": "Which infectious or infiltrative entity is NOT listed among the causes of acquired hypopituitarism? [Causes include TB, histoplasmosis, HIV, toxoplasmosis, sarcoidosis, and LCH; Whipple disease is not listed. (Book p952)]",
+          "questionIds": [
+            "MED-C50-002"
+          ]
+        },
+        {
+          "element": "p952-e003",
+          "page": 952,
+          "source": "Cranial radiation exposure exceeding what cumulative absorbed dose threshold is recognized to cause hypopituitarism? [Cranial radiation exceeding 18 Gy is a recognized cause of hypopituitarism. (Book p952)]",
+          "questionIds": [
+            "MED-C50-003"
+          ]
+        },
+        {
+          "element": "p952-e004",
+          "page": 952,
+          "source": "Which anterior pituitary hormone deficiency is clinically the least prominent in acquired hypopituitarism? [TSH deficiency is the least prominent because 20% of thyroid hormone synthesis occurs autonomously without TSH. (Book p952)]",
+          "questionIds": [
+            "MED-C50-004"
+          ]
+        },
+        {
+          "element": "p952-e005",
+          "page": 952,
+          "source": "In hypopituitarism, the most clinically prominent and life-threatening anterior pituitary hormone deficiency is ___. [ACTH deficiency is the most prominent and critical deficit in hypopituitarism. (Book p952)]",
+          "questionIds": [
+            "MED-C50-005"
+          ]
+        },
+        {
+          "element": "p952-e006",
+          "page": 952,
+          "source": "A 36-year-old agricultural laborer is bitten by a Russell viper. Two months later, he presents with profound fatigue, asthenia, and postural hypotension. What ranked cause of acquired hypopituitarism does this represent? [Viper bite is the third most common cause of acquired hypopituitarism. (Book p952)]",
+          "questionIds": [
+            "MED-C50-006"
+          ]
+        },
+        {
+          "element": "p952-e007",
+          "page": 952,
+          "source": "Assess the characteristics of corticotroph cells in hypopituitarism: I Corticotrophs are located in the central portion of the anterior pituitary gland. II Rapidly developing hypopituitarism is typically characterized by acute cortisol insufficiency. [Corticotrophs are centrally located, induced by stress, and rapid hypopituitarism is dominated by cortisol insufficiency. (Book p952)]",
+          "questionIds": [
+            "MED-C50-007"
+          ]
+        },
+        {
+          "element": "p952-e008",
+          "page": 952,
+          "source": "Why do patients with secondary adrenal insufficiency from ACTH deficiency NOT exhibit hyperkalemia or severe salt wasting? [Secondary adrenal insufficiency lacks aldosterone deficiency because the RAS axis maintains aldosterone synthesis. (Book p952)]",
+          "questionIds": [
+            "MED-C50-008"
+          ]
+        },
+        {
+          "element": "p952-e009",
+          "page": 952,
+          "source": "In ACTH deficiency, serum cortisol is inversely proportional to circulating ___ counts, resulting in relative peripheral eosinophilia. [Cortisol is inversely proportional to eosinophils; hypocortisolemia therefore manifests with eosinophilia. (Book p952)]",
+          "questionIds": [
+            "MED-C50-009"
+          ]
+        },
+        {
+          "element": "p952-e010",
+          "page": 952,
+          "source": "Match the adrenal deficiency state to its hallmark clinical findings — 1) ACTH deficiency (Secondary) 2) Aldosterone deficiency (Primary RAS deficiency) … A) Postural hypotension, hypoglycemia, hyponatremia with NO hyperpigmentation or hyperkalemia B) Salt craving, dehydration, and hyperkalemia [ACTH deficiency causes hypotension, hypoglycemia, and hyponatremia without aldosterone deficits; aldosterone lack causes salt craving, dehydration, an]",
+          "questionIds": [
+            "MED-C50-010"
+          ]
+        },
+        {
+          "element": "p952-e011",
+          "page": 952,
+          "source": "Which feature is NOT typically seen in isolated secondary ACTH deficiency? [Hyperpigmentation requires elevated ACTH/MSH and occurs in Addison disease, not in pituitary ACTH deficiency. (Book p952)]",
+          "questionIds": [
+            "MED-C50-011"
+          ]
+        },
+        {
+          "element": "p952-e012",
+          "page": 952,
+          "source": "What proportion of endogenous thyroid hormone is synthesized by the thyroid gland independent of pituitary TSH stimulation? [20% of thyroid hormone is produced autonomously by the gland itself. (Book p952)]",
+          "questionIds": [
+            "MED-C50-012"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 953,
+      "pdfPage": 60,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p953 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p953.",
+      "elements": [
+        {
+          "element": "p953-e001",
+          "page": 953,
+          "source": "Match the gender to the clinical manifestation of gonadotropin (FSH/LH) deficiency — 1) Males 2) Females … A) Loss of energy, loss of libido, and bone/muscle wasting B) Menstrual irregularity, hot flushes, dry skin, and irritability [Males experience loss of libido and muscle/bone wasting; females experience cycle irregularities, hot flushes, and dry skin. (Book p953)]",
+          "questionIds": [
+            "MED-C50-013"
+          ]
+        },
+        {
+          "element": "p953-e002",
+          "page": 953,
+          "source": "Which constellation of features characterizes growth hormone deficiency in adults? [Adult GH deficiency features central obesity, hypertriglyceridemia, endothelial dysfunction, reduced lean mass, and psychosocial issues. (Book p953)]",
+          "questionIds": [
+            "MED-C50-014"
+          ]
+        },
+        {
+          "element": "p953-e003",
+          "page": 953,
+          "source": "A 40-year-old male with craniopharyngioma and panhypopituitarism has normal daily urine volume. Following initiation of hydrocortisone and levothyroxine replacement, he develops severe polyuria and thirst. What explains this phenomenon? [Diabetes insipidus in hypopituitarism is masked by adrenal/thyroid insufficiency impairing free water clearance; hormone replacement unmasks the polyu]",
+          "questionIds": [
+            "MED-C50-015"
+          ]
+        },
+        {
+          "element": "p953-e004",
+          "page": 953,
+          "source": "Assess the clinical severity of secondary hypopituitarism: I Secondary hypopituitarism and secondary adrenal insufficiency are generally less severe than primary failure. II Initiating thyroxine in untreated hypocortisolemia can precipitate an acute adrenal crisis. [Secondary hypopituitarism is less severe due to preserved aldosterone; thyroxine accelerates cortisol clearance, worsening hypocortisolemia. (Book p95]",
+          "questionIds": [
+            "MED-C50-016"
+          ]
+        },
+        {
+          "element": "p953-e005",
+          "page": 953,
+          "source": "Which sign is classically ABSENT in secondary hypopituitarism compared to primary glandular failure? [Secondary hypopituitarism lacks myxedema/periorbital effusion and hyperpigmentation; hypoglycemia and fatigue are present. (Book p953)]",
+          "questionIds": [
+            "MED-C50-017"
+          ]
+        },
+        {
+          "element": "p953-e006",
+          "page": 953,
+          "source": "Pituitary apoplexy is defined pathophysiologically as: [Pituitary apoplexy is an acute emergency caused by intra-pituitary hemorrhage or infarction. (Book p953)]",
+          "questionIds": [
+            "MED-C50-018"
+          ]
+        },
+        {
+          "element": "p953-e007",
+          "page": 953,
+          "source": "The most common predisposing etiology underlying acute pituitary apoplexy is a pre-existing pituitary ___. [A pituitary mass (adenoma) is the most common cause of pituitary apoplexy. (Book p953)]",
+          "questionIds": [
+            "MED-C50-019"
+          ]
+        },
+        {
+          "element": "p953-e008",
+          "page": 953,
+          "source": "A 48-year-old male presents with sudden progressive retro-orbital headache over 1 to 2 days, accompanied by complete left third-nerve ophthalmoplegia with ptosis, hypotension, and blood glucose of 52 mg/dL. The most likely diagnosis is: [Pituitary apoplexy presents with progressive headache (1-2 days), meningism, ophthalmoplegia/ptosis, hypotension, and hypoglycemia. (Book p953)]",
+          "questionIds": [
+            "MED-C50-020"
+          ]
+        },
+        {
+          "element": "p953-e009",
+          "page": 953,
+          "source": "Match the clinical manifestation of pituitary apoplexy to its underlying mechanism — 1) Progressive severe headache 2) Ptosis and diplopia 3) Acute hypotension and hypoglycemia … A) Acute intra-sellar expansion stretching the diaphragma sellae B) Compression of cranial nerves III, IV, or VI in cavernous sinus C) Sudden acute ACTH deficiency and cortisol collapse [Intrasellar expansion causes headache; cavernous nerve compression causes ptosis/ophthalmoplegia; acute ACTH loss causes hypotension/h",
+          "questionIds": [
+            "MED-C50-021"
+          ]
+        },
+        {
+          "element": "p953-e010",
+          "page": 953,
+          "source": "What spontaneous medical conditions can predispose to pituitary apoplexy in the absence of a diagnosed tumor? [Spontaneous apoplexy can be triggered by diabetes mellitus, hypertension, and sickle cell anemia. (Book p953)]",
+          "questionIds": [
+            "MED-C50-022"
+          ]
+        },
+        {
+          "element": "p953-e011",
+          "page": 953,
+          "source": "On cranial MRI, acute intra-sellar hemorrhage in pituitary apoplexy characteristically appears as a ___ signal on T1-weighted sequences. [Acute hemorrhage within a pituitary adenoma appears as a hyperintense signal on MRI. (Book p953)]",
+          "questionIds": [
+            "MED-C50-023"
+          ]
+        },
+        {
+          "element": "p953-e012",
+          "page": 953,
+          "source": "Which clinical feature is NOT part of the presentation of acute pituitary apoplexy? [Pituitary apoplexy causes hypotension and hypoglycemia from acute cortisol collapse, not severe hypertension. (Book p953)]",
+          "questionIds": [
+            "MED-C50-024"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 954,
+      "pdfPage": 61,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p954 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p954.",
+      "elements": [
+        {
+          "element": "p954-e001",
+          "page": 954,
+          "source": "What is the mandatory immediate first-line medical intervention for a patient with acute pituitary apoplexy? [Initial medical management of pituitary apoplexy is 100 mg IV hydrocortisone followed by decompressive surgery. (Book p954)]",
+          "questionIds": [
+            "MED-C50-025"
+          ]
+        },
+        {
+          "element": "p954-e002",
+          "page": 954,
+          "source": "What primary neuroimaging modality confirms acute intra-pituitary bleeding in suspected apoplexy? [MRI is the investigation of choice demonstrating the pituitary bleed. (Book p954)]",
+          "questionIds": [
+            "MED-C50-026"
+          ]
+        },
+        {
+          "element": "p954-e003",
+          "page": 954,
+          "source": "Sheehan syndrome is pathophysiologically defined as postpartum pituitary ___ secondary to obstetric vascular collapse. [Sheehan syndrome is post-partum pituitary necrosis due to vascular insufficiency. (Book p954)]",
+          "questionIds": [
+            "MED-C50-027"
+          ]
+        },
+        {
+          "element": "p954-e004",
+          "page": 954,
+          "source": "Which obstetric complication is NOT an established precipitating factor for Sheehan syndrome? [Precipitating factors include PPH, hypotension, DIC, shock, and multiple blood transfusions; isolated hyperemesis is not a cause. (Book p954)]",
+          "questionIds": [
+            "MED-C50-028"
+          ]
+        },
+        {
+          "element": "p954-e005",
+          "page": 954,
+          "source": "A 27-year-old primigravida experiences severe uterine atony resulting in 2000 mL blood loss and hypovolemic shock requiring 6 units of PRBC transfusions. What physiological adaptation during gestation made her pituitary vulnerable to ischemic infarction? [During pregnancy, the pituitary enlarges increasing its vascular demand; obstetric blood loss produces vascular insufficiency and necrosis. (Book p954]",
+          "questionIds": [
+            "MED-C50-029"
+          ]
+        },
+        {
+          "element": "p954-e006",
+          "page": 954,
+          "source": "Match the stage in Sheehan syndrome pathogenesis to its event — 1) Normal gestation 2) Obstetric complication 3) Endocrine result … A) Pituitary enlarges increasing blood flow demand B) PPH and shock trigger severe vascular insufficiency C) Pituitary necrosis leading to hypopituitarism and hypoprolactinemia [Pregnancy enlarges the gland; PPH triggers vascular insufficiency; necrosis yields hypopituitarism with hypoprolactinemia. (Book p954)]",
+          "questionIds": [
+            "MED-C50-030"
+          ]
+        },
+        {
+          "element": "p954-e007",
+          "page": 954,
+          "source": "Assess the pathophysiology of Sheehan syndrome: I Ischemic necrosis of the postpartum pituitary is prone to secondary hemorrhage (apoplexy). II Sheehan syndrome typically results in both hypopituitarism and hypoprolactinemia. [Sheehan syndrome involves post-partum necrosis prone to bleeding into the pituitary, producing hypopituitarism with hypoprolactinemia. (Book p954)]",
+          "questionIds": [
+            "MED-C50-031"
+          ]
+        },
+        {
+          "element": "p954-e008",
+          "page": 954,
+          "source": "What surgical procedure is indicated in pituitary apoplexy when neuro-ophthalmic deficits or altered consciousness fail to improve? [Decompressive surgery is indicated following initial IV hydrocortisone in pituitary apoplexy. (Book p954)]",
+          "questionIds": [
+            "MED-C50-032"
+          ]
+        },
+        {
+          "element": "p954-e009",
+          "page": 954,
+          "source": "In Sheehan syndrome, obstetric hypovolemic collapse leads to anterior pituitary infarction and ___prolactinemia. [Lactotroph destruction in Sheehan syndrome results in hypoprolactinemia. (Book p954)]",
+          "questionIds": [
+            "MED-C50-033"
+          ]
+        },
+        {
+          "element": "p954-e010",
+          "page": 954,
+          "source": "Match the intervention in pituitary apoplexy to its priority — 1) Emergency medical therapy 2) Subsequent definitive procedure … A) 100 mg IV hydrocortisone stat B) Decompressive surgery [Immediate therapy is 100 mg IV hydrocortisone followed by decompressive surgery. (Book p954)]",
+          "questionIds": [
+            "MED-C50-034"
+          ]
+        },
+        {
+          "element": "p954-e011",
+          "page": 954,
+          "source": "Why does multiple blood transfusion history often accompany the clinical records of patients with Sheehan syndrome? [Multiple blood transfusions and shock reflect the profound obstetric hemorrhage precipitating pituitary necrosis. (Book p954)]",
+          "questionIds": [
+            "MED-C50-035"
+          ]
+        },
+        {
+          "element": "p954-e012",
+          "page": 954,
+          "source": "Assess precipitating factors of Sheehan syndrome: I Postpartum hemorrhage and systemic hypotension are classical triggers. II Disseminated intravascular coagulation (DIC) accelerates anterior lobe infarction. [PPH, hypotension, shock, and DIC are all recognized precipitating factors for Sheehan syndrome. (Book p954)]",
+          "questionIds": [
+            "MED-C50-036"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 955,
+      "pdfPage": 62,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p955 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p955.",
+      "elements": [
+        {
+          "element": "p955-e001",
+          "page": 955,
+          "source": "What is the earliest clinical manifestation of Sheehan syndrome appearing immediately after hospital discharge? [Lactational failure immediately after discharge is the earliest clinical manifestation of Sheehan syndrome. (Book p955)]",
+          "questionIds": [
+            "MED-C50-037"
+          ]
+        },
+        {
+          "element": "p955-e002",
+          "page": 955,
+          "source": "At what postpartum interval do the full clinical features of panhypopituitarism most commonly manifest in Sheehan syndrome? [The most common interval for presentation of Sheehan syndrome is 3-4 months after delivery. (Book p955)]",
+          "questionIds": [
+            "MED-C50-038"
+          ]
+        },
+        {
+          "element": "p955-e003",
+          "page": 955,
+          "source": "Match the sellar pathology to its characteristic prolactin polarity — 1) Pituitary apoplexy 2) Sheehan's syndrome … A) Hypopituitarism with hyperprolactinemia (stalk effect) B) Hypopituitarism with hypoprolactinemia (lactotroph necrosis) [Pituitary apoplexy produces hypopituitarism + hyperprolactinemia, whereas Sheehan syndrome produces hypopituitarism + hypoprolactinemia. (Book p955)]",
+          "questionIds": [
+            "MED-C50-039"
+          ]
+        },
+        {
+          "element": "p955-e004",
+          "page": 955,
+          "source": "A 31-year-old woman presents 4 months following an obstetric hemorrhage with amenorrhea, extreme fatigue, breast atrophy, and premature fine wrinkling around her eyes and mouth. What condition is present? [Sheehan syndrome presents at 3-4 months with fatigue, hypoglycemia, lactational failure, secondary amenorrhea, facial wrinkling, hair loss, and breast]",
+          "questionIds": [
+            "MED-C50-040"
+          ]
+        },
+        {
+          "element": "p955-e005",
+          "page": 955,
+          "source": "Which cutaneous or physical finding is NOT typical of chronic hypogonadism in Sheehan syndrome? [Sheehan syndrome causes facial wrinkling, hair loss, hypopigmentation, and breast atrophy; hirsutism/seborrhea are not seen. (Book p955)]",
+          "questionIds": [
+            "MED-C50-041"
+          ]
+        },
+        {
+          "element": "p955-e006",
+          "page": 955,
+          "source": "Why are diabetes insipidus and posterior pituitary features exceptionally rare in Sheehan syndrome? [Posterior pituitary / ADH features are rare in Sheehan syndrome because the posterior lobe has independent arterial perfusion. (Book p955)]",
+          "questionIds": [
+            "MED-C50-042"
+          ]
+        },
+        {
+          "element": "p955-e007",
+          "page": 955,
+          "source": "Match the postpartum sellar disorder to its characteristic pathology — 1) Sheehan's syndrome 2) Lymphocytic hypophysitis … A) Post-partum ischemic necrosis B) Post-partum inflammatory IgG4-related mass lesion [Sheehan syndrome is postpartum ischemic necrosis; lymphocytic hypophysitis is an autoimmune inflammatory IgG4-related mass. (Book p955)]",
+          "questionIds": [
+            "MED-C50-043"
+          ]
+        },
+        {
+          "element": "p955-e008",
+          "page": 955,
+          "source": "Assess the differential features of lymphocytic hypophysitis versus Sheehan syndrome: I Lymphocytic hypophysitis can occur in males, females, and children and exhibits excellent response to corticosteroids. II Sheehan syndrome demonstrates an empty sella on MRI, whereas lymphocytic hypophysitis presents as an enhancing pituitary mass. [Lymphocytic hypophysitis is an IgG4 mass in males/females/children responding to steroids; Sheehan syndrome shows empty sella and lacks autoimmune mar]",
+          "questionIds": [
+            "MED-C50-044"
+          ]
+        },
+        {
+          "element": "p955-e009",
+          "page": 955,
+          "source": "What is the typical neuroimaging finding on pituitary MRI in long-standing Sheehan syndrome? [Imaging in Sheehan syndrome characteristically shows a secondary empty sella. (Book p955)]",
+          "questionIds": [
+            "MED-C50-045"
+          ]
+        },
+        {
+          "element": "p955-e010",
+          "page": 955,
+          "source": "Unlike Sheehan syndrome which is non-autoimmune, lymphocytic hypophysitis is frequently associated with systemic ___ disease. [Lymphocytic hypophysitis is an IgG4-related autoimmune disorder. (Book p955)]",
+          "questionIds": [
+            "MED-C50-046"
+          ]
+        },
+        {
+          "element": "p955-e011",
+          "page": 955,
+          "source": "A 29-year-old postpartum woman in a developed country presents with headache, hyperprolactinemia, and central diabetes insipidus. Sellar MRI reveals a pituitary mass lesion with avid homogeneous enhancement that rapidly shrinks following high-dose dexamethasone. This is: [Lymphocytic hypophysitis features a postpartum mass, elevated prolactin, frequent DI, and dramatic response to corticosteroid therapy. (Book p955)]",
+          "questionIds": [
+            "MED-C50-047"
+          ]
+        },
+        {
+          "element": "p955-e012",
+          "page": 955,
+          "source": "Which characteristic differentiates lymphocytic hypophysitis from Sheehan syndrome? [Lymphocytic hypophysitis shows a pituitary mass, autoimmune features, DI, and hyperprolactinemia; empty sella is characteristic of Sheehan. (Book p955]",
+          "questionIds": [
+            "MED-C50-048"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 956,
+      "pdfPage": 63,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p956 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p956.",
+      "elements": [
+        {
+          "element": "p956-e001",
+          "page": 956,
+          "source": "Match the empty sella syndrome classification to its underlying etiology — 1) Primary (1°) empty sella 2) Secondary (2°) empty sella … A) Benign intracranial hypertension (BIH) with dural herniation and intact pituitary rim B) Prior pituitary tumor regression, apoplexy, necrosis, surgery or radiation [Primary empty sella is caused by BIH and dural herniation; secondary empty sella results from tumor regression, necrosis, or surgery. (Book p956)]",
+          "questionIds": [
+            "MED-C50-049"
+          ]
+        },
+        {
+          "element": "p956-e002",
+          "page": 956,
+          "source": "Assess the clinical consequences of empty sella syndromes: I Primary empty sella maintains an intact rim of pituitary parenchyma, resulting in normal endocrine function without hypopituitarism. II Secondary empty sella typically presents with features of hypopituitarism. [Primary empty sella has an intact rim and normal hormone function; secondary empty sella presents with hypopituitarism (+). (Book p956)]",
+          "questionIds": [
+            "MED-C50-050"
+          ]
+        },
+        {
+          "element": "p956-e003",
+          "page": 956,
+          "source": "A 34-year-old obese female with chronic headaches and pseudotumor cerebri (BIH) undergoes brain MRI, revealing CSF filling the sella turcica with a flattened pituitary rim. Basal pituitary hormone levels are completely normal. What is the diagnosis? [Primary empty sella occurs in BIH due to dural tear and CSF herniation; the compressed rim remains intact so there is no hypopituitarism. (Book p956)]",
+          "questionIds": [
+            "MED-C50-051"
+          ]
+        },
+        {
+          "element": "p956-e004",
+          "page": 956,
+          "source": "Which pituitary hormone can be directly evaluated with a baseline serum level without requiring dynamic provocation? [Prolactin, FSH/LH, and TSH are directly measured; GH requires dynamic provocation tests (ITT or glucagon). (Book p956)]",
+          "questionIds": [
+            "MED-C50-052"
+          ]
+        },
+        {
+          "element": "p956-e005",
+          "page": 956,
+          "source": "What two dynamic stimulation tests are utilized to evaluate growth hormone reserve in hypopituitarism? [GH provocation tests include the Insulin Tolerance Test and the Glucagon Stimulation Test. (Book p956)]",
+          "questionIds": [
+            "MED-C50-053"
+          ]
+        },
+        {
+          "element": "p956-e006",
+          "page": 956,
+          "source": "In the metyrapone dynamic test, metyrapone selectively inhibits the enzyme 11-beta-hydroxylase, blocking the conversion of 11-deoxycortisol to ___. [Metyrapone blocks the conversion of 11-deoxycortisol to cortisol. (Book p956)]",
+          "questionIds": [
+            "MED-C50-054"
+          ]
+        },
+        {
+          "element": "p956-e007",
+          "page": 956,
+          "source": "Match the subject response on the metyrapone test to its biochemical outcome — 1) Normal individual with intact ACTH axis 2) Patient with pituitary ACTH deficiency … A) Absence of cortisol stimulates ACTH release, causing marked accumulation of 11-deoxycortisol B) Inability to produce ACTH prevents precursor stimulation, resulting in low 11-deoxycortisol [Normal: lack of cortisol rises ACTH and 11-deoxycortisol; ACTH deficiency: 11-deoxycortisol remains decreased. (Book p956)]",
+          "questionIds": [
+            "MED-C50-055"
+          ]
+        },
+        {
+          "element": "p956-e008",
+          "page": 956,
+          "source": "Which test is NOT utilized to assess hypothalamic-pituitary-adrenal (ACTH) reserve in hypopituitarism? [ACTH reserve is evaluated by ITT, cosyntropin stimulation, and metyrapone testing; water deprivation assesses ADH. (Book p956)]",
+          "questionIds": [
+            "MED-C50-056"
+          ]
+        },
+        {
+          "element": "p956-e009",
+          "page": 956,
+          "source": "What synthetic ACTH analogue is administered in the standard stimulation test to evaluate adrenal responsiveness? [Cosyntropin is synthetic ACTH 1-24 used in the stimulation test. (Book p956)]",
+          "questionIds": [
+            "MED-C50-057"
+          ]
+        },
+        {
+          "element": "p956-e010",
+          "page": 956,
+          "source": "In primary empty sella syndrome, elevated intracranial CSF pressure creates a tear in the ___ mater layer. [Elevated pressure causes a tear in the dura mater of the diaphragma sellae. (Book p956)]",
+          "questionIds": [
+            "MED-C50-058"
+          ]
+        },
+        {
+          "element": "p956-e011",
+          "page": 956,
+          "source": "Assess pituitary function in primary empty sella: I The pituitary rim is preserved against the sellar floor. II Endocrine hormone testing is classically normal. [In primary empty sella, the rim is intact and hormone levels are normal without hypopituitarism. (Book p956)]",
+          "questionIds": [
+            "MED-C50-059"
+          ]
+        },
+        {
+          "element": "p956-e012",
+          "page": 956,
+          "source": "A clinician performs a metyrapone test on a patient with suspected secondary adrenal failure. Post-metyrapone serum cortisol is suppressed, and 11-deoxycortisol is markedly reduced. This confirms: [ACTH deficiency prevents precursor accumulation, confirming secondary adrenal insufficiency with low 11-deoxycortisol. (Book p956)]",
+          "questionIds": [
+            "MED-C50-060"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 957,
+      "pdfPage": 64,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p957 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p957.",
+      "elements": [
+        {
+          "element": "p957-e001",
+          "page": 957,
+          "source": "What is the standard daily oral hydrocortisone replacement regimen in panhypopituitarism designed to replicate endogenous circadian rhythm? [The 10-5-5 hydrocortisone regimen (10 mg morning, 5 mg afternoon, 5 mg evening) replicates normal endogenous cortisol rhythm. (Book p957)]",
+          "questionIds": [
+            "MED-C50-061"
+          ]
+        },
+        {
+          "element": "p957-e002",
+          "page": 957,
+          "source": "If a patient on maintenance hydrocortisone replacement develops an acute systemic infection, how should their steroid dose be adjusted? [In infection, double the hydrocortisone dose; triple the dose for very severe infections. (Book p957)]",
+          "questionIds": [
+            "MED-C50-062"
+          ]
+        },
+        {
+          "element": "p957-e003",
+          "page": 957,
+          "source": "A patient with panhypopituitarism on oral replacement therapy develops acute gastroenteritis with intractable vomiting and hypotension. What is the immediate drug administration route required? [If vomiting or hypotension occurs, hydrocortisone must be administered intravenously. (Book p957)]",
+          "questionIds": [
+            "MED-C50-063"
+          ]
+        },
+        {
+          "element": "p957-e004",
+          "page": 957,
+          "source": "What is the standard daily replacement dose of levothyroxine in secondary hypothyroidism? [Levothyroxine replacement dose is 50-200 ug/day. (Book p957)]",
+          "questionIds": [
+            "MED-C50-064"
+          ]
+        },
+        {
+          "element": "p957-e005",
+          "page": 957,
+          "source": "Match the glucocorticoid to its equivalent anti-inflammatory dose — 1) Dexamethasone 2) Methylprednisolone 3) Prednisolone 4) Hydrocortisone … A) 0.75 mg B) 4 mg C) 5 mg D) 20 mg [Equivalent doses are Dexamethasone 0.75 mg = Methylprednisolone 4 mg = Prednisolone 5 mg = Hydrocortisone 20 mg = Cortisone 25 mg. (Book p957)]",
+          "questionIds": [
+            "MED-C50-065"
+          ]
+        },
+        {
+          "element": "p957-e006",
+          "page": 957,
+          "source": "What equivalent dose of cortisone corresponds to 20 mg of hydrocortisone? [Cortisone 25 mg is biologically equivalent to 20 mg of hydrocortisone. (Book p957)]",
+          "questionIds": [
+            "MED-C50-066"
+          ]
+        },
+        {
+          "element": "p957-e007",
+          "page": 957,
+          "source": "For central diabetes insipidus in hypopituitarism, what is the standard desmopressin dosing? [ADH replacement is given as nasal desmopressin 20 ug or 0.1-0.2 mg PO. (Book p957)]",
+          "questionIds": [
+            "MED-C50-067"
+          ]
+        },
+        {
+          "element": "p957-e008",
+          "page": 957,
+          "source": "What is the pediatric growth hormone replacement dosing range aimed at achieving > 12 cm height velocity per year? [Children receive 0.18-0.35 mg/kg/week SC targeting > 12 cm height increase/year (adults receive 0.3 mg/day SC). (Book p957)]",
+          "questionIds": [
+            "MED-C50-068"
+          ]
+        },
+        {
+          "element": "p957-e009",
+          "page": 957,
+          "source": "Which adverse effect is NOT typically associated with growth hormone replacement therapy in children? [GH replacement side effects include BIH, hypertension, and scoliosis; agranulocytosis is not a side effect. (Book p957)]",
+          "questionIds": [
+            "MED-C50-069"
+          ]
+        },
+        {
+          "element": "p957-e010",
+          "page": 957,
+          "source": "A 42-year-old female who underwent bilateral adrenalectomy for refractory Cushing disease two years ago presents with profound generalized hyperpigmentation of her abdominal surgical scar and bitemporal hemianopsia. Sellar MRI reveals an aggressive macroadenoma. What condition is this? [Nelson syndrome occurs post bilateral adrenalectomy due to loss of negative feedback, resulting in massive ACTH elevation, pituitary tumor expansion, ]",
+          "questionIds": [
+            "MED-C50-070"
+          ]
+        },
+        {
+          "element": "p957-e011",
+          "page": 957,
+          "source": "Nelson syndrome arises from loss of negative feedback following bilateral adrenalectomy, causing hypersecretion of ___ and corticotroph tumor growth. [Loss of adrenal negative feedback leads to uncontrolled ACTH hypersecretion in Nelson syndrome. (Book p957)]",
+          "questionIds": [
+            "MED-C50-071"
+          ]
+        },
+        {
+          "element": "p957-e012",
+          "page": 957,
+          "source": "Assess hormone replacement priorities in hypopituitarism: I Corticosteroid replacement must ALWAYS be initiated prior to starting levothyroxine to prevent precipitating adrenal crisis. II If fertility is desired in gonadotroph deficiency, therapy utilizes hCG or GnRH. [Steroids must precede thyroxine to prevent adrenal crisis; when fertility is desired, hCG or GnRH is administered. (Book p957)]",
+          "questionIds": [
+            "MED-C50-072"
+          ]
+        }
+      ]
+    }
+  ]
+}

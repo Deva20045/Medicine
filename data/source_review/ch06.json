@@ -1,0 +1,1158 @@
+{
+  "chapter": 6,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part1_pages_705-759.pdf",
+  "pdfSha256": "e2dfab80e25cd81302885cda7e07806117d24e15b03d73f2f6b00952ca2fdeea",
+  "pdfOffset": 692,
+  "pageRange": "734-739",
+  "contentSha256": "75f605e4b7eaba73c180bab6f2b276e80a01569e77b873dab0de318f8e66e977",
+  "method": "All six printed pages read from the supplied Part 1 PDF at 3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry and caption. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "p735: creatinine is printed as '113 Kda molecule' where standard molecular weight is 113 Da (not kDa). Value is taught as printed and flagged as a unit error; cystatin C correctly prints as 13 KDa on p737.",
+    "p736: the dependent-on list prints 'Race (↓ in African Americans)' and 'Sex (↓ in males)' – the downward arrows are the printed wording taught verbatim, even though greater muscle mass typically makes creatinine higher in these groups. The page also prints '↓ Protein supplementation → ↓ muscle mass → ↓ S.Cr' which is taught as printed.",
+    "p736 graph: plasma creatinine axis is labelled 'Plasma creatinine (mg/dL)' and GFR axis 'GFR (mL/min)' with a marked point at S.Cr 2 and GFR 60; the worked examples '5→20 insignificant (already ESRD)' and '1.7→2.8: 50→30' are taught as printed.",
+    "p738: RPF is printed as '700 ml' without '/min' in the FF denominator; taught as printed (standard RPF ~600-700 ml/min). The autoregulation graph x-axis 'Mean arterial blood pressure (mm Hg)' 0-240 and y-axis 'Flow rate (L/min)' 0-1.5 are taught via explicit axis questions.",
+    "p739: the arteriolar table prints 'unfavourable' for increased afferent and decreased efferent rows, and 'Favourable for kidney' for decreased afferent; increased efferent has no favourability label – taught as printed. The NSAID chain includes 'maintain GFR ← ↓ GFR & ↓ RBF' with a left-pointing arrow, taught as printed."
+  ],
+  "pages": [
+    {
+      "page": 734,
+      "pdfPage": 42,
+      "traversal": "Read top-to-bottom: page header 734 Nephrology, Active space, RENAL PHYSIOLOGY title, Glomerular Filtration Rate (GFR) section with timestamp 00:00:51, Definition line, Calculation lines in order (GFR = Net ultrafiltration pressure x UF coefficient, then Net Hydrostatic - Net Oncotic, then expanded with Bowman's OP, then numeric substitution 60-18 and 32-0 x12.5, then 10x12.5, then 125), then central diagram top-to-bottom left-to-right (Afferent arteriole label, Glomerular hydrostatic pressure 60 mm Hg with down arrow, Glomerular colloid osmotic pressure 32 mm Hg with down arrow, Efferent arteriole label, Bowman's capsule pressure 18 mm Hg with up arrow, Bowman's capsule outline), then lower equation boxes left-to-right (Net filtration pressure 10, Glomerular hydrostatic 60, Bowman's capsule 18, Glomerular oncotic 32 with = and - symbols), then Normal GFR line, Use line, Eg GFR <15 G5/ESRD uremic phase dialysis required. Footer excluded.",
+      "elements": [
+        {
+          "element": "p734-e001",
+          "page": 734,
+          "source": "Glomerular filtration rate is defined as the amount of urine filtered by: [Definition: amount of urine filtered by all the nephrons in both kidneys in one minute. (Book p734)]",
+          "questionIds": [
+            "MED-C6-001"
+          ]
+        },
+        {
+          "element": "p734-e002",
+          "page": 734,
+          "source": "Fill up: GFR = net ultrafiltration pressure × the ultrafiltration (UF) ______. [GFR = net ultrafiltration pressure × ultrafiltration (UF) coefficient. (Book p734)]",
+          "questionIds": [
+            "MED-C6-002"
+          ]
+        },
+        {
+          "element": "p734-e003",
+          "page": 734,
+          "source": "Match each Starling pressure of the glomerulus with its book value — 1) Glomerular hydrostatic pressure 2) Bowman's capsule pressure 3) Glomerular colloid osmotic pressure … A) 32 mm Hg B) 60 mm Hg C) 18 mm Hg [Glomerular hydrostatic 60 mm Hg; Bowman's capsule 18 mm Hg; glomerular colloid osmotic 32 mm Hg. (Book p734)]",
+          "questionIds": [
+            "MED-C6-003"
+          ]
+        },
+        {
+          "element": "p734-e004",
+          "page": 734,
+          "source": "The net filtration pressure worked out in the book's boxes is: [Net filtration pressure (10 mm Hg) = glomerular hydrostatic (60) − Bowman's capsule (18) − glomerular oncotic (32). (Boo]",
+          "questionIds": [
+            "MED-C6-004"
+          ]
+        },
+        {
+          "element": "p734-e005",
+          "page": 734,
+          "source": "Using [(60 − 18) − (32 − 0)] × 12.5 ml/min/mmHg, the book's calculated GFR is: [= 10 × 12.5 ml/min = 125 ml/min. (Book p734)]",
+          "questionIds": [
+            "MED-C6-005"
+          ]
+        },
+        {
+          "element": "p734-e006",
+          "page": 734,
+          "source": "Fill up: In the expansion of the oncotic term, the Bowman's space oncotic pressure is taken as ______. [(Glomerular capillary OP − Bowman's space OP) uses Bowman's space OP = 0. (Book p734)]",
+          "questionIds": [
+            "MED-C6-006"
+          ]
+        },
+        {
+          "element": "p734-e007",
+          "page": 734,
+          "source": "Which of the following statements about the GFR calculation is TRUE? [GFR = [net hydrostatic pressure (H.P) − net oncotic pressure (O.P)] × UF coefficient. (Book p734)]",
+          "questionIds": [
+            "MED-C6-007"
+          ]
+        },
+        {
+          "element": "p734-e008",
+          "page": 734,
+          "source": "Fill up: In the glomerular capillary diagram on this page, the vessel entering the capillary tuft on the left is labelled the ______ arteriole. [The diagram labels the left inflow vessel as Afferent arteriole and the right outflow as Efferent arteriole, with the tw]",
+          "questionIds": [
+            "MED-C6-008"
+          ]
+        },
+        {
+          "element": "p734-e009",
+          "page": 734,
+          "source": "Fill up: In the same diagram, the vessel leaving the glomerular capillary on the right is labelled the ______ arteriole. [The outflow vessel is labelled Efferent arteriole; the purple ovals represent the arteriolar smooth muscle. (Book p734)]",
+          "questionIds": [
+            "MED-C6-009"
+          ]
+        },
+        {
+          "element": "p734-e010",
+          "page": 734,
+          "source": "The ultrafiltration (UF) coefficient used in the book's worked GFR calculation is: [GFR = [(60 − 18) − (32 − 0)] × 12.5 ml/min/mmHg; the 10 mmHg net pressure is multiplied by this coefficient, not by 1.25]",
+          "questionIds": [
+            "MED-C6-010"
+          ]
+        },
+        {
+          "element": "p734-e011",
+          "page": 734,
+          "source": "In the expansion of the equation, the bracketed net hydrostatic pressure difference (glomerular capillary HP − Bowman's space HP) works out to: [(60 − 18) = 42 mmHg is the net hydrostatic term; the 10 mmHg net filtration pressure appears only after the 32 mmHg onco]",
+          "questionIds": [
+            "MED-C6-011"
+          ]
+        },
+        {
+          "element": "p734-e012",
+          "page": 734,
+          "source": "All of these pressures appear in the boxed net filtration pressure equation on this page EXCEPT: [The box reads: net filtration pressure (10) = glomerular hydrostatic (60) − Bowman's capsule (18) − glomerular oncotic (]",
+          "questionIds": [
+            "MED-C6-012"
+          ]
+        },
+        {
+          "element": "p734-e013",
+          "page": 734,
+          "source": "In the capillary–capsule diagram, the arrow drawn for Bowman's capsule pressure points back towards the glomerular capillary, i.e. it opposes filtration. [The 60 mmHg hydrostatic and 32 mmHg colloid osmotic arrows are drawn outwards from the capillary, while the 18 mmHg Bowm]",
+          "questionIds": [
+            "MED-C6-013"
+          ]
+        },
+        {
+          "element": "p734-e014",
+          "page": 734,
+          "source": "The definition of GFR printed on this page refers to filtration by: [Definition: amount of urine filtered by all the nephrons in both kidneys in one minute — a per-minute, both-kidney figur]",
+          "questionIds": [
+            "MED-C6-014"
+          ]
+        },
+        {
+          "element": "p734-e015",
+          "page": 734,
+          "source": "Normal GFR as written in the book is: [Normal GFR: 90–125 ml/min. (Book p734)]",
+          "questionIds": [
+            "MED-C6-015"
+          ]
+        },
+        {
+          "element": "p734-e016",
+          "page": 734,
+          "source": "The principal use of GFR listed is that: [Use: chronic kidney disease (CKD) is classified based on GFR. (Book p734)]",
+          "questionIds": [
+            "MED-C6-016"
+          ]
+        },
+        {
+          "element": "p734-e017",
+          "page": 734,
+          "source": "Fill up: A GFR below 15 ml/min marks G5 / end-stage renal disease / the uremic phase, when ______ is required. [Eg: GFR <15 ml/min: G5/ESRD/uremic phase (dialysis required). (Book p734)]",
+          "questionIds": [
+            "MED-C6-017"
+          ]
+        },
+        {
+          "element": "p734-e018",
+          "page": 734,
+          "source": "Which of the following statements about GFR staging is TRUE? [GFR <15 ml/min = G5/ESRD/uremic phase, dialysis required. (Book p734)]",
+          "questionIds": [
+            "MED-C6-018"
+          ]
+        },
+        {
+          "element": "p734-e019",
+          "page": 734,
+          "source": "The lower limit of the normal GFR range printed on this page is: [Normal GFR: 90–125 ml/min. (Book p734)]",
+          "questionIds": [
+            "MED-C6-019"
+          ]
+        },
+        {
+          "element": "p734-e020",
+          "page": 734,
+          "source": "A 52-year-old with a GFR of 13 ml/min has nausea, pericardial rub and an uraemic rash. Applying this page's use of GFR, the patient is in: [The page's single worked use of GFR is CKD classification: GFR <15 ml/min = G5/ESRD/uremic phase, dialysis required. (Bo]",
+          "questionIds": [
+            "MED-C6-020"
+          ]
+        },
+        {
+          "element": "p734-e021",
+          "page": 734,
+          "source": "As printed on this page, GFR is used both to stage acute kidney injury and to classify chronic kidney disease. [The 'Use' line states that chronic kidney disease (CKD) is classified based on GFR; no AKI staging appears on this page.]",
+          "questionIds": [
+            "MED-C6-021"
+          ]
+        },
+        {
+          "element": "p734-e022",
+          "page": 734,
+          "source": "Every one of these is a threshold or use stated on this page EXCEPT: [The dialysis-requiring uremic cut-off printed here is <15 ml/min; 30 ml/min is not the figure on this page. (Book p734)]",
+          "questionIds": [
+            "MED-C6-022"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 735,
+      "pdfPage": 43,
+      "traversal": "Read top-to-bottom: CREATININE heading, Best marker bullet, Produced in muscle from creatine → ↓sed when muscle mass reduced (eg amputation), Pregnancy only condition where high creatinine significant independently (Normal 0.3-0.6 mg/dL), 113 Kda molecule, Equations to calculate GFR heading, 1. Cockroft & Gault equation Obsolete, Creatinine clearance formula males (140-age) x BW / 72 x S.Cr, females same x0.8, Bed side formula, Not preferred d/t disadvantages, 2. MDRD equation By society for modification of diet & renal diseases, 3. CKD-EPI equation By CKD-Epidemiology problem initiative group, Best Advantage when GFR>60, bracket Preferred now, Table Disadvantages vs Advantages (Overestimate GFR assumption CrCl=GFR only true for inert molecules like inulin, Cr secreted → CrCl=GFR+Tubular secretion Clearance=GFR+tubular secretion or GFR-Tubular absorption, Equation developed when Cr estimated by Jaffe's method Colorimetric assay using alkaline picrate Not standard method, Over emphasis on BW vs Directly measures GFR, Equation uses estimation of Cr using standard assays IDM Isotope dilution mass spectroscopy, Race used instead of weight), 4. Schwartz equation Estimate GFR in children, footer excluded.",
+      "elements": [
+        {
+          "element": "p735-e001",
+          "page": 735,
+          "source": "The best marker to estimate GFR is: [Creatinine: best marker to estimate GFR. (Book p735)]",
+          "questionIds": [
+            "MED-C6-023"
+          ]
+        },
+        {
+          "element": "p735-e002",
+          "page": 735,
+          "source": "Fill up: Creatinine is produced in muscle from ______. [Produced in muscle from creatine; ↓ when muscle mass is reduced (eg: amputation). (Book p735)]",
+          "questionIds": [
+            "MED-C6-024"
+          ]
+        },
+        {
+          "element": "p735-e003",
+          "page": 735,
+          "source": "Serum creatinine falls when muscle mass is reduced; the book's example is: [↓ sed when muscle mass reduced (eg: amputation). (Book p735)]",
+          "questionIds": [
+            "MED-C6-025"
+          ]
+        },
+        {
+          "element": "p735-e004",
+          "page": 735,
+          "source": "Which of the following statements about creatinine in pregnancy is TRUE? [Pregnancy: only condition where high creatinine values are significant independently (normal 0.3–0.6 mg/dL). (Book p735)]",
+          "questionIds": [
+            "MED-C6-026"
+          ]
+        },
+        {
+          "element": "p735-e005",
+          "page": 735,
+          "source": "The normal creatinine range quoted for pregnancy is: [Normal in pregnancy: 0.3–0.6 mg/dL. (Book p735)]",
+          "questionIds": [
+            "MED-C6-027"
+          ]
+        },
+        {
+          "element": "p735-e006",
+          "page": 735,
+          "source": "Creatinine is described as a molecule of: [Creatinine = 113 kDa molecule (cystatin C is the 13 kDa protein). (Book p735)]",
+          "questionIds": [
+            "MED-C6-028"
+          ]
+        },
+        {
+          "element": "p735-e007",
+          "page": 735,
+          "source": "Fill up: The Cockcroft & Gault equation was developed when creatinine was estimated by the ______ method, a colorimetric assay using alkaline picrate. [The disadvantage table states the equation was developed when Cr was estimated by Jaffe's method: colorimetric assay usi]",
+          "questionIds": [
+            "MED-C6-029"
+          ]
+        },
+        {
+          "element": "p735-e008",
+          "page": 735,
+          "source": "All of the following are stated about creatinine on this page EXCEPT: [Creatinine is printed as an 113 kDa molecule; 13 kDa is the cystatin C molecule described on p737. (Book p735)]",
+          "questionIds": [
+            "MED-C6-030"
+          ]
+        },
+        {
+          "element": "p735-e009",
+          "page": 735,
+          "source": "The page marks pregnancy as the only condition in which high creatinine values are significant independently, with a normal range of 0.3–0.6 mg/dL. [Bullet: 'Pregnancy: Only condition where high creatinine values significant independently (Normal: 0.3–0.6 mg/dL)'. (Boo]",
+          "questionIds": [
+            "MED-C6-031"
+          ]
+        },
+        {
+          "element": "p735-e010",
+          "page": 735,
+          "source": "A bilateral above-knee amputee has a serum creatinine of 0.8 mg/dL although the true GFR is clearly reduced. Which property of creatinine printed here explains the normal value? [Creatinine is produced in muscle from creatine and is reduced when muscle mass is reduced — the book's own example is am]",
+          "questionIds": [
+            "MED-C6-032"
+          ]
+        },
+        {
+          "element": "p735-e011",
+          "page": 735,
+          "source": "The Cockcroft & Gault equation is labelled in the book as: [Cockcroft & Gault equation: obsolete; not preferred now due to disadvantages (though it is a bed-side formula). (Book p7]",
+          "questionIds": [
+            "MED-C6-033"
+          ]
+        },
+        {
+          "element": "p735-e012",
+          "page": 735,
+          "source": "Fill up: In the Cockcroft & Gault creatinine clearance, the female result is the male formula multiplied by ______. [CrCl = (140−age) × BW / (72 × S.Cr) in males; × 0.8 in females. (Book p735)]",
+          "questionIds": [
+            "MED-C6-034"
+          ]
+        },
+        {
+          "element": "p735-e013",
+          "page": 735,
+          "source": "The denominator constant of the Cockcroft & Gault equation is: [Denominator: 72 × S.creatinine. (Book p735)]",
+          "questionIds": [
+            "MED-C6-035"
+          ]
+        },
+        {
+          "element": "p735-e014",
+          "page": 735,
+          "source": "Match each GFR equation with its origin — 1) MDRD equation 2) CKD-EPI equation 3) Schwartz equation … A) CKD-Epidemiology problem initiative group; best when GFR > 60 B) Society for modification of diet & renal diseases C) Estimates GFR in children [MDRD = society for modification of diet & renal diseases; CKD-EPI = CKD-Epidemiology problem initiative group (best when]",
+          "questionIds": [
+            "MED-C6-036"
+          ]
+        },
+        {
+          "element": "p735-e015",
+          "page": 735,
+          "source": "Which of the following statements about GFR equations is TRUE? [MDRD and CKD-EPI are bracketed as 'preferred now'; CKD-EPI is best (advantage when GFR > 60). (Book p735)]",
+          "questionIds": [
+            "MED-C6-037"
+          ]
+        },
+        {
+          "element": "p735-e016",
+          "page": 735,
+          "source": "All of the following are disadvantages of the Cockcroft & Gault equation EXCEPT: [Using race instead of weight is an advantage of MDRD/CKD-EPI; C&G over-emphasises BW, overestimates GFR and rests on Jaf]",
+          "questionIds": [
+            "MED-C6-038"
+          ]
+        },
+        {
+          "element": "p735-e017",
+          "page": 735,
+          "source": "Fill up: The MDRD/CKD-EPI equations estimate creatinine with standard assays, namely ______ (isotope dilution mass spectroscopy). [Advantage: equation uses estimation of Cr using standard assays: IDm (isotope dilution mass spectroscopy). (Book p735)]",
+          "questionIds": [
+            "MED-C6-039"
+          ]
+        },
+        {
+          "element": "p735-e018",
+          "page": 735,
+          "source": "Because creatinine is secreted, the book writes creatinine clearance as: [Cr is secreted → CrCl = GFR + tubular secretion (clearance = GFR + tubular secretion or GFR − tubular absorption). (Book]",
+          "questionIds": [
+            "MED-C6-040"
+          ]
+        },
+        {
+          "element": "p735-e019",
+          "page": 735,
+          "source": "In the Cockcroft & Gault numerator, the patient's age is subtracted from: [Creatinine clearance = (140 − age) × body weight ÷ (72 × S.creatinine) in males. (Book p735)]",
+          "questionIds": [
+            "MED-C6-041"
+          ]
+        },
+        {
+          "element": "p735-e020",
+          "page": 735,
+          "source": "Fill up: The book labels the Cockcroft & Gault equation as a ______ formula, which explains why it is still used despite being obsolete. [Two lines appear under the formula: 'Bed side formula' and 'Not preferred now d/t disadvantages'. (Book p735)]",
+          "questionIds": [
+            "MED-C6-042"
+          ]
+        },
+        {
+          "element": "p735-e021",
+          "page": 735,
+          "source": "MDRD, as the page expands the abbreviation, is the society for: [Entry 2 reads: MDRD equation — by society for modification of diet & renal diseases. (Book p735)]",
+          "questionIds": [
+            "MED-C6-043"
+          ]
+        },
+        {
+          "element": "p735-e022",
+          "page": 735,
+          "source": "The stated advantage of the CKD-EPI equation appears once the GFR is above: [CKD-EPI: Best (Advantage when GFR > 60). (Book p735)]",
+          "questionIds": [
+            "MED-C6-044"
+          ]
+        },
+        {
+          "element": "p735-e023",
+          "page": 735,
+          "source": "Match each equation with the label attached to it on this page — 1) Cockcroft & Gault 2) MDRD and CKD-EPI 3) CKD-EPI alone … A) Best when GFR is above 60 B) Obsolete, bed side formula C) Preferred now D) Used to estimate GFR in children [Cockcroft & Gault = obsolete bed side formula; MDRD and CKD-EPI are bracketed as 'Preferred now'; CKD-EPI alone carries ]",
+          "questionIds": [
+            "MED-C6-045"
+          ]
+        },
+        {
+          "element": "p735-e024",
+          "page": 735,
+          "source": "According to the table, the Cockcroft & Gault equation overestimates GFR because creatinine is filtered and also secreted. [The disadvantage column lists 'Cr is secreted → CrCl = GFR + Tubular secretion', alongside clearance = GFR + secretion o]",
+          "questionIds": [
+            "MED-C6-046"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 736,
+      "pdfPage": 44,
+      "traversal": "Read top-to-bottom: eGFR = K x length of child / S.Cr (K=constant), <1 yr Pre-term 0.33 Term 0.45 (If age not mentioned), 1-2 yr & Adolescent girls 0.55, Adolescent boys 0.7, Disadvantages of creatinine heading, 1. 24-48 hrs to start rising in AKI, 2. Dependent on Amount of muscle mass (↓ muscle mass → ↓ Cr), Race (↓ in African Americans), Age (↓ after 40 years d/t ↓ in muscle mass), Sex (↓ in males), 3. Diet alters S.Cr ↓ Protein supplementation → ↓ muscle mass → ↓ S.Cr, malnutrition → ↓ muscle mass → ↓ S.Cr, (Obesity No change in S.Cr as fat doesn't affect S.Cr), 4. Affected by drugs Cimetidine Trimethoprim } Compete with Cr for tubular secretion → ↓ Tubular secretion of Cr → ↑ Serum Cr, 5. Inverse relationship between GFR and S.Cr By the time Cr rises GFR falls significantly, Initial rise in Cr corresponds to significant fall in GFR, Graph Plasma creatinine (mg/dL) y-axis vs GFR (mL/min) x-axis with point 2 mg/dL and 60 ml/min marked, Eg By the time S.Cr=2 GFR falls to ~60, Eg ↑ in S.Cr from 5 to 20 Fall in GFR insignificant (Patient was already in ESRD), ↑ in S.Cr from 1.7 to 2.8 GFR falls significantly (50→30), footer.",
+      "elements": [
+        {
+          "element": "p736-e001",
+          "page": 736,
+          "source": "In the Schwartz equation, the constant K for a term infant under 1 year (age not mentioned) is: [<1 yr: pre-term 0.33, term 0.45 (if age not mentioned). (Book p736)]",
+          "questionIds": [
+            "MED-C6-047"
+          ]
+        },
+        {
+          "element": "p736-e002",
+          "page": 736,
+          "source": "Match each child group with its Schwartz constant K — 1) Pre-term <1 yr 2) Term <1 yr 3) 1–2 yr and adolescent girls 4) Adolescent boys … A) 0.45 B) 0.33 C) 0.7 D) 0.55 [K: pre-term 0.33; term 0.45; 1–2 yr & adolescent girls 0.55; adolescent boys 0.7. (Book p736)]",
+          "questionIds": [
+            "MED-C6-048"
+          ]
+        },
+        {
+          "element": "p736-e003",
+          "page": 736,
+          "source": "Fill up: The Schwartz equation computes eGFR as K × the child's ______ divided by S.Cr. [eGFR = K × length of child / S.Cr. (Book p736)]",
+          "questionIds": [
+            "MED-C6-049"
+          ]
+        },
+        {
+          "element": "p736-e004",
+          "page": 736,
+          "source": "A 14-year-old boy and a 14-year-old girl of identical height and identical serum creatinine are assessed with the Schwartz equation. Per the printed K values, the boy's eGFR will be: [The K constants are listed as: <1 yr pre-term 0.33, term 0.45; 1–2 yr & adolescent girls 0.55; adolescent boys 0.7. (Boo]",
+          "questionIds": [
+            "MED-C6-050"
+          ]
+        },
+        {
+          "element": "p736-e005",
+          "page": 736,
+          "source": "Each Schwartz constant is paired with the correct group EXCEPT: [The 1–2 yr and adolescent girls line carries K = 0.55; 0.45 is the term infant value used when the age is not mentioned.]",
+          "questionIds": [
+            "MED-C6-051"
+          ]
+        },
+        {
+          "element": "p736-e006",
+          "page": 736,
+          "source": "The Schwartz equation printed here estimates a child's GFR from body surface area divided by serum creatinine. [The line reads: eGFR = K × length of child ÷ S.Cr, with K described as a constant. (Book p736)]",
+          "questionIds": [
+            "MED-C6-052"
+          ]
+        },
+        {
+          "element": "p736-e007",
+          "page": 736,
+          "source": "The constant K in this equation is changed according to: [K is tabulated by developmental group: pre-term, term, 1–2 yr and adolescent girls, adolescent boys — i.e. age plus sex,]",
+          "questionIds": [
+            "MED-C6-053"
+          ]
+        },
+        {
+          "element": "p736-e008",
+          "page": 736,
+          "source": "In acute kidney injury, creatinine takes how long to start rising? [Disadvantage 1: 24–48 hrs to start rising in AKI. (Book p736)]",
+          "questionIds": [
+            "MED-C6-054"
+          ]
+        },
+        {
+          "element": "p736-e009",
+          "page": 736,
+          "source": "Creatinine is dependent on all of the following EXCEPT: [Dependent on muscle mass, race, age and sex; obesity causes no change in S.Cr as fat doesn't affect S.Cr. (Book p736)]",
+          "questionIds": [
+            "MED-C6-055"
+          ]
+        },
+        {
+          "element": "p736-e010",
+          "page": 736,
+          "source": "Which of the following statements about creatinine determinants is TRUE as written in the book? [Determinants as written: muscle mass (↓ muscle mass → ↓ Cr), race (↓ in African Americans), age (↓ after 40 years d/t ↓ ]",
+          "questionIds": [
+            "MED-C6-056"
+          ]
+        },
+        {
+          "element": "p736-e011",
+          "page": 736,
+          "source": "Fill up: Creatinine falls after 40 years of age because of the decline in ______. [Age (↓ after 40 years d/t ↓ in muscle mass). (Book p736)]",
+          "questionIds": [
+            "MED-C6-057"
+          ]
+        },
+        {
+          "element": "p736-e012",
+          "page": 736,
+          "source": "Fill up: In obesity there is no change in S.Cr because ______ does not affect S.Cr. [Obesity: no change in S.Cr as fat doesn't affect S.Cr. (Book p736)]",
+          "questionIds": [
+            "MED-C6-058"
+          ]
+        },
+        {
+          "element": "p736-e013",
+          "page": 736,
+          "source": "Fill up: Cimetidine and trimethoprim raise serum creatinine by competing with Cr for tubular ______. [They compete with Cr for tubular secretion → ↓ tubular secretion of Cr → ↑ serum Cr. (Book p736)]",
+          "questionIds": [
+            "MED-C6-059"
+          ]
+        },
+        {
+          "element": "p736-e014",
+          "page": 736,
+          "source": "On the inverse-relationship graph, by the time S.Cr reaches 2 mg/dL the GFR has fallen to about: [By the time S.Cr = 2, GFR falls to ~60 ml/min. (Book p736)]",
+          "questionIds": [
+            "MED-C6-060"
+          ]
+        },
+        {
+          "element": "p736-e015",
+          "page": 736,
+          "source": "A patient's serum creatinine rises from 1.7 to 2.8 mg/dL. Per the book's inverse-relationship examples, this rise means the GFR has: [↑ in S.Cr from 1.7 to 2.8: GFR falls significantly (50 ml/min → 30 ml/min); the 5→20 example is the insignificant one (a]",
+          "questionIds": [
+            "MED-C6-061"
+          ]
+        },
+        {
+          "element": "p736-e016",
+          "page": 736,
+          "source": "Which of the following statements about the GFR–creatinine relationship is TRUE? [Inverse relationship: by the time Cr rises GFR falls significantly; the initial rise in Cr corresponds to a significant ]",
+          "questionIds": [
+            "MED-C6-062"
+          ]
+        },
+        {
+          "element": "p736-e017",
+          "page": 736,
+          "source": "In the 'Dependent on' list, the page prints the sex line as 'Sex (↓ in males)'. [The four bullets are muscle mass (↓ muscle mass → ↓ Cr), race (↓ in African Americans), age (↓ after 40 years d/t ↓ in m]",
+          "questionIds": [
+            "MED-C6-063"
+          ]
+        },
+        {
+          "element": "p736-e018",
+          "page": 736,
+          "source": "Six hours after a crush injury the serum creatinine is still 0.9 mg/dL although urine output has fallen. Which line on this page accounts for that? [Disadvantage 1 reads: 24–48 hrs to start rising in Acute Kidney Injury (AKI) — an early normal creatinine does not exclu]",
+          "questionIds": [
+            "MED-C6-064"
+          ]
+        },
+        {
+          "element": "p736-e019",
+          "page": 736,
+          "source": "Cimetidine and trimethoprim raise the serum creatinine through every step of the printed flowchart EXCEPT: [The flow reads: compete with Cr for tubular secretion → ↓ tubular secretion of Cr → ↑ serum Cr; secretion falls rather t]",
+          "questionIds": [
+            "MED-C6-065"
+          ]
+        },
+        {
+          "element": "p736-e020",
+          "page": 736,
+          "source": "A dialysis-dependent patient's creatinine rises from 5 to 20 mg/dL over a month. Per the page's reading of the inverse curve: [Worked example: ↑ S.Cr from 5 to 20 → fall in GFR is insignificant (patient was already in ESRD), whereas 1.7 → 2.8 mark]",
+          "questionIds": [
+            "MED-C6-066"
+          ]
+        },
+        {
+          "element": "p736-e021",
+          "page": 736,
+          "source": "The page states that a rise in serum creatinine from 1.7 to 2.8 mg/dL corresponds to a fall in GFR from about 50 to about 30 ml/min. [Both examples sit under the graph: S.Cr 1.7 → 2.8 gives GFR 50 → 30 ml/min (significant fall), while 5 → 20 is insignifi]",
+          "questionIds": [
+            "MED-C6-067"
+          ]
+        },
+        {
+          "element": "p736-e022",
+          "page": 736,
+          "source": "Fill up: Reduced protein supplementation and malnutrition both lower serum creatinine by decreasing ______. [Diet alters S.Cr: ↓ protein supplementation → ↓ muscle mass → ↓ S.Cr, and malnutrition → ↓ muscle mass → ↓ S.Cr. (Book p]",
+          "questionIds": [
+            "MED-C6-068"
+          ]
+        },
+        {
+          "element": "p736-e023",
+          "page": 736,
+          "source": "Serum creatinine declines with age after which point, because muscle mass falls? [Dependent on: Age (↓ after 40 years d/t ↓ in muscle mass). (Book p736)]",
+          "questionIds": [
+            "MED-C6-069"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 737,
+      "pdfPage": 45,
+      "traversal": "Read top-to-bottom: Note GFR=Single nephron GFR x Number of nephrons, Even if number ↓ → snGFR ↑ to maintain GFR (Hyperfiltration injury) → Beyond point of compensation → Intraglomerular HTN → Proteinuria → Interstitial fibrosis → ↓ GFR, Endogenous creatinine clearance Clearance=Urine concentration x Volume in ml/min (V) / Plasma concentration, Endogenous Cr clearance=Ucr x V / Pcr, CYSTATIN C heading, 13 KDa molecule protein, Cysteine protease inhibitor, Produced at constant rate by all nucleated cells, Filtered but not secreted, Reabsorbed by PCT, Advantages Not affected by Race muscle mass Diet Drugs, Disadvantages Non specifically elevated in Inflammation Taking steroids Smokers Therefore cannot replace Cr, footer.",
+      "elements": [
+        {
+          "element": "p737-e001",
+          "page": 737,
+          "source": "Fill up: Whole-kidney GFR equals single nephron GFR multiplied by the ______ of nephrons. [GFR = single nephron GFR × number of nephrons. (Book p737)]",
+          "questionIds": [
+            "MED-C6-070"
+          ]
+        },
+        {
+          "element": "p737-e002",
+          "page": 737,
+          "source": "Which sequence matches the book's hyperfiltration-injury note? [Even if number ↓, snGFR ↑ to maintain GFR (hyperfiltration injury); beyond the point of compensation: intraglomerular HT]",
+          "questionIds": [
+            "MED-C6-071"
+          ]
+        },
+        {
+          "element": "p737-e003",
+          "page": 737,
+          "source": "Fill up: Clearance equals urine concentration × urine volume (V) divided by the ______ concentration. [Clearance = (urine concentration × volume of urine in ml/min (V)) / plasma concentration. (Book p737)]",
+          "questionIds": [
+            "MED-C6-072"
+          ]
+        },
+        {
+          "element": "p737-e004",
+          "page": 737,
+          "source": "Endogenous creatinine clearance is written as: [Endogenous Cr clearance = U_cr × V / P_cr. (Book p737)]",
+          "questionIds": [
+            "MED-C6-073"
+          ]
+        },
+        {
+          "element": "p737-e005",
+          "page": 737,
+          "source": "Match each cystatin C fact with its descriptor — 1) Size 2) Biochemical class 3) Production … A) Constant rate by all nucleated cells B) 13 kDa molecule protein C) Cysteine protease inhibitor [Cystatin C: 13 kDa molecule protein; cysteine protease inhibitor; produced at constant rate by all nucleated cells. (Boo]",
+          "questionIds": [
+            "MED-C6-074"
+          ]
+        },
+        {
+          "element": "p737-e006",
+          "page": 737,
+          "source": "All of the following describe cystatin C handling EXCEPT: [Cystatin C: filtered but not secreted; reabsorbed by PCT; constant production — it is never secreted. (Book p737)]",
+          "questionIds": [
+            "MED-C6-075"
+          ]
+        },
+        {
+          "element": "p737-e007",
+          "page": 737,
+          "source": "Cystatin C is not affected by all of the following EXCEPT: [Advantages: not affected by race, diet, muscle mass or drugs; inflammation (with steroids and smoking) elevates it non-s]",
+          "questionIds": [
+            "MED-C6-076"
+          ]
+        },
+        {
+          "element": "p737-e008",
+          "page": 737,
+          "source": "Fill up: Because of its non-specific elevations, cystatin C cannot replace ______. [Therefore, cannot replace Cr. (Book p737)]",
+          "questionIds": [
+            "MED-C6-077"
+          ]
+        },
+        {
+          "element": "p737-e009",
+          "page": 737,
+          "source": "Cystatin C is non-specifically elevated in inflammation, smokers and patients: [Non specifically elevated in: inflammation, taking steroids, smokers. (Book p737)]",
+          "questionIds": [
+            "MED-C6-078"
+          ]
+        },
+        {
+          "element": "p737-e010",
+          "page": 737,
+          "source": "The order of arrows in the hyperfiltration note on this page is: [GFR = snGFR × number of nephrons; when nephron number falls, snGFR rises to maintain GFR (hyperfiltration injury) → beyo]",
+          "questionIds": [
+            "MED-C6-079"
+          ]
+        },
+        {
+          "element": "p737-e011",
+          "page": 737,
+          "source": "Fill up: The label written on the arrow between the compensatory rise in snGFR and intraglomerular hypertension is 'Beyond point of ______'. [The vertical arrow in the note is captioned 'Beyond point of compensation', after which intraglomerular HTN follows. (Bo]",
+          "questionIds": [
+            "MED-C6-080"
+          ]
+        },
+        {
+          "element": "p737-e012",
+          "page": 737,
+          "source": "Every statement about cystatin C matches the page EXCEPT: [The bullets read: filtered but not secreted, reabsorbed by PCT; the other three lines are printed as such. (Book p737)]",
+          "questionIds": [
+            "MED-C6-081"
+          ]
+        },
+        {
+          "element": "p737-e013",
+          "page": 737,
+          "source": "Cystatin C is reabsorbed by the proximal convoluted tubule but is not secreted by it. [The two right-hand bullets state 'Filtered but not secreted' and 'Reabsorbed by PCT'; the page nevertheless ends with 'c]",
+          "questionIds": [
+            "MED-C6-082"
+          ]
+        },
+        {
+          "element": "p737-e014",
+          "page": 737,
+          "source": "A 70-year-old amputee on long-term steroids for asthma needs a GFR estimate. Applying this page, ordering cystatin C is best described as: [Advantages: not affected by race, diet, muscle mass or drugs; disadvantages: non-specifically elevated in inflammation, ]",
+          "questionIds": [
+            "MED-C6-083"
+          ]
+        },
+        {
+          "element": "p737-e015",
+          "page": 737,
+          "source": "Fill up: Endogenous creatinine clearance is written on this page as U_cr × V divided by ______. [Endogenous Cr clearance = (U_cr × V) / P_cr, the generic clearance formula applied to creatinine. (Book p737)]",
+          "questionIds": [
+            "MED-C6-084"
+          ]
+        },
+        {
+          "element": "p737-e016",
+          "page": 737,
+          "source": "In the clearance formula printed here, V stands for: [Clearance = urine concentration × volume of urine in ml/min (V) ÷ plasma concentration. (Book p737)]",
+          "questionIds": [
+            "MED-C6-085"
+          ]
+        },
+        {
+          "element": "p737-e017",
+          "page": 737,
+          "source": "Match each cystatin C property with the consequence the page draws from it — 1) Constant production by all nucleated cells 2) Filtered, not secreted, reabsorbed by PCT 3) Raised in inflammation, steroids and smokers … A) Non-specific elevation, so it cannot replace creatinine B) Independent of muscle mass and diet C) Its clearance reflects GFR rather than tubular handling [Constant nucleated-cell production is what frees it from the muscle-mass and diet dependence of creatinine; being filter]",
+          "questionIds": [
+            "MED-C6-086"
+          ]
+        },
+        {
+          "element": "p737-e018",
+          "page": 737,
+          "source": "Cystatin C is explicitly listed as NOT affected by all of the following EXCEPT: [The 'Not affected by' block lists race, diet, muscle mass and drugs; inflammation is in the 'Non specifically elevated i]",
+          "questionIds": [
+            "MED-C6-087"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 738,
+      "pdfPage": 46,
+      "traversal": "Read top-to-bottom: Active space, Regulation of Renal Functions heading with timestamp 00:29:14, RENAL AUTOREGULATION Within auto regulation range MAP 80-180 mmHg, Renal Blood Flow and GFR are constant, mechanism 1. Myogenic reflex (Stretch reflex), 2. Tubulo glomerular feedback (Adenosine mediated), In response to ↓ GFR → Afferent arteriolar vasodilatation (Eg Pre renal failure) → ↑ Filtration, ↑ GFR/tubular injury → ↑ NaCl/KCl reach macula densa (Eg Acute tubular injury) → Adenosine → Afferent arteriolar vasoconstriction → ↓ Filtration, Autoregulation graph Flow rate (L/min) y-axis vs Mean arterial blood pressure (mm Hg) x-axis with autoregulatory range 80-180, Renal blood flow solid curve plateau, GFR dashed low curve, labels Autoregulatory range, Renal blood flow, GFR, GLOMERULO TUBULAR BALANCE ↑ GFR → ↑ Reabsorption by tubule (Compensation) → % Na+ excreted remains constant, Eg GFR=100 Na filtered=100 → 99 reabsorbed 1 excreted (1%), GFR=200 Na filtered=200 → 198 reabsorbed 2 excreted (1%), FILTRATION FRACTION FF=GFR/Renal plasma flow (RPF) [RPF=700 ml Estimated using Para Amino Hippuric acid (PAH)] =125/700=0.1 to 0.2, ↑ FF → ↑ Peritubular capillary OP (D/t more filtration) Taken in fluid from interstitial space → ↓ Renal Interstitial HP (RIHP) → ↑ Reabsorption from PCT, Theory of pressure natriuresis ↑ CO leads to ↑ excretion of Na+ & H2O Therefore ↑ CO cannot produce sustained ↑ in BP unless there is renal impairment (BP=CO x PVR), footer.",
+      "elements": [
+        {
+          "element": "p738-e001",
+          "page": 738,
+          "source": "The renal autoregulation range of mean arterial pressure is: [Within auto regulation range (MAP: 80–180 mmHg); 40–240 is only the graph axis. (Book p738)]",
+          "questionIds": [
+            "MED-C6-088"
+          ]
+        },
+        {
+          "element": "p738-e002",
+          "page": 738,
+          "source": "Which of the following statements about renal autoregulation is TRUE? [Renal blood flow (RBF) and GFR are constant within the autoregulation range. (Book p738)]",
+          "questionIds": [
+            "MED-C6-089"
+          ]
+        },
+        {
+          "element": "p738-e003",
+          "page": 738,
+          "source": "Match each autoregulation mechanism with its descriptor — 1) Myogenic reflex 2) Tubulo glomerular feedback … A) Adenosine mediated B) Stretch reflex [Mechanisms: myogenic reflex (stretch reflex) and tubulo glomerular feedback (adenosine mediated). (Book p738)]",
+          "questionIds": [
+            "MED-C6-090"
+          ]
+        },
+        {
+          "element": "p738-e004",
+          "page": 738,
+          "source": "Fill up: In response to a falling GFR (eg: pre-renal failure), the afferent arteriole undergoes ______, raising filtration. [In response to ↓ GFR → afferent arteriolar vasodilatation → ↑ filtration. (Book p738)]",
+          "questionIds": [
+            "MED-C6-091"
+          ]
+        },
+        {
+          "element": "p738-e005",
+          "page": 738,
+          "source": "Fill up: With ↑ GFR/tubular injury, more NaCl/KCl reaches the macula densa and releases ______, causing afferent arteriolar vasoconstriction. [↑ NaCl/KCl reach macula densa → adenosine → afferent arteriolar vasoconstriction → ↓ filtration. (Book p738)]",
+          "questionIds": [
+            "MED-C6-092"
+          ]
+        },
+        {
+          "element": "p738-e006",
+          "page": 738,
+          "source": "In the glomerulo-tubular balance example at GFR = 200 ml/min, the amounts reabsorbed and excreted are: [GFR 200: Na+ filtered 200 meq → 198 meq reabsorbed, 2 meq excreted (1%). (Book p738)]",
+          "questionIds": [
+            "MED-C6-093"
+          ]
+        },
+        {
+          "element": "p738-e007",
+          "page": 738,
+          "source": "Which of the following statements about glomerulo-tubular balance is TRUE? [↑ GFR → ↑ reabsorption by tubule (compensation) → % of Na+ excreted remains constant (1% in both examples). (Book p738)]",
+          "questionIds": [
+            "MED-C6-094"
+          ]
+        },
+        {
+          "element": "p738-e008",
+          "page": 738,
+          "source": "Fill up: The first mechanism of renal autoregulation, put in brackets as the stretch reflex, is the ______ reflex. [Mechanism: 1. myogenic reflex (stretch reflex); 2. tubulo-glomerular feedback (adenosine mediated). (Book p738)]",
+          "questionIds": [
+            "MED-C6-095"
+          ]
+        },
+        {
+          "element": "p738-e009",
+          "page": 738,
+          "source": "On the autoregulation graph, the vertical dashed lines that bracket the plateau are drawn on which axis, and between which values? [The plot's x-axis is mean arterial blood pressure (0–240 mm Hg) with the 'autoregulatory range' double arrow spanning ro]",
+          "questionIds": [
+            "MED-C6-096"
+          ]
+        },
+        {
+          "element": "p738-e010",
+          "page": 738,
+          "source": "Fill up: In the macula densa arm of the flowchart, the rising luminal solute is written as increased NaCl/______ reaching the macula densa. [The printed line is '↑ GFR/tubular injury → ↑ NaCl/KCl reach macula densa', followed by adenosine and afferent arteriola]",
+          "questionIds": [
+            "MED-C6-097"
+          ]
+        },
+        {
+          "element": "p738-e011",
+          "page": 738,
+          "source": "A patient in pre-renal failure has a falling GFR. Per the left branch of this page's flowchart, the afferent arteriolar response and its effect are: [In response to ↓ GFR the flowchart shows afferent arteriolar vasodilatation (eg: pre-renal failure) → ↑ filtration; the ]",
+          "questionIds": [
+            "MED-C6-098"
+          ]
+        },
+        {
+          "element": "p738-e012",
+          "page": 738,
+          "source": "Match each branch of the autoregulation flowchart with its printed example or mediator — 1) Response to ↓ GFR 2) ↑ GFR/tubular injury 3) Mediator of tubulo-glomerular feedback … A) Adenosine B) Pre-renal failure C) Acute tubular injury D) Stretch reflex [The ↓ GFR branch is illustrated by pre-renal failure; the ↑ GFR/tubular injury branch is illustrated by acute tubular in]",
+          "questionIds": [
+            "MED-C6-099"
+          ]
+        },
+        {
+          "element": "p738-e013",
+          "page": 738,
+          "source": "In the glomerulo-tubular balance example with GFR = 100 ml/min, the filtered Na+ load and the excreted amount are: [GFR = 100 ml/min → Na+ filtered = 100 meq → 99 meq reabsorbed, 1 meq excreted (1%). (Book p738)]",
+          "questionIds": [
+            "MED-C6-100"
+          ]
+        },
+        {
+          "element": "p738-e014",
+          "page": 738,
+          "source": "Each of the following is part of the page's glomerulo-tubular balance account EXCEPT: [The whole point of the balance is that the percentage of Na+ excreted remains constant at 1%; the doubling example on th]",
+          "questionIds": [
+            "MED-C6-101"
+          ]
+        },
+        {
+          "element": "p738-e015",
+          "page": 738,
+          "source": "Match each axis of the autoregulation graph with its label — 1) X-axis 2) Y-axis … A) Mean arterial blood pressure (mm Hg) B) Flow rate (L/min) [The x-axis is labelled 'Mean arterial blood pressure (mm Hg)' from 0–240 and the y-axis 'Flow rate (L/min)' from 0–1.5, ]",
+          "questionIds": [
+            "MED-C6-102"
+          ]
+        },
+        {
+          "element": "p738-e016",
+          "page": 738,
+          "source": "In the autoregulation graph, the solid red curve that plateaus in the autoregulatory range is labelled: [The solid curve is labelled 'Renal blood flow' and the dashed near-zero curve 'GFR'; both are flat between about 80 and ]",
+          "questionIds": [
+            "MED-C6-103"
+          ]
+        },
+        {
+          "element": "p738-e017",
+          "page": 738,
+          "source": "Fill up: Renal plasma flow (700 ml) is estimated using para amino hippuric acid, abbreviated ______. [RPF = 700 ml: estimated using para amino hippuric acid (PAH). (Book p738)]",
+          "questionIds": [
+            "MED-C6-104"
+          ]
+        },
+        {
+          "element": "p738-e018",
+          "page": 738,
+          "source": "The filtration fraction computed as 125/700 equals: [FF = GFR/RPF = 125/700 = 0.1 to 0.2. (Book p738)]",
+          "questionIds": [
+            "MED-C6-105"
+          ]
+        },
+        {
+          "element": "p738-e019",
+          "page": 738,
+          "source": "Fill up: A raised filtration fraction increases peritubular capillary oncotic pressure, taking fluid from the interstitial space and lowering renal interstitial ______, which boosts PCT reabsorption. [↑ FF → ↑ peritubular capillary OP → taken-in fluid from interstitial space → ↓ renal interstitial HP (RIHP) → ↑ reabsorp]",
+          "questionIds": [
+            "MED-C6-106"
+          ]
+        },
+        {
+          "element": "p738-e020",
+          "page": 738,
+          "source": "Which of the following statements about pressure natriuresis is TRUE? [↑ CO leads to ↑ excretion of Na+ & H2O; therefore ↑ CO cannot produce sustained ↑ BP unless there is renal impairment. (]",
+          "questionIds": [
+            "MED-C6-107"
+          ]
+        },
+        {
+          "element": "p738-e021",
+          "page": 738,
+          "source": "The book's pressure-natriuresis caveat uses which blood-pressure identity? [Therefore, ↑ CO cannot produce sustained ↑ in BP unless there is renal impairment (BP = CO × PVR). (Book p738)]",
+          "questionIds": [
+            "MED-C6-108"
+          ]
+        },
+        {
+          "element": "p738-e022",
+          "page": 738,
+          "source": "The renal plasma flow used as the denominator of the filtration fraction on this page is given as: [FF = GFR ÷ renal plasma flow, with the note RPF = 700 ml, estimated using para amino hippuric acid (PAH). (Book p738)]",
+          "questionIds": [
+            "MED-C6-109"
+          ]
+        },
+        {
+          "element": "p738-e023",
+          "page": 738,
+          "source": "Fill up: The numerator of the printed fraction 125/700 is the ______. [The worked line is = 125 / 700 = 0.1 to 0.2, i.e. GFR over renal plasma flow. (Book p738)]",
+          "questionIds": [
+            "MED-C6-110"
+          ]
+        },
+        {
+          "element": "p738-e024",
+          "page": 738,
+          "source": "Following the arrows for a raised filtration fraction, the correct sequence on this page is: [↑ FF → ↑ peritubular capillary OP (d/t more filtration) → taken in fluid from interstitial space → ↓ RIHP → ↑ reabsorpti]",
+          "questionIds": [
+            "MED-C6-111"
+          ]
+        },
+        {
+          "element": "p738-e025",
+          "page": 738,
+          "source": "A cirrhotic patient with low effective arterial volume has a raised filtration fraction. Applying this page's chain, proximal tubular reabsorption is expected to: [The chain drawn under filtration fraction links a raised FF to higher peritubular capillary oncotic pressure, removal of]",
+          "questionIds": [
+            "MED-C6-112"
+          ]
+        },
+        {
+          "element": "p738-e026",
+          "page": 738,
+          "source": "The printed theory of pressure natriuresis concludes that a raised cardiac output cannot produce a sustained rise in blood pressure unless there is renal impairment. [As printed: ↑ CO leads to ↑ excretion of Na+ & H2O; therefore ↑ CO cannot produce sustained ↑ in BP unless there is rena]",
+          "questionIds": [
+            "MED-C6-113"
+          ]
+        },
+        {
+          "element": "p738-e027",
+          "page": 738,
+          "source": "Filtration fraction computed as 125/700 is stated on the page as: [= 125 / 700 = 0.1 to 0.2. (Book p738)]",
+          "questionIds": [
+            "MED-C6-114"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 739,
+      "pdfPage": 47,
+      "traversal": "Read top-to-bottom: mechanism ↑ CO → ↑ RBF → ↓ Reabsorption from PCT → ↑ RIHP → ↑ medullary blood flow → ↑ Na+ & H2O excretion, GLOMERULAR HEMODYNAMICS heading, Table Arteriolar resistance vs Renal blood flow vs Net ultrafiltration pressure Control row Glomerulus Afferent→Efferent RBF ↔ NUP ↔, Increased afferent RBF ↓ NUP ↓ unfavourable, Decreased afferent RBF ↑ NUP ↑ Favourable for kidney, Increased efferent RBF ↓ NUP ↑, Decreased efferent RBF ↑ NUP ↓ unfavourable, Bullets Afferent arteriolar constriction, Afferent arteriolar dilatation (mediated by Prostaglandins), Efferent arteriolar constriction (mediated by Angiotensin II), Efferent arteriolar dilatation, Efferent arteriolar constriction → ↓ Blood flow to medulla → medullary hypoxia, Note Normal blood flow Efferent arteriole → Peritubular capillary → vasa recta → Renal medulla, ACE Inhibitor Beneficial for nephrology patients Block angiotensin II → Efferent arteriolar dilatation → ↓ GFR (↑S.Cr) but ↑ blood flow, C/I in patients with b/l renal artery stenosis Afferent arteriole not working efferent arteriole maintains GFR, NSAID Block prostaglandins → Block afferent arteriolar dilatation → Efferent arteriolar constriction → ↓ GFR & ↓ RBF maintain GFR, C/I in patients on ACEӨ ACEӨ → Efferent arteriolar constriction blocked → Frank renal failure, footer.",
+      "elements": [
+        {
+          "element": "p739-e001",
+          "page": 739,
+          "source": "Match each step of the pressure-natriuresis mechanism with what follows — 1) ↑ CO 2) ↓ Reabsorption from PCT 3) ↑ Medullary blood flow … A) ↑ Na+ & H2O excretion B) ↑ RBF C) ↑ RIHP [↑ CO → ↑ RBF → ↓ reabsorption from PCT → ↑ RIHP → ↑ medullary blood flow → ↑ Na+ & H2O excretion. (Book p739)]",
+          "questionIds": [
+            "MED-C6-115"
+          ]
+        },
+        {
+          "element": "p739-e002",
+          "page": 739,
+          "source": "The mechanism chain for pressure natriuresis continued on this page runs in which order? [The printed arrows are: ↑ CO → ↑ RBF → ↓ reabsorption from PCT → ↑ RIHP → ↑ medullary blood flow, which then feeds down ]",
+          "questionIds": [
+            "MED-C6-116"
+          ]
+        },
+        {
+          "element": "p739-e003",
+          "page": 739,
+          "source": "Every step below appears in this page's pressure-natriuresis chain EXCEPT: [The chain lists only cardiac output, RBF, PCT reabsorption, RIHP, medullary blood flow and the resulting Na+ and water e]",
+          "questionIds": [
+            "MED-C6-117"
+          ]
+        },
+        {
+          "element": "p739-e004",
+          "page": 739,
+          "source": "Fill up: In the chain, the rise in medullary blood flow is immediately followed by increased excretion of ______. [The terminal arrow of the flowchart points to ↑ Na+ & H2O excretion. (Book p739)]",
+          "questionIds": [
+            "MED-C6-118"
+          ]
+        },
+        {
+          "element": "p739-e005",
+          "page": 739,
+          "source": "Compared with the filtration-fraction chain on p738, the pressure-natriuresis chain on this page moves renal interstitial hydrostatic pressure in the opposite direction. [p738: ↑FF → ↑peritubular capillary OP → fluid taken from the interstitium → ↓RIHP → ↑PCT reabsorption. p739: ↑CO → ↑RBF ]",
+          "questionIds": [
+            "MED-C6-119"
+          ]
+        },
+        {
+          "element": "p739-e006",
+          "page": 739,
+          "source": "Fill up: Afferent arteriolar dilatation in the hemodynamics list is mediated by ______. [Afferent arteriolar dilatation (mediated by prostaglandins). (Book p739)]",
+          "questionIds": [
+            "MED-C6-120"
+          ]
+        },
+        {
+          "element": "p739-e007",
+          "page": 739,
+          "source": "Fill up: Efferent arteriolar constriction in the hemodynamics list is mediated by ______. [Efferent arteriolar constriction (mediated by angiotensin II). (Book p739)]",
+          "questionIds": [
+            "MED-C6-121"
+          ]
+        },
+        {
+          "element": "p739-e008",
+          "page": 739,
+          "source": "Match each arteriolar resistance change with its renal-blood-flow and net-ultrafiltration-pressure pair — 1) Increased afferent 2) Decreased afferent 3) Increased efferent 4) Decreased efferent … A) RBF ↑, NUP ↑ (favourable for kidney) B) RBF ↓, NUP ↓ (unfavourable) C) RBF ↓, NUP ↑ (unfavourable) D) RBF ↑, NUP ↓ (unfavourable) [Table: increased afferent ↓↓; decreased afferent ↑↑ (favourable); increased efferent ↓↑; decreased efferent ↑↓ — all but]",
+          "questionIds": [
+            "MED-C6-122"
+          ]
+        },
+        {
+          "element": "p739-e009",
+          "page": 739,
+          "source": "Efferent arteriolar constriction reduces blood flow to the medulla and causes: [Efferent arteriolar constriction → ↓ blood flow to medulla → medullary hypoxia. (Book p739)]",
+          "questionIds": [
+            "MED-C6-123"
+          ]
+        },
+        {
+          "element": "p739-e010",
+          "page": 739,
+          "source": "In the normal-blood-flow note, the sequence after the efferent arteriole is: [Efferent arteriole → peritubular capillary → vasa recta → renal medulla. (Book p739)]",
+          "questionIds": [
+            "MED-C6-124"
+          ]
+        },
+        {
+          "element": "p739-e011",
+          "page": 739,
+          "source": "Which of the following statements about ACE inhibitors is TRUE per the book? [ACE inhibitor: block angiotensin II → efferent arteriolar dilatation → ↓ GFR (↑S.Cr) but ↑ blood flow; beneficial for ne]",
+          "questionIds": [
+            "MED-C6-125"
+          ]
+        },
+        {
+          "element": "p739-e012",
+          "page": 739,
+          "source": "A patient with bilateral renal artery stenosis is started on an ACE inhibitor and deteriorates. The book's explanation is that: [C/I in patients with b/l renal artery stenosis: afferent arteriole not working, efferent arteriole maintains GFR — remov]",
+          "questionIds": [
+            "MED-C6-126"
+          ]
+        },
+        {
+          "element": "p739-e013",
+          "page": 739,
+          "source": "Fill up: NSAIDs block prostaglandins and thereby block ______ arteriolar dilatation, leaving efferent constriction to lower GFR and RBF. [NSAID: block prostaglandins → block afferent arteriolar dilatation → efferent arteriolar constriction → ↓ GFR & ↓ RBF. (]",
+          "questionIds": [
+            "MED-C6-127"
+          ]
+        },
+        {
+          "element": "p739-e014",
+          "page": 739,
+          "source": "NSAIDs are contraindicated in patients already on ACE inhibitors because blocking angiotensin II removes efferent constriction and precipitates: [C/I in patients on ACE(−): ACEI → efferent arteriolar constriction blocked → frank renal failure. (Book p739)]",
+          "questionIds": [
+            "MED-C6-128"
+          ]
+        },
+        {
+          "element": "p739-e015",
+          "page": 739,
+          "source": "All of the following are listed arteriolar events in the glomerular-hemodynamics section EXCEPT: [The book pairs afferent dilatation with prostaglandins and efferent constriction with angiotensin II; afferent constrict]",
+          "questionIds": [
+            "MED-C6-129"
+          ]
+        },
+        {
+          "element": "p739-e016",
+          "page": 739,
+          "source": "Which row of the arteriolar-resistance table is annotated 'Favourable for kidney'? [The word 'Favourable for kidney' is written level with the decreased-afferent row, whose arrows show renal blood flow an]",
+          "questionIds": [
+            "MED-C6-130"
+          ]
+        },
+        {
+          "element": "p739-e017",
+          "page": 739,
+          "source": "The annotation 'unfavourable' appears twice in the table: beside increased afferent resistance and beside decreased efferent resistance. ['unfavourable' is printed against increased afferent (↓ flow, ↓ ultrafiltration pressure) and against decreased efferent]",
+          "questionIds": [
+            "MED-C6-131"
+          ]
+        },
+        {
+          "element": "p739-e018",
+          "page": 739,
+          "source": "Match each row of the table with the pair of arrows printed for it — 1) Increased efferent 2) Decreased efferent 3) Increased afferent … A) Renal blood flow ↓, net ultrafiltration pressure ↑ B) Renal blood flow ↑, net ultrafiltration pressure ↓ C) Renal blood flow ↓, net ultrafiltration pressure ↓ [Increased efferent resistance is the only row where flow falls while net ultrafiltration pressure rises; decreasing it d]",
+          "questionIds": [
+            "MED-C6-132"
+          ]
+        },
+        {
+          "element": "p739-e019",
+          "page": 739,
+          "source": "Fill up: In the 'Control' diagram of the table, the vessel entering the glomerulus on the left is labelled ______. [The control drawing is captioned Glomerulus with Afferent written at the left limb and Efferent at the right limb. (Book]",
+          "questionIds": [
+            "MED-C6-133"
+          ]
+        },
+        {
+          "element": "p739-e020",
+          "page": 739,
+          "source": "The line 'Efferent arteriole → peritubular capillary → vasa recta → renal medulla' appears under which heading? [It is written as 'Note: Normal blood flow', immediately after the efferent-constriction → medullary hypoxia line. (Book ]",
+          "questionIds": [
+            "MED-C6-134"
+          ]
+        },
+        {
+          "element": "p739-e021",
+          "page": 739,
+          "source": "A cirrhotic patient with ascites is given indomethacin and urine output falls. The NSAID block on this page explains this as: [Printed chain: Block prostaglandins → block afferent arteriolar dilatation → efferent arteriolar constriction → ↓ GFR & ]",
+          "questionIds": [
+            "MED-C6-135"
+          ]
+        },
+        {
+          "element": "p739-e022",
+          "page": 739,
+          "source": "An ACE inhibitor is called 'beneficial for nephrology patients' on this page despite lowering GFR. The stated reason to continue is that efferent arteriolar dilatation: [The ACE-inhibitor block reads: block angiotensin II → efferent arteriolar dilatation → ↓ GFR (↑S.Cr) but ↑ blood flow. (]",
+          "questionIds": [
+            "MED-C6-136"
+          ]
+        },
+        {
+          "element": "p739-e023",
+          "page": 739,
+          "source": "Each statement about the mediators listed under glomerular hemodynamics is correct EXCEPT: [Only two of the four arteriolar events carry a mediator: afferent dilatation (prostaglandins) and efferent constriction ]",
+          "questionIds": [
+            "MED-C6-137"
+          ]
+        }
+      ]
+    }
+  ]
+}

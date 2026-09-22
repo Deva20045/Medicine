@@ -1,0 +1,647 @@
+{
+  "chapter": 26,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+  "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+  "pdfOffset": 823,
+  "pageRange": "830-836",
+  "contentSha256": "4d7270cdb00e0e8a45925267f3fc183a5640676584d12cdc92e3cd7f24a63358",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom, with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch26 p830-836: source checklist from existing 71 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors or ambiguous glyphs are taught as printed and flagged in explanations where known. Format defects (missing blanks/malformed matches) were repaired by converting to recall format without changing the underlying fact or citation."
+  ],
+  "pages": [
+    {
+      "page": 830,
+      "pdfPage": 7,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p830 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p830.",
+      "elements": [
+        {
+          "element": "p830-e001",
+          "page": 830,
+          "source": "Match each hormone to its structure class — 1) T3/T4  2) Serotonin  3) Insulin  4) Aldosterone … A) Tryptophan derivative  B) Steroid hormone  C) Tyrosine derivative  D) Large peptide [Tyrosine derivatives are T3/T4 and catecholamines; serotonin and melatonin are tryptophan derivatives; insulin is a large peptide; aldosterone is a st]",
+          "questionIds": [
+            "MED-C26-001"
+          ]
+        },
+        {
+          "element": "p830-e002",
+          "page": 830,
+          "source": "All of the following are catecholamines of the adrenal medulla EXCEPT: [Catecholamines (adrenal medulla) are adrenaline (80%), noradrenaline and dopamine; melatonin is a tryptophan derivative. (Book p830)]",
+          "questionIds": [
+            "MED-C26-002"
+          ]
+        },
+        {
+          "element": "p830-e003",
+          "page": 830,
+          "source": "Adrenaline forms what percentage of adrenal medulla catecholamines? [Adrenaline is 80% of the catecholamines of the adrenal medulla. (Book p830)]",
+          "questionIds": [
+            "MED-C26-003"
+          ]
+        },
+        {
+          "element": "p830-e004",
+          "page": 830,
+          "source": "Growth hormone is a large peptide of ___ amino acids. [Growth hormone has 191 amino acids (prolactin 199, insulin 51). (Book p830)]",
+          "questionIds": [
+            "MED-C26-004"
+          ]
+        },
+        {
+          "element": "p830-e005",
+          "page": 830,
+          "source": "Prolactin is a large peptide of ___ amino acids. [Prolactin has 199 amino acids (growth hormone 191, insulin 51). (Book p830)]",
+          "questionIds": [
+            "MED-C26-005"
+          ]
+        },
+        {
+          "element": "p830-e006",
+          "page": 830,
+          "source": "The number of amino acids in insulin is: [Insulin has 51 amino acids and is grouped under large peptides (>50 AA). (Book p830)]",
+          "questionIds": [
+            "MED-C26-006"
+          ]
+        },
+        {
+          "element": "p830-e007",
+          "page": 830,
+          "source": "Which of the following is classed as a SMALL peptide (<50 amino acids)? [Small peptides (<50 AA) include ACTH, ADH, oxytocin and all hypothalamic hormones; GH, prolactin, insulin, PTH and renin are large peptides. (Book p83]",
+          "questionIds": [
+            "MED-C26-007"
+          ]
+        },
+        {
+          "element": "p830-e008",
+          "page": 830,
+          "source": "‘Glycoprotein hormones (FSH, LH, TSH) contain more carbohydrate than protein.’ [Glycoproteins are defined as protein > carbohydrate; FSH/LH/TSH are >200 AA with a common α subunit. (Book p830)]",
+          "questionIds": [
+            "MED-C26-008"
+          ]
+        },
+        {
+          "element": "p830-e009",
+          "page": 830,
+          "source": "FSH, LH and TSH share which structural feature? [The glycoproteins FSH, LH and TSH are >200 AA and share a common α subunit. (Book p830)]",
+          "questionIds": [
+            "MED-C26-009"
+          ]
+        },
+        {
+          "element": "p830-e010",
+          "page": 830,
+          "source": "Match the adrenal cortex zone to its hormone — 1) Zona glomerulosa  2) Zona fasciculata  3) Zona reticularis … A) Cortisol  B) Aldosterone  C) Androgens (DHEAS/androstenedione) [Zona glomerulosa → aldosterone; zona fasciculata → cortisol; zona reticularis → adrenal androgens (DHEAS, androstenedione). (Book p830)]",
+          "questionIds": [
+            "MED-C26-010"
+          ]
+        },
+        {
+          "element": "p830-e011",
+          "page": 830,
+          "source": "DHEAS is described as the most abundant adreno-cortical hormone during: [Note: DHEAS (dihydroepiandrosterone sulfate) is the most abundant adreno-cortical hormone in fetal life. (Book p830)]",
+          "questionIds": [
+            "MED-C26-011"
+          ]
+        },
+        {
+          "element": "p830-e012",
+          "page": 830,
+          "source": "Which is the odd one out among the sex hormones listed? [Sex hormones are estrogen, progesterone and testosterone; cortisol is an adrenal cortex (fasciculata) steroid. (Book p830)]",
+          "questionIds": [
+            "MED-C26-012"
+          ]
+        },
+        {
+          "element": "p830-e013",
+          "page": 830,
+          "source": "The vitamin-derivative hormones listed are: [Vitamin derivatives in the classification are vitamin A and vitamin D. (Book p830)]",
+          "questionIds": [
+            "MED-C26-013"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 831,
+      "pdfPage": 8,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p831 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p831.",
+      "elements": [
+        {
+          "element": "p831-e001",
+          "page": 831,
+          "source": "The most abundant source of serotonin is: [Serotonin's most abundant source is the enterochromaffin cells of the GIT; melatonin's is the pineal gland. (Book p831)]",
+          "questionIds": [
+            "MED-C26-014"
+          ]
+        },
+        {
+          "element": "p831-e002",
+          "page": 831,
+          "source": "The most abundant source of melatonin is: [Melatonin's most abundant source is the pineal gland. (Book p831)]",
+          "questionIds": [
+            "MED-C26-015"
+          ]
+        },
+        {
+          "element": "p831-e003",
+          "page": 831,
+          "source": "‘Serotonin and melatonin act as centrally-acting neurotransmitters and peripherally-acting hormones.’ [Both are centrally acting neurotransmitters and peripherally acting hormones. (Book p831)]",
+          "questionIds": [
+            "MED-C26-016"
+          ]
+        },
+        {
+          "element": "p831-e004",
+          "page": 831,
+          "source": "In the sleep–wake cycle, the transmitter that keeps us alert and active is: [Serotonin keeps us alert and active; melatonin helps in sleep. (Book p831)]",
+          "questionIds": [
+            "MED-C26-017"
+          ]
+        },
+        {
+          "element": "p831-e005",
+          "page": 831,
+          "source": "At night (9:30–10 pm) light signals fall. What happens to serotonin and melatonin respectively? [At night, reduced light signals lower serotonin, allowing melatonin to rise (gradual, maximum at 2–2:30 am). (Book p831)]",
+          "questionIds": [
+            "MED-C26-018"
+          ]
+        },
+        {
+          "element": "p831-e006",
+          "page": 831,
+          "source": "Melatonin levels reach their maximum at about: [Melatonin rises gradually at night with maximum levels at 2–2:30 am. (Book p831)]",
+          "questionIds": [
+            "MED-C26-019"
+          ]
+        },
+        {
+          "element": "p831-e007",
+          "page": 831,
+          "source": "A teenager overuses gadgets at night. The downstream consequence that can ultimately result is: [Gadget overuse at night keeps serotonin up so melatonin cannot rise, disrupting the sleep–wake cycle and serotonin levels, which can lead to depressio]",
+          "questionIds": [
+            "MED-C26-020"
+          ]
+        },
+        {
+          "element": "p831-e008",
+          "page": 831,
+          "source": "Match the ‘hormones of happiness’ (DOSE) — 1) D 2) O 3) S 4) E … A) Oxytocin  B) Endorphins  C) Dopamine  D) Serotonin [DOSE = Dopamine, Oxytocin, Serotonin, Endorphins. (Book p831)]",
+          "questionIds": [
+            "MED-C26-021"
+          ]
+        },
+        {
+          "element": "p831-e009",
+          "page": 831,
+          "source": "By the 80/20 rule, the adrenal gland is composed of cortex and medulla in the ratio: [The adrenal gland is 80% cortex and 20% medulla. (Book p831)]",
+          "questionIds": [
+            "MED-C26-022"
+          ]
+        },
+        {
+          "element": "p831-e010",
+          "page": 831,
+          "source": "Within the adrenal medulla, adrenaline and noradrenaline are secreted in the ratio: [The medulla secretes 80% adrenaline and 20% noradrenaline. (Book p831)]",
+          "questionIds": [
+            "MED-C26-023"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 832,
+      "pdfPage": 9,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p832 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p832.",
+      "elements": [
+        {
+          "element": "p832-e001",
+          "page": 832,
+          "source": "Match the Group I hormone feature — 1) Receptor  2) Solubility  3) Carrier protein  4) t½ … A) Lipophilic  B) Long  C) Intracellular (cytoplasm/nucleus)  D) Present (+) [Group I: intracellular receptor, lipophilic, carrier protein (+), long t½; Group II is the opposite (cell membrane, hydrophilic, −, short). (Book p832]",
+          "questionIds": [
+            "MED-C26-024"
+          ]
+        },
+        {
+          "element": "p832-e002",
+          "page": 832,
+          "source": "Match the Group II hormone feature — 1) Receptor  2) Solubility  3) Carrier protein  4) t½ … A) Hydrophilic  B) Short  C) Cell membrane  D) Absent (−) [Group II: cell-mbrane receptor, hydrophilic, no carrier protein, short t½. (Book p832)]",
+          "questionIds": [
+            "MED-C26-025"
+          ]
+        },
+        {
+          "element": "p832-e003",
+          "page": 832,
+          "source": "Group I hormone actions are mediated through the receptor–hormone complex acting mainly on: [Group I acts through gene transcription far more than transport channels. (Book p832)]",
+          "questionIds": [
+            "MED-C26-026"
+          ]
+        },
+        {
+          "element": "p832-e004",
+          "page": 832,
+          "source": "Match receptor type to location/hormone — 1) Type I/homodimer  2) Type 2/heterodimer … A) Receptor in nucleus; T3, T4, vitamin A & D  B) Receptor in cytoplasm; steroid hormones [Type I/homodimer receptors sit in the cytoplasm and bind steroid hormones; Type 2/heterodimer receptors sit in the nucleus and bind T3, T4, vitamin A ]",
+          "questionIds": [
+            "MED-C26-027"
+          ]
+        },
+        {
+          "element": "p832-e005",
+          "page": 832,
+          "source": "In the Type I receptor, the chaperone that holds the receptor in an inactive form is ___. [Hsp-90 is the chaperone keeping the steroid receptor inactive until hormone binds. (Book p832)]",
+          "questionIds": [
+            "MED-C26-028"
+          ]
+        },
+        {
+          "element": "p832-e006",
+          "page": 832,
+          "source": "‘When the steroid hormone binds, Hsp-90 dissociates and the receptor–hormone complex becomes active.’ [Hormone binding releases Hsp-90, forming the active R–H complex that enters the nucleus. (Book p832)]",
+          "questionIds": [
+            "MED-C26-029"
+          ]
+        },
+        {
+          "element": "p832-e007",
+          "page": 832,
+          "source": "The active steroid receptor–hormone complex binds DNA at the: [The complex binds glucocorticoid response elements (GRE) to drive gene transcription. (Book p832)]",
+          "questionIds": [
+            "MED-C26-030"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 833,
+      "pdfPage": 10,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p833 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p833.",
+      "elements": [
+        {
+          "element": "p833-e001",
+          "page": 833,
+          "source": "The active form of vitamin D that activates the VDR is ___. [Calcitriol, 1,25(OH)2D3, is the active form of vitamin D that activates the VDR. (Book p833)]",
+          "questionIds": [
+            "MED-C26-031"
+          ]
+        },
+        {
+          "element": "p833-e002",
+          "page": 833,
+          "source": "The vitamin D receptor heterodimerizes with which partner before binding DNA? [VDR heterodimerizes with RXR, then the heterodimer binds VDREs to regulate target genes. (Book p833)]",
+          "questionIds": [
+            "MED-C26-032"
+          ]
+        },
+        {
+          "element": "p833-e003",
+          "page": 833,
+          "source": "The VDR–RXR heterodimer binds which DNA element? [The heterodimer binds vitamin D response elements (VDREs). (Book p833)]",
+          "questionIds": [
+            "MED-C26-033"
+          ]
+        },
+        {
+          "element": "p833-e004",
+          "page": 833,
+          "source": "‘The unliganded thyroid receptor is bound to a co-repressor; T3 binding dissociates the co-repressor and recruits a co-activator.’ [TR is held by CoR until T3 binds, dissociating CoR and recruiting CoA on the TRE to start transcription. (Book p833)]",
+          "questionIds": [
+            "MED-C26-034"
+          ]
+        },
+        {
+          "element": "p833-e005",
+          "page": 833,
+          "source": "Which receptor signals as a HOMOdimer rather than a heterodimer? [Steroid receptors are homodimers; TR, VDR, RAR and PPAR are heterodimers. (Book p833)]",
+          "questionIds": [
+            "MED-C26-035"
+          ]
+        },
+        {
+          "element": "p833-e006",
+          "page": 833,
+          "source": "Orphan nuclear receptors are characterised by: [Orphan receptors have no ligands and show constitutive activator or repressor binding. (Book p833)]",
+          "questionIds": [
+            "MED-C26-036"
+          ]
+        },
+        {
+          "element": "p833-e007",
+          "page": 833,
+          "source": "SF1 and DAX1 (orphan receptors) are required for the development of: [SF1 and DAX1 are required for development of gonadotrophs and the adrenal cortex. (Book p833)]",
+          "questionIds": [
+            "MED-C26-037"
+          ]
+        },
+        {
+          "element": "p833-e008",
+          "page": 833,
+          "source": "A defect in HNF4α causes which condition? [HNF4α defect leads to MODY type 1. (Book p833)]",
+          "questionIds": [
+            "MED-C26-038"
+          ]
+        },
+        {
+          "element": "p833-e009",
+          "page": 833,
+          "source": "Match the PPAR agonist — 1) PPARα  2) PPARγ  3) Dual PPAR (α & γ) … A) Pioglitazone  B) Clofibrate  C) Saroglitazar [Clofibrate is the PPARα agonist, pioglitazone the PPARγ agonist, saroglitazar the dual agonist. (Book p833)]",
+          "questionIds": [
+            "MED-C26-039"
+          ]
+        },
+        {
+          "element": "p833-e010",
+          "page": 833,
+          "source": "PPARα agonists are indicated for hypertriglyceridaemia above: [PPARα agonists treat hypertriglyceridaemia >440 mg/dL (risk of pancreatitis). (Book p833)]",
+          "questionIds": [
+            "MED-C26-040"
+          ]
+        },
+        {
+          "element": "p833-e011",
+          "page": 833,
+          "source": "Pioglitazone (PPARγ) carries risk of: [PPARγ agonist risks: salt & water retention, fractures, bladder cancer. (Book p833)]",
+          "questionIds": [
+            "MED-C26-041"
+          ]
+        },
+        {
+          "element": "p833-e012",
+          "page": 833,
+          "source": "The drug of choice for diabetic dyslipidaemia, NAFLD and NASH is: [Dual PPAR (α & γ) agonist saroglitazar is DOC for diabetic dyslipidaemia, NAFLD and NASH. (Book p833)]",
+          "questionIds": [
+            "MED-C26-042"
+          ]
+        },
+        {
+          "element": "p833-e013",
+          "page": 833,
+          "source": "‘Metformin also combats insulin resistance.’ [Note: metformin also combats insulin resistance. (Book p833)]",
+          "questionIds": [
+            "MED-C26-043"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 834,
+      "pdfPage": 11,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p834 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p834.",
+      "elements": [
+        {
+          "element": "p834-e001",
+          "page": 834,
+          "source": "Group II hormone actions are mediated through: [Group II acts through second messengers affecting transport channels, protein translation, modification and gene transcription. (Book p834)]",
+          "questionIds": [
+            "MED-C26-044"
+          ]
+        },
+        {
+          "element": "p834-e002",
+          "page": 834,
+          "source": "Which is NOT one of the four Group II receptor types listed? [Group II receptor types are GPCR, TKR, JAK/cytokine receptor and STKR; the intracellular steroid receptor is Group I. (Book p834)]",
+          "questionIds": [
+            "MED-C26-045"
+          ]
+        },
+        {
+          "element": "p834-e003",
+          "page": 834,
+          "source": "On hormone binding to a GPCR, the α subunit undergoes which nucleotide change? [GDP converts to GTP; the α subunit dissociates from the complex and attaches to the effector, activating it. (Book p834)]",
+          "questionIds": [
+            "MED-C26-046"
+          ]
+        },
+        {
+          "element": "p834-e004",
+          "page": 834,
+          "source": "Match G-protein to second messenger — 1) Gs/Gi  2) Gq  3) Gt … A) IP3/DAG  B) cAMP  C) cAMP via transducin [Gs/Gi signal via cAMP, Gq via IP3/DAG, and Gt (transducin) via cAMP. (Book p834)]",
+          "questionIds": [
+            "MED-C26-047"
+          ]
+        },
+        {
+          "element": "p834-e005",
+          "page": 834,
+          "source": "cAMP exerts its effect by converting inactive PKA to active PKA, which then causes: [cAMP activates PKA (protein kinase A) leading to protein phosphorylation and effects. (Book p834)]",
+          "questionIds": [
+            "MED-C26-048"
+          ]
+        },
+        {
+          "element": "p834-e006",
+          "page": 834,
+          "source": "In the Gq pathway, phospholipase C cleaves PIP2 into: [Phospholipase C splits phosphatidylinositol pyrophosphate (PIP2) into DAG and IP3. (Book p834)]",
+          "questionIds": [
+            "MED-C26-049"
+          ]
+        },
+        {
+          "element": "p834-e007",
+          "page": 834,
+          "source": "Match the Gq second messenger to its target — 1) DAG  2) IP3 … A) Activates Ca2+/calmodulin pathway  B) Activates PKC (protein kinase C) [DAG activates PKC; IP3 activates the Ca2+/calmodulin pathway. (Book p834)]",
+          "questionIds": [
+            "MED-C26-050"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 835,
+      "pdfPage": 12,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p835 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p835.",
+      "elements": [
+        {
+          "element": "p835-e001",
+          "page": 835,
+          "source": "Which hypothalamic hormone signals via cAMP? [Hypothalamus: CRH uses cAMP; TRH and GnRH use IP3/DAG. (Book p835)]",
+          "questionIds": [
+            "MED-C26-051"
+          ]
+        },
+        {
+          "element": "p835-e002",
+          "page": 835,
+          "source": "The anterior pituitary hormones that use cAMP are: [Anterior pituitary cAMP hormones: ACTH, FSH, LH, TSH. (Book p835)]",
+          "questionIds": [
+            "MED-C26-052"
+          ]
+        },
+        {
+          "element": "p835-e003",
+          "page": 835,
+          "source": "Match vasopressin/oxytocin receptor to messenger — 1) V2  2) V1, V3, oxytocin … A) IP3/DAG  B) cAMP [Posterior pituitary: V2 uses cAMP; V1, V3 and oxytocin use IP3/DAG. (Book p835)]",
+          "questionIds": [
+            "MED-C26-053"
+          ]
+        },
+        {
+          "element": "p835-e004",
+          "page": 835,
+          "source": "The vasoconstrictors that signal via IP3/DAG are: [Vasoconstrictors using IP3/DAG: AT II and substance P. (Book p835)]",
+          "questionIds": [
+            "MED-C26-054"
+          ]
+        },
+        {
+          "element": "p835-e005",
+          "page": 835,
+          "source": "Match ANS receptor to messenger — 1) α2 (Gi) and β  2) α1 and acetylcholine receptors … A) IP3/DAG  B) cAMP [ANS: α2 (Gi) and β use cAMP; α1 and acetylcholine receptors use IP3/DAG. (Book p835)]",
+          "questionIds": [
+            "MED-C26-055"
+          ]
+        },
+        {
+          "element": "p835-e006",
+          "page": 835,
+          "source": "The GIT hormones using cAMP are: [GIT cAMP: secretin, glucagon, somatostatin (Gi); IP3/DAG: CCK, gastrin. (Book p835)]",
+          "questionIds": [
+            "MED-C26-056"
+          ]
+        },
+        {
+          "element": "p835-e007",
+          "page": 835,
+          "source": "The miscellaneous hormones signalling via cAMP are: [Miscellaneous cAMP hormones: PTH and calcitonin. (Book p835)]",
+          "questionIds": [
+            "MED-C26-057"
+          ]
+        },
+        {
+          "element": "p835-e008",
+          "page": 835,
+          "source": "‘Gi is inhibitory and lowers cAMP; all other G proteins listed are Gs (stimulatory).’ [Gi is inhibitory (↓cAMP); all others are Gs stimulatory. V = vasopressin, AT II = angiotensin II. (Book p835)]",
+          "questionIds": [
+            "MED-C26-058"
+          ]
+        },
+        {
+          "element": "p835-e009",
+          "page": 835,
+          "source": "The two cGMP-mediated vasodilators listed are: [cGMP vasodilators: nitric oxide and ANF. (Book p835)]",
+          "questionIds": [
+            "MED-C26-059"
+          ]
+        },
+        {
+          "element": "p835-e010",
+          "page": 835,
+          "source": "The most potent vasoconstrictor named is: [Note: urotensin is the most potent vasoconstrictor. (Book p835)]",
+          "questionIds": [
+            "MED-C26-060"
+          ]
+        },
+        {
+          "element": "p835-e011",
+          "page": 835,
+          "source": "The TKR mechanism in order is: monomer receptor → ligand → [TKR: ligand causes intracellular dimerisation then receptor autophosphorylation. (Book p835)]",
+          "questionIds": [
+            "MED-C26-061"
+          ]
+        },
+        {
+          "element": "p835-e012",
+          "page": 835,
+          "source": "Insulin signals through the TKR by activating which pathway to mobilise GLUT4? [Insulin activates the PI3K Akt 1/2 pathway, activating GLUT4 (IRS→PI3K→PDK1→Akt). (Book p835)]",
+          "questionIds": [
+            "MED-C26-062"
+          ]
+        },
+        {
+          "element": "p835-e013",
+          "page": 835,
+          "source": "All of the following use TKR EXCEPT: [Growth factors use TKR except TGF β (which uses STKR). (Book p835)]",
+          "questionIds": [
+            "MED-C26-063"
+          ]
+        },
+        {
+          "element": "p835-e014",
+          "page": 835,
+          "source": "GLUT4 mediates insulin-dependent glucose uptake in: [GLUT4 insulin-dependent uptake occurs in adipose tissue, skeletal muscle and heart. (Book p835)]",
+          "questionIds": [
+            "MED-C26-064"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 836,
+      "pdfPage": 13,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p836 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p836.",
+      "elements": [
+        {
+          "element": "p836-e001",
+          "page": 836,
+          "source": "In the JAK–STAT pathway, ligand binding and dimerisation lead to phosphorylation of which protein? [JAK–STAT: ligand binding → dimerisation → phosphorylation of STAT protein → nucleus → transcription. (Book p836)]",
+          "questionIds": [
+            "MED-C26-065"
+          ]
+        },
+        {
+          "element": "p836-e002",
+          "page": 836,
+          "source": "The hormones that use JAK receptors are: [JAK receptors are used by growth hormone, prolactin (twin hormones) and erythropoietin (EPO). (Book p836)]",
+          "questionIds": [
+            "MED-C26-066"
+          ]
+        },
+        {
+          "element": "p836-e003",
+          "page": 836,
+          "source": "Which two hormones are labelled the ‘twin hormones’? [Growth hormone and prolactin are grouped as the twin hormones (both JAK). (Book p836)]",
+          "questionIds": [
+            "MED-C26-067"
+          ]
+        },
+        {
+          "element": "p836-e004",
+          "page": 836,
+          "source": "JAK2 mutations are present in which group of disorders? [JAK2 mutations occur in polycythaemia rubra vera, primary myelofibrosis and essential thrombocytosis. (Book p836)]",
+          "questionIds": [
+            "MED-C26-068"
+          ]
+        },
+        {
+          "element": "p836-e005",
+          "page": 836,
+          "source": "The serine–threonine kinase receptor (STKR) acts by phosphorylating: [STKR signals via phosphorylation of SMAD protein. (Book p836)]",
+          "questionIds": [
+            "MED-C26-069"
+          ]
+        },
+        {
+          "element": "p836-e006",
+          "page": 836,
+          "source": "Hormones using the STKR include: [STKR hormones: activin, inhibin, BMP (bone morphogenetic protein) and TGF-β. (Book p836)]",
+          "questionIds": [
+            "MED-C26-070"
+          ]
+        },
+        {
+          "element": "p836-e007",
+          "page": 836,
+          "source": "The most potent pathogenic fibrogenic cytokine is: [TGF-β is the most potent pathogenic fibrogenic cytokine (TGF: stroke master). (Book p836)]",
+          "questionIds": [
+            "MED-C26-071"
+          ]
+        }
+      ]
+    }
+  ]
+}

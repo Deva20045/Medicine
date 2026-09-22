@@ -1,0 +1,1191 @@
+{
+  "chapter": 16,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+  "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+  "pdfOffset": 759,
+  "pageRange": "786-792",
+  "contentSha256": "396568b1d9ac1b8a6e6db5f4a181e0204c30fb0d54934b3fd6f9110cb55a4352",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch16 p786-792: auto-generated source checklist from existing 139 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 786,
+      "pdfPage": 27,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p786 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p786.",
+      "elements": [
+        {
+          "element": "p786-e001",
+          "page": 786,
+          "source": "Ciliopathies are best defined as: [Ciliopathies are hereditary cystic disorders of the kidney: cilia maintain the differentiated phenotype of tubular epithelium, and a defect causes cys]",
+          "questionIds": [
+            "MED-C16-001"
+          ]
+        },
+        {
+          "element": "p786-e002",
+          "page": 786,
+          "source": "Fill up: Cilia maintain the differentiated phenotype of ______ epithelium. [Cilia function: maintain the differentiated phenotype of tubular epithelium, and this function is regulated by polycystin. (Book p786)]",
+          "questionIds": [
+            "MED-C16-002"
+          ]
+        },
+        {
+          "element": "p786-e003",
+          "page": 786,
+          "source": "A defect in the cilia of renal tubular epithelium leads to which structural consequence? [Defect of cilia → ciliopathies: the tubular epithelium loses its differentiated phenotype and cysts develop. (Book p786)]",
+          "questionIds": [
+            "MED-C16-003"
+          ]
+        },
+        {
+          "element": "p786-e004",
+          "page": 786,
+          "source": "The function of cilia in tubular epithelium is regulated by: [Cilia function — maintaining the differentiated phenotype of tubular epithelium — is regulated by polycystin. (Book p786)]",
+          "questionIds": [
+            "MED-C16-004"
+          ]
+        },
+        {
+          "element": "p786-e005",
+          "page": 786,
+          "source": "Match the four types in the ciliopathy flowchart — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis  4) MCDK … A) Autosomal dominant polycystic kidney disease  B) Medullary cystic disease of kidney  C) Juvenile nephronophthisis  D) Autosomal recessive polycystic kidney disease [The TYPES flowchart lists four ciliopathies: ADPKD, ARPKD, juvenile nephronophthisis and medullary cystic disease of kidney (MCDK). (Book p786)]",
+          "questionIds": [
+            "MED-C16-005"
+          ]
+        },
+        {
+          "element": "p786-e006",
+          "page": 786,
+          "source": "Which entity is NOT one of the four ciliopathies listed in the TYPES flowchart? [Medullary sponge kidney is later described as 'not a ciliopathy' — an acquired disease; the four ciliopathies listed are ADPKD, ARPKD, juvenile nephro]",
+          "questionIds": [
+            "MED-C16-006"
+          ]
+        },
+        {
+          "element": "p786-e007",
+          "page": 786,
+          "source": "Regarding ADPKD, which statement is correct? [ADPKD: autosomal dominant with variable expression (few develop ESRD), 10% due to spontaneous mutation, multiple bilateral renal cysts as hallmark, an]",
+          "questionIds": [
+            "MED-C16-007"
+          ]
+        },
+        {
+          "element": "p786-e008",
+          "page": 786,
+          "source": "What percentage of ADPKD is due to spontaneous (new) mutation? [ADPKD: 10% is due to spontaneous mutation (no family history). (Book p786)]",
+          "questionIds": [
+            "MED-C16-008"
+          ]
+        },
+        {
+          "element": "p786-e009",
+          "page": 786,
+          "source": "Fill up: In ADPKD, only ______% of nephrons are involved, so renal function is preserved for long. [ADPKD involves only 5% of nephrons — hence preserved renal function despite massive cystic kidneys. (Book p786)]",
+          "questionIds": [
+            "MED-C16-009"
+          ]
+        },
+        {
+          "element": "p786-e010",
+          "page": 786,
+          "source": "Multiple bilateral renal cysts are the hallmark of ADPKD. [Hallmark of ADPKD: multiple bilateral renal cysts; genes PKD1 (85%) and PKD2 (15%). (Book p786)]",
+          "questionIds": [
+            "MED-C16-010"
+          ]
+        },
+        {
+          "element": "p786-e011",
+          "page": 786,
+          "source": "Match each ADPKD gene with its chromosome and product — 1) PKD1  2) PKD2  3) PKD3 … A) Printed as GANA B  B) Chr16p - polycystin 1, 85% of cases  C) Chr4q - polycystin 2, milder disease [Gene defect: PKD1 on chr16p (85%) gives polycystin 1; PKD2 on chr4q (15%) gives polycystin 2 with milder disease; PKD3 is printed as GANA B. (Book p78]",
+          "questionIds": [
+            "MED-C16-011"
+          ]
+        },
+        {
+          "element": "p786-e012",
+          "page": 786,
+          "source": "PKD1 on chromosome 16p accounts for what percentage of ADPKD? [PKD1 (Chr16p → polycystin 1) accounts for 85%; PKD2 (Chr4q → polycystin 2) accounts for 15% and causes milder disease. (Book p786)]",
+          "questionIds": [
+            "MED-C16-012"
+          ]
+        },
+        {
+          "element": "p786-e013",
+          "page": 786,
+          "source": "A patient with ADPKD has a PKD2 mutation. Compared with PKD1 disease, the expected course is: [PKD2 (Chr4q → polycystin 2) produces milder disease than PKD1, which accounts for 85% of cases. (Book p786)]",
+          "questionIds": [
+            "MED-C16-013"
+          ]
+        },
+        {
+          "element": "p786-e014",
+          "page": 786,
+          "source": "Why is hypertension so common in ADPKD, even early in the disease? [The boxed note: polycystin is also present in vascular smooth muscle, and hence in ADPKD hypertension is present. (Book p786)]",
+          "questionIds": [
+            "MED-C16-014"
+          ]
+        },
+        {
+          "element": "p786-e015",
+          "page": 786,
+          "source": "The polycystin protein of ADPKD is expressed in vascular smooth muscle, which helps explain the hypertension of ADPKD. [Boxed note: polycystin is also present in vascular smooth muscle → in ADPKD, HTN is present. (Book p786)]",
+          "questionIds": [
+            "MED-C16-015"
+          ]
+        },
+        {
+          "element": "p786-e016",
+          "page": 786,
+          "source": "Match the Ravinson's criteria age band with the number of cysts needed for diagnosis of ADPKD — 1) 15–39 years  2) 40–59 years  3) ≥60 years … A) ≥4 cysts bilaterally  B) ≥2 cysts bilaterally  C) ≥3 cysts (unilateral or bilateral) [Ravinson's criteria (based on USG, the investigation of choice): 15–39 years — ≥3 cysts (u/l or b/l); 40–59 years — ≥2 cysts bilaterally; ≥60 years — ]",
+          "questionIds": [
+            "MED-C16-016"
+          ]
+        },
+        {
+          "element": "p786-e017",
+          "page": 786,
+          "source": "Fill up: The diagnostic criteria for ADPKD (Ravinson's criteria) are based on ______, which is the investigation of choice. [Ravinson's criteria for ADPKD diagnosis are based on USG, marked as the investigation of choice (IOC). (Book p786)]",
+          "questionIds": [
+            "MED-C16-017"
+          ]
+        },
+        {
+          "element": "p786-e018",
+          "page": 786,
+          "source": "A 45-year-old with a family history of ADPKD needs how many cysts on ultrasound to satisfy Ravinson's criteria? [For ages 40–59 years the criterion is ≥2 cysts bilaterally (≥3 cysts u/l or b/l applies at 15–39 years, and ≥4 bilaterally at ≥60 years). (Book p786)]",
+          "questionIds": [
+            "MED-C16-018"
+          ]
+        },
+        {
+          "element": "p786-e019",
+          "page": 786,
+          "source": "A 66-year-old woman with a family history of ADPKD has a renal ultrasound. How many cysts bilaterally are required by Ravinson's criteria? [For age ≥60 years, Ravinson's criteria require ≥4 cysts bilaterally. (Book p786)]",
+          "questionIds": [
+            "MED-C16-019"
+          ]
+        },
+        {
+          "element": "p786-e020",
+          "page": 786,
+          "source": "All but one of the following are correct Ravinson's criteria pairings. Which is the odd one out? [In the 15–39 year band the requirement is ≥3 cysts (unilateral or bilateral), not ≥2 bilaterally (which is the 40–59 year rule). (Book p786)]",
+          "questionIds": [
+            "MED-C16-020"
+          ]
+        },
+        {
+          "element": "p786-e021",
+          "page": 786,
+          "source": "The gross specimen figure labelled 'cysts in ADPKD' shows kidneys in which the external and cut surfaces demonstrate: [The figure of ADPKD (external and cut surface) shows multiple cysts of varying size in both kidneys, the hallmark of the disease. (Book p786)]",
+          "questionIds": [
+            "MED-C16-021"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 787,
+      "pdfPage": 28,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p787 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p787.",
+      "elements": [
+        {
+          "element": "p787-e001",
+          "page": 787,
+          "source": "A 28-year-old man is found to have bilateral enlarged cystic kidneys during an ultrasound performed because his father has ADPKD. He has no complaints. This presentation is: [ADPKD clinical features begin with 'Asymptomatic: m/c presentation' — incidental diagnosis or USG done because of family history. (Book p787)]",
+          "questionIds": [
+            "MED-C16-022"
+          ]
+        },
+        {
+          "element": "p787-e002",
+          "page": 787,
+          "source": "Abdominal discomfort in ADPKD usually occurs at what age? [Abdominal discomfort usually at 30–40 years, due to renomegaly (can have abdominal distension). (Book p787)]",
+          "questionIds": [
+            "MED-C16-023"
+          ]
+        },
+        {
+          "element": "p787-e003",
+          "page": 787,
+          "source": "Fill up: Abdominal discomfort in ADPKD is caused by ______. [Abdominal discomfort in ADPKD (usually at 30–40 years) is due to renomegaly, which can produce abdominal distension. (Book p787)]",
+          "questionIds": [
+            "MED-C16-024"
+          ]
+        },
+        {
+          "element": "p787-e004",
+          "page": 787,
+          "source": "Hypertension in ADPKD is important because it: [Clinical feature 3: HTN in ADPKD can lead to severe target organ damage. (Book p787)]",
+          "questionIds": [
+            "MED-C16-025"
+          ]
+        },
+        {
+          "element": "p787-e005",
+          "page": 787,
+          "source": "A patient with ADPKD reports that he wakes up twice a night to pass urine, whereas previously he passed urine 3 times in a day and once at night. This nocturia indicates: [Nocturia — a change in the day-to-night frequency of urination (normal: 3 times in day, 1 at night) — results from tubular involvement and impaired co]",
+          "questionIds": [
+            "MED-C16-026"
+          ]
+        },
+        {
+          "element": "p787-e006",
+          "page": 787,
+          "source": "Fill up: Normal urinary frequency is ______ times in the day and one at night. [The nocturia note records normal frequency as 3 times in the day and 1 time at night; a change in this ratio is nocturia due to impaired concentrating]",
+          "questionIds": [
+            "MED-C16-027"
+          ]
+        },
+        {
+          "element": "p787-e007",
+          "page": 787,
+          "source": "Match each ADPKD feature with its explanation — 1) Nocturia and polyuria  2) Less anaemia than other CKD causes  3) Biventricular diastolic dysfunction … A) Systemic hypertension  B) Preserved EPO production  C) Tubular involvement with impaired concentrating capacity [Nocturia and polyuria come from tubular involvement with impaired concentrating capacity; anaemia is less common because EPO production is preserved (]",
+          "questionIds": [
+            "MED-C16-028"
+          ]
+        },
+        {
+          "element": "p787-e008",
+          "page": 787,
+          "source": "Anaemia is less common in ADPKD because EPO production is preserved. [Clinical feature 6 in ADPKD: anaemia is less common due to preserved EPO production. (Book p787)]",
+          "questionIds": [
+            "MED-C16-029"
+          ]
+        },
+        {
+          "element": "p787-e009",
+          "page": 787,
+          "source": "Among the CKD conditions listed, which has the least anaemia? [Note: CKD with least anaemia — ADPKD, because EPO production is preserved. (Book p787)]",
+          "questionIds": [
+            "MED-C16-030"
+          ]
+        },
+        {
+          "element": "p787-e010",
+          "page": 787,
+          "source": "All but one of the following are listed clinical features of ADPKD. Which is the odd one out? [ADPKD is remarkable for the least anaemia among CKD causes (EPO is preserved); the other items are listed features. (Book p787)]",
+          "questionIds": [
+            "MED-C16-031"
+          ]
+        },
+        {
+          "element": "p787-e011",
+          "page": 787,
+          "source": "What percentage of ADPKD patients develop ESRD by 60 years? [Complication: ESRD — only 60% develop ESRD by 60 years, reflecting the variable expression of ADPKD. (Book p787)]",
+          "questionIds": [
+            "MED-C16-032"
+          ]
+        },
+        {
+          "element": "p787-e012",
+          "page": 787,
+          "source": "A 27-year-old black man with ADPKD has haematuria at presentation and a BP of 150/95 mmHg. Which statement best reflects the book's list of prognostic indicators? [Indicators of bad prognosis/early ESRD: black males, diagnosis before 30 years, haematuria at presentation, HTN below 35 years and a PKD1 truncating m]",
+          "questionIds": [
+            "MED-C16-033"
+          ]
+        },
+        {
+          "element": "p787-e013",
+          "page": 787,
+          "source": "All but one of the following increase the chance of early ESRD in ADPKD. Which is the odd one out? [PKD1 truncating mutation is an indicator of early ESRD; PKD2 mutations cause milder disease. The other listed indicators are black males, diagnosis be]",
+          "questionIds": [
+            "MED-C16-034"
+          ]
+        },
+        {
+          "element": "p787-e014",
+          "page": 787,
+          "source": "In ADPKD, which single investigation is described as the strongest predictor of renal function decline? [Kidney and cyst volume on MRI is the strongest predictor for renal function decline; if within normal limits, chances of ESRD are less. (Book p787)]",
+          "questionIds": [
+            "MED-C16-035"
+          ]
+        },
+        {
+          "element": "p787-e015",
+          "page": 787,
+          "source": "If kidney and cyst volume on MRI are within normal limits in ADPKD, the chances of ESRD are less. [Kidney and cyst volume on MRI: strongest predictor for renal function decline; if within normal limits, chances of ESRD are less. (Book p787)]",
+          "questionIds": [
+            "MED-C16-036"
+          ]
+        },
+        {
+          "element": "p787-e016",
+          "page": 787,
+          "source": "Match the ADPKD complication with its description — 1) Cyst hemorrhage  2) Cyst infection  3) Renal stones  4) Cyst rupture … A) Commonest organism E. coli  B) Can be caused by blunt trauma to the abdomen (rare)  C) Can cause haematuria  D) Uric acid > calcium oxalate [ADPKD complications: cyst haemorrhage can cause haematuria; cyst infection with E. coli as the commonest organism; renal stones uric acid > calcium ox]",
+          "questionIds": [
+            "MED-C16-037"
+          ]
+        },
+        {
+          "element": "p787-e017",
+          "page": 787,
+          "source": "The commonest organism causing cyst infection in ADPKD is: [Cyst infection in ADPKD: the commonest organism is E. coli. (Book p787)]",
+          "questionIds": [
+            "MED-C16-038"
+          ]
+        },
+        {
+          "element": "p787-e018",
+          "page": 787,
+          "source": "In ADPKD, uric acid stones are commoner than calcium oxalate stones. [Renal stones in ADPKD: uric acid > calcium oxalate — unlike the general population, where calcium oxalate dominates. (Book p787)]",
+          "questionIds": [
+            "MED-C16-039"
+          ]
+        },
+        {
+          "element": "p787-e019",
+          "page": 787,
+          "source": "A man with ADPKD develops sudden loin pain after a bicycle handlebar injury to the abdomen. Which rare complication fits? [Cyst rupture (rare) in ADPKD can be caused by blunt trauma to the abdomen. (Book p787)]",
+          "questionIds": [
+            "MED-C16-040"
+          ]
+        },
+        {
+          "element": "p787-e020",
+          "page": 787,
+          "source": "Which group of ADPKD complications is bracketed in the book as presenting with abdominal pain? [The bracket 'presents with abdominal pain' covers cyst haemorrhage (can cause haematuria), cyst infection (m/c E. coli), renal stones (uric acid > cal]",
+          "questionIds": [
+            "MED-C16-041"
+          ]
+        },
+        {
+          "element": "p787-e021",
+          "page": 787,
+          "source": "Which cardiac abnormality is described in ADPKD, and why? [Biventricular diastolic dysfunction in ADPKD occurs due to hypertension (polycystin in vascular smooth muscle). (Book p787)]",
+          "questionIds": [
+            "MED-C16-042"
+          ]
+        },
+        {
+          "element": "p787-e022",
+          "page": 787,
+          "source": "Match the commonest renal stone type with its setting — 1) General population  2) Renal tubular acidosis  3) ADPKD … A) Uric acid  B) Calcium phosphate  C) Calcium oxalate [Note on the commonest stone type in the kidney: generally calcium oxalate; in renal tubular acidosis calcium phosphate; in ADPKD uric acid. (Book p787]",
+          "questionIds": [
+            "MED-C16-043"
+          ]
+        },
+        {
+          "element": "p787-e023",
+          "page": 787,
+          "source": "Fill up: In renal tubular acidosis, the commonest renal stone is calcium ______. [Note: m/c stone in kidney — generally calcium oxalate; in RTA calcium phosphate; in ADPKD uric acid. (Book p787)]",
+          "questionIds": [
+            "MED-C16-044"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 788,
+      "pdfPage": 29,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p788 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p788.",
+      "elements": [
+        {
+          "element": "p788-e001",
+          "page": 788,
+          "source": "Which statement about investigations in ADPKD is correct? [ADPKD investigations: RFT normal; USG the IOC; MRI to evaluate the risk for ESRD; CT scan and CT urography for renal stones; FDG PET to find the sourc]",
+          "questionIds": [
+            "MED-C16-045"
+          ]
+        },
+        {
+          "element": "p788-e002",
+          "page": 788,
+          "source": "A 34-year-old with a family history of ADPKD has no cysts on ultrasound. Which investigation confirms that he can safely donate a kidney? [Criteria to rule out ADPKD if family history is present but USG shows no cysts: >30 years with not even one cyst on MRI — such a person can donate a k]",
+          "questionIds": [
+            "MED-C16-046"
+          ]
+        },
+        {
+          "element": "p788-e003",
+          "page": 788,
+          "source": "Match each ADPKD investigation with its purpose — 1) MRI  2) CT scan and CT urography  3) FDG PET scan … A) To evaluate risk for ESRD  B) Renal stones  C) To find the source of infection (cyst infection) [MRI evaluates risk for ESRD; CT scan and CT urography evaluate renal stones; FDG PET scan finds the source of infection in cyst infection. (Book p788)]",
+          "questionIds": [
+            "MED-C16-047"
+          ]
+        },
+        {
+          "element": "p788-e004",
+          "page": 788,
+          "source": "A patient with ADPKD and fever with loin pain is suspected to have cyst infection; blood cultures are negative. Which investigation is used to localise the source of infection? [FDG PET scan is used 'to find source of infection'—cyst infection in ADPKD. (Book p788)]",
+          "questionIds": [
+            "MED-C16-048"
+          ]
+        },
+        {
+          "element": "p788-e005",
+          "page": 788,
+          "source": "The rationale behind reducing osmolality in the treatment of ADPKD is: [Treatment of ADPKD begins with ↓osmolality to reduce ADH, because cystic growth depends on ADH. (Book p788)]",
+          "questionIds": [
+            "MED-C16-049"
+          ]
+        },
+        {
+          "element": "p788-e006",
+          "page": 788,
+          "source": "The daily fluid intake advised to lower osmolality in ADPKD is: [↓Osmolality in ADPKD: ↑fluid intake 4–5 L/day, along with tolvaptan (DOC). (Book p788)]",
+          "questionIds": [
+            "MED-C16-050"
+          ]
+        },
+        {
+          "element": "p788-e007",
+          "page": 788,
+          "source": "The drug of choice in the treatment of ADPKD, and its class, are: [Tolvaptan is the DOC in ADPKD: oral V₂ antagonist, 15 mg at night with LFT monitoring. Somatostatin analogues and everolimus are novel therapies. (Boo]",
+          "questionIds": [
+            "MED-C16-051"
+          ]
+        },
+        {
+          "element": "p788-e008",
+          "page": 788,
+          "source": "A patient with ADPKD is started on the drug of choice for cyst growth. Which baseline and follow-up monitoring is required? [Tolvaptan (oral V₂ antagonist, 15 mg at night) requires monitoring of LFT. (Book p788)]",
+          "questionIds": [
+            "MED-C16-052"
+          ]
+        },
+        {
+          "element": "p788-e009",
+          "page": 788,
+          "source": "Match each ADPKD therapy with its role — 1) Tolvaptan  2) Everolimus and somatostatin analogues  3) ACE inhibitor or ARB … A) Tight BP control  B) Oral V2 antagonist, 15 mg at night with LFT monitoring  C) Novel therapies [Treatment: tolvaptan (oral V2 antagonist, 15 mg at night, monitor LFT) is the DOC for cyst growth; somatostatin analogues and everolimus are novel the]",
+          "questionIds": [
+            "MED-C16-053"
+          ]
+        },
+        {
+          "element": "p788-e010",
+          "page": 788,
+          "source": "In the ADPKD treatment section, tight BP control means a target of: [Tight BP control in ADPKD: SBP 95–110/DBP 60–75 mmHg using an ACE inhibitor or ARB. (Book p788)]",
+          "questionIds": [
+            "MED-C16-054"
+          ]
+        },
+        {
+          "element": "p788-e011",
+          "page": 788,
+          "source": "The antihypertensive classes specified for tight BP control in ADPKD are: [Tight BP control (SBP 95–110/DBP 60–75 mmHg) in ADPKD is achieved with an ACE inhibitor or ARB. (Book p788)]",
+          "questionIds": [
+            "MED-C16-055"
+          ]
+        },
+        {
+          "element": "p788-e012",
+          "page": 788,
+          "source": "All but one of the following are part of the treatment or prevention plan in ADPKD. Which is the odd one out? [Treatment of ADPKD: ↓osmolality with fluids and tolvaptan, tight BP control with ACEi/ARB, novel therapies (somatostatin analogues, everolimus) and po]",
+          "questionIds": [
+            "MED-C16-056"
+          ]
+        },
+        {
+          "element": "p788-e013",
+          "page": 788,
+          "source": "Which three measures are listed under prevention of complications in ADPKD? [Prevention of complications in ADPKD: watch out for abdominal pain; avoid blunt trauma (to prevent rupture); potassium citrate for alkalinisation of u]",
+          "questionIds": [
+            "MED-C16-057"
+          ]
+        },
+        {
+          "element": "p788-e014",
+          "page": 788,
+          "source": "Fill up: In ADPKD, potassium citrate is given to ______ the urine and prevent renal stones. [Prevention of complications in ADPKD: potassium citrate causes alkalinisation of the urine to prevent renal stones. (Book p788)]",
+          "questionIds": [
+            "MED-C16-058"
+          ]
+        },
+        {
+          "element": "p788-e015",
+          "page": 788,
+          "source": "An ADPKD patient who plays contact sports asks about precautions. The correct advice from the prevention list is: [Prevention list: watch out for abdominal pain and avoid blunt trauma (to prevent rupture of cysts). (Book p788)]",
+          "questionIds": [
+            "MED-C16-059"
+          ]
+        },
+        {
+          "element": "p788-e016",
+          "page": 788,
+          "source": "The antibiotics that penetrate cysts in ADPKD are remembered as CCC, namely: [Antibiotics that penetrate cysts (CCC): ciprofloxacin, cotrimoxazole and carbapenems — used for cyst infection. (Book p788)]",
+          "questionIds": [
+            "MED-C16-060"
+          ]
+        },
+        {
+          "element": "p788-e017",
+          "page": 788,
+          "source": "A patient with ADPKD and cyst infection requires antibiotics. Which set is appropriate? [Cyst-penetrating antibiotics in ADPKD are ciprofloxacin, cotrimoxazole and carbapenems (CCC). (Book p788)]",
+          "questionIds": [
+            "MED-C16-061"
+          ]
+        },
+        {
+          "element": "p788-e018",
+          "page": 788,
+          "source": "In ADPKD, renal transplantation reverses the extrarenal associations such as liver cysts. [For ESRD (CKD) in ADPKD renal transplant is done, but extrarenal associations cannot be reversed — liver cysts, colonic diverticulum, saccular aneurys]",
+          "questionIds": [
+            "MED-C16-062"
+          ]
+        },
+        {
+          "element": "p788-e019",
+          "page": 788,
+          "source": "Match the extrarenal association of ADPKD with the description given — 1) Liver cysts  2) Colonic diverticulum  3) Saccular aneurysm of anterior circulation … A) A listed extrarenal association  B) The commonest extrarenal association  C) Significant if >10 mm [Extrarenal associations of ADPKD: liver cysts (m/c); colonic diverticulum; saccular aneurysm of the anterior circulation (>10 mm is significant); mitr]",
+          "questionIds": [
+            "MED-C16-063"
+          ]
+        },
+        {
+          "element": "p788-e020",
+          "page": 788,
+          "source": "A saccular aneurysm of the anterior circulation in ADPKD is considered significant when it exceeds: [Saccular aneurysm of anterior circulation in ADPKD: >10 mm is significant. (Book p788)]",
+          "questionIds": [
+            "MED-C16-064"
+          ]
+        },
+        {
+          "element": "p788-e021",
+          "page": 788,
+          "source": "Which of the following is NOT listed as an extrarenal association of ADPKD? [Congenital hepatic fibrosis/Caroli's syndrome belongs to ARPKD (biliary duct involvement); ADPKD has liver cysts, colonic diverticulum, saccular aneur]",
+          "questionIds": [
+            "MED-C16-065"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 789,
+      "pdfPage": 30,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p789 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p789.",
+      "elements": [
+        {
+          "element": "p789-e001",
+          "page": 789,
+          "source": "Match the remaining extrarenal associations of ADPKD — 1) Cardiac valve  2) Aorta  3) Abdominal wall … A) Aortic root dilatation  B) Inguinal hernia  C) Mitral valve prolapse [Extrarenal associations continued: mitral valve prolapse (d), AR/aortic root dilatation (e), and abdominal wall/inguinal hernia (f). (Book p789)]",
+          "questionIds": [
+            "MED-C16-066"
+          ]
+        },
+        {
+          "element": "p789-e002",
+          "page": 789,
+          "source": "Which of the following is the correct indication for pre-transplant nephrectomy in ADPKD? [Indications for pre-transplant nephrectomy: (a) infection, (b) obstruction (no space for the transplanted kidney), (c) bleeding, (d) uncontrolled hype]",
+          "questionIds": [
+            "MED-C16-067"
+          ]
+        },
+        {
+          "element": "p789-e003",
+          "page": 789,
+          "source": "A patient with ADPKD and massively enlarged kidneys is being prepared for transplantation. Nephrectomy is indicated for the specific reason that: [Pre-transplant nephrectomy indications include obstruction — no space for the transplanted kidney — along with infection, bleeding and uncontrolled hy]",
+          "questionIds": [
+            "MED-C16-068"
+          ]
+        },
+        {
+          "element": "p789-e004",
+          "page": 789,
+          "source": "In ADPKD the brain has no cysts. [Note: brain has no cysts in ADPKD, although saccular aneurysms of the anterior circulation (Berry aneurysms) can occur. (Book p789)]",
+          "questionIds": [
+            "MED-C16-069"
+          ]
+        },
+        {
+          "element": "p789-e005",
+          "page": 789,
+          "source": "ARPKD is: [ARPKD: autosomal recessive, and it can be diagnosed in utero (small cysts in the medulla). (Book p789)]",
+          "questionIds": [
+            "MED-C16-070"
+          ]
+        },
+        {
+          "element": "p789-e006",
+          "page": 789,
+          "source": "Fill up: In ARPKD the gene defect is on chromosome 6: ______, which forms the fibrocystin–polyductin complex. [ARPKD gene defect: on chromosome 6 — PKHD1 → fibrocystin–polyductin complex, whose defect affects the cilia/centrosome complex. (Book p789)]",
+          "questionIds": [
+            "MED-C16-071"
+          ]
+        },
+        {
+          "element": "p789-e007",
+          "page": 789,
+          "source": "Complete the ARPKD flowchart — 1) Collecting duct  2) Biliary duct  3) Gene on chromosome 6 … A) PKHD1 leading to the fibrocystin-polyductin complex  B) Congenital hepatic fibrosis/Caroli's syndrome/biliary ectasia  C) Medullary cyst [ARPKD flowchart: PKHD1 on chromosome 6 forms the fibrocystin-polyductin complex; a defect affecting the cilia/centrosome complex produces medullary cy]",
+          "questionIds": [
+            "MED-C16-072"
+          ]
+        },
+        {
+          "element": "p789-e008",
+          "page": 789,
+          "source": "A neonate with ARPKD has hepatosplenomegaly and portal hypertension. The underlying lesion is: [ARPKD: the biliary duct branch of the fibrocystin defect gives congenital hepatic fibrosis (Caroli's syndrome/biliary ectasia), which produces portal ]",
+          "questionIds": [
+            "MED-C16-073"
+          ]
+        },
+        {
+          "element": "p789-e009",
+          "page": 789,
+          "source": "What percentage of ARPKD babies with pulmonary hypoplasia die within 1 year? [Complications of ARPKD: pulmonary hypoplasia → 70% die within 1 year (major cause of death at birth). (Book p789)]",
+          "questionIds": [
+            "MED-C16-074"
+          ]
+        },
+        {
+          "element": "p789-e010",
+          "page": 789,
+          "source": "Pulmonary hypoplasia is the major cause of death at birth in ARPKD. [ARPKD: pulmonary hypoplasia causes 70% of deaths within 1 year and is the major cause of death at birth. (Book p789)]",
+          "questionIds": [
+            "MED-C16-075"
+          ]
+        },
+        {
+          "element": "p789-e011",
+          "page": 789,
+          "source": "Match the ARPKD complication with the age of death and its cause — 1) Pulmonary hypoplasia  2) Portal hypertension (Caroli syndrome)  3) ESRD … A) 30% die at adolescence  B) Very rare; renal failure  C) 70% die within 1 year [ARPKD complications: pulmonary hypoplasia — 70% die within 1 year (major cause of death at birth); portal hypertension from Caroli syndrome — remainin]",
+          "questionIds": [
+            "MED-C16-076"
+          ]
+        },
+        {
+          "element": "p789-e012",
+          "page": 789,
+          "source": "All but one of the following are complications listed for ARPKD. Which is the odd one out? [ARPKD complications listed are pulmonary hypoplasia, portal hypertension (Caroli syndrome) and rarely ESRD; cyst infection is an ADPKD complication. (]",
+          "questionIds": [
+            "MED-C16-077"
+          ]
+        },
+        {
+          "element": "p789-e013",
+          "page": 789,
+          "source": "Match each ARPKD ultrasound sign with its description — 1) Medulla  2) Corticomedullary differentiation  3) Kidney size … A) Bilaterally enlarged with small medullary cysts  B) Hyperechoic  C) Lost [ARPKD ultrasound: hyperechoic medulla and loss of corticomedullary differentiation in bilaterally enlarged kidneys with small medullary cysts, often w]",
+          "questionIds": [
+            "MED-C16-078"
+          ]
+        },
+        {
+          "element": "p789-e014",
+          "page": 789,
+          "source": "The two ultrasound findings described in ARPKD are: [Investigation in ARPKD (USG): hyperechoic medulla and loss of corticomedullary differentiation, consistent with small medullary cysts. (Book p789)]",
+          "questionIds": [
+            "MED-C16-079"
+          ]
+        },
+        {
+          "element": "p789-e015",
+          "page": 789,
+          "source": "An antenatal ultrasound at 30 weeks shows bilaterally enlarged echogenic kidneys with small medullary cysts and no corticomedullary differentiation, plus oligohydramnios. Which diagnosis fits? [ARPKD is autosomal recessive and can be diagnosed in utero with small cysts in the medulla; USG shows hyperechoic medulla with loss of corticomedullar]",
+          "questionIds": [
+            "MED-C16-080"
+          ]
+        },
+        {
+          "element": "p789-e016",
+          "page": 789,
+          "source": "The cut section of the kidney in ARPKD shows small cysts in the medulla rather than the large cysts typical of ADPKD. [ARPKD can be diagnosed in utero with small cysts in the medulla (figure 'ARPKD: cut section of kidney'), unlike ADPKD's multiple large cysts. (Book p7]",
+          "questionIds": [
+            "MED-C16-081"
+          ]
+        },
+        {
+          "element": "p789-e017",
+          "page": 789,
+          "source": "A neonate with ARPKD is in respiratory distress with a small chest. The underlying mechanism and outcome described are: [ARPKD with pulmonary hypoplasia: 70% succumb to death within 1 year, the major cause of death at birth. (Book p789)]",
+          "questionIds": [
+            "MED-C16-082"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 790,
+      "pdfPage": 31,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p790 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p790.",
+      "elements": [
+        {
+          "element": "p790-e001",
+          "page": 790,
+          "source": "Match each disease with its inheritance and gene — 1) Juvenile nephronophthisis  2) MCDK1  3) MCDK2 … A) AR - NPHP1 on chromosome 2, nephrocystin  B) AD - chromosome 16, uromodulin  C) AD - chromosome 1 [JN is autosomal recessive with NPHP1 on chromosome 2 producing nephrocystin; MCDK (ADTKD) is autosomal dominant — MCDK1 on chromosome 1 and MCDK2 on c]",
+          "questionIds": [
+            "MED-C16-083"
+          ]
+        },
+        {
+          "element": "p790-e002",
+          "page": 790,
+          "source": "Match each disease with its age group and ESRD timing — 1) Juvenile nephronophthisis  2) MCDK (ADTKD)  3) CTID abbreviation … A) Adults - onset by 20-25 years, ESRD by 40-50 years  B) Chronic tubulointerstitial disease  C) Children - onset by 5-7 years, ESRD by 13 years [JN affects children, starting by 5-7 years with ESRD by 13 years; MCDK affects adults, starting by 20-25 years with ESRD by 40-50 years. The page also]",
+          "questionIds": [
+            "MED-C16-084"
+          ]
+        },
+        {
+          "element": "p790-e003",
+          "page": 790,
+          "source": "In juvenile nephronophthisis, ESRD typically develops by: [Juvenile nephronophthisis: starts by 5–7 years of age and reaches ESRD by 13 years. (Book p790)]",
+          "questionIds": [
+            "MED-C16-085"
+          ]
+        },
+        {
+          "element": "p790-e004",
+          "page": 790,
+          "source": "In MCDK (ADTKD), ESRD typically develops by: [MCDK: adults, starts by 20–25 years with ESRD by 40–50 years. (Book p790)]",
+          "questionIds": [
+            "MED-C16-086"
+          ]
+        },
+        {
+          "element": "p790-e005",
+          "page": 790,
+          "source": "Match the gene defect with its product — 1) NPHP1 (chr 2)  2) MCDK₁ (chr 1)  3) MCDK₂ (chr 16) … A) Nephrocystin  B) Uromodulin  C) (Chromosome 1 locus producing its own transcript) [Gene defects: NPHP1 on chromosome 2 → nephrocystin (defect → cilia/centrosome complex affected); MCDK₁ on chromosome 1; MCDK₂ on chromosome 16 → uromo]",
+          "questionIds": [
+            "MED-C16-087"
+          ]
+        },
+        {
+          "element": "p790-e006",
+          "page": 790,
+          "source": "Fill up: NPHP1 on chromosome 2 produces ______, whose defect affects the cilia/centrosome complex. [NPHP1 on chr 2 → nephrocystin; defect affects the cilia/centrosome complex in juvenile nephronophthisis. (Book p790)]",
+          "questionIds": [
+            "MED-C16-088"
+          ]
+        },
+        {
+          "element": "p790-e007",
+          "page": 790,
+          "source": "MCDK₂ on chromosome 16 encodes: [MCDK₂ is on chromosome 16 and produces uromodulin (the same protein as in ADTKD). (Book p790)]",
+          "questionIds": [
+            "MED-C16-089"
+          ]
+        },
+        {
+          "element": "p790-e008",
+          "page": 790,
+          "source": "Match the pathology of juvenile nephronophthisis — 1) Tubular basement membrane  2) Tubules  3) Cysts  4) Interstitium … A) Irregularity  B) Interstitial infiltration with fibrosis  C) Atrophy → CKD (CTID with shrunken kidney)  D) Few [Pathology of juvenile nephronophthisis: tubular basement membrane irregularity; tubular atrophy → CKD (CTID with shrunken kidney); cysts few; intersti]",
+          "questionIds": [
+            "MED-C16-090"
+          ]
+        },
+        {
+          "element": "p790-e009",
+          "page": 790,
+          "source": "In juvenile nephronophthisis the kidney becomes shrunken because of tubular atrophy, an example of chronic tubulointerstitial disease. [Juvenile nephronophthisis pathology: tubular atrophy → CKD, described as CTID (chronic tubulointerstitial disease) with a shrunken kidney. (Book p790)]",
+          "questionIds": [
+            "MED-C16-091"
+          ]
+        },
+        {
+          "element": "p790-e010",
+          "page": 790,
+          "source": "Fill up: In juvenile nephronophthisis the cysts are ______ in number. [Pathology of juvenile nephronophthisis: cysts are few (in contrast to the multiple cysts of ADPKD/ARPKD). (Book p790)]",
+          "questionIds": [
+            "MED-C16-092"
+          ]
+        },
+        {
+          "element": "p790-e011",
+          "page": 790,
+          "source": "Match the clinical features of juvenile nephronophthisis — 1) Salt  2) Urine output  3) Growth … A) Failure to thrive  B) Polyuria  C) Wasting [Clinical features of juvenile nephronophthisis: salt wasting, polyuria and failure to thrive. (Book p790)]",
+          "questionIds": [
+            "MED-C16-093"
+          ]
+        },
+        {
+          "element": "p790-e012",
+          "page": 790,
+          "source": "Match the juvenile nephronophthisis / MCDK clinical-feature rows with their entries — 1) JN salt handling  2) JN growth  3) MCDK growth … A) Failure to thrive  B) Growth complete, so failure to thrive is absent  C) Salt wasting [Clinical features of JN: salt wasting, polyuria and failure to thrive; MCDK is similar except for failure to thrive, because growth is complete in adu]",
+          "questionIds": [
+            "MED-C16-094"
+          ]
+        },
+        {
+          "element": "p790-e013",
+          "page": 790,
+          "source": "A 24-year-old adult with a strong family history of renal failure has salt wasting and polyuria but normal growth. He fits MCDK because: [MCDK (ADTKD) clinical features resemble JN but without failure to thrive, because growth is complete in adults. (Book p790)]",
+          "questionIds": [
+            "MED-C16-095"
+          ]
+        },
+        {
+          "element": "p790-e014",
+          "page": 790,
+          "source": "Rickets-like changes are present in juvenile nephronophthisis but absent in MCDK. [Rickets-like changes: present (+) in juvenile nephronophthisis due to loss of phosphorus and calcium; absent (–) in MCDK because growth is complete. (]",
+          "questionIds": [
+            "MED-C16-096"
+          ]
+        },
+        {
+          "element": "p790-e015",
+          "page": 790,
+          "source": "Match the extrarenal association with its syndrome — 1) Retinitis pigmentosa  2) Oculomotor apraxia  3) Cerebellar aplasia  4) Situs inversus … A) Cogan syndrome  B) Senior Loken syndrome  C) Joubert syndrome  D) A listed association of juvenile nephronophthisis [Extrarenal associations of juvenile nephronophthisis: retinitis pigmentosa — Senior Loken syndrome; oculomotor apraxia — Cogan syndrome; cerebellar ap]",
+          "questionIds": [
+            "MED-C16-097"
+          ]
+        },
+        {
+          "element": "p790-e016",
+          "page": 790,
+          "source": "A 7-year-old with polyuria and growth failure also has night blindness and pigmentary retinopathy. Which eponymous syndrome is this? [Retinitis pigmentosa with juvenile nephronophthisis = Senior Loken syndrome. (Book p790)]",
+          "questionIds": [
+            "MED-C16-098"
+          ]
+        },
+        {
+          "element": "p790-e017",
+          "page": 790,
+          "source": "A child with nephronophthisis shows abnormal eye movements with difficulty initiating saccades. The named syndrome is: [Oculomotor apraxia with juvenile nephronophthisis = Cogan syndrome. (Book p790)]",
+          "questionIds": [
+            "MED-C16-099"
+          ]
+        },
+        {
+          "element": "p790-e018",
+          "page": 790,
+          "source": "Match each MCDK extrarenal association with its note — 1) Hyperuricemia and gout  2) Insulin resistance  3) Rickets-like changes in MCDK … A) Seen in the MCDK2 defect  B) Absent, because growth is complete  C) Also listed for MCDK [MCDK extrarenal associations: hyperuricemia and gout (in the MCDK2 defect) and insulin resistance; rickets-like changes are present in JN but absent i]",
+          "questionIds": [
+            "MED-C16-100"
+          ]
+        },
+        {
+          "element": "p790-e019",
+          "page": 790,
+          "source": "Recurrence after transplant is absent in both juvenile nephronophthisis and MCDK. [Recurrence after transplant row: absent for juvenile nephronophthisis and absent for MCDK. (Book p790)]",
+          "questionIds": [
+            "MED-C16-101"
+          ]
+        },
+        {
+          "element": "p790-e020",
+          "page": 790,
+          "source": "Fill up: In the table, MCDK is abbreviated as AKA ______. [The table heading reads 'MCDK (AKA ADTKD)' — autosomal dominant tubular kidney disease. The footnotes define CTID as chronic tubulointerstitial diseas]",
+          "questionIds": [
+            "MED-C16-102"
+          ]
+        },
+        {
+          "element": "p790-e021",
+          "page": 790,
+          "source": "All but one of the following are extrarenal associations of juvenile nephronophthisis. Which is the odd one out? [Insulin resistance is listed with hyperuricemia/gout as an MCDK association; the JN list contains retinitis pigmentosa, oculomotor apraxia, cerebellar]",
+          "questionIds": [
+            "MED-C16-103"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 791,
+      "pdfPage": 32,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p791 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p791.",
+      "elements": [
+        {
+          "element": "p791-e001",
+          "page": 791,
+          "source": "Match the age of presentation — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) Young adult > perinatal  B) Perinatal  C) 4–6 years [Age of presentation: ADPKD — young adult > perinatal; ARPKD — perinatal; juvenile nephronophthisis — 4–6 years. (Book p791)]",
+          "questionIds": [
+            "MED-C16-104"
+          ]
+        },
+        {
+          "element": "p791-e002",
+          "page": 791,
+          "source": "A 5-year-old child with renal failure has a small shrunken kidney on imaging with only a few cysts. Which disease does the table give as presenting at 4–6 years? [Juvenile nephronophthisis presents at 4–6 years; ADPKD in young adults (perinatal in some) and ARPKD perinatally. (Book p791)]",
+          "questionIds": [
+            "MED-C16-105"
+          ]
+        },
+        {
+          "element": "p791-e003",
+          "page": 791,
+          "source": "Match the kidney size and number of cysts — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) Enlarged kidneys with multiple cysts  B) Enlarged kidneys with multiple cysts  C) Enlarged kidneys with few cysts [Table: ADPKD — enlarged kidneys with multiple cysts; ARPKD — enlarged kidneys with multiple cysts; juvenile nephronophthisis — (kidney size not enlarg]",
+          "questionIds": [
+            "MED-C16-106"
+          ]
+        },
+        {
+          "element": "p791-e004",
+          "page": 791,
+          "source": "Cyst infection is common (++) in ADPKD but not seen in ARPKD or juvenile nephronophthisis. [Cyst infection row: ADPKD ++; ARPKD –; juvenile nephronophthisis –. (Book p791)]",
+          "questionIds": [
+            "MED-C16-107"
+          ]
+        },
+        {
+          "element": "p791-e005",
+          "page": 791,
+          "source": "Match the blood pressure finding — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) High  B) N/low due to tubular loss  C) High [BP row: ADPKD — high; ARPKD — high; juvenile nephronophthisis — normal/low due to tubular loss. (Book p791)]",
+          "questionIds": [
+            "MED-C16-108"
+          ]
+        },
+        {
+          "element": "p791-e006",
+          "page": 791,
+          "source": "A child with juvenile nephronophthisis has a blood pressure of 90/60 mmHg. Why is BP not high, unlike in ADPKD/ARPKD? [BP in juvenile nephronophthisis is N/low due to tubular loss, reflecting the salt-wasting tubulopathy, in contrast to the high BP of ADPKD and ARPKD. ]",
+          "questionIds": [
+            "MED-C16-109"
+          ]
+        },
+        {
+          "element": "p791-e007",
+          "page": 791,
+          "source": "Match the nephrocalcinosis finding — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) ++  B) 25%  C) No nephrocalcinosis [Nephrocalcinosis row: ADPKD ++; ARPKD 25%; juvenile nephronophthisis no nephrocalcinosis. (Book p791)]",
+          "questionIds": [
+            "MED-C16-110"
+          ]
+        },
+        {
+          "element": "p791-e008",
+          "page": 791,
+          "source": "In the comparison table, nephrocalcinosis occurs in ARPKD in what proportion? [ARPKD shows nephrocalcinosis in 25% of cases; ADPKD ++ and juvenile nephronophthisis none. (Book p791)]",
+          "questionIds": [
+            "MED-C16-111"
+          ]
+        },
+        {
+          "element": "p791-e009",
+          "page": 791,
+          "source": "Match the CNS manifestation — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) Joubert's (cerebellar aplasia)  B) None  C) Aneurysm [CNS manifestations: ADPKD — aneurysm; ARPKD — none; juvenile nephronophthisis — Joubert's (cerebellar aplasia). (Book p791)]",
+          "questionIds": [
+            "MED-C16-112"
+          ]
+        },
+        {
+          "element": "p791-e010",
+          "page": 791,
+          "source": "Match the liver manifestation — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) Cyst  B) Portal hypertension  C) None [Liver manifestations: ADPKD — cyst; ARPKD — portal hypertension (congenital hepatic fibrosis/Caroli); juvenile nephronophthisis — none. (Book p791)]",
+          "questionIds": [
+            "MED-C16-113"
+          ]
+        },
+        {
+          "element": "p791-e011",
+          "page": 791,
+          "source": "Match the chromosome involved — 1) ADPKD  2) ARPKD  3) Juvenile nephronophthisis … A) 16/4  B) 6  C) 2 [Chromosome row: ADPKD 16/4 (PKD1 16p, PKD2 4q); ARPKD 6 (PKHD1); juvenile nephronophthisis 2 (NPHP1). (Book p791)]",
+          "questionIds": [
+            "MED-C16-114"
+          ]
+        },
+        {
+          "element": "p791-e012",
+          "page": 791,
+          "source": "Medullary sponge kidney is a ciliopathy. [Medullary sponge kidney is explicitly stated to be not a ciliopathy and is an acquired disease. (Book p791)]",
+          "questionIds": [
+            "MED-C16-115"
+          ]
+        },
+        {
+          "element": "p791-e013",
+          "page": 791,
+          "source": "Medullary sponge kidney is an acquired disease of middle age, usually seen at: [Medullary sponge kidney: acquired disease usually seen at 30–50 years (middle age). (Book p791)]",
+          "questionIds": [
+            "MED-C16-116"
+          ]
+        },
+        {
+          "element": "p791-e014",
+          "page": 791,
+          "source": "Which statement about the sex distribution of medullary sponge kidney is correct as printed? [Medullary sponge kidney: female > male in India (m = f overall). (Book p791)]",
+          "questionIds": [
+            "MED-C16-117"
+          ]
+        },
+        {
+          "element": "p791-e015",
+          "page": 791,
+          "source": "Medullary sponge kidney carries no risk of CKD. [Medullary sponge kidney: no risk for CKD. (Book p791)]",
+          "questionIds": [
+            "MED-C16-118"
+          ]
+        },
+        {
+          "element": "p791-e016",
+          "page": 791,
+          "source": "Complete the sequence in medullary sponge kidney — 1) Primary event  2) Collecting-duct change  3) Cyst number … A) Dilated spongy medullary and papillary collecting ducts  B) Few cysts in the medulla  C) Malformation of the terminal collecting duct [Pathogenesis of medullary sponge kidney: malformation of the terminal collecting duct leads to dilated spongy medullary and papillary collecting ducts]",
+          "questionIds": [
+            "MED-C16-119"
+          ]
+        },
+        {
+          "element": "p791-e017",
+          "page": 791,
+          "source": "Fill up: In medullary sponge kidney, the malformation involves the ______ collecting duct. [MSK pathogenesis: malformation of the terminal collecting duct → dilated spongy medullary and papillary collecting ducts with a few medullary cysts. (]",
+          "questionIds": [
+            "MED-C16-120"
+          ]
+        },
+        {
+          "element": "p791-e018",
+          "page": 791,
+          "source": "Match the medullary sponge kidney triad as shown in the triangle — 1) Stones  2) Infection  3) Bleeding … A) Recurrent stones due to distal RTA → hypercalciuria  B) Recurrent UTI  C) Recurrent haematuria [The MSK triad: recurrent stones (due to distal renal tubular acidosis → hypercalciuria), recurrent UTI and recurrent haematuria. (Book p791)]",
+          "questionIds": [
+            "MED-C16-121"
+          ]
+        },
+        {
+          "element": "p791-e019",
+          "page": 791,
+          "source": "A 42-year-old woman has repeated calcium stones and urinary infections. Work-up shows distal renal tubular acidosis with hypercalciuria. Which disease's classic triad is this? [MSK triad: recurrent stones due to distal RTA → hypercalciuria, recurrent UTI and recurrent haematuria. (Book p791)]",
+          "questionIds": [
+            "MED-C16-122"
+          ]
+        },
+        {
+          "element": "p791-e020",
+          "page": 791,
+          "source": "Fill up: In medullary sponge kidney, recurrent stones result from distal renal tubular ______ with hypercalciuria. [MSK stone formation is due to distal RTA → hypercalciuria. (Book p791)]",
+          "questionIds": [
+            "MED-C16-123"
+          ]
+        },
+        {
+          "element": "p791-e021",
+          "page": 791,
+          "source": "All but one of the following make up the classical triad of medullary sponge kidney. Which is the odd one out? [The MSK triad is recurrent stones (distal RTA → hypercalciuria), recurrent UTI and recurrent haematuria. (Book p791)]",
+          "questionIds": [
+            "MED-C16-124"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 792,
+      "pdfPage": 33,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p792 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p792.",
+      "elements": [
+        {
+          "element": "p792-e001",
+          "page": 792,
+          "source": "Incomplete distal renal tubular acidosis is found in what proportion of medullary sponge kidney patients, producing a Ca₃(PO₄)₂ stone? [Association of MSK: incomplete distal RTA in 50% → calcium phosphate Ca₃(PO₄)₂ stone. (Book p792)]",
+          "questionIds": [
+            "MED-C16-125"
+          ]
+        },
+        {
+          "element": "p792-e002",
+          "page": 792,
+          "source": "Which option correctly pairs the associations of medullary sponge kidney listed in the book? [Associations of medullary sponge kidney: incomplete distal renal tubular acidosis in 50% (producing a Ca3(PO4)2 stone), Marfan's syndrome and Beckwith]",
+          "questionIds": [
+            "MED-C16-126"
+          ]
+        },
+        {
+          "element": "p792-e003",
+          "page": 792,
+          "source": "The RFT in medullary sponge kidney is: [Investigation in MSK: RFT normal; NCCT shows medullary nephrocalcinosis; excretory urography shows rounded densities in the medulla — paintbrush/bouqu]",
+          "questionIds": [
+            "MED-C16-127"
+          ]
+        },
+        {
+          "element": "p792-e004",
+          "page": 792,
+          "source": "A patient with recurrent stones has an NCCT kidney showing calcification confined to the medullary pyramids. This is reported as: [NCCT in MSK: medullary nephrocalcinosis (figure 'medullary nephrolithiasis' with CT showing medullary calcification). (Book p792)]",
+          "questionIds": [
+            "MED-C16-128"
+          ]
+        },
+        {
+          "element": "p792-e005",
+          "page": 792,
+          "source": "Match each medullary sponge kidney investigation with its finding — 1) RFT  2) NCCT  3) Excretory urography … A) Rounded densities in the medulla giving a paintbrush/bouquet of flower appearance  B) Medullary nephrocalcinosis  C) Normal [MSK investigations: RFT is normal, NCCT shows medullary nephrocalcinosis, and excretory urography shows rounded densities in the medulla described as ]",
+          "questionIds": [
+            "MED-C16-129"
+          ]
+        },
+        {
+          "element": "p792-e006",
+          "page": 792,
+          "source": "Fill up: Excretory urography in medullary sponge kidney shows a ______ appearance or bouquet of flower appearance. [Excretory urography in MSK: rounded medullary densities — paintbrush/bouquet of flower appearance. (Book p792)]",
+          "questionIds": [
+            "MED-C16-130"
+          ]
+        },
+        {
+          "element": "p792-e007",
+          "page": 792,
+          "source": "All but one of the following are described in medullary sponge kidney. Which is the odd one out? [MSK shows a normal RFT with medullary nephrocalcinosis and paintbrush/bouquet appearance on urography; enlarged kidneys with multiple macrocysts descr]",
+          "questionIds": [
+            "MED-C16-131"
+          ]
+        },
+        {
+          "element": "p792-e008",
+          "page": 792,
+          "source": "Treatment of hypercalciuria and hypocitraturia in medullary sponge kidney consists of: [Treatment in MSK: for hypercalciuria and hypocitraturia — potassium citrate and ↑fluid intake. (Book p792)]",
+          "questionIds": [
+            "MED-C16-132"
+          ]
+        },
+        {
+          "element": "p792-e009",
+          "page": 792,
+          "source": "Match each medullary sponge kidney treatment with the abnormality it corrects — 1) Potassium citrate  2) Increased fluid intake  3) The aim of both measures … A) Prevention of recurrent stones  B) Hypocitraturia  C) Hypercalciuria [Treatment of MSK: potassium citrate for hypocitraturia and increased fluid intake for hypercalciuria, together preventing recurrent stone formation. (]",
+          "questionIds": [
+            "MED-C16-133"
+          ]
+        },
+        {
+          "element": "p792-e010",
+          "page": 792,
+          "source": "Match each cause of medullary nephrocalcinosis — 1) Distal RTA  2) Bartter syndrome  3) Sarcoid  4) MSK … A) Sarcoid  B) Bartter syndrome  C) Distal RTA  D) MSK [Causes of medullary nephrocalcinosis: distal RTA, Bartter syndrome, sarcoid, MSK, and conditions with hypercalciuria. (Book p792)]",
+          "questionIds": [
+            "MED-C16-134"
+          ]
+        },
+        {
+          "element": "p792-e011",
+          "page": 792,
+          "source": "Match each type of nephrocalcinosis with its causes — 1) Medullary  2) Cortical  3) Both medullary and cortical … A) Oxalosis  B) Distal RTA, Bartter syndrome, sarcoid, MSK and conditions with hypercalciuria  C) Tuberculosis and chronic graft rejection [Medullary nephrocalcinosis: distal RTA, Bartter syndrome, sarcoid, MSK and hypercalciuric conditions. Cortical nephrocalcinosis: TB and chronic graft ]",
+          "questionIds": [
+            "MED-C16-135"
+          ]
+        },
+        {
+          "element": "p792-e012",
+          "page": 792,
+          "source": "A renal transplant recipient has progressive graft dysfunction with cortical calcification on imaging. Which cause of cortical nephrocalcinosis fits? [Cortical nephrocalcinosis causes: tuberculosis and chronic graft rejection (distal RTA, Bartter, sarcoid and MSK cause medullary nephrocalcinosis). (B]",
+          "questionIds": [
+            "MED-C16-136"
+          ]
+        },
+        {
+          "element": "p792-e013",
+          "page": 792,
+          "source": "Oxalosis causes both medullary and cortical nephrocalcinosis. [Note: oxalosis causes both medullary and cortical nephrocalcinosis. (Book p792)]",
+          "questionIds": [
+            "MED-C16-137"
+          ]
+        },
+        {
+          "element": "p792-e014",
+          "page": 792,
+          "source": "All but one of the following cause medullary (not cortical) nephrocalcinosis. Which is the odd one out? [Cortical nephrocalcinosis is caused by tuberculosis and chronic graft rejection; distal RTA, Bartter syndrome, sarcoid and MSK cause medullary nephroc]",
+          "questionIds": [
+            "MED-C16-138"
+          ]
+        },
+        {
+          "element": "p792-e015",
+          "page": 792,
+          "source": "A patient with MSK has a stone composed of Ca₃(PO₄)₂. Which associated condition explains this stone type? [MSK association: incomplete distal RTA in 50% → Ca₃(PO₄)₂ (calcium phosphate) stone. (Book p792)]",
+          "questionIds": [
+            "MED-C16-139"
+          ]
+        }
+      ]
+    }
+  ]
+}

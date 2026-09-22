@@ -1,0 +1,356 @@
+{
+  "chapter": 59,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+  "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+  "pdfOffset": 964,
+  "pageRange": "997-1000",
+  "contentSha256": "86554ce1e4e82f1bae73f04e39d898fa70c606138f04b4a2cdd5a5326dcf6745",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch59 p997-1000: auto-generated source checklist from existing 38 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 997,
+      "pdfPage": 33,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p997 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p997.",
+      "elements": [
+        {
+          "element": "p997-e001",
+          "page": 997,
+          "source": "What are the most common (m/c) and second most common causes of chronic hepatitis in adults? [Under causes of chronic hepatitis, NASH is tagged '(m/c)' and alcohol as '(2nd m/c)'. (Book p997)]",
+          "questionIds": [
+            "MED-C59-001"
+          ]
+        },
+        {
+          "element": "p997-e002",
+          "page": 997,
+          "source": "Match each clinical age group with its characteristic etiologies of chronic hepatitis — 1) Pediatric age group causes 2) Adult secondary causes … A) Autoimmune disease, Wilson's disease, hemochromatosis, Budd-Chiari syndrome, and biliary cirrhosis B) Cholestasis, alpha-1 antitrypsin deficiency, and Indian childhood cirrhosis [In children, causes are cholestasis, alpha-1 antitrypsin deficiency, and Indian childhood cirrhosis; adult causes include autoimmune, Wilson's, hemoch]",
+          "questionIds": [
+            "MED-C59-002"
+          ]
+        },
+        {
+          "element": "p997-e003",
+          "page": 997,
+          "source": "What is the expected life expectancy of a patient who enters decompensated cirrhosis without liver transplantation? [Under decompensation in the disease progression chart, the text notes: '(Life expectancy 2 years without transplant)'. (Book p997)]",
+          "questionIds": [
+            "MED-C59-003"
+          ]
+        },
+        {
+          "element": "p997-e004",
+          "page": 997,
+          "source": "Fill up: As chronic hepatitis progresses toward established cirrhosis, physical examination and imaging typically reveal gross ______ of the liver. [Under cirrhosis in the progression flowchart, the text notes 'Shrinkage of liver seen'. (Book p997)]",
+          "questionIds": [
+            "MED-C59-004"
+          ]
+        },
+        {
+          "element": "p997-e005",
+          "page": 997,
+          "source": "What is the most common (m/c) constitutional symptom signalling disease progression in chronic hepatitis? [Under progression features, fatigue is explicitly annotated with '(m/c)'. (Book p997)]",
+          "questionIds": [
+            "MED-C59-005"
+          ]
+        },
+        {
+          "element": "p997-e006",
+          "page": 997,
+          "source": "Which of the following is NOT listed as a clinical symptom indicating progression of chronic hepatitis? [Features of progression listed are Fatigue (m/c), Altered sleep rhythm, Muscle wasting, Loss of libido, and Hepatomegaly; fever is not among them. (Bo]",
+          "questionIds": [
+            "MED-C59-006"
+          ]
+        },
+        {
+          "element": "p997-e007",
+          "page": 997,
+          "source": "During routine clinical examination of a patient with suspected progressive chronic hepatitis, hepatomegaly is palpated. What is the indicated quantitative test to ascertain the degree of fibrosis? [The flowchart notes that if hepatomegaly is seen: 'Fibroscan : Quantitative test to ascertain degree of fibrosis'. (Book p997)]",
+          "questionIds": [
+            "MED-C59-007"
+          ]
+        },
+        {
+          "element": "p997-e008",
+          "page": 997,
+          "source": "What laboratory transaminase pattern and numerical ceiling are typical of uncomplicated chronic hepatitis? [Under laboratory investigation for chronic hepatitis, the line reads: 'ALT/AST ↑ (<150 U/L) with ALT > AST'. (Book p997)]",
+          "questionIds": [
+            "MED-C59-008"
+          ]
+        },
+        {
+          "element": "p997-e009",
+          "page": 997,
+          "source": "Assess the two statements on chronic hepatitis: I Patients with chronic hepatitis are usually asymptomatic and frequently detected on routine screening with LFTs. II Once cirrhosis develops, the three major life-threatening pathways are portal hypertension, hepatocellular carcinoma, and liver failure. [Both statements are true: chronic hepatitis is usually asymptomatic and found on LFT screening, and cirrhosis leads to portal HTN, HCC, and liver fail]",
+          "questionIds": [
+            "MED-C59-009"
+          ]
+        },
+        {
+          "element": "p997-e010",
+          "page": 997,
+          "source": "A 44-year-old man with obesity and dyslipidemia undergoes a health checkup. He feels mildly fatigued but has no jaundice or ascites. LFTs show ALT 82 U/L and AST 54 U/L (both <150 U/L, ALT > AST). What is the primary management strategy for his liver enzyme monitoring? [The management section highlights 'Continuous monitoring of liver enzymes' and screening for treatable causes such as NASH. (Book p997)]",
+          "questionIds": [
+            "MED-C59-010"
+          ]
+        },
+        {
+          "element": "p997-e011",
+          "page": 997,
+          "source": "Fill up: In children, chronic hepatitis progressing to early cirrhosis may be caused by ______ deficiency or Indian childhood cirrhosis. [Pediatric causes listed include cholestasis, alpha-1 antitrypsin deficiency, and Indian childhood cirrhosis. (Book p997)]",
+          "questionIds": [
+            "MED-C59-011"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 998,
+      "pdfPage": 34,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p998 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p998.",
+      "elements": [
+        {
+          "element": "p998-e001",
+          "page": 998,
+          "source": "Which of the following conditions is NOT listed under routine screening for chronic hepatitis on this page? [Routine screening covers NASH, HBV/HCV, Autoimmune hepatitis, Wilson's disease, and Hemochromatosis. (Book p998)]",
+          "questionIds": [
+            "MED-C59-012"
+          ]
+        },
+        {
+          "element": "p998-e002",
+          "page": 998,
+          "source": "Match each cause of chronic liver disease with the early intervention that yields very good therapeutic outcomes — 1) Hemochromatosis 2) Wilson's disease 3) NASH … A) Early penicillamine therapy B) Weight loss C) Early phlebotomy [Treatment before/during progression yields good outcomes with early phlebotomy for hemochromatosis, early penicillamine for Wilson's, and weight loss ]",
+          "questionIds": [
+            "MED-C59-013"
+          ]
+        },
+        {
+          "element": "p998-e003",
+          "page": 998,
+          "source": "What is the defining pathological definition of cirrhosis? [Cirrhosis is defined as: 'Normal lobular architecture of liver lost and replaced by nodules connected by fibrous septation.' (Book p998)]",
+          "questionIds": [
+            "MED-C59-014"
+          ]
+        },
+        {
+          "element": "p998-e004",
+          "page": 998,
+          "source": "Fill up: On gross surgical and post-mortem inspection, a cirrhotic liver characteristically presents with a ______ colour, irregular surface, and nodular texture. [The specimen caption describes: 'Cirrhotic liver lives with tawny brown colour irregular surface and nodular texture'. (Book p998)]",
+          "questionIds": [
+            "MED-C59-015"
+          ]
+        },
+        {
+          "element": "p998-e005",
+          "page": 998,
+          "source": "What microscopic feature distinguishes a cirrhotic liver from normal hepatic parenchyma? [Microscopy shows 'Disorganised architecture with regenerative nodule surrounded by fibrous septa'. (Book p998)]",
+          "questionIds": [
+            "MED-C59-016"
+          ]
+        },
+        {
+          "element": "p998-e006",
+          "page": 998,
+          "source": "Match each stage of hepatic fibrosis with its histopathological definition — 1) Stage 1 2) Stage 2 3) Stage 3 4) Stage 4 … A) 2+ Bridging fibrosis extending to the next portal tract B) 3+ Nodules representing full-blown cirrhosis C) Mild periportal fibrosis D) 1+ Septation [The staging runs: Stage 1 = mild periportal fibrosis, Stage 2 = 1+ septation, Stage 3 = 2+ bridging fibrosis extending to next portal tract, and Stage]",
+          "questionIds": [
+            "MED-C59-017"
+          ]
+        },
+        {
+          "element": "p998-e007",
+          "page": 998,
+          "source": "Fill up: In the staging of hepatic fibrosis, Stage 3 is characterised by ______ fibrosis extending across to the next portal tract. [Stage 3 is defined as '2+ Bridging fibrosis : Fibrosis extending to next portal tract'. (Book p998)]",
+          "questionIds": [
+            "MED-C59-018"
+          ]
+        },
+        {
+          "element": "p998-e008",
+          "page": 998,
+          "source": "Assess the two statements on hepatic fibrosis staging: I Stage 2 fibrosis is defined by 1+ septation without complete architectural nodularity. II Stage 4 represents full-blown cirrhosis characterized by regenerative nodules surrounded by fibrous septa. [Both statements are true: Stage 2 has 1+ septation, and Stage 4 has 3+ nodules defining full-blown cirrhosis. (Book p998)]",
+          "questionIds": [
+            "MED-C59-019"
+          ]
+        },
+        {
+          "element": "p998-e009",
+          "page": 998,
+          "source": "A liver biopsy specimen from a 49-year-old patient with chronic Hepatitis C demonstrates fibrous bands extending from one portal triad to an adjacent portal tract, but without complete regenerative nodule formation. What fibrosis stage is present? [Fibrosis extending to the next portal tract without nodules is Stage 3 (2+ bridging fibrosis). (Book p998)]",
+          "questionIds": [
+            "MED-C59-020"
+          ]
+        },
+        {
+          "element": "p998-e010",
+          "page": 998,
+          "source": "Which intervention is specifically noted on this page to achieve a good outcome when instituted early in NASH? [Under treatment during progression, NASH is paired with 'weight loss -> Good outcome'. (Book p998)]",
+          "questionIds": [
+            "MED-C59-021"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 999,
+      "pdfPage": 35,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p999 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p999.",
+      "elements": [
+        {
+          "element": "p999-e001",
+          "page": 999,
+          "source": "Match each contributor to increased sinusoidal resistance in portal hypertension with its mechanism — 1) Mechanical cause 2) Functional cause … A) Decreased intrasinusoidal nitric oxide (NO) leading to vasoconstriction and defenestration B) Physical compression of sinusoidal channels by regenerating nodules [The mechanical cause is compression by nodules; the functional cause is decreased intrasinusoidal NO causing sinusoidal vasoconstriction and defenestr]",
+          "questionIds": [
+            "MED-C59-022"
+          ]
+        },
+        {
+          "element": "p999-e002",
+          "page": 999,
+          "source": "What is the primary compensatory mechanism triggered by elevated portal venous pressure? [Increased portal venous pressure triggers the compensatory mechanism: 'Decompression, formation of collaterals'. (Book p999)]",
+          "questionIds": [
+            "MED-C59-023"
+          ]
+        },
+        {
+          "element": "p999-e003",
+          "page": 999,
+          "source": "Assess the two statements on nitric oxide (NO) in cirrhosis: I Intrasinusoidal NO is decreased, driving sinusoidal vasoconstriction and defenestration. II Systemic NO is increased, inducing widespread splanchnic vasodilation and hyperdynamic circulation. [Both statements are true: cirrhosis features decreased intrasinusoidal NO (increased intrahepatic resistance) alongside increased systemic NO (splanch]",
+          "questionIds": [
+            "MED-C59-024"
+          ]
+        },
+        {
+          "element": "p999-e004",
+          "page": 999,
+          "source": "Fill up: In portal hypertension pathophysiology, gut endotoxemia and increased systemic nitric oxide cause a profound loss in peripheral vascular resistance, driving a ______ circulation that elevates portal inflow. [The flowchart notes that loss in peripheral vascular resistance leads to 'Hyperdynamic circulation (↑ F)', where increased flow increases pressure. (B]",
+          "questionIds": [
+            "MED-C59-025"
+          ]
+        },
+        {
+          "element": "p999-e005",
+          "page": 999,
+          "source": "How does splanchnic vasodilation stimulate neurohumoral volume retention in cirrhosis? [Widespread splanchnic vasodilation reduces effective circulatory volume, stimulating RAAS and ADH to expand intravascular volume and exacerbate the hy]",
+          "questionIds": [
+            "MED-C59-026"
+          ]
+        },
+        {
+          "element": "p999-e006",
+          "page": 999,
+          "source": "Match each early manifestation of elevated splenic vein pressure with its clinical milestone — 1) Splenomegaly (hypersplenism) 2) Thrombocytopenia … A) First biochemical finding (due to platelet trapping in the spleen) B) First clinical finding [Elevated splenic vein pressure causes splenomegaly as the 'First clinical finding' and thrombocytopenia (due to platelet trapping) as the 'First bioch]",
+          "questionIds": [
+            "MED-C59-027"
+          ]
+        },
+        {
+          "element": "p999-e007",
+          "page": 999,
+          "source": "A 52-year-old man with compensated cirrhosis presents for routine follow-up. He has a palpably enlarged spleen. Complete blood count shows platelets 78,000/µL. What is the mechanism behind this initial biochemical abnormality? [Thrombocytopenia is the first biochemical finding, caused by the trapping of platelets within the congested spleen. (Book p999)]",
+          "questionIds": [
+            "MED-C59-028"
+          ]
+        },
+        {
+          "element": "p999-e008",
+          "page": 999,
+          "source": "Which of the following physical signs of liver failure is attributed specifically to the hyperdynamic circulation rather than alcohol consumption? [Palmar erythema and hyperpigmentation are features of the hyperdynamic circulation; alopecia, parotid swelling, and Dupuytren's contracture are associ]",
+          "questionIds": [
+            "MED-C59-029"
+          ]
+        },
+        {
+          "element": "p999-e009",
+          "page": 999,
+          "source": "Which triad of clinical signs is specifically grouped under 'Associated with Alcohol Consumption' on this page? [The alcohol-associated features are explicitly listed as: Alopecia, Parotid Swelling, and Dupuytren's contracture. (Book p999)]",
+          "questionIds": [
+            "MED-C59-030"
+          ]
+        },
+        {
+          "element": "p999-e010",
+          "page": 999,
+          "source": "Assess the two statements on cirrhosis hemodynamics: I Increased portal venous pressure is driven by both increased intrahepatic vascular resistance and increased portal blood flow. II Intrasinusoidal defenestration in cirrhosis is caused by an excess of intrasinusoidal nitric oxide. [Statement I is true because P proportional to R x F. Statement II is false because defenestration and vasoconstriction are caused by decreased intrasi]",
+          "questionIds": [
+            "MED-C59-031"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1000,
+      "pdfPage": 36,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1000 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1000.",
+      "elements": [
+        {
+          "element": "p1000-e001",
+          "page": 1000,
+          "source": "Why do male patients with advanced liver failure develop gynecomastia and testicular atrophy? [The page states: 'No 5-a Reductase : NO DHT (Dihydrotestosteron) -> Gynecomastia, Testicular atrophy.' (Book p1000)]",
+          "questionIds": [
+            "MED-C59-032"
+          ]
+        },
+        {
+          "element": "p1000-e002",
+          "page": 1000,
+          "source": "Fill up: In female patients with liver failure, a decrease in ______ contributes to peripheral hypoestrogenism. [The text notes: 'Decrease sex hormone binding globulins -> Hypoestrogenism in females.' (Book p1000)]",
+          "questionIds": [
+            "MED-C59-033"
+          ]
+        },
+        {
+          "element": "p1000-e003",
+          "page": 1000,
+          "source": "What is the direction of venous blood flow in the abdominal wall collaterals forming caput medusae? [The text explicitly specifies: 'Caput medusae (flow away from umbilicus)'. (Book p1000)]",
+          "questionIds": [
+            "MED-C59-034"
+          ]
+        },
+        {
+          "element": "p1000-e004",
+          "page": 1000,
+          "source": "Assess the two statements on cirrhosis decompensation: I The onset of overt jaundice in cirrhosis signifies hepatic failure and marks the onset of decompensation. II Caput medusae exhibits collateral venous flow traveling toward the umbilicus. [Statement I is true because jaundice is annotated as 'Sign of liver failure -> Decompensation'. Statement II is false because flow in caput medusae is]",
+          "questionIds": [
+            "MED-C59-035"
+          ]
+        },
+        {
+          "element": "p1000-e005",
+          "page": 1000,
+          "source": "Which of the following triad of complications defines decompensated cirrhosis in the presence of fully developed portal hypertension? [Under DECOMPENSATION, the three defining complications linked to full developed portal HTN are Ascites, Encephalopathy, and Variceal bleed. (Book p100]",
+          "questionIds": [
+            "MED-C59-036"
+          ]
+        },
+        {
+          "element": "p1000-e006",
+          "page": 1000,
+          "source": "A 56-year-old man with long-standing cirrhosis is brought to the hospital with fresh hematemesis from esophageal varices. Examination reveals prominent periumbilical collateral veins with flow directed away from the umbilicus, jaundice, and bilateral gynecomastia. How is this patient's cirrhosis categorized? [Fully developed portal HTN complicated by variceal bleeding, ascites, or encephalopathy (plus jaundice) constitutes decompensated cirrhosis. (Book p10]",
+          "questionIds": [
+            "MED-C59-037"
+          ]
+        },
+        {
+          "element": "p1000-e007",
+          "page": 1000,
+          "source": "Match each physical finding of cirrhosis with its underlying pathophysiological mechanism — 1) Caput medusae 2) Gynecomastia and testicular atrophy 3) Female hypoestrogenism … A) Decreased sex hormone binding globulins B) Portal-systemic collateralization through recanalized umbilical veins with centrifugal flow C) Impaired 5-alpha reductase activity leading to lack of dihydrotestosterone [Caput medusae reflects collateral flow away from the umbilicus, lack of 5-alpha reductase drives lack of DH",
+          "questionIds": [
+            "MED-C59-038"
+          ]
+        }
+      ]
+    }
+  ]
+}

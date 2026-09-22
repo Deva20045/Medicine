@@ -1,0 +1,856 @@
+{
+  "chapter": 74,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+  "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+  "pdfOffset": 1034,
+  "pageRange": "1061-1068",
+  "contentSha256": "90745fd5f8de2cc1c9e96c90f186c815889af7b42deaf99045678a17b598bb40",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch74 p1061-1068: auto-generated source checklist from existing 96 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 1061,
+      "pdfPage": 27,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1061 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1061.",
+      "elements": [
+        {
+          "element": "p1061-e001",
+          "page": 1061,
+          "source": "In which year is the first reported case of HIV printed? ['History : · First reported case : 1981'. (Book p1061)]",
+          "questionIds": [
+            "MED-C74-001"
+          ]
+        },
+        {
+          "element": "p1061-e002",
+          "page": 1061,
+          "source": "What is printed about the origin of the first reported case? ['from an African patient'. (Book p1061)]",
+          "questionIds": [
+            "MED-C74-002"
+          ]
+        },
+        {
+          "element": "p1061-e003",
+          "page": 1061,
+          "source": "Which old name for the virus is printed on this page? ['Lymphadenopathy Associated Virus (LAV)'. (Book p1061)]",
+          "questionIds": [
+            "MED-C74-003"
+          ]
+        },
+        {
+          "element": "p1061-e004",
+          "page": 1061,
+          "source": "CDC staging — match the stage to the CD4 count — 1) Stage 1 2) Stage 2 3) Stage 3 … A) 200-499 cells/mm³ B) below 200 cells/mm³ C) 500 or more cells/mm³ ['Stage 1 : ≥500 cells/mm³'; 'Stage 2 : 200-499 cells/mm³'; 'Stage 3 : <200 cells/mm³'. (Book p1061)]",
+          "questionIds": [
+            "MED-C74-004"
+          ]
+        },
+        {
+          "element": "p1061-e005",
+          "page": 1061,
+          "source": "Which CD4 percentage is printed for stage 2 disease? [Stage 2 prints a CD4 percentage of 14-28. (Book p1061)]",
+          "questionIds": [
+            "MED-C74-005"
+          ]
+        },
+        {
+          "element": "p1061-e006",
+          "page": 1061,
+          "source": "Which CD4 percentage is printed for stage 3 disease? [Stage 3 prints a CD4 percentage below 14. (Book p1061)]",
+          "questionIds": [
+            "MED-C74-006"
+          ]
+        },
+        {
+          "element": "p1061-e007",
+          "page": 1061,
+          "source": "CDC stages — match the stage to its clinical evidence — 1) Stage 0 2) Stage 1 and 2 3) Stage 3 … A) No AIDS-defining condition B) Documentation of AIDS-defining conditions C) Early HIV infection ['Stage 0 : Early HIV infection'; stages 1 and 2 print 'No AIDS-defining condition'; stage 3 prints 'Documentation of AIDS-defining conditions'. (Book ]",
+          "questionIds": [
+            "MED-C74-007"
+          ]
+        },
+        {
+          "element": "p1061-e008",
+          "page": 1061,
+          "source": "AIDS-defining malignancies — match — 1) Lymphomas 2) Others … A) Invasive cervical cancer and Kaposi's sarcoma B) Burkitt's lymphoma, immunoblastic lymphoma (EBV mediated), primary CNS lymphoma ['1. malignancies : · Lymphomas : Burkitt's lymphoma, Immunoblastic lymphoma (EBV mediated), Primary CNS lymphoma; · Invasive cervical cancer; · Kaposi]",
+          "questionIds": [
+            "MED-C74-008"
+          ]
+        },
+        {
+          "element": "p1061-e009",
+          "page": 1061,
+          "source": "How is the EBV relationship printed among the AIDS-defining lymphomas? ['Immunoblastic lymphoma — EBV mediated'. (Book p1061)]",
+          "questionIds": [
+            "MED-C74-009"
+          ]
+        },
+        {
+          "element": "p1061-e010",
+          "page": 1061,
+          "source": "AIDS-defining viral infections — match the virus to the lesion — 1) CMV 2) HSV 3) JC virus … A) Progressive multifocal leukoencephalopathy B) Disease other than liver, spleen and lymph node involvement C) Disease other than zoster ['2. Viral infections : · Cytomegalovirus (other than liver, spleen and lymph node involvement); · Herpes simplex (except zoster); JC virus : Progressi]",
+          "questionIds": [
+            "MED-C74-010"
+          ]
+        },
+        {
+          "element": "p1061-e011",
+          "page": 1061,
+          "source": "Which JC-virus disease is listed as AIDS defining? ['JC virus : Progressive multifocal leukoencephalopathy'. (Book p1061)]",
+          "questionIds": [
+            "MED-C74-011"
+          ]
+        },
+        {
+          "element": "p1061-e012",
+          "page": 1061,
+          "source": "AIDS-defining fungal infections — match — 1) Candidiasis 2) Cryptococcosis 3) Pneumocystis … A) Extrapulmonary disease B) Pneumocystis jirovecii C) Bronchi, trachea, lungs or oesophagus ['3. Fungal infections : · Candidiasis of bronchi/trachea/lungs/oesophagus; · Cryptococcosis (extrapulmonary); Pneumocystis jirovecii'. (Book p1061)]",
+          "questionIds": [
+            "MED-C74-012"
+          ]
+        },
+        {
+          "element": "p1061-e013",
+          "page": 1061,
+          "source": "Which is NOT printed among the AIDS-defining infections on this page? [Oral hairy leukoplakia is a category B condition; the AIDS-defining list has CMV, HSV, JC virus, candidiasis of bronchi/trachea/lungs/oesophagus, cryp]",
+          "questionIds": [
+            "MED-C74-013"
+          ]
+        },
+        {
+          "element": "p1061-e014",
+          "page": 1061,
+          "source": "A patient with HIV has a CD4 count of 150 cells/mm³ and oesophageal candidiasis. Which CDC stage and category does the page support? [CD4 below 200 with documentation of an AIDS-defining condition is stage 3; oesophageal candidiasis is on the AIDS-defining fungal list. (Book p1061)]",
+          "questionIds": [
+            "MED-C74-014"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1062,
+      "pdfPage": 28,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1062 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1062.",
+      "elements": [
+        {
+          "element": "p1062-e001",
+          "page": 1062,
+          "source": "Which parasitic disease is printed as AIDS defining? ['4. Parasites : Toxoplasmosis of brain'. (Book p1062)]",
+          "questionIds": [
+            "MED-C74-015"
+          ]
+        },
+        {
+          "element": "p1062-e002",
+          "page": 1062,
+          "source": "AIDS-defining bacterial infections — match — 1) Mycobacteria 2) Salmonella … A) Salmonella septicemia B) Mycobacterium avium complex and Mycobacterium tuberculosis ['5. Bacterial infections : mycobacterium avium complex, mycobacterium tuberculosis, · Salmonella septicemia'. (Book p1062)]",
+          "questionIds": [
+            "MED-C74-016"
+          ]
+        },
+        {
+          "element": "p1062-e003",
+          "page": 1062,
+          "source": "How does the page label the category B conditions? ['CATEGORY B : Not AIDS defining illness'. (Book p1062)]",
+          "questionIds": [
+            "MED-C74-017"
+          ]
+        },
+        {
+          "element": "p1062-e004",
+          "page": 1062,
+          "source": "Category B — match the site to the candidiasis — 1) Vulvovaginal 2) Oropharyngeal … A) Thrush B) Vulvovaginal candidiasis ['· vulvovaginal candidiasis' and 'Oropharyngeal candidiasis (Thrush)'. (Book p1062)]",
+          "questionIds": [
+            "MED-C74-018"
+          ]
+        },
+        {
+          "element": "p1062-e005",
+          "page": 1062,
+          "source": "How does the page define the constitutional category B criterion? ['· Fever (>38.5°C) or diarrhea lasting >1 month'. (Book p1062)]",
+          "questionIds": [
+            "MED-C74-019"
+          ]
+        },
+        {
+          "element": "p1062-e006",
+          "page": 1062,
+          "source": "Category B — match the condition to its group — 1) Haematological 2) Neurological 3) Mucosal … A) Idiopathic thrombocytopenic purpura B) Peripheral neuropathy C) Hairy leukoplakia ['· Idiopathic thrombocytopenic purpura', '· Peripheral neuropathy' and '· Hairy leukoplakia' are all category B items. (Book p1062)]",
+          "questionIds": [
+            "MED-C74-020"
+          ]
+        },
+        {
+          "element": "p1062-e007",
+          "page": 1062,
+          "source": "Which is NOT printed as a category B condition? [Kaposi's sarcoma is an AIDS-defining malignancy; the others are category B. (Book p1062)]",
+          "questionIds": [
+            "MED-C74-021"
+          ]
+        },
+        {
+          "element": "p1062-e008",
+          "page": 1062,
+          "source": "When was the first HIV case in India detected, and where? ['HIV in India : First case detected (Chennai) : 1986'. (Book p1062)]",
+          "questionIds": [
+            "MED-C74-022"
+          ]
+        },
+        {
+          "element": "p1062-e009",
+          "page": 1062,
+          "source": "Which retroviral genus is printed for HTLV-1 on this page? ['Delta virus : HTLV-1' with adult T-cell lymphoma/leukemia and tropical spastic paraparesis. (Book p1062)]",
+          "questionIds": [
+            "MED-C74-023"
+          ]
+        },
+        {
+          "element": "p1062-e010",
+          "page": 1062,
+          "source": "HTLV-1 associations — match — 1) Malignancy 2) Neurological … A) Adult T-cell lymphoma / leukemia B) Tropical spastic paraparesis ['Delta virus : HTLV-1 · Adult T-cell lymphoma/leukemia, · Tropical spastic paraparesis'. (Book p1062)]",
+          "questionIds": [
+            "MED-C74-024"
+          ]
+        },
+        {
+          "element": "p1062-e011",
+          "page": 1062,
+          "source": "Lentiviruses — match — 1) HIV-1 2) HIV-2 … A) Less virulent, West African virus of the simian viridae family B) The main agent with groups and subtypes ['Lentivirus : · HIV-1, · HIV-2 : Less virulent, · Simian viridae family, West African virus'. (Book p1062)]",
+          "questionIds": [
+            "MED-C74-025"
+          ]
+        },
+        {
+          "element": "p1062-e012",
+          "page": 1062,
+          "source": "Viral structure — match the component to its label — 1) Envelope 2) Enzymes 3) Capsid … A) Reverse transcriptase, integrase and protease B) gp120 and gp41 C) p17 matrix protein and p24 core protein ['Envelope : gp120, gp41'; 'Transcriptase (reverse), Integrase, Protease'; 'Capsid : Protein p17, p24'. (Book p1062)]",
+          "questionIds": [
+            "MED-C74-026"
+          ]
+        },
+        {
+          "element": "p1062-e013",
+          "page": 1062,
+          "source": "Which HIV-1 subtype is printed as the most common? ['Subtypes … m/c : C'. (Book p1062)]",
+          "questionIds": [
+            "MED-C74-027"
+          ]
+        },
+        {
+          "element": "p1062-e014",
+          "page": 1062,
+          "source": "Which HIV-1 subtype is printed as spreading through blood and among homosexuals? ['→ B : Spread through blood, homosexuals'. (Book p1062)]",
+          "questionIds": [
+            "MED-C74-028"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1063,
+      "pdfPage": 29,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1063 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1063.",
+      "elements": [
+        {
+          "element": "p1063-e001",
+          "page": 1063,
+          "source": "Fill up: the HIV genome is printed as '______ copies of ssRNA'. ['2 Copies of ssRNA'. (Book p1063)]",
+          "questionIds": [
+            "MED-C74-029"
+          ]
+        },
+        {
+          "element": "p1063-e002",
+          "page": 1063,
+          "source": "Structural genes — match the gene to its product — 1) env 2) pol 3) gag … A) Reverse transcriptase, integrase and protease B) p17 matrix protein and p24 core protein C) gp120 spike protein and gp41 transmembrane pedicle protein ['Env : codes gp120 (Spike protein), gp41 (Transmembrane pedicle protein); POL : codes Enzymes : Reverse transcriptase, Integrase, Protease; GAG : code]",
+          "questionIds": [
+            "MED-C74-030"
+          ]
+        },
+        {
+          "element": "p1063-e003",
+          "page": 1063,
+          "source": "Non-structural genes — match — 1) Nef 2) Vif 3) Rev 4) Tat … A) Viral infectivity factor B) Regulation of viral expression C) Transcription activator D) Negative effector, downregulates host CD4 cells ['· Nef/P : Negative effector → Downregulates host CD4 cells; · vif : Viral infectivity factor; Rev : Regulation of viral expression; Tat : Transcripti]",
+          "questionIds": [
+            "MED-C74-031"
+          ]
+        },
+        {
+          "element": "p1063-e004",
+          "page": 1063,
+          "source": "Which gene is printed as downregulating host CD4 cells? ['· Nef/P : Negative effector → Downregulates host CD4 cells'. (Book p1063)]",
+          "questionIds": [
+            "MED-C74-032"
+          ]
+        },
+        {
+          "element": "p1063-e005",
+          "page": 1063,
+          "source": "Which two accessory proteins are printed at the end of the non-structural gene list? [The list ends with Vpr (viral protein R) and 'Vpu / Vpx'. (Book p1063)]",
+          "questionIds": [
+            "MED-C74-033"
+          ]
+        },
+        {
+          "element": "p1063-e006",
+          "page": 1063,
+          "source": "Infection sources — match the concentration to the fluid — 1) Highest 2) As high as blood 3) Low … A) Semen and vaginal fluid B) Tears, saliva, urine and breast milk C) Blood, pus from sores and CSF ['High concentration : · Blood, · Semen/vaginal fluid (As high as blood), · Pus from sores, CSF'; 'Low concentration : Tears, Saliva (SLIP), urine, Bre]",
+          "questionIds": [
+            "MED-C74-034"
+          ]
+        },
+        {
+          "element": "p1063-e007",
+          "page": 1063,
+          "source": "What expansion is printed for SLIP in the low-concentration list? ['Saliva (SLIP : Salivary lymphocyte inhibitory protein)'. (Book p1063)]",
+          "questionIds": [
+            "MED-C74-035"
+          ]
+        },
+        {
+          "element": "p1063-e008",
+          "page": 1063,
+          "source": "Which body fluid is printed as carrying as high a viral concentration as blood? ['· Semen/vaginal fluid (As high as blood)'. (Book p1063)]",
+          "questionIds": [
+            "MED-C74-036"
+          ]
+        },
+        {
+          "element": "p1063-e009",
+          "page": 1063,
+          "source": "Which mode of transmission is printed first in the mode-of-transmission list? ['Sexual > Parent to child > IV drug abuse > Blood transfusion > Needle stick'. (Book p1063)]",
+          "questionIds": [
+            "MED-C74-037"
+          ]
+        },
+        {
+          "element": "p1063-e010",
+          "page": 1063,
+          "source": "Which exposure is printed as carrying the maximum per-exposure risk, and at what figure? ['maximum : Blood transfusion (9250/10,000) > Parent to child > IV drug abuse > Needle stick'. (Book p1063)]",
+          "questionIds": [
+            "MED-C74-038"
+          ]
+        },
+        {
+          "element": "p1063-e011",
+          "page": 1063,
+          "source": "Judge the transmission page: I Sexual transmission outranks parent-to-child, IV drug use, transfusion and needlestick in frequency. II Per exposure, transfusion carries the highest risk. ['Sexual > Parent to child > IV drug abuse > Blood transfusion > Needle stick' and 'maximum : Blood transfusion (9250/10,000)'. (Book p1063)]",
+          "questionIds": [
+            "MED-C74-039"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1064,
+      "pdfPage": 30,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1064 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1064.",
+      "elements": [
+        {
+          "element": "p1064-e001",
+          "page": 1064,
+          "source": "Viral entry — match the step to its event — 1) First attachment 2) Co-receptor binding 3) Post-binding change 4) Final step … A) Conformational change in gp41 B) Conformational change in gp120 C) CXCR4 on lymphocytes, CCR5 on macrophages D) Fusion and uncoating of the virus ['Step-1 : Viral entry : Conformational change in gp120; b. Co-receptor binding (CXCR4 - lymphocyte, CCR5 - macrophages); Conformational change in gp41]",
+          "questionIds": [
+            "MED-C74-040"
+          ]
+        },
+        {
+          "element": "p1064-e002",
+          "page": 1064,
+          "source": "Co-receptors — match — 1) CXCR4 2) CCR5 … A) Macrophages B) Lymphocytes ['(CXCR4 - lymphocyfe, CCR5 - macrophages)'. (Book p1064)]",
+          "questionIds": [
+            "MED-C74-041"
+          ]
+        },
+        {
+          "element": "p1064-e003",
+          "page": 1064,
+          "source": "Drug classes matched to the replication step — match — 1) Entry 2) Fusion 3) Integration 4) Release … A) Fusion inhibitor given subcutaneously B) Protease inhibitors C) Integrase inhibitors given orally D) Co-receptor blocker given orally ['Co-receptor blocker (oral)' at entry, 'Fusion inhibitor (s/c)', 'Integrase inhibitors (Oral)' at integration and 'Cleaved by protease … Protease inhi]",
+          "questionIds": [
+            "MED-C74-042"
+          ]
+        },
+        {
+          "element": "p1064-e004",
+          "page": 1064,
+          "source": "Which step converts viral RNA into DNA in the printed cycle? ['Viral RNA → DNA' is the step after viral entry and before integration. (Book p1064)]",
+          "questionIds": [
+            "MED-C74-043"
+          ]
+        },
+        {
+          "element": "p1064-e005",
+          "page": 1064,
+          "source": "What makes the released virion mature, according to the page? ['Cleaved by protease → mature virus released'. (Book p1064)]",
+          "questionIds": [
+            "MED-C74-044"
+          ]
+        },
+        {
+          "element": "p1064-e006",
+          "page": 1064,
+          "source": "Fill up: 'Primary infection → incubation period (______ weeks) → acute infectious syndrome / acute HIV infection.' ['Incubation period (3-6 weeks)'. (Book p1064)]",
+          "questionIds": [
+            "MED-C74-045"
+          ]
+        },
+        {
+          "element": "p1064-e007",
+          "page": 1064,
+          "source": "What illness does the page print that acute HIV infection mimics? ['mimics Infectious mononucleosis'. (Book p1064)]",
+          "questionIds": [
+            "MED-C74-046"
+          ]
+        },
+        {
+          "element": "p1064-e008",
+          "page": 1064,
+          "source": "Acute HIV syndrome — match the symptom group — 1) Constitutional 2) Throat 3) Nodes 4) Gut and skin … A) Sore throat B) Fever C) Lymphadenopathy D) Diarrhoea and rash ['Clinical Symptoms : Fever, Sore throat, Lymphadenopathy, · Diarrhea, · Rash'. (Book p1064)]",
+          "questionIds": [
+            "MED-C74-047"
+          ]
+        },
+        {
+          "element": "p1064-e009",
+          "page": 1064,
+          "source": "What proportion of acute HIV infections resolve symptomatically, and what proportion are fulminant? ['> 90% : Symptoms resolve'; '≥10% : Fulminant stage (meningoencephalitis)'. (Both figures are printed as given.) (Book p1064)]",
+          "questionIds": [
+            "MED-C74-048"
+          ]
+        },
+        {
+          "element": "p1064-e010",
+          "page": 1064,
+          "source": "Which form does the fulminant stage take, as printed? ['≥10% : Fulminant stage (meningoencephalitis)'. (Book p1064)]",
+          "questionIds": [
+            "MED-C74-049"
+          ]
+        },
+        {
+          "element": "p1064-e011",
+          "page": 1064,
+          "source": "Judge the acute-HIV block: I Opportunistic infections are absent in acute HIV infection. II After the acute illness the virus is established in GALT with long subclinical replication (clinical latency). ['No opportunistic infections', 'Establishment of infection in GALT' and 'Subclinical replication for long period (clinical latency)'. (Book p1064)]",
+          "questionIds": [
+            "MED-C74-050"
+          ]
+        },
+        {
+          "element": "p1064-e012",
+          "page": 1064,
+          "source": "Where is infection established during the long subclinical period? ['Establishment of infection in GALT'. (Book p1064)]",
+          "questionIds": [
+            "MED-C74-051"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1065,
+      "pdfPage": 31,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1065 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1065.",
+      "elements": [
+        {
+          "element": "p1065-e001",
+          "page": 1065,
+          "source": "Early pathogenesis — match — 1) Primary infection 2) Dissemination 3) Outcome … A) Massive viraemia with wide dissemination to lymphoid organs B) Establishment of infection in GALT C) Establishment of chronic, persistent infection ['Primary infection → Establishment of infection in GALT → Massive viremia → Wide dissemination to lymphoid organs → Establishment of chronic, persiste]",
+          "questionIds": [
+            "MED-C74-052"
+          ]
+        },
+        {
+          "element": "p1065-e002",
+          "page": 1065,
+          "source": "Immune events — match — 1) Early response 2) Control 3) Failure … A) Partial immunologic control of virus replication B) HIV-specific immune response C) Destruction of the immune system with accelerated virus replication ['HIV-specific immune response', 'Partial immunologic control of virus replication' and then 'Destruction of Immune System' with 'Accelerated virus rep]",
+          "questionIds": [
+            "MED-C74-053"
+          ]
+        },
+        {
+          "element": "p1065-e003",
+          "page": 1065,
+          "source": "What does the page print as driving immune activation in chronic HIV? ['Immune activation mediated by cytokines and HIV envelope-mediated aberrant cell signaling'. (Book p1065)]",
+          "questionIds": [
+            "MED-C74-054"
+          ]
+        },
+        {
+          "element": "p1065-e004",
+          "page": 1065,
+          "source": "What happens to CD4 T-cell turnover, as printed? ['Rapid CD4+ T-cell turnover'. (Book p1065)]",
+          "questionIds": [
+            "MED-C74-055"
+          ]
+        },
+        {
+          "element": "p1065-e005",
+          "page": 1065,
+          "source": "Course of untreated HIV — match the sequence — 1) After primary infection 2) During dissemination 3) After latency 4) Terminal … A) Wide dissemination of virus with seeding of lymphoid organs B) ± acute HIV syndrome C) Constitutional symptoms, opportunistic diseases and death D) Clinical latency ['Primary infection → ± Acute HIV syndrome → Wide dissemination of virus, Seeding of lymphoid organs → Clinical latency → Constitutional symptoms → Opp]",
+          "questionIds": [
+            "MED-C74-056"
+          ]
+        },
+        {
+          "element": "p1065-e006",
+          "page": 1065,
+          "source": "Graph axes — match the curve to its label — 1) Left axis 2) Right axis 3) Bottom axis … A) Time in weeks 0-12 then years 1-8 B) CD4+ T-lymphocyte count in cells/µL C) HIV RNA copies per mL plasma ['CD4+ T Lymphocyte count (cells/µL)', 'HIV RNA Copies per mL Plasma', 'Time (months after infection)' with weeks then years. (Book p1065)]",
+          "questionIds": [
+            "MED-C74-057"
+          ]
+        },
+        {
+          "element": "p1065-e007",
+          "page": 1065,
+          "source": "Detection of HIV components — match — 1) Earliest marker 2) Next marker 3) Last … A) p24 antigen, about day 16 / 2-3 weeks B) Anti-HIV antibody C) HIV RNA, about day 10 / 1-2 weeks ['HIV RNA : 10th day / 1-2 weeks (earliest)'; 'p24 levels : 16th day / 2-3 weeks'; anti-HIV antibody is the last of the three curves. (Book p1065)]",
+          "questionIds": [
+            "MED-C74-058"
+          ]
+        },
+        {
+          "element": "p1065-e008",
+          "page": 1065,
+          "source": "How early does the page print HIV RNA becoming detectable? ['HIV RNA : 10th day / 1-2 weeks (earliest)'. (Book p1065)]",
+          "questionIds": [
+            "MED-C74-059"
+          ]
+        },
+        {
+          "element": "p1065-e009",
+          "page": 1065,
+          "source": "When does the page print p24 antigen becoming detectable? ['p24 levels : 16th day / 2-3 weeks'. (Book p1065)]",
+          "questionIds": [
+            "MED-C74-060"
+          ]
+        },
+        {
+          "element": "p1065-e010",
+          "page": 1065,
+          "source": "Which chronic symptoms are printed along the untreated course? [Along the course the page prints 'Constitutional' symptoms, 'Skin and mucus membrane defects' and 'Systemic deficiency', with acute and chronic lympha]",
+          "questionIds": [
+            "MED-C74-061"
+          ]
+        },
+        {
+          "element": "p1065-e011",
+          "page": 1065,
+          "source": "A man with a high-risk exposure 12 days ago is anxious about testing. Which marker does the page say is detectable first? ['HIV RNA : 10th day / 1-2 weeks (earliest)'. (Book p1065)]",
+          "questionIds": [
+            "MED-C74-062"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1066,
+      "pdfPage": 32,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1066 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1066.",
+      "elements": [
+        {
+          "element": "p1066-e001",
+          "page": 1066,
+          "source": "Which assay does the page print as currently in use for HIV testing? ['Currently in use : 4th generation combined antigen antibody assay : HIV-1/HIV-2 antigen/antibody combination immunoassay'. (Book p1066)]",
+          "questionIds": [
+            "MED-C74-063"
+          ]
+        },
+        {
+          "element": "p1066-e002",
+          "page": 1066,
+          "source": "Algorithm — match the result to the next step — 1) Negative 2) Positive … A) HIV-1/HIV-2 antibody differentiation immunoassay B) No HIV ['Interpretation : · If negative : No HIV. · If positive : HIV-1/HIV-2 antibody differentiation immunoassay'. (Book p1066)]",
+          "questionIds": [
+            "MED-C74-064"
+          ]
+        },
+        {
+          "element": "p1066-e003",
+          "page": 1066,
+          "source": "Differentiation assay outcomes — match — 1) HIV-1 antibodies detected 2) HIV-2 antibodies detected 3) No antibodies detected … A) HIV-2 infection B) HIV-1 NAT needed C) HIV-1 infection ['HIV-1 antibodies detected', 'HIV-2 antibodies detected' and 'No HIV antibodies detected → HIV-1 NAT'. (Book p1066)]",
+          "questionIds": [
+            "MED-C74-065"
+          ]
+        },
+        {
+          "element": "p1066-e004",
+          "page": 1066,
+          "source": "HIV-1 NAT — match — 1) Positive 2) Negative … A) Negative for HIV-1 B) Acute HIV-1 infection ['HIV-1 NAT : Positive → Acute HIV-1 infection; Negative → Negative for HIV-1'. (Book p1066)]",
+          "questionIds": [
+            "MED-C74-066"
+          ]
+        },
+        {
+          "element": "p1066-e005",
+          "page": 1066,
+          "source": "A 4th-generation assay is positive but the HIV-1/HIV-2 differentiation immunoassay detects no antibodies. What is the printed next step and its interpretation? ['No HIV antibodies detected → HIV-1 NAT → Positive : Acute HIV-1 infection; Negative : Negative for HIV-1'. (Book p1066)]",
+          "questionIds": [
+            "MED-C74-067"
+          ]
+        },
+        {
+          "element": "p1066-e006",
+          "page": 1066,
+          "source": "Opportunistic infections by CD4 — match — 1) Around 600 2) Around 300 3) Around 200 … A) Oral hairy leukoplakia or TB, mucocutaneous herpes, cryptosporidiosis, microsporidiosis B) Pneumocystis jirovecii, miliary TB, oesophageal candidiasis C) Lymphadenopathy and thrombocytopenia [The CD4-stratified table lists lymphadenopathy/thrombocytopenia near 600, mucocutaneous herpes and the diarrhoeal parasites around 300, and Pneumocyst]",
+          "questionIds": [
+            "MED-C74-068"
+          ]
+        },
+        {
+          "element": "p1066-e007",
+          "page": 1066,
+          "source": "At what CD4 level is Kaposi's sarcoma printed as occurring? ['Kaposi sarcoma (At any CD4 count)'. (Book p1066)]",
+          "questionIds": [
+            "MED-C74-069"
+          ]
+        },
+        {
+          "element": "p1066-e008",
+          "page": 1066,
+          "source": "Low CD4 infections — match — 1) Cerebral toxoplasmosis 2) Cryptococcal meningitis 3) Primary CNS lymphoma … A) CD4 around 100 B) CD4 around 100 C) CD4 50 – 100 [The table places cerebral toxoplasmosis and cryptococcal meningitis around a CD4 count of 100, with primary CNS lymphoma at 50-100. (Book p1066)]",
+          "questionIds": [
+            "MED-C74-070"
+          ]
+        },
+        {
+          "element": "p1066-e009",
+          "page": 1066,
+          "source": "Very low CD4 conditions — match — 1) HIV-associated dementia 2) PML 3) CMV retinitis 4) Mycobacterium avium intracellulare … A) Progressive multifocal leukoencephalopathy B) Cytomegalovirus retinitis C) Disseminated MAC disease D) HIV-associated dementia [All four are printed at the lowest CD4 stratum of the opportunistic-infection table. (Book p1066)]",
+          "questionIds": [
+            "MED-C74-071"
+          ]
+        },
+        {
+          "element": "p1066-e010",
+          "page": 1066,
+          "source": "Which is NOT printed in the CD4-stratified opportunistic-infection table? [The table lists lymphadenopathy/thrombocytopenia, Kaposi's sarcoma, oral hairy leukoplakia and TB, mucocutaneous herpes, cryptosporidiosis, microspori]",
+          "questionIds": [
+            "MED-C74-072"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1067,
+      "pdfPage": 33,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1067 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1067.",
+      "elements": [
+        {
+          "element": "p1067-e001",
+          "page": 1067,
+          "source": "How is the fundus appearance of CMV retinitis described? ['CMV : Pizza pie appearance'. (Book p1067)]",
+          "questionIds": [
+            "MED-C74-073"
+          ]
+        },
+        {
+          "element": "p1067-e002",
+          "page": 1067,
+          "source": "What average CD4 count at diagnosis is printed for MAC disease? ['MAC : · Average CD4 at diagnosis : <10'. (Book p1067)]",
+          "questionIds": [
+            "MED-C74-074"
+          ]
+        },
+        {
+          "element": "p1067-e003",
+          "page": 1067,
+          "source": "MAC presentation — match — 1) Constitutional 2) Nodes 3) Chest … A) Fever, night sweats and weight loss B) Pulmonary involvement is rare C) Lymphadenopathy ['Highly disseminated disease with : Fever, Night sweats, weight loss, Lymphadenopathy' and '· Pulmonary involvement is rare'. (Book p1067)]",
+          "questionIds": [
+            "MED-C74-075"
+          ]
+        },
+        {
+          "element": "p1067-e004",
+          "page": 1067,
+          "source": "Which drug combination is printed for treatment of MAC? ['· Treatment : Clarithromycin + Ethambutol'. (Book p1067)]",
+          "questionIds": [
+            "MED-C74-076"
+          ]
+        },
+        {
+          "element": "p1067-e005",
+          "page": 1067,
+          "source": "At what CD4 count is MAC prophylaxis printed, and with which drug? ['· Prophylaxis (CD4 <50) : Azithromycin'. (Book p1067)]",
+          "questionIds": [
+            "MED-C74-077"
+          ]
+        },
+        {
+          "element": "p1067-e006",
+          "page": 1067,
+          "source": "What is the treatment principle printed at the top of the treatment section? ['All HIV must be treated'. (Book p1067)]",
+          "questionIds": [
+            "MED-C74-078"
+          ]
+        },
+        {
+          "element": "p1067-e007",
+          "page": 1067,
+          "source": "Entry and entry-adjacent inhibitors — match the class to the drug — 1) CD4 receptor inhibitor 2) Co-receptor inhibitor 3) Fusion inhibitor … A) Maraviroc (oral) B) Enfuvirtide (s/c) C) Ibalizumab (IV) ['CD4 receptor inhibitors : Ibalizumab (IV); Coreceptor inhibitors : maraviroc (oral); Fusion inhibitors : Enfuvirtide (s/c)'. (Book p1067)]",
+          "questionIds": [
+            "MED-C74-079"
+          ]
+        },
+        {
+          "element": "p1067-e008",
+          "page": 1067,
+          "source": "Enzyme inhibitors — match the class to the drugs — 1) Integrase inhibitors 2) Protease inhibitors … A) Ritonavir, nelfinavir, atazanavir B) Dolutegravir, raltegravir ['Integrase inhibitors : Dolutegravir, Raltegravir'; 'Protease inhibitors : Ritonavir, Nelfinavir, Atazanavir'. (Book p1067)]",
+          "questionIds": [
+            "MED-C74-080"
+          ]
+        },
+        {
+          "element": "p1067-e009",
+          "page": 1067,
+          "source": "Reverse-transcriptase inhibitors — match the subclass to the drugs — 1) NRTI 2) NNRTI 3) Nucleotide RTI … A) Nevirapine, efavirenz, delavirdine B) Tenofovir disoproxil C) Abacavir, lamivudine, emtricitabine ['1. Nucleoside reverse transcriptase inhibitors/NRTI : Abacavir, Lamivudine, Emtricitabine; 2. Non-nucleoside reverse transcriptase inhibitors/NNRTI :]",
+          "questionIds": [
+            "MED-C74-081"
+          ]
+        },
+        {
+          "element": "p1067-e010",
+          "page": 1067,
+          "source": "Which drug is printed as a co-receptor inhibitor? ['Coreceptor inhibitors : maraviroc (oral)'. (Book p1067)]",
+          "questionIds": [
+            "MED-C74-082"
+          ]
+        },
+        {
+          "element": "p1067-e011",
+          "page": 1067,
+          "source": "Which fusion inhibitor and route are printed? ['Fusion inhibitors : Enfuvirtide (s/c)'. (Book p1067)]",
+          "questionIds": [
+            "MED-C74-083"
+          ]
+        },
+        {
+          "element": "p1067-e012",
+          "page": 1067,
+          "source": "Which drug is NOT printed among the protease inhibitors? [Dolutegravir is an integrase inhibitor; the protease inhibitors listed are ritonavir, nelfinavir and atazanavir. (Book p1067)]",
+          "questionIds": [
+            "MED-C74-084"
+          ]
+        },
+        {
+          "element": "p1067-e013",
+          "page": 1067,
+          "source": "A patient with advanced HIV has fever, night sweats, weight loss, lymphadenopathy and a CD4 count under 10. Which diagnosis, treatment and prophylaxis does the page print? ['MAC : · Average CD4 at diagnosis : <10 … · Treatment : Clarithromycin + Ethambutol · Prophylaxis (CD4 <50) : Azithromycin'. (Book p1067)]",
+          "questionIds": [
+            "MED-C74-085"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1068,
+      "pdfPage": 34,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1068 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1068.",
+      "elements": [
+        {
+          "element": "p1068-e001",
+          "page": 1068,
+          "source": "How many drugs are printed in the preferred antiretroviral combination? ['3 drug combination : Preferred combination'. (Book p1068)]",
+          "questionIds": [
+            "MED-C74-086"
+          ]
+        },
+        {
+          "element": "p1068-e002",
+          "page": 1068,
+          "source": "TED regimen — match the drug to the dose — 1) Tenofovir 2) Emtricitabine 3) Dolutegravir … A) 200 mg once daily B) 50 mg once daily C) 300 mg once daily ['TED regimen : (300 mg OD) + (200 mg OD) + (50 mg OD)' for tenofovir, emtricitabine and dolutegravir. (Book p1068)]",
+          "questionIds": [
+            "MED-C74-087"
+          ]
+        },
+        {
+          "element": "p1068-e003",
+          "page": 1068,
+          "source": "What does the 'E' in the TED regimen stand for? [TED = tenofovir, emtricitabine, dolutegravir. (Book p1068)]",
+          "questionIds": [
+            "MED-C74-088"
+          ]
+        },
+        {
+          "element": "p1068-e004",
+          "page": 1068,
+          "source": "NACO / TLD regimen — match the drug to the dose — 1) Tenofovir 2) Lamivudine 3) Dolutegravir … A) 300 mg B) 50 mg once daily C) 300 mg once daily ['NACO regimen / TLD regimen : (300 mg OD) + (300 mg) + (50 mg OD)'. (Book p1068)]",
+          "questionIds": [
+            "MED-C74-089"
+          ]
+        },
+        {
+          "element": "p1068-e005",
+          "page": 1068,
+          "source": "Which backbone drug differs between the TED and the NACO/TLD regimen? [TED uses emtricitabine 200 mg while TLD uses lamivudine 300 mg. (Book p1068)]",
+          "questionIds": [
+            "MED-C74-090"
+          ]
+        },
+        {
+          "element": "p1068-e006",
+          "page": 1068,
+          "source": "Fill up (Post-exposure prophylaxis): 'Optimally effective if started within ______ hours.' ['Prophylaxis (After needle injury) : Optimally effective if started within 72 hours'. (Book p1068)]",
+          "questionIds": [
+            "MED-C74-091"
+          ]
+        },
+        {
+          "element": "p1068-e007",
+          "page": 1068,
+          "source": "What regimen and duration are printed for post-exposure prophylaxis after a needlestick? ['· TeD regimen for 4 weeks'. (Book p1068)]",
+          "questionIds": [
+            "MED-C74-092"
+          ]
+        },
+        {
+          "element": "p1068-e008",
+          "page": 1068,
+          "source": "Which adverse effect is printed against tenofovir in this section? ['S/e : Bone toxicity with tenofovir'. (Book p1068)]",
+          "questionIds": [
+            "MED-C74-093"
+          ]
+        },
+        {
+          "element": "p1068-e009",
+          "page": 1068,
+          "source": "Judge the regimen page: I The preferred combination has three drugs, TED being tenofovir, emtricitabine and dolutegravir. II After a needlestick the same TED regimen is given for 4 weeks, ideally started within 72 hours. ['3 drug combination : Preferred combination : TED regimen' and 'Prophylaxis (After needle injury) : Optimally effective if started within 72 hours · T]",
+          "questionIds": [
+            "MED-C74-094"
+          ]
+        },
+        {
+          "element": "p1068-e010",
+          "page": 1068,
+          "source": "A health-care worker has a needlestick exposure and presents at 60 hours. What does the page advise? ['Optimally effective if started within 72 hours · TED regimen for 4 weeks'. (Book p1068)]",
+          "questionIds": [
+            "MED-C74-095"
+          ]
+        },
+        {
+          "element": "p1068-e011",
+          "page": 1068,
+          "source": "Which two integrase-inhibitor-containing regimens are named on the last page of this chapter? [Both the TED regimen and the NACO / TLD regimen end with dolutegravir 50 mg once daily. (Book p1068)]",
+          "questionIds": [
+            "MED-C74-096"
+          ]
+        }
+      ]
+    }
+  ]
+}

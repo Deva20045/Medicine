@@ -1,0 +1,646 @@
+{
+  "chapter": 45,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+  "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+  "pdfOffset": 893,
+  "pageRange": "927-932",
+  "contentSha256": "d2f464404fe60981cc636b2ae6cb8e23a885500f41c2628cd13abfb20ed82cca",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch45 p927-932: auto-generated source checklist from existing 72 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 927,
+      "pdfPage": 34,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p927 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p927.",
+      "elements": [
+        {
+          "element": "p927-e001",
+          "page": 927,
+          "source": "The islets of Langerhans are written as what percentage of pancreatic volume? [The formation note says islets of Langerhans are 2% of pancreatic volume. (Book p927)]",
+          "questionIds": [
+            "MED-C45-001"
+          ]
+        },
+        {
+          "element": "p927-e002",
+          "page": 927,
+          "source": "Insulin is written as a polypeptide of ___ amino acids. [The formation note identifies insulin as a polypeptide of 51 amino acids. (Book p927)]",
+          "questionIds": [
+            "MED-C45-002"
+          ]
+        },
+        {
+          "element": "p927-e003",
+          "page": 927,
+          "source": "Match the insulin physiology item to its printed description — 1) Formation site 2) Structure 3) Receptor 4) Exception … A) Islets of Langerhans B) Chains connected by disulphide bonds C) Tyrosine kinase D) TGF-β uses serine-threonine kinase [The page gives islets of Langerhans, chains joined by disulphide bonds, a tyrosine-kinase receptor, and TGF-β as the serine-threonine-kinase exception]",
+          "questionIds": [
+            "MED-C45-003"
+          ]
+        },
+        {
+          "element": "p927-e004",
+          "page": 927,
+          "source": "Assess the receptor note: I Insulin acts via a tyrosine-kinase receptor. II TGF-β is listed as an exception using a serine-threonine-kinase pathway. [Both receptor statements are written in the physiology notes. (Book p927)]",
+          "questionIds": [
+            "MED-C45-004"
+          ]
+        },
+        {
+          "element": "p927-e005",
+          "page": 927,
+          "source": "Which tissue is included in the page's insulin-dependent GLUT-4 glucose uptake list? [The GLUT-4 uptake list names skeletal muscle, adipose tissue and heart. (Book p927)]",
+          "questionIds": [
+            "MED-C45-005"
+          ]
+        },
+        {
+          "element": "p927-e006",
+          "page": 927,
+          "source": "Match the insulin effect to the carbohydrate-metabolism entry — 1) Glucose uptake 2) Glucose production 3) Gluconeogenesis 4) Glycogenolysis … A) Via GLUT-4 in muscle, adipose tissue and heart B) Regulated by insulin C) Decreased D) Decreased [The page shows insulin-dependent GLUT-4 uptake, regulation of glucose production, and negative effects on gluconeogenesis and glycogenolysis. (Book p9]",
+          "questionIds": [
+            "MED-C45-006"
+          ]
+        },
+        {
+          "element": "p927-e007",
+          "page": 927,
+          "source": "The page links increased glucose production to hyperglycemia and then to which pair through osmotic diuresis? [The flow below increased glucose production reads hyperglycemia followed by polyuria and polydipsia through osmotic diuresis. (Book p927)]",
+          "questionIds": [
+            "MED-C45-007"
+          ]
+        },
+        {
+          "element": "p927-e008",
+          "page": 927,
+          "source": "Which is the odd one out among the infections specifically labelled as diabetic-mellitus specific? [The page lists mucormycosis, emphysematous cholecystitis, emphysematous pyelonephritis and malignant otitis externa; meningitis is not in that bracket]",
+          "questionIds": [
+            "MED-C45-008"
+          ]
+        },
+        {
+          "element": "p927-e009",
+          "page": 927,
+          "source": "The protein-metabolism section links decreased amino-acid uptake to ___. [The page shows decreased amino-acid uptake leading to weakness. (Book p927)]",
+          "questionIds": [
+            "MED-C45-009"
+          ]
+        },
+        {
+          "element": "p927-e010",
+          "page": 927,
+          "source": "Assess the protein-metabolism notes: I Decreased amino-acid synthesis is linked to infections. II Increased proteolysis is linked to wasting. [Both arrows are shown in the protein-metabolism section. (Book p927)]",
+          "questionIds": [
+            "MED-C45-010"
+          ]
+        },
+        {
+          "element": "p927-e011",
+          "page": 927,
+          "source": "Which metabolism is listed after carbohydrate and protein metabolism at the bottom of the page? [The third numbered section is fat metabolism and it notes lipolysis. (Book p927)]",
+          "questionIds": [
+            "MED-C45-011"
+          ]
+        },
+        {
+          "element": "p927-e012",
+          "page": 927,
+          "source": "In the insulin-production diagram, what event follows ATP/ADP-related closure of the ATP-sensitive potassium channel? [The production diagram shows ATP/ADP, the ATP-sensitive K+ channel, depolarization and voltage-gated calcium-channel involvement before secretion. (Bo]",
+          "questionIds": [
+            "MED-C45-012"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 928,
+      "pdfPage": 35,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p928 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p928.",
+      "elements": [
+        {
+          "element": "p928-e001",
+          "page": 928,
+          "source": "Match the transporter to the tissue location — 1) GLUT1 2) GLUT2 3) GLUT3 4) GLUT4 … A) Brain, kidney, colon, placenta, erythrocyte B) Liver, pancreatic beta cell, small intestine, kidney C) Brain, kidney, placenta D) Heart, skeletal muscle, adipose tissue [The GLUT table gives the listed tissue distributions for GLUT1, GLUT2, GLUT3 and GLUT4. (Book p928)]",
+          "questionIds": [
+            "MED-C45-013"
+          ]
+        },
+        {
+          "element": "p928-e002",
+          "page": 928,
+          "source": "Which transporter is marked as insulin-stimulated uptake of glucose? [The GLUT4 row states insulin-stimulated uptake of glucose. (Book p928)]",
+          "questionIds": [
+            "MED-C45-014"
+          ]
+        },
+        {
+          "element": "p928-e003",
+          "page": 928,
+          "source": "The small-intestine transporter that takes up fructose is ___. [The GLUT5 row lists small intestine and uptake of fructose. (Book p928)]",
+          "questionIds": [
+            "MED-C45-015"
+          ]
+        },
+        {
+          "element": "p928-e004",
+          "page": 928,
+          "source": "Assess the transporter table: I SGLT1 is in small intestine and actively takes up glucose from the lumen. II SGLT2 reabsorbs glucose in the proximal convoluted tubule of the kidney. [Both SGLT rows carry those tissue and function labels. (Book p928)]",
+          "questionIds": [
+            "MED-C45-016"
+          ]
+        },
+        {
+          "element": "p928-e005",
+          "page": 928,
+          "source": "Match the glucose/C-peptide pattern to the associated condition — 1) C-peptide undetectable, glucose increased 2) C-peptide increased, glucose increased 3) C-peptide increased, glucose decreased 4) C-peptide decreased, glucose decreased … A) T1DM B) T2DM C) Insulinoma D) Exogenous insulin [The table pairs undetectable C-peptide/increased glucose with T1DM, increased/increased with T2DM, increased/decreased with insulinoma, and decreased/]",
+          "questionIds": [
+            "MED-C45-017"
+          ]
+        },
+        {
+          "element": "p928-e006",
+          "page": 928,
+          "source": "A patient has low glucose, low C-peptide and a history suggesting administered insulin. Which association is printed? [The C-peptide table associates decreased C-peptide and decreased glucose with exogenous insulin. (Book p928)]",
+          "questionIds": [
+            "MED-C45-018"
+          ]
+        },
+        {
+          "element": "p928-e007",
+          "page": 928,
+          "source": "How many incretin hormones are branched from the word 'incretins' in the diagram? [The diagram branches incretins to GLP-1 and GIP, making two hormones. (Book p928)]",
+          "questionIds": [
+            "MED-C45-019"
+          ]
+        },
+        {
+          "element": "p928-e008",
+          "page": 928,
+          "source": "The incretin effect augments insulin production in response to which type of meal entry named on the page? [The note says incretins augment insulin production in response to a glucose meal, written as intrajejunal glucose. (Book p928)]",
+          "questionIds": [
+            "MED-C45-020"
+          ]
+        },
+        {
+          "element": "p928-e009",
+          "page": 928,
+          "source": "Which recombinant GLP-1 application is written as not easily degraded by DPP-4? [The applied-aspect note names recombinant GLP-1 for DM and says it is not easily degraded by DPP-4. (Book p928)]",
+          "questionIds": [
+            "MED-C45-021"
+          ]
+        },
+        {
+          "element": "p928-e010",
+          "page": 928,
+          "source": "Assess the applied-aspect list: I Exenatide is annotated with pancreatitis risk. II Liraglutide is written as subcutaneous. [The page lists exenatide with pancreatitis risk and liraglutide s/c. (Book p928)]",
+          "questionIds": [
+            "MED-C45-022"
+          ]
+        },
+        {
+          "element": "p928-e011",
+          "page": 928,
+          "source": "Match the applied drug to the page's note — 1) Exenatide 2) Liraglutide 3) Semaglutide 4) Tirzepatide … A) Pancreatitis risk B) Subcutaneous C) Oral with increased weight loss D) Dual GLP-1/GIP analogue [The application list gives exenatide with pancreatitis risk, liraglutide s/c, oral semaglutide with increased weight loss, and tirzepatide as a dual G]",
+          "questionIds": [
+            "MED-C45-023"
+          ]
+        },
+        {
+          "element": "p928-e012",
+          "page": 928,
+          "source": "Which is the odd one out among the abbreviated hormones or transporters explicitly written in the incretin section? [GLP-1, GIP and DPP-4 appear in this page's incretin notes; cortisol does not. (Book p928)]",
+          "questionIds": [
+            "MED-C45-024"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 929,
+      "pdfPage": 36,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p929 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p929.",
+      "elements": [
+        {
+          "element": "p929-e001",
+          "page": 929,
+          "source": "Match the incretin to its source — 1) GLP-1 2) GIP … A) L cells of ileum and colon B) K cells of jejunum [The table gives GLP-1 from L cells of ileum and colon and GIP from K cells of jejunum. (Book p929)]",
+          "questionIds": [
+            "MED-C45-025"
+          ]
+        },
+        {
+          "element": "p929-e002",
+          "page": 929,
+          "source": "Assess the first GLP-1 versus GIP rows: I Both have +++ glucose-dependent insulin release. II Both have +++ enhancement of beta-cell glucose responsiveness. [Both columns show +++ for glucose-dependent insulin release and for enhancement of beta-cell glucose responsiveness. (Book p929)]",
+          "questionIds": [
+            "MED-C45-026"
+          ]
+        },
+        {
+          "element": "p929-e003",
+          "page": 929,
+          "source": "Which incretin column has +++ suppression of glucagon release? [The table shows +++ under GLP-1 and dashes under GIP for suppression of glucagon release. (Book p929)]",
+          "questionIds": [
+            "MED-C45-027"
+          ]
+        },
+        {
+          "element": "p929-e004",
+          "page": 929,
+          "source": "Match the listed effect to the stronger incretin column — 1) Stimulates beta-cell expansion 2) Inhibits gastric emptying 3) Enhances satiety 4) Reduces body weight … A) GLP-1 B) GLP-1 C) GLP-1 D) GLP-1 [For each of these rows the GLP-1 column is marked +++ while GIP has dashes. (Book p929)]",
+          "questionIds": [
+            "MED-C45-028"
+          ]
+        },
+        {
+          "element": "p929-e005",
+          "page": 929,
+          "source": "What half-life is written for GLP-1 in the table? [The GLP-1 half-life row states 1–2 minutes and notes rapid degradation by DPP-4. (Book p929)]",
+          "questionIds": [
+            "MED-C45-029"
+          ]
+        },
+        {
+          "element": "p929-e006",
+          "page": 929,
+          "source": "The GIP half-life in the table is written as ___ minutes. [The GIP half-life row reads 5–7 minutes. (Book p929)]",
+          "questionIds": [
+            "MED-C45-030"
+          ]
+        },
+        {
+          "element": "p929-e007",
+          "page": 929,
+          "source": "Which page-listed feature supports choosing recombinant GLP-1 over another hypoglycemic agent? [The advantages list includes no risk of hypoglycemia, weight loss, cardio-protection, HbA1c reduction and nephroprotection. (Book p929)]",
+          "questionIds": [
+            "MED-C45-031"
+          ]
+        },
+        {
+          "element": "p929-e008",
+          "page": 929,
+          "source": "The page says recombinant GLP-1 is used in treatment of which liver-fat condition? [The advantages list says recombinant GLP-1 promotes weight loss and is used in treatment of NASH/NAFLD. (Book p929)]",
+          "questionIds": [
+            "MED-C45-032"
+          ]
+        },
+        {
+          "element": "p929-e009",
+          "page": 929,
+          "source": "Assess the nephron note: I Adult diabetes is associated with nephron underdosing. II Low birth weight is linked to decreased nephron number in Bartter’s theory. [The note links adult diabetes with nephron underdosing, low birth weight, decreased nephron number and Bartter’s theory. (Book p929)]",
+          "questionIds": [
+            "MED-C45-033"
+          ]
+        },
+        {
+          "element": "p929-e010",
+          "page": 929,
+          "source": "Match the insulin-deficiency complication group to its examples — 1) Acute 2) Chronic 3) Macrovascular … A) DKA and HHS B) Retinopathy, nephropathy and peripheral neuropathy C) Atherosclerotic CVD and CKD [The complication diagram lists DKA/HHS under acute, retinopathy/nephropathy/peripheral neuropathy under chronic, and atherosclerotic CVD/CKD under mac]",
+          "questionIds": [
+            "MED-C45-034"
+          ]
+        },
+        {
+          "element": "p929-e011",
+          "page": 929,
+          "source": "Which is the odd one out among the acute complications listed under insulin deficiency? [Retinopathy is in the chronic column; DKA and HHS are listed in the acute column. (Book p929)]",
+          "questionIds": [
+            "MED-C45-035"
+          ]
+        },
+        {
+          "element": "p929-e012",
+          "page": 929,
+          "source": "Which precipitating factor for DKA appears in the right-hand list? [The DKA precipitating-factor list includes cocaine and non-compliance to treatment. (Book p929)]",
+          "questionIds": [
+            "MED-C45-036"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 930,
+      "pdfPage": 37,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p930 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p930.",
+      "elements": [
+        {
+          "element": "p930-e001",
+          "page": 930,
+          "source": "Match the DKA pathophysiology step to the next printed step — 1) Absolute insulin deficiency 2) Increased CPT-1 3) Free fatty acids 4) Acetyl-CoA … A) With counter-regulatory hormones B) Lipolysis and beta-oxidation in mitochondria C) Undergo beta-oxidation D) Increased ketone-body formation [The flow begins with absolute insulin deficiency and counter-regulatory hormones, increased CPT-1, free-fatty-acid beta-oxidation, acetyl-CoA formatio]",
+          "questionIds": [
+            "MED-C45-037"
+          ]
+        },
+        {
+          "element": "p930-e002",
+          "page": 930,
+          "source": "Free fatty acids undergo ___ in the mitochondria in the DKA flowchart. [The DKA diagram states that free fatty acids undergo beta-oxidation in mitochondria. (Book p930)]",
+          "questionIds": [
+            "MED-C45-038"
+          ]
+        },
+        {
+          "element": "p930-e003",
+          "page": 930,
+          "source": "Assess the DKA flow: I Increased acetyl-CoA formation precedes ketone-body formation. II The endpoint shown is ketosis/ketoacidosis. [Both arrows are visible in the DKA pathophysiology sequence. (Book p930)]",
+          "questionIds": [
+            "MED-C45-039"
+          ]
+        },
+        {
+          "element": "p930-e004",
+          "page": 930,
+          "source": "In the comparison written at the top of the page, absolute insulin deficiency is greater in which direction? [The page annotates absolute insulin deficiency as T1DM >> T2DM. (Book p930)]",
+          "questionIds": [
+            "MED-C45-040"
+          ]
+        },
+        {
+          "element": "p930-e005",
+          "page": 930,
+          "source": "A child with DKA is being monitored for the page's highlighted complication associated with increased mortality. What is it? [The note states that cerebral edema is seen in children and increases mortality. (Book p930)]",
+          "questionIds": [
+            "MED-C45-041"
+          ]
+        },
+        {
+          "element": "p930-e006",
+          "page": 930,
+          "source": "Match the DKA clinical item to the printed category — 1) Nausea/vomiting 2) Respiratory distress out of proportion to lung signs 3) Fruity odour 4) High-anion-gap metabolic acidosis … A) Symptom B) Sign C) Acidotic breath sign D) Investigation finding [The page places nausea/vomiting under symptoms, respiratory distress under signs, fruity odour under acidotic breath, and HAGMA under investigations. ]",
+          "questionIds": [
+            "MED-C45-042"
+          ]
+        },
+        {
+          "element": "p930-e007",
+          "page": 930,
+          "source": "Which symptom is listed alongside thirst/polyuria in DKA? [The symptoms list includes nausea/vomiting, thirst/polyuria, abdominal pain and shortness of breath. (Book p930)]",
+          "questionIds": [
+            "MED-C45-043"
+          ]
+        },
+        {
+          "element": "p930-e008",
+          "page": 930,
+          "source": "Which is the odd one out among the DKA signs listed on the page? [The signs list dehydration, tachycardia, respiratory distress, acidotic breath and abdominal tenderness; bradycardia is not listed. (Book p930)]",
+          "questionIds": [
+            "MED-C45-044"
+          ]
+        },
+        {
+          "element": "p930-e009",
+          "page": 930,
+          "source": "Match the investigation to the exact DKA investigation list — 1) ABG 2) Beta-hydroxybutyrate 3) Urine 4) Blood tests … A) HAGMA B) Level C) Ketones D) CBC, RFT and serum electrolytes [The investigation list includes ABG showing HAGMA, beta-hydroxybutyrate level, urine ketones, CBC, RFT and serum electrolytes. (Book p930)]",
+          "questionIds": [
+            "MED-C45-045"
+          ]
+        },
+        {
+          "element": "p930-e010",
+          "page": 930,
+          "source": "Abdominal tenderness in this DKA page is noted as requiring a differential diagnosis of: [The page annotates abdominal tenderness with differential diagnosis of acute pancreatitis. (Book p930)]",
+          "questionIds": [
+            "MED-C45-046"
+          ]
+        },
+        {
+          "element": "p930-e011",
+          "page": 930,
+          "source": "Assess the counter-regulatory-hormone note: I Glucagon, epinephrine and cortisol are named. II Proteolysis increases gluconeogenic substrates. [The page names glucagon, epinephrine and cortisol and draws proteolysis leading to increased gluconeogenic substrates. (Book p930)]",
+          "questionIds": [
+            "MED-C45-047"
+          ]
+        },
+        {
+          "element": "p930-e012",
+          "page": 930,
+          "source": "The right-hand DKA flow runs from uncontrolled hyperglycemia through osmotic diuresis to ECF volume ___. [The page's right-hand flow ends osmotic diuresis followed by ECF volume depletion. (Book p930)]",
+          "questionIds": [
+            "MED-C45-048"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 931,
+      "pdfPage": 38,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p931 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p931.",
+      "elements": [
+        {
+          "element": "p931-e001",
+          "page": 931,
+          "source": "The DKA fluid ladder begins by replacing approximately what total volume? [The DKA treatment note says fluids replace 6–9 L. (Book p931)]",
+          "questionIds": [
+            "MED-C45-049"
+          ]
+        },
+        {
+          "element": "p931-e002",
+          "page": 931,
+          "source": "Match the DKA fluid stage to the printed timing — 1) First 3 L 2) Second 3 L 3) Third 3 L … A) Over 3 hours B) Over 9 hours C) Over 12 hours [The fluid ladder is 3 L over 3 hours, 3 L over 9 hours and 3 L over 12 hours. (Book p931)]",
+          "questionIds": [
+            "MED-C45-050"
+          ]
+        },
+        {
+          "element": "p931-e003",
+          "page": 931,
+          "source": "For every litre of DKA fluid, the note gives one ampoule of KCl containing: [The page states one amp KCl, 10 mL equal to 20 mEq, for every 1 L fluid after the insulin stat dose. (Book p931)]",
+          "questionIds": [
+            "MED-C45-051"
+          ]
+        },
+        {
+          "element": "p931-e004",
+          "page": 931,
+          "source": "The regular-insulin stat dose written for DKA is 0.1 U/kg ___. [The DKA treatment line specifies regular insulin stat dose 0.1 U/kg IV. (Book p931)]",
+          "questionIds": [
+            "MED-C45-052"
+          ]
+        },
+        {
+          "element": "p931-e005",
+          "page": 931,
+          "source": "After the DKA regular-insulin stat dose, what infusion rate is written? [The page gives a regular-insulin infusion of 0.1 U/kg/hr after the stat dose. (Book p931)]",
+          "questionIds": [
+            "MED-C45-053"
+          ]
+        },
+        {
+          "element": "p931-e006",
+          "page": 931,
+          "source": "Assess the glucose-monitoring instruction: I Blood glucose is monitored every hour. II At 200 mg/dL, fluids switch from normal saline to 5% dextrose. [The DKA treatment box says monitor blood glucose every hour and switch from NS to 5% dextrose at 200 mg/dL. (Book p931)]",
+          "questionIds": [
+            "MED-C45-054"
+          ]
+        },
+        {
+          "element": "p931-e007",
+          "page": 931,
+          "source": "A 50-kg patient is being treated using the page's example. What hourly insulin rate is written first in the example? [The example converts 0.1 U/kg/hr for a 50-kg patient to 5 U/hr first. (Book p931)]",
+          "questionIds": [
+            "MED-C45-055"
+          ]
+        },
+        {
+          "element": "p931-e008",
+          "page": 931,
+          "source": "The DKA section gives what prognosis? [The prognosis line after the DKA treatment ladder says good. (Book p931)]",
+          "questionIds": [
+            "MED-C45-056"
+          ]
+        },
+        {
+          "element": "p931-e009",
+          "page": 931,
+          "source": "Match the HHS feature to the printed note — 1) Insulin deficiency 2) Patient group 3) Precipitating factor example 4) Time course … A) Relative, T2DM > T1DM B) Elderly patient C) LRTI D) One week [HHS is described as relative insulin deficiency (T2DM > T1DM), in an elderly patient, with LRTI as an example precipitant, developing over a week. (Bo]",
+          "questionIds": [
+            "MED-C45-057"
+          ]
+        },
+        {
+          "element": "p931-e010",
+          "page": 931,
+          "source": "Assess the HHS pathophysiology: I Mildly increased counter-regulatory hormones are shown. II Ketosis and acidosis are shown as present. [HHS shows a mild counter-regulatory-hormone increase and explicitly says no ketosis/acidosis. (Book p931)]",
+          "questionIds": [
+            "MED-C45-058"
+          ]
+        },
+        {
+          "element": "p931-e011",
+          "page": 931,
+          "source": "The HHS flowchart ends with increased fluid loss followed by ___. [The printed sequence is hyperglycemia, osmotic diuresis, hyperosmolarity, increased fluid loss and comatose. (Book p931)]",
+          "questionIds": [
+            "MED-C45-059"
+          ]
+        },
+        {
+          "element": "p931-e012",
+          "page": 931,
+          "source": "Which is the odd one out among the HHS flowchart steps? [The HHS diagram includes proteolysis, gluconeogenesis and hyperosmolarity but specifically notes no ketosis/acidosis; ketone-body formation is not a s]",
+          "questionIds": [
+            "MED-C45-060"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 932,
+      "pdfPage": 39,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p932 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p932.",
+      "elements": [
+        {
+          "element": "p932-e001",
+          "page": 932,
+          "source": "Match the laboratory item to the DKA value shown in the table — 1) Glucose 2) Serum sodium 3) Osmolality 4) Plasma ketones … A) 350–1000 mg/dL B) 125–135 mEq/L C) 300–320 mOsm/mL D) ++++ [The DKA column gives glucose 350–1000, serum sodium 125–135, osmolality 300–320 and plasma ketones ++++. (Book p932)]",
+          "questionIds": [
+            "MED-C45-061"
+          ]
+        },
+        {
+          "element": "p932-e002",
+          "page": 932,
+          "source": "What glucose value is printed for HHS in the DKA-versus-HHS table? [The HHS glucose row is written as >800 mg/dL. (Book p932)]",
+          "questionIds": [
+            "MED-C45-062"
+          ]
+        },
+        {
+          "element": "p932-e003",
+          "page": 932,
+          "source": "The HHS serum-sodium range is 135–145 mEq/L, so the table notes that ___ normal saline is used. [The sodium row annotates the HHS 135–145 range with therefore 1/2 NS used. (Book p932)]",
+          "questionIds": [
+            "MED-C45-063"
+          ]
+        },
+        {
+          "element": "p932-e004",
+          "page": 932,
+          "source": "Assess the ketone and pH rows: I DKA plasma ketones are ++++. II HHS pH is written as normal. [The table shows ++++ plasma ketones for DKA and normal pH for HHS. (Book p932)]",
+          "questionIds": [
+            "MED-C45-064"
+          ]
+        },
+        {
+          "element": "p932-e005",
+          "page": 932,
+          "source": "Match the table finding to its DKA direction — 1) Bicarbonate 2) pH 3) PCO2 4) Anion gap … A) Decreased B) Decreased C) Decreased D) Increased [The DKA column shows decreased bicarbonate, pH and PCO2, with an increased anion gap. (Book p932)]",
+          "questionIds": [
+            "MED-C45-065"
+          ]
+        },
+        {
+          "element": "p932-e006",
+          "page": 932,
+          "source": "A patient has HHS with moderate creatinine increase attributed to fluid loss. Which renal consequence is written beside it? [The HHS creatinine cell reads moderate increase with increased fluid loss leading to prerenal failure. (Book p932)]",
+          "questionIds": [
+            "MED-C45-066"
+          ]
+        },
+        {
+          "element": "p932-e007",
+          "page": 932,
+          "source": "The first fluid instruction for HHS is slow fluid correction using: [HHS management begins with slow fluid correction using 1/2 NS. (Book p932)]",
+          "questionIds": [
+            "MED-C45-067"
+          ]
+        },
+        {
+          "element": "p932-e008",
+          "page": 932,
+          "source": "The HHS management note replaces approximately what volume over 4–5 days? [The page says replace 12 L over 4–5 days, approximately 3 L/day. (Book p932)]",
+          "questionIds": [
+            "MED-C45-068"
+          ]
+        },
+        {
+          "element": "p932-e009",
+          "page": 932,
+          "source": "Assess the insulin transition: I IV insulin is shifted to subcutaneous insulin when the patient is awake and taking fluids. II The page says to stop insulin before the patient can drink. [The management arrow says IV insulin, when awake and taking fluids, shifts to subcutaneous insulin. (Book p932)]",
+          "questionIds": [
+            "MED-C45-069"
+          ]
+        },
+        {
+          "element": "p932-e010",
+          "page": 932,
+          "source": "Match the subcutaneous insulin item to the printed schedule — 1) Regular insulin 2) Long-acting insulin 3) Ultra-long-acting insulin 4) Normal body production … A) 8 U–8 U–8 U B) Glargine/detemir daily C) Degludec once in two days D) 40 U [The overlap note writes 40 U normal production, regular 8–8–8, glargine/detemir daily and degludec once in two days. (Book p932)]",
+          "questionIds": [
+            "MED-C45-070"
+          ]
+        },
+        {
+          "element": "p932-e011",
+          "page": 932,
+          "source": "What prognosis is written at the end of the HHS section? [The final prognosis line on the page reads relatively poor. (Book p932)]",
+          "questionIds": [
+            "MED-C45-071"
+          ]
+        },
+        {
+          "element": "p932-e012",
+          "page": 932,
+          "source": "Which is the odd one out among the analytes marked normal in the HHS column? [Potassium, magnesium and chloride are marked normal in HHS; plasma ketones are marked ±, not ++++. (Book p932)]",
+          "questionIds": [
+            "MED-C45-072"
+          ]
+        }
+      ]
+    }
+  ]
+}

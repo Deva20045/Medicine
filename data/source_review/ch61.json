@@ -1,0 +1,709 @@
+{
+  "chapter": 61,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+  "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+  "pdfOffset": 964,
+  "pageRange": "1005-1009",
+  "contentSha256": "05f4119f5d118b0637dce008013cd39f07ddb0250dbc0dbca018d9c439682547",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom, with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch61 p1005-1009: source checklist from existing 81 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors or ambiguous glyphs are taught as printed and flagged in explanations where known. Format defects (missing blanks/malformed matches) were repaired by converting to recall format without changing the underlying fact or citation."
+  ],
+  "pages": [
+    {
+      "page": 1005,
+      "pdfPage": 41,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1005 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1005.",
+      "elements": [
+        {
+          "element": "p1005-e001",
+          "page": 1005,
+          "source": "Ascites is defined as: [Definition: free fluid in peritoneal cavity. (Book p1005)]",
+          "questionIds": [
+            "MED-C61-001"
+          ]
+        },
+        {
+          "element": "p1005-e002",
+          "page": 1005,
+          "source": "Ascites is also defined as: [Definition bullets: free fluid in peritoneal cavity; 1st sign of decompensation. (Book p1005)]",
+          "questionIds": [
+            "MED-C61-002"
+          ]
+        },
+        {
+          "element": "p1005-e003",
+          "page": 1005,
+          "source": "Match the onset proportions — 1) Ascites due to portal hypertension 2) Ascites due to peritoneal causes 3) PHTN from cirrhosis 4) PHTN without cirrhosis … A) 85% B) 90% C) 10% D) 5% [Onset: 90% d/t portal hypertension (PHTN), 10% d/t peritoneal causes; of PHTN, 85% cirrhosis and 5% no cirrhosis. (Book p1005)]",
+          "questionIds": [
+            "MED-C61-003"
+          ]
+        },
+        {
+          "element": "p1005-e004",
+          "page": 1005,
+          "source": "In a hospital series of 200 new ascites patients, applying only epidemiologic proportions, how many would have portal-hypertensive ascites due to cirrhosis? [200 × 90% = 180 portal-hypertensive; 85% of those (153) are cirrhotic per the p1005 onset tree. (Book p1005)]",
+          "questionIds": [
+            "MED-C61-004"
+          ]
+        },
+        {
+          "element": "p1005-e005",
+          "page": 1005,
+          "source": "The feature of ascites in fulminant hepatitis is: [Fulminant hepatitis: ascites without chronic picture (PHTN). (Book p1005)]",
+          "questionIds": [
+            "MED-C61-005"
+          ]
+        },
+        {
+          "element": "p1005-e006",
+          "page": 1005,
+          "source": "All but one of the following are listed as causes of fulminant hepatitis . The odd one out is: [Listed causes: paracetamol / alcohol / mushroom / rat killer poisoning; aflatoxin is not on the p1005 list. (Book p1005)]",
+          "questionIds": [
+            "MED-C61-006"
+          ]
+        },
+        {
+          "element": "p1005-e007",
+          "page": 1005,
+          "source": "SAAG (serum ascites albumin gradient) = S. albumin minus: [SAAG: serum ascites albumin gradient = S. albumin − ascitic fluid albumin (AFA). (Book p1005)]",
+          "questionIds": [
+            "MED-C61-007"
+          ]
+        },
+        {
+          "element": "p1005-e008",
+          "page": 1005,
+          "source": "A SAAG ≥ 1.1 defines high-SAAG ascites, which account for what proportion of ascites ()? [≥ 1.1 : high SAAG ascites (90%) d/t PHTN. (Book p1005)]",
+          "questionIds": [
+            "MED-C61-008"
+          ]
+        },
+        {
+          "element": "p1005-e009",
+          "page": 1005,
+          "source": "A SAAG < 1.1 defines low-SAAG ascites (10%), due to: [< 1.1 : low SAAG ascites (10%) d/t peritoneal membrane permeability. (Book p1005)]",
+          "questionIds": [
+            "MED-C61-009"
+          ]
+        },
+        {
+          "element": "p1005-e010",
+          "page": 1005,
+          "source": "Match the four SAAG × protein quadrants — 1) High SAAG, high protein 2) High SAAG, low protein 3) Low SAAG, high protein 4) Low SAAG, low protein … A) ↓ protein synthesis, ↑ loss : nephrotic syndrome B) Through hepatic vein — BCS (Budd–Chiari) C) Any peritoneal cause, m/c : peritoneal CA D) ↑ Sinusoidal pressure [High SAAG + high protein (↓AFA, ↑protein): through hepatic vein — BCS; high SAAG + low protein (↓AFA, ↓protein): ↑ sinusoidal pressure; low SAAG + hig]",
+          "questionIds": [
+            "MED-C61-010"
+          ]
+        },
+        {
+          "element": "p1005-e011",
+          "page": 1005,
+          "source": "In the high-SAAG, high-protein quadrant, what directional changes in serum-ascites albumin difference and fluid protein concentration occur? [High SAAG, high protein: ↓ AFA, ↑ protein (through hepatic vein — BCS). (Book p1005)]",
+          "questionIds": [
+            "MED-C61-011"
+          ]
+        },
+        {
+          "element": "p1005-e012",
+          "page": 1005,
+          "source": "‘In low-SAAG, high-protein ascites the ascitic fluid albumin (AFA) is reduced.’ [Low SAAG, high protein: ↑ AFA, ↑ protein (cause: any peritoneal cause, m/c peritoneal CA). (Book p1005)]",
+          "questionIds": [
+            "MED-C61-012"
+          ]
+        },
+        {
+          "element": "p1005-e013",
+          "page": 1005,
+          "source": "A paracentesis gives SAAG 2.0 g/dL and ascitic protein 4.0 g/dL, with the AFA well below the serum albumin. Which quadrant and aetiology fit? [SAAG ≥ 1.1 + high ascitic protein (↓AFA, ↑protein) = the BCS quadrant, not the usual cirrhotic low-protein pattern. (Book p1005)]",
+          "questionIds": [
+            "MED-C61-013"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1006,
+      "pdfPage": 42,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1006 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1006.",
+      "elements": [
+        {
+          "element": "p1006-e001",
+          "page": 1006,
+          "source": "The mechanism chain begins with nitric oxide (NO) causing: [Mechanism: nitric oxide (NO) → splanchnic vasodilation. (Book p1006)]",
+          "questionIds": [
+            "MED-C61-014"
+          ]
+        },
+        {
+          "element": "p1006-e002",
+          "page": 1006,
+          "source": "Match the systems stimulated by ↓ effective intravascular volume — 1) Hormonal 2) Neural 3) Renin–angiotensin … A) RAAS B) Sympathetic nervous system (SNS) C) ADH [↓ effective intravascular volume stimulates ADH, the sympathetic nervous system (SNS) and RAAS. (Book p1006)]",
+          "questionIds": [
+            "MED-C61-015"
+          ]
+        },
+        {
+          "element": "p1006-e003",
+          "page": 1006,
+          "source": "‘The fall in effective intravascular volume in the cirrhotic cascade is caused by splanchnic vasoconstriction.’ [Chain: NO → splanchnic vasodilation → ↓ effective intravascular volume → ADH/SNS/RAAS stimulation → ↑ salt + H₂O retention → ascites. (Book p1006)]",
+          "questionIds": [
+            "MED-C61-016"
+          ]
+        },
+        {
+          "element": "p1006-e004",
+          "page": 1006,
+          "source": "All but one of the following are the three printed downstream states of ascites . The odd one out is: [The ascites arrow branches to refractory ascites, hyponatremia and hepatorenal syndrome (HRS); encephalopathy is not in this p1006 branch. (Book p1006]",
+          "questionIds": [
+            "MED-C61-017"
+          ]
+        },
+        {
+          "element": "p1006-e005",
+          "page": 1006,
+          "source": "A cirrhotic with tense ascites has serum Na⁺ 124 mmol/L and a creatinine that has risen from 1.1 to 1.9 mg/dL over a week. Two of the three downstream states are present. Which pair? [Na⁺ 124 = hyponatremia; the rising creatinine with ascites = the hepatorenal syndrome arm of the p1006 branch. (Book p1006)]",
+          "questionIds": [
+            "MED-C61-018"
+          ]
+        },
+        {
+          "element": "p1006-e006",
+          "page": 1006,
+          "source": "In the pathophysiologic cascade of chronic liver disease, persistent renal retention of sodium and water directly manifests as: [Increased salt and water retention directly produces peritoneal ascites. (Book p1006)]",
+          "questionIds": [
+            "MED-C61-019"
+          ]
+        },
+        {
+          "element": "p1006-e007",
+          "page": 1006,
+          "source": "Match the chylous column of the comparative table — 1) Onset 2) Cause 3) Triglycerides 4) Lipoprotein electrophoresis … A) Chylomicrons present B) Sudden C) > 110 mg/dL D) Trauma [Chylous: sudden onset, trauma, milky-white (or yellow to bloody), lymphocytosis, triglycerides > 110 mg/dL, chylomicrons present. (Book p1006)]",
+          "questionIds": [
+            "MED-C61-020"
+          ]
+        },
+        {
+          "element": "p1006-e008",
+          "page": 1006,
+          "source": "Match the pseudochylous column of the comparative table — 1) Onset 2) Cause 3) Microscopic examination 4) Appearance … A) Milky or greenish, metallic sheen B) Mixed cellular reaction, cholesterol crystals C) Gradual D) Rheumatoid arthritis / TB [Pseudochylous: gradual onset, RA/TB, milky or greenish with metallic sheen, mixed cellular reaction with cholesterol crystals, triglycerides < 50 mg/d]",
+          "questionIds": [
+            "MED-C61-021"
+          ]
+        },
+        {
+          "element": "p1006-e009",
+          "page": 1006,
+          "source": "In the comparative table, the triglyceride level that defines chylous ascites is: [Triglycerides: chylous > 110 mg/dL versus pseudochylous < 50 mg/dL. (Book p1006)]",
+          "questionIds": [
+            "MED-C61-022"
+          ]
+        },
+        {
+          "element": "p1006-e010",
+          "page": 1006,
+          "source": "‘Pseudochylous ascites shows chylomicrons on lipoprotein electrophoresis.’ [Pseudochylous lipoprotein electrophoresis: chylomicrons absent, cholesterol crystals (+). (Book p1006)]",
+          "questionIds": [
+            "MED-C61-023"
+          ]
+        },
+        {
+          "element": "p1006-e011",
+          "page": 1006,
+          "source": "A patient 48 h after an aorto-iliac procedure develops milky-white ascites; the fluid shows lymphocytosis and triglycerides 150 mg/dL. Per this is: [Sudden onset after trauma, milky-white, lymphocytosis and TG > 110 mg/dL = chylous. (Book p1006)]",
+          "questionIds": [
+            "MED-C61-024"
+          ]
+        },
+        {
+          "element": "p1006-e012",
+          "page": 1006,
+          "source": "The pseudochylous ascitic fluid's characteristic appearance is: [Appearance: chylous — milky-white or yellow to bloody; pseudochylous — milky or greenish, metallic sheen. (Book p1006)]",
+          "questionIds": [
+            "MED-C61-025"
+          ]
+        },
+        {
+          "element": "p1006-e013",
+          "page": 1006,
+          "source": "The paracentesis site is the left lower quadrant, ___ cm cephalad and ___ cm medial to the ASIS: [Fluid tapping: left lower quadrant 3 cm cephalad, 2 cm medial to ASIS; point of maximal dullness on percussion. (Book p1006)]",
+          "questionIds": [
+            "MED-C61-026"
+          ]
+        },
+        {
+          "element": "p1006-e014",
+          "page": 1006,
+          "source": "An alternative landmark for the tapping site is: [Second bullet: point of maximal dullness on percussion. (Book p1006)]",
+          "questionIds": [
+            "MED-C61-027"
+          ]
+        },
+        {
+          "element": "p1006-e015",
+          "page": 1006,
+          "source": "Grade 1 ascites is defined as mild ascites that is: [Grade 1: mild ascites, only detectable by ultrasound; treatment — no treatment. (Book p1006)]",
+          "questionIds": [
+            "MED-C61-028"
+          ]
+        },
+        {
+          "element": "p1006-e016",
+          "page": 1006,
+          "source": "Grade 2 ascites is defined as moderate ascites evident by: [Grade 2: moderate ascites evident by moderate symmetrical distension of the abdomen. (Book p1006)]",
+          "questionIds": [
+            "MED-C61-029"
+          ]
+        },
+        {
+          "element": "p1006-e017",
+          "page": 1006,
+          "source": "Match the grade-2 diuretic ladder — 1) First diuretic 2) Its starting dose 3) Added on no response 4) Its starting dose … A) Lasix 40 mg/d B) Spironolactone 100 mg/d C) 40 mg/d D) 100 mg/d [Diuretics: spironolactone 100 mg/d (max 400 mg/d); on no response Lasix 40 mg/d (max 160 mg/d); then refractory ascites. (Book p1006)]",
+          "questionIds": [
+            "MED-C61-030"
+          ]
+        },
+        {
+          "element": "p1006-e018",
+          "page": 1006,
+          "source": "The maximum daily doses printed are spironolactone 400 mg/d and Lasix: [Lasix 40 mg/d (max dose : 160 mg/d); spironolactone 100 mg/d (max dose 400 mg/d). (Book p1006)]",
+          "questionIds": [
+            "MED-C61-031"
+          ]
+        },
+        {
+          "element": "p1006-e019",
+          "page": 1006,
+          "source": "Grade 2 ascites management includes dietary restriction of sodium intake to: [Grade 2 treatment: restriction of sodium intake 2 g/day — degraded in print as 'a g/day'. (Book p1006)]",
+          "questionIds": [
+            "MED-C61-032"
+          ]
+        },
+        {
+          "element": "p1006-e020",
+          "page": 1006,
+          "source": "Grade 3 ascites (large, marked distension) is initially managed by: [Grade 3: large volume paracentesis followed by restriction of sodium intake and diuretics (unless refractory ascites); on no response → TIPSS. (Book p]",
+          "questionIds": [
+            "MED-C61-033"
+          ]
+        },
+        {
+          "element": "p1006-e021",
+          "page": 1006,
+          "source": "In grade-3 management, TIPSS is reached after: [Grade 3 arrow: no response → TIPSS (Transjugular Intrahepatic Porto Systemic Shunt). (Book p1006)]",
+          "questionIds": [
+            "MED-C61-034"
+          ]
+        },
+        {
+          "element": "p1006-e022",
+          "page": 1006,
+          "source": "The closing line under ascites grading recommendations instructs: [Bottom line: always look for JVP for constrictions — i.e., check the JVP for constrictive pericarditis in a patient with ascites. (Book p1006)]",
+          "questionIds": [
+            "MED-C61-035"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1007,
+      "pdfPage": 43,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1007 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1007.",
+      "elements": [
+        {
+          "element": "p1007-e001",
+          "page": 1007,
+          "source": "What are the minimal free peritoneal fluid volumes required sequentially for ultrasonographic detection, clinical shifting dullness, and eliciting a fluid thrill? [Peritoneal fluid detection thresholds are: <100 mL on ultrasonography (USG), 500 mL on clinical examination for shifting dullness, and 1.5 L for elici]",
+          "questionIds": [
+            "MED-C61-036"
+          ]
+        },
+        {
+          "element": "p1007-e002",
+          "page": 1007,
+          "source": "By definition in decompensated chronic liver disease, refractory ascites refers to peritoneal fluid accumulation that exhibits: [Refractory ascites is defined as peritoneal fluid accumulation that shows no response to maximum doses of diuretics (spironolactone up to 400 mg/day p]",
+          "questionIds": [
+            "MED-C61-037"
+          ]
+        },
+        {
+          "element": "p1007-e003",
+          "page": 1007,
+          "source": "Following large-volume paracentesis (LVP) for tense ascites, which adjunctive intervention should routinely be administered to preserve effective circulating volume? [Large volume paracentesis (LVP) should be followed by intravenous albumin replacement to prevent post-paracentesis circulatory dysfunction, noted in t]",
+          "questionIds": [
+            "MED-C61-038"
+          ]
+        },
+        {
+          "element": "p1007-e004",
+          "page": 1007,
+          "source": "Match each diagnostic modality for ascitic fluid detection with its corresponding minimum fluid threshold: 1. Ultrasonography (USG) 2. Shifting dullness 3. Fluid thrill [Ultrasonography detects free fluid at volumes <100 mL; clinical shifting dullness requires 500 mL; elicitation of a fluid thrill requires 1.5 L of per]",
+          "questionIds": [
+            "MED-C61-039"
+          ]
+        },
+        {
+          "element": "p1007-e005",
+          "page": 1007,
+          "source": "A 52-year-old man with decompensated alcoholic cirrhosis presents with massive abdominal distension. On examination, a prominent fluid thrill is elicited. Based on physical diagnostic thresholds, what is the minimum volume of free ascitic fluid present? [A fluid thrill requires at least 1.5 L of free peritoneal fluid to be elicited clinically. Shifting dullness requires 500 mL, whereas USG can detect v]",
+          "questionIds": [
+            "MED-C61-040"
+          ]
+        },
+        {
+          "element": "p1007-e006",
+          "page": 1007,
+          "source": "What is the most common causative organism and bacterial class responsible for spontaneous bacterial peritonitis (SBP)? [The primary cause of spontaneous bacterial peritonitis (SBP) is Gram-negative bacteria, most commonly Escherichia coli. (Book p1007)]",
+          "questionIds": [
+            "MED-C61-041"
+          ]
+        },
+        {
+          "element": "p1007-e007",
+          "page": 1007,
+          "source": "In the diagnostic criteria for spontaneous bacterial peritonitis (SBP), the ascitic fluid analysis must demonstrate a total WBC count of at least ________ or a polymorphonuclear (PMN) neutrophil count of at least ________. [Diagnostic criteria for SBP require: (1) Ascitic fluid WBC ≥500 cells/mL OR PMNs ≥250 cells/mL, (2) positive ascitic fluid culture, and (3) no surgica]",
+          "questionIds": [
+            "MED-C61-042"
+          ]
+        },
+        {
+          "element": "p1007-e008",
+          "page": 1007,
+          "source": "Which of the following is NOT one of the three established diagnostic criteria for spontaneous bacterial peritonitis (SBP)? [The 3 criteria for SBP are: (1) ascitic fluid WBC ≥500 cells/mL OR PMNs ≥250 cells/mL, (2) positive culture, and (3) absence of a surgically treatable]",
+          "questionIds": [
+            "MED-C61-043"
+          ]
+        },
+        {
+          "element": "p1007-e009",
+          "page": 1007,
+          "source": "A 58-year-old cirrhotic patient presents with fever and diffuse abdominal pain. Diagnostic paracentesis reveals an ascitic fluid PMN count of 380 cells/mL (elevated). Ascitic fluid cultures show no bacterial growth at 48 hours, and surgical abdominal sources are ruled out. This entity represents: [Culture Negative Neutrocytic Ascites (CNNA) is defined by presence of criteria 1 (PMN ≥250) and 3 (no surgical source), with absence of criterion 2 (c]",
+          "questionIds": [
+            "MED-C61-044"
+          ]
+        },
+        {
+          "element": "p1007-e010",
+          "page": 1007,
+          "source": "Match each variant of SBP with its criteria profile and characteristic microbiology: 1. Culture Negative Neutrocytic Ascites (CNNA) 2. Monobacterial Non-Neutrocytic Ascites (MNNA) [CNNA has criteria 1+3 present (PMN elevated, no surgical source) and criterion 2 absent (culture negative). MNNA has criteria 2+3 present (culture pos]",
+          "questionIds": [
+            "MED-C61-045"
+          ]
+        },
+        {
+          "element": "p1007-e011",
+          "page": 1007,
+          "source": "True or False: Differentials of SBP criteria such as CNNA and MNNA represent milder degrees of SBP observed in patients possessing minimal host immunity combined with good opsonization capacity. [As documented under differentials of criteria, CNNA and MNNA represent a milder degree of SBP seen in patients with minimal immunity plus good opsoniz]",
+          "questionIds": [
+            "MED-C61-046"
+          ]
+        },
+        {
+          "element": "p1007-e012",
+          "page": 1007,
+          "source": "In monobacterial non-neutrocytic ascites (MNNA), how does the microbiological profile characteristically contrast with classic SBP? [In MNNA, isolated pathogens characteristically show Gram-positive organisms > Gram-negative organisms, contrasting with classic SBP where Gram-negativ]",
+          "questionIds": [
+            "MED-C61-047"
+          ]
+        },
+        {
+          "element": "p1007-e013",
+          "page": 1007,
+          "source": "In a patient with ascites presenting with acute peritonitis, which triad of ascitic fluid findings strongly points to secondary surgical peritonitis rather than spontaneous bacterial peritonitis? [As noted in the book, surgical peritonitis features ascitic protein >1 g/dL, sugar (glucose) <50 mg/dL, and markedly elevated LDH (LDH ↑↑). (Book p100]",
+          "questionIds": [
+            "MED-C61-048"
+          ]
+        },
+        {
+          "element": "p1007-e014",
+          "page": 1007,
+          "source": "What is the first-line empirical antibiotic regimen recommended for treating spontaneous bacterial peritonitis (SBP), CNNA, and MNNA? [The drug and regimen of choice for SBP, CNNA, and MNNA is Inj Cefotaxime 2 g IV TDS for 5 days (printed in text with degraded numeral 'ag IV TDS x 5da]",
+          "questionIds": [
+            "MED-C61-049"
+          ]
+        },
+        {
+          "element": "p1007-e015",
+          "page": 1007,
+          "source": "A 56-year-old cirrhotic patient recovers successfully from an acute episode of spontaneous bacterial peritonitis. What secondary antibiotic prophylaxis should be instituted upon discharge? [Prophylaxis with Tab Norfloxacin 400 mg OD for life is indicated for: prior SBP, Child-Pugh score ≥9, or ascitic fluid protein <1.5 g/dL in cirrhosis.]",
+          "questionIds": [
+            "MED-C61-050"
+          ]
+        },
+        {
+          "element": "p1007-e016",
+          "page": 1007,
+          "source": "In a patient with cirrhosis and ascites presenting with acute upper gastrointestinal (UGI) bleeding, the recommended prophylactic antibiotic regimen to prevent SBP is Tab Norfloxacin ________. [For upper GI bleed in cirrhosis, the specific prophylaxis is Tab Norfloxacin 400 mg BD for 7 days. (Book p1007)]",
+          "questionIds": [
+            "MED-C61-051"
+          ]
+        },
+        {
+          "element": "p1007-e017",
+          "page": 1007,
+          "source": "Match each clinical scenario with its recommended Norfloxacin prophylactic regimen: 1. Patient with history of prior SBP 2. Cirrhotic patient with Child's score ≥9 or ascitic protein <1.5 g/dL 3. Cirrhotic patient presenting with acute UGI bleed [Lifelong prophylaxis (Tab Norfloxacin 400 mg OD for life) is indicated for prior SBP, Child's score ≥9, and ascitic fluid protein <1.5 g/dL. Acute UGI]",
+          "questionIds": [
+            "MED-C61-052"
+          ]
+        },
+        {
+          "element": "p1007-e018",
+          "page": 1007,
+          "source": "What specific clinical staging and laboratory cutoffs mandate secondary norfloxacin prophylaxis (400 mg OD lifelong) in cirrhotic ascites? [Norfloxacin 400 mg OD for life is indicated when the Child-Pugh score is ≥9 or the ascitic fluid protein is <1.5 g/dL in a cirrhotic patient. (Book p1]",
+          "questionIds": [
+            "MED-C61-053"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1008,
+      "pdfPage": 44,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1008 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1008.",
+      "elements": [
+        {
+          "element": "p1008-e001",
+          "page": 1008,
+          "source": "What distinguishes diuretic-resistant ascites from diuretic-intractable ascites in patients with chronic liver disease? [Diuretic-resistant ascites shows no response to full-dose diuretics, whereas diuretic-intractable ascites cannot receive full-dose diuretics due to de]",
+          "questionIds": [
+            "MED-C61-054"
+          ]
+        },
+        {
+          "element": "p1008-e002",
+          "page": 1008,
+          "source": "Diuretic-resistant ascites is characterized by lack of response to full-dose diuretics, defined in the notes as spironolactone (printed as 40 mg / intended full dose 400 mg) combined with furosemide (Lasix) ________. [In diuretic-resistant ascites, there is no response to full-dose diuretics: spironolactone (printed as 40 mg, full dose 400 mg) plus 160 mg lasix. (Bo]",
+          "questionIds": [
+            "MED-C61-055"
+          ]
+        },
+        {
+          "element": "p1008-e003",
+          "page": 1008,
+          "source": "Untreated or worsening diuretic-resistant ascites typically progresses directly to which life-threatening complication? [Diuretic resistant ascites is noted as: 'Progresses to HRS'. (Book p1008)]",
+          "questionIds": [
+            "MED-C61-056"
+          ]
+        },
+        {
+          "element": "p1008-e004",
+          "page": 1008,
+          "source": "Match each subtype of refractory ascites with its clinical definition and features: 1. Diuretic Resistant Ascites 2. Diuretic Intractable Ascites [Diuretic resistant ascites is defined by failure to respond to full-dose diuretics and progresses to HRS; diuretic intractable ascites is defined by i]",
+          "questionIds": [
+            "MED-C61-057"
+          ]
+        },
+        {
+          "element": "p1008-e005",
+          "page": 1008,
+          "source": "Diuretic-intractable ascites occurs when full diuretic doses cannot be administered due to medical complications. Which of the following is NOT an example of such a diuretic complication? [Examples given for diuretic-intractable ascites complications are hypokalemia, hyperkalemia, and renal failure. (Book p1008)]",
+          "questionIds": [
+            "MED-C61-058"
+          ]
+        },
+        {
+          "element": "p1008-e006",
+          "page": 1008,
+          "source": "What definitive interventional radiological procedure is indicated for the management of refractory ascites? [Under refractory ascites, the designated management is TIPSS (Transjugular Intrahepatic Portosystemic Shunt). (Book p1008)]",
+          "questionIds": [
+            "MED-C61-059"
+          ]
+        },
+        {
+          "element": "p1008-e007",
+          "page": 1008,
+          "source": "In the pathogenesis of hepatorenal syndrome (HRS), what is the initial vascular event that subsequently triggers severe compensatory neurohumoral activation? [Splanchnic vasodilation is the primary event, which stimulates ADH, SNS, and RAAS pathways, resulting in renal vasoconstriction. (Book p1008)]",
+          "questionIds": [
+            "MED-C61-060"
+          ]
+        },
+        {
+          "element": "p1008-e008",
+          "page": 1008,
+          "source": "In hepatorenal syndrome, splanchnic vasodilation stimulates three primary neurohormonal systems that mediate renal vasoconstriction: ________, ________, and ________. [Splanchnic vasodilation stimulates ADH (antidiuretic hormone), SNS (sympathetic nervous system), and RAAS (renin-angiotensin-aldosterone system). (Boo]",
+          "questionIds": [
+            "MED-C61-061"
+          ]
+        },
+        {
+          "element": "p1008-e009",
+          "page": 1008,
+          "source": "Match each hepatorenal syndrome subtype with its progression pathway and clinical outcome: 1. HRS-AKI (Acute Kidney Injury) 2. HRS-NAKI (Non-AKI) [HRS-AKI arises from severe renal vasoconstriction and pre-renal failure, carrying a terrible prognosis and 100% mortality without liver transplant. HR]",
+          "questionIds": [
+            "MED-C61-062"
+          ]
+        },
+        {
+          "element": "p1008-e010",
+          "page": 1008,
+          "source": "True or False: In patients who develop HRS-AKI, the prognosis is universally dismal, with 100% mortality expected in the absence of liver transplantation. [As emphasized in the text, HRS-AKI has a 'terrible prognosis' and '100% mortality without transplant'. (Book p1008)]",
+          "questionIds": [
+            "MED-C61-063"
+          ]
+        },
+        {
+          "element": "p1008-e011",
+          "page": 1008,
+          "source": "Hepatorenal syndrome is fundamentally a diagnosis of exclusion established in a patient who must have which foundational underlying clinical triad? [HRS is a diagnosis of exclusion in a patient with the triad of Cirrhosis, PHTN, and Ascites. (Book p1008)]",
+          "questionIds": [
+            "MED-C61-064"
+          ]
+        },
+        {
+          "element": "p1008-e012",
+          "page": 1008,
+          "source": "To confirm hepatorenal syndrome, pre-renal and intra-renal etiologies must be systematically excluded. Which of the following is NOT an intra-renal condition listed in the diagnostic workup? [Marked hypoalbuminemia (↓↓ S. albumin) is classified under pre-renal causes to rule out, along with diuretic excess and UGI bleed. Proteinuria and hem]",
+          "questionIds": [
+            "MED-C61-065"
+          ]
+        },
+        {
+          "element": "p1008-e013",
+          "page": 1008,
+          "source": "A 54-year-old man with cirrhosis, ascites, and portal hypertension develops a serum creatinine rise to 2.8 mg/dL. Urinalysis shows no proteinuria or hematuria, renal ultrasonography shows normal kidney morphology, there is no history of shock or nephrotoxic drug ingestion, and diuretic withdrawal with volume expansion does not reverse the renal dysfunction. This confirms: [HRS is a diagnosis of exclusion in a patient with cirrhosis, PHTN, and ascites after ruling out pre-renal failure (diuretic ",
+          "questionIds": [
+            "MED-C61-066"
+          ]
+        },
+        {
+          "element": "p1008-e014",
+          "page": 1008,
+          "source": "Match the diagnostic exclusion category with the specific factors that must be ruled out when evaluating for HRS: 1. Pre-renal etiologies 2. Intra-renal etiologies 3. Nephrotoxic exposures [Pre-renal factors to rule out are diuretic excess, severe hypoalbuminemia (↓↓ S. albumin), and UGI bleed; intra-renal factors are proteinuria and hema]",
+          "questionIds": [
+            "MED-C61-067"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1009,
+      "pdfPage": 45,
+      "pdf": "uploads/Medicine_Vol3_Part5_pages_965-1034.pdf",
+      "pdfSha256": "b0c59202b3efe458725a3cb59d08ca447969724ed5617ddb6504a6fddbcf4f48",
+      "traversal": "Read top-to-bottom: Book p1009 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1009.",
+      "elements": [
+        {
+          "element": "p1009-e001",
+          "page": 1009,
+          "source": "What is the definitive and curative management for hepatorenal syndrome (HRS)? [Liver transplantation is the definitive management for hepatorenal syndrome. (Book p1009)]",
+          "questionIds": [
+            "MED-C61-068"
+          ]
+        },
+        {
+          "element": "p1009-e002",
+          "page": 1009,
+          "source": "What is the recommended dosing and titration schedule for intravenous terlipressin used to reverse splanchnic vasodilation prior to liver transplantation in HRS? [Terlipressin is administered as 1 mg IV every 4-6 hours, titrated up to 2 mg IV every 4-6 hours, with a maximum dose of 12 mg/day. (Book p1009)]",
+          "questionIds": [
+            "MED-C61-069"
+          ]
+        },
+        {
+          "element": "p1009-e003",
+          "page": 1009,
+          "source": "Which medical regimens are used to counter splanchnic vasodilation and serve as a pharmacological bridge to liver transplantation in HRS? [Medical therapy to prevent splanchnic vasodilation until transplant includes: Terlipressin, subcutaneous Octreotide + oral Midodrine (oral alpha agoni]",
+          "questionIds": [
+            "MED-C61-070"
+          ]
+        },
+        {
+          "element": "p1009-e004",
+          "page": 1009,
+          "source": "In the medical management of hepatorenal syndrome, midodrine is administered as an ________ and functions pharmacologically as an ________. [Midodrine is an oral alpha-agonist (oral α agonist) used in combination with subcutaneous octreotide. (Book p1009)]",
+          "questionIds": [
+            "MED-C61-071"
+          ]
+        },
+        {
+          "element": "p1009-e005",
+          "page": 1009,
+          "source": "A 49-year-old patient with decompensated cirrhosis and type 1 hepatorenal syndrome (HRS-AKI) is listed for urgent orthotopic liver transplantation. While awaiting donor organ availability, what medical regimen should be instituted immediately to reverse splanchnic vasodilation? [Medical management to counter splanchnic vasodilation until liver transplant includes terlipressin (1 mg IV Q4-6h up to 2 mg Q4-6h, max 12 mg/d), octr]",
+          "questionIds": [
+            "MED-C61-072"
+          ]
+        },
+        {
+          "element": "p1009-e006",
+          "page": 1009,
+          "source": "Match each pharmacological agent used in hepatorenal syndrome with its specific administration detail: 1. Terlipressin 2. Midodrine 3. Octreotide [Terlipressin is given IV 1 mg Q4-6h up to 2 mg Q4-6h (max 12 mg/d); midodrine is an oral alpha agonist; octreotide is given subcutaneously (S/C) in co]",
+          "questionIds": [
+            "MED-C61-073"
+          ]
+        },
+        {
+          "element": "p1009-e007",
+          "page": 1009,
+          "source": "In hepatopulmonary syndrome (HPS), chronic liver disease leads to excessive pulmonary production of which potent gaseous vasodilator? [Chronic liver disease stimulates excess nitric oxide (NO) production, resulting in intrapulmonary capillary dilatation. (Book p1009)]",
+          "questionIds": [
+            "MED-C61-074"
+          ]
+        },
+        {
+          "element": "p1009-e008",
+          "page": 1009,
+          "source": "In hepatopulmonary syndrome, what is the extent of intrapulmonary capillary dilatation compared to normal pulmonary capillary diameter? [Pulmonary capillary diameter expands dramatically from normal 8-15 µm up to 50-500 µm in HPS. (Book p1009)]",
+          "questionIds": [
+            "MED-C61-075"
+          ]
+        },
+        {
+          "element": "p1009-e009",
+          "page": 1009,
+          "source": "The marked intrapulmonary capillary dilatation in HPS leads to decreased oxygenation and arteriovenous shunts, causing hypoxia/hypoxemia via ________. [The combination of decreased oxygenation and AV shunts causes hypoxia/hypoxemia through ventilation-perfusion (V/Q) mismatch. (Book p1009)]",
+          "questionIds": [
+            "MED-C61-076"
+          ]
+        },
+        {
+          "element": "p1009-e010",
+          "page": 1009,
+          "source": "Platypnea is defined as dyspnea provoked by standing upright. What are the two physiological factors identified in the text that produce platypnea in HPS? [Platypnea is dyspnea on standing due to: (1) ↑ AV shunt activation and (2) diaphragm moves up. (Book p1009)]",
+          "questionIds": [
+            "MED-C61-077"
+          ]
+        },
+        {
+          "element": "p1009-e011",
+          "page": 1009,
+          "source": "Orthodeoxia is a hallmark clinical sign of hepatopulmonary syndrome defined by which specific arterial oxygen saturation change on standing? [Orthodeoxia is explicitly defined as a drop of SpO2 > 3% on standing. (Book p1009)]",
+          "questionIds": [
+            "MED-C61-078"
+          ]
+        },
+        {
+          "element": "p1009-e012",
+          "page": 1009,
+          "source": "What is the investigation of choice (IOC) to demonstrate intrapulmonary vascular dilatations in hepatopulmonary syndrome? [The investigation of choice (IOC) for HPS is Bubble Echocardiography / Contrast Transthoracic Echocardiography. (Book p1009)]",
+          "questionIds": [
+            "MED-C61-079"
+          ]
+        },
+        {
+          "element": "p1009-e013",
+          "page": 1009,
+          "source": "What is the definitive curative treatment for hepatopulmonary syndrome (HPS)? [The definitive treatment for HPS is liver transplantation. (Book p1009)]",
+          "questionIds": [
+            "MED-C61-080"
+          ]
+        },
+        {
+          "element": "p1009-e014",
+          "page": 1009,
+          "source": "A 50-year-old woman with cirrhosis complains of progressive shortness of breath when sitting up, improving when lying flat. Pulse oximetry reveals SpO2 of 96% supine, dropping to 91% on standing. Bubble echocardiography is positive for intrapulmonary shunting. What is the diagnosis and definitive management? [The triad of chronic liver disease, platypnea-orthodeoxia (drop in SpO2 > 3% on standing), and positive bubble echocardiography confirms hepatopulmona]",
+          "questionIds": [
+            "MED-C61-081"
+          ]
+        }
+      ]
+    }
+  ]
+}

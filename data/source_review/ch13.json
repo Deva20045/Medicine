@@ -1,0 +1,627 @@
+{
+  "chapter": 13,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+  "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+  "pdfOffset": 759,
+  "pageRange": "775-777",
+  "contentSha256": "a851d6de01881caf8a831431f20a2876c26771a1c9be872efee847cb93d3af22",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry and caption. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch13 p775-777: auto-generated source checklist from existing 73 questions, each mapped to its printed line in book order. Visual scan was read at 3x zoom; any printed unit errors or ambiguous glyphs are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan."
+  ],
+  "pages": [
+    {
+      "page": 775,
+      "pdfPage": 16,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p775 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p775.",
+      "elements": [
+        {
+          "element": "p775-e001",
+          "page": 775,
+          "source": "Which demographic profile belongs to PIGN/IRGN (infection-related GN) rather than to PSGN? [The TYPES table contrasts the two entities: PIGN/IRGN arises in the immunodeficient child (male > female) with diabetes mellitus as the predisposing f]",
+          "questionIds": [
+            "MED-C13-001"
+          ]
+        },
+        {
+          "element": "p775-e002",
+          "page": 775,
+          "source": "A 5-year-old immunocompetent boy, previously healthy, develops cola-coloured urine and hypertension 10 days after a sore throat, with a low C3. Which table entry does he fit? [PSGN = immunocompetent child, age 2–7 years, streptococcal sore throat preceding by 7–10 days, presenting as acute proliferative glomerulonephritis wi]",
+          "questionIds": [
+            "MED-C13-002"
+          ]
+        },
+        {
+          "element": "p775-e003",
+          "page": 775,
+          "source": "PSGN follows infection with group A beta-haemolytic streptococci; as printed in the table, sore throat < skin infection as the predisposing infection. [The table's inequality 'sore throat < skin infection' means skin infection is the commoner predisposing streptococcal infection in PSGN — consistent w]",
+          "questionIds": [
+            "MED-C13-003"
+          ]
+        },
+        {
+          "element": "p775-e004",
+          "page": 775,
+          "source": "In the TYPES table, the PSGN age band is: [PSGN demographic row: immunocompetent child, male > female, age 2–7 years. (Book p775)]",
+          "questionIds": [
+            "MED-C13-004"
+          ]
+        },
+        {
+          "element": "p775-e005",
+          "page": 775,
+          "source": "Match each PSGN table entry with its meaning — 1) Strains 1, 3, 4, 12  2) Strains 47, 49, 55, 57  3) Anti-DNAase B … A) Skin infection  B) Antibody that appears after a preceding skin infection  C) Sore throat [The TYPES table splits nephritogenic GABHS strains by the infection they follow: strains 1, 3, 4 and 12 cause sore throat, strains 47, 49, 55 and 57 c]",
+          "questionIds": [
+            "MED-C13-005"
+          ]
+        },
+        {
+          "element": "p775-e006",
+          "page": 775,
+          "source": "All but one of these GABHS strains are listed against skin infection in PSGN. Which strain is the odd one out? [Strain 12 belongs to the pharyngitis group (1, 3, 4, 12); strains 47, 49, 55 and 57 are the skin-infection strains. (Book p775)]",
+          "questionIds": [
+            "MED-C13-006"
+          ]
+        },
+        {
+          "element": "p775-e007",
+          "page": 775,
+          "source": "The organism responsible for PIGN/IRGN in the TYPES table is: [PIGN/IRGN is caused by MRSA (methicillin-resistant Staphylococcus aureus), typically in an immunodeficient diabetic child. (Book p775)]",
+          "questionIds": [
+            "MED-C13-007"
+          ]
+        },
+        {
+          "element": "p775-e008",
+          "page": 775,
+          "source": "Fill up: In PIGN/IRGN the commonest predisposing infection in a diabetic child is diabetic ______. [Predisposing factors for PIGN/IRGN: diabetes mellitus, with diabetic foot/cellulitis as the commonest infection. (Book p775)]",
+          "questionIds": [
+            "MED-C13-008"
+          ]
+        },
+        {
+          "element": "p775-e009",
+          "page": 775,
+          "source": "Match the incubation period with the triggering event — 1) Sore throat  2) Skin infection  3) PIGN/IRGN … A) 7–10 days  B) 2–4 weeks  C) Alongside the infection (no incubation period) [PSGN incubation is 7–10 days after sore throat and 2–4 weeks after skin infection; PIGN/IRGN arises alongside the infection, with no incubation period]",
+          "questionIds": [
+            "MED-C13-009"
+          ]
+        },
+        {
+          "element": "p775-e010",
+          "page": 775,
+          "source": "PIGN/IRGN characteristically appears 2–4 weeks after the predisposing staphylococcal infection. [The incubation-period row reads 'alongside infection (no IP)' for PIGN/IRGN; the 2–4 week interval applies to PSGN after skin infection. (Book p775)]",
+          "questionIds": [
+            "MED-C13-010"
+          ]
+        },
+        {
+          "element": "p775-e011",
+          "page": 775,
+          "source": "In the TYPES table, PSGN presents with a low C3 in what percentage of patients? [PSGN presentation row: acute proliferative GN (commonest) with ↓C3 in 90% of patients. (Book p775)]",
+          "questionIds": [
+            "MED-C13-011"
+          ]
+        },
+        {
+          "element": "p775-e012",
+          "page": 775,
+          "source": "An immunodeficient diabetic man with an infected foot develops rapidly progressive glomerulonephritis with a raised C3. The table's prognostic entry for this entity is: [PIGN/IRGN presents as RPGN with ↑C3 in 60% and carries a poor prognosis, whereas PSGN has a good prognosis with no risk of CKD. (Book p775)]",
+          "questionIds": [
+            "MED-C13-012"
+          ]
+        },
+        {
+          "element": "p775-e013",
+          "page": 775,
+          "source": "Match each row of the TYPES table with its entry — 1) PSGN prognosis  2) PIGN/IRGN prognosis  3) C3 in PIGN/IRGN … A) Poor  B) Good, with no risk of CKD  C) Raised in 60% (as printed in this table) [The p775 TYPES table gives PSGN a good prognosis with no risk of CKD, PIGN/IRGN a poor prognosis, and prints '↑C3 in 60%' for PIGN/IRGN. Note that the]",
+          "questionIds": [
+            "MED-C13-013"
+          ]
+        },
+        {
+          "element": "p775-e014",
+          "page": 775,
+          "source": "The HLA associations listed specifically for glomerular diseases with post-streptococcal glomerulonephritis are: [HLA associations in glomerular diseases: HLA DR4 and HLA DR1. (Book p775)]",
+          "questionIds": [
+            "MED-C13-014"
+          ]
+        },
+        {
+          "element": "p775-e015",
+          "page": 775,
+          "source": "Fill up: NAPlr stands for nephritis-associated ______ receptor. [NAPlr = nephritis-associated plasmin type A receptor, one of the two PSGN antigens. (Book p775)]",
+          "questionIds": [
+            "MED-C13-015"
+          ]
+        },
+        {
+          "element": "p775-e016",
+          "page": 775,
+          "source": "SPEB, the second PSGN antigen listed, is: [Antigens in PSGN: NAPlr (nephritis-associated plasmin type A receptor) and SPEB (streptococcal pyogenic exotoxin B). (Book p775)]",
+          "questionIds": [
+            "MED-C13-016"
+          ]
+        },
+        {
+          "element": "p775-e017",
+          "page": 775,
+          "source": "Match each PSGN marker with its description — 1) NAPlr  2) SPEB  3) Anti-DNAase B … A) Nephritis-associated plasmin type A receptor  B) Antibody appearing after a preceding skin infection  C) Streptococcal pyogenic exotoxin [NAPlr = nephritis-associated plasmin type A receptor; SPEB = streptococcal pyogenic exotoxin B; anti-DNAase B is the antibody raised after a preceding]",
+          "questionIds": [
+            "MED-C13-017"
+          ]
+        },
+        {
+          "element": "p775-e018",
+          "page": 775,
+          "source": "A 7-year-old girl develops PSGN after an infected insect bite that became impetiginised. Which antibody titre is expected to rise in this setting? [Anti-DNAase B is the antibody highlighted after a preceding skin (pyoderma) infection; NAPlr and SPEB are antigens, not antibodies. (Book p775)]",
+          "questionIds": [
+            "MED-C13-018"
+          ]
+        },
+        {
+          "element": "p775-e019",
+          "page": 775,
+          "source": "The clinical features of PSGN become acute within: [Clinical features: an acute presentation within 1–2 days, i.e. the nephritic picture evolves rapidly once it begins. (Book p775)]",
+          "questionIds": [
+            "MED-C13-019"
+          ]
+        },
+        {
+          "element": "p775-e020",
+          "page": 775,
+          "source": "Match the PSGN triad of the triangle diagram with its parenthetical meaning — 1) Cola-coloured urine  2) Hypertension  3) Oliguria … A) Raised blood pressure  B) Haematuria  C) RFT impairment [The PSGN triad is cola-coloured urine (haematuria), hypertension and oliguria (RFT impairment). (Book p775)]",
+          "questionIds": [
+            "MED-C13-020"
+          ]
+        },
+        {
+          "element": "p775-e021",
+          "page": 775,
+          "source": "Which feature is NOT part of the PSGN triad shown in the book's triangle figure? [Pulmonary oedema is listed under 'other features', not in the triad of haematuria, hypertension and oliguria. (Book p775)]",
+          "questionIds": [
+            "MED-C13-021"
+          ]
+        },
+        {
+          "element": "p775-e022",
+          "page": 775,
+          "source": "Diastolic BP fluctuation in PSGN raises the risk of PRES, which then may cause: [Diastolic BP fluctuation → increased risk of PRES (posterior reversible encephalopathy syndrome)/hypertensive encephalopathy → seizures. (Book p775)]",
+          "questionIds": [
+            "MED-C13-022"
+          ]
+        },
+        {
+          "element": "p775-e023",
+          "page": 775,
+          "source": "Fill up: In PSGN, the abbreviation PRES stands for posterior reversible ______ syndrome. [PRES = posterior reversible encephalopathy syndrome, the consequence of diastolic BP fluctuation/hypertensive encephalopathy in PSGN. (Book p775)]",
+          "questionIds": [
+            "MED-C13-023"
+          ]
+        },
+        {
+          "element": "p775-e024",
+          "page": 775,
+          "source": "Pulmonary oedema and hyperkalaemia are listed among the 'other features' of acute PSGN, separate from the classical triad. [Other features of acute PSGN: pulmonary oedema, hyperkalaemia and diastolic BP fluctuation with PRES/hypertensive encephalopathy and seizures. (Book p]",
+          "questionIds": [
+            "MED-C13-024"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 776,
+      "pdfPage": 17,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p776 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p776.",
+      "elements": [
+        {
+          "element": "p776-e001",
+          "page": 776,
+          "source": "Complete the pathogenesis flowchart of hypertension and pulmonary oedema in PSGN — 1) NAPlr + plasmin  2) ENaC  3) Na⁺ and H₂O retention … A) Activates the channel  B) End result: hypertension and pulmonary oedema  C) Epithelial sodium channel that is activated [Flowchart: NAPlr + plasmin → activates ENaC (epithelial Na⁺ channel) → retention of Na⁺ and H₂O → hypertension and pulmonary oedema. (Book p776)]",
+          "questionIds": [
+            "MED-C13-025"
+          ]
+        },
+        {
+          "element": "p776-e002",
+          "page": 776,
+          "source": "The channel activated by the NAPlr–plasmin complex in PSGN is: [NAPlr + plasmin activates ENaC (epithelial Na⁺ channel), causing sodium and water retention that explains hypertension and pulmonary oedema. (Book p77]",
+          "questionIds": [
+            "MED-C13-026"
+          ]
+        },
+        {
+          "element": "p776-e003",
+          "page": 776,
+          "source": "Fill up: NAPlr bound to ______ activates ENaC in PSGN. [NAPlr + plasmin activates the epithelial Na⁺ channel (ENaC). (Book p776)]",
+          "questionIds": [
+            "MED-C13-027"
+          ]
+        },
+        {
+          "element": "p776-e004",
+          "page": 776,
+          "source": "In PSGN, volume-dependent hypertension and pulmonary oedema are attributed to ENaC-mediated retention of sodium and water. [The pathogenesis chart links NAPlr-plasmin → ENaC activation → Na⁺/H₂O retention → hypertension and pulmonary oedema. (Book p776)]",
+          "questionIds": [
+            "MED-C13-028"
+          ]
+        },
+        {
+          "element": "p776-e005",
+          "page": 776,
+          "source": "Renal function tests in PSGN typically show: [Basic investigations: RFT shows mild impairment, matching the reversible oliguric picture of PSGN. (Book p776)]",
+          "questionIds": [
+            "MED-C13-029"
+          ]
+        },
+        {
+          "element": "p776-e006",
+          "page": 776,
+          "source": "A 6-year-old with PSGN has the following urinalysis: RBCs 3+, albumin 1+, and white cell casts on microscopy. This picture is: [Urine examination in PSGN: ↑↑ RBC, albumin 1+/2+, and WBC casts. (Book p776)]",
+          "questionIds": [
+            "MED-C13-030"
+          ]
+        },
+        {
+          "element": "p776-e007",
+          "page": 776,
+          "source": "A child with PSGN has a persistently low C3 beyond 8 weeks. The book's stated action is: [Biopsy indication: ↓C3 persisting beyond 8 weeks — likely C3 GN (serum C3 normally normalises by 8 weeks in PSGN). (Book p776)]",
+          "questionIds": [
+            "MED-C13-031"
+          ]
+        },
+        {
+          "element": "p776-e008",
+          "page": 776,
+          "source": "A second episode of post-streptococcal glomerulonephritis is common and simply needs a repeat course of penicillin. [Biopsy indication 2: recurrent episode — PSGN does not recur, hence an alternative diagnosis must be evaluated. (Book p776)]",
+          "questionIds": [
+            "MED-C13-032"
+          ]
+        },
+        {
+          "element": "p776-e009",
+          "page": 776,
+          "source": "The histopathology of PSGN is best described as: [Histopathology in PSGN: DPGN (diffuse proliferative GN) with exudative neutrophilic capillary infiltration > mesangial proliferation. (Book p776)]",
+          "questionIds": [
+            "MED-C13-033"
+          ]
+        },
+        {
+          "element": "p776-e010",
+          "page": 776,
+          "source": "Fill up: The histopathology of PSGN is abbreviated DPGN, i.e. diffuse ______ glomerulonephritis. [DPGN = diffuse proliferative glomerulonephritis, with neutrophils in capillary loops exceeding mesangial proliferation. (Book p776)]",
+          "questionIds": [
+            "MED-C13-034"
+          ]
+        },
+        {
+          "element": "p776-e011",
+          "page": 776,
+          "source": "Match the immunopathology with its PSGN phase — 1) Clinical phase on immunofluorescence  2) Recovery phase on immunofluorescence  3) Electron microscopy … A) Subepithelial camel-hump deposits  B) Only C3 in the mesangium  C) Granular IgG ± C3 in capillary walls > mesangium [IF: clinical phase = granular IgG ± C3 in capillary walls more than mesangium (starry sky); recovery phase = only C3 (mesangial). EM: subepithelial ca]",
+          "questionIds": [
+            "MED-C13-035"
+          ]
+        },
+        {
+          "element": "p776-e012",
+          "page": 776,
+          "source": "A renal biopsy from a child in the recovery phase of PSGN is stained for immunofluorescence. Which deposit pattern is expected now? [Recovery phase IF: only C3 (mesangial); the granular IgG + C3 capillary-wall pattern belongs to the clinical phase. (Book p776)]",
+          "questionIds": [
+            "MED-C13-036"
+          ]
+        },
+        {
+          "element": "p776-e013",
+          "page": 776,
+          "source": "A 7-year-old with PSGN has a BP of 150/100 mmHg. According to the treatment table, the drug of choice and its dose are: [Hypertension in PSGN: calcium channel blockers (amlodipine 2.5–5 mg) with BP charting hourly. (Book p776)]",
+          "questionIds": [
+            "MED-C13-037"
+          ]
+        },
+        {
+          "element": "p776-e014",
+          "page": 776,
+          "source": "The amlodipine dose printed in the PSGN treatment table is: [Hypertension in PSGN is treated with the CCB amlodipine 2.5–5 mg, with BP charted hourly. (Book p776)]",
+          "questionIds": [
+            "MED-C13-038"
+          ]
+        },
+        {
+          "element": "p776-e015",
+          "page": 776,
+          "source": "A child with acute PSGN develops pulmonary oedema. The table's treatment is: [Pulmonary oedema in PSGN: diuretics, such as torsemide 5–10 mg. (Book p776)]",
+          "questionIds": [
+            "MED-C13-039"
+          ]
+        },
+        {
+          "element": "p776-e016",
+          "page": 776,
+          "source": "The listed dose of torsemide for pulmonary oedema in PSGN is: [Pulmonary oedema in PSGN is treated with diuretics — torsemide 5–10 mg. (Book p776)]",
+          "questionIds": [
+            "MED-C13-040"
+          ]
+        },
+        {
+          "element": "p776-e017",
+          "page": 776,
+          "source": "A child with PSGN has a serum potassium of 6.6 mEq/L. Per the treatment table, the monitoring that must accompany this is: [Hyperkalaemia (which can cause cardiac complications) in PSGN: ECG monitoring — check for tall T waves — and serum K⁺ checked regularly. (Book p776)]",
+          "questionIds": [
+            "MED-C13-041"
+          ]
+        },
+        {
+          "element": "p776-e018",
+          "page": 776,
+          "source": "Match each sign in the PSGN treatment table with its prescription — 1) Hypertension  2) Pulmonary oedema  3) Hyperkalaemia … A) Torsemide 5–10 mg  B) ECG monitoring and serial serum K⁺  C) Amlodipine 2.5–5 mg with hourly BP charting [Treatment table: hypertension → CCB amlodipine 2.5–5 mg + hourly BP charting; pulmonary oedema → diuretic torsemide 5–10 mg; hyperkalaemia → ECG monit]",
+          "questionIds": [
+            "MED-C13-042"
+          ]
+        },
+        {
+          "element": "p776-e019",
+          "page": 776,
+          "source": "The ECG change specifically named for hyperkalaemia in the PSGN treatment table is the tall T wave. [Hyperkalaemia row: ECG monitoring (check for tall T waves) and serum K⁺ levels checked regularly. (Book p776)]",
+          "questionIds": [
+            "MED-C13-043"
+          ]
+        },
+        {
+          "element": "p776-e020",
+          "page": 776,
+          "source": "The histopathology figure labelled 'DPGN histopathology' on this page illustrates: [The figure shows a light-microscopy image of DPGN (diffuse proliferative GN) — the characteristic histopathology of PSGN. (Book p776)]",
+          "questionIds": [
+            "MED-C13-044"
+          ]
+        },
+        {
+          "element": "p776-e021",
+          "page": 776,
+          "source": "An immunofluorescence image in a child with acute PSGN is reported as a 'starry sky pattern'. This corresponds to: [Clinical-phase IF in PSGN: granular IgG ± C3 in capillary walls > mesangium, described as the starry sky pattern (figure 'IF: starry sky pattern'). (B]",
+          "questionIds": [
+            "MED-C13-045"
+          ]
+        },
+        {
+          "element": "p776-e022",
+          "page": 776,
+          "source": "Which immunofluorescence pattern is NOT part of the described PSGN findings? [Linear IgG along the GBM indicates anti-GBM (Goodpasture/RPGN type I) disease, not PSGN, whose IF is granular in the clinical phase and mesangial C3-o]",
+          "questionIds": [
+            "MED-C13-046"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 777,
+      "pdfPage": 18,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p777 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p777.",
+      "elements": [
+        {
+          "element": "p777-e001",
+          "page": 777,
+          "source": "What is the indication for antibiotics in post-streptococcal glomerulonephritis? [Antibiotics in PSGN are indicated for an active sore throat; they do not alter the course of the established glomerulonephritis. (Book p777)]",
+          "questionIds": [
+            "MED-C13-047"
+          ]
+        },
+        {
+          "element": "p777-e002",
+          "page": 777,
+          "source": "Match the antibiotic regimen for an active sore throat — 1) Benzathine penicillin  2) Oral penicillin V  3) Penicillin allergy … A) 500 mg BD for 5–10 days  B) Erythromycin  C) Single dose of 1.2 million units [Regimens: single-dose benzathine penicillin 1.2 million units; oral penicillin V 500 mg BD × 5–10 days; erythromycin when penicillin-allergic. (Book p]",
+          "questionIds": [
+            "MED-C13-048"
+          ]
+        },
+        {
+          "element": "p777-e003",
+          "page": 777,
+          "source": "The single dose of benzathine penicillin used for an active sore throat in PSGN is: [Single-dose benzathine penicillin 1.2 million units is one of the listed options for an active sore throat. (Book p777)]",
+          "questionIds": [
+            "MED-C13-049"
+          ]
+        },
+        {
+          "element": "p777-e004",
+          "page": 777,
+          "source": "Oral penicillin V for an active sore throat in PSGN is given as 500 mg twice daily for: [Oral penicillin V: 500 mg BD × 5–10 days, as an alternative to single-dose benzathine penicillin. (Book p777)]",
+          "questionIds": [
+            "MED-C13-050"
+          ]
+        },
+        {
+          "element": "p777-e005",
+          "page": 777,
+          "source": "Fill up: In penicillin allergy with an active sore throat, the antibiotic listed is ______. [In penicillin allergy, erythromycin is the listed antibiotic for an active sore throat. (Book p777)]",
+          "questionIds": [
+            "MED-C13-051"
+          ]
+        },
+        {
+          "element": "p777-e006",
+          "page": 777,
+          "source": "The note on this page states that nephrotic syndrome shows no pulmonary oedema. [Note: 'Nephrotic syndrome: no pulmonary oedema' — contrasting the intravascular-volume depletion of nephrotic syndrome with the volume overload of the]",
+          "questionIds": [
+            "MED-C13-052"
+          ]
+        },
+        {
+          "element": "p777-e007",
+          "page": 777,
+          "source": "With prompt treatment, what percentage of PSGN patients recover in 3–5 days? [Recovery: 99% recover in 3–5 days with prompt treatment. (Book p777)]",
+          "questionIds": [
+            "MED-C13-053"
+          ]
+        },
+        {
+          "element": "p777-e008",
+          "page": 777,
+          "source": "Six months after an episode of PSGN, a boy still has 5–10 RBCs/hpf on urine microscopy but normal BP, creatinine and serum C3. What is the correct advice? [Recovery point 2: microhaematuria can persist after treatment and has no significance — unlike the persistent ↓C3 (>8 weeks) that would warrant biopsy]",
+          "questionIds": [
+            "MED-C13-054"
+          ]
+        },
+        {
+          "element": "p777-e009",
+          "page": 777,
+          "source": "A 6-year-old treated for PSGN is reviewed at 8 weeks: haematuria persists but serum C3 has normalised. The correct interpretation is: [Recovery point: 99% recover in 3-5 days with prompt treatment, and microhaematuria may persist after treatment with no significance; follow-up is by s]",
+          "questionIds": [
+            "MED-C13-055"
+          ]
+        },
+        {
+          "element": "p777-e010",
+          "page": 777,
+          "source": "Follow-up after an episode of PSGN is done with: [Follow-up: serum C3, expected to be normal after 8 weeks; persistence beyond 8 weeks suggests C3 GN and needs biopsy. (Book p777)]",
+          "questionIds": [
+            "MED-C13-056"
+          ]
+        },
+        {
+          "element": "p777-e011",
+          "page": 777,
+          "source": "In the management of PIGN/IRGN, serum C3 is low in what proportion of patients? [Investigations in PIGN/IRGN: serum C3 is low in 60% of patients (in contrast to 90% in PSGN). (Book p777)]",
+          "questionIds": [
+            "MED-C13-057"
+          ]
+        },
+        {
+          "element": "p777-e012",
+          "page": 777,
+          "source": "The biopsy findings described for PIGN/IRGN are: [PIGN/IRGN biopsy: IgA-predominant ± C3, or C3-predominant deposits showing a garland/rope pattern. (Book p777)]",
+          "questionIds": [
+            "MED-C13-058"
+          ]
+        },
+        {
+          "element": "p777-e013",
+          "page": 777,
+          "source": "A 5-year-old with post-streptococcal GN has C3 measured at presentation, and his cousin with MRSA-related infection-associated GN is also tested. The expected results are: [PSGN shows a low C3 in 90% of patients; for PIGN/IRGN the text states a low C3 in 60% of patients, while the p775 table prints '↑C3 (in 60%)' — learn ]",
+          "questionIds": [
+            "MED-C13-059"
+          ]
+        },
+        {
+          "element": "p777-e014",
+          "page": 777,
+          "source": "A renal biopsy from a patient with staphylococcal infection-related GN shows C3-dominant deposits arranged in an arc around the glomerular capillary wall. This appearance is called: [PIGN/IRGN biopsy shows IgA-predominant ± C3 or C3-predominant deposits in a garland/rope pattern. (Book p777)]",
+          "questionIds": [
+            "MED-C13-060"
+          ]
+        },
+        {
+          "element": "p777-e015",
+          "page": 777,
+          "source": "The prognosis and management described for PIGN/IRGN are: [Treatment section: poor prognosis; vancomycin (nephrotoxic) and dialysis are listed. (Book p777)]",
+          "questionIds": [
+            "MED-C13-061"
+          ]
+        },
+        {
+          "element": "p777-e016",
+          "page": 777,
+          "source": "Steroids are the mainstay of treatment for PIGN/IRGN, while antibiotics reliably reverse the RPGN. [The note states that steroids worsen cellulitis and that other antibiotics do not treat the RPGN of PIGN/IRGN — hence the poor prognosis. (Book p777)]",
+          "questionIds": [
+            "MED-C13-062"
+          ]
+        },
+        {
+          "element": "p777-e017",
+          "page": 777,
+          "source": "Which of the following is NOT listed in the treatment of PIGN/IRGN? [Treatment listed for PIGN/IRGN is vancomycin (nephrotoxic) plus dialysis; steroids are specifically warned against because they worsen cellulitis. (Bo]",
+          "questionIds": [
+            "MED-C13-063"
+          ]
+        },
+        {
+          "element": "p777-e018",
+          "page": 777,
+          "source": "Fill up: In PIGN/IRGN the antibiotic named in treatment is ______, which is nephrotoxic. [Treatment of PIGN/IRGN includes vancomycin, noted to be nephrotoxic, along with dialysis for the renal failure. (Book p777)]",
+          "questionIds": [
+            "MED-C13-064"
+          ]
+        },
+        {
+          "element": "p777-e019",
+          "page": 777,
+          "source": "Match the onset and oedema of the nephrotic versus nephritic table — 1) Nephrotic onset  2) Nephritic onset  3) Nephrotic oedema compartment … A) Extravascular (+++)  B) Insidious  C) Abrupt [Table rows: onset is insidious in nephrotic and abrupt in nephritic syndrome; nephrotic oedema is extravascular (+++) whereas nephritic oedema is intr]",
+          "questionIds": [
+            "MED-C13-065"
+          ]
+        },
+        {
+          "element": "p777-e020",
+          "page": 777,
+          "source": "Match the BP and JVP entries of the nephrotic versus nephritic table — 1) Nephrotic BP  2) Nephritic BP  3) Nephritic JVP … A) Raised  B) Normal  C) High [In the table, nephrotic syndrome has a normal BP and normal JVP, while nephritic syndrome has a high BP with a raised JVP (intravascular volume expans]",
+          "questionIds": [
+            "MED-C13-066"
+          ]
+        },
+        {
+          "element": "p777-e021",
+          "page": 777,
+          "source": "Regarding proteinuria, haematuria and casts in the nephrotic versus nephritic table, which statement is correct? [Table: proteinuria more, haematuria less and RBC casts absent in nephrotic syndrome; proteinuria less, haematuria more and RBC casts present in nephri]",
+          "questionIds": [
+            "MED-C13-067"
+          ]
+        },
+        {
+          "element": "p777-e022",
+          "page": 777,
+          "source": "A 4-year-old has generalised pitting oedema, BP 95/60 mmHg, normal JVP and 4+ proteinuria with no RBC casts. Serum albumin is low. Which syndrome does this describe? [Nephrotic syndrome: insidious onset, extravascular (+++) oedema, normal BP and JVP, more proteinuria, less haematuria, absent RBC casts and low serum ]",
+          "questionIds": [
+            "MED-C13-068"
+          ]
+        },
+        {
+          "element": "p777-e023",
+          "page": 777,
+          "source": "A 7-year-old presents with cola-coloured urine, BP 140/95 mmHg and raised JVP, with 1+ albuminuria and RBC casts; serum albumin is 3.9 g/dL. Which syndrome is this? [Nephritic syndrome: abrupt onset, high BP, raised JVP (intravascular ++ oedema), less proteinuria, more haematuria, RBC casts present and normal or sl]",
+          "questionIds": [
+            "MED-C13-069"
+          ]
+        },
+        {
+          "element": "p777-e024",
+          "page": 777,
+          "source": "Which serum albumin finding belongs to nephrotic syndrome and NOT to nephritic syndrome? [Serum albumin is low in nephrotic syndrome, whereas in nephritic syndrome it is normal or only slightly decreased. (Book p777)]",
+          "questionIds": [
+            "MED-C13-070"
+          ]
+        },
+        {
+          "element": "p777-e025",
+          "page": 777,
+          "source": "Fill up: In the nephrotic vs nephritic table, the oedema of nephrotic syndrome is mainly ______. [Oedema: nephrotic = extravascular (+++); nephritic = intravascular (++). (Book p777)]",
+          "questionIds": [
+            "MED-C13-071"
+          ]
+        },
+        {
+          "element": "p777-e026",
+          "page": 777,
+          "source": "RBC casts are a feature of the nephritic syndrome and are absent in nephrotic syndrome. [The table lists RBC casts as absent (–) in nephrotic syndrome and present (+) in nephritic syndrome. (Book p777)]",
+          "questionIds": [
+            "MED-C13-072"
+          ]
+        },
+        {
+          "element": "p777-e027",
+          "page": 777,
+          "source": "Comparing proteinuria and haematuria, the nephritic syndrome is characterised by: [Nephritic: proteinuria less, haematuria more. Nephrotic: proteinuria more, haematuria less. (Book p777)]",
+          "questionIds": [
+            "MED-C13-073"
+          ]
+        }
+      ]
+    }
+  ]
+}

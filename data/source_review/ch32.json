@@ -1,0 +1,421 @@
+{
+  "chapter": 32,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+  "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+  "pdfOffset": 823,
+  "pageRange": "858-862",
+  "contentSha256": "ef0092c5d3adc5abfdf905fea6f8f63e694416aadf3e6eab2b437fa763a717ce",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch32 p858-862: auto-generated source checklist from existing 45 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 858,
+      "pdfPage": 35,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p858 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p858.",
+      "elements": [
+        {
+          "element": "p858-e001",
+          "page": 858,
+          "source": "The MEN types listed are: [Types: MEN 1, MEN 2A, MEN 2B/MEN 3, MEN 4. (Book p858)]",
+          "questionIds": [
+            "MED-C32-001"
+          ]
+        },
+        {
+          "element": "p858-e002",
+          "page": 858,
+          "source": "MEN1 inheritance and sex ratio are: [MEN1 is autosomal dominant with M = F. (Book p858)]",
+          "questionIds": [
+            "MED-C32-002"
+          ]
+        },
+        {
+          "element": "p858-e003",
+          "page": 858,
+          "source": "MEN1 is caused by mutation of the ___ gene (tumour suppressor) on chromosome 11q. [MENIN gene (tumour suppressor) mutation on Chr 11q; d/t intron inversion > base pair deletion. (Book p858)]",
+          "questionIds": [
+            "MED-C32-003"
+          ]
+        },
+        {
+          "element": "p858-e004",
+          "page": 858,
+          "source": "The mutation mechanism in MEN1 is typically: [D/t intron inversion > base pair deletion. (Book p858)]",
+          "questionIds": [
+            "MED-C32-004"
+          ]
+        },
+        {
+          "element": "p858-e005",
+          "page": 858,
+          "source": "Match the MEN1 major ‘3P’ involvement with frequency — 1) Parathyroid  2) Pancreas  3) Pituitary … A) 50–70%  B) 30–50%  C) 100% [Major (age <20 yrs) 3P: parathyroid 100%, pancreas 50–70%, pituitary 30–50%. (Book p858)]",
+          "questionIds": [
+            "MED-C32-005"
+          ]
+        },
+        {
+          "element": "p858-e006",
+          "page": 858,
+          "source": "The MEN1 minor skin lesions in order are: [Skin minor manifestations: angiofibroma > collagenoma > lipoma. (Book p858)]",
+          "questionIds": [
+            "MED-C32-006"
+          ]
+        },
+        {
+          "element": "p858-e007",
+          "page": 858,
+          "source": "The m/c benign minor tumour and the m/c neurotumour in MEN1 are respectively: [Benign minor tumours: adreno-cortical adenoma (m/c), meningioma (m/c neurotumour), pheochromocytoma (<1%). (Book p858)]",
+          "questionIds": [
+            "MED-C32-007"
+          ]
+        },
+        {
+          "element": "p858-e008",
+          "page": 858,
+          "source": "The malignant minor tumours of MEN1 are: [Malignant minor: primitive neuro-ectodermal tumour (PNET), thymic & foregut carcinoid. (Book p858)]",
+          "questionIds": [
+            "MED-C32-008"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 859,
+      "pdfPage": 36,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p859 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p859.",
+      "elements": [
+        {
+          "element": "p859-e001",
+          "page": 859,
+          "source": "Match MEN1 vs sporadic primary hyperparathyroidism — 1) MEN1 cause  2) Sporadic cause  3) MEN1 age  4) Sporadic age … A) Females >40 yrs (peak 60)  B) Asymmetric hyperplasia  C) <20 yrs  D) Adenoma [MEN1: asymmetric hyperplasia, <20 yrs, M=F; sporadic: adenoma, females >40 (peak 60), F>>>M. (Book p859)]",
+          "questionIds": [
+            "MED-C32-009"
+          ]
+        },
+        {
+          "element": "p859-e002",
+          "page": 859,
+          "source": "The IOC for localising hyperparathyroidism (both MEN1 and sporadic) is: [IOC = 99m Tc sestamibi scan. (Book p859)]",
+          "questionIds": [
+            "MED-C32-010"
+          ]
+        },
+        {
+          "element": "p859-e003",
+          "page": 859,
+          "source": "The surgical treatment for MEN1-associated hyperparathyroidism is: [Treatment: 3 1/2 near-total parathyroidectomy (MEN1); adenoid extension for sporadic. (Book p859)]",
+          "questionIds": [
+            "MED-C32-011"
+          ]
+        },
+        {
+          "element": "p859-e004",
+          "page": 859,
+          "source": "The m/c symptom of hypercalcaemia overall is: [Note: m/c symptom of hypercalcaemia overall = fatigue. (Book p859)]",
+          "questionIds": [
+            "MED-C32-012"
+          ]
+        },
+        {
+          "element": "p859-e005",
+          "page": 859,
+          "source": "The m/c cause of death in MEN1 is: [Enteropancreatic neuroendocrine tumour is the m/c cause of death in MEN1. (Book p859)]",
+          "questionIds": [
+            "MED-C32-013"
+          ]
+        },
+        {
+          "element": "p859-e006",
+          "page": 859,
+          "source": "The enteropancreatic tumour frequency order in MEN1 is: [Gastrinoma > insulinoma > glucagonoma > VIPoma (20–40 yrs). (Book p859)]",
+          "questionIds": [
+            "MED-C32-014"
+          ]
+        },
+        {
+          "element": "p859-e007",
+          "page": 859,
+          "source": "Glucagonoma is associated with which rash? [Glucagonoma: migratory necrolytic erythematous rash. (Book p859)]",
+          "questionIds": [
+            "MED-C32-015"
+          ]
+        },
+        {
+          "element": "p859-e008",
+          "page": 859,
+          "source": "VIPoma causes the ___ syndrome (watery diarrhoea, hypochlorhydria, acidosis). [WDHA syndrome with a normal anion gap metabolic acidosis (NAGMA). (Book p859)]",
+          "questionIds": [
+            "MED-C32-016"
+          ]
+        },
+        {
+          "element": "p859-e009",
+          "page": 859,
+          "source": "Match gastrinoma features MEN1 vs sporadic — 1) MEN1 location  2) Sporadic location  3) MEN1 malignancy risk  4) Sporadic malignancy risk … A) Passaro's triangle  B) <5%  C) Duodenum  D) >50–60% [MEN1 gastrinoma: duodenum, small multifocal, <5% malignant, IOC endoscopic US, spreads by lymph node; sporadic: Passaro's triangle, large, >50–60%, SR]",
+          "questionIds": [
+            "MED-C32-017"
+          ]
+        },
+        {
+          "element": "p859-e010",
+          "page": 859,
+          "source": "Match gastrinoma IOC — 1) MEN1-associated  2) Sporadic … A) Somatostatin receptor scintigraphy (SRS) scan  B) Endoscopic ultrasound [MEN1 gastrinoma IOC = endoscopic ultrasound; sporadic = SRS scan; treatment streptozocin + octreotide vs high-dose PPI; size >2 cm → surgery. (Book p8]",
+          "questionIds": [
+            "MED-C32-018"
+          ]
+        },
+        {
+          "element": "p859-e011",
+          "page": 859,
+          "source": "The pituitary tumour of MEN1 is typically: [Pituitary: prolactinoma, aggressive macroadenomas. (Book p859)]",
+          "questionIds": [
+            "MED-C32-019"
+          ]
+        },
+        {
+          "element": "p859-e012",
+          "page": 859,
+          "source": "MEN2A is caused by mutation of the ___ gene (proto-oncogene) on chromosome 10q via point mutation. [RET gene (proto-oncogene) mutation on Chr 10q (d/t point mutation). (Book p859)]",
+          "questionIds": [
+            "MED-C32-020"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 860,
+      "pdfPage": 37,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p860 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p860.",
+      "elements": [
+        {
+          "element": "p860-e001",
+          "page": 860,
+          "source": "Match classical MEN2A frequencies — 1) Medullary thyroid cancer  2) Pheochromocytoma  3) Parathyroid hyperplasia … A) 50%  B) 25%  C) 100% [Classical MEN2A: MTC 100% + pheochromocytoma 50% + parathyroid hyperplasia 25%. (Book p860)]",
+          "questionIds": [
+            "MED-C32-021"
+          ]
+        },
+        {
+          "element": "p860-e002",
+          "page": 860,
+          "source": "The MEN2A variants listed are classical MEN2A plus: [Variants: MEN2A + cutaneous lichen amyloidosis; MEN2A + Hirschsprung's disease; familial medullary thyroid cancer (FMTC). (Book p860)]",
+          "questionIds": [
+            "MED-C32-022"
+          ]
+        },
+        {
+          "element": "p860-e003",
+          "page": 860,
+          "source": "MEN2B/MEN3 combines medullary thyroid carcinoma (100%) and pheochromocytoma (50%) with: [MEN2B/MEN3: marfanoid habitus, mucosal & intestinal ganglioneuromatosis, myelinated corneal nerve fibres. (Book p860)]",
+          "questionIds": [
+            "MED-C32-023"
+          ]
+        },
+        {
+          "element": "p860-e004",
+          "page": 860,
+          "source": "The tongue image on p860 illustrates: [The photograph shows mucosal ganglioneuromatosis of the tongue. (Book p860)]",
+          "questionIds": [
+            "MED-C32-024"
+          ]
+        },
+        {
+          "element": "p860-e005",
+          "page": 860,
+          "source": "MEN4 is caused by mutation of ___. [MEN4 = CDKN1B (cyclin-dependent kinase 1B) mutation. (Book p860)]",
+          "questionIds": [
+            "MED-C32-025"
+          ]
+        },
+        {
+          "element": "p860-e006",
+          "page": 860,
+          "source": "MEN4 manifestations include parathyroid hyperplasia (adenoma), pituitary and: [MEN4: parathyroid hyperplasia (adenoma) + pituitary + renal/adrenal tumours + testicular/ovarian tumours. (Book p860)]",
+          "questionIds": [
+            "MED-C32-026"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 861,
+      "pdfPage": 38,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p861 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p861.",
+      "elements": [
+        {
+          "element": "p861-e001",
+          "page": 861,
+          "source": "Match syndrome to gene — 1) Hyperparathyroidism/jaw tumour  2) Carney's complex  3) VHL  4) NF1  5) Cowden … A) Neurofibromin (Chr 17)  B) PTEN  C) Parafibromin (CDC73)  D) PRKAR1A  E) VHL gene (Chr 3) [Parafibromin (CDC73), PRKAR1A, VHL (Chr 3), neurofibromin (Chr 17), PTEN respectively; McCune-Albright = post-zygotic GNAS (Gs α). (Book p861)]",
+          "questionIds": [
+            "MED-C32-027"
+          ]
+        },
+        {
+          "element": "p861-e002",
+          "page": 861,
+          "source": "McCune-Albright syndrome differs from the others in inheritance because it is: [Not inherited; post-zygotic mutation of GNAS gene (Gs α protein). (Book p861)]",
+          "questionIds": [
+            "MED-C32-028"
+          ]
+        },
+        {
+          "element": "p861-e003",
+          "page": 861,
+          "source": "The jaw neoplasia of hyperparathyroidism/jaw tumour syndrome and its endocrine tumour are: [Ossifying fibroma of jaw with parathyroid carcinoma. (Book p861)]",
+          "questionIds": [
+            "MED-C32-029"
+          ]
+        },
+        {
+          "element": "p861-e004",
+          "page": 861,
+          "source": "Carney's complex neoplasia and endocrine features are: [Atrial myxoma (lepidic pattern); endocrine PPNAD (thin Cushing's), GH-secreting adenoma, prolactin-secreting tumour (rare); skin lentigenes. (Book p86]",
+          "questionIds": [
+            "MED-C32-030"
+          ]
+        },
+        {
+          "element": "p861-e005",
+          "page": 861,
+          "source": "The VHL neoplasia list includes renal cell carcinoma, cerebellar haemangioblastoma, islet cell tumours and: [VHL neoplasia: RCC, cerebellar haemangioblastoma, islet cell tumours, papillary cystadenoma of broad ligament of uterus, epididymal cyst, endolymphati]",
+          "questionIds": [
+            "MED-C32-031"
+          ]
+        },
+        {
+          "element": "p861-e006",
+          "page": 861,
+          "source": "NF1's neoplasia and endocrine association are: [NF1: optic nerve sheath tumour > meningioma; endocrine pheochromocytoma (unilateral). (Book p861)]",
+          "questionIds": [
+            "MED-C32-032"
+          ]
+        },
+        {
+          "element": "p861-e007",
+          "page": 861,
+          "source": "Cowden syndrome (PTEN) neoplasia and thyroid features are: [Cowden: Ca breast, hamartomatous polyps of GIT; thyroid nodular goitre or Hashimoto's thyroiditis. (Book p861)]",
+          "questionIds": [
+            "MED-C32-033"
+          ]
+        },
+        {
+          "element": "p861-e008",
+          "page": 861,
+          "source": "The McCune-Albright additional-feature triad is: [Triad: PFD, precocious puberty, café-au-lait spots; endocrine Cushing's, GH-secreting adenoma, precocious puberty. (Book p861)]",
+          "questionIds": [
+            "MED-C32-034"
+          ]
+        },
+        {
+          "element": "p861-e009",
+          "page": 861,
+          "source": "Carney's TRIAD (distinct from Carney's complex) is: [Carney's triad: pulmonary chondroma, GIST, paraganglioma. (Book p861)]",
+          "questionIds": [
+            "MED-C32-035"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 862,
+      "pdfPage": 39,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p862 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p862.",
+      "elements": [
+        {
+          "element": "p862-e001",
+          "page": 862,
+          "source": "Match RCC behaviour — 1) VHL-associated RCC  2) Sporadic RCC … A) U/L, elderly, blood-stream spread  B) B/L, young (M = F), lymphatic spread [VHL RCC: B/L, young (M=F), lymphatic spread; sporadic: U/L, elderly, blood-stream spread. (Book p862)]",
+          "questionIds": [
+            "MED-C32-036"
+          ]
+        },
+        {
+          "element": "p862-e002",
+          "page": 862,
+          "source": "Match tuberous sclerosis vs VHL — 1) TS cysts  2) VHL cysts (m/c)  3) TS renal carcinoma  4) VHL renal carcinoma … A) RCC  B) Cyst in pancreas  C) Cysts in kidney +  D) Angiomyolipoma [TS: kidney cysts + angiomyolipoma; VHL: pancreatic cysts (m/c) + RCC. (Book p862)]",
+          "questionIds": [
+            "MED-C32-037"
+          ]
+        },
+        {
+          "element": "p862-e003",
+          "page": 862,
+          "source": "Match the m/c cause of Cushing's syndrome by age — 1) Adults  2) Infants  3) Toddlers … A) McCune-Albright syndrome  B) Adrenocortical carcinoma  C) Pituitary adenoma [Adults: pituitary adenoma; infants: McCune-Albright; toddlers: adrenocortical carcinoma. (Book p862)]",
+          "questionIds": [
+            "MED-C32-038"
+          ]
+        },
+        {
+          "element": "p862-e004",
+          "page": 862,
+          "source": "Polyglandular autoimmune syndrome is a.k.a.: [PGA = autoimmune polyendocrine syndrome (APS). (Book p862)]",
+          "questionIds": [
+            "MED-C32-039"
+          ]
+        },
+        {
+          "element": "p862-e005",
+          "page": 862,
+          "source": "Match APS type 1 vs type 2 — 1) APS1 age  2) APS2 age  3) APS1 inheritance  4) APS2 inheritance … A) Adult  B) Childhood  C) Polygenic  D) AR [APS1: childhood, M=F, AR; APS2: adult, F>M, polygenic. (Book p862)]",
+          "questionIds": [
+            "MED-C32-040"
+          ]
+        },
+        {
+          "element": "p862-e006",
+          "page": 862,
+          "source": "APS type 1 is associated with the ___ gene (AIRE), giving autoimmune poly-endocrinopathy with candidiasis & ectodermal dystrophy. [APECED gene/AIRE; APS2 with HLA DR3 and DR4. (Book p862)]",
+          "questionIds": [
+            "MED-C32-041"
+          ]
+        },
+        {
+          "element": "p862-e007",
+          "page": 862,
+          "source": "Autoantibodies in APS1 (besides anti-21-hydroxylase) include: [APS1: anti-21 hydroxylase (Addison's) and anti-interferon antibody; APS2: anti-21 hydroxylase. (Book p862)]",
+          "questionIds": [
+            "MED-C32-042"
+          ]
+        },
+        {
+          "element": "p862-e008",
+          "page": 862,
+          "source": "Skin & nail changes are positive in: [Skin & nail changes + in APS1, − in APS2; APS1 adds candidiasis, APS2 associates with coeliac disease. (Book p862)]",
+          "questionIds": [
+            "MED-C32-043"
+          ]
+        },
+        {
+          "element": "p862-e009",
+          "page": 862,
+          "source": "Match major thyroid manifestations — 1) APS1  2) APS2 … A) Hashimoto's > Graves  B) Graves > Hashimoto's (with hypoparathyroidism in APS1) [APS1: Graves > Hashimoto's plus hypoparathyroidism and Addison's; APS2: Hashimoto's > Graves with Addison's. Minor (both): type 1 DM, hypogonadism. (B]",
+          "questionIds": [
+            "MED-C32-044"
+          ]
+        },
+        {
+          "element": "p862-e010",
+          "page": 862,
+          "source": "The additional feature distinguishing APS1 from APS2 is: [APS1 additional = candidiasis; APS2 associated with coeliac disease. (Book p862)]",
+          "questionIds": [
+            "MED-C32-045"
+          ]
+        }
+      ]
+    }
+  ]
+}

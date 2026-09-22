@@ -1,0 +1,751 @@
+{
+  "chapter": 49,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+  "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+  "pdfOffset": 893,
+  "pageRange": "945-951",
+  "contentSha256": "a7317318b18dba703c81df01f426c5a1806a3b74040fbdfff47cf76fc01cc808",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch49 p945-951: auto-generated source checklist from existing 84 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 945,
+      "pdfPage": 52,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p945 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p945.",
+      "elements": [
+        {
+          "element": "p945-e001",
+          "page": 945,
+          "source": "What proportion of anterior pituitary cells are constituted by growth hormone-secreting somatotrophs? [Somatotrophs account for 50% of the anterior pituitary cell population. (Book p945)]",
+          "questionIds": [
+            "MED-C49-001"
+          ]
+        },
+        {
+          "element": "p945-e002",
+          "page": 945,
+          "source": "Growth hormone is a single polypeptide chain comprising ___ amino acids. [Growth hormone contains 191 amino acids. (Book p945)]",
+          "questionIds": [
+            "MED-C49-002"
+          ]
+        },
+        {
+          "element": "p945-e003",
+          "page": 945,
+          "source": "During which physiological sleep stage does the primary nocturnal surge of growth hormone occur? [GH secretion occurs predominantly during deep slow-wave Stage 3 and 4 NREM sleep. (Book p945)]",
+          "questionIds": [
+            "MED-C49-003"
+          ]
+        },
+        {
+          "element": "p945-e004",
+          "page": 945,
+          "source": "Assess the kinetics of growth hormone measurement: I A single random basal GH level is unreliable due to its pulsatile secretion and short half-life of 5 to 20 minutes. II IGF-1 and IGFBP-3 provide a stable integrated estimation with a half-life of 12 to 15 hours. [GH has a short half-life of 5-20 minutes, while IGF-1 bound to IGFBP-3 has a half-life of 12-15 hours, making it the preferred indirect measure. (Book]",
+          "questionIds": [
+            "MED-C49-004"
+          ]
+        },
+        {
+          "element": "p945-e005",
+          "page": 945,
+          "source": "Which circulating hormone does NOT stimulate hepatic IGF-1 synthesis independently of growth hormone? [Thyroid hormones, insulin, and gonadal hormones independently stimulate IGF-1; cortisol does not. (Book p945)]",
+          "questionIds": [
+            "MED-C49-005"
+          ]
+        },
+        {
+          "element": "p945-e006",
+          "page": 945,
+          "source": "An 8-year-old obese boy demonstrates accelerated height velocity despite paradoxically suppressed circulating basal GH levels. What biochemical mechanism drives his rapid linear growth? [In obesity, increased insulin levels suppress IGFBP-1 and IGFBP-2, increasing free IGF-1 bioavailability and accelerating growth despite low GH. (Book]",
+          "questionIds": [
+            "MED-C49-006"
+          ]
+        },
+        {
+          "element": "p945-e007",
+          "page": 945,
+          "source": "Match the physiological regulator to its effect on growth hormone secretion — 1) Hypoglycemia 2) Ghrelin 3) Somatostatin 4) Obesity … A) Stimulates GH release B) Stimulates GH release C) Inhibits GH release D) Inhibits GH release [Hypoglycemia, GHRH, and ghrelin stimulate GH; somatostatin, ageing, and obesity inhibit GH secretion. (Book p945)]",
+          "questionIds": [
+            "MED-C49-007"
+          ]
+        },
+        {
+          "element": "p945-e008",
+          "page": 945,
+          "source": "What paradoxical hormonal response occurs following TRH administration in patients with acromegaly? [In acromegaly, TRH administration produces a paradoxical rise in growth hormone. (Book p945)]",
+          "questionIds": [
+            "MED-C49-008"
+          ]
+        },
+        {
+          "element": "p945-e009",
+          "page": 945,
+          "source": "A hypocaloric state or severe malnutrition induces peripheral ___ to growth hormone, resulting in high GH but low IGF-1. [Malnutrition and hypocaloric states cause GH resistance with elevated GH and depressed IGF-1. (Book p945)]",
+          "questionIds": [
+            "MED-C49-009"
+          ]
+        },
+        {
+          "element": "p945-e010",
+          "page": 945,
+          "source": "Growth hormone exerts its intracellular actions by binding to cell-surface cytokine receptors that signal via: [Growth hormone signals through the JAK-STAT cytokine receptor pathway. (Book p945)]",
+          "questionIds": [
+            "MED-C49-010"
+          ]
+        },
+        {
+          "element": "p945-e011",
+          "page": 945,
+          "source": "Match the molecule to its circulating half-life — 1) Growth hormone (GH) 2) IGF-1 complexed with IGFBP-3 … A) 5 to 20 minutes B) 12 to 15 hours [GH has a short half-life of 5-20 minutes, while IGF-1 bound to IGFBP-3 circulates with a half-life of 12-15 hours. (Book p945)]",
+          "questionIds": [
+            "MED-C49-011"
+          ]
+        },
+        {
+          "element": "p945-e012",
+          "page": 945,
+          "source": "Assess regulatory dynamics of growth hormone: I Ghrelin acts as a potent physiological stimulus for GH release. II Ageing is associated with progressive decline and inhibition of GH secretion. [Ghrelin stimulates GH release, while ageing is a recognized inhibitor of GH secretion. (Book p945)]",
+          "questionIds": [
+            "MED-C49-012"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 946,
+      "pdfPage": 53,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p946 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p946.",
+      "elements": [
+        {
+          "element": "p946-e001",
+          "page": 946,
+          "source": "Match the hormone to its specific action on carbohydrate metabolism — 1) Growth hormone 2) IGF-1 … A) Diabetogenic (induces insulin resistance) B) Anti-diabetogenic (insulin-like action) [On carbohydrates, GH is diabetogenic while IGF-1 is anti-diabetogenic. (Book p946)]",
+          "questionIds": [
+            "MED-C49-013"
+          ]
+        },
+        {
+          "element": "p946-e002",
+          "page": 946,
+          "source": "Match the hormone to its action on lipid metabolism — 1) Growth hormone 2) IGF-1 … A) Lipolytic (increases circulating free fatty acids) B) Anti-lipolytic [On lipids, GH is lipolytic increasing free fatty acids, whereas IGF-1 is anti-lipolytic. (Book p946)]",
+          "questionIds": [
+            "MED-C49-014"
+          ]
+        },
+        {
+          "element": "p946-e003",
+          "page": 946,
+          "source": "What shared metabolic effects are exerted concordantly by both GH and IGF-1? [Both GH and IGF-1 stimulate bone growth, epiphyseal growth, muscle anabolism, and protein anabolism. (Book p946)]",
+          "questionIds": [
+            "MED-C49-015"
+          ]
+        },
+        {
+          "element": "p946-e004",
+          "page": 946,
+          "source": "Under the BEAMS mnemonic for GH actions independent of IGF-1, which action is NOT included? [BEAMS represents Bone growth, Epiphyseal growth, Adipose tissue lipolysis, Muscle anabolism, and Salt and water retention; bile acid synthesis is not ]",
+          "questionIds": [
+            "MED-C49-016"
+          ]
+        },
+        {
+          "element": "p946-e005",
+          "page": 946,
+          "source": "Why is IGF-1 referred to as a 'wonder molecule' in cellular physiology? [IGF-1 promotes genetic stability, stress resistance, and modulates telomere shortening. (Book p946)]",
+          "questionIds": [
+            "MED-C49-017"
+          ]
+        },
+        {
+          "element": "p946-e006",
+          "page": 946,
+          "source": "Assess the feedback loop of IGF-1: I Circulating IGF-1 exerts negative feedback by inhibiting pituitary GH secretion. II IGF-1 stimulates hypothalamic somatostatin release. [IGF-1 inhibits pituitary GH secretion and stimulates hypothalamic somatostatin release in a classic negative feedback loop. (Book p946)]",
+          "questionIds": [
+            "MED-C49-018"
+          ]
+        },
+        {
+          "element": "p946-e007",
+          "page": 946,
+          "source": "A full-term infant with congenital isolated GH deficiency is delivered with normal birth length and weight. What explains normal intrauterine somatic growth in the absence of GH? [In GH deficiency, height at birth is normal because intrauterine growth depends on IGF-2 (Multiplication Stimulation Activity), which is not GH-depend]",
+          "questionIds": [
+            "MED-C49-019"
+          ]
+        },
+        {
+          "element": "p946-e008",
+          "page": 946,
+          "source": "IGF-2 was historically designated in experimental physiology as Multiplication Stimulation Activity (___). [IGF-2 is also called Multiplication Stimulation Activity (MSA). (Book p946)]",
+          "questionIds": [
+            "MED-C49-020"
+          ]
+        },
+        {
+          "element": "p946-e009",
+          "page": 946,
+          "source": "Match the somatomedin to its primary tissue source and physiological regulator — 1) IGF-1 2) IGF-2 … A) Liver tissue; regulated by growth hormone B) Diverse tissues; regulation is not known / GH-independent [IGF-1 is produced by liver tissue under GH regulation; IGF-2 is synthesized in diverse tissues and is independent of GH. (Book p946)]",
+          "questionIds": [
+            "MED-C49-021"
+          ]
+        },
+        {
+          "element": "p946-e010",
+          "page": 946,
+          "source": "What cardiovascular action is exerted by IGF-1 on the systemic circulation? [IGF-1 promotes cardiovascular development, cardioprotection, and vasodilation. (Book p946)]",
+          "questionIds": [
+            "MED-C49-022"
+          ]
+        },
+        {
+          "element": "p946-e011",
+          "page": 946,
+          "source": "Which central nervous system effect is NOT attributed to IGF-1? [IGF-1 promotes neural development, myelination, amyloid-beta clearance, and anti-inflammatory protection; it does not cause tau accumulation. (Book p9]",
+          "questionIds": [
+            "MED-C49-023"
+          ]
+        },
+        {
+          "element": "p946-e012",
+          "page": 946,
+          "source": "In the BEAMS mnemonic for GH actions, the letter 'S' stands for ___ and water retention. [The 'S' in BEAMS denotes salt and water retention. (Book p946)]",
+          "questionIds": [
+            "MED-C49-024"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 947,
+      "pdfPage": 54,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p947 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p947.",
+      "elements": [
+        {
+          "element": "p947-e001",
+          "page": 947,
+          "source": "A 7-year-old child presents with severe dwarfism and craniofacial disproportion. Biochemical evaluation demonstrates elevated circulating growth hormone with profoundly low levels of IGF-1 and IGFBP-3. This condition is caused by: [Laron dwarfism is caused by an inactivating GHR mutation; GH is elevated but downstream IGF-1 and IGFBP are markedly decreased. (Book p947)]",
+          "questionIds": [
+            "MED-C49-025"
+          ]
+        },
+        {
+          "element": "p947-e002",
+          "page": 947,
+          "source": "In Laron dwarfism, mutated GHR leads to low IGF-1 and low insulin, which causes an increase in nuclear ___ transcription factors. [Mutated GHR in Laron dwarf leads to decreased IGF-1/insulin and elevated nuclear FoxOs. (Book p947)]",
+          "questionIds": [
+            "MED-C49-026"
+          ]
+        },
+        {
+          "element": "p947-e003",
+          "page": 947,
+          "source": "Which dynamic provocative investigation serves as the gold standard test to evaluate suspected growth hormone deficiency? [The insulin tolerance test (inducing hypoglycemia) is the gold standard provocative test for GH deficiency. (Book p947)]",
+          "questionIds": [
+            "MED-C49-027"
+          ]
+        },
+        {
+          "element": "p947-e004",
+          "page": 947,
+          "source": "Match the dynamic provocative GH test to its current clinical status — 1) Insulin tolerance test 2) Glucagon-mediated stimulation 3) Arginine, Clonidine, L-Dopa, GHRH … A) Standard provocative test B) Recognized provocative test C) Other stimulation tests no longer in active use [ITT and glucagon stimulation are active provocative tests; arginine, clonidine, L-dopa, and GHRH are obsolete tests not in routine use. (Book p947)]",
+          "questionIds": [
+            "MED-C49-028"
+          ]
+        },
+        {
+          "element": "p947-e005",
+          "page": 947,
+          "source": "What percentage of acromegaly cases are caused by a primary GH-secreting pituitary adenoma? [Pituitary gland adenomas account for 98% of all cases of acromegaly. (Book p947)]",
+          "questionIds": [
+            "MED-C49-029"
+          ]
+        },
+        {
+          "element": "p947-e006",
+          "page": 947,
+          "source": "What proportion of somatomammotropin adenomas causing acromegaly contain co-expressed lactotrophic cells? [Somatomammotropin adenomas causing acromegaly contain lactotroph cells in 20% of cases. (Book p947)]",
+          "questionIds": [
+            "MED-C49-030"
+          ]
+        },
+        {
+          "element": "p947-e007",
+          "page": 947,
+          "source": "A 48-year-old female presents with signs of acromegaly. Pituitary MRI is completely normal, but abdominal CT reveals a functional neuroendocrine tumor. Ectopic authentic GH secretion is classically caused by: [Ectopic growth hormone secretion is a classical finding in pancreatic islet cell tumors. (Book p947)]",
+          "questionIds": [
+            "MED-C49-031"
+          ]
+        },
+        {
+          "element": "p947-e008",
+          "page": 947,
+          "source": "Match the ectopic source to the hormone it hypersecretes in acromegaly — 1) Pancreatic islet cell tumor 2) Bronchial carcinoid / small cell lung cancer … A) Direct ectopic GH secretion B) Ectopic GHRH secretion [Pancreatic islet cell tumors classically secrete ectopic GH; bronchial carcinoid and small cell lung cancer secrete ectopic GHRH. (Book p947)]",
+          "questionIds": [
+            "MED-C49-032"
+          ]
+        },
+        {
+          "element": "p947-e009",
+          "page": 947,
+          "source": "Which neoplasm is NOT recognized as a source of ectopic GHRH hypersecretion causing acromegaly? [Ectopic GHRH is secreted by bronchial carcinoid, small cell lung cancer, and medullary carcinoma of the thyroid; adrenal carcinoma does not secrete GH]",
+          "questionIds": [
+            "MED-C49-033"
+          ]
+        },
+        {
+          "element": "p947-e010",
+          "page": 947,
+          "source": "In the hypothalamus, autonomous secretion of GHRH causing acromegaly can arise from a ___. [Hypothalamic hamartomas can secrete excess GHRH causing secondary acromegaly. (Book p947)]",
+          "questionIds": [
+            "MED-C49-034"
+          ]
+        },
+        {
+          "element": "p947-e011",
+          "page": 947,
+          "source": "Assess GH provocative testing in suspected deficiency: I Insulin tolerance test acts by inducing hypoglycemia to provoke counter-regulatory GH release. II Baseline random serum GH alone is sufficient to exclude GH deficiency. [ITT triggers counter-regulatory GH secretion via hypoglycemia; random baseline GH is uninformative due to pulsatility. (Book p947)]",
+          "questionIds": [
+            "MED-C49-035"
+          ]
+        },
+        {
+          "element": "p947-e012",
+          "page": 947,
+          "source": "What initial laboratory biomarker provides the most accurate indirect evaluation of integrated 24-hour GH activity? [Serum IGF-1 provides an indirect integrated evaluation of growth hormone activity. (Book p947)]",
+          "questionIds": [
+            "MED-C49-036"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 948,
+      "pdfPage": 55,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p948 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p948.",
+      "elements": [
+        {
+          "element": "p948-e001",
+          "page": 948,
+          "source": "Match the pituitary tumor to its epidemiological characteristics — 1) GH adenoma 2) Prolactinoma … A) Macroadenoma; peak age 35 to 50 years; Males > Females B) Microadenoma; peak age 25 to 40 years; Females > Males [GH adenomas are typically macroadenomas presenting at 35-50 yrs (M>F); prolactinomas are microadenomas presenting at 25-40 yrs (F>M). (Book p948)]",
+          "questionIds": [
+            "MED-C49-037"
+          ]
+        },
+        {
+          "element": "p948-e002",
+          "page": 948,
+          "source": "If acromegaly or prolactinoma is diagnosed under 20 years of age, which genetic syndrome is NOT part of the MEON differential? [Diagnosis under 20 warrants evaluation for MEN 1, McCune-Albright, and Carney complex; VHL does not cause pituitary adenomas. (Book p948)]",
+          "questionIds": [
+            "MED-C49-038"
+          ]
+        },
+        {
+          "element": "p948-e003",
+          "page": 948,
+          "source": "Match the GH adenoma histopathological pattern to its clinical prognosis — 1) Sparsely granulated adenoma 2) Densely granulated adenoma … A) Bad prognosis (more aggressive, poorer response to somatostatin analogs) B) Good prognosis [Sparsely granulated GH adenomas have a bad prognosis; densely granulated adenomas have a good prognosis. (Book p948)]",
+          "questionIds": [
+            "MED-C49-039"
+          ]
+        },
+        {
+          "element": "p948-e004",
+          "page": 948,
+          "source": "What triad of pathological actions is produced by a GH-secreting macroadenoma? [GH macroadenomas cause hormonal excess (high GH), stalk effect (hypopituitarism/hyperprolactinemia), and mass effect (headache/visual deficits/caverno]",
+          "questionIds": [
+            "MED-C49-040"
+          ]
+        },
+        {
+          "element": "p948-e005",
+          "page": 948,
+          "source": "Because epiphyseal plate fusion is complete in adults, growth hormone excess produces ___ enlargement affecting the hands and feet. [Epiphyseal fusion is complete in adults, so growth is restricted to acral enlargement of the hands and feet. (Book p948)]",
+          "questionIds": [
+            "MED-C49-041"
+          ]
+        },
+        {
+          "element": "p948-e006",
+          "page": 948,
+          "source": "A 44-year-old male notes that his shoe size and wedding ring diameter have progressively enlarged over the past five years. Internal organomegaly is present. Which visceral organ is spared from acromegalic enlargement? [Acromegaly causes generalized visceromegaly of internal organs, but the brain is spared. (Book p948)]",
+          "questionIds": [
+            "MED-C49-042"
+          ]
+        },
+        {
+          "element": "p948-e007",
+          "page": 948,
+          "source": "Which feature is NOT part of the classical coarse facies of acromegaly? [Coarse facies involves macroglossia, thickened lips/nose, prominent supraorbital ridges, frontal bossing, and prognathism; microglossia is incorrect. ]",
+          "questionIds": [
+            "MED-C49-043"
+          ]
+        },
+        {
+          "element": "p948-e008",
+          "page": 948,
+          "source": "Protrusion of the mandible resulting from excessive mandibular periosteal bone growth in acromegaly is termed: [Protrusion of the mandible in acromegaly is called prognathism. (Book p948)]",
+          "questionIds": [
+            "MED-C49-044"
+          ]
+        },
+        {
+          "element": "p948-e009",
+          "page": 948,
+          "source": "Assess the mass effects of pituitary macroadenomas: I Suprasellar extension causes chiasmatic compression with visual impairment. II Lateral expansion can compress the cavernous sinus causing thrombosis. [Mass effect causes headaches, visual deficits from chiasm compression, and cavernous sinus thrombosis from lateral extension. (Book p948)]",
+          "questionIds": [
+            "MED-C49-045"
+          ]
+        },
+        {
+          "element": "p948-e010",
+          "page": 948,
+          "source": "Match the facial manifestation of acromegaly to its anatomical basis — 1) Widely spaced teeth and underbite 2) Prominent forehead bulge 3) Airway obstruction and speech change … A) Prognathism with jaw malocclusion B) Frontal bossing C) Macroglossia [Prognathism causes malocclusion; frontal bossing creates the forehead bulge; macroglossia causes airway compromise and speech changes. (Book p948)]",
+          "questionIds": [
+            "MED-C49-046"
+          ]
+        },
+        {
+          "element": "p948-e011",
+          "page": 948,
+          "source": "Histologically, GH adenomas with dense secretory granules on electron microscopy carry a ___ prognosis. [Densely granulated GH adenomas carry a good prognosis. (Book p948)]",
+          "questionIds": [
+            "MED-C49-047"
+          ]
+        },
+        {
+          "element": "p948-e012",
+          "page": 948,
+          "source": "A 40-year-old male presents with visual field loss and headaches. MRI confirms a 2.5 cm pituitary mass. His serum prolactin is mildly elevated at 45 ug/L despite lack of prolactin staining in the tumor. This finding represents: [Large GH adenomas compress the pituitary stalk, producing stalk effect with mild hyperprolactinemia. (Book p948)]",
+          "questionIds": [
+            "MED-C49-048"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 949,
+      "pdfPage": 56,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p949 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p949.",
+      "elements": [
+        {
+          "element": "p949-e001",
+          "page": 949,
+          "source": "A 46-year-old female with acromegaly presents with bilateral numbness and tingling in the thumb, index, and middle fingers that awakens her at night. Which nerve compression syndrome is present? [Carpal tunnel syndrome occurs frequently in acromegaly due to soft-tissue edema and glycosaminoglycan deposition compressing the median nerve. (Book p]",
+          "questionIds": [
+            "MED-C49-049"
+          ]
+        },
+        {
+          "element": "p949-e002",
+          "page": 949,
+          "source": "What specific skeletal muscle histological pattern characterizes acromegalic myopathy? [Acromegalic myopathy features hypertrophy of type-1 slow-twitch fibers and atrophy of type-2 fast-twitch fibers. (Book p949)]",
+          "questionIds": [
+            "MED-C49-050"
+          ]
+        },
+        {
+          "element": "p949-e003",
+          "page": 949,
+          "source": "Which systemic manifestation is NOT a recognized complication of chronic acromegaly? [Acromegaly causes angle-closure glaucoma, OSAS, and non-malignant colonic polyps; malignant gastric carcinomatosis is not a complication. (Book p949)]",
+          "questionIds": [
+            "MED-C49-051"
+          ]
+        },
+        {
+          "element": "p949-e004",
+          "page": 949,
+          "source": "What cardiac pathology is typically seen on echocardiography in patients with acromegalic cardiomyopathy? [Acromegaly causes asymmetrical concentric ventricular hypertrophy (CVH), CAD, and heart failure with preserved ejection fraction (HFpEF). (Book p949)]",
+          "questionIds": [
+            "MED-C49-052"
+          ]
+        },
+        {
+          "element": "p949-e005",
+          "page": 949,
+          "source": "In acromegaly, growth hormone stimulates renal 1-alpha-hydroxylase, causing hypercalcemia, hyperphosphatemia, and hypercalciuria that predisposes to renal ___. [Stimulation of 1-alpha-hydroxylase produces hypercalcemia and hypercalciuria leading to renal stones. (Book p949)]",
+          "questionIds": [
+            "MED-C49-053"
+          ]
+        },
+        {
+          "element": "p949-e006",
+          "page": 949,
+          "source": "Match each letter of the DOSA bad prognosis mnemonic in acromegaly to its corresponding feature — 1) D 2) O 3) S 4) A … A) Diabetes mellitus (insulin resistance) B) OSAS (obstructive sleep apnea) C) Seborrhea D) Arthritis [The DOSA mnemonic for high disease activity and bad prognosis denotes Diabetes mellitus, OSAS, Seborrhea, and Arthritis. (Book p949)]",
+          "questionIds": [
+            "MED-C49-054"
+          ]
+        },
+        {
+          "element": "p949-e007",
+          "page": 949,
+          "source": "Assess cutaneous and thyroid changes in acromegaly: I Patients exhibit seborrhea, hyperhidrosis, and warm, doughy hands. II Thyroid enlargement (goiter) develops due to the trophic actions of elevated IGF-1. [Acromegaly produces seborrhea, hyperhidrosis, warm hands, and thyroid goiter mediated by IGF-1. (Book p949)]",
+          "questionIds": [
+            "MED-C49-055"
+          ]
+        },
+        {
+          "element": "p949-e008",
+          "page": 949,
+          "source": "A 12-year-old boy presents with severe facial asymmetry. Radiographs reveal polyostotic fibrous dysplasia (PFD). He has large irregular cafe-au-lait spots, precocious puberty, and biochemical acromegaly. This syndromic constellation is: [McCune-Albright syndrome features polyostotic fibrous dysplasia (facial asymmetry), precocious puberty, cafe-au-lait spots, and acromegaly. (Book p949]",
+          "questionIds": [
+            "MED-C49-056"
+          ]
+        },
+        {
+          "element": "p949-e009",
+          "page": 949,
+          "source": "Why do patients with acromegaly demonstrate fluid retention and hypertension? [Acromegaly causes salt and water retention due to aldosterone stimulation. (Book p949)]",
+          "questionIds": [
+            "MED-C49-057"
+          ]
+        },
+        {
+          "element": "p949-e010",
+          "page": 949,
+          "source": "Match the macroadenoma type to its diagnostic feature — 1) Functional GH adenoma 2) Craniopharyngioma 3) McCune-Albright syndrome … A) Acromegaly with possible hyperprolactinemia B) Non-functional mass with bimodal age distribution C) Polyostotic fibrous dysplasia with cafe-au-lait spots [GH adenomas cause functional acromegaly; craniopharyngiomas are bimodal non-functional tumors; McCune-Albright presents with PFD and skin pigmentation]",
+          "questionIds": [
+            "MED-C49-058"
+          ]
+        },
+        {
+          "element": "p949-e011",
+          "page": 949,
+          "source": "Insulin resistance in acromegaly is manifested clinically on the skin by velvety hyperpigmentation known as ___ nigricans. [Insulin resistance in acromegaly produces acanthosis nigricans, hirsutism, and warm hands. (Book p949)]",
+          "questionIds": [
+            "MED-C49-059"
+          ]
+        },
+        {
+          "element": "p949-e012",
+          "page": 949,
+          "source": "Assess imaging features of pituitary macroadenomas: I They demonstrate heterogeneous enhancement on contrast MRI. II Cystic components within macroadenomas do not enhance after gadolinium administration. [Pituitary macroadenomas show heterogeneous enhancement with non-enhancing cystic components and enhancing solid tissue. (Book p949)]",
+          "questionIds": [
+            "MED-C49-060"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 950,
+      "pdfPage": 57,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p950 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p950.",
+      "elements": [
+        {
+          "element": "p950-e001",
+          "page": 950,
+          "source": "Match the craniopharyngioma subtype to its characteristic histological and clinical features — 1) Adamantinomatous type (Childhood, 5–15 yrs, 90%) 2) Papillary type (Adults, 50–74 yrs, 10%) … A) Cystic with machinery oil fluid, wet keratin nodules, calcification ++, T1 hyperintense B) Solid mass, lacking wet keratin or calcification, T1 hypointense [Adamantinomatous craniopharyngioma is childhood cystic with machinery oil, wet keratin, calcification, and T1 hyperintensity; papillary is adult sol",
+          "questionIds": [
+            "MED-C49-061"
+          ]
+        },
+        {
+          "element": "p950-e002",
+          "page": 950,
+          "source": "A 9-year-old boy presents with progressive headache, bitemporal hemianopsia, and polyuria. Cranial CT shows a suprasellar calcified cystic mass. What posterior pituitary complication is produced by stalk compression in craniopharyngioma? [Craniopharyngioma compresses the pituitary stalk causing central diabetes insipidus. (Book p950)]",
+          "questionIds": [
+            "MED-C49-062"
+          ]
+        },
+        {
+          "element": "p950-e003",
+          "page": 950,
+          "source": "What radiological sign on contrast-enhanced MRI represents the compressed rim of normal pituitary tissue enhancing around a sellar cyst? [The claw sign occurs when the rim of compressed normal pituitary takes up contrast around the non-enhancing cystic mass. (Book p950)]",
+          "questionIds": [
+            "MED-C49-063"
+          ]
+        },
+        {
+          "element": "p950-e004",
+          "page": 950,
+          "source": "Match the sellar cystic lesion to its histopathological lining — 1) Rathke's cleft cyst 2) Adamantinomatous craniopharyngioma … A) Simple columnar or cuboidal epithelium with no calcification B) Squamous epithelium with wet keratin nodules and machinery oil fluid [Rathke's cleft cyst is lined by simple columnar epithelium without calcification; adamantinomatous craniopharyngioma has wet keratin and calcification]",
+          "questionIds": [
+            "MED-C49-064"
+          ]
+        },
+        {
+          "element": "p950-e005",
+          "page": 950,
+          "source": "What initial laboratory screening investigation should be ordered for a patient suspected of having acromegaly? [Screening for acromegaly is performed by measuring serum IGF-1 levels. (Book p950)]",
+          "questionIds": [
+            "MED-C49-065"
+          ]
+        },
+        {
+          "element": "p950-e006",
+          "page": 950,
+          "source": "Following an elevated serum IGF-1 level, what is the definitive confirmatory dynamic test for acromegaly? [The diagnostic confirmatory test is the oral glucose suppression test (75 gm glucose) checking GH after 1 hour. (Book p950)]",
+          "questionIds": [
+            "MED-C49-066"
+          ]
+        },
+        {
+          "element": "p950-e007",
+          "page": 950,
+          "source": "What nadir growth hormone level 1 hour after a 75 g oral glucose load excludes acromegaly? [A nadir GH level < 1 ng/ml on the oral glucose suppression test is normal and excludes acromegaly. (Book p950)]",
+          "questionIds": [
+            "MED-C49-067"
+          ]
+        },
+        {
+          "element": "p950-e008",
+          "page": 950,
+          "source": "A post-glucose load growth hormone level exceeding what cutoff indicates very severe disease and a poor prognosis in acromegaly? [A GH level > 40 ng/ml following glucose suppression indicates a poor prognosis. (Book p950)]",
+          "questionIds": [
+            "MED-C49-068"
+          ]
+        },
+        {
+          "element": "p950-e009",
+          "page": 950,
+          "source": "What is the imaging investigation of choice (IOC) once biochemical acromegaly is confirmed? [Gadolinium-enhanced MRI is the imaging investigation of choice for pituitary evaluation in acromegaly. (Book p950)]",
+          "questionIds": [
+            "MED-C49-069"
+          ]
+        },
+        {
+          "element": "p950-e010",
+          "page": 950,
+          "source": "The fluid contained within an adamantinomatous craniopharyngioma characteristically resembles brown motor or '___ oil'. [Adamantinomatous craniopharyngioma fluid has a classic 'machinery oil' appearance. (Book p950)]",
+          "questionIds": [
+            "MED-C49-070"
+          ]
+        },
+        {
+          "element": "p950-e011",
+          "page": 950,
+          "source": "Assess the demographics of Rathke's cleft cyst: I It typically presents in the 4th to 6th decades of life. II It appears as a unilocular sellar mass that lacks calcification. [Rathke's cleft cyst presents in the 4th to 6th decade as a unilocular sellar mass without calcification. (Book p950)]",
+          "questionIds": [
+            "MED-C49-071"
+          ]
+        },
+        {
+          "element": "p950-e012",
+          "page": 950,
+          "source": "Which step is NOT part of the diagnostic algorithm for acromegaly? [The diagnostic flow uses IGF-1 screening, OGST confirmation, pituitary MRI, and pituitary function testing; water deprivation is for diabetes insipidu]",
+          "questionIds": [
+            "MED-C49-072"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 951,
+      "pdfPage": 58,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p951 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p951.",
+      "elements": [
+        {
+          "element": "p951-e001",
+          "page": 951,
+          "source": "Match the classical radiological sign to its corresponding intracranial lesion — 1) Ring-enhancing lesion 2) Notochordal remnant with clivus destruction 3) Calcification, bony hyperostosis and pneumosinus dilatations 4) Large lobulated suprasellar mass in 3rd ventricle causing obstructive hydrocephalus … A) Brain abscess B) Chordoma C) Meningioma D) Germinoma [Brain abscess is ring-enhancing; chordoma is a notochordal remnant with clivus destruction; meningioma shows hyperostosis/pneumosinus dil",
+          "questionIds": [
+            "MED-C49-073"
+          ]
+        },
+        {
+          "element": "p951-e002",
+          "page": 951,
+          "source": "Which imaging features are classically linked with Rathke's cleft cyst? [Rathke's cleft cyst demonstrates the claw sign, posterior ledge sign, and nodule inside / dot sign. (Book p951)]",
+          "questionIds": [
+            "MED-C49-074"
+          ]
+        },
+        {
+          "element": "p951-e003",
+          "page": 951,
+          "source": "What is the reported surgical success / biochemical remission rate for transsphenoidal resection of a GH-secreting microadenoma? [Surgical resection of a GH microadenoma achieves an 80% success rate. (Book p951)]",
+          "questionIds": [
+            "MED-C49-075"
+          ]
+        },
+        {
+          "element": "p951-e004",
+          "page": 951,
+          "source": "What is the surgical success / biochemical cure rate for a GH-secreting macroadenoma? [Surgical resection achieves a 50% success rate in GH macroadenomas. (Book p951)]",
+          "questionIds": [
+            "MED-C49-076"
+          ]
+        },
+        {
+          "element": "p951-e005",
+          "page": 951,
+          "source": "What is the primary surgical procedure of choice for definitive treatment of acromegaly? [The surgery of choice for acromegaly is transsphenoidal hypophysectomy. (Book p951)]",
+          "questionIds": [
+            "MED-C49-077"
+          ]
+        },
+        {
+          "element": "p951-e006",
+          "page": 951,
+          "source": "Following surgical resection for acromegaly, a post-operative nadir GH level that is ___ signifies a good success rate and biochemical cure. [An undetectable post-operative GH level indicates good surgical success. (Book p951)]",
+          "questionIds": [
+            "MED-C49-078"
+          ]
+        },
+        {
+          "element": "p951-e007",
+          "page": 951,
+          "source": "A 48-year-old male with persistent GH elevation following transsphenoidal surgery has persistent tumor on MRI after 3 months. If he is medically unfit for repeat surgery, what is the best alternative intervention? [In relapsed or persistent acromegaly where the patient is unfit for surgery, Gamma Knife stereotactic radiotherapy is indicated. (Book p951)]",
+          "questionIds": [
+            "MED-C49-079"
+          ]
+        },
+        {
+          "element": "p951-e008",
+          "page": 951,
+          "source": "Match the medical agent for acromegaly to its route of administration — 1) Octreotide 2) Lanreotide 3) Pasireotide … A) Subcutaneous B) Subcutaneous C) Intramuscular [Octreotide is subcutaneous, Lanreotide is subcutaneous, and Pasireotide is intramuscular. (Book p951)]",
+          "questionIds": [
+            "MED-C49-080"
+          ]
+        },
+        {
+          "element": "p951-e009",
+          "page": 951,
+          "source": "Which pharmacological agent acts as a competitive growth hormone receptor antagonist? [Pegvisomant is a GH receptor antagonist. (Book p951)]",
+          "questionIds": [
+            "MED-C49-081"
+          ]
+        },
+        {
+          "element": "p951-e010",
+          "page": 951,
+          "source": "A patient with acromegaly is treated with pegvisomant. At follow-up, serum IGF-1 levels have completely normalized, but circulating serum growth hormone levels are elevated. This paradoxical rise in GH is explained by: [Pegvisomant blocks peripheral GH receptors; as IGF-1 falls, loss of negative feedback causes circulating GH levels to increase. (Book p951)]",
+          "questionIds": [
+            "MED-C49-082"
+          ]
+        },
+        {
+          "element": "p951-e011",
+          "page": 951,
+          "source": "Which drug is NOT used in the medical management of acromegaly? [Acromegaly medical therapy includes somatostatin analogs, dopamine agonists, and pegvisomant; metyrapone is used for Cushing syndrome. (Book p951)]",
+          "questionIds": [
+            "MED-C49-083"
+          ]
+        },
+        {
+          "element": "p951-e012",
+          "page": 951,
+          "source": "Assess somatostatin analogs in acromegaly: I They bind somatostatin receptor subtypes SST2 through SST5. II Pasireotide has particularly high binding affinity across multiple SST receptor subtypes. [Somatostatin analogs target SST2 to SST5 receptors, with pasireotide showing broad high-affinity receptor binding. (Book p951)]",
+          "questionIds": [
+            "MED-C49-084"
+          ]
+        }
+      ]
+    }
+  ]
+}

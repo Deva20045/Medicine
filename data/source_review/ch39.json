@@ -1,0 +1,443 @@
+{
+  "chapter": 39,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+  "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+  "pdfOffset": 893,
+  "pageRange": "895-897",
+  "contentSha256": "74f1087dad9c1d2de71cb99cddd521bd4dc6ff6a403ea9efbf83f9b8063af66d",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch39 p895-897: auto-generated source checklist from existing 50 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 895,
+      "pdfPage": 2,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p895 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p895.",
+      "elements": [
+        {
+          "element": "p895-e001",
+          "page": 895,
+          "source": "The osteoporosis definition combines reduced bone ___ with disrupted bone ___. [The page defines loss of bone strength in terms of low bone mass and impaired microarchitecture. (Book p895)]",
+          "questionIds": [
+            "MED-C39-001"
+          ]
+        },
+        {
+          "element": "p895-e002",
+          "page": 895,
+          "source": "Assess the definition diagram: I Cortical bone loss is emphasized over trabecular loss. II Bone quantity alone fully describes bone strength. [The diagram gives trabecular > cortical involvement and separately includes microarchitectural quality. (Book p895)]",
+          "questionIds": [
+            "MED-C39-002"
+          ]
+        },
+        {
+          "element": "p895-e003",
+          "page": 895,
+          "source": "A postmenopausal woman has progressive back pain before a fragility fracture is recognized. Which distinction matches the source? [The clinical tree labels back pain as earliest and fracture as the characteristic symptom. (Book p895)]",
+          "questionIds": [
+            "MED-C39-003"
+          ]
+        },
+        {
+          "element": "p895-e004",
+          "page": 895,
+          "source": "The source's characteristic population is ___, with a quoted figure of ___. [The source labels postmenopausal women (40%); the figure is not defined well enough to treat as a universal prevalence estimate. (Book p895)]",
+          "questionIds": [
+            "MED-C39-004"
+          ]
+        },
+        {
+          "element": "p895-e005",
+          "page": 895,
+          "source": "Match the following source fracture clues — 1) Commonest site named 2) Axial compression site illustrated later 3) Sensitive male fragility marker … A) Vertebral body B) Femoral neck C) Distal forearm [The page names femoral neck as most common, includes vertebral fractures and identifies distal forearm fracture as a sensitive male fragility marker. ]",
+          "questionIds": [
+            "MED-C39-005"
+          ]
+        },
+        {
+          "element": "p895-e006",
+          "page": 895,
+          "source": "Which is the odd one out among the chapter's common fragility-fracture sites? [The source lists femoral neck/hip, vertebral and Colles fractures, not mandibular condyle fracture. (Book p895)]",
+          "questionIds": [
+            "MED-C39-006"
+          ]
+        },
+        {
+          "element": "p895-e007",
+          "page": 895,
+          "source": "A woman has early menopause, smokes and exercises little. Which additional history strengthens the source's osteoporosis risk profile? [Low estrogen, early menopause, smoking, low activity and low Ca/vitamin-D intake are listed risk factors, alongside female sex, family history and alc]",
+          "questionIds": [
+            "MED-C39-007"
+          ]
+        },
+        {
+          "element": "p895-e008",
+          "page": 895,
+          "source": "Assess risk modification: I Family history and female sex are listed risks. II Alcohol exposure and low physical activity are also listed. [The page includes inherited/demographic and potentially modifiable exposures; they should not be treated as mutually exclusive groups. (Book p895)]",
+          "questionIds": [
+            "MED-C39-008"
+          ]
+        },
+        {
+          "element": "p895-e009",
+          "page": 895,
+          "source": "Match the following drug-associated clues — 1) Pioglitazone 2) PPIs 3) Lithium … A) Nephrogenic DI/thyroid dysfunction B) Fluid retention/bladder-cancer warning C) Low Mg/tubulointerstitial injury [These are the accompanying drug notes. Pioglitazone's bladder-cancer wording reflects a risk warning rather than certainty of causation in each user. ]",
+          "questionIds": [
+            "MED-C39-009"
+          ]
+        },
+        {
+          "element": "p895-e010",
+          "page": 895,
+          "source": "Which is the odd one out among medication risks for osteoporosis listed on this page? [Teriparatide is an anabolic treatment discussed later; steroids, heparin and cyclosporine are in the risk list. (Book p895)]",
+          "questionIds": [
+            "MED-C39-010"
+          ]
+        },
+        {
+          "element": "p895-e011",
+          "page": 895,
+          "source": "In addition to aluminum and common anticonvulsants, excess replacement with ___ is listed as a bone-loss exposure. [L-thyroxine appears in the risk list; clinically the concern is excess thyroid hormone rather than appropriate replacement by itself. (Book p895)]",
+          "questionIds": [
+            "MED-C39-011"
+          ]
+        },
+        {
+          "element": "p895-e012",
+          "page": 895,
+          "source": "A patient taking lithium develops high calcium with inappropriately elevated PTH. Which mechanism fits? [Lithium alters CaSR signaling and can cause hyperparathyroidism/hypercalcemia; this page's 'hypo' wording conflicts with that mechanism. (Book p895)]",
+          "questionIds": [
+            "MED-C39-012"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 896,
+      "pdfPage": 3,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p896 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p896.",
+      "elements": [
+        {
+          "element": "p896-e001",
+          "page": 896,
+          "source": "Match the following secondary-cause categories — 1) Celiac disease 2) Hyperprolactinemia 3) Rheumatoid arthritis … A) Gastrointestinal B) Hypogonadal C) Rheumatologic [Celiac disease is the GI example, hyperprolactinemia can suppress gonadal function, and rheumatoid arthritis belongs to the rheumatologic group. (Book]",
+          "questionIds": [
+            "MED-C39-013"
+          ]
+        },
+        {
+          "element": "p896-e002",
+          "page": 896,
+          "source": "Which is the odd one out in the page's hypogonadal-state group? [Acromegaly is grouped under endocrine causes; the other three appear in the hypogonadal-state branch. (Book p896)]",
+          "questionIds": [
+            "MED-C39-014"
+          ]
+        },
+        {
+          "element": "p896-e003",
+          "page": 896,
+          "source": "Match the following secondary-cause examples — 1) Ankylosing spondylitis 2) Hemochromatosis 3) Celiac disease … A) Inherited B) Gastrointestinal C) Rheumatologic [Ankylosing spondylitis appears with sarcoidosis and rheumatoid arthritis in the rheumatologic branch; hemochromatosis is inherited and celiac disease ]",
+          "questionIds": [
+            "MED-C39-015"
+          ]
+        },
+        {
+          "element": "p896-e004",
+          "page": 896,
+          "source": "Which is not in the page's endocrine-cause branch for secondary osteoporosis? [Cushing disease, hyperparathyroidism, diabetes insipidus, acromegaly and thyrotoxicosis are listed; hypothyroidism is not in that branch. (Book p896)]",
+          "questionIds": [
+            "MED-C39-016"
+          ]
+        },
+        {
+          "element": "p896-e005",
+          "page": 896,
+          "source": "Alongside Cushing disease and thyrotoxicosis, the source's endocrine list includes acromegaly and diabetes ___. [Diabetes insipidus is the wording printed in this particular list; this should not imply that diabetes mellitus has no skeletal effects. (Book p896)]",
+          "questionIds": [
+            "MED-C39-017"
+          ]
+        },
+        {
+          "element": "p896-e006",
+          "page": 896,
+          "source": "Match the following secondary osteoporosis examples — 1) Homocystinuria/Marfan syndrome 2) Turner/Klinefelter syndromes 3) Sarcoidosis/rheumatoid arthritis … A) Inherited B) Rheumatologic C) Hypogonadal [The source groups homocystinuria/Marfan with inherited disorders, Turner/Klinefelter with hypogonadal states, and sarcoidosis/rheumatoid arthritis wit]",
+          "questionIds": [
+            "MED-C39-018"
+          ]
+        },
+        {
+          "element": "p896-e007",
+          "page": 896,
+          "source": "Which diagnosis is the odd one out in the inherited-disease list on this page? [Celiac disease is in the GI branch; the other three are explicitly included in the inherited-disease branch. (Book p896)]",
+          "questionIds": [
+            "MED-C39-019"
+          ]
+        },
+        {
+          "element": "p896-e008",
+          "page": 896,
+          "source": "The investigation of choice named for osteoporosis is ___; the page additionally mentions trabecular bone score. [Dual-energy X-ray absorptiometry measures bone mineral density; trabecular bone score provides complementary texture-based information. (Book p896)]",
+          "questionIds": [
+            "MED-C39-020"
+          ]
+        },
+        {
+          "element": "p896-e009",
+          "page": 896,
+          "source": "A 67-year-old woman without a prior fracture asks about bone-density screening. Which source criterion supports DXA? [The source lists women >65 and men >70, in addition to fracture and risk-based indications. (Book p896)]",
+          "questionIds": [
+            "MED-C39-021"
+          ]
+        },
+        {
+          "element": "p896-e010",
+          "page": 896,
+          "source": "Assess the DXA indications listed: I Testing is restricted to women >65 and men >70 regardless of risk. II Younger adults with risk factors or prior fragility fractures may warrant testing. [The source does not restrict testing to age-based thresholds; symptoms, fracture history and younger high-risk patients also appear. (Book p896)]",
+          "questionIds": [
+            "MED-C39-022"
+          ]
+        },
+        {
+          "element": "p896-e011",
+          "page": 896,
+          "source": "Match the following reference comparisons — 1) T-score 2) Z-score 3) Trabecular bone score … A) Age-matched reference B) Young-adult reference C) DXA image texture measure [T compares with young adults (25–30 years in the source), Z with an age-matched reference, and TBS reflects image texture rather than a second referen]",
+          "questionIds": [
+            "MED-C39-023"
+          ]
+        },
+        {
+          "element": "p896-e012",
+          "page": 896,
+          "source": "Which DXA reference score is generally preferred for a 32-year-old premenopausal woman? [The comparison definition is useful, but the 'obsolete' label is not a valid universal statement. Z-scores remain important in appropriate age groups.]",
+          "questionIds": [
+            "MED-C39-024"
+          ]
+        },
+        {
+          "element": "p896-e013",
+          "page": 896,
+          "source": "A postmenopausal woman has a T-score of −1.8 and no fragility fracture. Which densitometric category fits? [A T-score between −1 and −2.5 is the low-bone-mass/osteopenia range; the diagnostic threshold for osteoporosis is ≤−2.5. (Book p896)]",
+          "questionIds": [
+            "MED-C39-025"
+          ]
+        },
+        {
+          "element": "p896-e014",
+          "page": 896,
+          "source": "In an appropriate adult, a T-score exactly −2.5 lies in which diagnostic category according to the table? [The diagnostic table uses ≤−2.5. A later treatment bullet prints <−2.5, but the boundary should not be lost when interpreting the table. (Book p896)]",
+          "questionIds": [
+            "MED-C39-026"
+          ]
+        },
+        {
+          "element": "p896-e015",
+          "page": 896,
+          "source": "A postmenopausal woman has T-score −2.9 and a low-trauma vertebral fracture. Which source category fits? [The table pairs an osteoporotic T-score with fracture for severe osteoporosis. (Book p896)]",
+          "questionIds": [
+            "MED-C39-027"
+          ]
+        },
+        {
+          "element": "p896-e016",
+          "page": 896,
+          "source": "In the plotted 60-year-old woman, the same BMD corresponds to T-score −2.5 but Z-score −1. Why? [The graph compares one BMD with different reference populations; this explains different standard-deviation distances. (Book p896)]",
+          "questionIds": [
+            "MED-C39-028"
+          ]
+        },
+        {
+          "element": "p896-e017",
+          "page": 896,
+          "source": "The biconcave vertebral appearance labeled on the radiograph is the ___ sign. [The images show compression fractures and a codfish/fish-mouth vertebra, rather than the hyperparathyroid skull or osteopetrotic patterns. (Book p896)]",
+          "questionIds": [
+            "MED-C39-029"
+          ]
+        },
+        {
+          "element": "p896-e018",
+          "page": 896,
+          "source": "A woman has osteopenia but a prior fragility fracture and high estimated fracture risk. Which treatment conclusion follows the source? [The source includes osteopenia with fracture or raised FRAX risk as treatment indications, not just densitometric osteoporosis. (Book p896)]",
+          "questionIds": [
+            "MED-C39-030"
+          ]
+        },
+        {
+          "element": "p896-e019",
+          "page": 896,
+          "source": "Assess FRAX: I It estimates fracture risk using clinical factors, optionally including femoral-neck BMD. II It is a quantity directly measured by the DXA machine, as the source shorthand implies. [FRAX is a calculated risk estimate. DXA BMD can contribute, but 'measured by DEXA' is an oversimplification. (Book p896)]",
+          "questionIds": [
+            "MED-C39-031"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 897,
+      "pdfPage": 4,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p897 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p897.",
+      "elements": [
+        {
+          "element": "p897-e001",
+          "page": 897,
+          "source": "Which is the odd one out among conditions the chapter associates with fish-mouth vertebrae? [The page names osteoporosis, osteomalacia and hyperparathyroidism for fish-mouth vertebrae. Osteopetrosis is more characteristically associated with d]",
+          "questionIds": [
+            "MED-C39-032"
+          ]
+        },
+        {
+          "element": "p897-e002",
+          "page": 897,
+          "source": "Match the following supportive entries — 1) Vitamin D3 2) Calcium 3) Lifestyle … A) 800 IU/day B) Smoking cessation/increased activity C) 1200 mg/day [These are the source's supportive-care targets, alongside smoking cessation and more physical activity; individual intake requirements may differ. (Bo]",
+          "questionIds": [
+            "MED-C39-033"
+          ]
+        },
+        {
+          "element": "p897-e003",
+          "page": 897,
+          "source": "Match the following drug mechanisms — 1) Bisphosphonates 2) Denosumab 3) Teriparatide … A) PTH-pathway bone formation B) RANKL inhibition C) Antiresorptive bone action [Bisphosphonates and denosumab are antiresorptive; intermittent teriparatide promotes bone formation through the PTH receptor pathway. (Book p897)]",
+          "questionIds": [
+            "MED-C39-034"
+          ]
+        },
+        {
+          "element": "p897-e004",
+          "page": 897,
+          "source": "The source ranks oral ___ ahead of ___ among bisphosphonates. [The oral-preferred branch prints alendronate > risedronate; suitability still depends on patient characteristics. (Book p897)]",
+          "questionIds": [
+            "MED-C39-035"
+          ]
+        },
+        {
+          "element": "p897-e005",
+          "page": 897,
+          "source": "A patient starts oral alendronate and asks how to reduce esophageal injury. Which instruction fits? [The source highlights esophagitis and advises an empty stomach 30 minutes before the first meal plus 30 minutes upright; use water and follow the prod]",
+          "questionIds": [
+            "MED-C39-036"
+          ]
+        },
+        {
+          "element": "p897-e006",
+          "page": 897,
+          "source": "The IV zoledronate schedule printed for osteoporosis is ___. [The osteoporosis branch gives 5 mg IV yearly, distinct from other indications and dosing schedules. (Book p897)]",
+          "questionIds": [
+            "MED-C39-037"
+          ]
+        },
+        {
+          "element": "p897-e007",
+          "page": 897,
+          "source": "Which pair correctly distinguishes the usual oral and intravenous ibandronate osteoporosis regimens? [The route is erroneous: 150 mg monthly is oral; the usual IV osteoporosis regimen is 3 mg every three months. Do not use the printed IV dose clinicall]",
+          "questionIds": [
+            "MED-C39-038"
+          ]
+        },
+        {
+          "element": "p897-e008",
+          "page": 897,
+          "source": "Match the following bisphosphonate adverse-effect clues — 1) Exposed necrotic jaw bone 2) Collapsing glomerular lesion 3) Falling serum calcium … A) Hypocalcemia B) Collapsing FSGS C) Jaw osteonecrosis [The page lists jaw osteonecrosis, collapsing FSGS and hypocalcemia; nephrotoxicity is particularly relevant to certain IV exposures rather than an equ]",
+          "questionIds": [
+            "MED-C39-039"
+          ]
+        },
+        {
+          "element": "p897-e009",
+          "page": 897,
+          "source": "A patient with estimated GFR 24 mL/min is being considered for a bisphosphonate. What concern follows the chapter's renal warning? [The source warns at GFR <30 mL/min; actual labeling varies by drug, with some using a 35 mL/min cutoff. (Book p897)]",
+          "questionIds": [
+            "MED-C39-040"
+          ]
+        },
+        {
+          "element": "p897-e010",
+          "page": 897,
+          "source": "The two subcutaneous bone-forming agents named are ___ and ___. [Teriparatide and abaloparatide activate the PTH receptor pathway; abaloparatide is a PTHrP analog, despite the source's shared recombinant-PTH heading]",
+          "questionIds": [
+            "MED-C39-041"
+          ]
+        },
+        {
+          "element": "p897-e011",
+          "page": 897,
+          "source": "Assess the source's treatment hierarchy: I It labels bisphosphonates first choice, teriparatide second line and denosumab third line. II That ranking is an unchanging rule for every fracture-risk group. [These rankings are printed, but treatment selection depends on fracture risk, renal function and contraindications; very-high-risk patients may merit ]",
+          "questionIds": [
+            "MED-C39-042"
+          ]
+        },
+        {
+          "element": "p897-e012",
+          "page": 897,
+          "source": "A postmenopausal patient seeks therapy for severe hot flushes as well as bone loss. Which source-listed approach addresses the vasomotor indication but requires risk assessment? [The page links hormone replacement to severe hot flushes and lists breast-cancer, coronary and stroke risks; suitability depends on regimen and patien]",
+          "questionIds": [
+            "MED-C39-043"
+          ]
+        },
+        {
+          "element": "p897-e013",
+          "page": 897,
+          "source": "Which is the odd one out among adverse effects specifically listed for hormone replacement therapy here? [The HRT entry names breast cancer, CHD and stroke; hypomagnesemic tetany is not in that adverse-effect list. (Book p897)]",
+          "questionIds": [
+            "MED-C39-044"
+          ]
+        },
+        {
+          "element": "p897-e014",
+          "page": 897,
+          "source": "Assess strontium ranelate in this source: I It is described as purely antiresorptive with no bone-forming effect. II It is placed among first-choice routine therapies. [Those are the two source statements. This historical treatment note should not be mistaken for an endorsement to prescribe it. (Book p897)]",
+          "questionIds": [
+            "MED-C39-045"
+          ]
+        },
+        {
+          "element": "p897-e015",
+          "page": 897,
+          "source": "A patient requests calcitonin as the main long-term fracture-prevention drug. Which source assessment is most accurate? [The page calls calcitonin weakly antiresorptive with minimal vertebral-fracture action and does not recommend it in this hierarchy. (Book p897)]",
+          "questionIds": [
+            "MED-C39-046"
+          ]
+        },
+        {
+          "element": "p897-e016",
+          "page": 897,
+          "source": "Match the following raloxifene concepts — 1) Breast action 2) Bone action 3) Important adverse effect … A) Thromboembolism B) Estrogen antagonism C) Estrogen agonism [Raloxifene is antiestrogenic in breast and estrogenic in bone; hot flushes and thromboembolism are listed adverse effects. The source's 'agonist every]",
+          "questionIds": [
+            "MED-C39-047"
+          ]
+        },
+        {
+          "element": "p897-e017",
+          "page": 897,
+          "source": "Evaluate: I Raloxifene can worsen hot flushes. II The source's vascular-antagonist shorthand means it protects against venous thromboembolism. [The adverse-effect list explicitly includes hot flushes and thromboembolism; vascular shorthand must not reverse that risk. (Book p897)]",
+          "questionIds": [
+            "MED-C39-048"
+          ]
+        },
+        {
+          "element": "p897-e018",
+          "page": 897,
+          "source": "Match the following named drug targets — 1) Odanacatib 2) Saracatinib 3) Romosozumab … A) Tyrosine kinase B) Cathepsin K C) Sclerostin [The newer-drug list pairs these names with cathepsin K, tyrosine kinase and sclerostin inhibition respectively. (Book p897)]",
+          "questionIds": [
+            "MED-C39-049"
+          ]
+        },
+        {
+          "element": "p897-e019",
+          "page": 897,
+          "source": "Assess the newer-drug list: I Odanacatib is paired with cathepsin K inhibition. II Every drug in the list is approved routine osteoporosis therapy. [Odanacatib development was discontinued and saracatinib is not routine approved osteoporosis therapy; the source list must be read as pharmacology, no]",
+          "questionIds": [
+            "MED-C39-050"
+          ]
+        }
+      ]
+    }
+  ]
+}

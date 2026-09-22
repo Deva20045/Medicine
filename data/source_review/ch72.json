@@ -1,0 +1,678 @@
+{
+  "chapter": 72,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+  "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+  "pdfOffset": 1034,
+  "pageRange": "1047-1052",
+  "contentSha256": "c7352729712300904f4f1fe903ab293e834701a8d1e93469dd489262f4fd3d4a",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch72 p1047-1052: auto-generated source checklist from existing 76 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 1047,
+      "pdfPage": 13,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1047 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1047.",
+      "elements": [
+        {
+          "element": "p1047-e001",
+          "page": 1047,
+          "source": "Fill up (Definition): 'Infection of ______ / endocardial surface.' ['Infective endocarditis — Infection of valvular / endocardial surface'. (Book p1047)]",
+          "questionIds": [
+            "MED-C72-001"
+          ]
+        },
+        {
+          "element": "p1047-e002",
+          "page": 1047,
+          "source": "Fill up: it involves a native / prosthetic valve or intracardiac device and 'Leads to ______ (Hallmark).' ['Involving Native / Prosthetic valve, Intracardiac devices → Leads to Vegetations (Hallmark).' (Book p1047)]",
+          "questionIds": [
+            "MED-C72-002"
+          ]
+        },
+        {
+          "element": "p1047-e003",
+          "page": 1047,
+          "source": "What is printed as the hallmark of infective endocarditis? [The definition box ends with 'Leads to Vegetations (Hallmark)'. (Book p1047)]",
+          "questionIds": [
+            "MED-C72-003"
+          ]
+        },
+        {
+          "element": "p1047-e004",
+          "page": 1047,
+          "source": "Risk-factor groups — match — 1) Congenital 2) Rheumatic 3) Degenerative … A) Calcific degenerative aortic stenosis B) Mitral regurgitation, aortic regurgitation C) Ventricular septal defect, atrial septal defect ['Congenital conditions : Ventricular septal defect, Atrial septal defect'; 'Rheumatic conditions : mitral regurgitation, Aortic regurgitation'; 'Degen]",
+          "questionIds": [
+            "MED-C72-004"
+          ]
+        },
+        {
+          "element": "p1047-e005",
+          "page": 1047,
+          "source": "Judge the rheumatic risk note: I Mitral regurgitation and aortic regurgitation carry risk. II Mitral stenosis carries no risk. ['Rheumatic conditions : mitral regurgitation, Aortic regurgitation' and '· No risk with mitral stenosis'. (Book p1047)]",
+          "questionIds": [
+            "MED-C72-005"
+          ]
+        },
+        {
+          "element": "p1047-e006",
+          "page": 1047,
+          "source": "Which rheumatic lesion is specifically printed as carrying no risk of infective endocarditis? ['· No risk with mitral stenosis'. (Book p1047)]",
+          "questionIds": [
+            "MED-C72-006"
+          ]
+        },
+        {
+          "element": "p1047-e007",
+          "page": 1047,
+          "source": "Which is NOT printed as a risk-factor group on this page? [Printed groups: congenital conditions, rheumatic conditions, degenerative condition (calcific AS) and IV drug abusers. (Book p1047)]",
+          "questionIds": [
+            "MED-C72-007"
+          ]
+        },
+        {
+          "element": "p1047-e008",
+          "page": 1047,
+          "source": "Sided distribution — match — 1) Left sided 2) Combined 3) Right sided … A) 15% B) 10%, 70% of them due to MRSA C) Most common, aortic valve, with MVP plus MR ['Left sided : AV (m/c), MVP + MR'; 'Combined : 15%'; 'Right sided : 10% (70% due to MRSA), Tricuspid involvement'. (Book p1047)]",
+          "questionIds": [
+            "MED-C72-008"
+          ]
+        },
+        {
+          "element": "p1047-e009",
+          "page": 1047,
+          "source": "What share of right-sided infective endocarditis is attributed to MRSA on this page? ['Right sided : 10% (70% due to mRSA)'. (Book p1047)]",
+          "questionIds": [
+            "MED-C72-009"
+          ]
+        },
+        {
+          "element": "p1047-e010",
+          "page": 1047,
+          "source": "Right-sided disease — match — 1) Valve involved 2) Seen in … A) IV drug abusers, IV central lines B) Tricuspid ['Right sided … Tricuspid involvement. Seen in : IV drugs abusers, IV central lines'. (Book p1047)]",
+          "questionIds": [
+            "MED-C72-010"
+          ]
+        },
+        {
+          "element": "p1047-e011",
+          "page": 1047,
+          "source": "Which valve is printed as the most common left-sided valve in infective endocarditis? [The left-sided column prints 'AV (m/c)'. (Book p1047)]",
+          "questionIds": [
+            "MED-C72-011"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1048,
+      "pdfPage": 14,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1048 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1048.",
+      "elements": [
+        {
+          "element": "p1048-e001",
+          "page": 1048,
+          "source": "Pathogenesis — match — 1) Mucosal injury 2) Valvular endothelial injury 3) Bacterial seeding … A) Platelet-fibrin clot (NBTE) B) Bacterial adherence to NBTE then proliferation C) Bacteraemia ['Mucosal injury → Bacterial seeding'; 'valvular endothelial injury → Platelet fibrin clot (NBTE) → Bacterial adherence to NBTE → Bacterial proliferati]",
+          "questionIds": [
+            "MED-C72-012"
+          ]
+        },
+        {
+          "element": "p1048-e002",
+          "page": 1048,
+          "source": "Fill up: 'NBTE — Non-bacterial thrombotic endocarditis, ______ endocarditis.' ['Note : Non-bacterial thrombotic endocarditis, marantic endocarditis'. (Book p1048)]",
+          "questionIds": [
+            "MED-C72-013"
+          ]
+        },
+        {
+          "element": "p1048-e003",
+          "page": 1048,
+          "source": "Judge the NBTE note: I NBTE is the non-bacterial thrombotic (marantic) endocarditis. II It is the platelet-fibrin clot on which bacteria later adhere. [Both statements reproduce the printed NBTE note and its place in the pathogenetic chain. (Book p1048)]",
+          "questionIds": [
+            "MED-C72-014"
+          ]
+        },
+        {
+          "element": "p1048-e004",
+          "page": 1048,
+          "source": "Which condition is printed alongside NBTE in the note on non-bacterial thrombotic endocarditis? ['NBTE in SLE : Catheter / …' is printed next to the marantic-endocarditis note. (Book p1048)]",
+          "questionIds": [
+            "MED-C72-015"
+          ]
+        },
+        {
+          "element": "p1048-e005",
+          "page": 1048,
+          "source": "Classification — match — 1) By valve 2) By exposure … A) Intravenous drug abuse, health-care associated B) Native valve, prosthetic valve ['Infective endocarditis : Native valve, Prosthetic valve, Intravenous drug abuse (IVDA), Health care associated'. (Book p1048)]",
+          "questionIds": [
+            "MED-C72-016"
+          ]
+        },
+        {
+          "element": "p1048-e006",
+          "page": 1048,
+          "source": "In native-valve endocarditis, which valve does the page print as involved? ['· valve involved : mitral (Left sided)'. (Book p1048)]",
+          "questionIds": [
+            "MED-C72-017"
+          ]
+        },
+        {
+          "element": "p1048-e007",
+          "page": 1048,
+          "source": "Native-valve associations — match — 1) Associated valvular heart disease 2) Congenital heart disease 3) CKD-associated IE … A) Ventricular septal defect B) Tricuspid C) MVP with mitral regurgitation ['Associated valvular heart disease : MVP + mitral regurgitation'; 'Congenital heart disease : Ventricular septal defect'; 'CKD associated IE : Tricusp]",
+          "questionIds": [
+            "MED-C72-018"
+          ]
+        },
+        {
+          "element": "p1048-e008",
+          "page": 1048,
+          "source": "Predisposing conditions in native valves — match — 1) Rheumatic heart disease 2) Congenital heart disease 3) Mitral valve prolapse 4) Degenerative heart disease … A) 10-20% B) Rare C) 10-30% D) 25-30% [Printed percentages: rheumatic heart disease 25-30, congenital heart disease 10-20, mitral valve prolapse 10-30, degenerative heart disease Rare. (Boo]",
+          "questionIds": [
+            "MED-C72-019"
+          ]
+        },
+        {
+          "element": "p1048-e009",
+          "page": 1048,
+          "source": "What percentage is printed against parenteral drug abuse in the predisposing-conditions table? ['Parenteral drug abuse : 15-35'. (Book p1048)]",
+          "questionIds": [
+            "MED-C72-020"
+          ]
+        },
+        {
+          "element": "p1048-e010",
+          "page": 1048,
+          "source": "What percentage is printed in the 'None' row of the predisposing-conditions table? ['None : 25-45'. (Book p1048)]",
+          "questionIds": [
+            "MED-C72-021"
+          ]
+        },
+        {
+          "element": "p1048-e011",
+          "page": 1048,
+          "source": "Organisms — match — 1) Native valve 2) Prosthetic valve under 12 months 3) Prosthetic valve over 12 months 4) IV drug use associated … A) CoNS > MRSA > Gram-negative bacilli B) MRSA C) S. aureus > Streptococcus viridans > enterococci D) Streptococcus viridans > S. aureus > enterococci ['Native valve : S. aureus > Streptococcus viridans > enterococci'; 'Prosthetic valve : < 12 months : CoNS > mRSA > Gram -ve bacilli; > 12 months : Str]",
+          "questionIds": [
+            "MED-C72-022"
+          ]
+        },
+        {
+          "element": "p1048-e012",
+          "page": 1048,
+          "source": "Which organism heads the list for prosthetic-valve endocarditis within 12 months of surgery? ['· < 12 months : CoNS > mRSA > Gram -ve bacilli'. (Book p1048)]",
+          "questionIds": [
+            "MED-C72-023"
+          ]
+        },
+        {
+          "element": "p1048-e013",
+          "page": 1048,
+          "source": "What mortality figure is printed for acute infective endocarditis? ['ACUTE IE : · very high mortality (60%)'. (Book p1048)]",
+          "questionIds": [
+            "MED-C72-024"
+          ]
+        },
+        {
+          "element": "p1048-e014",
+          "page": 1048,
+          "source": "Acute IE — match — 1) Associated conditions 2) Valve consequence 3) Management … A) Destroyed valves B) Management of sepsis C) Abscess, osteomyelitis → severe sepsis, septic shock (MRSA) ['Associated condition : Abscess, osteomyelitis → Severe sepsis, Septic shock (mRSA)'; 'Destroyed valves'; 'management : of Sepsis'. (Book p1048)]",
+          "questionIds": [
+            "MED-C72-025"
+          ]
+        },
+        {
+          "element": "p1048-e015",
+          "page": 1048,
+          "source": "A patient with acute IE, multiple abscesses and MRSA bacteraemia deteriorates with shock. Which printed pair describes the complication and the management priority? [The acute-IE block prints abscess and osteomyelitis leading to severe sepsis / septic shock with MRSA, and 'management : of Sepsis'. (Book p1048)]",
+          "questionIds": [
+            "MED-C72-026"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1049,
+      "pdfPage": 15,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1049 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1049.",
+      "elements": [
+        {
+          "element": "p1049-e001",
+          "page": 1049,
+          "source": "Which background is printed at the top of the subacute-IE case? ['H/o : · CHD, + Rheumatic fever in childhood, treatment for RHD.' (Book p1049)]",
+          "questionIds": [
+            "MED-C72-027"
+          ]
+        },
+        {
+          "element": "p1049-e002",
+          "page": 1049,
+          "source": "Symptoms versus signs — match — 1) Symptoms 2) Signs … A) New onset or worsening cardiac murmur, macro- and microembolic events, splenomegaly/clubbing B) Fever with chills for 2-3 months, anorexia, weight loss, fatigue, myalgia ['Symptoms : Fever with chills × 2-3 months, Anorexia, weight loss, Fatigue, myalgia'; 'Signs : New onset cardiac murmur / worsening of an existing mur]",
+          "questionIds": [
+            "MED-C72-028"
+          ]
+        },
+        {
+          "element": "p1049-e003",
+          "page": 1049,
+          "source": "How long is the fever printed as lasting in the subacute case? ['Fever with chills × 2-3 months'. (Book p1049)]",
+          "questionIds": [
+            "MED-C72-029"
+          ]
+        },
+        {
+          "element": "p1049-e004",
+          "page": 1049,
+          "source": "Embolic phenomena — match — 1) Macroembolic 2) Microembolic … A) Petechiae and splinter haemorrhage B) Stroke, ACS, retinal occlusion ['macroembolic events : stroke, ACS, retinal occlusion'; 'microembolic events : Petechiae and splinter hemorrhage'. (Book p1049)]",
+          "questionIds": [
+            "MED-C72-030"
+          ]
+        },
+        {
+          "element": "p1049-e005",
+          "page": 1049,
+          "source": "Immunological manifestations — match — 1) Osler nodes 2) Roth spots 3) Positive rheumatoid factor … A) Retinal endothelial vasculitis with a pale centre and surrounding erythema B) Tender nodules of the finger and toe pulps C) Positive in about half of cases ['manifestation a/w vasculitis : · Osler nodes, RF positivity, Roth spots : Retinal endothelial vasculitis — Pale centre with surrounding erythema'; 'R]",
+          "questionIds": [
+            "MED-C72-031"
+          ]
+        },
+        {
+          "element": "p1049-e006",
+          "page": 1049,
+          "source": "In what proportion of cases is rheumatoid factor positive in subacute IE? ['Rheumatoid factor +ve (50% cases)'. (Book p1049)]",
+          "questionIds": [
+            "MED-C72-032"
+          ]
+        },
+        {
+          "element": "p1049-e007",
+          "page": 1049,
+          "source": "Proteinuria and microscopic haematuria are printed in what proportion of cases? ['· Proteinuria and microscopic hematuria (50% cases)'. (Book p1049)]",
+          "questionIds": [
+            "MED-C72-033"
+          ]
+        },
+        {
+          "element": "p1049-e008",
+          "page": 1049,
+          "source": "Laboratory features — match — 1) Anaemia 2) White cells 3) Acute phase … A) Raised ESR and CRP B) Normocytic C) Raised count ['Laboratory features : · Anemia (Normocytic), · ↑ WBC, · ↑ ESR, · CRP'. (Book p1049)]",
+          "questionIds": [
+            "MED-C72-034"
+          ]
+        },
+        {
+          "element": "p1049-e009",
+          "page": 1049,
+          "source": "Janeway lesions versus Osler nodes — match — 1) Site 2) Size and shape 3) Tenderness 4) Course 5) Type of endocarditis 6) Culture 7) Histology … A) Nodules 1 mm to > 1 cm; tender; hours to days; subacute; usually negative; vasculitis B) Macules of variable size and irregular shape; non-tender; days to weeks; acute; usually positive; septic microemboli [Janeway: soles, palms, thenar and hypothenar eminences and plantar surfaces of the toes; macules of variable size and irregular shape; not tender",
+          "questionIds": [
+            "MED-C72-035"
+          ]
+        },
+        {
+          "element": "p1049-e010",
+          "page": 1049,
+          "source": "Where are Janeway lesions printed as occurring? ['Janeway lesion — Soles, palms, thenar and hypothenar eminences, plantar surfaces of the toe'. (Book p1049)]",
+          "questionIds": [
+            "MED-C72-036"
+          ]
+        },
+        {
+          "element": "p1049-e011",
+          "page": 1049,
+          "source": "What size range is printed for Osler nodes? ['Osler node — Nodules of 1 mm to > 1 cm'. (Book p1049)]",
+          "questionIds": [
+            "MED-C72-037"
+          ]
+        },
+        {
+          "element": "p1049-e012",
+          "page": 1049,
+          "source": "Judge the comparison table: I Janeway lesions are non-tender macules of acute endocarditis with positive cultures. II Osler nodes are tender nodules of subacute endocarditis with negative cultures. [Janeway column: macules, non-tender, days to weeks, acute, culture positive, septic microemboli. Osler column: nodules, tender, hours to days, subacut]",
+          "questionIds": [
+            "MED-C72-038"
+          ]
+        },
+        {
+          "element": "p1049-e013",
+          "page": 1049,
+          "source": "A febrile patient with a murmur has tender nodules on the finger pulps and a negative blood culture. Which lesion and endocarditis type does the table indicate? [Tender nodules of the pulps with negative cultures are the Osler-node column, linked to subacute endocarditis. (Book p1049)]",
+          "questionIds": [
+            "MED-C72-039"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1050,
+      "pdfPage": 16,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1050 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1050.",
+      "elements": [
+        {
+          "element": "p1050-e001",
+          "page": 1050,
+          "source": "Causes listed for the immune/vasculitic picture — match — 1) Low C3 and C4 2) Others … A) Hepatitis C virus, cryoglobulinaemia, leprosy B) Infective endocarditis ['Causes : · IE (↓C3, ↓C4), · Hep C Virus, · Cryoglobulinemia, · Leprosy'. (Book p1050)]",
+          "questionIds": [
+            "MED-C72-040"
+          ]
+        },
+        {
+          "element": "p1050-e002",
+          "page": 1050,
+          "source": "Cardiac complications — match — 1) Stroke / ACS 2) Heart failure 3) Perivalvular abscess … A) Due to valvular insufficiency with new-onset adult AR / MR B) Common in aortic position, causes conduction block C) Fragment embolisation into coronaries ['Stroke / ACS : Fragment embolization into coronaries'; 'Heart failure : d/t Valvular insufficiency, New onset adult AR/MR'; 'Perivalvular abscess : (]",
+          "questionIds": [
+            "MED-C72-041"
+          ]
+        },
+        {
+          "element": "p1050-e003",
+          "page": 1050,
+          "source": "Non-cardiac complications — match the group — 1) Embolic 2) Immunological 3) Septic … A) Metastatic infection, mycotic aneurysm B) Embolic occlusion C) Immunological phenomena ['Non-cardiac complications : · Embolic occlusion, · Immunological, · metastatic infection, · mycotic aneurysm'. (Book p1050)]",
+          "questionIds": [
+            "MED-C72-042"
+          ]
+        },
+        {
+          "element": "p1050-e004",
+          "page": 1050,
+          "source": "Right-sided IE complications — match — 1) Pulmonary 2) Cardiac 3) Vascular … A) Right heart failure B) Pulmonary abscess, empyema C) Mycotic aneurysm of pulmonary artery ['Right-sided IE complications : · Pulmonary abscess, Empyema, · Right heart failure, · mycotic aneurysm of pulmonary artery'. (Book p1050)]",
+          "questionIds": [
+            "MED-C72-043"
+          ]
+        },
+        {
+          "element": "p1050-e005",
+          "page": 1050,
+          "source": "Which organism group is printed as a cause of perivalvular abscess with conduction block? ['Perivalvular abscess : (Common in aorto) → Conduction block'. (Book p1050)]",
+          "questionIds": [
+            "MED-C72-044"
+          ]
+        },
+        {
+          "element": "p1050-e006",
+          "page": 1050,
+          "source": "Modified Duke criteria — match the combinations — 1) Definite by majors 2) Major plus minors 3) Minors only … A) 1 major + 3 minor B) 5 minor C) 2 major ['Criterias : 2 major OR 1 major + 3 minor OR 5 minor'. (Book p1050)]",
+          "questionIds": [
+            "MED-C72-045"
+          ]
+        },
+        {
+          "element": "p1050-e007",
+          "page": 1050,
+          "source": "How many minor criteria are required to satisfy the modified Duke criteria on their own? ['OR 5 minor'. (Book p1050)]",
+          "questionIds": [
+            "MED-C72-046"
+          ]
+        },
+        {
+          "element": "p1050-e008",
+          "page": 1050,
+          "source": "Fill up (Blood-culture technique): '______ sets (______ ml each) from 3 sites.' ['Blood culture : · 3 sets (20 ml each) from 3 sites'. (Book p1050)]",
+          "questionIds": [
+            "MED-C72-047"
+          ]
+        },
+        {
+          "element": "p1050-e009",
+          "page": 1050,
+          "source": "Blood-culture volumes and timing — match — 1) Per bottle 2) Interval between sets 3) Repeat interval … A) 30-60 minutes B) 18-24 hours C) 10 ml aerobic plus 10 ml anaerobic ['Blood (10 ml aerobic + 10 ml anaerobic) taken over 30-60 minutes'; 'Culture to be repeated every 18-24 hours'. (Book p1050)]",
+          "questionIds": [
+            "MED-C72-048"
+          ]
+        },
+        {
+          "element": "p1050-e010",
+          "page": 1050,
+          "source": "How does the page define a positive blood-culture major criterion for typical organisms? ['Positive culture : Typical organism (mRSA, Strep. viridans) from 2 separate cultures'. (Book p1050)]",
+          "questionIds": [
+            "MED-C72-049"
+          ]
+        },
+        {
+          "element": "p1050-e011",
+          "page": 1050,
+          "source": "Which organisms are named as needing only a single positive culture or antibody detection? ['HACeK group (Coxiella burnetii) single positive culture or antibodies detected'. (Book p1050)]",
+          "questionIds": [
+            "MED-C72-050"
+          ]
+        },
+        {
+          "element": "p1050-e012",
+          "page": 1050,
+          "source": "Judge the major criteria: I Three sets of 20 ml from three sites are required. II Persistently positive cultures also count as a major criterion. ['3 sets (20 ml each) from 3 sites' and 'Persistently positive culture' are both printed. (Book p1050)]",
+          "questionIds": [
+            "MED-C72-051"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1051,
+      "pdfPage": 17,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1051 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1051.",
+      "elements": [
+        {
+          "element": "p1051-e001",
+          "page": 1051,
+          "source": "Minor criteria — match the number to the item — 1) 2 2) 3 3) 4 4) 5 … A) Immunological phenomenon B) Fever C) Vascular phenomenon (emboli) D) Microbiological evidence not meeting culture criteria ['minor criteria : 1. Predisposition to IE, 2. Fever, 3. vascular phenomenon (Emboli), 4. Immunological phenomenon, 5. microbiological phenomenon not m]",
+          "questionIds": [
+            "MED-C72-052"
+          ]
+        },
+        {
+          "element": "p1051-e002",
+          "page": 1051,
+          "source": "Which minor criterion is listed first on this page? ['1. Predisposition to IE'. (Book p1051)]",
+          "questionIds": [
+            "MED-C72-053"
+          ]
+        },
+        {
+          "element": "p1051-e003",
+          "page": 1051,
+          "source": "Echocardiography — match the modality to the printed accuracy — 1) TTE 2) TEE … A) Sensitivity 86-98%, specificity 98% B) Sensitivity 50-70%, specificity 86% ['TTE (Transthoracic echocardiography) : Sensitivity 50-70, Specificity 86'; 'TEE (Transesophageal echocardiography) : sensitivity 86-98, specificity 9]",
+          "questionIds": [
+            "MED-C72-054"
+          ]
+        },
+        {
+          "element": "p1051-e004",
+          "page": 1051,
+          "source": "What sensitivity is printed for transthoracic echocardiography? [TTE row: 'Sensitivity 50-70'. (Book p1051)]",
+          "questionIds": [
+            "MED-C72-055"
+          ]
+        },
+        {
+          "element": "p1051-e005",
+          "page": 1051,
+          "source": "Which route does the page print for suspected endocarditis with a prosthetic valve or intracardiac device? ['Suspected endocarditis : Native valve → TTE; Prosthetic valve / Intracardiac devices → TEE'. (Book p1051)]",
+          "questionIds": [
+            "MED-C72-056"
+          ]
+        },
+        {
+          "element": "p1051-e006",
+          "page": 1051,
+          "source": "Echo algorithm — match the result to the action — 1) Positive 2) Negative … A) Observe, repeat echo if required B) Rx for endocarditis ['Positive → Rx for endocarditis'; 'Negative → Observe, repeat ECHO if required'. (Book p1051)]",
+          "questionIds": [
+            "MED-C72-057"
+          ]
+        },
+        {
+          "element": "p1051-e007",
+          "page": 1051,
+          "source": "When should TEE be added even if TTE has been done, according to this page? ['TEE if complications suspected'. (Book p1051)]",
+          "questionIds": [
+            "MED-C72-058"
+          ]
+        },
+        {
+          "element": "p1051-e008",
+          "page": 1051,
+          "source": "TEE indications over TTE — match — 1) Vegetation size 2) Structural complications 3) Devices … A) Myocardial abscess, valve perforation, intracardiac fistula B) CIED (cardiovascular implantable electronic device), prosthetic valve C) Vegetations below 2 mm ['TEE indications over TTE : · vegetations < 2 mm, · myocardial abscess, valve perforation, · Prosthetic valve, · CIED (Cardiovascular implantable elec]",
+          "questionIds": [
+            "MED-C72-059"
+          ]
+        },
+        {
+          "element": "p1051-e009",
+          "page": 1051,
+          "source": "Which is NOT printed as a TEE indication over TTE? [Printed indications: vegetations < 2 mm, myocardial abscess, valve perforation, prosthetic valve, CIED and intracardiac fistula. (Book p1051)]",
+          "questionIds": [
+            "MED-C72-060"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1052,
+      "pdfPage": 18,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1052 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1052.",
+      "elements": [
+        {
+          "element": "p1052-e001",
+          "page": 1052,
+          "source": "Streptococcus viridans regimen — match — 1) DOC 2) Alternative 3) If penicillin resistant … A) Ceftriaxone 2 g IV once daily or vancomycin 15 mg/kg IV BD B) Vancomycin 15 mg/kg IV BD C) Penicillin G 2-3 million units IV every 4 hours for 4 weeks ['Streptococcus viridans : DOC : Penicillin G 2-3 million units IV Q4h × 4 wks. Ceftriaxone 2g IV OD × 4 wks OR Vancomycin 15 mg/kg IV BD (if Penicilli]",
+          "questionIds": [
+            "MED-C72-061"
+          ]
+        },
+        {
+          "element": "p1052-e002",
+          "page": 1052,
+          "source": "Enterococcal regimen — match — 1) Base drug 2) Synergy 3) Penicillin-resistant option … A) Gentamicin 1 mg/kg IV TDS B) Penicillin G 4-5 million units Q4h × 4-6 wks C) Vancomycin 15 mg/kg IV BD × 4-6 wks ['Enterococci : Penicillin G 4-5 million units Q4h × 4-6 wks; Gentamicin (1 mg/kg IV TDS); (if Penicillin resistant : vancomycin 15 mg/kg IV BD × 4-6 w]",
+          "questionIds": [
+            "MED-C72-062"
+          ]
+        },
+        {
+          "element": "p1052-e003",
+          "page": 1052,
+          "source": "Which organisms are printed as intrinsically resistant to cephalosporins? ['Note : Intrinsically resistant to cephalosporins · Enterococci, · Listeria'. (Book p1052)]",
+          "questionIds": [
+            "MED-C72-063"
+          ]
+        },
+        {
+          "element": "p1052-e004",
+          "page": 1052,
+          "source": "MRSA endocarditis — match — 1) Native valve 2) Prosthetic valve … A) Vancomycin 15 mg/kg IV BD plus gentamicin 1 mg/kg IV BD plus rifampicin 300 mg orally TID for 6-8 weeks B) Vancomycin 15 mg/kg IV BD ['Native valve : vancomycin 15 mg/kg IV BD × 4-6 wks'; 'Prosthetic valve : Vancomycin 15 mg/kg IV BD + Gentamicin 1 mg/kg IV BD + Rifampicin 300 mg ora]",
+          "questionIds": [
+            "MED-C72-064"
+          ]
+        },
+        {
+          "element": "p1052-e005",
+          "page": 1052,
+          "source": "Dose and duration printed for rifampicin in prosthetic-valve MRSA endocarditis? ['Rifampicin 300 mg oral TID × 6-8 wks'. (Book p1052)]",
+          "questionIds": [
+            "MED-C72-065"
+          ]
+        },
+        {
+          "element": "p1052-e006",
+          "page": 1052,
+          "source": "Culture-negative endocarditis — match — 1) Culture report negative 2) True culture negative … A) Rare condition, no prior antibiotics, treated with vancomycin plus gentamicin for 4-6 weeks B) Common condition, prior antibiotics, sterile cultures, treated with ceftriaxone plus gentamicin ['Culture report negative : m/c condition, H/o treatment medication (antibiotics), Culture sterile, Ceftriaxone + Gentamicin'; 'Culture negative : Rare]",
+          "questionIds": [
+            "MED-C72-066"
+          ]
+        },
+        {
+          "element": "p1052-e007",
+          "page": 1052,
+          "source": "Which regimen is printed for true culture-negative endocarditis? ['Culture negative … Vancomycin + Gentamicin × 4-6 wks'. (Book p1052)]",
+          "questionIds": [
+            "MED-C72-067"
+          ]
+        },
+        {
+          "element": "p1052-e008",
+          "page": 1052,
+          "source": "Indications for surgery — match — 1) Native valve 2) Prosthetic valve … A) Dehiscence, increasing obstruction/regurgitation, heart failure B) Acute valvular regurgitation, fungal endocarditis, perivalvular aortic abscess ['Native valve : · Acute valvular regurgitation, · Fungal endocarditis, · Perivalvular aortic abscess'; 'Prosthetic valve : · Dehiscence, · Increasing ]",
+          "questionIds": [
+            "MED-C72-068"
+          ]
+        },
+        {
+          "element": "p1052-e009",
+          "page": 1052,
+          "source": "Which infection is listed as a native-valve indication for surgery? ['Native valve : … · Fungal endocarditis'. (Book p1052)]",
+          "questionIds": [
+            "MED-C72-069"
+          ]
+        },
+        {
+          "element": "p1052-e010",
+          "page": 1052,
+          "source": "Prophylaxis — who gets it? — match — 1) Valves 2) Congenital disease 3) Other … A) Unrepaired CHD, repaired CHD within 6 months B) Prosthetic valve, previous episode of IE C) Post cardiac transplant ['Indications : · People with prosthetic valve, · Previous episode of IE, · Post cardiac transplant, · Unrepaired CHD, Repaired CHD (within 6 months)'.]",
+          "questionIds": [
+            "MED-C72-070"
+          ]
+        },
+        {
+          "element": "p1052-e011",
+          "page": 1052,
+          "source": "For how long after repair is CHD still an indication for prophylaxis? ['Repaired CHD (within 6 months)'. (Book p1052)]",
+          "questionIds": [
+            "MED-C72-071"
+          ]
+        },
+        {
+          "element": "p1052-e012",
+          "page": 1052,
+          "source": "Procedures needing prophylaxis — match — 1) Dental 2) Respiratory tract … A) Dental procedure B) Adenoidectomy, tonsillectomy, incision and drainage of respiratory mucosa ['Pre-procedural prophylaxis : Dental procedure; Invasive procedures of respiratory tract : Adenoidectomy, Tonsillectomy, Incision/drainage of respirat]",
+          "questionIds": [
+            "MED-C72-072"
+          ]
+        },
+        {
+          "element": "p1052-e013",
+          "page": 1052,
+          "source": "Fill up (Regimen): 'Amoxicillin ______ orally, given ______ before the procedure.' ['· Amoxicillin 2g oral : 30-60 min before procedure'. (Book p1052)]",
+          "questionIds": [
+            "MED-C72-073"
+          ]
+        },
+        {
+          "element": "p1052-e014",
+          "page": 1052,
+          "source": "Penicillin-allergy and parenteral options — match — 1) Oral allergy options 2) Unable to take orally 3) Allergy and unable to take orally … A) Ampicillin 2 g IV or ceftriaxone 1 g IV/IM B) Clindamycin 600 mg IV C) Azithromycin 500 mg, cephalexin 2 g or clindamycin 600 mg ['In penicillin allergy : Azithromycin 500 mg, Cephalexin 2g, Clindamycin 600 mg'; 'unable to take orally : Ampicillin 2g IV / ceftriaxone 1g IV or IM']",
+          "questionIds": [
+            "MED-C72-074"
+          ]
+        },
+        {
+          "element": "p1052-e015",
+          "page": 1052,
+          "source": "Dose of clindamycin printed for prophylaxis in penicillin allergy? ['Clindamycin 600 mg' (oral) and 'Clindamycin 600 mg IV'. (Book p1052)]",
+          "questionIds": [
+            "MED-C72-075"
+          ]
+        },
+        {
+          "element": "p1052-e016",
+          "page": 1052,
+          "source": "A patient with a prosthetic valve and penicillin allergy cannot swallow tablets before a dental extraction. Which printed regimen applies? [Penicillin allergy plus inability to take orally: 'In penicillin allergy : Clindamycin 600 mg IV'. (Book p1052)]",
+          "questionIds": [
+            "MED-C72-076"
+          ]
+        }
+      ]
+    }
+  ]
+}

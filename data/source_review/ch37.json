@@ -1,0 +1,557 @@
+{
+  "chapter": 37,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+  "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+  "pdfOffset": 823,
+  "pageRange": "887-891",
+  "contentSha256": "0c239953367ce4a9bc74e192d04747d790311c1e8c6d13b56d02ab027409fbe3",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch37 p887-891: auto-generated source checklist from existing 62 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 887,
+      "pdfPage": 64,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p887 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p887.",
+      "elements": [
+        {
+          "element": "p887-e001",
+          "page": 887,
+          "source": "The normal serum phosphorus range used in this chapter is ___ mg/dL. [The page gives 2.5–4.5 mg/dL; values above 4.5 are classified as hyperphosphatemia. (Book p887)]",
+          "questionIds": [
+            "MED-C37-001"
+          ]
+        },
+        {
+          "element": "p887-e002",
+          "page": 887,
+          "source": "A stable patient has phosphate 1.8 mg/dL without symptoms. How does the opening severity diagram classify this value? [The 1–2.5 mg/dL branch is described as asymptomatic without routine treatment in this simplified diagram. Later pages discuss oral replacement; decisi]",
+          "questionIds": [
+            "MED-C37-002"
+          ]
+        },
+        {
+          "element": "p887-e003",
+          "page": 887,
+          "source": "Which phosphate level crosses the chapter's severe-depletion threshold rather than merely its low-reference threshold? [The severe phosphorus-depletion branch is <1 mg/dL. (Book p887)]",
+          "questionIds": [
+            "MED-C37-003"
+          ]
+        },
+        {
+          "element": "p887-e004",
+          "page": 887,
+          "source": "Assess: I Most body phosphorus is in the inorganic extracellular pool. II Routine serum phosphorus predominantly measures inorganic extracellular phosphate. [The forms tree separates the larger organic intracellular pool from inorganic HPO4 in extracellular blood, the pool measured in serum assays. (Book p8]",
+          "questionIds": [
+            "MED-C37-004"
+          ]
+        },
+        {
+          "element": "p887-e005",
+          "page": 887,
+          "source": "Match the following phosphorus compartments — 1) Bone 2) Soft tissue 3) Extracellular fluid … A) 85% B) 14% C) 1% [The phosphorus column allocates 85% to bone, 14% to soft tissue and 1% to ECF. (Book p887)]",
+          "questionIds": [
+            "MED-C37-005"
+          ]
+        },
+        {
+          "element": "p887-e006",
+          "page": 887,
+          "source": "Total body stores in the comparison table are about ___ calcium versus ___ phosphorus. [The table contrasts approximately 1200 g of calcium with 500–800 g of phosphorus. (Book p887)]",
+          "questionIds": [
+            "MED-C37-006"
+          ]
+        },
+        {
+          "element": "p887-e007",
+          "page": 887,
+          "source": "Match the following calcium compartments — 1) Bone 2) Soft tissue 3) ECF … A) 99.3% B) 0.6% C) 0.1% [The calcium distribution is 99.3% bone, 0.6% soft tissue and 0.1% extracellular, distinct from the phosphate distribution. (Book p887)]",
+          "questionIds": [
+            "MED-C37-007"
+          ]
+        },
+        {
+          "element": "p887-e008",
+          "page": 887,
+          "source": "Albumin falls in a patient whose calcium and phosphate are both measured. Which correction approach follows the comparison table? [The table gives 40% albumin binding for calcium versus 10% for phosphorus and states there is no role for corrected phosphorus. (Book p887)]",
+          "questionIds": [
+            "MED-C37-008"
+          ]
+        },
+        {
+          "element": "p887-e009",
+          "page": 887,
+          "source": "Albumin-bound fractions are approximately ___ for calcium and ___ for phosphorus. [These fractions explain why albumin correction is discussed for calcium but not routinely for phosphate. (Book p887)]",
+          "questionIds": [
+            "MED-C37-009"
+          ]
+        },
+        {
+          "element": "p887-e010",
+          "page": 887,
+          "source": "Match the following — 1) Main calcium/phosphate absorption site in the source 2) Magnesium absorption site 3) Calcium absorption protein … A) Jejunum B) Ileum C) Calbindin [The page groups calcium and phosphate with jejunal absorption, names the ileum for magnesium and includes calbindin in calcium handling. (Book p887)]",
+          "questionIds": [
+            "MED-C37-010"
+          ]
+        },
+        {
+          "element": "p887-e011",
+          "page": 887,
+          "source": "The net intestinal absorption fractions in the comparison are calcium ___ and phosphorus ___. [The table shows 20% net calcium absorption and 60% net phosphorus absorption. (Book p887)]",
+          "questionIds": [
+            "MED-C37-011"
+          ]
+        },
+        {
+          "element": "p887-e012",
+          "page": 887,
+          "source": "Evaluate: I The source splits phosphate absorption into 80% active and 20% passive. II It splits calcium absorption into 95% active and 5% passive. [These are the chapter's contrasting active/passive fractions; the active phosphate arm is labeled vitamin-D dependent. (Book p887)]",
+          "questionIds": [
+            "MED-C37-012"
+          ]
+        },
+        {
+          "element": "p887-e013",
+          "page": 887,
+          "source": "A student says the page's shared absorption sketch proves that calbindin transports phosphate directly. Which correction is most appropriate? [The schematic groups vitamin D and the two minerals, but calbindin should not be misidentified as the sodium–phosphate transporter. It is a calcium-bi]",
+          "questionIds": [
+            "MED-C37-013"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 888,
+      "pdfPage": 65,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p888 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p888.",
+      "elements": [
+        {
+          "element": "p888-e001",
+          "page": 888,
+          "source": "Proximal phosphate reclamation uses the ___ cotransporters and is powered by ___. [The page names sodium–phosphate cotransporters IIa and IIc in the PCT and labels transport secondary active. (Book p888)]",
+          "questionIds": [
+            "MED-C37-014"
+          ]
+        },
+        {
+          "element": "p888-e002",
+          "page": 888,
+          "source": "Which model best describes proximal tubular phosphate handling? [The PCT is the major regulated site, but the printed 99% should not be taught as an invariant filtered-load reabsorption fraction. Hormones and intake]",
+          "questionIds": [
+            "MED-C37-015"
+          ]
+        },
+        {
+          "element": "p888-e003",
+          "page": 888,
+          "source": "A child with glucosuria despite normal glucose, proximal bicarbonate wasting and severe rickets has which phosphate mechanism? [Fanconi syndrome involves generalized PCT dysfunction, phosphate depletion and severe mineralization defects. Isolated type II RTA need not imply the ]",
+          "questionIds": [
+            "MED-C37-016"
+          ]
+        },
+        {
+          "element": "p888-e004",
+          "page": 888,
+          "source": "An early-CKD patient still has a normal serum phosphate despite declining filtration. Which compensation explains this? [FGF23 reduces NaPi transport, increases phosphaturia and can maintain normal serum phosphate early in CKD. (Book p888)]",
+          "questionIds": [
+            "MED-C37-017"
+          ]
+        },
+        {
+          "element": "p888-e005",
+          "page": 888,
+          "source": "FGF23 inhibits renal ___, reducing calcitriol-mediated calcium absorption and contributing to secondary HPT. [The diagram connects FGF23 inhibition of 1α-hydroxylase to lower calcium absorption and secondary hyperparathyroidism. (Book p888)]",
+          "questionIds": [
+            "MED-C37-018"
+          ]
+        },
+        {
+          "element": "p888-e006",
+          "page": 888,
+          "source": "Assess: I High phosphate in advanced CKD proves FGF23 concentrations are low. II The source attributes reduced FGF23 effectiveness to impaired Klotho signaling. [The source calls this 'FGF23 inactivated' due to Klotho resistance; this is impaired effectiveness, not evidence that circulating FGF23 concentrations]",
+          "questionIds": [
+            "MED-C37-019"
+          ]
+        },
+        {
+          "element": "p888-e007",
+          "page": 888,
+          "source": "Match the following vascular concepts — 1) CKD phosphate-associated calcification 2) Atherosclerotic calcification 3) Mineralizing vascular-cell phenotype … A) Medial B) Intimal C) Osteoblast-like [The source contrasts medial calcification in CKD with intimal calcification in atherosclerosis and depicts osteogenic transformation of vascular cells]",
+          "questionIds": [
+            "MED-C37-020"
+          ]
+        },
+        {
+          "element": "p888-e008",
+          "page": 888,
+          "source": "An advanced-CKD diagram ends with 'unfit for renal transplant' after medial calcification. How should this endpoint be interpreted clinically? [Severe vascular calcification can complicate transplant suitability, but the diagram's categorical endpoint is not a universal eligibility rule. (Book]",
+          "questionIds": [
+            "MED-C37-021"
+          ]
+        },
+        {
+          "element": "p888-e009",
+          "page": 888,
+          "source": "Match the following net mineral effects — 1) PTH 2) Vitamin D 3) FGF23 … A) Raises Ca, lowers phosphate B) Promotes phosphate excretion C) Raises Ca and phosphate [PTH raises calcium while promoting phosphaturia; vitamin D raises absorption of both; FGF23 promotes phosphate excretion. (Book p888)]",
+          "questionIds": [
+            "MED-C37-022"
+          ]
+        },
+        {
+          "element": "p888-e010",
+          "page": 888,
+          "source": "Evaluate the feedback notes: I PTH promotes vitamin D activation, and vitamin D stimulates FGF23. II FGF23 normally inhibits PTH and active-vitamin-D production. [The notes depict PTH → vitamin D → FGF23 stimulation, with FGF23 negative feedback on PTH and vitamin D; resistance can modify this in CKD. (Book p888]",
+          "questionIds": [
+            "MED-C37-023"
+          ]
+        },
+        {
+          "element": "p888-e011",
+          "page": 888,
+          "source": "The two bone-cell products named at the bottom of the page are ___ and ___. [The source groups FGF23 and sclerostin under osteoblast secretion. More precisely, osteocytes are important sources, particularly for sclerostin. (Boo]",
+          "questionIds": [
+            "MED-C37-024"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 889,
+      "pdfPage": 66,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p889 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p889.",
+      "elements": [
+        {
+          "element": "p889-e001",
+          "page": 889,
+          "source": "A patient with renal failure develops a high phosphate and tingling with carpopedal spasm. Which link explains the neuromuscular features? [Hyperphosphatemia may present with hypocalcemic symptoms and vascular medial calcification because phosphate complexes calcium. (Book p889)]",
+          "questionIds": [
+            "MED-C37-025"
+          ]
+        },
+        {
+          "element": "p889-e002",
+          "page": 889,
+          "source": "Match the following hyperphosphatemia mechanisms — 1) Phosphate enema 2) CKD 3) Tumor lysis … A) Excess intake B) Reduced excretion C) Intracellular release [The page's first three cause groups are increased intake, reduced renal excretion and redistribution from cells to blood. (Book p889)]",
+          "questionIds": [
+            "MED-C37-026"
+          ]
+        },
+        {
+          "element": "p889-e003",
+          "page": 889,
+          "source": "The common intake-related trigger singled out for hyperphosphatemia is a phosphate-containing ___. [Phosphate-containing enemas can deliver an important phosphate load, especially when renal clearance is impaired. (Book p889)]",
+          "questionIds": [
+            "MED-C37-027"
+          ]
+        },
+        {
+          "element": "p889-e004",
+          "page": 889,
+          "source": "After chemotherapy, potassium and phosphate rise while calcium falls. Which process most directly explains the phosphate change? [Tumor lysis releases intracellular potassium, phosphate and magnesium; released phosphate complexes calcium. (Book p889)]",
+          "questionIds": [
+            "MED-C37-028"
+          ]
+        },
+        {
+          "element": "p889-e005",
+          "page": 889,
+          "source": "Which is the odd one out for the cell-to-blood phosphate redistribution group? [Insulin shifts phosphate into cells and can lower serum phosphate. The other options appear in the high-phosphate redistribution group. (Book p889)]",
+          "questionIds": [
+            "MED-C37-029"
+          ]
+        },
+        {
+          "element": "p889-e006",
+          "page": 889,
+          "source": "Assess: I Both respiratory and metabolic alkalosis are listed as cell-to-blood phosphate-release causes. II Elevated phosphate necessarily reflects dietary excess. [The listed acid-base causes are respiratory or metabolic acidosis, not alkalosis. Renal retention and cellular release also raise phosphate without di]",
+          "questionIds": [
+            "MED-C37-030"
+          ]
+        },
+        {
+          "element": "p889-e007",
+          "page": 889,
+          "source": "Match the following phosphate-raising settings — 1) Lymphoma 2) Renal failure 3) Massive muscle injury … A) Cellular release B) Increased calcitriol pathway C) Reduced clearance [The cause tree places lymphoma with 1α-hydroxylase-associated conditions, renal failure under impaired excretion and rhabdomyolysis under redistributi]",
+          "questionIds": [
+            "MED-C37-031"
+          ]
+        },
+        {
+          "element": "p889-e008",
+          "page": 889,
+          "source": "Which condition is not in the chapter's 1α-hydroxylase-associated hyperphosphatemia group? [The source groups acromegaly, lymphoma, sarcoid cells and granulomas with increased calcitriol-related phosphate absorption. Fanconi syndrome instead ]",
+          "questionIds": [
+            "MED-C37-032"
+          ]
+        },
+        {
+          "element": "p889-e009",
+          "page": 889,
+          "source": "A young patient has slowly growing periarticular calcific soft-tissue masses and high phosphate. A recessive FGF23 loss-of-function defect is found. Which diagnosis fits? [Loss of FGF23 action impairs phosphate excretion, promoting calcium–phosphate masses in familial tumoral calcinosis. (Book p889)]",
+          "questionIds": [
+            "MED-C37-033"
+          ]
+        },
+        {
+          "element": "p889-e010",
+          "page": 889,
+          "source": "The inheritance and FGF23 functional change specified for familial tumoral calcinosis are ___ and ___. [The source specifies an autosomal-recessive missense loss-of-function FGF23 variant for this form of tumoral calcinosis. (Book p889)]",
+          "questionIds": [
+            "MED-C37-034"
+          ]
+        },
+        {
+          "element": "p889-e011",
+          "page": 889,
+          "source": "Evaluate: I The page names the knee as the common periarticular site of tumoral calcinosis. II The hand radiograph is an example of soft-tissue calcification rather than proof that the hand is the commonest site. [The text emphasizes the knee and slow-growing tumor-like soft-tissue masses; the illustration shows calcification in a hand. (Book p889)]",
+          "questionIds": [
+            "MED-C37-035"
+          ]
+        },
+        {
+          "element": "p889-e012",
+          "page": 889,
+          "source": "A hyperphosphatemic patient already has high serum calcium. Which listed binder avoids adding a calcium load? [The page favors non-calcium phosphate binders, including sevelamer, ferric citrate and sucroferric oxyhydroxide, because calcium-containing binders ma]",
+          "questionIds": [
+            "MED-C37-036"
+          ]
+        },
+        {
+          "element": "p889-e013",
+          "page": 889,
+          "source": "Which is the odd one out among the non-calcium phosphate binders listed? [Calcium acetate supplies calcium; the three listed non-calcium alternatives do not. (Book p889)]",
+          "questionIds": [
+            "MED-C37-037"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 890,
+      "pdfPage": 67,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p890 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p890.",
+      "elements": [
+        {
+          "element": "p890-e001",
+          "page": 890,
+          "source": "A dialysis-dependent patient has severe persistent hyperphosphatemia despite dietary restriction and binders. Which removal method does the page call the best? [Dialysis is listed as the best removal method in this context, alongside intake restriction and attention to associated hypocalcemia. (Book p890)]",
+          "questionIds": [
+            "MED-C37-038"
+          ]
+        },
+        {
+          "element": "p890-e002",
+          "page": 890,
+          "source": "Which proposed diet change conflicts with the chapter's hyperphosphatemia advice? [The restriction list includes dairy products, pickles, nuts, chocolate and dates; increasing dairy and nuts goes against it. (Book p890)]",
+          "questionIds": [
+            "MED-C37-039"
+          ]
+        },
+        {
+          "element": "p890-e003",
+          "page": 890,
+          "source": "Assess: I Management includes attention to associated hypocalcemia. II Every asymptomatic low calcium during phosphate excess requires aggressive calcium loading. [The page says to treat associated hypocalcemia, but aggressive calcium loading can increase calcium–phosphate precipitation; severity and symptoms gui]",
+          "questionIds": [
+            "MED-C37-040"
+          ]
+        },
+        {
+          "element": "p890-e004",
+          "page": 890,
+          "source": "The clinical-feature list for severe hypophosphatemia is introduced at serum phosphate below ___ mg/dL. [The page associates clinically significant depletion with phosphate <1 mg/dL. (Book p890)]",
+          "questionIds": [
+            "MED-C37-041"
+          ]
+        },
+        {
+          "element": "p890-e005",
+          "page": 890,
+          "source": "Match the following depletion effects — 1) RBC 2) Cardiac muscle 3) Proximal skeletal muscle … A) Hemolysis B) Myopathy C) Cardiomyopathy [The feature list includes RBC hemolysis, cardiomyopathy and proximal myopathy, as well as growth retardation and rhabdomyolysis. (Book p890)]",
+          "questionIds": [
+            "MED-C37-042"
+          ]
+        },
+        {
+          "element": "p890-e006",
+          "page": 890,
+          "source": "Which is the odd one out among the listed severe phosphate-depletion consequences? [Calcific masses belong to phosphate excess/tumoral calcinosis, unlike the depletion features listed here. (Book p890)]",
+          "questionIds": [
+            "MED-C37-043"
+          ]
+        },
+        {
+          "element": "p890-e007",
+          "page": 890,
+          "source": "A malnourished patient with phosphate 0.6 mg/dL develops rhabdomyolysis; phosphate then rises as muscle breaks down. Which explanation reconciles this sequence? [The note explicitly distinguishes low phosphate as a risk factor from high phosphate resulting from muscle-cell release after rhabdomyolysis. (Book p8]",
+          "questionIds": [
+            "MED-C37-044"
+          ]
+        },
+        {
+          "element": "p890-e008",
+          "page": 890,
+          "source": "Evaluate the source's vitamin-D note: I Severe deficiency can lower phosphate. II Every mild vitamin-D deficiency must produce severe phosphate depletion. [The note emphasizes severe vitamin-D deficiency and severe hypocalcemia, rather than claiming that all lesser deficiencies cause profound hypophosphat]",
+          "questionIds": [
+            "MED-C37-045"
+          ]
+        },
+        {
+          "element": "p890-e009",
+          "page": 890,
+          "source": "During treatment of DKA, phosphate falls after insulin begins. Which mechanism best fits? [Insulin after DKA is listed among blood-to-cell redistribution causes; this differs from cellular destruction. (Book p890)]",
+          "questionIds": [
+            "MED-C37-046"
+          ]
+        },
+        {
+          "element": "p890-e010",
+          "page": 890,
+          "source": "The most characteristic metabolic abnormality named for refeeding syndrome is ___. [The page identifies low phosphate as the most common metabolic abnormality of refeeding. (Book p890)]",
+          "questionIds": [
+            "MED-C37-047"
+          ]
+        },
+        {
+          "element": "p890-e011",
+          "page": 890,
+          "source": "Match the following low-phosphate mechanisms — 1) Nutritional rickets 2) Refeeding 3) Hungry bone syndrome … A) Insulin-associated intracellular shift B) Increased skeletal mineral uptake C) Reduced nutrient/vitamin-D supply [The source separates reduced intake from redistribution; hungry bone directs minerals into bone, while refeeding drives cellular uptake. (Book p890)]",
+          "questionIds": [
+            "MED-C37-048"
+          ]
+        },
+        {
+          "element": "p890-e012",
+          "page": 890,
+          "source": "Which does not belong in the page's hypophosphatemic redistribution list? [Sepsis, heat stroke and hyperthermia are listed with redistribution causes; FGF23 loss impairs phosphate excretion and favors hyperphosphatemia. (Book]",
+          "questionIds": [
+            "MED-C37-049"
+          ]
+        },
+        {
+          "element": "p890-e013",
+          "page": 890,
+          "source": "In the sepsis note, evaluate: I The phosphate fall is emphasized more than the calcium fall. II The shorthand excludes coexisting hypophosphatemia. [The shorthand is '↓Ca > ↓P': a relative emphasis, not exclusion of hypophosphatemia. (Book p890)]",
+          "questionIds": [
+            "MED-C37-050"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 891,
+      "pdfPage": 68,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p891 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p891.",
+      "elements": [
+        {
+          "element": "p891-e001",
+          "page": 891,
+          "source": "Match the following hypophosphatemic-rickets inheritance patterns — 1) X-linked 2) Autosomal recessive 3) Autosomal dominant … A) DMP1 B) PHEX C) FGF23 [The source lists PHEX for the common X-linked form, DMP (DMP1) for a recessive form and FGF23 for the dominant form. (Book p891)]",
+          "questionIds": [
+            "MED-C37-051"
+          ]
+        },
+        {
+          "element": "p891-e002",
+          "page": 891,
+          "source": "A family has phosphate-wasting rickets with an X-linked pattern. Which gene is the best match to the chapter's commonest inherited form? [PHEX-related disease is the most common inherited hypophosphatemic rickets form named in the table. (Book p891)]",
+          "questionIds": [
+            "MED-C37-052"
+          ]
+        },
+        {
+          "element": "p891-e003",
+          "page": 891,
+          "source": "An FGF23 variant resists proteolytic cleavage. Which combination of intact FGF23 action and serum phosphate is expected? [The later laboratory note correctly links phosphate wasting to increased FGF23 activity. The table's downward arrow should be treated as an error, and]",
+          "questionIds": [
+            "MED-C37-053"
+          ]
+        },
+        {
+          "element": "p891-e004",
+          "page": 891,
+          "source": "Match the following typical rickets laboratory findings — 1) Serum phosphate 2) ALP 3) Calcium and PTH … A) Raised B) Usually normal C) Low [The page lists low phosphate, increased ALP and normal calcium/PTH in inherited hypophosphatemic rickets. (Book p891)]",
+          "questionIds": [
+            "MED-C37-054"
+          ]
+        },
+        {
+          "element": "p891-e005",
+          "page": 891,
+          "source": "A child has lower-limb deformity, low phosphate, high ALP and normal calcium and PTH. Which disorder best fits? [Lower-limb-predominant rickets with isolated phosphate wasting matches the source phenotype, rather than a primary calcium/PTH disorder. (Book p891)]",
+          "questionIds": [
+            "MED-C37-055"
+          ]
+        },
+        {
+          "element": "p891-e006",
+          "page": 891,
+          "source": "Which is the odd one out among causes of renal phosphate wasting on this page? [The renal causes include proximal tubular dysfunction/type II RTA, inherited rickets and tubular injury; loss of FGF23 action promotes phosphate reten]",
+          "questionIds": [
+            "MED-C37-056"
+          ]
+        },
+        {
+          "element": "p891-e007",
+          "page": 891,
+          "source": "An adult develops bone pain, weakness and phosphate wasting from a mesenchymal tumor. What is the best mechanistic explanation? [Tumor-induced osteomalacia is typically due to FGF23 secretion by a mesenchymal tumor. The source's 'gain-of-function mutation' shorthand should not i]",
+          "questionIds": [
+            "MED-C37-057"
+          ]
+        },
+        {
+          "element": "p891-e008",
+          "page": 891,
+          "source": "The source's daily phosphorus requirement entry is ___, while each listed Adphos tablet is ___. [The page prints a 2 g daily requirement and 250 mg Adphos tablets; the requirement is a source-specific teaching value, not a universal dietary recomm]",
+          "questionIds": [
+            "MED-C37-058"
+          ]
+        },
+        {
+          "element": "p891-e009",
+          "page": 891,
+          "source": "Using the page's low-fat-milk phosphate concentration of 0.9 mg/mL, 250 mL provides approximately ___ mg. [0.9 × 250 = 225 mg. Low-fat milk is listed as an oral source for mild depletion. (Book p891)]",
+          "questionIds": [
+            "MED-C37-059"
+          ]
+        },
+        {
+          "element": "p891-e010",
+          "page": 891,
+          "source": "Match the following replacement entries — 1) Mild depletion 2) Severe depletion 3) Dietary source … A) IV phosphorus B) Oral phosphate tablets C) Low-fat milk [The chapter separates oral replacement for mild disease from IV replacement for severe disease and also lists low-fat milk. (Book p891)]",
+          "questionIds": [
+            "MED-C37-060"
+          ]
+        },
+        {
+          "element": "p891-e011",
+          "page": 891,
+          "source": "Which IV phosphorus regimen is printed for severe hypophosphatemia? [The source gives 10 mg/kg over 12 hours. Actual IV phosphate prescribing requires a validated preparation-specific protocol, renal assessment and calc]",
+          "questionIds": [
+            "MED-C37-061"
+          ]
+        },
+        {
+          "element": "p891-e012",
+          "page": 891,
+          "source": "Compare the mild-phosphate entries: I The opening diagram labels asymptomatic 1–2.5 mg/dL as not needing treatment. II The final page discusses oral replacement for mild disease. [Both statements occur in the source. They should not be collapsed into a universal treat-all or treat-none rule. (Book p891)]",
+          "questionIds": [
+            "MED-C37-062"
+          ]
+        }
+      ]
+    }
+  ]
+}

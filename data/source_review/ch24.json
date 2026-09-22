@@ -1,0 +1,354 @@
+{
+  "chapter": 24,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+  "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+  "pdfOffset": 823,
+  "pageRange": "824-825",
+  "contentSha256": "686650b374d4bb34ab7d00ff3a94e3342b3533b74514f89ffddad7be99066b8f",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch24 p824-825: auto-generated source checklist from existing 40 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 824,
+      "pdfPage": 1,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p824 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p824.",
+      "elements": [
+        {
+          "element": "p824-e001",
+          "page": 824,
+          "source": "The Henderson–Hasselbalch equation is printed in which form for the bicarbonate pair? [pH = pKa + log [HCO₃⁻](A⁻)/[H₂CO₃](HA) = pKa + log [HCO₃⁻]/PaCO₂, since H₂CO₃ is in equilibrium with dissolved CO₂. (Book p824)]",
+          "questionIds": [
+            "MED-C24-001"
+          ]
+        },
+        {
+          "element": "p824-e002",
+          "page": 824,
+          "source": "Fill up (Henderson–Hasselbalch rearrangement): [H⁺] = 24 × ______. [[H⁺] = 24 × PaCO₂/HCO₃⁻ — the relation used throughout ABG interpretation. (Book p824)]",
+          "questionIds": [
+            "MED-C24-002"
+          ]
+        },
+        {
+          "element": "p824-e003",
+          "page": 824,
+          "source": "Match the acid–base change to its respiratory consequence — 1) ↑HCO₃⁻/metabolic alkalosis  2) Respiratory response  3) Purpose of the change … A) To maintain H⁺ constant  B) Leads to ↑PaCO₂  C) Hypoventilation [↑HCO₃⁻/metabolic alkalosis leads to ↑PaCO₂ (labelled respiratory alkalosis on p824) to maintain H⁺ constant. (Book p824)]",
+          "questionIds": [
+            "MED-C24-003"
+          ]
+        },
+        {
+          "element": "p824-e004",
+          "page": 824,
+          "source": "‘Page 824 labels the ↑PaCO₂ response of metabolic alkalosis “respiratory alkalosis”, whereas the compensation table on p828 calls the same change “respiratory acidosis”.’ [p824 prints ‘↑PaCO₂/respiratory alkalosis (to maintain H⁺ constant)’ while the p828 compensation table pairs metabolic alkalosis with a respiratory ac]",
+          "questionIds": [
+            "MED-C24-004"
+          ]
+        },
+        {
+          "element": "p824-e005",
+          "page": 824,
+          "source": "A patient with persistent vomiting has a high bicarbonate. Which renal behaviour explains why the alkalosis persists? [Excess HCO₃⁻ handled by the kidney gives two outcomes: excreted with Cl⁻ conserved → no metabolic alkalosis; failure to excrete → metabolic alkalosis.]",
+          "questionIds": [
+            "MED-C24-005"
+          ]
+        },
+        {
+          "element": "p824-e006",
+          "page": 824,
+          "source": "Match the renal handling of excess HCO₃⁻ — 1) HCO₃⁻ excreted  2) HCO₃⁻ not excreted  3) Organ deciding the outcome … A) Metabolic alkalosis  B) No metabolic alkalosis  C) Kidney [If excess HCO₃⁻ is excreted and Cl⁻ conserved there is no metabolic alkalosis; failure to excrete produces metabolic alkalosis. (Book p824)]",
+          "questionIds": [
+            "MED-C24-006"
+          ]
+        },
+        {
+          "element": "p824-e007",
+          "page": 824,
+          "source": "All but one of the following are printed in the excess-HCO₃⁻ flowchart. Which is the odd one out? [The flowchart routes excess HCO₃⁻ through the kidney: excretion with Cl⁻ conservation → no alkalosis; failure to excrete → metabolic alkalosis. (Book ]",
+          "questionIds": [
+            "MED-C24-007"
+          ]
+        },
+        {
+          "element": "p824-e008",
+          "page": 824,
+          "source": "ECF volume expansion causes metabolic alkalosis that is: [ECF volume expansion = saline unresponsive metabolic alkalosis with a normal urine Cl⁻ (> 40 mEq/L). (Book p824)]",
+          "questionIds": [
+            "MED-C24-008"
+          ]
+        },
+        {
+          "element": "p824-e009",
+          "page": 824,
+          "source": "Match the renin–aldosterone pattern to the major cause — 1) ↓Renin, ↑Aldosterone  2) ↑Renin, ↑Aldosterone  3) ↓Renin, ↓Aldosterone … A) Liddle syndrome — gain-of-function ENaC mutation  B) Primary hyperaldosteronism  C) Renal artery stenosis [Major causes by pattern: ↓renin with ↑aldosterone = primary hyperaldosteronism (Conn's syndrome); ↑renin with ↑aldosterone = RAS and renin-secreting t]",
+          "questionIds": [
+            "MED-C24-009"
+          ]
+        },
+        {
+          "element": "p824-e010",
+          "page": 824,
+          "source": "Liddle syndrome is described as: [Liddle syndrome = gain of function mutation of ENaC, giving ↓renin and ↓aldosterone with alkalosis. (Book p824)]",
+          "questionIds": [
+            "MED-C24-010"
+          ]
+        },
+        {
+          "element": "p824-e011",
+          "page": 824,
+          "source": "A hypertensive patient has metabolic alkalosis, suppressed renin, high aldosterone and a normal urine chloride. Which printed cause fits? [The ↓renin/↑aldosterone box is labelled primary hyperaldosteronism (Conn's syndrome), a saline-unresponsive cause. (Book p824)]",
+          "questionIds": [
+            "MED-C24-011"
+          ]
+        },
+        {
+          "element": "p824-e012",
+          "page": 824,
+          "source": "‘Renal artery stenosis produces metabolic alkalosis with high renin and high aldosterone.’ [The ↑renin/↑aldosterone column lists RAS and renin-secreting tumours among the major causes of saline-unresponsive alkalosis. (Book p824)]",
+          "questionIds": [
+            "MED-C24-012"
+          ]
+        },
+        {
+          "element": "p824-e013",
+          "page": 824,
+          "source": "All but one of these are printed as major causes of saline-unresponsive metabolic alkalosis. Which is the odd one out? [Vomiting/NG aspiration cell is a *saline-responsive* cause (ECF volume contraction); the ECF-volume-expansion major causes are Conn's syndrome, RAS/re]",
+          "questionIds": [
+            "MED-C24-013"
+          ]
+        },
+        {
+          "element": "p824-e014",
+          "page": 824,
+          "source": "Match the other causes of saline-unresponsive alkalosis to their immediate mechanism — 1) Cushing syndrome  2) Apparent mineralocorticoid excess  3) Glucocorticosteroid remediable aldosteronism … A) ACTH → aldosterone  B) Cortisol excess  C) Cortisol ✗→ cortisone block [Other causes: Cushing syndrome → cortisol excess; apparent mineralocorticoid excess → the cortisol-to-cortisone step is blocked; glucocorticosteroid r]",
+          "questionIds": [
+            "MED-C24-014"
+          ]
+        },
+        {
+          "element": "p824-e015",
+          "page": 824,
+          "source": "In all three ‘other causes’, the final common pathway printed is: [Cushing syndrome gives cortisol excess → mineralocorticoid excess; the AME block also gives mineralocorticoid excess; GRA acts through ACTH → aldoster]",
+          "questionIds": [
+            "MED-C24-015"
+          ]
+        },
+        {
+          "element": "p824-e016",
+          "page": 824,
+          "source": "In apparent mineralocorticoid excess, which enzymatic conversion is blocked? [The block shown is cortisol ✗→ cortisone, so cortisol accumulates and acts as a mineralocorticoid. (Book p824)]",
+          "questionIds": [
+            "MED-C24-016"
+          ]
+        },
+        {
+          "element": "p824-e017",
+          "page": 824,
+          "source": "A young patient has hypertension, hypokalemic alkalosis, low renin, low aldosterone and a normal urine chloride; spirolactone works but the family history shows an autosomal dominant trait driven by ACTH. Which cause is printed? [Glucocorticosteroid remediable aldosteronism acts through ACTH → aldosterone and sits in the ‘other causes’ group of saline-unresponsive alkalosis. (B]",
+          "questionIds": [
+            "MED-C24-017"
+          ]
+        },
+        {
+          "element": "p824-e018",
+          "page": 824,
+          "source": "‘In Cushing syndrome the alkalosis is driven by cortisol excess producing mineralocorticoid excess.’ [Cushing syndrome: cortisol excess → mineralocorticoid excess, one of the ‘other causes’ of saline-unresponsive metabolic alkalosis. (Book p824)]",
+          "questionIds": [
+            "MED-C24-018"
+          ]
+        },
+        {
+          "element": "p824-e019",
+          "page": 824,
+          "source": "All but one of these belong to the ‘other causes’ group of the alkalosis flowchart. Which is the odd one out? [Renin-secreting tumours sit in the ↑renin/↑aldosterone ‘major causes’ column; the ‘other causes’ group contains Cushing syndrome, AME and GRA. (Book p]",
+          "questionIds": [
+            "MED-C24-019"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 825,
+      "pdfPage": 2,
+      "pdf": "uploads/Medicine_Vol3_Part3_pages_824-893.pdf",
+      "pdfSha256": "b2314781e82245c201dbdc13db16627b65cbde66f82c4ea5bc24121713b585c5",
+      "traversal": "Read top-to-bottom: Book p825 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p825.",
+      "elements": [
+        {
+          "element": "p825-e001",
+          "page": 825,
+          "source": "The features triangle of metabolic alkalosis links alkalosis with which two other findings? [The triangle is drawn as Alkalosis at the apex with Hypokalemia and HTN at the base. (Book p825)]",
+          "questionIds": [
+            "MED-C24-020"
+          ]
+        },
+        {
+          "element": "p825-e002",
+          "page": 825,
+          "source": "A patient has an alkalosis together with hypokalemia and hypertension. Which group of causes does the triad point to? [Hypokalemia with hypertension completes the triangle of alkalosis–hypokalemia–HTN, the pattern of saline-unresponsive mineralocorticoid excess. (Book ]",
+          "questionIds": [
+            "MED-C24-021"
+          ]
+        },
+        {
+          "element": "p825-e003",
+          "page": 825,
+          "source": "Match the features of ECF volume contraction — 1) Secondary hyperreninemic hyperaldosteronism  2) ↓GFR  3) Overall label … A) Saline responsive alkalosis  B) Causes hypokalemia and alkalosis  C) ↓Urine Cl⁻ and ↓urine K⁺ [ECF volume contraction: secondary hyperreninemic hyperaldosteronism → hypokalemia and alkalosis; ↓GFR → ↓urine Cl⁻ and ↓urine K⁺; the whole picture is]",
+          "questionIds": [
+            "MED-C24-022"
+          ]
+        },
+        {
+          "element": "p825-e004",
+          "page": 825,
+          "source": "In ECF volume contraction, the fall in GFR is accompanied by which urinary changes? [↓GFR → ↓urine Cl⁻, ↓urine K⁺ in the ECF-volume-contraction pathway. (Book p825)]",
+          "questionIds": [
+            "MED-C24-023"
+          ]
+        },
+        {
+          "element": "p825-e005",
+          "page": 825,
+          "source": "Match the causes of ECF volume contraction — 1) GI  2) Renal drug  3) Renal tubulopathy (Bartter)  4) Renal tubulopathy (Gitelman) … A) Diuretics  B) Vomiting / NG aspiration  C) Mg²⁺/K⁺ depletion with salt wasting at the TAL  D) Distal convoluted tubule dysfunction [Causes of ECF volume contraction: GI — vomiting/NG aspiration; renal — diuretics, post hypercapnia, cystic fibrosis, Mg²⁺/K⁺ depletion, Bartter syndro]",
+          "questionIds": [
+            "MED-C24-024"
+          ]
+        },
+        {
+          "element": "p825-e006",
+          "page": 825,
+          "source": "Which of these is listed as a renal cause of ECF-volume-contraction alkalosis? [The renal column lists diuretics, post hypercapnia, cystic fibrosis, Mg²⁺/K⁺ depletion, Bartter syndrome and Gitelman syndrome. (Book p825)]",
+          "questionIds": [
+            "MED-C24-025"
+          ]
+        },
+        {
+          "element": "p825-e007",
+          "page": 825,
+          "source": "All but one of the following are printed causes of ECF-volume-contraction (saline-responsive) alkalosis. Which is the odd one out? [Conn's syndrome sits in the saline-*unresponsive* ECF volume expansion group; vomiting, NG aspiration, cystic fibrosis, diuretics, Bartter and Gitelma]",
+          "questionIds": [
+            "MED-C24-026"
+          ]
+        },
+        {
+          "element": "p825-e008",
+          "page": 825,
+          "source": "‘Alkalosis with hypokalemia but without hypertension favours the saline-responsive group of causes.’ [The triangle is alkalosis with hypokalemia *and* HTN; without hypertension the ECF-volume-contraction (saline-responsive) causes are more likely. (Boo]",
+          "questionIds": [
+            "MED-C24-027"
+          ]
+        },
+        {
+          "element": "p825-e009",
+          "page": 825,
+          "source": "In the urine chloride ladder, ‘low’ urine chloride is defined as: [Urine chloride < 25 mEq/L is the ‘low’ band; > 40 mEq/L is the ‘normal’ band of the ladder. (Book p825)]",
+          "questionIds": [
+            "MED-C24-028"
+          ]
+        },
+        {
+          "element": "p825-e010",
+          "page": 825,
+          "source": "Match the urine-chloride band to its meaning — 1) Low (< 25 mEq/L)  2) Normal (> 40 mEq/L)  3) High … A) ECF volume expansion  B) GI loss, post hypercapnia, cystic fibrosis, late diuretics  C) Renal loss — diuretics (early phase), Bartter, Gitelman [Low urine Cl⁻ (< 25 mEq/L): GI loss, post hypercapnia, cystic fibrosis and diuretics in the late phase. Normal (> 40 mEq/L): ECF volume expansion. Hig]",
+          "questionIds": [
+            "MED-C24-029"
+          ]
+        },
+        {
+          "element": "p825-e011",
+          "page": 825,
+          "source": "Which conditions appear in the LOW urine-chloride band of the ladder? [Low urine chloride: GI loss, post hypercapnia, cystic fibrosis and diuretics in the late phase. (Book p825)]",
+          "questionIds": [
+            "MED-C24-030"
+          ]
+        },
+        {
+          "element": "p825-e012",
+          "page": 825,
+          "source": "A patient is on diuretics and has an alkalosis. Why does the urine chloride differ between the early and late phase of diuretic use? [The ladder prints diuretics under the high urine chloride (early phase) renal-loss column but also under the low band as diuretics (late phase). (Book]",
+          "questionIds": [
+            "MED-C24-031"
+          ]
+        },
+        {
+          "element": "p825-e013",
+          "page": 825,
+          "source": "Which two tubulopathies are printed in the HIGH urine-chloride column of renal loss? [High urine chloride renal loss: diuretics (early phase), Bartter syndrome and Gitelman syndrome. (Book p825)]",
+          "questionIds": [
+            "MED-C24-032"
+          ]
+        },
+        {
+          "element": "p825-e014",
+          "page": 825,
+          "source": "‘In the urine chloride ladder, a normal urine chloride (> 40 mEq/L) points to ECF volume expansion.’ [Normal urine chloride: > 40 mEq/L — ECF volume expansion, i.e. the saline-unresponsive group. (Book p825)]",
+          "questionIds": [
+            "MED-C24-033"
+          ]
+        },
+        {
+          "element": "p825-e015",
+          "page": 825,
+          "source": "All but one of these are printed in the LOW urine chloride band. Which is the odd one out? [Bartter syndrome belongs to the high urine-chloride renal-loss column with Gitelman syndrome and early-phase diuretics. (Book p825)]",
+          "questionIds": [
+            "MED-C24-034"
+          ]
+        },
+        {
+          "element": "p825-e016",
+          "page": 825,
+          "source": "A patient with metabolic alkalosis has a urine chloride of 12 mEq/L. Which pair of explanations is printed for this band? [A urine chloride < 25 mEq/L sits in the low band: GI loss, post hypercapnia, cystic fibrosis and diuretics (late phase). (Book p825)]",
+          "questionIds": [
+            "MED-C24-035"
+          ]
+        },
+        {
+          "element": "p825-e017",
+          "page": 825,
+          "source": "Match the second branch of metabolic acidosis — 1) Acid generation  2) Alkali loss  3) Alkali loss — GI causes  4) Alkali loss — renal causes … A) NAGMA with positive urine anion gap  B) High anion gap  C) NAGMA with negative urine anion gap  D) VIPoma [Note flowchart: acid generation → high anion gap; alkali loss → GI causes (VIPoma) with a negative urine anion gap, versus renal causes (RTA) with a p]",
+          "questionIds": [
+            "MED-C24-036"
+          ]
+        },
+        {
+          "element": "p825-e018",
+          "page": 825,
+          "source": "In the note flowchart, metabolic acidosis from acid generation carries which anion gap? [Acid generation → high anion gap; alkali loss → NAGMA, further split into GI (−ve UAG) and renal (+ve UAG). (Book p825)]",
+          "questionIds": [
+            "MED-C24-037"
+          ]
+        },
+        {
+          "element": "p825-e019",
+          "page": 825,
+          "source": "A patient with a VIPoma has a normal anion gap acidosis. What is the expected urine anion gap, and why? [GI causes of NAGMA are marked (−ve) for the urine anion gap, with VIPoma as the printed example; renal causes (RTA) are (+ve). (Book p825)]",
+          "questionIds": [
+            "MED-C24-038"
+          ]
+        },
+        {
+          "element": "p825-e020",
+          "page": 825,
+          "source": "‘In the p825 note, both GI and renal causes of NAGMA are marked with a positive urine anion gap.’ [The note marks GI causes NAGMA (−ve) with VIPoma as the example, and renal causes NAGMA (+ve) with RTA as the example. (Book p825)]",
+          "questionIds": [
+            "MED-C24-039"
+          ]
+        },
+        {
+          "element": "p825-e021",
+          "page": 825,
+          "source": "All but one of these statements match the p825 note. Which is the odd one out? [RTA is the *positive* urine anion gap example under renal alkali loss; the negative marking belongs to the GI column, whose example is VIPoma. (Book p]",
+          "questionIds": [
+            "MED-C24-040"
+          ]
+        }
+      ]
+    }
+  ]
+}

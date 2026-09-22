@@ -1,0 +1,796 @@
+{
+  "chapter": 21,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+  "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+  "pdfOffset": 759,
+  "pageRange": "811-814",
+  "contentSha256": "7fa5d46bc8b18291f56bbcd6e01ca7ae2c30a9e296b94c89ab2dac6a26ea58d8",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch21 p811-814: auto-generated source checklist from existing 93 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 811,
+      "pdfPage": 52,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p811 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p811.",
+      "elements": [
+        {
+          "element": "p811-e001",
+          "page": 811,
+          "source": "CKD-mineral bone disease was previously named: [CKD - mineral bone disease: renal osteodystrophy (previously named). (Book p811)]",
+          "questionIds": [
+            "MED-C21-001"
+          ]
+        },
+        {
+          "element": "p811-e002",
+          "page": 811,
+          "source": "Renal osteodystrophy is the newer name for CKD-mineral bone disease. [Renal osteodystrophy (previously named). (Book p811)]",
+          "questionIds": [
+            "MED-C21-002"
+          ]
+        },
+        {
+          "element": "p811-e003",
+          "page": 811,
+          "source": "High bone turnover accounts for what share of CKD-MBD? [High bone turnover (30%); low bone turnover (10%). (Book p811)]",
+          "questionIds": [
+            "MED-C21-003"
+          ]
+        },
+        {
+          "element": "p811-e004",
+          "page": 811,
+          "source": "Low bone turnover accounts for what share of CKD-MBD? [Low bone turnover (10%). (Book p811)]",
+          "questionIds": [
+            "MED-C21-004"
+          ]
+        },
+        {
+          "element": "p811-e005",
+          "page": 811,
+          "source": "The high bone turnover entity named at the top of the page is: [High bone turnover: osteitis fibrosa cystica. (Book p811)]",
+          "questionIds": [
+            "MED-C21-005"
+          ]
+        },
+        {
+          "element": "p811-e006",
+          "page": 811,
+          "source": "In CKD, the fall in GFR creates a tendency to: [In CKD: GFR ↓↓ → tendency to ↑ P. (Book p811)]",
+          "questionIds": [
+            "MED-C21-006"
+          ]
+        },
+        {
+          "element": "p811-e007",
+          "page": 811,
+          "source": "When phosphorus rises, endothelial cells undergo: [Endothelial cells, when P ↑, convert to osteoblast. (Book p811)]",
+          "questionIds": [
+            "MED-C21-007"
+          ]
+        },
+        {
+          "element": "p811-e008",
+          "page": 811,
+          "source": "The osteoblast then traps calcium, producing: [Osteoblast traps Ca → irreversible medial vascular calcification. (Book p811)]",
+          "questionIds": [
+            "MED-C21-008"
+          ]
+        },
+        {
+          "element": "p811-e009",
+          "page": 811,
+          "source": "The medial vascular calcification produced by this osteoblast pathway is reversible. [… → irreversible medial vascular calcification. (Book p811)]",
+          "questionIds": [
+            "MED-C21-009"
+          ]
+        },
+        {
+          "element": "p811-e010",
+          "page": 811,
+          "source": "The in-response arm: osteocytes secrete which phosphaturic substance? [Osteocyte secretes FGF23 (phosphaturic substance). (Book p811)]",
+          "questionIds": [
+            "MED-C21-010"
+          ]
+        },
+        {
+          "element": "p811-e011",
+          "page": 811,
+          "source": "FGF23 acts via the klotho receptor to block: [FGF23 via klotho receptor blocks Na-P cotransporter (PCT) 2a ↑ ac → phosphate excretion. (Book p811)]",
+          "questionIds": [
+            "MED-C21-011"
+          ]
+        },
+        {
+          "element": "p811-e012",
+          "page": 811,
+          "source": "Match the following FGF23 action to its effect — 1) On the heart  2) On 1,2-hydroxylase  3) Net calcium … A) Inhibition  B) Left ventricular hypertrophy  C) Hypocalcemia [FGF23 actions: LVH; 1,2-hydroxylase inhibition → calcitriol deficient → hypocalcemia. (Book p811)]",
+          "questionIds": [
+            "MED-C21-012"
+          ]
+        },
+        {
+          "element": "p811-e013",
+          "page": 811,
+          "source": "The cascade from 1,2-hydroxylase inhibition runs: calcitriol deficient → hypocalcemia → stimulation of the: [Calcitriol deficient → hypocalcemia → (+) parathyroid gland → secondary hyperparathyroidism. (Book p811)]",
+          "questionIds": [
+            "MED-C21-013"
+          ]
+        },
+        {
+          "element": "p811-e014",
+          "page": 811,
+          "source": "Secondary hyperparathyroidism in this flowchart is accompanied by which pair? [Secondary hyperparathyroidism: hypocalcemia, hypophosphatemia. (Book p811)]",
+          "questionIds": [
+            "MED-C21-014"
+          ]
+        },
+        {
+          "element": "p811-e015",
+          "page": 811,
+          "source": "In grade 5 CKD, the flowchart notes: [In grade 5 CKD: klothoreceptor resistance. (Book p811)]",
+          "questionIds": [
+            "MED-C21-015"
+          ]
+        },
+        {
+          "element": "p811-e016",
+          "page": 811,
+          "source": "In high bone turnover CKD-MBD, bone resorption outruns bone formation. [↑ Bone formation << ↑ Bone resorption. (Book p811)]",
+          "questionIds": [
+            "MED-C21-016"
+          ]
+        },
+        {
+          "element": "p811-e017",
+          "page": 811,
+          "source": "The amorphous salt listed on the page is: [Amorphous Ca₃(PO₄)₂ → tendency of trivial trauma fracture (↓ bone mineralization). (Book p811)]",
+          "questionIds": [
+            "MED-C21-017"
+          ]
+        },
+        {
+          "element": "p811-e018",
+          "page": 811,
+          "source": "A CKD patient fractures a femur from trivial trauma. The bone defect named on the page is: [Amorphous Ca₃(PO₄)₂ → tendency of trivial trauma fracture (↓ bone mineralization). (Book p811)]",
+          "questionIds": [
+            "MED-C21-018"
+          ]
+        },
+        {
+          "element": "p811-e019",
+          "page": 811,
+          "source": "Fill up: Bone replaced by bone + fibrous tissue + cyst gives ______. [Bone replaced by bone + fibrous tissue + cyst → osteitis fibrosa cystica. (Book p811)]",
+          "questionIds": [
+            "MED-C21-019"
+          ]
+        },
+        {
+          "element": "p811-e020",
+          "page": 811,
+          "source": "The low bone turnover entity is: [Low bone turnover: adynamic bone disease. (Book p811)]",
+          "questionIds": [
+            "MED-C21-020"
+          ]
+        },
+        {
+          "element": "p811-e021",
+          "page": 811,
+          "source": "Adynamic bone disease favours which group? [Adynamic bone disease: middle to elderly aged female, DM, obese; prone for calcification. (Book p811)]",
+          "questionIds": [
+            "MED-C21-021"
+          ]
+        },
+        {
+          "element": "p811-e022",
+          "page": 811,
+          "source": "All but one are listed under low bone turnover (adynamic). Which is the odd one out? [Low bone turnover: middle to elderly aged female, DM, obese; prone for calcification. (Book p811)]",
+          "questionIds": [
+            "MED-C21-022"
+          ]
+        },
+        {
+          "element": "p811-e023",
+          "page": 811,
+          "source": "Match the following Venn-circle element to its label — 1) Top circle  2) Right circle  3) Left circle … A) Bone abnormality  B) Biochemical changes  C) Calcification (vascular + soft tissue) [Venn diagram: biochemical changes, bone abnormality, calcification (vascular + soft tissue). (Book p811)]",
+          "questionIds": [
+            "MED-C21-023"
+          ]
+        },
+        {
+          "element": "p811-e024",
+          "page": 811,
+          "source": "In the CKD-MBD Venn diagram, calcification is limited to the vascular bed. [Calcification circle: vascular + soft tissue. (Book p811)]",
+          "questionIds": [
+            "MED-C21-024"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 812,
+      "pdfPage": 53,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p812 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p812.",
+      "elements": [
+        {
+          "element": "p812-e001",
+          "page": 812,
+          "source": "High bone turnover results in medial calcification with which trio of rises? [Medial calcification: ↑ phosphorus, ↑ Ca₃(PO₄)₂ phosphate, ↑ PTH. (Book p812)]",
+          "questionIds": [
+            "MED-C21-025"
+          ]
+        },
+        {
+          "element": "p812-e002",
+          "page": 812,
+          "source": "Match the following target value in CKD to its limit — 1) PTH  2) Calcium  3) Phosphorus … A) <9.5  B) 50-100 pg/ml (2-7 times ULN)  C) <5.5 [Target values in CKD: PTH 2-7 times (ULN): 50-100 pg/ml; calcium <9.5; phosphorus <5.5. (Book p812)]",
+          "questionIds": [
+            "MED-C21-026"
+          ]
+        },
+        {
+          "element": "p812-e003",
+          "page": 812,
+          "source": "The CKD target range for PTH is: [PTH: 2-7 times (ULN): 50-100 pg/ml. (Book p812)]",
+          "questionIds": [
+            "MED-C21-027"
+          ]
+        },
+        {
+          "element": "p812-e004",
+          "page": 812,
+          "source": "The CKD target for calcium is below: [Calcium: <9.5. (Book p812)]",
+          "questionIds": [
+            "MED-C21-028"
+          ]
+        },
+        {
+          "element": "p812-e005",
+          "page": 812,
+          "source": "The CKD target for phosphorus is below: [Phosphorus: <5.5. (Book p812)]",
+          "questionIds": [
+            "MED-C21-029"
+          ]
+        },
+        {
+          "element": "p812-e006",
+          "page": 812,
+          "source": "First-line phosphate binders are the pure binders: sevelamer carbonate, ______ and ______. [Pure phosphate binders (1st line): sevelamer carbonate 400 mg TDS (↓ LDL); ferric citrate; sucroferric oxyhydroxide. (Book p812)]",
+          "questionIds": [
+            "MED-C21-030"
+          ]
+        },
+        {
+          "element": "p812-e007",
+          "page": 812,
+          "source": "Sevelamer carbonate is dosed at: [Sevelamer carbonate 400 mg TDS. (Book p812)]",
+          "questionIds": [
+            "MED-C21-031"
+          ]
+        },
+        {
+          "element": "p812-e008",
+          "page": 812,
+          "source": "The additional feature of sevelamer listed is: [Additional feature: ↓ LDL. (Book p812)]",
+          "questionIds": [
+            "MED-C21-032"
+          ]
+        },
+        {
+          "element": "p812-e009",
+          "page": 812,
+          "source": "All but one are the named phosphate binders on this page. Which is the odd one out? [Named binders: sevelamer carbonate, ferric citrate, sucroferric oxyhydroxide (pure); calcium acetate, calcium carbonate (calcium). (Book p812)]",
+          "questionIds": [
+            "MED-C21-033"
+          ]
+        },
+        {
+          "element": "p812-e010",
+          "page": 812,
+          "source": "Calcium phosphate binders are to be used: [Calcium phosphate binders: only to be used in significant hypocalcemia; may worsen calcification. (Book p812)]",
+          "questionIds": [
+            "MED-C21-034"
+          ]
+        },
+        {
+          "element": "p812-e011",
+          "page": 812,
+          "source": "Calcium phosphate binders may worsen calcification. [May worsen calcification — e.g. calcium acetate, calcium carbonate. (Book p812)]",
+          "questionIds": [
+            "MED-C21-035"
+          ]
+        },
+        {
+          "element": "p812-e012",
+          "page": 812,
+          "source": "Calcitriol in the treatment list is dosed at: [Calcitriol 0.25 µg alternate days (vit D value <20). (Book p812)]",
+          "questionIds": [
+            "MED-C21-036"
+          ]
+        },
+        {
+          "element": "p812-e013",
+          "page": 812,
+          "source": "Fill up: Calcitriol is indicated when the vitamin D value is below ______. [Calcitriol 0.25 µg alternate days (vit D value <20). (Book p812)]",
+          "questionIds": [
+            "MED-C21-037"
+          ]
+        },
+        {
+          "element": "p812-e014",
+          "page": 812,
+          "source": "Tertiary hyperparathyroidism arises from an autonomous working nodule after: [Autonomous working nodule in parathyroid (long standing 2° hyperparathyroid) → ↑↑↑ PTH → tertiary hyperparathyroidism. (Book p812)]",
+          "questionIds": [
+            "MED-C21-038"
+          ]
+        },
+        {
+          "element": "p812-e015",
+          "page": 812,
+          "source": "The electrolyte signature of tertiary hyperparathyroidism is: [↑ Ca⁺ ↑ P (Ca level always low in CKD except in tertiary hyperparathyroid). (Book p812)]",
+          "questionIds": [
+            "MED-C21-039"
+          ]
+        },
+        {
+          "element": "p812-e016",
+          "page": 812,
+          "source": "In CKD, the calcium level is always low except in tertiary hyperparathyroidism. [Ca level always low in CKD except in tertiary hyperparathyroidism. (Book p812)]",
+          "questionIds": [
+            "MED-C21-040"
+          ]
+        },
+        {
+          "element": "p812-e017",
+          "page": 812,
+          "source": "The drug of choice for tertiary hyperparathyroidism listed is: [Rx: cinacalcet: CaSR agonist → unresponsive → parathyroidectomy. (Book p812)]",
+          "questionIds": [
+            "MED-C21-041"
+          ]
+        },
+        {
+          "element": "p812-e018",
+          "page": 812,
+          "source": "When cinacalcet is unresponsive, the next step is: [Unresponsive → parathyroidectomy. (Book p812)]",
+          "questionIds": [
+            "MED-C21-042"
+          ]
+        },
+        {
+          "element": "p812-e019",
+          "page": 812,
+          "source": "A long-dialysis CKD patient has an autonomous parathyroid nodule, PTH 1200 pg/ml, and rising calcium and phosphorus. The diagnosis and next drug are: [Autonomous nodule (long-standing 2° HPT) → tertiary HPT: ↑ Ca⁺ ↑ P; Rx cinacalcet (CaSR agonist). (Book p812)]",
+          "questionIds": [
+            "MED-C21-043"
+          ]
+        },
+        {
+          "element": "p812-e020",
+          "page": 812,
+          "source": "Adynamic bone disease carries which prognosis? [Adynamic bone disease: worst prognosis; bone pain. (Book p812)]",
+          "questionIds": [
+            "MED-C21-044"
+          ]
+        },
+        {
+          "element": "p812-e021",
+          "page": 812,
+          "source": "The two causes of adynamic bone disease named are: [Cause: excess Ca supplementation in CKD patient; aluminum (aluminium associated bone disease). (Book p812)]",
+          "questionIds": [
+            "MED-C21-045"
+          ]
+        },
+        {
+          "element": "p812-e022",
+          "page": 812,
+          "source": "Excess calcium supplementation inhibits PTH to below: [Excess Ca supplementation → inhibit PTH (<400 pg). (Book p812)]",
+          "questionIds": [
+            "MED-C21-046"
+          ]
+        },
+        {
+          "element": "p812-e023",
+          "page": 812,
+          "source": "The aluminum cause of adynamic bone disease is linked to: [Aluminum (aluminium associated bone disease): dialysis dementia. (Book p812)]",
+          "questionIds": [
+            "MED-C21-047"
+          ]
+        },
+        {
+          "element": "p812-e024",
+          "page": 812,
+          "source": "In the excess-calcium chain, high Ca⁺ and phosphorus lead to: [High Ca⁺ & P phosphorus → vascular and soft tissue calcification → death. (Book p812)]",
+          "questionIds": [
+            "MED-C21-048"
+          ]
+        },
+        {
+          "element": "p812-e025",
+          "page": 812,
+          "source": "All but one are the extraskeletal calcification sites shown in the CRF photographs. Which is the odd one out? [Extraskeletal calcification in CRF: arterial, pulmonary, periarticular. (Book p812)]",
+          "questionIds": [
+            "MED-C21-049"
+          ]
+        },
+        {
+          "element": "p812-e026",
+          "page": 812,
+          "source": "The treatment of the excess-calcium-driven adynamic state is: [Treatment: stop all supplements; dialysis in low calcium dialysate. (Book p812)]",
+          "questionIds": [
+            "MED-C21-050"
+          ]
+        },
+        {
+          "element": "p812-e027",
+          "page": 812,
+          "source": "Dialysis in low calcium dialysate is part of the treatment of adynamic bone disease from excess calcium. [Dialysis in low calcium dialysate. (Book p812)]",
+          "questionIds": [
+            "MED-C21-051"
+          ]
+        },
+        {
+          "element": "p812-e028",
+          "page": 812,
+          "source": "Match the following drug to its role on this page — 1) Sevelamer carbonate  2) Calcium acetate  3) Cinacalcet  4) Calcitriol … A) CaSR agonist  B) Calcium phosphate binder  C) Pure phosphate binder  D) Active vitamin D [Sevelamer (pure binder); calcium acetate (calcium binder); cinacalcet (CaSR agonist); calcitriol (active vitamin D, 0.25 µg alternate days). (Book p81]",
+          "questionIds": [
+            "MED-C21-052"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 813,
+      "pdfPage": 54,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p813 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p813.",
+      "elements": [
+        {
+          "element": "p813-e001",
+          "page": 813,
+          "source": "DEXA is used to assess: [DEXA: to assess bone mass. (Book p813)]",
+          "questionIds": [
+            "MED-C21-053"
+          ]
+        },
+        {
+          "element": "p813-e002",
+          "page": 813,
+          "source": "For low bone mass, the drug named is: [Low bone mass: bisphosphonates (correct bone quantity). (Book p813)]",
+          "questionIds": [
+            "MED-C21-054"
+          ]
+        },
+        {
+          "element": "p813-e003",
+          "page": 813,
+          "source": "Calcium and vitamin D supplements in CKD patients should be given with caution. [Calcium and vit D supplements in CKD patients to be given with caution. (Book p813)]",
+          "questionIds": [
+            "MED-C21-055"
+          ]
+        },
+        {
+          "element": "p813-e004",
+          "page": 813,
+          "source": "Calciphylaxis is also called: [Calcific uremic arteriolopathy / calciphylaxis. (Book p813)]",
+          "questionIds": [
+            "MED-C21-056"
+          ]
+        },
+        {
+          "element": "p813-e005",
+          "page": 813,
+          "source": "The vasculopathy of calciphylaxis affects the arterioles of the: [Arterioles of subcutaneous and dermal plexus undergo medial calcification. (Book p813)]",
+          "questionIds": [
+            "MED-C21-057"
+          ]
+        },
+        {
+          "element": "p813-e006",
+          "page": 813,
+          "source": "Calciphylaxis is precipitated by: [Precipitated by vit-K antagonist. (Book p813)]",
+          "questionIds": [
+            "MED-C21-058"
+          ]
+        },
+        {
+          "element": "p813-e007",
+          "page": 813,
+          "source": "Vitamin K in this context regenerates: [Vit-K regeneration → matrix Gla protein. (Book p813)]",
+          "questionIds": [
+            "MED-C21-059"
+          ]
+        },
+        {
+          "element": "p813-e008",
+          "page": 813,
+          "source": "In calciphylaxis, peripheral pulses are lost. [Clinical features: pulse preserved. (Book p813)]",
+          "questionIds": [
+            "MED-C21-060"
+          ]
+        },
+        {
+          "element": "p813-e009",
+          "page": 813,
+          "source": "The classic patient with calciphylaxis is: [Female obese. (Book p813)]",
+          "questionIds": [
+            "MED-C21-061"
+          ]
+        },
+        {
+          "element": "p813-e010",
+          "page": 813,
+          "source": "The skin lesion of calciphylaxis is: [Ischemic necrosis of dermic / subcutaneous fat. (Book p813)]",
+          "questionIds": [
+            "MED-C21-062"
+          ]
+        },
+        {
+          "element": "p813-e011",
+          "page": 813,
+          "source": "The violaceous painful plaque of calciphylaxis evolves as: [Violaceous painful plaque → nodule → ulcer; site: buttock or trunk. (Book p813)]",
+          "questionIds": [
+            "MED-C21-063"
+          ]
+        },
+        {
+          "element": "p813-e012",
+          "page": 813,
+          "source": "The typical site of the calciphylaxis ulcer is: [Buttock or trunk. (Book p813)]",
+          "questionIds": [
+            "MED-C21-064"
+          ]
+        },
+        {
+          "element": "p813-e013",
+          "page": 813,
+          "source": "A livedo reticularis-like lesion is the commonest presentation of calciphylaxis. [Livedo reticularis like lesion (rare). (Book p813)]",
+          "questionIds": [
+            "MED-C21-065"
+          ]
+        },
+        {
+          "element": "p813-e014",
+          "page": 813,
+          "source": "The diagnosis of calciphylaxis is: [Management: clinical diagnosis. (Book p813)]",
+          "questionIds": [
+            "MED-C21-066"
+          ]
+        },
+        {
+          "element": "p813-e015",
+          "page": 813,
+          "source": "The prognosis of calciphylaxis is poor because of: [Poor prognosis (↑ risk of secondary infection). (Book p813)]",
+          "questionIds": [
+            "MED-C21-067"
+          ]
+        },
+        {
+          "element": "p813-e016",
+          "page": 813,
+          "source": "The treatment pair for calciphylaxis is: [Treatment: vit-K + sodium thiosulfate. (Book p813)]",
+          "questionIds": [
+            "MED-C21-068"
+          ]
+        },
+        {
+          "element": "p813-e017",
+          "page": 813,
+          "source": "An obese female CKD patient on warfarin develops a painful violaceous plaque on the trunk that nodules and ulcers, with preserved pulses. The diagnosis and treatment pair are: [Calciphylaxis: vit-K antagonist precipitant; female obese; violaceous painful plaque → nodule → ulcer; pulse preserved; Rx vit-K + sodium thiosulfate.]",
+          "questionIds": [
+            "MED-C21-069"
+          ]
+        },
+        {
+          "element": "p813-e018",
+          "page": 813,
+          "source": "Nephrogenic systemic fibrosis is a scleroderma-like illness caused by: [NSF (scleroderma like illness): cause — gadolinium based contrast often GFR <30 ml/min. (Book p813)]",
+          "questionIds": [
+            "MED-C21-070"
+          ]
+        },
+        {
+          "element": "p813-e019",
+          "page": 813,
+          "source": "The GFR below which gadolinium-based contrast is listed as the cause of NSF is: [Gadolinium based contrast, often GFR <30 ml/min. (Book p813)]",
+          "questionIds": [
+            "MED-C21-071"
+          ]
+        },
+        {
+          "element": "p813-e020",
+          "page": 813,
+          "source": "The photograph set for NSF shows: [NSF photographs: contracture of fingers; swelling and fibrosis of hands and legs and peau d'orange appearance. (Book p813)]",
+          "questionIds": [
+            "MED-C21-072"
+          ]
+        },
+        {
+          "element": "p813-e021",
+          "page": 813,
+          "source": "Atheroembolic renal disease is signposted by: [Atheroembolic renal disease: blue toes. (Book p813)]",
+          "questionIds": [
+            "MED-C21-073"
+          ]
+        },
+        {
+          "element": "p813-e022",
+          "page": 813,
+          "source": "Match the following entity to its signature finding — 1) Calciphylaxis  2) NSF  3) Atheroembolic renal disease … A) Blue toes  B) Peau d'orange, finger contracture  C) Violaceous painful plaque, pulse preserved [As described across the page: calciphylaxis (plaque → nodule → ulcer, pulse preserved); NSF (peau d'orange, contracture of fingers); atheroembolic (bl]",
+          "questionIds": [
+            "MED-C21-074"
+          ]
+        },
+        {
+          "element": "p813-e023",
+          "page": 813,
+          "source": "All but one are causes of the fibrotic/calcific skin-vascular syndromes on this page. Which is the odd one out? [Page entities: calciphylaxis (vit-K antagonist precipitant), NSF (gadolinium-based contrast), atheroembolic disease. Radiotherapy is not on the page. ]",
+          "questionIds": [
+            "MED-C21-075"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 814,
+      "pdfPage": 55,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p814 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p814.",
+      "elements": [
+        {
+          "element": "p814-e001",
+          "page": 814,
+          "source": "The cardiovascular system in CKD is the: [CKD - cardiovascular system: leading cause of mortality. (Book p814)]",
+          "questionIds": [
+            "MED-C21-076"
+          ]
+        },
+        {
+          "element": "p814-e002",
+          "page": 814,
+          "source": "In ESRD patients, what share of deaths is due to cardiac causes? [ESRD patients: 50% due to cardiac causes. (Book p814)]",
+          "questionIds": [
+            "MED-C21-077"
+          ]
+        },
+        {
+          "element": "p814-e003",
+          "page": 814,
+          "source": "A young patient with CKD carries what fold risk of cardiac disease compared to the control population? [Young patient with CKD: 500 fold risk of cardiac disease compared to control population. (Book p814)]",
+          "questionIds": [
+            "MED-C21-078"
+          ]
+        },
+        {
+          "element": "p814-e004",
+          "page": 814,
+          "source": "Match the following non-traditional cause to its effect — 1) Uremic toxins  2) Endothelial dysfunction  3) LVH  4) Malnutrition-inflammation-nephrosclerosis … A) ADMA ↑ → ↓ NO; loss of fetuin  B) Uremic cardiomyopathy  C) HF with preserved EF  D) Insulin resistance; protein-energy malnutrition [Non-traditional causes: uremic toxins (uremic cardiomyopathy); medial calcification; LVH (HF with preserved EF); endothelial dysfunction (ADMA ↑ → ↓ N]",
+          "questionIds": [
+            "MED-C21-079"
+          ]
+        },
+        {
+          "element": "p814-e005",
+          "page": 814,
+          "source": "ADMA, which rises in endothelial dysfunction, stands for: [Endothelial dysfunction: ADMA ↑ → ↓ NO (asymmetric dimethylarginine); loss of fetuin. (Book p814)]",
+          "questionIds": [
+            "MED-C21-080"
+          ]
+        },
+        {
+          "element": "p814-e006",
+          "page": 814,
+          "source": "The arterial features of CVD in CKD are: [Arteries: endothelial dysfunction; medial calcification; ↑ wall thickness. (Book p814)]",
+          "questionIds": [
+            "MED-C21-081"
+          ]
+        },
+        {
+          "element": "p814-e007",
+          "page": 814,
+          "source": "The arterial consequences in the same list are: [↑ carotid systolic BP; ↓ augmented pulse velocity. (Book p814)]",
+          "questionIds": [
+            "MED-C21-082"
+          ]
+        },
+        {
+          "element": "p814-e008",
+          "page": 814,
+          "source": "The cardiac features of CVD in CKD are: [Heart: LVH; myocardial fibrosis; uremic cardiomyopathy. (Book p814)]",
+          "questionIds": [
+            "MED-C21-083"
+          ]
+        },
+        {
+          "element": "p814-e009",
+          "page": 814,
+          "source": "All but one are the six overlapping circles in the CKD-CV flower diagram. Which is the odd one out? [Circles: CKD-MBD, endothelial dysfunction, protein carbamylation, oxidative stress, uremic toxins, gut dysbiosis. (Book p814)]",
+          "questionIds": [
+            "MED-C21-084"
+          ]
+        },
+        {
+          "element": "p814-e010",
+          "page": 814,
+          "source": "The CVD treatment principle is to start early therapies — which trio is listed? [Start early therapies: early dialysis; adequate phosphate binders in early stage of disease; transplant before calcification sets in. (Book p814)]",
+          "questionIds": [
+            "MED-C21-085"
+          ]
+        },
+        {
+          "element": "p814-e011",
+          "page": 814,
+          "source": "Uremia can cause which pair? [Uremia can cause: pericarditis; hyperkalemia → arrhythmias. (Book p814)]",
+          "questionIds": [
+            "MED-C21-086"
+          ]
+        },
+        {
+          "element": "p814-e012",
+          "page": 814,
+          "source": "Hyperkalemia from uremia can lead to arrhythmias. [Hyperkalemia → arrhythmias. (Book p814)]",
+          "questionIds": [
+            "MED-C21-087"
+          ]
+        },
+        {
+          "element": "p814-e013",
+          "page": 814,
+          "source": "The best marker for MI in CKD patients is: [MI in CKD: best marker — Trop-I (rate of rise). (Book p814)]",
+          "questionIds": [
+            "MED-C21-088"
+          ]
+        },
+        {
+          "element": "p814-e014",
+          "page": 814,
+          "source": "The most specific troponin I rise pattern is: [↑20% in 9 hours (most specific). (Book p814)]",
+          "questionIds": [
+            "MED-C21-089"
+          ]
+        },
+        {
+          "element": "p814-e015",
+          "page": 814,
+          "source": "The pre-requisites for renal transplant include which set? [Pre-requisite for renal transplant: iliac vessel doppler; peripheral artery doppler; CT for calcification → normal → coronary angiogram. (Book p814)]",
+          "questionIds": [
+            "MED-C21-090"
+          ]
+        },
+        {
+          "element": "p814-e016",
+          "page": 814,
+          "source": "After a normal doppler and CT work-up, the next investigation in the transplant chain is: [CT for calcification → normal → coronary angiogram. (Book p814)]",
+          "questionIds": [
+            "MED-C21-091"
+          ]
+        },
+        {
+          "element": "p814-e017",
+          "page": 814,
+          "source": "All but one feed the 'elevated oxidative stress' hub in the sources diagram. Which is the odd one out? [Sources: malnutrition; bacterial products in dialysate; chronic kidney disease; interactions between blood and membrane; loss of antioxidants during d]",
+          "questionIds": [
+            "MED-C21-092"
+          ]
+        },
+        {
+          "element": "p814-e018",
+          "page": 814,
+          "source": "A CKD patient with chest pain has a troponin I that rises 20% over 9 hours. This pattern is: [Trop-I rate of rise: ↑20% in 9 hours (most specific). (Book p814)]",
+          "questionIds": [
+            "MED-C21-093"
+          ]
+        }
+      ]
+    }
+  ]
+}

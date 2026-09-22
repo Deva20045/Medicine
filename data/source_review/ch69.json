@@ -1,0 +1,363 @@
+{
+  "chapter": 69,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+  "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+  "pdfOffset": 1034,
+  "pageRange": "1036-1038",
+  "contentSha256": "66c48693fb53af1d6a6072e99aa5235091724ce2524e22b1a0d8428d42d2f584",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch69 p1036-1038: auto-generated source checklist from existing 40 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 1036,
+      "pdfPage": 2,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1036 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1036.",
+      "elements": [
+        {
+          "element": "p1036-e001",
+          "page": 1036,
+          "source": "Fill up (Structure): HBV is a DNA ______ virus; its genome is partially double stranded, ______ circular dsDNA. ['DNA : Hepadnavirus. Partially double stranded : Relaxed circular dsDNA.' Figure caption: 'Relaxed circular dsDNA'. (Book p1036)]",
+          "questionIds": [
+            "MED-C69-001"
+          ]
+        },
+        {
+          "element": "p1036-e002",
+          "page": 1036,
+          "source": "Match — 1) Incomplete (+) strand 2) Complete (−) strand … A) Reverse transcriptase / polymerase B) Primer ['Incomplete (+) strand : primer; Complete (−) strand : Reverse transcriptase / polymerase.' (Book p1036)]",
+          "questionIds": [
+            "MED-C69-002"
+          ]
+        },
+        {
+          "element": "p1036-e003",
+          "page": 1036,
+          "source": "Infective virion size and name, number of genotypes, and number of ORFs — as printed? ['Infective particle (virion) : 42 nm Dane particle; 10 genotypes in HBV; 4 open reading frames (ORFs)'. (Book p1036)]",
+          "questionIds": [
+            "MED-C69-003"
+          ]
+        },
+        {
+          "element": "p1036-e004",
+          "page": 1036,
+          "source": "Which ORF label does NOT appear in the circular genome figure? [Figure labels: ORF Pre S1, ORF Pre S2, HBsAg gene, ORF S, ORF P, Polymerase gene, ORF X, ORF Core, Pre C. There is no separate 'ORF E'. (Book p1036)]",
+          "questionIds": [
+            "MED-C69-004"
+          ]
+        },
+        {
+          "element": "p1036-e005",
+          "page": 1036,
+          "source": "Gene table — match — 1) S-gene 2) C-gene 3) Pre C-gene … A) HBeAg, qualitative marker of infectivity & replication B) HBsAg, surface protein C) HBcAg, core protein (intracellular; anti-HBcAg in blood) [S-gene → HBsAg surface protein; C-gene → HBcAg core protein (intracellular; anti-HBcAg in blood); Pre C-gene (part of C-gene) → HBeAg qualitative mark]",
+          "questionIds": [
+            "MED-C69-005"
+          ]
+        },
+        {
+          "element": "p1036-e006",
+          "page": 1036,
+          "source": "Gene table continued — match — 1) P-gene 2) X-gene … A) HBx Ag, associated with hepatocellular carcinoma B) Polymerase, reverse transcriptase enzyme [P-gene → polymerase / reverse transcriptase enzyme; X-gene → HBx Ag associated with HCC. (Book p1036)]",
+          "questionIds": [
+            "MED-C69-006"
+          ]
+        },
+        {
+          "element": "p1036-e007",
+          "page": 1036,
+          "source": "Judge from the table: I HBcAg is intracellular and only its antibody is detected in blood. II HBeAg is a quantitative marker of replication. ['Core protein (Intracellular anti-HBcAg : in blood)'; HBeAg is the 'Qualitative marker of infectivity & replication' (HBV DNA is the quantitative mark]",
+          "questionIds": [
+            "MED-C69-007"
+          ]
+        },
+        {
+          "element": "p1036-e008",
+          "page": 1036,
+          "source": "Progression diagram: incubation period, and the outcome percentages after acute hepatitis? ['Virus entry —60 days Incubation Period (IP)→ Acute hepatitis → 95–99% Recovery / 1–5% Chronic hepatitis'. (Book p1036)]",
+          "questionIds": [
+            "MED-C69-008"
+          ]
+        },
+        {
+          "element": "p1036-e009",
+          "page": 1036,
+          "source": "Fill up: In the progression diagram, chronic hepatitis follows ______ transmission in ______%. ['95% Vertical transmission' arrow into Chronic hepatitis. (Book p1036)]",
+          "questionIds": [
+            "MED-C69-009"
+          ]
+        },
+        {
+          "element": "p1036-e010",
+          "page": 1036,
+          "source": "Which is NOT one of the three end-points drawn from cirrhosis in the progression diagram? [Cirrhosis → Portal hypertension; Hepatocellular carcinoma; Liver failure. Notes: 'Also seen: NASH' (direct HCC arrow) and 'No treatment available.' (B]",
+          "questionIds": [
+            "MED-C69-010"
+          ]
+        },
+        {
+          "element": "p1036-e011",
+          "page": 1036,
+          "source": "Infectivity of HBV relative to HIV and HCV, as printed? ['100x as HIV, 10x as HCV'. (Book p1036)]",
+          "questionIds": [
+            "MED-C69-011"
+          ]
+        },
+        {
+          "element": "p1036-e012",
+          "page": 1036,
+          "source": "Genotype notes — match — 1) HAV 2) HEV 3) HBV commonest genotype 4) HBV HCC-risk genotype … A) 4 genotypes B) Genotype C C) 1 genotype D) Genotype A ['1 genotype in HAV, 4 in HEV → Commonest : Genotype A; HCC risk : Genotype C'. (Book p1036)]",
+          "questionIds": [
+            "MED-C69-012"
+          ]
+        },
+        {
+          "element": "p1036-e013",
+          "page": 1036,
+          "source": "HBV is 'found in all body fluids except ______'. ['Found in all body fluids except stools.' (Book p1036)]",
+          "questionIds": [
+            "MED-C69-013"
+          ]
+        },
+        {
+          "element": "p1036-e014",
+          "page": 1036,
+          "source": "A pregnant woman is HBsAg-positive. Applying the printed 90/10 rule, what determines whether transmission risk is 90% or 10%? ['Pregnancy : 90/10 rule — HBsAg +ve + HBeAg +ve : 90% chance of transmission; HBeAg −ve : 10% chance.' (Book p1036)]",
+          "questionIds": [
+            "MED-C69-014"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1037,
+      "pdfPage": 3,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1037 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1037.",
+      "elements": [
+        {
+          "element": "p1037-e001",
+          "page": 1037,
+          "source": "Mode of transmission tree for acute hepatitis B — which is NOT one of the four printed arms? [Arms: Vertical, Percutaneous, Sexual, Blood transfusion. 'No feco-oral / breast milk transmission.' (Book p1037)]",
+          "questionIds": [
+            "MED-C69-015"
+          ]
+        },
+        {
+          "element": "p1037-e002",
+          "page": 1037,
+          "source": "Percutaneous risk figures printed for HBV and HCV? ['Percutaneous — Risk : 6 – 30%; HCV Risk : 0.6 – 6.1%'. (Book p1037)]",
+          "questionIds": [
+            "MED-C69-016"
+          ]
+        },
+        {
+          "element": "p1037-e003",
+          "page": 1037,
+          "source": "Judge: I Sexual transmission risk is printed as 'not established'. II Blood-transfusion risk is 1 : 200,000 units and 1 : 1,800,000 with HBV > HBC (HCV). ['Sexual : Not established'; 'Blood Transfusion : 1 : 200000 units; 1 : 1800000 [HBV > HBC]'. (Book p1037)]",
+          "questionIds": [
+            "MED-C69-017"
+          ]
+        },
+        {
+          "element": "p1037-e004",
+          "page": 1037,
+          "source": "Post-transfusion hepatitis — which hierarchy of agents is printed? ['Post Transfusion Hepatitis : Hepatitis following transfusion • CMV > EBV > HCV.' (Book p1037)]",
+          "questionIds": [
+            "MED-C69-018"
+          ]
+        },
+        {
+          "element": "p1037-e005",
+          "page": 1037,
+          "source": "Symptoms of acute hepatitis B: duration of prodrome and when it appears? ['2–3 days of prodromal phase after 60 days of IP. Jaundice + ↑↑ enzymes (ALT/AST).' (Book p1037)]",
+          "questionIds": [
+            "MED-C69-019"
+          ]
+        },
+        {
+          "element": "p1037-e006",
+          "page": 1037,
+          "source": "Investigations — match — 1) Anti-HAV IgM 2) Anti-HEV IgM … A) m/c cause in adults B) m/c cause in children ['Anti-HAV IgM (m/c cause : children). Anti-HEV IgM (m/c cause : adults). if both −ve → HBsAg, HBeAg, anti-HBc IgM.' (Book p1037)]",
+          "questionIds": [
+            "MED-C69-020"
+          ]
+        },
+        {
+          "element": "p1037-e007",
+          "page": 1037,
+          "source": "HBV marker curve — match — 1) dark blue 2) red 3) green 4) purple … A) Anti-HBs B) HBsAg C) Total anti-HBc D) IgM anti-HBc [Legend: HBsAg (blue), IgM Anti-HBc (red), Total Anti-HBc (green), Anti-HBs (purple). (Book p1037)]",
+          "questionIds": [
+            "MED-C69-021"
+          ]
+        },
+        {
+          "element": "p1037-e008",
+          "page": 1037,
+          "source": "On the 'HBV infection markers' graph, the boxed window period sits between which weeks after exposure? [The 'Window period' box lies over the 24–32-week span, after HBsAg falls and before anti-HBs rises; upper bands show HBeAg then Anti-HBe. (Book p1037)]",
+          "questionIds": [
+            "MED-C69-022"
+          ]
+        },
+        {
+          "element": "p1037-e009",
+          "page": 1037,
+          "source": "Interpretation table — match — 1) HBsAg +, HBeAg +, anti-HBc IgM + 2) HBsAg +, HBeAg −, anti-HBc IgM + … A) Low infectivity & replication / pre-core gene mutant (unable to express HBeAg) B) Acute hepatitis with ↑ infectivity & replication [Column 1 (all +): acute hepatitis with ↑ infectivity & replication. Column 2 (HBeAg −): low infectivity & replication / Pre core gene mutant unable to]",
+          "questionIds": [
+            "MED-C69-023"
+          ]
+        },
+        {
+          "element": "p1037-e010",
+          "page": 1037,
+          "source": "Fill up (right-hand bullets): S gene / A gene / Escape / Occult gene mutation → ↓ viral load, won't express ______; best test: ______. ['Sgene/A gene/Escape/Occult gene mutation : ↓ viral load – Won't express HBsAg. Best test : Anti HBc IgM.' (Book p1037)]",
+          "questionIds": [
+            "MED-C69-024"
+          ]
+        },
+        {
+          "element": "p1037-e011",
+          "page": 1037,
+          "source": "Basal core mutant expresses what percentage of HBeAg, per the bullet? ['Basal core mutant : Express 30% of HBeAg.' (Book p1037)]",
+          "questionIds": [
+            "MED-C69-025"
+          ]
+        },
+        {
+          "element": "p1037-e012",
+          "page": 1037,
+          "source": "What is printed as the best marker for acute hepatitis at the bottom of the page? ['Best marker for acute hepatitis : HBV DNA load (Quantitative marker).' (Anti-HBc IgM is the best test for escape/occult mutants.) (Book p1037)]",
+          "questionIds": [
+            "MED-C69-026"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1038,
+      "pdfPage": 4,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1038 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1038.",
+      "elements": [
+        {
+          "element": "p1038-e001",
+          "page": 1038,
+          "source": "Progression table — match — 1) Recovery 2) Chronic hepatitis 3) AFH with simple HBV infection 4) AFH with HBV + HDV co-infection … A) 5–20% B) 0.1–1% C) 95–99% D) 1–5% [Recovery 95–99%; Chronic hepatitis 1–5%; Acute fulminant hepatitis: simple HBV 0.1–1%, HBV + HDV coinfection 5–20%. (Book p1038)]",
+          "questionIds": [
+            "MED-C69-027"
+          ]
+        },
+        {
+          "element": "p1038-e002",
+          "page": 1038,
+          "source": "Follow-up is done after how long, per the printed bullet? ['After 24 weeks since IP/12–16 wks of symptom onset'. (Book p1038)]",
+          "questionIds": [
+            "MED-C69-028"
+          ]
+        },
+        {
+          "element": "p1038-e003",
+          "page": 1038,
+          "source": "Follow-up conversions — match — 1) HBsAg 2) Anti-HBc IgG 3) HBeAg … A) converts to anti-HBeAg B) converts to anti-HBsAg C) converts to anti-HBc IgM (as printed) [Printed: 'HBsAg converts→ anti HBsAg; Anti HBc IgG converts→ Anti HBc IgM; HBeAg → anti HBeAg' — all three bracketed as Recovery. (Note: the printed I]",
+          "questionIds": [
+            "MED-C69-029"
+          ]
+        },
+        {
+          "element": "p1038-e004",
+          "page": 1038,
+          "source": "Per the follow-up bullet, which serological pair defines chronic hepatitis? ['HBsAg +ve, anti HBc IgG +ve : Chronic hepatitis'. (Book p1038)]",
+          "questionIds": [
+            "MED-C69-030"
+          ]
+        },
+        {
+          "element": "p1038-e005",
+          "page": 1038,
+          "source": "Chronic hepatitis profile: HBsAg + and anti-HBc IgG +; HBeAg is POSITIVE. What HBV DNA threshold and interpretation does the flowchart give? ['+ve → HBV DNA load > 20000 IU/mL → High infectivity, high replication'. (Book p1038)]",
+          "questionIds": [
+            "MED-C69-031"
+          ]
+        },
+        {
+          "element": "p1038-e006",
+          "page": 1038,
+          "source": "HBeAg NEGATIVE branch — match — 1) HBV DNA > 2,000 IU/mL 2) HBV DNA < 2,000 IU/mL … A) Low infectivity, low replication → carriers B) High infectivity, high replication [HBeAg −ve: HBV DNA > 2000 → high infectivity/replication; < 2000 → low infectivity/replication → Carriers. (Book p1038)]",
+          "questionIds": [
+            "MED-C69-032"
+          ]
+        },
+        {
+          "element": "p1038-e007",
+          "page": 1038,
+          "source": "Carriers (HBeAg −, DNA < 2000) — judge: I No need of Rx. II No risk for HCC. ['Carriers → No need of Rx; Risk for HCC.' (Book p1038)]",
+          "questionIds": [
+            "MED-C69-033"
+          ]
+        },
+        {
+          "element": "p1038-e008",
+          "page": 1038,
+          "source": "Pre-core / basal core mutant carries a very poor prognosis with ↑ risk for three outcomes. Which is NOT listed? ['Pre-Core / Basal Core mutant : very poor prognosis; ↑ risk for HCC, Cirrhosis, Decompensation.' (Book p1038)]",
+          "questionIds": [
+            "MED-C69-034"
+          ]
+        },
+        {
+          "element": "p1038-e009",
+          "page": 1038,
+          "source": "Serological patterns table — match — 1) HBsAg + / anti-HBs − / anti-HBc IgM / HBeAg + / anti-HBe − 2) HBsAg + / anti-HBs − / anti-HBc IgG / HBeAg + / anti-HBe − … A) Chronic hepatitis B, high infectivity B) Acute hepatitis B, high infectivity [Row 1: acute hepatitis B, high infectivity (IgM). Row 2: chronic hepatitis B, high infectivity (IgG). (Book p1038)]",
+          "questionIds": [
+            "MED-C69-035"
+          ]
+        },
+        {
+          "element": "p1038-e010",
+          "page": 1038,
+          "source": "Serology: HBsAg +, anti-HBs −, anti-HBc IgG, HBeAg −, anti-HBe −. Give the two printed interpretations and the confirmatory step. [Row 3: '1. Late acute or chronic hepatitis B, low infectivity 2. HBeAg negative (Precore-mutant) hepatitis B (Chronic or, rarely, acute). Do HBV DNA t]",
+          "questionIds": [
+            "MED-C69-036"
+          ]
+        },
+        {
+          "element": "p1038-e011",
+          "page": 1038,
+          "source": "Serology: HBsAg +, anti-HBs +, anti-HBc +, HBeAg ±, anti-HBe ±. Which pair of interpretations is printed, and which is labelled common vs rare? [Row 4: '1. HBsAg of one subtype and heterotypic anti-HBs (common) 2. Process of seroconversion from HBsAg to anti HBs (rare) (window period)'. (Book p]",
+          "questionIds": [
+            "MED-C69-037"
+          ]
+        },
+        {
+          "element": "p1038-e012",
+          "page": 1038,
+          "source": "Serology: HBsAg −, anti-HBs −, anti-HBc IgM, HBeAg ±, anti-HBe ±. Interpretation? [Row 5: 'Acute reactivation of chronic hepatitis B'. (Book p1038)]",
+          "questionIds": [
+            "MED-C69-038"
+          ]
+        },
+        {
+          "element": "p1038-e013",
+          "page": 1038,
+          "source": "Last three rows — match — 1) HBsAg −, anti-HBs −, anti-HBc IgG, HBeAg −, anti-HBe ± 2) HBsAg −, anti-HBs +, anti-HBc IgG, HBeAg −, anti-HBe ± 3) HBsAg −, anti-HBs +, anti-HBc −, HBeAg −, anti-HBe − … A) Recovery from hepatitis B B) Immunisation with HBsAg (after vaccination) C) Hepatitis B in remote past, or escape mutant [Row 6: remote past / escape mutant (anti-HBc alone). Row 7: recovery (anti-HBs + anti-HBc). Row 8: immunisation (anti-HBs alone). (Book p1038)]",
+          "questionIds": [
+            "MED-C69-039"
+          ]
+        },
+        {
+          "element": "p1038-e014",
+          "page": 1038,
+          "source": "Which single-marker pattern distinguishes vaccination from natural recovery in the serological table? [Immunisation row: anti-HBs + with anti-HBc −; recovery row: anti-HBs + with anti-HBc IgG. (Book p1038)]",
+          "questionIds": [
+            "MED-C69-040"
+          ]
+        }
+      ]
+    }
+  ]
+}

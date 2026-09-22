@@ -1,0 +1,1157 @@
+{
+  "chapter": 23,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+  "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+  "pdfOffset": 759,
+  "pageRange": "819-823",
+  "contentSha256": "81efa467e14dc055acc812bb0213d99970df0b06c9061868214603115d117d81",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch23 p819-823: auto-generated source checklist from existing 137 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 819,
+      "pdfPage": 60,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p819 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p819.",
+      "elements": [
+        {
+          "element": "p819-e001",
+          "page": 819,
+          "source": "Acid–base balance matters because four listed functions work well only across a narrow pH range. Which set? [Acid–base balance matters for the enzyme system, muscle and nerve, oxygenation and metabolic function — all of which function well only across a narro]",
+          "questionIds": [
+            "MED-C23-001"
+          ]
+        },
+        {
+          "element": "p819-e002",
+          "page": 819,
+          "source": "Per day H⁺ production, as quantified at the start of the chapter, is: [Per day H⁺ production is given as 7 crore nmol (= 70 mmol of fixed acid), while the blood H⁺ concentration at pH 7.4 is 40 nmol/L. (Book p819)]",
+          "questionIds": [
+            "MED-C23-002"
+          ]
+        },
+        {
+          "element": "p819-e003",
+          "page": 819,
+          "source": "Blood H⁺ concentration at pH 7.4 is: [Blood H⁺ concentration at pH 7.4 is 40 nmol/L; the daily acid load of 7 crore nmol is far larger, which is why buffering is needed. (Book p819)]",
+          "questionIds": [
+            "MED-C23-003"
+          ]
+        },
+        {
+          "element": "p819-e004",
+          "page": 819,
+          "source": "Match the fate of excess H⁺ as printed — 1) Excess H⁺  2) Its cellular effect  3) Final outcome … A) Rendered safe by the buffering system  B) Alters cellular morphology  C) Cellulotoxic [Excess H⁺ → cellulotoxic → alters cellular morphology → rendered safe by buffering system. (Book p819)]",
+          "questionIds": [
+            "MED-C23-004"
+          ]
+        },
+        {
+          "element": "p819-e005",
+          "page": 819,
+          "source": "‘Excess H⁺ is made harmless by altering cellular morphology, without any buffering.’ [The arrow is the other way round: excess H⁺ is cellulotoxic and alters cellular morphology, and is then rendered safe by the buffering system. (Book p]",
+          "questionIds": [
+            "MED-C23-005"
+          ]
+        },
+        {
+          "element": "p819-e006",
+          "page": 819,
+          "source": "Match the buffering system to its printed response time — 1) Chemical  2) Respiratory  3) Renal … A) Slow response  B) Immediate response  C) Fast response [Buffering system types: chemical = immediate response, respiratory = fast response, renal = slow response. (Book p819)]",
+          "questionIds": [
+            "MED-C23-006"
+          ]
+        },
+        {
+          "element": "p819-e007",
+          "page": 819,
+          "source": "Fill up: The most potent extracellular buffering system is ______. [[H⁺] + [HCO₃⁻] → H₂CO₃ is labelled the most potent extracellular buffering system. (Book p819)]",
+          "questionIds": [
+            "MED-C23-007"
+          ]
+        },
+        {
+          "element": "p819-e008",
+          "page": 819,
+          "source": "The general chemical buffering reaction is written as: [Chemical buffering: [H⁺] + [A⁻] (conjugate base) → HA (acid); the particular case with A⁻ = HCO₃⁻ is the most potent extracellular buffer. (Book p819)]",
+          "questionIds": [
+            "MED-C23-008"
+          ]
+        },
+        {
+          "element": "p819-e009",
+          "page": 819,
+          "source": "Fill up: pKa is the pH at which ______. [pKa is the pH at which acid state is 50% [A⁻] = 50% [HA]. (Book p819)]",
+          "questionIds": [
+            "MED-C23-009"
+          ]
+        },
+        {
+          "element": "p819-e010",
+          "page": 819,
+          "source": "The mechanism of chemical buffering is expressed by which equation? [pH = pKa + log [A⁻] (conjugate base) / [HA] (acid) — the Henderson–Hasselbalch relation as printed under ‘mechanism’. (Book p819)]",
+          "questionIds": [
+            "MED-C23-010"
+          ]
+        },
+        {
+          "element": "p819-e011",
+          "page": 819,
+          "source": "‘A strong acid (pKa < 3) exists more in the HA form and is therefore not good for basic functions.’ [Strong acid (pKa < 3) exists more in [HA] form: not good for basic functions. (Book p819)]",
+          "questionIds": [
+            "MED-C23-011"
+          ]
+        },
+        {
+          "element": "p819-e012",
+          "page": 819,
+          "source": "Which acids are called the best buffer system, and why? [Weak acids exist more in the [A⁻] form and are therefore the best buffer system, unlike strong acids (pKa < 3) which sit mainly as HA. (Book p819)]",
+          "questionIds": [
+            "MED-C23-012"
+          ]
+        },
+        {
+          "element": "p819-e013",
+          "page": 819,
+          "source": "All but one of the following chemical buffers are named in the Book. Which is the odd one out? [The three chemical buffers printed are the HCO₃⁻/H₂CO₃ system, the phosphate buffer and the haemoglobin buffer; an ammonium pair is not listed as a ch]",
+          "questionIds": [
+            "MED-C23-013"
+          ]
+        },
+        {
+          "element": "p819-e014",
+          "page": 819,
+          "source": "On the Siggaard–Andersen nomogram, the horizontal (x) axis is: [The nomogram's x-axis is arterial blood pH (7.0–7.8); the y-axis is arterial plasma HCO₃⁻ (0–60 mmol/L). (Book p819)]",
+          "questionIds": [
+            "MED-C23-014"
+          ]
+        },
+        {
+          "element": "p819-e015",
+          "page": 819,
+          "source": "On the same nomogram, the vertical (y) axis is: [The y-axis reads arterial plasma HCO₃⁻ in mmol/L, scaled 0–60. (Book p819)]",
+          "questionIds": [
+            "MED-C23-015"
+          ]
+        },
+        {
+          "element": "p819-e016",
+          "page": 819,
+          "source": "The right-hand vertical scale of the nomogram (arterial blood [H⁺]) runs: [The right-hand scale is arterial blood [H⁺]: 100 nmol/L at pH 7.0 down to 20 nmol/L at pH 7.8. (Book p819)]",
+          "questionIds": [
+            "MED-C23-016"
+          ]
+        },
+        {
+          "element": "p819-e017",
+          "page": 819,
+          "source": "The diagonal lines crossing the nomogram are labelled with pCO₂ from: [The labelled isobars run 120, 110, 100, 90, 80, 70, 60, 50, 40, 35, 30, 25, 20, 15 and 10 mmHg. (Book p819)]",
+          "questionIds": [
+            "MED-C23-017"
+          ]
+        },
+        {
+          "element": "p819-e018",
+          "page": 819,
+          "source": "An ABG shows pH 7.2, HCO₃⁻ 10 mmol/L and pCO₂ 25 mmHg. On the nomogram, this point lies in which labelled zone? [Low pH with a low HCO₃⁻ and a low pCO₂ is the printed ‘Metabolic acidosis’ zone of the nomogram. (Book p819)]",
+          "questionIds": [
+            "MED-C23-018"
+          ]
+        },
+        {
+          "element": "p819-e019",
+          "page": 819,
+          "source": "An ABG shows pH 7.52, HCO₃⁻ 44 mmol/L and pCO₂ 55 mmHg. Which nomogram zone is printed for this pattern? [The high-pH/high-HCO₃⁻ corner of the nomogram is labelled ‘Metabolic alkalosis’ (metabolic acidosis sits at low pH with low HCO₃⁻). (Book p819)]",
+          "questionIds": [
+            "MED-C23-019"
+          ]
+        },
+        {
+          "element": "p819-e020",
+          "page": 819,
+          "source": "Match each printed nomogram zone to its pH/bicarbonate pattern — 1) Metabolic acidosis  2) Metabolic alkalosis  3) Chronic respiratory acidosis  4) Acute respiratory alkalosis … A) ↑pH with low HCO₃⁻  B) ↓pH with low HCO₃⁻  C) ↓pH with the greatest HCO₃⁻ rise  D) ↑pH with high HCO₃⁻ [Nomogram zones: metabolic acidosis = low pH/low HCO₃⁻; metabolic alkalosis = high pH/high HCO₃⁻; chronic respiratory acidosis = the largest HCO₃⁻ rise]",
+          "questionIds": [
+            "MED-C23-020"
+          ]
+        },
+        {
+          "element": "p819-e021",
+          "page": 819,
+          "source": "‘On the nomogram the “Normal” zone sits at pH 7.4 with HCO₃⁻ 24 mEq/L and pCO₂ 40 mmHg.’ [The central ‘Normal’ box of the Siggaard–Andersen nomogram is the pH 7.4, HCO₃⁻ 24, pCO₂ 40 intersection. (Book p819)]",
+          "questionIds": [
+            "MED-C23-021"
+          ]
+        },
+        {
+          "element": "p819-e022",
+          "page": 819,
+          "source": "The arrow diagram beside the chapter title tells us that pH 7.36–7.44 is: [Acidosis → Normal pH (7.36–7.44) → Alkalosis, i.e. pH 7.36–7.44 is the normal band with acidosis below and alkalosis above. (Book p819)]",
+          "questionIds": [
+            "MED-C23-022"
+          ]
+        },
+        {
+          "element": "p819-e023",
+          "page": 819,
+          "source": "All but one of these zones are actually printed on the Siggaard–Andersen nomogram. Which is the odd one out? [Printed zones are normal, acute/chronic respiratory acidosis, acute/chronic respiratory alkalosis and metabolic acidosis/alkalosis — there is no mixed]",
+          "questionIds": [
+            "MED-C23-023"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 820,
+      "pdfPage": 61,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p820 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p820.",
+      "elements": [
+        {
+          "element": "p820-e001",
+          "page": 820,
+          "source": "The HCO₃⁻/H₂CO₃ system is described as the first compensation in which disorder? [The HCO₃⁻/H₂CO₃ system works as the 1st compensation in metabolic acidosis: [H⁺] + HCO₃⁻. (Book p820)]",
+          "questionIds": [
+            "MED-C23-024"
+          ]
+        },
+        {
+          "element": "p820-e002",
+          "page": 820,
+          "source": "Match the fate of carbonic acid in the bicarbonate system — 1) Carbonic acid  2) CO₂ limb  3) H₂O limb … A) Eliminated as water  B) Split into CO₂ and H₂O  C) Exhalation [H₂CO₃ splits into CO₂ (exhalation) and H₂O; the CO₂ limb drives the respiratory compensation. (Book p820)]",
+          "questionIds": [
+            "MED-C23-025"
+          ]
+        },
+        {
+          "element": "p820-e003",
+          "page": 820,
+          "source": "After the HCO₃⁻/H₂CO₃ buffering step, the fall in PaCO₂ produced by exhalation is called: [↓PaCO₂ from exhalation is labelled respiratory alkalosis and is the 2nd compensation, following the 1st compensation by HCO₃⁻. (Book p820)]",
+          "questionIds": [
+            "MED-C23-026"
+          ]
+        },
+        {
+          "element": "p820-e004",
+          "page": 820,
+          "source": "The pKa of the phosphate buffer is printed as: [Phosphate buffer pKa = 6.8, close to the physiological pH; the haemoglobin buffer pKa is 7.3. (Book p820)]",
+          "questionIds": [
+            "MED-C23-027"
+          ]
+        },
+        {
+          "element": "p820-e005",
+          "page": 820,
+          "source": "The phosphate buffer is ranked as: [Phosphate buffer: pKa 6.8, 2nd most effective, and more effective intracellularly. (Book p820)]",
+          "questionIds": [
+            "MED-C23-028"
+          ]
+        },
+        {
+          "element": "p820-e006",
+          "page": 820,
+          "source": "Fill up: The phosphate buffer reaction is [H⁺] + [HPO₄²⁻] → ______. [Phosphate buffering: [H⁺] + [HPO₄²⁻] → H₂PO₄⁻. (Book p820)]",
+          "questionIds": [
+            "MED-C23-029"
+          ]
+        },
+        {
+          "element": "p820-e007",
+          "page": 820,
+          "source": "The pKa of the haemoglobin buffer is: [Haemoglobin buffer: pKa 7.3, most effective intracellular buffering, H⁺ + Hb → HHb. (Book p820)]",
+          "questionIds": [
+            "MED-C23-030"
+          ]
+        },
+        {
+          "element": "p820-e008",
+          "page": 820,
+          "source": "Which buffer is called the most effective for intracellular buffering? [Haemoglobin buffer (pKa 7.3) is the most effective intracellular buffering system, reacting H⁺ + Hb → HHb. (Book p820)]",
+          "questionIds": [
+            "MED-C23-031"
+          ]
+        },
+        {
+          "element": "p820-e009",
+          "page": 820,
+          "source": "Match each buffer to its pKa and rank — 1) Bicarbonate system  2) Phosphate buffer  3) Haemoglobin buffer … A) pKa 7.3, most effective intracellular buffer  B) pKa 6.8, 2nd most effective buffer  C) Most potent extracellular buffer [Bicarbonate system = most potent extracellular buffer; phosphate = pKa 6.8, 2nd most effective (better intracellularly); haemoglobin = pKa 7.3, most e]",
+          "questionIds": [
+            "MED-C23-032"
+          ]
+        },
+        {
+          "element": "p820-e010",
+          "page": 820,
+          "source": "All but one of these statements about the three chemical buffers are printed in the Book. Which is the odd one out? [Intracellular supremacy belongs to haemoglobin (pKa 7.3); the bicarbonate system is the most potent *extracellular* buffer. (Book p820)]",
+          "questionIds": [
+            "MED-C23-033"
+          ]
+        },
+        {
+          "element": "p820-e011",
+          "page": 820,
+          "source": "‘Phosphate buffer is more effective inside the cell than outside it.’ [Phosphate buffer (pKa 6.8) is the 2nd most effective and acts intracellularly more effectively. (Book p820)]",
+          "questionIds": [
+            "MED-C23-034"
+          ]
+        },
+        {
+          "element": "p820-e012",
+          "page": 820,
+          "source": "Match the causes of metabolic acidosis — 1) Acid generation  2) Exogenous acid  3) Endogenous acid  4) Alkali loss … A) GI and renal loss  B) Methanol  C) Ketoacids  D) Parent category [Metabolic acidosis arises from acid generation (exogenous, e.g. methanol; endogenous, e.g. ketoacids) and from alkali loss (GI and renal). (Book p820)]",
+          "questionIds": [
+            "MED-C23-035"
+          ]
+        },
+        {
+          "element": "p820-e013",
+          "page": 820,
+          "source": "Fill up: The printed example of an exogenous acid causing metabolic acidosis is ______. [Acid generation is split into exogenous acid (methanol) and endogenous acid (ketoacids). (Book p820)]",
+          "questionIds": [
+            "MED-C23-036"
+          ]
+        },
+        {
+          "element": "p820-e014",
+          "page": 820,
+          "source": "Which of the following is given as the endogenous acid example? [Endogenous acid: ketoacids; exogenous acid: methanol. (Book p820)]",
+          "questionIds": [
+            "MED-C23-037"
+          ]
+        },
+        {
+          "element": "p820-e015",
+          "page": 820,
+          "source": "Match the steps of the anion gap derivation — 1) Total cation vs total anion  2) Adding unmeasured species  3) Measured cation − measured anions … A) = unmeasured anion − unmeasured cation  B) Are equal  C) measured cation + unmeasured cation = measured anion + unmeasured anion [Total cation = total anion; measured cation + unmeasured cation = measured anion + unmeasured anion; hence measured cation − measured anions = unmeasu]",
+          "questionIds": [
+            "MED-C23-038"
+          ]
+        },
+        {
+          "element": "p820-e016",
+          "page": 820,
+          "source": "The anion gap is defined as which difference, and equals which formula? [Anion gap = unmeasured anion − unmeasured cation = Na⁺ − (Cl⁻ + HCO₃⁻). (Book p820)]",
+          "questionIds": [
+            "MED-C23-039"
+          ]
+        },
+        {
+          "element": "p820-e017",
+          "page": 820,
+          "source": "Normal anion gap metabolic acidosis (NAGMA) is also called: [In NAGMA, HCO₃⁻ is compensated by Cl⁻, hence the alternative name hyperchloremic acidosis. (Book p820)]",
+          "questionIds": [
+            "MED-C23-040"
+          ]
+        },
+        {
+          "element": "p820-e018",
+          "page": 820,
+          "source": "Match the NAGMA causes shown in the flowchart — 1) GI loss  2) GI example  3) Renal loss … A) RTA  B) VIPoma  C) Ureterosigmoidostomy [NAGMA causes: GI loss (VIPoma and ureterosigmoidostomy) and renal loss (RTA). (Book p820)]",
+          "questionIds": [
+            "MED-C23-041"
+          ]
+        },
+        {
+          "element": "p820-e019",
+          "page": 820,
+          "source": "A patient with a VIPoma and chronic watery diarrhoea has a normal anion gap acidosis. This fits which printed category? [VIPoma is printed under NAGMA – GI loss, whereas RTA is the renal loss cause. (Book p820)]",
+          "questionIds": [
+            "MED-C23-042"
+          ]
+        },
+        {
+          "element": "p820-e020",
+          "page": 820,
+          "source": "High anion gap metabolic acidosis (HAGMA) is characterised by: [HAGMA: ↑ in unmeasured anions — the unmeasured anion − unmeasured cation difference widens. (Book p820)]",
+          "questionIds": [
+            "MED-C23-043"
+          ]
+        },
+        {
+          "element": "p820-e021",
+          "page": 820,
+          "source": "Fill up: The mnemonic given for the causes of high anion gap metabolic acidosis is ______. [HAGMA causes are remembered by KUSMAL — ketoacidosis, uremia, salicylates/paraldehyde, methanol, ethylene glycol (alcohol) and lactic acidosis. (Book ]",
+          "questionIds": [
+            "MED-C23-044"
+          ]
+        },
+        {
+          "element": "p820-e022",
+          "page": 820,
+          "source": "Match the KUSMAL letters to their causes — 1) K  2) U  3) S  4) L … A) Lactic acidosis  B) Ketoacidosis  C) Salicylates/Paraldehyde  D) Uremia [KUSMAL: K = ketoacidosis, U = uremia, S = salicylates/paraldehyde, M = methanol, A = ethylene glycol (alcohol), L = lactic acidosis. (Book p820)]",
+          "questionIds": [
+            "MED-C23-045"
+          ]
+        },
+        {
+          "element": "p820-e023",
+          "page": 820,
+          "source": "Under ‘K’ of the KUSMAL mnemonic, the three printed ketoacidosis subtypes are: [Ketoacidosis (i) DKA (ii) starvation (iii) alcoholic. (Book p820)]",
+          "questionIds": [
+            "MED-C23-046"
+          ]
+        },
+        {
+          "element": "p820-e024",
+          "page": 820,
+          "source": "A patient swallows antifreeze and develops a metabolic acidosis with a raised anion gap and an osmolal gap. Which KUSMAL entry explains it? [Antifreeze (ethylene glycol) is printed as ‘Ethylene glycol (Alcohol)’ under KUSMAL and produces HAGMA. (Book p820)]",
+          "questionIds": [
+            "MED-C23-047"
+          ]
+        },
+        {
+          "element": "p820-e025",
+          "page": 820,
+          "source": "All but one of the following belong to the KUSMAL list of HAGMA causes. Which is the odd one out? [KUSMAL lists ketoacidosis, uremia, salicylates/paraldehyde, methanol, ethylene glycol and lactic acidosis — paracetamol is not part of it. (Book p820)]",
+          "questionIds": [
+            "MED-C23-048"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 821,
+      "pdfPage": 62,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p821 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p821.",
+      "elements": [
+        {
+          "element": "p821-e001",
+          "page": 821,
+          "source": "Acidemia is defined as blood pH: [Acidemia: blood pH < 7.36; alkalemia: blood pH > 7.44. (Book p821)]",
+          "questionIds": [
+            "MED-C23-049"
+          ]
+        },
+        {
+          "element": "p821-e002",
+          "page": 821,
+          "source": "Alkalemia is defined as blood pH: [Alkalemia: blood pH > 7.44 (acidemia is < 7.36). (Book p821)]",
+          "questionIds": [
+            "MED-C23-050"
+          ]
+        },
+        {
+          "element": "p821-e003",
+          "page": 821,
+          "source": "Match the terminology box — 1) Acidemia  2) Acidosis  3) Alkalemia  4) Alkalosis … A) If alkalemia left unopposed  B) Blood pH < 7.36  C) If acidemia left unopposed  D) Blood pH > 7.44 [Acidemia = pH < 7.36; acidosis = if acidemia left unopposed. Alkalemia = pH > 7.44; alkalosis = if alkalemia left unopposed. (Book p821)]",
+          "questionIds": [
+            "MED-C23-051"
+          ]
+        },
+        {
+          "element": "p821-e004",
+          "page": 821,
+          "source": "‘Acidemia and acidosis mean exactly the same thing, and so do alkalemia and alkalosis.’ [The distinction is printed: acidemia = pH < 7.36 and acidosis = if acidemia is left unopposed; likewise for alkalemia/alkalosis. (Book p821)]",
+          "questionIds": [
+            "MED-C23-052"
+          ]
+        },
+        {
+          "element": "p821-e005",
+          "page": 821,
+          "source": "At pH 7.4 the H⁺ concentration is 40 nmol/L. Using the printed multipliers, H⁺ at pH 7.3 is: [Moving 0.1 pH below 7.4 multiplies H⁺ by 1.25: 40 × 1.25 = 50 nmol/L. (Book p821)]",
+          "questionIds": [
+            "MED-C23-053"
+          ]
+        },
+        {
+          "element": "p821-e006",
+          "page": 821,
+          "source": "Using the same multipliers, H⁺ at pH 7.2 is: [Two 0.1-pH steps below 7.4: 40 × 1.25 × 1.25 = 63 nmol/L (the printed value at pH 7.2). (Book p821)]",
+          "questionIds": [
+            "MED-C23-054"
+          ]
+        },
+        {
+          "element": "p821-e007",
+          "page": 821,
+          "source": "Moving 0.1 pH above 7.4, the printed multiplier is ×0.8 — so H⁺ at pH 7.5 is: [× 0.8 per 0.1 pH rise: 40 × 0.8 = 32 nmol/L at pH 7.5. (Book p821)]",
+          "questionIds": [
+            "MED-C23-055"
+          ]
+        },
+        {
+          "element": "p821-e008",
+          "page": 821,
+          "source": "H⁺ concentration printed at pH 7.6 is: [The printed ladder is pH 7.2 = 63, 7.3 = 50, 7.4 = 40, 7.5 = 32 and 7.6 = 25 nmol/L. (Book p821)]",
+          "questionIds": [
+            "MED-C23-056"
+          ]
+        },
+        {
+          "element": "p821-e009",
+          "page": 821,
+          "source": "Match the pH and H⁺ pairs printed in the H⁺ ion estimation diagram — 1) pH 7.2  2) pH 7.3  3) pH 7.5  4) pH 7.6 … A) 25 nmol/L  B) 63 nmol/L  C) 32 nmol/L  D) 50 nmol/L [Printed pairs: pH 7.2 → 63, pH 7.3 → 50, pH 7.4 → 40, pH 7.5 → 32, pH 7.6 → 25 nmol/L. (Book p821)]",
+          "questionIds": [
+            "MED-C23-057"
+          ]
+        },
+        {
+          "element": "p821-e010",
+          "page": 821,
+          "source": "A resident estimates H⁺ as 40 nmol/L and notes the patient's pH is 7.3. Would you correct the resident? [40 nmol/L is the value at pH 7.4; each 0.1 pH fall multiplies H⁺ by 1.25, giving 50 nmol/L at pH 7.3. (Book p821)]",
+          "questionIds": [
+            "MED-C23-058"
+          ]
+        },
+        {
+          "element": "p821-e011",
+          "page": 821,
+          "source": "Match the respiratory buffering chain — 1) [H⁺] + HCO₃⁻  2) CO₂ drive out  3) Consequence … A) ↑ respiratory rate produces respiratory alkalosis  B) Forms H₂CO₃  C) ↓ PaCO₂ [Respiratory buffering: [H⁺] + HCO₃⁻ → H₂CO₃; CO₂ is driven out by ↑ respiratory rate (respiratory alkalosis), lowering PaCO₂. (Book p821)]",
+          "questionIds": [
+            "MED-C23-059"
+          ]
+        },
+        {
+          "element": "p821-e012",
+          "page": 821,
+          "source": "Which statement about the respiratory buffering system is printed? [In respiratory buffering, CO₂ drive out occurs with ↑ respiratory rate → respiratory alkalosis → ↓PaCO₂. (Book p821)]",
+          "questionIds": [
+            "MED-C23-060"
+          ]
+        },
+        {
+          "element": "p821-e013",
+          "page": 821,
+          "source": "Match the acids produced by the kidney — 1) Non-volatile acids  2) Examples of non-volatile acids  3) Volatile acid  4) Elimination of the volatile acid … A) By respiration  B) Sulphuric acid and phosphoric acid  C) H₂CO₃ (carbonic acid) → H₂O + CO₂  D) Parent category [Kidney-produced acids: non-volatile acids (sulphuric acid, phosphoric acid) and the volatile H₂CO₃ which breaks to H₂O + CO₂ and is eliminated by resp]",
+          "questionIds": [
+            "MED-C23-061"
+          ]
+        },
+        {
+          "element": "p821-e014",
+          "page": 821,
+          "source": "Renal excretion of non-volatile acid is stated as: [Excretion is 1 mEq/kg/day, i.e. about 80 mEq/day, excreted as titratable acid and ammonia. (Book p821)]",
+          "questionIds": [
+            "MED-C23-062"
+          ]
+        },
+        {
+          "element": "p821-e015",
+          "page": 821,
+          "source": "The 80 mEq of daily acid load is excreted in which two forms? [Excretion 1 mEq/kg/day (80 mEq/day) as titratable acid and ammonia. (Book p821)]",
+          "questionIds": [
+            "MED-C23-063"
+          ]
+        },
+        {
+          "element": "p821-e016",
+          "page": 821,
+          "source": "Filtered HCO₃⁻ per day is printed as 4330 mEq. How is that figure derived? [HCO₃⁻ glomerular filtration = 4330 mEq, i.e. 24 mEq/L × 180 L/day. (Book p821)]",
+          "questionIds": [
+            "MED-C23-064"
+          ]
+        },
+        {
+          "element": "p821-e017",
+          "page": 821,
+          "source": "Fill up: Urine excretion of HCO₃⁻ is ______. [Urine excretion of HCO₃⁻ is nil because reabsorption is 100% (4000 of the 4330 mEq in the PCT alone). (Book p821)]",
+          "questionIds": [
+            "MED-C23-065"
+          ]
+        },
+        {
+          "element": "p821-e018",
+          "page": 821,
+          "source": "The reabsorption of filtered HCO₃⁻ is 100%, distributed in which printed order of magnitude? [Reabsorption is 100%: PCT (approx 4000 mEq) > thick AL > DCT; the rest of the filtered load is reclaimed more distally. (Book p821)]",
+          "questionIds": [
+            "MED-C23-066"
+          ]
+        },
+        {
+          "element": "p821-e019",
+          "page": 821,
+          "source": "‘About 4000 of the 4330 mEq of filtered bicarbonate is reabsorbed in the PCT, and the urine ultimately contains none.’ [Filtered HCO₃⁻ 4330 mEq/day is 100% reabsorbed — approximately 4000 mEq in the PCT, the rest in thick AL and DCT — so urine HCO₃⁻ excretion is nil. (B]",
+          "questionIds": [
+            "MED-C23-067"
+          ]
+        },
+        {
+          "element": "p821-e020",
+          "page": 821,
+          "source": "All but one of these are printed under the renal buffering system. Which is the odd one out? [The 80 mEq/day refers to *non-volatile* acid excretion; volatile H₂CO₃ is eliminated by respiration, not excreted in urine. (Book p821)]",
+          "questionIds": [
+            "MED-C23-068"
+          ]
+        },
+        {
+          "element": "p821-e021",
+          "page": 821,
+          "source": "In the PCT diagram, which transporter sits on the luminal membrane of the proximal tubule cell? [The luminal membrane carries the Na⁺–H⁺ exchanger; the basolateral membrane carries the Na⁺–HCO₃⁻ exchanger. (Book p821)]",
+          "questionIds": [
+            "MED-C23-069"
+          ]
+        },
+        {
+          "element": "p821-e022",
+          "page": 821,
+          "source": "Step ① of the PCT diagram — the hydration/dehydration of carbonic acid in the lumen — is catalysed by: [Step ① is luminal carbonic anhydrase IV acting on HCO₃⁻ + H⁺ → H₂CO₃; step ③ is cytoplasmic CA II. (Book p821)]",
+          "questionIds": [
+            "MED-C23-070"
+          ]
+        },
+        {
+          "element": "p821-e023",
+          "page": 821,
+          "source": "Step ③ inside the PCT cell, generating H₂CO₃ from CO₂ and H₂O, is catalysed by: [Cytoplasmic carbonic anhydrase II (CA II) hydrates CO₂ + H₂O → H₂CO₃ inside the cell; the luminal enzyme is CA IV. (Book p821)]",
+          "questionIds": [
+            "MED-C23-071"
+          ]
+        },
+        {
+          "element": "p821-e024",
+          "page": 821,
+          "source": "Match the numbered PCT steps — 1) Step ①  2) Step ②  3) Step ③  4) Step ④ … A) Dissociation of H₂CO₃ into H⁺ and HCO₃⁻  B) CA IV acting on HCO₃⁻ and H⁺  C) CA II forming H₂CO₃ from CO₂ and H₂O  D) Splitting of H₂CO₃ into H₂O and CO₂ [Luminal CA IV forms H₂CO₃ (①), which splits to H₂O + CO₂ (②); CO₂ enters the cell and CA II rebuilds H₂CO₃ (③), which dissociates to H⁺ and HCO₃⁻ (④).]",
+          "questionIds": [
+            "MED-C23-072"
+          ]
+        },
+        {
+          "element": "p821-e025",
+          "page": 821,
+          "source": "How does the HCO₃⁻ formed inside the PCT cell leave for the blood side? [The regenerated HCO₃⁻ exits across the basolateral membrane on the Na⁺–HCO₃⁻ exchanger, while H⁺ leaves apically on the Na⁺–H⁺ exchanger. (Book p821)]",
+          "questionIds": [
+            "MED-C23-073"
+          ]
+        },
+        {
+          "element": "p821-e026",
+          "page": 821,
+          "source": "Match the arrows entering the PCT cell from the lumen — 1) H₂O  2) Na⁺  3) Ca²⁺ … A) Reabsorbed cation named third  B) Reabsorbed cation named second  C) Reabsorbed with the filtrate solvent [The diagram shows H₂O, Na⁺ and Ca²⁺ reabsorbed from lumen into the PCT cell along with CO₂. (Book p821)]",
+          "questionIds": [
+            "MED-C23-074"
+          ]
+        },
+        {
+          "element": "p821-e027",
+          "page": 821,
+          "source": "Fill up: In the PCT diagram, CA stands for ______. [CA = carbonic anhydrase, the enzyme family catalysing the luminal (CA IV) and cytoplasmic (CA II) steps. (Book p821)]",
+          "questionIds": [
+            "MED-C23-075"
+          ]
+        },
+        {
+          "element": "p821-e028",
+          "page": 821,
+          "source": "Acetazolamide inhibits carbonic anhydrase in the PCT. Predict the effect from the printed diagram. [The diagram places CA IV luminally (step ①) and CA II in the cytoplasm (step ③); blocking carbonic anhydrase breaks both steps of HCO₃⁻ reabsorption. ]",
+          "questionIds": [
+            "MED-C23-076"
+          ]
+        },
+        {
+          "element": "p821-e029",
+          "page": 821,
+          "source": "All but one of these are shown moving across the luminal border of the PCT cell in the diagram. Which is the odd one out? [The diagram shows Na⁺, CO₂ and H₂O entering the cell and H⁺ leaving into the lumen; HCO₃⁻ movement is basolateral, into the blood. (Book p821)]",
+          "questionIds": [
+            "MED-C23-077"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 822,
+      "pdfPage": 63,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p822 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p822.",
+      "elements": [
+        {
+          "element": "p822-e001",
+          "page": 822,
+          "source": "For reabsorption of 1 mEq of HCO₃⁻, how much H⁺ is used? [For 1 mEq HCO₃⁻ reabsorption, 1 mEq of H⁺ is used — the basis of the daily H⁺ requirement. (Book p822)]",
+          "questionIds": [
+            "MED-C23-078"
+          ]
+        },
+        {
+          "element": "p822-e002",
+          "page": 822,
+          "source": "Adding the 4330 mEq of filtered HCO₃⁻ to the 80 mEq of non-volatile acid gives a daily requirement of: [4330 mEq of HCO₃⁻ + 80 mEq of non-volatile acid = 4400 mEq of H⁺ required, which the book calls not practically possible. (Book p822)]",
+          "questionIds": [
+            "MED-C23-079"
+          ]
+        },
+        {
+          "element": "p822-e003",
+          "page": 822,
+          "source": "Because 4400 mEq of H⁺ per day is not practically possible, the book concludes: [4400 mEq of H⁺ required (not practically possible) → requirement of buffering system. (Book p822)]",
+          "questionIds": [
+            "MED-C23-080"
+          ]
+        },
+        {
+          "element": "p822-e004",
+          "page": 822,
+          "source": "Match the quantities used to reach the daily H⁺ requirement — 1) Filtered HCO₃⁻  2) Non-volatile acid  3) Total H⁺ required … A) 80 mEq  B) 4400 mEq  C) 4330 mEq [4330 mEq of HCO₃⁻ plus 80 mEq of non-volatile acid demands 4400 mEq of H⁺ per day. (Book p822)]",
+          "questionIds": [
+            "MED-C23-081"
+          ]
+        },
+        {
+          "element": "p822-e005",
+          "page": 822,
+          "source": "‘The kidney alone can secrete the 4400 mEq of H⁺ needed each day, without any buffering.’ [4400 mEq of H⁺ per day is explicitly labelled ‘not practically possible’, which is why the buffering system is required. (Book p822)]",
+          "questionIds": [
+            "MED-C23-082"
+          ]
+        },
+        {
+          "element": "p822-e006",
+          "page": 822,
+          "source": "A student computes daily H⁺ need as 4330 mEq from filtered bicarbonate alone. What has been left out? [The 4330 mEq of filtered HCO₃⁻ must be added to the 80 mEq of non-volatile acid, giving the printed total of 4400 mEq of H⁺. (Book p822)]",
+          "questionIds": [
+            "MED-C23-083"
+          ]
+        },
+        {
+          "element": "p822-e007",
+          "page": 822,
+          "source": "Renal tubular acidosis type 2 is defined as: [RTA type 2 = generalised dysfunction of the PCT (proximal RTA). (Book p822)]",
+          "questionIds": [
+            "MED-C23-084"
+          ]
+        },
+        {
+          "element": "p822-e008",
+          "page": 822,
+          "source": "Match the type 2 RTA defect — 1) Na⁺–HCO₃⁻ exchanger defect  2) Carbonic anhydrase defect  3) Overall description … A) Generalised dysfunction of the PCT  B) Enzyme defect  C) Exchanger defect [The defect in type 2 RTA is a Na⁺–HCO₃⁻ exchanger defect and/or a carbonic anhydrase defect. (Book p822)]",
+          "questionIds": [
+            "MED-C23-085"
+          ]
+        },
+        {
+          "element": "p822-e009",
+          "page": 822,
+          "source": "In childhood, type 2 RTA is caused by Fanconi's syndrome. Which is the most common underlying cause? [Childhood causes: Fanconi's syndrome — cystinosis (m/c), Lowe's disease, and Wilson disease in adolescence. (Book p822)]",
+          "questionIds": [
+            "MED-C23-086"
+          ]
+        },
+        {
+          "element": "p822-e010",
+          "page": 822,
+          "source": "Match the childhood causes of type 2 RTA to their age label — 1) Cystinosis  2) Lowe's disease  3) Wilson disease … A) Labelled adolescence  B) Most common cause  C) Also listed under Fanconi's syndrome [Cystinosis is the m/c childhood cause, Lowe's disease is listed alongside it, and Wilson disease is tagged as adolescence. (Book p822)]",
+          "questionIds": [
+            "MED-C23-087"
+          ]
+        },
+        {
+          "element": "p822-e011",
+          "page": 822,
+          "source": "A 16-year-old with tremor, Kayser–Fleischer rings and a proximal renal tubular acidosis — which printed cause fits best? [Wilson disease appears under the childhood/Fanconi causes of type 2 RTA and is specifically tagged ‘adolescence’. (Book p822)]",
+          "questionIds": [
+            "MED-C23-088"
+          ]
+        },
+        {
+          "element": "p822-e012",
+          "page": 822,
+          "source": "Match the adults' causes of type 2 RTA — 1) Haematological cause  2) Antiviral drug  3) Antibiotic … A) Gentamicin  B) Myeloma  C) Tenofovir [Adult causes: myeloma and drugs — tenofovir, cyclophosphamide, outdated tetracycline and gentamicin. (Book p822)]",
+          "questionIds": [
+            "MED-C23-089"
+          ]
+        },
+        {
+          "element": "p822-e013",
+          "page": 822,
+          "source": "Which quartet of drugs is printed as a cause of adult type 2 RTA? [Drugs causing type 2 RTA in adults: tenofovir, cyclophosphamide, outdated tetracycline and gentamicin. (Book p822)]",
+          "questionIds": [
+            "MED-C23-090"
+          ]
+        },
+        {
+          "element": "p822-e014",
+          "page": 822,
+          "source": "‘Type 2 RTA is an isolated defect of bicarbonate reabsorption with everything else in the PCT working normally.’ [Type 2 RTA is a *generalised* PCT dysfunction: bicarbonate, phosphate and glucose handling all fail, hence rickets-like changes and glycosuria. (Book ]",
+          "questionIds": [
+            "MED-C23-091"
+          ]
+        },
+        {
+          "element": "p822-e015",
+          "page": 822,
+          "source": "All but one of the following are listed causes of type 2 RTA. Which is the odd one out? [Sjögren's syndrome is the acquired cause of *distal* RTA; type 2 RTA's causes are Fanconi's syndrome (cystinosis m/c, Lowe's, Wilson) and myeloma/drug]",
+          "questionIds": [
+            "MED-C23-092"
+          ]
+        },
+        {
+          "element": "p822-e016",
+          "page": 822,
+          "source": "Match the three arms of the PCT-defect flowchart — 1) HCO₃⁻ not reabsorbed  2) Na⁺–phosphorus exchange defect  3) Na⁺–glucose transporter inactive … A) Glycosuria  B) NAGMA  C) Loss of phosphorus [Three arms: HCO₃⁻ not reabsorbed → NAGMA; Na⁺–phosphorus exchange defect → loss of phosphorus → rickets-like changes; Na⁺–glucose transporter inactive]",
+          "questionIds": [
+            "MED-C23-093"
+          ]
+        },
+        {
+          "element": "p822-e017",
+          "page": 822,
+          "source": "Match the cascade that follows failed HCO₃⁻ reabsorption — 1) First step  2) Next  3) Then  4) End … A) Hypokalemia  B) NAGMA  C) RAS activation  D) RTA-II: salt water wasting [HCO₃⁻ not reabsorbed → NAGMA → RTA-II with salt water wasting → defective arteriolar volume → RAS activation → hypokalemia. (Book p822)]",
+          "questionIds": [
+            "MED-C23-094"
+          ]
+        },
+        {
+          "element": "p822-e018",
+          "page": 822,
+          "source": "Loss of phosphorus in type 2 RTA produces: [Na⁺–phosphorus exchange defect → loss of phosphorus → rickets-like changes. (Book p822)]",
+          "questionIds": [
+            "MED-C23-095"
+          ]
+        },
+        {
+          "element": "p822-e019",
+          "page": 822,
+          "source": "Glycosuria in type 2 RTA results from: [Na⁺–glucose transporter inactive → glycosuria (in the presence of a generalised PCT defect). (Book p822)]",
+          "questionIds": [
+            "MED-C23-096"
+          ]
+        },
+        {
+          "element": "p822-e020",
+          "page": 822,
+          "source": "A child with proximal RTA has polyuria, salt craving, low blood pressure and hypokalemia on the ABG. What sequence explains it? [The printed cascade for RTA-II is salt water wasting → defective arteriolar volume → RAS activation → hypokalemia. (Book p822)]",
+          "questionIds": [
+            "MED-C23-097"
+          ]
+        },
+        {
+          "element": "p822-e021",
+          "page": 822,
+          "source": "‘Salt wasting in type 2 RTA leads to RAS activation, and the resulting aldosterone effect is hypokalemia.’ [Defective arteriolar volume activates the RAS, and the endpoint printed in the flowchart is hypokalemia. (Book p822)]",
+          "questionIds": [
+            "MED-C23-098"
+          ]
+        },
+        {
+          "element": "p822-e022",
+          "page": 822,
+          "source": "All but one of these are consequences of the generalised PCT defect. Which is the odd one out? [An alkaline urine pH belongs to distal RTA; in proximal RTA the urine pH is normal, and the printed consequences are NAGMA, phosphaturia and glycosuri]",
+          "questionIds": [
+            "MED-C23-099"
+          ]
+        },
+        {
+          "element": "p822-e023",
+          "page": 822,
+          "source": "The cortical collecting system diagram is drawn for which cell type? [The diagram is labelled ‘α intercalated cell’, the acid-secreting cell of the cortical collecting system. (Book p822)]",
+          "questionIds": [
+            "MED-C23-100"
+          ]
+        },
+        {
+          "element": "p822-e024",
+          "page": 822,
+          "source": "Match the pumps on the α-intercalated cell — 1) Luminal H⁺ pump  2) Apical exchange pump  3) Which ion is exchanged … A) K⁺  B) H⁺-ATPase  C) H⁺,K⁺-ATPase [Both an H⁺-ATPase and an H⁺,K⁺-ATPase are drawn on the luminal side of the α-intercalated cell, the latter exchanging H⁺ for K⁺. (Book p822)]",
+          "questionIds": [
+            "MED-C23-101"
+          ]
+        },
+        {
+          "element": "p822-e025",
+          "page": 822,
+          "source": "How many ATP-requiring pumps are labelled in the α-intercalated cell diagram? [The diagram labels two ATP-dependent transporters: the H⁺-ATPase and the H⁺,K⁺-ATPase. (Book p822)]",
+          "questionIds": [
+            "MED-C23-102"
+          ]
+        },
+        {
+          "element": "p822-e026",
+          "page": 822,
+          "source": "Fill up: Inside the α-intercalated cell, CO₂ + H₂O combine under the influence of ______ to form H₂CO₃. [The α-intercalated cell uses CA II to make H₂CO₃ from CO₂ and H₂O; the H⁺ so generated is secreted into the lumen. (Book p822)]",
+          "questionIds": [
+            "MED-C23-103"
+          ]
+        },
+        {
+          "element": "p822-e027",
+          "page": 822,
+          "source": "Match the urinary acid species — 1) HPO₄²⁻ → H₂PO₄⁻  2) NH₃ → NH₄⁺  3) Difference between them … A) Non-titratable acid  B) Titratable acid  C) Only the first appears on the titratable-acid line [The diagram labels HPO₄²⁻ → H₂PO₄⁻ as titratable acid and NH₃ → NH₄⁺ as non-titratable acid. (Book p822)]",
+          "questionIds": [
+            "MED-C23-104"
+          ]
+        },
+        {
+          "element": "p822-e028",
+          "page": 822,
+          "source": "Fill up: Net acid secretion = urine NH₄⁺ + ______ − urine HCO₃⁻. [Net acid secretion: urine NH₄⁺ + urine titratable acid − urine HCO₃⁻. (Book p822)]",
+          "questionIds": [
+            "MED-C23-105"
+          ]
+        },
+        {
+          "element": "p822-e029",
+          "page": 822,
+          "source": "In the α-intercalated cell diagram, the K⁺ drawn on the luminal side moves: [The H⁺,K⁺-ATPase exchanges H⁺ (secreted) for K⁺ (reabsorbed); K⁺ is also shown exiting to the lumen alongside H⁺ in the diagram. (Book p822)]",
+          "questionIds": [
+            "MED-C23-106"
+          ]
+        },
+        {
+          "element": "p822-e030",
+          "page": 822,
+          "source": "‘The urinary ammonium and phosphate species are both counted as titratable acid in the printed formula.’ [The diagram labels H₂PO₄⁻ (from HPO₄²⁻) as titratable acid and NH₄⁺ as non-titratable acid; the net acid formula adds both to urine NH₄⁺ and subtracts]",
+          "questionIds": [
+            "MED-C23-107"
+          ]
+        },
+        {
+          "element": "p822-e031",
+          "page": 822,
+          "source": "All but one of these are labelled on the α-intercalated cell diagram. Which is the odd one out? [The luminal membrane shows the H⁺-ATPase and the H⁺,K⁺-ATPase with CA II in the cytoplasm; no luminal Na⁺–K⁺-ATPase is drawn. (Book p822)]",
+          "questionIds": [
+            "MED-C23-108"
+          ]
+        },
+        {
+          "element": "p822-e032",
+          "page": 822,
+          "source": "A patient's urine shows abundant NH₄⁺ and H₂PO₄⁻ but no HCO₃⁻. What is the net acid secretion according to the printed formula? [Net acid secretion = urine NH₄⁺ + urine titratable acid − urine HCO₃⁻; with no urinary HCO₃⁻, the two acid species alone determine net acid secretion.]",
+          "questionIds": [
+            "MED-C23-109"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 823,
+      "pdfPage": 64,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p823 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p823.",
+      "elements": [
+        {
+          "element": "p823-e001",
+          "page": 823,
+          "source": "Distal RTA (type 1) is caused by a defect of: [Distal RTA/type 1: defect of the H⁺-ATPase / H⁺,K⁺-ATPase of the distal tubule. (Book p823)]",
+          "questionIds": [
+            "MED-C23-110"
+          ]
+        },
+        {
+          "element": "p823-e002",
+          "page": 823,
+          "source": "Match the consequences of the distal tubular defect — 1) Acid–base defect  2) Potassium  3) Urine pH … A) Alkaline  B) Severe NAGMA  C) Severe hypokalemia [Distal tubular defect → severe NAGMA, severe hypokalemia and an alkaline urine pH, with no glycosuria. (Book p823)]",
+          "questionIds": [
+            "MED-C23-111"
+          ]
+        },
+        {
+          "element": "p823-e003",
+          "page": 823,
+          "source": "‘Glycosuria is a feature of distal RTA.’ [The distal RTA flowchart explicitly prints ‘No glycosuria’ (glycosuria belongs to proximal RTA). (Book p823)]",
+          "questionIds": [
+            "MED-C23-112"
+          ]
+        },
+        {
+          "element": "p823-e004",
+          "page": 823,
+          "source": "Match the bone/stone arm of distal RTA — 1) Ca²⁺ resorption in bone  2) Result one  3) Result two … A) Kidney stones  B) ↑Ca²⁺ resorption in bone  C) Rickets-like change [Increased Ca²⁺ resorption from bone in distal RTA produces rickets-like change and kidney stones. (Book p823)]",
+          "questionIds": [
+            "MED-C23-113"
+          ]
+        },
+        {
+          "element": "p823-e005",
+          "page": 823,
+          "source": "A 34-year-old woman has severe hypokalemia, a hyperchloremic acidosis with a normal anion gap, an alkaline urine and recurrent calcium stones. Which diagnosis fits? [Severe NAGMA with severe hypokalemia, alkaline urine, rickets-like change and kidney stones is the printed picture of distal RTA/type 1. (Book p823)]",
+          "questionIds": [
+            "MED-C23-114"
+          ]
+        },
+        {
+          "element": "p823-e006",
+          "page": 823,
+          "source": "Salt and water wasting in distal RTA leads to: [The distal RTA flowchart: salt water wasting → RANS activation (the printed spelling alongside RAS). (Book p823)]",
+          "questionIds": [
+            "MED-C23-115"
+          ]
+        },
+        {
+          "element": "p823-e007",
+          "page": 823,
+          "source": "All but one of these are features of distal RTA on the flowchart. Which is the odd one out? [Distal RTA produces severe NAGMA, severe hypokalemia, salt wasting and an alkaline urine — the chart states ‘No glycosuria’. (Book p823)]",
+          "questionIds": [
+            "MED-C23-116"
+          ]
+        },
+        {
+          "element": "p823-e008",
+          "page": 823,
+          "source": "‘In distal RTA the acidosis and the hypokalemia are both described as severe, while in proximal RTA they are mild.’ [The distal-vs-proximal table grades NAGMA with hypokalemia as severe in distal RTA and mild in proximal RTA. (Book p823)]",
+          "questionIds": [
+            "MED-C23-117"
+          ]
+        },
+        {
+          "element": "p823-e009",
+          "page": 823,
+          "source": "Match the two RTA columns to the table rows — 1) Kidney stones  2) Urine pH  3) Glycosuria … A) Absent (proximal RTA)  B) Present (distal RTA)  C) Alkaline (distal RTA) [Distal RTA: kidney stones present, urine pH alkaline, glycosuria absent. Proximal RTA reverses all three. (Book p823)]",
+          "questionIds": [
+            "MED-C23-118"
+          ]
+        },
+        {
+          "element": "p823-e010",
+          "page": 823,
+          "source": "In proximal RTA the urine pH is best described as: [Proximal RTA has a normal urine pH whereas distal RTA has an alkaline urine pH. (Book p823)]",
+          "questionIds": [
+            "MED-C23-119"
+          ]
+        },
+        {
+          "element": "p823-e011",
+          "page": 823,
+          "source": "Rickets in distal RTA is due to ______, while in proximal RTA it is due to ______. [Table row ‘Rickets’: distal RTA — due to (D/t) Ca²⁺ resorption; proximal RTA — due to loss of phosphorus. (Book p823)]",
+          "questionIds": [
+            "MED-C23-120"
+          ]
+        },
+        {
+          "element": "p823-e012",
+          "page": 823,
+          "source": "A patient with RTA has rickets and NO kidney stones but does pass glucose in urine with normal blood sugar. Which column of the table is this? [Glycosuria with absent kidney stones identifies the proximal RTA column of the table. (Book p823)]",
+          "questionIds": [
+            "MED-C23-121"
+          ]
+        },
+        {
+          "element": "p823-e013",
+          "page": 823,
+          "source": "Match the inherited causes row — 1) Distal RTA  2) Proximal RTA  3) Mode of distal inheritance … A) Fanconi's syndrome  B) Autosomal recessive  C) H⁺ ATPase / H⁺ K⁺ ATPase defect [Inherited row: distal RTA — autosomal recessive H⁺ ATPase / H⁺ K⁺ ATPase defect; proximal RTA — Fanconi's syndrome. (Book p823)]",
+          "questionIds": [
+            "MED-C23-122"
+          ]
+        },
+        {
+          "element": "p823-e014",
+          "page": 823,
+          "source": "The acquired cause listed for distal RTA is ______ and for proximal RTA is ______. [Acquired row of the table: distal RTA — Sjögren's syndrome; proximal RTA — myeloma. (Book p823)]",
+          "questionIds": [
+            "MED-C23-123"
+          ]
+        },
+        {
+          "element": "p823-e015",
+          "page": 823,
+          "source": "Match each item to the RTA type it belongs to — 1) Sjögren's syndrome  2) Myeloma  3) Fanconi's syndrome  4) Autosomal recessive H⁺ ATPase defect … A) Proximal RTA acquired  B) Distal RTA inherited  C) Distal RTA acquired  D) Proximal RTA inherited [Sjögren's = distal acquired; myeloma = proximal acquired; Fanconi's syndrome = proximal inherited; AR H⁺ ATPase/H⁺ K⁺ ATPase defect = distal inherited]",
+          "questionIds": [
+            "MED-C23-124"
+          ]
+        },
+        {
+          "element": "p823-e016",
+          "page": 823,
+          "source": "‘Kidney stones are present in distal RTA but absent in proximal RTA, while glycosuria behaves the opposite way.’ [The table prints stones Present (distal) / Absent (proximal) and glycosuria Absent (distal) / Present (proximal). (Book p823)]",
+          "questionIds": [
+            "MED-C23-125"
+          ]
+        },
+        {
+          "element": "p823-e017",
+          "page": 823,
+          "source": "Two patients both have NAGMA. One has severe hypokalemia with an alkaline urine; the other has mild hypokalemia with a normal urine pH. Which is which? [Severe NAGMA with hypokalemia and an alkaline urine = distal RTA; mild NAGMA with hypokalemia and a normal urine pH = proximal RTA. (Book p823)]",
+          "questionIds": [
+            "MED-C23-126"
+          ]
+        },
+        {
+          "element": "p823-e018",
+          "page": 823,
+          "source": "All but one of these are correctly paired in the distal vs proximal RTA table. Which is the odd one out? [Kidney stones are *present* in distal RTA and absent in proximal RTA; the other three pairings are as printed. (Book p823)]",
+          "questionIds": [
+            "MED-C23-127"
+          ]
+        },
+        {
+          "element": "p823-e019",
+          "page": 823,
+          "source": "Which single table row best separates distal from proximal RTA at the bedside? [Both types show NAGMA, so the discriminating rows are urine pH (alkaline vs normal), stones (present vs absent) and glycosuria (absent vs present). (B]",
+          "questionIds": [
+            "MED-C23-128"
+          ]
+        },
+        {
+          "element": "p823-e020",
+          "page": 823,
+          "source": "Fill up: Urine anion gap = urinary Na⁺ + urinary K⁺ − ______. [UAG = urinary Na⁺ + urinary K⁺ − urinary Cl⁻ = unmeasured anion − unmeasured cation. (Book p823)]",
+          "questionIds": [
+            "MED-C23-129"
+          ]
+        },
+        {
+          "element": "p823-e021",
+          "page": 823,
+          "source": "The urine anion gap is best described as: [The urine anion gap (urinary Na⁺ + K⁺ − Cl⁻ = unmeasured anion − unmeasured cation) is slightly negative normally. (Book p823)]",
+          "questionIds": [
+            "MED-C23-130"
+          ]
+        },
+        {
+          "element": "p823-e022",
+          "page": 823,
+          "source": "Match the urine anion gap result to its significance — 1) Positive UAG  2) Negative UAG  3) Normal UAG … A) Slightly negative  B) GI loss  C) RTA [UAG significance: positive → RTA; negative → GI loss. (Book p823)]",
+          "questionIds": [
+            "MED-C23-131"
+          ]
+        },
+        {
+          "element": "p823-e023",
+          "page": 823,
+          "source": "A patient with a normal anion gap acidosis has a negative urine anion gap. Where is the bicarbonate being lost? [A negative urine anion gap points to GI loss; a positive gap points to renal tubular acidosis. (Book p823)]",
+          "questionIds": [
+            "MED-C23-132"
+          ]
+        },
+        {
+          "element": "p823-e024",
+          "page": 823,
+          "source": "‘Ammonia formation occurs predominantly in the proximal tubules.’ [Note: formation of ammonia is predominantly in the proximal tubules; the reaction chain is glutamine → glutamate → α-keto glutarate. (Book p823)]",
+          "questionIds": [
+            "MED-C23-133"
+          ]
+        },
+        {
+          "element": "p823-e025",
+          "page": 823,
+          "source": "Match the ammonia-forming pathway — 1) Starting amino acid  2) First product  3) Second product … A) Glutamine  B) α-keto glutarate  C) Glutamate [Glutamine → glutamate → α-keto glutarate, with NH₃ released at each step. (Book p823)]",
+          "questionIds": [
+            "MED-C23-134"
+          ]
+        },
+        {
+          "element": "p823-e026",
+          "page": 823,
+          "source": "How many NH₃ molecules are shown being released along the printed pathway? [The pathway glutamine → glutamate → α-keto glutarate shows an NH₃ released at each of the two steps. (Book p823)]",
+          "questionIds": [
+            "MED-C23-135"
+          ]
+        },
+        {
+          "element": "p823-e027",
+          "page": 823,
+          "source": "A patient with diarrhoea has a normal anion gap acidosis. Which urine anion gap and ammonia pattern do you expect? [GI loss gives a negative urine anion gap and, unlike RTA, the proximal tubules respond by making more ammonia from glutamine. (Book p823)]",
+          "questionIds": [
+            "MED-C23-136"
+          ]
+        },
+        {
+          "element": "p823-e028",
+          "page": 823,
+          "source": "All but one of these are printed in the urine anion gap section. Which is the odd one out? [A positive UAG indicates RTA; it is the *negative* UAG that indicates GI loss. (Book p823)]",
+          "questionIds": [
+            "MED-C23-137"
+          ]
+        }
+      ]
+    }
+  ]
+}

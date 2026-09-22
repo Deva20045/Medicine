@@ -1,0 +1,694 @@
+{
+  "chapter": 10,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part1_pages_705-759.pdf",
+  "pdfSha256": "e2dfab80e25cd81302885cda7e07806117d24e15b03d73f2f6b00952ca2fdeea",
+  "pdfOffset": 692,
+  "pageRange": "756-761",
+  "contentSha256": "d7a36518c74ee007969e49390046a4eb5def0d83053b85011ae5e27c42ad077f",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry and caption. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch10 p756-761: auto-generated source checklist from existing 78 questions, each mapped to its printed line in book order. Visual scan was read at 3x zoom; any printed unit errors or ambiguous glyphs are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan."
+  ],
+  "pages": [
+    {
+      "page": 756,
+      "pdfPage": 64,
+      "pdf": "uploads/Medicine_Vol3_Part1_pages_705-759.pdf",
+      "pdfSha256": "e2dfab80e25cd81302885cda7e07806117d24e15b03d73f2f6b00952ca2fdeea",
+      "traversal": "Read top-to-bottom: Book p756 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p756.",
+      "elements": [
+        {
+          "element": "p756-e001",
+          "page": 756,
+          "source": "The six presentations of glomerular disease listed are asymptomatic, macrohematuria, nephrotic syndrome and: [Presentations: asymptomatic, macrohematuria, nephrotic syndrome, nephritic syndrome (acute GN), RPGN, CKD (chronic GN). (Book p756)]",
+          "questionIds": [
+            "MED-C10-001"
+          ]
+        },
+        {
+          "element": "p756-e002",
+          "page": 756,
+          "source": "Match each pattern with its book label — 1) Nephritic syndrome 2) CKD of glomerular disease 3) CKD of vascular disease … A) Ischemic nephropathy B) CKD CGN (chronic glomerulonephritis) C) Acute glomerulonephritis [Nephritic syndrome = acute GN; CKD of glomerular disease = CKD CGN; CKD of vascular disease = ischemic nephropathy. (Book p756)]",
+          "questionIds": [
+            "MED-C10-002"
+          ]
+        },
+        {
+          "element": "p756-e003",
+          "page": 756,
+          "source": "The m/c presentation that heads the biopsy-indication flowchart is: [Asymptomatic urine abnormalities (m/c presentation) lead to biopsy. (Book p756)]",
+          "questionIds": [
+            "MED-C10-003"
+          ]
+        },
+        {
+          "element": "p756-e004",
+          "page": 756,
+          "source": "Asymptomatic urine abnormalities go to biopsy with proteinuria above 500 mg/24 hrs plus microhematuria of at least: [Proteinuria (>500 mg/24 hrs) + microhematuria (≥3 RBC/HPF); proteinuria alone >1 g/24 hrs → biopsy. (Book p756)]",
+          "questionIds": [
+            "MED-C10-004"
+          ]
+        },
+        {
+          "element": "p756-e005",
+          "page": 756,
+          "source": "Fill up: In the macrohematuria 40/5/1 rule, the \"1\" stands for one ______ plus significant proteinuria. [40/5/1 rule: ≥40 dysmorphic, ≥5 acanthocytes, 1 RBC cast + significant proteinuria → biopsy. (Book p756)]",
+          "questionIds": [
+            "MED-C10-005"
+          ]
+        },
+        {
+          "element": "p756-e006",
+          "page": 756,
+          "source": "Match each number of the macrohematuria rule with its finding — 1) ≥40 2) ≥5 3) 1 … A) RBC cast B) Dysmorphic RBCs C) Acanthocytes [≥40: dysmorphic; ≥5: acanthocytes; 1: RBC cast. (Book p756)]",
+          "questionIds": [
+            "MED-C10-006"
+          ]
+        },
+        {
+          "element": "p756-e007",
+          "page": 756,
+          "source": "Which of these is NOT one of the six numbered presentations of glomerular disease on this page? [The list is 1. Asymptomatic, 2. macrohematuria, 3. nephrotic syndrome, 4. nephritic syndrome (acute glomerulonephritis), 5. RPGN, 6. chronic kidney di]",
+          "questionIds": [
+            "MED-C10-007"
+          ]
+        },
+        {
+          "element": "p756-e008",
+          "page": 756,
+          "source": "Hyperlipidemia and lipiduria are noted on this page as having previously formed part of the diagnostic criteria for nephrotic syndrome. [Beneath the three printed criteria the note reads: 'Hyperlipidemia, lipiduria were previously part of diagnostic criteria'. (Book p756)]",
+          "questionIds": [
+            "MED-C10-008"
+          ]
+        },
+        {
+          "element": "p756-e009",
+          "page": 756,
+          "source": "Fill up: The third criterion of nephrotic syndrome is oedema, which the page describes as ______ oedema. [Criterion 3 is written as 'Edema : Extravascular', with 1 Nephrotic range proteinuria and 2 Hypoalbuminemia <3 g/dl. (Book p756)]",
+          "questionIds": [
+            "MED-C10-009"
+          ]
+        },
+        {
+          "element": "p756-e010",
+          "page": 756,
+          "source": "A 6-year-old has nephrotic-range proteinuria, serum albumin 3.4 g/dL and periorbital puffiness. Applying the criteria box, this child: [The bracket beside the criteria prints 'Adults: 1 + 2 + 3' and 'Children: 1 + 2 or 3', so criterion 1 with edema alone satisfies the paediatric defini]",
+          "questionIds": [
+            "MED-C10-010"
+          ]
+        },
+        {
+          "element": "p756-e011",
+          "page": 756,
+          "source": "In the biopsy-indication flowchart, proteinuria ALONE prompts biopsy once it exceeds: [The asymptomatic arm lists two routes: proteinuria >500 mg/24 hrs plus microhematuria ≥3 RBC/HPF, or proteinuria alone >1 g/24 hrs. (Book p756)]",
+          "questionIds": [
+            "MED-C10-011"
+          ]
+        },
+        {
+          "element": "p756-e012",
+          "page": 756,
+          "source": "The nephrotic syndrome criteria are nephrotic-range proteinuria, hypoalbuminemia and extravascular edema; the combination required in adults is: [Adults: 1 + 2 + 3; children: 1 + 2 or 3. (Book p756)]",
+          "questionIds": [
+            "MED-C10-012"
+          ]
+        },
+        {
+          "element": "p756-e013",
+          "page": 756,
+          "source": "The hypoalbuminemia cut-off in the nephrotic criteria is serum albumin below: [Hypoalbuminemia: < 3 g/dl. (Book p756)]",
+          "questionIds": [
+            "MED-C10-013"
+          ]
+        },
+        {
+          "element": "p756-e014",
+          "page": 756,
+          "source": "Which statement about the diagnostic criteria is TRUE? [Note: hyperlipidemia, lipiduria were previously part of diagnostic criteria; edema is extravascular. (Book p756)]",
+          "questionIds": [
+            "MED-C10-014"
+          ]
+        },
+        {
+          "element": "p756-e015",
+          "page": 756,
+          "source": "Nephrotic-range proteinuria by total protein is >3500 mg/24 hrs in adults and, in children: [Total protein: adults >3500 mg/24 hrs; children >50 mg/kg/day. (Book p756)]",
+          "questionIds": [
+            "MED-C10-015"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 757,
+      "pdfPage": 65,
+      "pdf": "uploads/Medicine_Vol3_Part1_pages_705-759.pdf",
+      "pdfSha256": "e2dfab80e25cd81302885cda7e07806117d24e15b03d73f2f6b00952ca2fdeea",
+      "traversal": "Read top-to-bottom: Book p757 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p757.",
+      "elements": [
+        {
+          "element": "p757-e001",
+          "page": 757,
+          "source": "The urine protein creatinine ratio (PCR) nephrotic-range cut-offs are: [Urine PCR: adult ≥3000 mg/g; children ≥2000 mg/g. (Book p757)]",
+          "questionIds": [
+            "MED-C10-016"
+          ]
+        },
+        {
+          "element": "p757-e002",
+          "page": 757,
+          "source": "Which statement about the urine PCR is TRUE as written? [Not diagnostic of nephrotic syndrome. (Book p757)]",
+          "questionIds": [
+            "MED-C10-017"
+          ]
+        },
+        {
+          "element": "p757-e003",
+          "page": 757,
+          "source": "Nephrotic-range proteinuria is \"also seen in\" diabetes (m/c), 2° FSGS and amyloidosis; the treatment bracketed for this group is: [Also seen in: diabetes (m/c), 2° FSGS, amyloidosis → Rx: ACE inhibitors, ARB. (Book p757)]",
+          "questionIds": [
+            "MED-C10-018"
+          ]
+        },
+        {
+          "element": "p757-e004",
+          "page": 757,
+          "source": "In childhood nephrotic syndrome the edema compartment relationship written is: [Proteinuria + hypoalbuminemia + edema; extravascular > intravascular. (Book p757)]",
+          "questionIds": [
+            "MED-C10-019"
+          ]
+        },
+        {
+          "element": "p757-e005",
+          "page": 757,
+          "source": "The bracket drawn after the 'Also seen in' causes carries which printed advice? [Nephrotic-range proteinuria is also seen in diabetes (m/c), secondary FSGS and amyloidosis, and the bracket beside that group reads 'Rx: ACE inhibitor]",
+          "questionIds": [
+            "MED-C10-020"
+          ]
+        },
+        {
+          "element": "p757-e006",
+          "page": 757,
+          "source": "A raised urine protein–creatinine ratio is explicitly described on this page as not diagnostic of nephrotic syndrome. [The PCR block gives adult ≥3000 mg/g and children ≥2000 mg/g, then the line 'Not diagnostic of nephrotic syndrome'. (Book p757)]",
+          "questionIds": [
+            "MED-C10-021"
+          ]
+        },
+        {
+          "element": "p757-e007",
+          "page": 757,
+          "source": "A diabetic with a urine PCR of 4200 mg/g has serum albumin 3.8 g/dL and no edema. Per this page, the correct reading is: [The criteria demand nephrotic-range proteinuria with hypoalbuminemia and/or edema; the 'Also seen in' block names diabetes (m/c) with the bracketed ad]",
+          "questionIds": [
+            "MED-C10-022"
+          ]
+        },
+        {
+          "element": "p757-e008",
+          "page": 757,
+          "source": "Hypoalbuminemia in nephrotic syndrome arises from urinary loss of albumin together with: [Urinary loss of albumin; ↓ compensation by liver. (Book p757)]",
+          "questionIds": [
+            "MED-C10-023"
+          ]
+        },
+        {
+          "element": "p757-e009",
+          "page": 757,
+          "source": "The nail sign illustrated for hypoalbuminemia, a white transverse line, is: [Sign: white transverse line – Muehrcke's line. (Book p757)]",
+          "questionIds": [
+            "MED-C10-024"
+          ]
+        },
+        {
+          "element": "p757-e010",
+          "page": 757,
+          "source": "For nephrotic edema the book ranks the theories as: [Underfill theory > overfill theory. (Book p757)]",
+          "questionIds": [
+            "MED-C10-025"
+          ]
+        },
+        {
+          "element": "p757-e011",
+          "page": 757,
+          "source": "The underfill sequence runs hypoalbuminemia → loss of capillary oncotic pressure → fluid transfer to interstitium, giving periorbital puffiness and pedal edema plus: [↓ effective circulatory volume → 2° RAS activation → aldosterone → Na+, water retention. (Book p757)]",
+          "questionIds": [
+            "MED-C10-026"
+          ]
+        },
+        {
+          "element": "p757-e012",
+          "page": 757,
+          "source": "Fill up: In the underfill theory, 2° RAS activation causes release of ______, retaining Na+ and water as intravascular edema. [2° RAS activation → release of aldosterone → retention of Na+, water. (Book p757)]",
+          "questionIds": [
+            "MED-C10-027"
+          ]
+        },
+        {
+          "element": "p757-e013",
+          "page": 757,
+          "source": "Which of these belongs to the RIGHT-hand branch of the underfill flowchart rather than the left-hand one? [After 'Transfer of fluid from capillaries to interstitium' the chart splits: left to periorbital puffiness and pedal edema (extravascular edema), righ]",
+          "questionIds": [
+            "MED-C10-028"
+          ]
+        },
+        {
+          "element": "p757-e014",
+          "page": 757,
+          "source": "Fill up: In the underfill chain, the step that sits between secondary RAS activation and retention of sodium and water is the release of ______. [The printed right-hand chain is ↓ effective circulatory volume → 2° RAS activation → Release of aldosterone → Retention of Na+, water (Intravascular e]",
+          "questionIds": [
+            "MED-C10-029"
+          ]
+        },
+        {
+          "element": "p757-e015",
+          "page": 757,
+          "source": "A nephrotic child has periorbital puffiness, pedal edema, pulse 130 and blood pressure 78/50. The underfill chart accounts for the low pressure by: [In underfill, loss of capillary oncotic pressure shifts fluid to the interstitium; the same shift that produces extravascular edema drops the effectiv]",
+          "questionIds": [
+            "MED-C10-030"
+          ]
+        },
+        {
+          "element": "p757-e016",
+          "page": 757,
+          "source": "The hypoalbuminemia block gives two mechanisms: urinary loss of albumin and reduced compensation by the liver. [The two bullets read 'urinary loss of albumin' and '↓ compensation by liver'; the nail figure beneath the Sign heading shows Muehrcke's line. (Book p7]",
+          "questionIds": [
+            "MED-C10-031"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 758,
+      "pdfPage": 66,
+      "pdf": "uploads/Medicine_Vol3_Part1_pages_705-759.pdf",
+      "pdfSha256": "e2dfab80e25cd81302885cda7e07806117d24e15b03d73f2f6b00952ca2fdeea",
+      "traversal": "Read top-to-bottom: Book p758 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p758.",
+      "elements": [
+        {
+          "element": "p758-e001",
+          "page": 758,
+          "source": "The overfill theory is seen in nephritic syndrome; its pathogenesis starts with β hemolytic streptococci releasing plasmin, which activates: [β hemolytic streptococci → plasmin → activates ENaC → 1° RAS activation → retention of Na+, water. (Book p758)]",
+          "questionIds": [
+            "MED-C10-032"
+          ]
+        },
+        {
+          "element": "p758-e002",
+          "page": 758,
+          "source": "The second overfill-theory mechanism listed is: [2. ANP resistance. (Book p758)]",
+          "questionIds": [
+            "MED-C10-033"
+          ]
+        },
+        {
+          "element": "p758-e003",
+          "page": 758,
+          "source": "The printed pathogenesis of the overfill theory runs in which order? [Overfill theory, seen in nephritic syndrome: 1. β hemolytic streptococci releases plasmin → activates epithelial sodium channel (ENaC) → 1° RAS activa]",
+          "questionIds": [
+            "MED-C10-034"
+          ]
+        },
+        {
+          "element": "p758-e004",
+          "page": 758,
+          "source": "The overfill pathway is labelled with PRIMARY RAS activation, in contrast to the SECONDARY activation written in the underfill chart. [p757 underfill ends in ↓ effective circulatory volume → 2° RAS activation; p758 overfill goes ENaC → 1° RAS activation → Na+/water retention (Intravas]",
+          "questionIds": [
+            "MED-C10-035"
+          ]
+        },
+        {
+          "element": "p758-e005",
+          "page": 758,
+          "source": "Fill up: In the overfill chain, the streptococcal product that activates the epithelial sodium channel is ______. [The arrows read: β hemolytic streptococci → Releases plasmin → Activates epithelial sodium channel (ENaC). (Book p758)]",
+          "questionIds": [
+            "MED-C10-036"
+          ]
+        },
+        {
+          "element": "p758-e006",
+          "page": 758,
+          "source": "Which pair is written in the third management box as 'Rare'? [The management row has three boxes: MCD (85–90%, steroid responsive 95%, no role of biopsy), FSGS (genetic form unresponsive to steroid; Rx renal tran]",
+          "questionIds": [
+            "MED-C10-037"
+          ]
+        },
+        {
+          "element": "p758-e007",
+          "page": 758,
+          "source": "The minimal change disease box states 85-90% with steroid responsiveness of 95%; about biopsy it says: [MCD: 85-90%; Rx steroid responsive (95%); no role of biopsy. (Book p758)]",
+          "questionIds": [
+            "MED-C10-038"
+          ]
+        },
+        {
+          "element": "p758-e008",
+          "page": 758,
+          "source": "The genetic form of FSGS is unresponsive to steroid; its treatment box lists: [FSGS genetic form: unresponsive to steroid; Rx: renal transplantation. MN, IgA: rare. (Book p758)]",
+          "questionIds": [
+            "MED-C10-039"
+          ]
+        },
+        {
+          "element": "p758-e009",
+          "page": 758,
+          "source": "Thrombosis (renal vessel thrombosis, CVT, DVT) becomes a risk when serum albumin falls below: [If serum albumin <2 g/dl → renal vessel thrombosis, CVT, DVT. (Book p758)]",
+          "questionIds": [
+            "MED-C10-040"
+          ]
+        },
+        {
+          "element": "p758-e010",
+          "page": 758,
+          "source": "Listed causes of thrombosis include loss of antithrombin III and of protein C/S in urine, ↑ platelet aggregation, ↑ fibrinogen and ↓ plasminogen; the odd one out is: [The book lists ↓ plasminogen, not ↑ plasminogen. (Book p758)]",
+          "questionIds": [
+            "MED-C10-041"
+          ]
+        },
+        {
+          "element": "p758-e011",
+          "page": 758,
+          "source": "Albumin is corrected (to >2 g/dL) using 20% albumin (20 g/100 ml) at a dose of: [20% albumin: 20 g/100 ml; dose: 0.5 g/kg. (Book p758)]",
+          "questionIds": [
+            "MED-C10-042"
+          ]
+        },
+        {
+          "element": "p758-e012",
+          "page": 758,
+          "source": "Besides 20% albumin, the book notes that these can also be used: [FFP and egg white can also be used. (Book p758)]",
+          "questionIds": [
+            "MED-C10-043"
+          ]
+        },
+        {
+          "element": "p758-e013",
+          "page": 758,
+          "source": "Match each haemostatic variable with the direction printed for it in the causes of thrombosis — 1) Antithrombin III and protein C/S 2) Fibrinogen 3) Plasminogen … A) Lost in urine B) Increased C) Decreased D) Unchanged [The block reads: loss of antithrombin III in urine, loss of protein C,S in urine, ↑platelet aggregation, ↑fibrinogen and ↓plasminogen. (Book p758)]",
+          "questionIds": [
+            "MED-C10-044"
+          ]
+        },
+        {
+          "element": "p758-e014",
+          "page": 758,
+          "source": "A child with steroid-sensitive nephrotic syndrome has serum albumin 1.4 g/dL and suddenly passes cola-coloured urine with left loin pain. The page's warning that fits best is: [Under Risk of thrombosis the page states: if serum albumin <2 g/dl → can lead to renal vessel thrombosis, CVT, DVT; loin pain with macroscopic haematu]",
+          "questionIds": [
+            "MED-C10-045"
+          ]
+        },
+        {
+          "element": "p758-e015",
+          "page": 758,
+          "source": "Match each edema manifestation with its severity label — 1) Ascites 2) Pleural effusion 3) Pericardial effusion … A) Mild B) Rare, with disproportional dyspnoea C) Moderate to severe [Ascites (moderate to severe); pleural effusion (mild); pericardial effusion (rare) with disproportional dyspnoea. (Book p758)]",
+          "questionIds": [
+            "MED-C10-046"
+          ]
+        },
+        {
+          "element": "p758-e016",
+          "page": 758,
+          "source": "For moderate-to-severe ascites the book lists ascitic fluid tapping; the m/c cause of death written is: [Rx: ascitic fluid tapping; m/c cause of death: pneumococcal peritonitis. (Book p758)]",
+          "questionIds": [
+            "MED-C10-047"
+          ]
+        },
+        {
+          "element": "p758-e017",
+          "page": 758,
+          "source": "A rare pericardial effusion presenting with disproportional dyspnoea is investigated with: [Pericardial effusion (rare): disproportional dyspnoea → Ix: echo. (Book p758)]",
+          "questionIds": [
+            "MED-C10-048"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 759,
+      "pdfPage": 67,
+      "pdf": "uploads/Medicine_Vol3_Part1_pages_705-759.pdf",
+      "pdfSha256": "e2dfab80e25cd81302885cda7e07806117d24e15b03d73f2f6b00952ca2fdeea",
+      "traversal": "Read top-to-bottom: Book p759 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p759.",
+      "elements": [
+        {
+          "element": "p759-e001",
+          "page": 759,
+          "source": "The dietary prescription for edema is salt restriction below 2 g/day with protein at: [Salt restriction <2 g/day; protein 1 g/kg/day; albumin, FFP. (Book p759)]",
+          "questionIds": [
+            "MED-C10-049"
+          ]
+        },
+        {
+          "element": "p759-e002",
+          "page": 759,
+          "source": "Diuretics are avoided in nephrotic edema; they are indicated only when: [Diuretics avoided; indicated only if IVC is non-collapsible in USG; reason: precipitates pre-renal AKI. (Book p759)]",
+          "questionIds": [
+            "MED-C10-050"
+          ]
+        },
+        {
+          "element": "p759-e003",
+          "page": 759,
+          "source": "Daily monitoring of the nephrotic child includes weight, urine routine examination and: [Daily monitoring: weight; urine routine examination; urine protein creatinine ratio. (Book p759)]",
+          "questionIds": [
+            "MED-C10-051"
+          ]
+        },
+        {
+          "element": "p759-e004",
+          "page": 759,
+          "source": "The steroid regimen written is oral prednisolone 2 mg/kg/day (or 60 mg/m²/day) for 6 weeks with a maximum of 80 mg/day, followed by: [Oral prednisolone 2 mg/kg/day (or) 60 mg/m²/day × 6 wks, max 80 mg/day → taper × 6 weeks → stop. (Book p759)]",
+          "questionIds": [
+            "MED-C10-052"
+          ]
+        },
+        {
+          "element": "p759-e005",
+          "page": 759,
+          "source": "Remission (90-95%) is defined by urine albumin nil or trace for 3 consecutive days plus urine PCR below: [Remission: urine albumin nil or trace × 3 consecutive days; urine PCR <200 mg/g. (Book p759)]",
+          "questionIds": [
+            "MED-C10-053"
+          ]
+        },
+        {
+          "element": "p759-e006",
+          "page": 759,
+          "source": "The proportion labelled steroid resistant nephrotic syndrome (SRNS) at this step is: [Steroid resistant nephrotic syndrome (SRNS): 5-10%. (Book p759)]",
+          "questionIds": [
+            "MED-C10-054"
+          ]
+        },
+        {
+          "element": "p759-e007",
+          "page": 759,
+          "source": "Which statement about nephrotic hyperlipidemia is TRUE as written? [Resolves with steroid therapy; no risk of atherosclerosis; no role for statin. (Book p759)]",
+          "questionIds": [
+            "MED-C10-055"
+          ]
+        },
+        {
+          "element": "p759-e008",
+          "page": 759,
+          "source": "Match each hyperlipidemia mechanism with its consequence — 1) ↑ lipoprotein lipase 2) ↓ lecithin cholesterol acyltransferase (LCAT) 3) ↑ VLDL, LDL synthesis by liver … A) ↑ VLDL, ↑ LDL, ↑ total cholesterol B) ↑ TG C) ↓ HDL [↑ lipoprotein lipase → ↑ TG; ↓ LCAT → ↓ HDL; ↑ hepatic VLDL/LDL synthesis → ↑ VLDL, ↑ LDL, ↑ total cholesterol. (Book p759)]",
+          "questionIds": [
+            "MED-C10-056"
+          ]
+        },
+        {
+          "element": "p759-e009",
+          "page": 759,
+          "source": "The HDL fall in nephrotic hyperlipidemia is attributed to: [D/t loss of HDL in urine: ↓ HDL. (Book p759)]",
+          "questionIds": [
+            "MED-C10-057"
+          ]
+        },
+        {
+          "element": "p759-e010",
+          "page": 759,
+          "source": "The associated skin features illustrated with hyperlipidemia are: [Associated features: xanthoma, xanthelasma. (Book p759)]",
+          "questionIds": [
+            "MED-C10-058"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 760,
+      "pdfPage": 1,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p760 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p760.",
+      "elements": [
+        {
+          "element": "p760-e001",
+          "page": 760,
+          "source": "SRNS is proteinuria despite full-dose steroid for 4 weeks; the next step, called the 1st indication in a child, is: [Proteinuria despite full dose of steroid for 4 wk → biopsy (1st indication in child). (Book p760)]",
+          "questionIds": [
+            "MED-C10-059"
+          ]
+        },
+        {
+          "element": "p760-e002",
+          "page": 760,
+          "source": "The genetic form of FSGS uncovered on biopsy carries a mutation in: [Genetic form of FSGS (podocin mutation) → Rx: renal transplantation. (Book p760)]",
+          "questionIds": [
+            "MED-C10-060"
+          ]
+        },
+        {
+          "element": "p760-e003",
+          "page": 760,
+          "source": "When biopsy shows minimal change disease in SRNS, the DOC are calcineurin inhibitors given for 6 months with a maximum duration of: [Calcineurin inhibitors (DOC): duration 6 months; max 2 yrs. (Book p760)]",
+          "questionIds": [
+            "MED-C10-061"
+          ]
+        },
+        {
+          "element": "p760-e004",
+          "page": 760,
+          "source": "Match each calcineurin-inhibitor fact with its label — 1) Tacrolimus dose 2) Tacrolimus side effects 3) Cyclosporine side effects … A) Hirsutism, gingival hyperplasia B) Neuropathy, DM, alopecia C) 0.1 mg/kg/day [Tacrolimus 0.1 mg/kg/day with neuropathy, DM, alopecia; cyclosporine with hirsutism, gingival hyperplasia. (Book p760)]",
+          "questionIds": [
+            "MED-C10-062"
+          ]
+        },
+        {
+          "element": "p760-e005",
+          "page": 760,
+          "source": "The first relapse definition in the flowchart is proteinuria appearing after: [Relapse: proteinuria after 1 month of steroid. (Book p760)]",
+          "questionIds": [
+            "MED-C10-063"
+          ]
+        },
+        {
+          "element": "p760-e006",
+          "page": 760,
+          "source": "After the first relapse the cohort splits into no-further-relapse, infrequent relapse and FRNS in the proportions: [25% no further relapse; 25% infrequent relapse; 50% FRNS. (Book p760)]",
+          "questionIds": [
+            "MED-C10-064"
+          ]
+        },
+        {
+          "element": "p760-e007",
+          "page": 760,
+          "source": "Infrequent relapse is treated with steroid, tapered over 4 weeks: [Infrequent relapse → steroid → taper over 4 wks during remission. (Book p760)]",
+          "questionIds": [
+            "MED-C10-065"
+          ]
+        },
+        {
+          "element": "p760-e008",
+          "page": 760,
+          "source": "Frequently relapsing nephrotic syndrome (FRNS) is defined by: [FRNS: ≥ 2 relapse within 6 months; ≥ 4 relapse within 1 year. (Book p760)]",
+          "questionIds": [
+            "MED-C10-066"
+          ]
+        },
+        {
+          "element": "p760-e009",
+          "page": 760,
+          "source": "The steroid-sparing regimen written for FRNS (to prevent steroid toxicity) is oral cyclophosphamide 2 mg/kg/day × 12 weeks plus steroid × 2 weeks, or: [Steroid sparing drug: oral cyclophosphamide 2 mg/kg/day × 12 wks + steroid × 2 wks; oral levamisole. (Book p760)]",
+          "questionIds": [
+            "MED-C10-067"
+          ]
+        },
+        {
+          "element": "p760-e010",
+          "page": 760,
+          "source": "The second relapse line defines relapse as proteinuria reappearing after: [Relapse: proteinuria reappears after 1 month of intermission. (Book p760)]",
+          "questionIds": [
+            "MED-C10-068"
+          ]
+        },
+        {
+          "element": "p760-e011",
+          "page": 760,
+          "source": "Steroid dependent nephrotic syndrome (SDNS) needs ≥ 2 consecutive relapses during tapering of steroid or within how many days after stopping steroid? [SDNS: ≥ 2 consecutive relapses during tapering of steroid (or) within 14 days after stopping steroid. (Book p760)]",
+          "questionIds": [
+            "MED-C10-069"
+          ]
+        },
+        {
+          "element": "p760-e012",
+          "page": 760,
+          "source": "The treatment written for SDNS is MMF 1200 mg/m²/day plus: [Treatment: MMF 1200 mg/m²/day; rituximab 375 mg/m²/day × 4 doses. (Book p760)]",
+          "questionIds": [
+            "MED-C10-070"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 761,
+      "pdfPage": 2,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p761 content as rendered at 3x zoom, covering every bullet, table cell, diagram label, arrow, caption and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p761.",
+      "elements": [
+        {
+          "element": "p761-e001",
+          "page": 761,
+          "source": "Adult nephrotic syndrome is summarized as proteinuria with urine PCR ≥3000 mg/d together with: [Proteinuria (urine PCR ≥3000 mg/d); edema; hypoalbuminemia. (Book p761)]",
+          "questionIds": [
+            "MED-C10-071"
+          ]
+        },
+        {
+          "element": "p761-e002",
+          "page": 761,
+          "source": "The m/c cause of adult nephrotic syndrome in the cause list is: [Causes: membranous nephropathy (m/c); FSGS; MCD (15%); IgA; MPGN; 2° amyloidosis. (Book p761)]",
+          "questionIds": [
+            "MED-C10-072"
+          ]
+        },
+        {
+          "element": "p761-e003",
+          "page": 761,
+          "source": "The adult causes grouped under the 'Rare' bracket are: [Rare bracket: membrano proliferative glomerulonephritis (MPGN), 2° amyloidosis. (Book p761)]",
+          "questionIds": [
+            "MED-C10-073"
+          ]
+        },
+        {
+          "element": "p761-e004",
+          "page": 761,
+          "source": "The adult management sequence is biopsy first, then: [Management: 1. biopsy; 2. rule out 2° causes (Eg: paraneoplastic syndrome). (Book p761)]",
+          "questionIds": [
+            "MED-C10-074"
+          ]
+        },
+        {
+          "element": "p761-e005",
+          "page": 761,
+          "source": "The adult steroid trial written is 1 mg/kg/d for: [Steroid: 1 mg/kg/d × 4 months; no response → SRNS. (Book p761)]",
+          "questionIds": [
+            "MED-C10-075"
+          ]
+        },
+        {
+          "element": "p761-e006",
+          "page": 761,
+          "source": "An adult failing the 4-month steroid course is labelled SRNS, whose m/c cause is: [No response → SRNS (m/c: FSGS). (Book p761)]",
+          "questionIds": [
+            "MED-C10-076"
+          ]
+        },
+        {
+          "element": "p761-e007",
+          "page": 761,
+          "source": "The note's Maltese crosses in polarized light and oval fat bodies are both annotated as seen in: [Maltese crosses in polarized light and oval fat bodies: seen in Fabry's disease. (Book p761)]",
+          "questionIds": [
+            "MED-C10-077"
+          ]
+        },
+        {
+          "element": "p761-e008",
+          "page": 761,
+          "source": "In adults, MCD accounts for about what share of nephrotic syndrome? [MCD (15%) among adult causes. (Book p761)]",
+          "questionIds": [
+            "MED-C10-078"
+          ]
+        }
+      ]
+    }
+  ]
+}

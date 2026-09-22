@@ -1,0 +1,771 @@
+{
+  "chapter": 19,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+  "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+  "pdfOffset": 759,
+  "pageRange": "805-807",
+  "contentSha256": "20249376f51058530ea0be3b58ae30d2ec3972a1d11e09239dce057aec0439ff",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch19 p805-807: auto-generated source checklist from existing 91 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 805,
+      "pdfPage": 46,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p805 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p805.",
+      "elements": [
+        {
+          "element": "p805-e001",
+          "page": 805,
+          "source": "The definition of chronic kidney disease on this page describes the net consequence of a fall in viable nephrons. What intraglomerular hypertension ultimately results in? [Definition: net consequence of the ↓ in no. of viable nephrons leading to intraglomerular hypertension resulting in proteinuria. (Book p805)]",
+          "questionIds": [
+            "MED-C19-001"
+          ]
+        },
+        {
+          "element": "p805-e002",
+          "page": 805,
+          "source": "Fill up: GFR = viable no. of nephrons × single nephron (sn) ______. [Pathogenesis: GFR = viable no. of nephrons × single nephron (sn) GFR. (Book p805)]",
+          "questionIds": [
+            "MED-C19-002"
+          ]
+        },
+        {
+          "element": "p805-e003",
+          "page": 805,
+          "source": "Viable nephrons can be regenerated or replaced after birth. [Viable nephrons: fixed according to birth weight; not regenerated/replaced. (Book p805)]",
+          "questionIds": [
+            "MED-C19-003"
+          ]
+        },
+        {
+          "element": "p805-e004",
+          "page": 805,
+          "source": "The number of viable nephrons in a person is fixed according to: [Viable nephrons: fixed according to birth weight; not regenerated/replaced. (Book p805)]",
+          "questionIds": [
+            "MED-C19-004"
+          ]
+        },
+        {
+          "element": "p805-e005",
+          "page": 805,
+          "source": "Match the following pathogenesis step to its consequence — 1) ↓ no. of nephrons  2) Glomerular hyperfiltration  3) Mechanical stretching … A) Intraglomerular hypertension  B) ↑↑ sn GFR to maintain GFR  C) Capillary, podocyte and mesangial cell injury [↓ no. of nephrons → ↑↑ sn GFR to maintain GFR → glomerular hyperfiltration → intraglomerular hypertension → mechanical stretching of capillary, podocy]",
+          "questionIds": [
+            "MED-C19-005"
+          ]
+        },
+        {
+          "element": "p805-e006",
+          "page": 805,
+          "source": "Match the following stretched glomerular cell to its response — 1) Capillary  2) Podocyte  3) Mesangial cell … A) Proliferation → glomerular sclerosis (GS)  B) ↓ nephrin expression via local RAAS activation through AT-II  C) ↑ capillary pore diameter → proteinuria (tubulotoxic) [Mechanical stretching: capillary → ↑ capillary pore diameter → proteinuria (tubulotoxic); podocyte → local RAAS activation via AT-II → ↓ nephrin expre]",
+          "questionIds": [
+            "MED-C19-006"
+          ]
+        },
+        {
+          "element": "p805-e007",
+          "page": 805,
+          "source": "All but one are components of the red-letter mnemonic written beneath the flowchart. Which is the odd one out? [Mnemonic: IF TA GS — interstitial fibrosis, tubular atrophy, glomerular sclerosis. (Book p805)]",
+          "questionIds": [
+            "MED-C19-007"
+          ]
+        },
+        {
+          "element": "p805-e008",
+          "page": 805,
+          "source": "Fill up: Tubulotoxic proteinuria triggers interstitial inflammation, which releases ______ to drive interstitial fibrosis and tubular atrophy. [Proteinuria is tubulotoxic → interstitial inflammation releases TGF-β → interstitial fibrosis (IF) + tubular atrophy (TA). (Book p805)]",
+          "questionIds": [
+            "MED-C19-008"
+          ]
+        },
+        {
+          "element": "p805-e009",
+          "page": 805,
+          "source": "The tubulointerstitium, the determinant of renal function decline, makes up what share of the kidney? [Determinant of renal function decline: tubulointerstitium (85-90% of kidney is tubulointerstitium). (Book p805)]",
+          "questionIds": [
+            "MED-C19-009"
+          ]
+        },
+        {
+          "element": "p805-e010",
+          "page": 805,
+          "source": "The tendency to progress independently of etiology sets in after what fraction of nephrons are destroyed? [Tendency to progress independent of etiology: after 50% nephrons are destroyed. (Book p805)]",
+          "questionIds": [
+            "MED-C19-010"
+          ]
+        },
+        {
+          "element": "p805-e011",
+          "page": 805,
+          "source": "A patient who has one kidney removed at birth retains fewer viable nephrons. To keep total GFR stable, each surviving nephron must: [↓ no. of nephrons → ↑↑ sn GFR to maintain GFR (compensation of surviving nephrons). (Book p805)]",
+          "questionIds": [
+            "MED-C19-011"
+          ]
+        },
+        {
+          "element": "p805-e012",
+          "page": 805,
+          "source": "In the flowchart, the podocyte responds to mechanical stretching with local RAAS activation via AT-II. [Podocyte → local RAAS activation via AT-II → ↓ nephrin expression. (Book p805)]",
+          "questionIds": [
+            "MED-C19-012"
+          ]
+        },
+        {
+          "element": "p805-e013",
+          "page": 805,
+          "source": "According to the page, the determinant of renal function decline in CKD is the: [Determinant of renal function decline: tubulointerstitium (85-90% of kidney is tubulointerstitium). (Book p805)]",
+          "questionIds": [
+            "MED-C19-013"
+          ]
+        },
+        {
+          "element": "p805-e014",
+          "page": 805,
+          "source": "In the CAUSES line at the foot of the page, the order of the entities after DKD is: [CAUSES: Diabetic Kidney Disease (DKD) > Chronic Glomerulonephritis (CGN) > Ischemic nephropathy (IN) > Chronic TubuloIntersticial Disease (CTID) > Adu]",
+          "questionIds": [
+            "MED-C19-014"
+          ]
+        },
+        {
+          "element": "p805-e015",
+          "page": 805,
+          "source": "In the same CAUSES line, DKD carries the label m/c and ______. [DKD: m/c worst prognosis; CGN: (and m/c). (Book p805)]",
+          "questionIds": [
+            "MED-C19-015"
+          ]
+        },
+        {
+          "element": "p805-e016",
+          "page": 805,
+          "source": "All but one appear in the CAUSES ranking line. Which is the odd one out? [The line lists DKD > CGN > IN > CTID > ADPKD; Alport syndrome is not on this line. (Book p805)]",
+          "questionIds": [
+            "MED-C19-016"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 806,
+      "pdfPage": 47,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p806 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p806.",
+      "elements": [
+        {
+          "element": "p806-e001",
+          "page": 806,
+          "source": "Match the following cause of CKD with its rate of fall of GFR (ml/min/year) — 1) DKD  2) CGN  3) IN  4) CTID … A) 4-6  B) 8-10  C) 2-4  D) 6-8 [Table: rate of fall of GFR (ml/min/year) — DKD 8-10; CGN 6-8; IN 4-6; CTID 2-4. (Book p806)]",
+          "questionIds": [
+            "MED-C19-017"
+          ]
+        },
+        {
+          "element": "p806-e002",
+          "page": 806,
+          "source": "The rate of fall of GFR listed for diabetic kidney disease (DKD) is: [Table: DKD 8-10 ml/min/year. (Book p806)]",
+          "questionIds": [
+            "MED-C19-018"
+          ]
+        },
+        {
+          "element": "p806-e003",
+          "page": 806,
+          "source": "The rate of fall of GFR listed for ischemic nephropathy (IN) is: [Table: IN 4-6 ml/min/year. (Book p806)]",
+          "questionIds": [
+            "MED-C19-019"
+          ]
+        },
+        {
+          "element": "p806-e004",
+          "page": 806,
+          "source": "In the complications row of the causes table, which two columns carry the ↑↑ marks? [Complications row: DKD — ↑↑ vascular complications; IN — ↑↑ macrovascular complications; CGN and CTID are marked '-'. (Book p806)]",
+          "questionIds": [
+            "MED-C19-020"
+          ]
+        },
+        {
+          "element": "p806-e005",
+          "page": 806,
+          "source": "CGN shows ↑↑ macrovascular complications in the causes table. [Complications row: CGN '-', IN ↑↑ macrovascular complications. (Book p806)]",
+          "questionIds": [
+            "MED-C19-021"
+          ]
+        },
+        {
+          "element": "p806-e006",
+          "page": 806,
+          "source": "A CKD patient with a long history of atheromatous vascular disease is losing GFR at about 5 ml/min/year. Which causes-column fits best? [IN column: rate 4-6 ml/min/year and ↑↑ macrovascular complications. (Book p806)]",
+          "questionIds": [
+            "MED-C19-022"
+          ]
+        },
+        {
+          "element": "p806-e007",
+          "page": 806,
+          "source": "The slowest rate of fall of GFR in the causes table, 2-4 ml/min/year, belongs to: [CTID: 2-4 ml/min/year. (Book p806)]",
+          "questionIds": [
+            "MED-C19-023"
+          ]
+        },
+        {
+          "element": "p806-e008",
+          "page": 806,
+          "source": "Match the following G stage with its GFR (ml/min) — 1) G1  2) G3a  3) G4  4) G5 … A) <15  B) ≥90  C) 15-29  D) 45-59 [G (GFR): G1 ≥90; G2 60-89; G3a 45-59; G3b 30-44; G4 15-29; G5 <15. (Book p806)]",
+          "questionIds": [
+            "MED-C19-024"
+          ]
+        },
+        {
+          "element": "p806-e009",
+          "page": 806,
+          "source": "The GFR range for stage G2 is: [G2: 60-89 ml/min. (Book p806)]",
+          "questionIds": [
+            "MED-C19-025"
+          ]
+        },
+        {
+          "element": "p806-e010",
+          "page": 806,
+          "source": "The GFR range for stage G3b is: [G3b: 30-44 ml/min. (Book p806)]",
+          "questionIds": [
+            "MED-C19-026"
+          ]
+        },
+        {
+          "element": "p806-e011",
+          "page": 806,
+          "source": "Fill up: In the G table, stage G1 (GFR ≥90) qualifies only when ______ / biochemical / histological evidence is positive. [G1: ≥90 ml/min → radiological / biochemical / histological evidence (+). (Book p806)]",
+          "questionIds": [
+            "MED-C19-027"
+          ]
+        },
+        {
+          "element": "p806-e012",
+          "page": 806,
+          "source": "In the G table, stage G5 (GFR <15) is labelled as: [G5: <15 ml/min → ESRD (uremic phase); mx: dialysis. (Book p806)]",
+          "questionIds": [
+            "MED-C19-028"
+          ]
+        },
+        {
+          "element": "p806-e013",
+          "page": 806,
+          "source": "Match the following A stage with its urine albumin-creatinine ratio — 1) A1  2) A2  3) A3 … A) >300 mg/g — severely ↑↑  B) ≤30 mg/g — normal  C) 30-300 mg/g — moderately ↑ [A - ACR: A1 ≤30 mg/g normal; A2 30-300 mg/g moderately ↑; A3 >300 mg/g severely ↑↑. (Book p806)]",
+          "questionIds": [
+            "MED-C19-029"
+          ]
+        },
+        {
+          "element": "p806-e014",
+          "page": 806,
+          "source": "The upper limit of the A2 albuminuria band is: [A2: 30-300 mg/g (moderately ↑). (Book p806)]",
+          "questionIds": [
+            "MED-C19-030"
+          ]
+        },
+        {
+          "element": "p806-e015",
+          "page": 806,
+          "source": "A3 corresponds to an ACR above 300 mg/g and is described as severely raised. [A3: >300 mg/g — severely ↑↑. (Book p806)]",
+          "questionIds": [
+            "MED-C19-031"
+          ]
+        },
+        {
+          "element": "p806-e016",
+          "page": 806,
+          "source": "A CKD patient has a GFR of 22 ml/min and an ACR of 450 mg/g. The staging is: [G4 = 15-29 ml/min; A3 = >300 mg/g. (Book p806)]",
+          "questionIds": [
+            "MED-C19-032"
+          ]
+        },
+        {
+          "element": "p806-e017",
+          "page": 806,
+          "source": "The A category of the classification is built on which ratio (ACR)? [A - ACR (urine albumin creatine ratio) as printed on the page. (Book p806)]",
+          "questionIds": [
+            "MED-C19-033"
+          ]
+        },
+        {
+          "element": "p806-e018",
+          "page": 806,
+          "source": "Fill up: The complications of CKD are captured by the mnemonic A, B, C, D and ______, with a separate U-line for uremic symptoms. [COMPLICATIONS: mnemonic ABCDE (A anemia/acidosis/access, B BP/bone, C cardiac, D dry weight, E electrolyte) plus U uremic symptoms. (Book p806)]",
+          "questionIds": [
+            "MED-C19-034"
+          ]
+        },
+        {
+          "element": "p806-e019",
+          "page": 806,
+          "source": "Match the following complication letter to its content — 1) A  2) B  3) C  4) D … A) Dry weight  B) BP and bone mineral disease (renal osteodystrophy)  C) Cardiac — m/c cause of death  D) Anemia, acidosis and access for dialysis [ABCDE: A — anemia (unfit for transplant; ↓ GFR independently), metabolic acidosis (↓ cardiac function), access for dialysis; B — BP, bone mineral dise]",
+          "questionIds": [
+            "MED-C19-035"
+          ]
+        },
+        {
+          "element": "p806-e020",
+          "page": 806,
+          "source": "Under A of the complications mnemonic, anemia is highlighted because it makes the patient: [A — anemia: unfit for transplant; ↓ GFR independently. (Book p806)]",
+          "questionIds": [
+            "MED-C19-036"
+          ]
+        },
+        {
+          "element": "p806-e021",
+          "page": 806,
+          "source": "In the same A-line, metabolic acidosis acts by: [A — acidosis (metabolic) → ↓ cardiac function. (Book p806)]",
+          "questionIds": [
+            "MED-C19-037"
+          ]
+        },
+        {
+          "element": "p806-e022",
+          "page": 806,
+          "source": "All but one sit under A of the ABCDE mnemonic. Which is the odd one out? [A covers anemia, metabolic acidosis and access for dialysis; bone mineral disease is under B. (Book p806)]",
+          "questionIds": [
+            "MED-C19-038"
+          ]
+        },
+        {
+          "element": "p806-e023",
+          "page": 806,
+          "source": "The cardiac (C) complication chain runs: left ventricular hypertrophy → ______. [C — cardiac (m/c cause of death): LVH → heart failure with preserved ejection fraction. (Book p806)]",
+          "questionIds": [
+            "MED-C19-039"
+          ]
+        },
+        {
+          "element": "p806-e024",
+          "page": 806,
+          "source": "In the C-line, calcification is listed as a reason the patient becomes unfit for transplant. [C — cardiac: LVH → HFpEF; calcification → unfit for transplant. (Book p806)]",
+          "questionIds": [
+            "MED-C19-040"
+          ]
+        },
+        {
+          "element": "p806-e025",
+          "page": 806,
+          "source": "Fill up: The E-line of the mnemonic covers the electrolytes Ca²⁺, PO₄³⁻ and ______. [E — electrolyte (Ca²⁺, PO₄³⁻, K⁺). (Book p806)]",
+          "questionIds": [
+            "MED-C19-041"
+          ]
+        },
+        {
+          "element": "p806-e026",
+          "page": 806,
+          "source": "The D-line of the complications mnemonic stands for: [D — dry weight. (Book p806)]",
+          "questionIds": [
+            "MED-C19-042"
+          ]
+        },
+        {
+          "element": "p806-e027",
+          "page": 806,
+          "source": "A CKD patient is admitted with dyspnea; the echocardiogram shows LVH with a preserved ejection fraction. Under which letter of the complications mnemonic is this recorded? [C — cardiac (m/c cause of death): LVH → heart failure with preserved ejection fraction. (Book p806)]",
+          "questionIds": [
+            "MED-C19-043"
+          ]
+        },
+        {
+          "element": "p806-e028",
+          "page": 806,
+          "source": "The U-line of the complications list names: [U — uremic symptoms. (Book p806)]",
+          "questionIds": [
+            "MED-C19-044"
+          ]
+        },
+        {
+          "element": "p806-e029",
+          "page": 806,
+          "source": "In the diagnosis block, which kidney morphology is listed for a CKD work-up? [Diagnosis: B/L contracted kidney. (Book p806)]",
+          "questionIds": [
+            "MED-C19-045"
+          ]
+        },
+        {
+          "element": "p806-e030",
+          "page": 806,
+          "source": "All but one are in the 'all of' set written for diabetic nephropathy. Which is the odd one out? [Diabetic nephropathy — all of: proteinuria, edema, hypertension, retinopathy. (Book p806)]",
+          "questionIds": [
+            "MED-C19-046"
+          ]
+        },
+        {
+          "element": "p806-e031",
+          "page": 806,
+          "source": "Fill up: The diagnosis block closes with a biopsy line looking for IF, TA and ______. [Biopsy: IF/TA/GS. (Book p806)]",
+          "questionIds": [
+            "MED-C19-047"
+          ]
+        },
+        {
+          "element": "p806-e032",
+          "page": 806,
+          "source": "The five numbered reversible causes to address include obstruction and ______. [Address reversible causes: 1. obstruction; 2. drugs/toxins/alternate medicines; 3. uncontrolled hypertension; 4. ECF volume ↓; 5. hypercalcemia. (Book]",
+          "questionIds": [
+            "MED-C19-048"
+          ]
+        },
+        {
+          "element": "p806-e033",
+          "page": 806,
+          "source": "Uncontrolled hypertension is numbered which item in the reversible-causes list? [Numbered list: 1 obstruction, 2 drugs/toxins/alternate medicines, 3 uncontrolled hypertension, 4 ECF volume ↓, 5 hypercalcemia. (Book p806)]",
+          "questionIds": [
+            "MED-C19-049"
+          ]
+        },
+        {
+          "element": "p806-e034",
+          "page": 806,
+          "source": "Match the following reversible cause to its detail — 1) ECF volume ↓  2) Hypercalcemia  3) Drugs … A) Nephrogenic diabetes insipidus + afferent arteriole vasoconstriction  B) Diuretic excess / ↓ albumin  C) Toxins and alternate medicines [Reversible causes: ECF volume ↓ d/t diuretic excess, ↓ albumin; hypercalcemia → nephrogenic diabetes insipidus, afferent arteriole vasoconstriction; d]",
+          "questionIds": [
+            "MED-C19-050"
+          ]
+        },
+        {
+          "element": "p806-e035",
+          "page": 806,
+          "source": "A CKD patient on aggressive diuretics with hypoalbuminemia develops worsening renal function. The reversible mechanism named in the list is: [Reversible cause 4: ECF volume ↓ d/t diuretic excess / ↓ albumin. (Book p806)]",
+          "questionIds": [
+            "MED-C19-051"
+          ]
+        },
+        {
+          "element": "p806-e036",
+          "page": 806,
+          "source": "Hypercalcemia is listed as a reversible cause because it drives nephrogenic diabetes insipidus and afferent arteriole vasoconstriction. [Reversible cause 5: hypercalcemia → nephrogenic diabetes insipidus, afferent arteriole vasoconstriction. (Book p806)]",
+          "questionIds": [
+            "MED-C19-052"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 807,
+      "pdfPage": 48,
+      "pdf": "uploads/Medicine_Vol3_Part2_pages_760-823.pdf",
+      "pdfSha256": "bd6447776846838da1b46d20327427d95d4aac47d0fc353eeb58798e97dbac4b",
+      "traversal": "Read top-to-bottom: Book p807 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p807.",
+      "elements": [
+        {
+          "element": "p807-e001",
+          "page": 807,
+          "source": "The protocol on this page begins with: [Protocol: confirm diagnosis of CKD. (Book p807)]",
+          "questionIds": [
+            "MED-C19-053"
+          ]
+        },
+        {
+          "element": "p807-e002",
+          "page": 807,
+          "source": "For a patient fit for transplant, the hurdle listed on the page is: [If patient fit for transplant: hurdles — vascular complications (medial calcifications) → ↓ chance of success. (Book p807)]",
+          "questionIds": [
+            "MED-C19-054"
+          ]
+        },
+        {
+          "element": "p807-e003",
+          "page": 807,
+          "source": "Vascular complications with medial calcifications improve the chance of a successful transplant. [Hurdles for transplant: vascular complications — medial calcifications → ↓ chance of success. (Book p807)]",
+          "questionIds": [
+            "MED-C19-055"
+          ]
+        },
+        {
+          "element": "p807-e004",
+          "page": 807,
+          "source": "The transplant-success ranking written on the page is: [Success: CGN, CTID > DKD, IN. (Book p807)]",
+          "questionIds": [
+            "MED-C19-056"
+          ]
+        },
+        {
+          "element": "p807-e005",
+          "page": 807,
+          "source": "A CKD patient with chronic glomerulonephritis is being compared with one with diabetic kidney disease for transplant. Per the page, the better expected transplant success belongs to: [Success: CGN, CTID > DKD, IN. (Book p807)]",
+          "questionIds": [
+            "MED-C19-057"
+          ]
+        },
+        {
+          "element": "p807-e006",
+          "page": 807,
+          "source": "The dialysis-mortality co-relation graph plots mortality rate against: [Graph: mortality rate* vs days after the start of dialysis (0-360). (Book p807)]",
+          "questionIds": [
+            "MED-C19-058"
+          ]
+        },
+        {
+          "element": "p807-e007",
+          "page": 807,
+          "source": "On that graph, the mortality-rate curves sit at their highest during which window? [Mortality rate peaks early (≈34% at day 15-50 in age >65; ≈22-23% all patients) and falls over the 360-day course. (Book p807)]",
+          "questionIds": [
+            "MED-C19-059"
+          ]
+        },
+        {
+          "element": "p807-e008",
+          "page": 807,
+          "source": "Which curve sits lowest on the dialysis-mortality graph throughout the 360 days? [The age <65 curve runs lowest (≈6-7% early, ≈2% by day 350); age >65 runs highest (≈34% early). (Book p807)]",
+          "questionIds": [
+            "MED-C19-060"
+          ]
+        },
+        {
+          "element": "p807-e009",
+          "page": 807,
+          "source": "If a patient is fit for dialysis, the definitive indication listed is: [Indications: uremic symptoms (definitive); volume, K⁺, acidosis (relative). (Book p807)]",
+          "questionIds": [
+            "MED-C19-061"
+          ]
+        },
+        {
+          "element": "p807-e010",
+          "page": 807,
+          "source": "All but one are the relative indications bracketed in red. Which is the odd one out? [Relative indications: volume, K⁺, acidosis; uremic symptoms are the definitive indication. (Book p807)]",
+          "questionIds": [
+            "MED-C19-062"
+          ]
+        },
+        {
+          "element": "p807-e011",
+          "page": 807,
+          "source": "Fill up: To create access, the named vessel connection is an AV ______ (6 weeks to mature). [Create access: AV fistula (6 weeks to mature). (Book p807)]",
+          "questionIds": [
+            "MED-C19-063"
+          ]
+        },
+        {
+          "element": "p807-e012",
+          "page": 807,
+          "source": "The AV fistula needs how long to mature? [AV fistula: 6 weeks to mature. (Book p807)]",
+          "questionIds": [
+            "MED-C19-064"
+          ]
+        },
+        {
+          "element": "p807-e013",
+          "page": 807,
+          "source": "A CKD patient has volume overload and serum potassium 6.4 mmol/L but no uremic symptoms. These indications are classified as: [Indications: uremic symptoms (definitive); volume, K⁺, acidosis (relative). (Book p807)]",
+          "questionIds": [
+            "MED-C19-065"
+          ]
+        },
+        {
+          "element": "p807-e014",
+          "page": 807,
+          "source": "Uremic symptoms are listed as a relative indication for dialysis. [Uremic symptoms (definitive); volume, K⁺, acidosis (relative). (Book p807)]",
+          "questionIds": [
+            "MED-C19-066"
+          ]
+        },
+        {
+          "element": "p807-e015",
+          "page": 807,
+          "source": "The graph of variation of GFR with plasma concentration is divided into overt renal failure and the: [Graph zones: overt renal failure (GFR <25%) and zone of compensation (adequate renal reserve). (Book p807)]",
+          "questionIds": [
+            "MED-C19-067"
+          ]
+        },
+        {
+          "element": "p807-e016",
+          "page": 807,
+          "source": "Curve A on that graph — creatinine, urea and uric acid — behaves how? [A: creatinine, urea, uric acid — depend largely on GFR for excretion; inverse relation with GFR. (Book p807)]",
+          "questionIds": [
+            "MED-C19-068"
+          ]
+        },
+        {
+          "element": "p807-e017",
+          "page": 807,
+          "source": "The substances named under curve B are: [B: PO₄, uric acid, K, H — ↑ only in late stage of CKD. (Book p807)]",
+          "questionIds": [
+            "MED-C19-069"
+          ]
+        },
+        {
+          "element": "p807-e018",
+          "page": 807,
+          "source": "Curve B substances rise only in the late stage of CKD. [B: PO₄, uric acid, K, H — ↑ only in late stage of CKD. (Book p807)]",
+          "questionIds": [
+            "MED-C19-070"
+          ]
+        },
+        {
+          "element": "p807-e019",
+          "page": 807,
+          "source": "The mechanism for curve B is that the tubules increase excretion as GFR declines by: [B: tubules increase excretion as GFR declines — either by secretion or decreased reabsorption. (Book p807)]",
+          "questionIds": [
+            "MED-C19-071"
+          ]
+        },
+        {
+          "element": "p807-e020",
+          "page": 807,
+          "source": "Curve C (sodium) is described as: [C: sodium — normal throughout CRF (chronic renal failure); rate of excretion of Na per surviving nephron increases. (Book p807)]",
+          "questionIds": [
+            "MED-C19-072"
+          ]
+        },
+        {
+          "element": "p807-e021",
+          "page": 807,
+          "source": "Match the following substance to its curve — 1) Creatinine  2) Phosphate  3) Sodium … A) Normal throughout CRF  B) Inverse relation with GFR  C) Rises only in late CKD [A: creatinine (inverse with GFR); B: phosphate (late CKD); C: sodium (normal throughout CRF). (Book p807)]",
+          "questionIds": [
+            "MED-C19-073"
+          ]
+        },
+        {
+          "element": "p807-e022",
+          "page": 807,
+          "source": "All but one rise only in the late stage of CKD per curve B. Which is the odd one out? [B (late CKD): PO₄, uric acid, K, H; creatinine belongs to curve A. (Book p807)]",
+          "questionIds": [
+            "MED-C19-074"
+          ]
+        },
+        {
+          "element": "p807-e023",
+          "page": 807,
+          "source": "A patient in the overt-renal-failure zone (GFR 10%) still excretes sodium normally. The graph explains this because: [C: rate of excretion of Na per surviving nephron increases → sodium normal throughout CRF. (Book p807)]",
+          "questionIds": [
+            "MED-C19-075"
+          ]
+        },
+        {
+          "element": "p807-e024",
+          "page": 807,
+          "source": "Under the treatment heading, the holistic approach to CKD is: [Treatment: KDIGO 23; holistic approach to CKD: first line. (Book p807)]",
+          "questionIds": [
+            "MED-C19-076"
+          ]
+        },
+        {
+          "element": "p807-e025",
+          "page": 807,
+          "source": "The lifestyle block recommends salt restriction of: [Lifestyle: healthy diet — salt restriction (2-3 g/day). (Book p807)]",
+          "questionIds": [
+            "MED-C19-077"
+          ]
+        },
+        {
+          "element": "p807-e026",
+          "page": 807,
+          "source": "Risk-factor reassessment in the lifestyle block is recommended every: [Lifestyle: risk factor reassessment (every 3-6 months). (Book p807)]",
+          "questionIds": [
+            "MED-C19-078"
+          ]
+        },
+        {
+          "element": "p807-e027",
+          "page": 807,
+          "source": "Match the following lifestyle item to its detail — 1) Diet  2) Tobacco  3) Weight … A) Stop use of products  B) Salt restriction 2-3 g/day  C) Management [Lifestyle: healthy diet (salt restriction 2-3 g/day); physical activity; stop use of tobacco products; weight management; risk factor reassessment eve]",
+          "questionIds": [
+            "MED-C19-079"
+          ]
+        },
+        {
+          "element": "p807-e028",
+          "page": 807,
+          "source": "First-line management of proteinuria is: [Manage proteinuria: 1st line — ACE(-)/ARBs, SGLT2 (curb ↓ in GFR). (Book p807)]",
+          "questionIds": [
+            "MED-C19-080"
+          ]
+        },
+        {
+          "element": "p807-e029",
+          "page": 807,
+          "source": "The second-line agent for proteinuria, written in red, is: [2nd line: finerenone (nonsteroidal aldosterone antagonist). (Book p807)]",
+          "questionIds": [
+            "MED-C19-081"
+          ]
+        },
+        {
+          "element": "p807-e030",
+          "page": 807,
+          "source": "The BP target for CKD in the first-line table is: [BP control: <120/80 mmHg — 24-hr ambulatory monitoring. (Book p807)]",
+          "questionIds": [
+            "MED-C19-082"
+          ]
+        },
+        {
+          "element": "p807-e031",
+          "page": 807,
+          "source": "Fill up: BP control in the table uses ACE(-)/ARBs or ______, which must not be combined with ACE(-)/ARB. [BP control: ACE(-)/ARBs or aliskiren (do not combine with ACE(-)/ARB). (Book p807)]",
+          "questionIds": [
+            "MED-C19-083"
+          ]
+        },
+        {
+          "element": "p807-e032",
+          "page": 807,
+          "source": "All but one are listed for BP control in the first-line table. Which is the odd one out? [BP control: ACE(-)/ARBs or aliskiren; non-dihydropyridine CCBs. Finerenone is the 2nd-line proteinuria agent. (Book p807)]",
+          "questionIds": [
+            "MED-C19-084"
+          ]
+        },
+        {
+          "element": "p807-e033",
+          "page": 807,
+          "source": "For LDL control (<100 mg/dl), the statin-based therapy named is: [LDL control <100 mg/dl — statin based therapy: rosuvastatin 20 mg/kg. (Book p807)]",
+          "questionIds": [
+            "MED-C19-085"
+          ]
+        },
+        {
+          "element": "p807-e034",
+          "page": 807,
+          "source": "Match the following LDL target to its group — 1) CKD  2) Diabetic CKD  3) Diabetic CKD with previous cardiovascular event … A) 70 mg/dl  B) 100 mg/dl  C) 55 mg/dl [LDL targets: CKD 100 mg/dl; diabetic CKD 70 mg/dl; diabetic CKD with previous cardiovascular event 55 mg/dl. (Book p807)]",
+          "questionIds": [
+            "MED-C19-086"
+          ]
+        },
+        {
+          "element": "p807-e035",
+          "page": 807,
+          "source": "Which set lists the contraindications for ACE(-)s written on the page? [C/I for ACE(-)s: pregnancy; B/L or unilateral renal artery stenosis; if s. Cr ↑ >30%, s. K+ ↑ >5.5 mg/dl after starting Rx; hereditary angioedema. (Bo]",
+          "questionIds": [
+            "MED-C19-087"
+          ]
+        },
+        {
+          "element": "p807-e036",
+          "page": 807,
+          "source": "An ACE inhibitor must be reviewed if, after starting, the serum creatinine rises by more than: [C/I if s. Cr ↑ >30% (or s. K+ ↑ >5.5 mg/dl) after starting Rx. (Book p807)]",
+          "questionIds": [
+            "MED-C19-088"
+          ]
+        },
+        {
+          "element": "p807-e037",
+          "page": 807,
+          "source": "Bilateral renal artery stenosis is listed as a contraindication for ACE(-)s. [C/I for ACE(-)s includes B/L or unilateral renal artery stenosis. (Book p807)]",
+          "questionIds": [
+            "MED-C19-089"
+          ]
+        },
+        {
+          "element": "p807-e038",
+          "page": 807,
+          "source": "A CKD patient with type 2 diabetes and a previous myocardial infarction needs an LDL target. The target is: [LDL targets: diabetic CKD with previous cardiovascular event — 55 mg/dl. (Book p807)]",
+          "questionIds": [
+            "MED-C19-090"
+          ]
+        },
+        {
+          "element": "p807-e039",
+          "page": 807,
+          "source": "SGLT2 inhibitors are included in first-line proteinuria management and they curb the fall in GFR. [1st line: ACE(-)/ARBs, SGLT2 (curb ↓ in GFR). (Book p807)]",
+          "questionIds": [
+            "MED-C19-091"
+          ]
+        }
+      ]
+    }
+  ]
+}

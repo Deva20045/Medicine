@@ -1,0 +1,298 @@
+{
+  "chapter": 71,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+  "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+  "pdfOffset": 1034,
+  "pageRange": "1045-1046",
+  "contentSha256": "8e96fe2372734153dec908beb8498cae9c0b67112d6df4dd275dc3b0a587064d",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch71 p1045-1046: auto-generated source checklist from existing 33 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 1045,
+      "pdfPage": 11,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1045 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1045.",
+      "elements": [
+        {
+          "element": "p1045-e001",
+          "page": 1045,
+          "source": "Fill up (Structure): '______ sense RNA virus : ______ (Family), ______ (Sub family).' ['+ve sense RNA virus : Flaviviridae (Family), Hepaciviridae (Sub family)'. (Book p1045)]",
+          "questionIds": [
+            "MED-C71-001"
+          ]
+        },
+        {
+          "element": "p1045-e002",
+          "page": 1045,
+          "source": "How does the page describe the HCV virion? ['Virion (lipo viral particle) : Bound to VLDL / LDL — causes Steatosis'. (Book p1045)]",
+          "questionIds": [
+            "MED-C71-002"
+          ]
+        },
+        {
+          "element": "p1045-e003",
+          "page": 1045,
+          "source": "Which mechanism does this page give for steatosis in chronic hepatitis C? ['Virion (lipo viral particle) : Bound to VLDL/LDL → causes Steatosis'. (Book p1045)]",
+          "questionIds": [
+            "MED-C71-003"
+          ]
+        },
+        {
+          "element": "p1045-e004",
+          "page": 1045,
+          "source": "Judge the steatosis note: I Hepatitis A, B and D are listed as not causing steatosis. II HCV causes steatosis through its lipoviral particle. ['Hepatitis A, B, D & E do not cause steatosis' follows the lipoviral-particle note. (Book p1045)]",
+          "questionIds": [
+            "MED-C71-004"
+          ]
+        },
+        {
+          "element": "p1045-e005",
+          "page": 1045,
+          "source": "Genome length and coding capacity printed for HCV? ['Length : 9.7 kb — codes for ~3000 amino acid polyprotein'. (Book p1045)]",
+          "questionIds": [
+            "MED-C71-005"
+          ]
+        },
+        {
+          "element": "p1045-e006",
+          "page": 1045,
+          "source": "Which host enzyme is printed as cleaving the structural from the non-structural genes? ['Structural genes / Non-structural genes' are separated by 'host signal peptidase'. (Book p1045)]",
+          "questionIds": [
+            "MED-C71-006"
+          ]
+        },
+        {
+          "element": "p1045-e007",
+          "page": 1045,
+          "source": "DAA drug-name suffixes — match — 1) NS3 2) NS5A 3) NS5B … A) -asvir B) -buvir C) -previr ['NS3 (-) : Previr; NS5A (-) : Asvir; NS5B (-) : buvir' under 'New Directly Acting Antivirals (DAAs)'. (Book p1045)]",
+          "questionIds": [
+            "MED-C71-007"
+          ]
+        },
+        {
+          "element": "p1045-e008",
+          "page": 1045,
+          "source": "How many HCV genotypes does the page print, and which one is commonest in India? ['7 genotypes : Genotype 1 : m/c (world); Genotype 3 : m/c (India)'. (Book p1045)]",
+          "questionIds": [
+            "MED-C71-008"
+          ]
+        },
+        {
+          "element": "p1045-e009",
+          "page": 1045,
+          "source": "Judge the genotype note: I Genotype 1 is the commonest worldwide. II Genotype 3, commonest in India, carries the worst prognosis and is linked to cirrhosis and HCC. ['Genotype 1 : m/c (world)'; 'Genotype 3 : m/c (India) — worst prognosis'; 'Note : Associated with Cirrhosis / Hepatocellular carcinoma'. (Book p1045)]",
+          "questionIds": [
+            "MED-C71-009"
+          ]
+        },
+        {
+          "element": "p1045-e010",
+          "page": 1045,
+          "source": "The note 'Hepatitis A, B, D & E do not cause steatosis' is printed next to the description of which virus? [The note follows the HCV lipoviral-particle line that explains steatosis. (Book p1045)]",
+          "questionIds": [
+            "MED-C71-010"
+          ]
+        },
+        {
+          "element": "p1045-e011",
+          "page": 1045,
+          "source": "Transmission — match the route to the printed risk — 1) Transfusion 2) IV drug users 3) Sexual modes … A) 40 – 90% B) Negligible C) 1 in 10,00,000 ['Transfusion : 1/10,00,000'; 'IV drug users (40-90%)'; 'Sexual modes : Negligible'. (Book p1045)]",
+          "questionIds": [
+            "MED-C71-011"
+          ]
+        },
+        {
+          "element": "p1045-e012",
+          "page": 1045,
+          "source": "Which group is printed as the commonest setting (m/c in) for HCV infection? ['m/c in : CKD patients'. (Book p1045)]",
+          "questionIds": [
+            "MED-C71-012"
+          ]
+        },
+        {
+          "element": "p1045-e013",
+          "page": 1045,
+          "source": "What does the page print for post-exposure prophylaxis against HCV? ['Post exposure prophylaxis : unavailable'. (Book p1045)]",
+          "questionIds": [
+            "MED-C71-013"
+          ]
+        },
+        {
+          "element": "p1045-e014",
+          "page": 1045,
+          "source": "Which is NOT one of the printed transmission headings for HCV? [Printed headings: Percutaneous, Transfusion, Perinatal / Breast feeding, Sexual modes, IV drug users. (Book p1045)]",
+          "questionIds": [
+            "MED-C71-014"
+          ]
+        },
+        {
+          "element": "p1045-e015",
+          "page": 1045,
+          "source": "Perinatal / breast-feeding transmission of HCV is printed in which risk band? [Perinatal / breast feeding is printed in the single-digit percent range, against 40-90% for IV drug users, negligible for sexual exposure and 1 in 10,]",
+          "questionIds": [
+            "MED-C71-015"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1046,
+      "pdfPage": 12,
+      "pdf": "uploads/Medicine_Vol3_Part6_pages_1035-1070.pdf",
+      "pdfSha256": "55658192228f03c407d144da4a36b6e95c641d1d70ceea2536f9d98369e66ee1",
+      "traversal": "Read top-to-bottom: Book p1046 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p1046.",
+      "elements": [
+        {
+          "element": "p1046-e001",
+          "page": 1046,
+          "source": "Progression chain — match — 1) After infection 2) Acute phase 3) Chronic phase 4) End stage … A) Chance for chronic hepatitis B) Cirrhosis / liver failure / portal hypertension C) HCC D) Incubation period of about 50 days ['Incubation period : 50 days → Acute → Chance for chronic → Cirrhosis / Liver failure (PHTN) → HCC'. (Book p1046)]",
+          "questionIds": [
+            "MED-C71-016"
+          ]
+        },
+        {
+          "element": "p1046-e002",
+          "page": 1046,
+          "source": "Incubation period printed for HCV? ['Incubation period : 50 days'. (Book p1046)]",
+          "questionIds": [
+            "MED-C71-017"
+          ]
+        },
+        {
+          "element": "p1046-e003",
+          "page": 1046,
+          "source": "Judge the acute phase: I Acute HCV is usually anicteric and therefore usually undiagnosed. II Enzymes are variable and fulminant failure occurs in 0.1 – 1%. ['Acute : Anicteric hepatitis, usually undiagnosed; Enzymes : variable; Fulminant failure : 0.1-1%'. (Book p1046)]",
+          "questionIds": [
+            "MED-C71-018"
+          ]
+        },
+        {
+          "element": "p1046-e004",
+          "page": 1046,
+          "source": "Risk of fulminant hepatic failure printed for acute HCV? ['Fulminant failure : 0.1-1%'. (Book p1046)]",
+          "questionIds": [
+            "MED-C71-019"
+          ]
+        },
+        {
+          "element": "p1046-e005",
+          "page": 1046,
+          "source": "Serology — match the marker to the window — 1) Earliest marker after infection 2) Appears after the serological window … A) Anti-HCV B) HCV RNA [The window phase shows HCV RNA first, with anti-HCV appearing later ('Serologic window', 'HCV RNA', 'Anti-HCV' sequence). (Book p1046)]",
+          "questionIds": [
+            "MED-C71-020"
+          ]
+        },
+        {
+          "element": "p1046-e006",
+          "page": 1046,
+          "source": "An immunosuppressed patient (CKD / haemodialysis / HIV) has a negative anti-HCV EIA. What does this page advise? ['CKD / Hemodialysis / HIV (Immunosuppressed patients may not produce anti-HCV) → HCV RNA'. (Book p1046)]",
+          "questionIds": [
+            "MED-C71-021"
+          ]
+        },
+        {
+          "element": "p1046-e007",
+          "page": 1046,
+          "source": "Interpretation of anti-HCV EIA — match — 1) Positive 2) Negative … A) No HCV contact B) Acute / chronic infection or recovered ['+ve → acute / chronic infection / recovered'; '-ve → No HCV contact'. (Book p1046)]",
+          "questionIds": [
+            "MED-C71-022"
+          ]
+        },
+        {
+          "element": "p1046-e008",
+          "page": 1046,
+          "source": "Which investigation is printed to rule out cirrhosis in chronic HCV? ['Fibroscan (to rule out cirrhosis)'. (Book p1046)]",
+          "questionIds": [
+            "MED-C71-023"
+          ]
+        },
+        {
+          "element": "p1046-e009",
+          "page": 1046,
+          "source": "Presentation — match — 1) Acute HCV 2) Chronic HCV … A) Asymptomatic / extrahepatic manifestations B) Fever, flu-like illness, fatigue ['Acute : Fever / flu like illness, fatigue'; 'Chronic : Asymptomatic / extra hepatic manifestations'. (Book p1046)]",
+          "questionIds": [
+            "MED-C71-024"
+          ]
+        },
+        {
+          "element": "p1046-e010",
+          "page": 1046,
+          "source": "Sustained viral response — match the condition to the printed SVR — 1) Chronic HCV 2) Cirrhosis 3) Decompensated liver disease … A) 60% B) 75% C) 99.5 – 99.7% ['Condition : Chronic HCV / Cirrhosis / Decompensated liver disease; Response (SVR) : 99.5-99.7% / 75 / 60%'. (Book p1046)]",
+          "questionIds": [
+            "MED-C71-025"
+          ]
+        },
+        {
+          "element": "p1046-e011",
+          "page": 1046,
+          "source": "What age threshold does the page print for treating HCV? ['Treat anyone > 12 years of age'. (Book p1046)]",
+          "questionIds": [
+            "MED-C71-026"
+          ]
+        },
+        {
+          "element": "p1046-e012",
+          "page": 1046,
+          "source": "Regimen — match the DAA class to the drug printed — 1) NS3 2) NS5A 3) NS5B … A) Sofosbuvir B) Velpatasvir C) Glecaprevir / simeprevir ['NS3 (-) : Glecaprevir / simeprevir; NS5A (-) : velpatasvir; NS5B (-) : Sofosbuvir + Ribavirin'. (Book p1046)]",
+          "questionIds": [
+            "MED-C71-027"
+          ]
+        },
+        {
+          "element": "p1046-e013",
+          "page": 1046,
+          "source": "Duration printed for the DAA combination in chronic HCV with cirrhosis? ['Combination for 12 weeks for chronic HCV with cirrhosis'. (Book p1046)]",
+          "questionIds": [
+            "MED-C71-028"
+          ]
+        },
+        {
+          "element": "p1046-e014",
+          "page": 1046,
+          "source": "Which DAA component is flagged as not available in India on this page? ['Not available in India' is printed against the NS5A agent velpatasvir. (Book p1046)]",
+          "questionIds": [
+            "MED-C71-029"
+          ]
+        },
+        {
+          "element": "p1046-e015",
+          "page": 1046,
+          "source": "Which is NOT one of the printed extrahepatic manifestations of HCV? [Printed list: Sjogren's syndrome, extranodal B-cell marginal zone lymphoma, essential mixed cryoglobulinaemia, porphyria cutanea tarda, lichen planus,]",
+          "questionIds": [
+            "MED-C71-030"
+          ]
+        },
+        {
+          "element": "p1046-e016",
+          "page": 1046,
+          "source": "Extrahepatic manifestations — match — 1) Essential mixed cryoglobulinaemia 2) Extranodal marginal zone lymphoma 3) Renal lesion … A) Salivary gland B) Classical MPGN C) Type 2 and type 3 ['Essential mixed cryoglobulinemia type 2, 3'; 'extranodal B cell marginal zone lymphoma (MZL) : salivary gland'; 'Classical MPGN (membranoproliferativ]",
+          "questionIds": [
+            "MED-C71-031"
+          ]
+        },
+        {
+          "element": "p1046-e017",
+          "page": 1046,
+          "source": "Which thyroid disease is printed among the extrahepatic associations of HCV? ['Autoimmune thyroid illness (Hashimoto)'. (Book p1046)]",
+          "questionIds": [
+            "MED-C71-032"
+          ]
+        },
+        {
+          "element": "p1046-e018",
+          "page": 1046,
+          "source": "What is the printed treatment headline for chronic HCV drugs? ['Drugs : New DAAs, pangenomic drugs with ↑↑ SVR'. (Book p1046)]",
+          "questionIds": [
+            "MED-C71-033"
+          ]
+        }
+      ]
+    }
+  ]
+}

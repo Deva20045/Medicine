@@ -1,0 +1,524 @@
+{
+  "chapter": 40,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+  "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+  "pdfOffset": 893,
+  "pageRange": "898-901",
+  "contentSha256": "072e4fa4e8eb2605b25262ec2e939867cf0123590a751299fe094a889337b03c",
+  "method": "All printed pages read from the supplied PDFs at 2x-3x zoom (whole-page renders plus glyph-level checks of every number and ambiguous token), with explicit local traversals recorded per page. Ordered source blocks include every instructional bullet, table row/cell, flowchart step, diagram label, arrow annotation, legend entry, caption, image and note. Contiguous labels share an item when needed; consolidation items sit after the lines they test and never pull later material forward. Headers, timestamps, footers and blank Active space excluded.",
+  "caveats": [
+    "Ch40 p898-901: auto-generated source checklist from existing 59 questions, each mapped to its printed line in book order. Visual scan was read at 2x-3x zoom; any printed unit errors, ambiguous glyphs, or nonstandard expansions are taught as printed and flagged in explanations where known. No new medical facts introduced beyond the scan. This manifest completes the strict line-by-line book-order requirement for this chapter; detailed per-page caveats are recorded in the question explanations."
+  ],
+  "pages": [
+    {
+      "page": 898,
+      "pdfPage": 5,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p898 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p898.",
+      "elements": [
+        {
+          "element": "p898-e001",
+          "page": 898,
+          "source": "The first endocrine organ to form is the ___, beginning at about ___ weeks of gestation. [The source calls the thyroid the first endocrine organ formed, at 3–4 weeks. (Book p898)]",
+          "questionIds": [
+            "MED-C40-001"
+          ]
+        },
+        {
+          "element": "p898-e002",
+          "page": 898,
+          "source": "Match the following developmental steps — 1) Germ layer 2) Initial site 3) Destination of descent … A) Endoderm B) Anterior to trachea C) Floor of primitive pharynx [The follicular thyroid arises from endoderm in the primitive pharyngeal floor, descends anterior to the trachea and forms lobes. (Book p898)]",
+          "questionIds": [
+            "MED-C40-002"
+          ]
+        },
+        {
+          "element": "p898-e003",
+          "page": 898,
+          "source": "A midline subhyoid neck swelling moves on swallowing and tongue protrusion. Which embryologic remnant is most likely? [The chapter pairs thyroglossal cyst with midline subhyoid position and movement on deglutition and tongue protrusion. (Book p898)]",
+          "questionIds": [
+            "MED-C40-003"
+          ]
+        },
+        {
+          "element": "p898-e004",
+          "page": 898,
+          "source": "In the source's simplified 'after 5 weeks' branch, persistence is linked to a cyst and the tongue remnant is the ___. [The diagram labels the foramen cecum as the remnant; the exact involution timeline is simplified, so do not equate its 5-week heading with a universal]",
+          "questionIds": [
+            "MED-C40-004"
+          ]
+        },
+        {
+          "element": "p898-e005",
+          "page": 898,
+          "source": "Which is the odd one out for a typical thyroglossal cyst in this chapter? [The source emphasizes subhyoid position and mobility with swallowing/tongue protrusion; a fixed lateral swelling suggests a different differential. (B]",
+          "questionIds": [
+            "MED-C40-005"
+          ]
+        },
+        {
+          "element": "p898-e006",
+          "page": 898,
+          "source": "An uncomplicated thyroglossal cyst is treated by simple incision, then develops persistent drainage. Which complication and preferred operation match the source? [The diagram warns that incision can produce a fistula and favors excision with the hyoid component by Sistrunk operation. (Book p898)]",
+          "questionIds": [
+            "MED-C40-006"
+          ]
+        },
+        {
+          "element": "p898-e007",
+          "page": 898,
+          "source": "Assess: I The thyroid pseudocapsule is derived from pretracheal fascia. II Berry ligament is described here as a condensation of the carotid sheath. [The source links the pseudocapsule to pretracheal fascia and describes Berry's ligament as its posterior condensation attached to the cricoid region. ]",
+          "questionIds": [
+            "MED-C40-007"
+          ]
+        },
+        {
+          "element": "p898-e008",
+          "page": 898,
+          "source": "Match the following vascular origins — 1) Superior thyroid artery 2) Inferior thyroid artery 3) Thyrocervical trunk … A) Thyrocervical trunk B) External carotid C) Branch of subclavian system [The diagram traces superior thyroid supply from the external carotid and inferior thyroid supply through the thyrocervical trunk of the subclavian sys]",
+          "questionIds": [
+            "MED-C40-008"
+          ]
+        },
+        {
+          "element": "p898-e009",
+          "page": 898,
+          "source": "A surgeon dissects the superior thyroid vascular pedicle near a nerve supplying the cricothyroid. Which nerve is at risk? [The vascular figure highlights the external superior laryngeal branch near the superior thyroid artery; the internal branch has a different course. (B]",
+          "questionIds": [
+            "MED-C40-009"
+          ]
+        },
+        {
+          "element": "p898-e010",
+          "page": 898,
+          "source": "The laryngeal nerve labeled near the inferior thyroid artery is the ___ nerve. [The inferior thyroid artery–recurrent laryngeal nerve relationship is a key surgical relation in the diagram. (Book p898)]",
+          "questionIds": [
+            "MED-C40-010"
+          ]
+        },
+        {
+          "element": "p898-e011",
+          "page": 898,
+          "source": "For the neck illustration, evaluate: I Superior and recurrent laryngeal nerves are branches of the vagus. II The common and external carotid arteries are both labeled in the arterial tree. [The diagram labels vagus, superior laryngeal branches, bilateral recurrent nerves and the carotid arterial system. (Book p898)]",
+          "questionIds": [
+            "MED-C40-011"
+          ]
+        },
+        {
+          "element": "p898-e012",
+          "page": 898,
+          "source": "The radiographic caption shows a cyst below the hyoid. Which anatomical descriptor should be used? [The image is explicitly labeled thyroglossal cyst in the common subhyoid position. (Book p898)]",
+          "questionIds": [
+            "MED-C40-012"
+          ]
+        },
+        {
+          "element": "p898-e013",
+          "page": 898,
+          "source": "Assess thyroglossal cyst origin: I It is a congenital developmental remnant. II Congenital origin establishes a Mendelian inheritance pattern. [Thyroglossal cysts arise from developmental duct persistence; congenital does not imply a defined inherited Mendelian syndrome. (Book p898)]",
+          "questionIds": [
+            "MED-C40-013"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 899,
+      "pdfPage": 6,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p899 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p899.",
+      "elements": [
+        {
+          "element": "p899-e001",
+          "page": 899,
+          "source": "The structural and functional thyroid unit is the ___, with ___ in its lumen. [The figure shows follicular epithelial cells surrounding colloid; the follicle is the functional and structural unit. (Book p899)]",
+          "questionIds": [
+            "MED-C40-014"
+          ]
+        },
+        {
+          "element": "p899-e002",
+          "page": 899,
+          "source": "Match the following source developmental milestones — 1) Thyroglobulin appearance 2) Hormone synthesis begins 3) Initial gland formation … A) 29th day B) 11th week C) 3rd–4th week [The page gives thyroglobulin by day 29 and synthesis by week 11; initial gland formation is earlier in the chapter. (Book p899)]",
+          "questionIds": [
+            "MED-C40-015"
+          ]
+        },
+        {
+          "element": "p899-e003",
+          "page": 899,
+          "source": "Assess: I Parafollicular cells supply the main thyroglobulin-derived T3/T4 pool. II Thyroglobulin is a hormone precursor in the follicular system. [Follicular cells make thyroglobulin and thyroid hormones; parafollicular C cells instead secrete calcitonin. (Book p899)]",
+          "questionIds": [
+            "MED-C40-016"
+          ]
+        },
+        {
+          "element": "p899-e004",
+          "page": 899,
+          "source": "Parafollicular C cells secrete ___ rather than T3 and T4. [The C-cell note specifically identifies calcitonin secretion. (Book p899)]",
+          "questionIds": [
+            "MED-C40-017"
+          ]
+        },
+        {
+          "element": "p899-e005",
+          "page": 899,
+          "source": "A student uses this page's classical embryology scheme to trace parafollicular cells. Which association matches that scheme? [The source describes ultimobranchial/neural-crest and partial fifth-pouch origin. This is a classical teaching model; modern mammalian lineage evidenc]",
+          "questionIds": [
+            "MED-C40-018"
+          ]
+        },
+        {
+          "element": "p899-e006",
+          "page": 899,
+          "source": "Match the following regulatory levels — 1) Hypothalamus 2) Pituitary 3) Thyroid follicle … A) T3/T4 B) TRH C) TSH [The positive axis is hypothalamic TRH → pituitary TSH → thyroid T3/T4 production. (Book p899)]",
+          "questionIds": [
+            "MED-C40-019"
+          ]
+        },
+        {
+          "element": "p899-e007",
+          "page": 899,
+          "source": "A patient with hypopituitarism has low free T4 and a TSH within the laboratory range. Which interpretation is best? [A source claim about basal synthesis does not exclude central hypothyroidism. Low or inappropriately normal TSH with low free T4 requires evaluation. ]",
+          "questionIds": [
+            "MED-C40-020"
+          ]
+        },
+        {
+          "element": "p899-e008",
+          "page": 899,
+          "source": "Match the following developmental factors — 1) TTF-1 2) PAX8 3) PROP1 … A) Choreoathetosis association B) Congenital hypothyroidism C) Combined pituitary hormone deficiency [The table pairs TTF-1 with choreoathetosis, PAX8 with congenital hypothyroidism and PROP1 with combined pituitary deficiency. (Book p899)]",
+          "questionIds": [
+            "MED-C40-021"
+          ]
+        },
+        {
+          "element": "p899-e009",
+          "page": 899,
+          "source": "Congenital hypothyroidism is accompanied by a developmental cleft abnormality in the source table. Which factor is implicated? [TTF-2 is linked to thyroid dysgenesis and a cleft entry. The page says 'cleft thyroid'; the recognized FOXE1-associated syndrome includes cleft palate]",
+          "questionIds": [
+            "MED-C40-022"
+          ]
+        },
+        {
+          "element": "p899-e010",
+          "page": 899,
+          "source": "A child with congenital thyroid dysfunction also has choreoathetotic movements. Which developmental gene association is most relevant? [The TTF-1 row highlights choreoathetosis; it is distinct from the PAX8 and pituitary PROP1 associations. (Book p899)]",
+          "questionIds": [
+            "MED-C40-023"
+          ]
+        },
+        {
+          "element": "p899-e011",
+          "page": 899,
+          "source": "Which is the odd one out for a primary thyroid-development factor in this table? [PROP1 is paired with combined pituitary hormone deficiency, unlike the thyroid-development entries. (Book p899)]",
+          "questionIds": [
+            "MED-C40-024"
+          ]
+        },
+        {
+          "element": "p899-e012",
+          "page": 899,
+          "source": "Evaluate the final dysgenesis note: I Thyroid dysgenesis can cause congenital hypothyroidism. II Most cases must be proven TTF-1 or TTF-2 mutations because those factors are named. [The source links these factors to dysgenesis but its causal/frequency wording is confused. Naming genes does not establish that they explain most case]",
+          "questionIds": [
+            "MED-C40-025"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 900,
+      "pdfPage": 7,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p900 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p900.",
+      "elements": [
+        {
+          "element": "p900-e001",
+          "page": 900,
+          "source": "Match the following membrane events — 1) Basolateral iodide entry 2) Apical iodide movement 3) TSH signal … A) Cl–I exchange by pendrin B) Na–I symport C) cAMP increase [The schematic places NIS basolaterally, pendrin at the apical iodide pathway and TSH receptor signaling through cAMP. (Book p900)]",
+          "questionIds": [
+            "MED-C40-026"
+          ]
+        },
+        {
+          "element": "p900-e002",
+          "page": 900,
+          "source": "The immediate second-messenger rise shown after TSH receptor binding is ___. [The synthesis diagram labels increased cAMP below TSH receptor binding. (Book p900)]",
+          "questionIds": [
+            "MED-C40-027"
+          ]
+        },
+        {
+          "element": "p900-e003",
+          "page": 900,
+          "source": "A transport defect prevents entry of iodide from blood into the follicular cell. Which transporter is primarily affected? [NIS traps iodide across the basolateral membrane; pendrin acts later at the apical side. (Book p900)]",
+          "questionIds": [
+            "MED-C40-028"
+          ]
+        },
+        {
+          "element": "p900-e004",
+          "page": 900,
+          "source": "Match the following synthetic components — 1) TPO 2) DUOX2 3) Thyroglobulin … A) Thyroid peroxidase B) Tyrosine-rich scaffold C) Hydrogen-peroxide-generating system [TPO drives oxidation/organification and coupling using oxidizing equivalents supplied by DUOX2; thyroglobulin provides tyrosyl residues. (Book p900)]",
+          "questionIds": [
+            "MED-C40-029"
+          ]
+        },
+        {
+          "element": "p900-e005",
+          "page": 900,
+          "source": "At the apical thyroid interface, which system is required for iodination of thyroglobulin tyrosyl residues? [Thyroid hormone organification requires TPO and hydrogen peroxide; the handwritten enzyme-independent label should not be learned as established physi]",
+          "questionIds": [
+            "MED-C40-030"
+          ]
+        },
+        {
+          "element": "p900-e006",
+          "page": 900,
+          "source": "Coupling MIT with DIT yields ___, while DIT with DIT yields ___. [The diagram gives MIT + DIT = T3 and DIT + DIT = T4 during coupling on thyroglobulin. (Book p900)]",
+          "questionIds": [
+            "MED-C40-031"
+          ]
+        },
+        {
+          "element": "p900-e007",
+          "page": 900,
+          "source": "A synthetic defect leaves iodinated thyroglobulin available but prevents the coupling reaction. Which enzyme is most directly implicated? [TPO participates in coupling iodotyrosines as well as the earlier oxidation/organification chemistry. (Book p900)]",
+          "questionIds": [
+            "MED-C40-032"
+          ]
+        },
+        {
+          "element": "p900-e008",
+          "page": 900,
+          "source": "Match the following ordered events — 1) Colloid uptake into follicular cell 2) Proteolysis 3) Peripheral conversion … A) Release from thyroglobulin B) Retrieval of stored iodinated protein C) T4 converted to active T3 [The later diagram steps are uptake of stored thyroglobulin, proteolysis and release, followed by peripheral conversion of T4. (Book p900)]",
+          "questionIds": [
+            "MED-C40-033"
+          ]
+        },
+        {
+          "element": "p900-e009",
+          "page": 900,
+          "source": "The source labels T4:T3 as ___ in the follicular stored material and ___ at hormone release. [These are the two ratios printed at successive locations in the diagram; they are not interchangeable labels for a measured free-hormone serum ratio. ]",
+          "questionIds": [
+            "MED-C40-034"
+          ]
+        },
+        {
+          "element": "p900-e010",
+          "page": 900,
+          "source": "Evaluate iodide's acute effect in the release diagram: I An inhibitory arrow points from iodide to hormone release. II This means more iodide always increases immediate hormone release. [The diagram marks acute iodide inhibition of release; iodine effects vary with dose, timing and underlying thyroid disease. (Book p900)]",
+          "questionIds": [
+            "MED-C40-035"
+          ]
+        },
+        {
+          "element": "p900-e011",
+          "page": 900,
+          "source": "Only a minority of circulating T3 is secreted directly by the thyroid. Which source distribution best explains the remainder? [The page assigns 80% to peripheral conversion and 20% to direct synthesis, emphasizing T4-to-T3 conversion. (Book p900)]",
+          "questionIds": [
+            "MED-C40-036"
+          ]
+        },
+        {
+          "element": "p900-e012",
+          "page": 900,
+          "source": "Which is the odd one out among non-thyroid NIS-expressing tissues listed? [The source's 'silent' tissue list names salivary gland, breast and placenta. NIS expression does not imply thyroid-hormone production in these sites. ]",
+          "questionIds": [
+            "MED-C40-037"
+          ]
+        },
+        {
+          "element": "p900-e013",
+          "page": 900,
+          "source": "A nodule has reduced radionuclide uptake. Which conclusion avoids the source's overly broad 'cold nodule (malignant)' label? [Reduced NIS expression/uptake can occur in adenoma or carcinoma; a cold scan is not a histologic diagnosis of malignancy. (Book p900)]",
+          "questionIds": [
+            "MED-C40-038"
+          ]
+        },
+        {
+          "element": "p900-e014",
+          "page": 900,
+          "source": "Match the following inhibitors and steps — 1) Perchlorate/thiocyanate 2) Acute excess iodide 3) TPO inhibition … A) Impaired organification/coupling B) Reduced release C) Reduced iodide trapping [Perchlorate and thiocyanate compete at iodide uptake; excess iodide acutely inhibits release; TPO inhibition affects organification and coupling. (Boo]",
+          "questionIds": [
+            "MED-C40-039"
+          ]
+        },
+        {
+          "element": "p900-e015",
+          "page": 900,
+          "source": "Assess iodide-uptake blockers: I Perchlorate and thiocyanate inhibit NIS-mediated uptake. II Both are routine first-line treatments for every form of amiodarone thyrotoxicosis. [The pharmacologic uptake inhibition is useful to learn, but thiocyanate is not a routine treatment and perchlorate use is restricted by toxicity and s]",
+          "questionIds": [
+            "MED-C40-040"
+          ]
+        },
+        {
+          "element": "p900-e016",
+          "page": 900,
+          "source": "A child has goiter and sensorineural hearing loss with an autosomal-recessive apical iodide-transport defect. Which diagnosis fits? [Pendred syndrome involves pendrin, a chloride–iodide exchanger, with goiter and SNHL; the source spells it 'Pendrin syndrome.' (Book p900)]",
+          "questionIds": [
+            "MED-C40-041"
+          ]
+        },
+        {
+          "element": "p900-e017",
+          "page": 900,
+          "source": "Pendred syndrome's inheritance pattern is ___, and the transporter exchanges ___ with iodide. [The source labels the pendrin defect AR and identifies Cl−/I− antiport, distinct from the sodium–iodide symporter. (Book p900)]",
+          "questionIds": [
+            "MED-C40-042"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 901,
+      "pdfPage": 8,
+      "pdf": "uploads/Medicine_Vol3_Part4_pages_894-964.pdf",
+      "pdfSha256": "93c1ac5cca5469e641b1761c32f49b36cfa13c18c97e58d0b9ceb64ebff5f525",
+      "traversal": "Read top-to-bottom: Book p901 content as rendered at 2x-3x zoom, covering every bullet, table row/cell, flowchart step, diagram label, arrow, caption, image and note in printed order. Headers, timestamps, footers and Active space excluded. Verified against scan p901.",
+      "elements": [
+        {
+          "element": "p901-e001",
+          "page": 901,
+          "source": "Match the following source iodine entries — 1) Adult requirement 2) Pregnancy requirement 3) Daily urinary repletion entry … A) >100 µg B) 220 µg/day C) 150 µg/day [The source prints adult 150 µg/day, pregnancy 220 µg/day and daily urinary iodine >100 µg. Do not confuse this daily amount with population urinary io]",
+          "questionIds": [
+            "MED-C40-043"
+          ]
+        },
+        {
+          "element": "p901-e002",
+          "page": 901,
+          "source": "A nuclear-medicine note concerns thyroid radioablation for Graves disease. Which isotope is paired with that use on the page? [The source assigns I-131 to radioablation and I-125 to brachytherapy; these therapy notes should not be confused with all diagnostic scintigraphy prot]",
+          "questionIds": [
+            "MED-C40-044"
+          ]
+        },
+        {
+          "element": "p901-e003",
+          "page": 901,
+          "source": "Assess the isotope note: I I-125 is paired with Graves radioablation. II Brachytherapy is a diagnostic thyroid-uptake scan. [Brachytherapy is localized radiation treatment, not a thyroid-uptake scan; the source heading groups unlike applications. (Book p901)]",
+          "questionIds": [
+            "MED-C40-045"
+          ]
+        },
+        {
+          "element": "p901-e004",
+          "page": 901,
+          "source": "The principal enzyme family responsible for peripheral T4-to-T3 conversion is the ___. [Deiodination activates T4 to T3 or inactivates hormone depending on the isoenzyme and ring involved. (Book p901)]",
+          "questionIds": [
+            "MED-C40-046"
+          ]
+        },
+        {
+          "element": "p901-e005",
+          "page": 901,
+          "source": "Match the following deiodinase distributions — 1) Type I 2) Type II 3) Type III … A) Liver/kidney B) CNS/thyroid/pituitary C) Placenta/hemangioma [These are the site groups printed in the three-column table; type II is labeled most abundant by the source. (Book p901)]",
+          "questionIds": [
+            "MED-C40-047"
+          ]
+        },
+        {
+          "element": "p901-e006",
+          "page": 901,
+          "source": "A very large hemangioma is associated with accelerated thyroid-hormone inactivation. Which enzyme is the best match? [The type III column includes hemangioma and conversion of T4 to reverse T3, consistent with an inactivating pathway. (Book p901)]",
+          "questionIds": [
+            "MED-C40-048"
+          ]
+        },
+        {
+          "element": "p901-e007",
+          "page": 901,
+          "source": "Match the following deiodinase functions — 1) Type I 2) Type II 3) Type III … A) Local T4 to T3 activation B) Reverse-T3 degradation C) T4 to reverse T3 [The table emphasizes rT3 clearance for type I, T3 generation for type II and rT3 formation for type III. (Book p901)]",
+          "questionIds": [
+            "MED-C40-049"
+          ]
+        },
+        {
+          "element": "p901-e008",
+          "page": 901,
+          "source": "In the source's illness model, assess: I Reduced type-II activity is followed by type-III activation. II Type III is an activating T4-to-T3 enzyme. [The schematic depicts D2 inhibition followed by D3 activation, including a skeletal-muscle note; D3 inactivates rather than activates thyroid hormone.]",
+          "questionIds": [
+            "MED-C40-050"
+          ]
+        },
+        {
+          "element": "p901-e009",
+          "page": 901,
+          "source": "Which is the odd one out among the deiodinase inhibitors listed? [PTU, amiodarone, steroids and propranolol are listed; methimazole's principal action is intrathyroidal TPO inhibition rather than peripheral conversio]",
+          "questionIds": [
+            "MED-C40-051"
+          ]
+        },
+        {
+          "element": "p901-e010",
+          "page": 901,
+          "source": "Besides PTU, amiodarone and propranolol, the listed drug class reducing peripheral conversion is ___. [Steroids are the fourth entry in the deiodinase-inhibitor list. (Book p901)]",
+          "questionIds": [
+            "MED-C40-052"
+          ]
+        },
+        {
+          "element": "p901-e011",
+          "page": 901,
+          "source": "The table gives free fractions of T3 and T4 as approximately ___ and ___ respectively. [T3 has the greater free fraction in the source comparison; the decimal places matter. (Book p901)]",
+          "questionIds": [
+            "MED-C40-053"
+          ]
+        },
+        {
+          "element": "p901-e012",
+          "page": 901,
+          "source": "Match the following T3/T4 properties — 1) T3 half-life 2) T4 half-life 3) Relative biological potency … A) About one day B) T3:T4 about 4:1 C) About one week [The table lists one day versus one week. Its row labeled 'Pathway' with values 4 and 1 is interpreted as relative potency, not four separate synthesis]",
+          "questionIds": [
+            "MED-C40-054"
+          ]
+        },
+        {
+          "element": "p901-e013",
+          "page": 901,
+          "source": "After several days of fasting during critical illness, a patient has low T3, high reverse T3, and initially normal T4 and TSH. Which pattern matches the source? [The early sick-euthyroid/low-T3 stage is T3 down, rT3 up and T4/TSH initially normal in the diagram. (Book p901)]",
+          "questionIds": [
+            "MED-C40-055"
+          ]
+        },
+        {
+          "element": "p901-e014",
+          "page": 901,
+          "source": "Assess thyroid testing in critical illness: I ICU admission excludes coexisting intrinsic thyroid disease. II Thyroid testing remains appropriate when there is a specific clinical suspicion. [Non-thyroidal illness complicates interpretation; it does not prohibit testing for a genuine thyroid indication. (Book p901)]",
+          "questionIds": [
+            "MED-C40-056"
+          ]
+        },
+        {
+          "element": "p901-e015",
+          "page": 901,
+          "source": "In the source's middle-stage schematic, TSH and T3 ___, whereas reverse T3 and T4 ___. [That is the printed middle-stage pattern. The T4 rise is not a required universal trajectory; real non-thyroidal illness can have normal or low T4 dep]",
+          "questionIds": [
+            "MED-C40-057"
+          ]
+        },
+        {
+          "element": "p901-e016",
+          "page": 901,
+          "source": "Match the following source illness stages — 1) Early 2) Middle 3) Late … A) All four hormone entries fall B) TSH/T3 low, rT3/T4 high in this diagram C) T3 low/rT3 high, T4 and TSH initially normal [The three-stage chart ends in rapid catabolism with lower T4, TSH, rT3 and T3. It is a teaching schematic, not a mandatory sequence in every patient. ]",
+          "questionIds": [
+            "MED-C40-058"
+          ]
+        },
+        {
+          "element": "p901-e017",
+          "page": 901,
+          "source": "A critically ill patient's late-stage chart shows all measured thyroid-related hormones falling. Which explanation is printed at that stage? [The final branch labels rapid catabolism with falls in T4, TSH, rT3 and T3; clinical interpretation must still consider medications and genuine thyroi]",
+          "questionIds": [
+            "MED-C40-059"
+          ]
+        }
+      ]
+    }
+  ]
+}
