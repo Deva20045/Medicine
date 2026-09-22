@@ -1,0 +1,811 @@
+{
+  "chapter": 7,
+  "reviewedAt": "2026-09-22",
+  "status": "reviewed-with-source-caveats",
+  "pdf": "uploads/Medicine_Vol3_Part1_pages_705-759.pdf",
+  "pdfSha256": "e2dfab80e25cd81302885cda7e07806117d24e15b03d73f2f6b00952ca2fdeea",
+  "pdfOffset": 692,
+  "pageRange": "740-747",
+  "contentSha256": "f1d167be608f6510cebfea2fc1437a23a11de5fbf23dd541a664f8f96d456929",
+  "method": "All eight printed pages read from the supplied Part 1 PDF (2x whole-page renders plus 6x crops of table rows, numbers and captions). Every stored answer index checked against the print: all 135 pre-existing keys were correct; one printed value was wrong in the bank (DI osmolality) and fixed; questions re-sequenced to the traversal; five uncovered captions/rows/boxes given items (140 total).",
+  "caveats": [
+    "p740: prints 'Imepenem + cilastatin' (standard: imipenem); taught as printed with the standard spelling in the stem.",
+    "p741: 'Sweet - Beta ketothiolase deficiency' is printed without the article; the abnormal-values table prints urine osmolality '< 200 mOsm/kg' for diabetes insipidus (the earlier bank said 300 - corrected).",
+    "p743: prints 'leucocyte' in the factors heading and 'leukocytes' in the table; both forms accepted in stems.",
+    "p746: prints 'Acute Interstitial Necrosis (AIN)' - the usual expansion is nephritis; taught as printed and flagged in MED-C7-116.",
+    "p745/p746: photograph content (cast images) is not tested beyond its printed captions."
+  ],
+  "pages": [
+    {
+      "page": 740,
+      "pdfPage": 48,
+      "traversal": "Chapter title 'URINE ANALYSIS'; 'Urine Collection' heading; Sample, Analysis, Preservation, Storage lines; 'Instructions: To Avoid' two bullets; 'Catheterised patients' two bullets; photo caption 'Collection of urine'; 'Physical Properties' / APPEARANCE table rows 1-7 top-to-bottom; jar caption 'Normal urine colour'; ODOUR table rows Pungent, Musty/mousy, Curry/maple syrup, Sweaty feet (two bullets). Timestamps/Active space excluded.",
+      "elements": [
+        {
+          "element": "p740-e001",
+          "page": 740,
+          "source": "Sample: 2nd urine sample of morning -> midstream technique.",
+          "questionIds": [
+            "MED-C7-001"
+          ]
+        },
+        {
+          "element": "p740-e002",
+          "page": 740,
+          "source": "Analysis: within 2-4 hours at room temperature (pH to be checked immediately).",
+          "questionIds": [
+            "MED-C7-002"
+          ]
+        },
+        {
+          "element": "p740-e003",
+          "page": 740,
+          "source": "Preservation: Formaldehyde, Glutaraldehyde.",
+          "questionIds": [
+            "MED-C7-003"
+          ]
+        },
+        {
+          "element": "p740-e004",
+          "page": 740,
+          "source": "Storage: 2-8 C upto 12 hours.",
+          "questionIds": [
+            "MED-C7-004"
+          ]
+        },
+        {
+          "element": "p740-e005",
+          "page": 740,
+          "source": "To avoid: strenuous physical activity 72 hrs prior -> false results due to rhabdomyolysis.",
+          "questionIds": [
+            "MED-C7-005"
+          ]
+        },
+        {
+          "element": "p740-e006",
+          "page": 740,
+          "source": "To avoid: collection during menstruation.",
+          "questionIds": [
+            "MED-C7-006"
+          ]
+        },
+        {
+          "element": "p740-e007",
+          "page": 740,
+          "source": "Catheterised patients: always collect fresh urine; do not collect from urobag.",
+          "questionIds": [
+            "MED-C7-007"
+          ]
+        },
+        {
+          "element": "p740-e008",
+          "page": 740,
+          "source": "Photo caption: Collection of urine.",
+          "questionIds": [
+            "MED-C7-008"
+          ]
+        },
+        {
+          "element": "p740-e009",
+          "page": 740,
+          "source": "APPEARANCE rows 1-2: Light yellow - Normal; Pale/white - up water intake.",
+          "questionIds": [
+            "MED-C7-009"
+          ]
+        },
+        {
+          "element": "p740-e010",
+          "page": 740,
+          "source": "Pink - Desferrioxamine, beetroot.",
+          "questionIds": [
+            "MED-C7-010"
+          ]
+        },
+        {
+          "element": "p740-e011",
+          "page": 740,
+          "source": "Darkening on long standing - Imepenem + cilastatin (printed spelling).",
+          "questionIds": [
+            "MED-C7-011"
+          ]
+        },
+        {
+          "element": "p740-e012",
+          "page": 740,
+          "source": "Green - Triamterene (ENaC blocker).",
+          "questionIds": [
+            "MED-C7-012"
+          ]
+        },
+        {
+          "element": "p740-e013",
+          "page": 740,
+          "source": "Brown - Nitrofurantoin.",
+          "questionIds": [
+            "MED-C7-013"
+          ]
+        },
+        {
+          "element": "p740-e014",
+          "page": 740,
+          "source": "Orange - Rifampicin, Entacapone (COMT inhibitor).",
+          "questionIds": [
+            "MED-C7-014",
+            "MED-C7-015"
+          ]
+        },
+        {
+          "element": "p740-e015",
+          "page": 740,
+          "source": "Appearance table consolidation (match / odd-one-out after all rows).",
+          "questionIds": [
+            "MED-C7-016",
+            "MED-C7-017"
+          ]
+        },
+        {
+          "element": "p740-e016",
+          "page": 740,
+          "source": "Photo caption: Normal urine colour.",
+          "questionIds": [
+            "MED-C7-018"
+          ]
+        },
+        {
+          "element": "p740-e017",
+          "page": 740,
+          "source": "ODOUR: Pungent - infection (unless proven otherwise) d/t ammonia produced by bacteria.",
+          "questionIds": [
+            "MED-C7-019"
+          ]
+        },
+        {
+          "element": "p740-e018",
+          "page": 740,
+          "source": "Musty/mousy - Phenylketonuria; Curry/maple syrup - MSUD; Sweaty feet - isovaleric acidemia, glutaric aciduria type II.",
+          "questionIds": [
+            "MED-C7-020",
+            "MED-C7-021"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 741,
+      "pdfPage": 49,
+      "traversal": "Odour table continued: Cabbage-like / Rancid butter (one condition), Cat urine, Acid smell, Fish urine, Sulfurous, Sweet, Swimming pool; OTHER PROPERTIES table rows pH, specific gravity, osmolality (urine then blood cell); CLINICAL SIGNIFICANCE / Acidification diagram (alpha-intercalated cell, H+ ATPase, H+/K+ ATPase, NH3->NH4+, HPO4->H2PO4-); Concentration three bullets; Abnormal values table rows 1-4.",
+      "elements": [
+        {
+          "element": "p741-e001",
+          "page": 741,
+          "source": "Cabbage-like; Rancid butter - Tyrosinemia type I (single merged condition).",
+          "questionIds": [
+            "MED-C7-022"
+          ]
+        },
+        {
+          "element": "p741-e002",
+          "page": 741,
+          "source": "Cat urine - multiple carboxylase deficiency (MCD).",
+          "questionIds": [
+            "MED-C7-023"
+          ]
+        },
+        {
+          "element": "p741-e003",
+          "page": 741,
+          "source": "Acid smell - methyl malonic acidemia (MMA).",
+          "questionIds": [
+            "MED-C7-024"
+          ]
+        },
+        {
+          "element": "p741-e004",
+          "page": 741,
+          "source": "Fish urine - Trimethylaminuria.",
+          "questionIds": [
+            "MED-C7-025"
+          ]
+        },
+        {
+          "element": "p741-e005",
+          "page": 741,
+          "source": "Sulfurous - Cystinuria; Sweet - Beta ketothiolase deficiency.",
+          "questionIds": [
+            "MED-C7-026",
+            "MED-C7-027"
+          ]
+        },
+        {
+          "element": "p741-e006",
+          "page": 741,
+          "source": "Swimming pool - Hawkinsinuria (table consolidation).",
+          "questionIds": [
+            "MED-C7-028"
+          ]
+        },
+        {
+          "element": "p741-e007",
+          "page": 741,
+          "source": "pH: urine 4-4.5 (acidic); blood 7.35-7.40.",
+          "questionIds": [
+            "MED-C7-029"
+          ]
+        },
+        {
+          "element": "p741-e008",
+          "page": 741,
+          "source": "Specific gravity: urine 1.020-1.040; blood 1.010.",
+          "questionIds": [
+            "MED-C7-030"
+          ]
+        },
+        {
+          "element": "p741-e009",
+          "page": 741,
+          "source": "Osmolality (mOsm/kg): urine 800-900; blood 285-290.",
+          "questionIds": [
+            "MED-C7-031",
+            "MED-C7-032"
+          ]
+        },
+        {
+          "element": "p741-e010",
+          "page": 741,
+          "source": "Acidification: alpha-intercalated cells of cortical collecting duct (CCD); luminal H+ ATPase; H+/K+ ATPase.",
+          "questionIds": [
+            "MED-C7-033",
+            "MED-C7-034"
+          ]
+        },
+        {
+          "element": "p741-e011",
+          "page": 741,
+          "source": "NH3 + H+ -> NH4+: non titratable, major acid.",
+          "questionIds": [
+            "MED-C7-035"
+          ]
+        },
+        {
+          "element": "p741-e012",
+          "page": 741,
+          "source": "HPO4 2- + H+ -> H2PO4-: titratable acid.",
+          "questionIds": [
+            "MED-C7-036"
+          ]
+        },
+        {
+          "element": "p741-e013",
+          "page": 741,
+          "source": "Concentration: ADH from posterior pituitary -> free water reabsorption; medullary interstitium up osmolality d/t urea; vasa recta.",
+          "questionIds": [
+            "MED-C7-037",
+            "MED-C7-038"
+          ]
+        },
+        {
+          "element": "p741-e014",
+          "page": 741,
+          "source": "Urine pH > 5.5 for 3 days + normal RFT - Type-1 RTA.",
+          "questionIds": [
+            "MED-C7-039"
+          ]
+        },
+        {
+          "element": "p741-e015",
+          "page": 741,
+          "source": "Urine specific gravity < 1.005; urine osmolality < 200 mOsm/kg - Diabetes insipidus (up dilute urine).",
+          "questionIds": [
+            "MED-C7-040",
+            "MED-C7-041"
+          ]
+        },
+        {
+          "element": "p741-e016",
+          "page": 741,
+          "source": "Isosthenuria (urinary parameters = blood parameters) - ATN; CTID.",
+          "questionIds": [
+            "MED-C7-042"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 742,
+      "pdfPage": 50,
+      "traversal": "'High Colored Urine' heading; Presentation line; photo 'High coloured urine'; Causes: urological 90% (carcinoma bladder), nephrological 9%, hematological 1% (intravascular hemolysis); Approach: 1. Dipstick -> Positive -> Blood in urine / Negative -> porphyria, beetroot; 2. Centrifugation 1600 rpm 5 min; Clear supernatant -> RBCs settle -> glomerular criteria -> 3. Biopsy -> IgA mechanism; urological -> USG/CT; High coloured supernatant -> 4. undisturbed 3-6 h -> fades (myoglobin) / persists (hemoglobin).",
+      "elements": [
+        {
+          "element": "p742-e001",
+          "page": 742,
+          "source": "Presentation: hematuria - red, pink, tea or cola coloured urine.",
+          "questionIds": [
+            "MED-C7-043",
+            "MED-C7-044"
+          ]
+        },
+        {
+          "element": "p742-e002",
+          "page": 742,
+          "source": "Photo caption: High coloured urine.",
+          "questionIds": [
+            "MED-C7-045"
+          ]
+        },
+        {
+          "element": "p742-e003",
+          "page": 742,
+          "source": "Causes: Urological 90% (carcinoma bladder); Nephrological 9%; Hematological 1% (intravascular hemolysis).",
+          "questionIds": [
+            "MED-C7-046",
+            "MED-C7-047",
+            "MED-C7-048",
+            "MED-C7-049"
+          ]
+        },
+        {
+          "element": "p742-e004",
+          "page": 742,
+          "source": "1. Dipstick test -> Positive -> Blood in urine.",
+          "questionIds": [
+            "MED-C7-050"
+          ]
+        },
+        {
+          "element": "p742-e005",
+          "page": 742,
+          "source": "Negative -> Porphyria; up beetroot intake.",
+          "questionIds": [
+            "MED-C7-051"
+          ]
+        },
+        {
+          "element": "p742-e006",
+          "page": 742,
+          "source": "2. Centrifugation: 1600 rpm x 5 min.",
+          "questionIds": [
+            "MED-C7-052"
+          ]
+        },
+        {
+          "element": "p742-e007",
+          "page": 742,
+          "source": "Clear supernatant -> RBCs settle down.",
+          "questionIds": [
+            "MED-C7-053"
+          ]
+        },
+        {
+          "element": "p742-e008",
+          "page": 742,
+          "source": "Glomerular hematuria: >=40% dysmorphic RBCs / >=5% acanthocytes / single RBC cast with proteinuria.",
+          "questionIds": [
+            "MED-C7-054",
+            "MED-C7-055",
+            "MED-C7-056"
+          ]
+        },
+        {
+          "element": "p742-e009",
+          "page": 742,
+          "source": "3. Biopsy -> mesangial disease (IgA nephropathy): mesangial proliferation + matrix expansion -> capillary rupture.",
+          "questionIds": [
+            "MED-C7-057",
+            "MED-C7-058"
+          ]
+        },
+        {
+          "element": "p742-e010",
+          "page": 742,
+          "source": "Urological -> radiological investigation (USG abdomen, CT).",
+          "questionIds": [
+            "MED-C7-059",
+            "MED-C7-060"
+          ]
+        },
+        {
+          "element": "p742-e011",
+          "page": 742,
+          "source": "High coloured supernatant -> 4. sample undisturbed 3-6 h.",
+          "questionIds": [
+            "MED-C7-061"
+          ]
+        },
+        {
+          "element": "p742-e012",
+          "page": 742,
+          "source": "Colour fades -> myoglobin (short half-life); persists -> hemoglobin (long half-life).",
+          "questionIds": [
+            "MED-C7-062",
+            "MED-C7-063"
+          ]
+        },
+        {
+          "element": "p742-e013",
+          "page": 742,
+          "source": "Numbering 1-4 of the approach (page consolidation).",
+          "questionIds": [
+            "MED-C7-064"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 743,
+      "pdfPage": 51,
+      "traversal": "'Types of RBC' figure: Urological A crenated, isomorphic; Nephrological B dysmorphic, C acanthocytes (Mickey mouse RBCs); dipstick parameter table rows Leukocytes, Nitrites, Urobilinogen, Protein, pH, Blood, S.G, Ketones, Conj. bilirubin, Glucose; 'Factors affecting leucocyte urine dipstick test' seven bullets.",
+      "elements": [
+        {
+          "element": "p743-e001",
+          "page": 743,
+          "source": "Urological: crenated, isomorphic RBCs (A).",
+          "questionIds": [
+            "MED-C7-065"
+          ]
+        },
+        {
+          "element": "p743-e002",
+          "page": 743,
+          "source": "Nephrological: dysmorphic (B); acanthocytes - Mickey mouse RBCs (C).",
+          "questionIds": [
+            "MED-C7-066",
+            "MED-C7-067",
+            "MED-C7-068"
+          ]
+        },
+        {
+          "element": "p743-e003",
+          "page": 743,
+          "source": "Leukocytes / Nitrites - UTI (high specificity, poor sensitivity).",
+          "questionIds": [
+            "MED-C7-069",
+            "MED-C7-070"
+          ]
+        },
+        {
+          "element": "p743-e004",
+          "page": 743,
+          "source": "Urobilinogen - extravascular hemolysis.",
+          "questionIds": [
+            "MED-C7-071"
+          ]
+        },
+        {
+          "element": "p743-e005",
+          "page": 743,
+          "source": "Protein, pH, Blood, S.G, Ketones (SGLT2 inhibitors - euglycemic ketosis), Conj. bilirubin, Glucose (euglycemic glycosuria - proximal RTA).",
+          "questionIds": [
+            "MED-C7-072",
+            "MED-C7-073",
+            "MED-C7-074",
+            "MED-C7-075"
+          ]
+        },
+        {
+          "element": "p743-e006",
+          "page": 743,
+          "source": "Factors affecting leucocyte dipstick: seven bullets (cephalothin, tetracycline, cephalexin, tobramycin, glycosuria, proteinuria, concentrated urine).",
+          "questionIds": [
+            "MED-C7-076",
+            "MED-C7-077",
+            "MED-C7-078"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 744,
+      "pdfPage": 52,
+      "traversal": "'Proteinuria' heading; Urine protein / Uromodulin four bullets; Proteinuria levels table rows <150, 150-500, >500, >300 pregnancy; Albumin levels: injury chain; albumin table <30, 30-300, >300; moderately elevated albumin three bullets; Tests for proteinuria 1-4 with dipstick sub-bullets.",
+      "elements": [
+        {
+          "element": "p744-e001",
+          "page": 744,
+          "source": "Uromodulin/Tamm Horsfall: 70-80 mg/day; most abundant component of normal urine; forms matrix of casts.",
+          "questionIds": [
+            "MED-C7-079",
+            "MED-C7-080"
+          ]
+        },
+        {
+          "element": "p744-e002",
+          "page": 744,
+          "source": "Produced by thick ascending limb of loop of Henle.",
+          "questionIds": [
+            "MED-C7-081"
+          ]
+        },
+        {
+          "element": "p744-e003",
+          "page": 744,
+          "source": "<150 normal; 150-500 functional proteinuria (stress, anxiety, menses, protein supplements).",
+          "questionIds": [
+            "MED-C7-082",
+            "MED-C7-083",
+            "MED-C7-084"
+          ]
+        },
+        {
+          "element": "p744-e004",
+          "page": 744,
+          "source": ">500 significant proteinuria; >300 significant proteinuria in pregnancy.",
+          "questionIds": [
+            "MED-C7-085",
+            "MED-C7-086"
+          ]
+        },
+        {
+          "element": "p744-e005",
+          "page": 744,
+          "source": "Albumin -> tubular injury -> inflammation -> TGF-beta -> fibrosis.",
+          "questionIds": [
+            "MED-C7-087",
+            "MED-C7-088"
+          ]
+        },
+        {
+          "element": "p744-e006",
+          "page": 744,
+          "source": "Urinary albumin <30 normal; 30-300 microalbuminuria; >300 albuminuria.",
+          "questionIds": [
+            "MED-C7-089",
+            "MED-C7-090"
+          ]
+        },
+        {
+          "element": "p744-e007",
+          "page": 744,
+          "source": "Moderately elevated albumin: marker of vascular integrity; up thrombosis risk (CVA, CAD) d/t endothelial injury; requires further evaluation.",
+          "questionIds": [
+            "MED-C7-091"
+          ]
+        },
+        {
+          "element": "p744-e008",
+          "page": 744,
+          "source": "Tests: 1. 24 hour urine protein; 2. spot PCR; 3. spot ACR.",
+          "questionIds": [
+            "MED-C7-092",
+            "MED-C7-093"
+          ]
+        },
+        {
+          "element": "p744-e009",
+          "page": 744,
+          "source": "4. Urine dipstick: qualitative; positive only ~800 mg; detects only albumin; supplement with PCR/ACR/24 h protein.",
+          "questionIds": [
+            "MED-C7-094",
+            "MED-C7-095",
+            "MED-C7-096"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 745,
+      "pdfPage": 53,
+      "traversal": "'Microscopic Examination'; cell size line; photos: phase contrast monomorphic RBCs with 'Large white cell' arrow, tubular epithelial cell with nucleus, oval fat bodies (Maltese cross inset), granular cytoplasm & lobulated nucleus; Polarizing microscope list (blood: babesiosis; kidney: Fabry's, ADPKD, acute/chronic interstitial nephritis, prerenal azotemia); CASTS IN URINE formation DCT; table hyaline / coarse granular / fine granular.",
+      "elements": [
+        {
+          "element": "p745-e001",
+          "page": 745,
+          "source": "Cell size: RBC < WBC < epithelial cell.",
+          "questionIds": [
+            "MED-C7-097"
+          ]
+        },
+        {
+          "element": "p745-e002",
+          "page": 745,
+          "source": "Photo: 'Large white cell' arrow; caption 'Phase contrast microscopy with monomorphic red cells'.",
+          "questionIds": [
+            "MED-C7-098",
+            "MED-C7-099",
+            "MED-C7-100"
+          ]
+        },
+        {
+          "element": "p745-e003",
+          "page": 745,
+          "source": "Captions: 'Tubular epithelial cell with nucleus'; 'Granular cytoplasm & lobulated nucleus'.",
+          "questionIds": [
+            "MED-C7-101"
+          ]
+        },
+        {
+          "element": "p745-e004",
+          "page": 745,
+          "source": "Oval fat bodies -> Polarizing microscope: maltese cross appearance; in blood: babesiosis.",
+          "questionIds": [
+            "MED-C7-102",
+            "MED-C7-103"
+          ]
+        },
+        {
+          "element": "p745-e005",
+          "page": 745,
+          "source": "In kidney: Fabry's disease, ADPKD, acute/chronic interstitial nephritis, prerenal azotemia.",
+          "questionIds": [
+            "MED-C7-104",
+            "MED-C7-105",
+            "MED-C7-106"
+          ]
+        },
+        {
+          "element": "p745-e006",
+          "page": 745,
+          "source": "CASTS IN URINE - Formation: distal convoluted tubule (DCT).",
+          "questionIds": [
+            "MED-C7-107"
+          ]
+        },
+        {
+          "element": "p745-e007",
+          "page": 745,
+          "source": "Hyaline cast - normal; kidney disease.",
+          "questionIds": [
+            "MED-C7-108"
+          ]
+        },
+        {
+          "element": "p745-e008",
+          "page": 745,
+          "source": "Coarse granular cast (label only); fine granular cast - kidney disease.",
+          "questionIds": [
+            "MED-C7-109",
+            "MED-C7-110",
+            "MED-C7-111"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 746,
+      "pdfPage": 54,
+      "traversal": "Cast table continued row by row: pigment fine granular, RBC, WBC, tubular epithelial (muddy brown), broad/waxy, fatty, eosinophil, fractured (on biopsy).",
+      "elements": [
+        {
+          "element": "p746-e001",
+          "page": 746,
+          "source": "Pigment fine granular cast - pigment nephropathy: hemolysis; rhabdomyolysis.",
+          "questionIds": [
+            "MED-C7-112",
+            "MED-C7-113"
+          ]
+        },
+        {
+          "element": "p746-e002",
+          "page": 746,
+          "source": "RBC cast - glomerular hematuria.",
+          "questionIds": [
+            "MED-C7-114"
+          ]
+        },
+        {
+          "element": "p746-e003",
+          "page": 746,
+          "source": "WBC cast - acute pyelonephritis; post streptococcal GN; ATN/Acute Interstitial Necrosis (AIN) as printed.",
+          "questionIds": [
+            "MED-C7-115",
+            "MED-C7-116"
+          ]
+        },
+        {
+          "element": "p746-e004",
+          "page": 746,
+          "source": "Tubular epithelial cast (muddy brown) - ATN/AIN (most specific).",
+          "questionIds": [
+            "MED-C7-117",
+            "MED-C7-118",
+            "MED-C7-119",
+            "MED-C7-120"
+          ]
+        },
+        {
+          "element": "p746-e005",
+          "page": 746,
+          "source": "Broad cast, waxy cast - chronic kidney disease.",
+          "questionIds": [
+            "MED-C7-121",
+            "MED-C7-122"
+          ]
+        },
+        {
+          "element": "p746-e006",
+          "page": 746,
+          "source": "Fatty cast - lipiduria (nephrotic syndrome); Fabry's.",
+          "questionIds": [
+            "MED-C7-123",
+            "MED-C7-124"
+          ]
+        },
+        {
+          "element": "p746-e007",
+          "page": 746,
+          "source": "Eosinophil cast - ATN/AIN.",
+          "questionIds": [
+            "MED-C7-125"
+          ]
+        },
+        {
+          "element": "p746-e008",
+          "page": 746,
+          "source": "Fractured cast (on biopsy) - myeloma.",
+          "questionIds": [
+            "MED-C7-126",
+            "MED-C7-127"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 747,
+      "pdfPage": 55,
+      "traversal": "'CRYSTALS IN URINE' figure panels A-G with captions: A uric acid rhomboid; B calcium oxalate dihydrate bipyramidal/envelope; C calcium oxalate monohydrate dumb bell; D calcium phosphate (alkaline urine) star; E struvite (MgNH4PO4) coffin lid; F cholesterol crystal; amoxicillin broom brush; G hexagonal cystine.",
+      "elements": [
+        {
+          "element": "p747-e001",
+          "page": 747,
+          "source": "A: Uric acid crystals - rhomboid.",
+          "questionIds": [
+            "MED-C7-128",
+            "MED-C7-129"
+          ]
+        },
+        {
+          "element": "p747-e002",
+          "page": 747,
+          "source": "B: Calcium oxalate dihydrate - bipyramidal/envelope shaped; C: monohydrate - dumb bell shaped.",
+          "questionIds": [
+            "MED-C7-130",
+            "MED-C7-131"
+          ]
+        },
+        {
+          "element": "p747-e003",
+          "page": 747,
+          "source": "D: Calcium phosphate (in alkaline urine) - star shaped.",
+          "questionIds": [
+            "MED-C7-132"
+          ]
+        },
+        {
+          "element": "p747-e004",
+          "page": 747,
+          "source": "E: Struvite (MgNH4PO4) - coffin lid appearance.",
+          "questionIds": [
+            "MED-C7-133",
+            "MED-C7-134"
+          ]
+        },
+        {
+          "element": "p747-e005",
+          "page": 747,
+          "source": "F: Cholesterol crystal (no shape descriptor).",
+          "questionIds": [
+            "MED-C7-135",
+            "MED-C7-136"
+          ]
+        },
+        {
+          "element": "p747-e006",
+          "page": 747,
+          "source": "Amoxicillin crystal - broom brush appearance.",
+          "questionIds": [
+            "MED-C7-137"
+          ]
+        },
+        {
+          "element": "p747-e007",
+          "page": 747,
+          "source": "G: Hexagonal cystine crystal (page consolidation after it).",
+          "questionIds": [
+            "MED-C7-138",
+            "MED-C7-139",
+            "MED-C7-140"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -7,9 +7,10 @@ Date: **2026-09-20**
 > original bank. The Ch 1 backward jump is repaired. PR #18 separately replaced
 > Ch 52–56 with 338 questions, so the Ch 54 IDs below must not be applied to that
 > replacement. Its strict source review remains pending. See `SOURCE_REVIEW.md`
-> and the `REAUDIT_CH*_SOURCE_ORDER.md` reports for current scope; Ch 1–6 are
+> and the `REAUDIT_CH*_SOURCE_ORDER.md` reports for current scope; Ch 1–7 are
 > reviewed (Ch 6 on 2026-09-22 found 35 wrong answer keys — see
-> `REAUDIT_CH6_SOURCE_ORDER.md`); next is Ch 7, p740.
+> `REAUDIT_CH6_SOURCE_ORDER.md`; Ch 7 found 0 wrong keys, 1 wrong value — see
+> `REAUDIT_CH7_SOURCE_ORDER.md`); next is Ch 8, p748.
 
 ## Verdict: NOT COMPLIANT
 
